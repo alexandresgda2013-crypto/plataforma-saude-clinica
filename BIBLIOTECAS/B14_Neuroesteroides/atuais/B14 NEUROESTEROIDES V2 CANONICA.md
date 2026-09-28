@@ -1,0 +1,1132 @@
+# B14 NEUROESTEROIDES V2 CANÔNICA
+## Biblioteca de Conhecimento Canônico (Mecanismo B14 — Ansiedade e Depressão)
+
+**ID canônico:** mecanismo_B14_neuroesteroides_hormonios_neuroativos · **Prompt v4.2** · Corte: 2026-09-07; rodada [AT 2026-09-09], corte de literatura E-utilities 2026-09-09/10.
+**artefato_rotulo:** CANÔNICA v2 · G1 (255/255 PMIDs do Briefing originais validados por eutils; 240 âncoras
+mecanísticas; 15 do bloco N = ruído de intervenção registrado à parte) + G2 + G3 · **Rodada [AT 2026-09-09]**:
+insumo externo (GPM B14 + RODADA0 + briefings + matriz ChatGPT) auditado ref a ref — 102 itens novos triados:
+50 ENTRA · 44 BAIXO (interface/conduta/redundância) · 7 EXC (malha) · 1 já vigente; total 290 referências.
+P-6 (2ª verificação cega) permanece pendente para a leva [AT].
+
+---
+
+## BLOCO_00 — IDENTIDADE E ASSINATURA SEMÂNTICA
+
+**Frase-síntese.** Os **neuroesteroides** são esteroides sintetizados **no próprio cérebro** (de
+novo a partir do colesterol, via TSPO/StAR → CYP11A1 → pregnenolona → progesterona → 5α-DHP por
+SRD5A → **alopregnanolona/3α,5α-THP** por 3α-HSD/AKR1C) que agem **rápida e não-genomicamente**
+como moduladores alostéricos de receptores ionotrópicos. Os **3α-reduzidos** (alopregnanolona,
+pregnanolona, THDOC) são **potencializadores do GABA-A** — sobretudo dos receptores
+extrassinápticos δ/α4 que geram a inibição **tônica** — e funcionam como um **"freio" inibitório
+endógeno** ao estresse, induzido pelo próprio estresse (Purdy 1991)[ML]; as formas **sulfatadas**
+(pregnenolona-sulfato, DHEA-sulfato) têm sinal **oposto** — antagonizam o GABA-A e potencializam
+NMDA/sigma-1 (Legesse 2023)[ML]. O gatilho da vulnerabilidade **não é o nível absoluto**, e sim a
+**flutuação/retirada** com plasticidade de subunidades (α4/δ) nas transições hormonais
+(Maguire 2008)[OB]: na **PMDD/TDPM** os níveis são normais e o que difere é a **sensibilidade** à
+flutuação; na **perimenopausa** manda a **variabilidade do estradiol**, não o nível baixo. Os
+fármacos análogos (brexanolone, zuranolona) entram como **prova experimental de alvo** na janela
+pós-parto — não como prescrição nem como prova de uma "deficiência" basal.
+
+**Teses-centrais.**
+1. **Neuroesteroide ≠ hormônio gonadal ≠ fármaco** — síntese cerebral, ação rápida de membrana
+   (Baulieu 1990)[OB]; esteroides gonadais nucleares (ER/PR/AR) e análogos são distintos.
+2. **Duas famílias, dois sinais opostos** — 3α-reduzidos PAMs inibitórios vs. sulfatados
+   antagonistas/ excitatórios; não há "neuroesteroide = calma" (Rupprecht 2003)[OB].
+3. **O gatilho é a flutuação/retirada, não o nível** — plasticidade α4/δ na gestação/retirada e na
+   fase lútea; a subida crônica é tolerada, a queda desestabiliza (Maguire 2008)[OB].
+4. **PMDD = sensibilidade anômala com nível NORMAL** — repor progesterona/alopreg pode piorar; a
+   direção terapêutica pode ser o antagonista, não o PAM.
+5. **Perimenopausa = variabilidade do estradiol**, não deficiência estática (Gordon 2015)[OB].
+6. **Periférico ≠ central; TSPO-PET ≠ síntese direta** — o esteroide plasmático não mede o tônus
+   GABA-A sináptico; o PET de TSPO mede sobretudo microglia e é confundido por rs6971
+   (Rupprecht 2022)[OB].
+7. **Não é "hormônio de mulher"** — fenótipos masculinos robustos: 5α-redutase tipo 2 pré-frontal
+   na resposta ao estresse de macho (Cadeddu 2025)[ML], finasterida, DHEA/testosterona.
+8. **Engajar o alvo ≠ curar; nem toda farmacologia é "aumentar"** — análogos PAMs robustos na DPP,
+   mistos/não aprovados na TDM geral (Clayton 2023)[EC]; na hipersensibilidade exploram-se
+   antagonistas; um PAM (PRAX-114) falhou.
+
+**Palavras-chave:** neuroesteroide, alopregnanolona/3α,5α-THP, pregnanolona, THDOC,
+pregnenolona(-sulfato/PS), DHEA(-S), androstanediol, GABA-A, subunidades δ/α4/α6/γ2, inibição
+tônica vs. fásica, PAM alostérico, sítio α/β vs. poro, cryo-EM/cristalografia, TSPO/StAR,
+CYP11A1, SRD5A1/SRD5A2, AKR1C/3α-HSD, aromatase, plasticidade de subunidades, retirada de
+progesterona, HPA/CRH, BLA/theta, BDNF, TLR4/citocinas, CB1-SSi, estradiol/ER, testosterona/AR,
+janelas reprodutivas (pós-parto, PMDD, perimenopausa, puberdade), sexo como variável biológica.
+
+---
+
+### 0.1 (PROFUNDIDADE) — O CÉREBRO FABRICA SEUS PRÓPRIOS ESTEROIDES, E ELES AGEM EM SEGUNDOS
+
+A descoberta fundadora da B14 é dupla e frequentemente confundida. Primeiro, o cérebro não é
+apenas um alvo de hormônios gonadais: ele **sintetiza esteroides de novo**, a partir do
+colesterol transportado para dentro da mitocôndria pelo complexo TSPO/StAR, com a clivagem por
+CYP11A1 gerando pregnenolona e toda a cascata descendente (progesterona, 5α-DHP e
+alopregnanolona) ocorrendo em neurônios e glia, independentemente das gônadas e das adrenais. A
+essas moléculas deu-se o nome de **neuroesteroides** (Baulieu 1990)[OB]. Segundo, ao contrário
+dos hormônios esteroides clássicos — que agem devagar, por receptores nucleares que alteram a
+transcrição — os neuroesteroides agem **rápido**, em segundos a minutos, como **moduladores
+alostéricos de receptores de membrana**. A descoberta experimental de que metabólitos de
+esteroides funcionam como "moduladores tipo-barbiturato" do receptor GABA (Majewska
+1986)[ML] fundou o campo: o alopregnanolona potencializa a corrente de cloreto do GABA-A em
+sítios distintos do sítio benzodiazepínico, em concentrações nanomolares. Essa arquitetura —
+síntese local, ação rápida, receptor ionotrópico — é o que separa o neuroesteroide do hormônio
+gonadal nuclear e do fármaco análogo. As revisões-teto (Belelli 2005)[OB] consolidaram o
+alopregnanolona como o principal "neuroesteroide GABAérgico", e a fronteira 2023–2026
+(Maguire 2024)[OB] ampliou o quadro para incluir a biologia estrutural, as ações imune/tróficas
+e a prova clínica de conceito. A B14 cobre a fisiologia endógena dessa maquinaria; a
+farmacologia exógena (brexanolone, zuranolona, etifoxina, reposição hormonal) entra apenas
+como sinal experimental de viabilidade de alvo.
+
+*BAULIEU_1990[OB] | BAULIEU_2001[OB] | MAJEWSKA_1986[ML] | BELELLI_2005[OB] | MAGUIRE_2024[OB] | RUPPRECHT_2003[OB]*
+
+### 0.2 (DETALHE) — AS OITO REGRAS QUE ESTRUTURAM O MECANISMO
+
+O GPM B14 organizou oito teses que resumem a bibliografia e que a canônica preserva. Primeira,
+**neuroesteroide não é hormônio gonadal nem fármaco**: o sistema é endógeno e cerebral. Segunda,
+há **duas famílias de sinal oposto** (3α-reduzidos inibitórios vs. sulfatados excitatórios).
+Terceira, o gatilho clínico é a **retirada/flutuação** com plasticidade de subunidades, não o
+nível estático — o que explica a bifasicidade (subida sedativa/tolerada, queda desestabilizante).
+Quarta, **PMDD é sensibilidade, não deficiência** (os níveis são normais; repor pode piorar).
+Quinta, **perimenopausa é variabilidade do estradiol**, não nível baixo. Sexta, o **marcador
+periférico não lê o cérebro** e o PET de TSPO não mede síntese diretamente. Sétima, há
+**fenótipos masculinos** que proíbem o nivelamento para "hormônio de mulher". Oitava,
+**engajar o alvo não é curar** — os análogos PAMs validam o GABA-A extrassináptico na janela
+pós-parto, mas a eficácia na TDM geral é modesta/mista e a direção na hipersensibilidade pode
+ser o antagonista. Essas oito teses são o que impede a B14 de colapsar na cultura do
+"repor progesterona acalma" e o que mantém a biblioteca como descrição do mecanismo endógeno.
+
+*BELELLI_2005[OB] | MAGUIRE_2008[OB] | LEGESSE_2023[ML] | GORDON_2015[OB] | RUPPRECHT_2022[OB] | CADEDDU_2025[ML] | CLAYTON_2023[EC]*
+
+---
+
+## BLOCO_01 — FUNDAMENTOS (DEZ VIAS)
+
+### 1.1 Esteroidogênese neural de novo: a via canônica colesterol → alopregnanolona
+O colesterol é entregue à membrana mitocondrial interna pelo **TSPO (18 kDa)** em complexo com
+**StAR** e o transducossomo (VDAC1/TSPO/StAR); a **CYP11A1 (P450scc)** cliva a cadeia lateral
+gerando **pregnenolona**; no retículo, a **3β-HSD** gera **progesterona**; a **SRD5A
+(5α-redutase tipos 1/2)** reduz a progesterona a **5α-DHP**; e a **3α-HSD (AKR1C4/AKR1C2)**
+converte 5α-DHP em **alopregnanolona (3α,5α-THP)**. Uma via paralela, a partir da
+desoxicorticosterona, gera o **THDOC**. O cérebro expressa todo o maquinário e produz
+neuroesteroides independentemente das gônadas/adrenais (Baulieu 2001)[OB]; as etapas
+moleculares da esteroidogênese (incluindo StAR) foram detalhadas em revisões de via
+(Liang 2018)[OB] e na síntese sobre alvos neuroesteroidogênicos (Porcu 2016)[OB]. O bloqueio de
+etapas (TSPO, SRD5A/finasterida) remove o freio GABAérgico e altera o fenótipo emocional. A
+síntese é induzida em **minutos** pelo estresse e modulada em **horas/dias** pelos ciclos
+hormonais; a ação no receptor é **segundos–minutos**.
+
+*BAULIEU_2001[OB] | LIANG_2018[OB] | PORCU_2016[OB] | TSUTSUI_2000[OB] | ROBEL_1995[OB]*
+
+### 1.2 Ação rápida não-genômica: os 3α-reduzidos como PAMs do GABA-A (o freio inibitório)
+Alopregnanolona, pregnanolona e THDOC ligam-se a **sítios neuroesteroides distintos do
+benzodiazepínico** no GABA-A e aumentam a frequência/duração da abertura do canal de cloreto,
+potencializando a inibição **fásica** (sináptica) e sobretudo a **tônica** (extrassináptica,
+receptores δ), em concentrações nanomolares (Rupprecht 2003)[OB]. Ao contrário dos
+benzodiazepínicos, os neuroesteroides **não dependem da subunidade γ2** e atingem os receptores
+δ extrassinápticos; a deleção da subunidade δ impede a modulação por neuroesteroide da corrente
+inibitória (Vicini 2002)[ML]. Esse é o mecanismo-base ansiolítico/sedativo/anticonvulsivante e o
+candidato a antidepressivo; a perda da modulação (por queda da síntese ou plasticidade de
+subunidades na retirada) desinibe o circuito do medo/estresse. A tradução clínica vem dos
+fármacos PAMs na depressão pós-parto (Via 10).
+
+*RUPPRECHT_2003[OB] | VICINI_2002[ML] | BELELLI_2020[OB] | GUNN_2015[OB]*
+
+### 1.3 Sinal oposto: sulfatados (PS, DHEA-S) antagonizam GABA-A e agonizam NMDA/sigma-1
+A **pregnenolona-sulfato (PS)** e o **DHEA-sulfato (DHEA-S)** modulam em direção oposta: inibem
+o GABA-A (bloqueio dentro do poro) e **potenciam NMDA e sigma-1**, produzindo efeitos
+excitatórios, pró-cognitivos e, em contexto, ansiogênicos (Shen 2000)[ML]. A
+sulfatação/des-sulfatação funciona como um "interruptor" entre o sinal inibitório e o
+excitatório; a modulação pré/pós-sináptica da PS no hipocampo foi caracterizada
+(Seljeset 2023)[ML], assim como os sítios de ação sobre o NMDA (Chisari 2019)[EC]. Essa via
+corrige a narrativa unidirecional: em mulheres com transtorno misto ansiedade-depressão, a
+**pregnenolona-sulfato está elevada** no soro (Bicikova 2000)[EC], sugerindo desequilíbrio de
+**composição**, não deficiência global — um achado humano pequeno/associativo, mas conceitualmente
+central.
+
+*SHEN_2000[ML] | SELJESET_2023[ML] | CHISARI_2019[EC] | BICIKOVA_2000[EC] | SELJESET_2015[OB]*
+
+### 1.4 Plasticidade de subunidades nas transições hormonais: o mecanismo da bifasicidade
+Durante a **gestação**, progesterona/alopregnanolona elevadas induzem adaptação do GABA-A; na
+**retirada pós-parto** (e na queda da fase lútea), a expressão de subunidades muda — em
+particular aumento de **α4** e **δ** extrassinápticos — alterando a sensibilidade aos
+neuroesteroides e a inibição tônica. Essa **plasticidade**, e não o nível absoluto do
+esteroide, gera o fenótipo de ansiedade/irritabilidade/depressão (Maguire 2008)[OB]; a revisão
+da plasticidade GABAérgica induzida por estresse (Maguire 2014)[OB] e o papel do alopregnanolona
+na plasticidade durante exposição/retirada prolongadas (Follesa 2001)[OB] ancoram o mecanismo.
+A retirada de estrogênio pós-parto deprime a inibição GABAérgica/LTD na amígdala
+(Yang 2017)[ML], e a área pré-óptica medial medeia comportamentos depressivos por retirada
+hormonal via GABA (Tao 2023)[ML]. É o mecanismo-candidato da bifasicidade: a subida crônica é
+tolerada/sedativa, a queda é desestabilizante, e a vulnerabilidade é da **transição**.
+
+*MAGUIRE_2008[OB] | MAGUIRE_2014[OB] | FOLLESA_2001[OB] | YANG_2017[ML] | TAO_2023[ML]*
+
+### 1.5 Indução por estresse e freio do HPA: o neuroesteroide como retrocontrole homeostático
+O **estresse agudo** eleva rapidamente a síntese cerebral de alopregnanolona/THDOC no rato
+(Purdy 1991)[ML], que por sua vez **inibe o eixo HPA** e amortece a resposta ao estressor
+(feedback negativo); no **estresse crônico repetido**, essa responsividade se deprime. As
+revisões de estresse/neuroesteroides (Barbaccia 2001)[OB] e de moduladores da resposta ao
+estresse (Morrow 1995)[OB] ancoram o fenômeno; o isolamento social prolongado deprime a síntese
+cerebral de 5α-DHP/alopregnanolona (Dong 2001)[ML] e o próprio isolamento altera os
+neuroesteroides (Serra 2007)[ML]; o estresse crônico imprevisível com retirada de progesterona
+em fêmeas modela o pós-parto/PMDD (Islas-Preciado 2023)[OB]. Configura-se a tese do **"freio
+endógeno"**, análoga ao freio endocanabinoide da B13: a falha do freio participa da
+hiper-reatividade ao estresse na depressão/TEPT. A regulação neuroesteroide/GABAérgica do HPA
+em humanos foi revisada (Crowley 2014)[OB].
+
+*PURDY_1991[ML] | BARBACCIA_2001[OB] | MORROW_1995[OB] | DONG_2001[ML] | SERRA_2007[ML] | CROWLEY_2014[OB]*
+
+### 1.6 Biologia estrutural e divisão fásico/tônico: por que neuroesteroide ≠ benzodiazepínico
+A **cristalografia/cryo-EM** localizou as ações: os **potenciadores** (pregnanolona/alopregnanolona)
+ligam-se na **interface transmembrana α(+)/β(−)** (Miller 2017)[ML], enquanto os **sulfatados
+inibitórios** (PS) bloqueiam **dentro do lúmen do poro** (Legesse 2023)[ML] — mecanismo
+fisicamente distinto que explica os efeitos opostos. As estruturas **nativas** revelam
+alopregnanolona **endógena constitutivamente ligada** ao receptor (Sun 2023)[ML] e montagens
+nativas de **cérebro humano** (Zhou 2025)[ML]; a busca de quarenta anos pelos sítios foi
+revisada (Mortensen 2025)[OB]. Funcionalmente, receptores **sinápticos α1/2/3-β-γ2** medeiam a
+inibição **fásica** (sítio benzodiazepínico γ2-dependente), enquanto os **extrassinápticos
+α4/α6-β-δ (e α5)** geram a corrente **tônica**, são sensíveis a neuroesteroides em nanomolar e
+**insensíveis a benzodiazepínicos**. Isso explica a separação entre o efeito ansiolítico/sedativo
+(fásico, onde os BZD atuam e geram tolerância) e o efeito **antidepressivo/duradouro** (tônico
+δ-dependente). A **fosforilação de β3/α4 por PKC/PKA** regula o tráfego de receptores e é
+candidata à plasticidade lenta.
+
+*MILLER_2017[ML] | LEGESSE_2023[ML] | SUN_2023[ML] | ZHOU_2025[ML] | MORTENSEN_2025[OB]*
+
+### 1.7 Ações não-GABA: imune/TLR4, trófico/BDNF e receptores intracelulares
+Além do GABA-A, os neuroesteroides: (i) **modulam a neuroimunidade** — pregnanos
+(alopregnanolona, pregnenolona) suprimem sinalização por **Toll-like receptors (TLR4)** e a
+produção de citocinas, e androstenediol é anti-inflamatório (Morrow 2024)[OB]; a supressão de
+TLR por pregnanos e a inibição pelo brexanolone foram detalhadas (Balan 2024)[OB]; (ii) exercem
+ações **tróficas/neuroprotetoras** (estimulam BDNF, mielinização, sobrevivência — Almeida
+2020)[OB]; (iii) agem em receptores de membrana/mitocôndria não-GABA (mPR/PAQR, PGRMC1/2,
+sigma-1/2) e nucleares (Fedotcheva 2025)[OB]. Esse braço oferece mecanismo para o **efeito que
+dura além da meia-vida** do fármaco: a infusão de brexanolone produz queda sustentada de
+IL-6/TNF-α/CCL11/IL-18 e elevação de BDNF por semanas (Balan 2026)[EC] — sinal em humano, com
+fármaco como prova, não como prescrição.
+
+*MORROW_2024[OB] | BALAN_2024[OB] | ALMEIDA_2020[OB] | FEDOTCHEVA_2025[OB] | BALAN_2026[EC]*
+
+### 1.8 Modulação por hormônios gonadais: estradiol, progesterona, testosterona/aromatase
+Os hormônios gonadais **nucleares** modulam o sistema neuroesteroide e a transmissão
+GABAérgica. O **estradiol**, via ERα/β, altera plasticidade dendrítica, BDNF, serotonina e
+**extinção do medo** (Walf 2006)[OB]; modula a extinção em revisão (Stockhorst 2015)[OB] e, em
+mulheres, estradiol+progesterona separados e combinados alteram a extinção
+(Kaczmarczyk 2024)[EC]. A **progesterona** é precursora direta da alopregnanolona; a
+**testosterona** é precursora de androstanediol (via 5α-redutase) e de estradiol (via
+**aromatase/CYP19A1**). A retirada de estradiol no pós-parto prejudica a inibição GABAérgica
+(Yang 2017)[ML], e a retirada experimental de estradiol altera o humor em mulheres com história
+de depressão perimenopáusica (Schmidt 2015)[EC]. Isso fundamenta as janelas reprodutivas e os
+fenótipos androgênicos, reforçando que hormônio nuclear ≠ neuroesteroide, embora dialoguem.
+
+*WALF_2006[OB] | STOCKHORST_2015[OB] | KACZMARCZYK_2024[EC] | SCHMIDT_2015[EC] | YANG_2017[ML]*
+
+### 1.9 TSPO, mitocôndria e neuroinflamação: o gargalo da síntese e seu confundimento imagético
+O **TSPO** na membrana mitocondrial externa é o gargalo do transporte de colesterol (com StAR)
+e, portanto, da esteroidogênese, mas é também **marcador de microglia/neuroinflamação**.
+Ligantes de TSPO promovem esteroidogênese e têm ações anti-inflamatórias/neuroregenerativas
+(Rupprecht 2023)[OB]; o TSPO como alvo diagnóstico/terapêutico nos transtornos do estresse foi
+revisado (Rupprecht 2022)[OB], assim como C1q/TSPO/neuroinflamação (Rupprecht 2022b)[OB] e a
+revisão de PET de TSPO na TDM (Gritti 2021)[OB]. O **PET de TSPO** sofre o polimorfismo
+**rs6971** (que altera a ligação dos radioligantes) e reflete sobretudo ativação glial: a
+ligação [¹¹C]PK11195 está modestamente aumentada na depressão, **sem associação com esteroides
+séricos** (Schubert 2021)[EC]. O TSPO é, pois, **alvo mecanístico** (promover síntese endógena)
+e **fonte de confusão** (o biomarcador de imagem não mede esteroidogênese diretamente).
+
+*RUPPRECHT_2023[OB] | RUPPRECHT_2022[OB] | RUPPRECHT_2022b[OB] | GRITTI_2021[OB] | SCHUBERT_2021[EC]*
+
+### 1.10 Fármacos análogos e janelas reprodutivas como SINAL (não é prescrição)
+Os análogos PAMs entram apenas como **prova experimental de alvo/janela**. O brexanolone
+(alopregnanolona IV) mostrou efeito antidepressivo rápido na DPP em ECR de fase 2
+(Kanes 2017)[EC] e fase 3 multicêntrico (Meltzer-Brody 2018)[EC]; a zuranolona (análogo oral)
+na DPP (Deligiannidis 2021)[EC] e na TDM do adulto (fase 3 MOUNTAIN — Clayton 2023)[EC], com
+resultados mistos na TDM geral e sem aprovação nessa indicação; a revisão Cochrane de
+brexanolone/zuranolona na DPP sintetiza a evidência (Wilson 2025)[OB], e a meta de efeito
+fatorial da zuranolona na TDM aponta benefício modesto e heterogêneo (Lin 2023)[OB]. O efeito
+sobre **oscilações de rede** (theta alto da BLA via δ) é transespécies
+(Antonoudiou 2022)[ML]. Na direção oposta, antagonistas neuroesteroides são explorados na
+hipersensibilidade (golexanolona/GAMSA), e um análogo PAM extrassináptico (PRAX-114)
+**falhou** na TDM — evidência negativa preservada. Tudo isso **valida o GABA-A
+extrassináptico como alvo antidepressivo real na janela pós-parto**, sem autorizar "deficiência
+de alopreg" nem uso geral.
+
+*KANES_2017[EC] | MELTZERBRODY_2018[EC] | DELIGIANNIDIS_2021[EC] | CLAYTON_2023[EC] | WILSON_2025[OB] | LIN_2023[OB] | ANTONOUDIOU_2022[ML]*
+
+### 1.11 (PROFUNDIDADE) — A QUÍMICA DE UMA MOLÉCULA QUE O CÉREBRO JÁ FABRICA
+O alopregnanolona (3α,5α-tetra-hidroprogesterona) é a peça central da B14, e entendê-lo exige
+três distinções. Quimicamente, é um metabólito **3α-reduzido** da progesterona, gerado pela
+sequência SRD5A (5α-redutase) seguida de 3α-HSD/AKR1C — a mesma maquinaria que a finasterida
+bloqueia. Farmacologicamente, não é um "hormônio" no sentido nuclear: ele não se liga a
+receptores citosólicos que vão ao DNA, e sim a **sítios alostéricos transmembrana do GABA-A**,
+onde aumenta a abertura do canal de cloreto. A descoberta de que metabólitos de esteroides
+agem como "moduladores tipo-barbiturato" do receptor GABA (Majewska 1986)[ML] precedeu em anos
+a clonagem dos sítios; só com a cristalografia (Miller 2017)[ML] e o cryo-EM (Legesse
+2023)[ML]; (Sun 2023)[ML] se viu que o próprio cérebro mantém alopregnanolona
+**constitutivamente ligada** ao receptor — uma modulação de tônus, não apenas uma resposta
+farmacológica. Fisiologicamente, o alopregnanolona é **induzido pelo estresse** (Purdy
+1991)[ML]: o cérebro eleva sua síntese como freio ao HPA. A implicação clínica é direta e
+contraintuitiva — a molécula que os fármacos brexanolone/zuranolona imitam já existe e varia
+no cérebro sadio; o problema na doença não é uma "ausência" simples, e sim a **dinâmica** da
+síntese, da plasticidade de subunidades e da sensibilidade à flutuação.
+
+*MAJEWSKA_1986[ML] | MILLER_2017[ML] | LEGESSE_2023[ML] | SUN_2023[ML] | PURDY_1991[ML]*
+
+### 1.12 (PROFUNDIDADE) — BIFASICIDADE: POR QUE "ALOPREG = CALMA" É FALSO
+A tese que mais protege a B14 da super-simplificação é a da **bifasicidade**. O alopregnanolona
+é ansiolítico/sedativo em **alta concentração aguda**, mas as **flutuações e a retirada** causam
+disforia/ansiedade por remodelação plástica do GABA-A. Durante a gestação, o tônus elevado de
+progesterona/alopregnanolona induz o cérebro a **se adaptar** — reduz a expressão de
+subunidades inibitórias (δ/α4) para contrabalançar o excesso de freio; quando o esteroide cai
+abruptamente no pós-parto, esse receptor adaptado fica **hipo-GABAérgico** até se readaptar
+(Maguire 2008)[OB]. O mesmo princípio governa a fase lútea do ciclo menstrual e a retirada de
+benzodiazepínicos. Não é, portanto, "mais alopreg = sempre melhor": a **subida crônica** é
+tolerada, a **queda/flutuação** é desestabilizante, e a vulnerabilidade reside na transição e
+na capacidade de readaptação plástica. Isso explica por que a PMDD tem níveis **normais** de
+alopregnanolona (o defeito é da resposta, não do nível) e por que a direção terapêutica, em
+subgrupos de hipersensibilidade, pode ser o **antagonista** neuroesteroide e não o PAM — um
+paradoxo que só a plasticidade receptor-dependente resolve.
+
+*MAGUIRE_2008[OB] | FOLLESA_2001[OB] | YANG_2017[ML] | TAO_2023[ML] | ISLASPRECIADO_2023[OB]*
+
+### 1.13 (PROFUNDIDADE) — POR QUE NEUROESTEROIDE É ANTIDEPRESSIVO E BENZODIAZEPÍNICO NÃO
+Uma pergunta clínica decisiva: se ambos potencializam o GABA-A, por que os benzodiazepínicos
+são ansiolíticos/sedativos mas **não antidepressivos**, enquanto os neuroesteroides (e seus
+análogos) mostram efeito antidepressivo rápido na DPP? A biologia estrutural e fisiológica dá a
+resposta. Os benzodiazepínicos dependem da subunidade **γ2** e atuam sobretudo nos receptores
+**sinápticos fásicos** (α1/2/3-β-γ2), que medeiam a inibição transitória e onde se desenvolve
+tolerância. Os neuroesteroides ligam-se à interface **α/β**, não dependem de γ2 e alcançam os
+receptores **extrassinápticos δ/α4** que geram a inibição **tônica** persistente — sensível em
+nanomolar e insensível aos BZD clássicos (Vicini 2002)[ML]; (Miller 2017)[ML]. A modulação
+tônica altera o **ganho/excitabilidade de circuitos inteiros** (não uma sinapse), incluindo as
+oscilações theta da amígdala basolateral que fazem o "chaveamento afetivo"
+(Antonoudiou 2022)[ML], e aciona saídas **não-GABAérgicas** (BDNF/trófico, imune/TLR4) que
+podem explicar o efeito que **dura além da meia-vida** (Almeida 2020)[OB]; (Balan 2026)[EC].
+A separação molecular definitiva (por exemplo, o knock-in que removeria a potenciação em α2,
+separando ansiólise de antidepressão) existe apenas como pré-print não publicado — fica `[G1]`,
+sem PMID inventado.
+
+*VICINI_2002[ML] | MILLER_2017[ML] | ANTONOUDIOU_2022[ML] | ALMEIDA_2020[OB] | BALAN_2026[EC]*
+
+---
+
+## BLOCO_02 — VIAS EM DETALHE
+
+### 2.1 O "freio" é regional e depende de subtipo, sexo e direção da flutuação
+A modulação neuroesteroide não é uniforme. Ela é **regional** (BLA e seu theta afetivo;
+hipocampo rico em α4/δ; PFC com a 5α-redutase tipo 2 específica de macho; hipotálamo/PVN no
+freio do HPA), depende do **subtipo receptor** (δ/α4 tônico vs. γ2 fásico), do **sexo** e da
+**direção da mudança** (subida vs. retirada). O alopregnanolona media o "chaveamento afetivo"
+por oscilações theta alto (6–12 Hz) na BLA via receptores δ, transespécies e distinto de
+benzodiazepínicos (Antonoudiou 2022)[ML]; os neuroesteroides endógenos "setam" o tom afetivo
+basal (Walton 2023)[OB]; mecanismos distintos de alopregnanolona e diazepam sobre oscilações
+foram demonstrados (Takasu 2023)[ML]. Isso derruba tanto "neuroesteroide = calma universal"
+quanto "basta elevar GABA": a intervenção futura é modular por subtipo/circuito/janela.
+
+*ANTONOUDIOU_2022[ML] | WALTON_2023[OB] | TAKASU_2023[ML] | LAMBERT_2023[ML]*
+
+### 2.2 Engajar o alvo não é curar: o desnível janela pós-parto vs. TDM geral
+A prova de conceito clínica dos análogos PAMs é real, mas **dependente de janela**. O
+brexanolone e a zuranolona são robustos na **depressão pós-parto** — uma janela de retirada
+hormonal sobre um GABA-A plasticamente adaptado (Kanes 2017)[EC]; (Meltzer-Brody 2018)[EC];
+(Deligiannidis 2021)[EC]. Na **TDM geral**, o zuranolona (fase 3 MOUNTAIN) teve resultados
+mistos e não obteve aprovação (Clayton 2023)[EC]; (Clayton 2023b)[EC], e as metas apontam
+benefício modesto/heterogêneo (Lin 2023)[OB]; (Li 2024)[OB]. A diferença DPP vs. TDM é ela
+mesma informativa: a eficácia acompanha a **janela hormonal** e a plasticidade de retirada, não
+uma "deficiência de alopreg" universal. A lição é a mesma da B13 — o alvo é real e engajável,
+mas o fármaco prova que **modular** o sistema muda o sintoma na janela certa; não prova
+etiologia de deficiência nem autoriza uso geral.
+
+*KANES_2017[EC] | MELTZERBRODY_2018[EC] | DELIGIANNIDIS_2021[EC] | CLAYTON_2023[EC] | CLAYTON_2023b[EC] | LIN_2023[OB] | LI_2024[OB]*
+
+---
+
+### 2.3 (PROFUNDIDADE) — O LIMITE ENTRE MECANISMO E TERAPÊUTICA
+A B14 é, ao lado da B13, a biblioteca onde "ciência primeiro, ferramenta depois" mais se
+impõe — mas com uma inversão importante: aqui **há** fármacos aprovados. O brexanolone e a
+zuranolona (e a antiga via da etifoxina) demonstram que modular o GABA-A por neuroesteroide
+tem efeito antidepressivo **rápido** na depressão pós-parto, uma prova de conceito que poucos
+mecanismos da série possuem. Três conclusões separam evidência de promessa. Primeira, **prova
+de alvo não é prova de etiologia**: o fármaco engajar o receptor e melhorar o sintoma mostra
+que o sistema é causalmente capaz de modular o humor, mas não que a depressão seja uma
+"deficiência de alopregnanolona" — na PMDD os níveis são normais, e a direção pode ser o
+antagonista. Segunda, **janela importa**: a robustez na DPP (retirada hormonal) não se repete
+na TDM geral, onde o zuranolona é modesto/misto. Terceira, **a engenharia ainda não entregou
+modulação precisa de subtipo/circuito**: a direção "aumentar" falha na hipersensibilidade
+(antagonistas são explorados) e um PAM extrassináptico (PRAX-114) falhou. O documento de
+mecanismo descreve o freio endógeno; ele não atesta, e os dados negam, que suplementar
+hormônio ou precursor seja antidepressivo geral.
+
+*WILSON_2025[OB] | CLAYTON_2023[EC] | LIN_2023[OB] | DELIGIANNIDIS_2021[EC]*
+
+### 6.1 (DETALHE) — O QUE A B14 NÃO PRESCRÊVE
+É explícito que brexanolone (alopregnanolona IV), zuranolona (SAGE-217 oral), ganaxolona,
+golexanolona/GR3027, sepranolona/UC1011, etifoxina, PRAX-114, PH10 nasal, DHEA,
+pregnenolona, estradiol, testosterona e finasterida/dutasterida entram no corpo apenas como
+**prova experimental de viabilidade de alvo/plasticidade**, nunca como conduta (P20). A B14
+cobre a fisiologia endógena (esteroidogênese neural, PAM/antagonismo no GABA-A, plasticidade
+de retirada, freio do HPA, ações imune/tróficas, janelas e sexo); a prescrição de
+neuroesteroides, a terapia hormonal e o uso de precursores pertencem ao módulo clínico. A
+fronteira entre ciência (robusta em animal/estrutura, crescente em humano) e engenharia
+(aprovada só em janela específica, mista no geral) é o eixo que sustenta o documento.
+
+*POISBEAU_2018[OB] | STEIN_2015[EC] | VICENTE_2020[EC] | WILSON_2025[OB]*
+
+---
+
+## BLOCO_03 — MEDIADORES MOLECULARES
+
+- **Neuroesteroides 3α-reduzidos (PAMs GABA-A):** **alopregnanolona/3α,5α-THP** (o principal;
+  derivado da progesterona; preferente por δ extrassináptico), **pregnanolona/3α,5β-THP**
+  (isômero 5β; usado na caracterização estrutural — Miller 2017)[ML], **THDOC** (da
+  desoxicorticosterona; neuroesteroide clássico do estresse agudo — Purdy 1991)[ML],
+  **epiallopregnanolona**, **androstanediol/3α-diol** (androgênico ativo no GABA-A; fenótipos
+  masculinos).
+- **Sulfatados (sinal oposto):** **pregnenolona-sulfato/PS** (antagonista GABA-A no poro;
+  agonista NMDA/sigma-1; pode estar **alto** no soro — Shen 2000)[ML]; (Bicikova 2000)[EC];
+  **DHEA-S** (androgênio adrenal/neural; declina com a idade; razão cortisol/DHEAS — Mocking
+  2015)[EC]; formas não-sulfatadas pregnenolona/DHEA.
+- **Hormônios gonadais (nucleares; distintos):** **estradiol/E2** (ERα/ESR1, ERβ/ESR2;
+  plasticidade/BDNF/extinção — Walf 2006)[OB], **progesterona** (PR/PGR; precursora da
+  alopregnanolona), **testosterona** (AR; precursor via aromatase/5α-redutase), DHT.
+- **Receptores-alvo:** **GABA-A** (δ/α4/α6 extrassinápticos tônicos vs. γ2/α1-3 sinápticos
+  fásicos; β3 na fosforilação/tráfego; sítios α/β para PAMs e poro para sulfatados —
+  Legesse 2023)[ML]; **NMDA** e **sigma-1** (PS/DHEA-S); **mPR/PAQR, PGRMC1/2**
+  (Fedotcheva 2025)[OB]; receptores nucleares ERα/β, PR, AR.
+- **Enzimas da síntese:** **TSPO/StAR** (gargalo mitocondrial — Rupprecht 2022)[OB],
+  **CYP11A1/P450scc** (colesterol→pregnenolona), **3β-HSD**, **SRD5A1/SRD5A2** (5α-redutase;
+  o tipo 2 pré-frontal media a resposta ao estresse de macho — Cadeddu 2025)[ML],
+  **3α-HSD/AKR1C4/AKR1C2** (5α-DHP→alopregnanolona; a razão alopreg/5α-DHP indexa sua
+  atividade — Pineles 2018)[EC], **aromatase/CYP19A1** (testosterona→estradiol), CYP17,
+  17β-HSD.
+- **Degradação/modulação:** sulfotransferases/sulfatases (interruptor pregnenolona↔PS);
+  17β-HSD10 e outras oxidorredutases (Porcu 2016)[OB].
+- **Interface:** BDNF/proteínas neurotróficas (Almeida 2020)[OB]; citocinas/TLR4
+  (IL-6/TNF-α/CCL11/IL-18 — Morrow 2024)[OB]; C1q/complemento/microglia (Rupprecht
+  2022b)[OB]; oxitocina (regula a modulação neuroesteroide do GABA-A no núcleo supraóptico —
+  Koksma 2003)[ML]; endocanabinoides (pregnenolona = CB1-SSi — Vallee 2014)[ML].
+
+### Inventário NEGATIVO (o que a ciência refuta)
+- **"Alopregnanolona baixa = causa da depressão (deficiência universal)"** — **não suportado
+  como diagnóstico**: a mudança é de **composição/sensibilidade**, e sulfatados podem estar
+  **altos** (Bicikova 2000)[EC]; as investigações clínicas são inconclusivas sobre
+  deficiência etiológica (Uzunova 2006)[OB].
+- **"PMDD = progesterona/alopreg baixa (basta repor)"** — **refutado**: níveis normais; o que
+  difere é a sensibilidade do GABA-A (Hantsoo 2020)[OB]; (Hantsoo 2023)[OB]; o add-back
+  hormonal pode **piorar**.
+- **"Esteroides plasmáticos medem o tônus GABA-A central"** — refutado como leitura direta:
+  fontes adrenal/gonadal/adiposa, fase do ciclo, hora, estresse, ISRS, finasterida, IMC
+  confundem.
+- **"TSPO-PET mede a síntese cerebral de neuroesteroides"** — **não estabelecido**: mede
+  sobretudo microglia/neuroinflamação e é confundido por rs6971 (Schubert 2021)[EC].
+- **"Repor hormônio (estradiol/DHEA/testosterona) é antidepressivo geral"** — evidência
+  **mista/não-consistente** (DHEA de qualidade muito baixa — Peixoto 2020)[OB];
+  (Walther 2019)[OB]; efeitos de janela/desfecho no estradiol (Gordon 2018)[EC]).
+- **"Benzodiazepínicos = neuroesteroides (logo BZD seriam antidepressivos)"** — refutado:
+  BZD dependem de γ2 fásico e geram tolerância; neuroesteroides atingem δ tônico e têm efeito
+  duradouro sobre o humor (Vicini 2002)[ML]; (Antonoudiou 2022)[ML].
+- **"Quanto mais PAM/neuroesteroide, melhor"** — **falso**: na hipersensibilidade
+  exploram-se **antagonistas** (golexanolona/GAMSA); o PAM PRAX-114 **falhou** na TDM.
+- **"Zuranolona/brexanolone provam deficiência de alopregnanolona"** — não: robustos na DPP,
+  modestos/mistos na TDM geral (Clayton 2023)[EC]; (Wilson 2025)[OB]. Fármaco que engaja o
+  alvo ≠ prova de etiologia.
+- **"É um sistema exclusivo de mulheres"** — refutado: 5α-redutase tipo 2 na resposta de macho
+  (Cadeddu 2025)[ML], fenótipos de finasterida (Irwig 2014)[OB]; (Modol 2014)[ML] e papel de
+  DHEA/testosterona documentam fenótipos masculinos.
+
+*BICIKOVA_2000[EC] | UZUNOVA_2006[OB] | HANTSOO_2020[OB] | SCHUBERT_2021[EC] | PEIXOTO_2020[OB] | VICINI_2002[ML] | CADEDDU_2025[ML] | IRWIG_2014[OB]*
+
+---
+
+## BLOCO_04 — CÉLULAS E ESTRUTURAS
+
+- **Neurônios com GABA-A sináptico (fásico; α1/2/3-β-γ2):** inibição transitória; alvo dos
+  benzodiazepínicos; modulados por neuroesteroides em alta concentração.
+- **Neurônios com GABA-A extrassináptico (tônico; α4/α6-β-δ, α5):** corrente tônica;
+  **sítio nanomolar preferencial** dos neuroesteroides; insensíveis a BZD; centrais para o
+  humor/ansiedade e para a plasticidade de retirada (Vicini 2002)[ML].
+- **Interneurônios GABAérgicos:** geram as oscilações theta da BLA moduladas por
+  alopregnanolona (Antonoudiou 2022)[ML].
+- **Astrócitos:** expressam TSPO/StAR e maquinário esteroidogênico; fonte glial de
+  neuroesteroides.
+- **Microglia:** principal sinal do TSPO-PET; fonte de neuroinflamação/C1q e alvo das ações
+  anti-inflamatórias (Rupprecht 2022b)[OB].
+- **Neurônios neuroendócrinos (hipotálamo/PVN, núcleo supraóptico):** freio do HPA e interface
+  oxitocina–neuroesteroide–GABA-A (Koksma 2003)[ML].
+- **Células esteroidogênicas periféricas (adrenal, gônada, placenta, adiposo):** fontes
+  confundidoras dos esteroides sanguíneos; não produzem o sinal sináptico central.
+- **Estruturas/circuitos:** **amígdala basolateral (BLA)** — theta alto δ-dependente,
+  "chaveamento afetivo" transespécies (Antonoudiou 2022)[ML]; **hipocampo** — rico em α4/δ,
+  neurogênese/BDNF (Maguire 2008)[OB]; **córtex pré-frontal** — 5α-redutase tipo 2 na resposta
+  de macho (Cadeddu 2025)[ML], metilação de *srd5a1* por isolamento, remodelação de espinhas
+  na puberdade dependente de sexo (Kenney 2025)[ML]; **hipotálamo PVN/CRH** (freio HPA);
+  **núcleo supraóptico/área pré-óptica medial** (oxitocina/retirada — Tao 2023)[ML];
+  **mitocôndria** (TSPO/StAR/VDAC — interface B9/B1); circuito amígdala–vmPFC–hipocampo
+  (extinção/medo — ponte B5/B12).
+
+---
+
+### 3.1 (PROFUNDIDADE) — O ESTEROIDE PERIFÉRICO NÃO É O CÉREBRO
+A distinção que mais evita falsos biomarcadores na B14 é entre o neuroesteroide medido no
+sangue, soro, saliva ou cabelo e o que modula o GABA-A na sinapse. Os esteroides circulantes
+vêm de múltiplas fontes — adrenal, gônada, placenta (na gestação), tecido adiposo — e variam
+com a **fase do ciclo/gestação/puerpério/perimenopausa**, a hora do dia, o **estresse agudo**
+(que eleva a alopregnanolona), os psicotrópicos (ISRS alteram neuroesteroides), a finasterida,
+o IMC e os anticoncepcionais. Por isso o esteroide periférico é **marcador de estado/grupo**,
+não medida do tônus GABA-A central; o nível de repouso (basal) não prediz a resposta dinâmica.
+Some-se a direção não trivial: a pregnenolona-sulfato pode estar **elevada** (não "tudo
+baixo") em ansiedade-depressão (Bicikova 2000)[EC], e na PMDD os níveis absolutos são
+**normais**. O que mais se aproxima do SNC em vida é o **líquor** — onde a alopregnanolona está
+reduzida no TEPT em mulheres (Rasmusson 2006)[EC] e os ISRS elevam neuroesteroides
+(Uzunova 1998)[EC] — mas o líquor não é exame de rotina. Não há, portanto, exame de sangue que
+diagnostique ou leia o tônus neuroesteroide sináptico: os marcadores ficam na pesquisa, sem
+corte ou protocolo (P20).
+
+*BICIKOVA_2000[EC] | RASMUSSON_2006[EC] | UZUNOVA_1998[EC] | KIMBALL_2020[EC]*
+
+### 4.1 (PROFUNDIDADE) — SEXO E JANELA: A DIFERENÇA QUE É INTRÍNSECA AO OBJETO
+A B14 é o mecanismo da série onde a **diferença sexual** não é um confundidor a controlar, e
+sim parte do objeto. Mulheres têm risco aproximadamente duas vezes maior de depressão/ansiedade
+**a partir da puberdade**, e as janelas reprodutivas (pós-parto, fase lútea, perimenopausa)
+são femininas — mas há fenótipos masculinos robustos que proíbem o nivelamento. Na
+**puberdade**, o THP no receptor α4βδ produz resiliência **só em fêmeas púberes** (não em
+machos púberes nem fêmeas adultas), por remodelação oposta de espinhas PFC vs. BLA
+(Kenney 2025)[ML] — uma peça molecular da divergência de prevalência por sexo. Nos machos, a
+**5α-redutase tipo 2 pré-frontal** medeia a resposta aguda ao estresse específica de macho
+(Cadeddu 2025)[ML], a deficiência de SRD5A2 reduz comportamentos de dominância/controle de
+impulso (Mosher 2018)[EC], e a inibição neonatal por finasterida altera α4/δ hipocampal
+(Modol 2014)[ML]. As diferenças sexuais em subunidades e ansiedade foram documentadas cedo
+(Gulinello 2003)[ML], e a revisão de diferenças sexuais em neuroesteroides derivados de
+progestágeno/androgênio (Peltier 2021)[OB] consolida o quadro. Não nivelar sexo, janela nem
+direção da flutuação é regra fundadora.
+
+*KENNEY_2025[ML] | CADEDDU_2025[ML] | MOSHER_2018[EC] | MODOL_2014[ML] | GULINELLO_2003[ML] | PELTIER_2021[OB]*
+
+---
+
+## BLOCO_05 — BIOMARCADORES (PESQUISA; NÃO HÁ DIAGNÓSTICO)
+
+> Catálogo de marcadores e confundidores, **sem protocolo e sem valor de corte** (regra do
+> molde). Periférico ≠ central.
+
+1. **Periféricos:** alopregnanolona/3α,5α-THP e razão alopreg/progesterona (soro/plasma/saliva/
+   cabelo) — marcador de **estado**, inespecífico, fortemente confundido por fase do
+   ciclo/gestação/puerpério/perimenopausa, hora, estresse agudo, ISRS, finasterida, IMC,
+   anticoncepcional; **trajetórias periparto** (não valor isolado) associam-se a DPP
+   (Schoretsanitis 2025)[EC]; (Osborne 2017)[EC]; (Osborne 2025)[EC]; (Deligiannidis
+   2016)[EC]; (Grotsch 2024)[OB]. A razão alopreg/progesterona ao longo do ciclo/menopausa
+   indexa conversão enzimática (Kimball 2020)[EC].
+2. **Razão alopregnanolona/5α-DHP no plasma (atividade da 3α-HSD):** no **TEPT em mulheres**,
+   **bloqueio da conversão** progesterona→alopregnanolona (Pineles 2018)[EC] — disfunção
+   enzimática, a replicar.
+3. **Pregnenolona(-sulfato)/DHEA(-S):** PS pode estar **elevado** em ansiedade-depressão
+   (Bicikova 2000)[EC]; DHEA-S declina com a idade; razão cortisol/DHEAS como marcador de
+   estresse (Mocking 2015)[EC]; (O 2012)[EC].
+4. **Estradiol/testosterona/progesterona:** o **nível absoluto é menos informativo que a
+   variabilidade/flutuação** (Joffe 2020)[EC]; (Gordon 2015)[OB].
+5. **Centrais/líquor:** alopregnanolona/pregnanolona **reduzidos no líquor no TEPT** (mulheres —
+   Rasmusson 2006)[EC]; (homens — Rasmusson 2019)[EC]; **ISRS elevam neuroesteroides no
+   líquor** (Uzunova 1998)[EC]; mudança aguda de composição no **ataque de pânico** induzido
+   (Strohle 2003)[EC]; (Brambilla 2003)[EC].
+6. **Neuroimagem/fisiologia:** **PET de TSPO** (PK11195/PBR28) = microglia/neuroinflamação,
+   NÃO síntese; confundido por **rs6971** (Schubert 2021)[EC]; **MRS de GABA (GABA+)**
+   inespecífico; **EEG/oscilações** theta da BLA como assinatura transespécies
+   (Antonoudiou 2022)[ML]; perfil não-sedativo dos GABAkines (Lambert 2023)[ML]; **fMRI** de
+   reatividade por fase do ciclo/gestação (Gingnell 2013)[EC]; (Stiernman 2023)[EC].
+7. **Princípio:** **não há biomarcador individual diagnóstico** dos neuroesteroides em
+   ansiedade/depressão, nem exame para esse fim.
+
+### 5.x Exames referenciados por ID oficial (P19/P20)
+- **ID oficial de exame (P19/P20):** não há exame catalogado no C-LAB para neuroesteroides
+  (alopregnanolona/3α,5α-THP, pregnenolona/PS, DHEA-S, razão alopreg/5α-DHP, PET de TSPO ou
+  MRS de GABA) como teste de humor; a coleta/medição é **pesquisa**, sem corte/diagnóstico.
+  Como **contexto clínico geral** (não como marcador do mecanismo), podem ser consultados os
+  IDs oficiais: `exame_cortisol_matinal`, `exame_acth`, `exame_dexametasona` (eixo HPA — B2),
+  `exame_tireoide_funcional` (B11), `exame_hemograma_completo`, `exame_ferritina`, `exame_vitd`,
+  `exame_glicemia_hba1c`, `exame_albumina`, `exame_funcao_hepatica`, `exame_eletrolitos`,
+  `exame_il6`, `exame_tnfalpha`, `exame_pcr_us`, `exame_polissonografia` (sono — B10).
+- Dosagens hormonais reprodutivas (estradiol/progesterona/testosterona) e de DHEA-S, quando
+  solicitadas por endocrinologia/ginecologia, **não** têm ID de exame voltado ao diagnóstico
+  de ansiedade/depressão nesta plataforma: são **elementos ainda não catalogados** para esse
+  fim, citados como papel biológico sem corte/protocolo (P20). A medida central (tônus
+  neuroesteroide sináptico GABA-A) não é feita em vida de forma direta.
+
+---
+
+### 5.1 (PROFUNDIDADE) — MARCADOR DE GRUPO, NÃO DIAGNÓSTICO INDIVIDUAL
+Os marcadores neuroesteroides têm valor de pesquisa, mas baixa especificidade individual. As
+trajetórias de alopregnanolona na gestação **predizem** risco de depressão pós-parto em nível
+de grupo (Schoretsanitis 2025)[EC]; (Osborne 2017)[EC]; (Osborne 2025)[EC], e a biossíntese
+de neuroesteroides na gestação associa-se a DPP futura (Osborne 2025)[EC] — mas um valor
+isolado, medido fora do timing correto, não diagnostica. O confundimento mais traiçoeiro é o
+**estresse agudo**, que eleva a alopregnanolona e pode mascarar um traço de baixa síntese;
+por isso basal ≠ resposta ao desafio. No TEPT, os achados mais fortes vêm do **líquor**
+(alopregnanolona reduzida em mulheres — Rasmusson 2006)[EC]; e da **razão enzimática** no
+plasma (bloqueio da conversão pela 3α-HSD — Pineles 2018)[EC]), não do esteroide isolado. O
+quadro consolidado é o de marcadores de **grupo/estado** com valor preditivo em janelas
+específicas (periparto, fase lútea), sem diagnóstico individual e sem leitura direta do
+tônus sináptico central. Qualquer valor de corte ou protocolo fica fora do documento (P20).
+
+*SCHORETSANITIS_2025[EC] | OSBORNE_2017[EC] | OSBORNE_2025[EC] | RASMUSSON_2006[EC] | PINELES_2018[EC] | DELIGIANNIDIS_2016[EC]*
+
+### 8.1 (DETALHE) — A HIERARQUIA DE CONEXÕES DOS NEUROESTEROIDES
+As interconexões mais fortes da B14 são com **B5** (o GABA-A é o receptor-alvo direto, com
+seletividade tônica δ — relação mecânica bidirecional), **B3** (a plasticidade/BDNF/neurogênese
+é o **integrador de saída** da modulação de ganho e o candidato a explicar o efeito duradouro)
+e **B2/B12** (o circuito com o HPA/estresse/trauma é bidirecional: o estresse induz
+neuroesteroides que freiam o HPA, e o estresse crônico/trauma deprime a síntese — com
+alopregnanolona baixa no líquor no TEPT). Vêm em seguida **B4** (os ISRS elevam
+neuroesteroides no líquor — Uzunova 1998[EC]; possível mecanismo comum além da recaptação de
+5-HT), **B1** (TSPO/TLR4/microglia — nó compartilhado com a neuroinflamação), **B9**
+(TSPO/StAR na mitocôndria são o gargalo da esteroidogênese), **B13** (ponte molecular direta:
+a pregnenolona é inibidor sinal-específico do CB1/CB1-SSi — Vallee 2014[ML]; dois sistemas
+lipídicos de adaptação ao estresse) e **B10** (sono/ritmo/GABA). Mais fracas e emergentes:
+**B7** (redes GABA neuroesteroide-sensíveis no eixo intestino–cérebro — Belelli 2025)[OB]) e
+B6/B8/B11/B15/B16 (conexões indiretas sem ponte forte).
+
+*UZUNOVA_1998[EC] | VALLEE_2014[ML] | BELELLI_2025[OB] | RASMUSSON_2006[EC] | MORROW_2024[OB]*
+
+---
+
+## BLOCO_06 — TRADUÇÃO CLÍNICA (SINAL, NÃO CONDUTA)
+
+A B14 descreve a **sinalização neuroesteroide endógena**. Os análogos PAMs (brexanolone IV,
+zuranolona oral, ganaxolona), os antagonistas (golexanolona/GR3027, sepranolona/UC1011), o
+ligante de TSPO etifoxina, a reposição hormonal (estradiol, testosterona) e os precursores
+(DHEA, pregnenolona), bem como a finasterida/dutasterida (experimento de perda), são
+**prova experimental de viabilidade de alvo/janela**, nunca prescrição (P20). O estado da
+tradução: **robusto na depressão pós-parto** (brexanolone fase 2/3 — Kanes 2017)[EC];
+(Meltzer-Brody 2018)[EC]; zuranolona DPP — Deligiannidis 2021)[EC]; Cochrane — Wilson
+2025)[OB]), **moderado/misto na TDM geral** (zuranolona MOUNTAIN — Clayton 2023)[EC]; metas —
+Lin 2023)[OB]), **sinal fraco/muito baixa qualidade para DHEA** (Peixoto 2020)[OB];
+(Wolkowitz 1999)[EC]) e **preliminar para pregnenolona** (Brown 2014)[EC], **janela-específico
+para estradiol na perimenopausa** (Soares 2001)[EC]; (Gordon 2018)[EC]), e **farmacológico, não
+etiológico, para etifoxina** (Poisbeau 2018)[OB]; (Stein 2015)[EC]; (Vicente 2020)[EC]). A
+conduta (escolha, dose, duração, corte) pertence ao módulo clínico.
+
+---
+
+### 1.16 (RESUMO) — O QUE SOBRA DE CONSOLIDADO
+Dez vias, um princípio: os neuroesteroides são um **sistema endógeno de modulação de ganho**
+— inibitório via GABA-A tônico (3α-reduzidos) e excitatório via NMDA/sigma (sulfatados) —,
+sintetizado no cérebro e indutível pelo estresse como freio homeostático. Consolidadas: a
+esteroidogênese neural (TSPO/StAR/CYP11A1/SRD5A/AKR1C), a ação rápida não-genômica no GABA-A
+e a biologia estrutural dos sítios (interface α/β dos PAMs vs. poro dos sulfatados;
+alopregnanolona endógena constitutiva), a plasticidade de subunidades α4/δ nas transições
+hormonais, a indução por estresse e o freio do HPA, e a prova clínica de conceito na **janela
+pós-parto**. Controversas/emergentes: a direção na **hipersensibilidade** (antagonista vs.
+PAM), o efeito que **dura além da meia-vida** (plasticidade/fosforilação vs. imune-trófico vs.
+osciladores de rede), a eficácia na **TDM geral** (modesta/mista), a convergência com
+cetamina/psicodélicos nos antidepressivos rápidos, e a **lacuna da TAG**. Em negativo, o módulo
+preserva o que os dados desmentem: não há deficiência universal diagnosticável, não há
+marcador periférico que leia o cérebro, PMDD é sensibilidade (não nível), perimenopausa é
+variabilidade (não nível baixo), TSPO-PET não mede síntese, e fármaco que engaja o alvo não
+prova etiologia de deficiência.
+
+*PURDY_1991[ML] | MILLER_2017[ML] | MAGUIRE_2008[OB] | MELTZERBRODY_2018[EC] | CLAYTON_2023[EC] | RASMUSSON_2006[EC]*
+
+### 4.2 (DETALHE) — CIRCUITOS POR TRÁS DA ANSIEDADE E DA DEPRESSÃO
+A **amígdala basolateral (BLA)** é onde o alopregnanolona, via receptores δ, regula as
+oscilações theta alto (6–12 Hz) que fazem o "chaveamento afetivo" — um efeito transespécies
+(rato/homem por EEG; camundongo por optogenética) e **distinto dos benzodiazepínicos**
+(Antonoudiou 2022)[ML]. O **hipocampo**, rico em α4/δ, é sítio de plasticidade na
+gestação/retirada e de saídas tróficas/neurogênicas (Maguire 2008)[OB]; (Evans 2012)[ML]. O
+**PFC** segura a regulação topo-down e abriga a 5α-redutase tipo 2 específica de macho
+(Cadeddu 2025)[ML] e a remodelação de espinhas dependente de sexo na puberdade
+(Kenney 2025)[ML]. O **hipotálamo/PVN** é onde o neuroesteroide freia o CRH/HPA (Almeida
+2021b)[OB]; o **núcleo supraóptico/área pré-óptica medial** junta oxitocina, retirada
+reprodutiva e GABA (Koksma 2003)[ML]; (Tao 2023)[ML]. A imagem humana (PET de TSPO, fMRI por
+fase do ciclo, MRS de GABA) é de pesquisa, heterogênea e sem assinatura consensual. O conjunto
+coloca os neuroesteroides no entroncamento entre o circuito de medo/estresse (próximo a
+B5/B12/B2) e a saída plástica/trófica (próximo a B3) — explicando por que tocam ansiedade
+(amígdala/theta) e depressão (plasticidade/BDNF/HPA) por braços que convergem no receptor.
+
+*ANTONOUDIOU_2022[ML] | MAGUIRE_2008[OB] | EVANS_2012[ML] | CADEDDU_2025[ML] | KENNEY_2025[ML] | KOKSMA_2003[ML]*
+
+---
+
+## BLOCO_07 — NÓS MOLECULARES CENTRAIS
+
+1. **Esteroidogênese neural (TSPO/StAR→CYP11A1→SRD5A→AKR1C → alopregnanolona)** — o gerador
+   do sinal (Baulieu 2001)[OB]; (Liang 2018)[OB].
+2. **PAM do GABA-A extrassináptico δ/α4 (inibição tônica)** — o freio nanomolar, distinto do
+   benzodiazepínico (Vicini 2002)[ML]; (Miller 2017)[ML].
+3. **Sulfatados de sinal oposto (PS/DHEA-S; poro GABA-A + NMDA/sigma)** — o interruptor
+   excitatório (Legesse 2023)[ML]; (Shen 2000)[ML].
+4. **Plasticidade de subunidades α4/δ na retirada** — o mecanismo da bifasicidade
+   (Maguire 2008)[OB].
+5. **Indução por estresse e freio do HPA** — o retrocontrole homeostático (Purdy 1991)[ML].
+6. **Saída não-GABA: BDNF/trófico + TLR4/imune** — o efeito duradouro (Almeida 2020)[OB];
+   (Morrow 2024)[OB].
+7. **Regra:** neuroesteroide endógeno é mecanismo robusto (animal/estrutura/humano crescente);
+   fármacos e reposição = sinal de alvo/janela, não prescrição.
+
+*BAULIEU_2001[OB] | MILLER_2017[ML] | LEGESSE_2023[ML] | MAGUIRE_2008[OB] | PURDY_1991[ML] | ALMEIDA_2020[OB]*
+
+---
+
+## BLOCO_08 — CONEXÕES B1–B16
+
+1. **B14↔B5 (GABA/GABA-A) — HIGH:** receptor-alvo direto; PAM 3α-reduzidos vs. antagonismo
+   sulfatados; seletividade tônica δ; relação mecânica bidirecional.
+2. **B14↔B3 (neuroplasticidade/BDNF) — HIGH:** **integrador de saída** da modulação de ganho;
+   ações tróficas/mielinização/espinhas; efeito duradouro.
+3. **B14↔B2 / B12 (HPA/estresse/trauma) — HIGH:** circuito bidirecional; estresse induz
+   neuroesteroides (Purdy) que freiam o HPA; estresse crônico/TEPT deprime a síntese
+   (Rasmusson 2006)[EC].
+4. **B14↔B4 (monoaminas/5-HT) — MEDIUM-HIGH:** ISRS elevam neuroesteroides no líquor
+   (Uzunova 1998)[EC]; mecanismo comum além da recaptação.
+5. **B14↔B1 (neuroinflamação/microglia) — MEDIUM:** TSPO como nó compartilhado; TLR4/citocinas
+   (Morrow 2024)[OB].
+6. **B14↔B9 (mitocôndria/energia) — MEDIUM:** TSPO/StAR na membrana mitocondrial são o gargalo
+   da esteroidogênese.
+7. **B14↔B13 (endocanabinoide) — MEDIUM:** ponte molecular direta — pregnenolona é inibidor
+   sinal-específico do CB1 (CB1-SSi) (Vallee 2014)[ML]; dois freios lipídicos do estresse.
+8. **B14↔B10 (sono/ritmo) — MEDIUM:** GABA-A/neuroesteroides modulam vigília/sono; zuranolona
+   afeta insônia (sinal).
+9. **B14↔B7 (eixo intestino–cérebro) — LOW/emergente:** redes GABA neuroesteroide-sensíveis
+   (Belelli 2025)[OB]; fronteira.
+10. **B14↔B6, B8, B11, B15, B16 — LOW:** conexões indiretas (redox, micronutrientes, tireoide,
+    mTOR/autofagia, neurogênese) sem ponte forte estabelecida.
+
+*RASMUSSON_2006[EC] | UZUNOVA_1998[EC] | MORROW_2024[OB] | VALLEE_2014[ML] | BELELLI_2025[OB]*
+
+---
+
+## BLOCO_09 — IMPACTO SOBRE NEUROPLASTICIDADE (elo B3)
+Os neuroesteroides modulam a capacidade plástica do cérebro por múltiplas vias: plasticidade de
+subunidades do GABA-A (α4/δ) nas transições hormonais (Maguire 2008)[OB], regulação de BDNF e
+de espinhas dendríticas PFC/BLA (Almeida 2020)[OB]; (Kenney 2025)[ML], e efeitos sobre
+neurogênese e mielinização. O alopregnanolona regula neurogênese e comportamento
+depressivo/ansioso no isolamento crônico (Evans 2012)[ML]. A maquinaria plástica é a B3,
+proposta pelo insumo como **integrador central de saída** e candidata a explicar a rapidez e a
+duração do efeito antidepressivo.
+
+*MAGUIRE_2008[OB] | ALMEIDA_2020[OB] | KENNEY_2025[ML] | EVANS_2012[ML]*
+
+---
+
+## BLOCO_10 — IMPACTO SOBRE NEUROGÊNESE (elo B16; condicional)
+Há evidência em modelo de que o alopregnanolona regula a neurogênese hipocampal e que essa
+via participa do comportamento depressivo/ansioso no isolamento crônico (Evans 2012)[ML], e de
+que a progesterona promove BDNF hipocampal em fêmeas (Frye 2025)[ML]. Por **P16**, a
+neurogênese é escopo de `mecanismo_B16_neurogenese` (subordinada a B3); a B14 registra os
+neuroesteroides como **moduladores** desse processo, não como seu mecanismo central.
+
+*EVANS_2012[ML] | FRYE_2025[ML]*
+
+---
+
+## BLOCO_11 — ESTRATIFICAÇÃO (FENÓTIPOS, NÃO DIAGNÓSTICO)
+- **F1 — Depressão pós-parto (janela de RETIRADA):** queda abrupta de progesterona/estradiol/
+  alopreg sobre GABA-A plasticamente adaptado; trajetórias periparto predizem risco
+  (Schoretsanitis 2025)[EC]; janela onde os análogos PAMs mais funcionam (sinal de alvo).
+- **F2 — PMDD/TDPM (janela de SENSIBILIDADE lútea):** níveis normais, sensibilidade anômala do
+  GABA-A; repor pode piorar; antagonistas explorados (Hantsoo 2020)[OB]; (Bixo 2017)[EC].
+- **F3 — Perimenopausa (variabilidade do estradiol):** instabilidade (não nível baixo) associa-
+  se a humor/ansiedade (Gordon 2015)[OB]; (Joffe 2020)[EC].
+- **F4 — Fenótipos masculinos (testosterona/DHEA/5α-redutase/finasterida):** 5α-redutase tipo 2
+  na resposta de macho (Cadeddu 2025)[ML]; finasterida (Irwig 2014)[OB]; deficiência de
+  SRD5A2 (Mosher 2018)[EC]; DHEA/testosterona como estado (Mocking 2015)[EC]; (Walther
+  2019)[OB].
+- **F5 — Diferença sexual/dimorfismo (puberdade):** resiliência por THP/α4βδ só em fêmeas
+  púberes (Kenney 2025)[ML] — divergência de prevalência pós-puberdade.
+- **F6 — Estresse crônico/TEPT (e pânico):** alopreg baixa no líquor (Rasmusson 2006)[EC];
+  bloqueio de conversão 3α-HSD no plasma (Pineles 2018)[EC]; queda aguda de 3α-reduzidos no
+  ataque de pânico (Strohle 2003)[EC]. **TAG = lacuna real** de lastro humano direto (não
+  preencher por extrapolação).
+- **F7 — Resiliência/gestação adaptativa:** a gestação normal induz adaptação neuroesteroide/
+  GABA-A protetora; a falha da adaptação (não o nível) distingue risco; isolamento/estresse
+  suprime a síntese (Serra 2007)[ML].
+
+Fenótipos sobreponíveis — heurística, não taxonomia. Moderadores transversais: **sexo**,
+**janela reprodutiva/desenvolvimental** e **direção da flutuação** (subida vs. retirada).
+
+*SCHORETSANITIS_2025[EC] | HANTSOO_2020[OB] | GORDON_2015[OB] | CADEDDU_2025[ML] | KENNEY_2025[ML] | RASMUSSON_2006[EC]*
+
+---
+
+## BLOCO_12 — CENÁRIOS ILUSTRATIVOS (SEM CONDUTA)
+- **"Repor progesterona/alopreg acalma"** — falso como regra: PMDD tem nível normal e repor
+  pode piorar; o gatilho é a flutuação/retirada com plasticidade.
+- **"Neuroesteroide baixo = depressão"** — sem diagnóstico; sulfatados podem estar altos
+  (Bicikova 2000)[EC]; periférico ≠ central.
+- **"Zuranolona/brexanolone = antidepressivo geral"** — robustos na DPP, modestos/mistos na
+  TDM (Clayton 2023)[EC]; prova de alvo, não de deficiência.
+- **"TSPO-PET mede síntese de neuroesteroide"** — mede microglia; confundido por rs6971
+  (Schubert 2021)[EC].
+- **"É coisa só de mulher"** — refutado: 5α-redutase tipo 2/finasterida/DHEA em machos.
+- Outras condições (epilepsia catamenial/ganaxolona, esclerose múltipla, esquizofrenia, lesão
+  cerebral/AVE, dor/etifoxina, transtornos alimentares, insuficiência adrenal,
+  envelhecimento/declínio androgênico, bipolar/perinatal) entram como estudo-ponte
+  `[EXTRAPOLADO]` (M10 do GPM) — não são triagem sistemática deste mecanismo.
+
+---
+
+### 9.1 (PROFUNDIDADE) — JANELAS HORMONAIS: ONDE O MECANISMO VIRA FENÓTIPO
+A B14 toca ansiedade e depressão através de **janelas** nas quais a flutuação esteroide é
+acentuada. No **pós-parto**, a queda abrupta de progesterona/estradiol/alopreg sobre um
+GABA-A adaptado na gestação pode deixar um estado hipo-inibitório se a readaptação falhar
+(Maguire 2008)[OB] — e é justamente essa janela de retirada onde os análogos PAMs mais
+funcionam (Meltzer-Brody 2018)[EC]; (Deligiannidis 2021)[EC]. Na **PMDD/TDPM**, os níveis de
+alopregnanolona são normais, mas a resposta à flutuação lútea é anômala — uma doença da
+**sensibilidade**, não do nível (Hantsoo 2020)[OB]; (Hantsoo 2023)[OB]; o antagonista
+esteroide sepranolona e a inibição da 5α-redutase foram testados como prova de direção
+(Bixo 2017)[EC]; (Martinez 2016)[EC]. Na **perimenopausa**, manda a **variabilidade** do
+estradiol, não o nível baixo (Gordon 2015)[OB]; (Joffe 2020)[EC]; (Guerrieri 2021)[EC]. No
+**TEPT/pânico**, há lastro humano direto (líquor e plasma) de neuroesteroides inibitórios
+reduzidos/bloqueados (Rasmusson 2006)[EC]; (Pineles 2018)[EC]; (Strohle 2003)[EC]. A
+**ansiedade generalizada (TAG)** permanece a **lacuna real**: a etifoxina (ligante de TSPO) é
+sinal farmacológico, não prova etiológica, e não há lastro neuroesteroide humano direto —
+registra-se a ausência em vez de preenchê-la por extrapolação.
+
+*MAGUIRE_2008[OB] | MELTZERBRODY_2018[EC] | HANTSOO_2020[OB] | BIXO_2017[EC] | GORDON_2015[OB] | RASMUSSON_2006[EC] | STROHLE_2003[EC]*
+
+### 7.1 (PROFUNDIDADE) — A PONTE COM O SISTEMA ENDOCANABINOIDE: DOIS FREIOS LIPÍDICOS
+Uma das conexões mais elegantes da B14 é com a B13. Tanto os neuroesteroides quanto os
+endocanabinoides são sistemas **lipídicos de adaptação ao estresse** — dois "freios"
+endógenos que amortecem o HPA e o medo — e eles dialogam por uma molécula concreta: a
+**pregnenolona** funciona como um **inibidor sinal-específico do CB1 (CB1-SSi)**, liberado
+pelo THC e capaz de proteger o cérebro da intoxicação por cannabis (Vallee 2014)[ML]. Em
+paralelo, a revisão do eixo biomarcador estresse→esteroidogênese coloca os **receptores
+endocanabinoides** entre os alvos que modulam a síntese de neuroesteroides (em baixa dose,
+ISRS elevariam alopregnanolona via TSPO/endocanabinoides — Locci 2017)[OB]. Na fronteira
+periferia→cérebro, as redes de sinalização GABA (inclusive neuroesteroide-sensíveis) do eixo
+intestino–cérebro foram revisadas (Belelli 2025)[OB]. O quadro é o de dois freios lipídicos
+que se entrecruzam para coordenar a resposta ao estresse — coerente com o padrão da série:
+biologia animal/molecular forte, modulação humana emergente, e nenhuma das duas convertida em
+prescrição.
+
+*VALLEE_2014[ML] | LOCCI_2017[OB] | BELELLI_2025[OB]*
+
+### 12.1 (FECHO EDITORIAL) — A CIÊNCIA, DEPOIS A FERRAMENTA
+A B14 fecha com um contraste que estrutura toda a trilha. A **fisiologia endógena** é muito
+estabelecida: o cérebro sintetiza neuroesteroides, eles agem rápido no GABA-A (e de forma
+oposta no NMDA/sigma), a biologia estrutural localizou os sítios e mostrou alopregnanolona
+endógena constitutiva, a plasticidade de subunidades explica a bifasicidade da retirada, e o
+estresse induz a síntese como freio do HPA. A **tradução farmacológica** tem um diferencial
+real — fármacos aprovados na depressão pós-parto — mas restrito à janela: na TDM geral o
+benefício é modesto/misto, DHEA é de qualidade muito baixa, pregnenolona é preliminar, e a
+reposição hormonal é janela/desfecho-específica. A lição operacional é a mesma que rege as
+demais bibliotecas: descrever o mecanismo endógeno com rigor, preservar a bifasicidade, a
+diferença sensibilidade-vs-nível, periférico-vs-central e o dimorfismo sexual, sinalizar a
+engenharia farmacológica como prova de alvo em translação — não prescrição — e deixar a
+conduta para o módulo clínico. A ciência dos neuroesteroides está; a modulação segura e
+precisa por subtipo/circuito/janela é o que ainda amadurece.
+
+*BELELLI_2005[OB] | MAGUIRE_2008[OB] | WILSON_2025[OB] | CLAYTON_2023[EC] | PURDY_1991[ML]*
+
+---
+
+### 11.1 (PROFUNDIDADE) — FENÓTIPOS SOBREPONÍVEIS DOS NEUROESTEROIDES
+Os subtipos são heurística, não caixas. O **F1 (pós-parto)** é a janela de **retirada**, onde
+a queda esteroide sobre GABA-A adaptado gera desinibição e onde os análogos PAMs dão a prova
+de alvo mais forte. O **F2 (PMDD)** é a janela de **sensibilidade** lútea — níveis normais,
+resposta anômala, direção terapêutica possivelmente antagonista. O **F3 (perimenopausa)** é a
+janela da **variabilidade** do estradiol. O **F4 (masculino)** reúne testosterona/DHEA, a
+5α-redutase tipo 2 e o experimento natural da finasterida. O **F5 (sexo/puberdade)** captura o
+dimorfismo desenvolvimental (resiliência por THP/α4βδ só em fêmeas púberes). O **F6
+(estresse/TEPT/pânico)** tem o lastro humano direto (líquor/plasma) e carrega a **lacuna da
+TAG**. O **F7 (resiliência)** é a adaptação bem-sucedida (gestação protetora; síntese induzida
+por estresse). Essa separação — especialmente entre retirada (F1), sensibilidade (F2) e
+variabilidade (F3) — é o que impede tratar todos os quadros como "deficiência hormonal a
+repor".
+
+*SCHORETSANITIS_2025[EC] | HANTSOO_2023[OB] | JOFFE_2020[EC] | CADEDDU_2025[ML] | KENNEY_2025[ML] | RASMUSSON_2006[EC]*
+
+### 12.2 (FECHO) — A DIREÇÃO DA RESPOSTA
+A B14 entrega um mecanismo real e bem descrito — um sistema endógeno de modulação de ganho,
+sintetizado no cérebro, que amortece o estresse pelo GABA-A tônico e excita seletivamente
+pelo NMDA/sigma, com plasticidade de subunidades que torna a **retirada**, e não o nível, o
+gatilho — e uma tradução clínica que é ao mesmo tempo promissora e estreita: prova de alvo
+robusta na janela pós-parto, modesta/mista na TDM geral, e uma direção paradoxal na
+hipersensibilidade (antagonista, não PAM). O sistema é bifásico por subtipo receptor, sexo e
+direção da flutuação; o esteroide periférico não mede o cérebro; o PET de TSPO não mede
+síntese; e não há deficiência neuroesteroide diagnosticável. Para a plataforma, a ciência
+manda dizer que os neuroesteroides modulam ansiedade e depressão como um freio endógeno
+induzido pelo estresse, com vulnerabilidade nas transições hormonais; a engenharia segura
+(modular o subtipo/circuito/janela certos, e saber quando a direção é inibir e não potenciar)
+é o que não está pronto. Essa — e não a defesa da reposição hormonal — é a conclusão
+mecanística da B14.
+
+*PURDY_1991[ML] | MAGUIRE_2008[OB] | MELTZERBRODY_2018[EC] | CLAYTON_2023[EC] | BICIKOVA_2000[EC]*
+
+---
+
+---
+
+## BLOCO_14 — ATUALIZAÇÃO CANÔNICA [[AT 2026-09-09]] · INSUMO EXTERNO AUDITADO REF A REF (P-7)
+
+> **Proveniência.** Rodada [AT] do GPM B14: 57 âncoras estruturantes (índice oficial), §6 com 107 não citadas e §4/§8 com correções e lacunas, reconciliados contra a V1 pelo pipeline oficial G1 (esummary + efetch; abstract lido antes de incorporar) e G2/G3. Das 57 âncoras, 26 não constavam da V1 e foram resolvidas e incorporadas aqui; das 107 itens da §6, 24 entraram por evidência direta e 83 foram triados (44 rebaixados = interface HPA/B2/B5, conduta menopausal ou redundância; 7 excluídos por malha: etanol×2, tiques, anestesia, depressão-Alzheimer, esquizofrenia e bibliometria — decisões individuais em `producao/insumos/matriz_b14_decisao.json`). Dez divergências entre o rótulo do insumo e a identidade real do artigo foram **expostas** (BLOCO_15, regra 08); nenhum identificador foi inventado e nenhum número do insumo entrou sem fonte.
+
+### B14.1 — Neuroesteroidogênese: enzimas, regionalidade e resolução celular
+
+A via biossintética cerebral — colesterol → pregnenolona → progesterona → redução 5α → 3α-HSD → alopregnanolona — está documentada no cérebro humano com enzimas esteroidogênicas identificadas regionalmente (Stoffel-Wagner, 2001)[OB].
+A presença de P450scc, aromatase, 5α-redutase e 3α-HSD no SNC humano sustenta a autonomia parcial da síntese cerebral e suas implicações clínicas (Stoffel-Wagner, 2003)[OB].
+Estrógenos e progestágenos também são sintetizados de novo no tecido neural, com distribuição e funções próprias, incluindo proteção hipocampal (Rossetti, 2016)[OB].
+As 17β-hidroxisteroides desidrogenases completam o quadro enzimático como etapas indispensáveis do metabolismo neuroesteroide central (He, 2019)[OB].
+A resolução de célula única no cérebro murino mostra a neuroesteroidogênese distribuída por populações celulares distintas, com biossíntese intermediária compartimentada (Koganti, 2025)[ML].
+
+* STOFFELWAGNER_2001[OB] | STOFFELWAGNER_2003[OB] | ROSSETTI_2016[OB] | HE_2019[OB] | KOGANTI_2025[ML] *
+
+### B14.2 — Neuroesteroides → GABA-A: alosterismo, plasticidade de subunidades e comportamento
+
+A sinalização GABAérgica por neuroesteroides endógenos — alopregnanolona, THDOC, androstanodiol — integra síntese local, flutuações fisiológicas e resposta ao estresse em saúde e doença (MacKenzie & Maguire, 2013)[OB].
+Neuroesteroides derivados de hormônios ovarianos regulam a expressão e a plasticidade de subunidades do GABA-A no período reprodutivo, com leitura direta para a vulnerabilidade afetiva (MacKenzie & Maguire, 2014)[OB].
+A ponte entre a modulação alostérica positiva dos PAMs endógenos e o comportamento foi sistematizada de forma mecanística, fechando a cadeia molécula→circuito→fenótipo (Belelli, 2022)[OB].
+Experimentalmente, a ação da alopregnanolona e do GABA sobre o receptor GABA-A é modulada por neuroesteroides de modo dependente de contexto (Strömberg, 2006)[ML].
+No nível celular, a alopregnanolona potencia a inibição em interneurônios parvalbumina do hipocampo — um braço celular específico do efeito neuroesteroide (Lu, 2023)[ML].
+
+* MACKENZIE_2013[OB] | MACKENZIE_2014[OB] | BELELLI_2022[OB] | STROMBERG_2006[ML] | LU_2023[ML] *
+
+### B14.3 — SSRI → neuroesteroidogênese (ponte B4↔B14)
+
+Inibidores seletivos da recaptação de serotonina alteram diretamente a atividade de enzimas neuroesteroidogênicas e elevam a síntese de alopregnanolona por mecanismo farmacodinâmico dissociado da recaptação de serotonina (Griffin & Mellon, 1999)[ML].
+
+* GRIFFIN_1999[ML] *
+
+### B14.4 — Estresse, circuitos e modelos animais causais (vias 4 e 10)
+
+O isolamento social prolongado em camundongos reduz a biossíntese de alopregnanolona em circuitos corticolímbicos — com redução da 5α-redutase tipo I — associando-se a alterações comportamentais (Agís-Balboa, 2007)[ML].
+A alopregnanolona é multifuncional no eixo do estresse: sintetizada por 5α-redutase/3α-HSD, interage bidirecionalmente com o HPA em transtornos relacionados ao estresse (Bali & Jaggi, 2014)[OB].
+Em modelo de desenvolvimento em dois insultos, sexo e ciclo estral modulam fenótipos de ansiedade e depressão, evidenciando interação desenvolvimento×hormônio (Jarić, 2019)[ML].
+Em ratos sob estresse crônico imprevisível, a reversão de comportamento tipo-depressivo por intervenção fitoterápica acompanhou normalização de neuroesteroides e das enzimas de síntese — evidência do eixo; o veículo herbário não é o conteúdo canônico (Guo, 2017)[ML].
+A comparação direta alopregnanolona×diazepam em camundongos mostra efeitos diferenciais sobre comportamento social por modulação distinta de oscilações, distinguindo farmacologicamente o modulador neuroesteroide (Yawata, 2024)[ML].
+
+* AGISBALBOA_2007[ML] | BALI_2014[OB] | JARIC_2019[ML] | GUO_2017[ML] | YAWATA_2024[ML] *
+
+### B14.5 — Evidência humana transversal e circuitos (via 5)
+
+No córtex pré-frontal post-mortem (área de Brodmann 9) de pacientes com depressão maior, a 5α-redutase tipo I está reduzida — substrato molecular humano da deficiência de alopregnanolona (Agís-Balboa, 2014)[EC].
+Neuroesteroides 3α-reduzidos e precursores flutuam ao longo da gestação e do pós-parto em mulheres, com relação ao humor (Gilbert Evans, 2005)[EC].
+A vulnerabilidade feminina aumentada a transtornos de ansiedade, trauma e estresse foi integrada em revisão com papel potencial dos hormônios sexuais (Li & Graham, 2017)[OB].
+Os transtornos de humor e a ansiedade acompanham os estados hormonais ao longo da vida da mulher, da puberdade à menopausa, em revisão narrativa de escopo reprodutivo (Antonelli, 2022)[OB].
+A revisão etiológico-mecanística de Kundakovic & Rocks disseca a flutuação hormonal como fator de risco feminino para depressão e ansiedade (Kundakovic & Rocks, 2022)[OB].
+Em humanos, a administração de pregnenolona elevou a alopregnanolona e associou-se a redução da atividade da amígdala e da ínsula, com maior conectividade de regulação emocional (Sripada, 2013)[EC].
+Alopregnanolona e DHEA séricos modulam a conectividade de repouso da amígdala em humanos — níveis maiores associados a menor acoplamento amígdala–hipocampo (Sripada, 2014)[EC].
+A janela das transições hormonais foi mapeada por tomografia por emissão de pósitrons como caminho para ligar flutuação hormonal a alterações neuroquímicas (Zsido, 2017)[OB].
+A interface inflamatória no cérebro feminino sistematiza mecanismos sexo-específicos em transtornos de humor e estresse, sem substituir o eixo neuroesteroide (Marano, 2026)[OB].
+
+* AGISBALBOA_2014[EC] | EVANS_2005[EC] | LI_2017[OB] | ANTONELLI_2022[OB] | KUNDAKOVIC_2022[OB] | SRIPADA_2013[EC] | SRIPADA_2014[EC] | ZSIDO_2017[OB] | MARANO_2026[OB] *
+
+### B14.6 — Janela gestação → pós-parto
+
+Alopregnanolona sérica baixa no final da gestação associou-se a sintomas depressivos (Hellgren, 2014)[EC].
+As trajetórias longitudinais de estradiol e progesterona da gestação ao pós-parto formam classes latentes que se associam diferencialmente a desfechos afetivos — a heterogeneidade individual é o achado central (Dukic, 2024)[EC].
+Metabólitos da progesterona durante a gestação associaram-se a ansiedade perinatal em coorte prospectiva (Etyemez, 2023)[EC].
+Os biomarcadores da psiquiatria reprodutiva foram revisados como oportunidade translacional das janelas hormonais, sem ferramenta diagnóstica pronta (Etyemez, 2025)[OB].
+Em mulheres saudáveis acompanhadas longitudinalmente, a alopregnanolona e o humor no periparto sugerem relação em forma de U, reforçando o paradigma da sensibilidade individual (Grötsch, 2024)[EC].
+Estudo exploratório em múltiplos tempos do periparto ligou a alopregnanolona a sintomas depressivos e ansiosos (Standeven, 2022)[EC].
+
+* HELLGREN_2014[EC] | DUKIC_2024[EC] | ETYEMEZ_2023[EC] | ETYEMEZ_2025[OB] | GROTSCH_2024b[EC] | STANDEVEN_2022[EC] *
+
+### B14.7 — Janela ciclo menstrual e PMDD: sensibilidade, não nível
+
+Os efeitos da fase do ciclo menstrual em ansiedade e TEPT foram revisados com mecanismos e limitações metodológicas explícitas (Nillni, 2021)[OB].
+A PMDD é conceituada como transtorno de sensibilidade subótima aos neuroesteroides, mediada pela sensibilidade do GABA-A à alopregnanolona (Gao, 2023)[OB].
+A revisão abrangente da progesterona e da alopregnanolona — 'amiga ou adversa?' — organiza propriedades, metabolismo e efeitos no humor feminino (Sundström-Poromaa, 2020)[OB].
+Nos transtornos de humor reprodutivos, o fator causal proposto é a sensibilidade a esteroides — não os níveis absolutos — com mediação do receptor GABA-A e do estresse (Schweizer-Schubert, 2021)[OB].
+O risco de suicídio relacionado ao ciclo menstrual foi revisado na perspectiva molecular, com a flutuação ovariana cíclica como janela de vulnerabilidade (Ross, 2026)[OB].
+
+* NILLNI_2021[OB] | GAO_2023[OB] | SUNDSTROMPOROMAA_2020[OB] | SCHWEIZERSCHUBERT_2021[OB] | ROSS_2026[OB] *
+
+### B14.8 — Janela perimenopausa e menopausa
+
+Revisão sistemática conclui que a menopausa eleva o risco de depressão e ansiedade diagnosticadas (Alblooshi, 2023)[EC].
+Em amostra comunitária de mulheres de meia-idade, os sintomas depressivos e ansiosos variaram significativamente por status menopausal (Mulhall, 2018)[EC].
+A avaliação transversal de mulheres na transição peri/pós-menopausa documentou depressão, ansiedade e cognição (Nagda, 2023)[EC].
+Na transição menopausal tardia, a relação entre testosterona e sintomas depressivos foi examinada longitudinalmente (Sander, 2021)[EC].
+O modelo neurocognitivo estrógeno–estresse–depressão organiza a interação em comentário conceitual (Newhouse & Albert, 2015)[OB].
+A depressão perimenopausal foi revista sob a ótica da inflamação e do estresse oxidativo, como alvos e interface (Yu, 2025)[OB].
+Na transição menopausal, maior variabilidade do estradiol predisse fenótipos depressivos com ansiedade e anedonia; a sensibilidade basal ao estradiol predisse a resposta sintomática em ensaio experimental (Lozza-Fiacco, 2022)[EC].
+
+* ALBLOOSHI_2023[EC] | MULHALL_2018[EC] | NAGDA_2023[EC] | SANDER_2021[EC] | NEWHOUSE_2015[OB] | YU_2025[OB] | LOZZAFIACCO_2022[EC] *
+
+### B14.9 — Camada terapêutica como validação mecanística (sinal — não protocolo; P20)
+
+A revisão do papel da alopregnanolona na fisiopatologia e no tratamento da depressão pós-parto consolida a janela puerperal como prova de conceito do eixo (Meltzer-Brody & Kanes, 2020)[OB].
+A leitura por que/como funcionam os tratamentos à base de alopregnanolona na depressão pós-parto explicita a validação mecanística do eixo alopregnanolona–GABA-A por via regulatória (Walton & Maguire, 2019)[OB].
+A perspectiva histórica da alopregnanolona — da fisiopatologia molecular à terapêutica — sistematiza três décadas de ações não-genômicas via GABA-A (Paul, Pinna & Guidotti, 2020)[OB].
+As ações pleiotrópicas da alopregnanolona foram propostas como base dos benefícios em TEPT e depressão, mantendo o estatuto de perspectiva mecanística (Boero, 2020)[OB].
+Os moduladores do receptor GABA-A como agentes emergentes nos transtornos depressivos foram revisados como camada terapêutica—sinal (Guan & Li, 2026)[OB].
+A meta-análise de ensaios randomizados com estrogênio exógeno mostrou melhora do humor depressivo em mulheres — evidência de intervenção, não do eixo endógeno (Zhang, 2023)[EC].
+A revisão dos agentes hormonais na depressão associada à menopausa permanece no domínio exógeno—sinal, distinto da fisiologia endógena (Herson & Kulkarni, 2022)[OB].
+
+* MELTZERBRODY_2020[OB] | WALTON_2019[OB] | PAUL_2020[OB] | BOERO_2020[OB] | GUAN_2026[OB] | ZHANG_2023[EC] | HERSON_2022[OB] *
+
+---
+
+## BLOCO_15 — REGRAS CANÔNICAS DA RODADA [AT] (B14-REGRA-01..10), EXPOSIÇÕES, MALHA E LACUNAS [G1]
+
+**B14-REGRA-01 — Flutuação ≠ doença.** Mudanças hormonais reprodutivas são exposição; a vulnerabilidade canônica é a **sensibilidade individual ao fluxo hormonal** (Kundakovic & Rocks, 2022; Schweizer-Schubert, 2021; Lozza-Fiacco, 2022; Grötsch, 2024) — nunca "hormônio causa depressão".
+
+**B14-REGRA-02 — Alopregnanolona↓ ≠ único mecanismo.** O subeixo ALLO/5α-redutase está bem ancorado (Agís-Balboa, 2014 post-mortem; Hellgren, 2014), mas é parte — não a totalidade — da fisiopatologia depressiva.
+
+**B14-REGRA-03 — Terapêutica neuroesteroide = sinal.** Brexanolona/zuranolona/agentes hormonais aparecem como validação mecanística (Meltzer-Brody & Kanes, 2020; Walton & Maguire, 2019; Paul, 2020; Guan & Li, 2026) — proibido protocolo, dose ou conduta (P20).
+
+**B14-REGRA-04 — HPA é interface.** Cortisol/GR/MR/FKBP5 entram como moduladores com âncoras cruzadas a B2/B12; 34 itens HPA-genéricos do insumo foram rebaixados por redundância ou deslocamento de território (não apagam a ponte B14.5).
+
+**B14-REGRA-05 — Fenótipos reprodutivos = janelas naturais.** Ciclo/PMDD, gestação-pós-parto e perimenopausa são substrato do mecanismo (Hellgren, Dukic, Nillni, Gao, Alblooshi, Lozza-Fiacco), não subtipos diagnósticos fechados nem "doença hormonal".
+
+**B14-REGRA-06 — Exógeno ≠ endógeno.** Estrogênio terapêutico, reposição hormonal e contracepção ficam na camada intervenção-sinal (Zhang, 2023; Herson, 2022); revisões de conduta (guidelines, THR em menopausa) foram rebaixadas.
+
+**B14-REGRA-07 — Revisões = arquitetura.** Os 27 itens [OB] da leva compilam e organizam o mecanismo; não contam como prova causal isolada.
+
+**B14-REGRA-08 — Chave do insumo ≠ identidade do artigo; exposições desta rodada.** Dez rótulos do insumo resolviam para artigos distintos e foram corrigidos com o autor real (esummary): (i) "Stefaniak 2023" = Stoffel-Wagner 2003 (biossíntese cerebral humana; a Stefaniak 2023 real permanece sem identificador — [G1]); (ii) "Luscher 2023" = MacKenzie & Maguire 2013 (o Luscher 2023 real já era vigente na V1); (iii) "Matthew 2013" = Meltzer-Brody & Kanes 2020 — o item que o §4 do briefing julgava "não localizado" estava vivo sob rótulo alheio; (iv) "Schiller 2016" = Schweizer-Schubert 2021 (era a lacuna [G1] da Via 7; Schiller 2016 real permanece [G1]); (v) "Locci & Pinna 2017" = Lozza-Fiacco 2022 (o Locci & Pinna 2017 real já era vigente — REF_LOCCI_2017); (vi) "Stumper 2026" = Sundström-Poromaa 2020 (o §4 a dava por não resolvida; Stumper 2026 permanece [G1]); (vii) "Jain 2005" = Jarić 2019 (item §4 "não resolvida"; Jain 2005 permanece [G1]); (viii) "Franco 2016" = Gądek-Michalska 2013 (rebaixada: HPA genérica); (ix) "Vaudry 2022" = Von Werne Baes 2012 (rebaixada; o Vaudry 2022 real já era vigente); (x) "Riebel 2024 / §8.3" = Rodríguez-Cerdeira 2026, **já vigente na V1** (REF_RODRIGUEZCERDEIRA_2026), e o Riebel real já era vigente (REF_RIEBEL_2025) — lacuna TSPO/5α-redutase triplamente coberta, sem nova inclusão.
+
+**B14-REGRA-09 — Anos canônicos = ano de impressão.** "Sripada 2013a" é print 2014; "Belelli 2021" é print 2022; "Ross 2025" é print 2026 — os identificadores internos usam sempre o ano de impressão do PubMed.
+
+**B14-REGRA-10 — Malha de exclusão registrada.** Excluídos por escopo (não por falta de qualidade): substrato de etanol (Hirani 2005; VanDoren 2000), exacerbação de tiques (Bortolato 2021 — hipótese ALLO×estresse em Tourette), anestesia geral (Tateiwa 2024), depressão associada a Alzheimer (Tidke 2025), HPA×esquizofrenia (Mikulska 2021) e bibliometria sem conteúdo mecanístico (Guo 2023). CORREÇÕES §4 JÁ EFETIVAS NA V1 (não requerem ação): "Trauger 2002" = van Broekhoven & Verkes 2003 (REF_VAN_2003 vigente); Antonoudiou preprint→publicado 2022 (REF_ANTONOUDIOU_2022); Evans 2005 e Hirani 2005 duplicatas internas colapsadas (Evans entra uma única vez; Hirani excluída por malha etanol).
+
+**Lacunas [G1] que permanecem declaradas (sem fonte = não incorporar):** Stefaniak 2023 real; Schiller 2016 real; Stumper 2026; Jain 2005; Matthew & Samba 2013 real; ensaios de DHEA/pregnenolona em depressão unipolar com desfechos padronizados; testosterona em homens×humor (subcorpus pequeno); interações estrógeno×antidepressivo em humanos dedicadas; confundimento por contracepção hormonal nos estudos de ciclo; Parikh 2025 (não indexada — NAO-IDX).
+
+---
+## TABELA DE EVIDÊNCIAS
+
+| Tipo | Resultado | forca_evidencia |
+|---|---|---|
+| Neuroesteroides sintetizados no cérebro / ação rápida GABA-A | Baulieu/Majewska/Belelli | alto (biologia celular) |
+| Estresse agudo eleva alopregnanolona cerebral (freio HPA) | Purdy 1991 (rato) | alto em modelo [ML] |
+| Sítios estruturais (α/β PAMs vs. poro sulfatados; ALLO endógena) | Miller/Legesse/Sun/Zhou | alto (estrutural) [ML] |
+| Plasticidade α4/δ na gestação/retirada (bifasicidade) | Maguire & Mody 2008 | alto em modelo, parcial humano |
+| Deleção δ impede modulação neuroesteroide | Vicini 2002 | alto em modelo [ML] |
+| PMDD: nível normal, sensibilidade anômala | Girdler/Hantsoo/Bixo | médio-alto (humano) |
+| Perimenopausa: variabilidade do estradiol | Gordon/Joffe/Schmidt | médio (humano) |
+| Alopregnanolona baixa no líquor no TEPT (mulheres) | Rasmusson 2006 | médio-alto (humano/CSF) |
+| ISRS elevam neuroesteroides no líquor | Uzunova 1998 | médio (humano/CSF) |
+| Pregnenolona-sulfato ALTA no soro (ansiedade-depressão) | Bicikova 2000 | baixo-médio (n pequeno) |
+| Brexanolone/zuranolona na DPP (ECRs) | Kanes/Meltzer-Brody/Deligiannidis | alto na janela pós-parto [EC] |
+| Zuranolona na TDM geral (MOUNTAIN/metas) | Clayton/Lin | baixo-médio (modesto/misto; negativo) |
+| TSPO-PET na TDM (PK11195; sem vínculo a esteroides) | Schubert 2021 | baixo-médio (microglia; rs6971) |
+| 5α-redutase tipo 2 PFC na resposta de macho | Cadeddu 2025 | alto em modelo [ML] |
+| Pregnenolona = inibidor sinal-específico do CB1 (CB1-SSi) | Vallée/Piomelli 2014 | alto em modelo [ML] |
+| DHEA/testosterona/estradiol como antidepressivo | Wolkowitz/Walther/Soares/Gordon | baixo-médio (misto/janela) |
+
+## CONTROVÉRSIAS E LACUNAS
+Bifasicidade (subida sedativa/tolerada vs. retirada desestabilizante — pergunta por transição,
+não por nível); PMDD = nível vs. sensibilidade (repor vs. bloquear — tensão real entre
+escolas); perimenopausa = nível baixo vs. variabilidade; TSPO-PET = microglia vs. síntese
+(rs6971); fármacos DPP vs. TDM geral (janela específica ≠ antidepressivo geral; PRAX-114
+falhou); reposição hormonal (evidência mista/janela); finasterida = perda experimental vs.
+síndrome persistente; **por que o efeito dura além da meia-vida** (plasticidade/fosforilação
+β3/α4 vs. imune-trófico sustentado vs. osciladores de rede BLA — sem consenso); por que
+neuroesteroide é antidepressivo e benzodiazepínico não (seletividade δ tônico + ações
+não-GABA; knock-in α2 só em pré-print `[G1]`); convergência com cetamina/psicodélicos nos
+antidepressivos rápidos `[EXTRAPOLAÇÃO POR ANALOGIA]`; **TAG sub-representada** (lacuna real;
+etifoxina é sinal farmacológico, não prova etiológica); tradução animal→humano do ciclo/gestação;
+epigenética *srd5a1* (estudo primário `[G1]`). Itens `[G1]` do Briefing (originais α4/δ
+Smith/Shen/Gong; Baulieu 1981; Maguire & Mody 2005/2007; genética GABRA4/GABRD humana; knock-in
+α2 Durkin 2018 bioRxiv; golexanolona/PRAX-114 com PMID primário; finasterida→ideação suicida
+de farmacovigilância; alopreg sérica no TEPT; etifoxina RCT grande na TAG) a cravar na
+auditoria científica G3; todos os tamanhos de efeito (SMD/OR de zuranolona/DHEA/
+testosterona/estradiol; brexanolone *Lancet*; razão de risco sexual ~2×) são alegação a
+confirmar no G3. 255 PMIDs do Briefing validados no PubMed (240 âncoras mecanísticas; 15 de
+intervenção não-mecanismo excluídos do corpo); zero PMID no texto.
+
+## ELEMENTOS MOLECULARES CRÍTICOS (UniProt/HGNC)
+GABRA1/GABRA2/GABRA3/GABRA4/GABRA6 (α1/2/3/4/6), GABRD (δ), GABRG2 (γ2), GABRB3 (β3), TSPO
+(P30536), STAR/StAR, CYP11A1 (P450scc), HSD3B (3β-HSD), SRD5A1/SRD5A2 (5α-redutase tipos 1/2),
+AKR1C4/AKR1C2 (3α-HSD), CYP19A1 (aromatase), CYP17A1, HSD17B (17β-HSD), ESR1/ESR2 (ERα/ERβ),
+PGR (PR), AR (receptor androgênico), SIGMAR1 (sigma-1), PAQR (mPR), PGRMC1/PGRMC2, BDNF,
+TLR4, NTRK2.
+
+## MARCADORES RESUMIDOS (para RAG/ontologia)
+key_pathways (esteroidogênese neural colesterol→TSPO/StAR→CYP11A1→pregnenolona→progesterona→
+SRD5A→5α-DHP→AKR1C→alopregnanolona/THDOC; PAM do GABA-A extrassináptico δ/α4 inibição tônica;
+sulfatados PS/DHEA-S antagonizam GABA-A no poro e agonizam NMDA/sigma-1; plasticidade de
+subunidades α4/δ na gestação/retirada e fase lútea; indução por estresse e freio do HPA;
+biologia estrutural α/β vs. poro; ações não-GABA TLR4/imune e BDNF/trófico; modulação por
+estradiol/ER/extinção e testosterona/aromatase; TSPO/mitocôndria/neuroinflamação;
+pregnenolona CB1-SSi; janelas pós-parto/PMDD/perimenopausa/puberdade),
+biomarkers (alopregnanolona/3α,5α-THP e razão alopreg/progesterona periféricos; razão
+alopreg/5α-DHP no plasma/TEPT; pregnenolona-sulfato/DHEA-S; estradiol/testosterona — nível
+absoluto < variabilidade; alopregnanolona/pregnanolona no líquor no TEPT; PET de TSPO
+=microglia; MRS de GABA; EEG theta da BLA; fMRI por fase do ciclo — todos de pesquisa, NENHUM
+exame diagnóstico; periférico≠cérebro), interventions_descritas (brexanolone/zuranolona/
+ganaxolona/golexanolona/sepranolona/etifoxina/estradiol/testosterona/DHEA/pregnenolona/
+finasterida referidos como SINAL EXPERIMENTAL de alvo/janela — robustos na DPP, mistos na TDM,
+NÃO prescritos, P20), connection_strength (B5_HIGH, B3_HIGH, B2_HIGH, B12_HIGH,
+B4_MEDIUM-HIGH, B1_MEDIUM, B9_MEDIUM, B13_MEDIUM, B10_MEDIUM, B7_LOW-emergente, B6_LOW,
+B8_LOW, B11_LOW, B15_LOW, B16_LOW). forca_evidencia_afirmacao: alto (biologia
+celular/estrutural/animal, indução por estresse, prova clínica na janela pós-parto), médio
+(marcadores humanos/líquor, janelas reprodutivas, imagem), baixo-médio (terapêutica na TDM
+geral, reposição hormonal/DHEA, marcadores periféricos, PET de TSPO como síntese).
+
+---
+
+## METADADOS CANÔNICOS (Contrato de Geração — P12 / R06 / P17)
+
+**natureza_sistema (P12 — hard_fail):**
+```json
+{ "natureza_sistema": { "tipo": "suporte_decisao_clinica", "nao_substitui_julgamento_profissional": true, "nao_realiza_diagnostico": true, "decisao_final_profissional": true } }
+```
+> Biblioteca de **mecanismo** (P20): descreve a sinalização neuroesteroide endógena;
+> neuroesteroide ≠ hormônio gonadal ≠ fármaco; brexanolone/zuranolona/etifoxina/reposição/
+> precursores são sinal experimental de alvo/janela, nunca prescrição.
+
+**semantic_layer (R06):**
+- **clinical_summary (3 frases):** Neuroesteroides são esteroides sintetizados no próprio cérebro (alopregnanolona/THDOC) que agem rápido como potenciadores do GABA-A extrassináptico δ (inibição tônica) — um freio endógeno ao estresse —, enquanto as formas sulfatadas (pregnenolona-sulfato/DHEA-S) têm sinal oposto (antagonizam GABA-A, agonizam NMDA/sigma-1). | A vulnerabilidade não vem do nível absoluto, e sim da flutuação/retirada com plasticidade de subunidades α4/δ: na PMDD os níveis são normais e o defeito é de sensibilidade, na perimenopausa manda a variabilidade do estradiol, e o TEPT mostra alopregnanolona baixa no líquor. | Os análogos PAMs (brexanolone/zuranolona) validam o alvo na janela pós-parto, mas são sinal experimental — não prova de deficiência basal nem prescrição; use para interpretar a fisiologia endógena e as janelas hormonais.
+- **rag_context_hint:** Recuperar quando: houver menção a neuroesteroides, alopregnanolona/3α,5α-THP, pregnanolona, THDOC, pregnenolona(-sulfato)/DHEA(-S), GABA-A δ/α4/γ2, inibição tônica/fásica, TSPO/StAR, SRD5A/5α-redutase, AKR1C/3α-HSD, aromatase, plasticidade de subunidades/retirada de progesterona, depressão pós-parto, PMDD/TDPM, perimenopausa/estradiol, puberdade/diferença sexual, finasterida, testosterona/DHEA, brexanolone/zuranolona/etifoxina, PET de TSPO/rs6971, ou pregnenolona/CB1-SSi.
+- **clinical_domains:** decisao_terapeutica · seguranca_clinica · triagem_clinica · monitoramento
+- **semantic_keywords:** neuroesteroide, alopregnanolona, GABA-A tônico, δ/α4, plasticidade de retirada, PMDD sensibilidade, perimenopausa variabilidade, TSPO, brexanolone/zuranolona sinal, sexo/janela
+- **related_entities:** mecanismo_B5_gaba_glutamato, mecanismo_B3_neuroplasticidade, mecanismo_B2_eixo_hpa_cortisol, mecanismo_B12_neurobiologia_trauma, mecanismo_B4_deficiencias_monoaminas, mecanismo_B1_neuroinflamacao, mecanismo_B9_disfuncao_mitocondrial, mecanismo_B13_sistema_endocanabinoide, mecanismo_B10_desregulacao_circadiana, mecanismo_B7_eixo_intestino_cerebro, mecanismo_B16_neurogenese
+- **embedding_priority:** alta
+
+**corte_literatura (R06):** busca ativa E-utilities/PubMed (Briefing B14, 40 clusters C01–C40 +
+três insumos externos auditados, blocos A–Q) — corte 2026-09-07; 255/255 PMIDs resolvem no
+PubMed.
+
+**R04:** a sinalização endógena/animal/estrutural é `[APENAS PRÉ-CLÍNICO]`/
+`[EXTRAPOLAÇÃO POR ANALOGIA: roedor/célula/cryo-EM — validação humana associativa]`; fármacos
+e reposição hormonal são sinal de alvo/janela, não conduta.
+
+**P17:** ID `mecanismo_B14_neuroesteroides_hormonios_neuroativos`. **P16:** neurogênese é
+escopo de `mecanismo_B16_neurogenese` (subordinado a B3).
+
+---
+
+> **Canônica v1 (Rodada 3).** G1 eutils (255/255 PMIDs do Briefing B14 validados; 240
+> âncoras mecanísticas; 15 do bloco N de intervenção não-mecanismo excluídas do corpo e
+> registradas), G2 (espécie/desenho), G3 (suporte). Sem número de PMID no texto. Causalidade
+> animal/estrutural [ML]/[EXT]; farmacologia exógena e reposição hormonal são sinal, não
+> conduta (P20). Correções de rótulo aplicadas na auditoria (1º autor/ano oficial): Crowley
+> 2014 (Briefing rotulava "Schüle"), Eser 2006, Reddy 2022, Belelli 2020, Patterson 2024 —
+> PMIDs inalterados e on-topic. 2ª verificação independente (P-6, avaliador cego da Fase 3 de
+> Fidelidade Canônica, itens A/B/C/E) é pendência do avaliador externo.
+
+### Nota final de abrangência
+Em síntese, a B14 documenta a sinalização neuroesteroide endógena (esteroidogênese neural via
+TSPO/StAR/CYP11A1/SRD5A/AKR1C; modulação rápida do GABA-A tônico δ/α4 pelos 3α-reduzidos e
+sinal oposto dos sulfatados no poro/NMDA; plasticidade de subunidades na retirada; indução
+por estresse e freio do HPA; ações imune/tróficas; janelas reprodutivas e dimorfismo sexual),
+distingue-a com rigor dos hormônios gonadais nucleares e da farmacologia exógena (análogos
+PAMs como prova de alvo robusta na DPP mas modesta/mista na TDM; reposição hormonal e
+precursores de evidência mista; finasterida como experimento de perda) e posiciona qualquer
+intervenção como sinal experimental do módulo clínico — ciência primeiro, farmacologia e
+prescrição depois do que os ensaios humanos ainda não confirmaram de forma geral. O freio
+neuroesteroide é mecanismo robusto em biologia celular, estrutural e animal, com lastro humano
+crescente e janelas específicas; a modulação farmacológica segura e precisa por
+subtipo/circuito/sexo/direção da flutuação permanece no domínio do sinal experimental.
+
+---
+
+---
+
+### Nota de fecho v1 → v2 (rodada [AT 2026-09-09])
+A versão anterior (v1, 240 âncoras mecanísticas sobre os 255 PMIDs validados do briefing original) foi integralmente preservada em `producao/historico/v1_canonica_2026-09-09.md`. A rodada [AT] auditou ref a ref o insumo externo completo do GPM B14 (índice de 57 âncoras; §6 com 107 itens; correções §4; lacunas §8), incorporou 50 referências novas com verificação G1 (autor/ano/tema/abstract), rebaixou 44 por escopo e excluiu 7 pela malha, expôs 10 divergências de identidade entre rótulo do insumo e artigo real e consolidou as 10 regras canônicas da biblioteca no BLOCO_15. Totais da v2: **290 referências · 290 vínculos · 290 registros de auditoria**. P-6 (segunda verificação independente, avaliador cego) permanece pendente para toda a leva [AT].
+
+---
+
+## APÊNDICE DE REFERÊNCIAS (MÓDULO 09) — ATUALIZAÇÃO [AT 2026-09-09]
+
+* STOFFELWAGNER_2001[OB] | STOFFELWAGNER_2003[OB] | ROSSETTI_2016[OB] | HE_2019[OB] | KOGANTI_2025[ML] | MACKENZIE_2013[OB] | MACKENZIE_2014[OB] | BELELLI_2022[OB] | STROMBERG_2006[ML] | LU_2023[ML] | GRIFFIN_1999[ML] | AGISBALBOA_2007[ML] | BALI_2014[OB] | JARIC_2019[ML] | GUO_2017[ML] | YAWATA_2024[ML] *
+* AGISBALBOA_2014[EC] | EVANS_2005[EC] | LI_2017[OB] | ANTONELLI_2022[OB] | KUNDAKOVIC_2022[OB] | SRIPADA_2013[EC] | SRIPADA_2014[EC] | ZSIDO_2017[OB] | MARANO_2026[OB] | HELLGREN_2014[EC] | DUKIC_2024[EC] | ETYEMEZ_2023[EC] | ETYEMEZ_2025[OB] | GROTSCH_2024b[EC] | STANDEVEN_2022[EC] | NILLNI_2021[OB] | GAO_2023[OB] | SUNDSTROMPOROMAA_2020[OB] | SCHWEIZERSCHUBERT_2021[OB] | ROSS_2026[OB] *
+* ALBLOOSHI_2023[EC] | MULHALL_2018[EC] | NAGDA_2023[EC] | SANDER_2021[EC] | NEWHOUSE_2015[OB] | YU_2025[OB] | LOZZAFIACCO_2022[EC] | MELTZERBRODY_2020[OB] | WALTON_2019[OB] | PAUL_2020[OB] | BOERO_2020[OB] | GUAN_2026[OB] | ZHANG_2023[EC] | HERSON_2022[OB] *
+
+
+* MAJEWSKA_1986[ML] | BARKER_1986[ML] | LAMBERT_1995[OB] | BAULIEU_2001[OB] | PLASSARTSCHIESS_2001[OB] | ROBEL_1995[OB] | TSUTSUI_2000[OB] | BAULIEU_1990[OB] | DUBROVSKY_2005[OB] | VAN_2003[OB] | SCHULE_2014[OB] | BACKSTROM_2014[OB] | ZORUMSKI_2013[OB] | WANG_2011[OB] | GUNN_2015[OB] | MAGUIRE_2014[OB] | LUSCHER_2023[OB] | MAGUIRE_2019[OB] | ALMEIDA_2021[OB] | ALMEIDA_2021b[OB] | VICINI_2002[ML] | FOLLESA_2001[OB] | SHEN_2000[ML] | SELJESET_2023[ML] | CHISARI_2019[EC] | GULINELLO_2003[ML] | REDDY_2017[ML] | TAKASU_2023[ML] | SELJESET_2018[EC] | KOKSMA_2003[ML] *
+* ANTONOUDIOU_2022[ML] | PURDY_1991[ML] | BARBACCIA_2001[OB] | MORROW_1995[OB] | BARBACCIA_1997[ML] | DONG_2001[ML] | SERRA_2007[ML] | EVANS_2012[ML] | ISLASPRECIADO_2023[OB] | BAKA_2017[ML] | FRYE_2025[ML] | CHOUDHARY_2024[ML] | MAGUIRE_2008[OB] | MODY_2019[OB] | STEWART_2019[OB] | PAYNE_2019[OB] | LUSCHER_2019[OB] | REDDY_2023[OB] | KARGBO_2023[OB] | CARLINI_2023[OB] | TAO_2023[ML] | YANG_2017[ML] | BLOCH_2000[EC] | OSBORNE_2017[EC] | OSBORNE_2025[EC] | BJORVANG_2024[OB] | SCHORETSANITIS_2025[EC] | DELIGIANNIDIS_2016[EC] | DELIGIANNIDIS_2020[EC] | RUDZINSKAS_2023[EC] *
+* KIMMEL_2016[EC] | SUNDSTROM_2017[OB] | BALAN_2026[EC] | GIRDLER_2001[EC] | HANTSOO_2020[OB] | HANTSOO_2023[OB] | BIXO_2026[OB] | NGUYEN_2017[OB] | FREEMAN_2002[EC] | SUNDSTROM_2003[OB] | SEGEBLADH_2013[EC] | NYBERG_2007[EC] | GINGNELL_2013[EC] | STIERNMAN_2023[EC] | HAMIDOVIC_2024[EC] | MARTINEZ_2016[EC] | BIXO_2017[EC] | BACKSTROM_2021[EC] | BARONE_2024[OB] | MILLER_2024[EC] | DUBOL_2020[OB] | GIRDLER_2012[EC] | KIMBALL_2025[EC] | PETERS_2025[EC] | ISLASPRECIADO_2025[OB] | YANG_2026[OB] | GORDON_2015[OB] | PARRY_2008[OB] | SCHMIDT_2005[OB] | SCHMIDT_2009[OB] *
+* JOFFE_2020[EC] | GORDON_2021[OB] | GUERRIERI_2021[EC] | JOFFE_2011[EC] | SCHMIDT_2005b[OB] | RUBINOW_2015[OB] | GORDON_2018[EC] | SCHMIDT_2015[EC] | SOARES_2001[EC] | DENNIS_2008[OB] | WHEDON_2017[OB] | MEHTA_2019[EC] | SCHMIDT_2021[EC] | BONDY_2025[EC] | GLYNNE_2026[EC] | LIU_2026[OB] | WALF_2006[OB] | STOCKHORST_2015[OB] | KACZMARCZYK_2024[EC] | BIERWIRTH_2021[EC] | LITVIN_2014[ML] | HSU_2021[OB] | WALTHER_2019[OB] | FISCHER_2019[OB] | CHRONISTER_2021[EC] | WOLKOWITZ_1999[EC] | ALKATIB_2009[OB] | PEIXOTO_2018[OB] | MAAYAN_2005[ML] | MOCKING_2015[EC] *
+* O_2012[EC] | MOSHER_2018[EC] | CADEDDU_2025[ML] | MODOL_2014[ML] | IRWIG_2014[OB] | IRWIG_2015[OB] | RUPPRECHT_2023[OB] | RIEBEL_2025[OB] | RUPPRECHT_2022[OB] | NOTHDURFTER_2012[OB] | RUPPRECHT_2022b[OB] | GRITTI_2021[OB] | SCHUBERT_2021[EC] | MEYER_2020[OB] | POISBEAU_2018[OB] | STEIN_2015[EC] | VICENTE_2020[EC] | FISCHER_2025[ML] | RASMUSSON_2019[EC] | UZUNOVA_2006[OB] | KIMBALL_2020[EC] | DOMES_2024[OB] | BARONE_2023[EC] | PELTIER_2021[OB] | LOMMATZSCH_2006[EC] | KANES_2017[EC] | MELTZERBRODY_2018[EC] | ZHENG_2019[OB] | GERBASI_2021[EC] | EPPERSON_2023[EC] *
+* ALTHAUS_2020[ML] | DELIGIANNIDIS_2021[EC] | DELIGIANNIDIS_2023[OB] | CLAYTON_2023[EC] | CLAYTON_2023b[EC] | PARIKH_2024[EC] | FAYOUD_2024[OB] | WINSLOW_2024[OB] | DELIGIANNIDIS_2023b[EC] | WILSON_2025[OB] | DELIGIANNIDIS_2025[OB] | REDDY_2023b[OB] | MELTZERBRODY_2024[OB] | XIAO_2026[OB] | RAPKIN_2002[OB] | YONKERS_1997[EC] | HERBISON_2001[OB] | GELMAN_2015[OB] | AMIN_2006[OB] | TOMASELLI_2019[OB] | AMIEL_2021[OB] | BELELLI_2005[OB] | GUNN_2011[OB] | GIRDLER_2007[OB] | DUBROVSKY_2006[OB] | CROWLEY_2014[OB] | CHEN_2021[OB] | MAGUIRE_2024[OB] | LIANG_2018[OB] | BIXO_2018[OB] *
+* LIN_2023[OB] | LI_2024[OB] | RAJA_2024[OB] | LIU_2026b[OB] | GROTSCH_2024[OB] | PEIXOTO_2020[OB] | BROWN_2014[EC] | OSUJI_2010[EC] | PEDRAZPETROZZI_2023[EC] | LE_2002[OB] | LONGONE_2011[OB] | ZORUMSKI_2019[OB] | THOMPSON_2024[OB] | CUTLER_2023[OB] | ZORUMSKI_2025[OB] | RUPPRECHT_2026[OB] | MILLER_2017[ML] | LEGESSE_2023[ML] | SUN_2023[ML] | ZHOU_2025[ML] | MORTENSEN_2025[OB] | SELJESET_2015[OB] | RASMUSSON_2006[EC] | PINELES_2018[EC] | PINNA_2014[ML] | STROHLE_2003[EC] | BRAMBILLA_2003[EC] | UZUNOVA_1998[EC] | VALLEE_2014[ML] | BELELLI_2025[OB] *
+* KENNEY_2025[ML] | LAMBERT_2023[ML] | CASTANHEIRA_2025[OB] | RODRIGUEZCERDEIRA_2026[OB] | BRACCAGNI_2026[OB] | DELIGIANNIDIS_2023c[EC] | RUPPRECHT_2003[OB] | SCHULE_2011[OB] | ESER_2006[OB] | ESER_2006b[OB] | LONGONE_2008[OB] | MACKENZIE_2007[OB] | PINNA_2025[OB] | WALTON_2023[OB] | ALMEIDA_2020[OB] | MORROW_2024[OB] | BALAN_2024[OB] | BICIKOVA_2000[EC] | PORCU_2016[OB] | REDDY_2010[OB] | REDDY_2022[OB] | BELELLI_2020[OB] | LOCCI_2017[OB] | FEDOTCHEVA_2025[OB] | MARECKI_2023[OB] | PATTERSON_2024[OB] | MALLICK_2026[OB] | PETELIN_2023[OB] | VAUDRY_2022[OB] | SINGHAL_2024[OB] *

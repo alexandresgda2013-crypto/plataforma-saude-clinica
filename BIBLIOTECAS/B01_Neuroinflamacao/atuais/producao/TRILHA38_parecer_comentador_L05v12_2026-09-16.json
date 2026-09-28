@@ -1,0 +1,142 @@
+{
+  "trilha": 38,
+  "data": "2026-09-16",
+  "rodada": "21-continuação",
+  "objeto": "parecer comentador v1.0 (L-05 v1.2) — réplica da casa",
+  "digitais": {
+    "parecer": "a193543843740732189f4f3b7ff9352cb4372392b6036cc9c80913ca013dea87",
+    "schema_vinculo_v1.2": "19f4f29a8763aa635a09d16c1bd960af2687da62a5f79700b8dfd57081d73360",
+    "schema_referencia_v1.2": "b8bcea8084fc17a296ef2beebd709bb2c90a7d816918ddfda74a0667e6ec168a"
+  },
+  "etapas": {
+    "V1_citacao_confirmada": {
+      "medido_distribuicao": {
+        "True": 237
+      },
+      "premissa_237de237_true_CONFERE": true,
+      "schema_v1.2_R6_D4_diz_RESOLVIDO": true,
+      "schema_cita_PROMPT_v4.2_L1290_L1313": true,
+      "gate_revA2_linhas_com_o_campo": [
+        "     (2026-09-13 rev.A2: o atalho `citacao_confirmada` NÃO é mais via de portão —",
+        "  0 violações hoje — confirmado); (v) bypass citacao_confirmada (hoje 0 usos).",
+        "    # rev.A2 (2026-09-13): citacao_confirmada NÃO é via de portão (flag do auditor de estrutura —",
+        "              if i.get(\"citacao_confirmada\") is True",
+        "    if cc_dep: falhas.append(f\"[1b] {len(cc_dep)} refs DEPENDEM de 'citacao_confirmada' para passar no portão \"",
+        "    cc_pre = [r for r,i in refs.items() if i.get(\"citacao_confirmada\") is True]",
+        "    if cc_pre: infos.append(f\"[1c] {len(cc_pre)} refs trazem o campo 'citacao_confirmada' preenchido (hoje \""
+      ],
+      "leitura_da_casa": "o §12 do parecer parte de 'sem origem conhecida', mas a v1.2 que ele mesmo analisa registra R6/D4 RESOLVIDO (default de geração do PROMPT v4.2) + DEPRECATED + banido de portão desde gate rev.A2. A dívida de proveniência ESTÁ encerrada; sobra só a formalização do destino (D4 do operador): manter deprecated sem carga = estado atual."
+    },
+    "V2_RAISON_2013": {
+      "ficha_existe": true,
+      "ficha_status": {
+        "id_referencia_interna": "REF_RAISON_2013",
+        "evid_role": "human_clinical",
+        "desenho_estudo": "RCT (JAMA Psychiatry; N=60)",
+        "verification_status": "pendente",
+        "pmid_oficial": "22945416"
+      },
+      "vinculos": [
+        {
+          "id": "VINC_B1_0128",
+          "sa": "CONFIRMADO",
+          "vs": "verificado",
+          "uso": "clinico",
+          "g2": "eligible"
+        },
+        {
+          "id": "VINC_B1_0173",
+          "sa": "CONFIRMADO",
+          "vs": "verificado",
+          "uso": "clinico",
+          "g2": "eligible"
+        }
+      ],
+      "nota": "só status/estrutura — a leitura do caso (subgrupo inflamação alta × amostra geral negativa) é do auditor-2 e do G3 humano; a casa NÃO reabre ciência"
+    },
+    "V3_fila_1_para_102": {
+      "cruzamento_statusAuditoria_x_verificationStatus": {
+        "CONFIRMADO|verificado": 135,
+        "CONFIRMADO|preclinico": 59,
+        "CONFIRMADO|extrapolado": 52,
+        "PARCIALMENTE_CONFIRMADO|extrapolado": 10,
+        "CONFIRMADO|pendente": 7,
+        "PARCIALMENTE_CONFIRMADO|verificado": 5,
+        "PARCIALMENTE_CONFIRMADO|preclinico": 4,
+        "NAO_LOCALIZADO|pendente_fulltext": 1,
+        "CONFIRMADO|emergente": 1
+      },
+      "VINC_B1_0047": [
+        {
+          "sa": "NAO_LOCALIZADO",
+          "vs": "pendente_fulltext",
+          "uso": "clinico",
+          "ref": "REF_HAFIZI_2007"
+        }
+      ],
+      "o_1_da_fila_anterior_CONFERE_com_VINC_B1_0047": true,
+      "somas_candidatas_a_102": {
+        "extrapolado+pendente+pendente_fulltext+emergente": 71,
+        "+PARCIALMENTE_CONFIRMADO": 90,
+        "+NAO_LOCALIZADO": 91,
+        "PARCIAL+extrapolado+pendentes...outras somas": "ver cruzamento completo"
+      },
+      "conclusao": "274-172=102 — a regra exata do auditor-2 NÃO é reversível da nossa bancada sem o relatório de execução dele (que o comentador cita e a casa NÃO recebeu). Nenhuma soma simples dos nossos status dá 102 → PENDENTE NOMEADO: pedir o relatório/script de execução (provável '.py' que o operador mencionou)."
+    },
+    "V4_catalogo_146": {
+      "sha_catalogo_oficial": "f3a74fbcda9aa0aa4b9e13d42321776c4b68a4928180d7245aa4c008400b0e16",
+      "contagem_mecanica_ids_distintos": 74,
+      "por_categoria": {
+        "exame": 74
+      },
+      "linhas_com_removidos": 4,
+      "trilha25_legado_parser": "103 (número citado pelo comentador — é o da nossa trilha 25)",
+      "gap_43": "é exatamente o escopo da dívida da casa D-L05-IDS-JSON (derivador oficial: rodar→comparar 146 por categoria→sha)",
+      "nota": "o comentador cita '146 declarados × 103 capturados' — são os NOSSOS números; o bloqueador §13 dele = D-L05-IDS-JSON já nomeada pela casa"
+    },
+    "V5_review_30": {
+      "evid_role_review": 30,
+      "confere_com_D-B1-R3-V2CLAIM": true
+    },
+    "V6_regra_papel_ja_no_schema": {
+      "proibicao_presente_em_papel_description": true,
+      "leitura": "o §7 do parecer pede a regra no contrato do Motor — no SCHEMA v1.2 ela já está; falta carregá-la no contrato de execução (autoridade do Auditor-Mestre) e/ou prosa da 1.2"
+    },
+    "V7_fluxo_derivador": {
+      "sequencia_do_parecer": "fonte declarada→derivador→146 IDs→contagem por categoria→conferência→hash/versão→catálogo operacional",
+      "divida_da_casa_D-L05-IDS-JSON": "rodar derivador→comparar 146 por categoria→registrar sha (critério de aceite do §7 R2 do auditor)",
+      "conclusao": "mesma sequência — o bloqueador §13 do parecer é a dívida já nomeada da casa; reforço externo da prioridade"
+    },
+    "V8_draft07_limite": {
+      "parecer": "integridade referencial/ cardinalidade semântica exigem portão externo",
+      "estado_na_bancada": "VERIFICADO na trilha 35 (ancora_principal inexprimível → V-17 de portão; o próprio schema v1.2 o declara) e trilha 37 (condicao-exclusividade É exprimível — ficou no schema)",
+      "leitura": "as citações dele ao draft-07 batem com nossas medições; a fronteira schema×portão do v1.2 está coerente com os dois lados"
+    },
+    "V4b_correcao_datada_2026-09-16": {
+      "ts": "2026-09-16 06:33:21",
+      "nota": "A regex inicial do V4 (prefixo, caixa baixa) subcapturou: 74 (só exame_*). Correção em 3 métodos, mesmos dados: (m1) prefixo caixa-baixa → 74 distintos; (m2) prefixo tolerante a caixa → exame 78/mecanismo 20/cenario 13 ocorrências, suplemento 0; (m3) PARSE ESTRUTURAL (o arquivo é JSON): D1-D6=48 (suplementos; ex: omega3_epa_dha, 5htp — SEM prefixo), C1-C13=71 (exame_*), mecanismos=16, cenarios=11 → TOTAL 146 válidos · ids_removidos_definitivo=5.",
+      "m3_por_secao": {
+        "D1-D6_suplementos": 48,
+        "C1-C13_exames": 71,
+        "mecanismos": 16,
+        "cenarios": 11,
+        "total": 146,
+        "removidos": 5
+      },
+      "confere_com_declarado_e_trilha34": true,
+      "demonstracao_para_o_§13": "o 103 da trilha 25 (e o 74 desta trilha) provêm de parse de TEXTO; suplementos não têm prefixo → qualquer grep subconta de forma diferente. É a prova empírica do bloqueador §13 do parecer: o catálogo operacional DEVE nascer de derivador estrutural + sha (= dívida da casa D-L05-IDS-JSON), nunca de parsing ad hoc.",
+      "governanca_do_proprio_catalogo": "regra_uso declarada no arquivo: Schema-Claim só aceita ID oficial deste catálogo em referencia_cruzada; 'ID não listado = ID inválido' — a casa mediu isto na trilha 34 (kit 0/12 colisões)."
+    }
+  },
+  "vereditos": {
+    "V1_premissa_envelhecida_resolucao_ja_registrada": true,
+    "V2_RAISON_existe_e_consistente_com_o_uso_como_teste": true,
+    "V3_1_confere_102_indecidivel_sem_relatorio_NOMEADO": true,
+    "V5_30_review_CONFERE": true,
+    "V6_convergencia_ja_implementada_no_schema": true,
+    "V8_fronteira_schema_portao_coerente": true,
+    "V4_146_confirmado_estrutural_e_motivo_da_instabilidade_provo": true
+  },
+  "ciencia_tocada": 0,
+  "pendente_nomeado": "relatório de execução do auditor-2 contra B1 V7 (regra conservadora 172/102, caso REF_RAISON_2013 aplicado, lista dos 102) — citado pelo comentador, NÃO recebido; provável conteúdo do '.py'/anexo faltante. Casa replica quando chegar."
+}

@@ -1,0 +1,53 @@
+{
+  "trilha": 76,
+  "data": "2026-09-21",
+  "objeto": "TextoM (minuta 2 canônica do comentador) — verificação e fecho de D-TEXTO-M",
+  "sha_textom": "8ad6bc157efe4c1a41f84a686a21a0f27a1549221508b46638d21cdb20968e09",
+  "verdes": 8,
+  "total": 8,
+  "checks": [
+    {
+      "check": "C01_ARQUIVO",
+      "ok": true,
+      "detalhe": "TextoM arquivado com nota da casa · sha=8ad6bc157efe4c1a41f84a686a21a0f27a1549221508b46638d21cdb20968e09 · cabeçalho canônico confere (Comentador · 2026-09-21 · Fase 3) — D-TEXTO-M FECHADA"
+    },
+    {
+      "check": "C02_ACHADO_MESTRE_9x9",
+      "ok": true,
+      "detalhe": "degrau5-sem-campo:True · significados:True · sem-1.3/D-02-na-9:True · P3-degradada:True · P4-direcao:True · 6.3-testes/sem-6.7/sem-atribuição:True · P8-dependências:True · P10-fecho:True · sem-disjuncao/niveis:True → **o texto que o mestre recebeu É ESTE** (achado 9/9)"
+    },
+    {
+      "check": "C03_CITACOES_TEM_CASA",
+      "ok": true,
+      "detalhe": "8/8 frases creditadas ao Comentador na minuta 3 presentes no TextoM — nenhuma faltando · emenda nº2 da carta 23 (marcar 'dependente de TextoM') fica SUPERADA: os créditos agora são verificáveis byte a byte pela casa"
+    },
+    {
+      "check": "C04_MAPA_9_LADC",
+      "ok": true,
+      "detalhe": "13/13 referências 'C T-x' da minuta 3 casam semanticamente com os testes T-1..T-15 do TextoM → o mapa do §9 foi escrito contra ESTE texto; trava editorial da carta 23 destravada · nota: TextoM usa T sem zero (T-2), minuta 3 padroniza T-02 (cosmético)"
+    },
+    {
+      "check": "C05_ORFAOS_MANTEM",
+      "ok": true,
+      "detalhe": "as 2 frases NÃO estão na canônica — pertencem ao rascunho TextoH (autoria declarada: comentador) → emenda do §6.3 da minuta 3 fica: '(Comentador — rascunho arquivado pela casa, Parte 6.3)' · canônica não as carrega"
+    },
+    {
+      "check": "C06_ELO1_244",
+      "ok": true,
+      "detalhe": "enunciado da regra (§1.1 canônica) bate literalmente com a citação da minuta 3 §1.2 → elos da cadeia 244/41 agora TODOS com bytes: enunciado (este arquivo) → dados 490675e6 → execução casa → registro 2ce9698c · único elo aberto restante: minuta 3 original a6a0027c (D-L06-M3-ORIG)"
+    },
+    {
+      "check": "C07_ESTADO_CONDICAO",
+      "ok": true,
+      "detalhe": "TextoM diz 'insuficiente/esparsa' sobre condicao; a casa mediu AUSENTE (0/274) em 15-21/09 e a minuta 3 já carrega a correção explicitamente → convergência mantida, sem choque"
+    },
+    {
+      "check": "C08_METODO_FLUXO",
+      "ok": true,
+      "detalhe": "o próprio TextoM pede versão independente do mestre + cruzamento — é o fluxo que de fato aconteceu (minuta 2 mestre ≠ este texto; verificado trilhas 71-74) · 'Fase 3 da ordem de desenvolvimento' registrado — D-ORDEM-FASES segue dívida pequena"
+    }
+  ],
+  "notas": [
+    "com a canônica na mão, o triângulo fecha: TextoH (rascunho, sha 1a51d9b9) × TextoM (canônica) × minuta 1/3 do mestre — todos os lados com bytes na casa, exceto minuta 3 original (a6a0027c)"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+ "bibliotecas": {
+  "B01_Neuroinflamacao": {
+   "ficam_01": 201,
+   "vao_02_MA": 33,
+   "vao_03_EC": 3,
+   "conflitos": 0,
+   "tag_EC_amplo_nao_migrado": 0
+  },
+  "B02_Eixo_HPA_cortisol": {
+   "ficam_01": 177,
+   "vao_02_MA": 32,
+   "vao_03_EC": 4,
+   "conflitos": 0,
+   "tag_EC_amplo_nao_migrado": 2
+  },
+  "B03_Neuroplasticidade": {
+   "ficam_01": 156,
+   "vao_02_MA": 7,
+   "vao_03_EC": 2,
+   "conflitos": 0,
+   "tag_EC_amplo_nao_migrado": 1
+  },
+  "B04_Monoaminas": {
+   "ficam_01": 122,
+   "vao_02_MA": 8,
+   "vao_03_EC": 1,
+   "conflitos": 0,
+   "tag_EC_amplo_nao_migrado": 0
+  },
+  "B05_GabaGlutamato": {
+   "ficam_01": 146,
+   "vao_02_MA": 8,
+   "vao_03_EC": 6,
+   "conflitos": 0,
+   "tag_EC_amplo_nao_migrado": 0
+  },
+  "B06_EstresseOxidativo": {
+   "ficam_01": 95,
+   "vao_02_MA": 10,
+   "vao_03_EC": 3,
+   "conflitos": 0,
+   "tag_EC_amplo_nao_migrado": 0
+  },
+  "B07_EixoIntestinoCerebro": {
+   "ficam_01": 92,
+   "vao_02_MA": 21,
+   "vao_03_EC": 3,
+   "conflitos": 0,
+   "tag_EC_amplo_nao_migrado": 17
+  },
+  "B08_Micronutrientes": {
+   "ficam_01": 76,
+   "vao_02_MA": 55,
+   "vao_03_EC": 14,
+   "conflitos": 4,
+   "tag_EC_amplo_nao_migrado": 30
+  },
+  "B09_DisfuncaoMitocondrial": {
+   "ficam_01": 104,
+   "vao_02_MA": 7,
+   "vao_03_EC": 0,
+   "conflitos": 2,
+   "tag_EC_amplo_nao_migrado": 41
+  },
+  "B10_DesregulacaoCircadiana": {
+   "ficam_01": 126,
+   "vao_02_MA": 11,
+   "vao_03_EC": 0,
+   "conflitos": 2,
+   "tag_EC_amplo_nao_migrado": 32
+  },
+  "B11_DisfuncaoTireoidiana": {
+   "ficam_01": 86,
+   "vao_02_MA": 8,
+   "vao_03_EC": 2,
+   "conflitos": 3,
+   "tag_EC_amplo_nao_migrado": 60
+  },
+  "B12_NeurobiologiaTrauma": {
+   "ficam_01": 75,
+   "vao_02_MA": 36,
+   "vao_03_EC": 0,
+   "conflitos": 9,
+   "tag_EC_amplo_nao_migrado": 35
+  },
+  "B13_SistemaEndocanabinoide": {
+   "ficam_01": 183,
+   "vao_02_MA": 15,
+   "vao_03_EC": 9,
+   "conflitos": 4,
+   "tag_EC_amplo_nao_migrado": 41
+  },
+  "B14_Neuroesteroides": {
+   "ficam_01": 254,
+   "vao_02_MA": 20,
+   "vao_03_EC": 16,
+   "conflitos": 3,
+   "tag_EC_amplo_nao_migrado": 65
+  },
+  "B15_AutofagiaMTOR": {
+   "ficam_01": 172,
+   "vao_02_MA": 0,
+   "vao_03_EC": 1,
+   "conflitos": 0,
+   "tag_EC_amplo_nao_migrado": 21
+  },
+  "B16_Neurogenese": {
+   "ficam_01": 289,
+   "vao_02_MA": 1,
+   "vao_03_EC": 0,
+   "conflitos": 0,
+   "tag_EC_amplo_nao_migrado": 45
+  }
+ },
+ "serie": {
+  "ma_total_pre_dedup": 272,
+  "ec_total_pre_dedup": 64,
+  "ma_unicos_dedup_pmid": 268,
+  "ec_unicos_dedup_pmid": 58,
+  "conflitos": 27,
+  "tag_EC_amplo_nao_migrado": 390
+ }
+}

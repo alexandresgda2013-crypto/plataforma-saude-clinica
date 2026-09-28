@@ -1,0 +1,247 @@
+# CORPUS CONGELADO — PILOTO OFICIAL B1.SM02.014
+# Congelado: 2026-09-26 · Arena Casa
+# Regra de contagem: 1 parágrafo com DOI = 1 referência → 107 refs · 107 DOIs únicos
+# Data da busca (pool original): 2026-09-25
+# Saneamento: nomes corrigidos (De Picker L.D. · Kim J.-H. · Liu H.) ·
+#   HDAC6 = [FORA_LOTE_TSPO] (marcado, não apagado) ·
+#   Yrondi = [RESULTADO_CONFIRMADO] · Li 2018 = [LI2018_A] + [LI2018_B] (2 distintos, não deduplicar)
+# Fundo: marcado, não apagado
+# G1 âncoras resolvidas: Setiawan2015 25629589 · Hannestad 23850810 · Holmes 28939116 ·
+#   Richards 29971587 · Setiawan18 29496589 · Schubert 33515765 · Eggerstorfer 36226319 · Joo 35052718
+# Claim: B1.SM02.014 = aprovado_com_ressalva (Bloco v1.8) — piloto NÃO regrava
+# Protocolo: COMO EXECUTAR v1.11 rev.2 (2efc0edd) — 2 paradas · G1+G2 contínuos · nao_lido ≠ analisado
+# Entrega: tríade DEDICADA cega (ChatGPT / Arena / Claude — cada uma em sua janela, sem ver as outras)
+
+# B1.SM02.014
+
+Alfaifi, B., Tuisku, J., Matilainen, M., Anton-Rodriguez, J., Lewis, D., Jackson, A., Coope, D., Airas, L., Deakin, B., Herholz, K., Gerhard, A., & Hinz, R. (2025). Hemispheric asymmetry of [11C](R)PK11195 binding to translocator protein 18 kDa (TSPO) in normal brain. *Journal of Cerebral Blood Flow & Metabolism*. https://doi.org/10.1177/0271678x251348790
+
+Attwells, S., Setiawan, E., Rusjan, P., Xu, C., Kish, S., Vasdev, N., Houle, S., Santhirakumar, A., & Meyer, J. (2021). A double-blind placebo-controlled trial of minocycline on translocator protein distribution volume in treatment-resistant major depressive disorder. *Translational Psychiatry, 11*. https://doi.org/10.1038/s41398-021-01450-3
+
+Best, L. A., Ghadery, C., Pavese, N., Tai, Y., & Strafella, A. (2019). New and Old TSPO PET Radioligands for Imaging Brain Microglial Activation in Neurodegenerative Disease. *Current Neurology and Neuroscience Reports, 19*, 1-10. https://doi.org/10.1007/s11910-019-0934-y
+
+Bloomfield, P. S., Selvaraj, S., Veronese, M., Rizzo, G., Bertoldo, A., Owen, D. R., Bloomfield, M. A., Bonoldi, I., Kalk, N., Turkheimer, F., McGuire, P., De Paola, V., & Howes, O. (2015). Microglial activity in people at ultra high risk of psychosis and in schizophrenia; an [11C]PBR28 PET brain imaging study. *The American journal of psychiatry, 173*, 44 - 52. https://doi.org/10.1176/appi.ajp.2015.14101358
+
+Chaney, A. M., Cropper, H. C., Johnson, E. M., Lechtenberg, K. J., Peterson, T. C., Stevens, M. Y., Buckwalter, M., & James, M. (2018). 11C-DPA-713 Versus 18F-GE-180: A Preclinical Comparison of Translocator Protein 18 kDa PET Tracers to Visualize Acute and Chronic Neuroinflammation in a Mouse Model of Ischemic Stroke. *Journal of Nuclear Medicine, 60*, 122 - 128. https://doi.org/10.2967/jnumed.118.209155
+
+Chauveau, F., Winkeler, A., Chalon, S., Boutin, H., & Becker, G. (2024). PET imaging of neuroinflammation: any credible alternatives to TSPO yet?. *Molecular Psychiatry, 30*, 213 - 228. https://doi.org/10.1038/s41380-024-02656-9
+
+Crook, H., Franzmeier, N., Rahmouni, N., Gnörich, J., Fryer, T., Hong, Y. T., Roemer-Cassiano, S. N., Palleis, C., Strauss, A., Jones, P. S., Aigbirhio, F., Hopewell, R., Rauchmann, B., Massarweh, G., Perneczky, R., Levin, J., Höglinger, G., Rowe, J., O'Brien, J. T., . . . Malpetti, M. (2025). Comparing and combining TSPO-PET tracers in tauopathies. *European Journal of Nuclear Medicine and Molecular Imaging, 53*, 2083 - 2098. https://doi.org/10.1007/s00259-025-07579-3
+
+Cumming, P., Burgher, B., Patkar, O. L., Breakspear, M., Vasdev, N., Thomas, P., Liu, G.-J., & Banati, R. (2017). Sifting through the surfeit of neuroinflammation tracers. *Journal of Cerebral Blood Flow & Metabolism, 38*, 204 - 224. https://doi.org/10.1177/0271678x17748786
+
+De Picker, L. D., Morrens, M., Branchi, I., Haarman, B. C. M., Terada, T., Kang, M.-S., Boche, D., Tremblay, M., Leroy, C., Bottlaender, M., & Ottoy, J. (2023). TSPO PET BRAIN INFLAMMATION IMAGING: A TRANSDIAGNOSTIC SYSTEMATIC REVIEW AND META-ANALYSIS OF 156 CASE-CONTROL STUDIES. *International Journal of Neuropsychopharmacology, 28*, i75 - i76. https://doi.org/10.1093/ijnp/pyae059.131
+
+Dimitrova‐Shumkovska, J., Krstanoski, L., & Veenman, L. (2020). Diagnostic and Therapeutic Potential of TSPO Studies Regarding Neurodegenerative Diseases, Psychiatric Disorders, Alcohol Use Disorders, Traumatic Brain Injury, and Stroke: An Update. *Cells, 9*. https://doi.org/10.3390/cells9040870
+
+Dupont, A., Largeau, B., Ribeiro, S. M., Guilloteau, D., Tronel, C., & Arlicot, N. (2017). Translocator Protein-18 kDa (TSPO) Positron Emission Tomography (PET) Imaging and Its Clinical Impact in Neurodegenerative Diseases. *International Journal of Molecular Sciences, 18*. https://doi.org/10.3390/ijms18040785
+
+Eggerstorfer, B., Kim, J.-H., Cumming, P., Lanzenberger, R., & Gryglewski, G. (2022). Meta-analysis of molecular imaging of translocator protein in major depression. *Frontiers in Molecular Neuroscience, 15*. https://doi.org/10.3389/fnmol.2022.981442
+
+Enache, D., Pariante, C., & Mondelli, V. (2019). Markers of central inflammation in major depressive disorder: A systematic review and meta-analysis of studies examining cerebrospinal fluid, positron emission tomography and post-mortem brain tissue.. *Brain, behavior, and immunity*. https://doi.org/10.1016/j.bbi.2019.06.015
+
+Fujita, M., Kobayashi, M., Ikawa, M., Gunn, R., Rabiner, E., Owen, D. R., Zoghbi, S., Haskali, M., Telu, S., Pike, V., & Innis, R. (2017). Comparison of four 11C-labeled PET ligands to quantify translocator protein 18 kDa (TSPO) in human brain: (R)-PK11195, PBR28, DPA-713, and ER176—based on recent publications that measured specific-to-non-displaceable ratios. *EJNMMI Research, 7*. https://doi.org/10.1186/s13550-017-0334-8
+
+Gouilly, D., Saint-Aubert, L., Ribeiro, M., Salabert, A., Tauber, C., Péran, P., Arlicot, N., Pariente, J., & Payoux, P. (2022). Neuroinflammation PET imaging of the translocator protein (TSPO) in Alzheimer's disease: An update. *European Journal of Neuroscience, 55*, 1322 - 1343. https://doi.org/10.1111/ejn.15613
+
+Gritti, D., Delvecchio, G., Ferro, A., Bressi, C., & Brambilla, P. (2021). Neuroinflammation in Major Depressive Disorder: A Review of PET Imaging Studies Examining the 18-kDa Translocator Protein.. *Journal of affective disorders, 292*,
+642-651
+. https://doi.org/10.1016/j.jad.2021.06.001
+
+Guilarte, T. (2018). TSPO in diverse CNS pathologies and psychiatric disease: A critical review and a way forward (review article). *Pharmacology & therapeutics, 194*, 44 - 58. https://doi.org/10.1016/j.pharmthera.2018.09.003
+
+Guo, J.-M., Qiu, T.-Z., Wang, L.-X., Shi, L., Ai, M., Xia, Z., Peng, Z., Zheng, A., Li, X., & Kuang, L. (2022). Microglia Loss and Astrocyte Activation Cause Dynamic Changes in Hippocampal [18F]DPA-714 Uptake in Mouse Models of Depression. *Frontiers in Cellular Neuroscience, 16*. https://doi.org/10.3389/fncel.2022.802192
+
+Hamelin, L., Lagarde, J., Dorothée, G., Leroy, C., Labit, M., Comley, R., De Souza, L. D., Corné, H., Dauphinot, L., Bertoux, M., Dubois, B., Gervais, P., Colliot, O., Potier, M., Bottlaender, M., & Sarazin, M. (2016). Early and protective microglial activation in Alzheimer's disease: a prospective study using 18F-DPA-714 PET imaging.. *Brain : a journal of neurology, 139 Pt 4*,
+1252-64
+. https://doi.org/10.1093/brain/aww017
+
+Hannestad, J., DellaGioia, N., Gallezot, J., Lim, K., Nabulsi, N., Esterlis, I., Pittman, B., Lee, J.-Y., O'Connor, K., Pelletier, D., & Carson, R. (2013). The neuroinflammation marker translocator protein is not elevated in individuals with mild-to-moderate depression: A [11C]PBR28 PET study. *Brain, behavior, and immunity, 33*, 131 - 138. https://doi.org/10.1016/j.bbi.2013.06.010
+
+Herzog, S., Bartlett, E. A., Zanderigo, F., Galfalvy, H., Burke, A., Mintz, A., Schmidt, M., Hauser, E., Huang, Y.-Y., Melhem, N., Sublette, M., Miller, J. M., & Mann, J. (2024). Neuroinflammation, Stress-Related Suicidal Ideation, and Negative Mood in Depression.. *JAMA psychiatry*. https://doi.org/10.1001/jamapsychiatry.2024.3543
+
+Holmes, S. E., Hinz, R., Conen, S., Gregory, C. J., Matthews, J., Anton-Rodriguez, J., Gerhard, A., & Talbot, P. (2017). Elevated Translocator Protein in Anterior Cingulate in Major Depression and a Role for Inflammation in Suicidal Thinking: A Positron Emission Tomography Study.. *Biological psychiatry, 83 1*,
+61-69
+. https://doi.org/10.1016/j.biopsych.2017.08.005
+
+Holmes, S., Hinz, R., Drake, R., Gregory, C. J., Conen, S., Matthews, J., Gerhard, A., & Talbot, P. S. (2016). In vivo imaging of brain microglial activity in antipsychotic-free and medicated schizophrenia: a [11C](R)-PK11195 positron emission tomography study. *Molecular Psychiatry, 21*, 1672-1679. https://doi.org/10.1038/mp.2016.180
+
+Ikawa, M., Lohith, T. G., Shrestha, S., Telu, S., Zoghbi, S., Castellano, S., Taliani, S., Da Settimo, F., Fujita, M., Pike, V., & Innis, R. (2017). 11C-ER176, a Radioligand for 18-kDa Translocator Protein, Has Adequate Sensitivity to Robustly Image All Three Affinity Genotypes in Human Brain. *The Journal of Nuclear Medicine, 58*, 320 - 325. https://doi.org/10.2967/jnumed.116.178996
+
+Ji, B., Ono, M., Yamasaki, T., Fujinaga, M., Zhang, M.-R., Seki, C., Aoki, I., Kito, S., Sawada, M., Suhara, T., Sahara, N., & Higuchi, M. (2021). Detection of Alzheimer’s disease-related neuroinflammation by a PET ligand selective for glial versus vascular translocator protein. *Journal of Cerebral Blood Flow & Metabolism, 41*, 2076 - 2089. https://doi.org/10.1177/0271678x21992457
+
+Joo, Y.-H., Lee, M.-W., Son, Y., Chang, K.-A., Yaqub, M., Kim, H., Cumming, P., & Kim, J.-H. (2021). In Vivo Cerebral Translocator Protein (TSPO) Binding and Its Relationship with Blood Adiponectin Levels in Treatment-Naïve Young Adults with Major Depression: A [11C]PK11195 PET Study. *Biomedicines, 10*. https://doi.org/10.3390/biomedicines10010034
+
+Kim, J. H., Park, H. J., Kim, J. H., & Son, Y.-D. (2025). 584. ALTERED CEREBRAL TSPO AVAILABILITY AND FUNCTIONAL CONNECTIVITY IN PATIENTS WITH MAJOR DEPRESSIVE DISORDER: A PRELIMINARY MULTIMODAL IMAGING STUDY COMBINING C-11 PK11195 PET AND RS-FMRI. *International Journal of Neuropsychopharmacology, 28*, ii161 - ii162. https://doi.org/10.1093/ijnp/pyaf052.321
+
+Kim, J.-H., Joo, Y.-H., Kim, J.-H., & Son, Y.-D. (2025). ALTERED PATTERNS OF ASSOCIATION BETWEEN TSPO BINDING AND MGLUR5 AVAILABILITY IN VIVO IN DRUG-NAIVE PATIENTS WITH MAJOR DEPRESSIVE DISORDER: A PRELIMINARY DUAL-TRACER PET STUDY. *International Journal of Neuropsychopharmacology, 28*, i137 - i138. https://doi.org/10.1093/ijnp/pyae059.238
+
+Kreisl, W., Jenko, K. J., Hines, C. S., Lyoo, C., Corona, W., Morse, C. L., Zoghbi, S., Hyde, T., Kleinman, J., Pike, V., McMahon, F., & Innis, R. (2013). A Genetic Polymorphism for Translocator Protein 18 Kda Affects both in Vitro and in Vivo Radioligand Binding in Human Brain to this Putative Biomarker of Neuroinflammation. *Journal of Cerebral Blood Flow & Metabolism, 33*, 53 - 58. https://doi.org/10.1038/jcbfm.2012.131
+
+Laurell, G. L., Plavén-Sigray, P., Jucaite, A., Varrone, A., Cosgrove, K. P., Svarer, C., Knudsen, G., Ogden, R., Zanderigo, F., Cervenka, S., Hillmer, A., & Schain, M. (2020). Nondisplaceable Binding Is a Potential Confounding Factor in 11C-PBR28 Translocator Protein PET Studies. *The Journal of Nuclear Medicine, 62*, 412 - 417. https://doi.org/10.2967/jnumed.120.243717
+
+Lavisse, S., Goutal, S., Wimberley, C., Tonietto, M., Bottlaender, M., Gervais, P., Kuhnast, B., Peyronneau, M., Barret, O., Lagarde, J., Sarazin, M., Hantraye, P., Thiriez, C., & Remy, P. (2020). Increased microglial activation in patients with Parkinson disease using [18F]-DPA714 TSPO PET imaging.. *Parkinsonism & related disorders, 82*,
+29-36
+. https://doi.org/10.1016/j.parkreldis.2020.11.011
+
+Lee, J.-H., Siméon, F., Liow, J., Morse, C. L., Gladding, R., Santamaria, J. M. A., Henter, I., Zoghbi, S., Pike, V., & Innis, R. (2022). In Vivo Evaluation of 6 Analogs of 11C-ER176 as Candidate 18F-Labeled Radioligands for 18-kDa Translocator Protein. *The Journal of Nuclear Medicine, 63*, 1252 - 1258. https://doi.org/10.2967/jnumed.121.263168
+
+Li, H., Sagar, A. P., & Kéri, S. (2018). [LI2018_A — TCC] Translocator protein (18 kDa TSPO) binding, a marker of microglia, is reduced in major depression during cognitive‐behavioral therapy. *Progress in Neuro-Psychopharmacology & Biological Psychiatry, 83*, 1–7. https://doi.org/10.1016/j.pnpbp.2017.12.011
+
+Liu, Y., Chang, Y., Xie, X., Wang, X.-Y., H. Liu, M., & Zhang, H.-M. (2025). PET Imaging Unveils Neuroinflammatory Mechanisms in Psychiatric Disorders: From Microglial Activation to Therapeutic Innovation. *Molecular Neurobiology, 62*, 15318 - 15335. https://doi.org/10.1007/s12035-025-05177-w
+
+Maccioni, L., Brusaferri, L., Barzon, L., Schubert, J., Nettis, M., Cousins, O., Rosenzweig, I., Mizuno, Y., Vicente-Rodríguez, M., Singh, N., Marques, T. R., Harrison, N., Fryer, T., Bullmore, E., Cash, D., Mondelli, V., Pariante, C., Howes, O., Turkheimer, F., . . . Veronese, M. (2025). A novel blood-free analytical framework for the quantification of neuroinflammatory load from TSPO PET imaging. *Journal of Cerebral Blood Flow & Metabolism, 45*, 2283 - 2300. https://doi.org/10.1177/0271678x251361261
+
+Marques, T., Ashok, A., Pillinger, T., Veronese, M., Turkheimer, F., Dazzan, P., Sommer, I., & Howes, O. (2018). Neuroinflammation in schizophrenia: meta-analysis of in-vivo microglial imaging studies. *Psychological medicine, 49*, 2186 - 2196. https://doi.org/10.1017/s0033291718003057
+
+Masdeu, J., Pascual, B., & Fujita, M. (2022). Imaging Neuroinflammation in Neurodegenerative Disorders.. *Journal of nuclear medicine : official publication, Society of Nuclear Medicine, 63 Suppl 1*,
+45S-52S
+. https://doi.org/10.2967/jnumed.121.263200
+
+Meyer, J., Cervenka, S., Kim, M.-J., Kreisl, W., Henter, I., & Innis, R. (2020). Neuroinflammation in psychiatric disorders: PET imaging and promising new targets. *The lancet. Psychiatry, 7*, 1064 - 1074. https://doi.org/10.1016/s2215-0366(20)30255-8
+
+Nettis, M., Veronese, M., Nikkheslat, N., Mariani, N., Lombardo, G., Sforzini, L., Enache, D., Harrison, N., Turkheimer, F., Mondelli, V., & Pariante, C. (2020). PET imaging shows no changes in TSPO brain density after IFN-α immune challenge in healthy human volunteers. *Translational Psychiatry, 10*. https://doi.org/10.1038/s41398-020-0768-z
+
+Notter, T., Coughlin, J. M., Gschwind, T., Weber-Stadlbauer, U., Wang, Y., Kassiou, M., Vernon, A., Benke, D., Pomper, M., Sawa, A., & Meyer, U. (2018). Translational evaluation of translocator protein as a marker of neuroinflammation in schizophrenia. *Molecular Psychiatry, 23*, 323-334. https://doi.org/10.1038/mp.2016.248
+
+Notter, T., Coughlin, J. M., Sawa, A., & Meyer, U. (2017). Reconceptualization of translocator protein as a biomarker of neuroinflammation in psychiatry. *Molecular Psychiatry, 23*, 36-47. https://doi.org/10.1038/mp.2017.232
+
+Nutma, E., Fancy, N., Weinert, M., Tsartsalis, S., Marzin, M., Muirhead, R., Falk, I., Breur, M., De Bruin, J., Hollaus, D., Pieterman, R., Anink, J., Story, D., Chandran, S., Tang, J., Trolese, M. C., Saito, T., Saido, T., Wiltshire, K. H., . . . Owen, D. R. (2023). Translocator protein is a marker of activated microglia in rodent models but not human neurodegenerative diseases. *Nature Communications, 14*. https://doi.org/10.1038/s41467-023-40937-z
+
+Nutma, E., Ceyzériat, K., Amor, S., Tsartsalis, S., Millet, P., Owen, D. R., Papadopoulos, V., & Tournier, B. (2021). Cellular sources of TSPO expression in healthy and diseased brain. *European Journal of Nuclear Medicine and Molecular Imaging, 49*, 146 - 163. https://doi.org/10.1007/s00259-020-05166-2
+
+Owen, D. R., Gunn, R., Rabiner, E., Bennacef, I., Fujita, M., Kreisl, W., Innis, R., Pike, V., Reynolds, R., Matthews, P., & Parker, C. (2010). Mixed-Affinity Binding in Humans with 18-kDa Translocator Protein Ligands. *Journal of nuclear medicine : official publication, Society of Nuclear Medicine, 52*, 24 - 32. https://doi.org/10.2967/jnumed.110.079459
+
+Pannell, M., Economopoulos, V., Wilson, T., Kersemans, V., Isenegger, P. G., Larkin, J., Smart, S., Gilchrist, S., Gouverneur, V., & Sibson, N. (2019). Imaging of translocator protein upregulation is selective for pro‐inflammatory polarized astrocytes and microglia. *Glia, 68*, 280 - 297. https://doi.org/10.1002/glia.23716
+
+Qiu, T.-Z., Guo, J.-M., Wang, L.-X., Shi, L., Ai, M., Xia, Z., Peng, Z.-P., & Kuang, L. (2022). Dynamic microglial activation is associated with LPS-induced depressive-like behavior in mice: An [18F] DPA-714 PET imaging study. *Bosnian Journal of Basic Medical Sciences, 22*, 649 - 659. https://doi.org/10.17305/bjbms.2021.6825
+
+Richards, E. M., Zanotti-Fregonara, P., Fujita, M., Newman, L. E., Farmer, C. A., Ballard, E., Machado-Vieira, R., Yuan, P., Niciu, M., Lyoo, C., Henter, I., Salvadore, G., Drevets, W., Kolb, H., Innis, R., & Zarate, C. A. (2018). PET radioligand binding to translocator protein (TSPO) is increased in unmedicated depressed subjects. *EJNMMI Research, 8*. https://doi.org/10.1186/s13550-018-0401-9
+
+Rupprecht, R., Wetzel, C., Dorostkar, M., Herms, J., Albert, N., Schwarzbach, J. V., Schumacher, M., & Neumann, I. D. (2022). Translocator protein (18kDa) TSPO: a new diagnostic or therapeutic target for stress-related disorders?. *Molecular Psychiatry, 27*, 2918 - 2926. https://doi.org/10.1038/s41380-022-01561-3
+
+Sandiego, C., Gallezot, J., Pittman, B., Nabulsi, N., Lim, K., Lin, S.-F., Matuskey, D., Lee, J.-Y., O'Connor, K., Huang, Y., Carson, R., Hannestad, J., & Cosgrove, K. P. (2015). Imaging robust microglial activation after lipopolysaccharide administration in humans with PET. *Proceedings of the National Academy of Sciences, 112*, 12468 - 12473. https://doi.org/10.1073/pnas.1511003112
+
+Schubert, J., Veronese, M., Fryer, T., Manavaki, R., Kitzbichler, M., Nettis, M., Mondelli, V., Pariante, C., Bullmore, E., & Turkheimer, F. (2021). A Modest Increase in 11C-PK11195-Positron Emission Tomography TSPO Binding in Depression Is Not Associated With Serum C-Reactive Protein or Body Mass Index. *Biological Psychiatry. Cognitive Neuroscience and Neuroimaging, 6*, 716 - 724. https://doi.org/10.1016/j.bpsc.2020.12.017
+
+Setiawan, E., Wilson, A., Mizrahi, R., Rusjan, P., Miler, L., Rajkowska, G., Suridjan, I., Kennedy, J., Rekkas, P. V., Houle, S., & Meyer, J. (2015). Increased Translocator Protein Distribution Volume, A Marker of Neuroinflammation, in the Brain During Major Depressive Episodes. *JAMA psychiatry, 72*, 268 - 275. https://doi.org/10.1001/jamapsychiatry.2014.2427
+
+Setiawan, E., Attwells, S., Wilson, A., Mizrahi, R., Rusjan, P., Miler, L., Xu, C., Sharma, S., Kish, S., Houle, S., & Meyer, J. (2018). Association of translocator protein total distribution volume with duration of untreated major depressive disorder: a cross-sectional study.. *The lancet. Psychiatry, 5 4*,
+339-347
+. https://doi.org/10.1016/s2215-0366(18)30048-8
+
+Simpson, D. S. A., Gharehgazlou, A., Da Silva, T., Labrie-Cleary, C., Wilson, A., Meyer, J., Mizrahi, R., & Rusjan, P. (2022). In vivo imaging translocator protein (TSPO) in autism spectrum disorder. *Neuropsychopharmacology, 47*, 1421 - 1427. https://doi.org/10.1038/s41386-022-01306-4
+
+Tong, J., Williams, B., Rusjan, P., Mizrahi, R., Lacapere, J., McCluskey, T., Furukawa, Y., Guttman, M., Ang, L., Boileau, I., Meyer, J., & Kish, S. (2020). Concentration, distribution, and influence of aging on the 18 kDa translocator protein in human brain: Implications for brain imaging studies. *Journal of Cerebral Blood Flow & Metabolism, 40*, 1061 - 1076. https://doi.org/10.1177/0271678x19858003
+
+Varnäs, K., Cselényi, Z., Jucaite, A., Halldin, C., Svenningsson, P., Farde, L., & Varrone, A. (2018). PET imaging of [11C]PBR28 in Parkinson’s disease patients does not indicate increased binding to TSPO despite reduced dopamine transporter binding. *European Journal of Nuclear Medicine and Molecular Imaging, 46*, 367 - 375. https://doi.org/10.1007/s00259-018-4161-6
+
+Veronese, M., Marques, T. R., Bloomfield, P. S., Rizzo, G., Singh, N., Jones, D., Agushi, E., Mosses, D., Bertoldo, A., Howes, O., Roncaroli, F., & Turkheimer, F. (2017). Kinetic modelling of [11C]PBR28 for 18 kDa translocator protein PET data: A validation study of vascular modelling in the brain using XBD173 and tissue analysis. *Journal of Cerebral Blood Flow & Metabolism, 38*, 1227 - 1242. https://doi.org/10.1177/0271678x17712388
+
+Vicente-Rodríguez, M., Singh, N., Turkheimer, F., Peris-Yague, A., Randall, K., Veronese, M., Simmons, C., Bordoloi, J., Sander, K., Awais, R., Årstad, E., Cash, D., & Parker, C. (2021). Resolving the cellular specificity of TSPO imaging in a rat model of peripherally-induced neuroinflammation. *Brain, Behavior, and Immunity, 96*, 154 - 167. https://doi.org/10.1016/j.bbi.2021.05.025
+
+Vivash, L., & O'Brien, T. (2016). Imaging Microglial Activation with TSPO PET: Lighting Up Neurologic Diseases?. *The Journal of Nuclear Medicine, 57*, 165 - 168. https://doi.org/10.2967/jnumed.114.141713
+
+Wang, J.-G., Ge, J.-J., Deng, B., Lin, H., Yang, W., Sheng, T., Tang, W., Yu, H., Zhang, X., Li, Y., Liu, X., Zuo, C., & Chen, X. (2025). Microglial Activation Visualized by [ 18F]‐DPA714 PET Is a Potential Marker of Severity and Prognosis for Anti‐LGI1 Encephalitis. *European Journal of Neurology, 32*. https://doi.org/10.1111/ene.70107
+
+Werry, E., Bright, F., Piguet, O., Ittner, L., Halliday, G., Hodges, J., Kiernan, M., Loy, C., Kril, J., & Kassiou, M. (2019). Recent Developments in TSPO PET Imaging as A Biomarker of Neuroinflammation in Neurodegenerative Disorders. *International Journal of Molecular Sciences, 20*. https://doi.org/10.3390/ijms20133161
+
+Wijesinghe, S., Rowe, J. B., Mason, H. D., Allinson, K., Thomas, R., Vontobel, D., Fryer, T., Hong, Y. T., Bacioglu, M., Spillantini, M., Van Den Ameele, J., O'Brien, J., Kaalund, S., Malpetti, M., & Quaegebeur, A. (2025). Post-mortem validation of in vivo TSPO PET as a microglial biomarker. *Brain, 148*, 1904 - 1910. https://doi.org/10.1093/brain/awaf078
+
+Xiang, X., Wind, K., Wiedemann, T., Blume, T., Shi, Y., Briel, N., Beyer, L., Biechele, G., Eckenweber, F., Zatcepin, A., Lammich, S., Ribicic, S., Tahirovic, S., Willem, M., Deussing, M., Palleis, C., Rauchmann, B., Gildehaus, F., Lindner, S., . . . Brendel, M. (2021). Microglial activation states drive glucose uptake and FDG-PET alterations in neurodegenerative diseases. *Science Translational Medicine, 13*. https://doi.org/10.1126/scitranslmed.abe5640
+
+Yan, X.-F., Siméon, F., Liow, J., Morse, C. L., Santamaria, J. M. A., Jenkins, M. D., Manly, L. S., Zoghbi, S., Pike, V., Innis, R., & Zanotti-Fregonara, P. (2023). In vivo evaluation of a novel 18F-labeled PET radioligand for translocator protein 18 kDa (TSPO) in monkey brain. *European Journal of Nuclear Medicine and Molecular Imaging, 50*, 2962 - 2970. https://doi.org/10.1007/s00259-023-06270-9
+
+Yang, Z.-S., Banks, S. J., Ritter, A., Cummings, J. L., Sreenivasan, K., Kinney, J., Caldwell, J., Wong, C. G., Miller, J. B., & Cordes, D. (2023). Microglial Imaging in Alzheimer’s Disease and Its Relationship to Brain Amyloid: A Human 18F-GE180 PET Study. *Journal of Alzheimer's Disease, 96*, 1505 - 1514. https://doi.org/10.3233/jad-230631
+
+Yokokura, M., Iwabuchi, T., Murayama, C., Goto, T., Tamayama, T., Wakuda, T., Benner, S., Ouchi, Y., & Yamasue, H. (2025). TESTING NEUROINFLAMMATORY HYPOTHESIS OF MAJOR DEPRESSIVE DISORDER: A DOUBLE TRACER PET STUDY. *International Journal of Neuropsychopharmacology, 28*, i135 - i136. https://doi.org/10.1093/ijnp/pyae059.235
+
+Yrondi, A., Aouizerate, B., El-Hage, W., Molière, F., Thalamas, C., Delcourt, N., Sporer, M., Taib, S., Schmitt, L., Arlicot, N., Méligne, D., Sommet, A., Salabert, A., Guillaume, S., Courtet, P., Galtier, F., Mariano-Goulart, D., De Champfleur, N. D., Bars, L. E., . . . Arbus, C. (2018). [RESULTADO_CONFIRMADO — pilot INFLADEP, Frontiers 2018] Assessment of Translocator Protein Density, as Marker of Neuroinflammation, in Major Depressive Disorder: A Pilot, Multicenter, Comparative, Controlled, Brain PET Study (INFLADEP Study). *Frontiers in Psychiatry, 9*. https://doi.org/10.3389/fpsyt.2018.00326
+
+Zanotti-Fregonara, P., Pascual, B., Veronese, M., Yu, M.-X., Beers, D. R., Appel, S., & Masdeu, J. (2019). Head-to-head comparison of 11C-PBR28 and 11C-ER176 for quantification of the translocator protein in the human brain. *European Journal of Nuclear Medicine and Molecular Imaging, 46*, 1822-1829. https://doi.org/10.1007/s00259-019-04349-w
+
+Zhang, L., Hu, K., Shao, T., Hou, L., Zhang, S.-J., Ye, W., Josephson, L., Meyer, J., Zhang, M.-R., Vasdev, N., Wang, J.-H., Xu, H., Wang, L., & Liang, S. H. (2020). Recent developments on PET radiotracers for TSPO and their applications in neuroimaging. *Acta Pharmaceutica Sinica. B, 11*, 373 - 393. https://doi.org/10.1016/j.apsb.2020.08.006
+
+Zhou, R.-L., Ji, B., Kong, Y., Qin, L., Ren, W., Guan, Y., & Ni, R. (2021). PET Imaging of Neuroinflammation in Alzheimer’s Disease. *Frontiers in Immunology, 12*. https://doi.org/10.3389/fimmu.2021.739130
+
+Albrecht, D., Forsberg, A., Sandström, A., Bergan, C., Kadetoff, D., Protsenko, E., Lampa, J., Lee, Y. C., Höglund, C. O., Catana, C., Cervenka, S., Akeju, O., Lekander, M., Cohen, G., Halldin, C., Taylor, N., Kim, M., Hooker, J., Edwards, R., . . . Loggia, M. (2018). Brain glial activation in fibromyalgia - a multi-site positron emission tomography investigation. *Brain, behavior, and immunity, 75*, 72 - 83. https://doi.org/10.1016/j.bbi.2018.09.018
+
+Alshelh, Z., Albrecht, D., Bergan, C., Akeju, O., Clauw, D., Conboy, L., Edwards, R., Kim, M., Lee, Y. C., Protsenko, E., Napadow, V., Sullivan, K., & Loggia, M. (2020). In-vivo imaging of neuroinflammation in Veterans with Gulf War Illness. *Brain, behavior, and immunity, 87*, 498 - 507. https://doi.org/10.1016/j.bbi.2020.01.020
+
+Barron, A., Higuchi, M., Hattori, S., Kito, S., Suhara, T., & Ji, B. (2020). Regulation of Anxiety and Depression by Mitochondrial Translocator Protein-Mediated Steroidogenesis: the Role of Neurons. *Molecular Neurobiology, 58*, 550 - 563. https://doi.org/10.1007/s12035-020-02136-5
+
+Böttcher, C., Fernández-Zapata, C., Snijders, G. J. L., Schlickeiser, S., Sneeboer, M., Kunkel, D., De Witte, L. D., & Priller, J. (2020). Single-cell mass cytometry of microglia in major depressive disorder reveals a non-inflammatory phenotype with increased homeostatic marker expression. *Translational Psychiatry, 10*. https://doi.org/10.1038/s41398-020-00992-2
+
+Cakmak, J. D., Liu, L.-S., Poirier, S. E., Schaefer, B., Poolacherla, R., Burhan, A., Sabesan, P., St. Lawrence, K., Théberge, J., Hicks, J., Finger, E., Palaniyappan, L., & Anazodo, U. (2022). The functional and structural associations of aberrant microglial activity in major depressive disorder. *Journal of Psychiatry & Neuroscience : JPN, 47*, E197 - E208. https://doi.org/10.1503/jpn.210124
+
+Cerejeira, J., Regueira, P., & Albuquerque, E. (2019). The use of [11C]-PK11195 PET imaging in psychiatric disorders. https://doi.org/10.26226/morressier.5d1a037257558b317a1402f6
+
+Chang, Y., Zhang, X., Xiao, S., Liu, J., Wang, Y., Song, J.-B., Fu, H.-P., Li, Y.-G., Su, H., Yi, H., Su, W., Gao, N., Zhao, J., Wang, R.-M., & Liu, R. (2025). Evidence for brain glial activity in chronic migraine patients: a [11C] PBR28 PET/MR study. *European Journal of Nuclear Medicine and Molecular Imaging, 52*, 4334 - 4344. https://doi.org/10.1007/s00259-025-07282-3
+
+Chang, C.-W., Chiu, C.-H., Lin, M.-H., Wu, H.-M., Yu, T.-H., Wang, P.-Y., Kuo, Y.-Y., Huang, Y.-Y., Shiue, C., Huang, W.-S., & Yeh, S. (2021). GMP-compliant fully automated radiosynthesis of [18F]FEPPA for PET/MRI imaging of regional brain TSPO expression. *EJNMMI Research, 11*. https://doi.org/10.1186/s13550-021-00768-9
+
+Chauveau, F., Becker, G., & Boutin, H. (2021). Have (R)-[11C]PK11195 challengers fulfilled the promise? A scoping review of clinical TSPO PET studies. *European Journal of Nuclear Medicine and Molecular Imaging, 49*, 201 - 220. https://doi.org/10.1007/s00259-021-05425-w
+
+De Picker, L. D., Ottoy, J., Verhaeghe, J., Deleye, S., Wyffels, L., Fransen, E., Kosten, L., Sabbe, B., Coppens, V., Timmers, M., De Boer, P., Van Nueten, L., De Beeck, K. O., Oberacher, H., Vanhoenacker, F., Ceyssens, S., Stroobants, S., Staelens, S., & Morrens, M. (2019). State-associated changes in longitudinal [18F]-PBR111 TSPO PET imaging of psychosis patients: Evidence for the accelerated ageing hypothesis?. *Brain, behavior, and immunity, 77*,
+46-54
+. https://doi.org/10.1016/j.bbi.2018.11.318
+
+Ghadery, C., Koshimori, Y., Coakeley, S., Harris, M., Rusjan, P., Kim, J., Houle, S., & Strafella, A. (2017). Microglial activation in Parkinson’s disease using [18F]-FEPPA. *Journal of Neuroinflammation, 14*. https://doi.org/10.1186/s12974-016-0778-1
+
+Haarman, B. B. C. M., Lek, R. R.-V. D. F., De Groot, J. C., Ruhé, H. E. G., Klein, H., Zandstra, T., Burger, H., Schoevers, R., De Vries, E. D., Drexhage, H., Nolen, W., & Doorduin, J. (2014). Neuroinflammation in bipolar disorder - A [(11)C]-(R)-PK11195 positron emission tomography study.. *Brain, behavior, and immunity, 40*,
+219-25
+. https://doi.org/10.1016/j.bbi.2014.03.016
+
+Hafizi, S., Tseng, H.-H., Rao, N. P., Selvanathan, T., Kenk, M., Bazinet, R., Suridjan, I., Wilson, A., Meyer, J., Remington, G., Houle, S., Rusjan, P., & Mizrahi, R. (2016). Imaging Microglial Activation in Untreated First-Episode Psychosis: A PET Study With [18F]FEPPA. *The American journal of psychiatry, 174*, 118 - 124. https://doi.org/10.1176/appi.ajp.2016.16020171
+
+Herranz, E., Giannì, C., Louapre, C., Treaba, C., Govindarajan, S. T., Ouellette, R., Loggia, M., Sloane, J. A., Madigan, N., Izquierdo-García, D., Ward, N., Mangeat, M., Granberg, T., Klawiter, E. C., Catana, C., Hooker, J. M., Taylor, N., Ionete, C., Kinkel, R., & Mainero, C. (2016). The neuroinflammatory component of gray matter pathology in multiple sclerosis. *Annals of neurology, 80*, 776 - 790. https://doi.org/10.1002/ana.24791
+
+Horti, A., Naik, R., Foss, C., Minn, I., Misheneva, V., Du, Y., Wang, Y., Mathews, W. B., Wu, Y.-K., Hall, A. W., Lacourse, C., Ahn, H.-H., Nam, H., Lesniak, W. G., Valentine, H., Pletnikova, O., Troncoso, J., Smith, M. D., Calabresi, P., . . . Pomper, M. (2019). PET imaging of microglia by targeting macrophage colony-stimulating factor 1 receptor (CSF1R). *Proceedings of the National Academy of Sciences, 116*, 1686 - 1691. https://doi.org/10.1073/pnas.1812155116
+
+Imhoff-Smith, T. P., Philibert-Rosas, S., Hurley, S. A., Ciliento, R., Sevak, B., Nair, V. A., Prabhakaran, V., McMillan, A., Adluru, N., & Struck, A. (2025). Elevated neuroinflammation and region-specific clinical correlates in drug-resistant focal epilepsy. *Seizure, 131*, 257 - 264. https://doi.org/10.1016/j.seizure.2025.07.020
+
+Li, H., Sagar, A. P., & Kéri, S. (2018). [LI2018_B — marcadores córtex] Microglial markers in the frontal cortex are related to cognitive dysfunctions in major depressive disorder.. *Journal of affective disorders, 241*,
+305-310
+. https://doi.org/10.1016/j.jad.2018.08.021
+
+London, E., Okita, K., Kinney, K. R., Dean, A., McClintick, M. N., Rizor, E., Johnson, M. C., Mahmoudie, T., Brody, A., Nurmi, E., Seaman, L., Farahi, J., Ginder, N., & Mandelkern, M. (2020). No significant elevation of translocator protein binding in the brains of recently abstinent methamphetamine users. *Drug and alcohol dependence, 213*, 108104 - 108104. https://doi.org/10.1016/j.drugalcdep.2020.108104
+
+Mirzaei, N., Tang, S.-P., Ashworth, S., Coello, C., Plisson, C., Passchier, J., Selvaraj, V., Nutt, D., & Sastre, M. (2016). In vivo imaging of microglial activation by positron emission tomography with [11C]PBR28 in the 5XFAD model of Alzheimer's disease. *Glia, 64*. https://doi.org/10.1002/glia.22978
+
+Passamonti, L., Vázquez Rodríguez, P., Hong, Y. T., Allinson, K., Williamson, D., Jones, P. S., Arnold, R., Borchert, R., Surendranathan, A., Mak, E., Su, L., Fryer, T., Aigbirhio, F., O'Brien, J. T., & Rowe, J. B. (2018). [11C]PK11195 binding in Alzheimer disease and progressive supranuclear palsy. *Neurology, 90*, e1989 - e1996. https://doi.org/10.1212/wnl.0000000000005610
+
+Schaechter, J., Hightower, B. G., Kim, M., & Loggia, M. (2021). A pilot [11C]PBR28 PET/MRI study of neuroinflammation and neurodegeneration in chronic stroke patients. *Brain, Behavior, & Immunity - Health, 17*. https://doi.org/10.1016/j.bbih.2021.100336
+
+Su, L., Faluyi, Y., Hong, Y. T., Fryer, T., Mak, E., Gabel, S., Hayes, L., Soteriades, S., Williams, G. B., Arnold, R., Passamonti, L., Vázquez Rodríguez, P., Surendranathan, A., Bevan-Jones, R., Coles, J. P., Aigbirhio, F., Rowe, J., & O'Brien, J. (2016). Neuroinflammatory and morphological changes in late-life depression: the NIMROD study. *The British Journal of Psychiatry, 209*, 525 - 526. https://doi.org/10.1192/bjp.bp.116.190165
+
+Suridjan, I., Rusjan, P., Voineskos, A., Selvanathan, T., Setiawan, E., Strafella, A., Wilson, A. A., Meyer, J., & Houle, S. (2013). Neuroinflammation in healthy aging: A PET study using a novel Translocator Protein 18 kDa (TSPO) radioligand, [18F]-FEPPA. *NeuroImage, 84*, 868 - 875. https://doi.org/10.1016/j.neuroimage.2013.09.021
+
+Zammit, M., Tao, Y., Olsen, M. E., Metzger, J. M., Vermilyea, S., Bjornson, K. J., Slesarev, M. S., Block, W., Fuchs, K., Phillips, S., Bondarenko, V., Zhang, S.-C., Emborg, M., & Christian, B. (2020). [18F]FEPPA PET imaging for monitoring CD68-positive microglia/macrophage neuroinflammation in nonhuman primates. *EJNMMI Research, 10*. https://doi.org/10.1186/s13550-020-00683-5
+
+Zhou, Y.-T., Zou, Y., Zhong, X., Li, H., Yang, J., Meng, H., Xie, W., Yao, P., Wu, X.-A., Cai, H., Li, L., Wang, C.-N., Zhang, W., & Bai, P. (2026). [FORA_LOTE_TSPO — alvo HDAC6, não TSPO] Development of a novel HDAC6 PET imaging agent uncovers associations between HDAC6 overexpression and neuroinflammation in depression. *Redox Biology, 90*. https://doi.org/10.1016/j.redox.2026.104014
+
+Beaino, W., Werry, E., Vellinga, R. J., Van Den Hoek, J. L., Sohler, G., Cumbers, G. A., Genetzakis, E., Harvey-Latham, E. D., Schuit, R., Kassiou, M., Windhorst, A., & Danon, J. (2025). Development and evaluation of [11C]DPA-813 and [18F]DPA-814: novel TSPO PET tracers insensitive to human single nucleotide polymorphism rs6971. *European Journal of Nuclear Medicine and Molecular Imaging, 52*, 2658 - 2670. https://doi.org/10.1007/s00259-025-07109-1
+
+Conen, S., Gregory, C. J., Hinz, R., Smallman, R., Corsi-Zuelli, F., Deakin, B., & Talbot, P. (2020). Neuroinflammation as measured by positron emission tomography in patients with recent onset and established schizophrenia: implications for immune pathogenesis. *Molecular Psychiatry, 26*, 5398 - 5406. https://doi.org/10.1038/s41380-020-0829-y
+
+Conte, M., De Feo, M. S., Corica, F., Gorica, J., Sidrak, M. M. A., De Cristofaro, F., Filippi, L., Ricci, M., De Vincentis, G., & Frantellizzi, V. (2023). A Systematic Review on Dementia and Translocator Protein (TSPO): When Nuclear Medicine Highlights an Underlying Expression. *Biomolecules, 13*. https://doi.org/10.3390/biom13040598
+
+Cumbers, G. A., Harvey-Latham, E. D., Kassiou, M., Werry, E., & Danon, J. (2024). Emerging TSPO-PET Radiotracers for Imaging Neuroinflammation: A Critical Analysis.. *Seminars in nuclear medicine*. https://doi.org/10.1053/j.semnuclmed.2024.09.007
+
+Guilarte, T., Rodichkin, A. N., McGlothan, J., De La Rocha, A. A., & Azzam, D. J. (2021). Imaging neuroinflammation with TSPO: A new perspective on the cellular sources and subcellular localization. *Pharmacology & therapeutics, 234*, 108048 - 108048. https://doi.org/10.1016/j.pharmthera.2021.108048
+
+Kim, K., Kim, H., Bae, S., Lee, S.-Y., Kim, Y.-H., Na, J., Lee, C., Lee, M.-S., Ko, G., Kim, K., Lee, S.-H., Song, I., Cheon, G., Kang, K., Kim, S., Chung, J.-K., Kim, E., Paek, S., Lee, J. S., . . . Youn, H. (2020). [18F]CB251 PET/MR imaging probe targeting translocator protein (TSPO) independent of its Polymorphism in a Neuroinflammation Model. *Theranostics, 10*, 9315 - 9331. https://doi.org/10.7150/thno.46875
+
+Ottoy, J., De Picker, L. D., Verhaeghe, J., Deleye, S., Wyffels, L., Kosten, L., Sabbe, B., Coppens, V., Timmers, M., Van Nueten, L., Ceyssens, S., Stroobants, S., Morrens, M., & Staelens, S. (2018). 18F-PBR111 PET Imaging in Healthy Controls and Schizophrenia: Test–Retest Reproducibility and Quantification of Neuroinflammation. *The Journal of Nuclear Medicine, 59*, 1267 - 1274. https://doi.org/10.2967/jnumed.117.203315
+
+Ramakrishnan, N., Hird, M., Thompson, S., Williamson, D., Qiao, L.-X., Owen, D. R., Brooks, A. F., Scott, P., Bacallado, S., O’Brien, J., & Aigbirhio, F. (2021). Preclinical evaluation of (S)-[18F]GE387, a novel 18-kDa translocator protein (TSPO) PET radioligand with low binding sensitivity to human polymorphism rs6971. *European Journal of Nuclear Medicine and Molecular Imaging, 49*, 125 - 136. https://doi.org/10.1007/s00259-021-05495-w
+
+Rupprecht, R., Rupprecht, C., Di Benedetto, B., & Rammes, G. (2021). Neuroinflammation and psychiatric disorders: Relevance of C1q, translocator protein (18 kDa) (TSPO), and neurosteroids. *The World Journal of Biological Psychiatry, 23*, 257 - 263. https://doi.org/10.1080/15622975.2021.1961503
+
+Singh, P., Adhikari, A., Singh, D., Gond, C., & Tiwari, A. (2022). The 18-kDa Translocator Protein PET Tracers as a Diagnostic Marker for Neuroinflammation: Development and Current Standing. *ACS Omega, 7*, 14412 - 14429. https://doi.org/10.1021/acsomega.2c00588
+
+Tournier, B., Tsartsalis, S., Ceyzériat, K., Garibotto, V., & Millet, P. (2020). In Vivo TSPO Signal and Neuroinflammation in Alzheimer’s Disease. *Cells, 9*. https://doi.org/10.3390/cells9091941
+
+Turkheimer, F., Rizzo, G., Bloomfield, P. S., Howes, O., Zanotti-Fregonara, P., Bertoldo, A., & Veronese, M. (2015). The methodology of TSPO imaging with positron emission tomography. *Biochemical Society Transactions, 43*, 586 - 592. https://doi.org/10.1042/bst20150058
+
+Wimberley, C., Buvat, I., & Boutin, H. (2021). Imaging translocator protein expression with positron emission tomography. *European Journal of Nuclear Medicine and Molecular Imaging, 49*, 74 - 76. https://doi.org/10.1007/s00259-021-05601-y

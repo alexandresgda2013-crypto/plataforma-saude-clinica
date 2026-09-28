@@ -1,0 +1,74 @@
+{
+  "trilha": 108,
+  "data": "2026-09-25",
+  "objeto": "fecho_v111rev2_reconfirmacao",
+  "digitais": {
+    "mestre": "d7610d32a301c40ef924f802be9f764b2e69aed5ff5c588d119913df724213fa",
+    "estrutura": "e1961e7954281047af7abaf2a8b6fdab3b3fdbc6605f0b9584d9928ce3210412",
+    "rev2": "2efc0edd9ba8fdf312cae23aceafc840b9ec3f8a2bc5e9ed147fe2f5bb2f9a2c"
+  },
+  "medidas_rev2": {
+    "total_chars": 34004,
+    "corpo_chars": 27667,
+    "linhas_divergentes": 0
+  },
+  "nota_T7": "27667 = corpo (igual por design); total rev.2 = 34004 medido — atende pedido do Estrutura",
+  "ciclo_v111rev2": "ENCAVEL",
+  "total": 7,
+  "ok": 7,
+  "resultado": [
+    {
+      "id": "T1",
+      "descricao": "Mestre upload ≡ série",
+      "ok": true,
+      "detalhe": {
+        "sha": "d7610d32a301c40ef924f802be9f764b2e69aed5ff5c588d119913df724213fa"
+      }
+    },
+    {
+      "id": "T2",
+      "descricao": "Mestre sem ressalva rev.2",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T3",
+      "descricao": "Estrutura sem ressalva rev.2",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T4",
+      "descricao": "rev.2 sha = 2efc0edd",
+      "ok": true,
+      "detalhe": {
+        "sha": "2efc0edd9ba8fdf312cae23aceafc840b9ec3f8a2bc5e9ed147fe2f5bb2f9a2c"
+      }
+    },
+    {
+      "id": "T5",
+      "descricao": "T7 refeito: comprimento REAL da rev.2 + corpo + divergentes",
+      "ok": true,
+      "detalhe": {
+        "total_rev2_chars": 34004,
+        "total_v10_chars": 32144,
+        "corpo_chars": 27667,
+        "linhas_divergentes_corpo": 0
+      }
+    },
+    {
+      "id": "T6",
+      "descricao": "confinamento confirmado (corpo v10 == corpo rev.2)",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T7",
+      "descricao": "2× sem ressalva ⇒ ENCAVEL rev.2",
+      "ok": true,
+      "detalhe": {
+        "vigencia": "frase do operador"
+      }
+    }
+  ]
+}

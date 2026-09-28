@@ -1,0 +1,599 @@
+[
+ {
+  "acao": "movido",
+  "biblioteca": "B10_DesregulacaoCircadiana",
+  "arquivo": "Artigos cientificos do mecanismo B10 desregulação circadiana.md",
+  "destino": "B10_DesregulacaoCircadiana/atuais/producao/insumos/uploads_originais/Artigos cientificos do mecanismo B10 desregulação circadiana.md",
+  "md5": "362688dc562bee399c73405fe1408f30"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B11_DisfuncaoTireoidiana",
+  "arquivo": "Artigos cientificos do mecanismo B11 disfunção tireoidiana.md",
+  "destino": "B11_DisfuncaoTireoidiana/atuais/producao/insumos/uploads_originais/Artigos cientificos do mecanismo B11 disfunção tireoidiana.md",
+  "md5": "40cabc33858bc86010176b315417142b"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B12_NeurobiologiaTrauma",
+  "arquivo": "Artigos cientificos do mecanismo B12 neurobiologia trauma.md",
+  "destino": "B12_NeurobiologiaTrauma/atuais/producao/insumos/uploads_originais/Artigos cientificos do mecanismo B12 neurobiologia trauma.md",
+  "md5": "b99c443ec23177773f0308ff46a048fa"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B13_SistemaEndocanabinoide",
+  "arquivo": "Artigos cientificos do mecanismo B13 sistema endocanabinoide.md",
+  "destino": "B13_SistemaEndocanabinoide/atuais/producao/insumos/uploads_originais/Artigos cientificos do mecanismo B13 sistema endocanabinoide.md",
+  "md5": "2b3babab1a2fcfe88dabaf8ffb97053b"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B14_Neuroesteroides",
+  "arquivo": "Artigos cientificos do mecanismo B14 neuroesteroides hormonios.md",
+  "destino": "B14_Neuroesteroides/atuais/producao/insumos/uploads_originais/Artigos cientificos do mecanismo B14 neuroesteroides hormonios.md",
+  "md5": "b30daa35403c84e188569a10ff7cba48"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B15_AutofagiaMTOR",
+  "arquivo": "Artigos cientificos do mecanismo B15 autofagia mtor.md",
+  "destino": "B15_AutofagiaMTOR/atuais/producao/insumos/uploads_originais/Artigos cientificos do mecanismo B15 autofagia mtor.md",
+  "md5": "fc2412b0fc08140f4010a07961d70807"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B16_Neurogenese",
+  "arquivo": "Artigos cientificos do mecanismo B16 Neurogense.md",
+  "destino": "B16_Neurogenese/atuais/producao/insumos/uploads_originais/Artigos cientificos do mecanismo B16 Neurogense.md",
+  "md5": "9e8cfccb3447d966b95715cbe0f25a34"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B03_Neuroplasticidade",
+  "arquivo": "Artigos cientificos do mecanismo B3 Neuroplasticidade.md",
+  "destino": "B03_Neuroplasticidade/atuais/producao/insumos/uploads_originais/Artigos cientificos do mecanismo B3 Neuroplasticidade.md",
+  "md5": "27e402bb451e9999c6c49c8f3cf82361"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B04_Monoaminas",
+  "arquivo": "Artigos cientificos do mecanismo B4 Deficiencias monoaminas.md",
+  "destino": "B04_Monoaminas/atuais/producao/insumos/uploads_originais/Artigos cientificos do mecanismo B4 Deficiencias monoaminas.md",
+  "md5": "10ea53ed4c5c4db3cb14bc67826a869e"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B05_GabaGlutamato",
+  "arquivo": "Artigos cientificos do mecanismo B5 Gaba Glutamato.md",
+  "destino": "B05_GabaGlutamato/atuais/producao/insumos/uploads_originais/Artigos cientificos do mecanismo B5 Gaba Glutamato.md",
+  "md5": "acd97b84160c7e2f5c6f4f0eeac9dc52"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B06_EstresseOxidativo",
+  "arquivo": "Artigos cientificos do mecanismo B6 Stress oxidativo.md",
+  "destino": "B06_EstresseOxidativo/atuais/producao/insumos/uploads_originais/Artigos cientificos do mecanismo B6 Stress oxidativo.md",
+  "md5": "b6c9acc22276638748e3eb2881951862"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B07_EixoIntestinoCerebro",
+  "arquivo": "Artigos cientificos do mecanismo B7 eixo intestino cérebro.md",
+  "destino": "B07_EixoIntestinoCerebro/atuais/producao/insumos/uploads_originais/Artigos cientificos do mecanismo B7 eixo intestino cérebro.md",
+  "md5": "97971785863f1c3f749a7439445591f1"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B08_Micronutrientes",
+  "arquivo": "Artigos cientificos do mecanismo B8 deficiencia micronutrientes.md",
+  "destino": "B08_Micronutrientes/atuais/producao/insumos/uploads_originais/Artigos cientificos do mecanismo B8 deficiencia micronutrientes.md",
+  "md5": "69d836f36d654546d2b9a0dd003ad22f"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B09_DisfuncaoMitocondrial",
+  "arquivo": "Artigos cientificos do mecanismo B9 disfunção mitocondrial.md",
+  "destino": "B09_DisfuncaoMitocondrial/atuais/producao/insumos/uploads_originais/Artigos cientificos do mecanismo B9 disfunção mitocondrial.md",
+  "md5": "8fcce4ee0d80530bae3a06a60335f123"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B13_SistemaEndocanabinoide",
+  "arquivo": "B13_Sistema_Endocanabinoide_Briefing_Cientifico.md",
+  "destino": "B13_SistemaEndocanabinoide/atuais/producao/insumos/uploads_originais/B13_Sistema_Endocanabinoide_Briefing_Cientifico.md",
+  "md5": "02bbc4b3f31874c7b1a39fc82c27607e"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B09_DisfuncaoMitocondrial",
+  "arquivo": "B9_Disfuncao_Mitocondrial_Briefing_Cientifico (1).md",
+  "destino": "B09_DisfuncaoMitocondrial/atuais/producao/insumos/uploads_originais/B9_Disfuncao_Mitocondrial_Briefing_Cientifico (1).md",
+  "md5": "0578318847f3c1252c060af3778ca3ea"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B10_DesregulacaoCircadiana",
+  "arquivo": "BRIEFING_B10_DESREGULACAO_CIRCADIANA_RODADA0.md",
+  "destino": "B10_DesregulacaoCircadiana/atuais/producao/insumos/uploads_originais/BRIEFING_B10_DESREGULACAO_CIRCADIANA_RODADA0.md",
+  "md5": "291b0ebaafdb4f1446f068c259c88816"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B11_DisfuncaoTireoidiana",
+  "arquivo": "BRIEFING_B11_DISFUNCAO_TIREOIDIANA_RODADA0.md",
+  "destino": "B11_DisfuncaoTireoidiana/atuais/producao/insumos/uploads_originais/BRIEFING_B11_DISFUNCAO_TIREOIDIANA_RODADA0.md",
+  "md5": "c7230a5eb44c76783314a3923460566d"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B12_NeurobiologiaTrauma",
+  "arquivo": "BRIEFING_B12_NEUROBIOLOGIA_TRAUMA_RODADA0 (1).md",
+  "destino": "B12_NeurobiologiaTrauma/atuais/producao/insumos/uploads_originais/BRIEFING_B12_NEUROBIOLOGIA_TRAUMA_RODADA0 (1).md",
+  "md5": "3b07530ff4c5b438ca25e4ea7c10fa4e"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B13_SistemaEndocanabinoide",
+  "arquivo": "BRIEFING_B13_ENDOCANABINOIDE_RODADA0 (1).md",
+  "destino": "B13_SistemaEndocanabinoide/atuais/producao/insumos/uploads_originais/BRIEFING_B13_ENDOCANABINOIDE_RODADA0 (1).md",
+  "md5": "8dd10d28f1269551d1dd61ee0a9eed76"
+ },
+ {
+  "acao": "removido_duplicado",
+  "arquivo": "BRIEFING_B13_ENDOCANABINOIDE_RODADA0.md",
+  "identico_a": "B13_SistemaEndocanabinoide/atuais/producao/rodada1_gpm/BRIEFING_B13.md",
+  "md5": "4048db1c1a0df78bb8c71b486bc1e53b"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B14_Neuroesteroides",
+  "arquivo": "BRIEFING_B14_NEUROESTEROIDES_RODADA0 (1).md",
+  "destino": "B14_Neuroesteroides/atuais/producao/insumos/uploads_originais/BRIEFING_B14_NEUROESTEROIDES_RODADA0 (1).md",
+  "md5": "6055512473fe40ddb9bc4d589811afa7"
+ },
+ {
+  "acao": "removido_duplicado",
+  "arquivo": "BRIEFING_B14_NEUROESTEROIDES_RODADA0.md",
+  "identico_a": "B14_Neuroesteroides/atuais/producao/rodada1_gpm/BRIEFING_B14.md",
+  "md5": "45722a1bf80cfe7931b0687d40eb1047"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B15_AutofagiaMTOR",
+  "arquivo": "BRIEFING_B15_AUTOFAGIA_MTOR_RODADA0 (1).md",
+  "destino": "B15_AutofagiaMTOR/atuais/producao/insumos/uploads_originais/BRIEFING_B15_AUTOFAGIA_MTOR_RODADA0 (1).md",
+  "md5": "e61776b5b77c8f689125db276d610f6b"
+ },
+ {
+  "acao": "removido_duplicado",
+  "arquivo": "BRIEFING_B15_AUTOFAGIA_MTOR_RODADA0.md",
+  "identico_a": "B15_AutofagiaMTOR/atuais/producao/rodada1_gpm/BRIEFING_B15.md",
+  "md5": "0f6b3f5a01d4a0f8d3b12982b2655271"
+ },
+ {
+  "acao": "removido_duplicado",
+  "arquivo": "BRIEFING_B16_NEUROGENESE_RODADA0 (1).md",
+  "identico_a": "B16_Neurogenese/atuais/producao/rodada1_gpm/BRIEFING_B16.md",
+  "md5": "a50c3b94d153c82c99126f1bbd1cf357"
+ },
+ {
+  "acao": "removido_duplicado",
+  "arquivo": "BRIEFING_B16_NEUROGENESE_RODADA0.md",
+  "identico_a": "B16_Neurogenese/atuais/producao/rodada1_gpm/BRIEFING_B16.md",
+  "md5": "a50c3b94d153c82c99126f1bbd1cf357"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B06_EstresseOxidativo",
+  "arquivo": "BRIEFING_B6_STRESS_OXIDATIVO_RODADA0.md",
+  "destino": "B06_EstresseOxidativo/atuais/producao/insumos/uploads_originais/BRIEFING_B6_STRESS_OXIDATIVO_RODADA0.md",
+  "md5": "e9eace0a0713fb2ff7cd1bb0cbaab584"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B07_EixoIntestinoCerebro",
+  "arquivo": "BRIEFING_B7_EIXO_INTESTINO_CEREBRO_RODADA0.md",
+  "destino": "B07_EixoIntestinoCerebro/atuais/producao/insumos/uploads_originais/BRIEFING_B7_EIXO_INTESTINO_CEREBRO_RODADA0.md",
+  "md5": "e6d9d3d013e9272e763bdfdb10086a8f"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B08_Micronutrientes",
+  "arquivo": "BRIEFING_B8_MICRONUTRIENTES_RODADA0.md",
+  "destino": "B08_Micronutrientes/atuais/producao/insumos/uploads_originais/BRIEFING_B8_MICRONUTRIENTES_RODADA0.md",
+  "md5": "1376a9b447f0190e339a5c1373d9e8ac"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B09_DisfuncaoMitocondrial",
+  "arquivo": "BRIEFING_B9_DISFUNCAO_MITOCONDRIAL_RODADA0.md",
+  "destino": "B09_DisfuncaoMitocondrial/atuais/producao/insumos/uploads_originais/BRIEFING_B9_DISFUNCAO_MITOCONDRIAL_RODADA0.md",
+  "md5": "ce475e4dbf59b81cbc888807cbbb5b5e"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B10_DesregulacaoCircadiana",
+  "arquivo": "BRIEFING_CONSOLIDADO_B10_v1.md",
+  "destino": "B10_DesregulacaoCircadiana/atuais/producao/insumos/uploads_originais/BRIEFING_CONSOLIDADO_B10_v1.md",
+  "md5": "6835b3657632b2d786bd050aa0c6d3e2"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B11_DisfuncaoTireoidiana",
+  "arquivo": "BRIEFING_CONSOLIDADO_B11_v1.md",
+  "destino": "B11_DisfuncaoTireoidiana/atuais/producao/insumos/uploads_originais/BRIEFING_CONSOLIDADO_B11_v1.md",
+  "md5": "c0312bcbbe0bdf1c25207caf7c90e746"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B12_NeurobiologiaTrauma",
+  "arquivo": "BRIEFING_CONSOLIDADO_B12_v1.md",
+  "destino": "B12_NeurobiologiaTrauma/atuais/producao/insumos/uploads_originais/BRIEFING_CONSOLIDADO_B12_v1.md",
+  "md5": "55fcf36ff4f6dcaa4bcbd678e0f78aac"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B14_Neuroesteroides",
+  "arquivo": "BRIEFING_CONSOLIDADO_B14_v1.md",
+  "destino": "B14_Neuroesteroides/atuais/producao/insumos/uploads_originais/BRIEFING_CONSOLIDADO_B14_v1.md",
+  "md5": "22c26dd35bd0342e3e83ce28bda30233"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B16_Neurogenese",
+  "arquivo": "BRIEFING_CONSOLIDADO_B16_v1.md",
+  "destino": "B16_Neurogenese/atuais/producao/insumos/uploads_originais/BRIEFING_CONSOLIDADO_B16_v1.md",
+  "md5": "727ed9f03cefd8536108aa9e086f6c07"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B05_GabaGlutamato",
+  "arquivo": "BRIEFING_CONSOLIDADO_B5_v1.md",
+  "destino": "B05_GabaGlutamato/atuais/producao/insumos/uploads_originais/BRIEFING_CONSOLIDADO_B5_v1.md",
+  "md5": "799ff97e951da2ce0a0de333eb7f2f40"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B07_EixoIntestinoCerebro",
+  "arquivo": "BRIEFING_CONSOLIDADO_B7_v1.md",
+  "destino": "B07_EixoIntestinoCerebro/atuais/producao/insumos/uploads_originais/BRIEFING_CONSOLIDADO_B7_v1.md",
+  "md5": "ae0100311b80bb8143436f0435ada4b5"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B08_Micronutrientes",
+  "arquivo": "BRIEFING_CONSOLIDADO_B8_v1.md",
+  "destino": "B08_Micronutrientes/atuais/producao/insumos/uploads_originais/BRIEFING_CONSOLIDADO_B8_v1.md",
+  "md5": "82158d981652d09ac1dcd81aa752eb46"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B15_AutofagiaMTOR",
+  "arquivo": "BRIENFING CONSOLIDADO _B15_v1.md",
+  "destino": "B15_AutofagiaMTOR/atuais/producao/insumos/uploads_originais/BRIENFING CONSOLIDADO _B15_v1.md",
+  "md5": "8a3bb943058aeb1284094802c241d986"
+ },
+ {
+  "acao": "removido_duplicado",
+  "arquivo": "GPM_B10_DesregulacaoCircadiana.md",
+  "identico_a": "B10_DesregulacaoCircadiana/atuais/producao/rodada1_gpm/GPM_B10.md",
+  "md5": "28b2f3f42b7eb1bc885fd1c33a4c2d93"
+ },
+ {
+  "acao": "removido_duplicado",
+  "arquivo": "GPM_B11_DisfuncaoTireoidiana (1).md",
+  "identico_a": "B11_DisfuncaoTireoidiana/atuais/producao/rodada1_gpm/GPM_B11_completo.md",
+  "md5": "178b919ca8d9a290817092774d51c6fc"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B11_DisfuncaoTireoidiana",
+  "arquivo": "GPM_B11_DisfuncaoTireoidiana.md",
+  "destino": "B11_DisfuncaoTireoidiana/atuais/producao/insumos/uploads_originais/GPM_B11_DisfuncaoTireoidiana.md",
+  "md5": "8ff3f712eea0c0d023e9ab3d94d7b778"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B12_NeurobiologiaTrauma",
+  "arquivo": "GPM_B12_NeurobiologiaTrauma (2).md",
+  "destino": "B12_NeurobiologiaTrauma/atuais/producao/insumos/uploads_originais/GPM_B12_NeurobiologiaTrauma (2).md",
+  "md5": "285c3fa495d55ba57c4756b61a5af5e7"
+ },
+ {
+  "acao": "removido_duplicado",
+  "arquivo": "GPM_B12_NeurobiologiaTrauma.md",
+  "identico_a": "B12_NeurobiologiaTrauma/atuais/producao/rodada1_gpm/GPM_B12.md",
+  "md5": "2761cedcf8b8a3d604978418de3788a7"
+ },
+ {
+  "acao": "removido_duplicado",
+  "arquivo": "GPM_B13_SistemaEndocanabinoide (3).md",
+  "identico_a": "B13_SistemaEndocanabinoide/atuais/producao/rodada1_gpm/GPM_B13.md",
+  "md5": "8a5b3f2bc068ff47c39a0bbc504406df"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B13_SistemaEndocanabinoide",
+  "arquivo": "GPM_B13_SistemaEndocanabinoide (4).md",
+  "destino": "B13_SistemaEndocanabinoide/atuais/producao/insumos/uploads_originais/GPM_B13_SistemaEndocanabinoide (4).md",
+  "md5": "b79d8f214cb1dd9e1be4e47f9ca5f058"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B14_Neuroesteroides",
+  "arquivo": "GPM_B14_Neuroesteroides (1).md",
+  "destino": "B14_Neuroesteroides/atuais/producao/insumos/uploads_originais/GPM_B14_Neuroesteroides (1).md",
+  "md5": "29bafbf913ea3a35eed923258523758f"
+ },
+ {
+  "acao": "removido_duplicado",
+  "arquivo": "GPM_B14_Neuroesteroides.md",
+  "identico_a": "B14_Neuroesteroides/atuais/producao/rodada1_gpm/GPM_B14.md",
+  "md5": "5cd0fb00698cb593d8e9435e43c68251"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B15_AutofagiaMTOR",
+  "arquivo": "GPM_B15_Autofagia_mTOR (1).md",
+  "destino": "B15_AutofagiaMTOR/atuais/producao/insumos/uploads_originais/GPM_B15_Autofagia_mTOR (1).md",
+  "md5": "93fe119db46b4d9d421bd9e7ed77b1e8"
+ },
+ {
+  "acao": "removido_duplicado",
+  "arquivo": "GPM_B15_Autofagia_mTOR.md",
+  "identico_a": "B15_AutofagiaMTOR/atuais/producao/rodada1_gpm/GPM_B15.md",
+  "md5": "4f206eb100645a57f780fbf3e5a9e672"
+ },
+ {
+  "acao": "removido_duplicado",
+  "arquivo": "GPM_B16_Neurogenese_Hipocampal.md",
+  "identico_a": "B16_Neurogenese/atuais/producao/rodada1_gpm/GPM_B16.md",
+  "md5": "5786b97d9308a746d2c577e1a9f50744"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B03_Neuroplasticidade",
+  "arquivo": "GPM_B3_Neuroplasticidade v2.md",
+  "destino": "B03_Neuroplasticidade/atuais/producao/insumos/uploads_originais/GPM_B3_Neuroplasticidade v2.md",
+  "md5": "a0dcb94f794c37eb4484aed02620e480"
+ },
+ {
+  "acao": "removido_duplicado",
+  "arquivo": "GPM_B3_Neuroplasticidade.md",
+  "identico_a": "B03_Neuroplasticidade/atuais/producao/rodada1_gpm/GPM_B3.md",
+  "md5": "c1ee0e5264fdf2a76eff13eb25c8e84f"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B04_Monoaminas",
+  "arquivo": "GPM_B4_Monoaminas v2.md",
+  "destino": "B04_Monoaminas/atuais/producao/insumos/uploads_originais/GPM_B4_Monoaminas v2.md",
+  "md5": "b30de3df591823c667c3d75ee5758800"
+ },
+ {
+  "acao": "removido_duplicado",
+  "arquivo": "GPM_B4_Monoaminas.md",
+  "identico_a": "B04_Monoaminas/atuais/producao/rodada1_gpm/GPM_B4.md",
+  "md5": "e43bc5462a6101a8753c3d381881bcec"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B05_GabaGlutamato",
+  "arquivo": "GPM_B5_GabaGlutamato v2.md",
+  "destino": "B05_GabaGlutamato/atuais/producao/insumos/uploads_originais/GPM_B5_GabaGlutamato v2.md",
+  "md5": "1542ee188e4df97ab75157179fbbc8f6"
+ },
+ {
+  "acao": "removido_duplicado",
+  "arquivo": "GPM_B5_GabaGlutamato.md",
+  "identico_a": "B05_GabaGlutamato/atuais/producao/rodada1_gpm/GPM_B5.md",
+  "md5": "da424d224f65026d77b6d8a369df60b5"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B06_EstresseOxidativo",
+  "arquivo": "GPM_B6_EstresseOxidativo v2.md",
+  "destino": "B06_EstresseOxidativo/atuais/producao/insumos/uploads_originais/GPM_B6_EstresseOxidativo v2.md",
+  "md5": "a576108827f5818b6c279c6fb9fb381f"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B06_EstresseOxidativo",
+  "arquivo": "GPM_B6_EstresseOxidativo.md",
+  "destino": "B06_EstresseOxidativo/atuais/producao/insumos/uploads_originais/GPM_B6_EstresseOxidativo.md",
+  "md5": "be5da927d22f2f4412ade55c5a42aa92"
+ },
+ {
+  "acao": "removido_duplicado",
+  "arquivo": "GPM_B7_EixoIntestinoCerebro (1).md",
+  "identico_a": "B07_EixoIntestinoCerebro/atuais/producao/rodada1_gpm/GPM_B7.md",
+  "md5": "70b2c3b91078ec731c52d6d3b53f2ded"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B07_EixoIntestinoCerebro",
+  "arquivo": "GPM_B7_EixoIntestinoCerebro v2.md",
+  "destino": "B07_EixoIntestinoCerebro/atuais/producao/insumos/uploads_originais/GPM_B7_EixoIntestinoCerebro v2.md",
+  "md5": "5d9a2899e0140d4deadc6e75abdf1e82"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B07_EixoIntestinoCerebro",
+  "arquivo": "GPM_B7_EixoIntestinoCerebro.md",
+  "destino": "B07_EixoIntestinoCerebro/atuais/producao/insumos/uploads_originais/GPM_B7_EixoIntestinoCerebro.md",
+  "md5": "fa1d26998b463f418f43094ed596b297"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B08_Micronutrientes",
+  "arquivo": "GPM_B8_Micronutrientes (2).md",
+  "destino": "B08_Micronutrientes/atuais/producao/insumos/uploads_originais/GPM_B8_Micronutrientes (2).md",
+  "md5": "72a593b63bce332bdc5af87be839c090"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B08_Micronutrientes",
+  "arquivo": "GPM_B8_Micronutrientes v2.md",
+  "destino": "B08_Micronutrientes/atuais/producao/insumos/uploads_originais/GPM_B8_Micronutrientes v2.md",
+  "md5": "6c6e7e775c8a326ecd704b95feb2f655"
+ },
+ {
+  "acao": "removido_duplicado",
+  "arquivo": "GPM_B8_Micronutrientes.md",
+  "identico_a": "B08_Micronutrientes/atuais/producao/rodada1_gpm/GPM_B8.md",
+  "md5": "48ff1a3c6927fcfbd174ceaccf4ae7fa"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B09_DisfuncaoMitocondrial",
+  "arquivo": "GPM_B9_DisfuncaoMitocondrial (1).md",
+  "destino": "B09_DisfuncaoMitocondrial/atuais/producao/insumos/uploads_originais/GPM_B9_DisfuncaoMitocondrial (1).md",
+  "md5": "e8d879edf1865f51fdec3c8a3ffd74db"
+ },
+ {
+  "acao": "removido_duplicado",
+  "arquivo": "GPM_B9_DisfuncaoMitocondrial (2).md",
+  "identico_a": "B09_DisfuncaoMitocondrial/atuais/producao/rodada1_gpm/GPM_B9.md",
+  "md5": "8e64910cd03e44d9cdacf9d4d7cbdaff"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B09_DisfuncaoMitocondrial",
+  "arquivo": "GPM_B9_DisfuncaoMitocondrial (3).md",
+  "destino": "B09_DisfuncaoMitocondrial/atuais/producao/insumos/uploads_originais/GPM_B9_DisfuncaoMitocondrial (3).md",
+  "md5": "761ce8daf86480ad4620b664fade01d6"
+ },
+ {
+  "acao": "movido_pericia",
+  "arquivo": "PARECER_SCRIPTS_LOTE1.md",
+  "destino": "_documentos_serie/pericia_externa/PARECER_SCRIPTS_LOTE1.md",
+  "md5": "78f5877c2b0bf1ded066baabd6f354e2"
+ },
+ {
+  "acao": "movido_pericia",
+  "arquivo": "PARECER_SCRIPTS_LOTE2.md",
+  "destino": "_documentos_serie/pericia_externa/PARECER_SCRIPTS_LOTE2.md",
+  "md5": "d91140941cc1caae40f26efae36399a9"
+ },
+ {
+  "acao": "movido_pericia",
+  "arquivo": "PARECER_SCRIPTS_LOTE3.md",
+  "destino": "_documentos_serie/pericia_externa/PARECER_SCRIPTS_LOTE3.md",
+  "md5": "789a1ba976480d65bede45959fea7fb6"
+ },
+ {
+  "acao": "movido_pericia",
+  "arquivo": "PARECER_SCRIPTS_LOTE4.md",
+  "destino": "_documentos_serie/pericia_externa/PARECER_SCRIPTS_LOTE4.md",
+  "md5": "3b31dc0ce12537cf20df3d4ad4017445"
+ },
+ {
+  "acao": "movido_pericia",
+  "arquivo": "PARECER_SCRIPTS_LOTE5.md",
+  "destino": "_documentos_serie/pericia_externa/PARECER_SCRIPTS_LOTE5.md",
+  "md5": "0c2f9432f34be170a5008204e13535ea"
+ },
+ {
+  "acao": "movido_pericia",
+  "arquivo": "PARECER_SCRIPTS_LOTE6.md",
+  "destino": "_documentos_serie/pericia_externa/PARECER_SCRIPTS_LOTE6.md",
+  "md5": "b7c33b5a160770eda9a385090bbe8eb2"
+ },
+ {
+  "acao": "movido_pericia",
+  "arquivo": "PARECER_SCRIPTS_LOTE7_FINAL.md",
+  "destino": "_documentos_serie/pericia_externa/PARECER_SCRIPTS_LOTE7_FINAL.md",
+  "md5": "5050fe720a98c4ac27bd7cb7a36a8729"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B10_DesregulacaoCircadiana",
+  "arquivo": "Resumo do insumo para B10 chatgpt.md",
+  "destino": "B10_DesregulacaoCircadiana/atuais/producao/insumos/uploads_originais/Resumo do insumo para B10 chatgpt.md",
+  "md5": "6faca2c0d60f600f50e62f759ef451db"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B11_DisfuncaoTireoidiana",
+  "arquivo": "Resumo do insumo para B11 chatgpt.md",
+  "destino": "B11_DisfuncaoTireoidiana/atuais/producao/insumos/uploads_originais/Resumo do insumo para B11 chatgpt.md",
+  "md5": "24702bc5058be80413cefd8ed5e09547"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B12_NeurobiologiaTrauma",
+  "arquivo": "Resumo do insumo para B12 chatgpt.md",
+  "destino": "B12_NeurobiologiaTrauma/atuais/producao/insumos/uploads_originais/Resumo do insumo para B12 chatgpt.md",
+  "md5": "4439291014ad797604786ff0e45405f7"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B13_SistemaEndocanabinoide",
+  "arquivo": "Resumo do insumo para B13 chatgpt.md",
+  "destino": "B13_SistemaEndocanabinoide/atuais/producao/insumos/uploads_originais/Resumo do insumo para B13 chatgpt.md",
+  "md5": "a80b1dbfcb753c3a688c7dbd44ef41e0"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B14_Neuroesteroides",
+  "arquivo": "Resumo do insumo para B14 chatgpt.md",
+  "destino": "B14_Neuroesteroides/atuais/producao/insumos/uploads_originais/Resumo do insumo para B14 chatgpt.md",
+  "md5": "e46061cf448d9528fdc4270652f9f892"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B15_AutofagiaMTOR",
+  "arquivo": "Resumo do insumo para B15 chatgpt.md",
+  "destino": "B15_AutofagiaMTOR/atuais/producao/insumos/uploads_originais/Resumo do insumo para B15 chatgpt.md",
+  "md5": "1a2c4cabebe35b6a76e9b4fc851688bb"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B16_Neurogenese",
+  "arquivo": "Resumo do insumo para B16 chatgpt.md",
+  "destino": "B16_Neurogenese/atuais/producao/insumos/uploads_originais/Resumo do insumo para B16 chatgpt.md",
+  "md5": "0fefbb7becea9ccffd2ef4547bd4720e"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B06_EstresseOxidativo",
+  "arquivo": "Resumo do insumo para B6 Chatgpt.md",
+  "destino": "B06_EstresseOxidativo/atuais/producao/insumos/uploads_originais/Resumo do insumo para B6 Chatgpt.md",
+  "md5": "5d060b66f0276a9b7dcd5a06ecb93db3"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B07_EixoIntestinoCerebro",
+  "arquivo": "Resumo do insumo para B7 Chatgpt.md",
+  "destino": "B07_EixoIntestinoCerebro/atuais/producao/insumos/uploads_originais/Resumo do insumo para B7 Chatgpt.md",
+  "md5": "7f55dd15cf1681bd1294deb34609a861"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B08_Micronutrientes",
+  "arquivo": "Resumo do insumo para B8 Chatgpt.md",
+  "destino": "B08_Micronutrientes/atuais/producao/insumos/uploads_originais/Resumo do insumo para B8 Chatgpt.md",
+  "md5": "666dee78ac8a6effe61481d6db8e4625"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B09_DisfuncaoMitocondrial",
+  "arquivo": "Resumo do insumo para B9 Chatgpt.md",
+  "destino": "B09_DisfuncaoMitocondrial/atuais/producao/insumos/uploads_originais/Resumo do insumo para B9 Chatgpt.md",
+  "md5": "16a1e9bfd44c993e67ea363fc2938ce4"
+ },
+ {
+  "acao": "movido_pericia",
+  "arquivo": "TRIPLICA_CONTRARRAZAO.md",
+  "destino": "_documentos_serie/pericia_externa/TRIPLICA_CONTRARRAZAO.md",
+  "md5": "bc310f6e121d8a308b58e7931d177fcd"
+ },
+ {
+  "acao": "movido",
+  "biblioteca": "B13_SistemaEndocanabinoide",
+  "arquivo": "briefing-b13-sistema-endocanabinoide.md",
+  "destino": "B13_SistemaEndocanabinoide/atuais/producao/insumos/uploads_originais/briefing-b13-sistema-endocanabinoide.md",
+  "md5": "58ab6388c57accab5ed58a6d601c31c6"
+ }
+]

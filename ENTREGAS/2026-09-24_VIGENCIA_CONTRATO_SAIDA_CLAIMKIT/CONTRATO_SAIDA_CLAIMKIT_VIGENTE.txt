@@ -1,0 +1,40 @@
+CONTRATO DE SAÍDA DO CLAIM KIT — VIGENTE
+========================================
+Aprovação do operador (verbatim, 24/09/2026):
+
+"Aprovo como vigente o Contrato de Saída do Claim Kit — rev.2, digital 841532da, de 24/09/2026."
+
+Artefato vigente:
+  BIBLIOTECAS/_documentos_serie/CONTRATO_SAIDA_CLAIMKIT_rev2_vigente_2026-09-24/CONTRATO_SAIDA_CLAIMKIT_rev2_2026-09-24.md
+  sha256 841532dad13cd3fea1356c9e23e37067e78876685db52d3c1f2cd8b2a96e535c
+  11.205 bytes · 2026-09-24
+
+Linhagem:
+  - minuta rev.1 (não vigente; §4.3 reprova no N2)
+  - ponto do Auditor-Estrutura (TRILHA93 12/12)
+  - ratificação P-K6 pelo Comentador + granularidade por claim
+  - minuta rev.2 FINAL (841532da)
+  - subscrições SEM RESSALVA: Estrutura (aa62e9a3) e Mestre (c01321ed)
+  - réplica final TRILHA95 12/12
+  - encerramento de D1: ENTREGAS/2026-09-24_ENCERRAMENTO_D1/ (md 5518912f)
+
+O que está VIGENTE (contrato de derivação Claim→N2):
+  - dois eixos: status_auditoria != direcao_suporte
+  - aprovado_com_ressalva NAO implica condicional
+  - direcao por fonte (sentido_do_achado), sem default, falha dura sem direcao
+  - fonte unica de condicao; atenua/amplifica/nulo no claim; maturidade -> grau_maturidade
+  - inverte NAO materializa (P-K6, fail-closed por artefato)
+  - 0 alteracao de N1 v1.3 / N2 v1.4
+
+O que fica TRAVADO (P-K1..P-K6):
+  P-K1 direcao por fonte no kit (pre-condicao 1a materializacao)
+  P-K2 ressalvas[] com tipo (pre-condicao 1a materializacao)
+  P-K3 fonte unica escrita no kit
+  P-K4 superada (historico)
+  P-K5 vocabulario maturidade no kit
+  P-K6 condicao_modificadora + allOf = ciclo editorial N2 v1.5; .001b em espera
+
+Nao faz parte da vigencia (fluxos paralelos):
+  COMO EXECUTAR v1.9 (nao aprovado; v1.10 pendente)
+  piloto .014 (nao iniciado)
+  bytes Bloco/Lista >= 17/09 (pendentes com o operador)

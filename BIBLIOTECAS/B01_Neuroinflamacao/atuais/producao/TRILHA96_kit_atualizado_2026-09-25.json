@@ -1,0 +1,154 @@
+{
+  "trilha": 96,
+  "data": "2026-09-25",
+  "objeto": "kit_atualizado_corpus_17_09",
+  "corpus": "Bloco v1.8 + Lista v1.5 (ambos 2026-09-17)",
+  "total": 14,
+  "ok": 14,
+  "resultado": [
+    {
+      "id": "T1",
+      "descricao": "uploads ≡ série (8 arquivos)",
+      "ok": true,
+      "detalhe": {
+        "sha_bloco": "7db41d405cdeca181eef9ce3d294797f88c8e5e65fc800dac504f60fa9ed4563",
+        "sha_lista": "20efa89f9aed9837074a93f6aa92325a652b3c3fa250e398c98100f3d1ee28d3"
+      }
+    },
+    {
+      "id": "T2",
+      "descricao": "Schema-Claim ≡ 15/09",
+      "ok": true,
+      "detalhe": {
+        "sha": "56dc0e94cc2e2983384190706bc00977db38f82d4d2663c1c4eca533683b0e79"
+      }
+    },
+    {
+      "id": "T3",
+      "descricao": "COMO EXECUTAR ≡ v1.9 de 20/09",
+      "ok": true,
+      "detalhe": {
+        "sha": "1cd90b407facee81692d668919829c9d6d5a149b1309424c6f012e26cd81f586"
+      }
+    },
+    {
+      "id": "T4",
+      "descricao": "Bloco v1.8 datado 2026-09-17",
+      "ok": true,
+      "detalhe": {
+        "sha": "7db41d405cdeca181eef9ce3d294797f88c8e5e65fc800dac504f60fa9ed4563",
+        "bytes": 77441
+      }
+    },
+    {
+      "id": "T5",
+      "descricao": "Lista v1.5 datada 2026-09-17",
+      "ok": true,
+      "detalhe": {
+        "sha": "20efa89f9aed9837074a93f6aa92325a652b3c3fa250e398c98100f3d1ee28d3",
+        "bytes": 42865
+      }
+    },
+    {
+      "id": "T6",
+      "descricao": "Bloco: 27 claims · 8/15/4 · 0 sem status",
+      "ok": true,
+      "detalhe": {
+        "total": 27,
+        "status": {
+          "aprovado_com_ressalva": 15,
+          "aprovado": 8,
+          "em_busca": 4
+        }
+      }
+    },
+    {
+      "id": "T7",
+      "descricao": "6 novos vs 15/09; 0 removidos",
+      "ok": true,
+      "detalhe": {
+        "novos": [
+          "B1.SM02.014",
+          "B1.SM02.015",
+          "B1.SM02.017",
+          "B1.SM02.023",
+          "B1.SM02.028",
+          "B1.SM02.032"
+        ],
+        "removidos": [],
+        "old": 21
+      }
+    },
+    {
+      "id": "T8",
+      "descricao": ".014: aprovado_com_ressalva; pmids 39938607+34864233",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T9",
+      "descricao": "Lista 43 ids; .012b/.012c agora alvos",
+      "ok": true,
+      "detalhe": {
+        "n": 43,
+        "header": "# v1.5 — 2026-09-17"
+      }
+    },
+    {
+      "id": "T10",
+      "descricao": "bloco ⊆ lista; lista−bloco = 16 próximos alvos",
+      "ok": true,
+      "detalhe": {
+        "bloco_sem_lista": [],
+        "proximos": [
+          "B1.SM02.016",
+          "B1.SM02.018",
+          "B1.SM02.019",
+          "B1.SM02.020",
+          "B1.SM02.021",
+          "B1.SM02.022",
+          "B1.SM02.024",
+          "B1.SM02.025",
+          "B1.SM02.026",
+          "B1.SM02.027",
+          "B1.SM02.029",
+          "B1.SM02.030",
+          "B1.SM02.031",
+          "B1.SM02.033",
+          "B1.SM02.034",
+          "B1.SM02.035"
+        ]
+      }
+    },
+    {
+      "id": "T11",
+      "descricao": "usado_em_biblioteca 23× nao",
+      "ok": true,
+      "detalhe": {
+        "nao": 23
+      }
+    },
+    {
+      "id": "T12",
+      "descricao": "P-K1/P-K2 ainda ausentes (ciclo do kit pendente)",
+      "ok": true,
+      "detalhe": {
+        "sentido": 0
+      }
+    },
+    {
+      "id": "T13",
+      "descricao": "ESTRUTURA MESTRE → v2.2 (mudou)",
+      "ok": true,
+      "detalhe": {
+        "sha_novo": "f6e545459ea153e8051e3bfcf696c31fcd8bdf3529e14da6bc6925acb018ac65"
+      }
+    },
+    {
+      "id": "T14",
+      "descricao": "IDS / ESCOPO / CANDIDATOS ≡ 15/09",
+      "ok": true,
+      "detalhe": {}
+    }
+  ]
+}

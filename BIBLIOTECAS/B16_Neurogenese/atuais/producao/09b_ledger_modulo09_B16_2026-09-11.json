@@ -1,0 +1,13 @@
+{
+ "acao": "09b_reconciliacao_ledger_arquivo_modulo09",
+ "data": "2026-09-11",
+ "n": 1,
+ "det": [
+  {
+   "id_auditoria": "AUD_B16_0071",
+   "ref": "REF_ELLIOTT_2025",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  }
+ ]
+}

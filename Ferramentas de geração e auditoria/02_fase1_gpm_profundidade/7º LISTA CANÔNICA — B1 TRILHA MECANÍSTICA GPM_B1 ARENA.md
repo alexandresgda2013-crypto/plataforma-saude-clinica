@@ -1,0 +1,821 @@
+#LISTA CANÔNICA — B1 / TRILHA MECANÍSTICA (seed)           27.08.26
+# ============================================
+# v1.2 — 2026-09-11 (R4/AUD-035, auditoria externa integral B1): sincronização de status com o uso real.
+#   - 78/83 itens: status em_busca → usado_em_biblioteca + campo uso_registrado (vínculo(s) VINC_B1_*/VINC_B1V2_* da B1 V5).
+#   - Regra aplicada: uso comprovado = claim_id presente em vinculos_referencia_afirmacao.json (B1 atuais/Evidencias/Vinculos).
+#   - Itens novos/renumeração: NENHUM — só atualização de status (mesma disciplina da v1.1).
+#   - Observação nomeada: 2 claim_ids em uso NÃO têm item nesta Lista: B1.MEC.BLOCO03.017, B1.MEC.BLOCO10.004
+#     (vínculos os citam sem semente correspondente) → dívida D-B1-R4-2CLAIMS em decisoes_B1.md.
+#   - Backup pré-v1.2: mesmo diretório, sufixo .bak_preV12_2026-09-11. Trilha: B01 producao/14_R4_lista_v12_B01_2026-09-11.json.
+# v1.1 — AUDITADA CONTRA GPM_B1_Neuroinflamacao Arena.md    
+# Correção vs. v1.0:
+#   - nomenclatura residual "M1" corrigida para "B1 (Trilha Mecanística)"
+#     nas duas ocorrências da nota de abertura e do campo
+#     exclusion_terms_aplicaveis_BLOCO02_a_05 (mesma correção já
+#     aplicada nos Documentos 1 e 3, nunca propagada para cá).
+#   - Auditoria item a item: todo o conteúdo do GPM_B1 (Módulos 00-10)
+#     foi cruzado contra os itens já existentes. Itens da v1.0 NÃO
+#     foram alterados nem renumerados — apenas adicionados novos itens
+#     ao final de cada BLOCO, numeração sequencial contínua.
+#   - BLOCO01 mantido verbatim — fora do escopo desta auditoria (outra
+#     instância conduz esta trilha).
+#   - fila_realocacao recebeu 1ª entrada real: PMID 33361152, achado
+#     durante busca de BLOCO02.001, pertence ao novo BLOCO08.015 (B15).
+#   - BLOCO11_12 recebeu nota de candidatos futuros, não itens formais,
+#     por respeito ao caráter condicional/dependente do submódulo.
+# Itens novos por BLOCO: 02:+10 | 03:+8 (mais 1 query preenchida) |
+#   04:+5 | 05:+4 | 06:+2 | 08:+9 | 09:+1 | 10:+2 — total 42→83 itens.
+# ============================================
+
+nota_metodologica: >
+  Queries aqui são ponto de partida (Caso B), sujeitas a Caso C
+  (reformulação com query_historico) conforme resultado real no
+  PubMed. Itens novos desta auditoria herdam a mesma regra: são
+  sementes derivadas do GPM_B1, não claims — nenhum status além de
+  em_busca até busca e verificação reais.
+
+exclusion_terms_aplicaveis_BLOCO02_a_05: >
+  Conforme Como Executar — B1 (Trilha Mecanística): excluir desenho
+  cujo eixo primário seja resposta a tratamento farmacológico sem
+  grupo de mecanismo intacto como comparador. Não aplicar em nichos
+  de literatura escassa sem antes checar se o NOT zera resultados.
+
+# --------------------------------------------
+# BLOCO 01 — FUNDAMENTOS (verbatim v1.0 — fora do escopo desta auditoria)
+# --------------------------------------------
+B1.MEC.BLOCO01:
+  - id: B1.MEC.BLOCO01.001
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0001, VINC_B1_0002, VINC_B1_0003, VINC_B1_0004… (B1 V5)"
+    claim_alvo: "Mecanismo de autorregulação/feedback negativo fisiológico da resposta neuroinflamatória (o que distingue ativação adaptativa de patológica)"
+    query: '(neuroinflammation OR "microglial activation") AND ("negative feedback" OR homeostasis OR resolution) AND (mechanism OR pathway)'
+    trilha: "mista (aceita humano, animal, in vitro)"
+    fonte_briefing: "Módulo 00/01 GPM — limiar adaptação-patologia"
+
+  - id: B1.MEC.BLOCO01.002
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0008, VINC_B1_0009, VINC_B1_0010, VINC_B1_0011… (B1 V5)"
+    claim_alvo: "Sickness behavior como modelo de neuroinflamação aguda adaptativa — via molecular e cronologia (iniciação/resolução)"
+    query: '"sickness behavior" AND (cytokine OR lipopolysaccharide) AND (mechanism OR "time course")'
+    trilha: "preferencialmente animal"
+    fonte_briefing: "termo alternativo item 2 do Briefing"
+
+  - id: B1.MEC.BLOCO01.003
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0007, VINC_B1_0012, VINC_B1_0013, VINC_B1_0014 (B1 V5)"
+    claim_alvo: "Cronificação — o que diferencia neuroinflamação aguda resolutiva de neuroinflamação crônica (priming microglial) em nível molecular"
+    query: '"microglial priming" AND (chronic OR sensitization) AND mechanism'
+    trilha: "mista"
+    fonte_briefing: "termo alternativo item 2 do Briefing; Módulo 01 GPM, camada temporal"
+
+# --------------------------------------------
+# BLOCO 02 — MECANISMOS MOLECULARES (vias, genética/epigenética)
+# 14 itens v1.0 + 10 itens novos (.015-.024)
+# --------------------------------------------
+B1.MEC.BLOCO02:
+  - id: B1.MEC.BLOCO02.001
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0016, VINC_B1_0017, VINC_B1_0018, VINC_B1_0210… (B1 V5)"
+    claim_alvo: "Via de ativação do inflamassoma NLRP3 — sequência completa (priming, ativação, montagem, caspase-1) demonstrada por manipulação causal"
+    query: '"NLRP3 inflammasome" AND (knockout OR "gene silencing" OR "NLRP3 inhibitor" OR MCC950) AND priming AND (caspase-1 OR "IL-1 beta" OR pyroptosis)'
+    trilha: "mista, prioriza tier_1/tier_2"
+    fonte_briefing: "item 1 do Briefing — inflamassomas por nome"
+    nota_progresso: "v2 do claim já inclui Elliott 2018 (29602772), Green 2018 (30232264), He 2016/NEK7 (26814970, tier_1). Pendente: Lu et al. 2014 Cell (filamento ASC, PMID a confirmar)."
+
+  - id: B1.MEC.BLOCO02.002
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0019, VINC_B1_0020, VINC_B1_0021 (B1 V5)"
+    claim_alvo: "Inflamassomas NLRP1, AIM2, NLRC4 — existência de via análoga com relevância a SNC/comportamento"
+    query: '(NLRP1 OR AIM2 OR NLRC4) AND (neuron* OR microglia OR brain OR CNS)'
+    trilha: "mista"
+    nota_risco: "GPM confirma: NLRP1/NLRC4 = literatura insuficiente; AIM2 = emergente, mais avançado que NLRP1/NLRC4"
+    fonte_briefing: "item 1 do Briefing"
+
+  - id: B1.MEC.BLOCO02.003
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0022, VINC_B1_0023, VINC_B1_0229, VINC_B1_0232… (B1 V5)"
+    claim_alvo: "Gasderminas (GSDMD, GSDME) como efetoras de piroptose — existência de via em contexto de SNC/comportamento"
+    query: '(gasdermin OR GSDMD OR GSDME) AND (pyroptosis) AND (neuron* OR microglia OR brain)'
+    trilha: "mista"
+    nota_risco: "GPM confirma: GSDMD = emergente (animal); GSDME = literatura insuficiente, busca dedicada não encontrou ponte"
+    fonte_briefing: "item 1 do Briefing"
+
+  - id: B1.MEC.BLOCO02.004
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0024, VINC_B1_0025 (B1 V5)"
+    claim_alvo: "TLR4 como receptor de LPS — via completa até NF-κB, demonstrada por knockout/antagonista"
+    query: '"toll-like receptor 4" AND (knockout OR antagonist OR TAK-242) AND ("NF-kB" OR "nuclear factor kappa B") AND (microglia OR brain)'
+    trilha: "mista, prioriza tier_1/tier_2"
+    fonte_briefing: "item 1 do Briefing"
+
+  - id: B1.MEC.BLOCO02.005
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0026, VINC_B1_0027 (B1 V5)"
+    claim_alvo: "TLR2 e TLR3 — vias distintas de TLR4, com ligantes e efeitos próprios em glia/neurônio"
+    query: '("toll-like receptor 2" OR "toll-like receptor 3") AND (microglia OR astrocyte OR neuron*) AND (signaling OR pathway)'
+    trilha: "mista"
+    fonte_briefing: "item 1 do Briefing"
+
+  - id: B1.MEC.BLOCO02.006
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0028 (B1 V5)"
+    claim_alvo: "RLRs (RIG-I-like receptors) — verificar existência real de literatura direta em neuroinflamação/SNC, ou declarar N/A por escassez"
+    query: '("RIG-I" OR "RIG-I-like receptor" OR MDA5) AND (brain OR neuron* OR microglia OR astrocyte)'
+    trilha: "mista"
+    nota_risco: "GPM já confirma busca dedicada sem literatura-ponte — alta probabilidade de N/A"
+    fonte_briefing: "item 1 do Briefing"
+
+  - id: B1.MEC.BLOCO02.007
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0061 (B1 V5)"
+    claim_alvo: "RAGE e receptores scavenger — via de reconhecimento de DAMPs no SNC"
+    query: '(RAGE OR "receptor for advanced glycation end products" OR "scavenger receptor") AND (microglia OR brain) AND (S100 OR HMGB1)'
+    trilha: "mista"
+    fonte_briefing: "item 1 do Briefing"
+
+  - id: B1.MEC.BLOCO02.008
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0029, VINC_B1_0030 (B1 V5)"
+    claim_alvo: "HMGB1 como DAMP — via de liberação, reconhecimento e efeito downstream em SNC"
+    query: '(HMGB1 OR "high mobility group box 1") AND (microglia OR neuroinflammation) AND (release OR mechanism)'
+    trilha: "mista"
+    fonte_briefing: "item 1 do Briefing"
+
+  - id: B1.MEC.BLOCO02.009
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0031, VINC_B1_0032 (B1 V5)"
+    claim_alvo: "DNA mitocondrial livre como DAMP ativador de NLRP3 — elo causal específico (cross-ref B9)"
+    query: '("cell-free mitochondrial DNA" OR "mitochondrial DAMP") AND (NLRP3 OR inflammasome) AND (mechanism)'
+    trilha: "mista"
+    fonte_briefing: "item 1 Briefing + crosstalk B1↔B9"
+    referencia_cruzada_esperada: [mecanismo_B9_disfuncao_mitocondrial]
+    nota_fronteira: "distinto de .018 (cGAS-STING) — mesmo DAMP (mtDNA), receptor/via diferente"
+
+  - id: B1.MEC.BLOCO02.010
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0033, VINC_B1_0034, VINC_B1_0211, VINC_B1_0215… (B1 V5)"
+    claim_alvo: "Via da quinurenina — bifurcação celular explícita: astrócito (KAT→KYNA, neuroprotetor) vs. micróglia (KMO→QUIN, neurotóxico), com IDO1/IDO2/TDO2 como enzimas-chave"
+    query: '(IDO1 OR "indoleamine 2,3-dioxygenase") AND ("quinolinic acid" OR "kynurenic acid") AND (mechanism OR pathway)'
+    trilha: "mista"
+    nota_fronteira: "Elo causal citocina→indução de IDO pertence aqui. Cinética enzimática completa pertence a B4 (ver também .007 novo em BLOCO08). Quinolinato→NMDA pertence à aresta B1→B5 (ver .008 novo em BLOCO08)."
+    fonte_briefing: "item 1 do Briefing"
+
+  - id: B1.MEC.BLOCO02.011
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0035, VINC_B1_0036, VINC_B1_0037 (B1 V5)"
+    claim_alvo: "TNF solúvel/TNFR1 (pró-inflamatório/apoptótico) vs. TNF transmembrana/TNFR2 (neuroprotetor) — efeitos opostos por isoforma de receptor"
+    query: '(TNFR1 OR TNFR2) AND ("soluble TNF" OR "transmembrane TNF") AND (neuron* OR brain) AND opposite'
+    trilha: "mista"
+    fonte_briefing: "item 1 do Briefing"
+    nota_fronteira_nao_resolvida: "possível sobreposição de escopo com BLOCO03 (mediadores/isoformas de receptor) — sinalizado na checagem de integridade inicial, mantido aqui até decisão explícita"
+
+  - id: B1.MEC.BLOCO02.012
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0038 (B1 V5)"
+    claim_alvo: "Polimorfismos funcionais: IL1B, TNF -308G/A, IL6 -174G/C, CRP, TLR4, NLRP3, FKBP5 — direção da modificação funcional"
+    query: '(IL1B OR TNF OR IL6 OR TLR4 OR NLRP3) AND polymorphism AND (functional OR "gene expression") AND (anxiety OR depression OR stress)'
+    trilha: "humano (genética funcional)"
+    fonte_briefing: "item 5 do Briefing — lista fechada de genes, confirmada integralmente no GPM Módulo 04"
+    nota_fronteira: "FKBP5 é cross-ref B2 — elo aqui é resposta inflamatória, aprofundamento HPA em B2"
+
+  - id: B1.MEC.BLOCO02.013
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0039, VINC_B1_0040, VINC_B1_0041 (B1 V5)"
+    claim_alvo: "Lipídios pró-resolutivos especializados (resolvinas, protectinas, maresinas) via lipoxigenases derivadas de EPA/DHA — via de resolução ativa, não passiva"
+    query: '(resolvin OR protectin OR maresin OR "specialized pro-resolving mediators") AND (neuroinflammation OR microglia OR brain)'
+    trilha: "mista"
+    fonte_briefing: "item 3 do Briefing"
+
+  - id: B1.MEC.BLOCO02.014
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0042, VINC_B1_0043 (B1 V5)"
+    claim_alvo: "Senescência celular e SASP em micróglia/astrócitos — nível real de evidência em ansiedade/depressão vs. extrapolação de envelhecimento geral"
+    query: '(senescence OR SASP OR "senescence-associated secretory phenotype") AND (microglia OR astrocyte) AND (brain OR CNS)'
+    trilha: "mista"
+    nota_extrapolacao_esperada: "confirmado pelo GPM: hipótese inicial/emergente, extrapolação de literatura geral de envelhecimento"
+    fonte_briefing: "item 3 do Briefing"
+
+  # ---- NOVOS (auditoria v1.1, fonte: GPM_B1_Neuroinflamacao.md) ----
+
+  - id: B1.MEC.BLOCO02.015
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0044, VINC_B1_0045 (B1 V5)"
+    claim_alvo: "Via de sinalização NF-κB — sequência completa receptor (TLR4/TNFR1/IL-1R1)→IRAK/TRAF6/IKK→degradação de IκBα→translocação nuclear→transcrição de IL1B/IL6/TNF/NLRP3/PTGS2/NOS2, demonstrada por manipulação causal"
+    query: '("NF-kB" OR "nuclear factor kappa B") AND (IkB OR IKK OR translocation) AND (knockout OR inhibitor OR "gene silencing") AND (IL-1 OR IL-6 OR TNF OR NLRP3)'
+    trilha: "mista, prioriza tier_1/tier_2"
+    fonte_gpm: "Módulo 01, Via 1 — aparecia só como termo secundário em .004/.005/.007/.008, nunca como via própria"
+    nota: "candidato mais forte a nó central (BLOCO07) — via própria justifica-se mesmo com sobreposição de termos"
+
+  - id: B1.MEC.BLOCO02.016
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0046, VINC_B1_0047 (B1 V5)"
+    claim_alvo: "Via JAK-STAT/interferon tipo I e II — IFNAR/IFNGR→JAK1/JAK2/TYK2→STAT1/STAT2→ISGs, convergindo com indução de IDO1; paradigma causal humano de depressão induzida por interferon"
+    query: '(interferon-induced OR "interferon alpha") AND (depression OR depressive) AND (JAK OR STAT OR mechanism)'
+    trilha: "mista, prioriza humano experimental — desafio humano mais próximo de causalidade direta que B1 tem"
+    fonte_gpm: "Módulo 01, Via 4 — GPM classifica maturidade como muito_estabelecida/causal"
+
+  - id: B1.MEC.BLOCO02.017
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0048, VINC_B1_0049 (B1 V5)"
+    claim_alvo: "Via ácido araquidônico→COX-2→PGE2→receptores EP1-EP4, incluindo estímulo de CRH hipotalâmico, demonstrada por manipulação causal"
+    query: '(COX-2 OR PTGS2 OR PGE2) AND (knockout OR inhibitor) AND (neuroinflammation OR microglia OR hypothalamus)'
+    trilha: "mista"
+    fonte_gpm: "Módulo 01, Via 6"
+
+  - id: B1.MEC.BLOCO02.018
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0050, VINC_B1_0051 (B1 V5)"
+    claim_alvo: "Via cGAS-STING (sensor de DNA citosólico) — DNA mitocondrial/nuclear ectópico→cGAS→cGAMP→STING→TBK1→IRF3→IFN tipo I"
+    query: '(cGAS OR STING) AND ("cytosolic DNA" OR "mitochondrial DNA") AND (depression OR "depressive behavior" OR neuroinflammation) AND mechanism'
+    trilha: "mista, majoritariamente animal/in vitro"
+    nota_extrapolacao_esperada: "GPM classifica como hipótese inicial/emergente; literatura em humanos com transtornos de humor muito escassa — busca live pode ter avançado desde o corte paramétrico do GPM (área ativa)"
+    fonte_gpm: "Módulo 01, Via 10"
+    referencia_cruzada_esperada: [mecanismo_B9_disfuncao_mitocondrial]
+
+  - id: B1.MEC.BLOCO02.019
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0052, VINC_B1_0053 (B1 V5)"
+    claim_alvo: "Via de feedback anti-inflamatório IL-10→IL-10R→JAK1/TYK2→STAT3 e TGF-β→TGFBR→SMAD2/3, como freio compensatório cuja insuficiência relativa contribui à cronificação"
+    query: '(IL-10 OR "TGF-beta") AND (STAT3 OR SMAD) AND (knockout OR "gene silencing") AND (neuroinflammation OR microglia)'
+    trilha: "mista"
+    fonte_gpm: "Módulo 01, Via 15"
+
+  - id: B1.MEC.BLOCO02.020
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0054, VINC_B1_0055 (B1 V5)"
+    claim_alvo: "Metilação do promotor de NR3C1 e desmetilação intrônica de FKBP5 induzidas por adversidade precoce — elo mecanístico à resistência a glicocorticoides e desinibição de NF-κB"
+    query: '(NR3C1 OR FKBP5) AND (methylation OR demethylation) AND ("early life stress" OR "childhood adversity") AND mechanism'
+    trilha: "mista, prioriza humano"
+    fonte_gpm: "Módulo 04, Modificações epigenéticas"
+    referencia_cruzada_esperada: [mecanismo_B2_eixo_hpa_cortisol]
+
+  - id: B1.MEC.BLOCO02.021
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0056 (B1 V5)"
+    claim_alvo: "Metilação do promotor de IL6 e TNF associada à direção de expressão em estresse crônico/depressão"
+    query: '(IL6 OR TNF) AND "promoter methylation" AND (depression OR "chronic stress") AND mechanism'
+    trilha: "humano (epigenética funcional)"
+    fonte_gpm: "Módulo 04, Modificações epigenéticas"
+
+  - id: B1.MEC.BLOCO02.022
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0057 (B1 V5)"
+    claim_alvo: "miR-155 (alvo SOCS1, desinibindo JAK-STAT) e miR-146a (alvo IRAK1/TRAF6, retroalimentação negativa sobre NF-κB) como reguladores pós-transcricionais"
+    query: '("miR-155" OR "miR-146a" OR microRNA) AND (SOCS1 OR IRAK1 OR TRAF6 OR "NF-kB") AND (knockdown OR mimic OR inhibitor)'
+    trilha: "mista"
+    fonte_gpm: "Módulo 04, Modificações epigenéticas"
+
+  - id: B1.MEC.BLOCO02.023
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0058 (B1 V5)"
+    claim_alvo: "Modificações de histona em micróglia como mecanismo de memória celular inata que sensibiliza resposta a segundo estímulo ('priming' epigenético)"
+    query: '(histone OR "chromatin modification") AND ("microglial priming") AND ("early life stress" OR sensitization) AND mechanism'
+    trilha: "mista, majoritariamente animal"
+    fonte_gpm: "Módulo 04, Modificações epigenéticas"
+    nota_fronteira: "ângulo epigenético do mesmo fenômeno coberto conceitualmente em B1.MEC.BLOCO01.003 (cronificação) — não duplicar, complementar"
+
+  - id: B1.MEC.BLOCO02.024
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0059, VINC_B1_0060 (B1 V5)"
+    claim_alvo: "Proteínas S100 (S100B, S100A8/A9) como DAMPs com efeito dose-dependente dual via RAGE de baixa/alta afinidade — identidade molecular, distinta de HMGB1"
+    query: '(S100B OR "S100A8" OR "S100A9" OR calprotectin) AND RAGE AND (dose-dependent OR concentration) AND (microglia OR neuroinflammation)'
+    trilha: "mista"
+    fonte_gpm: "Módulo 00 (briefing incorporado nativamente) + Módulo 02"
+
+# --------------------------------------------
+# BLOCO 03 — MEDIADORES ESPECÍFICOS
+# 4 itens v1.0 (com .004 preenchido) + 8 itens novos (.005-.012)
+# --------------------------------------------
+B1.MEC.BLOCO03:
+  - id: B1.MEC.BLOCO03.001
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0062, VINC_B1_0063 (B1 V5)"
+    claim_alvo: "IL-1β — identidade molecular, fonte celular, receptor, impacto downstream sobre BDNF/CREB"
+    query: '"interleukin-1 beta" AND (BDNF OR CREB) AND (suppress* OR mechanism) AND (hippocamp* OR neuron*)'
+    trilha: "mista"
+    biomarcador_obrigatorio_p19: exame_il1beta
+
+  - id: B1.MEC.BLOCO03.002
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0064, VINC_B1_0065 (B1 V5)"
+    claim_alvo: "TNF-α — via de ação molecular e impacto downstream sobre neuroplasticidade"
+    query: '"tumor necrosis factor" AND (synaptic OR neuroplasticity OR LTP) AND mechanism'
+    trilha: "mista"
+    biomarcador_obrigatorio_p19: exame_tnfalpha
+
+  - id: B1.MEC.BLOCO03.003
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0066, VINC_B1_0067 (B1 V5)"
+    claim_alvo: "IL-6 — trans-sinalização (via sIL-6R+gp130) vs. sinalização clássica, e impacto molecular específico em SNC"
+    query: '"interleukin-6" AND ("trans-signaling" OR "IL-6 receptor") AND (brain OR neuron* OR astrocyte)'
+    trilha: "mista"
+    nota: "IL-6/PCR centrais por força de ciência — ver nota_p19_nao_exaustiva"
+
+  - id: B1.MEC.BLOCO03.004
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0068, VINC_B1_0069, VINC_B1_0089 (B1 V5)"
+    claim_alvo: "Inventário negativo — mediadores investigados sem associação consistente encontrada com ansiedade/depressão"
+    query: '(TGF-beta1 OR IL-4 OR IL-13 OR "IL-17A" OR "complement terminal" OR "C5b-9" OR IL-2) AND (depression OR anxiety) AND (null OR "no association" OR inconsistent)'
+    trilha: "mista"
+    fonte_gpm: "lista de mediadores-alvo herdada do Inventário Negativo já preenchido no GPM Módulo 02 — não redescobrir do zero, verificar/expandir com PMID real"
+
+  # ---- NOVOS (auditoria v1.1) ----
+
+  - id: B1.MEC.BLOCO03.005
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0070, VINC_B1_0071, VINC_B1_0072, VINC_B1_0087 (B1 V5)"
+    claim_alvo: "IL-18 — identidade molecular, dependência de clivagem por inflamassomo, direção de alteração, distinta de IL-1β"
+    query: '"interleukin-18" AND (inflammasome OR caspase-1) AND (depression OR anxiety OR PTSD) AND mechanism'
+    trilha: "mista"
+    fonte_gpm: "Módulo 02, Citocinas pró-inflamatórias"
+
+  - id: B1.MEC.BLOCO03.006
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0073, VINC_B1_0074, VINC_B1_0084, VINC_B1_0085… (B1 V5)"
+    claim_alvo: "IL-17A e diferenciação Th17 (sob IL-6+TGF-β) — via de produção, receptor IL-17RA, impacto em ansiedade/depressão/TEPT"
+    query: '("IL-17" OR Th17) AND (depression OR anxiety OR PTSD) AND (differentiation OR mechanism)'
+    trilha: "mista"
+    fonte_gpm: "Módulo 02, Citocinas pró-inflamatórias"
+
+  - id: B1.MEC.BLOCO03.007
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0075 (B1 V5)"
+    claim_alvo: "IFN-γ — fonte celular (Th1/NK), indução de IDO1 e ativação microglial via STAT1"
+    query: '"interferon gamma" AND (IDO1 OR STAT1 OR microglia) AND (depression OR anxiety) AND mechanism'
+    trilha: "mista"
+    fonte_gpm: "Módulo 02, Interferons"
+    nota_fronteira: "distinto de BLOCO02.016 (via JAK-STAT/IFN tipo I e II) — aqui o foco é a citocina isolada, ali é a via de sinalização completa"
+
+  - id: B1.MEC.BLOCO03.008
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0076 (B1 V5)"
+    claim_alvo: "IL-10 — identidade molecular, capacidade de produção por monócitos, via STAT3, como mediador anti-inflamatório compensatório"
+    query: '"interleukin-10" AND STAT3 AND (monocyte OR macrophage) AND (depression OR "chronic stress") AND mechanism'
+    trilha: "mista"
+    fonte_gpm: "Módulo 02, Citocinas anti-inflamatórias"
+    nota_fronteira: "complementa BLOCO02.019 (via IL-10/STAT3 completa) com foco na citocina isolada"
+
+  - id: B1.MEC.BLOCO03.009
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0077, VINC_B1_0078 (B1 V5)"
+    claim_alvo: "CCL2/MCP-1 — via de recrutamento de monócitos periféricos via CCR2 através de BHE comprometida"
+    query: '(CCL2 OR "MCP-1") AND CCR2 AND ("monocyte recruitment" OR "blood-brain barrier") AND (depression OR "chronic stress")'
+    trilha: "mista, prioriza causal (depleção/bloqueio CCR2)"
+    fonte_gpm: "Módulo 02, Quimiocinas"
+
+  - id: B1.MEC.BLOCO03.010
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0081, VINC_B1_0082 (B1 V5)"
+    claim_alvo: "Sinalização CX3CL1/CX3CR1 (fractalcina) neurônio→micróglia — freio homeostático; perda de sinalização como desinibição"
+    query: '(CX3CL1 OR CX3CR1 OR fractalkine) AND (knockout OR "gene silencing") AND microglia AND (stress OR depression)'
+    trilha: "mista, majoritariamente animal (causal via CX3CR1 KO)"
+    fonte_gpm: "Módulo 02, Quimiocinas"
+
+  - id: B1.MEC.BLOCO03.011
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0083 (B1 V5)"
+    claim_alvo: "CXCL8/IL-8 — quimiotaxia de neutrófilos, associação com sintomas somáticos/fadiga"
+    query: '(CXCL8 OR "IL-8") AND ("neutrophil chemotaxis") AND (depression OR fatigue OR somatic) AND mechanism'
+    trilha: "mista"
+    fonte_gpm: "Módulo 02, Quimiocinas"
+
+  - id: B1.MEC.BLOCO03.012
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0079, VINC_B1_0080 (B1 V5)"
+    claim_alvo: "ICAM-1/VCAM-1 — adesão de leucócitos ao endotélio cerebral ativado, passo prévio à transmigração de monócitos"
+    query: '(ICAM-1 OR VCAM-1) AND ("leukocyte adhesion" OR endothelium) AND brain AND ("chronic stress" OR depression)'
+    trilha: "mista, majoritariamente animal"
+    fonte_gpm: "Módulo 02, Moléculas de adesão endotelial"
+
+# --------------------------------------------
+# BLOCO 04 — CÉLULAS E ESTRUTURAS
+# 5 itens v1.0 + 5 itens novos (.006-.010)
+# --------------------------------------------
+B1.MEC.BLOCO04:
+  - id: B1.MEC.BLOCO04.001
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0090, VINC_B1_0091 (B1 V5)"
+    claim_alvo: "Subpopulações microgliais — homeostática vs. priming vs. disease-associated microglia (DAM): identidade molecular e função distinta"
+    query: '("disease-associated microglia" OR "microglial priming" OR "homeostatic microglia") AND (marker OR phenotype OR transcriptom*)'
+    trilha: "mista, majoritariamente animal"
+    nota_extrapolacao_esperada: "DAM tem origem em Alzheimer — GPM confirma extensão a depressão é emergente, sem replicação do painel completo"
+    fonte_briefing: "item 1 do Briefing"
+
+  - id: B1.MEC.BLOCO04.002
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0092, VINC_B1_0093, VINC_B1_0094 (B1 V5)"
+    claim_alvo: "Astrócitos reativos A1 (neurotóxico) vs. A2 (neuroprotetor) — validação direta em ansiedade/depressão vs. extrapolação de AVC/neurodegeneração"
+    query: '("A1 astrocyte" OR "A2 astrocyte" OR "reactive astrocyte") AND (neurotoxic OR neuroprotective) AND phenotype'
+    trilha: "mista, majoritariamente animal"
+    nota_extrapolacao_esperada: "GPM confirma: maioria dos estudos em humor mede densidade/GFAP, não o perfil transcricional A1/A2 completo"
+    fonte_briefing: "item 1 do Briefing"
+
+  - id: B1.MEC.BLOCO04.003
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0095 (B1 V5)"
+    claim_alvo: "Sinalização purinérgica micróglia-neurônio (P2X7, P2Y12) — via molecular específica de comunicação"
+    query: '(P2X7 OR P2Y12) AND microglia AND (signaling OR neuron*) AND mechanism'
+    trilha: "mista"
+    fonte_briefing: "item 1 do Briefing"
+
+  - id: B1.MEC.BLOCO04.004
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0096, VINC_B1_0097 (B1 V5)"
+    claim_alvo: "Barreira hematoencefálica — componentes celulares específicos (pericitos, astrócitos perivasculares, tight junctions claudina-5/ocludina) e disfunção separada por componente"
+    query: '("claudin-5" OR occludin OR pericyte) AND ("blood-brain barrier") AND (dysfunction OR permeability) AND inflammation'
+    trilha: "mista"
+    nota_fronteira: "GPM distingue claudina-5 (bem suportada, causal em modelo animal — Menard 2017) de ocludina (literatura insuficiente em contexto crônico, majoritariamente lesão aguda)"
+    fonte_briefing: "item 3 do Briefing"
+
+  - id: B1.MEC.BLOCO04.005
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0098, VINC_B1_0099 (B1 V5)"
+    claim_alvo: "Sinalização vagal aferente — nervo vago como via periferia→SNC independente de BHE"
+    query: '("vagus nerve" OR "vagal afferent") AND (cytokine OR inflammation OR IL-1) AND (signaling OR pathway) AND brain'
+    trilha: "mista"
+    fonte_briefing: "item 3 do Briefing"
+
+  # ---- NOVOS (auditoria v1.1) ----
+
+  - id: B1.MEC.BLOCO04.006
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0100, VINC_B1_0101 (B1 V5)"
+    claim_alvo: "Macrófagos perivasculares/meníngeos, monócitos infiltrantes (Ly6Chigh via CCL2/CCR2), Tregs/Th17 periféricos e mastócitos meníngeos — populações distintas de micróglia parenquimal com papel próprio"
+    query: '("perivascular macrophage" OR "Ly6C high monocyte" OR "meningeal mast cell" OR "regulatory T cell") AND (stress OR depression) AND brain'
+    trilha: "mista, majoritariamente animal"
+    fonte_gpm: "Módulo 03, tipos celulares acessórios"
+
+  - id: B1.MEC.BLOCO04.007
+    status: em_busca
+    claim_alvo: "Oligodendrócitos e precursores (NG2-glia) sob TNF/IFN-γ — redução de densidade documentada em córtex pré-frontal"
+    query: '(oligodendrocyte OR "NG2 glia" OR OPC) AND (TNF OR "IFN-gamma") AND (depression OR prefrontal) AND density'
+    trilha: "mista, prioriza humano post-mortem"
+    fonte_gpm: "Módulo 03"
+
+  - id: B1.MEC.BLOCO04.008
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0108 (B1 V5)"
+    claim_alvo: "Astrócitos perivasculares (pé astrocitário, unidade neurovascular) — papel na manutenção da BHE e propagação de sinal endotélio→parênquima"
+    query: '("perivascular astrocyte" OR "astrocyte end-feet") AND ("blood-brain barrier") AND (neuroinflammation OR permeability)'
+    trilha: "mista, majoritariamente animal"
+    fonte_gpm: "Módulo 03"
+    nota_fronteira: "distinto de astrócitos A1/A2 reativos (.002) — ângulo é posição anatômica/função de barreira, não fenótipo reativo"
+
+  - id: B1.MEC.BLOCO04.009
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0102, VINC_B1_0103, VINC_B1_0104 (B1 V5)"
+    claim_alvo: "Núcleo accumbens, amígdala e ínsula como estruturas-alvo de sinal inflamatório — conectividade funcional e resposta a desafio inflamatório experimental"
+    query: '(amygdala OR "nucleus accumbens" OR insula) AND (inflammation OR cytokine OR "endotoxin challenge") AND (fMRI OR connectivity)'
+    trilha: "humano, prioriza desafio experimental"
+    fonte_gpm: "Módulo 03, estruturas anatômicas"
+
+  - id: B1.MEC.BLOCO04.010
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0105, VINC_B1_0106, VINC_B1_0107 (B1 V5)"
+    claim_alvo: "Área postrema/órgãos circunventriculares, sistema linfático meníngeo e plexo coroide — portas de entrada/saída de sinal inflamatório sem transposição completa de BHE"
+    query: '("circumventricular organ" OR "meningeal lymphatic" OR "choroid plexus") AND (cytokine OR inflammation) AND brain'
+    trilha: "mista, área emergente (linfáticos meníngeos — achado recente, Louveau 2015)"
+    fonte_gpm: "Módulo 03, estruturas anatômicas"
+
+# --------------------------------------------
+# BLOCO 05 — BIOMARCADORES
+# 3 itens v1.0 + 4 itens novos (.004-.007)
+# --------------------------------------------
+B1.MEC.BLOCO05:
+  - id: B1.MEC.BLOCO05.001
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0116, VINC_B1_0117, VINC_B1_0118 (B1 V5)"
+    claim_alvo: "Razão quinurenina/triptofano (KYN/TRP) como biomarcador de atividade de IDO — papel biológico"
+    query: '"kynurenine/tryptophan ratio" AND (IDO OR "indoleamine 2,3-dioxygenase") AND (marker OR biomarker) AND mechanism'
+    trilha: "mista"
+    biomarcador_obrigatorio_p19: exame_razao_kyn_trp
+    referencia_cruzada_esperada: [mecanismo_B4_deficiencias_monoaminas]
+
+  - id: B1.MEC.BLOCO05.002
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0119, VINC_B1_0120, VINC_B1_0209, VINC_B1_0221… (B1 V5)"
+    claim_alvo: "TSPO como biomarcador de ativação microglial — o que a ligação de TSPO revela mecanisticamente"
+    query: '(TSPO OR "translocator protein") AND (microglia OR "immune activation") AND (specificity OR validation)'
+    trilha: "mista"
+    nota_fronteira: "GPM sinaliza dupla ressalva: inespecificidade celular (também astrócitos/endotélio) + limitação genotípica rs6971"
+
+  - id: B1.MEC.BLOCO05.003
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0126 (B1 V5)"
+    claim_alvo: "Painel combinado biomarcador — lógica biológica de por que combinar >1 marcador aumenta especificidade"
+    query: "a definir — buscar por racional biológico de painéis combinados"
+    trilha: "mista"
+
+  # ---- NOVOS (auditoria v1.1) ----
+
+  - id: B1.MEC.BLOCO05.004
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0109, VINC_B1_0110, VINC_B1_0111, VINC_B1_0112… (B1 V5)"
+    claim_alvo: "hs-CRP, IL-6 sérica, TNF-α sérico e sTNFR2 — papel biológico como biomarcadores periféricos centrais, catalogação de especificidade"
+    query: '("hs-CRP" OR "IL-6" OR "TNF-alpha" OR sTNFR2) AND (biomarker OR specificity) AND depression'
+    trilha: "mista"
+    nota: "IL-6/CRP já citados como obrigatórios por força de ciência na nota_p19_nao_exaustiva do Protocolo de Escopo — este item formaliza a busca"
+
+  - id: B1.MEC.BLOCO05.005
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0121, VINC_B1_0122 (B1 V5)"
+    claim_alvo: "Neopterina, LBP/endotoxina sérica, S100B sérico e resolvina D1 plasmática — papel biológico e especificidade como biomarcadores secundários"
+    query: '(neopterin OR "LBP" OR "S100B" OR "resolvin D1") AND serum AND depression AND biomarker'
+    trilha: "mista"
+
+  - id: B1.MEC.BLOCO05.006
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0123, VINC_B1_0124, VINC_B1_0213, VINC_B1_0219… (B1 V5)"
+    claim_alvo: "IL-6, ácido quinolínico, YKL-40 e PGE2 no líquor — papel biológico como biomarcadores centrais diretos"
+    query: '(CSF OR "cerebrospinal fluid") AND ("IL-6" OR "quinolinic acid" OR "YKL-40" OR PGE2) AND depression'
+    trilha: "humano"
+
+  - id: B1.MEC.BLOCO05.007
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0125, VINC_B1_0226 (B1 V5)"
+    claim_alvo: "Conectividade funcional córtico-estriatal, mio-inositol por MRS e volumetria hipocampal como biomarcadores de neuroimagem complementares a TSPO-PET"
+    query: '("fMRI connectivity" OR "MR spectroscopy" myo-inositol OR "hippocampal volume") AND (inflammation OR cytokine) AND depression'
+    trilha: "humano"
+
+# --------------------------------------------
+# BLOCO 06 — TRADUÇÃO CLÍNICA (incluindo 06.7)
+# 2 itens v1.0 + 2 itens novos (.003-.004)
+# --------------------------------------------
+B1.MEC.BLOCO06:
+  - id: B1.MEC.BLOCO06.001
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0127, VINC_B1_0128, VINC_B1_0129, VINC_B1_0214… (B1 V5)"
+    claim_alvo: "Mecanismo molecular pelo qual bloqueio de recaptação de serotonina (SSRI) não reverte supressão de BDNF/CREB induzida por citocina"
+    query: '(SSRI OR "serotonin reuptake") AND (cytokine OR IL-1 OR TNF) AND (BDNF OR CREB) AND (fail* OR insufficient OR resist*) AND mechanism'
+    trilha: "mista — desfecho de tratamento é o próprio objeto aqui, por design"
+    nota_excecao_exclusion_terms: "exclusion_terms de contaminação por tratamento NÃO se aplicam aqui"
+
+  - id: B1.MEC.BLOCO06.002
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0130, VINC_B1_0131 (B1 V5)"
+    claim_alvo: "Gradiente de severidade — dose-resposta biológica entre magnitude de ativação inflamatória e intensidade de sintoma"
+    query: "a definir — buscar dose-resposta experimental (ex: infusão graduada de endotoxina)"
+    trilha: "mista, prioriza humano experimental (desafio com endotoxina)"
+
+  # ---- NOVOS (auditoria v1.1) ----
+
+  - id: B1.MEC.BLOCO06.003
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0132, VINC_B1_0133, VINC_B1_0134 (B1 V5)"
+    claim_alvo: "Depressão induzida por interferon-α (terapia para hepatite C/melanoma) como paradigma humano de causalidade direta inflamação→sintoma, com cronologia e mapeamento a domínios sintomáticos específicos (anedonia via dopamina)"
+    query: '("interferon-alpha" OR IFN-alpha) AND (depression OR anhedonia) AND (causal OR chronology OR onset) AND (hepatitis OR melanoma)'
+    trilha: "humano, prioriza longitudinal"
+    fonte_gpm: "Módulo 01 Via 4 + Módulo 06 B1↔B4 — desenho mais próximo de causalidade direta em humano que B1 tem"
+    nota_fronteira: "distinto de BLOCO02.016 (a via molecular em si) — aqui o ângulo é tradução clínica/cronologia sintomática"
+
+  - id: B1.MEC.BLOCO06.004
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0135, VINC_B1_0136 (B1 V5)"
+    claim_alvo: "Subtipo anedônico com alteração de circuito de recompensa — PCR/IL-6 correlacionando com redução de conectividade córtico-estriatal ventral, incluindo desafio experimental com endotoxina"
+    query: '(CRP OR "IL-6") AND (anhedonia OR "reward circuit") AND (connectivity OR "endotoxin challenge")'
+    trilha: "humano, prioriza experimental"
+    fonte_gpm: "Módulo 07, subtipo anedônico"
+
+# --------------------------------------------
+# BLOCO 07 — NÓS MOLECULARES CENTRAIS (inalterado)
+# --------------------------------------------
+B1.MEC.BLOCO07:
+  - id: B1.MEC.BLOCO07.001
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0137, VINC_B1_0138, VINC_B1_0139, VINC_B1_0140… (B1 V5)"
+    claim_alvo: "NF-κB como candidato a nó molecular central — verificar se atende ≥2 dos 4 critérios"
+    query: "síntese cruzada — depende de claims já aprovados em BLOCO02/03/08, não gera query própria isolada"
+    trilha: "mista"
+    nota: "candidato reforçado agora que BLOCO02.015 (via NF-κB dedicada) existe como fonte de claims prévios"
+
+# --------------------------------------------
+# BLOCO 08 — CONEXÕES BIDIRECIONAIS E LOOPS
+# 6 itens v1.0 + 9 itens novos (.007-.015)
+# GPM Módulo 06 mapeia as 15 conexões B2-B16; v1.0 só seedou as 6
+# "prioridade alta" do próprio Briefing. Itens novos preenchem as 9
+# conexões restantes (B16 fica de fora por ter BLOCO10 próprio).
+# --------------------------------------------
+B1.MEC.BLOCO08:
+  - id: B1.MEC.BLOCO08.001
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0143, VINC_B1_0144 (B1 V5)"
+    claim_alvo: "B1→B2: resistência a glicocorticoides em células imunes via NF-κB/GR"
+    query: '("glucocorticoid resistance" OR "NR3C1") AND ("NF-kB") AND (immune cell OR macrophage OR microglia) AND mechanism'
+    trilha: "mista"
+    referencia_cruzada_esperada: [mecanismo_B2_eixo_hpa_cortisol]
+
+  - id: B1.MEC.BLOCO08.002
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0145 (B1 V5)"
+    claim_alvo: "B1→B3: IL-1β/TNF-α suprimindo sinalização BDNF/CREB"
+    query: '(IL-1 OR TNF) AND (BDNF OR CREB) AND suppress* AND mechanism'
+    trilha: "mista"
+    referencia_cruzada_esperada: [mecanismo_B3_neuroplasticidade]
+
+  - id: B1.MEC.BLOCO08.003
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0146, VINC_B1_0147, VINC_B1_0148 (B1 V5)"
+    claim_alvo: "B1→B3: Complemento C1q/C3 e poda sináptica excessiva mediada por micróglia"
+    query: '(C1q OR C3 OR complement) AND ("synaptic pruning") AND microglia AND mechanism'
+    trilha: "mista, majoritariamente animal"
+    nota_extrapolacao_esperada: "origem em esquizofrenia — checar estudo-ponte"
+    referencia_cruzada_esperada: [mecanismo_B3_neuroplasticidade]
+
+  - id: B1.MEC.BLOCO08.004
+    status: em_busca
+    claim_alvo: "B1↔B6: ROS/RNS como amplificadores bidirecionais do inflamassoma NLRP3"
+    query: '(ROS OR "reactive oxygen species") AND NLRP3 AND (amplif* OR "feedback loop" OR bidirectional)'
+    trilha: "mista"
+    referencia_cruzada_esperada: [mecanismo_B6_estresse_oxidativo]
+
+  - id: B1.MEC.BLOCO08.005
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0150, VINC_B1_0151 (B1 V5)"
+    claim_alvo: "B1↔B7: eixo LPS-TLR4 — translocação bacteriana e ativação de TLR4 central"
+    query: '(LPS OR "gut permeability") AND TLR4 AND ("bacterial translocation") AND brain'
+    trilha: "mista"
+    referencia_cruzada_esperada: [mecanismo_B7_eixo_intestino_cerebro]
+
+  - id: B1.MEC.BLOCO08.006
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0149 (B1 V5)"
+    claim_alvo: "Loop de amplificação patológica: B1→B6→B9→B1"
+    query: "síntese cruzada de BLOCO02.009 + BLOCO08.004 — verificar se há PMID único que descreva o ciclo fechado"
+    trilha: "mista"
+
+  # ---- NOVOS (auditoria v1.1 — 9 conexões do GPM Módulo 06 nunca seedadas) ----
+
+  - id: B1.MEC.BLOCO08.007
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0152 (B1 V5)"
+    claim_alvo: "B1→B4: citocinas aumentando atividade/expressão do SERT via p38 MAPK; IFN-α reduzindo disponibilidade de dopamina em circuitos de recompensa"
+    query: '(cytokine OR "IFN-alpha") AND (SERT OR "p38 MAPK" OR dopamine) AND (reward OR "serotonin transporter") AND mechanism'
+    trilha: "mista"
+    fonte_gpm: "Módulo 06, B1↔B4 — elo IDO1/quinurenina já coberto em BLOCO02.010; este item cobre os elos SERT/dopamina não capturados ali"
+    referencia_cruzada_esperada: [mecanismo_B4_deficiencias_monoaminas]
+
+  - id: B1.MEC.BLOCO08.008
+    status: em_busca
+    claim_alvo: "B1→B5: downregulação de EAAT2/GLT-1 por citocinas; liberação de glutamato glial via hemicanais de conexina/panexina; redução de glutamina sintetase astrocitária"
+    query: '(cytokine OR TNF OR IL-1) AND (EAAT2 OR GLT-1 OR "glutamate release" OR "glutamine synthetase") AND astrocyte AND mechanism'
+    trilha: "mista"
+    fonte_gpm: "Módulo 06, B1↔B5 — bifurcação QUIN/KYNA já coberta em BLOCO02.010; este item cobre os elos glutamatérgicos adicionais"
+    referencia_cruzada_esperada: [mecanismo_B5_gaba_glutamato]
+
+  - id: B1.MEC.BLOCO08.009
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0153 (B1 V5)"
+    claim_alvo: "B1→B8: vitamina D/VDR modulando ativação microglial; zinco e atividade de NLRP3; magnésio e NF-κB"
+    query: '("vitamin D" OR zinc OR magnesium) AND (NLRP3 OR "NF-kB" OR microglia) AND (knockout OR deficiency) AND mechanism'
+    trilha: "mista"
+    fonte_gpm: "Módulo 06, B1↔B8"
+    referencia_cruzada_esperada: [mecanismo_B8_deficiencias_micronutrientes]
+
+  - id: B1.MEC.BLOCO08.010
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0154, VINC_B1_0155 (B1 V5)"
+    claim_alvo: "B1→B10: privação de sono elevando IL-6/TNF/PCR; genes do relógio (BMAL1, CLOCK, PER) regulando NLRP3; variação de fagocitose microglial no ciclo claro-escuro"
+    query: '("sleep deprivation" OR BMAL1 OR CLOCK OR circadian) AND (NLRP3 OR "IL-6" OR TNF) AND mechanism'
+    trilha: "mista"
+    fonte_gpm: "Módulo 06, B1↔B10"
+    referencia_cruzada_esperada: [mecanismo_B10_desregulacao_circadiana]
+
+  - id: B1.MEC.BLOCO08.011
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0156, VINC_B1_0157 (B1 V5)"
+    claim_alvo: "B1→B11: citocinas suprimindo desiodase tipo 2 (D2) central; comorbidade tireoidite autoimune-depressão"
+    query: '(cytokine OR "IL-6" OR TNF) AND ("type 2 deiodinase" OR DIO2) AND (brain OR hypothalamus) AND mechanism'
+    trilha: "mista"
+    nota_extrapolacao_esperada: "GPM sinaliza este elo como majoritariamente extrapolado de biologia geral — checar estudo-ponte real"
+    fonte_gpm: "Módulo 06, B1↔B11"
+    referencia_cruzada_esperada: [mecanismo_B11_disfuncao_tireoidiana]
+
+  - id: B1.MEC.BLOCO08.012
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0158, VINC_B1_0159 (B1 V5)"
+    claim_alvo: "B1→B12: priming microglial por adversidade na infância; marcadores inflamatórios elevados em TEPT; FKBP5 como nó compartilhado"
+    query: '("early life adversity" OR "childhood trauma") AND ("microglial priming" OR PTSD) AND (cytokine OR FKBP5) AND mechanism'
+    trilha: "mista"
+    fonte_gpm: "Módulo 06, B1↔B12 — FKBP5 já coberto geneticamente (BLOCO02.012) e epigeneticamente (BLOCO02.020); este item é o elo comportamental/fenotípico específico a trauma"
+    referencia_cruzada_esperada: [mecanismo_B12_neurobiologia_trauma]
+
+  - id: B1.MEC.BLOCO08.013
+    status: em_busca
+    claim_alvo: "B1→B13: CB2 microglial e efeito anti-inflamatório compensatório; metabólitos de FAAH/MAGL alimentando via de prostaglandinas"
+    query: '(CB2 OR cannabinoid) AND (microglia OR "anti-inflammatory") AND (FAAH OR MAGL OR prostaglandin)'
+    trilha: "mista, majoritariamente animal"
+    fonte_gpm: "Módulo 06, B1↔B13"
+    referencia_cruzada_esperada: [mecanismo_B13_sistema_endocanabinoide]
+
+  - id: B1.MEC.BLOCO08.014
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0160 (B1 V5)"
+    claim_alvo: "B1→B14: alopregnanolona e efeito anti-inflamatório microglial; estrogênio modulando ativação microglial com diferenças entre sexos"
+    query: '(allopregnanolone OR estrogen) AND (microglia OR "anti-inflammatory") AND ("sex difference" OR neurosteroid)'
+    trilha: "mista"
+    fonte_gpm: "Módulo 06, B1↔B14"
+    referencia_cruzada_esperada: [mecanismo_B14_neuroesteroides_hormonios]
+
+  - id: B1.MEC.BLOCO08.015
+    status: em_busca
+    claim_alvo: "B1↔B15: autofagia/mitofagia como regulador negativo de NLRP3; mTOR como nó compartilhado entre immunometabolism e neuroplasticidade"
+    query: "candidato já identificado nesta sessão: PMID 33361152 (pró-IL-1α/cardiolipina inibindo mitofagia → ativação máxima de NLRP3) — encontrado nos 112 resultados de BLOCO02.001, nunca triado por pertencer a outro BLOCO"
+    trilha: "mista"
+    fonte_gpm: "Módulo 06, B1↔B15"
+    referencia_cruzada_esperada: [mecanismo_B15_autofagia_mtor]
+
+# --------------------------------------------
+# BLOCO 09 — IMPACTO SOBRE NEUROPLASTICIDADE (B3)
+# 2 itens v1.0 + 1 item novo (.003)
+# --------------------------------------------
+B1.MEC.BLOCO09:
+  - id: B1.MEC.BLOCO09.001
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0161, VINC_B1_0162, VINC_B1_0163 (B1 V5)"
+    claim_alvo: "Impacto de citocinas pró-inflamatórias sobre LTP/LTD hipocampal"
+    query: '(IL-1 OR TNF OR IL-6) AND ("long-term potentiation" OR LTP OR "long-term depression" OR LTD) AND hippocamp*'
+    trilha: "mista, majoritariamente animal (eletrofisiologia)"
+
+  - id: B1.MEC.BLOCO09.002
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0164, VINC_B1_0165 (B1 V5)"
+    claim_alvo: "Remodelamento dendrítico induzido por ativação inflamatória — reversibilidade após normalização"
+    query: '(microglia OR cytokine) AND ("dendritic remodeling" OR "dendritic spine") AND (reversib* OR resolution)'
+    trilha: "mista, majoritariamente animal"
+    nota: "exige desenho de resgate/reversão para substanciar 9.6 — priorizar tier_1"
+
+  # ---- NOVO (auditoria v1.1) ----
+
+  - id: B1.MEC.BLOCO09.003
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0166 (B1 V5)"
+    claim_alvo: "TNF-α regulando tráfego de receptores AMPA (scaling sináptico homeostático mediado por glia), distinto de LTP/LTD clássico e remodelamento dendrítico"
+    query: '(TNF OR "TNF-alpha") AND (AMPA OR "synaptic scaling") AND glia AND mechanism'
+    trilha: "mista, majoritariamente animal"
+    fonte_gpm: "Módulo 01, Via 3 (B1↔B3) — GPM classifica natureza como 'não totalmente estabelecida em contexto de doença... bem suportada como biologia básica'"
+    nota: "checar se há estudo-ponte específico ou se fecha em teste_conexao_fenotipo=biologia_basica_sem_doenca"
+
+# --------------------------------------------
+# BLOCO 10 — IMPACTO SOBRE NEUROGÊNESE (B16) — condicional
+# 1 item v1.0 + 2 itens novos (.002-.003)
+# --------------------------------------------
+B1.MEC.BLOCO10:
+  - id: B1.MEC.BLOCO10.001
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0167 (B1 V5)"
+    claim_alvo: "IL-6 suprimindo proliferação de células-tronco neurais (NSC) no giro denteado"
+    query: '("interleukin-6" OR IL-6) AND ("neural stem cell" OR NSC OR "dentate gyrus") AND proliferation AND suppress*'
+    trilha: "mista, majoritariamente animal"
+
+  # ---- NOVOS (auditoria v1.1) ----
+
+  - id: B1.MEC.BLOCO10.002
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0168 (B1 V5)"
+    claim_alvo: "IL-1β e TNF-α suprimindo proliferação/sobrevivência de células-tronco neurais no giro denteado — elo causal distinto do já coberto para IL-6"
+    query: '(IL-1 OR TNF) AND ("neural stem cell" OR "dentate gyrus" OR neurogenesis) AND suppress*'
+    trilha: "mista, majoritariamente animal"
+    fonte_gpm: "Módulo 06, B1↔B16"
+
+  - id: B1.MEC.BLOCO10.003
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0169, VINC_B1_0170, VINC_B1_0171 (B1 V5)"
+    claim_alvo: "Micróglia homeostática como suporte fisiológico à neurogênese; IL-4/Th2 associada a efeito pró-neurogênico — contraponto compensatório aos elos supressivos"
+    query: '("homeostatic microglia" OR "IL-4") AND (neurogenesis OR "neural stem cell") AND (support OR promote)'
+    trilha: "mista, majoritariamente animal"
+    fonte_gpm: "Módulo 06, B1↔B16"
+
+# --------------------------------------------
+# BLOCO 11/12 — ESTRATIFICAÇÃO E CENÁRIOS — condicional/dependente
+# 1 item v1.0, sem itens novos formais (caráter condicional/dependente)
+# --------------------------------------------
+B1.MEC.BLOCO11_12:
+  - id: B1.MEC.BLOCO11.001
+    status: usado_em_biblioteca
+    uso_registrado: "2026-09-11 — R4/AUD-035: vínculos VINC_B1_0172, VINC_B1_0173, VINC_B1_0174, VINC_B1_0175… (B1 V5)"
+    claim_alvo: "Substrato mecanístico do subtipo 'depressão inflamatória' (~27% PCR>3, já provado epidemiologicamente em B1.SM02.007)"
+    query: "síntese cruzada — depende de claims já aprovados em BLOCO02-09"
+    trilha: "mista"
+    claim_id_clinico_relacionado: "B1.SM02.007"
+    referencia_cruzada_obrigatoria: true
+
+  nota_candidatos_futuros: >
+    GPM Módulo 07 documenta subtipos adicionais não seedados aqui, dado
+    o caráter condicional/dependente deste BLOCO (só existe se BLOCO_11
+    tiver subtipos biologicamente documentados): TRD (perfil TNF/sTNFR2/
+    PCR mais elevado que depressão responsiva), depressão perinatal
+    (disfunção do ajuste imunológico gestacional), TEPT com fenótipo
+    pró-inflamatório (elevação consistente IL-6/TNF/PCR associada a
+    trauma infantil), depressão tardia com componente de senescência
+    glial (hipótese inicial). Candidatos a novo item quando/se este
+    BLOCO for priorizado — não convertidos em claim_alvo agora para não
+    antecipar decisão que depende de BLOCO_11 existir primeiro.
+
+fila_realocacao:
+  - pmid: "33361152"
+    motivo: "encontrado durante busca de B1.MEC.BLOCO02.001 (item 79 da leva de 112 resultados) — pró-IL-1α na cardiolipina mitocondrial inibindo mitofagia e impulsionando ativação máxima do NLRP3 — pertence à conexão B1↔B15, não à sequência de ativação de BLOCO02.001"
+    destino: "B1.MEC.BLOCO08.015"
+    data_registro: "2026-08-26"
+
+redirecionados_modulo_clinico: []
+resultados_nao_triados: []

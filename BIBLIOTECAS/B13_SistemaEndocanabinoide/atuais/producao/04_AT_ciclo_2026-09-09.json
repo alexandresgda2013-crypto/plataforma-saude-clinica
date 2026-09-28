@@ -1,0 +1,25 @@
+{
+ "ciclo": "AT",
+ "data": "2026-09-09",
+ "biblioteca": "B13",
+ "versao_resultante": "V2",
+ "rodada_resultante": 4,
+ "decisao": {
+  "ENTRA": 40,
+  "BAIXO": 19,
+  "EXC": 4
+ },
+ "refs_total": 207,
+ "palavras_v2": 8724,
+ "g1_resolvidos": [
+  "McWhirter (sexo feminino)",
+  "Zabik-RCT (→via 10 exógena)",
+  "Spohrs versão publicada",
+  "Ibarra-Lecue (já vigente)"
+ ],
+ "exposicoes": [
+  "6 chaves divergentes normalizadas com alias",
+  "'Spohrs 2021' = vídeo neurocirúrgico (EXC, exposto)",
+  "'Segev 2018' do dossiê = Șerban 2025 (BAIXO); Segev real localizado"
+ ]
+}

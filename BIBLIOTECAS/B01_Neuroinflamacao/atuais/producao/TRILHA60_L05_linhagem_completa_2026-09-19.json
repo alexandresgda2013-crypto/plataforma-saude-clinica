@@ -1,0 +1,75 @@
+{
+  "trilha": 60,
+  "rodada": 43,
+  "data": "2026-09-19",
+  "tema": "pacote de linhagem L-05 — espelho independente p/ auditor-2 (ponto único de falha respondido)",
+  "checks": [
+    {
+      "id": "i0",
+      "titulo": "inventário: minuta normativa 17/09 — identidade interna",
+      "medido": "# L-05 — SCHEMA DE EVIDÊNCIA E VÍNCULO COM ANCORAGEM MULTI-ENTIDADE; ## v1.0 — PROPOSTA, aguardando decisão do responsável pelo projeto; **Status:** PROPOSTA v1",
+      "esperado": "# L-05 — SCHEMA DE EVIDÊNCIA E VÍNCULO COM ANCORAGEM MULTI-ENTIDADE; ## v1.0 — PROPOSTA, aguardando decisão do responsável pelo projeto; **Status:** PROPOSTA v1",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "L1",
+      "titulo": "7 schemas: sha oficial confere em cada elo",
+      "medido": {
+        "schema_referencia_v1.1.json": true,
+        "schema_referencia_v1.2.json": true,
+        "schema_referencia_v1.3.json": true,
+        "schema_vinculo_v1.1.json": true,
+        "schema_vinculo_v1.2.json": true,
+        "schema_vinculo_v1.3.json": true,
+        "schema_vinculo_v1.4.json": true
+      },
+      "esperado": {
+        "schema_referencia_v1.1.json": true,
+        "schema_referencia_v1.2.json": true,
+        "schema_referencia_v1.3.json": true,
+        "schema_vinculo_v1.1.json": true,
+        "schema_vinculo_v1.2.json": true,
+        "schema_vinculo_v1.3.json": true,
+        "schema_vinculo_v1.4.json": true
+      },
+      "ok": true,
+      "detalhe": "tabela trilha 55 × fontes"
+    },
+    {
+      "id": "L2",
+      "titulo": "nome do arquivo no pacote == $id interno (D-L05-NOME-X-ID sanada na distribuição)",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "camada de distribuição adota nomes=$id de agora em diante; série verbatim preserva nomes de recebimento"
+    },
+    {
+      "id": "L3",
+      "titulo": "5 especificações md copiadas (shas medidos no ato)",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "inclui a doença v1.0-head×v1.x-efetivo, marcada no manifesto"
+    },
+    {
+      "id": "L4",
+      "titulo": "manifesto contém os 12 shas (7 schemas + 5 md)",
+      "medido": 12,
+      "esperado": 12,
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "L5",
+      "titulo": "zip re-extraído: 12 arquivos + manifesto conferem byte a byte",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "zip 91184 b · 13 arquivos"
+    }
+  ],
+  "verdes": 6,
+  "total": 6,
+  "nota": "inclui confissão implícita da série: head v1.0 × versão efetiva (doença) marcada no manifesto"
+}

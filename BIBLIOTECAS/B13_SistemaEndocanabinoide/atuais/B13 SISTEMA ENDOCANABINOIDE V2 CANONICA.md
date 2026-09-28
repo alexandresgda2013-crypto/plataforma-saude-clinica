@@ -1,0 +1,933 @@
+# B13 SISTEMA ENDOCANABINOIDE V2 CANÔNICA
+## Biblioteca de Conhecimento Canônico (Mecanismo B13 — Ansiedade e Depressão)
+
+**ID canônico:** mecanismo_B13_sistema_endocanabinoide · **Prompt v4.2** · Corte: 2026-09-07.
+**artefato_rotulo:** CANÔNICA v1 · G1 (167/167 PMIDs do Briefing validados por eutils) + G2 + G3.
+
+---
+
+## BLOCO_00 — IDENTIDADE E ASSINATURA SEMÂNTICA
+
+**Frase-síntese.** O sistema endocanabinoide (SEC) é uma **maquinaria endógena de lipídios
+sinalizadores retrógrados** — anandamida (**AEA**) e 2-araquidonoilglicerol (**2-AG**),
+sintetizados on-demand por NAPE-PLD e DAGLα/β, degradados por FAAH e MAGL/ABHD6, atuando em
+**CB1 (CNR1)** e **CB2 (CNR2)** — anterior e independente da cannabis. Funciona como um
+**"freio" intrínseco do estresse e do medo**, regional e **bifásico**: a sinalização
+endógena (sobretudo AEA/CB1 na amígdala–PFC e 2-AG na adaptação) limita a resposta ao
+estresse e facilita a extinção, mas o CB1 em circuitos cingulado-estriatais e vias
+catecolaminérgicas é **ansiogênico** — "CB1 = calmante" é falso. Em ansiedade/depressão, o
+estresse crônico **deprime** esse freio (CB1/AEA/2-AG reduzidos, reversíveis em modelo), e a
+tradução farmacológica (inibidores de FAAH robustos em roedor) **falhou em fase II clínica**;
+o bloqueio total de CB1 (rimonabanto) causou depressão/ideação suicida. Engajar o alvo ≠ curar.
+
+**Teses-centrais.**
+1. **SEC ≠ cannabis ≠ THC ≠ CBD** — o sistema é endógeno (Devane 1992)[ML]; canabinoides são
+   ligantes exógenos (sinal/risco, não o mecanismo).
+2. **O SEC é freio, não "interruptor da calma"** — bifásico por circuito/célula/dose/sexo/idade.
+3. **AEA vs 2-AG dividem o trabalho:** AEA mais tônica/emocional (FAAH); 2-AG é o sinal
+   plástico rápido da resiliência (MAGL/ABHD6).
+4. **Basal ≠ desafio; periférico ≠ central** — lipídio plasmático/cabelo não mede o tônus
+   sináptico CB1 cerebral.
+5. **Não há "deficiência endocanabinoide" diagnóstica** — a meta de 2026 acha AEA
+   circulante modestamente **aumentada** na TDM, não diminuída.
+6. **A janela desenvolvimental é fator de risco** — cannabis na adolescência (controle CB1
+   pré-frontal amadurece justamente aí) associa-se a depressão/ansiedade; em adultos a
+   associação é nula/frágil.
+7. **Engajar o alvo ≠ curar** — FAAH inibidores robustos em roedor, nulos em fase II.
+
+**Palavras-chave:** endocanabinoide, AEA/anandamida, 2-AG, CB1/CNR1, CB2/CNR2, FAAH, MAGL,
+DAGLα, NAPE-PLD, ABHD6/12, FABP5, sinalização retrógrada, DSI/DSE, LTD-CB1, extinção do medo,
+amígdala/BLA/vmPFC, HPA, resiliência, habênula, VTA/NAcc, TRPV1, PEA/OEA, microbiota, FAAH C385A,
+neuroimune/CB2, mtCB1, bifasicidade, janela desenvolvimental.
+
+---
+
+
+
+### 0.1 (PROFUNDIDADE) — O FREIO LIPÍDICO QUE A CANNABIS DESCOBRIU, MAS NÃO CRIOU
+
+A melhor forma de entender a B13 é separar três níveis que a cultura popular confunde.
+No nível **molecular**, o cérebro produz sob demanda dois lipídios sinalizadores —
+anandamida e 2-AG — que atravessam a fenda sináptica de trás para frente e
+**freiam a liberação** de GABA ou glutamato via receptor CB1, sendo em seguida
+degradados por enzimas (FAAH para a anandamida, MAGL/ABHD6 para o 2-AG). Esse é o
+mecanismo de DSI/DSE, descoberto em preparações celulares e independente de qualquer
+planta. No nível **comportamental**, esse freio local amortece a resposta ao
+estresse (CRH/cortisol), permite que a extinção do medo se instale (os camundongos
+sem CB1 não extinguem) e sustenta a recompensa e o coping. No nível **farmacológico**,
+a cannabis e seus derivados (THC, CBD) e os inibidores enzimáticos incidem sobre essa
+maquinaria — mas é aqui que a evidência mais difere do senso comum: o inibidor de
+FAAH eleva anandamida e acalma em roedor, porém falhou em ensaios clínicos de fase
+II; o bloqueio total do CB1 (rimonabanto) induziu depressão e foi retirado; e o uso
+de cannabis na **adolescência**, quando o sistema amadurece, é fator de risco robusto
+para ansiedade/depressão, ao contrário do uso adulto, onde a associação é frágil. A
+B13 cobre o primeiro e o segundo níveis (a ciência endógena) e trata o terceiro
+como sinal experimental/risco ambiental — nunca como prescrição.
+
+---
+
+
+
+### 0.2 (DETALHE) — AS SETE REGRAS QUE ESTRUTURAM O MECANISMO
+
+O GPM B13 organizou sete teses que resumem a bibliografia e que a canônica
+preserva. Primeira, **SEC não é cannabis**: o sistema existe antes e
+independentemente da planta, com AEA e 2-AG endógenos. Segunda, o SEC é freio
+**regional e bifásico**, não interruptor universal da calma (ansiolítico na
+extinção GABAérgica, ansiogênico no cingulado-estriatal). Terceira, basal não
+prediz desafio e periférico não mede o central. Quarta, não existe
+**deficiência endocanabinoide diagnóstica** — a anandamida circulante está, ao
+contrário, modestamente elevada na TDM. Quinta, engajar o alvo (elevar AEA por
+FAAH) não é curar — os ensaios de fase II falharam e o bloqueio total
+(rimonabanto) foi danoso. Sexta, a janela desenvolvimental é de **risco**
+(cannabis na adolescência → depressão/ansiedade), não de terapia. Sétima, a
+genética é G×E de efeito pequeno (FAAH C385A protetor moderado) e a fronteira
+microbiota→SEC é causal em modelo, mediacional em humano. Essas sete teses são
+o que impede a B13 de colapsar na cultura da cannabis e o que mantém a
+biblioteca como descrição do mecanismo endógeno, com a engenharia farmacológica
+posicionada depois da ciência e ainda aberta.
+
+---
+
+## BLOCO_01 — FUNDAMENTOS (DEZ VIAS)
+
+### 1.1 Sinalização retrógrada: DSI/DSE e LTD dependente de CB1 (o mecanismo-base)
+Após despolarização/entrada de cálculo pós-sináptica, o neurônio sintetiza **on-demand** (sem
+vesículas) AEA (NAPE-PLD) e 2-AG (DAGLα) que atravessam a fenda retrógradamente e ativam **CB1
+pré-sináptico** (Gi/o: inibe cálcio, ativa potássio, inibe adenilato ciclase), suprimindo
+temporariamente a liberação de **GABA** (DSI) ou **glutamato** (DSE); a ativação sustentada
+induz **LTD dependente de CB1**. O sinal termina por degradação rápida (FAAH/MAGL). CB1 é o
+receptor acoplado a G **mais abundante do cérebro** (clonagem Matsuda 1990)[ML]; anandamida
+(Devane 1992)[ML]; 2-AG (Stella/Piomelli 1997)[ML]; revisões-teto (Lutz 2015)[OB].
+
+*Matsuda1990_clonagem[ML] | Devane1992_anandamida[ML] | Stella1997_2AG[ML] | Lutz2015_revisao[OB]*
+
+### 1.2 Maquinaria síntese/degradação: o "dimmer" enzimático
+**AEA** é sintetida por NAPE-PLD e hidrolisada por **FAAH**; **2-AG** por DAGLα/β e degradada
+por **MAGL** (~85% do 2-AG cerebral, gera ácido araquidônico pró-inflamatório) e ABHD6/ABHD12;
+o transporte usa FABP5. A FAAH na **amígdala basolateral** é o freio limitante da
+ansiolise: inibi-la eleva AEA e reduz ansiedade/facilita extinção em roedor (Kathuria
+2003)[ML]; a FAAH amigdalar protege do estresse (Gunduz-Cinar 2013)[ML]; deleção NAPE-PLD em
+neurônios de estresse é ansiogênica; DAGLα no hipocampo ventral reduz evitação; inibir FAAH
+produz atividade tipo-antidepressiva em roedor (Bortolato)[ML]. Inibidores (URB597, JZL184,
+JNJ-42165279, PF-04457845, AM404) entram como **prova experimental de alvo**; a tradução
+clínica falhou (Via 10). MAGL conecta o SEC à neuroinflamação via AA/eicosanoides.
+
+*Kathuria2003_FAAH[ML] | Gunduz-Cinar2013_amigdala[ML]*
+
+### 1.3 Extinção do medo: amígdala–vmPFC–hipocampo ventral (o SEC como sistema de extinção)
+Na extinção aversiva, o CB1 é recrutado no circuito **BLA/CeA/ITC–córtex infralímbico–hipocampo
+ventral**, permitindo a aprendizagem inibitória que suprime (não apaga) o medo. **CB1 é
+necessário à extinção** — camundongos CB1-knockout falham em extinguir memórias aversivas
+(Marsicano 2002)[ML]. O substrato córtico-amigdalar foi detalhado em estudos de circuito; a
+liberação na sinapse hipocampo ventral–amígdala regula ansiedade; em humanos, extinção e
+anandamida associadas por fMRI; a variante protetora do FAAH melhora a função fronto-amigdalar
+(Dincheva 2015)[ML]. Em fêmeas, o bloqueio de CB1 revela generalização mediada por TRPV1. É a
+via que liga o SEC à ansiedade/TEPT — extinção deficiente é marca do transtorno (crosstalk B5/B12).
+
+*Marsicano2002_extincao[ML] | Dincheva2015_FAAH[ML]*
+
+### 1.4 Freio do HPA e habituação ao estresse
+O SEC modula — e é modulado por — o eixo CRH→ACTH→corticosterona: a supressão do SEC na
+amígdala pelo estresse agudo ativa o HPA (Hill 2009)[ML]; o CB1 regula CRH/feedback (Hillard
+2016)[OB]; o **CB1 mitocondrial (mtCB1)** controla o impacto da corticosterona sobre a
+bioenergética neuronal (2023)[ML]; o SEC é necessário à **habituação** ao estresse repetido
+(Hill 2008)[ML]; e a supressão do HPA por antidepressivo tricíclico **depende de
+endocanabinoides intactos** (Hill 2006)[ML]. O SEC funciona como amortecedor da ativação
+neuroendócrina — sem esse freio a resposta se amplia e a adaptação falha.
+
+*Hill2009_HPA[ML] | Hillard2016_revisao[OB] | Hill2008_habitua[ML] | Hill2006_antidep[ML]*
+
+### 1.5 Depressão do SEC pelo estresse crônico: CB1/AEA/2-AG reduzidos e reversíveis
+O estresse crônico reduz a sinalização endocanabinoide em regiões límbicas: no rato há
+alterações regionais de CB1/AEA (reduzidas) **revertidas por antidepressivo** (Hill 2008)[ML];
+no **núcleo accumbens**, o estresse crônico deprime o SEC associado à anedonia (Wang
+2010)[ML]; AEA e 2-AG têm redundância funcional na ansiedade (Bedse 2017)[ML]; o ELS diminui
+CB1R/FAAH com marcas epigenéticas. Restabelecer o freio (genética/farmacologicamente em
+modelo) reverte o fenótipo — inclusive no eixo de **recompensa/anedonia**. Em humanos, a
+ponte é o estudo que liga EC na TDM a maus-tratos e volume hipocampal (2024)[EC]. É o eixo que
+conecta o SEC à **depressão**, não só à ansiedade.
+
+*Hill2008_CB1reduz[ML] | Wang2010_NAcc[ML] | Bedse2017_redundan[ML]*
+
+### 1.6 Bifasicidade: CB1 ansiolítico vs. ansiogênico (a regra anti-nivelamento)
+O CB1 não tem efeito único — depende de circuito/célula/dose/idade/sexo. **Ansiolítico/pró-
+extinção:** CB1 em interneurônios GABAérgicos amígdala–PFC; AEA na BLA. **Ansiogênico:** CB1
+no circuito **cingulado-estriatal** promove ansiedade (2026, Nat Commun)[ML]; CB1 em neurônios
+noradrenérgicos modula reatividade (2025)[ML]; catecolaminérgicos têm papéis
+subconjunto-específicos; o CB1 dopaminérgico do **VTA** é necessário à recompensa (2023, Nat
+Commun)[ML]; o CB1 da **habênula lateral** controla memórias aversivas/coping (2015)[ML]; o
+ovBNST participa da depressão sustentada (2025)[ML]; a sinalização **astrocitária** é de sinal
+**oposto** à neuronal (2023)[ML]; em fêmeas a generalização é TRPV1; o controle CB1
+pré-frontal amadurece na adolescência tardia. O THC herda essa bifasicidade (baixa dose
+ansiolítica/alta ansiogênica). Isso explica por que "CB1 = calmante" e "bloquear CB1 = solução"
+são ambos falsos.
+
+*cingulado_estriatal[ML] | VTA_recompensa[ML] | habenula_coping[ML]*
+
+### 1.7 2-AG, MAGL e resiliência: o lipídio da recuperação
+O 2-AG (síntese DAGLα; degradação MAGL/ABHD6) é o principal sinal retrógrado da plasticidade
+rápida e da **adaptação ao estresse** (revisão Hill 2020)[OB]. Reforçar o 2-AG converte
+animais vulneráveis em **resilientes** ao estresse traumático (Bluett 2017)[ML]; a inibição
+da MAGL (JZL184) bloqueia o comportamento depressivo crônico via **mTOR hipocampal e
+neurogênese** (Bluett 2017)[ML], além de reduzir o AA pró-inflamatório. 2-AG é o lipídio da
+habituação, do coping e da suscetibilidade→resiliência (crosstalk B16/B15/B3).
+
+*Bluett2017_resiliencia[ML] | Zhang2014_MAGL[ML] | Hill2020_2AG[OB]*
+
+### 1.8 CB2 e o braço neuroimune
+O **CB2 (CNR2)** é expresso sobretudo em células imunes/microgliais (neuronal restrito); media
+efeitos majoritariamente anti-inflamatórios. A inibição de CB2 potencializa antidepressivo/
+neurogênese em parte dos modelos, e a ativação do **CB2 central** (não só periférico) afeta
+humor/imunidade (2025)[EC]; MAGL libera ácido araquidônico conectando o tônus ao lipidoma
+pró-inflamatório (meta de 2026). É o braço de diálogo com a **neuroinflamação** — microglia,
+citocinas — crosstalk B1 e, via AA/eicosanoides, B6. CB2 periférico ≠ central.
+
+### 1.9 Eixo microbiota–endocanabinoidoma–cérebro
+A microbiota regula e é regulada pelos endocanabinoides. Em modelo, a **microbiota causa
+comportamento depressivo via SEC**: o FMT de deprimidos transfere o fenótipo **com a perda de
+endocanabinoides**, e probiótico/modulação de FAAH reverte (Chevalier 2020)[ML]. Em humanos, o
+SEC **media estatisticamente** a associação entre diversidade microbiana e anedonia (coorte
+de gêmeos TwinsUK; **PEA fecal** como mediador; Minichino 2021)[EC]. Causal em animal,
+mediação observacional em humano — a causalidade humana aguarda intervenção (crosstalk B7).
+
+*Chevalier2020_FMT[ML] | Minichino2021_PEA[EC]*
+
+### 1.10 Janela desenvolvimental e ligantes exógenos (risco vs. sinal)
+Duas coisas que não se fundem: (a) **fisiologia endógena** — o controle CB1 pré-frontal
+amadurece na **adolescência tardia**; o ELS programa CB1R/FAAH epigeneticamente. (b) **ligantes
+exógenos**: o uso de **cannabis na adolescência** associa-se prospectivamente a depressão/
+ansiedade/ideação suicida (Gobbi 2019)[EC]; OR~2,14 adolescência→ansiedade), enquanto em
+**adultos** a associação incidente para ansiedade é nula/frágil e confundida (2024, Psychol
+Med)[EC]; o THC é bifásico. (c) **farmacologia como sinal de alvo**: inibidores de FAAH
+elevam AEA e são robustos em roedor mas **falharam em fase II** — ansiedade social (ECR
+N~149 nulo), TDM (nulo/misto), TEPT+iCBT (nulo); o CBD tem sinal ansiolítico agudo mas ECRs
+heterogêneos/clínico inconclusivo; o **bloqueio total de CB1 (rimonabanto)** causou depressão/
+ideação suicida e foi retirado em 2008 — "menos CB1" tampouco é solução. A janela
+adolescencial é duplamente importante (sistema amadurece **e** exposição externa mais danifica).
+
+*Gobbi2019_adolescencia[EC]*
+
+---
+
+
+
+### 1.11 (PROFUNDIDADE) — A QUÍMICA QUE ANTECEDE A CANNABIS
+
+A história do SEC é a descoberta de que o cérebro produz seus próprios "canabinoides" antes
+de existir a cannabis. A anandamida (do sânscrito *ananda*, alegria) foi isolada em 1992
+como o ligante endógeno do receptor CB1, e o 2-AG em 1997; o próprio receptor CB1 fora
+clonado em 1990, revelando ser o receptor acoplado a proteína G mais abundante do sistema
+nervoso. Esses lipídios não são armazenados em vesículas: são sintetizados **on-demand** a
+partir de fosfolipídios de membrana quando o neurônio pós-sináptico despolariza e cálcio
+entra, agem retrógradamente sobre o CB1 pré-sináptico para suprimir temporariamente a
+liberação de neurotransmissor (DSI em terminais GABA, DSE em glutamato), e são então
+rapidamente degradados por FAAH (AEA) ou MAGL/ABHD6 (2-AG). Essa arquitetura explica a
+dupla natureza do sistema: um freio local, transitório e tecido-específico — não uma
+"substância da calma" difusa como um fármaco. Toda a farmacologia exógena (THC, CBD,
+inibidores de FAAH/MAGL) incide sobre essa maquinaria endógena pré-existente, o que torna a
+distinção entre fisiologia e farmacologia a regra fundadora da B13. A evidência desse
+mecanismo é bioquímica e celular, muito estabelecida em preparações in vitro e em roedor;
+a tradução para psicofarmacologia humana é o que permanece aberto (Via 10).
+
+---
+
+
+
+### 1.12 (PROFUNDIDADE) — O FREIO DA AMÍGDALA E A FARMÁCOLOGIA DA AEA
+
+A ansiólise endocanabinoide tem um sítio molecular bem localizado: a **amígdala
+basolateral (BLA)**, onde a FAAH degrada anandamida. Inibir a FAAH eleva AEA, e essa
+degradação é o passo que limita a sinalização ansiolítica — em roedor, elevar AEA na BLA
+reduz ansiedade e facilita a extinção do medo, com efeito de maior efeito farmacológico
+do que elevar 2-AG nesse sítio. A via clássica parte do endocanabinoide até a aprendizagem
+inibitória da extinção: o CB1 nos interneurônios GABAérgicos do circuito amígdala–PFC
+permite a nova aprendizagem que suprime a resposta de medo condicionado; sem CB1, os
+camundongos não extinguem a memória aversiva. A anandamida e o 2-AG têm **redundância
+funcional** — a supressão de um só não apaga toda a modulação de ansiedade — mas também
+divisão de trabalho: AEA mais tônica/emocional na amígdala, 2-AG mais plástico/rápido.
+Essa é a evidência mecanística mais robusta da B13 em nível de tecido/circuito, sempre em
+roedor/preparação: a tradução para um ansiolítico humano via inibidor de FAAH é exatamente
+o que os ensaios de fase II não confirmaram.
+
+*Kathuria2003_FAAH[ML] | Gunduz-Cinar2013_amigdala[ML] | Bedse2017_redundan[ML]*
+
+### 1.13 (PROFUNDIDADE) — 2-AG: O LIPÍDIO DA RESILIÊNCIA E O PORQUÊ DO FARMACO FALHAR
+
+O 2-AG tem o papel mais ligado à **recuperação**. Ele é o principal sinal retrógrado da
+plasticidade sináptica rápida (LTD dependente de CB1) e da adaptação ao estresse; sua
+hidrólise pela MAGL libera ácido araquidônico, elo com os eicosanoides pró-inflamatórios.
+O achado mais direto de resiliência é que reforçar a sinalização de 2-AG converte
+animais vulneráveis ao estresse traumático em resilientes, e inibir a MAGL em roedor
+bloqueia o comportamento depressivo crônico via mTOR hipocampal e neurogênese. Essa força
+pré-clínica contrasta com o **fracasso clínico dos inibidores de FAAH**: embora elevem
+AEA (engajamento farmacodinâmico do alvo medido até por PET), não produziram melhora em
+ansiedade social (ECR grande nulo), TDM nem TEPT. As hipóteses do desabismo são a
+redundância AEA–2-AG, a diferença roedor-humano na tradução do comportamento, a
+fenotipagem, o balanço periférico/central e a necessidade de modular por circuito em vez
+de elevado globalmente. A lição editorial é dura e importante: **o alvo é real e
+engajável, mas o fármaco não entregou** — o que separa ciência do mecanismo de engenharia
+terapêutica, e impede "prova de alvo em roedor = tratamento humano".
+
+*Bluett2017_resiliencia[ML] | Zhang2014_MAGL[ML] | Hill2020_2AG[OB]*
+
+---
+
+## BLOCO_02 — VIAS EM DETALHE
+
+### 2.1 O "freio" é regional: a bifasicidade não pode ser nivelada
+A distinção central da biblioteca é que o mesmo receptor CB1 **amortece** o medo em
+interneurônios GABAérgicos da extinção (amígdala–PFC) mas **amplifica** ansiedade no
+cingulado-estriado e em subpopulações catecolaminérgicas, é necessário à recompensa
+dopaminérgica do VTA e ao coping habenular, e tem sinalização astrocitária de sinal oposto.
+Isso derruba tanto "CB1 = calmante" quanto "bloquear CB1 resolve" (o rimonabanto provou o
+segundo de forma trágica). A intervenção futura (PAMs, antagonistas periféricos) é modular
+por circuito, sinal experimental — não prescrição.
+
+### 2.2 Engajar o alvo não é curar: o desabismo pré-clínico→clínico
+Os inibidores de FAAH elevam AEA e são robustos em roedor (Kathuria/Bortolato), mas a
+farmacologia humana falhou em ansiedade social, TDM e TEPT (ensaios de fase II nulos/mistos).
+Hipóteses: redundância AEA-2-AG (Bedse), tradução roedor→humano, dose/fenotipagem, efeito
+periférico vs. central. O lição é que o mecanismo endógeno é real e o alvo engajável, mas a
+engenharia farmacológica ainda não entregou tratamento — ciência primeiro, ferramenta depois.
+
+*Bedse2017_redundan[ML]*
+
+---
+
+
+
+### 1.14 (PROFUNDIDADE) — BIFASICIDADE: POR QUE "CB1 = CALMA" É FALSO
+
+O achado que mais protege contra a super-simplificação é que o CB1 **não tem efeito
+único**. Em interneurônios GABAérgicos da amígdala–PFC, modular o CB1 facilita a
+extinção e reduz ansiedade (ansiolítico); já no circuito **cingulado-estriatal**, a
+sinalização CB1 promove ansiedade (ansiogênico), e em neurônios noradrenérgicos e
+catecolaminérgicos o receptor tem papéis subconjunto-específicos que podem ser
+protetores ou deletérios. No **VTA**, a mobilização de endocanabinoides por neurônios
+dopaminérgicos é necessária à recompensa; na **habênula lateral**, o CB1 controla
+memórias aversivas e estilos de coping. Até entre tipos celulares de glia e neurônios a
+direção se inverte: o tônus retrógrado neuronal e a sinalização astrocitária têm
+efeitos opostos, e em fêmeas a generalização do medo após bloqueio do CB1 é mediada
+por TRPV1, não pelo CB1. Esse arranjo regional explica a **bifasicidade dose-dependente
+do THC exógeno** (baixa dose aparentemente ansiolítica, alta dose ansiogênica/
+paranoide) e a tragédia do **rimonabanto**: o bloqueio total do CB1, longe de ser
+terapêutico, causou depressão, ansiedade e ideação suicida e foi retirado. Nem "ativar
+tudo" nem "bloquear tudo" é a direção; a aposta atual da farmacologia (moduladores
+alostéricos, antagonistas periféricos) é modular por circuito, e permanece sem âncora
+resolvida na clínica — sinal experimental, não prescrição.
+
+*cingulado_estriatal[ML] | VTA_recompensa[ML] | habenula_coping[ML]*
+
+### 1.15 (PROFUNDIDADE) — DESENVOLVIMENTO: POR QUE A ADOLESCÊNCIA É RISCO, NÃO TERAPIA
+
+Há uma janela que a B13 trata com cuidado especial. O controle do CB1 **pré-frontal**
+sobre a ansiedade hipocampal **amadurece apenas na adolescência tardia** — é justamente
+quando o sistema endógeno se estabiliza que a exposição a **canabinoides exógenos** mais
+o perturba. As coortes longitudinais mostram que o uso de cannabis na adolescência
+associa-se prospectivamente a depressão, ansiedade e ideação suicida (OR em torno de 2
+para ansiedade juvenil), enquanto em **adultos** a associação incidente para ansiedade
+é nula/frágil e fortemente confundida. O ELS, por sua vez, programa CB1R/FAAH com
+marcas epigenéticas duradouras. Isso inverte a intuição terapêutica ingênua: a janela
+desenvolvimental é de **risco** para o ligante exógeno, não de intervenção. A
+fisiologia endógena amadurece tardiamente e o perturbador externo precoce deixa
+suscetibilidade; separar risco ambiental (cannabis juvenil) de fisiologia endógena (o
+freio que amadurece) é uma das fronteiras obrigatórias do módulo, coerente com o
+princípio de que engajar o sistema em desenvolvimento não é o mesmo que tratá-lo.
+
+*Gobbi2019_adolescencia[EC]*
+
+---
+
+
+
+### 2.3 (PROFUNDIDADE) — O LIMITE ENTRE MECANISMO E TERAPÊUTICA
+
+A B13 é talvez a biblioteca onde o princípio "ciência primeiro, ferramenta depois"
+se impõe com mais força. A base mecanística é densa e confiável: células produzem
+endocanabinoides sob demanda, CB1 é o receptor G mais abundante do cérebro, a
+extinção de medo depende de CB1, e a FAAH na amígdala limita uma sinalização
+ansiolítica. Essa mesma rota, todavia, não traduziu em fármaco: inibir a FAAH
+eleva AEA (o alvo engaja, mensurável em imagem e farmacodinâmica) mas não melhora
+ansiedade social, TDM nem TEPT nos ensaios de fase II; o bloqueio total do CB1
+foi um desastre regulatório; o CBD tem efeito agudo experimental mas ECRs
+inconclusivos. Três conclusões separam a evidência da promessa. Primeira, **a
+relação entre engajamento de alvo e desfecho clínico não é direta** — elevar um
+lipídio não é o mesmo que modular o circuito certo no momento certo. Segunda,
+**a bifasicidade** (ansiolítico em um sítio, ansiogênico em outro) torna o agonista
+globalmente inespecífico; o futuro farmacológico está em modular por circuito
+(PAMs, antagonistas periféricos), o que é pesquisa. Terceira, a **exposição
+desenvolvimental a cannabis é risco**, não terapia, sobretudo na adolescência.
+O documento de mecanismo descreve o freio endógeno e seus pontos de ajuste; ele
+não atesta, e os dados negam, que qualquer substância disponível já "trate" ansiedade
+ou depressão via SEC.
+
+### 6.1 (DETALHE) — O QUE A B13 NÃO PRESCRÊVE
+
+É explícito que THC, CBD, canabinoides, inibidores de FAAH (URB597, PF-04457845,
+JNJ-42165279), de MAGL (JZL184), do transporte (AM404), PAMs e PEA entram no
+corpo apenas como **prova experimental de viabilidade de alvo**, nunca como
+conduta — a tradução clínica (fase II) é nula/mista e o bloqueio total (rimonabanto)
+foi danoso. A B13 cobre a fisiologia endógena (sintese on-demand, DSI/DSE,
+extinção, HPA, resiliência, bifasicidade); a prescrição de canabinoides, a
+cannabis medicinal e a terapia assistida pertencem ao módulo clínico. A fronteira
+entre ciência (robusta, animal/celular) e engenharia (ainda não entregue) é o eixo
+que sustenta o documento e que o gate de fidelidade deve preservar.
+
+---
+
+## BLOCO_03 — MEDIADORES MOLECULARES
+
+- **Ligantes:** AEA (Devane 1992)[ML], 2-AG (Stella 1997)[ML], PEA, OEA (N-aciletanolaminas
+  relacionadas; PEA media microbiota→anedonia; Minichino 2021)[EC].
+- **Receptores:** CB1/CNR1 (mais abundante do SNC, pré-sináptico; bifásico por sítio —
+  Matsuda 1990)[ML]; CB2/CNR2 (imune/microglial); TRPV1 (medo feminino); GPR55/PPARα/γ
+  (emergentes).
+- **Síntese:** NAPE-PLD (AEA), DAGLα/β (2-AG).
+- **Degradação/transporte:** FAAH (AEA; Kathuria 2003)[ML], MAGL/ABHD6/ABHD12 (2-AG;
+  Zhang 2014)[ML], FABP5 (transporte).
+- **Interface:** ácido araquidônico/eicosanoides (AA), eixo neuroimune.
+
+### Inventário NEGATIVO (o que a ciência refuta)
+- **"CB1 = relaxamento universal"** — refutado: bifásico/regional (cingulado-estriatal
+  ansiogênico); rimonabanto deprimiu.
+- **"Deficiência endocanabinoide (CECD)" como diagnóstico** — heurística (Russo 2004)[OB],
+  sem biomarcador; meta de 2026 acha AEA **aumentada** na TDM.
+- **"Lipídio plasmático mede o cérebro"** — refutado (Hillard 2018)[OB]; múltiplas fontes.
+- **"Cannabis trata ansiedade/depressão"** — evidência fraca/mista; risco na adolescência;
+  nulo em adultos incidentes.
+- **"Inibidor de FAAH = antidepressivo comprovado"** — refutado em fase II (nulo/misto).
+- **"CBD inerte/já tratamento"** — farmacologia própria; ECRs heterogêneos; clínico
+  inconclusivo.
+- **"CB1 elevado no TEPT (PET) é achado consolidado"** — Neumeister 2013 não replicou
+  (Korem 2025)[EC].
+- **"Um SNP de CNR1/FAAH diagnostica"** — efeitos pequenos/G×E; sem marcador diagnóstico.
+
+*Russo2004_CECD[OB] | Hillard2018_periferico[OB] | Korem2025_PET[EC]*
+
+---
+
+## BLOCO_04 — CÉLULAS E ESTRUTURAS
+
+- **Neurônios glutamatérgicos pós-sinápticos** produzem os endocanabinoides (DSE/LTD).
+- **Terminais CB1+ GABAérgicos** (interneurônios) — sítio clássico da DSI ansiolítica
+  (Marsicano 2002)[ML].
+- **Terminais CB1+ glutamatérgicos** — DSE/plasticidade.
+- **Neurônios dopaminérgicos VTA** — CB1 necessário à recompensa (2023)[ML].
+- **Noradrenérgicos (LC) e catecolaminérgicos** — CB1 subconjunto-específico (bifasicidade).
+- **Habênula lateral / ovBNST** — coping e ansiedade sustentada (2015)[ML].
+- **Astrócitos** — sinalização glial de sinal oposto à neuronal.
+- **Microglia (CB2+)** — braço neuroimune.
+- **Mitocôndrias (mtCB1)** — impacto da corticosterona na bioenergética (interface B9).
+- **Estruturas:** amígdala (BLA/CeA/ITC), vmPFC/infralímbico/cingulado, hipocampo ventral,
+  VTA/NAcc, habênula, ovBNST, LC. Imagem molecular humana: PET de CB1/FAAH (sem assinatura
+  consensual — Neumeister vs Korem), fMRI de extinção.
+
+---
+
+
+
+### 3.1 (PROFUNDIDADE) — O LIPÍDIO PERIFÉRICO NÃO É O CÉREBRO
+
+A distinção que mais evita falsos biomarcadores na B13 é entre o endocanabinoide que se
+mede no sangue, soro, saliva ou cabelo e o que sinaliza na sinapse. Os endocanabinoides
+circulantes vêm de múltiplas fontes — tecido adiposo, plaquetas, células imunes — e
+variam com IMC, dieta, exercício (o "runner's high"), hora do dia, estresse agudo,
+medicamentos e o próprio uso de cannabis/abstinência; o nível de repouso (basal) não
+prediz a resposta dinâmica ao desafio psicossocial. Por isso o lipídio periférico é
+**marcador de grupo**, não medida do tônus sináptico CB1 central. Some-se a isso que a
+direção do marcador não é trivial: a meta de 2026 na TDM encontra anandamida circulante
+modestamente **aumentada** (não diminuída como a antiga hipótese de "deficiência"
+sugeriria), e um estudo dimensional acha associação inversa com regulação emocional sem
+diferença por diagnóstico. Não há, portanto, exame de sangue, SNP de FAAH/CNR1 ou PET
+de CB1 que diagnostique ansiedade/depressão: a PET de CB1 no TEPT (achado inicial de
+disponibilidade elevada) não foi replicada na coorte maior de veteranos. A biologia do
+SEC central permanece, em vida, inferida por imagem e por modelo — e os marcadores
+disponíveis ficam no âmbito da pesquisa, sem corte ou protocolo diagnóstico.
+
+*Hillard2018_periferico[OB] | Korem2025_PET[EC]*
+
+### 4.1 (PROFUNDIDADE) — CB2, MICROGLIA E A ASTROGLIA: O SEC NÃO É SÓ NEURONAL
+
+Além do CB1 neuronal, o sistema tem uma metade glial/imune que costuma ser omitida. O
+**CB2** é expresso majoritariamente em células imunes e microgliais (e em neurônios
+apenas em sítios restritos), onde medeia efeitos anti-inflamatórios; a ativação do CB2
+central — não apenas o periférico — tem efeitos sobre humor e imunidade, e a inibição de
+CB2 potencializa antidepressivo/neurogênese em parte dos modelos. Os **astrócitos**, por
+sua vez, produzem e respondem a endocanabinoides, mas com efeito de sinal **oposto** ao
+do tônus retrógrado neuronal. E nas **mitocôndrias neuronais**, o CB1 da membrana
+externa (mtCB1) controla o impacto da corticosterona sobre a bioenergética — interface
+direta com a disfunção mitocondrial e o eixo do estresse. Essas camadas (CB2 glial,
+astrócito com sinal oposto, CB1 mitocondrial) impedem tratar o SEC como um único
+sinal neuronal: a resposta ao estresse e à inflamação é coordenada entre neurônio, glia,
+imune e energia, e essa coordenação é o que explica parte da heterogeneidade dos
+resultados translacionais.
+
+---
+
+## BLOCO_05 — BIOMARCADORES (PESQUISA; NÃO HÁ DIAGNÓSTICO)
+
+1. **Lipídios periféricos** (AEA/2-AG/PEA/OEA plasmáticos/séricos/saliva/cabelo) —
+   marcadores de grupo, baixa especificidade; **periférico ≠ tônus sináptico central**
+   (Hillard 2018)[OB]; AEA basal modestamente **aumentada** na TDM (meta 2026); basal ≠
+   resposta ao desafio.
+2. **Valor preditivo prospectivo** — EC circulantes predizem depressão pós-trauma, desfechos
+   peritraumáticos e gravidade pediátrica (grupo, não indivíduo).
+3. **Genótipo** — FAAH C385A (rs324420) protetor moderado (linha mais replicada; Dincheva
+   2015)[ML]; CNR1 rs1049353 efeito pequeno/G×E — sem marcador diagnóstico.
+4. **Imagem** — PET CB1/FAAH (Neumeister 2013 não replicou em Korem 2025); fMRI fronto-
+   amigdalar na extinção; sem assinatura consensual.
+5. **Princípio:** **não há biomarcador individual do SEC**, nem exame para diagnóstico.
+
+### 5.x Exames referenciados por ID oficial (P19/P20)
+- **ID oficial de exame (P19/P20):** não há exame catalogado no C-LAB para endocanabinoides
+  (lipídios AEA/2-AG séricos ou genótipo FAAH/CNR1); a coleta/medição é pesquisa, sem
+  corte/diagnóstico — consulte `exame_hemograma_completo` apenas como contexto clínico geral.
+  O marcador endocanabinoide/genótipo e o PET de CB1/FAAH são **não catalogados**, citados
+  em prosa (P20).
+
+- Não há ID catalogado no C-LAB para lipídios endocanabinoides/genótipo FAAH/CNR1/PET CB1 como
+  teste de humor: **elementos ainda não catalogados**, citados como papel biológico sem corte/
+  protocolo. A medida central (tônus sináptico CB1) não é feita em vida de forma direta.
+
+---
+
+
+
+### 5.1 (PROFUNDIDADE) — MARCADOR DE GRUPO, NÃO DIAGNÓSTICO INDIVIDUAL
+
+Os endocanabinoides periféricos têm valor de pesquisa, mas de baixa especificidade
+individual. AEA circulante na TDM aparece modestamente elevada (não reduzida) na
+meta mais ampla; o 2-AG não difere de forma consistente; PEA e OEA variam com
+metabolismo e microbiota; os níveis no cabelo refletem exposição cumulativa e se
+confundem com uso externo de cannabis e cosméticos. O genótipo FAAH C385A é a
+linha mais replicada e de direção protetora moderada, e os SNPs do CNR1 têm efeito
+pequeno e dependem de G×E — nada que diagnostique. A imagem molecular (PET de CB1)
+do TEPT não replica entre coortes. O quadro que se consolida é o de marcadores de
+**grupo** com valor preditivo prospectivo (pós-trauma, pediátrico) mas sem
+diagnóstico individual e sem medida do tônus sináptico central. Por isso a B13 não
+apresenta exame endocanabinoide como teste clínico: a biologia é real, o
+biomarcador validado para ansiedade/depressão ainda não existe, e qualquer valor de
+corte ou protocolo fica fora do documento (P20).
+
+*Hillard2018_periferico[OB] | Korem2025_PET[EC]*
+
+### 8.1 (DETALHE) — A HIERARQUIA DE CONEXÕES DO SEC
+
+As interconexões mais fortes da B13 são com B5 (o SEC é literalmente a modulação
+retrógrada da liberação de GABA/glutamato — DSI/DSE), B2 (o SEC freia o HPA e é
+freado por ele, incluindo o CB1 mitocondrial sob corticosterona) e B12 (a
+extinção e a recuperação do trauma são processos sobre os quais o SEC incide, com
+programação epigenética pelo ELS e EC periféricos predizendo desfecho
+pós-traumático). Vêm em seguida B4 (CB1 dopaminérgico na recompensa/anedonia e
+noradrenérgico na reatividade) e B3 (LTD-CB1 e 2-AG plástico); depois B1 (CB2
+microglial/MAGL-AA), B7 (endocanabinoidoma com FMT causal em modelo e mediação
+humana por PEA), B10 (CB1 como hub estresse-sono-apetite) e B14 (modulação por
+estrogênios/dimorfismo sexual). As conexões mais fracas são B16/B15 (neurogênese/
+mTOR via MAGL), B9 (mtCB1), B6 (AA/eicosanoides), B8 (lipídios dietéticos como
+confundidor) e B11 (sem ponte resolvida) — todas coerentes com a regra de que o
+SEC é um sistema de modulação retrógrada que se acopla a virtualmente todos os
+eixos, mas com lastro muito desigual.
+
+---
+
+## BLOCO_06 — TRADUÇÃO CLÍNICA (SINAL, NÃO CONDUTA)
+
+A B13 descreve a **fisiologia endógena** do SEC. THC/CBD/cannabis, inibidores de FAAH/MAGL
+(URB597, JZL184, JNJ-42165279, PF-04457845, SSR411298), inibidores de transporte (AM404),
+PEA adjuvante, PAMs e antagonistas periféricos são **prova experimental de viabilidade de
+alvo/janela**, nunca prescrição (P20). O estado da tradução: FAAH inibidores robustos em
+roedor, **nulos/mistos em fase II**; CBD ECRs heterogêneos/clínico inconclusivo; rimonabanto
+retirado por efeito adverso. A intervenção rítmica/farmacológica pertence ao módulo clínico.
+
+---
+
+
+
+### 1.16 (RESUMO) — O QUE SOBRA DE CONSOLIDADO
+
+Dez vias, um princípio: o sistema endocanabinoide é um **freio retrógrado
+regional e bifásico**. Consolidadas: a biologia celular (síntese on-demand, DSI/DSE,
+CB1 abundante, degradação FAAH/MAGL), a dependência da extinção do medo por CB1,
+o amortecimento do HPA, e a degradação do freio pelo estresse crônico (com
+reversibilidade em modelo). Controversas ou emergentes: o efeito **ansiogênico** do
+CB1 em circuitos cingulado-estriatais e a sinalização glial oposta; o papel
+resiliência do 2-AG/MAGL e a fronteira CB2/microglia; o eixo microbiota→SEC
+causal em animal e mediacional em humano; a direção **aumentada** da anandamida
+periférica na TDM; e a modulação do estresse pela janela desenvolvimental. Em
+negativo, o módulo preserva o que os dados desmentem: não há deficiência
+diagnosticável, não há marcador periférico do cérebro, não há CBD/cannabis como
+tratamento comprovado, e o inibidor de FAAH robusto em roedor não passou em fase
+II — enquanto o bloqueio total de CB1 foi deletério. Essa combinação de mecanismo
+sólido e tradução clínica aberta é a síntese honesta da B13.
+
+*Matsuda1990_clonagem[ML] | Marsicano2002_extincao[ML] | Kathuria2003_FAAH[ML] | Gobbi2019_adolescencia[EC]*
+
+### 4.2 (DETALHE) — CIRCUITOS POR TRÁS DA ANSIEDADE E DA DEPRESSÃO
+
+A amígdala (BLA/CeA/ITC) é onde a FAAH degrada AEA e limita a ansiólise; o
+vmPFC/infralímbico é a estrutura que inibe a amígdala na extinção (aprendizagem
+nova); o hipocampo ventral fornece contexto e o vHipp-amígdala segura a
+generalização. Na depressão/anedonia entram o VTA (CB1 dopaminérgico necessário
+à recompensa), o NAcc (sinalização EC deprimida pelo estresse crônico) e a
+habênula lateral (coping), com o ovBNST na ansiedade sustentada. A imagem
+humana (PET de CB1/FAAH, fMRI de extinção) é de pesquisa, heterogênea e sem
+assinatura consensual. O conjunto coloca o SEC no entroncamento entre circuito
+de medo (próximo a B5/B12) e circuito de recompensa (próximo a B4/B3), o que
+explica por que o sistema toca ansiedade (extinção) e depressão (recompensa)
+por braços distintos — e por que um agonista genérico não seria específico.
+
+*cingulado_estriatal[ML] | habenula_coping[ML] | VTA_recompensa[ML]*
+
+---
+
+## BLOCO_07 — NÓS MOLECULARES CENTRAIS
+
+1. **Sinalização retrógrada DSI/DSE-LTD (CB1)** — o mecanismo-base (Marsicano/Devane).
+2. **Freio enzimático AEA–FAAH na amígdala** — Kathuria/Gunduz-Cinar.
+3. **Extinção CB1-dependente** — Marsicano/Dincheva (ansiedade/TEPT).
+4. **Depressão do SEC pelo estresse** (NAcc/anedonia; reversível em modelo).
+5. **Bifasicidade regional/celular** (cingulado-estriatal ansiogênico; VTA dopaminérgico).
+6. **2-AG/MAGL = resiliência** — Bluett/Zhang.
+7. **Regra:** ciência do freio endógeno robusta; farmacologia = sinal não-resolvido.
+
+*Marsicano2002_extincao[ML] | Kathuria2003_FAAH[ML] | Bluett2017_resiliencia[ML]*
+
+---
+
+## BLOCO_08 — CONEXÕES B1–B16
+
+1. **B13↔B5 (GABA/glutamato) — HIGH:** o SEC é modulação retrógrada da liberação de GABA/glutamato.
+2. **B13↔B2 (HPA) — HIGH:** freio do estresse; mtCB1/corticosterona; antidepressivo depende de EC.
+3. **B13↔B12 (trauma/TEPT) — HIGH:** extinção/recuperação; ELS programa CB1; EC prediz pós-trauma.
+4. **B13↔B4 (monoaminas) — MEDIUM-HIGH:** CB1 dopaminérgico na recompensa; noradrenérgico.
+5. **B13↔B3 (plasticidade) — MEDIUM-HIGH:** LTD-CB1; 2-AG plástico.
+6. **B13↔B1 (neuroimune) — MEDIUM:** CB2/microglia; MAGL→AA/eicosanoides.
+7. **B13↔B7 (microbiota) — MEDIUM/emergente:** endocanabinoidoma; FMT causal em modelo.
+8. **B13↔B10 (ritmo/sono) — MEDIUM:** CB1 hub estresse-sono-apetite.
+9. **B13↔B14 (sexo/esteroides) — MEDIUM:** estrogênios modulam CB1; dimorfismo.
+10. **B13↔B16 (neurogênese) — MEDIUM:** MAGL/mTOR/neurogênese.
+11. **B13↔B15 (mTOR/autofagia) — LOW-MEDIUM:** via MAGL.
+12. **B13↔B9 (mitocôndria) — LOW-MEDIUM:** mtCB1.
+13. **B13↔B6 (redox) — LOW-MEDIUM:** AA/eicosanoides.
+14. **B13↔B8 (micronutrientes) — LOW:** lipídios dietéticos como confundidor.
+15. **B13↔B11 (tireoide) — LOW:** sem ponte resolvida.
+
+---
+
+## BLOCO_09 — IMPACTO SOBRE NEUROPLASTICIDADE (elo B3)
+O SEC media LTD-CB1 e modula a capacidade plástica; 2-AG é o lipídio da plasticidade rápida; a
+ativação de MAGL promove neurogênese via mTOR (Bluett 2017)[ML]. A maquinaria plástica é a B3;
+a neurogênese é B16.
+
+*Zhang2014_MAGL[ML]*
+
+---
+
+## BLOCO_10 — IMPACTO SOBRE NEUROGÊNESE (elo B16; condicional)
+O fortalecimento do SEC promove neurogênese (Giacobbe/Zhang); por **P16**, a neurogênese é
+escopo de `mecanismo_B16_neurogenese` (subordinado a B3); a B13 registra o SEC como modulador.
+
+---
+
+## BLOCO_11 — ESTRATIFICAÇÃO (FENÓTIPOS, NÃO DIAGNÓSTICO)
+F1 extinção deficiente (medo generalizado); F2 TEPT (biomarcador PET controverso); F3 depressão
+por estresse crônico/anedonia (NAcc); F4 desenvolvimental (exposição pré-natal/adolescência =
+risco); F5 fenótipo de sexo; F6 resiliência/coping (2-AG, FAAH C385A); F7 uso crônico de
+cannabis (ligante exógeno, não fisiologia). Fenótipos sobreponíveis — heurística, não taxonomia.
+
+*Gobbi2019_adolescencia[EC]*
+
+---
+
+## BLOCO_12 — CENÁRIOS ILUSTRATIVOS (SEM CONDUTA)
+- **"Maconha acalma, CB1 = relaxamento"** — falso: bifásico/regional.
+- **"Deficiência endocanabinoide = depressão"** — sem diagnóstico; AEA está aumentada na meta.
+- **"Cannabis trata depressão/ansiedade"** — fraco/misto; risco na adolescência; nulo em adultos.
+- **"Inibidor de FAAH = antidepressivo"** — engaja o alvo, falhou em fase II.
+- Outras condições (psicose, dor, obesidade, epilepsia, adicção) entram como
+  estudo-ponte `[EXTRAPOLADO]`.
+
+---
+
+
+
+### 9.1 (PROFUNDIDADE) — EXTINÇÃO, RECOMPENSA E O LUGAR DO SEC NA DOENÇA
+
+O SEC se encaixa na ansiedade e na depressão por duas portas distintas. Na **ansiedade e
+no TEPT**, a porta é a **extinção do medo**: o CB1 é necessário para que a nova
+aprendizagem inibitória (o ambiente que antes ameaçava, agora seguro) suprima a resposta
+defensiva — sem ele, os camundongos não extinguem a memória aversiva, e o sistema deixa
+de amortecer a hipervigilância. Na **depressão/anedonia**, a porta é a **recompensa**: o
+estresse crônico deprime a sinalização endocanabinoide no núcleo accumbens/VTA, e o CB1
+dopaminérgico é necessário ao reforço; 2-AG converte vulneráveis em resilientes e a
+inibição da MAGL reverte o comportamento depressivo em roedor via mTOR/neurogênese. Esses
+dois eixos não transformam o SEC em marcador diagnóstico (não há) nem em alvo
+terapêutico resolvido (os inibidores de FAAH falharam em fase II), mas explicam por que
+o sistema endógeno, não a cannabis, é o ponto conceitual central: um freio regional da
+resposta ao estresse, plástico e bifásico, que a adversidade crônica deprime e que a
+ciência ainda não aprendeu a modular com segurança e precisão.
+
+*Marsicano2002_extincao[ML] | Bluett2017_resiliencia[ML] | VTA_recompensa[ML]*
+
+### 7.1 (PROFUNDIDADE) — MICROBIOTA E ENDOCANABINOIDE: A PORTA PERIFÉRICA
+
+Uma das vias mais novas conecta a B13 à B7. A microbiota intestinal regula o
+"endocanabinoidoma" e as N-aciletanolaminas; em modelo, o transplante fecal de
+animais depressivos transfere o fenótipo **junto com a perda de endocanabinoides**,
+revertível por probiótico/modulação de FAAH — evidência causal animal. Em humanos,
+uma coorte de gêmeos mostra que o SEC media estatisticamente a associação entre
+diversidade microbiana e anedonia, com **PEA fecal** como mediador. Isso posiciona o
+SEC como uma das vias periferia→cérebro pelas quais o intestino modula o humor, com
+causalidade estabelecida em roedor e mediação observacional em humano (ainda sem
+intervenção causal em gente) — coerente com o padrão da série: biologia animal forte,
+humano emergente, e nenhuma das duas convertida em prescrição.
+
+*Chevalier2020_FMT[ML] | Minichino2021_PEA[EC]*
+
+### 12.1 (FECHO EDITORIAL) — A CIÊNCIA, DEPOIS A FERRAMENTA
+
+A B13 fecha com um contraste que estrutura toda a trilha. A **fisiologia endógena** é
+muito estabelecida: síntese on-demand de AEA/2-AG, sinalização retrógrada DSI/DSE,
+extinção CB1-dependente, freio do HPA, efeito ansiolítico regional — quase tudo em
+biologia celular/roedor. A **farmacologia exógena** é onde a promessa ainda não virou
+tratamento: a cannabis na adolescência é fator de risco robusto, o uso adulto é
+associado de forma frágil/nula à ansiedade, o CBD tem sinal clínico heterogêneo e os
+inibidores de FAAH engajam o alvo sem benefício em fase II, enquanto o bloqueio total
+do CB1 (rimonabanto) foi deletério. A lição operacional é a mesma que rege as demais
+bibliotecas: descrever o mecanismo endógeno com rigor, preservar a bifasicidade e a
+diferença periférico/central, sinalizar a engenharia farmacológica como o que é —
+prova de alvo em translação, não prescrição — e deixar a conduta para o módulo clínico.
+A ciência do SEC está; a ferramenta segura e precisa é o que ainda falta.
+
+---
+
+
+
+### 11.1 (PROFUNDIDADE) — FENÓTIPOS SOBREPONÍVEIS DO SEC
+
+Os subtipos do endocanabinoide são heurística, não caixas. O **F1** é a ansiedade de
+traço com extinção deficiente (tônus insuficiente na amígdala–PFC; CB1 necessário à
+extinção), que prediz gravidade de ansiedade também em crianças/adolescentes por
+marcadores periféricos. O **F2** é o TEPT/trauma, com generalização do medo,
+janela peritraumática onde os EC circulantes predizem desfecho, e PET de CB1 sem
+assinatura consensual (achado inicial não replicado). O **F3** é a depressão por
+estresse crônico/anedonia, com o SEC deprimido no NAcc/recompensa e reversível em
+modelo. O **F4** é o fenótipo **desenvolvimental**, onde a exposição a cannabis
+pré-natal/adolescência é fator de risco ambiental (o sistema endógeno amadurece
+nessa janela). O **F5** é o de **sexo** (perfil lipídico/inflamatório distinto no
+TEPT; generalização TRPV1 em fêmeas). O **F6** é a **resiliência/coping** (2-AG
+convertendo vulnerável em resiliente; FAAH C385A protetor; coping habenular). O
+**F7** é o **uso crônico de cannabis/ligante exógeno**, sobre a fisiologia do
+ligante exógeno e não do endógeno. Essa separação — especialmente entre F4/F7
+(ligante exógeno/risco) e F1/F3 (fisiologia endógena) — é o que impede tratar o
+SEC como um "alvo de cannabis".
+
+*Gobbi2019_adolescencia[EC] | Bluett2017_resiliencia[ML] | Marsicano2002_extincao[ML]*
+
+### 12.2 (FECHO) — A BI FURCAÇÃO DO FREIO
+
+A B13 entrega um mecanismo que é real e bem descrito em biologia celular/animal —
+um freio retrógrado on-demand que amortece estresse e medo, permite a extinção,
+sustenta a recompensa e se deprime no estresse crônico — e uma tradução clínica
+que ainda falha: o inibidor enzimático robusto em roedor não entregou em fase II,
+o CBD tem sinal heterogêneo, a cannabis da adolescência é risco e o bloqueio
+total de CB1 foi deletério. O sistema é bifásico por circuito e célula, o
+lipídio periférico não mede o cérebro, e não há deficiência endocanabinoide
+diagnosticável. Para a plataforma, a ciência manda dizer que o SEC modula
+ansiedade e depressão como freio regional; a engenharia farmacológica segura
+(modular circuito específico, não agonizar/bloquear globalmente) é o que não está
+pronto. Essa — e não a defesa da cannabis — é a conclusão mecanística da B13.
+
+*Marsicano2002_extincao[ML] | Kathuria2003_FAAH[ML]*
+
+---
+
+## BLOCO_14 — CAMADA RODADA [AT] 2026-09-09 (insumo externo auditado ref a ref; P-7)
+
+[[AT 2026-09-09]] Reconciliação do insumo (RODADA0 + GPM molde v2.0 **reescrito** — o antigo tinha 5 PMIDs vazando no corpo — + matriz ChatGPT B13). Universo: 38 âncoras (20 já vigentes) + 66 não citadas (25 já vigentes) + NAO-IDX. Decisão: **ENTRA 40** (18 âncoras novas + 22 selecionados), **BAIXO 19**, **EXC 4** (1 falso mapeamento explícito + 3 sem indexação). Camadas preservadas: núcleo humano ≠ experimental `[ML]` ≠ **camada exógena** (via 10, isolada por regra). Números de efeito do insumo = alegação não copiada.
+
+### 14.1 Humano endógeno: periféricos, exercício, genética, sexo
+
+eCB séricos e humor após exercício na depressão maior — interface exercício em humano (Meyer 2019)[EC].
+Exercício intenso aumenta eCB circulantes e BDNF concomitantemente em humanos — elo exercício×plasticidade (Heyman 2012)[EC].
+O polimorfismo FAAH rs324420 modula o recall de extinção em humanos saudáveis medido por fMRI (Spohrs 2022)[EC].
+Variação conjunta 5-HT1A/5-HT2A/CNR1 associa-se a tônus endocanabinoide alterado (Obermanns 2023)[EC].
+Biomarcadores do ECS foram identificados e validados experimentalmente na depressão maior — candidatos, não diagnóstico (Wang 2025)[EC].
+A revisão sistemática de endocanabinoides em indivíduos do sexo feminino com depressão fecha a janela sexo-específica (McWhirter 2024)[OB].
+
+*Meyer2019_exercicio[EC] | Heyman2012_BDNF[EC] | Spohrs2022_FAAH[EC] | Obermanns2023_CNR1[EC] | Wang2025_biomarcadores[EC] | McWhirter2024_sexo[OB]*
+
+### 14.2 Causalidade experimental do medo/estresse [ML — extrapolação por analogia]
+
+Receptores canabinoides em amígdala e pré-frontal atuam na aprendizagem de medo em ratos (Kuhnert 2013)[ML].
+A redução dos níveis de endocanabinoides intensifica ansiedade, estresse e medo em camundongos (Jenniches 2016)[ML].
+A modulação endocanabinoide controla a ansiedade de longo prazo pós-estresse predatório (Lim 2016)[ML].
+A fluoxetina facilita a extinção do medo via endocanabinoides amigdalares em camundongo (Gunduz-Cinar 2016)[ML].
+O estresse agudo suprime inibição sináptica e aumenta ansiedade via eCB na BLA (Di 2016)[ML].
+O colapso da sinalização eCB medeia o fortalecimento amigdalo-cortical induzido por estresse (Marcus 2020)[ML].
+O ensaio de hidrólise de anandamida na BLA reduz a expressão da memória de medo (Morena 2019)[ML].
+CB1 e FAAH no BNST modulam o comportamento ansioso conforme o contexto (Borges-Assis 2023)[ML].
+A facilitação endocanabinoide no hipocampo ventral modula a ansiedade (Campos 2010)[ML].
+Receptores CB2 medeiam efeito ansiolítico via monoacilglicerol (Ivy 2020)[ML].
+A atividade constitutiva de CB2 atenua o comportamento induzido por estresse (Ribeiro 2021)[ML].
+Moduladores de eCB melhoram ansiedade sem corrigir a expressão de medo no fenótipo de extinção fraca — dissociação crítica (Vimalanathan 2020)[ML].
+A perda de SCP-2 reduz ansiedade e potencializa a extinção — camada de transporte lipídico intracelular (Liedhegner 2026)[ML].
+CB1 hipocampal interage com privação de sono REM no comportamento (Azizi 2025)[ML].
+Sexo e modalidade de estressor modulam a dinâmica corticolímbica de eCB sob estresse agudo (Vecchiarelli 2022)[ML].
+Uma nova via FABP5–CB2 foi identificada no córtex — transporte intracelular como alvo (Uzuneser 2023)[ML].
+
+*Kuhnert2013_CB1[ML] | Jenniches2016_reducao[ML] | Lim2016_predador[ML] | GunduzCinar2016_fluoxetina[ML] | Di2016_inibicao[ML] | Marcus2020_colapso[ML] | Morena2019_FAAH[ML] | BorgesAssis2023_BNST[ML] | Campos2010_hipocampo[ML] | Ivy2020_CB2[ML] | Ribeiro2021_CB2basal[ML] | Vimalanathan2020_dissociacao[ML] | Liedhegner2026_SCP2[ML] | Azizi2025_REM[ML] | Vecchiarelli2022_sexo[ML] | Uzuneser2023_FABP5[ML]*
+
+### 14.3 Arquitetura e revisões estruturais (conceito, não evidência primária adicional)
+
+O sistema endocanabinoide e o cérebro — síntese fundacional (Mechoulam 2013)[OB].
+Revisão geral atualizada da arquitetura do ECS (Lu 2021)[OB].
+As interações neurobiológicas estresse×ECS em síntese estrutural central (Morena 2016)[OB].
+A evidência translacional do ECS em estresse e humor (Hill 2013)[OB], os efeitos neurocomportamentais do estresse (Hill 2010)[OB] e o feedback negativo glicocorticoide mediado por eCB (Hill 2012)[OB] formam a tríade da ponte B2.
+ECS, estresse e eixo HPA em revisão dedicada (Micale 2018)[OB].
+Os estudos HUMANOS de ECS em transtornos do humor revistos em separado da camada animal (Garani 2021)[OB].
+As interações endocanabinoide–noradrenérgicas na extinção (Warren 2022)[OB].
+O ECS como sistema vigilante da homeostase e da qualidade de vida (de Melo Reis 2021)[OB].
+eCB na aquisição do medo contextual — consolidação em revisão pré-clínica (Balogh 2019)[OB].
+eCB em hipocampo e amígdala na memória emocional e plasticidade (Segev 2018)[OB].
+Depressão e antidepressivos sobre o sistema endocanabinoide — elo fármaco×eCB como sinal (Dragon 2024)[OB].
+Endocanabinoides, depressão e resistência ao tratamento (Rosa 2025)[OB].
+Visão geral atual de depressão maior×ECS (Zarazúa-Guzmán 2024)[OB].
+
+*Mechoulam2013_fundacao[OB] | Lu2021_review[OB] | Morena2016_interacoes[OB] | Hill2013_translacional[OB] | Hill2010_neurocomp[OB] | Hill2012_feedback[OB] | Micale2018_HPA[OB] | Garani2021_humanos[OB] | Warren2022_NA[OB] | deMeloReis2021_homeostase[OB] | Balogh2019_contextual[OB] | Segev2018_hipocampo[OB] | Dragon2024_farmaco[OB] | Rosa2025_resistencia[OB] | ZarazuaGuzman2024_overview[OB]*
+
+### 14.4 Interfaces declaradas (B12 desenvolvimento; B1 PUFA)
+
+Estresse precoce e desenvolvimento do ECS em regulação bidirecional sexo- e região-dependente — ponte trauma (Goldstein Ferber 2021)[OB].
+PUFAs dietéticos e exercício com ações dinâmicas sobre endocanabinoides — interface sem invasão do molecular de B1 (Park 2022)[OB].
+
+*GoldsteinFerber2021_desenvolvimento[OB] | Park2022_interface[OB]*
+
+### 14.5 Camada exógena (via 10 — isolada por regra 1)
+
+A modulação canabinoide (THC) da ativação corticolímbica durante a extinção em adultos saudáveis entra APENAS como camada translacional exógena: não sustenta nenhum claim do núcleo endógeno (Zabik 2023)[EC].
+
+*Zabik2023_exogena[EC]*
+
+## BLOCO_15 — DEZ REGRAS FUNDADORAS FIXADAS (B13-REGRA-01..10) E EXPOSIÇÕES DA RODADA
+
+[[AT 2026-09-09]] Regras do GPM oficial (M00), promovidas a canônicas:
+
+- **B13-REGRA-01 (endógeno ≠ exógeno):** THC/CBD/cannabis/entourage ficam na camada translacional separada (via 10); nenhum claim do núcleo deriva de exógenos.
+- **B13-REGRA-02 (desregulação SELETIVA, não queda global):** a meta mais recente mostra AEA/PEA ↑ na TDM com 2-AG/OEA sem alteração consistente — o slogan "deficiência de eCB = doença" está proibido.
+- **B13-REGRA-03 (periférico ≠ diagnóstico):** eCB periféricos são biomarcadores mecanísticos/estratificadores potenciais; heterogeneidade (sexo, estado, medicação, método, matriz) impede uso diagnóstico.
+- **B13-REGRA-04 (TEPT = interface, não centro):** não infla a evidência de TDM/TAG.
+- **B13-REGRA-05 (animal ≠ clínica):** "anxiety-like/depression-like" em modelo não é clínica; toda causalidade animal leva `[ML]` + extrapolação.
+- **B13-REGRA-06 (reviews = arquitetura):** revisões estruturais contam como conceito, não como evidência primária adicional.
+- **B13-REGRA-07 (causalidade é experimental e regional):** amígdala/mPFC/hipocampo/BNST/septo-habênula — não valida intervenção clínica.
+- **B13-REGRA-08 (exercício/PUFA = interface):** Meyer é CORE humano; os demais, interface documentada.
+- **B13-REGRA-09 (sandbox):** preprint sem versão confirmada e abstract de congresso NÃO entram (Spohrs-preprint só entrou quando a versão publicada foi localizada).
+- **B13-REGRA-10 (multi-tag permitida):** CORE humano + SUPPORT experimental convivem com identidades separadas.
+
+**Exposições desta rodada:** (a) seis chaves do insumo divergiam do artigo real ao PMID — "Cota 2008"=de Melo Reis 2021, "Bedse 2017"=Borges-Assis 2023, "Mazurka 2024"=McWhirter 2024, "Gray 2015"=Gunduz-Cinar 2016, "Gamelin 2012"=Heyman 2012, "Zabik 2024"=Zarazúa-Guzmán 2024 — todas normalizadas com alias; (b) **falso mapeamento "Spohrs 2021"** (o PMID apontado é um VÍDEO NEUROCIRÚRGICO de fístula carótido-cavernosa) → EXC, exposto; o Spohrs real entrou pela versão publicada de 2022; (c) **"Segev 2018"** do dossiê resolvia Șerban 2025 (genérico, BAIXO) — o Segev real (hipocampo/amígdala, Neuropsychopharmacology) foi localizado por busca; (d) o **[G1] "McWhirter (sexo feminino)"** era exatamente a âncora rotulada "Mazurka" — RESOLVIDO; (e) o **[G1] "Zabik-RCT"** é o estudo THC×extinção em humanos — RESOLVIDO na camada exógena (via 10); (f) **Ibarra-Lecue** já estava vigente na V1 (REF_IBARRALECUE_2018) — removido da lista de pendências; (g) "Hill 2009" (segundo registro do dossiê) é Hill 2010 distinto do REF_HILL_2009 vigente — entrou com identidade corrigida.
+
+**[G1] mantidos:** Bloemhof-Bris (ECT×eCB) não localizada; McLaughlin ×3 (pPFC/coping) não indexadas; "Gunduz-Cinar 2012" não resolvida; a Mazurka REAL (eCB×trauma infantil×hipocampo); GWAS eCB×psiquiatria; circuitos ECS humanos in vivo; réplica da desregulação seletiva em coortes independentes; NAO-IDX declarados (Liu-chinês, Saito-SciELO, Wang-congresso).
+
+## TABELA DE EVIDÊNCIAS
+
+| Tipo | Resultado | forca_evidencia |
+|---|---|---|
+| Mecanismo retrógrado (DSI/DSE/LTD, CB1) | Devane/Stella/Matsuda/Marsicano | alto (biologia celular) |
+| Extinção CB1-knockout falha | Marsicano | alto em modelo [ML] |
+| FAAH elevando AEA → ansiólise (roedor) | Kathuria/Gunduz-Cinar | alto em modelo |
+| FAAH inibidores em fase II humana | ansiedade social/TDM/TEPT nulos/mistos | baixo-médio (negativo) |
+| AEA periférica na TDM | modestamente aumentada (meta 2026) | médio (marcador) |
+| Cannabis adolescência→ansiedade | risco OR~2,14 (Gobbi); adultos nulo | alto (risco juvenil) |
+| Bifasicidade CB1 | cingulado-estriatal ansiogênico | médio-alto (emergente) |
+| CB1 PET no TEPT | Neumeister não replicou (Korem) | baixo (sem assinatura) |
+| Microbiota→SEC causal | FMT transfere fenótipo | alto em modelo [ML] |
+| [AT] Causalidade experimental medo/estresse | CB1 amigdala/mPFC; colapso eCB→fortalecimento amigdalo-cortical; dissociação ansiedade×expressão de medo | alto em modelo [ML] |
+| [AT] Humano endógeno | FAAH rs324420×recall extinção; exercício↑eCB/BDNF; sexo feminino revisado | médio (associativo/marcador) |
+| [AT] Revisões estruturais | Mechoulam/Lu/Morena/Hill×3 — arquitetura ECS×estresse | alto conceitual (regra 6) |
+| [AT] Interfaces | Desenvolvimento/ELS (Goldstein Ferber); PUFA/exercício (Park) | médio (interface) |
+| [AT] Camada exógena (via 10) | THC×extinção humano — isolada por regra 1 | emergente (isolada) |
+
+## CONTROVÉRSIAS E LACUNAS
+Bifasicidade CB1 (pergunta por circuito, não "ansiolítico ou não"); FAAH pré-clínico vs. fase
+II; PET do TEPT sem assinatura; direção do lipídio periférico; cannabis risco vs. nulo vs.
+terapia; CBD heterogêneo; rimonabanto e o fracasso do bloqueio total; itens `[G1]` do briefing
+(Zimmer/Ledent CB1-KO originais, Chhatwal/Ressler, Bergamaschi CBD, Bambico, ABHD6 canônico,
+GPR55, CNR2 genética, PAMs do CB1) a cravar na auditoria científica G3; todos os tamanhos de
+efeito são alegação a confirmar no G3. 167 PMIDs do briefing validados; zero PMID no texto.
+
+## ELEMENTOS MOLECULARES CRÍTICOS (UniProt/HGNC)
+CNR1/CB1 (P21554), CNR2/CB2 (P34972), FAAH (O00768), MAGL (Q96MJ6), NAPEPLD, DAGLA/DAGLB,
+ABHD6/ABHD12, FABP5 (Q01469), TRPV1 (Q8NER1), GPR55 (Q9Y2T6), PPARA/PPARG.
+
+## MARCADORES RESUMIDOS (para RAG/ontologia)
+key_pathways (sinalização retrógrada AEA/2-AG-CB1 DSI/DSE-LTD; síntese NAPE-PLD/DAGL; degradação
+FAAH/MAGL/ABHD6; extinção amígdala-vmPFC; freio HPA; depressão do SEC por estresse/NAcc;
+bifasicidade regional/celular; 2-AG/resiliência; CB2/microglia; microbiota-endocanabinoidoma;
+janela desenvolvimental/cannabis risco; sinal farmacológico FAAH/CBD nulo em clínica),
+biomarkers (lipídios periféricos AEA/2-AG/PEA/OEA, FAAH C385A, CNR1 rs1049353, PET CB1/FAAH —
+todos de pesquisa, NENHUM exame diagnóstico; periférico≠cérebro), interventions_descritas
+(canabinoides/inibidores FAAH/MAGL/CBD/PEA-PAMs referidos como SINAL EXPERIMENTAL — fase II
+nula/mista; NÃO prescritos, P20), connection_strength (B5_HIGH, B2_HIGH, B12_HIGH, B4_MEDIUM-HIGH,
+B3_MEDIUM-HIGH, B1_MEDIUM, B7_MEDIUM-emergente, B10_MEDIUM, B14_MEDIUM, B16_MEDIUM,
+B15_LOW-MEDIUM, B9_LOW-MEDIUM, B6_LOW-MEDIUM, B8_LOW, B11_LOW). forca_evidencia_afirmacao:
+alto (biologia celular/animal e risco desenvolvimental), médio (marcadores/genética/imagem),
+baixo-médio (terapia canabinoide clínica, sem assinatura PET).
+
+---
+
+## METADADOS CANÔNICOS (Contrato de Geração — P12 / R06 / P17)
+
+**natureza_sistema (P12 — hard_fail):**
+```json
+{ "natureza_sistema": { "tipo": "suporte_decisao_clinica", "nao_substitui_julgamento_profissional": true, "nao_realiza_diagnostico": true, "decisao_final_profissional": true } }
+```
+> Biblioteca de **mecanismo** (P20): descreve o sistema endocanabinoide endógeno; SEC ≠
+> cannabis; THC/CBD/inibidores são sinal experimental/risco, nunca prescrição.
+
+**semantic_layer (R06):**
+- **clinical_summary (3 frases):** O sistema endocanabinoide é um freio lipídico retrógrado endógeno (AEA/2-AG sobre CB1/CB2) que amortece estresse/medo e facilita extinção, regional e bifásico (ansiolítico em GABA da amígdala, ansiogênico no cingulado-estriatal). | O estresse crônico deprime esse freio (análogo à depressão por NAcc), e inibidores de FAAH que elevam AEA em roedor falharam em fase II humana; cannabis na adolescência é fator de risco. | Use para interpretar a fisiologia endógena — cannabis/CBD são ligantes exógenos de sinal/risco, não o mecanismo nem prescrição.
+- **rag_context_hint:** Recuperar quando: houver menção a endocanabinoide, anandamida/AEA, 2-AG, CB1/CNR1, CB2/CNR2, FAAH/MAGL/DAGL/NAPE-PLD, DSI/DSE/LTD, extinção do medo retrógrada, rimonabanto, canabidiol/CBD, THC/cannabis, ansiolise bifásica, anandamida periférica ou endocanabinoidoma.
+- **clinical_domains:** decisao_terapeutica · seguranca_clinica · triagem_clinica · monitoramento
+- **semantic_keywords:** endocanabinoide, anandamida, 2-AG, CB1, CB2, FAAH, MAGL, extinção, DSI, ansiolise bifásica, cannabis risco, resiliência
+- **related_entities:** mecanismo_B5_gaba_glutamato, mecanismo_B2_eixo_hpa_cortisol, mecanismo_B12_neurobiologia_trauma, mecanismo_B4_deficiencias_monoaminas, mecanismo_B3_neuroplasticidade, mecanismo_B1_neuroinflamacao, mecanismo_B7_eixo_intestino_cerebro, mecanismo_B14_neuroesteroides_hormonios, mecanismo_B16_neurogenese
+- **embedding_priority:** alta
+
+**corte_literatura (R06):** busca ativa E-utilities/PubMed (Briefing B13) — corte 2026-09-09 (rodada [AT]).
+
+**R04:** a sinalização endógena/animal é `[APENAS PRÉ-CLÍNICO]`/`[EXTRAPOLAÇÃO POR ANALOGIA:
+roedor/célula — validação humana associativa]`; ligantes exógenos são sinal/risco, não conduta.
+
+**P17:** ID `mecanismo_B13_sistema_endocanabinoide`. **P16:** neurogênese é escopo de
+`mecanismo_B16_neurogenese` (subordinado a B3).
+
+---
+
+> **Canônica v2 (Rodada 4 — [AT] 2026-09-09).** Reconciliação de insumo externo auditado
+> ref a ref (P-7): ENTRA 40 / BAIXO 19 / EXC 4. Camadas núcleo/experimental/exógena
+> preservadas (regra 1); dez regras fundadoras fixadas no BLOCO 15; seis exposições de
+> divergência de chave + um falso mapeamento explícito + um falso par Segev/Șerban.
+> [G1] resolvidos: McWhirter, Zabik-RCT, Spohrs-versão-publicada; Ibarra-Lecue já vigente.
+> Sem PMID no texto; farmacologia exógena = sinal isolado (P20). 2ª verificação
+> independente (P-6, avaliador cego) permanece pendência — cobrindo levas [AT] B1–B16.
+
+### Nota final de abrangência
+Em síntese, a B13 documenta a fisiologia endógena do sistema endocanabinoide (síntese
+on-demand, sinalização retrógrada AEA/2-AG sobre CB1/CB2, extinção, freio do HPA,
+recompensa/resiliência, bifasicidade regional e janela desenvolvimental), distingue-a com
+rigor da farmacologia exógena (cannabis como risco na adolescência; inibidores de FAAH
+como prova de alvo que falhou em fase II; bloqueio total deletério) e posiciona qualquer
+intervenção canabinoide como sinal experimental do módulo clínico — ciência primeiro,
+farmacologia e prescrição depois do que os ensaios humanos ainda não confirmaram.
+O freio endógeno é mecanismo robusto em biologia celular e roedor; a farmacologia exógena e os inibidores permanecem no domínio do sinal experimental, com a tradução clínica humana ainda por comprovar em ensaios grandes e padronizados.
+
+---
+
+## APÊNDICE DE REFERÊNCIAS (MÓDULO 09)
+
+* DEVANE_1992[EC] | STELLA_1997[EC] | LUTZ_2015[OB] | LOOMBA_2025[OB] | DEROONCASSINI_2020[OB] | HILLARD_2016[OB] | HILLARD_2018[OB] | PETRIE_2021[OB] | BEDSE_2020[OB] | HILL_2018[OB] | HILL_2023[OB] | SILVEIRA_2017[OB] | RUBINO_2015[OB] | PAROLARO_2010[OB] | DA_2026[OB] | MARSICANO_2002[ML] | KATHURIA_2003[ML] | BORTOLATO_2007[ML] | BORTOLATO_2006[ML] | GUNDUZCINAR_2013[OB] | PATEL_2008[ML] | SORIAGOMEZ_2015[ML] | BERGER_2018[ML] | GUNDUZCINAR_2023[ML] | ADHIKARI_2023[ML] | TEVOSIAN_2023[ML] | SKUPIO_2023[ML] | VICKSTROM_2021[ML] | HUCKLEBERRY_2023[ML] | KONDEV_2023[ML] *
+* KONDEV_2023b[ML] | MOLLA_2024[ML] | LUJAN_2023[ML] | HAN_2023[ML] | CUI_2025[ML] | ENGBORG_2025[ML] | KELLY_2026[ML] | ZHU_2025[ML] | XUE_2025[ML] | WINTERS_2023[ML] | SRIVASTAVA_2022[ML] | SCHEYER_2023[OB] | RODRIGUES_2024[ML] | AYERRA_2025[ML] | HILL_2008[EC] | FITZGERALD_2021[EC] | SPOHRS_2021[EC] | CROMBIE_2022[EC] | NEY_2021[EC] | ZABIK_2022[EC] | ALBERTINA_2025[EC] | ALBERTINA_2026[EC] | MARUSAK_2026[EC] | BERGUNDE_2025[EC] | BERGUNDE_2026[EC] | JARVIS_2026[OB] | MAYO_2022[OB] | YASEEN_2026[OB] | SPOHRS_2023[EC] | MITJANS_2013[EC] *
+* MITJANS_2012[EC] | PALMER_2019[EC] | ROMOZZI_2025[OB] | SISK_2022[EC] | DEMAILI_2024[ML] | JENKINS_2025[OB] | RUBINO_2016[OB] | CAMPANALE_2025[OB] | ALIUS_2025[OB] | BARBETTI_2024[ML] | SILVESTRI_2026[OB] | ZHANG_2026[OB] | CARNEVALI_2025[ML] | PETRIE_2023[ML] | WILSON_2026[OB] | GOBBI_2019[EC] | BERGAMASCHI_2011[EC] | DIFEDE_2022[EC] | SIMEI_2024[OB] | GOODWIN_2026[OB] | GOBBI_2005[ML] | MAYO_2025[EC] | HU_2026[EC] | SCHMIDT_2026[EC] | TANSEY_2026[EC] | CUI_2026[OB] | RABINAK_2026[EC] | DE_2019[ML] | MATSUDA_1990[EC] | HILL_2009[OB] *
+* PATEL_2009[OB] | PATEL_2017[OB] | YIN_2019[OB] | HASBI_2023[OB] | RUSSO_2004[EC] | SMITH_2014[OB] | RUSSO_2016[OB] | HILL_2005[ML] | HILL_2009b[ML] | HILL_2006[ML] | HILL_2008b[ML] | WANG_2010[ML] | BEDSE_2017[ML] | BLUETT_2017[ML] | DINCHEVA_2015[ML] | BOILEAU_2015[EC] | CONZELMANN_2012[EC] | SPAGNOLO_2016[EC] | NEUMEISTER_2013[EC] | KOREM_2025[EC] | GRIEBEL_2018[ML] | WANG_2017[ML] | KIRKEDAL_2017[ML] | COUTTAS_2026[OB] | KERBRAT_2016[EC] | MALLET_2016[EC] | VAN_2017[EC] | BONIFACIO_2020[OB] | ZHONG_2014[ML] | SKELLEY_2020[OB] *
+* GUNDUGURTI_2024[EC] | NAYAK_2024[EC] | GHAZIZADEHHASHEMI_2018[EC] | WITKIN_2005[OB] | VALVERDE_2012[ML] | NEY_2018[OB] | RUBINO_2011[OB] | RAJASEKERA_2025[EC] | CHEVALIER_2020[ML] | MINICHINO_2021[EC] | GIACOBBE_2021[ML] | KWEE_2023[OB] | JANTSCH_2026[OB] | CHADWICK_2020[OB] | MUSIC_2026[OB] | HALLER_2023[OB] | MALDONADO_2020[OB] | RUEHLE_2012[OB] | VIVEROS_2005[OB] | MICALE_2013[OB] | SAITO_2010[OB] | MARUSAK_2025[EC] | NAVARRETE_2020[OB] | IBARRALECUE_2018[OB] | ALCARAZSILVA_2023[EC] | GALLEGOLANDIN_2021[OB] | FUENTES_2024[EC] | KRUKSLOMKA_2025[OB] | ZHAO_2024[OB] | BRIGHT_2022[OB] *
+* RANA_2021[OB] | MCLAUGHLIN_2012[OB] | GOYSZNY_2025[OB] | MELAS_2021[OB] | PONTES_2025[OB] | GAO_2025[OB] | GAETANI_2009[OB] | GOWATCH_2024[OB] | COCCARO_2018[EC] | MAZURKA_2024[ML] | SCHMIDT_2021[EC] | COELHO_2024[EC] | CHURCHILL_2025[OB] | XUE_2021[OB] | BURKE_2024[OB] | LOWE_2024[OB] | SORKHOU_2024[EC] *

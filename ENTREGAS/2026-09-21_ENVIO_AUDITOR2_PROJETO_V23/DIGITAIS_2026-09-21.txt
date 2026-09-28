@@ -1,0 +1,18 @@
+DIGITAIS — PARA SUBIR NO PROJETO DO AUDITOR-2/ESTRUTURA · 2026-09-21 (substitui o pacote de 20/09, SUPERSEDED antes de circular)
+Regime NOVO, por decisão do operador nesta data: vigente = V2.3 + schemas com selo formal. Sobem SEM rótulos de opinião (regra nova).
+
+1) ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.3 - 19.09.26.md
+   sha256: 498e7df9d8abe8be4f3145bb7a9bd34215bc87a4502148e9d203391c9ce6ef73 · 52.740 b
+   → substitui a 'Arquitetura de 15/09' no Projeto dele.
+   ECO PEDIDO (2 passos): (a) sha do arquivo ANTIGO antes de trocar — a casa crava o elo (no mestre era um elo fantasma inédito); (b) shas dos 5 itens DEPOIS de subir.
+2) schema_referencia_v1.3.json
+   sha256: b06660fd985a8186dbe5ed2878f15d3badd2356e11f4d0c9b71e78d2b2e4e7da · 9.582 b
+3) schema_vinculo_v1.4.json
+   sha256: d96ad15b620fa373d8d95d44159a9f3db31c04cfed051d85c7ab014cb3c65050 · 12.840 b
+4) L05_SCHEMA_EVIDENCIA_E_VINCULO_v1.4__ESPECIFICACAO.md
+   sha256: 78a0f2afcd2acf0f78caa8bbc674c337e7c5b47c93ee86d684f1648b6671dc8b · 42.809 b
+5) MANIFESTO_LINHAGEM_2026-09-21.txt
+   sha256: 3b3324268360ae1feee66f5515c373fdf6e2d3e3cdbbf6e879522480aeff5c03 · 4184 b
+
+Nota honesta (governança, não rótulo no documento): dentro dos 2 JSONs, o campo description ainda diz 'PROPOSTA — nao normativo' — resíduo pré-selo; sai no ciclo editorial v1.5 pelo rito formal. O SELO é o do operador em 2026-09-21.
+Histórico/linhagem completa (v1.1…v1.3, especificações antigas): com o operador no zip ENTREGAS/2026-09-19_L05_LINHAGEM_COMPLETA/ — arqueologia, não sobe.

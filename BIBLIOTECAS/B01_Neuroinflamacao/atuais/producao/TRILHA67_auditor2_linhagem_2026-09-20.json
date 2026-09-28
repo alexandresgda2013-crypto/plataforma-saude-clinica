@@ -1,0 +1,62 @@
+{
+  "trilha": 67,
+  "data": "2026-09-20",
+  "rodada": 52,
+  "titulo": "Réplica resposta auditor-2 ao pacote de linhagem + pacote espelho p/ o Projeto dele",
+  "veredito": "TUDO VERIFICADO: manifesto 12/12 × arquivos · tabela de genealogia exata nos artefatos (2 lados, mesmos bytes) · ecos correntes ≡ casa · premissa do pacote corrigida por ele com honestidade e A Solução certa (espelho no Projeto — com ajuste de regime: sobe VIGENTE V2.2, V2.3 só apos frase) · adoção da regra da casa como regra de PRODUÇÃO (causa-raiz aposentada) · descoberta: 2ª base de projeto superseded (15/09) — mesmo defeito do mestre, mesma receita.",
+  "checks": [
+    {
+      "check": "C01 ciencia trio intacto (inicio)",
+      "ok": true,
+      "detalhe": {
+        "V7": "6e2c29797e63",
+        "manifesto": "79d1309a1689",
+        "vinculos": "490675e63122"
+      }
+    },
+    {
+      "check": "C02 manifesto: 12 digitais declaradas × 12 arquivos do pacote — reexecucao confere (ecos dele VERIFICADOS)",
+      "ok": true,
+      "detalhe": "declarados=12 falhos=[] manifesto_sha=789792be2199 (regua: 2 padroes de linha do manifesto; C67-1 confessada no json)"
+    },
+    {
+      "check": "C03 tabela do auditor-2 CONFERE NOS ARTEFATOS: direcao+condicao nascem na v1.1 · v1.2 so renomeia (presencas exatas; contagens: v1.1 2/2 · v1.2 2/2 · v1.3 3/3 · v1.4 3/3)",
+      "ok": true,
+      "detalhe": "medido={'schema_vinculo_v1.1.json': {'direcao': 2, 'direcao_suporte': 0, 'condicao': 2}, 'schema_vinculo_v1.2.json': {'direcao': 0, 'direcao_suporte': 2, 'condicao': 2}, 'schema_vinculo_v1.3.json': {'direcao': 0, 'direcao_suporte': 3, 'condicao': 3}, 'schema_vinculo_v1.4.json': {'direcao': 0, 'direcao_suporte': 3, 'condicao': 3}} — correcao (b) agora verificada dos DOIS lados sobre os mesmos bytes"
+    },
+    {
+      "check": "C04 eco dos correntes: v1.3 == b06660fd... · v1.4 == d96ad15b... (pacote linhagem ≡ distribuição)",
+      "ok": true,
+      "detalhe": "v13=b06660fd985a v14=d96ad15b620f"
+    },
+    {
+      "check": "C05 verbatim auditor-2 arquivado: sha 2c94efab... · marcadores (12 digitais · 'nao guarda nada entre sessões' · 'arquitetura... de 15/09' · 'regra de producao' · selo pendente)",
+      "ok": true,
+      "detalhe": "sha=2c94efabb4d4"
+    },
+    {
+      "check": "C06 pacote ENTREGAS/2026-09-20_ENVIO_AUDITOR2_PROJETO: 5/5 ≡ fontes oficiais (V2.2 vigente — disciplina: candidata V2.3 só sobe após a frase) · DIGITAIS c/ shas individuais + ajuste de regime escrito · zip re-extraído ≡",
+      "ok": true,
+      "detalhe": "zip=2953e6428a3a93a9f8af2bb9fcf41efbaefa617b00759e0e4750212ea5215b40"
+    },
+    {
+      "check": "C07 registrado (ação): o Projeto do auditor-2 tem 'a Filosofia, as Decisões Arquiteturais e a Arquitetura Consolidada de 15/09' — MESMA classe da D-V22-BYTES-PROJETO, agora no 2º projeto · pedido: eco do sha do arquivo antigo ANTES da troca (casa crava o elo — 4º fantasma já arquivado p/ confronto)",
+      "ok": true,
+      "detalhe": "receita espelho do mestre: V2.2 oficial sobe já; eco antigo+novo fecha a 2ª base superseded"
+    },
+    {
+      "check": "C08 ciencia trio intacto (fim)",
+      "ok": true,
+      "detalhe": {
+        "V7": "6e2c29797e63",
+        "manifesto": "79d1309a1689",
+        "vinculos": "490675e63122"
+      }
+    }
+  ],
+  "ok": 8,
+  "total": 8,
+  "confissoes": [
+    "C67-1: 1a corrida FALHOU C02 (7/8): regex ingenuo 'sha + resto-da-linha' parseou a tabela mista do manifesto ao contrario (sha primeiro, resto como nome). O manifesto tem 2 formatos (tabela de schemas + bloco de mds) — regua corrigida com 2 padroes; 12/12 confirmam. Licao C55-1 outra vez: formato declarado antes de contar."
+  ]
+}

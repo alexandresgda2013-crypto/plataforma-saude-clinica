@@ -1,0 +1,294 @@
+{
+  "trilha": 88,
+  "data": "2026-09-23",
+  "objeto": "replica_carta_interface_comentador_claim_N1N2",
+  "carta_sha256": "6c8042da5430d6ccf5f6c9f7ddf3a3ccdf47c07dca26e514ebb7de441133680c",
+  "anexo_sha256": "c58617a976362428b0dc91d7c7a77551578e3a590e44bda6fa5bb23954a58886",
+  "corpus": {
+    "n1": "/home/user/BIBLIOTECAS/_documentos_serie/AUDITOR2_L05_N1v13_N2v14_COMENTADOR_recebido_2026-09-18/schema_referencia_v1.3_N1_b06660fd.json",
+    "n2": "/home/user/BIBLIOTECAS/_documentos_serie/AUDITOR2_L05_N1v13_N2v14_COMENTADOR_recebido_2026-09-18/schema_vinculo_v1.4_N2_d96ad15b.json",
+    "vinculos": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json",
+    "bibliografia": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Evidencias/Bibliografia",
+    "bloco": "/home/user/BIBLIOTECAS/_documentos_serie/KIT_CLINICA_recebido_2026-09-15/6º BLOCO DE ESTADO  v1.6.md",
+    "lista": "/home/user/BIBLIOTECAS/_documentos_serie/KIT_CLINICA_recebido_2026-09-15/5º LISTA CANÔNICA — B1  SM-02 V1.3.md",
+    "schema_claim": "/home/user/BIBLIOTECAS/_documentos_serie/KIT_CLINICA_recebido_2026-09-15/3º SCHEMA-CLAIM — v1.2.md"
+  },
+  "total": 16,
+  "ok": 16,
+  "resultado": [
+    {
+      "id": "T1",
+      "descricao": "carta arquivada existe com digest mensurável",
+      "ok": true,
+      "detalhe": {
+        "sha256": "6c8042da5430d6ccf5f6c9f7ddf3a3ccdf47c07dca26e514ebb7de441133680c",
+        "bytes": 14402,
+        "caminho": "/home/user/BIBLIOTECAS/_documentos_serie/COMENTADOR_carta_interface_claim_N1N2_2026-09-23/CARTA_COMENTADOR_interface_claim_N1N2_2026-09-23.md"
+      }
+    },
+    {
+      "id": "T2",
+      "descricao": "anexo upload ≡ série (byte a byte)",
+      "ok": true,
+      "detalhe": {
+        "sha_upload": "c58617a976362428b0dc91d7c7a77551578e3a590e44bda6fa5bb23954a58886",
+        "sha_serie": "c58617a976362428b0dc91d7c7a77551578e3a590e44bda6fa5bb23954a58886",
+        "esperado": "c58617a976362428b0dc91d7c7a77551578e3a590e44bda6fa5bb23954a58886",
+        "bytes": 27518
+      }
+    },
+    {
+      "id": "T3",
+      "descricao": "VINC_B1_0001..0006 do anexo existem na V7",
+      "ok": true,
+      "detalhe": {
+        "presentes": 6,
+        "ausentes": [],
+        "total_v7": 274
+      }
+    },
+    {
+      "id": "T4",
+      "descricao": "trecho_ancora VINC_B1_0001 do anexo ≡ arquivo real",
+      "ok": true,
+      "detalhe": {
+        "len_anexo": 458,
+        "len_real": 458
+      }
+    },
+    {
+      "id": "T5",
+      "descricao": "PMIDs do anexo medidos contra Bibliografia V7",
+      "ok": true,
+      "detalhe": {
+        "citados": [
+          "10827143",
+          "11927189",
+          "28122130",
+          "31005627",
+          "22945416",
+          "38233395",
+          "31427751",
+          "36893912",
+          "39089535",
+          "31258105",
+          "22832816"
+        ],
+        "em_biblio": [
+          "10827143",
+          "11927189",
+          "28122130",
+          "31005627",
+          "22945416",
+          "38233395",
+          "31427751",
+          "39089535",
+          "31258105"
+        ],
+        "fora_biblio": [
+          "36893912",
+          "22832816"
+        ],
+        "nota": "36893912 aparece na carta como exemplo conceitual de PMID; 22832816 é fonte de claim SM02.001b"
+      }
+    },
+    {
+      "id": "T6",
+      "descricao": "claims de exemplo do anexo existem no Bloco kit 15/09",
+      "ok": true,
+      "detalhe": {
+        "ausentes": [],
+        "arquivo": "/home/user/BIBLIOTECAS/_documentos_serie/KIT_CLINICA_recebido_2026-09-15/6º BLOCO DE ESTADO  v1.6.md"
+      }
+    },
+    {
+      "id": "T7",
+      "descricao": "N1 claim_id_origem é string escalar (não lista)",
+      "ok": true,
+      "detalhe": {
+        "schema_type": "string",
+        "tipos_acervo": [
+          "str"
+        ],
+        "preenchidos": 54,
+        "total_n1": 237,
+        "exemplos_valores": [
+          "B1.MEC.BLOCO02.001",
+          "B1.MEC.BLOCO02.003",
+          "B1.MEC.BLOCO02.010",
+          "B1.MEC.BLOCO03.017",
+          "B1.MEC.BLOCO05.002"
+        ]
+      }
+    },
+    {
+      "id": "T8",
+      "descricao": "CLAIM_KIT_CLINICO ausente do enum origem_pipeline N1 v1.3",
+      "ok": true,
+      "detalhe": {
+        "enum": [
+          "BUSCA_FERRAMENTA",
+          "GPM_BRIEFING",
+          "INSUMO_EXTERNO_AUDITADO",
+          "REANCORAGEM",
+          "AUDITORIA_EXTERNA"
+        ],
+        "legados_no_acervo_fora_do_enum": [
+          "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+          "AT_AUDITORIA_EXTERNA_2026-09-13 (C3/AUD-051)"
+        ]
+      }
+    },
+    {
+      "id": "T9",
+      "descricao": "Bibliografia V7 sem duplicidade de pmid_oficial",
+      "ok": true,
+      "detalhe": {
+        "total_fichas": 237,
+        "pmids_distintos": 237,
+        "duplicados": [],
+        "por_arquivo": {
+          "01_pmids.json": 201,
+          "02_meta_analises.json": 33,
+          "03_ensaios_clinicos.json": 3
+        }
+      }
+    },
+    {
+      "id": "T10",
+      "descricao": "N2 v1.4 required inclui trecho_ancora, ancora_principal, ancoras",
+      "ok": true,
+      "detalhe": {
+        "required": [
+          "id_vinculo",
+          "id_referencia_interna",
+          "trecho_ancora",
+          "status_auditoria",
+          "verification_status",
+          "trilha",
+          "uso",
+          "ancoras",
+          "ancora_principal"
+        ]
+      }
+    },
+    {
+      "id": "T11",
+      "descricao": "ancoras[] item required = id_oficial, papel, direcao_suporte; condicao existe",
+      "ok": true,
+      "detalhe": {
+        "required_item": [
+          "id_oficial",
+          "papel",
+          "direcao_suporte"
+        ],
+        "props_item": [
+          "condicao",
+          "direcao_suporte",
+          "escopo",
+          "id_oficial",
+          "nota",
+          "papel"
+        ]
+      }
+    },
+    {
+      "id": "T12",
+      "descricao": "Kit 15/09 sem chaves-âncora do N2 (0× em Bloco/Lista/Schema-Claim)",
+      "ok": true,
+      "detalhe": {
+        "trecho_ancora": {
+          "bloco": 0,
+          "lista": 0,
+          "schema_claim": 0
+        },
+        "ancora_principal": {
+          "bloco": 0,
+          "lista": 0,
+          "schema_claim": 0
+        },
+        "ancoras": {
+          "bloco": 0,
+          "lista": 0,
+          "schema_claim": 0
+        },
+        "condicao": {
+          "bloco": 0,
+          "lista": 0,
+          "schema_claim": 0
+        }
+      }
+    },
+    {
+      "id": "T13",
+      "descricao": "Bloco: contagem de status aprovado / aprovado_com_ressalva",
+      "ok": true,
+      "detalhe": {
+        "aprovado": 8,
+        "aprovado_com_ressalva": 14,
+        "confissao": "C88-1: régua inicial sem indentação → 0/0; corrigida antes de publicar",
+        "nota": "kit 15/09; se mudar, é corpus novo (pergunta de bytes ≥17/09 permanece)"
+      }
+    },
+    {
+      "id": "T14",
+      "descricao": "Bloco e Schema-Claim carregam nota_ressalva e usado_em_biblioteca",
+      "ok": true,
+      "detalhe": {
+        "nota_ressalva_bloco": 15,
+        "usado_em_biblioteca_bloco": 23,
+        "nota_ressalva_schema": 1,
+        "usado_em_biblioteca_schema": 1,
+        "status_auditoria_bloco": 0,
+        "direcao_suporte_bloco": 0
+      }
+    },
+    {
+      "id": "T15",
+      "descricao": "PMIDs distintos do Bloco medidos contra Bibliografia (reconciliação técnica)",
+      "ok": true,
+      "detalhe": {
+        "bloco_pmids_distintos": 21,
+        "em_biblio": 7,
+        "fora_biblio": 14,
+        "lista_fora": [
+          "18391129",
+          "22832816",
+          "26065825",
+          "32696276",
+          "35442429",
+          "36517638",
+          "36893912",
+          "37931509",
+          "38802507",
+          "39615605",
+          "39938607",
+          "40345445",
+          "40856326",
+          "41481888"
+        ],
+        "nivel": "L1 — dígito exato em campo pmid: × pmid_oficial"
+      }
+    },
+    {
+      "id": "T16",
+      "descricao": "claim_id_origem preenchido = um claim_id escalar (proveniência; não catálogo)",
+      "ok": true,
+      "detalhe": {
+        "preenchidos": 54,
+        "valores_com_virgula_ou_lista": [],
+        "exemplos": [
+          "B1.MEC.BLOCO02.001",
+          "B1.MEC.BLOCO02.003",
+          "B1.MEC.BLOCO02.010",
+          "B1.MEC.BLOCO03.017",
+          "B1.MEC.BLOCO05.002",
+          "B1.MEC.BLOCO05.004",
+          "B1.MEC.BLOCO05.006",
+          "B1.MEC.BLOCO05.007"
+        ],
+        "leitura_comentador_§10": "confirmada no acervo: um N1 → um claim de origem; uso múltiplo fica nos N2 via claim_id"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1520 @@
+[
+ {
+  "pmid_oficial": "23702112",
+  "titulo_artigo": "Involvement of cannabinoid receptors in the amygdala and prefrontal cortex of rats in fear learning, consolidation, retrieval and extinction.",
+  "autores": [
+   "Kuhnert S",
+   "Meyer C",
+   "Koch M"
+  ],
+  "revista_ano": "Behav Brain Res (2013)",
+  "desenho_estudo": "[ML] estudo pré-clínico (rato) · Behav Brain Res",
+  "secao_origem": "mecanismo_B13_cb1_amigdala_pfc",
+  "achado_central_molecular": "Receptores canabinoides na amígdala e córtex pré-frontal de ratos na aprendizagem de medo — CB1 corticolímbico causal em modelo.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_KUHNERT_2013"
+  ],
+  "id_referencia_interna": "REF_KUHNERT_2013",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/modelo causal — redirecionado",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_correlacional_mecanistico"
+ },
+ {
+  "pmid_oficial": "25981172",
+  "titulo_artigo": "Anxiety, Stress, and Fear Response in Mice With Reduced Endocannabinoid Levels.",
+  "autores": [
+   "Jenniches I",
+   "Ternes S",
+   "Albayram O",
+   "Otte DM"
+  ],
+  "revista_ano": "Biol Psychiatry (2016)",
+  "desenho_estudo": "[ML] estudo pré-clínico (camundongo) · Biol Psychiatry",
+  "secao_origem": "mecanismo_B13_reducao_ecb_ansiedade",
+  "achado_central_molecular": "Camundongos com níveis reduzidos de endocanabinoides mostram respostas de ansiedade, estresse e medo intensificadas — suporte causal ao buffer eCB.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_JENNICHES_2016"
+  ],
+  "id_referencia_interna": "REF_JENNICHES_2016",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/modelo causal — redirecionado",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_correlacional_mecanistico"
+ },
+ {
+  "pmid_oficial": "26361059",
+  "titulo_artigo": "Endocannabinoid Modulation of Predator Stress-Induced Long-Term Anxiety in Rats.",
+  "autores": [
+   "Lim J",
+   "Igarashi M",
+   "Jung KM",
+   "Butini S"
+  ],
+  "revista_ano": "Neuropsychopharmacology (2016)",
+  "desenho_estudo": "[ML] estudo pré-clínico (rato) · Neuropsychopharmacology",
+  "secao_origem": "mecanismo_B13_estresse_predador",
+  "achado_central_molecular": "Modulação endocanabinoide da ansiedade de longo prazo induzida por estresse predatório — modelo de trauma/TEPT.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_LIM_2016"
+  ],
+  "id_referencia_interna": "REF_LIM_2016",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/modelo causal — redirecionado",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_correlacional_mecanistico"
+ },
+ {
+  "pmid_oficial": "26514583",
+  "titulo_artigo": "Fluoxetine Facilitates Fear Extinction Through Amygdala Endocannabinoids.",
+  "autores": [
+   "Gunduz-Cinar O",
+   "Flynn S",
+   "Brockway E",
+   "Kaugars K"
+  ],
+  "revista_ano": "Neuropsychopharmacology (2016)",
+  "desenho_estudo": "[ML] estudo pré-clínico (camundongo) · Neuropsychopharmacology",
+  "secao_origem": "mecanismo_B13_fluoxetina_extincao",
+  "achado_central_molecular": "A fluoxetina facilita a EXTINÇÃO do medo via endocanabinoides amigdalares — elo fármaco×eCB na extinção (sinal mecanístico, P20).",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_GUNDUZCINAR_2016"
+  ],
+  "id_referencia_interna": "REF_GUNDUZCINAR_2016",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/modelo causal — redirecionado",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "chave insumo 'Gray 2015' — 1ª autora real Gunduz-Cinar; print 2016"
+  ],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_correlacional_mecanistico"
+ },
+ {
+  "pmid_oficial": "27511017",
+  "titulo_artigo": "Acute Stress Suppresses Synaptic Inhibition and Increases Anxiety via Endocannabinoid Release in the Basolateral Amygdala.",
+  "autores": [
+   "Di S",
+   "Itoga CA",
+   "Fisher MO",
+   "Solomonow J"
+  ],
+  "revista_ano": "J Neurosci (2016)",
+  "desenho_estudo": "[ML] estudo pré-clínico (rato) · J Neurosci",
+  "secao_origem": "mecanismo_B13_estresse_agudo_bla",
+  "achado_central_molecular": "Estresse agudo suprime inibição sináptica e aumenta ansiedade via liberação de eCB na amígdala basolateral — via 3.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_DI_2016"
+  ],
+  "id_referencia_interna": "REF_DI_2016",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/modelo causal — redirecionado",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_correlacional_mecanistico"
+ },
+ {
+  "pmid_oficial": "30036537",
+  "titulo_artigo": "Endocannabinoid system, stress and HPA axis.",
+  "autores": [
+   "Micale V",
+   "Drago F"
+  ],
+  "revista_ano": "Eur J Pharmacol (2018)",
+  "desenho_estudo": "[OB] revisão · Eur J Pharmacol",
+  "secao_origem": "mecanismo_B13_ecs_hpa",
+  "achado_central_molecular": "Sistema endocanabinoide, estresse e eixo HPA — arquitetura da ponte B2 (regra 6: revisão = conceito).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_MICALE_2018"
+  ],
+  "id_referencia_interna": "REF_MICALE_2018",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ },
+ {
+  "pmid_oficial": "30573646",
+  "titulo_artigo": "Upregulation of Anandamide Hydrolysis in the Basolateral Complex of Amygdala Reduces Fear Memory Expression and Indices of Stress and Anxiety.",
+  "autores": [
+   "Morena M",
+   "Aukema RJ",
+   "Leitl KD",
+   "Rashid AJ"
+  ],
+  "revista_ano": "J Neurosci (2019)",
+  "desenho_estudo": "[ML] estudo pré-clínico (rato) · J Neurosci",
+  "secao_origem": "mecanismo_B13_bls_aearol_hidrolise",
+  "achado_central_molecular": "Aumento da hidrólise de anandamida no complexo basolateral da amígdala reduz a expressão da memória de medo — alvo FAAH amigdalar.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_MORENA_2019"
+  ],
+  "id_referencia_interna": "REF_MORENA_2019",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/modelo causal — redirecionado",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_correlacional_mecanistico"
+ },
+ {
+  "pmid_oficial": "30973483",
+  "titulo_artigo": "Serum Endocannabinoid and Mood Changes after Exercise in Major Depressive Disorder.",
+  "autores": [
+   "Meyer JD",
+   "Crombie KM",
+   "Cook DB",
+   "Hillard CJ"
+  ],
+  "revista_ano": "Med Sci Sports Exerc (2019)",
+  "desenho_estudo": "[EC] estudo experimental humano (exercício) · Med Sci Sports Exerc",
+  "secao_origem": "mecanismo_B13_exercicio_ecb_humor",
+  "achado_central_molecular": "eCB séricos e humor após EXERCÍCIO na depressão maior — interface exercício (regra 8) em humano (CORE humano).",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_MEYER_2019"
+  ],
+  "id_referencia_interna": "REF_MEYER_2019",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "associativa",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ },
+ {
+  "pmid_oficial": "31948734",
+  "titulo_artigo": "Endocannabinoid Signaling Collapse Mediates Stress-Induced Amygdalo-Cortical Strengthening.",
+  "autores": [
+   "Marcus DJ",
+   "Bedse G",
+   "Gaulden AD",
+   "Ryan JD"
+  ],
+  "revista_ano": "Neuron (2020)",
+  "desenho_estudo": "[ML] estudo pré-clínico · Neuron",
+  "secao_origem": "mecanismo_B13_colapso_ecb_amigdalo",
+  "achado_central_molecular": "O COLAPSO da sinalização eCB medeia o fortalecimento amigdalo-cortical induzido por estresse — causalidade experimental central (via 3).",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_MARCUS_2020"
+  ],
+  "id_referencia_interna": "REF_MARCUS_2020",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/modelo causal — redirecionado",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_correlacional_mecanistico"
+ },
+ {
+  "pmid_oficial": "32898588",
+  "titulo_artigo": "Endocannabinoid system in psychotic and mood disorders, a review of human studies.",
+  "autores": [
+   "Garani R",
+   "Watts JJ",
+   "Mizrahi R"
+  ],
+  "revista_ano": "Prog Neuropsychopharmacol Biol Psychiatry (2021)",
+  "desenho_estudo": "[OB] revisão de estudos humanos · Prog Neuropsychopharmacol Biol Psychiatry",
+  "secao_origem": "mecanismo_B13_estudos_humanos_humor",
+  "achado_central_molecular": "ECS em transtornos psicóticos e do humor: revisão dos estudos HUMANOS — camada humana separada da experimental.",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_GARANI_2021"
+  ],
+  "id_referencia_interna": "REF_GARANI_2021",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ },
+ {
+  "pmid_oficial": "33759226",
+  "titulo_artigo": "In it together? The case for endocannabinoid-noradrenergic interactions in fear extinction.",
+  "autores": [
+   "Warren WG",
+   "Papagianni EP",
+   "Stevenson CW",
+   "Stubbendorff C"
+  ],
+  "revista_ano": "Eur J Neurosci (2022)",
+  "desenho_estudo": "[OB] revisão integrativa · Eur J Neurosci",
+  "secao_origem": "mecanismo_B13_ecb_noradrenalina",
+  "achado_central_molecular": "Interações endocanabinoide–noradrenérgicas na extinção do medo — integração de sistemas (ponte LC-NA).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_WARREN_2022"
+  ],
+  "id_referencia_interna": "REF_WARREN_2022",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ },
+ {
+  "pmid_oficial": "34776851",
+  "titulo_artigo": "Quality of Life and a Surveillant Endocannabinoid System.",
+  "autores": [
+   "de Melo Reis RA",
+   "Isaac AR",
+   "Freitas HR",
+   "de Almeida MM"
+  ],
+  "revista_ano": "Front Neurosci (2021)",
+  "desenho_estudo": "[OB] revisão · Front Neurosci",
+  "secao_origem": "mecanismo_B13_qualidade_vida_ecs",
+  "achado_central_molecular": "Qualidade de vida e um sistema endocanabinoide vigilante — framework de homeostase.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_DEMELOREIS_2021"
+  ],
+  "id_referencia_interna": "REF_DEMELOREIS_2021",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "chave insumo 'Cota 2008' — autor real de Melo Reis; artigo de 2021"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ },
+ {
+  "pmid_oficial": "34893921",
+  "titulo_artigo": "FAAH polymorphism (rs324420) modulates extinction recall in healthy humans: an fMRI study.",
+  "autores": [
+   "Spohrs J",
+   "Ulrich M",
+   "Grön G",
+   "Plener PL"
+  ],
+  "revista_ano": "Eur Arch Psychiatry Clin Neurosci (2022)",
+  "desenho_estudo": "[EC] estudo fMRI humano (genética) · Eur Arch Psychiatry Clin Neurosci",
+  "secao_origem": "mecanismo_B13_faah_rs324420_extincao",
+  "achado_central_molecular": "O polimorfismo FAAH rs324420 modula o RECALL de extinção em humanos saudáveis (fMRI) — tradução humana da via 2 (versão publicada do preprint [G1] anterior).",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_SPOHRS_2022"
+  ],
+  "id_referencia_interna": "REF_SPOHRS_2022",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "associativa",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ },
+ {
+  "pmid_oficial": "36039150",
+  "titulo_artigo": "Sex and stressor modality influence acute stress-induced dynamic changes in corticolimbic endocannabinoid levels in adult Sprague Dawley rats.",
+  "autores": [
+   "Vecchiarelli HA",
+   "Morena M",
+   "Lee TTY",
+   "Nastase AS"
+  ],
+  "revista_ano": "Neurobiol Stress (2022)",
+  "desenho_estudo": "[ML] estudo pré-clínico · Neurobiol Stress",
+  "secao_origem": "mecanismo_B13_sexo_modalidade_estressor",
+  "achado_central_molecular": "Sexo e modalidade de estressor modulam a dinâmica corticolímbica de eCB sob estresse agudo — moduladores experimentais.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_VECCHIARELLI_2022"
+  ],
+  "id_referencia_interna": "REF_VECCHIARELLI_2022",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/modelo causal — redirecionado",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_correlacional_mecanistico"
+ },
+ {
+  "pmid_oficial": "36870468",
+  "titulo_artigo": "Bed nucleus of the stria terminalis CB1 receptors and the FAAH enzyme modulate anxiety behavior depending on previous stress exposure.",
+  "autores": [
+   "Borges-Assis AB",
+   "Uliana DL",
+   "Hott SC",
+   "Guimarães FS"
+  ],
+  "revista_ano": "Prog Neuropsychopharmacol Biol Psychiatry (2023)",
+  "desenho_estudo": "[ML] estudo pré-clínico · Prog Neuropsychopharmacol Biol Psychiatry",
+  "secao_origem": "mecanismo_B13_bnst_cb1_faah",
+  "achado_central_molecular": "Receptores CB1 e enzima FAAH no BNST modulam comportamento ansioso dependendo do contexto — circuito estendido.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_BORGESASSIS_2023"
+  ],
+  "id_referencia_interna": "REF_BORGESASSIS_2023",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/modelo causal — redirecionado",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "chave insumo 'Bedse 2017' — autor real Borges-Assis (2023)"
+  ],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_correlacional_mecanistico"
+ },
+ {
+  "pmid_oficial": "37984468",
+  "titulo_artigo": "Genetic variation of the 5-HT1A rs6295, 5-HT2A rs6311, and CNR1 rs1049353 and an altered endocannabinoid system in depressed patients.",
+  "autores": [
+   "Obermanns J",
+   "Meiser H",
+   "Hoberg S",
+   "Vesterager CS"
+  ],
+  "revista_ano": "Brain Behav (2023)",
+  "desenho_estudo": "[EC] estudo genético humano · Brain Behav",
+  "secao_origem": "mecanismo_B13_cnr1_serotonina",
+  "achado_central_molecular": "Variação genética 5-HT1A/5-HT2A/CNR1 e tônus endocanabinoide alterado — elo genético serotonina×eCB em humano.",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_OBERMANNS_2023"
+  ],
+  "id_referencia_interna": "REF_OBERMANNS_2023",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "associativa",
+  "_mat": "emergente",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ },
+ {
+  "pmid_oficial": "38886733",
+  "titulo_artigo": "Endocannabinoid levels in female-sexed individuals with diagnosed depression: a systematic review.",
+  "autores": [
+   "McWhirter M",
+   "Bugarcic A",
+   "Steel A",
+   "Schloss J"
+  ],
+  "revista_ano": "BMC Womens Health (2024)",
+  "desenho_estudo": "[OB] revisão sistemática · BMC Womens Health",
+  "secao_origem": "mecanismo_B13_mulheres_depressao",
+  "achado_central_molecular": "Níveis de endocanabinoides em indivíduos do sexo feminino com depressão diagnosticada: revisão sistemática — resolve o [G1] 'McWhirter (sexo feminino)'.",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_MCWHIRTER_2024"
+  ],
+  "id_referencia_interna": "REF_MCWHIRTER_2024",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "chave insumo 'Mazurka 2024' — autor real McWhirter; a Mazurka real permanece [G1]"
+  ],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ },
+ {
+  "pmid_oficial": "41013856",
+  "titulo_artigo": "Identification and experimental validation of biomarkers associated with the endocannabinoid system in major depressive disorder.",
+  "autores": [
+   "Wang L",
+   "Chen M",
+   "Li X",
+   "Li Y"
+  ],
+  "revista_ano": "Hereditas (2025)",
+  "desenho_estudo": "[EC] estudo humano com validação experimental · Hereditas",
+  "secao_origem": "mecanismo_B13_biomarcadores_ecs_mdd",
+  "achado_central_molecular": "Biomarcadores associados ao ECS na depressão maior: identificação e validação experimental — marcadores candidatos (M05: não diagnóstico).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_WANG_2025"
+  ],
+  "id_referencia_interna": "REF_WANG_2025",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "associativa",
+  "_mat": "emergente",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ },
+ {
+  "pmid_oficial": "40799146",
+  "titulo_artigo": "The Effect of CB1r Hippocampal Activation on Behavioral Changes and BDNF Levels in Rapid-Eye Movement Sleep-Deprived Rats.",
+  "autores": [
+   "Azizi P",
+   "Najafi A",
+   "Samizadeh MA",
+   "Mohamadian M"
+  ],
+  "revista_ano": "Eur J Neurosci (2025)",
+  "desenho_estudo": "[ML] estudo pré-clínico (rato) · Eur J Neurosci",
+  "secao_origem": "mecanismo_B13_cb1_hipocampo_rem",
+  "achado_central_molecular": "Ativação de CB1r hipocampal e comportamento sob privação de sono REM — interface eCB×sono (ponte B10).",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_AZIZI_2025"
+  ],
+  "id_referencia_interna": "REF_AZIZI_2025",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/modelo causal — redirecionado",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "emergente",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_correlacional_mecanistico"
+ },
+ {
+  "pmid_oficial": "30458201",
+  "titulo_artigo": "Endocannabinoid interactions in the regulation of acquisition of contextual conditioned fear.",
+  "autores": [
+   "Balogh Z",
+   "Szente L",
+   "Biro L",
+   "Varga ZK"
+  ],
+  "revista_ano": "Prog Neuropsychopharmacol Biol Psychiatry (2019)",
+  "desenho_estudo": "[OB] revisão · Prog Neuropsychopharmacol Biol Psychiatry",
+  "secao_origem": "mecanismo_B13_condicionamento_contextual",
+  "achado_central_molecular": "Interações endocanabinoides na aquisição do condicionamento de medo contextual — consolidação ameaça [revisão pré-clínica].",
+  "extrapolacao_por_analogia": "SIM — revisão de evidência pré-clínica; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_BALOGH_2019"
+  ],
+  "id_referencia_interna": "REF_BALOGH_2019",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ },
+ {
+  "pmid_oficial": "20167262",
+  "titulo_artigo": "Facilitation of endocannabinoid effects in the ventral hippocampus modulates anxiety-like behaviors depending on previous stress experience.",
+  "autores": [
+   "Campos AC",
+   "Ferreira FR",
+   "Guimarães FS",
+   "Lemos JI"
+  ],
+  "revista_ano": "Neuroscience (2010)",
+  "desenho_estudo": "[ML] estudo pré-clínico (rato) · Neuroscience",
+  "secao_origem": "mecanismo_B13_hipocampo_ventral",
+  "achado_central_molecular": "Facilitação de efeitos endocanabinoides no hipocampo VENTRAL modula ansiedade — circuito hipocampal.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_CAMPOS_2010"
+  ],
+  "id_referencia_interna": "REF_CAMPOS_2010",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/modelo causal — redirecionado",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_correlacional_mecanistico"
+ },
+ {
+  "pmid_oficial": "38280009",
+  "titulo_artigo": "How depression and antidepressant drugs affect endocannabinoid system?-review of clinical and preclinical studies.",
+  "autores": [
+   "Dragon J",
+   "Obuchowicz E"
+  ],
+  "revista_ano": "Naunyn Schmiedebergs Arch Pharmacol (2024)",
+  "desenho_estudo": "[OB] revisão · Naunyn Schmiedebergs Arch Pharmacol",
+  "secao_origem": "mecanismo_B13_antidepressivos_ecb",
+  "achado_central_molecular": "Como a depressão e os antidepressivos afetam o sistema endocanabinoide — elo fármaco×eCB (sinal, P20).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_DRAGON_2024"
+  ],
+  "id_referencia_interna": "REF_DRAGON_2024",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ },
+ {
+  "pmid_oficial": "31849055",
+  "titulo_artigo": "Early life stress and development of the endocannabinoid system: A bidirectional process in programming future coping.",
+  "autores": [
+   "Goldstein Ferber S",
+   "Trezza V",
+   "Weller A"
+  ],
+  "revista_ano": "Dev Psychobiol (2021)",
+  "desenho_estudo": "[OB] revisão · Dev Psychobiol",
+  "secao_origem": "mecanismo_B13_desenvolvimento_els",
+  "achado_central_molecular": "Estresse precoce e desenvolvimento do sistema endocanabinoide: regulação bidirecional, sexo- e região-dependente — ponte B12 (trauma).",
+  "extrapolacao_por_analogia": "SIM — revisão de evidência pré-clínica; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_GOLDSTEINFERBER_2021"
+  ],
+  "id_referencia_interna": "REF_GOLDSTEINFERBER_2021",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "chave insumo 'Ferber 2019' — autora real Goldstein Ferber"
+  ],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ },
+ {
+  "pmid_oficial": "22029953",
+  "titulo_artigo": "Intense exercise increases circulating endocannabinoid and BDNF levels in humans--possible implications for reward and depression.",
+  "autores": [
+   "Heyman E",
+   "Gamelin FX",
+   "Goekint M",
+   "Piscitelli F"
+  ],
+  "revista_ano": "Psychoneuroendocrinology (2012)",
+  "desenho_estudo": "[EC] estudo experimental humano (exercício) · Psychoneuroendocrinology",
+  "secao_origem": "mecanismo_B13_exercicio_ecb_bdnf",
+  "achado_central_molecular": "Exercício intenso aumenta eCB circulantes e BDNF em humanos — interface exercício×plasticidade (regra 8).",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_HEYMAN_2012"
+  ],
+  "id_referencia_interna": "REF_HEYMAN_2012",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "chave insumo 'Gamelin 2012' — autor real Heyman"
+  ],
+  "_nat": "associativa",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ },
+ {
+  "pmid_oficial": "24286185",
+  "titulo_artigo": "Translational evidence for the involvement of the endocannabinoid system in stress-related psychiatric illnesses.",
+  "autores": [
+   "Hill MN",
+   "Patel S"
+  ],
+  "revista_ano": "Biol Mood Anxiety Disord (2013)",
+  "desenho_estudo": "[OB] revisão translacional · Biol Mood Anxiety Disord",
+  "secao_origem": "mecanismo_B13_evidencia_translacional",
+  "achado_central_molecular": "Evidência translacional do envolvimento do ECS em respostas ao estresse e humor — ponte animal→humano.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_HILL_2013"
+  ],
+  "id_referencia_interna": "REF_HILL_2013",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ },
+ {
+  "pmid_oficial": "19903506",
+  "titulo_artigo": "Involvement of the endocannabinoid system in the neurobehavioural effects of stress and glucocorticoids.",
+  "autores": [
+   "Hill MN",
+   "McEwen BS"
+  ],
+  "revista_ano": "Prog Neuropsychopharmacol Biol Psychiatry (2010)",
+  "desenho_estudo": "[OB] revisão · Prog Neuropsychopharmacol Biol Psychiatry",
+  "secao_origem": "mecanismo_B13_estresse_neurocomportamental",
+  "achado_central_molecular": "ECS nos efeitos neurocomportamentais do estresse — revisão estrutural (série Hill).",
+  "extrapolacao_por_analogia": "SIM — revisão de evidência pré-clínica; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_HILL_2010"
+  ],
+  "id_referencia_interna": "REF_HILL_2010",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "chave insumo 'Hill 2009' (artigo distinto do REF_HILL_2009 da V1); print 2010"
+  ],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ },
+ {
+  "pmid_oficial": "22214537",
+  "titulo_artigo": "Endocannabinoid signaling, glucocorticoid-mediated negative feedback, and regulation of the hypothalamic-pituitary-adrenal axis.",
+  "autores": [
+   "Hill MN",
+   "Tasker JG"
+  ],
+  "revista_ano": "Neuroscience (2012)",
+  "desenho_estudo": "[OB] revisão · Neuroscience",
+  "secao_origem": "mecanismo_B13_feedback_glicocorticoide",
+  "achado_central_molecular": "Sinalização endocanabinoide e feedback negativo glicocorticoide — mecanismo do eixo (ponte B2).",
+  "extrapolacao_por_analogia": "SIM — revisão de evidência pré-clínica; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_HILL_2012"
+  ],
+  "id_referencia_interna": "REF_HILL_2012",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "chave insumo 'Hill 2011' → print 2012"
+  ],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ },
+ {
+  "pmid_oficial": "32375160",
+  "titulo_artigo": "Cannabinoid CB(2) receptors mediate the anxiolytic-like effects of monoacylglycerol lipase inhibition in a rat model of predator-induced fear.",
+  "autores": [
+   "Ivy D",
+   "Palese F",
+   "Vozella V",
+   "Fotio Y"
+  ],
+  "revista_ano": "Neuropsychopharmacology (2020)",
+  "desenho_estudo": "[ML] estudo pré-clínico · Neuropsychopharmacology",
+  "secao_origem": "mecanismo_B13_cb2_anxiolitico",
+  "achado_central_molecular": "Receptores CB2 medeiam efeitos ansiolíticos de modulação de monoacilglicerol — braço CB2 em modelo.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_IVY_2020"
+  ],
+  "id_referencia_interna": "REF_IVY_2020",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/modelo causal — redirecionado",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_correlacional_mecanistico"
+ },
+ {
+  "pmid_oficial": "42314784",
+  "titulo_artigo": "Sterol carrier protein 2 loss reduces anxiety and enhances fear extinction.",
+  "autores": [
+   "Liedhegner ES",
+   "Stuhr KL",
+   "Doncheck EM",
+   "Tinklenberg J"
+  ],
+  "revista_ano": "J Affect Disord (2026)",
+  "desenho_estudo": "[ML] estudo pré-clínico · J Affect Disord",
+  "secao_origem": "mecanismo_B13_scp2_lipideo",
+  "achado_central_molecular": "Perda de SCP-2 (proteína carreadora de esterol) reduz ansiedade e aumenta extinção do medo — nova camada lipídica intracelular do ECS.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_LIEDHEGNER_2026"
+  ],
+  "id_referencia_interna": "REF_LIEDHEGNER_2026",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/modelo causal — redirecionado",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "emergente",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_correlacional_mecanistico"
+ },
+ {
+  "pmid_oficial": "32980261",
+  "titulo_artigo": "Review of the Endocannabinoid System.",
+  "autores": [
+   "Lu HC",
+   "Mackie K"
+  ],
+  "revista_ano": "Biol Psychiatry Cogn Neurosci Neuroimaging (2021)",
+  "desenho_estudo": "[OB] revisão · Biol Psychiatry Cogn Neurosci Neuroimaging",
+  "secao_origem": "mecanismo_B13_review_ecs",
+  "achado_central_molecular": "Review do sistema endocanabinoide — arquitetura geral atualizada (Biol Psychiatry CNNI).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_LU_2021"
+  ],
+  "id_referencia_interna": "REF_LU_2021",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "chave insumo 'Lu 2020' → print 2021"
+  ],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ },
+ {
+  "pmid_oficial": "22804774",
+  "titulo_artigo": "The endocannabinoid system and the brain.",
+  "autores": [
+   "Mechoulam R",
+   "Parker LA"
+  ],
+  "revista_ano": "Annu Rev Psychol (2013)",
+  "desenho_estudo": "[OB] revisão · Annu Rev Psychol",
+  "secao_origem": "mecanismo_B13_ecs_cerebro_fundacao",
+  "achado_central_molecular": "O sistema endocanabinoide e o cérebro (Annu Rev Psychol) — revisão fundacional.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_MECHOULAM_2013"
+  ],
+  "id_referencia_interna": "REF_MECHOULAM_2013",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "muito_estabelecido",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ },
+ {
+  "pmid_oficial": "26068727",
+  "titulo_artigo": "Neurobiological Interactions Between Stress and the Endocannabinoid System.",
+  "autores": [
+   "Morena M",
+   "Patel S",
+   "Bains JS",
+   "Hill MN"
+  ],
+  "revista_ano": "Neuropsychopharmacology (2016)",
+  "desenho_estudo": "[OB] revisão · Neuropsychopharmacology",
+  "secao_origem": "mecanismo_B13_stress_ecs_interacoes",
+  "achado_central_molecular": "Interações neurobiológicas entre estresse e o sistema endocanabinoide — síntese estrutural central.",
+  "extrapolacao_por_analogia": "SIM — revisão de evidência pré-clínica; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_MORENA_2016"
+  ],
+  "id_referencia_interna": "REF_MORENA_2016",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ },
+ {
+  "pmid_oficial": "35675221",
+  "titulo_artigo": "Dietary PUFAs and Exercise Dynamic Actions on Endocannabinoids in Brain: Consequences for Neural Plasticity and Neuroinflammation.",
+  "autores": [
+   "Park Y",
+   "Watkins BA"
+  ],
+  "revista_ano": "Adv Nutr (2022)",
+  "desenho_estudo": "[OB] revisão · Adv Nutr",
+  "secao_origem": "mecanismo_B13_pufa_exercicio",
+  "achado_central_molecular": "PUFAs dietéticos e exercício: ações dinâmicas sobre endocanabinoides no cérebro — interface (regra 8; molecular inflamação fica em B1).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_PARK_2022"
+  ],
+  "id_referencia_interna": "REF_PARK_2022",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ },
+ {
+  "pmid_oficial": "35126139",
+  "titulo_artigo": "Spontaneous Activity of CB(2) Receptors Attenuates Stress-Induced Behavioral and Neuroplastic Deficits in Male Mice.",
+  "autores": [
+   "Ribeiro MA",
+   "Aguiar RP",
+   "Scarante FF",
+   "Fusse EJ"
+  ],
+  "revista_ano": "Front Pharmacol (2021)",
+  "desenho_estudo": "[ML] estudo pré-clínico · Front Pharmacol",
+  "secao_origem": "mecanismo_B13_cb2_constitutivo",
+  "achado_central_molecular": "Atividade espontânea (constitutiva) de receptores CB2 atenua comportamento induzido por estresse — sinal basal CB2.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_RIBEIRO_2021"
+  ],
+  "id_referencia_interna": "REF_RIBEIRO_2021",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/modelo causal — redirecionado",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "emergente",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_correlacional_mecanistico"
+ },
+ {
+  "pmid_oficial": "40840197",
+  "titulo_artigo": "Endocannabinoids, depression, and treatment resistance: Perspectives on effective therapeutic interventions.",
+  "autores": [
+   "Rosa I",
+   "Padula LP",
+   "Semeraro F",
+   "Marrangone C"
+  ],
+  "revista_ano": "Psychiatry Res (2025)",
+  "desenho_estudo": "[OB] revisão · Psychiatry Res",
+  "secao_origem": "mecanismo_B13_resistencia_tratamento",
+  "achado_central_molecular": "Endocanabinoides, depressão e resistência ao tratamento: perspectivas — dimensão clínica de refratariedade.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_ROSA_2025"
+  ],
+  "id_referencia_interna": "REF_ROSA_2025",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "emergente",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ },
+ {
+  "pmid_oficial": "35650684",
+  "titulo_artigo": "Identification of a novel fatty acid binding protein-5-CB2 receptor-dependent mechanism regulating anxiety behaviors in the prefrontal cortex.",
+  "autores": [
+   "Uzuneser TC",
+   "Szkudlarek HJ",
+   "Jones MJ",
+   "Nashed MG"
+  ],
+  "revista_ano": "Cereb Cortex (2023)",
+  "desenho_estudo": "[ML] estudo pré-clínico · Cereb Cortex",
+  "secao_origem": "mecanismo_B13_fabp5_cb2",
+  "achado_central_molecular": "Identificação de nova via FABP5–CB2 no córtex — transporte intracelular de eCB como alvo.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_UZUNESER_2023"
+  ],
+  "id_referencia_interna": "REF_UZUNESER_2023",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/modelo causal — redirecionado",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "emergente",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_correlacional_mecanistico"
+ },
+ {
+  "pmid_oficial": "31962287",
+  "titulo_artigo": "Endocannabinoid modulating drugs improve anxiety but not the expression of conditioned fear in a rodent model of post-traumatic stress disorder.",
+  "autores": [
+   "Vimalanathan A",
+   "Gidyk DC",
+   "Diwan M",
+   "Gouveia FV"
+  ],
+  "revista_ano": "Neuropharmacology (2020)",
+  "desenho_estudo": "[ML] estudo pré-clínico (rato) · Neuropharmacology",
+  "secao_origem": "mecanismo_B13_weak_extinction",
+  "achado_central_molecular": "Fármacos moduladores de eCB melhoram 'ansiedade' mas NÃO a expressão de medo no fenótipo de extinção fraca — dissociação comportamento×medo.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_VIMALANATHAN_2020"
+  ],
+  "id_referencia_interna": "REF_VIMALANATHAN_2020",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/modelo causal — redirecionado",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_correlacional_mecanistico"
+ },
+ {
+  "pmid_oficial": "39370369",
+  "titulo_artigo": "An overview of major depression disorder: The endocannabinoid system as a potential target for therapy.",
+  "autores": [
+   "Zarazúa-Guzmán S",
+   "Vicente-Martínez JG",
+   "Pinos-Rodríguez JM",
+   "Arevalo-Villalobos JI"
+  ],
+  "revista_ano": "Basic Clin Pharmacol Toxicol (2024)",
+  "desenho_estudo": "[OB] revisão · Basic Clin Pharmacol Toxicol",
+  "secao_origem": "mecanismo_B13_overview_mdd_ecs",
+  "achado_central_molecular": "Visão geral depressão maior×sistema endocanabinoide — síntese clínica recente.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_ZARAZUAGUZMAN_2024"
+  ],
+  "id_referencia_interna": "REF_ZARAZUAGUZMAN_2024",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "chave insumo 'Zabik 2024' = autor real Zarazúa-Guzmán"
+  ],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ },
+ {
+  "pmid_oficial": "37088409",
+  "titulo_artigo": "Cannabinoid modulation of corticolimbic activation during extinction learning and fear renewal in adults with posttraumatic stress disorder.",
+  "autores": [
+   "Zabik NL",
+   "Rabinak CA",
+   "Peters CA",
+   "Iadipaolo A"
+  ],
+  "revista_ano": "Neurobiol Learn Mem (2023)",
+  "desenho_estudo": "[EC] estudo experimental humano (THC×fMRI) · Neurobiol Learn Mem",
+  "secao_origem": "mecanismo_B13_thc_extincao_humano",
+  "achado_central_molecular": "Modulação canabinoide (THC) da ativação corticolímbica durante aprendizagem de extinção em adultos saudáveis — CAMADA EXÓGENA (via 10, regra 1): não sustenta claims do núcleo endógeno. Resolve o [G1] 'Zabik-RCT'.",
+  "extrapolacao_por_analogia": "não — camada translacional exógena (regra 1), sinal isolado",
+  "ids_referencia_interna": [
+   "REF_ZABIK_2023"
+  ],
+  "id_referencia_interna": "REF_ZABIK_2023",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "associativa",
+  "_mat": "emergente",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ },
+ {
+  "pmid_oficial": "29977073",
+  "titulo_artigo": "Role of endocannabinoids in the hippocampus and amygdala in emotional memory and plasticity",
+  "autores": [
+   "Segev A"
+  ],
+  "revista_ano": "Neuropsychopharmacology (2018)",
+  "desenho_estudo": "[OB] revisão · Neuropsychopharmacology",
+  "secao_origem": "mecanismo_B13_hipocampo_amigdala_plasticidade",
+  "achado_central_molecular": "Papel dos endocanabinoides no hipocampo e amígdala em memória emocional e plasticidade — revisão estrutural (resolve 'Segev real', expõe falso mapeamento para Șerban 2025).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_SEGEV_2018"
+  ],
+  "id_referencia_interna": "REF_SEGEV_2018",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "_nat": "contributiva",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural"
+ }
+]

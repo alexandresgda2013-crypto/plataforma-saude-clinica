@@ -1,0 +1,241 @@
+{
+  "trilha": 36,
+  "data": "2026-09-16",
+  "rodada": 20,
+  "objeto": "verificação da revisão do mestre (P-8 3 pontos) + instalação do oficial rev.R16",
+  "passos": [
+    {
+      "passo": "1_digitais_iniciais",
+      "ts": "2026-09-16 04:51:01",
+      "script_oficial": "76e526cf2cb5ba13ce67e9bf4f095af396d8978485ca480c1e381c13f979d0ac",
+      "canonica_V7": "6e2c29797e6322f16dcc5248cce552be613dd11f1de957c66aaa913e69225238",
+      "manifesto": "79d1309a168922d0e8bf43736cd5b21c8b361bdf64e3b200eeeafd43806f3a9c",
+      "confere": {
+        "script==76e526cf…": true,
+        "canonica==6e2c2979…": true,
+        "manifesto==79d1309a…": true
+      }
+    },
+    {
+      "passo": "2_baseline_oficial",
+      "ts": "2026-09-16 04:51:01",
+      "comando": [
+        "/usr/local/bin/python3",
+        "/home/user/Ferramentas de geração e auditoria/06_portao_P8_coerencia/scripts/validar_coerencia_camadas.py",
+        ".",
+        "--json",
+        "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/p8_trilha36_baseline_oficial_76e526cf_2026-09-16.json"
+      ],
+      "cwd": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais",
+      "exit": 1,
+      "json": "p8_trilha36_baseline_oficial_76e526cf_2026-09-16.json",
+      "totais": {
+        "ERRO": 2,
+        "AVISO": 299
+      },
+      "V14": [
+        {
+          "nivel": "OK",
+          "regra": "V-14",
+          "objeto": "-",
+          "mensagem": "docstring x implementação coerentes: 16 regras anunciadas, todas executadas"
+        }
+      ],
+      "V07_related_entities": []
+    },
+    {
+      "passo": "3_FC2_no_oficial_antigo",
+      "ts": "2026-09-16 04:51:02",
+      "comando": [
+        "/usr/local/bin/python3",
+        "/home/user/Ferramentas de geração e auditoria/06_portao_P8_coerencia/scripts/validar_coerencia_camadas.py",
+        ".",
+        "--json",
+        "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/p8_trilha36_fc2_oficial_antigo_2026-09-16.json"
+      ],
+      "cwd": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais",
+      "exit": 1,
+      "json": "p8_trilha36_fc2_oficial_antigo_2026-09-16.json",
+      "totais": {
+        "ERRO": 2,
+        "AVISO": 299
+      },
+      "V14": [
+        {
+          "nivel": "OK",
+          "regra": "V-14",
+          "objeto": "-",
+          "mensagem": "docstring x implementação coerentes: 16 regras anunciadas, todas executadas"
+        }
+      ],
+      "V07_related_entities": [],
+      "manifesto_sha_apos_restaurar": "79d1309a168922d0e8bf43736cd5b21c8b361bdf64e3b200eeeafd43806f3a9c"
+    },
+    {
+      "passo": "4_candidato_e_diff",
+      "ts": "2026-09-16 04:51:02",
+      "edicoes": [
+        {
+          "alvo": "L20 docstring título V-06",
+          "ocorrencias_substituidas": 1
+        },
+        {
+          "alvo": "L22 docstring título V-08",
+          "ocorrencias_substituidas": 1
+        },
+        {
+          "alvo": "L445 comentário interno V-06",
+          "ocorrencias_substituidas": 1
+        },
+        {
+          "alvo": "bloco V-07 related_entities (cardinalidade → conjuntos)",
+          "ocorrencias_substituidas": 1
+        }
+      ],
+      "diff": {
+        "hunks": 3,
+        "linhas_adicionadas": 10,
+        "linhas_removidas": 7,
+        "linhas_tocadas_total": 17,
+        "texto": "--- oficial_76e526cf\n+++ candidato_R16\n@@ -17,9 +17,10 @@\n   V-03  âncora ambígua (mais de uma ocorrência no texto)\n   V-04  integridade referencial nos DOIS sentidos (vínculo→ficha e ficha→vínculo)\n   V-05  checagem cruzada de citações com cobertura medida e reportada\n-  V-06  COERÊNCIA SEMÂNTICA ficha/vínculo × prosa ancorada (detector de deriva)\n+  V-06  DERIVA ficha/vínculo × prosa ancorada (detector heurístico — só AVISO;\n+        nunca prova de coerência semântica; semântica = G3/humano)\n   V-07  sincronia manifesto × canônica (fonte única)\n-  V-08  claim quantitativo sem referência ancorada\n+  V-08  claim quantitativo sem âncora na MESMA LINHA (alerta de triagem; lastro = V-01/V-04/V-05)\n   V-09  cobertura de claim_id\n   V-10  citacao_literal do ledger degradada a token\n   V-11  P20 — corte numérico, dose e posologia no corpo\n@@ -442,7 +443,7 @@\n     for f in sorted(set(faltando)):\n         rel.erro(\"V-05\", f, \"citação na prosa sem ficha correspondente no Módulo 09\")\n \n-    # ---------------- V-06 coerência semântica ficha/vínculo × prosa ancorada\n+    # ---------------- V-06 detecção heurística de possível deriva (ficha/vínculo × prosa ancorada)\n     # Heurística de deriva: se a prosa ancorada carrega marcador de negação,\n     # seletividade ou direção e o resumo da ficha / a nota g3 não carregam,\n     # o resumo pode estar descrevendo uma versão anterior da afirmação.\n@@ -492,11 +493,13 @@\n                      f\"manifesto={corte_man} × canônica={corte_txt} (fonte única violada)\")\n         rel_txt = do_texto(r\"\\*\\*Mecanismos relacionados \\(IDs oficiais\\):\\*\\*\\s*(.+)\")\n         if rel_txt:\n-            n_txt = len([x for x in rel_txt.split(\",\") if x.strip()])\n-            n_man = len((man.get(\"semantic_layer\") or {}).get(\"related_entities\") or [])\n-            if n_txt != n_man:\n+            s_txt = {x.strip() for x in rel_txt.split(\",\") if x.strip()}\n+            s_man = {str(x).strip() for x in (man.get(\"semantic_layer\") or {}).get(\"related_entities\") or []}\n+            if s_txt != s_man:\n                 rel.erro(\"V-07\", \"related_entities\",\n-                         f\"manifesto tem {n_man} mecanismos relacionados × canônica tem {n_txt}\")\n+                         f\"identidade divergente (fonte única violada) — \"\n+                         f\"só na canônica: {sorted(s_txt - s_man)} · \"\n+                         f\"só no manifesto: {sorted(s_man - s_txt)}\")\n         dom_txt = do_texto(r\"clinical_domains \\(máx 4\\):\\*\\*\\s*(.+)\")\n         if dom_txt:\n             a = {x.strip() for x in re.split(r\"[·,]\", dom_txt) if x.strip()}"
+      },
+      "sha_candidato": "84fa918d09899d54995ae41d65b0787a7a52888ba6177ce77583483b1124fe8b"
+    },
+    {
+      "passo": "5_candidato_na_V7",
+      "ts": "2026-09-16 04:51:03",
+      "comando": [
+        "/usr/local/bin/python3",
+        "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/validar_coerencia_camadas_R16_candidato_2026-09-16.py",
+        ".",
+        "--json",
+        "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/p8_trilha36_candidato_R16_na_V7_2026-09-16.json"
+      ],
+      "cwd": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais",
+      "exit": 1,
+      "json": "p8_trilha36_candidato_R16_na_V7_2026-09-16.json",
+      "totais": {
+        "ERRO": 2,
+        "AVISO": 299
+      },
+      "V14": [
+        {
+          "nivel": "OK",
+          "regra": "V-14",
+          "objeto": "-",
+          "mensagem": "docstring x implementação coerentes: 16 regras anunciadas, todas executadas"
+        }
+      ],
+      "V07_related_entities": []
+    },
+    {
+      "passo": "6_FC2_no_candidato",
+      "ts": "2026-09-16 04:51:03",
+      "comando": [
+        "/usr/local/bin/python3",
+        "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/validar_coerencia_camadas_R16_candidato_2026-09-16.py",
+        ".",
+        "--json",
+        "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/p8_trilha36_fc2_candidato_2026-09-16.json"
+      ],
+      "cwd": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais",
+      "exit": 1,
+      "json": "p8_trilha36_fc2_candidato_2026-09-16.json",
+      "totais": {
+        "ERRO": 3,
+        "AVISO": 299
+      },
+      "V14": [
+        {
+          "nivel": "OK",
+          "regra": "V-14",
+          "objeto": "-",
+          "mensagem": "docstring x implementação coerentes: 16 regras anunciadas, todas executadas"
+        }
+      ],
+      "V07_related_entities": [
+        {
+          "nivel": "ERRO",
+          "regra": "V-07",
+          "objeto": "related_entities",
+          "mensagem": "identidade divergente (fonte única violada) — só na canônica: ['mecanismo_B16_neurogenese'] · só no manifesto: ['mecanismo_B99_inexistente']"
+        }
+      ],
+      "manifesto_sha_apos_restaurar": "79d1309a168922d0e8bf43736cd5b21c8b361bdf64e3b200eeeafd43806f3a9c"
+    },
+    {
+      "passo": "7_instalacao",
+      "ts": "2026-09-16 04:51:04",
+      "backup": "/home/user/Ferramentas de geração e auditoria/06_portao_P8_coerencia/scripts/validar_coerencia_camadas.py.bak_oficial_pre_3pontos_R16_2026-09-16",
+      "sha_antes": "76e526cf2cb5ba13ce67e9bf4f095af396d8978485ca480c1e381c13f979d0ac",
+      "sha_depois": "84fa918d09899d54995ae41d65b0787a7a52888ba6177ce77583483b1124fe8b",
+      "execucao_oficial_instalado": {
+        "comando": [
+          "/usr/local/bin/python3",
+          "/home/user/Ferramentas de geração e auditoria/06_portao_P8_coerencia/scripts/validar_coerencia_camadas.py",
+          ".",
+          "--json",
+          "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/p8_trilha36_oficial_instalado_R16_2026-09-16.json"
+        ],
+        "cwd": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais",
+        "exit": 1,
+        "json": "p8_trilha36_oficial_instalado_R16_2026-09-16.json",
+        "totais": {
+          "ERRO": 2,
+          "AVISO": 299
+        },
+        "V14": [
+          {
+            "nivel": "OK",
+            "regra": "V-14",
+            "objeto": "-",
+            "mensagem": "docstring x implementação coerentes: 16 regras anunciadas, todas executadas"
+          }
+        ],
+        "V07_related_entities": []
+      },
+      "BA_identico_ao_diff_medido": false,
+      "BA": "--- antes_76e526cf\n+++ depois_R16\n@@ -17,9 +17,10 @@\n   V-03  âncora ambígua (mais de uma ocorrência no texto)\n   V-04  integridade referencial nos DOIS sentidos (vínculo→ficha e ficha→vínculo)\n   V-05  checagem cruzada de citações com cobertura medida e reportada\n-  V-06  COERÊNCIA SEMÂNTICA ficha/vínculo × prosa ancorada (detector de deriva)\n+  V-06  DERIVA ficha/vínculo × prosa ancorada (detector heurístico — só AVISO;\n+        nunca prova de coerência semântica; semântica = G3/humano)\n   V-07  sincronia manifesto × canônica (fonte única)\n-  V-08  claim quantitativo sem referência ancorada\n+  V-08  claim quantitativo sem âncora na MESMA LINHA (alerta de triagem; lastro = V-01/V-04/V-05)\n   V-09  cobertura de claim_id\n   V-10  citacao_literal do ledger degradada a token\n   V-11  P20 — corte numérico, dose e posologia no corpo\n@@ -442,7 +443,7 @@\n     for f in sorted(set(faltando)):\n         rel.erro(\"V-05\", f, \"citação na prosa sem ficha correspondente no Módulo 09\")\n \n-    # ---------------- V-06 coerência semântica ficha/vínculo × prosa ancorada\n+    # ---------------- V-06 detecção heurística de possível deriva (ficha/vínculo × prosa ancorada)\n     # Heurística de deriva: se a prosa ancorada carrega marcador de negação,\n     # seletividade ou direção e o resumo da ficha / a nota g3 não carregam,\n     # o resumo pode estar descrevendo uma versão anterior da afirmação.\n@@ -492,11 +493,13 @@\n                      f\"manifesto={corte_man} × canônica={corte_txt} (fonte única violada)\")\n         rel_txt = do_texto(r\"\\*\\*Mecanismos relacionados \\(IDs oficiais\\):\\*\\*\\s*(.+)\")\n         if rel_txt:\n-            n_txt = len([x for x in rel_txt.split(\",\") if x.strip()])\n-            n_man = len((man.get(\"semantic_layer\") or {}).get(\"related_entities\") or [])\n-            if n_txt != n_man:\n+            s_txt = {x.strip() for x in rel_txt.split(\",\") if x.strip()}\n+            s_man = {str(x).strip() for x in (man.get(\"semantic_layer\") or {}).get(\"related_entities\") or []}\n+            if s_txt != s_man:\n                 rel.erro(\"V-07\", \"related_entities\",\n-                         f\"manifesto tem {n_man} mecanismos relacionados × canônica tem {n_txt}\")\n+                         f\"identidade divergente (fonte única violada) — \"\n+                         f\"só na canônica: {sorted(s_txt - s_man)} · \"\n+                         f\"só no manifesto: {sorted(s_man - s_txt)}\")\n         dom_txt = do_texto(r\"clinical_domains \\(máx 4\\):\\*\\*\\s*(.+)\")\n         if dom_txt:\n             a = {x.strip() for x in re.split(r\"[·,]\", dom_txt) if x.strip()}"
+    },
+    {
+      "passo": "8_digitais_finais",
+      "ts": "2026-09-16 04:51:04",
+      "script_oficial": "84fa918d09899d54995ae41d65b0787a7a52888ba6177ce77583483b1124fe8b",
+      "canonica_V7": "6e2c29797e6322f16dcc5248cce552be613dd11f1de957c66aaa913e69225238",
+      "manifesto": "79d1309a168922d0e8bf43736cd5b21c8b361bdf64e3b200eeeafd43806f3a9c"
+    },
+    {
+      "passo": "7b_conferencia_BA_correcao_datada",
+      "ts": "2026-09-16 04:52:30",
+      "nota": "2026-09-16 — o False em 'BA_identico_ao_diff_medido' era ESPÚRIO: a comparação incluía os rótulos dos cabeçalhos (--- oficial_76e526cf / +++ candidato_R16 × --- antes_76e526cf / +++ depois_R16). Refeita a comparação ignorando as 2 linhas de rótulo: conteúdo do B/A é IDÊNTICO ao diff medido.",
+      "rotulos_BA": [
+        "--- antes_76e526cf",
+        "+++ depois_R16"
+      ],
+      "rotulos_diff_medido": [
+        "--- oficial_76e526cf",
+        "+++ candidato_R16"
+      ],
+      "conteudo_identico_sem_rotulos": true
+    }
+  ],
+  "vereditos": {
+    "baseline_2E_299A_exit1": true,
+    "FC2_oficial_antigo_mudo_2E_299A_exit1": true,
+    "candidato_totais_identicos_2E_299A_exit1": true,
+    "candidato_V07_muda_por_identidade": true,
+    "candidato_V14_verde_16_regras": true,
+    "FC2_candidato_dispara_e_nomeia_os_dois_lados": true,
+    "FC2_candidato_placar_3E_exit1": true,
+    "TODOS_OS_CRITERIOS": true,
+    "instalacao_placar_final_2E_299A_exit1": true,
+    "ciencia_intacta": true,
+    "BA_conteudo_identico_sem_rotulos": true
+  },
+  "ciencia_tocada": 0,
+  "novo_oficial": {
+    "sha256": "84fa918d09899d54995ae41d65b0787a7a52888ba6177ce77583483b1124fe8b",
+    "backup": "validar_coerencia_camadas.py.bak_oficial_pre_3pontos_R16_2026-09-16",
+    "sha_antes_aposentado_com_backup": "76e526cf2cb5ba13ce67e9bf4f095af396d8978485ca480c1e381c13f979d0ac"
+  }
+}

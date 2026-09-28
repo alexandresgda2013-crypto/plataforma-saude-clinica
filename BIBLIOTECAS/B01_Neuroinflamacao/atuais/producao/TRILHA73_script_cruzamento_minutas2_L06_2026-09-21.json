@@ -1,0 +1,90 @@
+{
+  "trilha": 73,
+  "data": "2026-09-21",
+  "objeto": "cruzamento minutas 2 L-06 (comentador × mestre) — pedido A–F sem pré-decisão",
+  "sha_mestre": "eb54337c7f17c20fbd0ad1b926fd0d575b33462141537e837c4aff9fa13bbd13",
+  "sha_comentador_recebido": "1a51d9b970bb3ecb3f574b76dc772f77c2f599eb7fab70fd7919216c1cb93846",
+  "verdes": 15,
+  "total": 15,
+  "checks": [
+    {
+      "check": "C01_BYTES",
+      "ok": true,
+      "detalhe": "mestre sha=eb54337c==eb54337c (esperado) · comentador sha=1a51d9b9 (16735 ch) — verbatim com nota de autoria da casa no topo"
+    },
+    {
+      "check": "C02_A1_INVARIANTE",
+      "ok": true,
+      "detalhe": "frase literal presente nas duas (M §invariante / C INVARIANTE)"
+    },
+    {
+      "check": "C03_A2_NAO_DESCARTE",
+      "ok": true,
+      "detalhe": "M: 'Nenhum degrau elimina relação' · C: Parte 2 regra fundamental + aviso de implementação"
+    },
+    {
+      "check": "C04_A3_ESCADA7",
+      "ok": true,
+      "detalhe": "7 perguntas e saídas-base idênticas nas duas tabelas (nomes extra da C: disjuncao_de_contexto/niveis_distintos = D)"
+    },
+    {
+      "check": "C05_F2_DEGRADADA",
+      "ok": true,
+      "detalhe": "C: 'pelo menos um degrau anterior indisponível' barra multifatorial · M: 'se o 2 ou o 4 estiver indisponível' — C é estritamente mais geral; hoje mesmo efeito (2 e 4 indisponíveis), amanhã difere → B5/F2"
+    },
+    {
+      "check": "C06_DETERMINISMO_ATRIBUICAO",
+      "ok": true,
+      "detalhe": "Parte 6.3 de C explícita; M §4 tem ordem/simetria/idempotência mas não este item → resgate útil (C)"
+    },
+    {
+      "check": "C07_B1_DEGRAU5",
+      "ok": true,
+      "detalhe": "linha do degrau 5 da C lê 'direcao_suporte + marcação de extrapolação' (verification_status 0× na linha, mas presente na Parte 5 da própria C) · M lê verification_status+extrapolacao_por_analogia → correção necessária em C"
+    },
+    {
+      "check": "C08_SCHEMA_DIRECAO",
+      "ok": true,
+      "detalhe": "enum selado = direção epistêmica do suporte, 'ortogonal ao papel' — confirma B1 e a retratação §0.1 do mestre"
+    },
+    {
+      "check": "C09_MATRIZES",
+      "ok": true,
+      "detalhe": "matriz da C (claim_id como proxy declarado) → 4 pares = os 4 FP exatos de M §0.2 · matriz corrigida de M → 0 pares → B2 confirmada"
+    },
+    {
+      "check": "C10_F1_COLISAO_TESTES",
+      "ok": true,
+      "detalhe": "C usa T-14 (direção não-precedente) e T-15 (gate); M marca '(novo)' em T-14/T-15/T-16 com OUTROS critérios → IDs colidem; renumerar na consolidação (B6)"
+    },
+    {
+      "check": "C11_GATE",
+      "ok": true,
+      "detalhe": "C Parte 5: existência no acervo ≠ autorização; não consumir campos de transição/depreciados + T-15 gate · M sem seção equivalente → resgate (E1: amarrar 'aprovado' ao fluxo)"
+    },
+    {
+      "check": "C12_FRONTEIRA_D02",
+      "ok": true,
+      "detalhe": "C dedica Parte 1.3; M cita D-02 1× lateralmente → resgate: seção própria evita que resolução vire autoridade epistemológica"
+    },
+    {
+      "check": "C13_ANTI_SUBSTITUICAO",
+      "ok": true,
+      "detalhe": "C: ausência não autoriza campo 'parecido' · M: escopo é subdivisão interna, não contexto clínico (fiel ao schema, medido r57) — convergentes e complementares, preservar os dois"
+    },
+    {
+      "check": "C14_ARCO_RISCO",
+      "ok": true,
+      "detalhe": "C declara o risco a priori; M mede que o risco real era uma célula errada → a consolidada deve contar os dois lados do arco"
+    },
+    {
+      "check": "C15_PORTOES",
+      "ok": true,
+      "detalhe": "ancoras 0/274 · verification_status 274 · extrapolacao 274 · nao_est=['VINC_B1_0028', 'VINC_B1V2_0197', 'VINC_B1V2_0198', 'VINC_B1V2_0202'] (1 com claim, 3 sem) · marcador=['VINC_B1V2_0201'] sem par → 'marcador×nao_est: sem caso no acervo' VERDADE (E2, revisar no piloto)"
+    }
+  ],
+  "confissoes": [
+    "C73-1 (r59, confirmada nesta rodada): a pergunta 'dá para usar por fora?' NÃO foi feita pelo operador — a casa leu como pergunta dele um trecho de contexto colado; medição mantida como conteúdo verificado, atribuição retirada e registrada na ata (rev.67).",
+    "C73-2 (carta 22, refinada): a casa declarou 'base = minuta do mestre + 2 resgates' ANTES do cruzamento técnico A–F das duas versões; o enquadramento antecipava decisão de consolidação que pertence aos autores + operador. Este relatório substitui aquele enquadramento por vereditos item a item."
+  ]
+}

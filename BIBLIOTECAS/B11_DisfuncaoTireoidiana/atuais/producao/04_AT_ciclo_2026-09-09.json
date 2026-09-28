@@ -1,0 +1,36 @@
+{
+ "ciclo": "AT",
+ "data": "2026-09-09",
+ "biblioteca": "B11",
+ "versao_resultante": "V2",
+ "rodada_resultante": 4,
+ "insumos": [
+  "RODADA0 (dossiê)",
+  "GPM oficial",
+  "matriz ChatGPT B11 (APROVADO_COM_RESSALVAS)",
+  "anexo de artigos",
+  "briefing consolidado v1"
+ ],
+ "universo_auditado": "14 âncoras + 121 não citadas + 19 NAO-IDX + correção editorial",
+ "decisao": {
+  "ENTRA": 56,
+  "BAIXO": 41,
+  "EXC_grupos": 11
+ },
+ "refs_total": 96,
+ "palavras_v2": 9673,
+ "exposicoes": [
+  "Roca 1990 real = artigo de elevações transitórias (Endocr Res 1990); o PMID do dossiê era Romero-Gómez 2019",
+  "Zhang 2024 = correção editorial de Soheili 2023 (metadado)",
+  "Ao = tumor ósseo primário (EXC)",
+  "Eckert = diabetes tipo 1 (EXC)",
+  "Kirnap = DTC iatrogênico (EXC)",
+  "Toma 2026 tema corrigido (triagem, não NTIS)",
+  "Watanave 2018 [G1]"
+ ],
+ "portoes": {
+  "gate_P5": "pendente nesta etapa",
+  "framework": "pendente",
+  "checklist": "pendente"
+ }
+}

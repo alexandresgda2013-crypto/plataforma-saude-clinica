@@ -1,0 +1,152 @@
+{
+  "trilha": 92,
+  "data": "2026-09-24",
+  "objeto": "replica_conducao_RotaA_comentador",
+  "carta_sha256": "1cefd1489af72a43e958fce4064389d98a3caec7c074b397ce4e3f827c05f160",
+  "total": 13,
+  "ok": 13,
+  "resultado": [
+    {
+      "id": "T1",
+      "descricao": "carta Rota A arquivada",
+      "ok": true,
+      "detalhe": {
+        "sha256": "1cefd1489af72a43e958fce4064389d98a3caec7c074b397ce4e3f827c05f160",
+        "bytes": 13498
+      }
+    },
+    {
+      "id": "T2",
+      "descricao": "Rota A + pedido de minuta final verbatim",
+      "ok": true,
+      "detalhe": {
+        "rota_a": true,
+        "pedido_minuta": true
+      }
+    },
+    {
+      "id": "T3",
+      "descricao": "N2: enums dos dois eixos completos e distintos",
+      "ok": true,
+      "detalhe": {
+        "status_auditoria": [
+          "CITACAO_INCORRETA",
+          "CONFIRMADO",
+          "NAO_LOCALIZADO",
+          "NAO_SUSTENTA_CLAIM",
+          "PARCIALMENTE_CONFIRMADO"
+        ],
+        "direcao_suporte": [
+          "condicional",
+          "inconclusivo",
+          "refuta",
+          "sustenta"
+        ],
+        "interseccao": []
+      }
+    },
+    {
+      "id": "T5",
+      "descricao": "v3.1 sentido_do_achado enum exato + OBRIGATÓRIO",
+      "ok": true,
+      "detalhe": {
+        "sha": "f7e664d73e2dad603f7c4316df09286f0da9313a28779d2a67eb5f5fd225624e",
+        "enum": true,
+        "obrigatorio": true
+      }
+    },
+    {
+      "id": "T6",
+      "descricao": "mapeamento 3→3 biunívoco dentro do enum N2",
+      "ok": true,
+      "detalhe": {
+        "map": {
+          "suporta_relacao": "sustenta",
+          "refuta_relacao": "refuta",
+          "inconclusivo": "inconclusivo"
+        }
+      }
+    },
+    {
+      "id": "T7",
+      "descricao": "v1.2 moderadores: campos e efeitos citados na carta",
+      "ok": true,
+      "detalhe": {
+        "campos": true,
+        "efeitos": true
+      }
+    },
+    {
+      "id": "T8",
+      "descricao": ".001b: inverte + aprovado_com_ressalva",
+      "ok": true,
+      "detalhe": {
+        "encontrado": true
+      }
+    },
+    {
+      "id": "T9",
+      "descricao": "efeitos no kit para tratamento §8/§9",
+      "ok": true,
+      "detalhe": {
+        "atenua": 3,
+        "amplifica": 5,
+        "inverte": 1
+      }
+    },
+    {
+      "id": "T10",
+      "descricao": "grau_maturidade existe no N2 v1.4 (destino da maturidade)",
+      "ok": true,
+      "detalhe": {
+        "enum": [
+          "muito_estabelecido",
+          "bem_suportado",
+          "moderadamente_suportado",
+          "emergente",
+          "hipotese_inicial"
+        ]
+      }
+    },
+    {
+      "id": "T11",
+      "descricao": "§14 mantém rito das três IAs",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T12",
+      "descricao": "§16: 6 portões listados",
+      "ok": true,
+      "detalhe": {
+        "portoes": [
+          "### Portão científico",
+          "### Portão de Biblioteca",
+          "### Portão N1",
+          "### Portão N2",
+          "### Portão mecânico",
+          "### Portão adversarial"
+        ]
+      }
+    },
+    {
+      "id": "T13",
+      "descricao": "minuta casa cobre §18 (D1/R-1/R-2)",
+      "ok": true,
+      "detalhe": {
+        "D1": true,
+        "R-1": true,
+        "R-2": true,
+        "grau_maturidade": true
+      }
+    },
+    {
+      "id": "T14",
+      "descricao": "minuta declara 0 alteração N1/N2 (§17)",
+      "ok": true,
+      "detalhe": {
+        "declara": true
+      }
+    }
+  ]
+}

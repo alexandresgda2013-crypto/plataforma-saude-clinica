@@ -1,0 +1,35 @@
+SCHEMA-CLAIM v1.3 — VIGENTE
+===========================
+Aprovação do operador (verbatim, 25/09/2026):
+
+"Aprovo como vigente o Schema-Claim v1.3 — rev.3, digital 28cbc9c7, de 25/09/2026."
+
+Artefato vigente:
+  BIBLIOTECAS/_documentos_serie/SCHEMA_CLAIM_v1.3_rev3_vigente_2026-09-25/3º SCHEMA-CLAIM — v1.3.md
+  sha256 28cbc9c76006f485f340da124aa1795833afa56d38e6572a9279d94a88f6b94c
+  9.350 bytes · 2026-09-25
+
+Linhagem:
+  v1.2 baseline (56dc0e94, kit 15/09) → minuta v1.3 (TRILHA97 13/13)
+  → Comentador aprova + V-K3 (TRILHA98) → rev.2
+  → M sem ressalva × E com ressalva V-K6 (TRILHA99 9/9)
+  → rev.3 (V-K6+V-K7) → Comentador aceita
+  → E sem ressalva × M sem ressalva (TRILHA100 10/10) → aprovação do operador
+
+O que está VIGENTE (versão do kit clínico):
+  P-K1 sentido_do_achado por fonte (enum v3.1)
+  P-K2 ressalvas[] com tipo (3 tipos)
+  P-K3 fonte única de condicao
+  P-K5 grau_maturidade_cientifica
+  V-K1..V-K7 (V-K6 precedência na materialização; V-K7 ausência ≠ null)
+  migração sem reescrita retroativa; falha dura na materialização
+
+Travas:
+  1ª materialização: claims precisam dos campos no fechamento
+  P-K6 (inverte) = ciclo N2 v1.5 — .001b em espera
+  E-4 piloto de processo (.014) segue aberto
+
+Não altera: N1 v1.3 · N2 v1.4 · contrato de saída rev.2 · COMO EXECUTAR (v1.10 pendente)
+
+Baseline histórica: v1.2 permanece em
+  BIBLIOTECAS/_documentos_serie/KIT_CLINICA_recebido_2026-09-15/3º SCHEMA-CLAIM — v1.2.md

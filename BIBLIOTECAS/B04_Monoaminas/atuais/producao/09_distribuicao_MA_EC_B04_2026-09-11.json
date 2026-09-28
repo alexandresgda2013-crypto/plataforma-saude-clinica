@@ -1,0 +1,84 @@
+{
+ "acao": "09_distribuicao_MA_EC_MODULO09",
+ "data": "2026-09-11",
+ "biblioteca": "B04_Monoaminas",
+ "lei": "PROMPT_v4.2 instrução final: [MA]->02, [EC]->03; id único global (validar_auditoria.py)",
+ "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+ "contagens": {
+  "ficam_01": 122,
+  "vao_02_MA": 8,
+  "vao_03_EC": 1,
+  "conflitos": 0,
+  "tag_EC_amplo_nao_migrado": 0
+ },
+ "ids_para_02": [
+  {
+   "id": "REF_RUHE_2007",
+   "pmid": "17389902",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_RISCH_2009",
+   "pmid": "19531786",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_CIPRIANI_2018",
+   "pmid": "29477251",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_STRAWBRIDGE_2023",
+   "pmid": "36000248",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_WANG_2016",
+   "pmid": "27623971",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_SCHOPMAN_2021",
+   "pmid": "33574223",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_MALETIC_2017",
+   "pmid": "28367128",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_MIR_2025",
+   "pmid": "41167443",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  }
+ ],
+ "ids_para_03": [
+  {
+   "id": "REF_MELTZERBRODY_2018",
+   "pmid": "30177236",
+   "sinais": [
+    "desenho_rct:titulo"
+   ]
+  }
+ ],
+ "conflitos_tag_x_titulo_REVISAVEL": [],
+ "REVISAVEL_tag_EC_amplo_sem_sinal_RCT_nao_migrado": [],
+ "divida_nomeada": "forca_evidencia_afirmacao vazio quando a ficha não trazia (schema 09.2 exige; preenchimento exige avaliação — não fabricar)"
+}

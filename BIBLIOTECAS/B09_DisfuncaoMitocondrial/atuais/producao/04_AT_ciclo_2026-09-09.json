@@ -1,0 +1,80 @@
+{
+ "ciclo": "[AT] GPM B9 — Disfunção Mitocondrial",
+ "data": "2026-09-09",
+ "artefato": "CANONICA v2 (111 refs; de 35)",
+ "insumos": [
+  "GPM_B9_DisfuncaoMitocondrial (3).md (oficial, molde v2.0 — 47 âncoras com PMIDs; 12 regras fundadoras; inventário negativo ×10; fenótipos F1–F7; submecanismos B9.1–B9.7)",
+  "BRIEFING_B9_DISFUNCAO_MITOCONDRIAL_RODADA0.md",
+  "B9_Disfuncao_Mitocondrial_Briefing_Cientifico (1).md",
+  "Artigos cientificos do mecanismo B9 disfunção mitocondrial.md (anexo real: 165 entradas — briefing dizia 152)",
+  "Resumo do insumo para B9 Chatgpt.md (matriz 7 submecanismos; defesa do MR negativo)"
+ ],
+ "auditoria": {
+  "anexo_itens": 165,
+  "g1_resolvidos": 161,
+  "falsos_positivos": 0,
+  "nao_indexados": [
+   "Heyat 2024 (s40747)",
+   "Nunes 2025 (clinbioenerg)",
+   "Niu 2024 (preprint medRxiv)",
+   "Giménez-Palomo 2023 (Eur Psychiatry)"
+  ],
+  "sobreposicao_com_V1": 10,
+  "masters_gpm": {
+   "total": 47,
+   "ja_vigentes": 4,
+   "novas": 43
+  },
+  "fila_decisao": 151,
+  "entra": 76,
+  "baixo": 69,
+  "exc": 6,
+  "exc_itens": [
+   "Khaliulin 2025 (autismo)",
+   "Tomas 2017 (fadiga crônica — GPM M10 exclui)",
+   "Rovira 2017 (diabetes)",
+   "Aytaç 2025 (metanfetamina)",
+   "Tian Q 2025 (demência)",
+   "Park 2021 (Alzheimer)"
+  ],
+  "fragilidades_briefing_revertidas": [
+   "\"Lu 2024 não resolvido\" → resolvido (MR bidirecional, J Affect Disord)",
+   "\"Triebelhorn 2024 não localizado\" → mesmo registro, impressão 2024 (Mol Psychiatry)",
+   "\"Mańczak 2010\" → Reddy 2011 real (Mańczak coautora)",
+   "\"Li 2018\" → Wang 2018 real (BAIXO)",
+   "Scaini vigente impressão 2022 — ID mantido",
+   "anos de impressão corrigidos (Burté 2015; Chandhok 2018; Culmsee 2018; Feng 2020; Lagos 2026; Mafikandi 2025; Palma 2024; Triebelhorn 2024)",
+   "10 itens do anexo fora de §3∪§6 cobertos pela auditoria"
+  ]
+ },
+ "regras_fixadas": [
+  "B9-REGRA-01 ROS≠elevado (sinalização redox)",
+  "B9-REGRA-02 mtDNA quatro fenômenos",
+  "B9-REGRA-03 associação≠causalidade genética (MR Lu nulo; Xue compartilhada)",
+  "B9-REGRA-04 camadas A–E",
+  "B9-REGRA-05 multi-compartimento (PBMC≠neurônio)",
+  "B9-REGRA-06 causalidade animal Dong 2023",
+  "B9-REGRA-07 terapias só sinal (Javani/Mafikandi/Tian)",
+  "B9-REGRA-08 fronteiras B1/B6",
+  "B9-REGRA-09 ansiedade social âncora legítima",
+  "B9-REGRA-10 anos = impressão",
+  "B9-REGRA-11 Mito-Mood [G1]",
+  "B9-REGRA-12 multi-tag"
+ ],
+ "blocos_neg": [
+  "inventário negativo B9 ×10 fixado em CONTROVÉRSIAS"
+ ],
+ "artefatos": [
+  "producao/insumos/RELATORIO_AUDITORIA_MATRIZ_B9.md",
+  "producao/insumos/matriz_b9_decisao.json",
+  "producao/insumos/matriz_b9_g1.json",
+  "producao/insumos/b9_anexo_entries.json",
+  "producao/insumos/b9_cruzamento.json",
+  "producao/insumos/b9_efetch_all.json",
+  "producao/insumos/b9_trechos_ancora.json",
+  "producao/historico/v1_canonica_2026-09-09.md"
+ ],
+ "pendencias": [
+  "P-6 (2ª verificação cega, Via 2) — PENDENTE ao fim da rodada 16/16, cobrindo todas as levas [AT]"
+ ]
+}

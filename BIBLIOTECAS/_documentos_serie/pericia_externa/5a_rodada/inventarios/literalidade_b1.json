@@ -1,0 +1,2572 @@
+[
+ {
+  "id_vinculo": "VINC_B1_0001",
+  "id_referencia_interna": "REF_SWANSON_2019",
+  "claim_id": "B1.MEC.BLOCO01.001",
+  "secao": "BLOCO_01/1.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 458,
+  "chars_total": 458,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0002",
+  "id_referencia_interna": "REF_SERHAN_2014",
+  "claim_id": "B1.MEC.BLOCO01.001",
+  "secao": "BLOCO_01/1.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 462,
+  "chars_total": 462,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0003",
+  "id_referencia_interna": "REF_SERHAN_2018",
+  "claim_id": "B1.MEC.BLOCO01.001",
+  "secao": "BLOCO_01/1.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 462,
+  "chars_total": 462,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0004",
+  "id_referencia_interna": "REF_PERRY_2013",
+  "claim_id": "B1.MEC.BLOCO01.001",
+  "secao": "BLOCO_01/1.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 179,
+  "chars_total": 179,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0005",
+  "id_referencia_interna": "REF_BARRIENTOS_2015",
+  "claim_id": "B1.MEC.BLOCO01.001",
+  "secao": "BLOCO_01/1.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 409,
+  "chars_total": 409,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0006",
+  "id_referencia_interna": "REF_NORDEN_2015",
+  "claim_id": "B1.MEC.BLOCO01.001",
+  "secao": "BLOCO_01/1.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 250,
+  "chars_total": 250,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0007",
+  "id_referencia_interna": "REF_NORDEN_2015",
+  "claim_id": "B1.MEC.BLOCO01.003",
+  "secao": "BLOCO_01/1.3",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 468,
+  "chars_total": 468,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0008",
+  "id_referencia_interna": "REF_DANTZER_2001",
+  "claim_id": "B1.MEC.BLOCO01.002",
+  "secao": "BLOCO_01/1.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 469,
+  "chars_total": 469,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0009",
+  "id_referencia_interna": "REF_HARDEN_2015",
+  "claim_id": "B1.MEC.BLOCO01.002",
+  "secao": "BLOCO_01/1.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 430,
+  "chars_total": 430,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0010",
+  "id_referencia_interna": "REF_DANTZER_2006",
+  "claim_id": "B1.MEC.BLOCO01.002",
+  "secao": "BLOCO_01/1.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 457,
+  "chars_total": 457,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0011",
+  "id_referencia_interna": "REF_OCONNOR_2009",
+  "claim_id": "B1.MEC.BLOCO01.002",
+  "secao": "BLOCO_01/1.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 313,
+  "chars_total": 313,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0012",
+  "id_referencia_interna": "REF_BARRIENTOS_2015",
+  "claim_id": "B1.MEC.BLOCO01.003",
+  "secao": "BLOCO_01/1.3",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 264,
+  "chars_total": 264,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0013",
+  "id_referencia_interna": "REF_YANG_2026",
+  "claim_id": "B1.MEC.BLOCO01.003",
+  "secao": "BLOCO_01/1.3",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 405,
+  "chars_total": 405,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0014",
+  "id_referencia_interna": "REF_QIU_2026",
+  "claim_id": "B1.MEC.BLOCO01.003",
+  "secao": "BLOCO_01/1.3",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 405,
+  "chars_total": 405,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0015",
+  "id_referencia_interna": "REF_LOPES_2021",
+  "claim_id": "B1.MEC.BLOCO01.002",
+  "secao": "BLOCO_01/1.4",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 258,
+  "chars_total": 258,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0016",
+  "id_referencia_interna": "REF_SWANSON_2019",
+  "claim_id": "B1.MEC.BLOCO02.001",
+  "secao": "BLOCO_02/2.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 417,
+  "chars_total": 417,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0017",
+  "id_referencia_interna": "REF_BAMBOUSKOVA_2021",
+  "claim_id": "B1.MEC.BLOCO02.001",
+  "secao": "BLOCO_02/2.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 375,
+  "chars_total": 375,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0018",
+  "id_referencia_interna": "REF_MOLINALOPEZ_2024",
+  "claim_id": "B1.MEC.BLOCO02.001",
+  "secao": "BLOCO_02/2.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 423,
+  "chars_total": 423,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0019",
+  "id_referencia_interna": "REF_FU_2024",
+  "claim_id": "B1.MEC.BLOCO02.002",
+  "secao": "BLOCO_02/2.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 366,
+  "chars_total": 366,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0020",
+  "id_referencia_interna": "REF_YAN_2021",
+  "claim_id": "B1.MEC.BLOCO02.002",
+  "secao": "BLOCO_02/2.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 337,
+  "chars_total": 337,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0021",
+  "id_referencia_interna": "REF_RAJESH_2022",
+  "claim_id": "B1.MEC.BLOCO02.002",
+  "secao": "BLOCO_02/2.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 191,
+  "chars_total": 191,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0022",
+  "id_referencia_interna": "REF_WEI_2024",
+  "claim_id": "B1.MEC.BLOCO02.003",
+  "secao": "BLOCO_02/2.3",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 440,
+  "chars_total": 440,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0023",
+  "id_referencia_interna": "REF_HUANG_2023b",
+  "claim_id": "B1.MEC.BLOCO02.003",
+  "secao": "BLOCO_02/2.3",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 166,
+  "chars_total": 166,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0024",
+  "id_referencia_interna": "REF_ZHAO_2019",
+  "claim_id": "B1.MEC.BLOCO02.004",
+  "secao": "BLOCO_02/2.4",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 382,
+  "chars_total": 382,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0025",
+  "id_referencia_interna": "REF_WANG_2024",
+  "claim_id": "B1.MEC.BLOCO02.004",
+  "secao": "BLOCO_02/2.4",
+  "status_literalidade": "PROSA",
+  "chars_casados": 137,
+  "chars_total": 187,
+  "divergencia": "Gastrodin TLR4/TRAF6/NF-κB, 2024)[ML; camundongo]."
+ },
+ {
+  "id_vinculo": "VINC_B1_0026",
+  "id_referencia_interna": "REF_ZHANG_2023",
+  "claim_id": "B1.MEC.BLOCO02.005",
+  "secao": "BLOCO_02/2.5",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 391,
+  "chars_total": 391,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0027",
+  "id_referencia_interna": "REF_CHIU_2013",
+  "claim_id": "B1.MEC.BLOCO02.005",
+  "secao": "BLOCO_02/2.5",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 155,
+  "chars_total": 155,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0028",
+  "id_referencia_interna": "REF_TAFT_2021",
+  "claim_id": "B1.MEC.BLOCO02.006",
+  "secao": "BLOCO_02/2.6",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 314,
+  "chars_total": 314,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0029",
+  "id_referencia_interna": "REF_CHEN_2024b",
+  "claim_id": "B1.MEC.BLOCO02.008",
+  "secao": "BLOCO_02/2.8",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 233,
+  "chars_total": 233,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0030",
+  "id_referencia_interna": "REF_MALAU_2024",
+  "claim_id": "B1.MEC.BLOCO02.008",
+  "secao": "BLOCO_02/2.8",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 236,
+  "chars_total": 236,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0031",
+  "id_referencia_interna": "REF_FENG_2017",
+  "claim_id": "B1.MEC.BLOCO02.009",
+  "secao": "BLOCO_02/2.9",
+  "status_literalidade": "PROSA",
+  "chars_casados": 175,
+  "chars_total": 250,
+  "divergencia": "miR-223 inhibits NLRP3 in mitochondrial DAMP injury, 2017)[ML; camundo"
+ },
+ {
+  "id_vinculo": "VINC_B1_0032",
+  "id_referencia_interna": "REF_PICCA_2017",
+  "claim_id": "B1.MEC.BLOCO02.009",
+  "secao": "BLOCO_02/2.9",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 181,
+  "chars_total": 181,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0033",
+  "id_referencia_interna": "REF_CHEN_2021",
+  "claim_id": "B1.MEC.BLOCO02.010",
+  "secao": "BLOCO_02/2.10",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 314,
+  "chars_total": 314,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0034",
+  "id_referencia_interna": "REF_SALMINEN_2022",
+  "claim_id": "B1.MEC.BLOCO02.010",
+  "secao": "BLOCO_02/2.10",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 199,
+  "chars_total": 199,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0035",
+  "id_referencia_interna": "REF_XU_2021",
+  "claim_id": "B1.MEC.BLOCO02.011",
+  "secao": "BLOCO_02/2.11",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 181,
+  "chars_total": 181,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0036",
+  "id_referencia_interna": "REF_RAFFAELE_2025",
+  "claim_id": "B1.MEC.BLOCO02.011",
+  "secao": "BLOCO_02/2.11",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 204,
+  "chars_total": 204,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0037",
+  "id_referencia_interna": "REF_XU_2020",
+  "claim_id": "B1.MEC.BLOCO02.011",
+  "secao": "BLOCO_02/2.11",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 161,
+  "chars_total": 161,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0038",
+  "id_referencia_interna": "REF_BULL_2009",
+  "claim_id": "B1.MEC.BLOCO02.012",
+  "secao": "BLOCO_02/2.12",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 356,
+  "chars_total": 356,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0039",
+  "id_referencia_interna": "REF_SERHAN_2014",
+  "claim_id": "B1.MEC.BLOCO02.013",
+  "secao": "BLOCO_02/2.13",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 427,
+  "chars_total": 427,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0040",
+  "id_referencia_interna": "REF_FIORE_2023",
+  "claim_id": "B1.MEC.BLOCO02.013",
+  "secao": "BLOCO_02/2.13",
+  "status_literalidade": "ROTULO",
+  "chars_casados": 90,
+  "chars_total": 299,
+  "divergencia": "Pain-resolving immune mechanisms, 2023)[OB; revisão], e a maresina MaR"
+ },
+ {
+  "id_vinculo": "VINC_B1_0041",
+  "id_referencia_interna": "REF_BANG_2018",
+  "claim_id": "B1.MEC.BLOCO02.013",
+  "secao": "BLOCO_02/2.13",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 155,
+  "chars_total": 155,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0042",
+  "id_referencia_interna": "REF_WEI_2023",
+  "claim_id": "B1.MEC.BLOCO02.014",
+  "secao": "BLOCO_02/2.14",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 207,
+  "chars_total": 207,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0043",
+  "id_referencia_interna": "REF_LIU_2022",
+  "claim_id": "B1.MEC.BLOCO02.014",
+  "secao": "BLOCO_02/2.14",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 169,
+  "chars_total": 169,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0044",
+  "id_referencia_interna": "REF_WANG_2024",
+  "claim_id": "B1.MEC.BLOCO02.015",
+  "secao": "BLOCO_02/2.15",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 247,
+  "chars_total": 247,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0045",
+  "id_referencia_interna": "REF_CHEN_2024c",
+  "claim_id": "B1.MEC.BLOCO02.015",
+  "secao": "BLOCO_02/2.15",
+  "status_literalidade": "PROSA",
+  "chars_casados": 110,
+  "chars_total": 312,
+  "divergencia": "Gastrodin TLR4/TRAF6/NF-κB, 2024)[ML; camundongo], e o polifenol punic"
+ },
+ {
+  "id_vinculo": "VINC_B1_0046",
+  "id_referencia_interna": "REF_ZHENG_2014",
+  "claim_id": "B1.MEC.BLOCO02.016",
+  "secao": "BLOCO_02/2.16",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 245,
+  "chars_total": 245,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0047",
+  "id_referencia_interna": "REF_HAFIZI_2005",
+  "claim_id": "B1.MEC.BLOCO02.016",
+  "secao": "BLOCO_02/2.16",
+  "status_literalidade": "ROTULO",
+  "chars_casados": 84,
+  "chars_total": 319,
+  "divergencia": "Interferon-induced depression, 2007)[OB; SEM abstract — PENDENTE FULL-"
+ },
+ {
+  "id_vinculo": "VINC_B1_0048",
+  "id_referencia_interna": "REF_BLOMQVIST_2018",
+  "claim_id": "B1.MEC.BLOCO02.017",
+  "secao": "BLOCO_02/2.17",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 265,
+  "chars_total": 265,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0049",
+  "id_referencia_interna": "REF_YANG_2008",
+  "claim_id": "B1.MEC.BLOCO02.017",
+  "secao": "BLOCO_02/2.17",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 108,
+  "chars_total": 108,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0050",
+  "id_referencia_interna": "REF_HUANG_2023",
+  "claim_id": "B1.MEC.BLOCO02.018",
+  "secao": "BLOCO_02/2.18",
+  "status_literalidade": "PROSA",
+  "chars_casados": 82,
+  "chars_total": 259,
+  "divergencia": "cGAS-STING in neurological disorders, 2023)[OB; revisão, humano]; o cr"
+ },
+ {
+  "id_vinculo": "VINC_B1_0051",
+  "id_referencia_interna": "REF_YANG_2024",
+  "claim_id": "B1.MEC.BLOCO02.018",
+  "secao": "BLOCO_02/2.18",
+  "status_literalidade": "PROSA",
+  "chars_casados": 179,
+  "chars_total": 249,
+  "divergencia": "mtDNA-cGAS-STING-NLRP3 postoperative cognition, 2024)[ML; camundongo]."
+ },
+ {
+  "id_vinculo": "VINC_B1_0052",
+  "id_referencia_interna": "REF_SAXTON_2021",
+  "claim_id": "B1.MEC.BLOCO02.019",
+  "secao": "BLOCO_02/2.19",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 196,
+  "chars_total": 196,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0053",
+  "id_referencia_interna": "REF_SHIRAKAWA_2018",
+  "claim_id": "B1.MEC.BLOCO02.019",
+  "secao": "BLOCO_02/2.19",
+  "status_literalidade": "ROTULO",
+  "chars_casados": 72,
+  "chars_total": 295,
+  "divergencia": "IL-10-STAT3-Galectin-3 reparative macrophages, 2018)[ML; camundongo], "
+ },
+ {
+  "id_vinculo": "VINC_B1_0054",
+  "id_referencia_interna": "REF_KLENGEL_2013",
+  "claim_id": "B1.MEC.BLOCO02.020",
+  "secao": "BLOCO_02/2.20",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 447,
+  "chars_total": 447,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0055",
+  "id_referencia_interna": "REF_PARK_2019",
+  "claim_id": "B1.MEC.BLOCO02.020",
+  "secao": "BLOCO_02/2.20",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 225,
+  "chars_total": 225,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0056",
+  "id_referencia_interna": "REF_WANG_2018",
+  "claim_id": "B1.MEC.BLOCO02.021",
+  "secao": "BLOCO_02/2.21",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 407,
+  "chars_total": 407,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0057",
+  "id_referencia_interna": "REF_ZHANG_2025b",
+  "claim_id": "B1.MEC.BLOCO02.022",
+  "secao": "BLOCO_02/2.22",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 426,
+  "chars_total": 426,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0058",
+  "id_referencia_interna": "REF_WEI_2023",
+  "claim_id": "B1.MEC.BLOCO02.023",
+  "secao": "BLOCO_02/2.23",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 207,
+  "chars_total": 207,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0059",
+  "id_referencia_interna": "REF_BIANCHI_2011",
+  "claim_id": "B1.MEC.BLOCO02.024",
+  "secao": "BLOCO_02/2.24",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 484,
+  "chars_total": 484,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0060",
+  "id_referencia_interna": "REF_GARCIADOMINGUEZ_2025",
+  "claim_id": "B1.MEC.BLOCO02.024",
+  "secao": "BLOCO_02/2.24",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 309,
+  "chars_total": 309,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0061",
+  "id_referencia_interna": "REF_DONATO_2013",
+  "claim_id": "B1.MEC.BLOCO02.007",
+  "secao": "BLOCO_02/2.7",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 207,
+  "chars_total": 207,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0062",
+  "id_referencia_interna": "REF_LAPCHAK_1993",
+  "claim_id": "B1.MEC.BLOCO03.001",
+  "secao": "BLOCO_03/3.1",
+  "status_literalidade": "PROSA",
+  "chars_casados": 163,
+  "chars_total": 230,
+  "divergencia": "Systemic IL-1β decreases BDNF mRNA in hippocampus, 1993)[ML; rato]."
+ },
+ {
+  "id_vinculo": "VINC_B1_0063",
+  "id_referencia_interna": "REF_RIZZO_2018",
+  "claim_id": "B1.MEC.BLOCO03.001",
+  "secao": "BLOCO_03/3.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 255,
+  "chars_total": 255,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0064",
+  "id_referencia_interna": "REF_RIZZO_2018",
+  "claim_id": "B1.MEC.BLOCO03.002",
+  "secao": "BLOCO_03/3.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 358,
+  "chars_total": 358,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0065",
+  "id_referencia_interna": "REF_TOBINICK_2009",
+  "claim_id": "B1.MEC.BLOCO03.002",
+  "secao": "BLOCO_03/3.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 239,
+  "chars_total": 239,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0066",
+  "id_referencia_interna": "REF_WILLIS_2020",
+  "claim_id": "B1.MEC.BLOCO03.003",
+  "secao": "BLOCO_03/3.3",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 375,
+  "chars_total": 375,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0067",
+  "id_referencia_interna": "REF_KOHLER_2017",
+  "claim_id": "B1.MEC.BLOCO03.003",
+  "secao": "BLOCO_03/3.3",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 132,
+  "chars_total": 132,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0068",
+  "id_referencia_interna": "REF_ELENI_2025",
+  "claim_id": "B1.MEC.BLOCO03.004",
+  "secao": "BLOCO_03/3.4",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 294,
+  "chars_total": 294,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0069",
+  "id_referencia_interna": "REF_WIEDOCHA_2018",
+  "claim_id": "B1.MEC.BLOCO03.004",
+  "secao": "BLOCO_03/3.4",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 175,
+  "chars_total": 175,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0070",
+  "id_referencia_interna": "REF_HE_2024",
+  "claim_id": "B1.MEC.BLOCO03.005",
+  "secao": "BLOCO_03/3.5",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 280,
+  "chars_total": 280,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0071",
+  "id_referencia_interna": "REF_HERMAN_2018",
+  "claim_id": "B1.MEC.BLOCO03.005",
+  "secao": "BLOCO_03/3.5",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 181,
+  "chars_total": 181,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0072",
+  "id_referencia_interna": "REF_LANG_2025",
+  "claim_id": "B1.MEC.BLOCO03.005",
+  "secao": "BLOCO_03/3.5",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 196,
+  "chars_total": 196,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0073",
+  "id_referencia_interna": "REF_MARIANI_2022",
+  "claim_id": "B1.MEC.BLOCO03.006",
+  "secao": "BLOCO_03/3.6",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 183,
+  "chars_total": 183,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0074",
+  "id_referencia_interna": "REF_KEENAN_2025",
+  "claim_id": "B1.MEC.BLOCO03.006",
+  "secao": "BLOCO_03/3.6",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 187,
+  "chars_total": 187,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0075",
+  "id_referencia_interna": "REF_MARIANI_2022",
+  "claim_id": "B1.MEC.BLOCO03.007",
+  "secao": "BLOCO_03/3.7",
+  "status_literalidade": "ROTULO",
+  "chars_casados": 121,
+  "chars_total": 307,
+  "divergencia": "Microglial priming by IFN-γ, 2024)[ML]; revisões farmacológicas regist"
+ },
+ {
+  "id_vinculo": "VINC_B1_0076",
+  "id_referencia_interna": "REF_HERMAN_2018",
+  "claim_id": "B1.MEC.BLOCO03.008",
+  "secao": "BLOCO_03/3.8",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 249,
+  "chars_total": 249,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0077",
+  "id_referencia_interna": "REF_GE_2008",
+  "claim_id": "B1.MEC.BLOCO03.009",
+  "secao": "BLOCO_03/3.9",
+  "status_literalidade": "PROSA",
+  "chars_casados": 190,
+  "chars_total": 286,
+  "divergencia": "Transcellular transport of CCL2 across brain microvascular endothelial"
+ },
+ {
+  "id_vinculo": "VINC_B1_0078",
+  "id_referencia_interna": "REF_HAN_2005",
+  "claim_id": "B1.MEC.BLOCO03.009",
+  "secao": "BLOCO_03/3.9",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 204,
+  "chars_total": 204,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0079",
+  "id_referencia_interna": "REF_JANG_2020",
+  "claim_id": "B1.MEC.BLOCO03.012",
+  "secao": "BLOCO_03/3.9",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 273,
+  "chars_total": 273,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0080",
+  "id_referencia_interna": "REF_ZHU_2023",
+  "claim_id": "B1.MEC.BLOCO03.012",
+  "secao": "BLOCO_03/3.9",
+  "status_literalidade": "PROSA",
+  "chars_casados": 104,
+  "chars_total": 195,
+  "divergencia": "Cerebral microvascular inflammatory markers under depressive stress, 2"
+ },
+ {
+  "id_vinculo": "VINC_B1_0081",
+  "id_referencia_interna": "REF_ZHU_2026",
+  "claim_id": "B1.MEC.BLOCO03.010",
+  "secao": "BLOCO_03/3.10",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 182,
+  "chars_total": 182,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0082",
+  "id_referencia_interna": "REF_PAOLICELLI_2011",
+  "claim_id": "B1.MEC.BLOCO03.010",
+  "secao": "BLOCO_03/3.10",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 344,
+  "chars_total": 344,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0083",
+  "id_referencia_interna": "REF_KOHLER_2017",
+  "claim_id": "B1.MEC.BLOCO03.011",
+  "secao": "BLOCO_03/3.11",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 191,
+  "chars_total": 191,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0084",
+  "id_referencia_interna": "REF_CHEN_2025",
+  "claim_id": "B1.MEC.BLOCO03.006",
+  "secao": "BLOCO_03/3.12",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 299,
+  "chars_total": 299,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0085",
+  "id_referencia_interna": "REF_YANG_2020",
+  "claim_id": "B1.MEC.BLOCO03.006",
+  "secao": "BLOCO_03/3.12",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 299,
+  "chars_total": 299,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0086",
+  "id_referencia_interna": "REF_RUTSCH_2020",
+  "claim_id": "B1.MEC.BLOCO03.006",
+  "secao": "BLOCO_03/3.12",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 204,
+  "chars_total": 204,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0087",
+  "id_referencia_interna": "REF_YAMANISHI_2023",
+  "claim_id": "B1.MEC.BLOCO03.005",
+  "secao": "BLOCO_03/3.13",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 502,
+  "chars_total": 502,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0088",
+  "id_referencia_interna": "REF_HUI_2025",
+  "claim_id": "B1.MEC.BLOCO03.006",
+  "secao": "BLOCO_03/3.14",
+  "status_literalidade": "PROSA",
+  "chars_casados": 205,
+  "chars_total": 294,
+  "divergencia": "Disrupted betaine metabolism drives Th17 in depression-like model, 202"
+ },
+ {
+  "id_vinculo": "VINC_B1_0089",
+  "id_referencia_interna": "REF_KOHLER_2017",
+  "claim_id": "B1.MEC.BLOCO03.004",
+  "secao": "BLOCO_03/3.15",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 170,
+  "chars_total": 170,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0090",
+  "id_referencia_interna": "REF_KRASEMANN_2017",
+  "claim_id": "B1.MEC.BLOCO04.001",
+  "secao": "BLOCO_04/4.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 327,
+  "chars_total": 327,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0091",
+  "id_referencia_interna": "REF_ZHOU_2020",
+  "claim_id": "B1.MEC.BLOCO04.001",
+  "secao": "BLOCO_04/4.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 214,
+  "chars_total": 214,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0092",
+  "id_referencia_interna": "REF_CAMERON_2024",
+  "claim_id": "B1.MEC.BLOCO04.002",
+  "secao": "BLOCO_04/4.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 312,
+  "chars_total": 312,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0093",
+  "id_referencia_interna": "REF_YUN_2018",
+  "claim_id": "B1.MEC.BLOCO04.002",
+  "secao": "BLOCO_04/4.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 252,
+  "chars_total": 252,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0094",
+  "id_referencia_interna": "REF_SHEN_2025",
+  "claim_id": "B1.MEC.BLOCO04.002",
+  "secao": "BLOCO_04/4.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 138,
+  "chars_total": 138,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0095",
+  "id_referencia_interna": "REF_ZHANG_2024",
+  "claim_id": "B1.MEC.BLOCO04.003",
+  "secao": "BLOCO_04/4.3",
+  "status_literalidade": "PROSA",
+  "chars_casados": 399,
+  "chars_total": 501,
+  "divergencia": "Augmented microglial ER-mitochondria contacts mediate depression-like "
+ },
+ {
+  "id_vinculo": "VINC_B1_0096",
+  "id_referencia_interna": "REF_ARMULIK_2010",
+  "claim_id": "B1.MEC.BLOCO04.004",
+  "secao": "BLOCO_04/4.4",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 165,
+  "chars_total": 165,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0097",
+  "id_referencia_interna": "REF_MENARD_2017",
+  "claim_id": "B1.MEC.BLOCO04.004",
+  "secao": "BLOCO_04/4.4",
+  "status_literalidade": "PROSA",
+  "chars_casados": 284,
+  "chars_total": 374,
+  "divergencia": "Social stress induces neurovascular pathology promoting depression, 20"
+ },
+ {
+  "id_vinculo": "VINC_B1_0098",
+  "id_referencia_interna": "REF_BONAZ_2018",
+  "claim_id": "B1.MEC.BLOCO04.005",
+  "secao": "BLOCO_04/4.5",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 293,
+  "chars_total": 293,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0099",
+  "id_referencia_interna": "REF_LIU_2020",
+  "claim_id": "B1.MEC.BLOCO04.005",
+  "secao": "BLOCO_04/4.5",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 207,
+  "chars_total": 207,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0100",
+  "id_referencia_interna": "REF_LI_2025",
+  "claim_id": "B1.MEC.BLOCO04.006",
+  "secao": "BLOCO_04/4.6",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 161,
+  "chars_total": 161,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0101",
+  "id_referencia_interna": "REF_WILEY_2024",
+  "claim_id": "B1.MEC.BLOCO04.006",
+  "secao": "BLOCO_04/4.6",
+  "status_literalidade": "ROTULO",
+  "chars_casados": 81,
+  "chars_total": 164,
+  "divergencia": "Regulatory T-cell phenotypes in prenatal psychological distress, 2024)"
+ },
+ {
+  "id_vinculo": "VINC_B1_0102",
+  "id_referencia_interna": "REF_LIU_2020",
+  "claim_id": "B1.MEC.BLOCO04.009",
+  "secao": "BLOCO_04/4.7",
+  "status_literalidade": "PROSA",
+  "chars_casados": 45,
+  "chars_total": 74,
+  "divergencia": "taVNS MDD, 2020)[EC; humano]."
+ },
+ {
+  "id_vinculo": "VINC_B1_0103",
+  "id_referencia_interna": "REF_PINTOSANCHEZ_2017",
+  "claim_id": "B1.MEC.BLOCO04.009",
+  "secao": "BLOCO_04/4.7",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 198,
+  "chars_total": 198,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0104",
+  "id_referencia_interna": "REF_ZHANG_2026",
+  "claim_id": "B1.MEC.BLOCO04.009",
+  "secao": "BLOCO_04/4.7",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 144,
+  "chars_total": 144,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0105",
+  "id_referencia_interna": "REF_DA_2021",
+  "claim_id": "B1.MEC.BLOCO04.010",
+  "secao": "BLOCO_04/4.8",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 390,
+  "chars_total": 390,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0106",
+  "id_referencia_interna": "REF_KIM_2025",
+  "claim_id": "B1.MEC.BLOCO04.010",
+  "secao": "BLOCO_04/4.8",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 390,
+  "chars_total": 390,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0107",
+  "id_referencia_interna": "REF_XU_2024",
+  "claim_id": "B1.MEC.BLOCO04.010",
+  "secao": "BLOCO_04/4.8",
+  "status_literalidade": "PROSA",
+  "chars_casados": 189,
+  "chars_total": 281,
+  "divergencia": "Choroid plexus synergizes with immune cells during neuroinflammation, "
+ },
+ {
+  "id_vinculo": "VINC_B1_0108",
+  "id_referencia_interna": "REF_MENARD_2017",
+  "claim_id": "B1.MEC.BLOCO04.008",
+  "secao": "BLOCO_04/4.4",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 79,
+  "chars_total": 79,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0109",
+  "id_referencia_interna": "REF_DOWLATI_2010",
+  "claim_id": "B1.MEC.BLOCO05.004",
+  "secao": "BLOCO_05/5.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 202,
+  "chars_total": 202,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0110",
+  "id_referencia_interna": "REF_HOWREN_2009",
+  "claim_id": "B1.MEC.BLOCO05.004",
+  "secao": "BLOCO_05/5.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 174,
+  "chars_total": 174,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0111",
+  "id_referencia_interna": "REF_GOLDSMITH_2016",
+  "claim_id": "B1.MEC.BLOCO05.004",
+  "secao": "BLOCO_05/5.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 198,
+  "chars_total": 198,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0112",
+  "id_referencia_interna": "REF_OSIMO_2020",
+  "claim_id": "B1.MEC.BLOCO05.004",
+  "secao": "BLOCO_05/5.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 155,
+  "chars_total": 155,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0113",
+  "id_referencia_interna": "REF_KOHLER_2017",
+  "claim_id": "B1.MEC.BLOCO05.004",
+  "secao": "BLOCO_05/5.1",
+  "status_literalidade": "PROSA",
+  "chars_casados": 93,
+  "chars_total": 133,
+  "divergencia": "Leighton/quimiocinas, 2017)[MA; humano]."
+ },
+ {
+  "id_vinculo": "VINC_B1_0114",
+  "id_referencia_interna": "REF_JARKAS_2024",
+  "claim_id": "B1.MEC.BLOCO05.004",
+  "secao": "BLOCO_05/5.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 179,
+  "chars_total": 179,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0115",
+  "id_referencia_interna": "REF_VIRTANEN_2015",
+  "claim_id": "B1.MEC.BLOCO05.004",
+  "secao": "BLOCO_05/5.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 120,
+  "chars_total": 120,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0116",
+  "id_referencia_interna": "REF_COMAI_2022",
+  "claim_id": "B1.MEC.BLOCO05.001",
+  "secao": "BLOCO_05/5.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 180,
+  "chars_total": 180,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0117",
+  "id_referencia_interna": "REF_SUBLETTE_2011",
+  "claim_id": "B1.MEC.BLOCO05.001",
+  "secao": "BLOCO_05/5.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 119,
+  "chars_total": 119,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0118",
+  "id_referencia_interna": "REF_SOUZA_2017",
+  "claim_id": "B1.MEC.BLOCO05.001",
+  "secao": "BLOCO_05/5.2",
+  "status_literalidade": "PROSA",
+  "chars_casados": 90,
+  "chars_total": 268,
+  "divergencia": "Brain IDO depressive-like, 2017)[ML; camundongo], e o balanço quinuren"
+ },
+ {
+  "id_vinculo": "VINC_B1_0119",
+  "id_referencia_interna": "REF_SETIAWAN_2015",
+  "claim_id": "B1.MEC.BLOCO05.002",
+  "secao": "BLOCO_05/5.4",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 192,
+  "chars_total": 192,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0120",
+  "id_referencia_interna": "REF_HOLMES_2018",
+  "claim_id": "B1.MEC.BLOCO05.002",
+  "secao": "BLOCO_05/5.4",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 151,
+  "chars_total": 151,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0121",
+  "id_referencia_interna": "REF_ARORA_2019",
+  "claim_id": "B1.MEC.BLOCO05.005",
+  "secao": "BLOCO_05/5.5",
+  "status_literalidade": "PROSA",
+  "chars_casados": 147,
+  "chars_total": 305,
+  "divergencia": "Serum S100B in depression, 2019)[OB; humano] e propostos como marcador"
+ },
+ {
+  "id_vinculo": "VINC_B1_0122",
+  "id_referencia_interna": "REF_GULEN_2016",
+  "claim_id": "B1.MEC.BLOCO05.005",
+  "secao": "BLOCO_05/5.5",
+  "status_literalidade": "PROSA",
+  "chars_casados": 237,
+  "chars_total": 395,
+  "divergencia": "Serum S100B in depression, 2019)[OB; humano] e propostos como marcador"
+ },
+ {
+  "id_vinculo": "VINC_B1_0123",
+  "id_referencia_interna": "REF_STEINER_2011",
+  "claim_id": "B1.MEC.BLOCO05.006",
+  "secao": "BLOCO_05/5.6",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 368,
+  "chars_total": 368,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0124",
+  "id_referencia_interna": "REF_YANG_2024b",
+  "claim_id": "B1.MEC.BLOCO05.006",
+  "secao": "BLOCO_05/5.6",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 299,
+  "chars_total": 299,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0125",
+  "id_referencia_interna": "REF_BELGE_2020",
+  "claim_id": "B1.MEC.BLOCO05.007",
+  "secao": "BLOCO_05/5.7",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 553,
+  "chars_total": 553,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0126",
+  "id_referencia_interna": "REF_MONSALVE_2025",
+  "claim_id": "B1.MEC.BLOCO05.003",
+  "secao": "BLOCO_05/5.3",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 135,
+  "chars_total": 135,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0127",
+  "id_referencia_interna": "REF_CHUKAEW_2021",
+  "claim_id": "B1.MEC.BLOCO06.001",
+  "secao": "BLOCO_06/6.1",
+  "status_literalidade": "PROSA",
+  "chars_casados": 235,
+  "chars_total": 326,
+  "divergencia": "Depression and antidepressant-response biomarkers in human lymphoblast"
+ },
+ {
+  "id_vinculo": "VINC_B1_0128",
+  "id_referencia_interna": "REF_RAISON_2013",
+  "claim_id": "B1.MEC.BLOCO06.001",
+  "secao": "BLOCO_06/6.1",
+  "status_literalidade": "PROSA",
+  "chars_casados": 75,
+  "chars_total": 216,
+  "divergencia": "a inflamação \"sabota\" os mecanismos de ação do antidepressivo, como o "
+ },
+ {
+  "id_vinculo": "VINC_B1_0129",
+  "id_referencia_interna": "REF_DUMAN_2016",
+  "claim_id": "B1.MEC.BLOCO06.001",
+  "secao": "BLOCO_06/6.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 138,
+  "chars_total": 138,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0130",
+  "id_referencia_interna": "REF_VIRTANEN_2015",
+  "claim_id": "B1.MEC.BLOCO06.002",
+  "secao": "BLOCO_06/6.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 371,
+  "chars_total": 371,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0131",
+  "id_referencia_interna": "REF_OSIMO_2020",
+  "claim_id": "B1.MEC.BLOCO06.002",
+  "secao": "BLOCO_06/6.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 222,
+  "chars_total": 222,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0132",
+  "id_referencia_interna": "REF_CAPURON_2002",
+  "claim_id": "B1.MEC.BLOCO06.003",
+  "secao": "BLOCO_06/6.3",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 242,
+  "chars_total": 242,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0133",
+  "id_referencia_interna": "REF_CAPURON_2002b",
+  "claim_id": "B1.MEC.BLOCO06.003",
+  "secao": "BLOCO_06/6.3",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 193,
+  "chars_total": 193,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0134",
+  "id_referencia_interna": "REF_FELGER_2016",
+  "claim_id": "B1.MEC.BLOCO06.003",
+  "secao": "BLOCO_06/6.3",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 191,
+  "chars_total": 191,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0135",
+  "id_referencia_interna": "REF_BEKHBAT_2022",
+  "claim_id": "B1.MEC.BLOCO06.004",
+  "secao": "BLOCO_06/6.4",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 275,
+  "chars_total": 275,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0136",
+  "id_referencia_interna": "REF_MEHTA_2020",
+  "claim_id": "B1.MEC.BLOCO06.004",
+  "secao": "BLOCO_06/6.4",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 185,
+  "chars_total": 185,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0137",
+  "id_referencia_interna": "REF_WANG_2024",
+  "claim_id": "B1.MEC.BLOCO07.001",
+  "secao": "BLOCO_07/7.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 271,
+  "chars_total": 271,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0138",
+  "id_referencia_interna": "REF_SACTA_2018",
+  "claim_id": "B1.MEC.BLOCO07.001",
+  "secao": "BLOCO_07/7.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 311,
+  "chars_total": 311,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0139",
+  "id_referencia_interna": "REF_MOLINALOPEZ_2024",
+  "claim_id": "B1.MEC.BLOCO07.001",
+  "secao": "BLOCO_07/7.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 214,
+  "chars_total": 214,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0140",
+  "id_referencia_interna": "REF_LANG_2025",
+  "claim_id": "B1.MEC.BLOCO07.001",
+  "secao": "BLOCO_07/7.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 214,
+  "chars_total": 214,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0141",
+  "id_referencia_interna": "REF_SWANSON_2019",
+  "claim_id": "B1.MEC.BLOCO07.001",
+  "secao": "BLOCO_07/7.3",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 295,
+  "chars_total": 295,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0142",
+  "id_referencia_interna": "REF_YANG_2024",
+  "claim_id": "B1.MEC.BLOCO07.001",
+  "secao": "BLOCO_07/7.3",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 274,
+  "chars_total": 274,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0143",
+  "id_referencia_interna": "REF_SACTA_2018",
+  "claim_id": "B1.MEC.BLOCO08.001",
+  "secao": "BLOCO_08/8.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 381,
+  "chars_total": 381,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0144",
+  "id_referencia_interna": "REF_FELGER_2016",
+  "claim_id": "B1.MEC.BLOCO08.001",
+  "secao": "BLOCO_08/8.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 113,
+  "chars_total": 113,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0145",
+  "id_referencia_interna": "REF_LAPCHAK_1993",
+  "claim_id": "B1.MEC.BLOCO08.002",
+  "secao": "BLOCO_08/8.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 204,
+  "chars_total": 204,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0146",
+  "id_referencia_interna": "REF_SCHAFER_2012",
+  "claim_id": "B1.MEC.BLOCO08.003",
+  "secao": "BLOCO_08/8.2",
+  "status_literalidade": "ROTULO",
+  "chars_casados": 111,
+  "chars_total": 581,
+  "divergencia": "Microglia sculpt circuits in complement-dependent manner, 2012)[ML; ca"
+ },
+ {
+  "id_vinculo": "VINC_B1_0147",
+  "id_referencia_interna": "REF_HAO_2024",
+  "claim_id": "B1.MEC.BLOCO08.003",
+  "secao": "BLOCO_08/8.2",
+  "status_literalidade": "ROTULO",
+  "chars_casados": 111,
+  "chars_total": 581,
+  "divergencia": "Microglia sculpt circuits in complement-dependent manner, 2012)[ML; ca"
+ },
+ {
+  "id_vinculo": "VINC_B1_0148",
+  "id_referencia_interna": "REF_ZHAO_2025",
+  "claim_id": "B1.MEC.BLOCO08.003",
+  "secao": "BLOCO_08/8.2",
+  "status_literalidade": "ROTULO",
+  "chars_casados": 111,
+  "chars_total": 581,
+  "divergencia": "Microglia sculpt circuits in complement-dependent manner, 2012)[ML; ca"
+ },
+ {
+  "id_vinculo": "VINC_B1_0149",
+  "id_referencia_interna": "REF_ZHANG_2024",
+  "claim_id": "B1.MEC.BLOCO08.006",
+  "secao": "BLOCO_08/8.3",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 121,
+  "chars_total": 121,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0150",
+  "id_referencia_interna": "REF_CHO_2024",
+  "claim_id": "B1.MEC.BLOCO08.005",
+  "secao": "BLOCO_08/8.4",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 461,
+  "chars_total": 461,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0151",
+  "id_referencia_interna": "REF_GARATE_2011",
+  "claim_id": "B1.MEC.BLOCO08.005",
+  "secao": "BLOCO_08/8.4",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 461,
+  "chars_total": 461,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0152",
+  "id_referencia_interna": "REF_BEKHBAT_2022",
+  "claim_id": "B1.MEC.BLOCO08.007",
+  "secao": "BLOCO_08/8.5",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 188,
+  "chars_total": 188,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0153",
+  "id_referencia_interna": "REF_MENENDEZ_2024",
+  "claim_id": "B1.MEC.BLOCO08.009",
+  "secao": "BLOCO_08/8.7",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 247,
+  "chars_total": 247,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0154",
+  "id_referencia_interna": "REF_YANG_2023",
+  "claim_id": "B1.MEC.BLOCO08.010",
+  "secao": "BLOCO_08/8.8",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 283,
+  "chars_total": 283,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0155",
+  "id_referencia_interna": "REF_XU_2026",
+  "claim_id": "B1.MEC.BLOCO08.010",
+  "secao": "BLOCO_08/8.8",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 283,
+  "chars_total": 283,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0156",
+  "id_referencia_interna": "REF_FEKETE_2004",
+  "claim_id": "B1.MEC.BLOCO08.011",
+  "secao": "BLOCO_08/8.9",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 324,
+  "chars_total": 324,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0157",
+  "id_referencia_interna": "REF_ZEOLD_2006",
+  "claim_id": "B1.MEC.BLOCO08.011",
+  "secao": "BLOCO_08/8.9",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 324,
+  "chars_total": 324,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0158",
+  "id_referencia_interna": "REF_KLENGEL_2013",
+  "claim_id": "B1.MEC.BLOCO08.012",
+  "secao": "BLOCO_08/8.10",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 345,
+  "chars_total": 345,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0159",
+  "id_referencia_interna": "REF_YEHUDA_2016",
+  "claim_id": "B1.MEC.BLOCO08.012",
+  "secao": "BLOCO_08/8.10",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 345,
+  "chars_total": 345,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0160",
+  "id_referencia_interna": "REF_BRANN_2022",
+  "claim_id": "B1.MEC.BLOCO08.014",
+  "secao": "BLOCO_08/8.12",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 408,
+  "chars_total": 408,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0161",
+  "id_referencia_interna": "REF_GOSHEN_2009",
+  "claim_id": "B1.MEC.BLOCO09.001",
+  "secao": "BLOCO_09/9.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 223,
+  "chars_total": 223,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0162",
+  "id_referencia_interna": "REF_ALMEIDA_2020",
+  "claim_id": "B1.MEC.BLOCO09.001",
+  "secao": "BLOCO_09/9.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 171,
+  "chars_total": 171,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0163",
+  "id_referencia_interna": "REF_LAPCHAK_1993",
+  "claim_id": "B1.MEC.BLOCO09.001",
+  "secao": "BLOCO_09/9.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 129,
+  "chars_total": 129,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0164",
+  "id_referencia_interna": "REF_BASILICO_2022",
+  "claim_id": "B1.MEC.BLOCO09.002",
+  "secao": "BLOCO_09/9.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 239,
+  "chars_total": 239,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0165",
+  "id_referencia_interna": "REF_NASH_2019",
+  "claim_id": "B1.MEC.BLOCO09.002",
+  "secao": "BLOCO_09/9.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 225,
+  "chars_total": 225,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0166",
+  "id_referencia_interna": "REF_STELLWAGEN_2006",
+  "claim_id": "B1.MEC.BLOCO09.003",
+  "secao": "BLOCO_09/9.3",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 214,
+  "chars_total": 214,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0167",
+  "id_referencia_interna": "REF_ZHENG_2014",
+  "claim_id": "B1.MEC.BLOCO10.001",
+  "secao": "BLOCO_10/10.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 421,
+  "chars_total": 421,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0168",
+  "id_referencia_interna": "REF_GOSHEN_2009",
+  "claim_id": "B1.MEC.BLOCO10.002",
+  "secao": "BLOCO_10/10.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 369,
+  "chars_total": 369,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0169",
+  "id_referencia_interna": "REF_ZHANG_2025",
+  "claim_id": "B1.MEC.BLOCO10.003",
+  "secao": "BLOCO_10/10.3",
+  "status_literalidade": "PROSA",
+  "chars_casados": 116,
+  "chars_total": 207,
+  "divergencia": "M2 microglia-derived small extracellular vesicles modulate NSC fate, 2"
+ },
+ {
+  "id_vinculo": "VINC_B1_0170",
+  "id_referencia_interna": "REF_PENG_2025",
+  "claim_id": "B1.MEC.BLOCO10.003",
+  "secao": "BLOCO_10/10.3",
+  "status_literalidade": "ROTULO",
+  "chars_casados": 56,
+  "chars_total": 253,
+  "divergencia": "TREM2 improves neurogenesis, 2025)[ML; camundongo], e o eixo IL-4/STAT"
+ },
+ {
+  "id_vinculo": "VINC_B1_0171",
+  "id_referencia_interna": "REF_CHEN_2024",
+  "claim_id": "B1.MEC.BLOCO10.003",
+  "secao": "BLOCO_10/10.3",
+  "status_literalidade": "ROTULO",
+  "chars_casados": 56,
+  "chars_total": 253,
+  "divergencia": "TREM2 improves neurogenesis, 2025)[ML; camundongo], e o eixo IL-4/STAT"
+ },
+ {
+  "id_vinculo": "VINC_B1_0172",
+  "id_referencia_interna": "REF_OSIMO_2020",
+  "claim_id": "B1.MEC.BLOCO11.001",
+  "secao": "BLOCO_11/11.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 457,
+  "chars_total": 457,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0173",
+  "id_referencia_interna": "REF_RAISON_2013",
+  "claim_id": "B1.MEC.BLOCO11.001",
+  "secao": "BLOCO_11/11.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 617,
+  "chars_total": 617,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0174",
+  "id_referencia_interna": "REF_SETIAWAN_2015",
+  "claim_id": "B1.MEC.BLOCO11.001",
+  "secao": "BLOCO_11/11.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 617,
+  "chars_total": 617,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0175",
+  "id_referencia_interna": "REF_STEINER_2011",
+  "claim_id": "B1.MEC.BLOCO11.001",
+  "secao": "BLOCO_11/11.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 617,
+  "chars_total": 617,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0176",
+  "id_referencia_interna": "REF_BEKHBAT_2022",
+  "claim_id": "B1.MEC.BLOCO11.001",
+  "secao": "BLOCO_11/11.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 617,
+  "chars_total": 617,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0177",
+  "id_referencia_interna": "REF_BULL_2009",
+  "claim_id": "B1.MEC.BLOCO11.001",
+  "secao": "BLOCO_11/11.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 163,
+  "chars_total": 163,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0178",
+  "id_referencia_interna": "REF_WILEY_2024",
+  "claim_id": "B1.MEC.BLOCO11.001",
+  "secao": "BLOCO_11/11.2",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 92,
+  "chars_total": 92,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0179",
+  "id_referencia_interna": "REF_CHENG_2021",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO02/2.25",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 363,
+  "chars_total": 363,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0180",
+  "id_referencia_interna": "REF_VIZUETE_2022",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO02/2.25",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 363,
+  "chars_total": 363,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0181",
+  "id_referencia_interna": "REF_TANNAHILL_2013",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO02/2.25",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 273,
+  "chars_total": 273,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0182",
+  "id_referencia_interna": "REF_LIU_2023",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO02/2.25",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 395,
+  "chars_total": 395,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0183",
+  "id_referencia_interna": "REF_ENGSKOGVLACHOS_2025",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO02/2.25",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 395,
+  "chars_total": 395,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0184",
+  "id_referencia_interna": "REF_ZEB_2022",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO02/2.26",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 198,
+  "chars_total": 198,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0185",
+  "id_referencia_interna": "REF_ABUDARA_2015",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO02/2.27",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 423,
+  "chars_total": 423,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0186",
+  "id_referencia_interna": "REF_KARPUK_2011",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO02/2.27",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 423,
+  "chars_total": 423,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0187",
+  "id_referencia_interna": "REF_LEI_2023",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO02/2.27",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 423,
+  "chars_total": 423,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0188",
+  "id_referencia_interna": "REF_WEN_2024",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO02/2.27",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 358,
+  "chars_total": 358,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0189",
+  "id_referencia_interna": "REF_LYU_2025",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO02/2.27",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 358,
+  "chars_total": 358,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0190",
+  "id_referencia_interna": "REF_LEE_2025",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO03/3.16",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 343,
+  "chars_total": 343,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0191",
+  "id_referencia_interna": "REF_KIM_2017",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO03/3.16",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 129,
+  "chars_total": 129,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0192",
+  "id_referencia_interna": "REF_HUANG_2024b",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO03/3.16",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 146,
+  "chars_total": 146,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0193",
+  "id_referencia_interna": "REF_GAO_2023",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO03/3.16",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 409,
+  "chars_total": 409,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0194",
+  "id_referencia_interna": "REF_KOMLEVA_2021",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO03/3.16",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 409,
+  "chars_total": 409,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0195",
+  "id_referencia_interna": "REF_RENNA_2018",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO06/6.6",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 455,
+  "chars_total": 455,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0196",
+  "id_referencia_interna": "REF_COSTELLO_2019",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO06/6.6",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 455,
+  "chars_total": 455,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0197",
+  "id_referencia_interna": "REF_COSCO_2019",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO06/6.6",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 670,
+  "chars_total": 670,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0198",
+  "id_referencia_interna": "REF_QUAGLIATO_2018",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO06/6.6",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 670,
+  "chars_total": 670,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0199",
+  "id_referencia_interna": "REF_PASSOS_2015",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO06/6.6",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 670,
+  "chars_total": 670,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0200",
+  "id_referencia_interna": "REF_BHATT_2020",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO06/6.6",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 334,
+  "chars_total": 334,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0201",
+  "id_referencia_interna": "REF_RUPPRECHT_2022",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO06/6.6",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 334,
+  "chars_total": 334,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0202",
+  "id_referencia_interna": "REF_PARSONS_2021",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO06/6.6",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 401,
+  "chars_total": 401,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0203",
+  "id_referencia_interna": "REF_HOWE_2022",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO06/6.6",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 401,
+  "chars_total": 401,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0204",
+  "id_referencia_interna": "REF_KIM_2018",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO06/6.6",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 123,
+  "chars_total": 123,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0205",
+  "id_referencia_interna": "REF_XIA_2024",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO06/6.7",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 514,
+  "chars_total": 514,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0206",
+  "id_referencia_interna": "REF_BI_2016",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO06/6.7",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 514,
+  "chars_total": 514,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0207",
+  "id_referencia_interna": "REF_WITTENBERG_2020",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO06/6.7",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 325,
+  "chars_total": 325,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1V2_0208",
+  "id_referencia_interna": "REF_SU_2018",
+  "claim_id": "",
+  "secao": "mecanismo_B1_neuroinflamacao/BLOCO06/6.7",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 121,
+  "chars_total": 121,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0209",
+  "id_referencia_interna": "REF_HANNESTAD_2013",
+  "claim_id": "B1.MEC.BLOCO05.002",
+  "secao": "BLOCO_05/5.4",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 135,
+  "chars_total": 135,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0210",
+  "id_referencia_interna": "REF_ZHANG_2015",
+  "claim_id": "B1.MEC.BLOCO02.001",
+  "secao": "BLOCO_02/2.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 158,
+  "chars_total": 158,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0211",
+  "id_referencia_interna": "REF_PARROTT_2016",
+  "claim_id": "B1.MEC.BLOCO02.010",
+  "secao": "BLOCO_02/2.10",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 172,
+  "chars_total": 172,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0212",
+  "id_referencia_interna": "REF_KAUFMANN_2017",
+  "claim_id": "B1.MEC.BLOCO02.001",
+  "secao": "BLOCO_02/2.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 51,
+  "chars_total": 51,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0213",
+  "id_referencia_interna": "REF_WANG_2018b",
+  "claim_id": "B1.MEC.BLOCO05.006",
+  "secao": "BLOCO_05/5.6",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 155,
+  "chars_total": 155,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0214",
+  "id_referencia_interna": "REF_KOHLER_2018",
+  "claim_id": "B1.MEC.BLOCO06.001",
+  "secao": "BLOCO_06/6.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 33,
+  "chars_total": 33,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0215",
+  "id_referencia_interna": "REF_MARTINHERNANDEZ_2019",
+  "claim_id": "B1.MEC.BLOCO02.010",
+  "secao": "BLOCO_02/2.10",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 142,
+  "chars_total": 142,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0216",
+  "id_referencia_interna": "REF_WANG_2019",
+  "claim_id": "B1.MEC.BLOCO06.001",
+  "secao": "BLOCO_06/6.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 38,
+  "chars_total": 38,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0217",
+  "id_referencia_interna": "REF_DACUNTO_2019",
+  "claim_id": "B1.MEC.BLOCO05.004",
+  "secao": "BLOCO_05/5.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 35,
+  "chars_total": 35,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0218",
+  "id_referencia_interna": "REF_SAVITZ_2020",
+  "claim_id": "B1.MEC.BLOCO02.010",
+  "secao": "BLOCO_02/2.10",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 84,
+  "chars_total": 84,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0219",
+  "id_referencia_interna": "REF_ENACHE_2019",
+  "claim_id": "B1.MEC.BLOCO05.006",
+  "secao": "BLOCO_05/5.6",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 164,
+  "chars_total": 164,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0220",
+  "id_referencia_interna": "REF_LIU_2020b",
+  "claim_id": "B1.MEC.BLOCO06.001",
+  "secao": "BLOCO_06/6.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 31,
+  "chars_total": 31,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0221",
+  "id_referencia_interna": "REF_ATTWELLS_2020",
+  "claim_id": "B1.MEC.BLOCO05.002",
+  "secao": "BLOCO_05/5.4",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 35,
+  "chars_total": 35,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0222",
+  "id_referencia_interna": "REF_HAROON_2020",
+  "claim_id": "B1.MEC.BLOCO02.010",
+  "secao": "BLOCO_02/2.10",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 135,
+  "chars_total": 135,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0223",
+  "id_referencia_interna": "REF_NAGY_2020",
+  "claim_id": "B1.MEC.BLOCO05.006",
+  "secao": "BLOCO_05/5.6",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 126,
+  "chars_total": 126,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0224",
+  "id_referencia_interna": "REF_MACGIOLLABHUI_2021",
+  "claim_id": "B1.MEC.BLOCO05.004",
+  "secao": "BLOCO_05/5.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 170,
+  "chars_total": 170,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0225",
+  "id_referencia_interna": "REF_BOTTCHER_2020",
+  "claim_id": "B1.MEC.BLOCO05.006",
+  "secao": "BLOCO_05/5.6",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 116,
+  "chars_total": 116,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0226",
+  "id_referencia_interna": "REF_ANDERSON_2020",
+  "claim_id": "B1.MEC.BLOCO05.007",
+  "secao": "BLOCO_05/5.7",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 49,
+  "chars_total": 49,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0227",
+  "id_referencia_interna": "REF_NUTMA_2021",
+  "claim_id": "B1.MEC.BLOCO05.002",
+  "secao": "BLOCO_05/5.4",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 56,
+  "chars_total": 56,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0228",
+  "id_referencia_interna": "REF_SCHUBERT_2021",
+  "claim_id": "B1.MEC.BLOCO05.002",
+  "secao": "BLOCO_05/5.4",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 35,
+  "chars_total": 35,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0229",
+  "id_referencia_interna": "REF_WANG_2021",
+  "claim_id": "B1.MEC.BLOCO02.003",
+  "secao": "BLOCO_02/2.3",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 101,
+  "chars_total": 101,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0230",
+  "id_referencia_interna": "REF_GUILARTE_2022",
+  "claim_id": "B1.MEC.BLOCO05.002",
+  "secao": "BLOCO_05/5.4",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 56,
+  "chars_total": 56,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0231",
+  "id_referencia_interna": "REF_GARCIAGARCIA_2022",
+  "claim_id": "B1.MEC.BLOCO06.001",
+  "secao": "BLOCO_06/6.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 80,
+  "chars_total": 80,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0232",
+  "id_referencia_interna": "REF_LI_2021",
+  "claim_id": "B1.MEC.BLOCO02.003",
+  "secao": "BLOCO_02/2.3",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 116,
+  "chars_total": 116,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0233",
+  "id_referencia_interna": "REF_LIU_2022b",
+  "claim_id": "B1.MEC.BLOCO02.001",
+  "secao": "BLOCO_02/2.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 55,
+  "chars_total": 55,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0234",
+  "id_referencia_interna": "REF_EGGERSTORFER_2022",
+  "claim_id": "B1.MEC.BLOCO05.002",
+  "secao": "BLOCO_05/5.4",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 39,
+  "chars_total": 39,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0235",
+  "id_referencia_interna": "REF_ALMULLA_2022",
+  "claim_id": "B1.MEC.BLOCO02.010",
+  "secao": "BLOCO_02/2.10",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 101,
+  "chars_total": 101,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0236",
+  "id_referencia_interna": "REF_XIA_2023",
+  "claim_id": "B1.MEC.BLOCO02.001",
+  "secao": "BLOCO_02/2.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 42,
+  "chars_total": 42,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0237",
+  "id_referencia_interna": "REF_KOUBA_2022",
+  "claim_id": "B1.MEC.BLOCO02.001",
+  "secao": "BLOCO_02/2.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 42,
+  "chars_total": 42,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0238",
+  "id_referencia_interna": "REF_ELGELLAIE_2023",
+  "claim_id": "B1.MEC.BLOCO05.004",
+  "secao": "BLOCO_05/5.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 36,
+  "chars_total": 36,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0239",
+  "id_referencia_interna": "REF_BADAWY_2023",
+  "claim_id": "B1.MEC.BLOCO02.010",
+  "secao": "BLOCO_02/2.10",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 84,
+  "chars_total": 84,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0240",
+  "id_referencia_interna": "REF_NUTMA_2023",
+  "claim_id": "B1.MEC.BLOCO05.002",
+  "secao": "BLOCO_05/5.4",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 88,
+  "chars_total": 88,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0241",
+  "id_referencia_interna": "REF_HAN_2023b",
+  "claim_id": "B1.MEC.BLOCO02.003",
+  "secao": "BLOCO_02/2.3",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 76,
+  "chars_total": 76,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0242",
+  "id_referencia_interna": "REF_LIU_2023b",
+  "claim_id": "B1.MEC.BLOCO03.017",
+  "secao": "BLOCO_03/3.17",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 120,
+  "chars_total": 120,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0243",
+  "id_referencia_interna": "REF_STONE_2024",
+  "claim_id": "B1.MEC.BLOCO02.010",
+  "secao": "BLOCO_02/2.10",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 84,
+  "chars_total": 84,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0244",
+  "id_referencia_interna": "REF_BERTOLLO_2025",
+  "claim_id": "B1.MEC.BLOCO02.010",
+  "secao": "BLOCO_02/2.10",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 84,
+  "chars_total": 84,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0245",
+  "id_referencia_interna": "REF_GAVRIL_2024",
+  "claim_id": "B1.MEC.BLOCO05.004",
+  "secao": "BLOCO_05/5.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 34,
+  "chars_total": 34,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0246",
+  "id_referencia_interna": "REF_JADHAV_2025",
+  "claim_id": "B1.MEC.BLOCO05.004",
+  "secao": "BLOCO_05/5.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 125,
+  "chars_total": 125,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0247",
+  "id_referencia_interna": "REF_WIJESINGHE_2025",
+  "claim_id": "B1.MEC.BLOCO05.002",
+  "secao": "BLOCO_05/5.4",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 83,
+  "chars_total": 83,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0248",
+  "id_referencia_interna": "REF_XU_2025",
+  "claim_id": "B1.MEC.BLOCO02.001",
+  "secao": "BLOCO_02/2.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 81,
+  "chars_total": 81,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0249",
+  "id_referencia_interna": "REF_XIE_2025",
+  "claim_id": "B1.MEC.BLOCO06.001",
+  "secao": "BLOCO_06/6.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 41,
+  "chars_total": 41,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0250",
+  "id_referencia_interna": "REF_GEDEK_2025",
+  "claim_id": "B1.MEC.BLOCO05.004",
+  "secao": "BLOCO_05/5.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 51,
+  "chars_total": 51,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0251",
+  "id_referencia_interna": "REF_LI_2026",
+  "claim_id": "B1.MEC.BLOCO05.004",
+  "secao": "BLOCO_05/5.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 29,
+  "chars_total": 29,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0252",
+  "id_referencia_interna": "REF_MCCOLGAN_2026",
+  "claim_id": "B1.MEC.BLOCO02.001",
+  "secao": "BLOCO_02/2.1",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 123,
+  "chars_total": 123,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0253",
+  "id_referencia_interna": "REF_MURATA_2026",
+  "claim_id": "B1.MEC.BLOCO02.010",
+  "secao": "BLOCO_02/2.10",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 36,
+  "chars_total": 36,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0254",
+  "id_referencia_interna": "REF_OREGAN_2026",
+  "claim_id": "B1.MEC.BLOCO02.010",
+  "secao": "BLOCO_02/2.10",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 37,
+  "chars_total": 37,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0255",
+  "id_referencia_interna": "REF_HUA_2026",
+  "claim_id": "B1.MEC.BLOCO10.004",
+  "secao": "BLOCO_10/10.4",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 88,
+  "chars_total": 88,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0256",
+  "id_referencia_interna": "REF_BARZON_2026b",
+  "claim_id": "B1.MEC.BLOCO05.002",
+  "secao": "BLOCO_05/5.4",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 49,
+  "chars_total": 49,
+  "divergencia": ""
+ },
+ {
+  "id_vinculo": "VINC_B1_0257",
+  "id_referencia_interna": "REF_BARZON_2026",
+  "claim_id": "B1.MEC.BLOCO05.002",
+  "secao": "BLOCO_05/5.4",
+  "status_literalidade": "LITERAL",
+  "chars_casados": 34,
+  "chars_total": 34,
+  "divergencia": ""
+ }
+]

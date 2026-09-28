@@ -1,0 +1,948 @@
+[
+ {
+  "pmid_oficial": "39511449",
+  "titulo_artigo": "Peripartum allopregnanolone blood concentrations and depressive symptoms: a systematic review and individual participant data meta-analysis",
+  "autores": [
+   "Schoretsanitis G",
+   "Osborne LM",
+   "Sundström-Poromaa I",
+   "Wenzel ES",
+   "Payne JL",
+   "Barbui C"
+  ],
+  "revista_ano": "Molecular psychiatry (2025)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Concentrações sanguíneas de alopregnanolona no periparto e sintomas depressivos (meta/IPD)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SCHORETSANITIS_2025"
+  ],
+  "id_referencia_interna": "REF_SCHORETSANITIS_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Schoretsanitis",
+   "SCHORETSANITIS"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "27603786",
+  "titulo_artigo": "Bioidentical Estrogen for Menopausal Depressive Symptoms: A Systematic Review and Meta-Analysis",
+  "autores": [
+   "Whedon JM",
+   "KizhakkeVeettil A",
+   "Rugo NA",
+   "Kieffer KA"
+  ],
+  "revista_ano": "Journal of women's health (2002) (2017)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Estrogênio bioidêntico para sintomas depressivos menopáusicos (revisão/meta)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_WHEDON_2017"
+  ],
+  "id_referencia_interna": "REF_WHEDON_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "WHEDON",
+   "Whedon"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "34517034",
+  "titulo_artigo": "Gonadal steroid hormones and emotional memory consolidation: A systematic review and meta-analysis",
+  "autores": [
+   "Hsu CK",
+   "Ney LJ",
+   "Honan C",
+   "Felmingham KL"
+  ],
+  "revista_ano": "Neuroscience and biobehavioral reviews (2021)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Hormônios esteroides gonadais e consolidação da memória emocional (meta/revisão)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_HSU_2021"
+  ],
+  "id_referencia_interna": "REF_HSU_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "HSU",
+   "Hsu"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "30427999",
+  "titulo_artigo": "Association of Testosterone Treatment With Alleviation of Depressive Symptoms in Men: A Systematic Review and Meta-analysis",
+  "autores": [
+   "Walther A",
+   "Breidenstein J",
+   "Miller R"
+  ],
+  "revista_ano": "JAMA psychiatry (2019)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Associação do tratamento com testosterona ao alívio de sintomas depressivos em homens (revisão/meta)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_WALTHER_2019"
+  ],
+  "id_referencia_interna": "REF_WALTHER_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "WALTHER",
+   "Walther"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "31557486",
+  "titulo_artigo": "Hormones of the hypothalamic-pituitary-gonadal (HPG) axis in male depressive disorders - A systematic review and meta-analysis",
+  "autores": [
+   "Fischer S",
+   "Ehlert U",
+   "Amiel Castro R"
+  ],
+  "revista_ano": "Frontiers in neuroendocrinology (2019)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Hormônios do eixo HPG na depressão masculina (revisão/meta)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_FISCHER_2019"
+  ],
+  "id_referencia_interna": "REF_FISCHER_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "FISCHER",
+   "Fischer"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "19773400",
+  "titulo_artigo": "A systematic review and meta-analysis of randomized placebo-controlled trials of DHEA treatment effects on quality of life in women with adrenal insufficiency",
+  "autores": [
+   "Alkatib AA",
+   "Cosma M",
+   "Elamin MB",
+   "Erickson D",
+   "Swiglo BA",
+   "Erwin PJ"
+  ],
+  "revista_ano": "The Journal of clinical endocrinology and metabolism (2009)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Meta de ECRs placebo-controlados de DHEA sobre qualidade de vida",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ALKATIB_2009"
+  ],
+  "id_referencia_interna": "REF_ALKATIB_2009",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Alkatib",
+   "ALKATIB"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "30124161",
+  "titulo_artigo": "Dehydroepiandrosterone (DHEA) for Depression: A Systematic Review and Meta-Analysis",
+  "autores": [
+   "Peixoto C",
+   "Grande AJ",
+   "Mallmann MB",
+   "Nardi AE",
+   "Cardoso A",
+   "Veras AB"
+  ],
+  "revista_ano": "CNS & neurological disorders drug targets (2018)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "DHEA para depressão: revisão sistemática e meta",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_PEIXOTO_2018"
+  ],
+  "id_referencia_interna": "REF_PEIXOTO_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Peixoto",
+   "PEIXOTO"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "38471257",
+  "titulo_artigo": "Gonads under stress: A systematic review and meta-analysis on the effects of acute psychosocial stress on gonadal steroids secretion in humans",
+  "autores": [
+   "Domes G",
+   "Linnig K",
+   "von Dawans B"
+  ],
+  "revista_ano": "Psychoneuroendocrinology (2024)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Estresse social agudo e esteroides gonadais (revisão/meta)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_DOMES_2024"
+  ],
+  "id_referencia_interna": "REF_DOMES_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "DOMES",
+   "Domes"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "31323375",
+  "titulo_artigo": "Brexanolone for postpartum depression: A meta-analysis of randomized controlled studies",
+  "autores": [
+   "Zheng W",
+   "Cai DB",
+   "Zheng W",
+   "Sim K",
+   "Ungvari GS",
+   "Peng XJ"
+  ],
+  "revista_ano": "Psychiatry research (2019)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Brexanolone para DPP: meta de ECRs",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ZHENG_2019"
+  ],
+  "id_referencia_interna": "REF_ZHENG_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Zheng",
+   "ZHENG"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "38802705",
+  "titulo_artigo": "The efficacy and safety of Zuranolone for treatment of depression: A systematic review and meta-analysis",
+  "autores": [
+   "Fayoud AM",
+   "Orebi HA",
+   "Elshnoudy IA",
+   "Elsebaie MAT",
+   "Elewidi MMM",
+   "Sabra HK"
+  ],
+  "revista_ano": "Psychopharmacology (2024)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Eficácia/segurança da zuranolona para depressão (revisão/meta)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_FAYOUD_2024"
+  ],
+  "id_referencia_interna": "REF_FAYOUD_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "FAYOUD",
+   "Fayoud"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "38489051",
+  "titulo_artigo": "The efficacy of zuranolone versus placebo in postpartum depression and major depressive disorder: a systematic review and meta-analysis",
+  "autores": [
+   "Winslow M",
+   "White E",
+   "Rose SJ",
+   "Salzer E",
+   "Nemec EC 2nd"
+  ],
+  "revista_ano": "International journal of clinical pharmacy (2024)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Zuranolona vs. placebo na DPP e TDM (revisão sistemática)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_WINSLOW_2024"
+  ],
+  "id_referencia_interna": "REF_WINSLOW_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "WINSLOW",
+   "Winslow"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "42401022",
+  "titulo_artigo": "Comparative efficacy and acceptability of pharmacological interventions for postpartum depression: a systematic review and network meta-analysis",
+  "autores": [
+   "Xiao Y",
+   "Xie P",
+   "Li D",
+   "Zhao T",
+   "Nie J"
+  ],
+  "revista_ano": "Psychiatry research (2026)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Eficácia/aceitabilidade de intervenções farmacológicas na DPP (revisão sistemática)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_XIAO_2026"
+  ],
+  "id_referencia_interna": "REF_XIAO_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Xiao",
+   "XIAO"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "34171352",
+  "titulo_artigo": "Variation in genes and hormones of the hypothalamic-pituitary-ovarian axis in female mood disorders - A systematic review and meta-analysis",
+  "autores": [
+   "Amiel Castro RT",
+   "Ehlert U",
+   "Fischer S"
+  ],
+  "revista_ano": "Frontiers in neuroendocrinology (2021)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Variação em genes/hormônios do eixo hipotálamo-hipófise-ovariano nos transtornos do humor femininos (revisão sistemática)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_AMIEL_2021"
+  ],
+  "id_referencia_interna": "REF_AMIEL_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Amiel",
+   "AMIEL"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "38045802",
+  "titulo_artigo": "Efficacy and safety of zuranolone in major depressive disorder: a meta-analysis of factor effect and dose-response analyses",
+  "autores": [
+   "Lin YW",
+   "Tu YK",
+   "Hung KC",
+   "Liang CS",
+   "Tseng PT",
+   "Lin PY"
+  ],
+  "revista_ano": "EClinicalMedicine (2023)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Eficácia/segurança da zuranolona na TDM: meta de efeito fatorial e dose-resposta (7 ECRs, ~1.789 pacientes; SMD depressão ~−0,37; resposta OR ~2,06; remissão OR ~2,04; ansiedade SMD ~−0,26 — G3)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LIN_2023"
+  ],
+  "id_referencia_interna": "REF_LIN_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "LIN",
+   "Lin"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "38029628",
+  "titulo_artigo": "Efficacy and safety of zuranolone for the treatment of depression: A systematic review and meta-analysis",
+  "autores": [
+   "Li Z",
+   "Wu Q",
+   "Peng P",
+   "Wu M",
+   "Liu S",
+   "Liu T"
+  ],
+  "revista_ano": "Psychiatry research (2024)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Eficácia/segurança da zuranolona para depressão: RS/meta (benefício no dia 15, persistência variável)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LI_2024"
+  ],
+  "id_referencia_interna": "REF_LI_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Li",
+   "LI"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "39035602",
+  "titulo_artigo": "Evaluating the safety and efficacy of zuranolone in the management of major depressive disorder and postpartum depression, with or without concurrent insomnia: a rigorous systematic review and meta-analysis",
+  "autores": [
+   "Raja A",
+   "Ahmed S",
+   "Basit Ali Siddiqui M",
+   "Lamiya Mir S",
+   "Kumar R",
+   "Ahmed M"
+  ],
+  "revista_ano": "Frontiers in psychiatry (2024)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Segurança/eficácia da zuranolona no manejo da TDM e DPP (meta)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_RAJA_2024"
+  ],
+  "id_referencia_interna": "REF_RAJA_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "RAJA",
+   "Raja"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "38759520",
+  "titulo_artigo": "Allopregnanolone in the peripartum: Correlates, concentrations, and challenges - A systematic review",
+  "autores": [
+   "Grötsch MK",
+   "Ehlert U"
+  ],
+  "revista_ano": "Psychoneuroendocrinology (2024)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Alopregnanolona no periparto: correlatos, concentrações e mudanças (revisão sistemática)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GROTSCH_2024"
+  ],
+  "id_referencia_interna": "REF_GROTSCH_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "GROTSCH",
+   "Grotsch"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "32930419",
+  "titulo_artigo": "Dehydroepiandrosterone for depressive symptoms: A systematic review and meta-analysis of randomized controlled trials",
+  "autores": [
+   "Peixoto C",
+   "José Grande A",
+   "Gomes Carrilho C",
+   "Nardi AE",
+   "Cardoso A",
+   "Barciela Veras A"
+  ],
+  "revista_ano": "Journal of neuroscience research (2020)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "DHEA para sintomas depressivos: RS/meta de ECRs (~15 estudos/853 participantes; SMD ~−0,28; qualidade de evidência MUITO BAIXA — G3)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_PEIXOTO_2020"
+  ],
+  "id_referencia_interna": "REF_PEIXOTO_2020",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Peixoto",
+   "PEIXOTO"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "37068417",
+  "titulo_artigo": "The effect of exogenous estrogen on depressive mood in women: A systematic review and meta-analysis of randomized controlled trials",
+  "autores": [
+   "Zhang J",
+   "Yin J",
+   "Song X",
+   "Lai S",
+   "Zhong S",
+   "Jia Y"
+  ],
+  "revista_ano": "J Psychiatr Res (2023)",
+  "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · J Psychiatr Res",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Revisão sistemática com meta-análise de ensaios randomizados: estrogênio exógeno associado a melhora do humor depressivo em mulheres — evidência de intervenção (sinal), distinta do eixo endógeno",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_ZHANG_2023"
+  ],
+  "id_referencia_interna": "REF_ZHANG_2023",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Male",
+   "Female",
+   "Humans",
+   "Depression",
+   "Randomized Controlled Trials as Topic",
+   "Estrogens",
+   "Affect",
+   "Depressive Disorder"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "g1_resumo": "eutils (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "36961547",
+  "titulo_artigo": "Does menopause elevate the risk for developing depression and anxiety? Results from a systematic review",
+  "autores": [
+   "Alblooshi S",
+   "Taylor M",
+   "Gill N"
+  ],
+  "revista_ano": "Australas Psychiatry (2023)",
+  "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Australas Psychiatry",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Revisão sistemática: a menopausa eleva o risco de desenvolver depressão e ansiedade diagnosticadas",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_ALBLOOSHI_2023"
+  ],
+  "id_referencia_interna": "REF_ALBLOOSHI_2023",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Female",
+   "Humans",
+   "Depression",
+   "Prospective Studies",
+   "Retrospective Studies",
+   "Cross-Sectional Studies",
+   "Menopause",
+   "Anxiety"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "g1_resumo": "eutils (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ }
+]

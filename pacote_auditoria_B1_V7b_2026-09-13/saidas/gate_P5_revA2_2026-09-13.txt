@@ -1,0 +1,15 @@
+======================================================================
+GATE-SCRIPT (P-5) — atuais
+Canônica: B1 NEUROINFLAMAÇÃO V7 CANONICA.md
+refs Módulo09: 237 | vínculos N2: 274
+======================================================================
+INFO| [1c] 237 refs trazem o campo 'citacao_confirmada' preenchido (hoje SEM dependência de portão — todas têm g1_metodo): campo banido como via desde rev.A2; origem a auditar e remoção/ignorância a decidir no pacote de schema L-05.
+INFO| [6a0] campo 'forca_biologica_conexao' vazio em TODO o acervo — ramo 'conexão HIGH' do critério (a) é mensurável mas não mensurado (dívida de preenchimento — pacote schema L-05)
+INFO| [6] ALTO RISCO por 4 critérios (Bloco H): (a)nó BLOCO_07/HIGH=6 (b)uso clínico=37 (c)humano→causal=14 (d)rejeição=0 → união 51 vínculos / 38 refs; sem 2ª verificação: 38 refs (fase 1-operador: mitigação declarada; exigir 2º avaliador quando houver equipe): ['REF_ARORA_2019', 'REF_BEKHBAT_2022', 'REF_BELGE_2020', 'REF_BULL_2009', 'REF_CAPURON_2002']
+INFO| [9/E3] 2 âncoras de CONFIRMADO não terminam em fim de frase/tag (possível truncagem — INFO; P-8/V-01 mede literalidade): ['VINC_B1_0038', 'VINC_B1_0232']
+INFO| [10] 'uso' fora do enum SCHEMA-CLAIM v3.1 (medido neste acervo): {'contexto_mecanistico': 178, 'clinico': 37, 'B1_v2': 30} — decisão de schema (L-05/1.2), NÃO remapear campo a campo sem norma.
+INFO| [11] 1 frase(s) declarativas sem campo verification_status válido E sem selo inline: ['VINC_B1_0047'] — contado sempre (não silencioso); hoje corresponde à dívida full-text nomeada na fila P-6. Vira FALHA quando a fila P-6 fechar.
+INFO| [11b] 7 vínculos de APENDICE_CORPUS (índice, não frase declarativa) com verification_status pendente: ['VINC_B1_0258', 'VINC_B1_0259', 'VINC_B1_0264', 'VINC_B1_0268', 'VINC_B1_0269', 'VINC_B1_0270', 'VINC_B1_0271'] — índice de corpus; revisão no P-6.
+
+RESULTADO: GATE APROVADO (conteúdo) — pode seguir para Rodada 3/Fidelidade.
+(itens [6]/[9]/[10]/[11] são INFO nomeados de fase/dívida — ver P-6 e pacote L-05; [4b] é otimalidade)

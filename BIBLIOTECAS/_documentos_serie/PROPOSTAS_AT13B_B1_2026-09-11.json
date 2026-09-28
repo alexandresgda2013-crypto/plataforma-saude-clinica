@@ -1,0 +1,132 @@
+{
+ "0139": [
+  {
+   "id_vinculo": "VINC_B1_0139",
+   "ref": "REF_MOLINALOPEZ_2024",
+   "consulta": "Molina-López 2024",
+   "achado": "variantes gain-of-function NLRP3 -> inflamassoma constitutivo; GSDMD/IL-18 basais",
+   "ancora_atual": "Prova causal forte: variantes humanas ganho-de-função geram inflamassoma constitutivo (CAPS)[EC humano]; inibidores e a deleção reduzem dano; NEK7 modula o comp",
+   "n_cand": 2,
+   "recomendada": "A prova de que a montagem do complexo é necessária e suficiente vem da genética humana: variantes ganho-de-função de NLRP3 (síndromes cryopyrin/CAPS) formam inflamassomas **constitutivamente ativos**, com clivagem basal de gasdermina D, liberação de IL-18 e piroptose mesmo sem gatilho externo — em pacientes e modelos animais (Molina-López et al., 2024)[EC; humano+camundongo] [EXTRAPOLADO: animal/célula→humano][EXT para TDM].",
+   "recomendacao": "RE-ANCORAR para candidata própria"
+  },
+  {
+   "id_vinculo": "VINC_B1_0140",
+   "ref": "REF_LANG_2025",
+   "consulta": "Lang 2025",
+   "achado": "NEK7 regula NLRP3; alvo modula piroptose e alivia comportamento depressivo",
+   "ancora_atual": "Prova causal forte: variantes humanas ganho-de-função geram inflamassoma constitutivo (CAPS)[EC humano]; inibidores e a deleção reduzem dano; NEK7 modula o comp",
+   "n_cand": 2,
+   "recomendada": "Em modelo de depressão, o alvo NEK7 (regulador a montante do NLRP3) modula piroptose e microbiota e alivia comportamento tipo-depressivo (Lang et al., 2025)[ML; rato/camundongo] [PRÉ-CLÍNICO][EXT].",
+   "recomendacao": "RE-ANCORAR para candidata própria"
+  }
+ ],
+ "0150": [
+  {
+   "id_vinculo": "VINC_B1_0150",
+   "ref": "REF_CHO_2024",
+   "consulta": "Cho 2024",
+   "achado": "LPS derivado do intestino e TLR4 periferico medeiam inflamacao no estresse (translocacao bacteriana)",
+   "ancora_atual": "Estresse psicológico compromete a barreira intestinal, permitindo translocação bacteriana (LPS) que ativa TLR4 periférico e central: LPS derivado do intestino e",
+   "n_cand": 2,
+   "recomendada": "Estresse psicológico compromete a barreira intestinal, permitindo translocação bacteriana (LPS) que ativa TLR4 periférico e central: LPS derivado do intestino e TLR4 periférico medeiam inflamação no estresse (Cho et al., 2024)[ML; camundongo], e a estimulação da via TLR4 cerebral no estresse crônico é relevante para depressão (Gárate et al., 2011)[ML; rato] [EXTRAPOLADO: animal/célula→humano].",
+   "recomendacao": "MANTER (âncora compartilhada já traz citação nominal — co-citação legítima)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0151",
+   "ref": "REF_GARATE_2011",
+   "consulta": "Gárate 2011",
+   "achado": "estresse compromete barreira intestinal; estimulacao da via TLR4 cerebral relevante para depressao",
+   "ancora_atual": "Estresse psicológico compromete a barreira intestinal, permitindo translocação bacteriana (LPS) que ativa TLR4 periférico e central: LPS derivado do intestino e",
+   "n_cand": 2,
+   "recomendada": "Estresse psicológico compromete a barreira intestinal, permitindo translocação bacteriana (LPS) que ativa TLR4 periférico e central: LPS derivado do intestino e TLR4 periférico medeiam inflamação no estresse (Cho et al., 2024)[ML; camundongo], e a estimulação da via TLR4 cerebral no estresse crônico é relevante para depressão (Gárate et al., 2011)[ML; rato] [EXTRAPOLADO: animal/célula→humano].",
+   "recomendacao": "MANTER (âncora compartilhada já traz citação nominal — co-citação legítima)"
+  }
+ ],
+ "0156": [
+  {
+   "id_vinculo": "VINC_B1_0156",
+   "ref": "REF_FEKETE_2004",
+   "consulta": "Fekete 2004",
+   "achado": "LPS induz desiodase tipo 2 (D2) em tanicitos do hipotálamo mediobasal; converte T4->T3 no SNC",
+   "ancora_atual": "LPS induz a desiodase tipo 2 (D2) em tanicitos do hipotálamo mediobasal — a principal enzima que converte T4 em T3 ativo no SNC (Fekete et al., 2004)[ML; rato/h",
+   "n_cand": 2,
+   "recomendada": "LPS induz a desiodase tipo 2 (D2) em tanicitos do hipotálamo mediobasal — a principal enzima que converte T4 em T3 ativo no SNC (Fekete et al., 2004)[ML; rato/humano], e o gene dio2 humano tem elemento responsivo a NF-κB (Zeöld et al., 2006)[ML] [PRÉ-CLÍNICO].",
+   "recomendacao": "MANTER (âncora compartilhada já traz citação nominal — co-citação legítima)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0157",
+   "ref": "REF_ZEOLD_2006",
+   "consulta": "Zeöld 2006",
+   "achado": "gene dio2 humano tem elemento responsivo a NF-kB; LPS ativa D2 central",
+   "ancora_atual": "LPS induz a desiodase tipo 2 (D2) em tanicitos do hipotálamo mediobasal — a principal enzima que converte T4 em T3 ativo no SNC (Fekete et al., 2004)[ML; rato/h",
+   "n_cand": 2,
+   "recomendada": "LPS induz a desiodase tipo 2 (D2) em tanicitos do hipotálamo mediobasal — a principal enzima que converte T4 em T3 ativo no SNC (Fekete et al., 2004)[ML; rato/humano], e o gene dio2 humano tem elemento responsivo a NF-κB (Zeöld et al., 2006)[ML] [PRÉ-CLÍNICO].",
+   "recomendacao": "MANTER (âncora compartilhada já traz citação nominal — co-citação legítima)"
+  }
+ ],
+ "0173": [
+  {
+   "id_vinculo": "VINC_B1_0173",
+   "ref": "REF_RAISON_2013",
+   "consulta": "Raison 2013",
+   "achado": "infliximabe nao supera placebo na amostra toda; so beneficia subgrupo com marcador basal alto (PCR/TNF/sTNFR2)",
+   "ancora_atual": "O substrato mecanístico deste subtipo é a ativação sustentada do eixo NF-κB→NLRP3 (BLOCO07) com: (a) marcadores periféricos elevados (PCR, IL-6, sTNFR2) e índic",
+   "n_cand": 2,
+   "recomendada": "Isso explica por que, no subgrupo inflamado, a falha ao SSRI é mais comum (Raison et al., 2013)[EC; humano] [VERIFICADO].",
+   "recomendacao": "RE-ANCORAR para candidata própria"
+  },
+  {
+   "id_vinculo": "VINC_B1_0174",
+   "ref": "REF_SETIAWAN_2015",
+   "consulta": "Setiawan 2015",
+   "achado": "TSPO elevado em regioes cortico-limbicas na TDM",
+   "ancora_atual": "O substrato mecanístico deste subtipo é a ativação sustentada do eixo NF-κB→NLRP3 (BLOCO07) com: (a) marcadores periféricos elevados (PCR, IL-6, sTNFR2) e índic",
+   "n_cand": 5,
+   "recomendada": "Em TDM, a densidade de TSPO está elevada em regiões cortico-límbicas (Setiawan et al., 2015)[EC; humano, PET] [VERIFICADO] — primeira demonstração de neuroinflamação central em pacientes vivos.",
+   "recomendacao": "RE-ANCORAR para candidata própria"
+  },
+  {
+   "id_vinculo": "VINC_B1_0175",
+   "ref": "REF_STEINER_2011",
+   "consulta": "Steiner 2011",
+   "achado": "acido quinolínico microglial elevado em cingulado em depressao grave (amostra suicidio)",
+   "ancora_atual": "O substrato mecanístico deste subtipo é a ativação sustentada do eixo NF-κB→NLRP3 (BLOCO07) com: (a) marcadores periféricos elevados (PCR, IL-6, sTNFR2) e índic",
+   "n_cand": 5,
+   "recomendada": "*Steiner_2011_QUIN[EC] | YKL40_2024[EC] | Enache_2019[MA] | Wang_2018b[MA] | Bottcher_2020[EC] | Nagy_2020[EC]*",
+   "recomendacao": "RE-ANCORAR para candidata própria"
+  },
+  {
+   "id_vinculo": "VINC_B1_0176",
+   "ref": "REF_BEKHBAT_2022",
+   "consulta": "Bekhbat 2022",
+   "achado": "inflamacao baixa conectividade cortico-estriatal de recompensa -> anedonia",
+   "ancora_atual": "O substrato mecanístico deste subtipo é a ativação sustentada do eixo NF-κB→NLRP3 (BLOCO07) com: (a) marcadores periféricos elevados (PCR, IL-6, sTNFR2) e índic",
+   "n_cand": 2,
+   "recomendada": "Em TDM, inflamação elevada associa-se a baixa conectividade funcional nos circuitos cortico-estriatais de recompensa e a sintomas de anedonia — relação que envolve impacto da inflamação sobre síntese/liberação de dopamina (Bekhbat et al., 2022)[EC; humano, fMRI] [VERIFICADO].",
+   "recomendacao": "RE-ANCORAR para candidata própria"
+  }
+ ],
+ "0182": [
+  {
+   "id_vinculo": "VINC_B1V2_0182",
+   "ref": "REF_LIU_2023",
+   "consulta": "Liu 2023",
+   "achado": "itaconato/IRG1 inibe NLRP3 e ativa Nrf2 (revisao)",
+   "ancora_atual": "Em contraponto, a ativação inflamatória induz a enzima mitocondrial **IRG1/ACOD1**, que produz **itaconato** — freio endógeno que inibe o NLRP3 e ativa o eixo N",
+   "n_cand": 5,
+   "recomendada": "Em contraponto, a ativação inflamatória induz a enzima mitocondrial **IRG1/ACOD1**, que produz **itaconato** — freio endógeno que inibe o NLRP3 e ativa o eixo Nrf2/antioxidante (Liu et al., 2023)[OB; revisão, célula/animal] [EXTRAPOLADO: animal/célula→humano]; o eixo glicolítico/IRG1-itaconato/Nrf2 é ativamente regulado em células expostas a LPS (Engskog-Vlachos et al., 2025)[ML; célula] [PRÉ-CLÍNICO].",
+   "recomendacao": "MANTER (âncora compartilhada já traz citação nominal — co-citação legítima)"
+  },
+  {
+   "id_vinculo": "VINC_B1V2_0183",
+   "ref": "REF_ENGSKOGVLACHOS_2025",
+   "consulta": "Engskog-Vlachos 2025",
+   "achado": "eixo glicolitico IRG1/itaconato/NRF2 regulado por LPS em microglia",
+   "ancora_atual": "Em contraponto, a ativação inflamatória induz a enzima mitocondrial **IRG1/ACOD1**, que produz **itaconato** — freio endógeno que inibe o NLRP3 e ativa o eixo N",
+   "n_cand": 1,
+   "recomendada": "Em contraponto, a ativação inflamatória induz a enzima mitocondrial **IRG1/ACOD1**, que produz **itaconato** — freio endógeno que inibe o NLRP3 e ativa o eixo Nrf2/antioxidante (Liu et al., 2023)[OB; revisão, célula/animal] [EXTRAPOLADO: animal/célula→humano]; o eixo glicolítico/IRG1-itaconato/Nrf2 é ativamente regulado em células expostas a LPS (Engskog-Vlachos et al., 2025)[ML; célula] [PRÉ-CLÍNICO].",
+   "recomendacao": "MANTER (âncora compartilhada já traz citação nominal — co-citação legítima)"
+  }
+ ]
+}

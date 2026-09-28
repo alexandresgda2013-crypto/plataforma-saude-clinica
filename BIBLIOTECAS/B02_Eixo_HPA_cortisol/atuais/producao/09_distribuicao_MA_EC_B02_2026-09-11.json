@@ -1,0 +1,286 @@
+{
+ "acao": "09_distribuicao_MA_EC_MODULO09",
+ "data": "2026-09-11",
+ "biblioteca": "B02_Eixo_HPA_cortisol",
+ "lei": "PROMPT_v4.2 instrução final: [MA]->02, [EC]->03; id único global (validar_auditoria.py)",
+ "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+ "contagens": {
+  "ficam_01": 177,
+  "vao_02_MA": 32,
+  "vao_03_EC": 4,
+  "conflitos": 0,
+  "tag_EC_amplo_nao_migrado": 2
+ },
+ "ids_para_02": [
+  {
+   "id": "REF_SOUSALIMA_2019",
+   "pmid": "31540796",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_CADEGIANI_2016",
+   "pmid": "27557747",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_PASCOE_2017",
+   "pmid": "28863392",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ZORN_2017",
+   "pmid": "28012291",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_MEEWISSE_2007",
+   "pmid": "17978317",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_STALDER_2017",
+   "pmid": "28135674",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_FERNANDEZRODRIGUEZ_2026",
+   "pmid": "42477737",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_BEN_2026",
+   "pmid": "41501907",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_PSARRAKI_2021",
+   "pmid": "33310696",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_DREWS_2019",
+   "pmid": "30500331",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_BOGGERO_2017",
+   "pmid": "28870447",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ZHANG_2022",
+   "pmid": "35041878",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_JOPLING_2023",
+   "pmid": "40654374",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_THOMAS_2019",
+   "pmid": "30557762",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_KHANAL_2026",
+   "pmid": "41987765",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ZHANG_2026",
+   "pmid": "41791598",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_RIBEIRO_1993",
+   "pmid": "8214170",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_CARNAZZO_2026",
+   "pmid": "42330779",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_WANG_2024",
+   "pmid": "38176541",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_KHOURY_2023",
+   "pmid": "36335755",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_GANDOMKAR_2026",
+   "pmid": "42032711",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_VONWERNEBAES_2012",
+   "pmid": "28183380",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_CERUSO_2020",
+   "pmid": "32203965",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_SAHU_2022",
+   "pmid": "36458076",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_MACHAHARY_2025",
+   "pmid": "41270487",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_VANDENNOORGATE_2025",
+   "pmid": "40040865",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_WANG_2018",
+   "pmid": "28850857",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_DING_2021",
+   "pmid": "34566653",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_WESARGMENZEL_2024",
+   "pmid": "38308964",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_BALFOUR_2026",
+   "pmid": "42009273",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ZAJKOWSKA_2022",
+   "pmid": "34920399",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_LOMBARDO_2019",
+   "pmid": "31499391",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  }
+ ],
+ "ids_para_03": [
+  {
+   "id": "REF_MELTZERBRODY_2018",
+   "pmid": "30177236",
+   "sinais": [
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_LEE_2025",
+   "pmid": "41515133",
+   "sinais": [
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_DELIGIANNIDIS_2021",
+   "pmid": "34190962",
+   "sinais": [
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_SHIRAZI_2015",
+   "pmid": "27162901",
+   "sinais": [
+    "desenho_rct:titulo"
+   ]
+  }
+ ],
+ "conflitos_tag_x_titulo_REVISAVEL": [],
+ "REVISAVEL_tag_EC_amplo_sem_sinal_RCT_nao_migrado": [
+  {
+   "id": "REF_CARVALHO_2014",
+   "pmid": "26247977",
+   "desenho_estudo": "[EC] clássico de fundo (retrocompat)",
+   "titulo": "The value of peer review"
+  },
+  {
+   "id": "REF_WHEELAN_2018",
+   "pmid": "29306773",
+   "desenho_estudo": "[EC] estresse de meia-idade/memória e humor (retrocompat)",
+   "titulo": "Midlife stress alters memory and mood-related behaviors in old age: Role of locally activated glucocorticoids"
+  }
+ ],
+ "divida_nomeada": "forca_evidencia_afirmacao vazio quando a ficha não trazia (schema 09.2 exige; preenchimento exige avaliação — não fabricar)"
+}

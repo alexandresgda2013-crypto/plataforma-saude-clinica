@@ -1,0 +1,1262 @@
+{
+ "B02": [
+  {
+   "id_vinculo": "VINC_B2_001",
+   "ref": "REF_HERMAN_2016",
+   "consulta": "Herman 2016",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "3 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 27065163) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "A cascata (PVN → CRH/AVP → ACTH → cortisol\n→ MR/GR → feedback) é consensualmente bem estabelecida (Herman 2016)[OB]; (McEwen 2007) [revisão clássica não indexada — ver P-6];\n(Holsboer 2000) [revisão clássica não indexada — ver P-6].",
+    "O cortisol ativa **MR e GR** e faz feedback\nnegativo (Herman 2016)[OB]; (McEwen 2007) [revisão clássica não indexada — ver P-6].",
+    "As chaves de avanço foram: o fracasso dos\nantagonistas de CRF1 em ensaios humanos (lição translacional), o sucesso de\nneuroesteroides GABAérgicos no pós-parto (brexanolona/zuranolona), a\ncompreensão do freio endocanabinoide de curto prazo no PVN, e a documentação do\nhipocortisolismo do TEPT como padrão distinto (Herman 2016)[OB]; (Zorn 2017)[MA];\n(Spierling 2017)[OB]; (Stetler & Miller 2011)[MA]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_002",
+   "ref": "REF_MCEWEN_2007",
+   "consulta": "McEwen 2007",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "3 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 17615391) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "A cascata (PVN → CRH/AVP → ACTH → cortisol\n→ MR/GR → feedback) é consensualmente bem estabelecida (Herman 2016)[OB]; (McEwen 2007) [revisão clássica não indexada — ver P-6];\n(Holsboer 2000) [revisão clássica não indexada — ver P-6].",
+    "O cortisol ativa **MR e GR** e faz feedback\nnegativo (Herman 2016)[OB]; (McEwen 2007) [revisão clássica não indexada — ver P-6].",
+    "O **freio endocanabinoide**\n(CB1/2-AG) é a via de feedback rápido; a **alopregnanolona/GABA-A** é o freio neuroesteroide.\n(McEwen 2007) [revisão clássica não indexada — ver P-6]; (Choi 2008)[ML]; (de Kloet 2016)[OB]; (Klengel 2013)[EC] [VERIFICADO]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_003",
+   "ref": "REF_HOLSBOER_2000",
+   "consulta": "Holsboer 2000",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "3 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 11027914) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "A cascata (PVN → CRH/AVP → ACTH → cortisol\n→ MR/GR → feedback) é consensualmente bem estabelecida (Herman 2016)[OB]; (McEwen 2007) [revisão clássica não indexada — ver P-6];\n(Holsboer 2000) [revisão clássica não indexada — ver P-6].",
+    "A falha da trans-repressão é a resistência ao GR\n(de Kloet 2016)[OB]; (Holsboer 2000) [revisão clássica não indexada — ver P-6] [VERIFICADO].",
+    "- CRH no LCR elevado independente do cortisol periférico (Holsboer 2000) [revisão clássica não indexada — ver P-6]; alopregnanolona"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_004",
+   "ref": "REF_STETLER_2011",
+   "consulta": "Stetler 2011",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "5 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 21257974) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "**Bipolaridade real do sinal** — hiper (melancolia/psicótico, agudo) e hipo (TEPT crônico, burnout); um cortisol binário não decide (Stetler & Miller 2011)[MA]; (Heim 2000)[OB].",
+    "Persistindo o estressor, a\nresistência ao GR falha em encerrar o programa: atrofia hipocampal e, no estresse crônico/TEPT,\nhiporreatividade tardia (Stetler & Miller 2011)[MA]; (Sapolsky 2000)[OB] [VERIFICADO].",
+    "Predomínio de não-supressão ao DST, CRH elevado no LCR, hipercortisolemia e maior\ndano cognitivo/hipocampal; mifepristona testada na psicótica (Stetler & Miller 2011)[MA];\n(Blasey 2009)[EC].",
+    "Direcionam a leitura; sem limiares numéricos aqui (C-LAB) e sem rótulo diagnóstico único (P20).\n(Zorn 2017)[MA]; (Stetler & Miller 2011)[MA]; (Cadegiani 2016)[OB].",
+    "As chaves de avanço foram: o fracasso dos\nantagonistas de CRF1 em ensaios humanos (lição translacional), o sucesso de\nneuroesteroides GABAérgicos no pós-parto (brexanolona/zuranolona), a\ncompreensão do freio endocanabinoide de curto prazo no PVN, e a documentação do\nhipocortisolismo do TEPT como padrão distinto (Herman 2016)[OB]; (Zorn 2017)[MA];\n(Spierling 2017)[OB]; (Stetler & Miller 2011)[MA]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_005",
+   "ref": "REF_HEIM_2000",
+   "consulta": "Heim 2000",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "7 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 10633533) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "**Bipolaridade real do sinal** — hiper (melancolia/psicótico, agudo) e hipo (TEPT crônico, burnout); um cortisol binário não decide (Stetler & Miller 2011)[MA]; (Heim 2000)[OB].",
+    "Cortisol basal baixo, CAR embotado, hiper-supressão ao DST, associação com trauma precoce/FKBP5\n(Heim 2000)[OB]; (Meewisse 2007)[MA]; (Vythilingam 2010)[EC].",
+    "Cortisol basal baixo, CAR embotado, maior supressão ao DST, padrão hiporreativo com\nheterogeneidade (trauma recente/depressão grave pode normalizar/elevar) (Heim 2000)[OB];\n(Meewisse 2007)[MA]; (Vythilingam 2010)[EC].",
+    "Trauma precoce reajusta o setpoint via FKBP5/NR3C1; hipocortisolismo TEPT (Klengel 2013)[EC];\n(Heim 2000)[OB].",
+    "No TEPT crônico/exaustão, observa-se o padrão oposto: hiporreatividade e\ncortisol baixo/achatado, interpretado como adaptação tardia (downregulation)\napós exposição prolongada, distinta da fase aguda; explica a bipolaridade\ndo sinal conforme a fase temporal (Heim 2000)[OB]; (Meewisse 2007)[MA].",
+    "A hiperatividade amigdalar (medo/hipervigilância) e o enfraquecimento do freio PFC/hipocampal\nresultam em acionamento glutamatérgico persistente do PVN; no TEPT crônico, o sistema\ntermina em downregulation (hipocortisolismo), mas o **gatilho** amigdalar segue hiperativo\n— padrão que une os dois polos (Choi 2008)[ML]; (Heim 2000)[OB] [PRÉ-CLÍNICO + associação humana]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_007",
+   "ref": "REF_KLENGEL_2013",
+   "consulta": "Klengel 2013",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "12 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 23201972) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "**Programação precoce × genética** — FKBP5/NR3C1 × trauma reajustam o setpoint (Klengel 2013)[EC].",
+    "**FKBP5 é induzida pelo próprio cortisol** (alça ultra-curta):\nvariantes de risco com trauma mantêm FKBP5 alta, retendo o GR (Binder 2009)[OB];\n(Klengel 2013)[EC] [VERIFICADO].",
+    "Adversidade infantil causa desmetilação FKBP5 dependente de genótipo e metilação de NR3C1,\nreajustando o setpoint; EWAS de TEPT (Klengel 2013)[EC]; (Logue 2020)[EC]; (Mendonça\n2023)[EC] [VERIFICADO].",
+    "pelo cortisol; com abuso infantil, levam a desmetilação dependente de genótipo e\nhiper-responsividade permanente — interação gene×ambiente (Klengel 2013)[EC];\n(Szczepankiewicz 2014)[EC].",
+    "Desmetilação alelo-específica de FKBP5 por trauma (Klengel 2013)[EC]; metilação de\nNR3C1 em díade mãe-filho e estudos translacionais de Meaney/Szyf validados em humanos\n(Smith 2020)[OB]; (Mendonça 2023)[EC]; EWAS de TEPT em veteranos (Logue 2020)[EC];\nmetilação sexo-específica (Lee 2018) [revisão clássica não indexada — ver P-6].\nNatureza: interação gene×ambiente, não risco genético puro [VERIFICADO].\n**[AT 2026-09-08] O que muda no quadro:** as mudanças epigenéticas de FKBP5 ligam\nfatores genéticos e ambientais a alterações estruturais/funcionais de cérebro no TDM\n(Tozzi 2018)[EC]; variantes de **splicing** de FKBP5 aparecem alteradas no córtex\npré-frontal dorsolateral humano em transtornos psiquiátricos (Kaul 2026)[EC; fronteira].\n**Âncora anti-entusiasmo:** meta-análise de 39 estudos de metilação×resposta de cortisol\nao estressor encontrou resultados **mistos** — associação em lactentes, não nos demais\ngrupos; certeza global baixa por heterogeneidade e gene-candidato (Balfour 2026)[MA].\n**Regra [AT]:** metilação de NR3C1/FKBP5 é evidência **mecanística/associativa**, não\nbiomarcador clínico validado.",
+    "O **freio endocanabinoide**\n(CB1/2-AG) é a via de feedback rápido; a **alopregnanolona/GABA-A** é o freio neuroesteroide.\n(McEwen 2007) [revisão clássica não indexada — ver P-6]; (Choi 2008)[ML]; (de Kloet 2016)[OB]; (Klengel 2013)[EC] [VERIFICADO]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_008",
+   "ref": "REF_ZORN_2017",
+   "consulta": "Zorn 2017",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "6 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 28012291) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "**Heterogeneidade transdiagnóstica** — padrão distinto entre depressão, TEPT, TOC, pânico, fobia, borderline, burnout (Zorn 2017)[MA].",
+    "Reatividade distinta entre transtornos (Zorn 2017)[MA]; ansiedade com reatividade aumentada mas\nvariável (Vreeburg 2010)[EC]; **borderline** hiporreativo tipo TEPT (Drews 2019)[MA]; (Thomas\n2019)[MA]; (Zimmerman 2009)[OB]; **TOC** padrão próprio (Sousa-Lima 2019)[MA].",
+    "Na reatividade, sexo e estado clínico\ninvertem a direção (mulheres com TDM atual **atenuadas**; homens com TDM/ansiedade social\n**aumentados** — Zorn 2017, já catalogado).",
+    "Reatividade aumentada em média, porém heterogênea entre diagnósticos (Zorn 2017)[MA];\n(Vreeburg 2010)[EC]; cortisol salivar e resposta à psicoterapia (Fischer 2017) [revisão clássica não indexada — ver P-6].",
+    "Direcionam a leitura; sem limiares numéricos aqui (C-LAB) e sem rótulo diagnóstico único (P20).\n(Zorn 2017)[MA]; (Stetler & Miller 2011)[MA]; (Cadegiani 2016)[OB].",
+    "As chaves de avanço foram: o fracasso dos\nantagonistas de CRF1 em ensaios humanos (lição translacional), o sucesso de\nneuroesteroides GABAérgicos no pós-parto (brexanolona/zuranolona), a\ncompreensão do freio endocanabinoide de curto prazo no PVN, e a documentação do\nhipocortisolismo do TEPT como padrão distinto (Herman 2016)[OB]; (Zorn 2017)[MA];\n(Spierling 2017)[OB]; (Stetler & Miller 2011)[MA]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_009",
+   "ref": "REF_SPIERLING_2017",
+   "consulta": "Spierling 2017",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "6 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 28265716) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "**Tradução mista** — mifepristona com sinal na depressão psicótica; **antagonistas de CRF1 fracassaram em grandes ensaios humanos** (Spierling 2017)[OB].",
+    "Antagonistas de CRF1 (emivocarb, pexacerfont, etc.) foram muito eficazes em roedores mas\n**falharam em ensaios de fase II/III humanos** para TDM/TAG/ansiedade — falha de tradução\ndocumentada (Spierling 2017)[OB]; (Ising 2007) [revisão clássica não indexada — ver P-6]; (Kehne 2002)[OB] [VERIFICADO].",
+    "Os antagonistas não peptídicos do receptor CRF1 foram muito promissores em roedores\n(redução de ansiedade/comportamentos depressivos e supressão do HPA), e avançaram para\nfase clínica, mas **falharam em ensaios de fase II/III para TDM, TAG e ansiedade** (Kehne\n2002)[OB]; (Spierling 2017)[OB].",
+    "O **fracasso dos antagonistas de CRF1** ensina que um alvo que normaliza o\nhormônio em roedores não se traduz diretamente em humano (Spierling 2017)[OB]; em\ncontrapartida, a neuroesteroidogênese (brexanolona/zuranolona) mostra que modular o\n**freio GABAérgico** tem prova clínica humana no pós-parto (Meltzer-Brody 2018)[EC];\n(Deligiannidis 2021)[EC].",
+    "As chaves de avanço foram: o fracasso dos\nantagonistas de CRF1 em ensaios humanos (lição translacional), o sucesso de\nneuroesteroides GABAérgicos no pós-parto (brexanolona/zuranolona), a\ncompreensão do freio endocanabinoide de curto prazo no PVN, e a documentação do\nhipocortisolismo do TEPT como padrão distinto (Herman 2016)[OB]; (Zorn 2017)[MA];\n(Spierling 2017)[OB]; (Stetler & Miller 2011)[MA].",
+    "recomendar essa estratégia como estabelecida em humano é incorreto (Spierling\n2017)[OB]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_010",
+   "ref": "REF_CHOI_2008",
+   "consulta": "Choi 2008",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "6 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 18039788) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "A hiperatividade\namigdalar da ansiedade/TEPT liga o eixo por cima do feedback hormonal (Choi 2008)[ML];\n(Bains 2015)[OB]; (Jamieson 2017)[OB] [PRÉ-CLÍNICO].",
+    "integra ameaça difusa e diferencia excitação/inibição por subnúcleo (Choi 2008)[ML] [PRÉ-CLÍNICO].",
+    "O **freio endocanabinoide**\n(CB1/2-AG) é a via de feedback rápido; a **alopregnanolona/GABA-A** é o freio neuroesteroide.\n(McEwen 2007) [revisão clássica não indexada — ver P-6]; (Choi 2008)[ML]; (de Kloet 2016)[OB]; (Klengel 2013)[EC] [VERIFICADO].",
+    "Alopregnanolona (GABA-A+) e o tônus GABA do PVN controlam CRH; glutamato amigdalar excita\n(Choi 2008)[ML]; (Schüle 2014)[OB].",
+    "O sinal sobe por vias neurais e humorais: o núcleo do trato solitário (NTS) integra\ninformação visceral/inflamatória e projeta ao PVN; a amígdala (BLA/central) e o BNST\ntraduzem ameaça aguda vs. difusa/antecipatória; o CPF e o hipocampo modulam por cima.\nO PVN também recebe informação hormonal direta (cortisol, citocinas através de barreira).\n(Herman 1997)[OB]; (Choi 2008)[ML]; (Bains 2015)[OB]; (Fischer 2021) [revisão clássica não indexada — ver P-6].",
+    "A hiperatividade amigdalar (medo/hipervigilância) e o enfraquecimento do freio PFC/hipocampal\nresultam em acionamento glutamatérgico persistente do PVN; no TEPT crônico, o sistema\ntermina em downregulation (hipocortisolismo), mas o **gatilho** amigdalar segue hiperativo\n— padrão que une os dois polos (Choi 2008)[ML]; (Heim 2000)[OB] [PRÉ-CLÍNICO + associação humana]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_011",
+   "ref": "REF_BAINS_2015",
+   "consulta": "Bains 2015",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "3 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 26087679) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "A hiperatividade\namigdalar da ansiedade/TEPT liga o eixo por cima do feedback hormonal (Choi 2008)[ML];\n(Bains 2015)[OB]; (Jamieson 2017)[OB] [PRÉ-CLÍNICO].",
+    "O córtex pré-frontal ventromedial (e o cingulado) exercem supressão sobre a amígdala/PVN\nvia interneurônios GABAérgicos; na depressão/ansiedade crônica esse comando top-down está\nhipoativo, perpetuando a resposta (Bains 2015)[OB]; (Herman 1997)[OB] [PRÉ-CLÍNICO].",
+    "O sinal sobe por vias neurais e humorais: o núcleo do trato solitário (NTS) integra\ninformação visceral/inflamatória e projeta ao PVN; a amígdala (BLA/central) e o BNST\ntraduzem ameaça aguda vs. difusa/antecipatória; o CPF e o hipocampo modulam por cima.\nO PVN também recebe informação hormonal direta (cortisol, citocinas através de barreira).\n(Herman 1997)[OB]; (Choi 2008)[ML]; (Bains 2015)[OB]; (Fischer 2021) [revisão clássica não indexada — ver P-6]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_012",
+   "ref": "REF_HILL_2012",
+   "consulta": "Hill 2012",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "3 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 22214537) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "É distinto do feedback genômico lento do GR (Hill 2012)[ML]; (Evanson/Tasker 2010)[ML];\n(Lutz 2015)[OB] [PRÉ-CLÍNICO].",
+    "A resposta rápida depende de vias neurais\n(não-genômicas) e do freio endocanabinoide que limita a duração do disparo\n(Hill 2012)[ML]; (Evanson/Tasker 2010)[ML] [PRÉ-CLÍNICO].",
+    "Na **escala rápida** (segundos a minutos), o estressor dispara\nglutamato no PVN, CRH/AVP fazem subir o cortisol em minutos, e o **freio\nendocanabinoide** (2-AG→CB1) limita o disparo por retro-feedback não-genômico,\njuntamente com o MR de alta afinidade (Hill 2012)[ML]; (Evanson/Tasker 2010)[ML].\nNa **escala lenta** (horas a dias), o GR deslocado do foldossomo (HSP90/FKBP5)\ntransloca, trans-reprime NF-κB e desliga CRH/ACTH; é o feedback genômico."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_013",
+   "ref": "REF_LUTZ_2015",
+   "consulta": "Lutz 2015",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "2 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 26585799) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "É distinto do feedback genômico lento do GR (Hill 2012)[ML]; (Evanson/Tasker 2010)[ML];\n(Lutz 2015)[OB] [PRÉ-CLÍNICO].",
+    "eCB = freio rápido do PVN; déficit na ansiedade/TEPT (Lutz 2015)[OB]; (Morena 2016)[OB];\n(Gunduz-Cinar 2021)[OB]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_014",
+   "ref": "REF_SAPOLSKY_2000",
+   "consulta": "Sapolsky 2000",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "9 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 11015810) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "Persistindo o estressor, a\nresistência ao GR falha em encerrar o programa: atrofia hipocampal e, no estresse crônico/TEPT,\nhiporreatividade tardia (Stetler & Miller 2011)[MA]; (Sapolsky 2000)[OB] [VERIFICADO].",
+    "cortisol crônico, falhando em desligar o PVN (Sapolsky 2000)[OB]; (Brown 1999)[OB] [PRÉ-CLÍNICO/imagem].",
+    "Cortisol crônico suprime BDNF/CREB e retrai dendritos hipocampais/CPF (Sapolsky 2000)[OB];\n(Brown 1999)[OB]; (McEwen 2001) [revisão clássica não indexada — ver P-6].",
+    "A retração é plástica e **reversível**\ncom remissão/normalização do eixo — dano dinâmico, não perda permanente (Sapolsky 2000)[OB];\n(McEwen 2001) [revisão clássica não indexada — ver P-6]; (Shirazi 2015)[OB] [PRÉ-CLÍNICO + associação humana].",
+    "*Sapolsky_hipocampo_2000[OB] | McEwen_plasticidade_2001[OB]*",
+    "Aqui fica só o elo: glicocorticoides\ncrônicos suprimem proliferação/sobrevida de células-tronco no giro denteado em modelos, efeito\nrevertido pela remoção do estressor [PRÉ-CLÍNICO] (Sapolsky 2000)[OB]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_015",
+   "ref": "REF_BELELLI_2005",
+   "consulta": "Belelli 2005",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "2 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 15959466) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "O estresse induz esteroidogênese (colesterol→pregnenolona→progesterona→5α-DHP→**alopregnanolona**\nvia 5α-redutase/3α-HSD); a alopregnanolona é modulador alostérico positivo do receptor GABA-A\n(ansiólise endógena), e está reduzida na depressão/ansiedade e no pós-parto (Belelli 2005)[OB];\n(Schüle 2014)[OB] [VERIFICADO].",
+    "Sua queda (pós-parto, estresse) remove um\namortecedor ansiolítico endógeno (Belelli 2005)[OB]; (Schüle 2014)[OB]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_016",
+   "ref": "REF_BINDER_2009",
+   "consulta": "Binder 2009",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "4 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 19560279) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "**FKBP5 é induzida pelo próprio cortisol** (alça ultra-curta):\nvariantes de risco com trauma mantêm FKBP5 alta, retendo o GR (Binder 2009)[OB];\n(Klengel 2013)[EC] [VERIFICADO].",
+    "A razão FKBP51/FKBP4 determina a velocidade e a\neficiência da translocação nuclear; stress crônico desloca essa razão no sentido da\nretensão citoplasmática e da resistência (Binder 2009)[OB]; (Criado-Marrero 2018)[OB].",
+    "- **FKBP5 (FKBP51)** + HSP90: chaperonas reguladoras do GR (Binder 2009)[OB]; (Criado-Marrero",
+    "O próprio cortisol induz FKBP5 (indução gênica via GRE),\ncriando uma alça de feedback que limita a sinalização; variantes de risco + trauma\ndeslocam essa alça no sentido de maior retenção do GR e maior expressão inflamatória\n(Binder 2009)[OB]; (Klengel 2013)[EC]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_017",
+   "ref": "REF_RODRIGUEZ_2016",
+   "consulta": "Rodriguez 2016",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "2 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 27643454) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "Resultado: cortisol não encerra CRH nem NF-κB → eixo e inflamação\nsustentados (Perrin 2019)[OB]; (Rodriguez 2016)[OB]; (Carvalho 2014)[EC] [VERIFICADO/PRÉ-CLÍNICO].",
+    "Se o estressor persiste, o feedback genômico (GR) deveria encerrar a resposta;\nna resistência ao GR, a trans-repressão de NF-κB e a supressão de CRH falham,\ne a ativação se mantém com elevação citoprotetora/compensatória que se torna\ndanosa (Perrin 2019)[OB]; (Rodriguez 2016)[OB]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_018",
+   "ref": "REF_GALLEZOT_2019",
+   "consulta": "Gallezot 2019",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "8 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 30877174) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "HSD1 (cérebro/fígado/adiposo) ativa cortisona→cortisol local; HSD2 inativa (rim/placenta).\nAmplificação local independente do nível sérico (Gallezot 2019)[EC]; (Wheelan 2018)[EC]\n[EMERGENTE em humano].",
+    "Em tecidos\nalvo, 11β-HSD1/HSD2 controlam a concentração local ativa (Gallezot 2019)[EC] [PRÉ-CLÍNICO/\nEMERGENTE para o cérebro].",
+    "no LCR/soro reduzida (Schüle 2014)[OB]; PET de 11β-HSD1 (Gallezot 2019)[EC].",
+    "A relevância central do 11β-HSD permanece em tradução (Seckl 2024)[OB]; (Seckl 1997)[OB],\ncom PET que permite medir HSD1 in vivo (Gallezot 2019)[EC].",
+    "Não há rotina de imagem do PVN; os marcadores funcionais são dinâmicos (CAR/Dex-CRH/cabelo).\nA PET de 11β-HSD1 é ferramenta de pesquisa para o cortisol local cerebral (Gallezot 2019)[EC].",
+    "Isso permite um hipercortisolismo local tecidual sem correspondência\nsérica (Seckl 2024)[OB]; (Gallezot 2019)[EC]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_019",
+   "ref": "REF_LOGUE_2020",
+   "consulta": "Logue 2020",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "3 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 32171335) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "Adversidade infantil causa desmetilação FKBP5 dependente de genótipo e metilação de NR3C1,\nreajustando o setpoint; EWAS de TEPT (Klengel 2013)[EC]; (Logue 2020)[EC]; (Mendonça\n2023)[EC] [VERIFICADO].",
+    "Desmetilação alelo-específica de FKBP5 por trauma (Klengel 2013)[EC]; metilação de\nNR3C1 em díade mãe-filho e estudos translacionais de Meaney/Szyf validados em humanos\n(Smith 2020)[OB]; (Mendonça 2023)[EC]; EWAS de TEPT em veteranos (Logue 2020)[EC];\nmetilação sexo-específica (Lee 2018) [revisão clássica não indexada — ver P-6].\nNatureza: interação gene×ambiente, não risco genético puro [VERIFICADO].\n**[AT 2026-09-08] O que muda no quadro:** as mudanças epigenéticas de FKBP5 ligam\nfatores genéticos e ambientais a alterações estruturais/funcionais de cérebro no TDM\n(Tozzi 2018)[EC]; variantes de **splicing** de FKBP5 aparecem alteradas no córtex\npré-frontal dorsolateral humano em transtornos psiquiátricos (Kaul 2026)[EC; fronteira].\n**Âncora anti-entusiasmo:** meta-análise de 39 estudos de metilação×resposta de cortisol\nao estressor encontrou resultados **mistos** — associação em lactentes, não nos demais\ngrupos; certeza global baixa por heterogeneidade e gene-candidato (Balfour 2026)[MA].\n**Regra [AT]:** metilação de NR3C1/FKBP5 é evidência **mecanística/associativa**, não\nbiomarcador clínico validado.",
+    "EWAS em TEPT confirmam\nassinaturas de metilação em redes de regulação glicocorticoide (Logue 2020)[EC]; a\nmetilação em díade mãe-filho estende o achado à transmissão (Mendonça 2023)[EC].\n*Klengel_FKBP5_2013[EC] | Szczepankiewicz_FKBP5_2014[EC] | Bortsov_FKBP5_2013[EC] | Keller_HPAdepressao_2017[OB] | Licinio_CRH_2004[EC] | Zennaro_MRmut_2017[OB] | Logue_EWAS_2020[EC] | Mendonca_diade_2023[EC]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_020",
+   "ref": "REF_ISING_2007",
+   "consulta": "Ising 2007",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "5 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 18179304) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "As anomalias do Dex/CRH normalizam com a remissão e predizem recaída quando alteradas — sinal de\nestado (não traço) (Ising 2007) [revisão clássica não indexada — ver P-6]; (Friess 2008)[EC] [VERIFICADO].",
+    "Antagonistas de CRF1 (emivocarb, pexacerfont, etc.) foram muito eficazes em roedores mas\n**falharam em ensaios de fase II/III humanos** para TDM/TAG/ansiedade — falha de tradução\ndocumentada (Spierling 2017)[OB]; (Ising 2007) [revisão clássica não indexada — ver P-6]; (Kehne 2002)[OB] [VERIFICADO].",
+    "Frequentemente normo/hiporreativa; Dex/CRH alterado que normaliza com a remissão\n(Ising 2007) [revisão clássica não indexada — ver P-6].",
+    "É o caso-documentado de tradução animal→humano do eixo (Ising 2007) [revisão clássica não indexada — ver P-6].\n**[AT 2026-09-08] AVP/V1B no foco:** em roedor, o bloqueio de **V1B** reduz o ACTH induzido\npor estresse **sem** alterar a atividade basal do eixo — mas **não** reduz a corticosterona\ninduzida por estresse; leitura estrita: V1B modula a resposta, é **alvo investigacional**,\nnão \"normalizador do HPA\" (Spiga 2009)[ML; roedor] [APENAS PRÉ-CLÍNICO].",
+    "O eixo é plástico e reversível com a remissão\n(Ising 2007) [revisão clássica não indexada — ver P-6], o que posiciona a anormalidade como estado, não traço."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_021",
+   "ref": "REF_WINGENFELD_2019",
+   "consulta": "Wingenfeld 2019",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "2 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 30243757) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "depressão (ter Heegde 2015)[OB]; (Wingenfeld 2019)[OB].",
+    "Dois indivíduos podem ter o mesmo cortisol sérico e respostas de tecido muito diferentes:\no que determina a resposta é a ocupação de **MR** e **GR** e a eficácia da trans-repressão.\nO MR, de alta afinidade (cerca de dez vezes o GR), está majoritariamente ocupado em\nconcentrações basais e ancora a **avaliação inicial do estressor**, o tônus e a resiliência;\no GR só se ocupa nos picos e medeia o feedback e a contenção da resposta (de Kloet\n2016)[OB]; (ter Heegde 2015)[OB]; (Wingenfeld 2019)[OB]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_022",
+   "ref": "REF_MORENA_2016",
+   "consulta": "Morena 2016",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "2 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 26068727) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "- **FAAH/MAGL**: degradação de AEA/2-AG (ponte B13) (Morena 2016)[OB].",
+    "eCB = freio rápido do PVN; déficit na ansiedade/TEPT (Lutz 2015)[OB]; (Morena 2016)[OB];\n(Gunduz-Cinar 2021)[OB]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_023",
+   "ref": "REF_CADEGIANI_2016",
+   "consulta": "Cadegiani 2016",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "8 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 27557747) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "Uma coleta única de cortisol **não** define o mecanismo (a dinâmica e a\nsensibilidade do receptor superam o nível pontual); e a **\"fadiga adrenal\" não existe** como\nentidade clínica (Cadegiani 2016)[OB] [VERIFICADO].",
+    "Achatamento do ritmo dinâmico e exaustão; a **\"fadiga adrenal\" não existe** como\nentidade (Cadegiani 2016)[OB]; o real é regulação hiporreativa crônica (Kakiashvili\n2013)[OB].",
+    "Direcionam a leitura; sem limiares numéricos aqui (C-LAB) e sem rótulo diagnóstico único (P20).\n(Zorn 2017)[MA]; (Stetler & Miller 2011)[MA]; (Cadegiani 2016)[OB].",
+    "Achatamento dinâmico; \"fadiga adrenal\" é mito (Cadegiani 2016)[OB].\nNão são estratégias terapêuticas; nenhuma dose/protocolo/conduta (P20).",
+    "Não é \"glândula fraca\" (a\n\"fadiga adrenal\" não existe — Cadegiani 2016)[OB]; é uma adaptação crônica que\nreduz a saída do eixo (Heim 2000)[OB]; (Meewisse 2007)[MA].",
+    "- **\"Fadiga adrenal\"** não existe como entidade (Cadegiani 2016)[OB]; o real é regulação hiporreativa."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_024",
+   "ref": "REF_KELLER_2017",
+   "consulta": "Keller 2017",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "3 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 27528460) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "promotor (exon 1F/1F) por adversidade precoce reduz expressão do GR e o feedback\n(Keller 2017)[OB].",
+    "No **FKBP5**, portadores de alelos que aumentam a\nresponsividade ao cortisol e expostos a abuso na infância desenvolvem\ndesmetilação dependente do alelo em elementos responsivos a glicocorticoides,\ndeixando o sistema hiper-responsivo e aumentando o risco de TEPT/depressão na vida\nadulta (Klengel 2013)[EC]; polimorfismos do gene associam-se também a fenótipos de\nrisco (Szczepankiewicz 2014)[EC] e predizem resposta ao trauma (Bortsov 2013)[EC].\nNo **NR3C1 (GR)**, variantes como BclI e ER22/23EK mudam a sensibilidade ao\ncortisol, e a metilação do promotor por cuidados/estresse precoce reduz expressão\ndo receptor (Keller 2017)[OB].",
+    "EWAS em TEPT confirmam\nassinaturas de metilação em redes de regulação glicocorticoide (Logue 2020)[EC]; a\nmetilação em díade mãe-filho estende o achado à transmissão (Mendonça 2023)[EC].\n*Klengel_FKBP5_2013[EC] | Szczepankiewicz_FKBP5_2014[EC] | Bortsov_FKBP5_2013[EC] | Keller_HPAdepressao_2017[OB] | Licinio_CRH_2004[EC] | Zennaro_MRmut_2017[OB] | Logue_EWAS_2020[EC] | Mendonca_diade_2023[EC]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_025",
+   "ref": "REF_LEE_2025",
+   "consulta": "Lee 2025",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "0 frase de prosa com a citação nominal",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 41515133) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": []
+  },
+  {
+   "id_vinculo": "VINC_B2_026",
+   "ref": "REF_JOPLING_2023",
+   "consulta": "Jopling 2023",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "3 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 40654374) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "(Jopling 2023)[MA].",
+    "Está embotada no TEPT/burnout e pode estar exagerada\nna depressão aguda; exige coleta padronizada em 4 tempos (Jopling 2023)[MA].\nO **guideline consensual internacional** fixa protocolo e variáveis obrigatórias\ndo CAR (Stalder 2016)[OB; consenso de especialistas].",
+    "(Jopling 2023)[MA]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_027",
+   "ref": "REF_STALDER_2017",
+   "consulta": "Stalder 2017",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "3 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 28135674) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "hipocortisol em parte do TEPT (Stalder 2017)[MA]; (Psarraki 2021)[MA]; (Staufenbiel 2013)[OB].",
+    "Elevado no TDM/estresse crônico, com subpadrão hipo em parte do\nTEPT conforme a janela (Stalder 2017)[MA]; (Psarraki 2021)[MA]; (Staufenbiel 2013)[OB].\n**[AT 2026-09-08] Validação da janela:** em estudo de 30 dias, o cortisol capilar\ncorrelacionou-se moderadamente com o cortisol salivar **integrado** no período,\nmas **não** com CAR nem com slope diurno — leitura canônica: cabelo indexa\n**exposição/produção acumulada**, não o estado momentâneo nem a dinâmica fina do dia\n(Sugaya 2020)[EC; validação].",
+    "Acumula a secreção de semanas (cerca de 1 mês por\ncentímetro), evitando viés de dia único; elevado na depressão/estresse crônico,\nmas com achados de hipocortisolismo capilar em subgrupos de TEPT conforme a janela\n(Stalder 2017 meta)[MA]; (Psarraki 2021)[MA]; (Staufenbiel 2013)[OB]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_028",
+   "ref": "REF_PSARRAKI_2021",
+   "consulta": "Psarraki 2021",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "3 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 33310696) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "hipocortisol em parte do TEPT (Stalder 2017)[MA]; (Psarraki 2021)[MA]; (Staufenbiel 2013)[OB].",
+    "Elevado no TDM/estresse crônico, com subpadrão hipo em parte do\nTEPT conforme a janela (Stalder 2017)[MA]; (Psarraki 2021)[MA]; (Staufenbiel 2013)[OB].\n**[AT 2026-09-08] Validação da janela:** em estudo de 30 dias, o cortisol capilar\ncorrelacionou-se moderadamente com o cortisol salivar **integrado** no período,\nmas **não** com CAR nem com slope diurno — leitura canônica: cabelo indexa\n**exposição/produção acumulada**, não o estado momentâneo nem a dinâmica fina do dia\n(Sugaya 2020)[EC; validação].",
+    "Acumula a secreção de semanas (cerca de 1 mês por\ncentímetro), evitando viés de dia único; elevado na depressão/estresse crônico,\nmas com achados de hipocortisolismo capilar em subgrupos de TEPT conforme a janela\n(Stalder 2017 meta)[MA]; (Psarraki 2021)[MA]; (Staufenbiel 2013)[OB]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_029",
+   "ref": "REF_RIBEIRO_1993",
+   "consulta": "Ribeiro 1993",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "3 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 8214170) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "(Ribeiro 1993)[MA].",
+    "O\nDex/CRH combinado é mais sensível e prediz recaída/resposta (Ribeiro 1993)[MA];\n(Ising 2005) [revisão clássica não indexada — ver P-6]; (Zobel 2001)[EC].",
+    "Dexametasona sintética suprime o eixo se o feedback funcionar; a\nnão-supressão é clássica na melancolia, e a **hiper-supressão** no TEPT — o mesmo\nteste em polos opostos conforme o transtorno (Ribeiro 1993 meta)[MA]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_030",
+   "ref": "REF_ISING_2007",
+   "consulta": "Ising 2007",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "5 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 18179304) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "As anomalias do Dex/CRH normalizam com a remissão e predizem recaída quando alteradas — sinal de\nestado (não traço) (Ising 2007) [revisão clássica não indexada — ver P-6]; (Friess 2008)[EC] [VERIFICADO].",
+    "Antagonistas de CRF1 (emivocarb, pexacerfont, etc.) foram muito eficazes em roedores mas\n**falharam em ensaios de fase II/III humanos** para TDM/TAG/ansiedade — falha de tradução\ndocumentada (Spierling 2017)[OB]; (Ising 2007) [revisão clássica não indexada — ver P-6]; (Kehne 2002)[OB] [VERIFICADO].",
+    "Frequentemente normo/hiporreativa; Dex/CRH alterado que normaliza com a remissão\n(Ising 2007) [revisão clássica não indexada — ver P-6].",
+    "É o caso-documentado de tradução animal→humano do eixo (Ising 2007) [revisão clássica não indexada — ver P-6].\n**[AT 2026-09-08] AVP/V1B no foco:** em roedor, o bloqueio de **V1B** reduz o ACTH induzido\npor estresse **sem** alterar a atividade basal do eixo — mas **não** reduz a corticosterona\ninduzida por estresse; leitura estrita: V1B modula a resposta, é **alvo investigacional**,\nnão \"normalizador do HPA\" (Spiga 2009)[ML; roedor] [APENAS PRÉ-CLÍNICO].",
+    "O eixo é plástico e reversível com a remissão\n(Ising 2007) [revisão clássica não indexada — ver P-6], o que posiciona a anormalidade como estado, não traço."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_031",
+   "ref": "REF_BLASEY_2009",
+   "consulta": "Blasey 2009",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "6 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 19318138) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "Hipercortisolemia, não-supressão ao DST, CRH elevado no LCR, Cushing-like; **mifepristona**\n(antagonista GR) com sinal na depressão psicótica (Blasey 2009)[EC]; (DeBattista 2006)[EC];\nCochrane (Kruizinga 2021)[MA] [VERIFICADO, efeito restrito].",
+    "Predomínio de não-supressão ao DST, CRH elevado no LCR, hipercortisolemia e maior\ndano cognitivo/hipocampal; mifepristona testada na psicótica (Stetler & Miller 2011)[MA];\n(Blasey 2009)[EC].",
+    "Não-supressão DST, agitação, sinal de resposta a anti-glicocorticoide em estudos (DeBattista\n2006)[EC]; (Blasey 2009)[EC].",
+    "A **mifepristona (RU-486)** antagoniza o GR; com sinais na depressão psicótica\n(Blasey 2009)[EC]; (DeBattista 2006)[EC], revisada em Cochrane (Kruizinga 2021)[MA]; a\nrelação nível plasmático/antagonismo do GR foi estudada (Block 2017)[EC].",
+    "hipercortisolismo, dano cognitivo/hipocampal, com sinal de resposta a\nanti-glicocorticoides em estudos (mifepristona na psicótica — restrito a\nsubgrupo; Blasey 2009)[EC].",
+    "dexametasona; sinal restrito de resposta a anti-glicocorticoide (mifepristona)\nem estudos, em subgrupo psicótico (Blasey 2009)[EC]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_032",
+   "ref": "REF_DEBATTISTA_2006",
+   "consulta": "DeBattista 2006",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "3 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 16889757) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "Hipercortisolemia, não-supressão ao DST, CRH elevado no LCR, Cushing-like; **mifepristona**\n(antagonista GR) com sinal na depressão psicótica (Blasey 2009)[EC]; (DeBattista 2006)[EC];\nCochrane (Kruizinga 2021)[MA] [VERIFICADO, efeito restrito].",
+    "Não-supressão DST, agitação, sinal de resposta a anti-glicocorticoide em estudos (DeBattista\n2006)[EC]; (Blasey 2009)[EC].",
+    "A **mifepristona (RU-486)** antagoniza o GR; com sinais na depressão psicótica\n(Blasey 2009)[EC]; (DeBattista 2006)[EC], revisada em Cochrane (Kruizinga 2021)[MA]; a\nrelação nível plasmático/antagonismo do GR foi estudada (Block 2017)[EC]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_033",
+   "ref": "REF_KRUIZINGA_2021",
+   "consulta": "Kruizinga 2021",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "2 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 34875106) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "Hipercortisolemia, não-supressão ao DST, CRH elevado no LCR, Cushing-like; **mifepristona**\n(antagonista GR) com sinal na depressão psicótica (Blasey 2009)[EC]; (DeBattista 2006)[EC];\nCochrane (Kruizinga 2021)[MA] [VERIFICADO, efeito restrito].",
+    "A **mifepristona (RU-486)** antagoniza o GR; com sinais na depressão psicótica\n(Blasey 2009)[EC]; (DeBattista 2006)[EC], revisada em Cochrane (Kruizinga 2021)[MA]; a\nrelação nível plasmático/antagonismo do GR foi estudada (Block 2017)[EC]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_034",
+   "ref": "REF_MEEWISSE_2007",
+   "consulta": "Meewisse 2007",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "9 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 17978317) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "Cortisol basal baixo, CAR embotado, hiper-supressão ao DST, associação com trauma precoce/FKBP5\n(Heim 2000)[OB]; (Meewisse 2007)[MA]; (Vythilingam 2010)[EC].",
+    "Cortisol basal baixo, CAR embotado, maior supressão ao DST, padrão hiporreativo com\nheterogeneidade (trauma recente/depressão grave pode normalizar/elevar) (Heim 2000)[OB];\n(Meewisse 2007)[MA]; (Vythilingam 2010)[EC].",
+    "Cortisol baixo, hiper-supressão, trauma precoce/FKBP5 (Meewisse 2007)[MA]; (Vythilingam 2010)[EC].",
+    "No TEPT crônico/exaustão, observa-se o padrão oposto: hiporreatividade e\ncortisol baixo/achatado, interpretado como adaptação tardia (downregulation)\napós exposição prolongada, distinta da fase aguda; explica a bipolaridade\ndo sinal conforme a fase temporal (Heim 2000)[OB]; (Meewisse 2007)[MA].",
+    "Não é \"glândula fraca\" (a\n\"fadiga adrenal\" não existe — Cadegiani 2016)[OB]; é uma adaptação crônica que\nreduz a saída do eixo (Heim 2000)[OB]; (Meewisse 2007)[MA].",
+    "embotado, hiper-supressão, trauma precoce e programação FKBP5 (Meewisse 2007)[MA];\n(Klengel 2013)[EC]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_035",
+   "ref": "REF_VYTHILINGAM_2010",
+   "consulta": "Vythilingam 2010",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "3 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 19766403) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "Cortisol basal baixo, CAR embotado, hiper-supressão ao DST, associação com trauma precoce/FKBP5\n(Heim 2000)[OB]; (Meewisse 2007)[MA]; (Vythilingam 2010)[EC].",
+    "Cortisol basal baixo, CAR embotado, maior supressão ao DST, padrão hiporreativo com\nheterogeneidade (trauma recente/depressão grave pode normalizar/elevar) (Heim 2000)[OB];\n(Meewisse 2007)[MA]; (Vythilingam 2010)[EC].",
+    "Cortisol baixo, hiper-supressão, trauma precoce/FKBP5 (Meewisse 2007)[MA]; (Vythilingam 2010)[EC]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_036",
+   "ref": "REF_VREEBURG_2010",
+   "consulta": "Vreeburg 2010",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "2 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 20190128) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "Reatividade distinta entre transtornos (Zorn 2017)[MA]; ansiedade com reatividade aumentada mas\nvariável (Vreeburg 2010)[EC]; **borderline** hiporreativo tipo TEPT (Drews 2019)[MA]; (Thomas\n2019)[MA]; (Zimmerman 2009)[OB]; **TOC** padrão próprio (Sousa-Lima 2019)[MA].",
+    "Reatividade aumentada em média, porém heterogênea entre diagnósticos (Zorn 2017)[MA];\n(Vreeburg 2010)[EC]; cortisol salivar e resposta à psicoterapia (Fischer 2017) [revisão clássica não indexada — ver P-6]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_037",
+   "ref": "REF_DREWS_2019",
+   "consulta": "Drews 2019",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "2 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 30500331) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "Reatividade distinta entre transtornos (Zorn 2017)[MA]; ansiedade com reatividade aumentada mas\nvariável (Vreeburg 2010)[EC]; **borderline** hiporreativo tipo TEPT (Drews 2019)[MA]; (Thomas\n2019)[MA]; (Zimmerman 2009)[OB]; **TOC** padrão próprio (Sousa-Lima 2019)[MA].",
+    "Hiporreatividade semelhante ao TEPT em metanálises, com variabilidade (Drews 2019)[MA];\n(Thomas 2019)[MA]; (Zimmerman 2009)[OB]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_038",
+   "ref": "REF_THOMAS_2019",
+   "consulta": "Thomas 2019",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "2 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 30557762) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "Reatividade distinta entre transtornos (Zorn 2017)[MA]; ansiedade com reatividade aumentada mas\nvariável (Vreeburg 2010)[EC]; **borderline** hiporreativo tipo TEPT (Drews 2019)[MA]; (Thomas\n2019)[MA]; (Zimmerman 2009)[OB]; **TOC** padrão próprio (Sousa-Lima 2019)[MA].",
+    "Hiporreatividade semelhante ao TEPT em metanálises, com variabilidade (Drews 2019)[MA];\n(Thomas 2019)[MA]; (Zimmerman 2009)[OB]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_040",
+   "ref": "REF_KEHNE_2002",
+   "consulta": "Kehne 2002",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "2 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 12769601) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "Antagonistas de CRF1 (emivocarb, pexacerfont, etc.) foram muito eficazes em roedores mas\n**falharam em ensaios de fase II/III humanos** para TDM/TAG/ansiedade — falha de tradução\ndocumentada (Spierling 2017)[OB]; (Ising 2007) [revisão clássica não indexada — ver P-6]; (Kehne 2002)[OB] [VERIFICADO].",
+    "Os antagonistas não peptídicos do receptor CRF1 foram muito promissores em roedores\n(redução de ansiedade/comportamentos depressivos e supressão do HPA), e avançaram para\nfase clínica, mas **falharam em ensaios de fase II/III para TDM, TAG e ansiedade** (Kehne\n2002)[OB]; (Spierling 2017)[OB]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_042",
+   "ref": "REF_RUSCH_2023",
+   "consulta": "Rusch 2023",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "3 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 37404311) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "Microbiota modula a reatividade HPA; probióticos reduzem cortisol (Rusch 2023)[OB]; (Gandomkar\n2026)[MA].",
+    "A modulação do eixo por probióticos/psicobióticos e a desregulação por disbiose estão em\nrevisões recentes; efeitos sobre cortisol e CAR em meta-análise (Dziedzic 2024)[OB];\n(de Weerth 2017)[OB]; (Rusch 2023)[OB].",
+    "A **microbiota** influencia o desenvolvimento e a reatividade do HPA; psicobióticos/probióticos\nmodulam cortisol/CAR em revisões e meta-análises recentes, com evidência ainda heterogênea\n(Rusch 2023)[OB]; (Dziedzic 2024)[OB]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_043",
+   "ref": "REF_STEIGER_2002",
+   "consulta": "Steiger 2002",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "2 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 12531148) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "SCN acopla o ritmo; fragmentação do sono REM ↔ hiperativação noturna do HPA, bidirecional\n(Steiger 2002)[OB]; (Buckley 2005)[OB]; (Palagini 2013)[OB]; (Sgoifo 2006)[ML].",
+    "O **sono e o relógio (SCN)** acoplam o ritmo do\ncortisol; a fragmentação do REM eleva o cortisol noturno e, reciprocamente, cortisol\nnoturno alto fragmenta o sono — coativação do crônico (Steiger 2002)[OB]; (Buckley\n2005)[OB]; (Palagini 2013)[OB]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_044",
+   "ref": "REF_BUCKLEY_2005",
+   "consulta": "Buckley 2005",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "2 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 15728214) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "SCN acopla o ritmo; fragmentação do sono REM ↔ hiperativação noturna do HPA, bidirecional\n(Steiger 2002)[OB]; (Buckley 2005)[OB]; (Palagini 2013)[OB]; (Sgoifo 2006)[ML].",
+    "O **sono e o relógio (SCN)** acoplam o ritmo do\ncortisol; a fragmentação do REM eleva o cortisol noturno e, reciprocamente, cortisol\nnoturno alto fragmenta o sono — coativação do crônico (Steiger 2002)[OB]; (Buckley\n2005)[OB]; (Palagini 2013)[OB]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_045",
+   "ref": "REF_PALAGINI_2013",
+   "consulta": "Palagini 2013",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "2 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 23391633) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "SCN acopla o ritmo; fragmentação do sono REM ↔ hiperativação noturna do HPA, bidirecional\n(Steiger 2002)[OB]; (Buckley 2005)[OB]; (Palagini 2013)[OB]; (Sgoifo 2006)[ML].",
+    "O **sono e o relógio (SCN)** acoplam o ritmo do\ncortisol; a fragmentação do REM eleva o cortisol noturno e, reciprocamente, cortisol\nnoturno alto fragmenta o sono — coativação do crônico (Steiger 2002)[OB]; (Buckley\n2005)[OB]; (Palagini 2013)[OB]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_047",
+   "ref": "REF_HANTSOO_2023",
+   "consulta": "Hantsoo 2023",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "3 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 38149098) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "Alopregnanolona/DHEA; pós-parto; diferenças sexuais (Schüle 2014)[OB]; (Meltzer-Brody 2018)[EC];\n(Hantsoo 2023)[OB]; (Hodes 2024)[OB].",
+    "Há diferenças sexuais documentadas no nível e na reatividade do cortisol em depressão e\nansiedade; mulheres mostram padrões distintos ligados ao ciclo reprodutivo e ao período\nperinatal (Wang 2024)[MA]; (Teo 2023)[OB]; (Powers 2016)[EC]; (Hantsoo 2023)[OB].",
+    "As **diferenças sexuais** no nível e na reatividade do\ncortisol são documentadas em meta-análise, com padrões ligados ao ciclo reprodutivo e ao\nperíodo perinatal (Wang 2024)[MA]; (Hantsoo 2023)[OB]; o pós-parto também cruza a\nneuroesteroidogênese GABA (Meltzer-Brody 2018)[EC]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_053",
+   "ref": "REF_WANG_2024",
+   "consulta": "Wang 2024",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "2 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 38176541) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "Há diferenças sexuais documentadas no nível e na reatividade do cortisol em depressão e\nansiedade; mulheres mostram padrões distintos ligados ao ciclo reprodutivo e ao período\nperinatal (Wang 2024)[MA]; (Teo 2023)[OB]; (Powers 2016)[EC]; (Hantsoo 2023)[OB].",
+    "As **diferenças sexuais** no nível e na reatividade do\ncortisol são documentadas em meta-análise, com padrões ligados ao ciclo reprodutivo e ao\nperíodo perinatal (Wang 2024)[MA]; (Hantsoo 2023)[OB]; o pós-parto também cruza a\nneuroesteroidogênese GABA (Meltzer-Brody 2018)[EC]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_058",
+   "ref": "REF_DZIEDZIC_2024",
+   "consulta": "Dziedzic 2024",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "2 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 38613087) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "A modulação do eixo por probióticos/psicobióticos e a desregulação por disbiose estão em\nrevisões recentes; efeitos sobre cortisol e CAR em meta-análise (Dziedzic 2024)[OB];\n(de Weerth 2017)[OB]; (Rusch 2023)[OB].",
+    "A **microbiota** influencia o desenvolvimento e a reatividade do HPA; psicobióticos/probióticos\nmodulam cortisol/CAR em revisões e meta-análises recentes, com evidência ainda heterogênea\n(Rusch 2023)[OB]; (Dziedzic 2024)[OB]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_060",
+   "ref": "REF_HARTMANN_2024",
+   "consulta": "Hartmann 2024",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "0 frase de prosa com a citação nominal",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 39705315) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": []
+  },
+  {
+   "id_vinculo": "VINC_B2_061",
+   "ref": "REF_BORTSOV_2013",
+   "consulta": "Bortsov 2013",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "2 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Apoio (Autor/Ano, PMID 23707272) verificado em abstract: direção/espécie conferidas.",
+   "candidatas": [
+    "No **FKBP5**, portadores de alelos que aumentam a\nresponsividade ao cortisol e expostos a abuso na infância desenvolvem\ndesmetilação dependente do alelo em elementos responsivos a glicocorticoides,\ndeixando o sistema hiper-responsivo e aumentando o risco de TEPT/depressão na vida\nadulta (Klengel 2013)[EC]; polimorfismos do gene associam-se também a fenótipos de\nrisco (Szczepankiewicz 2014)[EC] e predizem resposta ao trauma (Bortsov 2013)[EC].\nNo **NR3C1 (GR)**, variantes como BclI e ER22/23EK mudam a sensibilidade ao\ncortisol, e a metilação do promotor por cuidados/estresse precoce reduz expressão\ndo receptor (Keller 2017)[OB].",
+    "EWAS em TEPT confirmam\nassinaturas de metilação em redes de regulação glicocorticoide (Logue 2020)[EC]; a\nmetilação em díade mãe-filho estende o achado à transmissão (Mendonça 2023)[EC].\n*Klengel_FKBP5_2013[EC] | Szczepankiewicz_FKBP5_2014[EC] | Bortsov_FKBP5_2013[EC] | Keller_HPAdepressao_2017[OB] | Licinio_CRH_2004[EC] | Zennaro_MRmut_2017[OB] | Logue_EWAS_2020[EC] | Mendonca_diade_2023[EC]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B2_0089",
+   "ref": "REF_MULLER_2000",
+   "consulta": "Müller 2000",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "0 frase de prosa com a citação nominal",
+   "ancora_atual": "Entrada índice [AT] 2026-09-08: MULLER_2000[ML] — registra a duplicata Ller/Müller mesclada (mesmo DOI), verificada por eutils; sem menção de prosa adicional.",
+   "candidatas": []
+  }
+ ],
+ "B12": [
+  {
+   "id_vinculo": "VINC_B12_021",
+   "ref": "REF_SHIN_2010",
+   "consulta": "Shin 2010",
+   "status_atual": "AUSENTE",
+   "motivo_fila": "2 frases citam a ref — humano escolhe a do claim",
+   "ancora_atual": "Entrada do Módulo 09 (REF SHIN 2010); referência integrante da canônica.",
+   "candidatas": [
+    "O modelo fundador postula amígdala\nhiper-reativa + falha de inibição top-down (Rauch 2006)[EC]; (Shin 2006)[EC]; (Liberzon 2010)[OB]; a meta de fMRI de ansiedade (Etkin & Wager) sustenta parte.",
+    "Universo auditado: 36 âncoras (2 já vigentes:\nShin 2010, Logue 2018) + 146 não citadas + NAO-IDX declarados."
+   ]
+  }
+ ],
+ "B06": [
+  {
+   "id_vinculo": "VINC_B6_037",
+   "ref": "REF_KERY_1994",
+   "consulta": "Kery 1994",
+   "status_atual": "PROSA",
+   "motivo_fila": "3 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "A CBS humana é uma\n**hemoproteína PLP-dependente** singular: heme b confirmado em fígado humano/rato (Kéry & Kraus 1994)[OB],\ncofatores heme/PLP com sítios não-equivalentes e funções mapeadas por região (Taoka & Banerjee 1999, dois\nartigos)[OB], estrutura cristalina resolvida (Meier 2001)[OB], regulação/oligomerização estrutural\n(Ereño-Orbea 2013)[OB], mecanismo de reação como **hemesensor redox** (Banerjee 2004)[OB] e cofator\nheme incomum revisado (Singh 2007)[OB].",
+    "Anexo (106 refs) + GPM/briefing/triagem auditados ref a ref (esearch DOI[aid] → esummary → efetch): **98 resolvidas** (95 por DOI; Kéry & Kraus 1994 resgatada do [G1] do briefing por busca dirigida; Wondrak & Kannan fora do anexo, verificadas), tabela-mestra do GPM **45/45** confirmada, **zero falsos positivos**, divergências de autor/ano = 0.",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_038",
+   "ref": "REF_KABIL_1999",
+   "consulta": "Kabil 1999",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "A regulação é multiescamada: o domínio regulador C-terminal\nmodula o defeito de mutantes catalíticos (Kabil 1999)[OB]; **AdoMet** estabiliza a CBS e modula a\ncapacidade redox celular (Prudova 2006)[OB]; há comunicação alostérica **PLP–heme** (Yadav 2012)[OB];\ne o hememedia **inibição gasosa** da via por NO/CO — elo molecular direto com a sinalização do B1\n(McFarlane 2024)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_039",
+   "ref": "REF_TAOKA_1999",
+   "consulta": "Taoka 1999",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "A CBS humana é uma\n**hemoproteína PLP-dependente** singular: heme b confirmado em fígado humano/rato (Kéry & Kraus 1994)[OB],\ncofatores heme/PLP com sítios não-equivalentes e funções mapeadas por região (Taoka & Banerjee 1999, dois\nartigos)[OB], estrutura cristalina resolvida (Meier 2001)[OB], regulação/oligomerização estrutural\n(Ereño-Orbea 2013)[OB], mecanismo de reação como **hemesensor redox** (Banerjee 2004)[OB] e cofator\nheme incomum revisado (Singh 2007)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_040",
+   "ref": "REF_TAOKA_1999b",
+   "consulta": "Taoka 1999",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "A CBS humana é uma\n**hemoproteína PLP-dependente** singular: heme b confirmado em fígado humano/rato (Kéry & Kraus 1994)[OB],\ncofatores heme/PLP com sítios não-equivalentes e funções mapeadas por região (Taoka & Banerjee 1999, dois\nartigos)[OB], estrutura cristalina resolvida (Meier 2001)[OB], regulação/oligomerização estrutural\n(Ereño-Orbea 2013)[OB], mecanismo de reação como **hemesensor redox** (Banerjee 2004)[OB] e cofator\nheme incomum revisado (Singh 2007)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_041",
+   "ref": "REF_MOSHAROV_2000",
+   "consulta": "Mosharov 2000",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "A relação **quantitativa** Hcy↔síntese de GSH e sua modulação por\nestado redox é clássica (Mosharov 2000)[OB]; micronutrientes/dieta → homeostase de GSH em revisão\n(Gould & Pazdro 2019)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_042",
+   "ref": "REF_MEIER_2001",
+   "consulta": "Meier 2001",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "A CBS humana é uma\n**hemoproteína PLP-dependente** singular: heme b confirmado em fígado humano/rato (Kéry & Kraus 1994)[OB],\ncofatores heme/PLP com sítios não-equivalentes e funções mapeadas por região (Taoka & Banerjee 1999, dois\nartigos)[OB], estrutura cristalina resolvida (Meier 2001)[OB], regulação/oligomerização estrutural\n(Ereño-Orbea 2013)[OB], mecanismo de reação como **hemesensor redox** (Banerjee 2004)[OB] e cofator\nheme incomum revisado (Singh 2007)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_043",
+   "ref": "REF_STIPANUK_2004",
+   "consulta": "Stipanuk 2004",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "O metabolismo de aminoácidos sulfurados controla produção e remoção\nde homocisteína e cisteína (Stipanuk 2004)[OB] e responde a excessos de metionina/cisteína/sulfeto\n(Stipanuk 2020)[OB]; reguladores da via foram revisados (Sbodio 2018)[OB] junto à regulação\npós-traducional (Pajares 2025)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_044",
+   "ref": "REF_BANERJEE_2004",
+   "consulta": "Banerjee 2004",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2004[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "A CBS humana é uma\n**hemoproteína PLP-dependente** singular: heme b confirmado em fígado humano/rato (Kéry & Kraus 1994)[OB],\ncofatores heme/PLP com sítios não-equivalentes e funções mapeadas por região (Taoka & Banerjee 1999, dois\nartigos)[OB], estrutura cristalina resolvida (Meier 2001)[OB], regulação/oligomerização estrutural\n(Ereño-Orbea 2013)[OB], mecanismo de reação como **hemesensor redox** (Banerjee 2004)[OB] e cofator\nheme incomum revisado (Singh 2007)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_045",
+   "ref": "REF_CHEN_2006",
+   "consulta": "Chen 2006",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "Mutações de\nhomocistinúria dissecam a enzima: localização intracelular diferente de mutantes (Casique 2013)[OB],\nambiente heme/PLP da variante R266K (Smith 2012)[OB], comportamentos contrastantes de mutantes\nassociados à resposta à piridoxina (Chen 2006)[OB], duas novas missense (Al-Sadeq 2024)[OB] e a\nmutação R336C que rompe a comunicação com o cofator PLP mantendo a integridade global (Conter 2025)[OB].\n**Mutação monogênica rara não é variação comum** — polimorfismos CBS/CGL ↔ fenótipo psiquiátrico = [G1].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_046",
+   "ref": "REF_PRUDOVA_2006",
+   "consulta": "Prudova 2006",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "A regulação é multiescamada: o domínio regulador C-terminal\nmodula o defeito de mutantes catalíticos (Kabil 1999)[OB]; **AdoMet** estabiliza a CBS e modula a\ncapacidade redox celular (Prudova 2006)[OB]; há comunicação alostérica **PLP–heme** (Yadav 2012)[OB];\ne o hememedia **inibição gasosa** da via por NO/CO — elo molecular direto com a sinalização do B1\n(McFarlane 2024)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_047",
+   "ref": "REF_SINGH_2007",
+   "consulta": "Singh 2007",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "A CBS humana é uma\n**hemoproteína PLP-dependente** singular: heme b confirmado em fígado humano/rato (Kéry & Kraus 1994)[OB],\ncofatores heme/PLP com sítios não-equivalentes e funções mapeadas por região (Taoka & Banerjee 1999, dois\nartigos)[OB], estrutura cristalina resolvida (Meier 2001)[OB], regulação/oligomerização estrutural\n(Ereño-Orbea 2013)[OB], mecanismo de reação como **hemesensor redox** (Banerjee 2004)[OB] e cofator\nheme incomum revisado (Singh 2007)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_048",
+   "ref": "REF_ZHU_2008",
+   "consulta": "Zhu 2008",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "CGL/CSE apresenta variantes polimórficas e mutantes patogênicas com cinética\ncaracterizada (Zhu 2008)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_049",
+   "ref": "REF_ISHII_2010",
+   "consulta": "Ishii 2010",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "A ablação de CGL (Cth⁻/⁻) torna a cisteína dietética essencial contra\nmiopatia oxidativa letal em camundongos — prova causal mamífera de que a transulfuração sustenta a\ndefesa redox in vivo (Ishii 2010)[ML].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_050",
+   "ref": "REF_AITKEN_2011",
+   "consulta": "Aitken 2011",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "PLP é cofator obrigatório da **CBS** e da **CGL/CSE**; a revisão\ndos sítios ativos das enzimas da transulfuração fixa a base (Aitken 2011)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_051",
+   "ref": "REF_SINGH_2011",
+   "consulta": "Singh 2011",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "CBS/CGL também geram **sulfeto de hidrogênio**, gaseotransmissor\nPLP-dependente (Singh & Banerjee 2011)[OB]; a inibição farmacológica da CBS e o papel inesperado da\nserina foram dissecados (Petrosino 2022)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_052",
+   "ref": "REF_SMITH_2012",
+   "consulta": "Smith 2012",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "Mutações de\nhomocistinúria dissecam a enzima: localização intracelular diferente de mutantes (Casique 2013)[OB],\nambiente heme/PLP da variante R266K (Smith 2012)[OB], comportamentos contrastantes de mutantes\nassociados à resposta à piridoxina (Chen 2006)[OB], duas novas missense (Al-Sadeq 2024)[OB] e a\nmutação R336C que rompe a comunicação com o cofator PLP mantendo a integridade global (Conter 2025)[OB].\n**Mutação monogênica rara não é variação comum** — polimorfismos CBS/CGL ↔ fenótipo psiquiátrico = [G1].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_053",
+   "ref": "REF_YADAV_2012",
+   "consulta": "Yadav 2012",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "A regulação é multiescamada: o domínio regulador C-terminal\nmodula o defeito de mutantes catalíticos (Kabil 1999)[OB]; **AdoMet** estabiliza a CBS e modula a\ncapacidade redox celular (Prudova 2006)[OB]; há comunicação alostérica **PLP–heme** (Yadav 2012)[OB];\ne o hememedia **inibição gasosa** da via por NO/CO — elo molecular direto com a sinalização do B1\n(McFarlane 2024)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_054",
+   "ref": "REF_CASIQUE_2013",
+   "consulta": "Casique 2013",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "Mutações de\nhomocistinúria dissecam a enzima: localização intracelular diferente de mutantes (Casique 2013)[OB],\nambiente heme/PLP da variante R266K (Smith 2012)[OB], comportamentos contrastantes de mutantes\nassociados à resposta à piridoxina (Chen 2006)[OB], duas novas missense (Al-Sadeq 2024)[OB] e a\nmutação R336C que rompe a comunicação com o cofator PLP mantendo a integridade global (Conter 2025)[OB].\n**Mutação monogênica rara não é variação comum** — polimorfismos CBS/CGL ↔ fenótipo psiquiátrico = [G1].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_056",
+   "ref": "REF_GREGORY_2016",
+   "consulta": "Gregory 2016",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "**Estado nutricional de B6 e disponibilidade celular de PLP governam as\nreações canônicas da via e a produção de H₂S por reações laterais** — a âncora que transforma\n\"enzima existe\" em \"estado de B6 importa\" (Gregory 2016)[OB]; a piridoxina conecta metabolismo de\num carbono ao sistema da glutationa peroxidase (Dalto & Matte 2017, revisão — nunca ensaio causal)[OB].\nManutenção do pool de PLP: biossíntese pela PNPO com particularidades por espécie (Rivero 2024)[OB],\nproteína de homeostase de PLP (PLPBP) sustenta B6 celular e função oxidativa mitocondrial\n(Ciapaite 2023)[OB]; os distúrbios do metabolismo de B6 foram mapeados (Wilson 2019)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_057",
+   "ref": "REF_DALTO_2017",
+   "consulta": "Dalto 2017",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "**Estado nutricional de B6 e disponibilidade celular de PLP governam as\nreações canônicas da via e a produção de H₂S por reações laterais** — a âncora que transforma\n\"enzima existe\" em \"estado de B6 importa\" (Gregory 2016)[OB]; a piridoxina conecta metabolismo de\num carbono ao sistema da glutationa peroxidase (Dalto & Matte 2017, revisão — nunca ensaio causal)[OB].\nManutenção do pool de PLP: biossíntese pela PNPO com particularidades por espécie (Rivero 2024)[OB],\nproteína de homeostase de PLP (PLPBP) sustenta B6 celular e função oxidativa mitocondrial\n(Ciapaite 2023)[OB]; os distúrbios do metabolismo de B6 foram mapeados (Wilson 2019)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_058",
+   "ref": "REF_GOULD_2019",
+   "consulta": "Gould 2019",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "A relação **quantitativa** Hcy↔síntese de GSH e sua modulação por\nestado redox é clássica (Mosharov 2000)[OB]; micronutrientes/dieta → homeostase de GSH em revisão\n(Gould & Pazdro 2019)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_059",
+   "ref": "REF_SBODIO_2018",
+   "consulta": "Sbodio 2018",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "O metabolismo de aminoácidos sulfurados controla produção e remoção\nde homocisteína e cisteína (Stipanuk 2004)[OB] e responde a excessos de metionina/cisteína/sulfeto\n(Stipanuk 2020)[OB]; reguladores da via foram revisados (Sbodio 2018)[OB] junto à regulação\npós-traducional (Pajares 2025)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_060",
+   "ref": "REF_WILSON_2019",
+   "consulta": "Wilson 2019",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "**Estado nutricional de B6 e disponibilidade celular de PLP governam as\nreações canônicas da via e a produção de H₂S por reações laterais** — a âncora que transforma\n\"enzima existe\" em \"estado de B6 importa\" (Gregory 2016)[OB]; a piridoxina conecta metabolismo de\num carbono ao sistema da glutationa peroxidase (Dalto & Matte 2017, revisão — nunca ensaio causal)[OB].\nManutenção do pool de PLP: biossíntese pela PNPO com particularidades por espécie (Rivero 2024)[OB],\nproteína de homeostase de PLP (PLPBP) sustenta B6 celular e função oxidativa mitocondrial\n(Ciapaite 2023)[OB]; os distúrbios do metabolismo de B6 foram mapeados (Wilson 2019)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_061",
+   "ref": "REF_STIPANUK_2020",
+   "consulta": "Stipanuk 2020",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "O metabolismo de aminoácidos sulfurados controla produção e remoção\nde homocisteína e cisteína (Stipanuk 2004)[OB] e responde a excessos de metionina/cisteína/sulfeto\n(Stipanuk 2020)[OB]; reguladores da via foram revisados (Sbodio 2018)[OB] junto à regulação\npós-traducional (Pajares 2025)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_062",
+   "ref": "REF_PETROSINO_2022",
+   "consulta": "Petrosino 2022",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "CBS/CGL também geram **sulfeto de hidrogênio**, gaseotransmissor\nPLP-dependente (Singh & Banerjee 2011)[OB]; a inibição farmacológica da CBS e o papel inesperado da\nserina foram dissecados (Petrosino 2022)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_063",
+   "ref": "REF_CIAPAITE_2023",
+   "consulta": "Ciapaite 2023",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "**Estado nutricional de B6 e disponibilidade celular de PLP governam as\nreações canônicas da via e a produção de H₂S por reações laterais** — a âncora que transforma\n\"enzima existe\" em \"estado de B6 importa\" (Gregory 2016)[OB]; a piridoxina conecta metabolismo de\num carbono ao sistema da glutationa peroxidase (Dalto & Matte 2017, revisão — nunca ensaio causal)[OB].\nManutenção do pool de PLP: biossíntese pela PNPO com particularidades por espécie (Rivero 2024)[OB],\nproteína de homeostase de PLP (PLPBP) sustenta B6 celular e função oxidativa mitocondrial\n(Ciapaite 2023)[OB]; os distúrbios do metabolismo de B6 foram mapeados (Wilson 2019)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_065",
+   "ref": "REF_MCFARLANE_2024",
+   "consulta": "McFarlane 2024",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "A regulação é multiescamada: o domínio regulador C-terminal\nmodula o defeito de mutantes catalíticos (Kabil 1999)[OB]; **AdoMet** estabiliza a CBS e modula a\ncapacidade redox celular (Prudova 2006)[OB]; há comunicação alostérica **PLP–heme** (Yadav 2012)[OB];\ne o hememedia **inibição gasosa** da via por NO/CO — elo molecular direto com a sinalização do B1\n(McFarlane 2024)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_066",
+   "ref": "REF_RIVERO_2024",
+   "consulta": "Rivero 2024",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "**Estado nutricional de B6 e disponibilidade celular de PLP governam as\nreações canônicas da via e a produção de H₂S por reações laterais** — a âncora que transforma\n\"enzima existe\" em \"estado de B6 importa\" (Gregory 2016)[OB]; a piridoxina conecta metabolismo de\num carbono ao sistema da glutationa peroxidase (Dalto & Matte 2017, revisão — nunca ensaio causal)[OB].\nManutenção do pool de PLP: biossíntese pela PNPO com particularidades por espécie (Rivero 2024)[OB],\nproteína de homeostase de PLP (PLPBP) sustenta B6 celular e função oxidativa mitocondrial\n(Ciapaite 2023)[OB]; os distúrbios do metabolismo de B6 foram mapeados (Wilson 2019)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_067",
+   "ref": "REF_CONTER_2025",
+   "consulta": "Conter 2025",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "Mutações de\nhomocistinúria dissecam a enzima: localização intracelular diferente de mutantes (Casique 2013)[OB],\nambiente heme/PLP da variante R266K (Smith 2012)[OB], comportamentos contrastantes de mutantes\nassociados à resposta à piridoxina (Chen 2006)[OB], duas novas missense (Al-Sadeq 2024)[OB] e a\nmutação R336C que rompe a comunicação com o cofator PLP mantendo a integridade global (Conter 2025)[OB].\n**Mutação monogênica rara não é variação comum** — polimorfismos CBS/CGL ↔ fenótipo psiquiátrico = [G1].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_068",
+   "ref": "REF_PAJARES_2025",
+   "consulta": "Pajares 2025",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "O metabolismo de aminoácidos sulfurados controla produção e remoção\nde homocisteína e cisteína (Stipanuk 2004)[OB] e responde a excessos de metionina/cisteína/sulfeto\n(Stipanuk 2020)[OB]; reguladores da via foram revisados (Sbodio 2018)[OB] junto à regulação\npós-traducional (Pajares 2025)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_069",
+   "ref": "REF_XI_2025",
+   "consulta": "Xi 2025",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Kery_1994[OB] | Kabil_1999[OB] | Taoka_1999[OB] | Taoka_1999b[OB] | Mosharov_2000[OB] | Meier_2001[OB] | Stipanuk_2004[OB] | Banerjee_2005[OB] | Chen_2006[OB] | Prudova_2006[OB] | Singh_2007[OB] | Zh",
+   "candidatas": [
+    "E a via fecha o círculo da B6: ativar a transulfuração via CBS\natenua estresse oxidativo e **ferroptose** em eritroblastos falciformes humanos e camundongos\ntransgênicos — contexto de outra doença, mas a sequência **TS → cisteína → GSH → freio da ferroptose**\n(§2.2) fica demonstrada como arquitetura (Xi 2025)[ML].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_098",
+   "ref": "REF_DAVIS_2006",
+   "consulta": "Davis 2006",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Davis_2006[EC] | Lamers_2009[EC] | Shen_2010[OB] | Cheng_2016[EC] | Ford_2018[EC] | Lai_2020[EC] | Pusceddu_2020[OB] | Vandeneynde_2021[EC]*",
+   "candidatas": [
+    "**(i) Dieta controlada\n(experimental humana):** a restrição dietética de B6 em adultos jovens **elevou GSH e cistationina\nplasmáticas sem alterar o fluxo de cisteína** — o paradoxo humano do eixo, que veda a leitura\n\"menos B6 → menos GSH\" (Davis 2006)[EC]; e a restrição de B6 mostrou tendência de **redução da taxa\nde síntese eritrocitária de GSH sem alterar as concentrações** de GSH em eritrócitos ou plasma — a\ndinâmica muda antes do pool (Lamers 2009)[EC].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_099",
+   "ref": "REF_LAMERS_2009",
+   "consulta": "Lamers 2009",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Davis_2006[EC] | Lamers_2009[EC] | Shen_2010[OB] | Cheng_2016[EC] | Ford_2018[EC] | Lai_2020[EC] | Pusceddu_2020[OB] | Vandeneynde_2021[EC]*",
+   "candidatas": [
+    "**(i) Dieta controlada\n(experimental humana):** a restrição dietética de B6 em adultos jovens **elevou GSH e cistationina\nplasmáticas sem alterar o fluxo de cisteína** — o paradoxo humano do eixo, que veda a leitura\n\"menos B6 → menos GSH\" (Davis 2006)[EC]; e a restrição de B6 mostrou tendência de **redução da taxa\nde síntese eritrocitária de GSH sem alterar as concentrações** de GSH em eritrócitos ou plasma — a\ndinâmica muda antes do pool (Lamers 2009)[EC].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_100",
+   "ref": "REF_SHEN_2010",
+   "consulta": "Shen 2010",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Davis_2006[EC] | Lamers_2009[EC] | Shen_2010[OB] | Cheng_2016[EC] | Ford_2018[EC] | Lai_2020[EC] | Pusceddu_2020[OB] | Vandeneynde_2021[EC]*",
+   "candidatas": [
+    "**(ii) Observacional (associativo, nunca causal):**\nstatus de B6/PLP associou-se a marcadores de inflamação e estresse oxidativo (CRP, 8-OHdG) na coorte\nBoston Puerto Rican — transversal, com bidirecionalidade possível (Shen 2010)[OB]; e na LURIC, PLP,\nhomocisteína, telômeros e mortalidade se associaram prospectivamente em pacientes cardiovasculares —\nassociação prognóstica, não prova de intervenção (Pusceddu 2019)[OB].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_101",
+   "ref": "REF_CHENG_2016",
+   "consulta": "Cheng 2016",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Davis_2006[EC] | Lamers_2009[EC] | Shen_2010[OB] | Cheng_2016[EC] | Ford_2018[EC] | Lai_2020[EC] | Pusceddu_2020[OB] | Vandeneynde_2021[EC]*",
+   "candidatas": [
+    "**(iii) Intervenção como sinal\n(sujeita a P20 — jamais posologia):** complexo B em alta dose alterou a **relação entre metabolismo\ncerebral (¹H-MRS) e biomarcadores sanguíneos de EO** — a única janela da leva que observa cérebro e\nperiferia ao mesmo tempo, ponte direta com o bloco GSH-MRS vigente (Ford 2018)[EC]; B6 mediar capacidade\nantioxidante via Hcy em pacientes pós-ressecção de hepatocarcinoma (Cheng 2016)[EC]; e GSH+B6 em\ncirrose em RCT com seguimento (Lai 2020)[EC].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_102",
+   "ref": "REF_FORD_2018",
+   "consulta": "Ford 2018",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Davis_2006[EC] | Lamers_2009[EC] | Shen_2010[OB] | Cheng_2016[EC] | Ford_2018[EC] | Lai_2020[EC] | Pusceddu_2020[OB] | Vandeneynde_2021[EC]*",
+   "candidatas": [
+    "**(iii) Intervenção como sinal\n(sujeita a P20 — jamais posologia):** complexo B em alta dose alterou a **relação entre metabolismo\ncerebral (¹H-MRS) e biomarcadores sanguíneos de EO** — a única janela da leva que observa cérebro e\nperiferia ao mesmo tempo, ponte direta com o bloco GSH-MRS vigente (Ford 2018)[EC]; B6 mediar capacidade\nantioxidante via Hcy em pacientes pós-ressecção de hepatocarcinoma (Cheng 2016)[EC]; e GSH+B6 em\ncirrose em RCT com seguimento (Lai 2020)[EC].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B6_103",
+   "ref": "REF_LAI_2020",
+   "consulta": "Lai 2020",
+   "status_atual": "PROSA",
+   "motivo_fila": "2 frases citam a ref — humano escolhe",
+   "ancora_atual": "*Davis_2006[EC] | Lamers_2009[EC] | Shen_2010[OB] | Cheng_2016[EC] | Ford_2018[EC] | Lai_2020[EC] | Pusceddu_2020[OB] | Vandeneynde_2021[EC]*",
+   "candidatas": [
+    "**(iii) Intervenção como sinal\n(sujeita a P20 — jamais posologia):** complexo B em alta dose alterou a **relação entre metabolismo\ncerebral (¹H-MRS) e biomarcadores sanguíneos de EO** — a única janela da leva que observa cérebro e\nperiferia ao mesmo tempo, ponte direta com o bloco GSH-MRS vigente (Ford 2018)[EC]; B6 mediar capacidade\nantioxidante via Hcy em pacientes pós-ressecção de hepatocarcinoma (Cheng 2016)[EC]; e GSH+B6 em\ncirrose em RCT com seguimento (Lai 2020)[EC].",
+    "> Entradas do Módulo 09 (G1 eutils); inclui GPM v2.\n*EPEL_2004[ML] | BOUAYED_2009[MA] | MAES_2011[MA] | SORBARA_2011[MA] | TOBE_2013[MA] | PALTA_2014[MA] | LAPIDUS_2014[MA] | GODLEWSKA_2015[MA] | MILLER_2014[ML] | BLACK_2015[MA] | REUS_2015[ML] | CHEN_2015[ML] | JIMENEZFERNANDEZ_2015[MA] | FERNANDES_2016[MA] | CZARNY_2018[MA] | KAKIZAWA_2017[MA] | FEDOCE_2018[MA] | PANIZZUTTI_2018[MA] | LIAO_2019[MA] | FANET_2021[MA] | KISHI_2020[MA] | CORREIA_2023[MA] | SANI_2023[MA] | ALMULLA_2023[MA] | LEE_2025[MA]*\n*PENG_2024[MA] | BELL_2025[MA] | FENG_2025[MA] | LIU_2025[MA] | WANG_2026[MA] | RAPPENEAU_2020[MA] | ALLEN_2021[OB] | LEONARD_2012[OB] | HARMAN_1956[OB] | TEBAY_2015[OB] | BHATT_2020[OB]*\n*Leva [AT] 2026-09-08 (+72; eixo B6-vitamina→transulfuração→GSH):*\n*KERY_1994[OB] | KABIL_1999[OB] | TAOKA_1999[OB] | TAOKA_1999b[OB] | MOSHAROV_2000[OB] | MEIER_2001[OB] | STIPANUK_2004[OB] | BANERJEE_2004[OB] | CHEN_2006[OB] | PRUDOVA_2006[OB] | SINGH_2007[OB] | ZHU_2008[OB] | ISHII_2010[ML] | AITKEN_2011[OB] | SINGH_2011[OB] | SMITH_2012[OB] | YADAV_2012[OB] | CASIQUE_2013[OB] | ERENOORBEA_2013[OB] | GREGORY_2016[OB] | DALTO_2017[OB] | GOULD_2019[OB] | SBODIO_2018[OB] | WILSON_2019[OB] | STIPANUK_2020[OB] | PETROSINO_2022[OB] | CIAPAITE_2023[OB] | ALSADEQ_2024[OB] | MCFARLANE_2024[OB] | RIVERO_2024[OB] | CONTER_2025[OB] | PAJARES_2025[OB] | XI_2025[ML]*\n*MCGOWAN_1989[ML] | CABRINI_1998[ML] | MAHFOUZ_2004[ML] | LIMA_2006[ML] | CHOI_2009[ML] | HSU_2015[ML] | DANIELYAN_2017[ML] | TODOROVIC_2025[ML] | TODOROVIC_2026[ML] | ZHOU_1991[ML] | HU_1995[ML] | JAIN_2001[ML] | KANNAN_2004[ML] | MATXAIN_2006[ML] | MAHFOUZ_2009[ML] | MATXAIN_2009[ML] | NATERA_2012[ML] | WONDRAK_2012[OB] | RAMIS_2019[OB] | NGO_2022[ML]*\n*SCHMITT_2015[EC] | GIUSTARINI_2017[OB] | NUHU_2020[OB] | LABARRERE_2022[OB] | AVERILLBATES_2023[OB] | GIUSTARINI_2023[OB] | LAPENNA_2023[OB] | VALGIMIGLI_2023[OB] | DAVIS_2006[EC] | LAMERS_2009[EC] | SHEN_2010[OB] | CHENG_2016[EC] | FORD_2018[EC] | LAI_2020[EC] | PUSCEDDU_2019[OB] | VANDENEYNDE_2021[EC]*\n*BONAA_2006[EC] | CHRISTEN_2018[EC] | KATO_2026[OB]*"
+   ]
+  }
+ ],
+ "B07": [
+  {
+   "id_vinculo": "VINC_B7_007",
+   "ref": "REF_YANO_2015",
+   "consulta": "Yano 2015",
+   "status_atual": "PROSA",
+   "motivo_fila": "fuzzy insuficiente (best=0.80, margem=0.44)",
+   "ancora_atual": "~90% da 5-HT corporal é entérica, regulada por bactérias esporuladas, mas abastece mucosa, lúmen e plaqueta — não o cérebro (Yano 2015)[ML]; bactérias humanas produzem e consomem GABA, mas isso é **ec",
+   "candidatas": [
+    "produzem/consomem GABA e outras aminas, mas agem sobretudo localmente (Yano 2015)[ML];\n(Strandwitz 2019)[EC].",
+    "Cerca de 90% da 5-HT corporal é sintetizada no intestino por **enterocromafins**; bactérias\nesporuladas **regulam** essa biossíntese — mas a 5-HT medida é entérica/periférica (mucosa, lúmen,\nplaqueta), não a serotonina sináptica cerebral, e não atravessa a BBB livremente (Yano 2015)[ML].\nBactérias da microbiota humana produzem e consomem GABA (Strandwitz 2019)[EC] — é **ecologia**\n(quem produz/quem consome), não reposição central; GABA dietético/microbiano cruza mal a BBB\n(Strandwitz 2018)[OB].",
+    "norepinefrina, acetilcolina, histamina — majoritariamente ação local; 5-HT entérica\n(Yano 2015)[ML].",
+    "periférica; não é reposição de neurotransmissor central (Yano 2015)[ML].",
+    "- **Células enteroendócrinas:** enterocromafins (5-HT; Yano 2015)[ML], células L (GLP-1/PYY),",
+    "**B7↔B4 (monoaminas) — alta:** 5-HT entérica (Yano 2015)[ML]; triptofano/quinurenina"
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B7_012",
+   "ref": "REF_BRANISTE_2014",
+   "consulta": "Braniste 2014",
+   "status_atual": "PROSA",
+   "motivo_fila": "fuzzy insuficiente (best=0.73, margem=0.32)",
+   "ancora_atual": "nasce e se desenvolve sem microbiota, tem HPA hiper-responsivo ao estresse, reversível apenas por colonização precoce (Sudo 2004)[ML], tem barreira hematoencefálica mais permeável (Braniste 2014)[ML],",
+   "candidatas": [
+    "A BBB, por sua vez, é modulada pela microbiota em roedor\n— germ-free tem barreira mais permeável, resgatada por colonização (Braniste 2014)[ML].",
+    "- **BBB:** integridade modulada por AGCC/disbiose, majoritariamente em animal (Braniste 2014)[ML];",
+    "Na escada\npré-clínica, a causalidade está estabelecida com o desenho mais forte que a biologia animal\npermite: o camundongo **germ-free** nasce e se desenvolve sem microbiota, tem HPA\nhiper-responsivo ao estresse, reversível apenas por colonização precoce (Sudo 2004)[ML], tem\nbarreira hematoencefálica mais permeável (Braniste 2014)[ML], microglia imatura/disfuncional\n(Erny 2015)[ML] e fenótipos sociais e ansiosos alterados (Diaz Heijtz 2011)[ML]; (Desbonnet\n2014)[ML]; (Arentsen 2015)[ML]; (Neufeld 2011)[ML].",
+    "**Braniste 2014:** germ-free tem BBB mais\npermeável; colonização/AGCC restauram integridade (Braniste 2014)[ML].",
+    "Contada em velocidade animal, a história é assim: um rato nasce sem bactérias, seu cérebro\ndesenvolve microglia imatura (Erny 2015)[ML], BBB frouxa (Braniste 2014)[ML] e HPA exagerado\n(Sudo 2004)[ML]; colonize seu intestino com a microbiota de um humano deprimido e ele perde o\ninteresse por açúcar e evita áreas abertas (Kelly 2016 FMT)[ML]; dê-lhe um lactobacilo e ele\nfica menos ansioso — mas corte seu vago e o efeito some (Bravo 2011)[ML]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B7_015",
+   "ref": "REF_LIB_2026",
+   "consulta": "Lib 2026",
+   "status_atual": "PROSA",
+   "motivo_fila": "fuzzy insuficiente (best=0.81, margem=0.31, vencedora sem a citação da própria ref)",
+   "ancora_atual": "a meta de 8 estudos/532 participantes reporta g≈−0,81 (depressão) e ≈−1,05 (ansiedade), mas com heterogeneidade substancial e mistura de RCTs e coortes (Li B 2026)[MA]; e o primeiro RCT duplo-cego pla",
+   "candidatas": []
+  },
+  {
+   "id_vinculo": "VINC_B7_021",
+   "ref": "REF_ELDIB_2021",
+   "consulta": "Eldib 2021",
+   "status_atual": "PROSA",
+   "motivo_fila": "fuzzy insuficiente (best=0.77, margem=0.37, vencedora sem a citação da própria ref)",
+   "ancora_atual": "16 RCTs com melhora de BDI (certeza moderada) e STAI (baixa) e vários desfechos nulos (El Dib 2021)[MA]; RS de funções centrais (Le Morvan 2022)[MA]; populações diagnosticadas (Asad 2025)[MA]; compara",
+   "candidatas": []
+  },
+  {
+   "id_vinculo": "VINC_B7_033",
+   "ref": "REF_CRYAN_2019",
+   "consulta": "Cryan 2019",
+   "status_atual": "PROSA",
+   "motivo_fila": "fuzzy insuficiente (best=0.65, margem=0.35)",
+   "ancora_atual": "(i) nervo vago (aferência sensorial), (ii) via imune/endotoxêmica (LPS, citocinas, permeabilidade), (iii) via neuroendócrina (HPA/cortisol), (iv) via metabólica (AGCC, triptofano/quinurenina/indóis, s",
+   "candidatas": [
+    "O eixo **microbiota–intestino–cérebro** é o canal de comunicação **bidirecional**\nentre a comunidade microbiana intestinal (≈10¹³–10¹⁴ microrganismos, dominada por *Firmicutes* e\n*Bacteroidetes*) e o sistema nervoso, operado por **cinco vias**: (i) nervo vago (aferência\nsensorial), (ii) via imune/endotoxêmica (LPS, citocinas, permeabilidade), (iii) via neuroendócrina\n(HPA/cortisol), (iv) via metabólica (AGCC, triptofano/quinurenina/indóis, sais biliares) e (v) via\nneurotransmissora (5-HT entérica, GABA/glutamato/monoaminas microbianas, peptídeos intestinais)\n(Cryan 2019)[OB]; (Cryan & Dinan 2012)[OB]; (Margolis 2021)[OB].",
+    "rede neural, imune, endócrina, metabólica e química (Cryan 2019)[OB]; (Kennedy 2017)[OB].",
+    "A revisão-teto da *Physiological Reviews* organiza o campo em cinco canais paralelos e\nbidirecionais (Cryan 2019)[OB]; a formulação fundadora na *Nature Reviews Neuroscience* estabeleceu\nque a microbiota é um \"segundo genoma\" com impacto sobre comportamento (Cryan & Dinan 2012)[OB].",
+    "Sobra um canal bidirecional anatômica e molecularmente bem caracterizado (Cryan 2019)[OB]; uma\ncausalidade robusta em roedor (Sudo 2004)[ML]; (Bravo 2011)[ML]; (Kelly 2016 FMT)[ML]; uma\nassinatura microbiana/metabólica associativa transdiagnóstica em humanos (Nikolova 2021)[MA];\n(Do 2026)[MA]; e intervenções ecológicas com efeito pequeno, heterogêneo e mais promissor em\nsubclínico/IBS do que na TDM grave (Moshfeghinia 2025)[MA]; (Cohen Kadosh 2021)[MA].",
+    "| Tipo | Resultados | forca_evidencia |\n|---|---|---|\n| Experimento animal (germ-free/FMT/vagotomia) | Programação do HPA (Sudo); dependência vagal do probiótico (Bravo); FMT trans-fenótipo (Kelly/Zheng/Li N); microglia (Erny); 5-HT entérica (Yano) | alto em roedor; tradução humana [EXT] |\n| Meta-análise (humanos, composição) | Assinatura transdiagnóstica, sem táxon universal; heterogeneidade por região/medicação (Nikolova; Gao; Simpson; Cao) | médio (associação, confundida) |\n| Meta-análise (intervenção probiótico) | Efeito pequeno; I²≈96%; nulo em jovens; sem mediação por IL-6/TNF-α; BDNF periférico SMD 0,37 (Moshfeghinia; Cohen Kadosh; Shakir; Sikorska; El Dib) | baixo-médio (heterogêneo, pequeno) |\n| RCT humano (FMT, 2026) | Primário (remissão) NULO; HARD maior; engraftment/bile; único, aguarda replicação (Li J) | emergente/baixo-médio |\n| Meta FMT (2026) | 8 estudos/532; g≈−0,81/−1,05, heterogêneo (Li B) | emergente/baixo |\n| Estudo humano (barreira) | Zonulina/FABP2/LPS associados; um grupo/n pequeno; marcadores não validados (Maes; Stevens; Bibolar) | baixo |\n| Neuroimagem | fMRI regional heterogênea em RCTs de probiótico (Crocetta) | baixo-médio |\n| Revisão mecanística (rodada GPM B7, 2026-09) | Barreiras GI↔cérebro (Aburto & Cryan); arquitetura SNC/SNE (Carabotti); triptofano microbiano (Agus; Bosi; Chen 2021); AGCC↔depressão (Cheng); neuroepitélio (Ohara); sais biliares (Stanimirov); glutamato no eixo (Baj) | médio (arquitetura, não prova primária) |\n| Experimento animal/celular mecanístico (rodada GPM B7) | LPS→TLR4→MyD88→MLCK→TJ (Guo 2013/2015; Nighot 2017/2019); endotoxemia→neuroinflamação (Kurita); acetato→microglia (Erny); AGCC→astrócitos (Spichak); fibra→microglia (Caetano-Silva); quimiogenética receptor-AGCC (Barki); ACSS2→PPARγ→TPH2 (Chen 2024); antibiótico/BBB+AGCC (Chenghan); Trp-KYN em estresse crônico (Li 2023); DSS→IDO-1→KYN (Zhao 2022); GPR43 em SH-SY5Y (Saikachain); IPrA→KYNA (Sathyasaikumar); KYNA bacteriana in vitro (Schwarcz); ZO-1 dispensável/reparo (Kuo); FFAR3/FFAR2 em EEC (Nøhr) | alto em roedor/célula; [APENAS PRÉ-CLÍNICO] |\n| Estudo humano (rodada GPM B7) | EVs bacterianas LPS+ sistêmicas × barreira intestinal (Tulkens); disbiose+via KYN como biomarcadores na TDM (Lin); metabolômica do triptofano em adolescentes com depressão (Zhou); multiômica Trp-KYN × cognição na TDM (Zhang Q) | baixo — ASSOCIATIVO (B7-CAUSAL-03) |"
+   ]
+  }
+ ],
+ "B08": [
+  {
+   "id_vinculo": "VINC_B8_001",
+   "ref": "REF_JACKA_2017",
+   "consulta": "Jacka 2017",
+   "status_atual": "PROSA",
+   "motivo_fila": "fuzzy insuficiente (best=0.64, margem=0.23)",
+   "ancora_atual": "a intervenção com melhor lastro O aconselhamento dietético estruturado (Mediterrâneo) melhora a TDM — SMILES, RCT com d=−1,16 no MADRS e remissão 32% vs 8% (Jacka 2017)[EC]; a meta observacional mostr",
+   "candidatas": [
+    "A B8 é o mecanismo com a\n**inversão mais perigosa entre marketing e evidência** da série: o **alimento/padrão dietético\ninteiro** tem a prova mais forte (meta observacional dose-gradiente + RCT de modificação\ndietética), enquanto a **pílula de um nutriente isolado em quem não é deficiente** tem, nos\nmaiores RCTs, resultado **nulo** (Lassale 2019)[MA]; (Jacka SMILES 2017)[EC]; (Okereke VITAL-D3\n2020)[EC]; (Okereke VITAL-ômega-3 2021)[EC]; (Markun 2021)[MA].",
+    "(Lassale 2019)[MA] e o RCT SMILES de dieta funciona (Jacka 2017)[EC]; já D3 e ômega-3 de longo\nprazo não previnem depressão em ~18 mil pessoas (Okereke 2020)[EC]; (Okereke 2021)[EC].",
+    "2019)[MA]; (Jacka 2017)[EC].",
+    "O aconselhamento dietético estruturado (Mediterrâneo) melhora a TDM — SMILES, RCT com d=−1,16 no\nMADRS e remissão 32% vs 8% (Jacka 2017)[EC]; a meta observacional mostra relação dose-gradiente\n(Lassale 2019)[MA]; dieta ocidental é prejudicial (Jacka 2010)[EC]; réplica Mediterrâneo+peixe\n(Parletta 2019)[EC]; perinatal (Tsai 2023)[MA]; comissão Lancet (Teasdale 2025)[OB]; posição\nnutricional mainstream (Sarris 2015 Lancet)[OB]; alimentos e ansiedade (Hachmeriyan 2026)[OB];\nmapa de deficiências (Zielińska 2023)[OB].",
+    "2019)[MA]; (Jacka 2017)[EC]; a pílula isolada em não-deficiente é nula nos grandes RCTs\n(Okereke 2020)[EC]; (Okereke 2021)[EC]; (Markun 2021)[MA].",
+    "A intervenção mais \"natural\" — comer de\nforma estruturada — é a que tem os dados mais fortes, enquanto o produto mais vendido — a pílula\nde um nutriente isolado, tomada por quem já tem o suficiente — é a que tem os dados mais fracos.\nNo lado do alimento, a meta observacional de índices dietéticos saudáveis mostra relação\ndose-gradiente com menos depressão (Lassale 2019)[MA]; o padrão ocidental associa-se a mais\ndepressão/ansiedade em mulheres (Jacka 2010)[EC]; e, sobretudo, existe um **RCT de modificação\ndietética** dedicado à TDM — o SMILES — no qual aconselhamento nutricional estruturado superou o\napoio social com d=−1,16 no MADRS e remissão de 32% vs 8% (Jacka 2017)[EC], com réplica em\nintervenção Mediterrânea suplementada com peixe (Parletta 2019)[EC] e endosso de comissões\n(Lancet — Teasdale 2025)[OB]; (Sarris 2015)[OB]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B8_009",
+   "ref": "REF_RAJIZADEH_2017",
+   "consulta": "Rajizadeh 2017",
+   "status_atual": "PROSA",
+   "motivo_fila": "fuzzy insuficiente (best=0.79, margem=0.42)",
+   "ancora_atual": "positivo foi em deprimidos **com hipomagnesemia**, e normalizou o soro e o BDI (Rajizadeh 2017)[EC] — ou seja, corrigir uma deficiência documentada funciona; já o RCT que circula como \"magnésio cura d",
+   "candidatas": [
+    "Mg em hipomagnesêmicos funciona (Rajizadeh 2017)[EC]; B12 em não-deficientes é nula\n(Markun 2021)[MA].",
+    "(Tarleton 2019)[EC]; (You 2018)[MA]; (Phelan 2018)[MA]; (Cheungpasitporn 2015)[MA];\nmulti-íon sangue/LCR (Meng 2024)[MA]; RCT cego em deficientes (Rajizadeh 2017)[EC]; RCT aberto\n(Tarleton 2017)[EC]; meta de RCTs (Moabedi 2023)[MA]; revisão (Varga 2025)[OB].",
+    "(Phelan 2018 inconclusivo)[MA]; o RCT cego é pequeno e só em deficientes (Rajizadeh 2017)[EC];\nlastro forte é animal (Sartori 2012)[ML].",
+    "Prova de conceito: RCT duplo-cego placebo de Mg\nem deprimidos **com hipomagnesemia** normalizou soro e reduziu BDI (Rajizadeh 2017)[EC] — o\nbenefício **não** se extrapola para não-deficientes (Markun 2021)[MA].",
+    "A resposta a suplemento depende do status basal: Mg funciona em hipomagnesêmicos (Rajizadeh\n2017)[EC], vitamina D tem efeito maior nos deficientes (Ghaemi 2024)[MA], enquanto B12/D3/ômega-3\nem pessoas suficientes são nulos (Markun 2021)[MA]; (Okereke 2020)[EC]; (Okereke 2021)[EC].\n**Corrigir deficiência franca ≠ suplementar quem já tem o suficiente.**",
+    "(Okereke 2020)[EC]; B8-1 risco dietético (padrão alimentar é a alavanca); B8-2 deficiência\nmarginal/funcional (holoTC/MMA, ferritina com inflamação); B8-3 deficiência confirmada\n(reposição médica — Rajizadeh 2017)[EC]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B8_014",
+   "ref": "REF_BOTTIGLIERI_2000",
+   "consulta": "Bottiglieri 2000",
+   "status_atual": "PROSA",
+   "motivo_fila": "fuzzy insuficiente (best=0.73, margem=0.39)",
+   "ancora_atual": "homocisteína alta, folato/SAM baixos e monoaminas alteradas na depressão (Bottiglieri 2000)[EC]; revisão (Bottiglieri 2005)[OB]; perspectiva folato/B12 (Coppen 2005)[OB]; homocisteína e depressão no i",
+   "candidatas": [
+    "As vitaminas (complexo B — folato/B9, B12, B6, B1; C, D, E) e os\nminerais/oligoelementos (zinco, magnésio, ferro, selênio; cobre, iodo) funcionam como\n**cofatores e substratos obrigatórios da neuroquímica** do humor: metilação/one-carbon, energia\nmitocondrial, defesa redox, síntese de monoaminas, sinalização nuclear (VDR) e modulação\nNMDA/GABA (Bottiglieri 2000)[EC]; (Kim 2014)[OB]; (Kouba 2022)[OB].",
+    "**Folato (5-MTHF) + B12 + B6** reciclam **homocisteína** e geram **SAM (S-adenosilmetionina)**, o\ndoador universal de metila (fosfolipídios, neurotransmissores, DNA) e da regeneração do **BH4**.\nBase clínica: homocisteína alta, folato/SAM baixos e monoaminas alteradas na depressão\n(Bottiglieri 2000)[EC]; revisão (Bottiglieri 2005)[OB]; perspectiva folato/B12 (Coppen 2005)[OB];\nhomocisteína e depressão no idoso (Almeida 2008)[MA]; folato baixo ↔ depressão (Gilbody 2007)[MA];\n(Bender 2017)[MA]; B12/folato no idoso (Petridou 2016)[MA].",
+    "O marcador-sentinela é a **homocisteína** — composta (sobe com B12/folato/B6\nbaixos, disfunção renal, genótipo MTHFR), não específica de um nutriente (Bottiglieri 2000)[EC];\n(Almeida 2008)[MA].",
+    "- **Homocisteína:** marcador composto (Bottiglieri 2000)[EC].",
+    "(Bottiglieri 2000)[EC]; (Almeida 2008)[MA].",
+    "O marcador composto é a\nhomocisteína (Bottiglieri 2000)[EC]; o polimorfismo MTHFR modula a via mas as metas divergem\n(Gaysina 2008)[EC] vs (Wu 2013)[MA]; (Rai 2017)[MA] — não é teste de rotina."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B8_015",
+   "ref": "REF_GAYSINA_2008",
+   "consulta": "Gaysina 2008",
+   "status_atual": "PROSA",
+   "motivo_fila": "fuzzy insuficiente (best=0.77, margem=0.29)",
+   "ancora_atual": "O polimorfismo MTHFR C677T reduz a atividade da enzima que gera 5-MTHF, mas as metas divurgem — uma grande colaboração (DeCC) com meta não achou associação (Gaysina 2008)[EC], enquanto metas posterior",
+   "candidatas": [
+    "(Gaysina 2008)[EC]; (Wu 2013)[MA]; (Rai 2017)[MA]; L-metilfolato é adjuvante de subgrupo\nrespondedor a ISRS, não consequência universal do genótipo (Papakostas 2012)[EC].",
+    "(Gaysina 2008)[EC] vs (Wu 2013)[MA]; (Rai 2017)[MA]; L-metilfolato é adjuvante de subgrupo\n(Papakostas 2014)[EC].",
+    "O marcador composto é a\nhomocisteína (Bottiglieri 2000)[EC]; o polimorfismo MTHFR modula a via mas as metas divergem\n(Gaysina 2008)[EC] vs (Wu 2013)[MA]; (Rai 2017)[MA] — não é teste de rotina.",
+    "- **Cenário C — \"MTHFR no exame genético\":** metas divergem (Gaysina 2008)[EC] vs (Wu 2013)[MA];",
+    "O polimorfismo MTHFR C677T reduz a atividade da enzima que gera 5-MTHF, mas as metas\ndivurgem — uma grande colaboração (DeCC) com meta não achou associação (Gaysina 2008)[EC],\nenquanto metas posteriores acharam (Wu 2013)[MA]; (Rai 2017)[MA] — heterogeneidade que torna o\nteste genético inadequado como rastreio, ainda que o L-metilfolato como adjuvante de ISRS em\nrespondedores inadequados tenha seu próprio corpo de RCTs (Papakostas 2012)[EC]; (Papakostas\n2014)[EC].",
+    "Mas a genética populacional não coopera de forma limpa: a colaboração\nDeCC com meta-análise **não** achou associação entre MTHFR e depressão maior (Gaysina 2008)[EC],\nenquanto duas metas posteriores acharam associação modesta (Wu 2013)[MA]; (Rai 2017)[MA]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B8_016",
+   "ref": "REF_WU_2013",
+   "consulta": "Wu 2013",
+   "status_atual": "PROSA",
+   "motivo_fila": "fuzzy insuficiente (best=0.77, margem=0.29)",
+   "ancora_atual": "O polimorfismo MTHFR C677T reduz a atividade da enzima que gera 5-MTHF, mas as metas divurgem — uma grande colaboração (DeCC) com meta não achou associação (Gaysina 2008)[EC], enquanto metas posterior",
+   "candidatas": [
+    "(Gaysina 2008)[EC]; (Wu 2013)[MA]; (Rai 2017)[MA]; L-metilfolato é adjuvante de subgrupo\nrespondedor a ISRS, não consequência universal do genótipo (Papakostas 2012)[EC].",
+    "(Gaysina 2008)[EC] vs (Wu 2013)[MA]; (Rai 2017)[MA]; L-metilfolato é adjuvante de subgrupo\n(Papakostas 2014)[EC].",
+    "O marcador composto é a\nhomocisteína (Bottiglieri 2000)[EC]; o polimorfismo MTHFR modula a via mas as metas divergem\n(Gaysina 2008)[EC] vs (Wu 2013)[MA]; (Rai 2017)[MA] — não é teste de rotina.",
+    "- **Cenário C — \"MTHFR no exame genético\":** metas divergem (Gaysina 2008)[EC] vs (Wu 2013)[MA];",
+    "O polimorfismo MTHFR C677T reduz a atividade da enzima que gera 5-MTHF, mas as metas\ndivurgem — uma grande colaboração (DeCC) com meta não achou associação (Gaysina 2008)[EC],\nenquanto metas posteriores acharam (Wu 2013)[MA]; (Rai 2017)[MA] — heterogeneidade que torna o\nteste genético inadequado como rastreio, ainda que o L-metilfolato como adjuvante de ISRS em\nrespondedores inadequados tenha seu próprio corpo de RCTs (Papakostas 2012)[EC]; (Papakostas\n2014)[EC].",
+    "Mas a genética populacional não coopera de forma limpa: a colaboração\nDeCC com meta-análise **não** achou associação entre MTHFR e depressão maior (Gaysina 2008)[EC],\nenquanto duas metas posteriores acharam associação modesta (Wu 2013)[MA]; (Rai 2017)[MA]."
+   ]
+  },
+  {
+   "id_vinculo": "VINC_B8_018",
+   "ref": "REF_CARNEGIE_2024",
+   "consulta": "Carnegie 2024",
+   "status_atual": "PROSA",
+   "motivo_fila": "fuzzy insuficiente (best=0.81, margem=0.49)",
+   "ancora_atual": "### 7.5 Nó 5 — Mendelian randomization (fronteira causal 2024–26) MR tradicional para TDM foi **nulo**, com sinais sugestivos protetores para ferro sérico, cobre eritrocitário e 25(OH)D na depressão r",
+   "candidatas": [
+    "**Curva em U:** Fe e\nSe em excesso também danificam (Fenton/ferroptose — química na B6/B9) (Carnegie 2024)[EC].",
+    "MR tradicional para TDM foi **nulo**, com sinais sugestivos protetores para ferro sérico, cobre\neritrocitário e 25(OH)D na depressão recorrente — e possíveis efeitos adversos de selênio/Mg em\nexcesso (Carnegie 2024)[EC]; ansiedade com MR+colocalização (Fang 2025)[EC].",
+    "Além da MR principal de TDM (Carnegie 2024) e de ansiedade (Fang 2025), a vitamina D tem MR\npróprios — linear/não-linear com dor crônica e depressão (Bassett 2024)[EC], depressão\nresistente/atípica (Arathimos 2021)[EC] e MR fenômico da 25(OH)D (Meng 2019)[EC] — todos\nlidos como causalidade potencial, não RCT.",
+    "O Mendelian randomization situa-se entre a\nhipótese e a prova: MR tradicional nulo para TDM, com sinais sugestivos de ferro/cobre/25(OH)D na\ndepressão recorrente — e um aviso de que selênio/Mg em excesso podem, ao contrário, fazer mal\n(Carnegie 2024)[EC]; (Fang 2025)[EC].",
+    "| Tipo | Resultados | forca_evidencia |\n|---|---|---|\n| Padrão dietético (observacional + RCT) | Mediterrâneo/saudável ↓ depressão dose-gradiente (Lassale); SMILES RCT d=−1,16 (Jacka); ocidental prejudicial (Jacka 2010) | alto (dieta como padrão) |\n| RCT grande de prevenção | VITAL-DEP: D3 nulo (HR 0,97) e ômega-3 nulo/não-benéfico (HR 1,13) em ~18 mil (Okereke 2020/2021) | alto (nulo) |\n| Meta de suplemento (vitamina D) | g≈−0,32, I²≈88%, GRADE muito baixa; efeito maior nos deficientes; ansiedade NS (Mikola; Ghaemi) | baixo (heterogêneo) |\n| Meta de suplemento (B12) | Nula em não-deficientes, 16 RCTs/6.276 (Markun) | alto (nulo) |\n| Deficiência franca | Mg em hipomagnesêmicos normaliza soro e BDI (Rajizadeh, RCT cego pequeno) | médio (só deficientes) |\n| Magnésio | Ingestão associada; soro inconsistente; RCT aberto (Tarleton 2017); animal ansiedade/HPA (Sartori) | baixo-médio (clínico); alto (animal) |\n| Selênio | Soro sem diferença, I²≈98% (Sajjadi); água × GPX1 ambiental (Johnson) | baixo |\n| MTHFR | Metas conflitantes: Gaysina nula vs Wu/Rai positivas | emergente/baixo |\n| Mendelian randomization | MR tradicional nulo; ferro/cobre/25(OH)D sugestivos na recorrente (Carnegie; Fang) | emergente (MR≠RCT) |\n| MR de micronutrientes (2024–25) | Padrões distintos por par nutriente×transtorno (Hui; Lu; Ye) — MR mede associação instrumental, não absorção/risco da suplementação | emergente (MR≠RCT) |\n| Status no primeiro episódio psicótico | Deficiências prevalentes no FEP, piores correlatos clínicos (Firth 2018) | alto (associação; fronteira) |\n| Suplementação em esquizofrenia | Vitaminas/minerais adjuvantes — sinais modestos (Firth 2017) | baixo-médio (fronteira) |\n| Vitamina D — eficácia antidepressiva | Sinais iniciais colapsam ao nulo após trim-and-fill; suplementação de B12 esparsa e nula (Moroianu) | baixo-nulo (avaliação dirigida, não universal) |\n| Vitamina D neonatal × risco futuro | Inverso significativo p/ esquizofrenia/TEA/TDAH; **nulo para TDM** (n≈24 mil casos) (Horsdal) | emergente (associação; NEG no desfecho-âncora) |\n| Vitamina C | Deficiência ↔ humor/cognição; sem prova intervencional adequada (Plevin) | lacuna (sem evidência intervencional) |\n| Vitaminas B × neuropsiquiatria (causal) | Relações distintas por par vitamina×transtorno; sem efeito geral do \"complexo B\" (Ye) | emergente/heterogêneo |\n| Adjuvantes | L-metilfolato em respondedores inadequados a ISRS (Papakostas); zinco (meta); ômega-3 EPA pequeno; SAMe limitado | médio (subgrupo) |",
+    "- **MR ≠ RCT** (Carnegie 2024)[EC]; (Fang 2025)[EC]."
+   ]
+  }
+ ]
+}

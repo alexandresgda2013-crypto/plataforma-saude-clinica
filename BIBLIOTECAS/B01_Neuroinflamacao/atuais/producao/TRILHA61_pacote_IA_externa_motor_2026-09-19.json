@@ -1,0 +1,34 @@
+{
+  "trilha": 61,
+  "rodada": 44,
+  "data": "2026-09-19",
+  "tema": "pacote IA externa do motor (V2.3 candidata + schemas correntes; antiviés)",
+  "checks": [
+    {
+      "id": "p1",
+      "titulo": "4 artefatos: cópias byte-verbatim (shas oficiais)",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "p2",
+      "titulo": "LEIAME neutro-antiviés: 0 menções a frentes/pareceres (frente nova = só artefatos)",
+      "medido": [],
+      "esperado": [],
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "p3",
+      "titulo": "zip re-extraído confere byte a byte",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "zip 36847 b"
+    }
+  ],
+  "verdes": 3,
+  "total": 3
+}

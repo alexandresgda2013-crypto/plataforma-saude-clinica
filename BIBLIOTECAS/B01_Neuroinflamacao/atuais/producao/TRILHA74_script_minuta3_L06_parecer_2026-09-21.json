@@ -1,0 +1,91 @@
+{
+  "trilha": 74,
+  "data": "2026-09-21",
+  "objeto": "minuta 3 consolidada rev.1 + análise do comentador (proveniência + A/B/C)",
+  "sha_minuta3": "2ce9698c5a163cc16f766c34197d3887bb4cf0093ad0ed38108c96ecb1e46d00",
+  "verdes": 15,
+  "total": 15,
+  "checks": [
+    {
+      "check": "C01_M3_MEDIDA",
+      "ok": true,
+      "detalhe": "minuta3 rev.1 sha=2ce9698c (21729 b · 20856 ch UTF-8 · seções-chave presentes · rev.1 declara mudar só proveniência (original a6a0027c sem bytes na casa → D-L06-M3-ORIG)"
+    },
+    {
+      "check": "C02_MINUTA1_SHA",
+      "ok": true,
+      "detalhe": "digital declarada pelo mestre CONFERE — arquivada pela casa em 15/09 (regex: arquivo da série) · C74-2: rev.64 dizia 'nunca chegou': ERRADO, confissão datada"
+    },
+    {
+      "check": "C03_PROVENIENCIA_9",
+      "ok": true,
+      "detalhe": "7/7 grupos ENUMERADOS pelo mestre verificados nos bytes da minuta 1 {'degrau5_direcao': True, 'matriz_celula': True, 'fronteira_d02': True, '5e6_nao_desempate': True, 'risco_estreito': True, 'saidas': True, 'rastro': True} — achado VERDADEIRO nesses; a linha 'Parte 8 anti-substituição' da TABELA ficou fora da enumeração dele e de fato 0× na minuta 1 (registrar); 'atribuição por relação' falha separada no C04"
+    },
+    {
+      "check": "C04_CELULA_FALSA",
+      "ok": true,
+      "detalhe": "'atribuição por relação (nunca por posição)': 0× na minuta 1 (minuta 3 §6.3 credita a ela → CORRIGIR); presente no TextoH (Parte 6.3) — autoria do TextoH em aberto"
+    },
+    {
+      "check": "C05_CRUZAMENTO_FIEL",
+      "ok": true,
+      "detalhe": "TextoH (arquivo da casa, r57) contém TODOS os elementos que o cruzamento atribuiu — linha 5 da escada com ancoras[].direcao_suporte INCLUSIVE: a frase 'não ocorre em nenhum dos dois textos' é falsa p/ TextoH → TextoH ≠ texto recebido pelo mestre"
+    },
+    {
+      "check": "C06_TEXTO_M_DISTINTO",
+      "ok": true,
+      "detalhe": "8/8 frases creditadas ao Comentador na minuta 3 NÃO existem no TextoH → corrobora (a partir dos NOSSOS bytes) que o mestre recebeu outro texto; bytes dele ainda não vieram → pedido fica de pé"
+    },
+    {
+      "check": "C07_244",
+      "ok": true,
+      "detalhe": "regra ampla executada: 244 pares / 41 claims · decomposição {('causal', 'contributiva'): 113, ('associativa', 'causal'): 31, ('associativa', 'contributiva'): 96, ('causal', 'compensatoria'): 2, ('compensatoria', 'contributiva'): 2} = EXATA com a minuta 3 (inclui os 4 FP) → T-23 válido"
+    },
+    {
+      "check": "C08_A_DEGRADADA",
+      "ok": true,
+      "detalhe": "texto e lógica confirmados: resolve a B5 do cruzamento de forma mais limpa (5-6 não deixam 'conflito aparente' em aberto porque não resolvem) — a casa ACEITA"
+    },
+    {
+      "check": "C09_B_GRANULARIDADE",
+      "ok": true,
+      "detalhe": "§7 fiel ao N2 v1.4 (escopo = subdivisão; nenhum campo separa sub-objetos) · TNFR1/TNFR2 0× no catálogo (146 ids) · bloco02.011 tem ['VINC_B1_0035', 'VINC_B1_0036', 'VINC_B1_0037'] · dívida bem posta, capacidade NÃO atribuída ao schema"
+    },
+    {
+      "check": "C10_MATRIZ_ZERA",
+      "ok": true,
+      "detalhe": "matriz corrigida → 0 pares mesmo com proxy claim_id: a zeroagem é obra da MATRIZ (§7 da minuta 3 tem razão) — C74-1: a frase da casa na r60 ('id_oficial+escopo evita os 4 FP') precisada; o objeto operacional protege de FUTUROS proxies"
+    },
+    {
+      "check": "C11_SUITE_23",
+      "ok": true,
+      "detalhe": "23 IDs únicos em 24 ocorrências (T-18 citado também nas dependências — régua corrigida: conjunto, não contagem) · mapa M×C presente · T-18 oráculo pendente E1 declarado · nota editorial: mapa C T-2..T-12 não casa 1:1 com o TextoH (T-1..T-7 genéricos) → congelar mapa até o comentador dizer qual texto é dele"
+    },
+    {
+      "check": "C12_ESTADO_RITO",
+      "ok": true,
+      "detalhe": "rótulo temporal no corpo dos documentos (comentador + rito da própria minuta 3), nunca no nome (regra da casa ok) · casa NÃO estampa 'candidata/proposta' em peça própria"
+    },
+    {
+      "check": "C13_D0102_FECHAVEL",
+      "ok": true,
+      "detalhe": "L05 1.1 (na casa desde 15/09) DEFINE D-01..D-08 (l.2/47/73) · minuta 1 L-06 cita D-01 5×/D-02 3×/D-08 1× — C74-3: varrimento r57 ('0× em 12 docs') excluiu as minutas da série: confissão datada; dívida FECHADA por consumo interno; remanescente pequena: mapa 'Fase 3' → D-ORDEM-FASES"
+    },
+    {
+      "check": "C14_RESPOSTA10",
+      "ok": true,
+      "detalhe": "citada pela minuta 3 §8: existe na série (cc40dfa0…, 15/09) — a linhagem P-1 (condicao ausente) é legítima e anterior"
+    },
+    {
+      "check": "C15_BALAS_COMENTADOR",
+      "ok": true,
+      "detalhe": "balas incorporadas mapeadas ['gate de consumo', 'não redefine a d-02', 'granularidade', 'princípio de fecho', 'lista unificada', 'escada degradada'] · pedido dele = verificação, não decisão arquitetural — honrado (carta 23 = só verificação + parecer)"
+    }
+  ],
+  "confissoes": [
+    "C74-1 (precisão da casa, r60): a zeroagem dos 4 FP é obra da matriz corrigida, não da definição operacional de objeto — §7 da minuta 3 aceito.",
+    "C74-2 (rev.64 errada): 'a minuta 1 da L-06 nunca chegou à casa' — arquivada desde 15/09, sha 3b6a15a0… (confere com a declarada pelo mestre), com trilha 31 e RESPOSTA_10. Dívida estreitada.",
+    "C74-3 (varrimento r57 com escopo errado): 'D-01/D-02 = 0× em 12 documentos' excluiu as minutas da série; D-01..D-08 estão definidos na L05 1.1 (na casa desde 15/09) e citados na minuta 1 L-06. D-D01-D02-FONTE fechada por consumo interno; remanescente: D-ORDEM-FASES (mapa 'Fase 3').",
+    "C74-4 (régua, menor): sed do prefixo do id 0261 na trilha 73 corrigido com nota datada no próprio script — 1ª escrita por memória incorreta, byte real VINC_B1_0261."
+  ]
+}

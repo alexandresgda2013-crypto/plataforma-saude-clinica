@@ -1,0 +1,2715 @@
+[
+ {
+  "pmid_oficial": "25620535",
+  "titulo_artigo": "Etifoxine versus alprazolam for the treatment of adjustment disorder with anxiety: a randomized controlled trial",
+  "autores": [
+   "Stein DJ"
+  ],
+  "revista_ano": "Advances in therapy (2015)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Etifoxina vs. alprazolam no transtorno de ajustamento com ansiedade (ECR)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_STEIN_2015"
+  ],
+  "id_referencia_interna": "REF_STEIN_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Stein",
+   "STEIN"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B14_Neuroesteroides"
+  ]
+ },
+ {
+  "pmid_oficial": "16894061",
+  "titulo_artigo": "A randomized trial of an N-methyl-D-aspartate antagonist in treatment-resistant major depression.",
+  "autores": [
+   "Zarate CA Jr",
+   "Singh JB",
+   "Carlson PJ",
+   "Brutsche NE"
+  ],
+  "revista_ano": "Arch Gen Psychiatry 2006",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B5_gaba_glutamato",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_ZARATE_2006"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_ZARATE_2006",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Zarate",
+   "ZARATE"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B05_GabaGlutamato"
+  ]
+ },
+ {
+  "pmid_oficial": "20679587",
+  "titulo_artigo": "A randomized add-on trial of an N-methyl-D-aspartate antagonist in treatment-resistant bipolar depression.",
+  "autores": [
+   "Diazgranados N",
+   "Ibrahim L",
+   "Brutsche NE",
+   "Newberg A"
+  ],
+  "revista_ano": "Arch Gen Psychiatry 2010",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B5_gaba_glutamato",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_DIAZGRANADOS_2010"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_DIAZGRANADOS_2010",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "DIAZGRANADOS",
+   "Diazgranados"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B05_GabaGlutamato"
+  ]
+ },
+ {
+  "pmid_oficial": "11386980",
+  "titulo_artigo": "Efficacy of estradiol for the treatment of depressive disorders in perimenopausal women: a double-blind, randomized, placebo-controlled trial",
+  "autores": [
+   "Soares CN",
+   "Almeida OP",
+   "Joffe H",
+   "Cohen LS"
+  ],
+  "revista_ano": "Archives of general psychiatry (2001)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Eficácia do estradiol no tratamento da depressão em mulheres perimenopausa (ECR duplo-cego)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SOARES_2001"
+  ],
+  "id_referencia_interna": "REF_SOARES_2001",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Soares",
+   "SOARES"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B14_Neuroesteroides"
+  ]
+ },
+ {
+  "pmid_oficial": "38797087",
+  "titulo_artigo": "Evaluation of the efficacy, safety, and pharmacokinetics of nanodispersible cannabidiol oral solution (150 mg/mL) versus placebo in mild to moderate anxiety subjects: A double blind multicenter randomized clinical trial",
+  "autores": [
+   "Gundugurti PR",
+   "Banda N",
+   "Yadlapalli SSR",
+   "Narala A",
+   "Thatikonda R",
+   "Kocherlakota C"
+  ],
+  "revista_ano": "Asian journal of psychiatry (2024)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "CBD nanodispersível — ECR de fase III positivo em ansiedade leve-moderada",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GUNDUGURTI_2024"
+  ],
+  "id_referencia_interna": "REF_GUNDUGURTI_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "GUNDUGURTI",
+   "Gundugurti"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B13_SistemaEndocanabinoide"
+  ]
+ },
+ {
+  "pmid_oficial": "28137247",
+  "titulo_artigo": "A randomised controlled trial of dietary improvement for adults with major depression (the 'SMILES' trial)",
+  "autores": [
+   "Jacka FN",
+   "O'Neil A",
+   "Opie R",
+   "Itsiopoulos C",
+   "Cotton S",
+   "Mohebbi M"
+  ],
+  "revista_ano": "BMC medicine (2017)",
+  "desenho_estudo": "[EC] RCT BMC Med — SMILES (dieta vs apoio social)",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Aconselhamento dietético (Mediterrâneo) melhorou a TDM mais que apoio social (SMILES).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_JACKA_2017"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT single-blind de modificação dietética na TDM; d=−1,16; NNT≈4",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_JACKA_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "JACKA",
+   "Jacka"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B08_Micronutrientes"
+  ]
+ },
+ {
+  "pmid_oficial": "39617896",
+  "titulo_artigo": "Effect of fecal microbiota transplantation on patients with sporadic amyotrophic lateral sclerosis: a randomized, double-blind, placebo-controlled trial",
+  "autores": [
+   "Feng R",
+   "Zhu Q",
+   "Wang A",
+   "Wang H",
+   "Wang J",
+   "Chen P"
+  ],
+  "revista_ano": "BMC medicine (2024)",
+  "desenho_estudo": "[ML/EC emergente] FMT em ELA — BMC Med",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "FMT em esclerose lateral amiotrófica esporádica: segurança e sinais preliminares.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_FENG_2024"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_clinico",
+  "g2_motivo": "ensaio clínico pequeno em ELA; fora do miolo",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_FENG_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Feng",
+   "FENG"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B07_EixoIntestinoCerebro"
+  ]
+ },
+ {
+  "pmid_oficial": "29869405",
+  "titulo_artigo": "Adjunctive thyroid hormone treatment in rapid cycling bipolar disorder: A double-blind placebo-controlled trial of levothyroxine (L-T(4) ) and triiodothyronine (T(3) )",
+  "autores": [
+   "Walshaw PD",
+   "Gyulai L",
+   "Bauer M",
+   "Bauer MS",
+   "Calimlim B",
+   "Sugar CA"
+  ],
+  "revista_ano": "Bipolar disorders (2018)",
+  "desenho_estudo": "[EC] Hormônio tireoidiano adjuvante na ciclagem rápida ",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Hormônio tireoidiano adjuvante na ciclagem rápida (Walshaw 2018)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_WALSHAW_2018"
+  ],
+  "id_referencia_interna": "REF_WALSHAW_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "âncora módulos 06-10 do GPM completo",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "WALSHAW",
+   "Walshaw"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B11_DisfuncaoTireoidiana"
+  ]
+ },
+ {
+  "pmid_oficial": "27162901",
+  "titulo_artigo": "Analgesic Effects and Safety of Desmopressin, Tramadol and Indomethacin in Patients with Acute Renal Colic; A Randomized Clinical Trial",
+  "autores": [
+   "Shirazi M",
+   "Salehipour M",
+   "Afrasiabi MA",
+   "Aminsharifi A"
+  ],
+  "revista_ano": "Bulletin of emergency and trauma (2015)",
+  "desenho_estudo": "[OB] citação de fundo indexada (retrocompat)",
+  "secao_origem": "mecanismo_B2_eixo_hpa_cortisol",
+  "achado_central_molecular": "Analgesic Effects and Safety of Desmopressin, Tramadol and Indomethacin in Patients with Acute Renal Colic; A Randomized Clinical Trial",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SHIRAZI_2015"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "citação clássica do corpo; metadado conferido",
+  "g3_verificado_por": "G3 retrocompat: esummary confirma 1o autor/ano/título",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SHIRAZI_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "SHIRAZI",
+   "Shirazi"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B02_Eixo_HPA_cortisol"
+  ]
+ },
+ {
+  "pmid_oficial": "42309058",
+  "titulo_artigo": "Adjunctive fecal microbiota transplantation for major depressive disorder: A randomized, double-blind, placebo-controlled trial",
+  "autores": [
+   "Li J",
+   "Wang Y",
+   "Li R",
+   "Huang H",
+   "Zhu X",
+   "Li X"
+  ],
+  "revista_ano": "Cell host & microbe (2026)",
+  "desenho_estudo": "[EC/EMERGENTE] RCT duplo-cego placebo 2026 Cell Host Microbe — TDM",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "FMT adjuvante à escitalopram na TDM: remissão não difere, mas redução de HAMD-17 maior; engraftment duradouro, bile ácidos e mediação inflamatória.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LIJ_2026"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT; endpoint primário (remissão semana 8) NULO; escore HARD maior; ÚNICO, aguarda replicação",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LIJ_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "LIJ",
+   "Lij",
+   "LiJ"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC/EMERGENTE]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B07_EixoIntestinoCerebro"
+  ]
+ },
+ {
+  "pmid_oficial": "41270825",
+  "titulo_artigo": "Randomized trial of delta-9-tetrahydrocannabinol (THC) versus placebo to augment the effects of prolonged exposure therapy on fear extinction learning in post-traumatic stress disorder: Study rationale and protocol",
+  "autores": [
+   "Rabinak CA",
+   "Kilgore PE",
+   "Lumley MA",
+   "Rauch SAM"
+  ],
+  "revista_ano": "Contemporary clinical trials (2026)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "THC adjuvante vs. placebo (ensaio randomizado)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_RABINAK_2026"
+  ],
+  "id_referencia_interna": "REF_RABINAK_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "RABINAK",
+   "Rabinak"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B13_SistemaEndocanabinoide"
+  ]
+ },
+ {
+  "pmid_oficial": "41616640",
+  "titulo_artigo": "Efficacy and safety of adjunctive treatment with the fatty acid amide hydrolase inhibitor JNJ-42165279 in participants with major depressive disorder with anxious distress: A double-blind, placebo-controlled, randomised study",
+  "autores": [
+   "Schmidt ME",
+   "Gargano C",
+   "Zhou X",
+   "Palmer JA",
+   "Saad ZS",
+   "Vieta E"
+  ],
+  "revista_ano": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology (2026)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "Eficácia/segurança de inibidor de FAAH como adjunto (ensaio)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SCHMIDT_2026"
+  ],
+  "id_referencia_interna": "REF_SCHMIDT_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "SCHMIDT",
+   "Schmidt"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B13_SistemaEndocanabinoide"
+  ]
+ },
+ {
+  "pmid_oficial": "19092448",
+  "titulo_artigo": "Simultaneous initiation (coinitiation) of pharmacotherapy with triiodothyronine and a selective serotonin reuptake inhibitor for major depressive disorder: a quantitative synthesis of double-blind studies",
+  "autores": [
+   "Papakostas GI",
+   "Cooper-Kazaz R",
+   "Appelhof BC",
+   "Posternak MA",
+   "Johnson DP",
+   "Klibanski A"
+  ],
+  "revista_ano": "International clinical psychopharmacology (2009)",
+  "desenho_estudo": "[EC] CooperKazaz_2009",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Simultaneous initiation (coinitiation) of pharmacotherapy with triiodothyronine and a selective serotonin reuptake inhibitor for major depressive disorder: a quantitative synthesis of double-blind studies",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_PAPAKOSTAS_2009"
+  ],
+  "id_referencia_interna": "REF_PAPAKOSTAS_2009",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "PAPAKOSTAS",
+   "Papakostas"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B11_DisfuncaoTireoidiana"
+  ]
+ },
+ {
+  "pmid_oficial": "32749491",
+  "titulo_artigo": "Effect of Long-term Vitamin D3 Supplementation vs Placebo on Risk of Depression or Clinically Relevant Depressive Symptoms and on Change in Mood Scores: A Randomized Clinical Trial",
+  "autores": [
+   "Okereke OI",
+   "Reynolds CF 3rd",
+   "Mischoulon D",
+   "Chang G",
+   "Vyas CM",
+   "Cook NR"
+  ],
+  "revista_ano": "JAMA (2020)",
+  "desenho_estudo": "[EC] RCT grande JAMA (VITAL-DEP) — NULO/prevenção",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "D3 de longo prazo NÃO preveniu depressão nem alterou escores de humor (HR 0,97).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_OKEREKE_2020"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT ~18 mil, prevenção; âncora LIMITADORA",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_OKEREKE_2020",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "OKEREKE",
+   "Okereke"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B08_Micronutrientes"
+  ]
+ },
+ {
+  "pmid_oficial": "34932079",
+  "titulo_artigo": "Effect of Long-term Supplementation With Marine Omega-3 Fatty Acids vs Placebo on Risk of Depression or Clinically Relevant Depressive Symptoms and on Change in Mood Scores: A Randomized Clinical Trial",
+  "autores": [
+   "Okereke OI",
+   "Vyas CM",
+   "Mischoulon D",
+   "Chang G",
+   "Cook NR",
+   "Weinberg A"
+  ],
+  "revista_ano": "JAMA (2021)",
+  "desenho_estudo": "[EC] RCT grande JAMA (VITAL-DEP) — NULO/prevenção",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Ômega-3 marinho de longo prazo NÃO preveniu depressão (HR 1,13; humor sem diferença).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_OKEREKE_2021"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT ~18 mil, prevenção; âncora LIMITADORA",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_OKEREKE_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "OKEREKE",
+   "Okereke"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B08_Micronutrientes"
+  ]
+ },
+ {
+  "pmid_oficial": "31166571",
+  "titulo_artigo": "Efficacy of Esketamine Nasal Spray Plus Oral Antidepressant Treatment for Relapse Prevention in Patients With Treatment-Resistant Depression: A Randomized Clinical Trial.",
+  "autores": [
+   "Daly EJ",
+   "Trivedi MH",
+   "Janik A",
+   "Li H"
+  ],
+  "revista_ano": "JAMA Psychiatry 2019",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B5_gaba_glutamato",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_DALY_2019"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_DALY_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Daly",
+   "DALY"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B05_GabaGlutamato"
+  ]
+ },
+ {
+  "pmid_oficial": "34190962",
+  "titulo_artigo": "Effect of Zuranolone vs Placebo in Postpartum Depression: A Randomized Clinical Trial.",
+  "autores": [
+   "Deligiannidis KM",
+   "Meltzer-Brody S",
+   "Gunduz-Bruce H",
+   "Doherty J"
+  ],
+  "revista_ano": "JAMA Psychiatry 2021",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B2_EixoHPA/neuroesteroides",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_DELIGIANNIDIS_2021"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "ensaio clinico humano",
+  "id_referencia_interna": "REF_DELIGIANNIDIS_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "DELIGIANNIDIS",
+   "Deligiannidis"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B02_Eixo_HPA_cortisol",
+   "B05_GabaGlutamato",
+   "B14_Neuroesteroides"
+  ]
+ },
+ {
+  "pmid_oficial": "33146667",
+  "titulo_artigo": "Effects of Psilocybin-Assisted Therapy on Major Depressive Disorder: A Randomized Clinical Trial.",
+  "autores": [
+   "Davis AK",
+   "Barrett FS",
+   "May DG",
+   "Cosimano MP"
+  ],
+  "revista_ano": "JAMA Psychiatry 2021",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B3_neuroplasticidade",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_DAVIS_2021"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_DAVIS_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Davis",
+   "DAVIS"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B03_Neuroplasticidade"
+  ]
+ },
+ {
+  "pmid_oficial": "39680411",
+  "titulo_artigo": "Cannabidiol for Scan-Related Anxiety in Women With Advanced Breast Cancer: A Randomized Clinical Trial",
+  "autores": [
+   "Nayak MM",
+   "Chai P",
+   "Catalano PJ",
+   "Pirl WF",
+   "Tulsky JA",
+   "Tung SC"
+  ],
+  "revista_ano": "JAMA network open (2024)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "CBD para ansiedade de exame em câncer de mama — desfecho primário NEGATIVO (Nayak)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_NAYAK_2024"
+  ],
+  "id_referencia_interna": "REF_NAYAK_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "NAYAK",
+   "Nayak"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B13_SistemaEndocanabinoide"
+  ]
+ },
+ {
+  "pmid_oficial": "22945416",
+  "doi": "10.1001/2013.jamapsychiatry.4",
+  "titulo_artigo": "A randomized controlled trial of the tumor necrosis factor antagonist infliximab for treatment-resistant depression: the role of baseline inflammatory biomarkers.",
+  "autores": [
+   "Raison CL",
+   "Rutherford RE",
+   "Woolwine BJ",
+   "Shuo C",
+   "Schettler P",
+   "Drake DF"
+  ],
+  "revista_ano": "JAMA psychiatry (2013)",
+  "desenho_estudo": "RCT (JAMA Psychiatry; N=60)",
+  "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_06",
+  "achado_central_molecular": "inflamacao alta prediz nao-resposta a antidepressivo e resposta ao anti-TNF; citocina sabotam mecanismo de acao do antidepressivo",
+  "extrapolacao_por_analogia": "baixa (humano)",
+  "status_auditoria": "VALIDADO_G3_IA (revisao de pares pendente)",
+  "claim_id_origem": "",
+  "citacao_confirmada": true,
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "evid_role": "human_clinical",
+  "verification_status": "pendente",
+  "ids_referencia_interna": [
+   "REF_RAISON_2013"
+  ],
+  "data_verificacao": "2026-09-03",
+  "id_referencia_interna": "REF_RAISON_2013",
+  "_aliases": [
+   "RAISON",
+   "Raison"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B01_Neuroinflamacao"
+  ]
+ },
+ {
+  "pmid_oficial": "26018333",
+  "titulo_artigo": "Effects of Estradiol Withdrawal on Mood in Women With Past Perimenopausal Depression: A Randomized Clinical Trial",
+  "autores": [
+   "Schmidt PJ",
+   "Ben Dor R",
+   "Martinez PE",
+   "Guerrieri GM",
+   "Harsh VL",
+   "Thompson K"
+  ],
+  "revista_ano": "JAMA psychiatry (2015)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Ensaio randomizado da retirada do estradiol sobre o humor (história de depressão perimenopausa)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SCHMIDT_2015"
+  ],
+  "id_referencia_interna": "REF_SCHMIDT_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "SCHMIDT",
+   "Schmidt"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B14_Neuroesteroides"
+  ]
+ },
+ {
+  "pmid_oficial": "29322164",
+  "titulo_artigo": "Efficacy of Transdermal Estradiol and Micronized Progesterone in the Prevention of Depressive Symptoms in the Menopause Transition: A Randomized Clinical Trial",
+  "autores": [
+   "Gordon JL",
+   "Rubinow DR",
+   "Eisenlohr-Moul TA",
+   "Xia K",
+   "Schmidt PJ",
+   "Girdler SS"
+  ],
+  "revista_ano": "JAMA psychiatry (2018)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Estudo randomizado: estradiol transdérmico + progesterona micronizada na prevenção de sintomas depressivos na menopausa",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GORDON_2018"
+  ],
+  "id_referencia_interna": "REF_GORDON_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "GORDON",
+   "Gordon"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B14_Neuroesteroides"
+  ]
+ },
+ {
+  "pmid_oficial": "10967371",
+  "titulo_artigo": "Enhancement of the antidepressant action of fluoxetine by folic acid: a randomised, placebo controlled trial",
+  "autores": [
+   "Coppen A",
+   "Bailey J"
+  ],
+  "revista_ano": "Journal of affective disorders (2000)",
+  "desenho_estudo": "[EC] RCT J Affect Disord — folato+fluoxetina",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Ácido fólico potencializa a ação antidepressiva da fluoxetina (RCT).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_COPPEN_2000"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT pequeno; folato potencializa fluoxetina",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_COPPEN_2000",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Coppen",
+   "COPPEN"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B08_Micronutrientes"
+  ]
+ },
+ {
+  "pmid_oficial": "29486338",
+  "titulo_artigo": "Palmitoylethanolamide as adjunctive therapy in major depressive disorder: A double-blind, randomized and placebo-controlled trial",
+  "autores": [
+   "Ghazizadeh-Hashemi M",
+   "Ghajar A",
+   "Shalbafan MR",
+   "Ghazizadeh-Hashemi F",
+   "Afarideh M",
+   "Malekpour F"
+  ],
+  "revista_ano": "Journal of affective disorders (2018)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "PEA como adjuvante no TDM (ECR; resposta 100% vs 74% — pequeno, único)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GHAZIZADEHHASHEMI_2018"
+  ],
+  "id_referencia_interna": "REF_GHAZIZADEHHASHEMI_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "GHAZIZADEHHASHEMI",
+   "Ghazizadehhashemi"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B13_SistemaEndocanabinoide"
+  ]
+ },
+ {
+  "pmid_oficial": "36191643",
+  "titulo_artigo": "Effect of brexanolone on depressive symptoms, anxiety, and insomnia in women with postpartum depression: Pooled analyses from 3 double-blind, randomized, placebo-controlled clinical trials in the HUMMINGBIRD clinical program",
+  "autores": [
+   "Epperson CN",
+   "Rubinow DR",
+   "Meltzer-Brody S",
+   "Deligiannidis KM",
+   "Riesenberg R",
+   "Krystal AD"
+  ],
+  "revista_ano": "Journal of affective disorders (2023)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Brexanolone sobre depressão, ansiedade e insônia na DPP (análise agrupada)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_EPPERSON_2023"
+  ],
+  "id_referencia_interna": "REF_EPPERSON_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "EPPERSON",
+   "Epperson"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B14_Neuroesteroides"
+  ]
+ },
+ {
+  "pmid_oficial": "29177955",
+  "titulo_artigo": "A randomized, double-blind, placebo-controlled, proof-of-concept trial of creatine monohydrate as adjunctive treatment for bipolar depression",
+  "autores": [
+   "Toniolo RA",
+   "Silva M",
+   "Fernandes FBF",
+   "Amaral JAMS",
+   "Dias RDS",
+   "Lafer B"
+  ],
+  "revista_ano": "Journal of neural transmission (Vienna, Austria : 1996) (2018)",
+  "desenho_estudo": "[EC] RCT duplo-cego prova de conceito J Neural Transm",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Creatina monohidratada como adjuvante na TDM (prova de conceito, duplo-cego).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_TONIOLO_2018"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT pequeno; creatina adjuvante",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_TONIOLO_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "TONIOLO",
+   "Toniolo"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B08_Micronutrientes"
+  ]
+ },
+ {
+  "pmid_oficial": "41512716",
+  "titulo_artigo": "A novel, experimental design to assess rapid antidepressant action: Results from a phase 1b randomized trial of NV-5138",
+  "autores": [
+   "Targum SD",
+   "Sanacora G",
+   "Formella AE",
+   "Ceresoli-Borroni G",
+   "Owen R"
+  ],
+  "revista_ano": "Journal of psychiatric research (2026)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B15_autofagia_mtor",
+  "achado_central_molecular": "Ensaio fase 1b randomizado, duplo-cego, placebo de NV-5138 dose única (2400 mg) em depressão resistente: melhora já em 4–12h, efeito ~−0,5 a −0,8, sem psicotomimese",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_TARGUM_2026"
+  ],
+  "id_referencia_interna": "REF_TARGUM_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g1_resumo": "eutils (Briefing B15; 140/140 resolvem PubMed; 2026)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "TARGUM",
+   "Targum"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B15_AutofagiaMTOR"
+  ]
+ },
+ {
+  "pmid_oficial": "28619476",
+  "titulo_artigo": "Brexanolone (SAGE-547 injection) in post-partum depression: a randomised controlled trial.",
+  "autores": [
+   "Kanes S",
+   "Colquhoun H",
+   "Gunduz-Bruce H",
+   "Raines S"
+  ],
+  "revista_ano": "Lancet 2017",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B5_gaba_glutamato",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_KANES_2017"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_KANES_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Kanes",
+   "KANES"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B05_GabaGlutamato",
+   "B14_Neuroesteroides"
+  ]
+ },
+ {
+  "pmid_oficial": "30177236",
+  "titulo_artigo": "Brexanolone injection in post-partum depression: two multicentre, double-blind, randomised, placebo-controlled, phase 3 trials.",
+  "autores": [
+   "Meltzer-Brody S",
+   "Colquhoun H",
+   "Riesenberg R",
+   "Epperson CN"
+  ],
+  "revista_ano": "Lancet 2018",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B2_EixoHPA/bibliografia",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MELTZERBRODY_2018"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "ensaio clinico humano",
+  "id_referencia_interna": "REF_MELTZERBRODY_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "MELTZERBRODY",
+   "Meltzerbrody"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B02_Eixo_HPA_cortisol",
+   "B04_Monoaminas",
+   "B05_GabaGlutamato",
+   "B14_Neuroesteroides"
+  ]
+ },
+ {
+  "pmid_oficial": "31427751",
+  "doi": "",
+  "titulo_artigo": "Effects of immunomodulatory drugs on depressive symptoms: a mega-analysis of randomized placebo-controlled trials.",
+  "autores": [
+   "Wittenberg GM"
+  ],
+  "revista_ano": "Molecular psychiatry (2020)",
+  "desenho_estudo": "MA mega-analise de RCT (farmacos imunomoduladores)",
+  "secao_origem": "mecanismo_B1_neuroinflamacao/v2",
+  "achado_central_molecular": "Effects of immunomodulatory drugs on depressive symptoms: a mega-analysis of randomized placebo-controlled trials.",
+  "extrapolacao_por_analogia": "baixa (humano)",
+  "status_auditoria": "VALIDADO_G3_IA (B1 v2, 2026-09-04)",
+  "claim_id_origem": "",
+  "citacao_confirmada": true,
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "IA_revisora (v2)",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "evid_role": "human_experimental",
+  "verification_status": "verificado",
+  "ids_referencia_interna": [
+   "REF_WITTENBERG_2020"
+  ],
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "classificado",
+  "id_referencia_interna": "REF_WITTENBERG_2020",
+  "_aliases": [
+   "Wittenberg",
+   "WITTENBERG"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B01_Neuroinflamacao"
+  ]
+ },
+ {
+  "pmid_oficial": "24917198",
+  "titulo_artigo": "A randomized, double-blind, placebo-controlled trial of pregnenolone for bipolar depression",
+  "autores": [
+   "Brown ES",
+   "Park J",
+   "Marx CE",
+   "Hynan LS",
+   "Gardner C",
+   "Davila D"
+  ],
+  "revista_ano": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology (2014)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "ECR duplo-cego de pregnenolona na depressão bipolar (N~80, até 500 mg; interação tratamento×tempo; melhora de ansiedade correlata ao aumento de ALLO/pregnanolona; sem consistência em todas as medidas — preliminar, G3)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BROWN_2014"
+  ],
+  "id_referencia_interna": "REF_BROWN_2014",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "BROWN",
+   "Brown"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B14_Neuroesteroides"
+  ]
+ },
+ {
+  "pmid_oficial": "33070154",
+  "titulo_artigo": "The effects of inhibition of fatty acid amide hydrolase (FAAH) by JNJ-42165279 in social anxiety disorder: a double-blind, randomized, placebo-controlled proof-of-concept study",
+  "autores": [
+   "Schmidt ME",
+   "Liebowitz MR",
+   "Stein MB",
+   "Grunfeld J",
+   "Van Hove I",
+   "Simmons WK"
+  ],
+  "revista_ano": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology (2021)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "---|---|---|---",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SCHMIDT_2021"
+  ],
+  "id_referencia_interna": "REF_SCHMIDT_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "SCHMIDT",
+   "Schmidt"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B13_SistemaEndocanabinoide"
+  ]
+ },
+ {
+  "pmid_oficial": "40382500",
+  "titulo_artigo": "The efficacy of elevating anandamide via inhibition of fatty acid amide hydrolase (FAAH) combined with internet-delivered cognitive behavioral therapy in the treatment of post-traumatic stress disorder: a randomized, placebo-controlled clinical trial",
+  "autores": [
+   "Mayo LM",
+   "Gauffin E",
+   "Petrie GN",
+   "Tansey R",
+   "Mazurka R",
+   "Haggarty CJ"
+  ],
+  "revista_ano": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology (2025)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "Eficácia de elevar anandamida via inibição de FAAH (ansiedade; clínico)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MAYO_2025"
+  ],
+  "id_referencia_interna": "REF_MAYO_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "MAYO",
+   "Mayo"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B13_SistemaEndocanabinoide"
+  ]
+ },
+ {
+  "pmid_oficial": "30513795",
+  "titulo_artigo": "The Effect of a High-Dose Vitamin B Multivitamin Supplement on the Relationship between Brain Metabolism and Blood Biomarkers of Oxidative Stress: A Randomized Control Trial.",
+  "autores": [
+   "Ford TC"
+  ],
+  "revista_ano": "Nutrients 2018",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Ford 2018 — RCT complexo B alta dose: metabolismo cerebral (¹H-MRS) × biomarcadores de EO",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_FORD_2018"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_FORD_2018",
+  "doi": "10.3390/nu10121860",
+  "claim_id_origem": "B6.MEC.BLOCO05.005",
+  "_aliases": [
+   "Ford",
+   "FORD"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B06_EstresseOxidativo"
+  ]
+ },
+ {
+  "pmid_oficial": "32635181",
+  "titulo_artigo": "Impact of Glutathione and Vitamin B-6 in Cirrhosis Patients: A Randomized Controlled Trial and Follow-Up Study.",
+  "autores": [
+   "Lai CY"
+  ],
+  "revista_ano": "Nutrients 2020",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Lai 2020 — RCT cirrose: GSH+B6 e capacidade antioxidante (sinal-intervenção; P20)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_LAI_2020"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_LAI_2020",
+  "doi": "10.3390/nu12071978",
+  "claim_id_origem": "B6.MEC.BLOCO05.006",
+  "_aliases": [
+   "Lai",
+   "LAI"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B06_EstresseOxidativo"
+  ]
+ },
+ {
+  "pmid_oficial": "41515133",
+  "titulo_artigo": "Heat-Treated Limosilactobacillus fermentum PS150 Improves Sleep Quality with Severity-Dependent Benefits: A Randomized, Placebo-Controlled Trial.",
+  "autores": [
+   "Lee MC",
+   "Chen CY",
+   "Chen CY",
+   "Huang CC"
+  ],
+  "revista_ano": "Nutrients 2025",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B2_EixoHPA/microbiota",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_LEE_2025"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "ensaio clinico humano",
+  "id_referencia_interna": "REF_LEE_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Lee",
+   "LEE"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B02_Eixo_HPA_cortisol"
+  ]
+ },
+ {
+  "pmid_oficial": "28241991",
+  "titulo_artigo": "Effect of magnesium supplementation on depression status in depressed patients with magnesium deficiency: A randomized, double-blind, placebo-controlled trial",
+  "autores": [
+   "Rajizadeh A",
+   "Mozaffari-Khosravi H",
+   "Yassini-Ardakani M",
+   "Dehghani A"
+  ],
+  "revista_ano": "Nutrition (Burbank, Los Angeles County, Calif.) (2017)",
+  "desenho_estudo": "[EC] RCT duplo-cego placebo Nutrition — só em DEFICIENTES",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Mg em deprimidos COM hipomagnesemia normalizou soro e reduziu BDI.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_RAJIZADEH_2017"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT pequeno (n=60) em hipomagnesêmicos; prova de conceito de corrigir deficiência",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_RAJIZADEH_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "RAJIZADEH",
+   "Rajizadeh"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B08_Micronutrientes"
+  ]
+ },
+ {
+  "pmid_oficial": "29215971",
+  "titulo_artigo": "A Mediterranean-style dietary intervention supplemented with fish oil improves diet quality and mental health in people with depression: A randomized controlled trial (HELFIMED)",
+  "autores": [
+   "Parletta N",
+   "Zarnowiecki D",
+   "Cho J",
+   "Wilson A",
+   "Bogomolova S",
+   "Villani A"
+  ],
+  "revista_ano": "Nutritional neuroscience (2019)",
+  "desenho_estudo": "[EC] RCT Nutr Neurosci — Mediterrâneo+peixe",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Intervenção estilo-Mediterrâneo melhorou qualidade da dieta e saúde mental (HELFIMED).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_PARLETTA_2019"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT de intervenção Mediterrânea suplementada com óleo de peixe",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_PARLETTA_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "PARLETTA",
+   "Parletta"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B08_Micronutrientes"
+  ]
+ },
+ {
+  "pmid_oficial": "26353411",
+  "titulo_artigo": "Effects of Oral Vitamin C Supplementation on Anxiety in Students: A Double-Blind, Randomized, Placebo-Controlled Trial",
+  "autores": [
+   "de Oliveira IJ",
+   "de Souza VV",
+   "Motta V",
+   "Da-Silva SL"
+  ],
+  "revista_ano": "Pakistan journal of biological sciences : PJBS (2015)",
+  "desenho_estudo": "[EC] RCT duplo-cego Pak J Biol Sci — estudantes",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Vitamina C oral reduziu ansiedade em estudantes (RCT pequeno).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_DEOLIVEIRA_2015"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_clinico",
+  "g2_motivo": "RCT pequeno em estudantes; periódico de menor impacto; âncora fraca",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_DEOLIVEIRA_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "deOliveira",
+   "DEOLIVEIRA",
+   "Deoliveira"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B08_Micronutrientes"
+  ]
+ },
+ {
+  "pmid_oficial": "28654669",
+  "titulo_artigo": "Role of magnesium supplementation in the treatment of depression: A randomized clinical trial",
+  "autores": [
+   "Tarleton EK",
+   "Littenberg B",
+   "MacLean CD",
+   "Kennedy AG",
+   "Daley C"
+  ],
+  "revista_ano": "PloS one (2017)",
+  "desenho_estudo": "[EC] RCT ABERTO/não-cego PLoS One",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Cloreto de Mg melhorou PHQ-9 e GAD-7 em RCT aberto (sem cegueira).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_TARLETON_2017"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "open-label crossover; GAD-7 secundário; âncora com ressalva de cegueira",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_TARLETON_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "TARLETON",
+   "Tarleton"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B08_Micronutrientes"
+  ]
+ },
+ {
+  "pmid_oficial": "30562392",
+  "titulo_artigo": "Superiority of magnesium and vitamin B6 over magnesium alone on severe stress in healthy adults with low magnesemia: A randomized, single-blind clinical trial",
+  "autores": [
+   "Pouteau E",
+   "Kabir-Ahmadi M",
+   "Noah L",
+   "Mazur A",
+   "Dye L",
+   "Hellhammer J"
+  ],
+  "revista_ano": "PloS one (2018)",
+  "desenho_estudo": "[EC] RCT PLoS One — estresse em sadios",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Mg+B6 superior ao Mg sozinho em estresse severo em adultos sadios.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_POUTEAU_2018"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT em voluntários sadios com estresse; Mg+B6 vs Mg",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_POUTEAU_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "POUTEAU",
+   "Pouteau"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B08_Micronutrientes"
+  ]
+ },
+ {
+  "pmid_oficial": "28319848",
+  "titulo_artigo": "Treatment of premenstrual dysphoric disorder with the GABA(A) receptor modulating steroid antagonist Sepranolone (UC1010)-A randomized controlled trial",
+  "autores": [
+   "Bixo M",
+   "Ekberg K",
+   "Poromaa IS",
+   "Hirschberg AL",
+   "Jonasson AF",
+   "Andréen L"
+  ],
+  "revista_ano": "Psychoneuroendocrinology (2017)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Tratamento do TDPM com antagonista esteroide GABA-A sepranolona (UC1011)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BIXO_2017"
+  ],
+  "id_referencia_interna": "REF_BIXO_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "BIXO",
+   "Bixo"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B14_Neuroesteroides"
+  ]
+ },
+ {
+  "pmid_oficial": "34597899",
+  "titulo_artigo": "A randomized, double-blind study on efficacy and safety of sepranolone in premenstrual dysphoric disorder",
+  "autores": [
+   "Bäckström T",
+   "Ekberg K",
+   "Hirschberg AL",
+   "Bixo M",
+   "Epperson CN",
+   "Briggs P"
+  ],
+  "revista_ano": "Psychoneuroendocrinology (2021)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "ECR duplo-cego de sepranolona no TDPM",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BACKSTROM_2021"
+  ],
+  "id_referencia_interna": "REF_BACKSTROM_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "BACKSTROM",
+   "Backstrom"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B14_Neuroesteroides"
+  ]
+ },
+ {
+  "pmid_oficial": "35809362",
+  "titulo_artigo": "Baseline anxiety-sensitivity to estradiol fluctuations predicts anxiety symptom response to transdermal estradiol treatment in perimenopausal women - A randomized clinical trial",
+  "autores": [
+   "Lozza-Fiacco S",
+   "Gordon JL",
+   "Andersen EH",
+   "Kozik RG",
+   "Neely O",
+   "Schiller C",
+   "Munoz M",
+   "Rubinow DR",
+   "Girdler SS"
+  ],
+  "revista_ano": "Psychoneuroendocrinology (2022)",
+  "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Psychoneuroendocrinology",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Na transição menopausal, maior variabilidade do estradiol predisse fenótipos depressivos com ansiedade/anedonia; ensaio experimental mostra sensibilidade individual basal ao estradiol como preditor de resposta sintomática",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_LOZZAFIACCO_2022"
+  ],
+  "id_referencia_interna": "REF_LOZZAFIACCO_2022",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Anhedonia",
+   "Anxiety",
+   "Anxiety Disorders",
+   "Double-Blind Method",
+   "Estradiol",
+   "Female",
+   "Humans",
+   "Hydrocortisone",
+   "Interleukin-6",
+   "Perimenopause"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "g1_resumo": "eutils (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B14_Neuroesteroides"
+  ]
+ },
+ {
+  "pmid_oficial": "33009629",
+  "titulo_artigo": "Etifoxine is non-inferior than clonazepam for reduction of anxiety symptoms in the treatment of anxiety disorders: a randomized, double blind, non-inferiority trial",
+  "autores": [
+   "Vicente B",
+   "Saldivia S",
+   "Hormazabal N",
+   "Bustos C",
+   "Rubí P"
+  ],
+  "revista_ano": "Psychopharmacology (2020)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Etifoxina não-inferior ao clonazepam na redução de ansiedade",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_VICENTE_2020"
+  ],
+  "id_referencia_interna": "REF_VICENTE_2020",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Vicente",
+   "VICENTE"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B14_Neuroesteroides"
+  ]
+ },
+ {
+  "pmid_oficial": "26262996",
+  "titulo_artigo": "Effects of N-acetylcysteine, oral glutathione (GSH) and a novel sublingual form of GSH on oxidative stress markers: A comparative crossover study.",
+  "autores": [
+   "Schmitt B"
+  ],
+  "revista_ano": "Redox Biol 2015",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Schmitt 2015 — NAC vs GSH oral vs GSH sublingual: bioavaliação e marcadores (comparativo; P20)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SCHMITT_2015"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_SCHMITT_2015",
+  "doi": "10.1016/j.redox.2015.07.012",
+  "claim_id_origem": "B6.MEC.BLOCO03.012",
+  "_aliases": [
+   "Schmitt",
+   "SCHMITT"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B06_EstresseOxidativo"
+  ]
+ },
+ {
+  "pmid_oficial": "10200751",
+  "titulo_artigo": "Double-blind treatment of major depression with dehydroepiandrosterone",
+  "autores": [
+   "Wolkowitz OM",
+   "Reus VI",
+   "Keebler A",
+   "Nelson N",
+   "Friedland M",
+   "Brizendine L"
+  ],
+  "revista_ano": "The American journal of psychiatry (1999)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Tratamento duplo-cego da depressão maior com DHEA",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_WOLKOWITZ_1999"
+  ],
+  "id_referencia_interna": "REF_WOLKOWITZ_1999",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Wolkowitz",
+   "WOLKOWITZ"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B14_Neuroesteroides"
+  ]
+ },
+ {
+  "pmid_oficial": "23212058",
+  "titulo_artigo": "L-methylfolate as adjunctive therapy for SSRI-resistant major depression: results of two randomized, double-blind, parallel-sequential trials",
+  "autores": [
+   "Papakostas GI",
+   "Shelton RC",
+   "Zajecka JM",
+   "Etemad B",
+   "Rickels K",
+   "Clain A"
+  ],
+  "revista_ano": "The American journal of psychiatry (2012)",
+  "desenho_estudo": "[EC] RCT AJP — L-metilfolato adjuvante",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "L-metilfolato como adjuvante na TDM resistente a ISRS (dois RCTs).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_PAPAKOSTAS_2012"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT em respondedores inadequados a ISRS",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_PAPAKOSTAS_2012",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "PAPAKOSTAS",
+   "Papakostas"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B08_Micronutrientes"
+  ]
+ },
+ {
+  "pmid_oficial": "37132201",
+  "titulo_artigo": "Zuranolone for the Treatment of Adults With Major Depressive Disorder: A Randomized, Placebo-Controlled Phase 3 Trial",
+  "autores": [
+   "Clayton AH",
+   "Lasser R",
+   "Parikh SV",
+   "Iosifescu DV",
+   "Jung J",
+   "Kotecha M"
+  ],
+  "revista_ano": "The American journal of psychiatry (2023)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Zuranolona para adultos com TDM: ECR fase 3 (MOUNTAIN)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CLAYTON_2023"
+  ],
+  "id_referencia_interna": "REF_CLAYTON_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "CLAYTON",
+   "Clayton"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B14_Neuroesteroides"
+  ]
+ },
+ {
+  "pmid_oficial": "24813065",
+  "titulo_artigo": "Effect of adjunctive L-methylfolate 15 mg among inadequate responders to SSRIs in depressed patients who were stratified by biomarker levels and genotype: results from a randomized clinical trial",
+  "autores": [
+   "Papakostas GI",
+   "Shelton RC",
+   "Zajecka JM",
+   "Bottiglieri T",
+   "Roffman J",
+   "Cassiello C"
+  ],
+  "revista_ano": "The Journal of clinical psychiatry (2014)",
+  "desenho_estudo": "[EC] RCT JCP — estratificado",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "L-metilfolato 15mg adjuvante em respondedores inadequados a ISRS.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_PAPAKOSTAS_2014"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT estratificado por biomarcador/genótipo",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_PAPAKOSTAS_2014",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "PAPAKOSTAS",
+   "Papakostas"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B08_Micronutrientes"
+  ]
+ },
+ {
+  "pmid_oficial": "26613389",
+  "titulo_artigo": "Association of obesity and inflammatory marker levels on treatment outcome: results from a double-blind, randomized study of adjunctive L-methylfolate calcium in patients with MDD who are inadequate responders to SSRIs",
+  "autores": [
+   "Shelton RC",
+   "Pencina MJ",
+   "Barrentine LW",
+   "Ruiz JA",
+   "Fava M",
+   "Zajecka JM"
+  ],
+  "revista_ano": "The Journal of clinical psychiatry (2015)",
+  "desenho_estudo": "[EC] análise JCP — obesidade/inflamação",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Obesidade e marcadores inflamatórios modificam o desfecho com L-metilfolato.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SHELTON_2015"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "subgrupo obesidade/marcador inflamatório",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SHELTON_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Shelton",
+   "SHELTON"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B08_Micronutrientes"
+  ]
+ },
+ {
+  "pmid_oficial": "27035404",
+  "titulo_artigo": "Long-term efficacy, safety, and tolerability of L-methylfolate calcium 15 mg as adjunctive therapy with selective serotonin reuptake inhibitors: a 12-month, open-label study following a placebo-controlled acute study",
+  "autores": [
+   "Zajecka JM",
+   "Fava M",
+   "Shelton RC",
+   "Barrentine LW",
+   "Young P",
+   "Papakostas GI"
+  ],
+  "revista_ano": "The Journal of clinical psychiatry (2016)",
+  "desenho_estudo": "[EC] estudo longo prazo JCP",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Eficácia/segurança de longo prazo de L-metilfolato cálcico adjuvante.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ZAJECKA_2016"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "segurança/eficácia de longo prazo",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_ZAJECKA_2016",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "ZAJECKA",
+   "Zajecka"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B08_Micronutrientes"
+  ]
+ },
+ {
+  "pmid_oficial": "36811520",
+  "titulo_artigo": "Zuranolone in Major Depressive Disorder: Results From MOUNTAIN-A Phase 3, Multicenter, Double-Blind, Randomized, Placebo-Controlled Trial",
+  "autores": [
+   "Clayton AH",
+   "Lasser R",
+   "Nandy I",
+   "Sankoh AJ",
+   "Jonas J",
+   "Kanes SJ"
+  ],
+  "revista_ano": "The Journal of clinical psychiatry (2023)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Zuranolona na TDM: resultado do MOUNTAIN-A (fase 3)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CLAYTON_2023b"
+  ],
+  "id_referencia_interna": "REF_CLAYTON_2023b",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "CLAYTON",
+   "Clayton"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B14_Neuroesteroides"
+  ]
+ },
+ {
+  "pmid_oficial": "36841506",
+  "titulo_artigo": "Prebiotic Consumption Alters Microbiota but Not Biological Markers of Stress and Inflammation or Mental Health Symptoms in Healthy Adults: A Randomized, Controlled, Crossover Trial",
+  "autores": [
+   "Mysonhimer AR",
+   "Cannavale CN",
+   "Bailey MA",
+   "Khan NA",
+   "Holscher HD"
+  ],
+  "revista_ano": "The Journal of nutrition (2023)",
+  "desenho_estudo": "[EC] RCT J Nutr — prebiótico, EFEITO NULO em estresse",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Prebiótico altera a microbiota, mas NÃO marcadores biológicos de estresse/inflamação nem saúde mental em adultos estressados.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MYSONHIMER_2023"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT humano; resultado negativo (contra-ponto importante)",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MYSONHIMER_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Mysonhimer",
+   "MYSONHIMER"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B07_EixoIntestinoCerebro"
+  ]
+ },
+ {
+  "pmid_oficial": "35896533",
+  "titulo_artigo": "Enhancing exposure therapy for posttraumatic stress disorder (PTSD): a randomized clinical trial of virtual reality and imaginal exposure with a cognitive enhancer",
+  "autores": [
+   "Difede J",
+   "Rothbaum BO",
+   "Rizzo AA",
+   "Wyka K",
+   "Spielman L",
+   "Reist C"
+  ],
+  "revista_ano": "Translational psychiatry (2022)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "Potencializar terapia de exposição no TEPT (RCT; canabinoide)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_DIFEDE_2022"
+  ],
+  "id_referencia_interna": "REF_DIFEDE_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "DIFEDE",
+   "Difede"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B13_SistemaEndocanabinoide"
+  ]
+ },
+ {
+  "pmid_oficial": "38233395",
+  "doi": "",
+  "titulo_artigo": "Attenuating human fear memory retention with minocycline: a randomized placebo-controlled trial.",
+  "autores": [
+   "Xia Y"
+  ],
+  "revista_ano": "Translational psychiatry (2024)",
+  "desenho_estudo": "EC humano RCT (minociclina/memoria de medo)",
+  "secao_origem": "mecanismo_B1_neuroinflamacao/v2",
+  "achado_central_molecular": "Attenuating human fear memory retention with minocycline: a randomized placebo-controlled trial.",
+  "extrapolacao_por_analogia": "baixa (humano)",
+  "status_auditoria": "VALIDADO_G3_IA (B1 v2, 2026-09-04)",
+  "claim_id_origem": "",
+  "citacao_confirmada": true,
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "IA_revisora (v2)",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "evid_role": "human_experimental",
+  "verification_status": "verificado",
+  "ids_referencia_interna": [
+   "REF_XIA_2024"
+  ],
+  "id_referencia_interna": "REF_XIA_2024",
+  "_aliases": [
+   "XIA",
+   "Xia"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B01_Neuroinflamacao"
+  ]
+ },
+ {
+  "pmid_oficial": "41651806",
+  "titulo_artigo": "Functional neuroimaging of fatty acid amide hydrolase inhibition in posttraumatic stress disorder: a randomized clinical trial",
+  "autores": [
+   "Tansey R",
+   "Perini I",
+   "Petrie GN",
+   "Haggarty CJ",
+   "Mazurka R",
+   "Yngve A"
+  ],
+  "revista_ano": "Translational psychiatry (2026)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "Neuroimagem da inibição de FAAH no TEPT",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_TANSEY_2026"
+  ],
+  "id_referencia_interna": "REF_TANSEY_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "TANSEY",
+   "Tansey"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B13_SistemaEndocanabinoide"
+  ]
+ },
+ {
+  "pmid_oficial": "33795646",
+  "titulo_artigo": "Translating the immediate effects of S-Ketamine using hippocampal subfield analysis in healthy subjects-results of a randomized controlled trial.",
+  "autores": [
+   "Höflich A"
+  ],
+  "revista_ano": "Translational psychiatry 2021",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B3_neuroplasticidade",
+  "achado_central_molecular": "Antidepressant doses of ketamine rapidly facilitate synaptic plasticity and modify neuronal function within prefrontal and hippocampal circuits. However, most studies have demonstrated these effects in animal models and translational studies in humans are scarce. A recent animal study showed that ketamine restored dendritic spines in the…",
+  "extrapolacao_por_analogia": "—",
+  "ids_referencia_interna": [
+   "REF_HOFLICH_2021"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B3 confirmado em auditoria [AT] (título/abstract MeSH)",
+  "g3_verificado_por": "IA G3 (geração) — B3 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_HOFLICH_2021",
+  "doi": "10.1038/s41398-021-01318-6",
+  "claim_id_origem": "B3.MEC.BLOCO05.062",
+  "_aliases": [
+   "Hoflich",
+   "HOFLICH"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "classe_serie": "ensaio_clinico_randomizado",
+  "bibliotecas": [
+   "B03_Neuroplasticidade"
+  ]
+ }
+]

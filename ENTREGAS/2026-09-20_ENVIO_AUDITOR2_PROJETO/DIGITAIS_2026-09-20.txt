@@ -1,0 +1,18 @@
+DIGITAIS — PARA SUBIR NO PROJETO DO AUDITOR-2/ESTRUTURA · 2026-09-20
+Objetivo (sugestão dele, endossada pela casa com 1 ajuste de regime): espelho persistente — o ambiente dele não guarda nada entre sessões; o Projeto dele, sim.
+AJUSTE DE REGIME (regra de versionamento do operador): sobe-se a VIGENTE V2.2 oficial — a V2.3 é candidata e só sobe APÓS a frase de aprovação (mesma disciplina aplicada ao projeto do mestre).
+
+1) ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md
+   sha256: df7f7cfdfc01cf77d658885f30dfefe29dcf380229ea56e6b3af02920df22ae1 · 52.181 b
+   → substitui a 'Arquitetura de 15/09' que está no Projeto dele — ECO PEDIDO: sha do arquivo antigo ANTES de trocar (a casa crava o elo, como fez no mestre) e sha da nova DEPOIS.
+2) schema_referencia_v1.3__N1_CORRENTE.json
+   sha256: b06660fd985a8186dbe5ed2878f15d3badd2356e11f4d0c9b71e78d2b2e4e7da · 9.582 b
+3) schema_vinculo_v1.4__N2_CORRENTE.json
+   sha256: d96ad15b620fa373d8d95d44159a9f3db31c04cfed051d85c7ab014cb3c65050 · 12.840 b
+4) L05_SCHEMA_EVIDENCIA_E_VINCULO_v1.4__ESPECIFICACAO.md
+   sha256: 78a0f2afcd2acf0f78caa8bbc674c337e7c5b47c93ee86d684f1648b6671dc8b · 42.809 b
+5) MANIFESTO_LINHAGEM.txt
+   sha256: 789792be219985e393eb80f1f7177d27a94c888d4f1ae955ae2f1e5b55308ebe · 3547 b
+   → espelho oficial: manifesto datado a cada mudança (a casa o regenera quando a cadeia andar).
+
+Não sobem: o histórico (v1.1/v1.2/v1.3 e especificações antigas) — arqueologia no zip com o operador (ENTREGAS/2026-09-19_L05_LINHAGEM_COMPLETA/).

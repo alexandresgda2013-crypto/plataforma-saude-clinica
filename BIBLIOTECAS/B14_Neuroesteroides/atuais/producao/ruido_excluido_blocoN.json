@@ -1,0 +1,590 @@
+[
+ {
+  "pmid_oficial": "34675729",
+  "titulo_artigo": "Acupuncture: A Promising Approach for Comorbid Depression and Insomnia in Perimenopause",
+  "autores": [
+   "Zhao FY",
+   "Fu QQ",
+   "Spencer SJ",
+   "Kennedy GA",
+   "Conduit R",
+   "Zhang WJ"
+  ],
+  "revista_ano": "Nature and science of sleep (2021)",
+  "desenho_estudo": "[ML]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Acupuntura para depressão/insônia comórbidas na perimenopausa",
+  "extrapolacao_por_analogia": "SIM — dado animal/estrutural [EXT]; traducao humana cautelosa",
+  "ids_referencia_interna": [
+   "REF_ZHAO_2021"
+  ],
+  "id_referencia_interna": "REF_ZHAO_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (Briefing B14; 255/255 resolvem PubMed; 240 ancoras mecanisticas)",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "bloco N: intervencao nao-mecanismo (acupuntura/TCM/fitoterapico) — excluido do corpo",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "EXCLUIDO_RUIDO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "ZHAO",
+   "Zhao"
+  ]
+ },
+ {
+  "pmid_oficial": "37603500",
+  "titulo_artigo": "Acupuncture-adjuvant therapies for treating perimenopausal depression: A network meta-analysis",
+  "autores": [
+   "Zheng L",
+   "Sun Z",
+   "Liu C",
+   "Zhang J",
+   "Jin Y",
+   "Jin H"
+  ],
+  "revista_ano": "Medicine (2023)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Múltiplas metas de acupuntura/TCM para depressão perimenopausa",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ZHENG_2023"
+  ],
+  "id_referencia_interna": "REF_ZHENG_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (Briefing B14; 255/255 resolvem PubMed; 240 ancoras mecanisticas)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "bloco N: intervencao nao-mecanismo (acupuntura/TCM/fitoterapico) — excluido do corpo",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "EXCLUIDO_RUIDO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "ZHENG",
+   "Zheng"
+  ]
+ },
+ {
+  "pmid_oficial": "42071816",
+  "titulo_artigo": "Treatment of perimenopausal depressive disorder with acupuncture combined with traditional Chinese medicine decoction: A systematic review and meta-analysis",
+  "autores": [
+   "Huang W",
+   "Zhang L",
+   "Fang Z",
+   "Dong Y",
+   "Wang Z",
+   "Gao Z"
+  ],
+  "revista_ano": "Medicine (2026)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Múltiplas metas de acupuntura/TCM para depressão perimenopausa",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_HUANG_2026"
+  ],
+  "id_referencia_interna": "REF_HUANG_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (Briefing B14; 255/255 resolvem PubMed; 240 ancoras mecanisticas)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "bloco N: intervencao nao-mecanismo (acupuntura/TCM/fitoterapico) — excluido do corpo",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "EXCLUIDO_RUIDO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "HUANG",
+   "Huang"
+  ]
+ },
+ {
+  "pmid_oficial": "42539596",
+  "titulo_artigo": "Pharmacotherapy, acupoint stimulation, and psychotherapy for perimenopausal women with anxiety, depression, and panic disorder: a systematic review and network meta-analysis of randomized controlled trials",
+  "autores": [
+   "Zhuang J",
+   "Zhou Y",
+   "Yu G",
+   "Cheng H",
+   "Chen X",
+   "Qian R"
+  ],
+  "revista_ano": "Frontiers in psychiatry (2026)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Múltiplas metas de acupuntura/TCM para depressão perimenopausa",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ZHUANG_2026"
+  ],
+  "id_referencia_interna": "REF_ZHUANG_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (Briefing B14; 255/255 resolvem PubMed; 240 ancoras mecanisticas)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "bloco N: intervencao nao-mecanismo (acupuntura/TCM/fitoterapico) — excluido do corpo",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "EXCLUIDO_RUIDO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "ZHUANG",
+   "Zhuang"
+  ]
+ },
+ {
+  "pmid_oficial": "31016194",
+  "titulo_artigo": "Effectiveness of Acupuncture Used for the Management of Postpartum Depression: A Systematic Review and Meta-Analysis",
+  "autores": [
+   "Li W",
+   "Yin P",
+   "Lao L",
+   "Xu S"
+  ],
+  "revista_ano": "BioMed research international (2019)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Múltiplas metas de acupuntura/TCM para depressão perimenopausa",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LI_2019"
+  ],
+  "id_referencia_interna": "REF_LI_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (Briefing B14; 255/255 resolvem PubMed; 240 ancoras mecanisticas)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "bloco N: intervencao nao-mecanismo (acupuntura/TCM/fitoterapico) — excluido do corpo",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "EXCLUIDO_RUIDO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "LI",
+   "Li"
+  ]
+ },
+ {
+  "pmid_oficial": "31259837",
+  "titulo_artigo": "Traditional Chinese acupuncture and postpartum depression: A systematic review and meta-analysis",
+  "autores": [
+   "Tong P",
+   "Dong LP",
+   "Yang Y",
+   "Shi YH",
+   "Sun T",
+   "Bo P"
+  ],
+  "revista_ano": "Journal of the Chinese Medical Association : JCMA (2019)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Múltiplas metas de acupuntura/TCM para depressão perimenopausa",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_TONG_2019"
+  ],
+  "id_referencia_interna": "REF_TONG_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (Briefing B14; 255/255 resolvem PubMed; 240 ancoras mecanisticas)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "bloco N: intervencao nao-mecanismo (acupuntura/TCM/fitoterapico) — excluido do corpo",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "EXCLUIDO_RUIDO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "TONG",
+   "Tong"
+  ]
+ },
+ {
+  "pmid_oficial": "29907576",
+  "titulo_artigo": "Effectiveness of acupuncture in postpartum depression: a systematic review and meta-analysis",
+  "autores": [
+   "Li S",
+   "Zhong W",
+   "Peng W",
+   "Jiang G"
+  ],
+  "revista_ano": "Acupuncture in medicine : journal of the British Medical Acupuncture Society (2018)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Múltiplas metas de acupuntura/TCM para depressão perimenopausa",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LI_2018"
+  ],
+  "id_referencia_interna": "REF_LI_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (Briefing B14; 255/255 resolvem PubMed; 240 ancoras mecanisticas)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "bloco N: intervencao nao-mecanismo (acupuntura/TCM/fitoterapico) — excluido do corpo",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "EXCLUIDO_RUIDO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "LI",
+   "Li"
+  ]
+ },
+ {
+  "pmid_oficial": "40859567",
+  "titulo_artigo": "Acupuncture for mood disorders in perimenopausal women: A meta-analysis of randomized controlled trials",
+  "autores": [
+   "Li Y",
+   "Xu Y",
+   "Yang L",
+   "Wu H",
+   "Ma X"
+  ],
+  "revista_ano": "Medicine (2025)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Múltiplas metas de acupuntura/TCM para depressão perimenopausa",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LI_2025"
+  ],
+  "id_referencia_interna": "REF_LI_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (Briefing B14; 255/255 resolvem PubMed; 240 ancoras mecanisticas)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "bloco N: intervencao nao-mecanismo (acupuntura/TCM/fitoterapico) — excluido do corpo",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "EXCLUIDO_RUIDO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "LI",
+   "Li"
+  ]
+ },
+ {
+  "pmid_oficial": "37704445",
+  "titulo_artigo": "Prophylactic Effects of Hemp Seed Oil on Perimenopausal Depression: A Role of HPA Axis",
+  "autores": [
+   "Ma J",
+   "Guo CY",
+   "Li HB",
+   "Wu SH",
+   "Li GL"
+  ],
+  "revista_ano": "Journal of oleo science (2023)",
+  "desenho_estudo": "[ML]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Óleo de semente de cânhamo na depressão perimenopausa (modelo)",
+  "extrapolacao_por_analogia": "SIM — dado animal/estrutural [EXT]; traducao humana cautelosa",
+  "ids_referencia_interna": [
+   "REF_MA_2023"
+  ],
+  "id_referencia_interna": "REF_MA_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (Briefing B14; 255/255 resolvem PubMed; 240 ancoras mecanisticas)",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "bloco N: intervencao nao-mecanismo (acupuntura/TCM/fitoterapico) — excluido do corpo",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "EXCLUIDO_RUIDO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "MA",
+   "Ma"
+  ]
+ },
+ {
+  "pmid_oficial": "41601368",
+  "titulo_artigo": "Shuyu capsule improves estrous cycle-dependent depression-like behavior in premenstrual dysphoric disorder (PMDD) mice by increasing GABAergic neuronal activation and downregulating GABA(A)R δ subunit expression in the dorsal periaqueductal gray (dPAG) region",
+  "autores": [
+   "Xu J",
+   "Liu K",
+   "Cui Y",
+   "Zhang H",
+   "Wang X",
+   "Hu M"
+  ],
+  "revista_ano": "Journal of Zhejiang University. Science. B (2025)",
+  "desenho_estudo": "[ML]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Cápsula \"Shuyu\" em modelo de TDPM em camundongos",
+  "extrapolacao_por_analogia": "SIM — dado animal/estrutural [EXT]; traducao humana cautelosa",
+  "ids_referencia_interna": [
+   "REF_XU_2025"
+  ],
+  "id_referencia_interna": "REF_XU_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (Briefing B14; 255/255 resolvem PubMed; 240 ancoras mecanisticas)",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "bloco N: intervencao nao-mecanismo (acupuntura/TCM/fitoterapico) — excluido do corpo",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "EXCLUIDO_RUIDO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "XU",
+   "Xu"
+  ]
+ },
+ {
+  "pmid_oficial": "32184157",
+  "titulo_artigo": "Involvement of GABAergic system in the antidepressant-like effects of chrysin (5,7-dihydroxyflavone) in ovariectomized rats in the forced swim test: comparison with neurosteroids",
+  "autores": [
+   "Cueto-Escobedo J",
+   "Andrade-Soto J",
+   "Lima-Maximino M",
+   "Maximino C",
+   "Hernández-López F",
+   "Rodríguez-Landa JF"
+  ],
+  "revista_ano": "Behavioural brain research (2020)",
+  "desenho_estudo": "[ML]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Crisina (flavonoide) em ovariectomia",
+  "extrapolacao_por_analogia": "SIM — dado animal/estrutural [EXT]; traducao humana cautelosa",
+  "ids_referencia_interna": [
+   "REF_CUETOESCOBEDO_2020"
+  ],
+  "id_referencia_interna": "REF_CUETOESCOBEDO_2020",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (Briefing B14; 255/255 resolvem PubMed; 240 ancoras mecanisticas)",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "bloco N: intervencao nao-mecanismo (acupuntura/TCM/fitoterapico) — excluido do corpo",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "EXCLUIDO_RUIDO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "CUETOESCOBEDO",
+   "Cuetoescobedo"
+  ]
+ },
+ {
+  "pmid_oficial": "36576445",
+  "titulo_artigo": "Effects of nutritional interventions on the severity of depressive and anxiety symptoms of women in the menopausal transition and menopause: a systematic review, meta-analysis, and meta-regression",
+  "autores": [
+   "Grigolon RB",
+   "Ceolin G",
+   "Deng Y",
+   "Bambokian A",
+   "Koning E",
+   "Fabe J"
+  ],
+  "revista_ano": "Menopause (New York, N.Y.) (2023)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Isoflavonas de soja / intervenções nutricionais / exercício mente-corpo na menopausa (metas)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GRIGOLON_2023"
+  ],
+  "id_referencia_interna": "REF_GRIGOLON_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (Briefing B14; 255/255 resolvem PubMed; 240 ancoras mecanisticas)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "bloco N: intervencao nao-mecanismo (acupuntura/TCM/fitoterapico) — excluido do corpo",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "EXCLUIDO_RUIDO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "GRIGOLON",
+   "Grigolon"
+  ]
+ },
+ {
+  "pmid_oficial": "38669625",
+  "titulo_artigo": "Effects of mind-body exercise on perimenopausal and postmenopausal women: a systematic review and meta-analysis",
+  "autores": [
+   "Xu H",
+   "Liu J",
+   "Li P",
+   "Liang Y"
+  ],
+  "revista_ano": "Menopause (New York, N.Y.) (2024)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Isoflavonas de soja / intervenções nutricionais / exercício mente-corpo na menopausa (metas)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_XU_2024"
+  ],
+  "id_referencia_interna": "REF_XU_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (Briefing B14; 255/255 resolvem PubMed; 240 ancoras mecanisticas)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "bloco N: intervencao nao-mecanismo (acupuntura/TCM/fitoterapico) — excluido do corpo",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "EXCLUIDO_RUIDO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "XU",
+   "Xu"
+  ]
+ },
+ {
+  "pmid_oficial": "39856668",
+  "titulo_artigo": "Effects of physical activity on depressive and anxiety symptoms of women in the menopausal transition and menopause: a comprehensive systematic review and meta-analysis of randomized controlled trials",
+  "autores": [
+   "Yue H",
+   "Yang Y",
+   "Xie F",
+   "Cui J",
+   "Li Y",
+   "Si M"
+  ],
+  "revista_ano": "The international journal of behavioral nutrition and physical activity (2025)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Isoflavonas de soja / intervenções nutricionais / exercício mente-corpo na menopausa (metas)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_YUE_2025"
+  ],
+  "id_referencia_interna": "REF_YUE_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (Briefing B14; 255/255 resolvem PubMed; 240 ancoras mecanisticas)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "bloco N: intervencao nao-mecanismo (acupuntura/TCM/fitoterapico) — excluido do corpo",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "EXCLUIDO_RUIDO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "YUE",
+   "Yue"
+  ]
+ },
+ {
+  "pmid_oficial": "40718787",
+  "titulo_artigo": "Effects of soy isoflavones on menopausal symptoms in perimenopausal women: a systematic review and meta-analysis",
+  "autores": [
+   "Luan H",
+   "Liu Q",
+   "Guo Y",
+   "Fan H",
+   "A S",
+   "Lin J"
+  ],
+  "revista_ano": "PeerJ (2025)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Isoflavonas de soja / intervenções nutricionais / exercício mente-corpo na menopausa (metas)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LUAN_2025"
+  ],
+  "id_referencia_interna": "REF_LUAN_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (Briefing B14; 255/255 resolvem PubMed; 240 ancoras mecanisticas)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "bloco N: intervencao nao-mecanismo (acupuntura/TCM/fitoterapico) — excluido do corpo",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "EXCLUIDO_RUIDO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "LUAN",
+   "Luan"
+  ]
+ }
+]

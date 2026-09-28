@@ -1,0 +1,76 @@
+{
+  "trilha": 32,
+  "data": "2026-09-15",
+  "tema": "Nota do comentador externo (ChatGPT) sobre o P-8 oficial — réplica empírica ponto a ponto antes de aceitar (política da casa, rodada 13+)",
+  "alvo": {
+    "script": "/home/user/Ferramentas de geração e auditoria/06_portao_P8_coerencia/scripts/validar_coerencia_camadas.py",
+    "sha256_script": "76e526cf2cb5ba13ce67e9bf4f095af396d8978485ca480c1e381c13f979d0ac",
+    "canonica": "B1 NEUROINFLAMAÇÃO V7 CANONICA.md",
+    "sha256_canonica": "6e2c29797e6322f16dcc5248cce552be613dd11f1de957c66aaa913e69225238",
+    "manifesto": "atuais/Evidencias/Bibliografia/_manifesto_biblioteca.json",
+    "sha256_manifesto": "79d1309a168922d0e8bf43736cd5b21c8b361bdf64e3b200eeeafd43806f3a9c"
+  },
+  "comandos": [
+    {
+      "id": "C1",
+      "cmd": "cd \"Ferramentas de geração e auditoria/06_portao_P8_coerencia/scripts\" && sha256sum validar_coerencia_camadas.py && grep -n \"V-06\\|V-07\\|V-08\" validar_coerencia_camadas.py",
+      "escopo": "script inteiro; chave: linhas com V-06/V-07/V-08",
+      "resultado": "docstring L20 V-06 'COERÊNCIA SEMÂNTICA ... (detector de deriva)'; L21 V-07; L22 V-08 'claim quantitativo sem referência ancorada'; corpos em L445-467 (V-06), L469-517 (V-07), L519-530 (V-08)"
+    },
+    {
+      "id": "C2",
+      "cmd": "sed -n '435,535p' validar_coerencia_camadas.py",
+      "escopo": "corpos das três regras",
+      "resultado": {
+        "v06": "L446-448 comentário interno: 'Heurística de deriva'; única emissão = rel.aviso (zero rel.erro); mensagem prudente 'possível correção não propagada'",
+        "v07": "related_entities L494-499: n_txt = len(split(',')) × n_man = len(lista) — teste por CARDINALIDADE; divergência => rel.erro (L498). Irmão clinical_domains L500-506: compara CONJUNTOS (a != b) com rel.erro",
+        "v08": "L520: for ln in prosa.split('\\n') — escopo MESMA LINHA; única emissão = rel.aviso; mensagem já confessa o escopo ('na mesma linha')"
+      }
+    },
+    {
+      "id": "C3",
+      "cmd": "grep -n 'FILOSOFIA:' validar_coerencia_camadas.py → L32: 'este portão NÃO julga verdade científica — isso é o G3 e a revisão humana'",
+      "escopo": "docstring",
+      "resultado": "a declaração normativa pedida pelo ponto 1 do comentador JÁ EXISTE na §FILOSOFIA; o desalinhamento residual é o TÍTULO da V-06 (L20) e o cabeçalho interno (L445)"
+    },
+    {
+      "id": "C4",
+      "cmd": "python3 (réplica V-07): mesmo regex do portão r'\\*\\*Mecanismos relacionados \\(IDs oficiais\\):\\*\\*\\s*(.+)' sobre a canônica V7; chave group(1).split(','); conjunto strip × set(manifesto.semantic_layer.related_entities). + contraexemplo: trocar mecanismo_B16_neurogenese por 'mecanismo_B16_FALSO' mantendo 15 itens",
+      "escopo": "canônica V7 × manifesto vigente",
+      "resultado": {
+        "dado_real": {"n_txt": 15, "n_man": 15, "conjuntos_identicos": true, "so_na_canonica": [], "so_no_manifesto": []},
+        "contraexemplo": {"teste_atual_por_contagem_dispara": false, "teste_por_conjunto_dispara": true},
+        "conclusao": "furo REAL na superfície BLOQUEANTE (o ramo é rel.erro): troca de identidade com cardinalidade preservada passa em silêncio; hoje há 0 divergência escondida no dado (reforço preventivo)"
+      }
+    },
+    {
+      "id": "C5",
+      "cmd": "python3: ler producao/p8_regime_camadas_harmonizado_oficial_2026-09-15.json; filtrar regra in (V-06,V-08) e nivel in (AVISO,ERRO)",
+      "escopo": "evidência oficial vigente",
+      "resultado": {
+        "v06": "18 AVISOS, todos com mensagem prudente; 0 ERRO",
+        "v08": "6 AVISOS, composição: 5 em prosa de governança/editorial (artefato_rotulo 21,5% · literalidade 100% · R11 n=8 · C3/AUD-051 27% · trilha 21 39,6%) + 1 substantiva (TSPO-PET 18%, linha rs6971). RESPOSTA_2 (2026-09-13) já caracterizara esse padrão ('números de prosa editorial do REGISTRO/rótulo')"
+      }
+    },
+    {
+      "id": "C6",
+      "cmd": "grep -n 'len(.*)!= *len(\\|!= n_\\|n_txt' validar_coerencia_camadas.py (auditoria dos irmãos)",
+      "escopo": "script inteiro",
+      "resultado": "related_entities (L494-499) é o ÚNICO teste por cardinalidade sobre identidade de todo o portão; referencias_total_modulo09 compara total declarado × total real (semântica correta: total não é lista)"
+    },
+    {
+      "id": "C7",
+      "cmd": "grep -rn 'V-06' em 06_portao_P8_coerencia/**/*.md e _documentos_serie/RESPOSTA_2 / RESPOSTA_5",
+      "escopo": "superfícies documentais",
+      "resultado": "nenhum md do portão; cartas históricas citam V-06/V-08 apenas como CONTAGEM de avisos — a casa nunca as apresentou como verificação semântica nem como critério de lastro (nada a confessar)"
+    }
+  ],
+  "vereditos": {
+    "ponto_1_V06": "CONFIRMADO com atenuação (o código e a mensagem já declaram heurística; o defeito é o TÍTULO L20/L445) → ADOTADO: retítulo + declaração normativa já parcialmente existente na §FILOSOFIA",
+    "ponto_2_V08": "CONFIRMADO na mecânica (mesma linha) com reforço factual F-C1 (5/6 ocorrências são prosa de governança) → ADOTADO: status de alerta de triagem declarado; lastro estrutural permanece V-01/V-04/V-05 (+qualidade V-02/V-03); SEM mudança de mecânica",
+    "ponto_3_V07": "CONFIRMADO e MAIS GRAVE que o enunciado (F-C2: ramo ERRO; contraexemplo executado; F-C3: irmão clinical_domains já é por conjunto) → ADOTADO: reforço para conjunto normalizado + diferença simétrica, alinhando ao padrão do próprio portão"
+  },
+  "impacto_esperado_pos_revisao": "B1 V7 inalterada: 2 ERRO / 299 AVISO / exit 1; V-14 verde (IDs não mudam); 0 divergência nova (conjuntos iguais hoje)",
+  "ciencia_tocada": false,
+  "saida": "carta nº 11 ao Auditor-Mestre: RESPOSTA_11_P8_PRECISOES_NOTA_COMENTADOR_2026-09-15.md"
+}

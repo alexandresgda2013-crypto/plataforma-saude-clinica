@@ -1,0 +1,270 @@
+{
+  "trilha": 41,
+  "data": "2026-09-17",
+  "rodada": 23,
+  "objeto": "comentário do comentador (ChatGPT) sobre a resposta do mestre (kit ancorado + diff + camada) — réplica",
+  "etapas": {
+    "V0_arquivamento": {
+      "arquivo": "/home/user/BIBLIOTECAS/_documentos_serie/COMENTADOR_kit_arquitetura_recebido_2026-09-17/COMENTARIO_COMENTADOR_KIT_ANCORAGEM_E_ARQUITETURA_2026-09-17.md",
+      "sha256": "79f01bbe19d95e9bbec2de8a3cbbe681d2642e5f279080ae6e0e345f4ca5ede5",
+      "bytes": 6329,
+      "linhas": 192,
+      "politica": "nota crua de comentador NUNCA circula — a casa carrega os pontos verificados em carta própria com crédito"
+    },
+    "V1_secao3_numeros_do_kit": {
+      "regex_escopo": {
+        "uso": "(?:^|[^_a-z])uso:\\s*([a-z_]+) @6ºBLOCO — camada VALOR",
+        "evidence_role": "(?:^|[^_a-z])evidence_role:\\s*([a-z_]+) @6ºBLOCO — camada VALOR",
+        "comparador": "(?:^|[^_a-z])comparador:\\s*([a-z_0-9]+) @6ºBLOCO — camada VALOR",
+        "moderadores": "(?:^|[^_a-z])moderadores: @6ºBLOCO — camada CHAVE (inclui \"[]\" vazio)",
+        "usado_em_biblioteca": "(?:^|[^_a-z])usado_em_biblioteca:\\s*([a-z]+) @6ºBLOCO — camada VALOR",
+        "claim_id_aprovados": "(?:^|\\s)-\\s*[Cc]laim_id:\\s*(B1\\.SM02\\.\\S+) @escopo claims_aprovados (caixa-insensível: SM02.015 usa \"Claim_id\")",
+        "pmids_kit": "pmid:\\s*\"?(\\d{7,9})\"? @escopo claims_aprovados (BLOCO) — aspas opcionais",
+        "pmids_v7": "campo pmid_oficial das 237 fichas (01_pmids/02_meta/03_ec)"
+      },
+      "granularidade_medida_quatro_camadas": {
+        "uso": {
+          "palavra": 25,
+          "chave_com_2pontos": 23,
+          "valor_valido": 22,
+          "espuria": "L182 — papel_geral: \"Regra de uso: IL-1β…\" (prosa com ':'; não é campo)"
+        },
+        "usado_em_biblioteca": {
+          "palavra": 23,
+          "chave_com_2pontos": 22,
+          "valor_valido": 22,
+          "espuria": "L28 — comentário do changelog interno ('adicionado campo usado_em_biblioteca…'; sem ':')"
+        },
+        "comparador": {
+          "palavra": 58,
+          "chave_com_2pontos": 48,
+          "valor_valido": 48,
+          "espurias": "prosa sem ':' ('comparadores impede…', 'comparador regional…', 'comparador — sem replicação…' etc.)"
+        },
+        "moderadores": {
+          "palavra": 22,
+          "chave_com_2pontos": 22
+        },
+        "evidence_role": {
+          "valor_valido": 22
+        },
+        "regra_da_casa": "a camada VALOR é a única porta de entrada para conclusões; camadas acima contam texto"
+      },
+      "citado_X_medido": {
+        "uso 23": "camada 'chave com :' reproduz 23 (22 campos + 1 prosa L182) — número citado CONFERE nessa camada; valor útil = 22 (12 clinico/6 contexto/4 gap)",
+        "usado_em_biblioteca 23": "camada 'palavra' reproduz 23 (22 valores + comentário L28) — CONFERE nessa camada; valor útil = 22, todos 'nao' (0 'sim' — o que importa p/ §6)",
+        "comparador 59/8": "8 valores CONFEM exatos (dist: 38/3/2/1/1/1/1/1). Total 59 NÃO reproduz no BLOCO isolado (palavra=58, chave/valor=48). Hipótese fechada: 58(BLOCO)+1('comparador: string' placeholder no SCHEMA-CLAIM)=59 → escopo do mestre provavelmente incluiu outro arquivo. Nota: a dist do mestre (38/3/2/…=48) não soma 59 — divergência de contagem pontual, sem efeito semântico",
+        "moderadores 22 · evidence_role 22/22 · gap 4 · 10 PMIDs na V7": "CONFEM na camada de valor, pleno"
+      },
+      "errata_fina_rodada22_2026-09-17": "a casa endossou na trilha 40 (M2b) os totais 23/23/59 por camada textual sem ainda nomear as linhas espúrias; esta trilha nomeia (L182/L28/prosa de comparador) e separa as camadas com comandos gravados. Nenhuma conclusão da rodada 22 muda. A trilha 40 permanece intocada (norma: corrigir com nota datada, nunca reescrever).",
+      "nota_metodo_V1b_2026-09-17": "a 1ª execução desta trilha repetiu a regex ANCORADA já confessada como subcaptura na trilha 40; corrigido NA MESMA rodada, antes de qualquer JSON — confissão datada: reincidência da mesma classe de erro; o repositório nunca recebeu o número errado.",
+      "notas_higiene_kit_para_decisao_da_camada": [
+        "pmid com aspas opcionais: 30/49 como pmid: \"N\" — parser sem aspas-opcional subcaptura (49↔19)",
+        "SM02.015 usa 'Claim_id' maiúsculo e indentação de 3 espaços/TAB (linhas 513/578/701/706) — parser sensível a caixa/recuo perde 1 de 22 claims",
+        "chaves também aparecem em prosa (L182) e comentários (L28) — toda contagem precisa de camada declarada",
+        "placeholder 'comparador: string' no SCHEMA-CLAIM contamina contagem textual se escopo > BLOCO"
+      ],
+      "uso": {
+        "total": 22,
+        "dist": {
+          "clinico": 12,
+          "contexto_mecanistico": 6,
+          "gap_pesquisa": 4
+        }
+      },
+      "evidence_role": {
+        "total": 22,
+        "dist": {
+          "human_clinical": 22
+        }
+      },
+      "comparador": {
+        "total": 48,
+        "valores_distintos": 8
+      },
+      "moderadores_ocorrencias": 22,
+      "usado_em_biblioteca": {
+        "total": 22,
+        "dist": {
+          "nao": 22
+        }
+      },
+      "claims_aprovados_distintos": 22,
+      "gap_pesquisa": {
+        "total": 4,
+        "ids": [
+          "B1.SM02.003",
+          "B1.SM02.006",
+          "B1.SM02.012",
+          "B1.SM02.012c"
+        ]
+      },
+      "pmids": {
+        "unicos_kit": 49,
+        "presentes_na_V7": 10,
+        "ausentes": 39,
+        "lista_presentes": [
+          "25629589",
+          "28939116",
+          "29241050",
+          "31195092",
+          "31258105",
+          "31326932",
+          "33200498",
+          "33515765",
+          "36226319",
+          "39089535"
+        ],
+        "nota_metodo_aspas": "19/49 casam sem aspas-opcional; 30 campos vêm como pmid: \"N\". Grep raso sem aspas subcaptura — confissão da casa registrada: a mesma classe de erro da trilha 40 (regex sem cobertura do formato real). A medida 49/10/39 confere com a trilha 33 (comando gravado)."
+      }
+    },
+    "V3_confronto_V2": {
+      "sha_v2_vigente": "09692e18a5a65958bde4545ed6ff804c21c5945411159988654c7664c8a4a4e2",
+      "diagrama_sec2": {
+        "evidencias_abaixo_da_biblioteca_no_desenho": true,
+        "primeira_mencao_EVIDENCIAS_linha": 58
+      },
+      "sec53_minidiagrama": {
+        "padrao": "EVIDÊNCIA BIBLIOGRÁFICA → BIBLIOTECA CANÔNICA → NARRATIVA TRANSVERSAL",
+        "linhas": {
+          "EVIDÊNCIA BIBLIOGRÁFICA": [
+            288
+          ],
+          "BIBLIOTECA CANÔNICA_no_53": [
+            169,
+            292,
+            949,
+            1064
+          ],
+          "NARRATIVA TRANSVERSAL_no_53": [
+            296
+          ]
+        }
+      },
+      "sec53_ordem_confere": true,
+      "posicao_paralela_so_pasta_atualizacao": {
+        "ocorrencias_de_posicao_paralela": [
+          118
+        ],
+        "contexto_e_pasta_de_atualizacao": true
+      },
+      "sec5_evidentes_nao_segunda_biblioteca": {
+        "linhas": [
+          184
+        ]
+      },
+      "nt_deveres_1_e_2": {
+        "consumir_biblioteca": [
+          387
+        ],
+        "utilizar_evidencias": [
+          388
+        ],
+        "leitura": "§5/§8 do comentador = redação vigente da própria V2 (NT consome Biblioteca e usa Evidências/Vínculos)"
+      },
+      "kit_na_V2": {
+        "kit": 0,
+        "claim kit": 0,
+        "SM-02": 0,
+        "SCHEMA-CLAIM": 0
+      },
+      "caminho_sec51_vs_disco": {
+        "v2_declara": [
+          "`/Evidencias/Bibliograficas`"
+        ],
+        "disco_real": "BIBLIOTECAS/B01_Neuroinflamacao/atuais/Evidencias/Bibliografia (aninhado na B1; nome 'Bibliografia', sem 'cas')",
+        "divergencia": "V2 desenha caminho de topo; implantação atual aninhou dentro da B1 — fato nomeado para a decisão da camada"
+      }
+    },
+    "V4_secao6_usado_em_biblioteca": {
+      "split_sim_nao": {
+        "nao": 22
+      },
+      "instrucao_schema_claim_linhas": [
+        "L87: usado_em_biblioteca: sim | nao",
+        "L90: # com claim_id_origem preenchido no Módulo 09 correspondente. Não",
+        "L91: # bloqueia nada no fluxo G1→G2→G3 — é rastreabilidade de consumo"
+      ],
+      "fichas_V7_claim_id_origem_SM02": 0,
+      "fichas_V7_claim_id_origem_MEC": 54,
+      "leitura": "o próprio kit define ub como 'rastreabilidade de consumo rio abaixo' que 'não bloqueia' o fluxo — o ponto §6 do comentador (ub=nao não é inconsistência) é SUSTENTADO pelo texto do kit; e é coerente com o dado: sim=0/23 casa com claim_id_origem SM02=0/237 (wiring nunca executado)"
+    },
+    "V5_secao7_gap_pesquisa": {
+      "lado_kit": {
+        "total": 4,
+        "ids": [
+          "B1.SM02.003",
+          "B1.SM02.006",
+          "B1.SM02.012",
+          "B1.SM02.012c"
+        ]
+      },
+      "lado_acervo": {
+        "total": 4,
+        "ids": [
+          "VINC_B1V2_0197",
+          "VINC_B1V2_0198",
+          "VINC_B1V2_0202",
+          "VINC_B1_0028"
+        ]
+      },
+      "leitura": "convergência dos dois lados (D-03, trilha 40) — o comentador endossa; compromisso incondicional: os 4 sobrevivem em qualquer decisão da camada"
+    },
+    "V2_secoes1e2_aceites": {
+      "ancoragem": "fechada na rodada 22 (9/9 pelo mestre) — o comentador apenas registra encerramento",
+      "diff": "casa já decidiu adotar as bytes do mestre quando o anexo chegar (rev.28); o pedido dele — 'arquivo efetivamente adotado identificado no registro final' — JÁ É critério da casa: 1 sha viva publicada em decisoes/CHANGELOG/STATUS + backup na cadeia .bak_*"
+    },
+    "decisao_da_camada_registro": {
+      "opcoes_em_mesa": {
+        "(a) mestre/opção-histórica": "kit SUPERSEDED_; 39 PMIDs à curadoria arquivada",
+        "(b) mestre/opção-V2": "kit como camada de origem pretendida na V2 (contrato do fio claim→biblioteca)",
+        "(c) comentador (NOVA, desta nota)": "kit = ferramenta de curadoria; produto deposita em Evidências/Bibliografia (eixo tratado como paralelo); SEM nova camada e SEM contrato claim→biblioteca como condição; rastreabilidade quando houver utilização"
+      },
+      "fatos_medidos_relevantes": [
+        "kit tem 0 ocorrências na V2 vigente (qualquer opção precisa resolver isso em texto)",
+        "fio projetado nas 2 pontas e nunca executado: ub sim 0/23 × claim_id_origem SM02 0/237 (instrução SCHEMA L87-92)",
+        "10/49 PMIDs do kit já estão no acervo por OUTRO caminho (pipeline; claim_id_origem B1.MEC.*)",
+        "V2 tem DOIS desenhos internos para Evidências: §2 (abaixo da Biblioteca) × §5.3 (a montante, EVIDÊNCIA→BIBLIOTECA) — dívida D-V2-DIAGRAMA-DUPLO nomeada",
+        "a topologia de (c) coincide parcialmente com o §5.3 vigente; diverge do §2",
+        "o texto do kit não menciona Evidências/Bibliografia (0 ocorrências nos .md do kit — medido nesta rodada): o destino proposto por (c) não está escrito no próprio kit",
+        "V2 declara Evidências 'não uma segunda Biblioteca nem fonte independente' × comentador 'eixo paralelo' — nuance de redação a ajustar se (c) for adotada"
+      ],
+      "dono_da_decisao": "OPERADOR",
+      "compromisso_incondicional": "D-03: 4 gap_pesquisa (kit) × 4 nao_estabelecida (acervo) sobrevivem em qualquer opção"
+    },
+    "V6_selos": {
+      "V7_canonica": "6e2c29797e6322f16dcc5248cce552be613dd11f1de957c66aaa913e69225238",
+      "manifesto": "79d1309a168922d0e8bf43736cd5b21c8b361bdf64e3b200eeeafd43806f3a9c",
+      "P8_oficial": "84fa918d09899d54995ae41d65b0787a7a52888ba6177ce77583483b1124fe8b",
+      "esperados": {
+        "V7": "6e2c29797e6322f16dcc5248cce552be613dd11f1de957c66aaa913e69225238",
+        "manifesto_prefixo": "79d1309a",
+        "P8": "84fa918d09899d54995ae41d65b0787a7a52888ba6177ce77583483b1124fe8b"
+      }
+    }
+  },
+  "vereditos": {
+    "V1_uso_valor_22_12_6_4_e_citado23_reproduz_na_camada_chave": true,
+    "V1_evidence_role_22_22": true,
+    "V1_comparador_valor_48_8valores_8_do_citado_conferem": true,
+    "V1_total_comparador_citado59_NAO_reproduz_no_BLOCO_isolado": true,
+    "V1_moderadores_22": true,
+    "V1_usado_em_biblioteca_valor_22_todos_nao_e_citado23_reproduz_na_camada_palavra": true,
+    "V1_gap_pesquisa_4": true,
+    "V1_10_PMIDs_na_V7": true,
+    "V1_claims_22_blocos_com_SM02015_Caixa_Maiuscula": true,
+    "V3_sec2_evidencias_abaixo": true,
+    "V3_sec53_ordem_confere": true,
+    "V3_paralela_so_pasta_atualizacao": true,
+    "V3_kit_zero_na_V2": true,
+    "V3_nt_deveres_batem": true,
+    "V4_nao_22_sim_0": true,
+    "V4_zero_fichas_SM02": true,
+    "V4_instrucao_citada": true,
+    "V5_4_x_4": true,
+    "V6_V7_intacta": true,
+    "V6_manifesto_intacto": true,
+    "V6_P8_intacto": true
+  },
+  "ciencia_tocada": 0
+}

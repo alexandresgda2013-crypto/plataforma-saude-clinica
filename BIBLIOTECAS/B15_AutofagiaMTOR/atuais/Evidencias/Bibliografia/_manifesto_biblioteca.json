@@ -1,0 +1,86 @@
+{
+ "artefato_rotulo": "CANONICA v2",
+ "mecanismo_id": "mecanismo_B15_autofagia_mtor",
+ "rodada": 4,
+ "data_corte": "2026-09-08",
+ "prompt": "v4.2",
+ "pmids_total": 173,
+ "pmids_briefing_validados": 140,
+ "pmids_ruido_excluido": 6,
+ "g1": {
+  "metodo": "eutils_automatico",
+  "resolvidos": 140,
+  "resolvidos_mecanismo": 134
+ },
+ "g2": {
+  "eligible": 68,
+  "redirecionado": 105
+ },
+ "g3": {
+  "vinculos_n2": 173
+ },
+ "versao": "2.5",
+ "pipeline_versao_geracao": "2.6",
+ "corte_literatura": "E-utilities/PubMed 2026-09-07 (rodada 0) + rodada [AT] 2026-09-09/10 (insumo externo GPM B15 auditado ref a ref)",
+ "historico_correcoes": [
+  {
+   "data": "2026-09-08",
+   "campo": "geracao B15",
+   "correcao": "140/140 PMIDs; 134 ancoras mecanisticas; 6 compostos/suplementos/contexto excluidos; bidirecionalidade regional; fluxo vs LC3; mTOR vs autofagia; paradoxo rapamicina; separacao temporal",
+   "acao_downstream": "P-6"
+  },
+  {
+   "data": "2026-09-08",
+   "campo": "pre-print",
+   "correcao": "espermidina clinica (39677641 bioRxiv) mantida como [G1]/emergente; achado epidemiologico NHANES (Qi 2024) separado",
+   "acao_downstream": "G3 cego"
+  },
+  {
+   "data": "2026-09-09",
+   "campo": "rodada [AT] GPM B15 — reconciliacao de insumo externo (P-7)",
+   "correcao": "145 itens novos (146 registros — Li 2023/vortioxetina vinha duplicada no insumo, colapsada) triados ref a ref: 39 ENTRA (31 ancoras GPM + 8 secao 6 nucleo) · 93 BAIXO (leva N: ketamina/BDNF-suporte B3, HPA-B2, mito-B8, reviews NLRP3-B1/contexto, metodologicos) · 13 EXC (CAMADA C: Alzheimer/Parkinson/autismo/fragil-X/dor somatica/demencia) · 2 NAO-IDX mantidos à parte · 11 da secao 6 ja vigentes",
+   "acao_downstream": "V2 BLOCO_14/15; triade 173/173/173; matriz producao/insumos/matriz_b15_decisao.json"
+  },
+  {
+   "data": "2026-09-09",
+   "campo": "identidade de referencias",
+   "correcao": "10 exposicoes: Pich&Millan=Cavalleri 2018 · Deyama print 2020 · Li-obesidade 2022 · Sun 2022 · Zhang-S6K1 2024 · Aguilar-Valles 2021 · Chandran 2013 · segundo Alcocer-Gomez 2017 (REF_ALCOCERGOMEZ_2017b) · Xu-2023a=T2DMxCUMS · aliases GPM<->V1 (Zhang-d=ZHANG_2023b; Li-2026a=LI_2026; Li-2025=LI_2025b)",
+   "acao_downstream": "alias documentados; [G1] mantidos (TFEB humano, fluxo periferico, mTORC2, dorxdepressao, envelhecimento/sexo humano, pos-parto humano, Pich&Millan real, Choe/Liu-BNIP3L)"
+  }
+ ],
+ "pendencias_fase": [
+  "P-6 avaliador cego (Fase 3 Fidelidade Canonica A/B/C/E) — AMPLIADA a toda a leva [AT] B15 2026-09-09 (39 refs novas; fecho rodada 16/16)"
+ ],
+ "alteracoes": [
+  {
+   "data": "2026-09-11",
+   "id": "F1-GERACAO-NOVA-SCHEMA-2026-09-11",
+   "tipo": "decisao_schema_sem_escrita",
+   "o_que": "NENHUM dado alterado nesta biblioteca. Lacuna de arquitetura (geração nova não carrega verification_status/g3_verificado_por/status_referencia/g2_elegibilidade em 173 registros) documentada como decisão F1 de DECISOES_HARMONIZACAO_SCHEMA_2026-09-11.md: preencher seria inventar dado de verificação — vai ao SCHEMA v2/perícia (recomendação: reprocessamento assistido de metadados de verificação).",
+   "rev": "rev.1 (2026-09-11): substitui a entrada HARMONIZA-CONTRATO-2026-09-11 gravada aqui por engano de escopo do laço automatizado — nesta biblioteca não houve reparo de dado nenhum; o engano foi detectado na conferência imediata e corrigido no mesmo ato."
+  },
+  {
+   "id": "DISTRIBUICAO-MOD09-MA-EC-2026-09-11",
+   "data": "2026-09-11",
+   "tipo": "metadado/reorganizacao_modulo_09 — CIENCIA NAO TOCADA (0 linhas de canônica)",
+   "lei_aplicada": "PROMPT v4.2 instrução final de geração: [MA]->02_meta_analises.json, [EC]->03_ensaios_clinicos.json; id único global (validar_auditoria.py) — distribuição especificada desde a geração, executada nesta data",
+   "mudancas": {
+    "fichas_removidas_de_01": 1,
+    "fichas_para_02_meta_analises": 0,
+    "fichas_para_03_ensaios_clinicos": 1,
+    "fichas_restantes_em_01": 172
+   },
+   "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+   "campos_de_dado_alterados": "NENHUM (id, pmid, título, achados intactos); somente casa do registro + campos de schema 09.2 (bloco_origem derivado de secao quando ausente, marcado; forca_evidencia_afirmacao replicado ou '' — vazio = dívida nomeada, nunca fabricado) + sinais_classificacao + migrado_em",
+   "dividas_nomeadas": [
+    "forca_evidencia_afirmacao vazio nas migradas sem valor prévio",
+    "conflitos tag×título [REVISAVEL]: 0",
+    "tag [EC] amplo sem sinal RCT — NÃO migrados (09.3 = RCT estrito), ratificação externa: 21"
+   ],
+   "trilha": "atuais/producao/09_distribuicao_MA_EC_B15_2026-09-11.json",
+   "changelog": "BIBLIOTECAS/CHANGELOG_GERAL.md 2026-09-11",
+   "consolidado_motor": "BIBLIOTECAS/MOTOR_CLINICO/ (evidencias_ma_serie.json, evidencias_ec_serie.json)",
+   "backups": "01/02/03*.bak_<AAAAMMDD_HHMMSS> na mesma pasta"
+  }
+ ]
+}

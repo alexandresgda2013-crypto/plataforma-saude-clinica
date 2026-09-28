@@ -1,0 +1,243 @@
+[
+ {
+  "pmid_oficial": "34082381",
+  "titulo_artigo": "Quercetin hinders microglial activation to alleviate neurotoxicity via the interplay between NLRP3 inflammasome and mitophagy",
+  "autores": [
+   "Han X",
+   "Xu T",
+   "Fang Q",
+   "Zhang H",
+   "Yue L",
+   "Hu G"
+  ],
+  "revista_ano": "Redox biology (2021)",
+  "desenho_estudo": "[ML]",
+  "secao_origem": "mecanismo_B15_autofagia_mtor",
+  "achado_central_molecular": "Quercetina modula microglia/NLRP3 e neurotoxicidade",
+  "extrapolacao_por_analogia": "SIM — dado animal/celular [EXT]; traducao humana cautelosa",
+  "ids_referencia_interna": [
+   "REF_HAN_2021"
+  ],
+  "id_referencia_interna": "REF_HAN_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g1_resumo": "eutils (Briefing B15; 140/140 resolvem PubMed; 2021)",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "composto/suplemento/TCM/contexto metabólico — não é biologia do mecanismo (excluído do corpo)",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "EXCLUIDO_RUIDO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "HAN",
+   "Han"
+  ]
+ },
+ {
+  "pmid_oficial": "40089077",
+  "titulo_artigo": "Astragalin alleviates lipopolysaccharide-induced depressive-like behavior in mice by preserving blood-brain barrier integrity and suppressing neuroinflammation",
+  "autores": [
+   "Cao MM",
+   "Guo Z",
+   "Wang J",
+   "Ma HY",
+   "Qin XY",
+   "Hu Y"
+  ],
+  "revista_ano": "Free radical biology & medicine (2025)",
+  "desenho_estudo": "[ML]",
+  "secao_origem": "mecanismo_B15_autofagia_mtor",
+  "achado_central_molecular": "Ácido gálico/astragalina preservam autofagia/mitofagia em modelo LPS",
+  "extrapolacao_por_analogia": "SIM — dado animal/celular [EXT]; traducao humana cautelosa",
+  "ids_referencia_interna": [
+   "REF_CAO_2025"
+  ],
+  "id_referencia_interna": "REF_CAO_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g1_resumo": "eutils (Briefing B15; 140/140 resolvem PubMed; 2025)",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "composto/suplemento/TCM/contexto metabólico — não é biologia do mecanismo (excluído do corpo)",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "EXCLUIDO_RUIDO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "CAO",
+   "Cao"
+  ]
+ },
+ {
+  "pmid_oficial": "35784760",
+  "titulo_artigo": "Xiaoyaosan Exerts Antidepressant-Like Effect by Regulating Autophagy Involves the Expression of GLUT4 in the Mice Hypothalamic Neurons",
+  "autores": [
+   "Yang FR",
+   "Zhu XX",
+   "Kong MW",
+   "Zou XJ",
+   "Ma QY",
+   "Li XJ"
+  ],
+  "revista_ano": "Frontiers in pharmacology (2022)",
+  "desenho_estudo": "[ML]",
+  "secao_origem": "mecanismo_B15_autofagia_mtor",
+  "achado_central_molecular": "Xiaoyaosan (formulação da medicina tradicional chinesa): efeito antidepressivo via autofagia/GLUT4 em neurônios hipotalâmicos",
+  "extrapolacao_por_analogia": "SIM — dado animal/celular [EXT]; traducao humana cautelosa",
+  "ids_referencia_interna": [
+   "REF_YANG_2022"
+  ],
+  "id_referencia_interna": "REF_YANG_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g1_resumo": "eutils (Briefing B15; 140/140 resolvem PubMed; 2022)",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "composto/suplemento/TCM/contexto metabólico — não é biologia do mecanismo (excluído do corpo)",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "EXCLUIDO_RUIDO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "YANG",
+   "Yang"
+  ]
+ },
+ {
+  "pmid_oficial": "31322238",
+  "titulo_artigo": "The antidepressant effects of apigenin are associated with the promotion of autophagy via the mTOR/AMPK/ULK1 pathway",
+  "autores": [
+   "Zhang X",
+   "Bu H",
+   "Jiang Y",
+   "Sun G",
+   "Jiang R",
+   "Huang X"
+  ],
+  "revista_ano": "Molecular medicine reports (2019)",
+  "desenho_estudo": "[ML]",
+  "secao_origem": "mecanismo_B15_autofagia_mtor",
+  "achado_central_molecular": "Apigenina (flavonoide) promove autofagia via mTOR/AMPK/ULK1 no estresse de restrição",
+  "extrapolacao_por_analogia": "SIM — dado animal/celular [EXT]; traducao humana cautelosa",
+  "ids_referencia_interna": [
+   "REF_ZHANG_2019"
+  ],
+  "id_referencia_interna": "REF_ZHANG_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g1_resumo": "eutils (Briefing B15; 140/140 resolvem PubMed; 2019)",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "composto/suplemento/TCM/contexto metabólico — não é biologia do mecanismo (excluído do corpo)",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "EXCLUIDO_RUIDO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "ZHANG",
+   "Zhang"
+  ]
+ },
+ {
+  "pmid_oficial": "29782858",
+  "titulo_artigo": "The antidepressant effects of ɑ-tocopherol are related to activation of autophagy via the AMPK/mTOR pathway",
+  "autores": [
+   "Huang X",
+   "Wu H",
+   "Jiang R",
+   "Sun G",
+   "Shen J",
+   "Ma M"
+  ],
+  "revista_ano": "European journal of pharmacology (2018)",
+  "desenho_estudo": "[ML]",
+  "secao_origem": "mecanismo_B15_autofagia_mtor",
+  "achado_central_molecular": "α-tocoferol (vitamina E) ativa autofagia via AMPK/mTOR no CUMS",
+  "extrapolacao_por_analogia": "SIM — dado animal/celular [EXT]; traducao humana cautelosa",
+  "ids_referencia_interna": [
+   "REF_HUANG_2018"
+  ],
+  "id_referencia_interna": "REF_HUANG_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g1_resumo": "eutils (Briefing B15; 140/140 resolvem PubMed; 2018)",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "composto/suplemento/TCM/contexto metabólico — não é biologia do mecanismo (excluído do corpo)",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "EXCLUIDO_RUIDO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "HUANG",
+   "Huang"
+  ]
+ },
+ {
+  "pmid_oficial": "34902357",
+  "titulo_artigo": "High fat diet-induced obesity leads to depressive and anxiety-like behaviors in mice via AMPK/mTOR-mediated autophagy",
+  "autores": [
+   "Li Y",
+   "Cheng Y",
+   "Zhou Y",
+   "Du H",
+   "Zhang C",
+   "Zhao Z"
+  ],
+  "revista_ano": "Experimental neurology (2022)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B15_autofagia_mtor",
+  "achado_central_molecular": "Obesidade por dieta high-fat leva a comportamento depressivo/ansioso inibindo AMPK e promovendo mTOR (contexto metabólico/comorbidade; confundidor IMC/dieta)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LI_2022"
+  ],
+  "id_referencia_interna": "REF_LI_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g1_resumo": "eutils (Briefing B15; 140/140 resolvem PubMed; 2022)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "composto/suplemento/TCM/contexto metabólico — não é biologia do mecanismo (excluído do corpo)",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "EXCLUIDO_RUIDO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "LI",
+   "Li"
+  ]
+ }
+]

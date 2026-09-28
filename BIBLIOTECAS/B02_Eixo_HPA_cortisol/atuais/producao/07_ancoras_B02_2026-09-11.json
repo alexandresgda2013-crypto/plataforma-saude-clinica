@@ -1,0 +1,64 @@
+{
+ "data": "2026-09-11",
+ "bib": "B02",
+ "backup": "/home/user/BIBLIOTECAS/B02_Eixo_HPA_cortisol/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json.bak_20260911_174324",
+ "aplicadas": [
+  {
+   "id": "VINC_B2_006",
+   "modo": "AT05"
+  },
+  {
+   "id": "VINC_B2_039",
+   "modo": "AT05"
+  },
+  {
+   "id": "VINC_B2_041",
+   "modo": "AT05"
+  },
+  {
+   "id": "VINC_B2_046",
+   "modo": "AT05"
+  },
+  {
+   "id": "VINC_B2_048",
+   "modo": "AT05"
+  },
+  {
+   "id": "VINC_B2_049",
+   "modo": "AT05"
+  },
+  {
+   "id": "VINC_B2_050",
+   "modo": "AT05"
+  },
+  {
+   "id": "VINC_B2_051",
+   "modo": "AT05"
+  },
+  {
+   "id": "VINC_B2_052",
+   "modo": "AT05"
+  },
+  {
+   "id": "VINC_B2_054",
+   "modo": "AT05"
+  },
+  {
+   "id": "VINC_B2_055",
+   "modo": "AT05"
+  },
+  {
+   "id": "VINC_B2_056",
+   "modo": "AT05"
+  },
+  {
+   "id": "VINC_B2_057",
+   "modo": "AT05"
+  },
+  {
+   "id": "VINC_B2_059",
+   "modo": "AT05"
+  }
+ ],
+ "restantes_fila": 48
+}

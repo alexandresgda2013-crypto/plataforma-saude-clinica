@@ -1,0 +1,20 @@
+{
+ "ciclo": "AT",
+ "data": "2026-09-09",
+ "biblioteca": "B12",
+ "versao_resultante": "V2",
+ "rodada_resultante": 4,
+ "universo_auditado": "36 âncoras (2 já vigentes) + 146 não citadas + NAO-IDX",
+ "decisao": {
+  "ENTRA": 74,
+  "BAIXO_aprox": 55,
+  "EXC": "TBI×6, Alzheimer/neurodegeneração×5, psicose, stroke, substância, NAO-IDX×7"
+ },
+ "refs_total": 111,
+ "palavras_v2": 8985,
+ "exposicoes": [
+  "12 chaves divergentes normalizadas com alias (See→Serra-Blanco; Mayer→McTeague; Teo→terHeegde; Oyarce→Espinoza; Deuter→DiBenedetto; Begni→BenZion; Ferracuti→DelCasale; Pereira→Cheiran; Daskalakis→Dell'Oste; Fullana→Gędek; Romeo→Sălcudean; Cheng→Colucci-D'Amato; Ashworth-dossiê→Badowska; Vogelzangs=duplicata Von Werne Baes)",
+  "PMID inválido de Logue já corrigido pelo insumo (documentado)",
+  "sinalizados V1 não localizados no insumo permanecem [G1]"
+ ]
+}

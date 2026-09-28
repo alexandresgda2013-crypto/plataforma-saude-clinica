@@ -1,0 +1,254 @@
+{
+ "data": "2026-09-11",
+ "condicao": "manutenção descoberta na R3 — âncoras não literais por espaçamento/pontuação",
+ "metodo": "rev2 (2026-09-11): regex de espaçamento flexível + seeds de palavras-longas + verificação ratio>=0.985 em janela do mesmo comprimento; rev1 (SequenceMatcher vs parágrafo inteiro) descartada na mesma sessão por penalizar ancoras curtas em parágrafos longos — registrado para transparência | rev3: agrupamento de janelas em sítios (±12) — rev2 rejeitava tudo por cluster-local (registrado p/ transparência)",
+ "reparadas": 124,
+ "ainda_fora": 35,
+ "dividas": [
+  {
+   "id": "VINC_B1_0002",
+   "ref": "REF_SERHAN_2014",
+   "melhor": 0.948,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0003",
+   "ref": "REF_SERHAN_2018",
+   "melhor": 0.948,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0005",
+   "ref": "REF_BARRIENTOS_2015",
+   "melhor": null,
+   "segundo": null,
+   "sitios": 0
+  },
+  {
+   "id": "VINC_B1_0006",
+   "ref": "REF_NORDEN_2015",
+   "melhor": 0.908,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0009",
+   "ref": "REF_HARDEN_2015",
+   "melhor": 0.981,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0016",
+   "ref": "REF_SWANSON_2019",
+   "melhor": 0.964,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0033",
+   "ref": "REF_CHEN_2021",
+   "melhor": 0.949,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0034",
+   "ref": "REF_SALMINEN_2022",
+   "melhor": 0.968,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0044",
+   "ref": "REF_WANG_2024",
+   "melhor": 0.984,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0046",
+   "ref": "REF_ZHENG_2014",
+   "melhor": 0.976,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0048",
+   "ref": "REF_BLOMQVIST_2018",
+   "melhor": 0.977,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0051",
+   "ref": "REF_YANG_2024",
+   "melhor": 0.976,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0054",
+   "ref": "REF_KLENGEL_2013",
+   "melhor": 0.98,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0066",
+   "ref": "REF_WILLIS_2020",
+   "melhor": 0.976,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0070",
+   "ref": "REF_HE_2024",
+   "melhor": 0.982,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0076",
+   "ref": "REF_HERMAN_2018",
+   "melhor": 0.98,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0077",
+   "ref": "REF_GE_2008",
+   "melhor": 0.978,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0078",
+   "ref": "REF_HAN_2005",
+   "melhor": 0.975,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0079",
+   "ref": "REF_JANG_2020",
+   "melhor": 0.982,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0090",
+   "ref": "REF_KRASEMANN_2017",
+   "melhor": 0.969,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0092",
+   "ref": "REF_CAMERON_2024",
+   "melhor": 0.984,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0096",
+   "ref": "REF_ARMULIK_2010",
+   "melhor": 0.982,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0097",
+   "ref": "REF_MENARD_2017",
+   "melhor": 0.985,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0099",
+   "ref": "REF_LIU_2020",
+   "melhor": 0.971,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0102",
+   "ref": "REF_LIU_2020",
+   "melhor": 0.93,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0105",
+   "ref": "REF_DA_2021",
+   "melhor": 0.946,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0106",
+   "ref": "REF_KIM_2025",
+   "melhor": 0.946,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0112",
+   "ref": "REF_OSIMO_2020",
+   "melhor": 0.974,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0123",
+   "ref": "REF_STEINER_2011",
+   "melhor": 0.983,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0125",
+   "ref": "REF_BELGE_2020",
+   "melhor": 0.973,
+   "segundo": 0.971,
+   "sitios": 2
+  },
+  {
+   "id": "VINC_B1_0141",
+   "ref": "REF_SWANSON_2019",
+   "melhor": 0.984,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0166",
+   "ref": "REF_STELLWAGEN_2006",
+   "melhor": 0.977,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1_0178",
+   "ref": "REF_WILEY_2024",
+   "melhor": 0.978,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1V2_0205",
+   "ref": "REF_XIA_2024",
+   "melhor": 0.984,
+   "segundo": null,
+   "sitios": 1
+  },
+  {
+   "id": "VINC_B1V2_0206",
+   "ref": "REF_BI_2016",
+   "melhor": 0.984,
+   "segundo": null,
+   "sitios": 1
+  }
+ ]
+}

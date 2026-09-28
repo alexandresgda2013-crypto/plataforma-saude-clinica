@@ -1,0 +1,396 @@
+{
+  "trilha": 55,
+  "rodada": 37,
+  "data": "2026-09-19",
+  "tema": "cadeia schemas L-05 — v1.1 NÃO é o vigente; entrega dos vigentes",
+  "total": 30,
+  "verdes": 30,
+  "checks": [
+    {
+      "id": "N2-v1.1-sha",
+      "titulo": "arquivado v1.1 sha+tamanho",
+      "camada": "bytes",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/L05_v1.1_recebido_2026-09-15/schema_vinculo_v1.1.json",
+      "comando": "sha256sum /home/user/BIBLIOTECAS/_documentos_serie/L05_v1.1_recebido_2026-09-15/schema_vinculo_v1.1.json",
+      "medido": [
+        true,
+        10708
+      ],
+      "esperado": [
+        true,
+        10708
+      ],
+      "ok": true,
+      "detalhe": "recebido 2026-09-15"
+    },
+    {
+      "id": "N2-v1.1-upload",
+      "titulo": "upload ≡ arquivado (v1.1)",
+      "camada": "bytes",
+      "escopo": "/home/user/uploads/schema_vinculo_v1.json",
+      "comando": "sha256sum \"/home/user/uploads/schema_vinculo_v1.json\"",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "renomeado pelo navegador; conteúdo idêntico"
+    },
+    {
+      "id": "N2-v1.1-id",
+      "titulo": "$id interno declara v1.1",
+      "camada": "documental{NFC}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/L05_v1.1_recebido_2026-09-15/schema_vinculo_v1.1.json",
+      "comando": "json.load()['$id']",
+      "medido": "L05/schema_vinculo_v1.1.json",
+      "esperado": "L05/schema_vinculo_v1.1.json",
+      "ok": true,
+      "detalhe": "a versão real vive DENTRO do JSON ($id), não no nome do arquivo"
+    },
+    {
+      "id": "N2-v1.2-sha",
+      "titulo": "arquivado v1.2 sha+tamanho",
+      "camada": "bytes",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/L05_v1.2_schemas_recebidos_2026-09-16/schema_vinculo_v1.2_recebido_2026-09-16.json",
+      "comando": "sha256sum /home/user/BIBLIOTECAS/_documentos_serie/L05_v1.2_schemas_recebidos_2026-09-16/schema_vinculo_v1.2_recebido_2026-09-16.json",
+      "medido": [
+        true,
+        11122
+      ],
+      "esperado": [
+        true,
+        11122
+      ],
+      "ok": true,
+      "detalhe": "recebido 2026-09-16"
+    },
+    {
+      "id": "N2-v1.2-id",
+      "titulo": "$id interno declara v1.2",
+      "camada": "documental{NFC}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/L05_v1.2_schemas_recebidos_2026-09-16/schema_vinculo_v1.2_recebido_2026-09-16.json",
+      "comando": "json.load()['$id']",
+      "medido": "L05/schema_vinculo_v1.2.json",
+      "esperado": "L05/schema_vinculo_v1.2.json",
+      "ok": true,
+      "detalhe": "a versão real vive DENTRO do JSON ($id), não no nome do arquivo"
+    },
+    {
+      "id": "N2-v1.3-sha",
+      "titulo": "arquivado v1.3 sha+tamanho",
+      "camada": "bytes",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/AUDITOR2_triagem_L05v13_recebido_2026-09-17/schema_vinculo_v1.3_recebido_2026-09-17.json",
+      "comando": "sha256sum /home/user/BIBLIOTECAS/_documentos_serie/AUDITOR2_triagem_L05v13_recebido_2026-09-17/schema_vinculo_v1.3_recebido_2026-09-17.json",
+      "medido": [
+        true,
+        12307
+      ],
+      "esperado": [
+        true,
+        12307
+      ],
+      "ok": true,
+      "detalhe": "recebido 2026-09-17"
+    },
+    {
+      "id": "N2-v1.3-upload",
+      "titulo": "upload ≡ arquivado (v1.3)",
+      "camada": "bytes",
+      "escopo": "/home/user/uploads/schema_vinculo_v1 (1).json",
+      "comando": "sha256sum \"/home/user/uploads/schema_vinculo_v1 (1).json\"",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "renomeado pelo navegador; conteúdo idêntico"
+    },
+    {
+      "id": "N2-v1.3-id",
+      "titulo": "$id interno declara v1.3",
+      "camada": "documental{NFC}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/AUDITOR2_triagem_L05v13_recebido_2026-09-17/schema_vinculo_v1.3_recebido_2026-09-17.json",
+      "comando": "json.load()['$id']",
+      "medido": "L05/schema_vinculo_v1.3.json",
+      "esperado": "L05/schema_vinculo_v1.3.json",
+      "ok": true,
+      "detalhe": "a versão real vive DENTRO do JSON ($id), não no nome do arquivo"
+    },
+    {
+      "id": "N2-v1.4-sha",
+      "titulo": "arquivado v1.4 sha+tamanho",
+      "camada": "bytes",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/AUDITOR2_L05_N1v13_N2v14_COMENTADOR_recebido_2026-09-18/schema_vinculo_v1.4_N2_d96ad15b.json",
+      "comando": "sha256sum /home/user/BIBLIOTECAS/_documentos_serie/AUDITOR2_L05_N1v13_N2v14_COMENTADOR_recebido_2026-09-18/schema_vinculo_v1.4_N2_d96ad15b.json",
+      "medido": [
+        true,
+        12840
+      ],
+      "esperado": [
+        true,
+        12840
+      ],
+      "ok": true,
+      "detalhe": "recebido 2026-09-18"
+    },
+    {
+      "id": "N2-v1.4-upload",
+      "titulo": "upload ≡ arquivado (v1.4)",
+      "camada": "bytes",
+      "escopo": "/home/user/uploads/schema_vinculo_v1 (2).json",
+      "comando": "sha256sum \"/home/user/uploads/schema_vinculo_v1 (2).json\"",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "renomeado pelo navegador; conteúdo idêntico"
+    },
+    {
+      "id": "N2-v1.4-id",
+      "titulo": "$id interno declara v1.4",
+      "camada": "documental{NFC}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/AUDITOR2_L05_N1v13_N2v14_COMENTADOR_recebido_2026-09-18/schema_vinculo_v1.4_N2_d96ad15b.json",
+      "comando": "json.load()['$id']",
+      "medido": "L05/schema_vinculo_v1.4.json",
+      "esperado": "L05/schema_vinculo_v1.4.json",
+      "ok": true,
+      "detalhe": "a versão real vive DENTRO do JSON ($id), não no nome do arquivo"
+    },
+    {
+      "id": "N1-v1.1-sha",
+      "titulo": "arquivado v1.1 sha+tamanho",
+      "camada": "bytes",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/L05_v1.1_recebido_2026-09-15/schema_referencia_v1.1.json",
+      "comando": "sha256sum /home/user/BIBLIOTECAS/_documentos_serie/L05_v1.1_recebido_2026-09-15/schema_referencia_v1.1.json",
+      "medido": [
+        true,
+        7796
+      ],
+      "esperado": [
+        true,
+        7796
+      ],
+      "ok": true,
+      "detalhe": "recebido 2026-09-15"
+    },
+    {
+      "id": "N1-v1.1-id",
+      "titulo": "$id interno declara v1.1",
+      "camada": "documental{NFC}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/L05_v1.1_recebido_2026-09-15/schema_referencia_v1.1.json",
+      "comando": "json.load()['$id']",
+      "medido": "L05/schema_referencia_v1.1.json",
+      "esperado": "L05/schema_referencia_v1.1.json",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "N1-v1.2-sha",
+      "titulo": "arquivado v1.2 sha+tamanho",
+      "camada": "bytes",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/L05_v1.2_schemas_recebidos_2026-09-16/schema_referencia_v1.2_recebido_2026-09-16.json",
+      "comando": "sha256sum /home/user/BIBLIOTECAS/_documentos_serie/L05_v1.2_schemas_recebidos_2026-09-16/schema_referencia_v1.2_recebido_2026-09-16.json",
+      "medido": [
+        true,
+        8674
+      ],
+      "esperado": [
+        true,
+        8674
+      ],
+      "ok": true,
+      "detalhe": "recebido 2026-09-16"
+    },
+    {
+      "id": "N1-v1.2-id",
+      "titulo": "$id interno declara v1.2",
+      "camada": "documental{NFC}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/L05_v1.2_schemas_recebidos_2026-09-16/schema_referencia_v1.2_recebido_2026-09-16.json",
+      "comando": "json.load()['$id']",
+      "medido": "L05/schema_referencia_v1.2.json",
+      "esperado": "L05/schema_referencia_v1.2.json",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "N1-v1.3-sha",
+      "titulo": "arquivado v1.3 sha+tamanho",
+      "camada": "bytes",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/AUDITOR2_triagem_L05v13_recebido_2026-09-17/schema_referencia_recebido_2026-09-17.json",
+      "comando": "sha256sum /home/user/BIBLIOTECAS/_documentos_serie/AUDITOR2_triagem_L05v13_recebido_2026-09-17/schema_referencia_recebido_2026-09-17.json",
+      "medido": [
+        true,
+        9582
+      ],
+      "esperado": [
+        true,
+        9582
+      ],
+      "ok": true,
+      "detalhe": "recebido 2026-09-17"
+    },
+    {
+      "id": "N1-v1.3-id",
+      "titulo": "$id interno declara v1.3",
+      "camada": "documental{NFC}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/AUDITOR2_triagem_L05v13_recebido_2026-09-17/schema_referencia_recebido_2026-09-17.json",
+      "comando": "json.load()['$id']",
+      "medido": "L05/schema_referencia_v1.3.json",
+      "esperado": "L05/schema_referencia_v1.3.json",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "N1-v1.3-par",
+      "titulo": "uploads referência (1) ≡ (2)",
+      "camada": "bytes",
+      "escopo": "uploads/",
+      "comando": "sha256sum \"schema_referencia_v1 (1).json\" \"schema_referencia_v1 (2).json\"",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "mesmo N1 v1.3 enviado duas vezes"
+    },
+    {
+      "id": "ROT-N2",
+      "titulo": "description do N2 v1.4 ainda diz PROPOSTA/não normativo",
+      "camada": "documental{NFC,CS}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/AUDITOR2_L05_N1v13_N2v14_COMENTADOR_recebido_2026-09-18/schema_vinculo_v1.4_N2_d96ad15b.json",
+      "comando": "startswith 'PROPOSTA v1.4'",
+      "medido": "PROPOSTA v1.4",
+      "esperado": "PROPOSTA v1.4",
+      "ok": true,
+      "detalhe": "rótulo interno nunca atualizado após o aceite do ciclo (r29)"
+    },
+    {
+      "id": "ROT-N1",
+      "titulo": "description do N1 v1.3 ainda diz PROPOSTA/não normativo",
+      "camada": "documental{NFC,CS}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/AUDITOR2_triagem_L05v13_recebido_2026-09-17/schema_referencia_recebido_2026-09-17.json",
+      "comando": "'PROPOSTA' in description",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "idem N1 v1.3"
+    },
+    {
+      "id": "V22-sha",
+      "titulo": "V2.2 oficial intacta",
+      "camada": "bytes",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md",
+      "comando": "sha256sum",
+      "medido": "df7f7cfdfc01cf77d658885f30dfefe29dcf380229ea56e6b3af02920df22ae1",
+      "esperado": "df7f7cfdfc01cf77d658885f30dfefe29dcf380229ea56e6b3af02920df22ae1",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "V22-cita-ref",
+      "titulo": "V2.2 §5.1 cita schema_referencia_v1.1.json",
+      "camada": "documental{NFC,CS}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md",
+      "comando": "txt.count('L05/schema_referencia_v1.1.json')",
+      "medido": 1,
+      "esperado": 1,
+      "ok": true,
+      "detalhe": "nome defasado no texto oficial → dívida D-V22-SCHEMA-NOMES"
+    },
+    {
+      "id": "V22-cita-vin",
+      "titulo": "V2.2 §5.2 cita schema_vinculo_v1.1.json",
+      "camada": "documental{NFC,CS}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md",
+      "comando": "txt.count('L05/schema_vinculo_v1.1.json')",
+      "medido": 1,
+      "esperado": 1,
+      "ok": true,
+      "detalhe": "idem §5.2"
+    },
+    {
+      "id": "V22-nao-cita",
+      "titulo": "V2.2 NÃO cita v1.3/v1.4",
+      "camada": "documental{NFC,CS}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md",
+      "comando": "count v1.3/v1.4 de schemas",
+      "medido": 0,
+      "esperado": 0,
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "LOG-aceite",
+      "titulo": "rev.36 registra aceite estrutural N1 v1.3 + N2 v1.4 (comentador, subscrito pela casa)",
+      "camada": "documental{NFC,casefold}",
+      "escopo": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Auditoria_B1/decisoes_B1.md",
+      "comando": "re.search(r'estruturalmente aprovados como base de fechamento', log, re.I)",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "rodada 29"
+    },
+    {
+      "id": "LOG-aprov-formal",
+      "titulo": "aprovação FORMAL do operador (com sha) sobre N1 v1.3/N2 v1.4 consta no log?",
+      "camada": "documental{NFC,casefold}",
+      "escopo": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Auditoria_B1/decisoes_B1.md",
+      "comando": "regex tripla (operador ∧ aprov|homolog ∧ schema/versão/sha) → classificar cada linha: afirmação × pendência",
+      "medido": {
+        "linhas_casadas": 2,
+        "afirmacoes_aprovacao": 0,
+        "pendencias_homologacao": 2
+      },
+      "esperado": {
+        "linhas_casadas": 2,
+        "afirmacoes_aprovacao": 0,
+        "pendencias_homologacao": 2
+      },
+      "ok": true,
+      "detalhe": "as 2 linhas casadas são PENDÊNCIAS (D4 'falta só o aceno-homologação do operador'; 'homologação do operador do desfecho já aplicado da D4' como pendência) → aprovação formal do operador NÃO consta para os schemas; no padrão da regra nova (rev.42) o selo final falta. Sugestão: ato formal simples do operador."
+    },
+    {
+      "id": "LOG-d4-pendente",
+      "titulo": "pendência de homologação D4 registrada",
+      "camada": "documental{NFC,casefold}",
+      "escopo": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Auditoria_B1/decisoes_B1.md",
+      "comando": "re.search(r'aceno-homologação do operador', log)",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "PKG-copias",
+      "titulo": "cópias byte-verbatim na pasta de entrega",
+      "camada": "bytes",
+      "escopo": "/home/user/ENTREGAS/2026-09-19_SCHEMAS_L05_VIGENTES",
+      "comando": "sha256sum pasta == sha256sum origem",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "3 arquivos"
+    },
+    {
+      "id": "PKG-zip",
+      "titulo": "zip re-extraído confere byte a byte",
+      "camada": "bytes",
+      "escopo": "/home/user/ENTREGAS/2026-09-19_SCHEMAS_L05_VIGENTES/SCHEMAS_L05_VIGENTES_2026-09-19.zip",
+      "comando": "unzip → sha256sum ×4 arquivos",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "zip = 25840 b"
+    },
+    {
+      "id": "CIENCIA-0",
+      "titulo": "V7/manifesto/vínculos intactos início→fim",
+      "camada": "bytes",
+      "escopo": "acervo B1",
+      "comando": "sha256sum ×3 no início e no fim",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "{\"B1 NEUROINFLAMA\\u00c7\\u00c3O V7 CANONICA.md\": \"6e2c29797e6322f16dcc5248cce552be613dd11f1de957c66aaa913e69225238\", \"_manifesto_biblioteca.json\": \"79d1309a16892"
+    }
+  ],
+  "confissoes_regua": [
+    "C55-1: 1ª execução — check LOG-aprov-formal esperava 0 linhas casadas; a regex tripla captou 2 linhas de PENDÊNCIA de homologação (não de aprovação). Régua ingênua: contagem ≠ classificação. Régua corrigida: toda linha casada passa a ser CLASSIFICADA (afirmação × pendência) antes do veredito. Veredito inalterado.",
+    "C55-2: 1ª execução — slice [:14] incluía o espaço após 'PROPOSTA v1.4'; corrigido para [:13].",
+    "C55-3: 1ª execução — caminhos do trio ciência desatualizados no script (V7 tem nome próprio; manifesto vive em Bibliografia/_manifesto_biblioteca.json). Corrigidos e medidos: 6e2c2979…/79d1309a…/490675e6…."
+  ],
+  "veredito_casa": "v1.1 = 1º elo (histórico). VIGENTES: N2 v1.4 d96ad15b… · N1 v1.3 b06660fd… (aceite técnico r29 subscrito; aprovação formal do operador c/ sha+data ainda não registrada no padrão da regra nova — sugerido ato formal). V2.2 oficial cita nomes v1.1 (D-V22-SCHEMA-NOMES confirmada no oficial df7f7cfd…)."
+}

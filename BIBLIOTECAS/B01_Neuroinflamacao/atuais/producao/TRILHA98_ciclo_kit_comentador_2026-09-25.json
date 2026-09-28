@@ -1,0 +1,77 @@
+{
+  "trilha": 98,
+  "data": "2026-09-25",
+  "objeto": "ciclo_kit_resposta_comentador_VK3",
+  "carta_sha256": "162423a5dd8e94de56973f9b0e79c6ff0ca67c1271a064114c71e428dc742508",
+  "minuta_rev2_sha256": "bd9360e0aa8f59ce3308659684e17cfbb820f9daab133d18d09a57ecdad87101",
+  "total": 10,
+  "ok": 10,
+  "resultado": [
+    {
+      "id": "T1",
+      "descricao": "carta arquivada",
+      "ok": true,
+      "detalhe": {
+        "sha256": "162423a5dd8e94de56973f9b0e79c6ff0ca67c1271a064114c71e428dc742508",
+        "bytes": 8447
+      }
+    },
+    {
+      "id": "T2",
+      "descricao": "veredito: seguir aos dois auditores",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T3",
+      "descricao": "P-K1/K2/K3/K5 aprovados",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T4",
+      "descricao": "V-K3 opção preferida na carta",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T5",
+      "descricao": "proíbe importar eixos mecanísticos (forca_causal etc.)",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T6",
+      "descricao": "não reabrir D1",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T7",
+      "descricao": "minuta rev.2 contém ajuste V-K3",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T8",
+      "descricao": "rev.2 preserva P-K1/P-K2/P-K3",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T9",
+      "descricao": "rev.2 declarada; não vigente",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T10",
+      "descricao": "v1.2 e contrato intactos",
+      "ok": true,
+      "detalhe": {
+        "v12": "56dc0e94cc2e2983384190706bc00977db38f82d4d2663c1c4eca533683b0e79",
+        "contrato": "841532dad13cd3fea1356c9e23e37067e78876685db52d3c1f2cd8b2a96e535c"
+      }
+    }
+  ]
+}

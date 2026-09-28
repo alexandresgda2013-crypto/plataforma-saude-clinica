@@ -1,0 +1,97 @@
+{
+  "trilha": 64,
+  "data": "2026-09-20",
+  "rodada": 47,
+  "titulo": "Replica empirica da DELIBERACAO do mestre (fluxo claim clinico) + carta 19 v2",
+  "veredito_da_replica": "VERIFICADO — todas as medidas do mestre replicaram EXATAS (41/22/21 · 8+14 · 12/12 campos · 49x237->39 · wiring zero 2 faces · quotes §6 exatas · NT-02/N-4/herança uso presentes · proposta: 35/item13/sem-Biblioteca/L215). 2 precisões de citação (§5.5 L421 · proposta L215): essência correta, literal registrado.",
+  "checks": [
+    {
+      "check": "C01 ciencia trio intacto (inicio)",
+      "ok": true,
+      "detalhe": {
+        "V7": "6e2c29797e63",
+        "manifesto": "79d1309a1689",
+        "vinculos": "490675e63122"
+      }
+    },
+    {
+      "check": "C02 deliberacao arquivada: serie == upload · sha · 8141 b · 115 linhas",
+      "ok": true,
+      "detalhe": "sha=fe5a18b3542305014147cf85d00676b4b92d483453c8d04fe331b8a5b5536543 bytes=8141 linhas=115"
+    },
+    {
+      "check": "C03 veredicto B + 1 estrutural + 3 de precisao + 4 pedidos no texto",
+      "ok": true,
+      "detalhe": "marcadores de veredito/estrutura/fecho presentes"
+    },
+    {
+      "check": "C04 arquivos-base dele == acervo (LISTA 3252a920... / BLOCO 0a630dba...)",
+      "ok": true,
+      "detalhe": "LISTA=3252a920c6e9 BLOCO=0a630dba84f2"
+    },
+    {
+      "check": "C05 replica secao 2: 41 alvos · 22 entradas · 21 sem (=|Lista-Bloco|, interseccao 20) · 8 aprovado + 14 com_ressalva",
+      "ok": true,
+      "detalhe": "alvos=41 entradas=22 interseccao=20 sem=21 no_bloco_fora_da_lista=['B1.SM02.012b', 'B1.SM02.012c'] status={'aprovado_com_ressalva': 14, 'aprovado': 8} (regua: ids '^\\s*-?\\s*id:' LISTA x claim_id da secao claims_aprovados; 21=|41-20| por conjunto, nao 41-22)"
+    },
+    {
+      "check": "C06 replica secao 3: 12/12 campos iguais ao declarado (uso 23 = 22 ancoradas + 1 interna)",
+      "ok": true,
+      "detalhe": "medido={'pmid': 158, 'autor': 37, 'ano': 41, 'nivel': 39, 'especie': 25, 'comparador': 48, 'achado': 52, 'papel': 36, 'evidence_role': 22, 'uso': 23, 'moderadores': 22, 'statement': 22} uso_ancoradas=22 (regua: substring 'chave:' no BLOCO inteiro — 68? nao: na secao isolada pmid=66; a regua que casa as 12 medidas e' o arquivo inteiro)"
+    },
+    {
+      "check": "C07 replica secao 1: 49 pmids unicos x 237 acervo -> 39 ausentes · wiring zero",
+      "ok": true,
+      "detalhe": "unicos=49 acervo_com_pmid=237 ausentes=39 usado_em_biblioteca_nao=22 fichas_SM02_no_acervo=0 (regua regex trilha33 r'pmid:\\s*\"?(\\d{7,9})\"?' na secao; claim_id_origem B1.SM02.*)"
+    },
+    {
+      "check": "C08 quotes V2.2: §6 L446-447 exato · §5.5 L421 parafrase de sentido correto (literal registrado)",
+      "ok": true,
+      "detalhe": "sec6_exato=True · s55_literal_V22=True · s55_forma_dele_ausente_na_V22=True"
+    },
+    {
+      "check": "C09 minuta L-NT 294119b9...: NT-02 (claim_origem inexistente na Biblioteca) · N-4 (uso=clinico exige origem humana) · 'uso herdado do kit'",
+      "ok": true,
+      "detalhe": "sha=294119b962bd · 3 marcadores presentes"
+    },
+    {
+      "check": "C10 proposta 4ede1c81...: 'os 35' >= 2 · item 13 ressalva · §3/§10 sem 'Biblioteca Correspondente' · L215 papel do mestre",
+      "ok": true,
+      "detalhe": "sha=4ede1c816500 ocorrencias_os35=4 · 'Correspondente' no §3=0 · §10=0 (paráfrase do mestre na forma verbal; literal L215 registrado)"
+    },
+    {
+      "check": "C11 carta 19 v2: sha exato + 9 marcadores + 0 'APROVADO: V2.3'",
+      "ok": true,
+      "detalhe": "sha=74e1e1cbe415870dbe3b865c9fe6435ea864dd5db1e0e11bf0d6dabbf5d7e6f2 bytes=7623 marcadores=[True, True, True, True, True, True, True, True, True, True]"
+    },
+    {
+      "check": "C12 pacote entrega: zip re-extraido == serie · DIGITAIS com 2 shas · v1 superseded arquivada (c2f799d6...)",
+      "ok": true,
+      "detalhe": "zip=a932f32bb878e35c0c9c81ba38062012d867f6fcdd4532f3ca5d688c8655d864 v1=c2f799d621b5"
+    },
+    {
+      "check": "C13 glob DELIBERACAO == par upload+serie, byte-identicos (a divida de bytes morreu)",
+      "ok": true,
+      "detalhe": [
+        "BIBLIOTECAS/_documentos_serie/MESTRE_deliberacao_fluxo_claim_recebida_2026-09-20/DELIBERACAO_FLUXO_CLAIM_CLINICO_2026-09-18.md",
+        "uploads/DELIBERACAO_FLUXO_CLAIM_CLINICO_2026-09-18.md"
+      ]
+    },
+    {
+      "check": "C14 ciencia trio intacto (fim)",
+      "ok": true,
+      "detalhe": {
+        "V7": "6e2c29797e63",
+        "manifesto": "79d1309a1689",
+        "vinculos": "490675e63122"
+      }
+    }
+  ],
+  "ok": 14,
+  "total": 14,
+  "confissoes": [
+    "C64-1: C05 FALHOU na 1a corrida (13/14) por aritmetica cega da casa: testou 41-22==21 (falso, da 19). A regua certa e' conjunto: |Lista - Bloco| = 41 - 20 = 21, porque o Bloco guarda dois subclaims nao-listados (.012b/.012c) — com regua correta, a tabela do mestre fica INTEIRA EXATA. Mesma licenca da C55-1: contagem != classificacao.",
+    "1a. sondagem exploratoria (fora do script) mediu pmid=66/achado=51 na SECAO claims_aprovados divergindo de 158/52; a regua que casa as 12 medidas do mestre e' substring 'chave:' no BLOCO INTEIRO — registrada em C06.",
+    "Transito: a casa pediu os bytes na carta 19 v1 e eles ja estavam disponibilizados pela frente desde 18/09 — o elo que faltou foi o repasse do lado da casa/operador. v1 SUPERSEDED arquivada (c2f799d6...)."
+  ]
+}

@@ -1,0 +1,135 @@
+{
+ "artefato_rotulo": "CANONICA v2",
+ "mecanismo_id": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+ "rodada": 4,
+ "data_corte": "2026-09-09",
+ "prompt": "v4.2",
+ "pmids_total": 116,
+ "g1": {
+  "metodo": "eutils_automatico (esearch+esummary+efetch)",
+  "resolvidos": 116,
+  "nao_resolvidos": 0,
+  "descartados_auditoria": [
+   "22814126 (PMID trocado em vídeo externo: Yang 2012 Fitoterapia, não Cryan)",
+   "rodada [AT] GPM 2026-09-09: 4 NÃO-INDEXADOS mantidos fora (Thomas 2021 bioRxiv; Towriss 2026 preprint; Xia 2025; Zhang 2026) — sem fonte forjada"
+  ]
+ },
+ "g2": {
+  "eligible": 71,
+  "redirecionado_mecanistico": 38,
+  "redirecionado_clinico": 7,
+  "evid_role": {
+   "preclinical_mechanistic": 35,
+   "human_experimental": 7,
+   "human_clinical": 35,
+   "review": 39
+  }
+ },
+ "g3": {
+  "vinculos_n2": 71,
+  "CONFIRMADO": 66,
+  "PARCIALMENTE_CONFIRMADO": 5,
+  "abstracts_lidos_alto_risco": 43,
+  "achado_nao_obvio": "FMT-RCT 2026 (42309058) tem endpoint primário de remissão NULO; apenas HAMD-17 (secundário) positivo — claim rebaixado a emergente/PARCIAL"
+ },
+ "vinculos_n2": 71,
+ "palavras_canonica": 9356,
+ "blocos": "BLOCO_00..BLOCO_12 (13) + tabela/controvérsias/elementos/marcadores",
+ "pendencias_fase": [
+  "P-6: 2a verificacao independente (avaliador cego) dos claims de alto risco (FMT 42309058/41921871, metas 2026, Bravo vagotomia) — AMPLIADA na rodada [AT] 2026-09-09: incluir as levas [AT] de TODAS as bibliotecas B1–B16 ao fim da rodada"
+ ],
+ "fronteiras_editoriais": {
+  "B7_fica_com": "eixo/ecologia: microbiota, barreira, LPS, AGCC, vago, SNE, 5-HT entérica, FMT, psicobióticos",
+  "B1": "química inflamatória/quinurenina-microglia (B7 aporta o gatilho LPS/disbiose)",
+  "B2": "HPA/cortisol (B7 cobre programação microbiana do HPA)",
+  "B3": "BDNF sináptico/plasticidade (B7 tem BDNF periférico como leitura)",
+  "B4": "sinalização monoaminérgica sináptica (B7 tem 5-HT entérica)",
+  "B5": "GABA/glutamato sináptico (B7 tem GABA microbiano/ecologia)",
+  "B6": "química redox; B9 = bioenergética mitocondrial",
+  "B8": "fibra/dieta/Mediterrâneo (B7 = o eixo processador; B8 = o insumo)",
+  "B10": "ritmo circadiano; B13 = endocanabinoides"
+ },
+ "versao": "2.6",
+ "pipeline_versao_geracao": "2.6",
+ "corte_literatura": "busca ativa com ferramenta externa E-utilities/PubMed; corte 2026-09-09",
+ "historico_correcoes": [
+  {
+   "data": "2026-09",
+   "campo": "estrutura_auditoria",
+   "erro_anterior": "biblioteca sem ledger formal do 05_framework_auditoria e Módulo 09 sem schema oficial (id_referencia_interna/doi/claim_id_origem)",
+   "correcao": "adicionados Módulo 09 (5 arquivos), Auditoria_Bx/ledger + decisoes; validador 0 erro",
+   "acao_downstream": "nenhuma — aditivo"
+  },
+  {
+   "data": "2026-09",
+   "campo": "contrato_P_R",
+   "erro_anterior": "faltavam bloco natureza_sistema (P12), semantic_layer (R06), sinalizador [EXTRAPOLAÇÃO POR ANALOGIA] formato completo (R04) e referência cruzada a B16 (P16)",
+   "correcao": "blocos inseridos na canônica; doses residuais removidas (P20)",
+   "acao_downstream": "pré-cânonica sincronizada"
+  },
+  {
+   "data": "2026-09-09",
+   "campo": "rodada_AT_GPM_B7",
+   "erro_anterior": "V1 (85 refs) sem a leva auditada do insumo externo GPM B7 (anexo 196 refs + Carabotti 2015)",
+   "correcao": "auditoria ref a ref (G1 eutils 192/196; 0 falsos positivos; 4 não-indexados fora; 8 sobreposições); matriz de decisão 31 ENTRA/131 BAIXO/26 EXC; fusão V2 com 116 refs, regras B7-CAUSAL-01/02/03 fixadas em CONTROVÉRSIAS; tríade sincronizada (pmids 116, vínculos 71, ledger 78)",
+   "acao_downstream": "portões oficiais revalidados (gate P-5, framework auditoria, checklist); P-4 adendo V2"
+  }
+ ],
+ "vocabulario_estendido_declarado": {
+  "data_declaracao": "2026-09-10",
+  "status": "SUPERADO 2026-09-11 — implementado via D5 (AT-12): tier oficial + desenho_evidencia; ver HARMONIZA-CONTRATO-2026-09-11 em alteracoes[]",
+  "o_que": "valores de forca_causal fora do enum oficial de 4 tiers, em uso nesta biblioteca",
+  "valores": {
+   "tier_3_mecanistico_animal": 31,
+   "tier_2_intervencao_humana": 3,
+   "tier_2_meta_analise": 8,
+   "tier_2_revisao_sistematica": 2,
+   "tier_4_observacional_transversal": 12,
+   "tier_3_mecanistico_invitro": 1
+  },
+  "por_que_declarado": "regra E1 (enum por artefato declarado) + inventário negativo E4: os dados existem e têm semântica coerente (desenho da evidência), mas não constam do enum oficial; perícia 4ª rodada (AT-11) expôs a família fantasma *_intervencao na B1 e o gate",
+  "decisao_pendente": "SCHEMA v2: formalizar 'desenho da evidência' como qualificador ortogonal a forca_causal (proposta do agente na RESPOSTA_PERICIA_RODADA4_2026-09-10.md) OU remapear ao enum oficial com revisão por conteúdo — NÃO remapear em silêncio",
+  "harmonizacao_enfileirada_em": "AT-03 (B7) / AT-04 (B8) + AT-09 (SCHEMA v2)",
+  "superado_em": "2026-09-11"
+ },
+ "alteracoes": [
+  {
+   "data": "2026-09-10",
+   "id": "DECL-E1-ENUM-ESTENDIDO",
+   "tipo": "declaracao_vocabulario",
+   "o_que": "declarado vocabulario_estendido_declarado com 57 registros em 6 valores fora do enum oficial",
+   "por_que": "perícia 4ª rodada ampliada pelo agente: família *_intervencao não era 3 registros na B1 — são 106 nestas duas bibliotecas; E1 exigia declaração",
+   "evidencia": "censo 2026-09-10 em RESPOSTA_PERICIA_RODADA4_2026-09-10.md §3"
+  },
+  {
+   "data": "2026-09-11",
+   "id": "HARMONIZA-CONTRATO-2026-09-11",
+   "tipo": "harmonizacao_vocabulario_contrato",
+   "o_que": "AT-03: 31 assinaturas G3 separadas de método (D8); 11 natureza por conteúdo (D3); 17 grau (D4); AT-12: 57 forca_causal decompostas tier+desenho_evidencia (D5) — a declaração E1 de 2026-09-10 fica SUPERADA (implementada); 2 âncoras lit_PROSA; 5 → fila humana.",
+   "base": "DECISOES_HARMONIZACAO_SCHEMA_2026-09-11.md (D1–D9); trilhas producao/06_harmoniza_* e 07_ancoras_*; backups .bak datados; portões verdes"
+  },
+  {
+   "id": "DISTRIBUICAO-MOD09-MA-EC-2026-09-11",
+   "data": "2026-09-11",
+   "tipo": "metadado/reorganizacao_modulo_09 — CIENCIA NAO TOCADA (0 linhas de canônica)",
+   "lei_aplicada": "PROMPT v4.2 instrução final de geração: [MA]->02_meta_analises.json, [EC]->03_ensaios_clinicos.json; id único global (validar_auditoria.py) — distribuição especificada desde a geração, executada nesta data",
+   "mudancas": {
+    "fichas_removidas_de_01": 24,
+    "fichas_para_02_meta_analises": 21,
+    "fichas_para_03_ensaios_clinicos": 3,
+    "fichas_restantes_em_01": 92
+   },
+   "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+   "campos_de_dado_alterados": "NENHUM (id, pmid, título, achados intactos); somente casa do registro + campos de schema 09.2 (bloco_origem derivado de secao quando ausente, marcado; forca_evidencia_afirmacao replicado ou '' — vazio = dívida nomeada, nunca fabricado) + sinais_classificacao + migrado_em",
+   "dividas_nomeadas": [
+    "forca_evidencia_afirmacao vazio nas migradas sem valor prévio",
+    "conflitos tag×título [REVISAVEL]: 0",
+    "tag [EC] amplo sem sinal RCT — NÃO migrados (09.3 = RCT estrito), ratificação externa: 17"
+   ],
+   "trilha": "atuais/producao/09_distribuicao_MA_EC_B07_2026-09-11.json",
+   "changelog": "BIBLIOTECAS/CHANGELOG_GERAL.md 2026-09-11",
+   "consolidado_motor": "BIBLIOTECAS/MOTOR_CLINICO/ (evidencias_ma_serie.json, evidencias_ec_serie.json)",
+   "backups": "01/02/03*.bak_<AAAAMMDD_HHMMSS> na mesma pasta"
+  }
+ ]
+}

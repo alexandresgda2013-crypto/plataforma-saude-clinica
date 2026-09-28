@@ -1,0 +1,1373 @@
+{
+ "totais": {
+  "ENTRA": 49,
+  "BAIXO": 30,
+  "EXC": 12
+ },
+ "itens": [
+  {
+   "n": 1,
+   "pmid": "17066209",
+   "autor": "Bourre JM",
+   "ano": "2006",
+   "fonte": "The journal of nutrition, health & aging",
+   "titulo": "Effects of nutrients (in food) on the structure and function of the nervous system: update on dietary requirements for brain. Part 1: micronutrients",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "ENTRA RESGATE — Bourre 2006 (J Nutr Health Aging, Part 1: micronutrientes): âncora bioquímica das claims .001–.002 (\"ESTABLISHED BIOCHEMICAL\"); briefing §5 dava NAO-IDX, o artigo existe e foi validado",
+   "doi": null
+  },
+  {
+   "n": 2,
+   "pmid": "22796576",
+   "autor": "Eyles DW",
+   "ano": "2013",
+   "fonte": "Frontiers in neuroendocrinology",
+   "titulo": "Vitamin D, effects on brain development, adult brain function and the links between low levels of vitamin D and neuropsychiatric disease",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Eyles 2013 — vit D neurobiologia/desenvolvimento (master)",
+   "doi": "10.1016/j.yfrne.2012.07.001"
+  },
+  {
+   "n": 3,
+   "pmid": "25365455",
+   "autor": "Du J",
+   "ano": "2016",
+   "fonte": "Critical reviews in food science and nutrition",
+   "titulo": "The Role of Nutrients in Protecting Mitochondrial Function and Neurotransmitter Signaling: Implications for the Treatment of Depression, PTSD, and Suicidal Behaviors",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Du 2016 — nutrientes protegem mitocôndria/neurotransmissão; depressão/TEPT/suicídio (master)",
+   "doi": "10.1080/10408398.2013.876960"
+  },
+  {
+   "n": 4,
+   "pmid": "26439893",
+   "autor": "Fuglestad AJ",
+   "ano": "2016",
+   "fonte": "Acta paediatrica (Oslo, Norway : 1992)",
+   "titulo": "Micronutrient status and neurodevelopment in internationally adopted children",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — status micronutriente×neurodesenvolvimento em crianças adotadas internacionalmente; amostra específica, sem fenótipo ansiedade/depressão",
+   "doi": "10.1111/apa.13234"
+  },
+  {
+   "n": 5,
+   "pmid": "26828517",
+   "autor": "Kennedy DO",
+   "ano": "2016",
+   "fonte": "Nutrients",
+   "titulo": "B Vitamins and the Brain: Mechanisms, Dose and Efficacy--A Review",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Kennedy 2016 — complexo B e cérebro: mecanismos (master-teto)",
+   "doi": "10.3390/nu8020068"
+  },
+  {
+   "n": 6,
+   "pmid": "28202095",
+   "autor": "Firth J",
+   "ano": "2017",
+   "fonte": "Psychological medicine",
+   "titulo": "The effects of vitamin and mineral supplementation on symptoms of schizophrenia: a systematic review and meta-analysis",
+   "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Firth 2017 supl — SR/MA suplementação vit/mineral em esquizofrenia (master; janela-sinal adjuvante)",
+   "doi": "10.1017/s0033291717000022"
+  },
+  {
+   "n": 7,
+   "pmid": "29773950",
+   "autor": "Altamimi M",
+   "ano": "2018",
+   "fonte": "Nutrition and metabolic insights",
+   "titulo": "Could Autism Be Associated With Nutritional Status in the Palestinian population? The Outcomes of the Palestinian Micronutrient Survey",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC — autismo (status nutricional Palestina)",
+   "doi": "10.1177/1178638818773078"
+  },
+  {
+   "n": 8,
+   "pmid": "29206972",
+   "autor": "Firth J",
+   "ano": "2018",
+   "fonte": "Schizophrenia bulletin",
+   "titulo": "Nutritional Deficiencies and Clinical Correlates in First-Episode Psychosis: A Systematic Review and Meta-analysis",
+   "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Firth 2017 FEP — MA deficiências no 1º episódio psicótico = STATUS (master)",
+   "doi": "10.1093/schbul/sbx162"
+  },
+  {
+   "n": 9,
+   "pmid": "30341413",
+   "autor": "Barks A",
+   "ano": "2019",
+   "fonte": "Pediatric research",
+   "titulo": "Iron as a model nutrient for understanding the nutritional origins of neuropsychiatric disease",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Barks 2019 — ferro como modelo de origem nutricional neuropsiquiátrica (master)",
+   "doi": "10.1038/s41390-018-0204-8"
+  },
+  {
+   "n": 10,
+   "pmid": "30959831",
+   "autor": "Hanachi M",
+   "ano": "2019",
+   "fonte": "Nutrients",
+   "titulo": "Micronutrients Deficiencies in 374 Severely Malnourished Anorexia Nervosa Inpatients",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC — anorexia nervosa (malha de escopo permanente)",
+   "doi": "10.3390/nu11040792"
+  },
+  {
+   "n": 11,
+   "pmid": "30953290",
+   "autor": "Mattei D",
+   "ano": "2019",
+   "fonte": "Current nutrition reports",
+   "titulo": "Micronutrients and Brain Development",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "ENTRA RESGATE — Mattei 2019 (Curr Nutr Rep: Micronutrients and Brain Development): âncora das claims .001–.003; briefing a \"fundiu\" com McWilliams por engano — são distintas",
+   "doi": "10.1007/s13668-019-0268-z"
+  },
+  {
+   "n": 12,
+   "pmid": "30692033",
+   "autor": "Moore K",
+   "ano": "2019",
+   "fonte": "Journal of the American Medical Directors Association",
+   "titulo": "B-vitamins in Relation to Depression in Older Adults Over 60 Years of Age: The Trinity Ulster Department of Agriculture (TUDA) Cohort Study",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Moore 2019 coorte TUDA: vitaminas B (incl. status bioquímico)×depressão em idosos >60 (humano ASSOCIATIVO)",
+   "doi": "10.1016/j.jamda.2018.11.031"
+  },
+  {
+   "n": 13,
+   "pmid": "30201141",
+   "autor": "Wesselink E",
+   "ano": "2019",
+   "fonte": "Clinical nutrition (Edinburgh, Scotland)",
+   "titulo": "Feeding mitochondria: Potential role of nutritional components to improve critical illness convalescence",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Wesselink 2019 — cofatores nutricionais mitocondriais (master; ponte B9)",
+   "doi": "10.1016/j.clnu.2018.08.032"
+  },
+  {
+   "n": 14,
+   "pmid": "30570388",
+   "autor": "Guo M",
+   "ano": "2020",
+   "fonte": "Nutritional neuroscience",
+   "titulo": "Vitamin and mineral status of children with autism spectrum disorder in Hainan Province of China: associations with symptoms",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC — autismo (Hainan)",
+   "doi": "10.1080/1028415x.2018.1558762"
+  },
+  {
+   "n": 15,
+   "pmid": "32552785",
+   "autor": "Plevin D",
+   "ano": "2020",
+   "fonte": "BMC psychiatry",
+   "titulo": "The neuropsychiatric effects of vitamin C deficiency: a systematic review",
+   "pubtype": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Plevin 2020 — SR vit C neuropsiquiatria: associação SEM prova intervencional (master; bloco NEG)",
+   "doi": "10.1186/s12888-020-02730-w"
+  },
+  {
+   "n": 16,
+   "pmid": "31963141",
+   "autor": "Tardy AL",
+   "ano": "2020",
+   "fonte": "Nutrients",
+   "titulo": "Vitamins and Minerals for Energy, Fatigue and Cognition: A Narrative Review of the Biochemical and Clinical Evidence",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão narrativa vitaminas/minerais×energia-fadiga-cognição; fenótipo não psiquiátrico-cangaço; coberta por masters de panorama",
+   "doi": "10.3390/nu12010228"
+  },
+  {
+   "n": 17,
+   "pmid": "34836113",
+   "autor": "Barks AK",
+   "ano": "2021",
+   "fonte": "Nutrients",
+   "titulo": "Early-Life Iron Deficiency Anemia Programs the Hippocampal Epigenomic Landscape",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Barks 2021 — deficiência de ferro precoce programa epigenoma do hipocampo (master; animal)",
+   "doi": "10.3390/nu13113857"
+  },
+  {
+   "n": 18,
+   "pmid": "34684531",
+   "autor": "Cortés-Albornoz MC",
+   "ano": "2021",
+   "fonte": "Nutrients",
+   "titulo": "Maternal Nutrition and Neurodevelopment: A Scoping Review",
+   "pubtype": [
+    "Journal Article",
+    "Scoping Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO (resgate §8) — scoping nutrição materna×neurodesenvolvimento; tangencial ao fenótipo psiquiátrico; âncora de desenvolvimento coberta por Mattei 2019 (resgatada)",
+   "doi": "10.3390/nu13103530"
+  },
+  {
+   "n": 19,
+   "pmid": "33500553",
+   "autor": "Cui X",
+   "ano": "2021",
+   "fonte": "Molecular psychiatry",
+   "titulo": "Vitamin D and schizophrenia: 20 years on",
+   "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Cui 2021 — vit D e esquizofrenia 20 anos (master)",
+   "doi": "10.1038/s41380-021-01025-0"
+  },
+  {
+   "n": 20,
+   "pmid": "33763446",
+   "autor": "Muscaritoli M",
+   "ano": "2021",
+   "fonte": "Frontiers in nutrition",
+   "titulo": "The Impact of Nutrients on Mental Health and Well-Being: Insights From the Literature",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Muscaritoli 2021 — nutrientes e saúde mental (master)",
+   "doi": "10.3389/fnut.2021.656290"
+  },
+  {
+   "n": 21,
+   "pmid": "33428888",
+   "autor": "Rudzki L",
+   "ano": "2021",
+   "fonte": "Progress in neuro-psychopharmacology & biological psychiatry",
+   "titulo": "Gut microbiota-derived vitamins - underrated powers of a multipotent ally in psychiatric health and disease",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Rudzki 2021 — vitaminas derivadas de microbiota (master; ponte B7)",
+   "doi": "10.1016/j.pnpbp.2020.110240"
+  },
+  {
+   "n": 22,
+   "pmid": "35223256",
+   "autor": "Badar A",
+   "ano": "2022",
+   "fonte": "Cureus",
+   "titulo": "Neuropsychiatric Disorders Associated With Vitamin B12 Deficiency: An Autobiographical Case Report",
+   "pubtype": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Badar 2022 — B12 neuropsiquiatria, relato de caso = possibilidade clínica (master)",
+   "doi": "10.7759/cureus.21476"
+  },
+  {
+   "n": 23,
+   "pmid": "35294077",
+   "autor": "Barone M",
+   "ano": "2022",
+   "fonte": "BioFactors (Oxford, England)",
+   "titulo": "Gut microbiome-micronutrient interaction: The key to controlling the bioavailability of minerals and vitamins?",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Barone 2022 — microbioma×biodisponibilidade de minerais/vitaminas (master; ponte B7)",
+   "doi": "10.1002/biof.1835"
+  },
+  {
+   "n": 24,
+   "pmid": "34695501",
+   "autor": "Ferriani LO",
+   "ano": "2022",
+   "fonte": "Journal of affective disorders",
+   "titulo": "Associations of depression and intake of antioxidants and vitamin B complex: Results of the Brazilian Longitudinal Study of Adult Health (ELSA-Brasil)",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Ferriani 2022 ELSA-Brasil (N≈14,7 mil): ingestão de Se/Zn/B6/B12 inversamente associada a depressão (humano ASSOCIATIVO; ingestão≠status — B8-Causal-05)",
+   "doi": "10.1016/j.jad.2021.10.027"
+  },
+  {
+   "n": 25,
+   "pmid": "33838984",
+   "autor": "Freedman R",
+   "ano": "2022",
+   "fonte": "Schizophrenia research",
+   "titulo": "Choline, folic acid, Vitamin D, and fetal brain development in the psychosis spectrum",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — colina/folato/vit D×desenvolvimento fetal no espectro da psicose; tangencial (psicose-desenvolvimento)",
+   "doi": "10.1016/j.schres.2021.03.008"
+  },
+  {
+   "n": 26,
+   "pmid": "36483929",
+   "autor": "Heland S",
+   "ano": "2022",
+   "fonte": "Frontiers in nutrition",
+   "titulo": "The role of nutrients in human neurodevelopment and their potential to prevent neurodevelopmental adversity",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão nutrientes×neurodesenvolvimento e prevenção de adversidade; redundante com Barks/mattei desenvolvimento",
+   "doi": "10.3389/fnut.2022.992120"
+  },
+  {
+   "n": 27,
+   "pmid": "34802410",
+   "autor": "Kumar RR",
+   "ano": "2022",
+   "fonte": "CNS & neurological disorders drug targets",
+   "titulo": "Role of Vitamins in Neurodegenerative Diseases: A Review",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC — neurodegenerativos (Kumar 2022)",
+   "doi": "10.2174/1871527320666211119122150"
+  },
+  {
+   "n": 28,
+   "pmid": "36173945",
+   "autor": "McWilliams S",
+   "ano": "2022",
+   "fonte": "PloS one",
+   "titulo": "Iron deficiency and common neurodevelopmental disorders-A scoping review",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Scoping Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — McWilliams 2022 — scoping ferro×neurodesenvolvimento (master)",
+   "doi": "10.1371/journal.pone.0273819"
+  },
+  {
+   "n": 29,
+   "pmid": "35105560",
+   "autor": "Mohammadzadeh P",
+   "ano": "2022",
+   "fonte": "BMJ open",
+   "titulo": "Effects of prenatal nutrient supplementation and early life exposures on neurodevelopment at age 10: a randomised controlled trial - the COPSYCH study protocol",
+   "pubtype": [
+    "Clinical Trial Protocol",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — protocolo de RCT (COPSYCH) sem resultados",
+   "doi": "10.1136/bmjopen-2020-047706"
+  },
+  {
+   "n": 30,
+   "pmid": "36497797",
+   "autor": "Mustafa Khalid N",
+   "ano": "2022",
+   "fonte": "International journal of environmental research and public health",
+   "titulo": "Current Evidence on the Association of Micronutrient Malnutrition with Mild Cognitive Impairment, Frailty, and Cognitive Frailty among Older Adults: A Scoping Review",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Scoping Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — scoping micronutrientes×comprometimento cognitivo leve/fragilidade em idosos; tangencial ao miolo",
+   "doi": "10.3390/ijerph192315722"
+  },
+  {
+   "n": 31,
+   "pmid": "35451454",
+   "autor": "Navale SS",
+   "ano": "2022",
+   "fonte": "The American journal of clinical nutrition",
+   "titulo": "Vitamin D and brain health: an observational and Mendelian randomization study",
+   "pubtype": [
+    "Journal Article",
+    "Observational Study",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC — demência/AVC/neuroimagem (Navale 2022, UK Biobank): conteúdo real na malha excluída; resgatada do apagamento do briefing, mas fica fora com honestidade",
+   "doi": "10.1093/ajcn/nqac107"
+  },
+  {
+   "n": 32,
+   "pmid": "36049434",
+   "autor": "Rihal V",
+   "ano": "2022",
+   "fonte": "Psychiatry research",
+   "titulo": "Therapeutic and mechanistic intervention of vitamin D in neuropsychiatric disorders",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão vit D intervencionista neuropsiquiátrica; redundante com masters Moroianu/Skoczek/Cui/Rajasekar",
+   "doi": "10.1016/j.psychres.2022.114782"
+  },
+  {
+   "n": 33,
+   "pmid": "35337631",
+   "autor": "Sahu P",
+   "ano": "2022",
+   "fonte": "Vitamins and hormones",
+   "titulo": "Neuropsychiatric manifestations in vitamin B12 deficiency",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Sahu 2022 — manifestações neuropsiquiátricas da deficiência de B12 (master)",
+   "doi": "10.1016/bs.vh.2022.01.001"
+  },
+  {
+   "n": 34,
+   "pmid": "33904124",
+   "autor": "Shayganfard M",
+   "ano": "2022",
+   "fonte": "Biological trace element research",
+   "titulo": "Are Essential Trace Elements Effective in Modulation of Mental Disorders? Update and Perspectives",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Shayganfard 2022 — oligoelementos essenciais × transtornos mentais (master)",
+   "doi": "10.1007/s12011-021-02733-y"
+  },
+  {
+   "n": 35,
+   "pmid": "36613505",
+   "autor": "Upadhyaya S",
+   "ano": "2022",
+   "fonte": "International journal of molecular sciences",
+   "titulo": "Maternal Vitamin D Levels during Pregnancy and Offspring Psychiatric Outcomes: A Systematic Review",
+   "pubtype": [
+    "Systematic Review",
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — SR vit D materna×desfechos psiquiátricos da prole; tangencial (desenvolvimento), masters cobrem vit D",
+   "doi": "10.3390/ijms24010063"
+  },
+  {
+   "n": 36,
+   "pmid": "37754219",
+   "autor": "Ceolin C",
+   "ano": "2023",
+   "fonte": "The journal of nutrition, health & aging",
+   "titulo": "Micronutrient Deficiency and Its Potential Role in Delirium Onset in Older Adults: A Systematic Review",
+   "pubtype": [
+    "Systematic Review",
+    "Journal Article"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC — delirium (condição aguda neurocognitiva hospitalar, fora do miolo)",
+   "doi": "10.1007/s12603-023-1976-z"
+  },
+  {
+   "n": 37,
+   "pmid": "38138159",
+   "autor": "Ciobanu AM",
+   "ano": "2023",
+   "fonte": "Medicina (Kaunas, Lithuania)",
+   "titulo": "Severe Vitamin D Deficiency-A Possible Cause of Resistance to Treatment in Psychiatric Pathology",
+   "pubtype": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão opinativa vit D severa×resistência a tratamento; hipótese sem primário",
+   "doi": "10.3390/medicina59122056"
+  },
+  {
+   "n": 38,
+   "pmid": "37147046",
+   "autor": "Fiani D",
+   "ano": "2023",
+   "fonte": "Child and adolescent psychiatric clinics of North America",
+   "titulo": "Iron Deficiency in Attention-Deficit Hyperactivity Disorder, Autism Spectrum Disorder, Internalizing and Externalizing Disorders, and Movement Disorders",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Fiani 2023 — ferro em ADHD/TEA/internalizantes/movimento (master; associativo)",
+   "doi": "10.1016/j.chc.2022.08.015"
+  },
+  {
+   "n": 39,
+   "pmid": "36836486",
+   "autor": "Indika NR",
+   "ano": "2023",
+   "fonte": "Journal of personalized medicine",
+   "titulo": "The Rationale for Vitamin, Mineral, and Cofactor Treatment in the Precision Medical Care of Autism Spectrum Disorder",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC — autismo (medicina de precisão)",
+   "doi": "10.3390/jpm13020252"
+  },
+  {
+   "n": 40,
+   "pmid": "37836413",
+   "autor": "Lahoda Brodska H",
+   "ano": "2023",
+   "fonte": "Nutrients",
+   "titulo": "The Role of Micronutrients in Neurological Disorders",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Lahoda Brodska 2023 — micronutrientes em transtornos neurológicos (master)",
+   "doi": "10.3390/nu15194129"
+  },
+  {
+   "n": 41,
+   "pmid": "36411563",
+   "autor": "Nogueira-de-Almeida CA",
+   "ano": "2023",
+   "fonte": "Central nervous system agents in medicinal chemistry",
+   "titulo": "Neuronutrients and Central Nervous System: A Systematic Review",
+   "pubtype": [
+    "Systematic Review",
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Nogueira-de-Almeida 2023 — SR neuronutrientes×SNC (master)",
+   "doi": "10.2174/1871524923666221121123937"
+  },
+  {
+   "n": 42,
+   "pmid": "37350315",
+   "autor": "Saidi L",
+   "ano": "2023",
+   "fonte": "Food & function",
+   "titulo": "Maternal vitamin D deficiency and brain functions: a never-ending story",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — narrativa vit D materna×função cerebral; redundante",
+   "doi": "10.1039/d3fo00166k"
+  },
+  {
+   "n": 43,
+   "pmid": "36730336",
+   "autor": "Singh S",
+   "ano": "2023",
+   "fonte": "PloS one",
+   "titulo": "Micronutrients and cognitive functions among urban school-going children and adolescents: A cross-sectional multicentric study from India",
+   "pubtype": [
+    "Multicenter Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — transversal micronutrientes×cognição em escolares (Índia); fenótipo cognição, não psiquiátrico",
+   "doi": "10.1371/journal.pone.0281247"
+  },
+  {
+   "n": 44,
+   "pmid": "38022259",
+   "autor": "Wassif GA",
+   "ano": "2023",
+   "fonte": "Cureus",
+   "titulo": "The Impact of Vitamin D on Neuropsychiatric Disorders",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão genérica vit D×transtornos neuropsiquiátricos; redundante",
+   "doi": "10.7759/cureus.47716"
+  },
+  {
+   "n": 45,
+   "pmid": "37424961",
+   "autor": "Ye X",
+   "ano": "2023",
+   "fonte": "Neuropsychiatric disease and treatment",
+   "titulo": "The Synaptic and Circuit Functions of Vitamin D in Neurodevelopment Disorders",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão vit D sinapse/circuito em transtornos do neurodesenvolvimento; tangencial",
+   "doi": "10.2147/ndt.s407731"
+  },
+  {
+   "n": 46,
+   "pmid": "38630748",
+   "autor": "Al Jassem O",
+   "ano": "2024",
+   "fonte": "PloS one",
+   "titulo": "Vitamin B12 deficiency and neuropsychiatric symptoms in Lebanon: A cross-sectional study of vegans, vegetarians, and omnivores",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Al Jassem 2024 — B12×sintomas neuropsiquiátricos (Líbano, veg/omn) (master)",
+   "doi": "10.1371/journal.pone.0297976"
+  },
+  {
+   "n": 47,
+   "pmid": "38462972",
+   "autor": "Berger MM",
+   "ano": "2024",
+   "fonte": "Current opinion in clinical nutrition and metabolic care",
+   "titulo": "Micronutrient deficiency and supplements in schoolchildren and teenagers",
+   "pubtype": [
+    "Review",
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Berger 2024 — deficiências e suplementos em escolares (master; método/regra 11)",
+   "doi": "10.1097/mco.0000000000001027"
+  },
+  {
+   "n": 48,
+   "pmid": "39076846",
+   "autor": "Chen H",
+   "ano": "2024",
+   "fonte": "Frontiers in neurology",
+   "titulo": "Causal links between serum micronutrients and epilepsy: a Mendelian randomization analysis",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC — epilepsia (MR)",
+   "doi": "10.3389/fneur.2024.1419289"
+  },
+  {
+   "n": 49,
+   "pmid": "39133336",
+   "autor": "Gupta R",
+   "ano": "2024",
+   "fonte": "Plant cell reports",
+   "titulo": "Micronutrient deficiency-induced oxidative stress in plants",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC — botânica (oxstress em plantas)",
+   "doi": "10.1007/s00299-024-03297-6"
+  },
+  {
+   "n": 50,
+   "pmid": "38999789",
+   "autor": "Hui J",
+   "ano": "2024",
+   "fonte": "Nutrients",
+   "titulo": "Micronutrient-Associated Single Nucleotide Polymorphism and Mental Health: A Mendelian Randomization Study",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Hui 2024 — SNP-micronutriente×saúde mental, MR (master)",
+   "doi": "10.3390/nu16132042"
+  },
+  {
+   "n": 51,
+   "pmid": "38203763",
+   "autor": "Mathew AR",
+   "ano": "2024",
+   "fonte": "International journal of molecular sciences",
+   "titulo": "Vitamin B12 Deficiency and the Nervous System: Beyond Metabolic Decompensation-Comparing Biological Models and Gaining New Insights into Molecular and Cellular Mechanisms",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Mathew 2024 — B12 e sistema nervoso além da decompensação metabólica (master-teto B12)",
+   "doi": "10.3390/ijms25010590"
+  },
+  {
+   "n": 52,
+   "pmid": "38512555",
+   "autor": "Panzeri C",
+   "ano": "2024",
+   "fonte": "Current obesity reports",
+   "titulo": "Potential Micronutrient Deficiencies in the First 1000 Days of Life: The Pediatrician on the Side of the Weakest",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão primeiros 1000 dias; pediatria geral, fora do fenótipo",
+   "doi": "10.1007/s13679-024-00554-3"
+  },
+  {
+   "n": 53,
+   "pmid": "38605872",
+   "autor": "Rajasekar R",
+   "ano": "2024",
+   "fonte": "Frontiers in public health",
+   "titulo": "Dietary intake with supplementation of vitamin D, vitamin B6, and magnesium on depressive symptoms: a public health perspective",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Rajasekar 2024 — dieta+suplementação vit D/B6/Mg e sintomas depressivos, saúde pública (master)",
+   "doi": "10.3389/fpubh.2024.1369666"
+  },
+  {
+   "n": 54,
+   "pmid": "39596221",
+   "autor": "Scuto M",
+   "ano": "2024",
+   "fonte": "International journal of molecular sciences",
+   "titulo": "Functional Food Nutrients, Redox Resilience Signaling and Neurosteroids for Brain Health",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Scuto 2024 — nutrientes funcionais, sinalização redox e neuroesteroides (master; pontes B6/B14)",
+   "doi": "10.3390/ijms252212155"
+  },
+  {
+   "n": 55,
+   "pmid": "38560530",
+   "autor": "Walsh DJ",
+   "ano": "2024",
+   "fonte": "PNAS nexus",
+   "titulo": "Vitamin B12 status and folic acid supplementation influence mitochondrial heteroplasmy levels in mice",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — estudo metodológico de enriquecimento mtDNA/heteroplasmia (contexto B12/folato); sem fenótipo neural",
+   "doi": "10.1093/pnasnexus/pgae116"
+  },
+  {
+   "n": 56,
+   "pmid": "40100400",
+   "autor": "Anmella G",
+   "ano": "2025",
+   "fonte": "European child & adolescent psychiatry",
+   "titulo": "Association of low vitamin B(12) levels with depressive and schizophrenia spectrum disorders in child and adolescent psychiatric inpatients",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Anmella 2025 — B12 baixa×depressão/espectro em internados infantojuvenis (master; associativo)",
+   "doi": "10.1007/s00787-025-02662-4"
+  },
+  {
+   "n": 57,
+   "pmid": "40653891",
+   "autor": "Astorino MF",
+   "ano": "2025",
+   "fonte": "American journal of medical genetics. Part B, Neuropsychiatric genetics : the official publication of the International Society of Psychiatric Genetics",
+   "titulo": "The Multifaceted Etiology of Mental Disorders With a Focus on Trace Elements, a Review of Recent Literature",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Astorino 2025 — etiologia multifacetada com foco em oligoelementos (master)",
+   "doi": "10.1002/ajmg.b.33045"
+  },
+  {
+   "n": 58,
+   "pmid": "40362647",
+   "autor": "Avram OE",
+   "ano": "2025",
+   "fonte": "International journal of molecular sciences",
+   "titulo": "Modifiable Nutritional Biomarkers in Autism Spectrum Disorder: A Systematic Review and Meta-Analysis of Vitamin D, B(12), and Homocysteine Exposure Spanning Prenatal Development Through Late Adolescence",
+   "pubtype": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC — autismo (SR/MA biomarcadores)",
+   "doi": "10.3390/ijms26094410"
+  },
+  {
+   "n": 59,
+   "pmid": "40077754",
+   "autor": "Clemente-Suárez VJ",
+   "ano": "2025",
+   "fonte": "Nutrients",
+   "titulo": "Impact of Vegan and Vegetarian Diets on Neurological Health: A Critical Review",
+   "pubtype": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão dieta vegana/vegetariana×saúde neurológica; tangencial padrão alimentar",
+   "doi": "10.3390/nu17050884"
+  },
+  {
+   "n": 60,
+   "pmid": "40290005",
+   "autor": "Daniel KS",
+   "ano": "2025",
+   "fonte": "Nutrients",
+   "titulo": "The Increasing Prevalence of Autism Spectrum Disorder in the U.S. and Its Implications for Pediatric Micronutrient Status: A Narrative Review of Case Reports and Series",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC — autismo (prevalência EUA)",
+   "doi": "10.3390/nu17060990"
+  },
+  {
+   "n": 61,
+   "pmid": "41064635",
+   "autor": "Das S",
+   "ano": "2025",
+   "fonte": "Frontiers in molecular biosciences",
+   "titulo": "Unveiling the mechanistic nexus: how micronutrient enrichment shapes brain function, and cognitive health",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO (resgate §8) — revisão genérica \"enriquecimento de micronutrientes molda função cerebral\"; sem seta nova",
+   "doi": "10.3389/fmolb.2025.1623547"
+  },
+  {
+   "n": 62,
+   "pmid": "40289952",
+   "autor": "Domański M",
+   "ano": "2025",
+   "fonte": "Nutrients",
+   "titulo": "Hematological Correlations as Predictors of Disease Manifestations in Psychiatric Inpatients",
+   "pubtype": [
+    "Journal Article",
+    "Observational Study"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Domański 2025 — correlações hematológicas predizem manifestações em internados psiquiátricos (master)",
+   "doi": "10.3390/nu17060959"
+  },
+  {
+   "n": 63,
+   "pmid": "41303365",
+   "autor": "Faa G",
+   "ano": "2025",
+   "fonte": "International journal of molecular sciences",
+   "titulo": "Perturbations of Zinc Homeostasis and Onset of Neuropsychiatric Disorders",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Faa 2025 — perturbações da homeostase do zinco e transtornos neuropsiquiátricos (master)",
+   "doi": "10.3390/ijms262210877"
+  },
+  {
+   "n": 64,
+   "pmid": "40218925",
+   "autor": "Faugere M",
+   "ano": "2025",
+   "fonte": "Nutrients",
+   "titulo": "Vitamin D, B9, and B12 Deficiencies as Key Drivers of Clinical Severity and Metabolic Comorbidities in Major Psychiatric Disorders",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Faugere 2025 — vit D/B9/B12 como drivers de severidade/comorbidade (master; associativo)",
+   "doi": "10.3390/nu17071167"
+  },
+  {
+   "n": 65,
+   "pmid": "40379361",
+   "autor": "Horsdal HT",
+   "ano": "2025",
+   "fonte": "The lancet. Psychiatry",
+   "titulo": "Convergent evidence linking neonatal vitamin D status and risk of neurodevelopmental disorders: a Danish case-cohort study",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Horsdal 2025 Lancet Psychiatry: caso-coorte nacional dinamarquesa; vit D NEONATAL×6 transtornos incl. TDM (humano ASSOCIATIVO de alto peso; desenvolvimento)",
+   "doi": "10.1016/s2215-0366(25)00099-9"
+  },
+  {
+   "n": 66,
+   "pmid": "41228551",
+   "autor": "Islam N",
+   "ano": "2025",
+   "fonte": "Nutrients",
+   "titulo": "A Systematic Review of the Correlation Between Micronutrient Levels and Perinatal Depression",
+   "pubtype": [
+    "Systematic Review",
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Islam 2025 SR: níveis de micronutrientes×depressão perinatal (ASSOCIATIVO; janela desfecho direto ausente nas masters)",
+   "doi": "10.3390/nu17213479"
+  },
+  {
+   "n": 67,
+   "pmid": "41515142",
+   "autor": "Kohl IS",
+   "ano": "2025",
+   "fonte": "Nutrients",
+   "titulo": "Common Mental Disorders and Vitamin D Deficiency/Insufficiency: A Cross-Sectional Study Among Female Workers in Southern Brazil",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Kohl 2025: vit D def/insuf×transtornos mentais comuns em mulheres trabalhadoras (humano ASSOCIATIVO, população não psiquiátrica)",
+   "doi": "10.3390/nu18010025"
+  },
+  {
+   "n": 68,
+   "pmid": "40145617",
+   "autor": "Li C",
+   "ano": "2025",
+   "fonte": "Autism : the international journal of research and practice",
+   "titulo": "Effects of micronutrients on neurodevelopmental disorders through the mediation of brain structure and function: A two-step Mendelian randomization analysis",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — MR mediação por estrutura cerebral em transtornos do neurodesenvolvimento; tangencial + campo MR saturado por 5 masters",
+   "doi": "10.1177/13623613251326702"
+  },
+  {
+   "n": 69,
+   "pmid": "40739033",
+   "autor": "Lu T",
+   "ano": "2025",
+   "fonte": "Communications medicine",
+   "titulo": "Estimating effects of serum vitamin B12 levels on psychiatric disorders and cognitive impairment: a Mendelian randomization study",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Lu & Paterson 2025 — MR B12 sérica×transtornos/cognição: efeito NÃO uniforme (master)",
+   "doi": "10.1038/s43856-025-01043-x"
+  },
+  {
+   "n": 70,
+   "pmid": "40724885",
+   "autor": "Majewska Z",
+   "ano": "2025",
+   "fonte": "International journal of molecular sciences",
+   "titulo": "Mineral Homeostasis and Depression: Implications for Prevention and Therapeutic Support-A Narrative Review",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — narrativa homeostase mineral×depressão; redundante com masters Shayganfard/Astorino/Faa e Zielińska vigente",
+   "doi": "10.3390/ijms26146637"
+  },
+  {
+   "n": 71,
+   "pmid": "40329546",
+   "autor": "Radoeva PD",
+   "ano": "2025",
+   "fonte": "Autism research : official journal of the International Society for Autism Research",
+   "titulo": "Estimated Nutrient Intake and Association With Psychiatric and Sleep Problems in Autistic Youth in the Adolescent Brain Cognitive Development(SM) Study",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Radoeva 2025 — ingestão estimada×problemas psiquiátricos/sono em jovens autistas ABCD (master; regra 5; TEA=fronteira ilustrativa)",
+   "doi": "10.1002/aur.70040"
+  },
+  {
+   "n": 72,
+   "pmid": "39829265",
+   "autor": "Rajen N",
+   "ano": "2025",
+   "fonte": "Acta neuropsychiatrica",
+   "titulo": "Impaired folate status in patients with mental disorders",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Rajen 2025 — status de folato prejudicado em transtornos mentais (master)",
+   "doi": "10.1017/neu.2025.1"
+  },
+  {
+   "n": 73,
+   "pmid": "39703999",
+   "autor": "Rucklidge JJ",
+   "ano": "2025",
+   "fonte": "Journal of child psychology and psychiatry, and allied disciplines",
+   "titulo": "Annual Research Review: Micronutrients and their role in the treatment of paediatric mental illness",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Rucklidge 2025 — Annual Research Review micronutrientes×saúde mental pediátrica (master)",
+   "doi": "10.1111/jcpp.14091"
+  },
+  {
+   "n": 74,
+   "pmid": "40871684",
+   "autor": "Skoczek-Rubińska A",
+   "ano": "2025",
+   "fonte": "Nutrients",
+   "titulo": "Impact of Vitamin D Status and Supplementation on Brain-Derived Neurotrophic Factor and Mood-Cognitive Outcomes: A Structured Narrative Review",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Skoczek-Rubińska 2025 — vit D status/suplementação×BDNF e humor-cognição (master)",
+   "doi": "10.3390/nu17162655"
+  },
+  {
+   "n": 75,
+   "pmid": "39393463",
+   "autor": "Wu J",
+   "ano": "2025",
+   "fonte": "Journal of affective disorders",
+   "titulo": "Bidirectional causality between micronutrients and mental illness: Mendelian randomization studies",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — MR bidirecional micronutrientes↔doença mental; 6º MR do mesmo tema — não muda a paisagem (heterogeneidade já documentada)",
+   "doi": "10.1016/j.jad.2024.09.047"
+  },
+  {
+   "n": 76,
+   "pmid": "41523970",
+   "autor": "Xu C",
+   "ano": "2025",
+   "fonte": "Alpha psychiatry",
+   "titulo": "Vitamin B12 and Affective Disorders: A Focus on the Gut-Brain Axis",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão B12×transtornos afetivos via eixo intestino-cérebro; redundante com masters Mathew/Sahu + B7",
+   "doi": "10.31083/ap49138"
+  },
+  {
+   "n": 77,
+   "pmid": "39952338",
+   "autor": "Ye M",
+   "ano": "2025",
+   "fonte": "Neuroscience and biobehavioral reviews",
+   "titulo": "Causal relationship between B vitamins and neuropsychiatric disorders: A systematic review and meta-analysis",
+   "pubtype": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Ye 2025 — SR+MA(+MR) vitaminas B×neuropsiquiatria: relações distintas por vit×transtorno (master)",
+   "doi": "10.1016/j.neubiorev.2025.106068"
+  },
+  {
+   "n": 78,
+   "pmid": "42029584",
+   "autor": "Alexa RE",
+   "ano": "2026",
+   "fonte": "Medical sciences (Basel, Switzerland)",
+   "titulo": "The Nutritional Paradox of Obesity: Mechanisms and Clinical Implications of Micronutrient Deficiencies",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Alexa 2026 — paradoxo nutricional da obesidade: deficiências com excesso (master)",
+   "doi": "10.3390/medsci14020160"
+  },
+  {
+   "n": 79,
+   "pmid": "42605394",
+   "autor": "Dehesh T",
+   "ano": "2026",
+   "fonte": "Iranian journal of psychiatry",
+   "titulo": "Dietary Micronutrient Intake and Its Associations with Memory Function, Mental Health, and Sleep Quality among Medical University Students: A Network Analysis",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO (resgate §4.3 errada) — ingestão dietética (FFQ/network)×memória/saúde mental/sono em estudantes de medicina; ingestão≠deficiência (B8-Causal-05)",
+   "doi": "10.18502/ijps.v21i2.21223"
+  },
+  {
+   "n": 80,
+   "pmid": "42356264",
+   "autor": "Ducki C",
+   "ano": "2026",
+   "fonte": "Nutrients",
+   "titulo": "Vitamin D as a Lifespan Neuroimmune Signal in Psychiatry: From Developmental Risk to Precision Nutrition",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão vit D lifespan neuroimmune/precisão; redundante",
+   "doi": "10.3390/nu18121877"
+  },
+  {
+   "n": 81,
+   "pmid": "42005161",
+   "autor": "Khan A",
+   "ano": "2026",
+   "fonte": "Cureus",
+   "titulo": "Psychosocial Impairment and Micronutrient Deficiencies in Indian Adolescents: A Pilot Study",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — piloto N pequeno deficiências×comprometimento psicossocial em adolescentes indianos",
+   "doi": "10.7759/cureus.105404"
+  },
+  {
+   "n": 82,
+   "pmid": "41992896",
+   "autor": "Khosropanah A",
+   "ano": "2026",
+   "fonte": "Chronobiology international",
+   "titulo": "Nutritional modulators of sleep: A narrative review of vitamins, minerals, amino acids, and their neurobiological and chronoepigenetic mechanisms",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — narrativa moduladores nutricionais do sono; fronteira B10 (cronobiológico), não B8-núcleo",
+   "doi": "10.1080/07420528.2026.2648011"
+  },
+  {
+   "n": 83,
+   "pmid": "41994411",
+   "autor": "López-Sebastiani V",
+   "ano": "2026",
+   "fonte": "Frontiers in molecular biosciences",
+   "titulo": "Micronutrient balance and brain function: neuropsychological, metabolic, and clinical interactions",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão genérica balanço micronutriente-função cerebral; redundante",
+   "doi": "10.3389/fmolb.2026.1748487"
+  },
+  {
+   "n": 84,
+   "pmid": "41769656",
+   "autor": "Miteva MT",
+   "ano": "2026",
+   "fonte": "Frontiers in nutrition",
+   "titulo": "Vitamin deficiencies and Alzheimer's disease: evidence and implications for supplementation",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC — Alzheimer (Miteva 2026)",
+   "doi": "10.3389/fnut.2026.1676497"
+  },
+  {
+   "n": 85,
+   "pmid": "42187879",
+   "autor": "Moroianu LA",
+   "ano": "2026",
+   "fonte": "Diseases (Basel, Switzerland)",
+   "titulo": "Vitamin D and Vitamin B(12) in Psychiatric Disorders: An Exploratory Systematic Review and Meta-Analysis of Nutrient-Specific Status and Supplementation Evidence",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Moroianu 2026 — SR+MA exploratória vit D/B12 status e suplementação em psiquiatria (master; NEG eficácia)",
+   "doi": "10.3390/diseases14050167"
+  },
+  {
+   "n": 86,
+   "pmid": "41978148",
+   "autor": "Pancheva R",
+   "ano": "2026",
+   "fonte": "Nutrients",
+   "titulo": "Vitamin B12 Deficiency in the Diagnostic Work-Up of Global Developmental Delay: A Treatable and Time-Sensitive Condition",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — B12 no diagnóstico de atraso global do desenvolvimento; pediatria, fora do fenótipo",
+   "doi": "10.3390/nu18071098"
+  },
+  {
+   "n": 87,
+   "pmid": "42144425",
+   "autor": "Shahini N",
+   "ano": "2026",
+   "fonte": "Scientific reports",
+   "titulo": "Micronutrient-immune interactions in mood and psychotic disorders: a case-control study of vitamin C, iron, zinc, magnesium, and peripheral blood cell indices",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Shahini 2026 — micronutriente-imune em humor e psicose (vit C, ferro, Zn, Mg, índices celulares) (master; caso-controle)",
+   "doi": "10.1038/s41598-026-48616-x"
+  },
+  {
+   "n": 88,
+   "pmid": "42253799",
+   "autor": "Tortajada J",
+   "ano": "2026",
+   "fonte": "General psychiatry",
+   "titulo": "Clinical outcomes of mitochondrial-enhancing nutraceutical supplementation in psychiatric disorders: A systematic review",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Tortajada 2026 — SR desfechos clínicos de suplementação pró-mitocondrial em psiquiatria (master; ponte B9)",
+   "doi": "10.1002/gps3.70023"
+  },
+  {
+   "n": 89,
+   "pmid": "41754076",
+   "autor": "Triggianese P",
+   "ano": "2026",
+   "fonte": "Nutrients",
+   "titulo": "Micronutrients in Autoimmune Diseases: Shining a Light on Vitamin D, Cobalamin, Folate, and Iron Metabolism",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — micronutrientes em doenças autoimunes; tangencial imunológico (fronteira B1), não psiquiátrico",
+   "doi": "10.3390/nu18040561"
+  },
+  {
+   "n": 90,
+   "pmid": "42044701",
+   "autor": "Yang X",
+   "ano": "2026",
+   "fonte": "Neurobiology of disease",
+   "titulo": "Vitamin D deficiency and depression: A Neuroimmune review of complement-associated synaptic remodeling and VDBP-Megalin signaling",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Yang 2026: vit D×depressão — remodelamento sináptico por complemento e sinalização VDBP-megalin (janela molecular nova; OB)",
+   "doi": "10.1016/j.nbd.2026.107425"
+  },
+  {
+   "n": 91,
+   "pmid": "42514375",
+   "autor": "Yoon Y",
+   "ano": "2026",
+   "fonte": "Nutrients",
+   "titulo": "The Dynamic Coenzyme Network of B Vitamins in Nutritional Neuropathy and Neuropsychiatric Vulnerability: A Mechanistic Narrative Review",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO (resgate §4.2 errada) — revisão rede de coenzimas B em neuropatia nutricional; claim .015 coberta pelo master Kennedy 2016 (ESTABLISHED); Yoon existe, mas é redundante",
+   "doi": "10.3390/nu18142306"
+  }
+ ]
+}

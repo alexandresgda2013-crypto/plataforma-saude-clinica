@@ -1,0 +1,154 @@
+{
+  "data": "2026-09-13",
+  "objeto": "réplica do §3 do parecer (3 taxonomias de classificador)",
+  "canonica_sha_parcial": "ver manifesto vigente",
+  "contagens": {
+    "mencoes_prosa_brutas": 280,
+    "chaves_unicas_prosa": 236,
+    "tokens_apendice_unicos": 237,
+    "ocorrencias_token_documento": 277,
+    "refs_com_xx_na_prosa": 222,
+    "refs_com_token_no_apendice": 237
+  },
+  "refs_divergentes_prosa_x_apendice": {
+    "n": 84,
+    "lista": [
+      "REF_ALMEIDA_2020",
+      "REF_ARORA_2019",
+      "REF_BARRIENTOS_2015",
+      "REF_BEKHBAT_2022",
+      "REF_BELGE_2020",
+      "REF_BHATT_2020",
+      "REF_BLOMQVIST_2018",
+      "REF_BONAZ_2018",
+      "REF_BRANN_2022",
+      "REF_BULL_2009",
+      "REF_CHEN_2021",
+      "REF_CHEN_2024",
+      "REF_CHUKAEW_2021",
+      "REF_COMAI_2022",
+      "REF_DANTZER_2001",
+      "REF_DANTZER_2006",
+      "REF_DONATO_2013",
+      "REF_DUMAN_2016",
+      "REF_ELENI_2025",
+      "REF_FIORE_2023",
+      "REF_FU_2024",
+      "REF_GARCIADOMINGUEZ_2025",
+      "REF_GOSHEN_2009",
+      "REF_GULEN_2016",
+      "REF_HAFIZI_2007",
+      "REF_HARDEN_2015",
+      "REF_HERMAN_2018",
+      "REF_HOLMES_2018",
+      "REF_HUANG_2023",
+      "REF_KEENAN_2025",
+      "REF_KIM_2025",
+      "REF_KLENGEL_2013",
+      "REF_LAWRENCE_2023",
+      "REF_LEI_2023",
+      "REF_LI_2025b",
+      "REF_LIU_2020",
+      "REF_LIU_2022",
+      "REF_LIU_2023",
+      "REF_LOPES_2021",
+      "REF_MALAU_2024",
+      "REF_MARIANI_2022",
+      "REF_MEHTA_2020",
+      "REF_MEHTA_2020b",
+      "REF_MENENDEZ_2024",
+      "REF_MOLINALOPEZ_2024",
+      "REF_MONSALVE_2025",
+      "REF_NASH_2019",
+      "REF_NORDEN_2015",
+      "REF_PARK_2019",
+      "REF_PARSONS_2021",
+      "REF_PERRY_2013",
+      "REF_PICCA_2017",
+      "REF_PINTOSANCHEZ_2017",
+      "REF_POLETTI_2024",
+      "REF_QUAGLIATO_2018",
+      "REF_RAISON_2013",
+      "REF_RAJESH_2022",
+      "REF_RIZZO_2018",
+      "REF_RUPPRECHT_2022",
+      "REF_RUTSCH_2020",
+      "REF_SALMINEN_2022",
+      "REF_SAXTON_2021",
+      "REF_SERHAN_2014",
+      "REF_SERHAN_2018",
+      "REF_SETIAWAN_2015",
+      "REF_STEINER_2011",
+      "REF_SU_2018",
+      "REF_SUBLETTE_2011",
+      "REF_SWANSON_2019",
+      "REF_TAFT_2021",
+      "REF_TOBINICK_2009",
+      "REF_VIRTANEN_2015",
+      "REF_WANG_2018",
+      "REF_WEI_2024",
+      "REF_WILEY_2024",
+      "REF_WITTENBERG_2020",
+      "REF_YANG_2008",
+      "REF_YANG_2024",
+      "REF_YEHUDA_2016",
+      "REF_ZDILAR_2000",
+      "REF_ZENARO_2017",
+      "REF_ZHANG_2025",
+      "REF_ZHOU_2020",
+      "REF_ZHOU_2024"
+    ]
+  },
+  "autodivergentes_na_prosa": {
+    "n": 7,
+    "lista": {
+      "REF_BULL_2009": [
+        "EC",
+        "ML"
+      ],
+      "REF_CHEN_2024": [
+        "EC",
+        "ML"
+      ],
+      "REF_HUANG_2023": [
+        "ML",
+        "OB"
+      ],
+      "REF_MEHTA_2020": [
+        "EC",
+        "OB"
+      ],
+      "REF_YANG_2024": [
+        "EC",
+        "ML"
+      ],
+      "REF_YEHUDA_2016": [
+        "EC",
+        "ML"
+      ],
+      "REF_ZHANG_2025": [
+        "EC",
+        "ML"
+      ]
+    }
+  },
+  "concordancia_prosa_x_balde": {
+    "ok": 88,
+    "tot": 222,
+    "pct": 39.6
+  },
+  "concordancia_apendice_x_balde": {
+    "ok": 51,
+    "tot": 237,
+    "pct": 21.5
+  },
+  "hipoteses": "balde 01_pmids=OB, 02_meta_analises=MA, 03_ensaios=EC; parser regex declarado no script",
+  "numeros_do_auditor": {
+    "refs_divergentes": 71,
+    "autodivergentes": 7,
+    "prosa_x_balde": "76/205 (37,1%)",
+    "apendice_x_balde": "50/235 (21,3%)",
+    "chaves_prosa": 217,
+    "tokens_apendice": 317
+  }
+}

@@ -1,0 +1,82 @@
+{
+ "ciclo": "[AT] GPM B10 — Desregulação Circadiana",
+ "data": "2026-09-09",
+ "artefato": "CANONICA v2 (137 refs; de 39)",
+ "insumos": [
+  "GPM_B10_DesregulacaoCircadiana.md (oficial, molde v2.0 — M00–M10; regra fundadora timing≠estado)",
+  "BRIEFING_B10_DESREGULACAO_CIRCADIANA_RODADA0.md (dossiê: 38 âncoras→PMID + 148 não citadas)",
+  "BRIEFING_CONSOLIDADO_B10_v1.md (geração original; 12 sementes reconciliadas)",
+  "Artigos cientificos do mecanismo B10 desregulação circadiana.md (193 entradas parseadas)",
+  "Resumo do insumo para B10 chatgpt.md (matriz 58 claims RC.SM02.001–058)"
+ ],
+ "auditoria": {
+  "anexo_itens": 193,
+  "candidatos_com_pmid_verificados": 182,
+  "doi_resolvidos_extras": 15,
+  "sobreposicao_com_V1": 0,
+  "masters_gpm": {
+   "total_ancoras": 38,
+   "validas": 37,
+   "redesenho": "Rao 2021 (PMID do dossiê era Robertson-Dixon 2023; ambos entraram)"
+  },
+  "entra": 98,
+  "baixo": null,
+  "exc": null,
+  "anexo_fora_das_38_148_coberto": [
+   "Aydoğan/Gül 2025",
+   "Başer 2025",
+   "Carmona-Alcocer 2018",
+   "Gosztyła 2026",
+   "Gršković 2023",
+   "Kırlıoğlu 2020",
+   "Lande-Diner 2013",
+   "McCarthy 2021(2022)",
+   "McGlashan 2018",
+   "Palagini 2022",
+   "Takahashi 2016 cap.",
+   "Van Beurden 2022",
+   "van Dalfsen 2018",
+   "vanderLeest 2009",
+   "Wesarg-Menzel 2024"
+  ]
+ },
+ "decisao": {
+  "entra": 98,
+  "baixo": "resto do corpus (SUP/CONTEXT/redundante/malha) documentado em matriz_b10_decisao.json",
+  "exc": "Burns 2024 (preprint medRxiv) + NAO-IDX (Burns 2022/2023; Mendoza 2024; Sandate 2020; Palagini 2023; Cao 2025; Gosztyła 2026; Noweta 2026; You 2024; Feng 2025) + não-fontes (Rumanova; Albrecht) + duplicatas (Murray 2016; Takahashi 2016 cap.)"
+ },
+ "fragilidades_dossie_revertidas": [
+  "Palagini 2022 real existe (Clin Neuropsychiatry 35821870) — o dossiê o 'corrigira' para Pandi-Perumal",
+  "Spiga 2014 é indexada (24944037; DOI do anexo era falso) — dossiê dizia NAO-IDX",
+  "tabela-mestra #29 (Rao 2021) apontava para Robertson-Dixon 2023 — Rao real = 34436424",
+  "Burns 2024 (âncora #33) é preprint medRxiv — excluído apesar da indexação",
+  "pendências do dossiê resolvidas: McGlashan 2018=30555405 (estava rotulado 'Lyall'); Serrano-Serrano 2021=34640406 (rotulado 'Serrano 2026'); Walker 2020 e McCarthy ISBD confirmados",
+  "15 refs do anexo ausentes do dossiê cobertas pela auditoria",
+  "anos canônicos pelo print (McCarthy 2022; Dollish 2024; Ketchesin 2020; Kinlein 2020; van Dalfsen 2018; Kırlıoğlu 2020)"
+ ],
+ "regras_fixadas": [
+  "B10-REGRA-01 timing≠estado (sono é output; insônia é distúrbio de estado; DSPD circadiano vs não-circadiano)",
+  "B10-REGRA-02 sem biomarcador circadiano único validado para diagnóstico",
+  "B10-REGRA-03 causalidade assimétrica (animal causal; humana associativa; genética inconsistente)",
+  "B10-REGRA-04 intervenção≠mediador demonstrado (fase fisiológica como mediadora não provada)",
+  "B10-REGRA-05 melatonina≠antidepressivo (marcador de fase; agomelatina é fármaco)",
+  "B10-REGRA-06 [ML] é roedor/modelo (extrapolação por analogia; tradução pendente)",
+  "B10-REGRA-07 anos canônicos pelo print",
+  "B10-REGRA-08 bipolar sinalizado, nunca fundido à TDM"
+ ],
+ "artefatos": [
+  "producao/insumos/b10_anexo_entries.json",
+  "producao/insumos/matriz_b10_g1.json",
+  "producao/insumos/b10_doi_resolution.json",
+  "producao/insumos/b10_efetch_all.json",
+  "producao/insumos/b10_refs_data.json",
+  "producao/insumos/b10_trechos_ancora.json",
+  "producao/insumos/matriz_b10_decisao.json",
+  "producao/insumos/RELATORIO_AUDITORIA_MATRIZ_B10.md",
+  "producao/historico/v1_canonica_2026-09-09.md"
+ ],
+ "pendencias": [
+  "P-6 (2ª verificação cega, Via 2) — PENDENTE ao fim da rodada 16/16, cobrindo todas as levas [AT]",
+  "Satyanarayanan 2020 (agomelatina) [G1]; Mendoza 2024 / Burns 2023 (NMH) [G1]"
+ ]
+}

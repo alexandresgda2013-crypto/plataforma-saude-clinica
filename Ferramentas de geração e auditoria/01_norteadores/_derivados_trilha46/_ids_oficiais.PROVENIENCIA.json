@@ -1,0 +1,65 @@
+{
+  "fonte": "/home/user/Ferramentas de geração e auditoria/01_norteadores/1º IDS_OFICIAIS.md",
+  "sha256_fonte": "f3a74fbcda9aa0aa4b9e13d42321776c4b68a4928180d7245aa4c008400b0e16",
+  "derivador": "derivador_ids_oficiais_v1_trilha46.py",
+  "data_derivacao": "2026-09-17 (trilha 46, rodada 27)",
+  "estrutural": {
+    "por_chave": {
+      "D1_micronutrientes": 11,
+      "D2_aminoacidos": 11,
+      "D3_fitoterapicos": 13,
+      "D4_fosfolipidios": 3,
+      "D5_psicobioticos": 5,
+      "D6_complementares": 5,
+      "C1_escalas": 12,
+      "C2_causa_organica": 9,
+      "C3_deficiencias": 9,
+      "C4_inflamatorios": 7,
+      "C5_hpa": 9,
+      "C6_neurotransmissores": 3,
+      "C7_acidos_organicos": 1,
+      "C8_farmacogenomica": 8,
+      "C9_sono": 3,
+      "C10_microbiota": 4,
+      "C11_estresse_oxidativo": 4,
+      "C12_metais": 1,
+      "C13_algoritmo": 1,
+      "mecanismos": 16,
+      "cenarios": 11
+    },
+    "somas_por_grupo": {
+      "suplementos_complementares": 48,
+      "exames_algoritmo": 71,
+      "mecanismos": 16,
+      "cenarios": 11
+    },
+    "total_ids_validos": 146,
+    "ids_distintos": 146,
+    "duplicados": 0
+  },
+  "declarado_bloco_contagem": {
+    "somas_por_grupo": {
+      "suplementos_complementares": 48,
+      "exames_algoritmo": 71,
+      "mecanismos": 16,
+      "cenarios": 11
+    },
+    "total_ids_validos": 146,
+    "ids_removidos_definitivo": 5,
+    "lista_removidos": 5
+  },
+  "conferencias": {
+    "por_chave_estrutural_igual_declarado": true,
+    "somas_grupo": true,
+    "total_146": true,
+    "removidos_5": true
+  },
+  "camadas_de_contagem": {
+    "estrutural_json": 146,
+    "mecanica_prefixo_regex": 74,
+    "trilha25_parser_texto_legado": 103,
+    "causa_do_gap": "IDs de suplementos/cenários/mecanismos sem prefixo capturável — só a camada estrutural reproduz 146"
+  },
+  "criterio_R2_bilateral": "146 = 48+71+16+11 por categoria + comparação com bloco contagem + sha + fonte",
+  "APROVADO": true
+}

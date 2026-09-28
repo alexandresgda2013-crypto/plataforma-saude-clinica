@@ -1,0 +1,63 @@
+{
+  "trilha": 106,
+  "data": "2026-09-25",
+  "objeto": "fecho_v111_paradas",
+  "digitais": {
+    "mestre": "aeeaf905ecf8f4029d0c77bab409fe13e5285f75dc28cb38a86a8018dd9ace4d",
+    "estrutura": "c010b826e9123bdf97fc7c029a6a281cef5f542e7a0f8c29d41d77d0e8d52eec",
+    "minuta": "ef27f8b3a492cd2f667b8892ec99603e57a5b22f46f5797e52705293d004fc66"
+  },
+  "ciclo_v111": "ENCAVEL",
+  "total": 7,
+  "ok": 7,
+  "resultado": [
+    {
+      "id": "T1",
+      "descricao": "Mestre upload ≡ série",
+      "ok": true,
+      "detalhe": {
+        "sha": "aeeaf905ecf8f4029d0c77bab409fe13e5285f75dc28cb38a86a8018dd9ace4d"
+      }
+    },
+    {
+      "id": "T2",
+      "descricao": "Mestre sem ressalva + sha declarado",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T3",
+      "descricao": "Estrutura sem ressalva",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T4",
+      "descricao": "minuta canônica sha = ef27f8b3",
+      "ok": true,
+      "detalhe": {
+        "sha": "ef27f8b3a492cd2f667b8892ec99603e57a5b22f46f5797e52705293d004fc66"
+      }
+    },
+    {
+      "id": "T5",
+      "descricao": "Estrutura fez diff próprio do T6",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T6",
+      "descricao": "Mestre: 10 elementos do protocolo conferidos",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T7",
+      "descricao": "2× sem ressalva ⇒ ENCAVEL",
+      "ok": true,
+      "detalhe": {
+        "vigencia": "frase do operador"
+      }
+    }
+  ]
+}

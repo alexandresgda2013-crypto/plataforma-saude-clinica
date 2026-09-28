@@ -1,0 +1,53 @@
+PACOTE DE LINHAGEM — L-05 (schemas N1/N2 + especificações) · espelho independente · atualizado 2026-09-21
+=====================================================================================================
+
+MUDANÇA DE REGIME EM 2026-09-21 (decisão do operador): os schemas RECEBERAM SELO FORMAL
+na mesma frase que aprovou a arquitetura —
+  · vigente: ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.3 (19.09.26) sha 498e7df9d8abe8be4f3145bb7a9bd34215bc87a4502148e9d203391c9ce6ef73
+  · N1: L05/schema_referencia_v1.3.json  sha b06660fd985a8186dbe5ed2878f15d3badd2356e11f4d0c9b71e78d2b2e4e7da (9.582 b)
+  · N2: L05/schema_vinculo_v1.4.json     sha d96ad15b620fa373d8d95d44159a9f3db31c04cfed051d85c7ab014cb3c65050 (12.840 b)
+Os rótulos internos 'PROPOSTA — não normativo' NAS DESCRIPTIONS dos JSONs são resíduo
+pré-selo: saem no ciclo editorial v1.5 (sem mudar semântica, pelo rito formal de schema).
+Este manifesto substitui o de 2026-09-19 (sha 789792be…), que fica arquivado como histórico.
+
+PROPÓSITO (inalterado): cópias versionadas existem dos DOIS lados. Guarde este pacote:
+se um lado perder o histórico, o outro reconstrói — e as digitais resolvem qualquer
+disputa de autenticidade.
+
+REGRA DE OURO: sha256sum <arquivo> deve bater com este MANIFESTO. Divergência = elo não autêntico.
+
+== SCHEMAS JSON (a versão real vive no $id; o NOME do arquivo == $id) ==
+versão ($id)                     recebido       bytes  estado          sha256
+L05/schema_referencia_v1.1.json  2026-09-15      7796  histórico       737bcda824b6c355d4f9b34faa3703e5ff94537b65751efbcc9d26b4b93553db
+L05/schema_referencia_v1.2.json  2026-09-16      8674  histórico       b8bcea8084fc17a296ef2beebd709bb2c90a7d816918ddfda74a0667e6ec168a
+L05/schema_referencia_v1.3.json  2026-09-17      9582  APROVADO vige   b06660fd985a8186dbe5ed2878f15d3badd2356e11f4d0c9b71e78d2b2e4e7da
+L05/schema_vinculo_v1.1.json     2026-09-15     10708  histórico       b0934412b010b7e0801f372ae57769fe0daa42c046e757128788159ec9ff4130
+L05/schema_vinculo_v1.2.json     2026-09-16     11122  histórico       19f4f29a8763aa635a09d16c1bd960af2687da62a5f79700b8dfd57081d73360
+L05/schema_vinculo_v1.3.json     2026-09-17     12307  histórico       ec4f0de88fd0d845ad91f1d413132fa7d9a5c38d1f9f2f7abff1d3a27e7bf836
+L05/schema_vinculo_v1.4.json     2026-09-18     12840  APROVADO vige   d96ad15b620fa373d8d95d44159a9f3db31c04cfed051d85c7ab014cb3c65050
+
+== ESPECIFICAÇÕES (.md) ==
+L05_SCHEMA_EVIDENCIA_E_VINCULO_v1.0_PROPOSTA__base_97af2ecb.md
+  2026-09-15 · 22660 b · sha 97af2ecba12d4616500e3f6f47823853dd44bb4ea14a3810ddbf64163fa72f6d
+  histórico — head declara v1.0; corpo traz §7–§9+changelog (a 'doença' v1.0×v1.1)
+L05_SCHEMA_EVIDENCIA_E_VINCULO_v1.1_PROPOSTA_errata_linha260.md
+  2026-09-15 · 22810 b · sha 1595011e0f4e1667f0ec01b12e3e5091ba958134495d89b15b814fe471ced5d6
+  histórico — errata REF_OSIMO_2019 (vigente md de 15/09)
+L05_minuta_normativa__recebida_2026-09-17.md
+  2026-09-17 · 34893 b · sha fc05f470cc763c0fbb67b3cee696ab4c76a0b54d70501295bf2ab35c8236e059
+  histórico — minuta normativa do ciclo v1.3
+L05_SCHEMA_EVIDENCIA_E_VINCULO_v1.0_PROPOSTA_(5)__recebido_2026-09-17.md
+  2026-09-17 · 38934 b · sha 2b06b3650fbcd6dcf23e6f70ae02068f7f7892e63a5632de9380aa90953e23e8
+  histórico — reenvio v1.0-changelog (v1.3 efetivo)
+L05_SCHEMA_EVIDENCIA_E_VINCULO_v1.4__ESPECIFICACAO.md
+  2026-09-18 · 42809 b · sha 78a0f2afcd2acf0f78caa8bbc674c337e7c5b47c93ee86d684f1648b6671dc8b
+  especificação de engenharia da v1.4 (identidade de versão coerente)
+
+== NOTAS DE GOVERNANÇA ==
+· Os elos 'histórico' NÃO são alternativas de uso — são arqueologia. Vigentes hoje:
+  N1 = schema_referencia_v1.3.json · N2 = schema_vinculo_v1.4.json (+ especificação v1.4).
+· Nomes de arquivo == $id (camada de distribuição da casa, desde 19/09; o autor dos
+  schemas adotou a mesma regra como regra de PRODUÇÃO em 20/09).
+· Validação pré-selo: 52/52 audições · 26/26 casos sintéticos · draft-07 check_schema
+  verificado por dois lados independentes (casa e auditor-mestre, 21/09).
+· Espelhamento: a casa regenera este manifesto datado a cada mudança na cadeia.

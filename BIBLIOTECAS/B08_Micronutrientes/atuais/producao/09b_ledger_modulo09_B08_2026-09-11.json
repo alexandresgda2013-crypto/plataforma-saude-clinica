@@ -1,0 +1,205 @@
+{
+ "acao": "09b_reconciliacao_ledger_arquivo_modulo09",
+ "data": "2026-09-11",
+ "n": 33,
+ "det": [
+  {
+   "id_auditoria": "AUD_B8_0001",
+   "ref": "REF_JACKA_2017",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "03_ensaios_clinicos"
+  },
+  {
+   "id_auditoria": "AUD_B8_0002",
+   "ref": "REF_LASSALE_2019",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0003",
+   "ref": "REF_OKEREKE_2020",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "03_ensaios_clinicos"
+  },
+  {
+   "id_auditoria": "AUD_B8_0004",
+   "ref": "REF_OKEREKE_2021",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "03_ensaios_clinicos"
+  },
+  {
+   "id_auditoria": "AUD_B8_0005",
+   "ref": "REF_MARKUN_2021",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0006",
+   "ref": "REF_MIKOLA_2023",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0007",
+   "ref": "REF_GHAEMI_2024",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0008",
+   "ref": "REF_SAJJADI_2022",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0009",
+   "ref": "REF_RAJIZADEH_2017",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "03_ensaios_clinicos"
+  },
+  {
+   "id_auditoria": "AUD_B8_0010",
+   "ref": "REF_TARLETON_2017",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "03_ensaios_clinicos"
+  },
+  {
+   "id_auditoria": "AUD_B8_0015",
+   "ref": "REF_GAYSINA_2008",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0016",
+   "ref": "REF_WU_2013",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0017",
+   "ref": "REF_PAPAKOSTAS_2012",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "03_ensaios_clinicos"
+  },
+  {
+   "id_auditoria": "AUD_B8_0020",
+   "ref": "REF_ANGLIN_2013",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0024",
+   "ref": "REF_SU_2018",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0025",
+   "ref": "REF_YOUNG_2019",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0026",
+   "ref": "REF_GALIZIA_2016",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0027",
+   "ref": "REF_JOHNSTONE_2020",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0029",
+   "ref": "REF_PHELAN_2018",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0030",
+   "ref": "REF_GUPTA_2025",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0032",
+   "ref": "REF_PARLETTA_2019",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "03_ensaios_clinicos"
+  },
+  {
+   "id_auditoria": "AUD_B8_0034",
+   "ref": "REF_DAVARINEJAD_2026",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0035",
+   "ref": "REF_DEOLIVEIRA_2015",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "03_ensaios_clinicos"
+  },
+  {
+   "id_auditoria": "AUD_B8_0036",
+   "ref": "REF_BORGESVIEIRA_2023",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0038",
+   "ref": "REF_SORIANOGONZALEZ_2025",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0043",
+   "ref": "REF_FIRTH_SUPL_2017",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0044",
+   "ref": "REF_FIRTH_FEP_2018",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0049",
+   "ref": "REF_PLEVIN_2020",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0062",
+   "ref": "REF_NOGUEIRA_2023",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0075",
+   "ref": "REF_ISLAM_2025",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0082",
+   "ref": "REF_YE_2025",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0084",
+   "ref": "REF_MOROIANU_2026",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B8_0086",
+   "ref": "REF_TORTAJADA_2026",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  }
+ ]
+}

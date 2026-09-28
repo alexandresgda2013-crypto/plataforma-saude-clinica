@@ -1,0 +1,122 @@
+{
+ "biblioteca": "B16",
+ "mecanismo": "mecanismo_B16_neurogenese",
+ "titulo": "Neurogênese hipocampal adulta (AHN) na ansiedade e na depressão",
+ "data_corte": "2026-09-07",
+ "porta_g1": "eutils_automatico",
+ "pmids_briefing": 289,
+ "pmids_tabelas": 288,
+ "validados_pubmed": 288,
+ "sem_resolucao": 0,
+ "nao_fundidos": {
+  "anais_EWA_nao_indexados": 2,
+  "resumos_congresso_IJNPP": 2,
+  "venue_nao_indexado": 1,
+  "off_scope_SVZ_OB": [
+   "26758842"
+  ]
+ },
+ "preprints_biorxiv": [
+  "37790349",
+  "38352378"
+ ],
+ "correcoes_autoria": {
+  "31165247": "Park SC 2019 (briefing: Bortolotto)",
+  "30236533": "Micheli L 2018 (briefing: Banasr)",
+  "29941977": "Huckleberry KA 2018 (briefing: Jin)",
+  "31310776": "Yamada J 2019 (briefing: Ardalan)",
+  "27106168": "Clarke M 2017 (briefing: Ardalan)",
+  "30622299": "Takamiya A 2019 (briefing: Dukart)",
+  "30414016": "Gheorghe A 2019 (briefing: Barha)"
+ },
+ "nota": "Zero PMID inventado; rotulos genericos do briefing resolvidos por 1o autor PubMed.",
+ "versao": "v2",
+ "artefato_rotulo": "B16 NEUROGENESE V2 CANONICA.md",
+ "pmids_pos_rodada_at_2026_09_09": 290,
+ "rodada_at_2026_09_09": {
+  "tipo": "auditoria ref a ref de todos os insumos com fusão dirigida",
+  "universo_numerico_8d": 285,
+  "vigentes": 283,
+  "entra": 2,
+  "entra_refs": [
+   "REF_DOLUDDA_2026",
+   "REF_ZHOU_2025"
+  ],
+  "entra_motivo": "falha silenciosa da fusão da rodada 0 — demandadas por anexo+matriz; G1 eutils + abstracts lidos",
+  "off_scope_oficial": {
+   "Siopi 2016 (J Neurosci)": "26758842 — decisão explícita do próprio insumo (ZSV/bulbo olfatório); mantido fora"
+  },
+  "corte_literatura": "2026-09-07 (inalterado — a rodada não rebuscou literatura nova além das 2 âncoras demandadas)",
+  "total_final": 290
+ },
+ "identificadores_falsos_expostos_at": {
+  "fragmentos_doi": {
+   "20001002": "Palmer 2000 (J Comp Neurol) — obra real; contexto fora da canônica",
+   "00207454": "Fares 2018 (Int J Neurosci) — obra real; fora por redundância (rodada 0)"
+  },
+  "nao_resolvem_pubmed": {
+   "40727497": "\"Allen 2025\" (matriz externa) — esummary inexistente",
+   "39024461": "\"Zhou 2024\" (matriz externa) — esummary inexistente"
+  }
+ },
+ "exclusoes_matriz_ratificadas_at": [
+  "Zhang 2017 APP/PS1 (malha EXC/Alzheimer — contexto apenas)",
+  "Nejad 2024 (morfina — fora do arco ansiedade/depressão)",
+  "Li 2024 (plasticidade geral — domínio B3)",
+  "W. 2025 (venue baixa relevância; duplicidade B15/B16)",
+  "Yang 2025 / Wang 2025 (anais não indexados — nota sem citação formal)"
+ ],
+ "duplicata_anexo_resolvida_at": "Jones/Zhou/Jhaveri 2022 ×2 consecutivas → REF_JONES_2022 única (35842419)",
+ "aliases_ano_resolvidos_doi_at": {
+  "Gage '2024'": "REF_GAGE_2025 (39648699)",
+  "Zhang IL-4 '2020'": "REF_ZHANG_2021 (33731342)",
+  "Elliott '2024'": "REF_ELLIOTT_2025 (39558003)",
+  "Simard '2023'": "pré-print bioRxiv de REF_SIMARD_2024 (39414359)"
+ },
+ "historico_rodadas": [
+  {
+   "data": "2026-09-09",
+   "rodada": "[AT] auditoria externa",
+   "placar": "288 → 290",
+   "entra": 2,
+   "falsos_expostos": 4,
+   "off_scope_oficial": 1,
+   "portoes": "gate/framework/checklist reexecutados (ver RELATORIO_EXECUCAO_B16_AT_2026-09-09.md)"
+  }
+ ],
+ "pendencias_fase": [
+  "P-6 Via 2 — 2ª verificação cega atravessando todas as levas [AT] B1–B16 no fecho 16/16 (inclui REF_DOLUDDA_2026 e REF_ZHOU_2025)"
+ ],
+ "alteracoes": [
+  {
+   "data": "2026-09-11",
+   "id": "F1-GERACAO-NOVA-SCHEMA-2026-09-11",
+   "tipo": "decisao_schema_sem_escrita",
+   "o_que": "NENHUM dado alterado nesta biblioteca. Lacuna de arquitetura (geração nova não carrega verification_status/g3_verificado_por/status_referencia/g2_elegibilidade em 290 registros) documentada como decisão F1 de DECISOES_HARMONIZACAO_SCHEMA_2026-09-11.md: preencher seria inventar dado de verificação — vai ao SCHEMA v2/perícia (recomendação: reprocessamento assistido de metadados de verificação).",
+   "rev": "rev.1 (2026-09-11): substitui a entrada HARMONIZA-CONTRATO-2026-09-11 gravada aqui por engano de escopo do laço automatizado — nesta biblioteca não houve reparo de dado nenhum; o engano foi detectado na conferência imediata e corrigido no mesmo ato."
+  },
+  {
+   "id": "DISTRIBUICAO-MOD09-MA-EC-2026-09-11",
+   "data": "2026-09-11",
+   "tipo": "metadado/reorganizacao_modulo_09 — CIENCIA NAO TOCADA (0 linhas de canônica)",
+   "lei_aplicada": "PROMPT v4.2 instrução final de geração: [MA]->02_meta_analises.json, [EC]->03_ensaios_clinicos.json; id único global (validar_auditoria.py) — distribuição especificada desde a geração, executada nesta data",
+   "mudancas": {
+    "fichas_removidas_de_01": 1,
+    "fichas_para_02_meta_analises": 1,
+    "fichas_para_03_ensaios_clinicos": 0,
+    "fichas_restantes_em_01": 289
+   },
+   "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+   "campos_de_dado_alterados": "NENHUM (id, pmid, título, achados intactos); somente casa do registro + campos de schema 09.2 (bloco_origem derivado de secao quando ausente, marcado; forca_evidencia_afirmacao replicado ou '' — vazio = dívida nomeada, nunca fabricado) + sinais_classificacao + migrado_em",
+   "dividas_nomeadas": [
+    "forca_evidencia_afirmacao vazio nas migradas sem valor prévio",
+    "conflitos tag×título [REVISAVEL]: 0",
+    "tag [EC] amplo sem sinal RCT — NÃO migrados (09.3 = RCT estrito), ratificação externa: 45"
+   ],
+   "trilha": "atuais/producao/09_distribuicao_MA_EC_B16_2026-09-11.json",
+   "changelog": "BIBLIOTECAS/CHANGELOG_GERAL.md 2026-09-11",
+   "consolidado_motor": "BIBLIOTECAS/MOTOR_CLINICO/ (evidencias_ma_serie.json, evidencias_ec_serie.json)",
+   "backups": "01/02/03*.bak_<AAAAMMDD_HHMMSS> na mesma pasta"
+  }
+ ]
+}

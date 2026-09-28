@@ -1,0 +1,32 @@
+{
+  "corpus_sha256": "20c7159b5e8b30bad19b08617e387dd99a0364bc07f9e41088e4c5c0ce974b0d",
+  "refs": 107,
+  "dois_unicos": 107,
+  "data_busca": "2026-09-25",
+  "congelado": "2026-09-26",
+  "regra_contagem": "paragrafo_com_doi",
+  "saneamento": [
+    "nomes: De Picker L.D. / Kim J.-H. / Liu H.",
+    "HDAC6 → [FORA_LOTE_TSPO] marcado (não apagado)",
+    "Yrondi → [RESULTADO_CONFIRMADO]",
+    "Li2018_A/B = 2 distintos (marcados, não deduplicar)"
+  ],
+  "ancoras_g1": {
+    "Setiawan2015": "25629589",
+    "Hannestad": "23850810",
+    "Holmes2018": "28939116",
+    "Richards2018": "29971587",
+    "Setiawan2018": "29496589",
+    "Schubert2021": "33515765",
+    "Eggerstorfer2022": "36226319",
+    "Joo2021": "35052718"
+  },
+  "claim_status": "B1.SM02.014 = aprovado_com_ressalva (inalterado)",
+  "protocolo": "COMO EXECUTAR v1.11 rev.2 (2efc0edd)",
+  "tria_de_dedicada": [
+    "ChatGPT dedicado",
+    "Arena dedicado",
+    "Claude dedicado"
+  ],
+  "fonte_pool": "uploads/Atuais/Documentos/B1.SM02.014.md"
+}

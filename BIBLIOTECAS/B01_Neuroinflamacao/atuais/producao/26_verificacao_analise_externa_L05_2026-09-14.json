@@ -1,0 +1,44 @@
+{
+ "trilha": "26_verificacao_analise_externa_L05_2026-09-14",
+ "objeto": "analise externa (ChatGPT, colada pelo operador) sobre o L-05 v1.0 do auditor de estrutura",
+ "verificacoes_factuais": {
+  "raison_2013_ficha": {
+   "id": "REF_RAISON_2013",
+   "arquivo": "03_ensaios_clinicos.json",
+   "pmid": 22945416,
+   "desenho": "RCT (JAMA Psychiatry; N=60)",
+   "evid_role": "human_clinical",
+   "achado_na_ficha": "inflamacao alta prediz nao-resposta a antidepressivo e resposta ao anti-TNF",
+   "conferencia_com_analise_externa": "CONFIRMADO o quadro descrito: amostra geral negativa; subgrupo com inflamacao alta (PCR-us) com resposta. O exemplo e factualmente legitimo."
+  },
+  "raison_tokens_na_canonica": {
+   "indice_inline": "RCT_infliximab[EC] (4 linhas)",
+   "apendice_modulo09": "RAISON_2013[MA] (L1237)",
+   "nota": "mais uma amostra VIVA da divida D-B1-R4-TOKENS (token duplo + classe herdada divergente: RCT de verdade, apendice diz [MA]). Ja nomeada na casa; nao resolvemos aqui (fronteira L-05/1.2)."
+  },
+  "ids_do_exemplo_externo_no_catalogo": {
+   "exame_pcr_us": true,
+   "exame_tnfalpha": true,
+   "cenarios_oficiais": "cenario_E1..E10 + cenario_E99 (rotulo semantico se define no recorte C-LAB, Bloco 3)",
+   "suplementos": "catalogo tem subcatalogo 'catalogo_suplementos' (ponteiro); id exato se define no recorte",
+   "fonte": "01_norteadores/1o IDS_OFICIAIS.md (103 ids parseados na trilha 25)"
+  },
+  "texto_da_proposta_sobre_posse": {
+   "secao": "3.2 regra 3",
+   "citacao_literaria": "Exatamente uma ancora com principal: true — e a entidade em cuja biblioteca a evidencia foi trabalhada. As demais sao relacoes declaradas, nao posse.",
+   "conferencia": "o ponto 2 da analise externa RE-ENDOSSA regra ja escrita; nao e correcao."
+  }
+ },
+ "adocoes_da_casa": {
+  "R7_papel_nunca_e_veredito": {
+   "origem": "ponto 3 da analise externa (caso Raison/infliximabe), formulada pela casa",
+   "conteudo": "(i) regra normativa: papel declara RELACAO TEMATICA, nunca veredito — veredito mora em trecho_ancora + natureza_relacao + forca_causal + verification_status; proibido ao motor/leitor inferir eficacia a partir de papel isolado. (ii) qualificador ortogonal opcional na ancora: direcao: sustenta | refuta | inconclusivo | condicional (+ condicao: texto curto). papel perde o valor 'refuta' — que vira direcao (eixo ortogonal, padrao PROMPT v4.2 L1438).",
+   "exemplo_molde": "Raison 2013 -> ancora suplemento_infliximabe {papel: sustenta_intervencao, direcao: condicional, condicao: 'resposta restrita ao subgrupo inflamacao alta; amostra geral negativa'}; ancora exame_pcr_us {papel: sustenta_biomarcador, direcao: sustenta}"
+  },
+  "D3_refinada_sequencia": {
+   "origem": "analise externa (risco de excecao arquitetural permanente B1-antigo x B2-novo)",
+   "conteudo": "corte de consolidacao: (i) v1.1 com R1-R7; (ii) shadow 0-erro na B1; (iii) retroancoragem da B1 INTEIRA como corte unico (os 20 redirecionados primeiro, como subetapa operacional — corte so fecha com os 274); (iv) so entao B2. Modelo nunca roda misto em producao."
+  }
+ },
+ "veredito_casa_sobre_a_analise": "essencialmente correta; ponto 3 adotado como R7; D3 refinada; ponto 2 = re-endosso da regra 3.2; ponto 1 = alinhado com a D2 da casa; nomenclatura ('acervo de evidencias cientificas auditadas') adotada."
+}

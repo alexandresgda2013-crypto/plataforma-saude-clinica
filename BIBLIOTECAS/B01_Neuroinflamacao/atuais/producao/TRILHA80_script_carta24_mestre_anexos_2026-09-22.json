@@ -1,0 +1,45 @@
+{
+  "trilha": 80,
+  "rodada": 67,
+  "data": "2026-09-22",
+  "verde": 7,
+  "total": 7,
+  "checks": [
+    {
+      "check": "T_REV5_(SÉRIE)",
+      "status": "VERDE",
+      "nota": "rev.5 (série): 601c1f18… confere com a digital registrada"
+    },
+    {
+      "check": "T_CARTA_DO_COMENTADOR",
+      "status": "VERDE",
+      "nota": "carta do comentador: b6c6b081… confere com a digital registrada"
+    },
+    {
+      "check": "T_RÉPLICA_FINAL_DA_CASA",
+      "status": "VERDE",
+      "nota": "réplica final da casa: e80497bc… confere com a digital registrada"
+    },
+    {
+      "check": "T_ADENDA_2_(R-BUSCA-1)",
+      "status": "VERDE",
+      "nota": "adenda 2 (R-BUSCA-1): 7dcd31b2… confere com a digital registrada"
+    },
+    {
+      "check": "T_NOTA_R66_(ERRATA+R-CITA-1)",
+      "status": "VERDE",
+      "nota": "nota R66 (errata+R-CITA-1): e142409c… confere com a digital registrada"
+    },
+    {
+      "check": "T6_CARTA_CITA_AS_5",
+      "status": "VERDE",
+      "nota": "digitais ausentes na carta: nenhuma — as 5 citadas"
+    },
+    {
+      "check": "T7_RITO_VERBATIM_REGISTRADO",
+      "status": "VERDE",
+      "nota": "rito de aprovação do operador (22/09/2026) gravado verbatim nas decisões [rev.74] — fonte: fala dele nesta data"
+    }
+  ],
+  "resumo": "TRILHA 80: 7/7 — pacote da CARTA 24 íntegro: 5 digitais conferem byte a byte; carta cita as 5; rito novo do operador gravado verbatim."
+}

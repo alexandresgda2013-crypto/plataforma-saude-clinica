@@ -1,0 +1,27 @@
+{
+  "trilha": 82,
+  "rodada": 69,
+  "data": "2026-09-22",
+  "verde": 3,
+  "total": 3,
+  "checks": [
+    {
+      "check": "T1_DIGITAL_BATE",
+      "status": "VERDE",
+      "nota": "arquivo da rev.6 na série = 98e90bdc755162b28fd16817d65692cebe81f939c466ef1d29c7a0a1124f2b41 · prefixo \"98e90bdc\" da frase confere · objeto da aprovação identificado sem ambiguidade"
+    },
+    {
+      "check": "T2_FRASE_COMPLETA",
+      "status": "VERDE",
+      "nota": "frase verbatim do operador contém artefato (L-06 Minuta 3 consolidada rev.6) + digital (98e90bdc) + data (22/09/2026) — regra de versionamento honrada: PROPOSTA→…→APROVAÇÃO→SHA/DATA→VIGENTE"
+    },
+    {
+      "check": "T3_BASE_REGISTRAL",
+      "status": "VERDE",
+      "nota": "decisoes rev.75 já registra o triângulo sem ressalva (mestre 72fe01f3… · comentador b651bd8c… · casa réplica 4fdb0c52…, trilha 81 10/10) — a aprovação pousa sobre chão verificado"
+    }
+  ],
+  "resumo": "TRILHA 82: 3/3 — a frase do operador de 22/09/2026 bate com o artefato (rev.6 98e90bdc…), cobre artefato+digital+data, e pousa sobre o triângulo sem ressalva. APROVAÇÃO HOMOLOGADA PARA ESCRITURA: L-06 VIGENTE (em espera de produção).",
+  "frase_operador_verbatim": "Aprovo como vigente a L-06 — Minuta 3 consolidada rev.6, digital 98e90bdc, de 22/09/2026.",
+  "digital_rev6": "98e90bdc755162b28fd16817d65692cebe81f939c466ef1d29c7a0a1124f2b41"
+}

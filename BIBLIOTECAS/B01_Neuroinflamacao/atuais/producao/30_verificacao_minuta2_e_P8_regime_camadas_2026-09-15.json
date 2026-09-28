@@ -1,0 +1,62 @@
+{
+  "trilha": "30_verificacao_minuta2_e_P8_regime_camadas_2026-09-15",
+  "data": "2026-09-15",
+  "escopo": "verificacao empirica da minuta 2 (L-05 1.1 normativa) e da nova versao do P-8 (V-15 em regime por camada) — banca de verificacao da casa, antes de aceitar",
+  "insumos": {
+    "minuta2_sha256": "54ba243d5e380c2882e008bd1dd15778b6b9a013f27cbcc9cee7d74f27c784c1",
+    "minuta2_arquivada_em": "BIBLIOTECAS/_documentos_serie/L05_1.1_minuta_mestre_recebida_2026-09-15/",
+    "p8_novo_sha256_copiado": "0e67328e70ab5fe4e74c30592f61835b48c1778c525b4f7f731c429105e8718e",
+    "p8_novo_arquivado_em": "BIBLIOTECAS/_documentos_serie/P8_regime_por_camada_recebido_2026-09-15/validar_coerencia_camadas.py",
+    "v2_sha_confere": "09692e18a5a65958bde4545ed6ff804c21c5945411159988654c7664c8a4a4e2",
+    "b1_v7_sha_hoje": "6e2c29797e6322f16dcc5248cce552be613dd11f1de957c66aaa913e69225238 (intacto)"
+  },
+  "verificacao_minuta2": {
+    "metodo": "diff minuta1 x minuta2 na integra (268 linhas tocadas), lido par a par",
+    "resultado": "NENHUMA mudanca silenciosa de semantica. Toda alteracao e (a) condensacao do template de 6 partes p/ forma normativa, semanticamente equivalente, ou (b) uma das incorporacoes declaradas no preambulo",
+    "incorporacoes_conferidas_1a1": {
+      "correcao_comentador_1_D02": "OK — 'Os cinco elementos nao sao congelados como vetor homogeneo'; semantica por eixo decidida na etapa de schema; principio de nao-elevacao congelado",
+      "correcao_comentador_2_D03": "OK — inexistencia_cientifica restrita (so conhecimento canonico auditado; nunca ausencia de recuperacao) + ancora formal natureza_relacao=nao_estabelecida + status_epistemologico=lacuna + TESTE ADVERSARIAL novo (falha de recuperacao nunca emite inexistencia) — melhoria dele, alem do pedido",
+      "correcao_comentador_3_D07": "OK — determinismo = conteudo clinico/semantico/estrutural + conjunto de versoes; envelope em lista fechada (timestamp, id execucao, logs); risco migrado: 'alterar a lista exige errata datada' — melhoria dele",
+      "correcao_comentador_4_Parte1": "OK — 'As entradas autorizadas do Motor sao:' com tabela tipada E a frase negativa mantida verbatim a pedido da casa ('Nao consome: a prosa da Biblioteca Canonica (§28 da V2)')",
+      "F1_campos_reais": "OK — D-01 §impacto reescrito: 'condicao esparso, contexto nao existe, sentido_relacao nao existe como campo, eixo epistemico chama-se direcao'; degraus 2-3 declarados bloqueados; risco agravado registrado",
+      "F2_origem_eixos": "OK — D-02 reescrito: 2 eixos da evidencia (N1, heranca) + 2 da relacao (N2, propagacao) + trilha qualificador; 'no dado vigente natureza_evidencia e trilha nao existem'",
+      "F3_nomes_direcao": "OK — D-L05-NOMES-DIRECAO entra na tabela de dependencias como nao-bloqueante, etapa de schema",
+      "anexo_A_semantica_casa": "OK — tabela identica a carta 8 sec 7 (natureza herdada·desenho herdada-bruto-curadoria·forca_causal propagada-None-indefinido·grau propagada·TRILHA metadado preservado nao ordenavel); adendo trilha virou principio normativo na D-02",
+      "coberturas_honestas_novas": "D-01 degraus 2-3 bloqueados · D-02 '2 eixos plenos + 1 parcial', testes bloqueados p/ natureza e trilha com P-8 acusando ERRO · D-08 cobertura parcial ate fase multidominio — mantidos"
+    }
+  },
+  "secao_03_replicada": {
+    "comando": "python3 (carga das 3 fichas + vinculos; contagem de campo preenchido)",
+    "medido_natureza_evidencia_fichas": "0/237 preenchido, chave ausente em 237 — CONFERE com minuta2",
+    "medido_desenho_estudo_fichas": "237/237 preenchido (texto livre) — CONFERE",
+    "medido_forca_causal_vinculos": "274/274 (tier_1:5 tier_2:81 tier_3:70 tier_4:118) — CONFERE",
+    "medido_grau_maturidade_vinculos": "274/274 (muito_estabelecido:20 bem_suportado:129 moderadamente:78 emergente:45 hipotese:2) — CONFERE",
+    "medido_trilha_vinculos": "0/274, chave ausente — CONFERE",
+    "medido_natureza_relacao": "274/274 (causal:109 contributiva:100 associativa:56 nao_estabelecida:4 compensatoria:4 marcador:1) — CONFERE",
+    "medido_nao_estabelecida": "4 ocorrencias: VINC_B1_0028, VINC_B1V2_0197, VINC_B1V2_0198, VINC_B1V2_0202 — CONFERE EXATO com a lista dele",
+    "veredito_03": "os dois achados empiricos da secao 0.3 sao EXATOS no dado V7c"
+  },
+  "p8_nova_versao": {
+    "diff_vs_oficial_anterior": "somente o prometido: (1) SECAO_REGISTRO_RE aceita cabecalho em negrito (delimitador 94->91); (2) V-15 dentro/entre camadas ERRO->AVISO '[editorial]'; (3) BLOCO NOVO: checagem dos 5 eixos D-02 com origem correta N1 (natureza_evidencia, desenho_estudo em refs) x N2 (forca_causal, grau_maturidade, trilha em vinculos) — ERRO se eixo vazio, AVISO se parcial; assinatura validar_v15 ganha vinculos=(). Restantes diferencas: escapes unicode equivalentes",
+    "sintaxe": "ast.parse OK",
+    "execucao_nova": {
+      "comando": "cd atuais && python3 validar_coerencia_camadas.py . --json /tmp/p8_regime_novo.json",
+      "saida": "2 ERRO / 298 AVISO / exit 1",
+      "decomposicao_V15": "18 editorial DENTRO + 73 editorial ENTRE = 91 editoriais (EXATO a errata 94->91, medicao independente) + 181 sem-ficha + 0 eixo-parcial = 272 avisos V-15; 2 ERRO = natureza_evidencia (0/237) e trilha (0/274)",
+      "avisos_fora_V15": {"V-06": 18, "V-08": 6, "V-09": 1, "V-10": 1, "_soma": 26, "_total": 298},
+      "quadro_dele_confere": "V-01 0·V-02 0·V-04 0·V-05 0·V-13 0·V-14 0·V-16 0·V-15 2 ERRO·298 avisos — EXATO"
+    },
+    "execucao_antiga_BA": {
+      "comando": "mesma invocacao, script vigente anterior",
+      "saida": "94 ERRO / 207 AVISO / exit 1 (inalterado desde a trilha 28, sha V7 intacto)"
+    },
+    "instalacao": {
+      "decisao": "nova versao ADOTADA como P-8 oficial apos verificacao (delegacao de metodo do operador)",
+      "backup": "validar_coerencia_camadas.py.bak_oficial_pre_REGIME_CAMADAS_2026-09-15",
+      "oficial_sha_apos_instalacao": "0e67328e70ab5fe4e74c30592f61835b48c1778c525b4f7f731c429105e8718e",
+      "rerodada_oficial": "2 ERRO / 298 AVISO / exit 1 (evidencia: producao/p8_regime_camadas_oficial_2026-09-15.json; B/A: producao/p8_BA_regime_anterior_2026-09-15.json)"
+    },
+    "leitura_do_corredor": "o portao fica VERMELHO por desenho ate a migracao taxonomica criar natureza_evidencia (fichas) e trilha (vinculos): os 2 ERRO sao a regua de quanto falta p/ a D-02 ser executavel. Nao ha regresso editorial: os 91 editoriais viraram aviso sem perda de registro (titulo, camada, codigos preservados)"
+  },
+  "conclusao": "MINUTA 2 APROVADA — incorporacoes fieis, 0 mudanca silenciosa, achados 0.3 EXATOS por replicacao. P-8 novo regime VERIFICADO e adotado (2 ERRO/298 AVISO; 91 editoriais = 94->91; diff = so o prometido). Pendencias bilaterais deste eixo: ZERO. Restam as dependencias nomeadas na Parte 4 da minuta (taxonomia, campos novos) — todas com dono e medida. V2 pode fechar neste eixo; carta nº 3 ao auditor de estrutura pronta para disparo na ordem do operador."
+}

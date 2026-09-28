@@ -1,0 +1,57 @@
+{
+  "data": "2026-09-13",
+  "trilha": "19",
+  "tema": "[AT] C3 — REF_OSIMO_2019 + prosa §11.1 + TABELA + VINC_B1_0172 reavaliada",
+  "ops": [
+    {
+      "onde": "canônica §11.1 (BLOCO11.001)",
+      "de": "Aproximadamente **27%** dos pacientes com depressão apresentam PCR-us elevada (acima do limiar de inflamação d",
+      "para": "Aproximadamente **27%** dos pacientes com depressão apresentam inflamação de baixo grau conforme o limiar de P",
+      "descricao": "C3/AUD-051: 27%/OR~1,46 re-lastrados na meta de origem catalogada; corte permanece no C-LAB (P20); remove dependência da trilha SM"
+    },
+    {
+      "onde": "canônica TABELA DE EVIDÊNCIAS",
+      "de": "(Dowlati; Howren; Goldsmith; Osimo; 82 estudos)",
+      "para": "(Dowlati; Howren; Goldsmith; Osimo 2019/2020; 82 estudos)",
+      "descricao": "identificação explícita Osimo 2019/2020"
+    },
+    {
+      "onde": "canônica TABELA DE EVIDÊNCIAS",
+      "de": "~27% acima do limiar de inflamação de baixo grau (módulo C-LAB; OR~1,46)",
+      "para": "~27% conforme o limiar de PCR da meta de origem (Osimo 2019; OR~1,46; faixas/corte operacional no C-LAB)",
+      "descricao": "idem §11.1"
+    },
+    {
+      "onde": "canônica listra §11.1",
+      "de": "*Osimo_2020[MA] | RCT_infliximab[EC] | Setiawan_2015[EC] | Steiner_2011_QUIN[EC] | Reward_2022[EC]*",
+      "para": "*Osimo_2019[MA] | Osimo_2020[MA] | RCT_infliximab[EC] | Setiawan_2015[EC] | Steiner_2011_QUIN[EC] | Reward_202",
+      "descricao": "token OSIMO_2019[MA]"
+    },
+    {
+      "onde": "canônica APÊNDICE",
+      "de": "| NASH_2019[ML] | ZHOU_2020[ML]",
+      "para": "| NASH_2019[ML] | OSIMO_2019[MA] | ZHOU_2020[ML]",
+      "descricao": "token OSIMO_2019[MA] no índice de corpus"
+    },
+    {
+      "onde": "02_meta_analises.json",
+      "para": "REF_OSIMO_2019 (34ª meta-análise)",
+      "descricao": "ficha criada no rito [AT] com G1 eutils real 2026-09-13"
+    },
+    {
+      "onde": "vínculos",
+      "para": "VINC_B1_0274",
+      "descricao": "vínculo do claim 27%/OR~1,46 com âncora na frase corrigida"
+    },
+    {
+      "onde": "VINC_B1_0172",
+      "de": "ximadamente **27%** dos pacientes com depressão apresentam PCR-us elevada (acima do limiar de inflam",
+      "para": "âncora da frase corrigida + g3 com escopo explícito"
+    },
+    {
+      "onde": "ledger",
+      "para": "AUD_B1_0238",
+      "descricao": "entrada [AT] com abstract colado na verificacao"
+    }
+  ]
+}

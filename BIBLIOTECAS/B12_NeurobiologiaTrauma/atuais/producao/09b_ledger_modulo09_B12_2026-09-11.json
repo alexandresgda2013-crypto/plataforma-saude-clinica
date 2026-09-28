@@ -1,0 +1,223 @@
+{
+ "acao": "09b_reconciliacao_ledger_arquivo_modulo09",
+ "data": "2026-09-11",
+ "n": 36,
+ "det": [
+  {
+   "id_auditoria": "AUD_B12_0007",
+   "ref": "REF_OZER_2003",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0015",
+   "ref": "REF_POLE_2007",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0016",
+   "ref": "REF_ETKIN_2007",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0023",
+   "ref": "REF_KARG_2011",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0033",
+   "ref": "REF_BROMIS_2018",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0036",
+   "ref": "REF_SCHUMACHER_2019",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0041",
+   "ref": "REF_SARTORY_2013",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0043",
+   "ref": "REF_ODOHERTY_2015",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0045",
+   "ref": "REF_PAQUOLA_2016",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0046",
+   "ref": "REF_MARUSAK_2016",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0047",
+   "ref": "REF_VONWERNEBAES_2012",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0049",
+   "ref": "REF_SUAREZJIMENEZ_2020",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0057",
+   "ref": "REF_SERRABLASCO_2021",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0059",
+   "ref": "REF_POLLOK_2022",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0064",
+   "ref": "REF_XIAO_2022",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0065",
+   "ref": "REF_LIU_2022",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0066",
+   "ref": "REF_ZUGMAN_2023",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0068",
+   "ref": "REF_ZHONG_2024",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0071",
+   "ref": "REF_LU_2026",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0072",
+   "ref": "REF_BRANDL_2022",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0073",
+   "ref": "REF_CHAVANNE_2021",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0074",
+   "ref": "REF_JANIRI_2020",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0075",
+   "ref": "REF_GUO_2025",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0076",
+   "ref": "REF_CAO_2026",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0077",
+   "ref": "REF_SCHULZE_2019",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0078",
+   "ref": "REF_SHANG_2014",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0079",
+   "ref": "REF_HAYES_2012",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0081",
+   "ref": "REF_ESPINOZA_2020",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0083",
+   "ref": "REF_DELCASALE_2022",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0084",
+   "ref": "REF_ASHWORTH_2021",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0086",
+   "ref": "REF_DIBENEDETTO_2022",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0105",
+   "ref": "REF_GILL_2020",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0106",
+   "ref": "REF_CORDERO_2026",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0107",
+   "ref": "REF_MOJTABAVI_2020",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0109",
+   "ref": "REF_TYAGI_2026",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B12_0111",
+   "ref": "REF_MANTHEY_2021",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  }
+ ]
+}

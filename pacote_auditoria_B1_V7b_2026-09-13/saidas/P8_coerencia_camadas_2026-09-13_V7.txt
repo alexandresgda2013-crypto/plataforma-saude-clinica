@@ -1,0 +1,45 @@
+==========================================================================
+PORTÃO DE COERÊNCIA ENTRE CAMADAS (P-8) — atuais
+B1 NEUROINFLAMAÇÃO V7 CANONICA.md · refs 237 · vínculos 274 · ledger 237
+==========================================================================
+V-00: 0 erro(s), 0 aviso(s)
+     OK    canônica: B1 NEUROINFLAMAÇÃO V7 CANONICA.md (21503 palavras)
+     OK    Módulo 09: 237 · vínculos: 274 · ledger: 237
+V-01: 0 erro(s), 0 aviso(s)
+     OK    274/274 âncoras literais; 0 com deriva TIPOGRÁFICA; 0 com deriva LEXICAL
+V-04: 0 erro(s), 0 aviso(s)
+     OK    integridade referencial íntegra nos dois sentidos
+V-05: 0 erro(s), 0 aviso(s)
+     OK    citações reconhecidas: 279/288 (96.9% de cobertura sobre universo de 288)
+V-06: 0 erro(s), 18 aviso(s)
+     AVISO VINC_B1_0022: prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_WEI_2024 nem g3_notas registram a qualificação — possível correção não propagada
+     AVISO VINC_B1_0061: prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_DONATO_2013 nem g3_notas registram a qualificação — possível correção não propagada
+     AVISO VINC_B1_0068: prosa ancorada qualifica o achado (['reduzidos']) mas nem achado_central_molecular de REF_ELENI_2025 nem g3_notas registram a qualificação — possível correção não propagada
+     AVISO VINC_B1_0123: prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_STEINER_2011 nem g3_notas registram a qualificação — possível correção não propagada
+     AVISO VINC_B1_0131: prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_OSIMO_2020 nem g3_notas registram a qualificação — possível correção não propagada
+     AVISO VINC_B1_0175: prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_STEINER_2011 nem g3_notas registram a qualificação — possível correção não propagada
+     AVISO VINC_B1V2_0193: prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_GAO_2023 nem g3_notas registram a qualificação — possível correção não propagada
+     AVISO VINC_B1V2_0194: prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_KOMLEVA_2021 nem g3_notas registram a qualificação — possível correção não propagada
+     AVISO VINC_B1V2_0199: prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_PASSOS_2015 nem g3_notas registram a qualificação — possível correção não propagada
+     AVISO VINC_B1V2_0200: prosa ancorada qualifica o achado (['reduzido']) mas nem achado_central_molecular de REF_BHATT_2020 nem g3_notas registram a qualificação — possível correção não propagada
+     AVISO VINC_B1V2_0201: prosa ancorada qualifica o achado (['reduzido']) mas nem achado_central_molecular de REF_RUPPRECHT_2022 nem g3_notas registram a qualificação — possível correção não propagada
+     AVISO VINC_B1V2_0205: prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_XIA_2024 nem g3_notas registram a qualificação — possível correção não propagada
+     …e mais 6
+V-08: 0 erro(s), 6 aviso(s)
+     AVISO 21,5%: claim quantitativo sem âncora de vínculo na mesma linha: «**artefato_rotulo:** CANÔNICA V7 (rev. principal datada 2026-09-13 sobre a V6 final [sha e…»
+     AVISO 18%: claim quantitativo sem âncora de vínculo na mesma linha: «- TSPO-PET: o polimorfismo rs6971 (ligante baixa/alta afinidade) e a expressão em astrócit…»
+     AVISO 100%: claim quantitativo sem âncora de vínculo na mesma linha: «a 100% de literalidade contra esta Canônica: 151 re-extrações automáticas do pipeline da…»
+     AVISO n=8: claim quantitativo sem âncora de vínculo na mesma linha: «3. **R11 (menores textuais):** rótulo de desenho do Gavril 2024 (estudo original, não revi…»
+     AVISO 27%: claim quantitativo sem âncora de vínculo na mesma linha: «- **C3/AUD-051 — [AT]:** REF_OSIMO_2019 (PubMed 31258105, Psychological medicine 2019; met…»
+     AVISO 39,6%: claim quantitativo sem âncora de vínculo na mesma linha: «- **Réplica antes de aceitar (trilha 21):** §3-taxonomia medida dos dois lados — autodiver…»
+V-09: 0 erro(s), 1 aviso(s)
+     AVISO claim_id: 30 de 274 vínculos (10.9%) sem claim_id — malha de rastreabilidade não navegável por claim
+V-10: 0 erro(s), 1 aviso(s)
+     AVISO ledger: 221 de 237 (93%) entradas com citacao_literal preenchida por TOKEN e não por citação literal — o detector de deriva ledger×texto está inoperante
+V-13: 0 erro(s), 0 aviso(s)
+     OK    sha256 da canônica: 6e2c29797e6322f1…
+     OK    hash conferido contra a trilha campo sha256_canonica_vigente (registrado em 2026-09-13)
+V-14: 0 erro(s), 0 aviso(s)
+     OK    docstring x implementação coerentes: 14 regras anunciadas, todas executadas
+==========================================================================
+RESUMO: 0 ERRO(S), 26 AVISO(S).

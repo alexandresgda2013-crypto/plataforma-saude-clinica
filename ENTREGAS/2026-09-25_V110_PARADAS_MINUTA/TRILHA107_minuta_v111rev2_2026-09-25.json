@@ -1,0 +1,78 @@
+{
+  "trilha": 107,
+  "data": "2026-09-25",
+  "objeto": "minuta_v111_rev2_lotes",
+  "rev2_sha": "2efc0edd9ba8fdf312cae23aceafc840b9ec3f8a2bc5e9ed147fe2f5bb2f9a2c",
+  "total": 10,
+  "ok": 10,
+  "resultado": [
+    {
+      "id": "T1",
+      "descricao": "v1.10 vigente intacta",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T2",
+      "descricao": "rev.2 declara e fecha E-04 com 2 paradas",
+      "ok": true,
+      "detalhe": {
+        "n": 6
+      }
+    },
+    {
+      "id": "T3",
+      "descricao": "regra do Comentador verbatim (G1 não é parada)",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T4",
+      "descricao": "LISTA G1/G2/G2 CONGELADA presentes",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T5",
+      "descricao": "nível de leitura G3 (3 estados + nao_lido≠analisado)",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T6",
+      "descricao": "fora do rito + comando do operador mantidos",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T7",
+      "descricao": "corpo fora do cabeçalho/sequência idêntico ao v1.10",
+      "ok": true,
+      "detalhe": {
+        "len10": 27667,
+        "len2": 27667
+      }
+    },
+    {
+      "id": "T8",
+      "descricao": "4 decisões + portões intactos",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T9",
+      "descricao": "frases mortas v1.9 ausentes",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T10",
+      "descricao": "rev.2 ≠ rev.1 assinada (documento mudou → reconfirmar)",
+      "ok": true,
+      "detalhe": {
+        "r1": "ef27f8b3",
+        "r2": "2efc0edd"
+      }
+    }
+  ]
+}

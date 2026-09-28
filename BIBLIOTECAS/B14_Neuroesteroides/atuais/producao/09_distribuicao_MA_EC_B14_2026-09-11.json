@@ -1,0 +1,705 @@
+{
+ "acao": "09_distribuicao_MA_EC_MODULO09",
+ "data": "2026-09-11",
+ "biblioteca": "B14_Neuroesteroides",
+ "lei": "PROMPT_v4.2 instrução final: [MA]->02, [EC]->03; id único global (validar_auditoria.py)",
+ "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+ "contagens": {
+  "ficam_01": 254,
+  "vao_02_MA": 20,
+  "vao_03_EC": 16,
+  "conflitos": 3,
+  "tag_EC_amplo_nao_migrado": 65
+ },
+ "ids_para_02": [
+  {
+   "id": "REF_SCHORETSANITIS_2025",
+   "pmid": "39511449",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_WHEDON_2017",
+   "pmid": "27603786",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_HSU_2021",
+   "pmid": "34517034",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_WALTHER_2019",
+   "pmid": "30427999",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_FISCHER_2019",
+   "pmid": "31557486",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ALKATIB_2009",
+   "pmid": "19773400",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_PEIXOTO_2018",
+   "pmid": "30124161",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_DOMES_2024",
+   "pmid": "38471257",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ZHENG_2019",
+   "pmid": "31323375",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_FAYOUD_2024",
+   "pmid": "38802705",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_WINSLOW_2024",
+   "pmid": "38489051",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_XIAO_2026",
+   "pmid": "42401022",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_AMIEL_2021",
+   "pmid": "34171352",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_LIN_2023",
+   "pmid": "38045802",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_LI_2024",
+   "pmid": "38029628",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_RAJA_2024",
+   "pmid": "39035602",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_GROTSCH_2024",
+   "pmid": "38759520",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_PEIXOTO_2020",
+   "pmid": "32930419",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ZHANG_2023",
+   "pmid": "37068417",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_ALBLOOSHI_2023",
+   "pmid": "36961547",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  }
+ ],
+ "ids_para_03": [
+  {
+   "id": "REF_BIXO_2017",
+   "pmid": "28319848",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_BACKSTROM_2021",
+   "pmid": "34597899",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_GORDON_2018",
+   "pmid": "29322164",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_SCHMIDT_2015",
+   "pmid": "26018333",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_SOARES_2001",
+   "pmid": "11386980",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_WOLKOWITZ_1999",
+   "pmid": "10200751",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_STEIN_2015",
+   "pmid": "25620535",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_VICENTE_2020",
+   "pmid": "33009629",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_KANES_2017",
+   "pmid": "28619476",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_MELTZERBRODY_2018",
+   "pmid": "30177236",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_EPPERSON_2023",
+   "pmid": "36191643",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_DELIGIANNIDIS_2021",
+   "pmid": "34190962",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_CLAYTON_2023",
+   "pmid": "37132201",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_CLAYTON_2023b",
+   "pmid": "36811520",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_BROWN_2014",
+   "pmid": "24917198",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_LOZZAFIACCO_2022",
+   "pmid": "35809362",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  }
+ ],
+ "conflitos_tag_x_titulo_REVISAVEL": [
+  {
+   "id": "REF_SCHORETSANITIS_2025",
+   "pmid": "39511449",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  },
+  {
+   "id": "REF_ZHANG_2023",
+   "pmid": "37068417",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  },
+  {
+   "id": "REF_ALBLOOSHI_2023",
+   "pmid": "36961547",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  }
+ ],
+ "REVISAVEL_tag_EC_amplo_sem_sinal_RCT_nao_migrado": [
+  {
+   "id": "REF_CHISARI_2019",
+   "pmid": "30332607",
+   "desenho_estudo": "[EC]",
+   "titulo": "Visualizing pregnenolone sulfate-like modulators of NMDA receptor function reveals intracellular and plasma-membrane localization"
+  },
+  {
+   "id": "REF_SELJESET_2018",
+   "pmid": "29447845",
+   "desenho_estudo": "[EC]",
+   "titulo": "Probing GABA(A) receptors with inhibitory neurosteroids"
+  },
+  {
+   "id": "REF_BLOCH_2000",
+   "pmid": "10831472",
+   "desenho_estudo": "[EC]",
+   "titulo": "Effects of gonadal steroids in women with a history of postpartum depression"
+  },
+  {
+   "id": "REF_OSBORNE_2017",
+   "pmid": "28278440",
+   "desenho_estudo": "[EC]",
+   "titulo": "Lower allopregnanolone during pregnancy predicts postpartum depression: An exploratory study"
+  },
+  {
+   "id": "REF_OSBORNE_2025",
+   "pmid": "39885361",
+   "desenho_estudo": "[EC]",
+   "titulo": "Neuroactive steroid biosynthesis during pregnancy predicts future postpartum depression: a role for the 3α and/or 3β-HSD neurosteroidogenic "
+  },
+  {
+   "id": "REF_DELIGIANNIDIS_2016",
+   "pmid": "27209438",
+   "desenho_estudo": "[EC]",
+   "titulo": "Peripartum neuroactive steroid and γ-aminobutyric acid profiles in women at-risk for postpartum depression"
+  },
+  {
+   "id": "REF_DELIGIANNIDIS_2020",
+   "pmid": "32828068",
+   "desenho_estudo": "[EC]",
+   "titulo": "Longitudinal proneuroactive and neuroactive steroid profiles in medication-free women with, without and at-risk for perinatal depression: A "
+  },
+  {
+   "id": "REF_RUDZINSKAS_2023",
+   "pmid": "36782063",
+   "desenho_estudo": "[EC]",
+   "titulo": "Intrinsically dysregulated cellular stress signaling genes and gene networks in postpartum depression"
+  },
+  {
+   "id": "REF_KIMMEL_2016",
+   "pmid": "27108164",
+   "desenho_estudo": "[EC]",
+   "titulo": "Oxytocin receptor DNA methylation in postpartum depression"
+  },
+  {
+   "id": "REF_BALAN_2026",
+   "pmid": "41620430",
+   "desenho_estudo": "[EC]",
+   "titulo": "Brexanolone infusion produces sustained anti-inflammatory and neurotrophic effects in patients with postpartum depression that predict sympt"
+  },
+  {
+   "id": "REF_GIRDLER_2001",
+   "pmid": "11331087",
+   "desenho_estudo": "[EC]",
+   "titulo": "Allopregnanolone levels and reactivity to mental stress in premenstrual dysphoric disorder"
+  },
+  {
+   "id": "REF_FREEMAN_2002",
+   "pmid": "12352277",
+   "desenho_estudo": "[EC]",
+   "titulo": "Allopregnanolone levels and symptom improvement in severe premenstrual syndrome"
+  },
+  {
+   "id": "REF_SEGEBLADH_2013",
+   "pmid": "23329007",
+   "desenho_estudo": "[EC]",
+   "titulo": "Allopregnanolone serum concentrations and diurnal cortisol secretion in women with premenstrual dysphoric disorder"
+  },
+  {
+   "id": "REF_NYBERG_2007",
+   "pmid": "17558683",
+   "desenho_estudo": "[EC]",
+   "titulo": "Allopregnanolone decrease with symptom improvement during placebo and gonadotropin-releasing hormone agonist treatment in women with severe "
+  },
+  {
+   "id": "REF_GINGNELL_2013",
+   "pmid": "24001875",
+   "desenho_estudo": "[EC]",
+   "titulo": "Premenstrual dysphoric disorder and prefrontal reactivity during anticipation of emotional stimuli"
+  },
+  {
+   "id": "REF_STIERNMAN_2023",
+   "pmid": "37055419",
+   "desenho_estudo": "[EC]",
+   "titulo": "Emotion-induced brain activation across the menstrual cycle in individuals with premenstrual dysphoric disorder and associations to serum le"
+  },
+  {
+   "id": "REF_HAMIDOVIC_2024",
+   "pmid": "38664491",
+   "desenho_estudo": "[EC]",
+   "titulo": "Neuroactive steroid hormone trajectories across the menstrual cycle in premenstrual dysphoric disorder (PMDD): the PHASE study"
+  },
+  {
+   "id": "REF_MARTINEZ_2016",
+   "pmid": "26272051",
+   "desenho_estudo": "[EC]",
+   "titulo": "5α-Reductase Inhibition Prevents the Luteal Phase Increase in Plasma Allopregnanolone Levels and Mitigates Symptoms in Women with Premenstru"
+  },
+  {
+   "id": "REF_MILLER_2024",
+   "pmid": "38091917",
+   "desenho_estudo": "[EC]",
+   "titulo": "GABAergic neuroactive steroid response to sertraline in premenstrual dysphoric disorder"
+  },
+  {
+   "id": "REF_GIRDLER_2012",
+   "pmid": "21890277",
+   "desenho_estudo": "[EC]",
+   "titulo": "A history of depression in women is associated with an altered GABAergic neuroactive steroid profile"
+  },
+  {
+   "id": "REF_KIMBALL_2025",
+   "pmid": "39601877",
+   "desenho_estudo": "[EC]",
+   "titulo": "Neuroactive steroid levels are elevated in the follicular phase and predict premenstrual depression and anxiety symptom severity in women wi"
+  },
+  {
+   "id": "REF_PETERS_2025",
+   "pmid": "39143323",
+   "desenho_estudo": "[EC]",
+   "titulo": "Dimensional Affective Sensitivity to Hormones across the Menstrual Cycle (DASH-MC): A transdiagnostic framework for ovarian steroid influenc"
+  },
+  {
+   "id": "REF_JOFFE_2020",
+   "pmid": "31693131",
+   "desenho_estudo": "[EC]",
+   "titulo": "Impact of Estradiol Variability and Progesterone on Mood in Perimenopausal Women With Depressive Symptoms"
+  },
+  {
+   "id": "REF_GUERRIERI_2021",
+   "pmid": "34097071",
+   "desenho_estudo": "[EC]",
+   "titulo": "The Cortisol and ACTH Response to Dex/CRH Testing in Women With and Without Perimenopausal Depression"
+  },
+  {
+   "id": "REF_JOFFE_2011",
+   "pmid": "21525161",
+   "desenho_estudo": "[EC]",
+   "titulo": "Increased estradiol and improved sleep, but not hot flashes, predict enhanced mood during the menopausal transition"
+  },
+  {
+   "id": "REF_MEHTA_2019",
+   "pmid": "30457060",
+   "desenho_estudo": "[EC]",
+   "titulo": "Evidence for oestrogen sensitivity in perinatal depression: pharmacological sex hormone manipulation study"
+  },
+  {
+   "id": "REF_SCHMIDT_2021",
+   "pmid": "33470755",
+   "desenho_estudo": "[EC]",
+   "titulo": "The short-term effects of estradiol, raloxifene, and a phytoestrogen in women with perimenopausal depression"
+  },
+  {
+   "id": "REF_BONDY_2025",
+   "pmid": "40633782",
+   "desenho_estudo": "[EC]",
+   "titulo": "Effects of combined estrogen and bazedoxifene (CEB) on depressive symptoms in perimenopause"
+  },
+  {
+   "id": "REF_GLYNNE_2026",
+   "pmid": "40519046",
+   "desenho_estudo": "[EC]",
+   "titulo": "Transdermal oestradiol and testosterone therapy for menopausal depression and mood symptoms: retrospective cohort study"
+  },
+  {
+   "id": "REF_KACZMARCZYK_2024",
+   "pmid": "39448569",
+   "desenho_estudo": "[EC]",
+   "titulo": "Effects of separate and combined estradiol and progesterone administration on fear extinction in healthy pre-menopausal women"
+  },
+  {
+   "id": "REF_BIERWIRTH_2021",
+   "pmid": "33711549",
+   "desenho_estudo": "[EC]",
+   "titulo": "Prefrontal Theta Oscillations Are Modulated by Estradiol Status During Fear Recall and Extinction Recall"
+  },
+  {
+   "id": "REF_CHRONISTER_2021",
+   "pmid": "34375211",
+   "desenho_estudo": "[EC]",
+   "titulo": "Testosterone, estradiol, DHEA and cortisol in relation to anxiety and depression scores in adolescents"
+  },
+  {
+   "id": "REF_MOCKING_2015",
+   "pmid": "26036454",
+   "desenho_estudo": "[EC]",
+   "titulo": "DHEAS and cortisol/DHEAS-ratio in recurrent depression: State, or trait predicting 10-year recurrence?"
+  },
+  {
+   "id": "REF_O_2012",
+   "pmid": "22133517",
+   "desenho_estudo": "[EC]",
+   "titulo": "Age-dependent and -independent associations between depression, anxiety, DHEAS, and cortisol: from the MIPH Industrial Cohort Studies (MICS)"
+  },
+  {
+   "id": "REF_MOSHER_2018",
+   "pmid": "29544191",
+   "desenho_estudo": "[EC]",
+   "titulo": "Steroid 5α-reductase 2 deficiency leads to reduced dominance-related and impulse-control behaviors"
+  },
+  {
+   "id": "REF_SCHUBERT_2021",
+   "pmid": "33515765",
+   "desenho_estudo": "[EC]",
+   "titulo": "A Modest Increase in (11)C-PK11195-Positron Emission Tomography TSPO Binding in Depression Is Not Associated With Serum C-Reactive Protein o"
+  },
+  {
+   "id": "REF_RASMUSSON_2019",
+   "pmid": "30529908",
+   "desenho_estudo": "[EC]",
+   "titulo": "Relationships between cerebrospinal fluid GABAergic neurosteroid levels and symptom severity in men with PTSD"
+  },
+  {
+   "id": "REF_KIMBALL_2020",
+   "pmid": "31780185",
+   "desenho_estudo": "[EC]",
+   "titulo": "The allopregnanolone to progesterone ratio across the menstrual cycle and in menopause"
+  },
+  {
+   "id": "REF_BARONE_2023",
+   "pmid": "37611527",
+   "desenho_estudo": "[EC]",
+   "titulo": "Effects of estrogen and progesterone on neuroactive steroids and cytokines in patients with suicidality"
+  },
+  {
+   "id": "REF_LOMMATZSCH_2006",
+   "pmid": "16289360",
+   "desenho_estudo": "[EC]",
+   "titulo": "Maternal serum concentrations of BDNF and depression in the perinatal period"
+  },
+  {
+   "id": "REF_GERBASI_2021",
+   "pmid": "33181049",
+   "desenho_estudo": "[EC]",
+   "titulo": "Brexanolone in Postpartum Depression: Post Hoc Analyses to Help Inform Clinical Decision-Making"
+  },
+  {
+   "id": "REF_PARIKH_2024",
+   "pmid": "37875578",
+   "desenho_estudo": "[EC]",
+   "titulo": "Efficacy and safety of zuranolone co-initiated with an antidepressant in adults with major depressive disorder: results from the phase 3 COR"
+  },
+  {
+   "id": "REF_DELIGIANNIDIS_2023b",
+   "pmid": "36724109",
+   "desenho_estudo": "[EC]",
+   "titulo": "Effect of Zuranolone on Concurrent Anxiety and Insomnia Symptoms in Women With Postpartum Depression"
+  },
+  {
+   "id": "REF_YONKERS_1997",
+   "pmid": "9427873",
+   "desenho_estudo": "[EC]",
+   "titulo": "The association between premenstrual dysphoric disorder and other mood disorders"
+  },
+  {
+   "id": "REF_OSUJI_2010",
+   "pmid": "20493557",
+   "desenho_estudo": "[EC]",
+   "titulo": "Pregnenolone for cognition and mood in dual diagnosis patients"
+  },
+  {
+   "id": "REF_PEDRAZPETROZZI_2023",
+   "pmid": "37597381",
+   "desenho_estudo": "[EC]",
+   "titulo": "Reduced urine pregnenolone concentration after clinical response in patients with depression: An open-label short-term prospective study"
+  },
+  {
+   "id": "REF_RASMUSSON_2006",
+   "pmid": "16934764",
+   "desenho_estudo": "[EC]",
+   "titulo": "Decreased cerebrospinal fluid allopregnanolone levels in women with posttraumatic stress disorder"
+  },
+  {
+   "id": "REF_PINELES_2018",
+   "pmid": "29727810",
+   "desenho_estudo": "[EC]",
+   "titulo": "PTSD in women is associated with a block in conversion of progesterone to the GABAergic neurosteroids allopregnanolone and pregnanolone meas"
+  },
+  {
+   "id": "REF_STROHLE_2003",
+   "pmid": "12578433",
+   "desenho_estudo": "[EC]",
+   "titulo": "Induced panic attacks shift gamma-aminobutyric acid type A receptor modulatory neuroactive steroid composition in patients with panic disord"
+  },
+  {
+   "id": "REF_BRAMBILLA_2003",
+   "pmid": "12798975",
+   "desenho_estudo": "[EC]",
+   "titulo": "Neurosteroid secretion in panic disorder"
+  },
+  {
+   "id": "REF_UZUNOVA_1998",
+   "pmid": "9501247",
+   "desenho_estudo": "[EC]",
+   "titulo": "Increase in the cerebrospinal fluid content of neurosteroids in patients with unipolar major depression who are receiving fluoxetine or fluv"
+  },
+  {
+   "id": "REF_DELIGIANNIDIS_2023c",
+   "pmid": "36449311",
+   "desenho_estudo": "[EC]",
+   "titulo": "Error in Results"
+  },
+  {
+   "id": "REF_BICIKOVA_2000",
+   "pmid": "11152391",
+   "desenho_estudo": "[EC]",
+   "titulo": "Serum concentrations of some neuroactive steroids in women suffering from mixed anxiety-depressive disorder"
+  },
+  {
+   "id": "REF_SRIPADA_2013",
+   "pmid": "23348009",
+   "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Biol Psychiatry",
+   "titulo": "Allopregnanolone elevations following pregnenolone administration are associated with enhanced activation of emotion regulation neurocircuit"
+  },
+  {
+   "id": "REF_SRIPADA_2014",
+   "pmid": "24302681",
+   "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Hum Brain Mapp",
+   "titulo": "The neurosteroids allopregnanolone and dehydroepiandrosterone modulate resting-state amygdala connectivity"
+  },
+  {
+   "id": "REF_AGISBALBOA_2014",
+   "pmid": "24781515",
+   "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Psychopharmacology (Berl)",
+   "titulo": "5α-reductase type I expression is downregulated in the prefrontal cortex/Brodmann's area 9 (BA9) of depressed patients"
+  },
+  {
+   "id": "REF_DUKIC_2024",
+   "pmid": "39444825",
+   "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Front Glob Womens Health",
+   "titulo": "Estradiol and progesterone from pregnancy to postpartum: a longitudinal latent class analysis"
+  },
+  {
+   "id": "REF_ETYEMEZ_2023",
+   "pmid": "37423029",
+   "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Psychoneuroendocrinology",
+   "titulo": "Metabolites of progesterone in pregnancy: Associations with perinatal anxiety"
+  },
+  {
+   "id": "REF_EVANS_2005",
+   "pmid": "16373246",
+   "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Gynecol Endocrinol",
+   "titulo": "3alpha-reduced neuroactive steroids and their precursors during pregnancy and the postpartum period"
+  },
+  {
+   "id": "REF_GROTSCH_2024b",
+   "pmid": "39640510",
+   "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Front Behav Neurosci",
+   "titulo": "Allopregnanolone and mood in the peripartum: a longitudinal assessment in healthy women"
+  },
+  {
+   "id": "REF_HELLGREN_2014",
+   "pmid": "24776841",
+   "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Neuropsychobiology",
+   "titulo": "Low serum allopregnanolone is associated with symptoms of depression in late pregnancy"
+  },
+  {
+   "id": "REF_MULHALL_2018",
+   "pmid": "29290217",
+   "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Maturitas",
+   "titulo": "Variation in symptoms of depression and anxiety in midlife women by menopausal status"
+  },
+  {
+   "id": "REF_NAGDA_2023",
+   "pmid": "38029039",
+   "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · J Midlife Health",
+   "titulo": "A Cross-sectional Assessment of Depression, Anxiety, and Cognition in Perimenopausal and Menopausal Women"
+  },
+  {
+   "id": "REF_SANDER_2021",
+   "pmid": "34330326",
+   "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Biol Sex Differ",
+   "titulo": "Testosterone and depressive symptoms during the late menopause transition"
+  },
+  {
+   "id": "REF_STANDEVEN_2022",
+   "pmid": "34714413",
+   "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Arch Womens Ment Health",
+   "titulo": "Allopregnanolone and depression and anxiety symptoms across the peripartum: an exploratory study"
+  }
+ ],
+ "divida_nomeada": "forca_evidencia_afirmacao vazio quando a ficha não trazia (schema 09.2 exige; preenchimento exige avaliação — não fabricar)"
+}

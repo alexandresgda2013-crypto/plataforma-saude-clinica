@@ -1,0 +1,4725 @@
+[
+ {
+  "pmid_oficial": "2305266",
+  "titulo_artigo": "Transplanted suprachiasmatic nucleus determines circadian period",
+  "autores": [
+   "Ralph MR",
+   "Foster RG",
+   "Davis FC",
+   "Menaker M"
+  ],
+  "revista_ano": "Science (New York, N.Y.) (1990)",
+  "desenho_estudo": "[ML] Ralph_1990",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Transplanted suprachiasmatic nucleus determines circadian period",
+  "extrapolacao_por_analogia": "SIM — animal [EXT]",
+  "ids_referencia_interna": [
+   "REF_RALPH_1990"
+  ],
+  "id_referencia_interna": "REF_RALPH_1990",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal causal",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "RALPH",
+   "Ralph"
+  ]
+ },
+ {
+  "pmid_oficial": "2762432",
+  "titulo_artigo": "Circadian rhythms in depression and recovery: evidence for blunted amplitude as the main chronobiological abnormality",
+  "autores": [
+   "Souêtre E",
+   "Salvati E",
+   "Belugou JL",
+   "Pringuey D",
+   "Candito M",
+   "Krebs B"
+  ],
+  "revista_ano": "Psychiatry research (1989)",
+  "desenho_estudo": "[EC] Souetre_1989",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Circadian rhythms in depression and recovery: evidence for blunted amplitude as the main chronobiological abnormality",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SOUETRE_1989"
+  ],
+  "id_referencia_interna": "REF_SOUETRE_1989",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "SOUETRE",
+   "Souetre"
+  ]
+ },
+ {
+  "pmid_oficial": "3048226",
+  "titulo_artigo": "Social zeitgebers and biological rhythms. A unified approach to understanding the etiology of depression",
+  "autores": [
+   "Ehlers CL",
+   "Frank E",
+   "Kupfer DJ"
+  ],
+  "revista_ano": "Archives of general psychiatry (1988)",
+  "desenho_estudo": "[EC] Ehlers_na",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Social zeitgebers and biological rhythms. A unified approach to understanding the etiology of depression",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_EHLERS_1988"
+  ],
+  "id_referencia_interna": "REF_EHLERS_1988",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "EHLERS",
+   "Ehlers"
+  ]
+ },
+ {
+  "pmid_oficial": "3341881",
+  "titulo_artigo": "Electroencephalographic sleep in mania",
+  "autores": [
+   "Hudson JI",
+   "Lipinski JF",
+   "Frankenburg FR",
+   "Grochocinski VJ",
+   "Kupfer DJ"
+  ],
+  "revista_ano": "Archives of general psychiatry (1988)",
+  "desenho_estudo": "[EC] Wu_na",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Electroencephalographic sleep in mania",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_HUDSON_1988"
+  ],
+  "id_referencia_interna": "REF_HUDSON_1988",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "HUDSON",
+   "Hudson"
+  ]
+ },
+ {
+  "pmid_oficial": "6581756",
+  "titulo_artigo": "Seasonal affective disorder. A description of the syndrome and preliminary findings with light therapy",
+  "autores": [
+   "Rosenthal NE",
+   "Sack DA",
+   "Gillin JC",
+   "Lewy AJ",
+   "Goodwin FK",
+   "Davenport Y"
+  ],
+  "revista_ano": "Archives of general psychiatry (1984)",
+  "desenho_estudo": "[EC] Rosenwasser_na",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Seasonal affective disorder. A description of the syndrome and preliminary findings with light therapy",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ROSENTHAL_1984"
+  ],
+  "id_referencia_interna": "REF_ROSENTHAL_1984",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "ROSENTHAL",
+   "Rosenthal"
+  ]
+ },
+ {
+  "pmid_oficial": "11834834",
+  "titulo_artigo": "Melanopsin-containing retinal ganglion cells: architecture, projections, and intrinsic photosensitivity",
+  "autores": [
+   "Hattar S",
+   "Liao HW",
+   "Takao M",
+   "Berson DM",
+   "Yau KW"
+  ],
+  "revista_ano": "Science (New York, N.Y.) (2002)",
+  "desenho_estudo": "[ML] Hattar_2002",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Melanopsin-containing retinal ganglion cells: architecture, projections, and intrinsic photosensitivity",
+  "extrapolacao_por_analogia": "SIM — animal [EXT]",
+  "ids_referencia_interna": [
+   "REF_HATTAR_2002"
+  ],
+  "id_referencia_interna": "REF_HATTAR_2002",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal causal",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "HATTAR",
+   "Hattar"
+  ]
+ },
+ {
+  "pmid_oficial": "11834835",
+  "titulo_artigo": "Phototransduction by retinal ganglion cells that set the circadian clock",
+  "autores": [
+   "Berson DM",
+   "Dunn FA",
+   "Takao M"
+  ],
+  "revista_ano": "Science (New York, N.Y.) (2002)",
+  "desenho_estudo": "[ML] Berson_2002",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Phototransduction by retinal ganglion cells that set the circadian clock",
+  "extrapolacao_por_analogia": "SIM — animal [EXT]",
+  "ids_referencia_interna": [
+   "REF_BERSON_2002"
+  ],
+  "id_referencia_interna": "REF_BERSON_2002",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal causal",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "BERSON",
+   "Berson"
+  ]
+ },
+ {
+  "pmid_oficial": "12568247",
+  "titulo_artigo": "Life between clocks: daily temporal patterns of human chronotypes",
+  "autores": [
+   "Roenneberg T",
+   "Wirz-Justice A",
+   "Merrow M"
+  ],
+  "revista_ano": "Journal of biological rhythms (2003)",
+  "desenho_estudo": "[OB] Roenneberg_2003",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Life between clocks: daily temporal patterns of human chronotypes",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ROENNEBERG_2003"
+  ],
+  "id_referencia_interna": "REF_ROENNEBERG_2003",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "ROENNEBERG",
+   "Roenneberg"
+  ]
+ },
+ {
+  "pmid_oficial": "12717008",
+  "titulo_artigo": "A phase response curve to single bright light pulses in human subjects",
+  "autores": [
+   "Khalsa SB",
+   "Jewett ME",
+   "Cajochen C",
+   "Czeisler CA",
+   "New Collective Author"
+  ],
+  "revista_ano": "The Journal of physiology (2003)",
+  "desenho_estudo": "[EC] Khalsa_2003",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "A phase response curve to single bright light pulses in human subjects",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_KHALSA_2003"
+  ],
+  "id_referencia_interna": "REF_KHALSA_2003",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "KHALSA",
+   "Khalsa"
+  ]
+ },
+ {
+  "pmid_oficial": "16045060",
+  "titulo_artigo": "Chronotherapeutics (light and wake therapy) in affective disorders",
+  "autores": [
+   "Wirz-Justice A",
+   "Benedetti F",
+   "Berger M",
+   "Lam RW",
+   "Martiny K",
+   "Terman M"
+  ],
+  "revista_ano": "Psychological medicine (2005)",
+  "desenho_estudo": "[EC] Belgium_na",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Chronotherapeutics (light and wake therapy) in affective disorders",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_WIRZJUSTICE_2005"
+  ],
+  "id_referencia_interna": "REF_WIRZJUSTICE_2005",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "WIRZJUSTICE",
+   "Wirzjustice"
+  ]
+ },
+ {
+  "pmid_oficial": "16687313",
+  "titulo_artigo": "Circadian uses of melatonin in humans",
+  "autores": [
+   "Lewy AJ",
+   "Emens J",
+   "Jackman A",
+   "Yuhas K"
+  ],
+  "revista_ano": "Chronobiology international (2006)",
+  "desenho_estudo": "[OB] Lewy_na",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Circadian uses of melatonin in humans",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LEWY_2006"
+  ],
+  "id_referencia_interna": "REF_LEWY_2006",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "LEWY",
+   "Lewy"
+  ]
+ },
+ {
+  "pmid_oficial": "17379666",
+  "titulo_artigo": "Mania-like behavior induced by disruption of CLOCK",
+  "autores": [
+   "Roybal K",
+   "Theobold D",
+   "Graham A",
+   "DiNieri JA",
+   "Russo SJ",
+   "Krishnan V"
+  ],
+  "revista_ano": "Proceedings of the National Academy of Sciences of the United States of America (2007)",
+  "desenho_estudo": "[ML] Roybal_2007",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Mania-like behavior induced by disruption of CLOCK",
+  "extrapolacao_por_analogia": "SIM — animal [EXT]",
+  "ids_referencia_interna": [
+   "REF_ROYBAL_2007"
+  ],
+  "id_referencia_interna": "REF_ROYBAL_2007",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal causal",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "ROYBAL",
+   "Roybal"
+  ]
+ },
+ {
+  "pmid_oficial": "17689120",
+  "titulo_artigo": "Chronotherapeutics in a psychiatric ward",
+  "autores": [
+   "Benedetti F",
+   "Barbini B",
+   "Colombo C",
+   "Smeraldi E"
+  ],
+  "revista_ano": "Sleep medicine reviews (2007)",
+  "desenho_estudo": "[EC] Benedetti_2007",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Chronotherapeutics in a psychiatric ward",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BENEDETTI_2007"
+  ],
+  "id_referencia_interna": "REF_BENEDETTI_2007",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "BENEDETTI",
+   "Benedetti"
+  ]
+ },
+ {
+  "pmid_oficial": "19945890",
+  "titulo_artigo": "\"Hyperarousal and insomnia: state of the science\"",
+  "autores": [
+   "Riemann D"
+  ],
+  "revista_ano": "Sleep medicine reviews (2010)",
+  "desenho_estudo": "[OB] Riemann_2010",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "\"Hyperarousal and insomnia: state of the science\"",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_RIEMANN_2010"
+  ],
+  "id_referencia_interna": "REF_RIEMANN_2010",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "RIEMANN",
+   "Riemann"
+  ]
+ },
+ {
+  "pmid_oficial": "20004915",
+  "titulo_artigo": "A pilot study of the phase angle between cortisol and melatonin in major depression - a potential biomarker?",
+  "autores": [
+   "Buckley TM",
+   "Schatzberg AF"
+  ],
+  "revista_ano": "Journal of psychiatric research (2010)",
+  "desenho_estudo": "[EC] Buckley_2010",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "A pilot study of the phase angle between cortisol and melatonin in major depression - a potential biomarker?",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BUCKLEY_2010"
+  ],
+  "id_referencia_interna": "REF_BUCKLEY_2010",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "BUCKLEY",
+   "Buckley"
+  ]
+ },
+ {
+  "pmid_oficial": "20471106",
+  "titulo_artigo": "Phase relationships between core body temperature, melatonin, and sleep are associated with depression severity: further evidence for circadian misalignment in non-seasonal depression",
+  "autores": [
+   "Hasler BP",
+   "Buysse DJ",
+   "Kupfer DJ",
+   "Germain A"
+  ],
+  "revista_ano": "Psychiatry research (2010)",
+  "desenho_estudo": "[EC] Hasler_2010",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Phase relationships between core body temperature, melatonin, and sleep are associated with depression severity: further evidence for circadian misalignment in non-seasonal depression",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_HASLER_2010"
+  ],
+  "id_referencia_interna": "REF_HASLER_2010",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "HASLER",
+   "Hasler"
+  ]
+ },
+ {
+  "pmid_oficial": "20975857",
+  "titulo_artigo": "Pathophysiology of depression: do we have any solid evidence of interest to clinicians?",
+  "autores": [
+   "Hasler G"
+  ],
+  "revista_ano": "World psychiatry : official journal of the World Psychiatric Association (WPA) (2010)",
+  "desenho_estudo": "[EC] Cain_na",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Pathophysiology of depression: do we have any solid evidence of interest to clinicians?",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_HASLER_2010b"
+  ],
+  "id_referencia_interna": "REF_HASLER_2010b",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "HASLER",
+   "Hasler"
+  ]
+ },
+ {
+  "pmid_oficial": "22483041",
+  "titulo_artigo": "Central and peripheral circadian clocks in mammals",
+  "autores": [
+   "Mohawk JA",
+   "Green CB",
+   "Takahashi JS"
+  ],
+  "revista_ano": "Annual review of neuroscience (2012)",
+  "desenho_estudo": "[OB] Mohawk_2012",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Central and peripheral circadian clocks in mammals",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MOHAWK_2012"
+  ],
+  "id_referencia_interna": "REF_MOHAWK_2012",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "MOHAWK",
+   "Mohawk"
+  ]
+ },
+ {
+  "pmid_oficial": "22694957",
+  "titulo_artigo": "Genetic and functional abnormalities of the melatonin biosynthesis pathway in patients with bipolar disorder",
+  "autores": [
+   "Etain B",
+   "Dumaine A",
+   "Bellivier F",
+   "Pagan C",
+   "Francelle L",
+   "Goubran-Botros H"
+  ],
+  "revista_ano": "Human molecular genetics (2012)",
+  "desenho_estudo": "[OB] Etain_2012",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Genetic and functional abnormalities of the melatonin biosynthesis pathway in patients with bipolar disorder",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ETAIN_2012"
+  ],
+  "id_referencia_interna": "REF_ETAIN_2012",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "ETAIN",
+   "Etain"
+  ]
+ },
+ {
+  "pmid_oficial": "22906517",
+  "titulo_artigo": "Mechanisms of rapid antidepressant effects of sleep deprivation therapy: clock genes and circadian rhythms",
+  "autores": [
+   "Bunney BG",
+   "Bunney WE"
+  ],
+  "revista_ano": "Biological psychiatry (2013)",
+  "desenho_estudo": "[OB] Bunney_na",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Mechanisms of rapid antidepressant effects of sleep deprivation therapy: clock genes and circadian rhythms",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BUNNEY_2013"
+  ],
+  "id_referencia_interna": "REF_BUNNEY_2013",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "BUNNEY",
+   "Bunney"
+  ]
+ },
+ {
+  "pmid_oficial": "23321809",
+  "titulo_artigo": "Antidepressant effects of sleep deprivation require astrocyte-dependent adenosine mediated signaling",
+  "autores": [
+   "Hines DJ",
+   "Schmitt LI",
+   "Hines RM",
+   "Moss SJ",
+   "Haydon PG"
+  ],
+  "revista_ano": "Translational psychiatry (2013)",
+  "desenho_estudo": "[ML] Hines_2013",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Antidepressant effects of sleep deprivation require astrocyte-dependent adenosine mediated signaling",
+  "extrapolacao_por_analogia": "SIM — animal [EXT]",
+  "ids_referencia_interna": [
+   "REF_HINES_2013"
+  ],
+  "id_referencia_interna": "REF_HINES_2013",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal causal",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "HINES",
+   "Hines"
+  ]
+ },
+ {
+  "pmid_oficial": "23714074",
+  "titulo_artigo": "Disruption of circadian rhythms due to chronic constant light leads to depressive and anxiety-like behaviors in the rat",
+  "autores": [
+   "Tapia-Osorio A",
+   "Salgado-Delgado R",
+   "Angeles-Castellanos M",
+   "Escobar C"
+  ],
+  "revista_ano": "Behavioural brain research (2013)",
+  "desenho_estudo": "[ML] Tapia-Osorio_2013",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Disruption of circadian rhythms due to chronic constant light leads to depressive and anxiety-like behaviors in the rat",
+  "extrapolacao_por_analogia": "SIM — animal [EXT]",
+  "ids_referencia_interna": [
+   "REF_TAPIAOSORIO_2013"
+  ],
+  "id_referencia_interna": "REF_TAPIAOSORIO_2013",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal causal",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "TAPIAOSORIO",
+   "Tapiaosorio"
+  ]
+ },
+ {
+  "pmid_oficial": "27113500",
+  "titulo_artigo": "Genetic Disruption of Circadian Rhythms in the Suprachiasmatic Nucleus Causes Helplessness, Behavioral Despair, and Anxiety-like Behavior in Mice",
+  "autores": [
+   "Landgraf D",
+   "Long JE",
+   "Proulx CD",
+   "Barandas R",
+   "Malinow R",
+   "Welsh DK"
+  ],
+  "revista_ano": "Biological psychiatry (2016)",
+  "desenho_estudo": "[ML] Landgraf_2016",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Genetic Disruption of Circadian Rhythms in the Suprachiasmatic Nucleus Causes Helplessness, Behavioral Despair, and Anxiety-like Behavior in Mice",
+  "extrapolacao_por_analogia": "SIM — animal [EXT]",
+  "ids_referencia_interna": [
+   "REF_LANDGRAF_2016"
+  ],
+  "id_referencia_interna": "REF_LANDGRAF_2016",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal causal",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "LANDGRAF",
+   "Landgraf"
+  ]
+ },
+ {
+  "pmid_oficial": "28140399",
+  "titulo_artigo": "Timing of light exposure affects mood and brain circuits",
+  "autores": [
+   "Bedrosian TA",
+   "Nelson RJ"
+  ],
+  "revista_ano": "Translational psychiatry (2017)",
+  "desenho_estudo": "[OB] Bedrosian_na",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Timing of light exposure affects mood and brain circuits",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BEDROSIAN_2017"
+  ],
+  "id_referencia_interna": "REF_BEDROSIAN_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "BEDROSIAN",
+   "Bedrosian"
+  ]
+ },
+ {
+  "pmid_oficial": "29163035",
+  "titulo_artigo": "NPAS2 Regulation of Anxiety-Like Behavior and GABAA Receptors",
+  "autores": [
+   "Ozburn AR",
+   "Kern J",
+   "Parekh PK",
+   "Logan RW",
+   "Liu Z",
+   "Falcon E"
+  ],
+  "revista_ano": "Frontiers in molecular neuroscience (2017)",
+  "desenho_estudo": "[ML] Ozburn_2017",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "NPAS2 Regulation of Anxiety-Like Behavior and GABAA Receptors",
+  "extrapolacao_por_analogia": "SIM — animal [EXT]",
+  "ids_referencia_interna": [
+   "REF_OZBURN_2017"
+  ],
+  "id_referencia_interna": "REF_OZBURN_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal causal",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "OZBURN",
+   "Ozburn"
+  ]
+ },
+ {
+  "pmid_oficial": "29230328",
+  "titulo_artigo": "Circadian Rhythm Disturbances in Mood Disorders: Insights into the Role of the Suprachiasmatic Nucleus",
+  "autores": [
+   "Vadnie CA",
+   "McClung CA"
+  ],
+  "revista_ano": "Neural plasticity (2017)",
+  "desenho_estudo": "[OB] Vadnie_2017",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Circadian Rhythm Disturbances in Mood Disorders: Insights into the Role of the Suprachiasmatic Nucleus",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_VADNIE_2017"
+  ],
+  "id_referencia_interna": "REF_VADNIE_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "MCCLUNG",
+   "McClung",
+   "VADNIE",
+   "Vadnie",
+   "mcclung"
+  ]
+ },
+ {
+  "pmid_oficial": "29934559",
+  "titulo_artigo": "Generation of circadian rhythms in the suprachiasmatic nucleus",
+  "autores": [
+   "Hastings MH",
+   "Maywood ES",
+   "Brancaccio M"
+  ],
+  "revista_ano": "Nature reviews. Neuroscience (2018)",
+  "desenho_estudo": "[OB] Hastings_2018",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Generation of circadian rhythms in the suprachiasmatic nucleus",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_HASTINGS_2018"
+  ],
+  "id_referencia_interna": "REF_HASTINGS_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "BRANCACCIO",
+   "Brancaccio",
+   "HASTINGS",
+   "Hastings",
+   "brancaccio"
+  ]
+ },
+ {
+  "pmid_oficial": "30173913",
+  "titulo_artigo": "Light Affects Mood and Learning through Distinct Retina-Brain Pathways",
+  "autores": [
+   "Fernandez DC",
+   "Fogerson PM",
+   "Lazzerini Ospri L",
+   "Thomsen MB",
+   "Layne RM",
+   "Severin D"
+  ],
+  "revista_ano": "Cell (2018)",
+  "desenho_estudo": "[EC] Fernandez_2018",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Light Affects Mood and Learning through Distinct Retina-Brain Pathways",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_FERNANDEZ_2018"
+  ],
+  "id_referencia_interna": "REF_FERNANDEZ_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "FERNANDEZ",
+   "Fernandez"
+  ]
+ },
+ {
+  "pmid_oficial": "30459365",
+  "titulo_artigo": "Rhythms of life: circadian disruption and brain disorders across the lifespan",
+  "autores": [
+   "Logan RW",
+   "McClung CA"
+  ],
+  "revista_ano": "Nature reviews. Neuroscience (2019)",
+  "desenho_estudo": "[OB] McClung_2019",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Rhythms of life: circadian disruption and brain disorders across the lifespan",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LOGAN_2019"
+  ],
+  "id_referencia_interna": "REF_LOGAN_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "LOGAN",
+   "Logan",
+   "MCCLUNG",
+   "McClung"
+  ]
+ },
+ {
+  "pmid_oficial": "30822422",
+  "titulo_artigo": "Dim light at night impairs recovery from global cerebral ischemia",
+  "autores": [
+   "Fonken LK",
+   "Bedrosian TA",
+   "Zhang N",
+   "Weil ZM",
+   "DeVries AC",
+   "Nelson RJ"
+  ],
+  "revista_ano": "Experimental neurology (2019)",
+  "desenho_estudo": "[OB] Fonken_2019",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Dim light at night impairs recovery from global cerebral ischemia",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_FONKEN_2019"
+  ],
+  "id_referencia_interna": "REF_FONKEN_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "FONKEN",
+   "Fonken"
+  ]
+ },
+ {
+  "pmid_oficial": "31297929",
+  "titulo_artigo": "Sleep, insomnia and neurological and mental disorders",
+  "autores": [
+   "Riemann D"
+  ],
+  "revista_ano": "Journal of sleep research (2019)",
+  "desenho_estudo": "[OB] Riemann_2019",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Sleep, insomnia and neurological and mental disorders",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_RIEMANN_2019"
+  ],
+  "id_referencia_interna": "REF_RIEMANN_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "RIEMANN",
+   "Riemann"
+  ]
+ },
+ {
+  "pmid_oficial": "31368377",
+  "titulo_artigo": "Advanced melatonin onset relative to sleep in women with unmedicated major depressive disorder",
+  "autores": [
+   "Coleman MY",
+   "McGlashan EM",
+   "Vidafar P",
+   "Phillips AJK",
+   "Cain SW"
+  ],
+  "revista_ano": "Chronobiology international (2019)",
+  "desenho_estudo": "[EC] Coleman_2019",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Advanced melatonin onset relative to sleep in women with unmedicated major depressive disorder",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_COLEMAN_2019"
+  ],
+  "id_referencia_interna": "REF_COLEMAN_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "COLEMAN",
+   "Coleman"
+  ]
+ },
+ {
+  "pmid_oficial": "34419186",
+  "titulo_artigo": "Circadian rhythm sleep-wake disturbances and depression in young people: implications for prevention and early intervention",
+  "autores": [
+   "Crouse JJ",
+   "Carpenter JS",
+   "Song YJC",
+   "Hockey SJ",
+   "Naismith SL",
+   "Grunstein RR"
+  ],
+  "revista_ano": "The lancet. Psychiatry (2021)",
+  "desenho_estudo": "[OB] Crouse_2021",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Circadian rhythm sleep-wake disturbances and depression in young people: implications for prevention and early intervention",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CROUSE_2021"
+  ],
+  "id_referencia_interna": "REF_CROUSE_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "CROUSE",
+   "Crouse"
+  ]
+ },
+ {
+  "pmid_oficial": "40118822",
+  "titulo_artigo": "Suprachiasmatic nucleus dysfunction induces anxiety- and depression-like behaviors via activating the BDNF-TrkB pathway of the striatum",
+  "autores": [
+   "Liang X",
+   "Ding Y",
+   "Zhu X",
+   "Qiu J",
+   "Shen X",
+   "Xiong Y"
+  ],
+  "revista_ano": "Translational psychiatry (2025)",
+  "desenho_estudo": "[ML] Liang_2025",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Suprachiasmatic nucleus dysfunction induces anxiety- and depression-like behaviors via activating the BDNF-TrkB pathway of the striatum",
+  "extrapolacao_por_analogia": "SIM — animal [EXT]",
+  "ids_referencia_interna": [
+   "REF_LIANG_2025"
+  ],
+  "id_referencia_interna": "REF_LIANG_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal causal",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "LIANG",
+   "Liang"
+  ]
+ },
+ {
+  "pmid_oficial": "40705857",
+  "titulo_artigo": "Light therapy for bipolar disorders: Clinical recommendations from the international society for bipolar disorders (ISBD) Chronobiology and Chronotherapy Task Force",
+  "autores": [
+   "Geoffroy PA",
+   "Palagini L",
+   "Henriksen TEG",
+   "Bourgin P",
+   "Garbazza C",
+   "Gronfier C"
+  ],
+  "revista_ano": "Dialogues in clinical neuroscience (2025)",
+  "desenho_estudo": "[OB] Geoffroy_2025",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Light therapy for bipolar disorders: Clinical recommendations from the international society for bipolar disorders (ISBD) Chronobiology and Chronotherapy Task Force",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GEOFFROY_2025"
+  ],
+  "id_referencia_interna": "REF_GEOFFROY_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "GEOFFROY",
+   "Geoffroy"
+  ]
+ },
+ {
+  "pmid_oficial": "41023421",
+  "titulo_artigo": "The mPFC molecular clock mediates the effects of sleep deprivation on depression-like behavior and regulates sleep consolidation and homeostasis",
+  "autores": [
+   "Gardner W",
+   "Sarrazin DH",
+   "Balzinger M",
+   "Marchese C",
+   "Ragno A",
+   "Ramanathan C"
+  ],
+  "revista_ano": "Molecular psychiatry (2026)",
+  "desenho_estudo": "[ML] Gardner_2026",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "The mPFC molecular clock mediates the effects of sleep deprivation on depression-like behavior and regulates sleep consolidation and homeostasis",
+  "extrapolacao_por_analogia": "SIM — animal [EXT]",
+  "ids_referencia_interna": [
+   "REF_GARDNER_2026"
+  ],
+  "id_referencia_interna": "REF_GARDNER_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal causal",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "GARDNER",
+   "Gardner"
+  ]
+ },
+ {
+  "pmid_oficial": "16474406",
+  "titulo_artigo": "Feedback repression is required for mammalian circadian clock function.",
+  "autores": [
+   "Sato TK",
+   "Yamada RG",
+   "Ukai H",
+   "Baggs JE",
+   "Miraglia LJ",
+   "Kobayashi TJ"
+  ],
+  "revista_ano": "Nat Genet (2006)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · Nat Genet",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "A repressão por retroalimentação é obrigatória para a função do relógio circadiano de mamíferos.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_SATO_2006"
+  ],
+  "id_referencia_interna": "REF_SATO_2006",
+  "doi": "10.1038/ng1745",
+  "claim_id_origem": "B10.MEC.BLOCO01.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "SATO",
+   "Sato"
+  ]
+ },
+ {
+  "pmid_oficial": "10428031",
+  "titulo_artigo": "mCRY1 and mCRY2 are essential components of the negative limb of the circadian clock feedback loop.",
+  "autores": [
+   "Kume K",
+   "Zylka MJ",
+   "Sriram S",
+   "Shearman LP",
+   "Weaver DR",
+   "Jin X"
+  ],
+  "revista_ano": "Cell (1999)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · Cell",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "CRY1 e CRY2 são componentes essenciais do braço negativo do laço transcricional (TTFL).",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_KUME_1999"
+  ],
+  "id_referencia_interna": "REF_KUME_1999",
+  "doi": "10.1016/s0092-8674(00)81014-4",
+  "claim_id_origem": "B10.MEC.BLOCO01.002",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "KUME",
+   "Kume"
+  ]
+ },
+ {
+  "pmid_oficial": "21613214",
+  "titulo_artigo": "Biochemical analysis of the canonical model for the mammalian circadian clock.",
+  "autores": [
+   "Ye R",
+   "Selby CP",
+   "Ozturk N",
+   "Annayev Y",
+   "Sancar A"
+  ],
+  "revista_ano": "J Biol Chem (2011)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · J Biol Chem",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Reconstituição bioquímica do modelo canônico de feedback negativo do relógio de mamíferos.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_YE_2011"
+  ],
+  "id_referencia_interna": "REF_YE_2011",
+  "doi": "10.1074/jbc.M111.254680",
+  "claim_id_origem": "B10.MEC.BLOCO01.003",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "YE",
+   "Ye"
+  ]
+ },
+ {
+  "pmid_oficial": "25228643",
+  "titulo_artigo": "Dual modes of CLOCK:BMAL1 inhibition mediated by Cryptochrome and Period proteins in the mammalian circadian clock.",
+  "autores": [
+   "Ye R",
+   "Selby CP",
+   "Chiou YY",
+   "Ozkan-Dagliyan I",
+   "Gaddameedhi S",
+   "Sancar A"
+  ],
+  "revista_ano": "Genes Dev (2014)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · Genes Dev",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "CRY e PER inibem CLOCK:BMAL1 por dois modos distintos no TTFL de mamíferos.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_YE_2014"
+  ],
+  "id_referencia_interna": "REF_YE_2014",
+  "doi": "10.1101/gad.249417.114",
+  "claim_id_origem": "B10.MEC.BLOCO01.004",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "YE",
+   "Ye"
+  ]
+ },
+ {
+  "pmid_oficial": "21680841",
+  "titulo_artigo": "A molecular mechanism for circadian clock negative feedback.",
+  "autores": [
+   "Duong HA",
+   "Robles MS",
+   "Knutti D",
+   "Weitz CJ"
+  ],
+  "revista_ano": "Science (2011)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · Science",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Mecanismo molecular do feedback negativo do relógio via complexos repressivos macromoleculares.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_DUONG_2011"
+  ],
+  "id_referencia_interna": "REF_DUONG_2011",
+  "doi": "10.1126/science.1196766",
+  "claim_id_origem": "B10.MEC.BLOCO01.005",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "DUONG",
+   "Duong"
+  ]
+ },
+ {
+  "pmid_oficial": "25127877",
+  "titulo_artigo": "Molecular assembly of the period-cryptochrome circadian transcriptional repressor complex.",
+  "autores": [
+   "Nangle SN",
+   "Rosensweig C",
+   "Koike N",
+   "Tei H",
+   "Takahashi JS",
+   "Green CB"
+  ],
+  "revista_ano": "Elife (2014)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · Elife",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Montagem molecular do complexo repressor transcricional PER–criptocromo.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_NANGLE_2014"
+  ],
+  "id_referencia_interna": "REF_NANGLE_2014",
+  "doi": "10.1038/nature10618",
+  "claim_id_origem": "B10.MEC.BLOCO01.006",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "NANGLE",
+   "Nangle"
+  ]
+ },
+ {
+  "pmid_oficial": "25961797",
+  "titulo_artigo": "Cryptochrome 1 regulates the circadian clock through dynamic interactions with the BMAL1 C terminus.",
+  "autores": [
+   "Xu H",
+   "Gustafson CL",
+   "Sammons PJ",
+   "Khan SK",
+   "Parsley NC",
+   "Ramanathan C"
+  ],
+  "revista_ano": "Nat Struct Mol Biol (2015)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · Nat Struct Mol Biol",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "CRY1 regula o relógio por interações dinâmicas com o C-terminal de BMAL1.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_XU_2015"
+  ],
+  "id_referencia_interna": "REF_XU_2015",
+  "doi": "10.1038/nsmb.3018",
+  "claim_id_origem": "B10.MEC.BLOCO01.007",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "XU",
+   "Xu"
+  ]
+ },
+ {
+  "pmid_oficial": "28143926",
+  "titulo_artigo": "Formation of a repressive complex in the mammalian circadian clock is mediated by the secondary pocket of CRY1.",
+  "autores": [
+   "Michael AK",
+   "Fribourgh JL",
+   "Chelliah Y",
+   "Sandate CR",
+   "Hura GL",
+   "Schneidman-Duhovny D"
+  ],
+  "revista_ano": "Proc Natl Acad Sci U S A (2017)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · Proc Natl Acad Sci U S A",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "A formação do complexo repressor do relógio é mediada pelo bolso secundário de CRY1.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_MICHAEL_2017"
+  ],
+  "id_referencia_interna": "REF_MICHAEL_2017",
+  "doi": "10.1073/pnas.1615310114",
+  "claim_id_origem": "B10.MEC.BLOCO01.008",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "MICHAEL",
+   "Michael"
+  ]
+ },
+ {
+  "pmid_oficial": "24043798",
+  "titulo_artigo": "A positive feedback loop links circadian clock factor CLOCK-BMAL1 to the basic transcriptional machinery.",
+  "autores": [
+   "Lande-Diner L",
+   "Boyault C",
+   "Kim JY",
+   "Weitz CJ"
+  ],
+  "revista_ano": "Proc Natl Acad Sci U S A (2013)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · Proc Natl Acad Sci U S A",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Um laço de feedback positivo conecta CLOCK–BMAL1 ao maquinário basal de transcrição.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_LANDEDINER_2013"
+  ],
+  "id_referencia_interna": "REF_LANDEDINER_2013",
+  "doi": "10.1073/pnas.1305980110",
+  "claim_id_origem": "B10.MEC.BLOCO01.009",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "LANDE-DINER",
+   "Lande-Diner"
+  ]
+ },
+ {
+  "pmid_oficial": "35999195",
+  "titulo_artigo": "Rhythmic transcription of Bmal1 stabilizes the circadian timekeeping system in mammals.",
+  "autores": [
+   "Abe YO",
+   "Yoshitane H",
+   "Kim DW",
+   "Kawakami S",
+   "Koebis M",
+   "Nakao K"
+  ],
+  "revista_ano": "Nat Commun (2022)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · Nat Commun",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "A transcrição rítmica de Bmal1 estabiliza o sistema de marcação temporal em mamíferos.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_ABE_2022"
+  ],
+  "id_referencia_interna": "REF_ABE_2022",
+  "doi": "10.1093/bioinformatics/btw243",
+  "claim_id_origem": "B10.MEC.BLOCO01.010",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "ABE",
+   "Abe"
+  ]
+ },
+ {
+  "pmid_oficial": "24736997",
+  "titulo_artigo": "A novel protein, CHRONO, functions as a core component of the mammalian circadian clock.",
+  "autores": [
+   "Goriki A",
+   "Hatanaka F",
+   "Myung J",
+   "Kim JK",
+   "Yoritaka T",
+   "Tanoue S"
+  ],
+  "revista_ano": "PLoS Biol (2014)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · PLoS Biol",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "A proteína CHRONO funciona como componente de núcleo do relógio circadiano de mamíferos.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_GORIKI_2014"
+  ],
+  "id_referencia_interna": "REF_GORIKI_2014",
+  "doi": "10.1371/journal.pbio.1001839",
+  "claim_id_origem": "B10.MEC.BLOCO01.011",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "GORIKI",
+   "Goriki"
+  ]
+ },
+ {
+  "pmid_oficial": "41108717",
+  "titulo_artigo": "Phosphorylation of CLOCK and BMAL1-a key regulatory mechanism in the mammalian circadian clockwork.",
+  "autores": [
+   "Otobe Y",
+   "Yoshitane H"
+  ],
+  "revista_ano": "FEBS Lett (2026)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · FEBS Lett",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Revisão: a fosforilação de CLOCK e BMAL1 é mecanismo regulatório chave do relógio de mamíferos.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_OTOBE_2026"
+  ],
+  "id_referencia_interna": "REF_OTOBE_2026",
+  "doi": "10.1002/1873-3468.70194",
+  "claim_id_origem": "B10.MEC.BLOCO01.012",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "OTOBE",
+   "Otobe"
+  ]
+ },
+ {
+  "pmid_oficial": "42290481",
+  "titulo_artigo": "Nuclear CK1δ as a critical determinant of PER:CRY complex dynamics and circadian period.",
+  "autores": [
+   "Serrano FE",
+   "Marzoll D",
+   "Ruppert B",
+   "Diernfellner ACR",
+   "Brunner M"
+  ],
+  "revista_ano": "Elife (2026)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · Elife",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "CK1δ nuclear é determinante crítico da dinâmica do complexo PER:CRY e do período circadiano.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_SERRANO_2026"
+  ],
+  "id_referencia_interna": "REF_SERRANO_2026",
+  "doi": "10.1016/j.molcel.2015.08.022",
+  "claim_id_origem": "B10.MEC.BLOCO01.013",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "SERRANO",
+   "Serrano"
+  ]
+ },
+ {
+  "pmid_oficial": "28886335",
+  "titulo_artigo": "Macromolecular Assemblies of the Mammalian Circadian Clock.",
+  "autores": [
+   "Aryal RP",
+   "Kwak PB",
+   "Tamayo AG",
+   "Gebert M",
+   "Chiu PL",
+   "Walz T"
+  ],
+  "revista_ano": "Mol Cell (2017)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Mol Cell",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Revisão das assembleias macromoleculares do relógio circadiano de mamíferos.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_ARYAL_2017"
+  ],
+  "id_referencia_interna": "REF_ARYAL_2017",
+  "doi": "10.1371/journal.pbio.1000595",
+  "claim_id_origem": "B10.MEC.BLOCO01.014",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "ARYAL",
+   "Aryal"
+  ]
+ },
+ {
+  "pmid_oficial": "12865428",
+  "titulo_artigo": "Genome-wide expression analysis of mouse liver reveals CLOCK-regulated circadian output genes.",
+  "autores": [
+   "Oishi K",
+   "Miyazaki K",
+   "Kadota K",
+   "Kikuno R",
+   "Nagase T",
+   "Atsumi G"
+  ],
+  "revista_ano": "J Biol Chem (2003)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · J Biol Chem",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Análise genômica de expressão hepática revela genes de saída circadianos regulados por CLOCK.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_OISHI_2003"
+  ],
+  "id_referencia_interna": "REF_OISHI_2003",
+  "doi": "10.1074/jbc.M304564200",
+  "claim_id_origem": "B10.MEC.BLOCO01.015",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "OISHI",
+   "Oishi"
+  ]
+ },
+ {
+  "pmid_oficial": "26332962",
+  "titulo_artigo": "Molecular components of the circadian clock in mammals.",
+  "autores": [
+   "Takahashi JS"
+  ],
+  "revista_ano": "Diabetes Obes Metab (2015)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Diabetes Obes Metab",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Revisão dos componentes moleculares do relógio circadiano em mamíferos.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_TAKAHASHI_2015"
+  ],
+  "id_referencia_interna": "REF_TAKAHASHI_2015",
+  "doi": "10.1111/dom.12514",
+  "claim_id_origem": "B10.MEC.BLOCO01.016",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "TAKAHASHI",
+   "Takahashi"
+  ]
+ },
+ {
+  "pmid_oficial": "21665298",
+  "titulo_artigo": "Cell autonomy and synchrony of suprachiasmatic nucleus circadian oscillators.",
+  "autores": [
+   "Mohawk JA",
+   "Takahashi JS"
+  ],
+  "revista_ano": "Trends Neurosci (2011)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Trends Neurosci",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Revisão: autonomia celular e sincronia dos osciladores circadianos do núcleo supraquiasmático.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MOHAWK_2011"
+  ],
+  "id_referencia_interna": "REF_MOHAWK_2011",
+  "doi": "10.1371/journal.pgen.0030033",
+  "claim_id_origem": "B10.MEC.BLOCO01.017",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "MOHAWK",
+   "Mohawk"
+  ]
+ },
+ {
+  "pmid_oficial": "20148688",
+  "titulo_artigo": "Suprachiasmatic nucleus: cell autonomy and network properties.",
+  "autores": [
+   "Welsh DK",
+   "Takahashi JS",
+   "Kay SA"
+  ],
+  "revista_ano": "Annu Rev Physiol (2010)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Annu Rev Physiol",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Revisão anual: SCN — autonomia celular e propriedades de rede.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_WELSH_2010"
+  ],
+  "id_referencia_interna": "REF_WELSH_2010",
+  "doi": "10.1146/annurev-physiol-021909-135919",
+  "claim_id_origem": "B10.MEC.BLOCO01.018",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "WELSH",
+   "Welsh"
+  ]
+ },
+ {
+  "pmid_oficial": "32768389",
+  "titulo_artigo": "Dual-Color Single-Cell Imaging of the Suprachiasmatic Nucleus Reveals a Circadian Role in Network Synchrony.",
+  "autores": [
+   "Shan Y",
+   "Abel JH",
+   "Li Y",
+   "Izumo M",
+   "Cox KH",
+   "Jeong B"
+  ],
+  "revista_ano": "Neuron (2020)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · Neuron",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Imagem dual em célula única revela papel circadiano na sincronia da rede do SCN.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_SHAN_2020"
+  ],
+  "id_referencia_interna": "REF_SHAN_2020",
+  "doi": "10.1177/0748730420932073",
+  "claim_id_origem": "B10.MEC.BLOCO01.019",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "SHAN",
+   "Shan"
+  ]
+ },
+ {
+  "pmid_oficial": "38366616",
+  "titulo_artigo": "The Suprachiasmatic Nucleus at 50: Looking Back, Then Looking Forward.",
+  "autores": [
+   "Ono D",
+   "Weaver DR",
+   "Hastings MH",
+   "Honma KI",
+   "Honma S",
+   "Silver R"
+  ],
+  "revista_ano": "J Biol Rhythms (2024)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · J Biol Rhythms",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "O núcleo supraquiasmático aos 50 anos: retrospectiva e prospectiva (revisão).",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_ONO_2024"
+  ],
+  "id_referencia_interna": "REF_ONO_2024",
+  "doi": "10.1177/07487304231225706",
+  "claim_id_origem": "B10.MEC.BLOCO01.020",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "ONO",
+   "Ono"
+  ]
+ },
+ {
+  "pmid_oficial": "30082421",
+  "titulo_artigo": "SCN VIP Neurons Are Essential for Normal Light-Mediated Resetting of the Circadian System.",
+  "autores": [
+   "Jones JR",
+   "Simon T",
+   "Lones L",
+   "Herzog ED"
+  ],
+  "revista_ano": "J Neurosci (2018)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · J Neurosci",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Neurônios VIP do SCN são essenciais para o reajuste normal do relógio pela luz.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_JONES_2018"
+  ],
+  "id_referencia_interna": "REF_JONES_2018",
+  "doi": "10.1111/j.1745-7254.2008.00775.x",
+  "claim_id_origem": "B10.MEC.BLOCO01.021",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "JONES",
+   "Jones"
+  ]
+ },
+ {
+  "pmid_oficial": "30710088",
+  "titulo_artigo": "Vasoactive intestinal peptide controls the suprachiasmatic circadian clock network via ERK1/2 and DUSP4 signalling.",
+  "autores": [
+   "Hamnett R",
+   "Crosby P",
+   "Chesham JE",
+   "Hastings MH"
+  ],
+  "revista_ano": "Nat Commun (2019)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · Nat Commun",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "VIP controla a rede do relógio do SCN via sinalização ERK1/2 e DUSP4.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_HAMNETT_2019"
+  ],
+  "id_referencia_interna": "REF_HAMNETT_2019",
+  "doi": "10.1074/jbc.M111.271064",
+  "claim_id_origem": "B10.MEC.BLOCO01.022",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "HAMNETT",
+   "Hamnett"
+  ]
+ },
+ {
+  "pmid_oficial": "34416169",
+  "titulo_artigo": "NPAS4 regulates the transcriptional response of the suprachiasmatic nucleus to light and circadian behavior.",
+  "autores": [
+   "Xu P",
+   "Berto S",
+   "Kulkarni A",
+   "Jeong B",
+   "Joseph C",
+   "Cox KH"
+  ],
+  "revista_ano": "Neuron (2021)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · Neuron",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "NPAS4 regula a resposta transcricional do SCN à luz e o comportamento circadiano.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_XU_2021"
+  ],
+  "id_referencia_interna": "REF_XU_2021",
+  "doi": "10.1016/j.neuron.2021.07.026",
+  "claim_id_origem": "B10.MEC.BLOCO01.023",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "XU",
+   "Xu"
+  ]
+ },
+ {
+  "pmid_oficial": "9852576",
+  "titulo_artigo": "CREB in the mouse SCN: a molecular interface coding the phase-adjusting stimuli light, glutamate, PACAP, and melatonin for clockwork access.",
+  "autores": [
+   "von Gall C",
+   "Duffield GE",
+   "Hastings MH",
+   "Kopp MD",
+   "Dehghani F",
+   "Korf HW"
+  ],
+  "revista_ano": "J Neurosci (1998)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · J Neurosci",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "CREB no SCN como interface molecular dos estímulos de fase (luz, glutamato, PACAP, melatonina).",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_VONGALL_1998"
+  ],
+  "id_referencia_interna": "REF_VONGALL_1998",
+  "doi": "10.1523/JNEUROSCI.18-24-10389.1998",
+  "claim_id_origem": "B10.MEC.BLOCO01.024",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "VON GALL",
+   "Von Gall"
+  ]
+ },
+ {
+  "pmid_oficial": "27162356",
+  "titulo_artigo": "Architecture of retinal projections to the central circadian pacemaker.",
+  "autores": [
+   "Fernandez DC",
+   "Chang YT",
+   "Hattar S",
+   "Chen SK"
+  ],
+  "revista_ano": "Proc Natl Acad Sci U S A (2016)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · Proc Natl Acad Sci U S A",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Arquitetura das projeções retinianas ao marcapasso circadiano central.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_FERNANDEZ_2016"
+  ],
+  "id_referencia_interna": "REF_FERNANDEZ_2016",
+  "doi": "10.1073/pnas.1523629113",
+  "claim_id_origem": "B10.MEC.BLOCO01.025",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "FERNANDEZ",
+   "Fernandez"
+  ]
+ },
+ {
+  "pmid_oficial": "20664079",
+  "titulo_artigo": "Physiology of circadian entrainment.",
+  "autores": [
+   "Golombek DA",
+   "Rosenstein RE"
+  ],
+  "revista_ano": "Physiol Rev (2010)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Physiol Rev",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Revisão de referência da fisiologia do entrançamento circadiano.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GOLOMBEK_2010"
+  ],
+  "id_referencia_interna": "REF_GOLOMBEK_2010",
+  "doi": "10.1152/physrev.00009.2009",
+  "claim_id_origem": "B10.MEC.BLOCO01.026",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "GOLOMBEK",
+   "Golombek"
+  ]
+ },
+ {
+  "pmid_oficial": "26097465",
+  "titulo_artigo": "Synchronization of Biological Clock Neurons by Light and Peripheral Feedback Systems Promotes Circadian Rhythms and Health.",
+  "autores": [
+   "Ramkisoensing A",
+   "Meijer JH"
+  ],
+  "revista_ano": "Front Neurol (2015)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Front Neurol",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Sincronização de neurônios-relógio por luz e feedback periférico promove ritmos e saúde (revisão).",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_RAMKISOENSING_2015"
+  ],
+  "id_referencia_interna": "REF_RAMKISOENSING_2015",
+  "doi": "10.1002/cne.903580304",
+  "claim_id_origem": "B10.MEC.BLOCO01.027",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "RAMKISOENSING",
+   "Ramkisoensing"
+  ]
+ },
+ {
+  "pmid_oficial": "30555405",
+  "titulo_artigo": "Imaging Individual Differences in the Response of the Human Suprachiasmatic Area to Light.",
+  "autores": [
+   "McGlashan EM",
+   "Poudel GR",
+   "Vidafar P",
+   "Drummond SPA",
+   "Cain SW"
+  ],
+  "revista_ano": "Front Neurol (2018)",
+  "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Front Neurol",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "A resposta da área supraquiasmática humana à luz (fMRI) apresenta variabilidade individual mapeável.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MCGLASHAN_2018"
+  ],
+  "id_referencia_interna": "REF_MCGLASHAN_2018",
+  "doi": "10.1007/s00213-018-5019-0",
+  "claim_id_origem": "B10.MEC.BLOCO01.028",
+  "evid_role": "human_clinical",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "MCGLASHAN",
+   "McGlashan"
+  ]
+ },
+ {
+  "pmid_oficial": "30456356",
+  "titulo_artigo": "Co-existing feedback loops generate tissue-specific circadian rhythms.",
+  "autores": [
+   "Pett JP",
+   "Kondoff M",
+   "Bordyugov G",
+   "Kramer A",
+   "Herzel H"
+  ],
+  "revista_ano": "Life Sci Alliance (2018)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · Life Sci Alliance",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Laços de feedback coexistentes geram ritmos circadianos tecido-específicos.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_PETT_2018"
+  ],
+  "id_referencia_interna": "REF_PETT_2018",
+  "doi": "10.1016/j.celrep.2016.09.060",
+  "claim_id_origem": "B10.MEC.BLOCO01.029",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "PETT",
+   "Pett"
+  ]
+ },
+ {
+  "pmid_oficial": "26683231",
+  "titulo_artigo": "Clock-Talk: Interactions between Central and Peripheral Circadian Oscillators in Mammals.",
+  "autores": [
+   "Schibler U",
+   "Gotic I",
+   "Saini C",
+   "Gos P",
+   "Curie T",
+   "Emmenegger Y"
+  ],
+  "revista_ano": "Cold Spring Harb Symp Quant Biol (2015)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Cold Spring Harb Symp Quant Biol",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Revisão do diálogo entre osciladores circadianos centrais e periféricos em mamíferos.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SCHIBLER_2015"
+  ],
+  "id_referencia_interna": "REF_SCHIBLER_2015",
+  "doi": "10.1101/sqb.2015.80.027490",
+  "claim_id_origem": "B10.MEC.BLOCO01.030",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "SCHIBLER",
+   "Schibler"
+  ]
+ },
+ {
+  "pmid_oficial": "24658072",
+  "titulo_artigo": "Light stimulates the mouse adrenal through a retinohypothalamic pathway independent of an effect on the clock in the suprachiasmatic nucleus.",
+  "autores": [
+   "Kiessling S",
+   "Sollars PJ",
+   "Pickard GE"
+  ],
+  "revista_ano": "PLoS One (2014)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · PLoS One",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "A luz estimula a adrenal de camundongo por via retino-hipotalâmica independente do relógio do SCN.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_KIESSLING_2014"
+  ],
+  "id_referencia_interna": "REF_KIESSLING_2014",
+  "doi": "10.1371/journal.pone.0092959",
+  "claim_id_origem": "B10.MEC.BLOCO01.031",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "KIESSLING",
+   "Kiessling"
+  ]
+ },
+ {
+  "pmid_oficial": "24890877",
+  "titulo_artigo": "Circadian endocrine rhythms: the hypothalamic-pituitary-adrenal axis and its actions.",
+  "autores": [
+   "Nicolaides NC",
+   "Charmandari E",
+   "Chrousos GP",
+   "Kino T"
+  ],
+  "revista_ano": "Ann N Y Acad Sci (2014)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Ann N Y Acad Sci",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Ritmos endócrinos circadianos: o eixo HPA e suas ações (revisão).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_NICOLAIDES_2014"
+  ],
+  "id_referencia_interna": "REF_NICOLAIDES_2014",
+  "doi": "10.1111/nyas.12464",
+  "claim_id_origem": "B10.MEC.BLOCO02.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "NICOLAIDES",
+   "Nicolaides"
+  ]
+ },
+ {
+  "pmid_oficial": "20106676",
+  "titulo_artigo": "Interactions of the circadian CLOCK system and the HPA axis.",
+  "autores": [
+   "Nader N",
+   "Chrousos GP",
+   "Kino T"
+  ],
+  "revista_ano": "Trends Endocrinol Metab (2010)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Trends Endocrinol Metab",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Interações do sistema CLOCK circadiano com o eixo HPA (revisão).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_NADER_2010"
+  ],
+  "id_referencia_interna": "REF_NADER_2010",
+  "doi": "10.1016/j.tem.2009.12.011",
+  "claim_id_origem": "B10.MEC.BLOCO02.002",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "NADER",
+   "Nader"
+  ]
+ },
+ {
+  "pmid_oficial": "25494867",
+  "titulo_artigo": "The importance of biological oscillators for hypothalamic-pituitary-adrenal activity and tissue glucocorticoid response: coordinating stress and neurobehavioural adaptation.",
+  "autores": [
+   "Russell GM",
+   "Kalafatakis K",
+   "Lightman SL"
+  ],
+  "revista_ano": "J Neuroendocrinol (2015)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · J Neuroendocrinol",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Osciladores biológicos coordenam atividade do HPA, resposta glicocorticoide tecidual e adaptação neurocomportamental (revisão).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_RUSSELL_2015"
+  ],
+  "id_referencia_interna": "REF_RUSSELL_2015",
+  "doi": "10.1111/jne.12247",
+  "claim_id_origem": "B10.MEC.BLOCO02.003",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "RUSSELL",
+   "Russell"
+  ]
+ },
+ {
+  "pmid_oficial": "21782883",
+  "titulo_artigo": "Circadian rhythms in the hypothalamo-pituitary-adrenal (HPA) axis.",
+  "autores": [
+   "Kalsbeek A",
+   "van der Spek R",
+   "Lei J",
+   "Endert E",
+   "Buijs RM",
+   "Fliers E"
+  ],
+  "revista_ano": "Mol Cell Endocrinol (2012)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Mol Cell Endocrinol",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Ritmos circadianos no eixo HPA (revisão).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_KALSBEEK_2012"
+  ],
+  "id_referencia_interna": "REF_KALSBEEK_2012",
+  "doi": "10.1016/j.mce.2011.06.042",
+  "claim_id_origem": "B10.MEC.BLOCO02.004",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "KALSBEEK",
+   "Kalsbeek"
+  ]
+ },
+ {
+  "pmid_oficial": "24944037",
+  "titulo_artigo": "HPA axis-rhythms.",
+  "autores": [
+   "Spiga F",
+   "Walker JJ",
+   "Terry JR",
+   "Lightman SL"
+  ],
+  "revista_ano": "Compr Physiol (2014)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Compr Physiol",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Ritmos do eixo HPA (revisão de fisiologia abrangente).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SPIGA_2014"
+  ],
+  "id_referencia_interna": "REF_SPIGA_2014",
+  "doi": "10.1002/cphy.c140003",
+  "claim_id_origem": "B10.MEC.BLOCO02.005",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "SPIGA",
+   "Spiga"
+  ]
+ },
+ {
+  "pmid_oficial": "30862458",
+  "titulo_artigo": "The physiological significance of the circadian dynamics of the HPA axis: Interplay between circadian rhythms, allostasis and stress resilience.",
+  "autores": [
+   "Rao R",
+   "Androulakis IP"
+  ],
+  "revista_ano": "Horm Behav (2019)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Horm Behav",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Significado fisiológico da dinâmica circadiana do HPA: ritmos, alostase e resiliência (revisão).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_RAOANDROULAKIS_2019a"
+  ],
+  "id_referencia_interna": "REF_RAOANDROULAKIS_2019a",
+  "doi": "10.1016/j.yhbeh.2019.02.018",
+  "claim_id_origem": "B10.MEC.BLOCO02.006",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "RAO & ANDROULAKIS",
+   "Rao & Androulakis",
+   "Rao",
+   "Androulakis"
+  ]
+ },
+ {
+  "pmid_oficial": "31371802",
+  "titulo_artigo": "Allostatic adaptation and personalized physiological trade-offs in the circadian regulation of the HPA axis: A mathematical modeling approach.",
+  "autores": [
+   "Rao R",
+   "Androulakis IP"
+  ],
+  "revista_ano": "Sci Rep (2019)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Sci Rep",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Adaptação alostática e trocas fisiológicas personalizadas na regulação circadiana do HPA (modelagem matemática).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_RAOANDROULAKIS_2019b"
+  ],
+  "id_referencia_interna": "REF_RAOANDROULAKIS_2019b",
+  "doi": "10.1152/physiolgenomics.00128.2011",
+  "claim_id_origem": "B10.MEC.BLOCO02.007",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "RAO & ANDROULAKIS",
+   "Rao & Androulakis",
+   "Rao",
+   "Androulakis"
+  ]
+ },
+ {
+  "pmid_oficial": "34436424",
+  "titulo_artigo": "Modeling the Influence of Chronic Sleep Restriction on Cortisol Circadian Rhythms, with Implications for Metabolic Disorders.",
+  "autores": [
+   "Rao R",
+   "Somvanshi P",
+   "Klerman EB",
+   "Marmar C",
+   "Doyle FJ"
+  ],
+  "revista_ano": "Metabolites (2021)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Metabolites",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Modelagem da influência da restrição crônica de sono sobre os ritmos circadianos de cortisol.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_RAO_2021"
+  ],
+  "id_referencia_interna": "REF_RAO_2021",
+  "doi": "10.1152/physiolgenomics.00006.2016",
+  "claim_id_origem": "B10.MEC.BLOCO02.008",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "RAO",
+   "Rao"
+  ]
+ },
+ {
+  "pmid_oficial": "31863788",
+  "titulo_artigo": "The hypothalamic-pituitary-adrenal axis as a substrate for stress resilience: Interactions with the circadian clock.",
+  "autores": [
+   "Kinlein SA",
+   "Karatsoreos IN"
+  ],
+  "revista_ano": "Front Neuroendocrinol (2020)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Front Neuroendocrinol",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "O eixo HPA como substrato de resiliência ao estresse: interações com o relógio circadiano (revisão).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_KINLEIN_2020"
+  ],
+  "id_referencia_interna": "REF_KINLEIN_2020",
+  "doi": "10.1016/j.yfrne.2019.100819",
+  "claim_id_origem": "B10.MEC.BLOCO02.009",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "KINLEIN & KARATSOREOS",
+   "Kinlein & Karatsoreos",
+   "Kinlein",
+   "Karatsoreos"
+  ]
+ },
+ {
+  "pmid_oficial": "15728214",
+  "titulo_artigo": "On the interactions of the hypothalamic-pituitary-adrenal (HPA) axis and sleep: normal HPA axis activity and circadian rhythm, exemplary sleep disorders.",
+  "autores": [
+   "Buckley TM",
+   "Schatzberg AF"
+  ],
+  "revista_ano": "J Clin Endocrinol Metab (2005)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · J Clin Endocrinol Metab",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Revisão clássica das interações entre o eixo HPA e o sono (atividade normal e distúrbios exemplares).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BUCKLEY_2005"
+  ],
+  "id_referencia_interna": "REF_BUCKLEY_2005",
+  "doi": "10.1210/jc.2004-1056",
+  "claim_id_origem": "B10.MEC.BLOCO02.011",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "BUCKLEY",
+   "Buckley"
+  ]
+ },
+ {
+  "pmid_oficial": "30480877",
+  "titulo_artigo": "Hypothalamic-pituitary-adrenal axis differentially responses to morning and evening psychological stress in healthy subjects.",
+  "autores": [
+   "Yamanaka Y",
+   "Motoshima H",
+   "Uchida K"
+  ],
+  "revista_ano": "Neuropsychopharmacol Rep (2019)",
+  "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Neuropsychopharmacol Rep",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "A resposta aguda do eixo HPA ao estresse psicológico difere entre manhã e noite em humanos.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_YAMANAKA_2019"
+  ],
+  "id_referencia_interna": "REF_YAMANAKA_2019",
+  "doi": "10.1002/npr2.12042",
+  "claim_id_origem": "B10.MEC.BLOCO02.012",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "YAMANAKA",
+   "Yamanaka"
+  ]
+ },
+ {
+  "pmid_oficial": "32060528",
+  "titulo_artigo": "Dynamics of ACTH and Cortisol Secretion and Implications for Disease.",
+  "autores": [
+   "Lightman SL",
+   "Birnie MT",
+   "Conway-Campbell BL"
+  ],
+  "revista_ano": "Endocr Rev (2020)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Endocr Rev",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Dinâmica da secreção de ACTH e cortisol e implicações para doença (revisão de referência).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LIGHTMAN_2020"
+  ],
+  "id_referencia_interna": "REF_LIGHTMAN_2020",
+  "doi": "10.1016/j.domaniend.2015.10.003",
+  "claim_id_origem": "B10.MEC.BLOCO02.014",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "LIGHTMAN",
+   "Lightman"
+  ]
+ },
+ {
+  "pmid_oficial": "29223280",
+  "titulo_artigo": "Circadian and ultradian patterns of HPA-axis activity in rodents: Significance for brain functionality.",
+  "autores": [
+   "den Boon FS",
+   "Sarabdjitsingh RA"
+  ],
+  "revista_ano": "Best Pract Res Clin Endocrinol Metab (2017)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Best Pract Res Clin Endocrinol Metab",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Padrões circadianos e ultradianos da atividade do HPA em roedores: significado para a função cerebral (revisão).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_DENBOON_2017"
+  ],
+  "id_referencia_interna": "REF_DENBOON_2017",
+  "doi": "10.1016/j.beem.2017.09.001",
+  "claim_id_origem": "B10.MEC.BLOCO02.015",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "DEN BOON & SARABDJITSINGH",
+   "den Boon & Sarabdjitsingh",
+   "den Boon",
+   "Sarabdjitsingh"
+  ]
+ },
+ {
+  "pmid_oficial": "33122670",
+  "titulo_artigo": "Circadian misalignment increases mood vulnerability in simulated shift work.",
+  "autores": [
+   "Chellappa SL",
+   "Morris CJ",
+   "Scheer FAJL"
+  ],
+  "revista_ano": "Sci Rep (2020)",
+  "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Sci Rep",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "O desalinhamento circadiano aumenta a vulnerabilidade de humor em trabalho por turnos simulado (crossover humano).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CHELLAPPA_2020"
+  ],
+  "id_referencia_interna": "REF_CHELLAPPA_2020",
+  "doi": "10.1073/pnas.1901824116",
+  "claim_id_origem": "B10.MEC.BLOCO02.016",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "CHELLAPPA",
+   "Chellappa"
+  ]
+ },
+ {
+  "pmid_oficial": "22217141",
+  "titulo_artigo": "Circadian activity of the hypothalamic-pituitary-adrenal axis is differentially affected in the rat chronic mild stress model of depression.",
+  "autores": [
+   "Christiansen S",
+   "Bouzinova EV",
+   "Palme R",
+   "Wiborg O"
+  ],
+  "revista_ano": "Stress (2012)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · Stress",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Atividade circadiana do eixo HPA é diferencialmente afetada no modelo de estresse leve crônico (rato) nos animais que desenvolvem fenótipo depressivo.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_CHRISTIANSEN_2012"
+  ],
+  "id_referencia_interna": "REF_CHRISTIANSEN_2012",
+  "doi": "10.3109/10253890.2011.654370",
+  "claim_id_origem": "B10.MEC.BLOCO02.017",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "CHRISTIANSEN",
+   "Christiansen"
+  ]
+ },
+ {
+  "pmid_oficial": "20072116",
+  "titulo_artigo": "Differential association of circadian genes with mood disorders: CRY1 and NPAS2 are associated with unipolar major depression and CLOCK and VIP with bipolar disorder.",
+  "autores": [
+   "Soria V",
+   "Martínez-Amorós E",
+   "Escaramís G",
+   "Valero J",
+   "Pérez-Egea R",
+   "García C"
+  ],
+  "revista_ano": "Neuropsychopharmacology (2010)",
+  "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Neuropsychopharmacology",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Associação genética diferencial de genes circadianos: CRY1/NPAS2 com depressão unipolar; CLOCK/VIP com bipolar.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SORIA_2010"
+  ],
+  "id_referencia_interna": "REF_SORIA_2010",
+  "doi": "10.1038/npp.2009.230",
+  "claim_id_origem": "B10.MEC.BLOCO03.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO03 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "SORIA",
+   "Soria"
+  ]
+ },
+ {
+  "pmid_oficial": "33641746",
+  "titulo_artigo": "Genomic perspectives on the circadian clock hypothesis of psychiatric disorders.",
+  "autores": [
+   "von Schantz M",
+   "Leocadio-Miguel MA",
+   "McCarthy MJ",
+   "Papiol S",
+   "Landgraf D"
+  ],
+  "revista_ano": "Adv Genet (2021)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Adv Genet",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Perspectivas genômicas da hipótese do relógio circadiano nos transtornos psiquiátricos (revisão).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_VONSCHANTZ_2021"
+  ],
+  "id_referencia_interna": "REF_VONSCHANTZ_2021",
+  "doi": "10.1016/bs.adgen.2020.11.005",
+  "claim_id_origem": "B10.MEC.BLOCO03.002",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO03 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "VON SCHANTZ",
+   "von Schantz"
+  ]
+ },
+ {
+  "pmid_oficial": "29614896",
+  "titulo_artigo": "Modeling Strengthens Molecular Link between Circadian Polymorphisms and Major Mood Disorders.",
+  "autores": [
+   "Liberman AR",
+   "Halitjaha L",
+   "Ay A",
+   "Ingram KK"
+  ],
+  "revista_ano": "J Biol Rhythms (2018)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · J Biol Rhythms",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Modelagem fortalece o elo molecular entre polimorfismos circadianos e transtornos do humor.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LIBERMAN_2018"
+  ],
+  "id_referencia_interna": "REF_LIBERMAN_2018",
+  "doi": "10.1177/0748730418764540",
+  "claim_id_origem": "B10.MEC.BLOCO03.003",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO03 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "LIBERMAN",
+   "Liberman"
+  ]
+ },
+ {
+  "pmid_oficial": "21781277",
+  "titulo_artigo": "Functional genetic variation in the Rev-Erbα pathway and lithium response in the treatment of bipolar disorder.",
+  "autores": [
+   "McCarthy MJ",
+   "Nievergelt CM",
+   "Shekhtman T",
+   "Kripke DF",
+   "Welsh DK",
+   "Kelsoe JR"
+  ],
+  "revista_ano": "Genes Brain Behav (2011)",
+  "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Genes Brain Behav",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Variação funcional na via REV-ERBα associada à resposta ao lítio no transtorno bipolar.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MCCARTHY_2011"
+  ],
+  "id_referencia_interna": "REF_MCCARTHY_2011",
+  "doi": "10.1111/j.1601-183X.2011.00725.x",
+  "claim_id_origem": "B10.MEC.BLOCO03.004",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO03 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "MCCARTHY",
+   "McCarthy"
+  ]
+ },
+ {
+  "pmid_oficial": "30301878",
+  "titulo_artigo": "Circadian rhythms and psychiatric profiles in young adults with unipolar depressive disorders.",
+  "autores": [
+   "Robillard R",
+   "Carpenter JS",
+   "Rogers NL",
+   "Fares S",
+   "Grierson AB",
+   "Hermens DF"
+  ],
+  "revista_ano": "Transl Psychiatry (2018)",
+  "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Transl Psychiatry",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Subgrupos fisiopatológicos definidos por marcadores circadianos em jovens com depressão unipolar ligam-se a perfis psiquiátricos distintos.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ROBILLARD_2018"
+  ],
+  "id_referencia_interna": "REF_ROBILLARD_2018",
+  "doi": "10.1152/ajpcell.1997.272.4.C1178",
+  "claim_id_origem": "B10.MEC.BLOCO02.018",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "ROBILLARD",
+   "Robillard"
+  ]
+ },
+ {
+  "pmid_oficial": "30878655",
+  "titulo_artigo": "In vivo molecular chronotyping, circadian misalignment, and high rates of depression in young adults.",
+  "autores": [
+   "Nguyen C",
+   "Murray G",
+   "Anderson S",
+   "Filipowicz A",
+   "Ingram KK"
+  ],
+  "revista_ano": "J Affect Disord (2019)",
+  "desenho_estudo": "[EC] estudo humano (observacional/experimental) · J Affect Disord",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Cronotipagem molecular in vivo: desalinhamento circadiano e altas taxas de depressão em jovens adultos.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_NGUYEN_2019"
+  ],
+  "id_referencia_interna": "REF_NGUYEN_2019",
+  "doi": "10.1016/j.jad.2019.03.050",
+  "claim_id_origem": "B10.MEC.BLOCO02.019",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "NGUYEN",
+   "Nguyen"
+  ]
+ },
+ {
+  "pmid_oficial": "30061722",
+  "titulo_artigo": "Rhythmicity of Mood Symptoms in Individuals at Risk for Psychiatric Disorders.",
+  "autores": [
+   "Pilz LK",
+   "Carissimi A",
+   "Oliveira MAB",
+   "Francisco AP",
+   "Fabris RC",
+   "Medeiros MS"
+  ],
+  "revista_ano": "Sci Rep (2018)",
+  "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Sci Rep",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Ritmicidade dos sintomas de humor em indivíduos com risco aumentado para transtornos psiquiátricos.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_PILZ_2018"
+  ],
+  "id_referencia_interna": "REF_PILZ_2018",
+  "doi": "10.1126/science.1202775",
+  "claim_id_origem": "B10.MEC.BLOCO02.020",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "PILZ",
+   "Pilz"
+  ]
+ },
+ {
+  "pmid_oficial": "32777620",
+  "titulo_artigo": "Circadian rhythm in negative affect: Implications for mood disorders.",
+  "autores": [
+   "Emens JS",
+   "Berman AM",
+   "Thosar SS",
+   "Butler MP",
+   "Roberts SA",
+   "Clemons NA"
+  ],
+  "revista_ano": "Psychiatry Res (2020)",
+  "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Psychiatry Res",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Ritmo circadiano do afeto negativo com pico na noite circadiana — implicações para transtornos de humor.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_EMENS_2020"
+  ],
+  "id_referencia_interna": "REF_EMENS_2020",
+  "doi": "10.1016/j.psychres.2020.113337",
+  "claim_id_origem": "B10.MEC.BLOCO02.021",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "EMENS",
+   "Emens"
+  ]
+ },
+ {
+  "pmid_oficial": "28364473",
+  "titulo_artigo": "Prevalence of Circadian Misalignment and Its Association With Depressive Symptoms in Delayed Sleep Phase Disorder.",
+  "autores": [
+   "Murray JM",
+   "Sletten TL",
+   "Magee M",
+   "Gordon C",
+   "Lovato N",
+   "Bartlett DJ"
+  ],
+  "revista_ano": "Sleep (2017)",
+  "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Sleep",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "No DSPD clínico, o subtipo circadiano (DLMO desalinhado) carrega mais sintomas depressivos; quase metade dos casos não mostra desalinhamento.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MURRAY_2017"
+  ],
+  "id_referencia_interna": "REF_MURRAY_2017",
+  "doi": "10.1093/sleep/zsw002",
+  "claim_id_origem": "B10.MEC.BLOCO02.022",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "MURRAY",
+   "Murray"
+  ]
+ },
+ {
+  "pmid_oficial": "29776774",
+  "titulo_artigo": "Association of disrupted circadian rhythmicity with mood disorders, subjective wellbeing, and cognitive function: a cross-sectional study of 91 105 participants from the UK Biobank.",
+  "autores": [
+   "Lyall LM",
+   "Wyse CA",
+   "Graham N",
+   "Ferguson A",
+   "Lyall DM",
+   "Cullen B"
+  ],
+  "revista_ano": "Lancet Psychiatry (2018)",
+  "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Lancet Psychiatry",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Ritmicidade circadiana disruptiva associada a transtornos de humor, bem-estar subjetivo e cognição em coorte populacional.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LYALL_2018"
+  ],
+  "id_referencia_interna": "REF_LYALL_2018",
+  "doi": "10.1016/S2215-0366(18)30139-1",
+  "claim_id_origem": "B10.MEC.BLOCO02.023",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "LYALL",
+   "Lyall"
+  ]
+ },
+ {
+  "pmid_oficial": "38579366",
+  "titulo_artigo": "Causal dynamics of sleep, circadian rhythm, and mood symptoms in patients with major depression and bipolar disorder: insights from longitudinal wearable device data.",
+  "autores": [
+   "Song YM",
+   "Jeong J",
+   "de Los Reyes AA",
+   "Lim D",
+   "Cho CH",
+   "Yeom JW"
+  ],
+  "revista_ano": "EBioMedicine (2024)",
+  "desenho_estudo": "[EC] estudo humano (observacional/experimental) · EBioMedicine",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Dinâmica causal diária entre sono, fase circadiana estimada e sintomas de humor modelada com dados de wearables.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SONG_2024"
+  ],
+  "id_referencia_interna": "REF_SONG_2024",
+  "doi": "10.1016/j.ebiom.2024.105094",
+  "claim_id_origem": "B10.MEC.BLOCO02.024",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "SONG",
+   "Song"
+  ]
+ },
+ {
+  "pmid_oficial": "31302521",
+  "titulo_artigo": "Differential associations between chronotype, anxiety, and negative affect: A structural equation modeling approach.",
+  "autores": [
+   "Cox RC",
+   "Olatunji BO"
+  ],
+  "revista_ano": "J Affect Disord (2019)",
+  "desenho_estudo": "[EC] estudo humano (observacional/experimental) · J Affect Disord",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "A relação cronotipo–ansiedade persiste controlando distúrbio de sono e afeto negativo.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_COXOLATUNJI_2019"
+  ],
+  "id_referencia_interna": "REF_COXOLATUNJI_2019",
+  "doi": "10.3758/s13415-018-00667-y",
+  "claim_id_origem": "B10.MEC.BLOCO02.025",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "COX & OLATUNJI",
+   "Cox & Olatunji",
+   "Cox",
+   "Olatunji"
+  ]
+ },
+ {
+  "pmid_oficial": "40662977",
+  "titulo_artigo": "Evidence for Internal Misalignment of Circadian Rhythms in Youth With Emerging Mood Disorders.",
+  "autores": [
+   "Carpenter JS",
+   "Crouse JJ",
+   "Shin M",
+   "Tonini E",
+   "Hindmarsh G",
+   "de Haan Z"
+  ],
+  "revista_ano": "J Biol Rhythms (2025)",
+  "desenho_estudo": "[EC] estudo humano (observacional/experimental) · J Biol Rhythms",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Evidência de desalinhamento interno entre marcadores de fase (DLMO vs pico de cortisol) em jovens com transtornos de humor emergentes.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CARPENTER_2025"
+  ],
+  "id_referencia_interna": "REF_CARPENTER_2025",
+  "doi": "10.1177/07487304251349408",
+  "claim_id_origem": "B10.MEC.BLOCO02.026",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "CARPENTER",
+   "Carpenter"
+  ]
+ },
+ {
+  "pmid_oficial": "29869403",
+  "titulo_artigo": "Circadian rhythm in bipolar disorder: A review of the literature.",
+  "autores": [
+   "Takaesu Y"
+  ],
+  "revista_ano": "Psychiatry Clin Neurosci (2018)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Psychiatry Clin Neurosci",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Ritmo circadiano no transtorno bipolar (revisão da literatura).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_TAKAESU_2018"
+  ],
+  "id_referencia_interna": "REF_TAKAESU_2018",
+  "doi": "10.1111/pcn.12688",
+  "claim_id_origem": "B10.MEC.BLOCO11.002",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO11 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "TAKAESU",
+   "Takaesu"
+  ]
+ },
+ {
+  "pmid_oficial": "28321642",
+  "titulo_artigo": "Circadian Rhythm Dysregulation in Bipolar Spectrum Disorders.",
+  "autores": [
+   "Alloy LB",
+   "Ng TH",
+   "Titone MK",
+   "Boland EM"
+  ],
+  "revista_ano": "Curr Psychiatry Rep (2017)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Curr Psychiatry Rep",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Desregulação do ritmo circadiano nos transtornos do espectro bipolar (revisão).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ALLOY_2017"
+  ],
+  "id_referencia_interna": "REF_ALLOY_2017",
+  "doi": "10.1155/2012/978962",
+  "claim_id_origem": "B10.MEC.BLOCO11.003",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO11 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "ALLOY",
+   "Alloy"
+  ]
+ },
+ {
+  "pmid_oficial": "27543154",
+  "titulo_artigo": "Advanced Circadian Phase in Mania and Delayed Circadian Phase in Mixed Mania and Depression Returned to Normal after Treatment of Bipolar Disorder.",
+  "autores": [
+   "Moon JH",
+   "Cho CH",
+   "Son GH",
+   "Geum D",
+   "Chung S",
+   "Kim H"
+  ],
+  "revista_ano": "EBioMedicine (2016)",
+  "desenho_estudo": "[EC] estudo humano (observacional/experimental) · EBioMedicine",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Fase circadiana avançada na mania e atrasada na depressão bipolar/mista, com normalização após tratamento.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MOON_2016"
+  ],
+  "id_referencia_interna": "REF_MOON_2016",
+  "doi": "10.1016/j.ebiom.2016.08.019",
+  "claim_id_origem": "B10.MEC.BLOCO11.004",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO11 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "MOON",
+   "Moon"
+  ]
+ },
+ {
+  "pmid_oficial": "34468894",
+  "titulo_artigo": "Late chronotype predicts more depressive symptoms in bipolar disorder over a 5 year follow-up period.",
+  "autores": [
+   "Vidafar P",
+   "Yocum AK",
+   "Han P",
+   "McInnis MG",
+   "Burgess HJ"
+  ],
+  "revista_ano": "Int J Bipolar Disord (2021)",
+  "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Int J Bipolar Disord",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Cronotipo tardio prediz mais sintomas depressivos no transtorno bipolar em seguimento de cinco anos.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_VIDAFAR_2021"
+  ],
+  "id_referencia_interna": "REF_VIDAFAR_2021",
+  "doi": "10.1192/bjp.133.5.429",
+  "claim_id_origem": "B10.MEC.BLOCO11.005",
+  "evid_role": "human_clinical",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO11 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "VIDAFAR",
+   "Vidafar"
+  ]
+ },
+ {
+  "pmid_oficial": "34645802",
+  "titulo_artigo": "Association between circadian activity rhythms and mood episode relapse in bipolar disorder: a 12-month prospective cohort study.",
+  "autores": [
+   "Esaki Y",
+   "Obayashi K",
+   "Saeki K",
+   "Fujita K",
+   "Iwata N",
+   "Kitajima T"
+  ],
+  "revista_ano": "Transl Psychiatry (2021)",
+  "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Transl Psychiatry",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Ritmos circadianos de atividade associados à recaída de episódios de humor no bipolar (coorte prospectiva).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ESAKI_2021"
+  ],
+  "id_referencia_interna": "REF_ESAKI_2021",
+  "doi": "10.3389/fpsyg.2015.00147",
+  "claim_id_origem": "B10.MEC.BLOCO11.006",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO11 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "ESAKI",
+   "Esaki"
+  ]
+ },
+ {
+  "pmid_oficial": "34320487",
+  "titulo_artigo": "Dysregulated Diurnal Cortisol Pattern and Heightened Night-Time Cortisol in Individuals with Bipolar Disorder.",
+  "autores": [
+   "Mukherjee D",
+   "Weissenkampen JD",
+   "Wasserman E",
+   "Krishnamurthy VB",
+   "Millett CE",
+   "Conway S"
+  ],
+  "revista_ano": "Neuropsychobiology (2022)",
+  "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Neuropsychobiology",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Padrão diurno de cortisol desregulado e cortisol noturno elevado no transtorno bipolar.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MUKHERJEE_2022"
+  ],
+  "id_referencia_interna": "REF_MUKHERJEE_2022",
+  "doi": "10.1159/000517343",
+  "claim_id_origem": "B10.MEC.BLOCO11.007",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO11 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "MUKHERJEE",
+   "Mukherjee"
+  ]
+ },
+ {
+  "pmid_oficial": "38800632",
+  "titulo_artigo": "Circadian rhythm dysfunction and psychopathology in the offspring of parents with bipolar disorder: a high-risk study in the Chinese population.",
+  "autores": [
+   "Lei B",
+   "Feng H",
+   "Yang L",
+   "Wang J",
+   "Chen J",
+   "Song W"
+  ],
+  "revista_ano": "Gen Psychiatr (2024)",
+  "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Gen Psychiatr",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Disfunção do ritmo circadiano e psicopatologia em descendentes de pais com bipolar (estudo de alto risco).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LEI_2024"
+  ],
+  "id_referencia_interna": "REF_LEI_2024",
+  "doi": "10.1176/appi.ajp.2014.14010035",
+  "claim_id_origem": "B10.MEC.BLOCO11.008",
+  "evid_role": "human_clinical",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO11 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "LEI",
+   "Lei"
+  ]
+ },
+ {
+  "pmid_oficial": "35821870",
+  "titulo_artigo": "Circadian Rhythm Alterations May be Related to Impaired Resilience, Emotional Dysregulation and to the Severity of Mood Features in Bipolar I and II Disorders.",
+  "autores": [
+   "Palagini L",
+   "Miniati M",
+   "Marazziti D",
+   "Massa L",
+   "Grassi L",
+   "Geoffroy PA"
+  ],
+  "revista_ano": "Clin Neuropsychiatry (2022)",
+  "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Clin Neuropsychiatry",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Alterações circadianas relacionadas a resiliência prejudicada, desregulação emocional e gravidade afetiva no bipolar I/II.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_PALAGINI_2022"
+  ],
+  "id_referencia_interna": "REF_PALAGINI_2022",
+  "doi": "10.1002/jclp.23037",
+  "claim_id_origem": "B10.MEC.BLOCO11.010",
+  "evid_role": "human_clinical",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO11 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "PALAGINI",
+   "Palagini"
+  ]
+ },
+ {
+  "pmid_oficial": "39210713",
+  "titulo_artigo": "Sleep and circadian disruption in bipolar disorders: From psychopathology to digital phenotyping in clinical practice.",
+  "autores": [
+   "Tonon AC",
+   "Nexha A",
+   "Mendonça da Silva M",
+   "Gomes FA",
+   "Hidalgo MP",
+   "Frey BN"
+  ],
+  "revista_ano": "Psychiatry Clin Neurosci (2024)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Psychiatry Clin Neurosci",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Sono e disrupção circadiana no transtorno bipolar: da psicopatologia à fenotipagem digital (revisão).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_TONON_2024"
+  ],
+  "id_referencia_interna": "REF_TONON_2024",
+  "doi": "10.1111/pcn.13729",
+  "claim_id_origem": "B10.MEC.BLOCO11.011",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO11 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "TONON",
+   "Tonon"
+  ]
+ },
+ {
+  "pmid_oficial": "40381827",
+  "titulo_artigo": "Chronobiology of Mood Disorders: The Role of the Biological Clock in Depression and Bipolar Disorder.",
+  "autores": [
+   "Geoffroy PA",
+   "Maruani J"
+  ],
+  "revista_ano": "Biol Psychiatry (2025)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Biol Psychiatry",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Cronobiologia dos transtornos do humor: o papel do relógio biológico na depressão e no bipolar (revisão de referência).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GEOFFROYMARUANI_2025"
+  ],
+  "id_referencia_interna": "REF_GEOFFROYMARUANI_2025",
+  "doi": "10.1016/j.biopsych.2025.05.005",
+  "claim_id_origem": "B10.MEC.BLOCO11.012",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO11 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "GEOFFROY & MARUANI",
+   "Geoffroy & Maruani",
+   "Geoffroy",
+   "Maruani"
+  ]
+ },
+ {
+  "pmid_oficial": "34850507",
+  "titulo_artigo": "Neurobiological and behavioral mechanisms of circadian rhythm disruption in bipolar disorder: A critical multi-disciplinary literature review and agenda for future research from the ISBD task force on chronobiology.",
+  "autores": [
+   "McCarthy MJ",
+   "Gottlieb JF",
+   "Gonzalez R",
+   "McClung CA",
+   "Alloy LB",
+   "Cain S"
+  ],
+  "revista_ano": "Bipolar Disord (2022)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Bipolar Disord",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Mecanismos neurobiológicos e comportamentais da disrupção circadiana no bipolar — consenso multidisciplinar da task force ISBD de cronobiologia.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MCCARTHY_2022"
+  ],
+  "id_referencia_interna": "REF_MCCARTHY_2022",
+  "doi": "10.1111/bdi.13165",
+  "claim_id_origem": "B10.MEC.BLOCO11.013",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO11 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "MCCARTHY",
+   "McCarthy"
+  ]
+ },
+ {
+  "pmid_oficial": "41913359",
+  "titulo_artigo": "Circadian abnormalities, molecular clock gene and chronobiological treatment for psychiatric disorders.",
+  "autores": [
+   "Chakraborty S",
+   "Srivastava V"
+  ],
+  "revista_ano": "Chronobiol Int (2026)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Chronobiol Int",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Anormalidades circadianas, genes-relógio moleculares e tratamento cronobiológico nos transtornos psiquiátricos (revisão).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CHAKRABORTY_2026"
+  ],
+  "id_referencia_interna": "REF_CHAKRABORTY_2026",
+  "doi": "10.1080/07420528.2026.2648750",
+  "claim_id_origem": "B10.MEC.BLOCO11.014",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO11 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "CHAKRABORTY",
+   "Chakraborty"
+  ]
+ },
+ {
+  "pmid_oficial": "31528147",
+  "titulo_artigo": "Bright Light Therapy: Seasonal Affective Disorder and Beyond.",
+  "autores": [
+   "Campbell PD",
+   "Miller AM",
+   "Woesner ME"
+  ],
+  "revista_ano": "Einstein J Biol Med (2017)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Einstein J Biol Med",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Fototerapia: transtorno afetivo sazonal e além (revisão).",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_CAMPBELL_2017"
+  ],
+  "id_referencia_interna": "REF_CAMPBELL_2017",
+  "doi": "10.4088/JCP.10m06188blu",
+  "claim_id_origem": "B10.MEC.BLOCO06.002",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO06 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "CAMPBELL",
+   "Campbell"
+  ]
+ },
+ {
+  "pmid_oficial": "33509094",
+  "titulo_artigo": "Knockout of the circadian gene, Per2, disrupts corticosterone secretion and results in depressive-like behaviors and deficits in startle responses.",
+  "autores": [
+   "Russell AL",
+   "Miller L",
+   "Yi H",
+   "Keil R",
+   "Handa RJ",
+   "Wu TJ"
+  ],
+  "revista_ano": "BMC Neurosci (2021)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · BMC Neurosci",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Knockout de Per2 desorganiza a secreção de corticosterona e gera comportamento tipo-depressivo e déficit de startle.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_RUSSELL_2021"
+  ],
+  "id_referencia_interna": "REF_RUSSELL_2021",
+  "doi": "10.1186/1740-3391-11-9",
+  "claim_id_origem": "B10.MEC.BLOCO07.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO07 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "RUSSELL",
+   "Russell"
+  ]
+ },
+ {
+  "pmid_oficial": "38241675",
+  "titulo_artigo": "Circadian misalignment impairs oligodendrocyte myelination via Bmal1 overexpression leading to anxiety and depression-like behaviors.",
+  "autores": [
+   "Zuo Y",
+   "Hou Y",
+   "Wang Y",
+   "Yuan L",
+   "Cheng L",
+   "Zhang T"
+  ],
+  "revista_ano": "J Pineal Res (2024)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · J Pineal Res",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Desalinhamento circadiano prejudica a mielinização oligodendroglial via Bmal1 (inibição AKT/mTOR), gerando fenótipo tipo ansiedade/depressão.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_ZUO_2024"
+  ],
+  "id_referencia_interna": "REF_ZUO_2024",
+  "doi": "10.1111/jpi.12935",
+  "claim_id_origem": "B10.MEC.BLOCO07.002",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO07 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "ZUO",
+   "Zuo"
+  ]
+ },
+ {
+  "pmid_oficial": "39504963",
+  "titulo_artigo": "Gut microbiota regulates stress responsivity via the circadian system.",
+  "autores": [
+   "Tofani GSS",
+   "Leigh SJ",
+   "Gheorghe CE",
+   "Bastiaanssen TFS",
+   "Wilmes L",
+   "Sen P"
+  ],
+  "revista_ano": "Cell Metab (2025)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · Cell Metab",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "A microbiota intestinal regula a responsividade ao estresse através do sistema circadiano (ritmicidade do HPA).",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_TOFANI_2025"
+  ],
+  "id_referencia_interna": "REF_TOFANI_2025",
+  "doi": "10.1016/j.cmet.2024.10.003",
+  "claim_id_origem": "B10.MEC.BLOCO07.003",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO07 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "TOFANI",
+   "Tofani"
+  ]
+ },
+ {
+  "pmid_oficial": "37441675",
+  "titulo_artigo": "Emotionally clocked out: cell-type specific regulation of mood and anxiety by the circadian clock system in the brain.",
+  "autores": [
+   "Francis TC",
+   "Porcu A"
+  ],
+  "revista_ano": "Front Mol Neurosci (2023)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · Front Mol Neurosci",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Regulação tipo-celular específica de humor e ansiedade pelo sistema relógio circadiano no cérebro (revisão pré-clínica).",
+  "extrapolacao_por_analogia": "SIM — revisão de evidência pré-clínica (roedor/célula); tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_FRANCIS_2023"
+  ],
+  "id_referencia_interna": "REF_FRANCIS_2023",
+  "doi": "10.1017/S1461145711000915",
+  "claim_id_origem": "B10.MEC.BLOCO07.004",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO07 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "FRANCIS",
+   "Francis"
+  ]
+ },
+ {
+  "pmid_oficial": "27362940",
+  "titulo_artigo": "Melatonin Signal Transduction Pathways Require E-Box-Mediated Transcription of Per1 and Per2 to Reset the SCN Clock at Dusk.",
+  "autores": [
+   "Kandalepas PC",
+   "Mitchell JW",
+   "Gillette MU"
+  ],
+  "revista_ano": "PLoS One (2016)",
+  "desenho_estudo": "[ML] modelo animal/celular/molecular (pré-clínico) · PLoS One",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "A melatonina reajusta o relógio do SCN ao entardecer requerendo transcrição mediada por E-box de Per1/Per2.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_KANDALEPAS_2016"
+  ],
+  "id_referencia_interna": "REF_KANDALEPAS_2016",
+  "doi": "10.3109/07420528.2014.992525",
+  "claim_id_origem": "B10.MEC.BLOCO07.005",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO07 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "KANDALEPAS",
+   "Kandalepas"
+  ]
+ },
+ {
+  "pmid_oficial": "41244880",
+  "titulo_artigo": "The gut-brain-circadian axis in anxiety and depression: a critical review.",
+  "autores": [
+   "Bautista J",
+   "Hidalgo-Tinoco C",
+   "Di Capua Delgado M",
+   "Viteri-Recalde J",
+   "Guerra-Guerrero A",
+   "López-Cortés A"
+  ],
+  "revista_ano": "Front Psychiatry (2025)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Front Psychiatry",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Eixo intestino–cérebro–circadiano em ansiedade e depressão (revisão crítica).",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_BAUTISTA_2025"
+  ],
+  "id_referencia_interna": "REF_BAUTISTA_2025",
+  "doi": "10.1093/ijnp/pyaf025",
+  "claim_id_origem": "B10.MEC.BLOCO08.001",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO08 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "BAUTISTA",
+   "Bautista"
+  ]
+ },
+ {
+  "pmid_oficial": "41662130",
+  "titulo_artigo": "Sleep and psychiatric disorders: Bidirectional interactions and shared neurobiological mechanisms.",
+  "autores": [
+   "Hyndych A",
+   "Koval K",
+   "Dzeruzhynska N",
+   "Mader EC"
+  ],
+  "revista_ano": "PLOS Ment Health (2025)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · PLOS Ment Health",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Interações bidirecionais entre sono e transtornos psiquiátricos e mecanismos neurobiológicos compartilhados (revisão).",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_HYNDYCH_2025"
+  ],
+  "id_referencia_interna": "REF_HYNDYCH_2025",
+  "doi": "10.1016/0165-1781(89)90047-4",
+  "claim_id_origem": "B10.MEC.BLOCO12.001",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO12 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "HYNDYCH",
+   "Hyndych"
+  ]
+ },
+ {
+  "pmid_oficial": "36033630",
+  "titulo_artigo": "Chronotype, circadian rhythm, and psychiatric disorders: Recent evidence and potential mechanisms.",
+  "autores": [
+   "Zou H",
+   "Zhou H",
+   "Yan R",
+   "Yao Z",
+   "Lu Q"
+  ],
+  "revista_ano": "Front Neurosci (2022)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Front Neurosci",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Cronotipo, ritmo circadiano e transtornos psiquiátricos: evidências recentes e mecanismos potenciais (revisão).",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_ZOU_2022"
+  ],
+  "id_referencia_interna": "REF_ZOU_2022",
+  "doi": "10.1093/jn/nxaa442",
+  "claim_id_origem": "B10.MEC.BLOCO12.002",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO12 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "ZOU",
+   "Zou"
+  ]
+ },
+ {
+  "pmid_oficial": "38394243",
+  "titulo_artigo": "The sleep-circadian interface: A window into mental disorders.",
+  "autores": [
+   "Meyer N",
+   "Lok R",
+   "Schmidt C",
+   "Kyle SD",
+   "McClung CA",
+   "Cajochen C"
+  ],
+  "revista_ano": "Proc Natl Acad Sci U S A (2024)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Proc Natl Acad Sci U S A",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "A interface sono–circadiano como janela para os transtornos mentais (revisão).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MEYER_2024"
+  ],
+  "id_referencia_interna": "REF_MEYER_2024",
+  "doi": "10.1073/pnas.2214756121",
+  "claim_id_origem": "B10.MEC.BLOCO12.003",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO12 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "MEYER",
+   "Meyer"
+  ]
+ },
+ {
+  "pmid_oficial": "32066704",
+  "titulo_artigo": "Circadian rhythm disruption and mental health.",
+  "autores": [
+   "Walker WH",
+   "Walton JC",
+   "DeVries AC",
+   "Nelson RJ"
+  ],
+  "revista_ano": "Transl Psychiatry (2020)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Transl Psychiatry",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Disrupção do ritmo circadiano e saúde mental (revisão).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_WALKER_2020"
+  ],
+  "id_referencia_interna": "REF_WALKER_2020",
+  "doi": "10.1016/j.jsmc.2015.07.004",
+  "claim_id_origem": "B10.MEC.BLOCO12.004",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO12 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "WALKER",
+   "Walker"
+  ]
+ },
+ {
+  "pmid_oficial": "37858331",
+  "titulo_artigo": "Circadian rhythms and mood disorders: Time to see the light.",
+  "autores": [
+   "Dollish HK",
+   "Tsyglakova M",
+   "McClung CA"
+  ],
+  "revista_ano": "Neuron (2024)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Neuron",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Ritmos circadianos e transtornos de humor: hora de ver a luz (revisão de referência).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_DOLLISH_2024"
+  ],
+  "id_referencia_interna": "REF_DOLLISH_2024",
+  "doi": "10.1016/j.neuron.2023.09.023",
+  "claim_id_origem": "B10.MEC.BLOCO12.005",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO12 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "DOLLISH",
+   "Dollish"
+  ]
+ },
+ {
+  "pmid_oficial": "32750762",
+  "titulo_artigo": "Chronobiology Revisited in Psychiatric Disorders: From a Translational Perspective.",
+  "autores": [
+   "Kirlioglu SS",
+   "Balcioglu YH"
+  ],
+  "revista_ano": "Psychiatry Investig (2020)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Psychiatry Investig",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Cronobiologia revisitada nos transtornos psiquiátricos: perspectiva translacional (revisão).",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_KIRLIOGLU_2020"
+  ],
+  "id_referencia_interna": "REF_KIRLIOGLU_2020",
+  "doi": "10.30773/pi.2020.0129",
+  "claim_id_origem": "B10.MEC.BLOCO12.006",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO12 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "KIRLIOĞLU",
+   "Kırıloğlu",
+   "Kirlioglu"
+  ]
+ },
+ {
+  "pmid_oficial": "17969870",
+  "titulo_artigo": "The role of circadian clock genes in mental disorders.",
+  "autores": [
+   "Lamont EW",
+   "Legault-Coutu D",
+   "Cermakian N",
+   "Boivin DB"
+  ],
+  "revista_ano": "Dialogues Clin Neurosci (2007)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Dialogues Clin Neurosci",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "O papel dos genes do relógio circadiano nos transtornos mentais (revisão).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LAMONT_2007"
+  ],
+  "id_referencia_interna": "REF_LAMONT_2007",
+  "doi": "10.31887/DCNS.2007.9.3/elamont",
+  "claim_id_origem": "B10.MEC.BLOCO12.007",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO12 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "LAMONT",
+   "Lamont"
+  ]
+ },
+ {
+  "pmid_oficial": "17395264",
+  "titulo_artigo": "Circadian genes, rhythms and the biology of mood disorders.",
+  "autores": [
+   "McClung CA"
+  ],
+  "revista_ano": "Pharmacol Ther (2007)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Pharmacol Ther",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Genes e ritmos circadianos na biologia dos transtornos de humor (revisão).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MCCLUNG_2007"
+  ],
+  "id_referencia_interna": "REF_MCCLUNG_2007",
+  "doi": "10.1016/j.pharmthera.2007.02.003",
+  "claim_id_origem": "B10.MEC.BLOCO12.008",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO12 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "MCCLUNG",
+   "McClung"
+  ]
+ },
+ {
+  "pmid_oficial": "23558300",
+  "titulo_artigo": "How might circadian rhythms control mood? Let me count the ways..",
+  "autores": [
+   "McClung CA"
+  ],
+  "revista_ano": "Biol Psychiatry (2013)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Biol Psychiatry",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Como os ritmos circadianos poderiam controlar o humor (revisão mecanística).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MCCLUNG_2013"
+  ],
+  "id_referencia_interna": "REF_MCCLUNG_2013",
+  "doi": "10.1016/j.biopsych.2013.02.019",
+  "claim_id_origem": "B10.MEC.BLOCO12.009",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO12 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "MCCLUNG",
+   "McClung"
+  ]
+ },
+ {
+  "pmid_oficial": "30402924",
+  "titulo_artigo": "Mood-related central and peripheral clocks.",
+  "autores": [
+   "Ketchesin KD",
+   "Becker-Krail D",
+   "McClung CA"
+  ],
+  "revista_ano": "Eur J Neurosci (2020)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Eur J Neurosci",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Relógios centrais e periféricos relacionados ao humor (revisão).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_KETCHESIN_2020"
+  ],
+  "id_referencia_interna": "REF_KETCHESIN_2020",
+  "doi": "10.1016/j.neuroimage.2012.02.013",
+  "claim_id_origem": "B10.MEC.BLOCO12.010",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO12 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "KETCHESIN",
+   "Ketchesin"
+  ]
+ },
+ {
+  "pmid_oficial": "39308240",
+  "titulo_artigo": "Chronopsychiatry.",
+  "autores": [
+   "Smith DJ",
+   "McGlashan E",
+   "Gottlieb J",
+   "Meyer N",
+   "Jones MW"
+  ],
+  "revista_ano": "Br J Psychiatry (2024)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Br J Psychiatry",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Cronopsiquiatria como campo articulado (artigo temático de referência).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SMITH_2024"
+  ],
+  "id_referencia_interna": "REF_SMITH_2024",
+  "doi": "10.1192/bjp.2024.81",
+  "claim_id_origem": "B10.MEC.BLOCO12.011",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO12 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "SMITH",
+   "Smith"
+  ]
+ },
+ {
+  "pmid_oficial": "35033557",
+  "titulo_artigo": "Timing is everything: Circadian rhythms and their role in the control of sleep.",
+  "autores": [
+   "Pandi-Perumal SR",
+   "Cardinali DP",
+   "Zaki NFW",
+   "Karthikeyan R",
+   "Spence DW",
+   "Reiter RJ"
+  ],
+  "revista_ano": "Front Neuroendocrinol (2022)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Front Neuroendocrinol",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "O timing é tudo: ritmos circadianos e seu papel no controle do sono (revisão).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_PANDIPERUMAL_2022"
+  ],
+  "id_referencia_interna": "REF_PANDIPERUMAL_2022",
+  "doi": "10.1016/j.yfrne.2022.100978",
+  "claim_id_origem": "B10.MEC.BLOCO12.012",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO12 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "PANDI-PERUMAL",
+   "Pandi-Perumal"
+  ]
+ }
+]

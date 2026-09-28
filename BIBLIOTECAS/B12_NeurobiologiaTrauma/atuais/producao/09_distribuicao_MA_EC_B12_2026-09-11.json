@@ -1,0 +1,556 @@
+{
+ "acao": "09_distribuicao_MA_EC_MODULO09",
+ "data": "2026-09-11",
+ "biblioteca": "B12_NeurobiologiaTrauma",
+ "lei": "PROMPT_v4.2 instrução final: [MA]->02, [EC]->03; id único global (validar_auditoria.py)",
+ "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+ "contagens": {
+  "ficam_01": 75,
+  "vao_02_MA": 36,
+  "vao_03_EC": 0,
+  "conflitos": 9,
+  "tag_EC_amplo_nao_migrado": 35
+ },
+ "ids_para_02": [
+  {
+   "id": "REF_OZER_2003",
+   "pmid": "12555794",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_POLE_2007",
+   "pmid": "17723027",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_ETKIN_2007",
+   "pmid": "17898336",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_KARG_2011",
+   "pmid": "21199959",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_BROMIS_2018",
+   "pmid": "30021460",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_SCHUMACHER_2019",
+   "pmid": "30790632",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_SARTORY_2013",
+   "pmid": "23536785",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ODOHERTY_2015",
+   "pmid": "25735885",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_PAQUOLA_2016",
+   "pmid": "27531235",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_MARUSAK_2016",
+   "pmid": "27824358",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_VONWERNEBAES_2012",
+   "pmid": "28183380",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_SUAREZJIMENEZ_2020",
+   "pmid": "31258096",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_SERRABLASCO_2021",
+   "pmid": "34256069",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_POLLOK_2022",
+   "pmid": "35189164",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_XIAO_2022",
+   "pmid": "36029627",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_LIU_2022",
+   "pmid": "36151073",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ZUGMAN_2023",
+   "pmid": "37741177",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ZHONG_2024",
+   "pmid": "39304648",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_LU_2026",
+   "pmid": "42165096",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_BRANDL_2022",
+   "pmid": "35058584",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_CHAVANNE_2021",
+   "pmid": "33054384",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_JANIRI_2020",
+   "pmid": "31664439",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_GUO_2025",
+   "pmid": "40686488",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_CAO_2026",
+   "pmid": "41444402",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_SCHULZE_2019",
+   "pmid": "30581154",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_SHANG_2014",
+   "pmid": "24676455",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_HAYES_2012",
+   "pmid": "22738125",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ESPINOZA_2020",
+   "pmid": "32726102",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_DELCASALE_2022",
+   "pmid": "35158360",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ASHWORTH_2021",
+   "pmid": "33725661",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_DIBENEDETTO_2022",
+   "pmid": "35378148",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_GILL_2020",
+   "pmid": "32379599",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_CORDERO_2026",
+   "pmid": "42167549",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_MOJTABAVI_2020",
+   "pmid": "33152026",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_TYAGI_2026",
+   "pmid": "40946890",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_MANTHEY_2021",
+   "pmid": "34394855",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  }
+ ],
+ "ids_para_03": [],
+ "conflitos_tag_x_titulo_REVISAVEL": [
+  {
+   "id": "REF_OZER_2003",
+   "pmid": "12555794",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  },
+  {
+   "id": "REF_POLE_2007",
+   "pmid": "17723027",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  },
+  {
+   "id": "REF_KARG_2011",
+   "pmid": "21199959",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  },
+  {
+   "id": "REF_BROMIS_2018",
+   "pmid": "30021460",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  },
+  {
+   "id": "REF_SCHUMACHER_2019",
+   "pmid": "30790632",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  },
+  {
+   "id": "REF_SUAREZJIMENEZ_2020",
+   "pmid": "31258096",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  },
+  {
+   "id": "REF_GILL_2020",
+   "pmid": "32379599",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  },
+  {
+   "id": "REF_MOJTABAVI_2020",
+   "pmid": "33152026",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  },
+  {
+   "id": "REF_TYAGI_2026",
+   "pmid": "40946890",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  }
+ ],
+ "REVISAVEL_tag_EC_amplo_sem_sinal_RCT_nao_migrado": [
+  {
+   "id": "REF_YEHUDA_1990",
+   "pmid": "2348190",
+   "desenho_estudo": "[EC] Yehuda_1990",
+   "titulo": "Low urinary cortisol excretion in patients with posttraumatic stress disorder"
+  },
+  {
+   "id": "REF_HEIM_2000",
+   "pmid": "10918705",
+   "desenho_estudo": "[EC] Heim_2000",
+   "titulo": "Pituitary-adrenal and autonomic responses to stress in women after sexual and physical abuse in childhood"
+  },
+  {
+   "id": "REF_HEIM_2001",
+   "pmid": "11282691",
+   "desenho_estudo": "[EC] Heim_2001",
+   "titulo": "Altered pituitary-adrenal axis responses to provocative challenge tests in adult survivors of childhood abuse"
+  },
+  {
+   "id": "REF_GILBERTSON_2002",
+   "pmid": "12379862",
+   "desenho_estudo": "[EC] Gilbertson_2002",
+   "titulo": "Smaller hippocampal volume predicts pathologic vulnerability to psychological trauma"
+  },
+  {
+   "id": "REF_CASPI_2003",
+   "pmid": "12869766",
+   "desenho_estudo": "[EC] Caspi_2003",
+   "titulo": "Influence of life stress on depression: moderation by a polymorphism in the 5-HTT gene"
+  },
+  {
+   "id": "REF_SHIN_2006",
+   "pmid": "16891563",
+   "desenho_estudo": "[EC] Shin_2006",
+   "titulo": "Amygdala, medial prefrontal cortex, and hippocampal function in PTSD"
+  },
+  {
+   "id": "REF_RAUCH_2006",
+   "pmid": "16919525",
+   "desenho_estudo": "[EC] Rauch_2006",
+   "titulo": "Neurocircuitry models of posttraumatic stress disorder and extinction: human neuroimaging research--past, present, and future"
+  },
+  {
+   "id": "REF_BINDER_2008",
+   "pmid": "18349090",
+   "desenho_estudo": "[EC] Binder_2008",
+   "titulo": "Association of FKBP5 polymorphisms and childhood abuse with risk of posttraumatic stress disorder symptoms in adults"
+  },
+  {
+   "id": "REF_LISTON_2009",
+   "pmid": "19139412",
+   "desenho_estudo": "[EC] Liston_2009",
+   "titulo": "Psychosocial stress reversibly disrupts prefrontal processing and attentional control"
+  },
+  {
+   "id": "REF_MCGOWAN_2009",
+   "pmid": "19234457",
+   "desenho_estudo": "[EC] McGowan_2009",
+   "titulo": "Epigenetic regulation of the glucocorticoid receptor in human brain associates with childhood abuse"
+  },
+  {
+   "id": "REF_POLANCZYK_2009",
+   "pmid": "19736354",
+   "desenho_estudo": "[EC] Polanczyk_2009",
+   "titulo": "Protective effect of CRHR1 gene variants on the development of adult depression following childhood maltreatment: replication and extension"
+  },
+  {
+   "id": "REF_RESSLER_2011",
+   "pmid": "21350482",
+   "desenho_estudo": "[EC] Ressler_2011",
+   "titulo": "Post-traumatic stress disorder is associated with PACAP and the PAC1 receptor"
+  },
+  {
+   "id": "REF_KLENGEL_2013",
+   "pmid": "23201972",
+   "desenho_estudo": "[EC] Klengel_2013",
+   "titulo": "Allele-specific FKBP5 DNA demethylation mediates gene-childhood trauma interactions"
+  },
+  {
+   "id": "REF_LISSEK_2014",
+   "pmid": "24001473",
+   "desenho_estudo": "[EC] Lissek_2014",
+   "titulo": "Generalized anxiety disorder is associated with overgeneralization of learned fear"
+  },
+  {
+   "id": "REF_MCCALL_2015",
+   "pmid": "26212712",
+   "desenho_estudo": "[EC] McCall_2015",
+   "titulo": "CRH engagement of the locus coeruleus noradrenergic system mediates stress-induced anxiety"
+  },
+  {
+   "id": "REF_YEHUDA_2016",
+   "pmid": "26410355",
+   "desenho_estudo": "[EC] Yehuda_2016",
+   "titulo": "Holocaust Exposure Induced Intergenerational Effects on FKBP5 Methylation"
+  },
+  {
+   "id": "REF_LOGUE_2018",
+   "pmid": "29217296",
+   "desenho_estudo": "[EC] Logue_2018",
+   "titulo": "Smaller Hippocampal Volume in Posttraumatic Stress Disorder: A Multisite ENIGMA-PGC Study: Subcortical Volumetry Results From Posttraumatic "
+  },
+  {
+   "id": "REF_ECKSTRAND_2019",
+   "pmid": "30229711",
+   "desenho_estudo": "[EC] Eckstrand_2019",
+   "titulo": "Trauma-associated anterior cingulate connectivity during reward learning predicts affective and anxiety states in young adults"
+  },
+  {
+   "id": "REF_VAN_2020",
+   "pmid": "30739477",
+   "desenho_estudo": "[EC] VanAssche_2020",
+   "titulo": "Ghosts from the past? The association between childhood interpersonal trauma, attachment and anxiety and depression in late life"
+  },
+  {
+   "id": "REF_YU_2012",
+   "pmid": "22442074",
+   "desenho_estudo": "[EC] estudo translacional (polimorfismo humano + modelo) · J Neurosci",
+   "titulo": "Variant brain-derived neurotrophic factor Val66Met polymorphism alters vulnerability to stress and response to antidepressants."
+  },
+  {
+   "id": "REF_LU_2016",
+   "pmid": "27049575",
+   "desenho_estudo": "[EC] estudo clínico com provocação (DST/combinada) · J Psychiatr Res",
+   "titulo": "In search of the HPA axis activity in unipolar depression patients with childhood trauma: Combined cortisol awakening response and dexametha"
+  },
+  {
+   "id": "REF_MENKE_2018",
+   "pmid": "30086534",
+   "desenho_estudo": "[EC] estudo clínico com DST e genotipagem FKBP5 · Psychoneuroendocrinology",
+   "titulo": "Childhood trauma dependent anxious depression sensitizes HPA axis function."
+  },
+  {
+   "id": "REF_NIKKHESLAT_2020",
+   "pmid": "31794798",
+   "desenho_estudo": "[EC] estudo clínico prospectivo · Brain Behav Immun",
+   "titulo": "Childhood trauma, HPA axis activity and antidepressant response in patients with depression."
+  },
+  {
+   "id": "REF_TIAN_2021",
+   "pmid": "33053385",
+   "desenho_estudo": "[EC] estudo experimental humano · Behav Brain Res",
+   "titulo": "Effects of childhood trauma experience and BDNF Val66Met polymorphism on brain plasticity relate to emotion regulation."
+  },
+  {
+   "id": "REF_HINOJOSA_2026",
+   "pmid": "41922983",
+   "desenho_estudo": "[EC] estudo de consórcio (ENIGMA-PGC) · Am J Psychiatry",
+   "titulo": "Resting-State Functional Connectivity of the Amygdala and Hippocampus in PTSD: Results From the PGC-ENIGMA PTSD Working Group."
+  },
+  {
+   "id": "REF_DARK_2022",
+   "pmid": "36030316",
+   "desenho_estudo": "[EC] estudo fMRI · Neuropsychopharmacology",
+   "titulo": "Sex-related differences in violence exposure, neural reactivity to threat, and mental health."
+  },
+  {
+   "id": "REF_BAKUSIC_2020",
+   "pmid": "33344725",
+   "desenho_estudo": "[EC] estudo clínico com metilação · Neurobiol Stress",
+   "titulo": "Increased methylation of NR3C1 and SLC6A4 is associated with blunted cortisol reactivity to stress in major depression."
+  },
+  {
+   "id": "REF_FARRELL_2018",
+   "pmid": "29793048",
+   "desenho_estudo": "[EC] estudo clínico com metilação · Psychiatry Res",
+   "titulo": "DNA methylation differences at the glucocorticoid receptor gene in depression are related to functional alterations in hypothalamic-pituitar"
+  },
+  {
+   "id": "REF_KERTES_2017",
+   "pmid": "28680507",
+   "desenho_estudo": "[EC] estudo mãe-bebê (metilação) · Clin Epigenetics",
+   "titulo": "BNDF methylation in mothers and newborns is associated with maternal exposure to war trauma."
+  },
+  {
+   "id": "REF_ISING_2008",
+   "pmid": "18702710",
+   "desenho_estudo": "[EC] estudo experimental humano (TSST) · Eur J Neurosci",
+   "titulo": "Polymorphisms in the FKBP5 gene region modulate recovery from psychosocial stress in healthy controls."
+  },
+  {
+   "id": "REF_HORI_2024",
+   "pmid": "38199409",
+   "desenho_estudo": "[EC] estudo clínico · J Affect Disord",
+   "titulo": "Blood mRNA expression levels of glucocorticoid receptors and FKBP5 are associated with depressive disorder and altered HPA axis."
+  },
+  {
+   "id": "REF_GERRITSEN_2017",
+   "pmid": "28589964",
+   "desenho_estudo": "[EC] estudo clínico G×E · Neuropsychopharmacology",
+   "titulo": "HPA Axis Genes, and Their Interaction with Childhood Maltreatment, are Related to Cortisol Levels and Stress-Related Phenotypes."
+  },
+  {
+   "id": "REF_GERRITSEN_2019",
+   "pmid": "30472466",
+   "desenho_estudo": "[EC] estudo clínico longitudinal · Psychoneuroendocrinology",
+   "titulo": "Long-term glucocorticoid levels measured in hair in patients with depressive and anxiety disorders."
+  },
+  {
+   "id": "REF_DOBERNECKER_2023",
+   "pmid": "36697477",
+   "desenho_estudo": "[EC] estudo clínico · Sci Rep",
+   "titulo": "Cumulative trauma predicts hair cortisol concentrations and symptoms of depression and anxiety in pregnant women-an investigation of communi"
+  },
+  {
+   "id": "REF_JONES_2022",
+   "pmid": "36115855",
+   "desenho_estudo": "[EC] estudo MRI+PET · Transl Psychiatry",
+   "titulo": "Evaluation of brain structure and metabolism in currently depressed adults with a history of childhood trauma."
+  }
+ ],
+ "divida_nomeada": "forca_evidencia_afirmacao vazio quando a ficha não trazia (schema 09.2 exige; preenchimento exige avaliação — não fabricar)"
+}

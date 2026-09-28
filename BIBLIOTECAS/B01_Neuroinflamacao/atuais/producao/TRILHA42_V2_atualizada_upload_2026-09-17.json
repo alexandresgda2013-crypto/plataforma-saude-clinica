@@ -1,0 +1,159 @@
+{
+  "trilha": 42,
+  "data": "2026-09-17",
+  "rodada": 24,
+  "objeto": "V2 atualizada pelo operador (upload mesmo-nome) — diff/verificação/parecer",
+  "etapas": {
+    "A0_digitais": {
+      "upload_sha256": "5be36836610d26832506b73dac45baa09e7041bc9ce22e6557f2be59b258e06a",
+      "upload_bytes": 50964,
+      "upload_linhas": 1387,
+      "vigente_sha256": "09692e18a5a65958bde4545ed6ff804c21c5945411159988654c7664c8a4a4e2",
+      "vigente_bytes": 46129,
+      "vigente_linhas": 1351
+    },
+    "A1_diff": {
+      "hunks": [
+        [
+          40,
+          84,
+          40,
+          120
+        ],
+        [
+          983,
+          8,
+          1019,
+          9
+        ],
+        [
+          999,
+          7,
+          1036,
+          7
+        ],
+        [
+          1026,
+          13,
+          1063,
+          13
+        ],
+        [
+          1048,
+          7,
+          1085,
+          6
+        ]
+      ],
+      "n_hunks": 5,
+      "linhas_adicionadas": 112,
+      "linhas_removidas": 76,
+      "comando": "diff -u \"<vigente>\" \"<upload>\" > /home/user/diff_v2_vigente_x_upload_2026-09-17.txt",
+      "mapeamento_hunks_às_secoes": [
+        "§2",
+        "§21",
+        "§21",
+        "§21",
+        "§21"
+      ],
+      "leitura": "todo o restante do documento (§§1, 3–20, 22–30) é byte-idêntico — o diff cobre só §2 e §21"
+    },
+    "A2_kit_no_novo_texto": {
+      "kit": 0,
+      "SM-02": 0,
+      "SCHEMA-CLAIM": 0,
+      "claim kit": 0,
+      "leitura": "a atualização NÃO posiciona o kit: a decisão da camada (a histórico × b camada-origem-V2 × c ferramenta→Evidências, do comentador) permanece aberta com o operador"
+    },
+    "A3_guarda_pasta_atualizacao": {
+      "paragrafo_sec2_posicao_paralela": 0,
+      "sec18_camada_diferente": [
+        891
+      ],
+      "sec18_nao_canonico_automatico": [
+        920
+      ],
+      "sec19_nao_equivalencia_motor": [
+        966
+      ],
+      "sec20_status_diferente": [
+        1016
+      ],
+      "leitura": "frase do §2 removida, mas o regime de proteção canônica segue escrito nas §§18/19/20 — guarda PRESERVADA, redistribuída"
+    },
+    "A4_anamnese": {
+      "ocorrencias_novo": 6,
+      "ocorrencias_vigente": 2,
+      "definicao_nova_sec2": true,
+      "prosa_preexiste_sec23_sec24": true
+    },
+    "A5_quatro_representacoes": {
+      "descricoes": {
+        "§2-novo": "espelhado: [CIÊNCIA]→{BIBLIOTECAS ∥ PASTA ATUALIZAÇÃO}→cada eixo com EVIDÊNCIAS+NT próprias→'EVIDÊNCIAS/VÍNCULOS UNIFICADOS'→…→MOTOR◄ANAMNESE (linhas 45–158)",
+        "§21-novo": "linear: CIÊNCIA→{BIBLIOTECA→EVID+NT} com Pasta como ramo EXTERNO; 'EVIDÊNCIAS/VÍNCULOS' simples (sem 'UNIFICADOS'); ANAMNESE entra no MOTOR (linhas 1022–1089)",
+        "§20": "fluxo canônico: CIÊNCIA→SELEÇÃO→EVIDÊNCIA→BIBLIOTECA→NT→… (evidência A MONTANTE) + fluxo de atualização separado; 'não possuem o mesmo status epistemológico'",
+        "§5.3": "minidiagrama: EVIDÊNCIA BIBLIOGRÁFICA→BIBLIOTECA CANÔNICA→NT (a montante), INALTERADO nesta atualização"
+      },
+      "duplicidade_titulo": "§2 e §21 usam o MESMO título 'ARQUITETURA MULTIDOMÍNIO COMPLETA' para desenhos DIFERENTES; o §2 ainda carrega o rótulo '# 21.' na sua linha 45",
+      "direcao_normativa": "prosa (§5.3 e §20-fluxo-canônico): evidência A MONTANTE da Biblioteca · desenhos gerais (§2 e §21): Evidências A JUSANTE — a D-V2-DIAGRAMA-DUPLO não fecha; amplia para 4 representações. Contexto: o comentador (rodada 23) fica apoiado pela prosa na DIREÇÃO, mas não na topologia completa que propôs",
+      "medidas": {
+        "sec2_novo_espelhado": {
+          "evidencia": [
+            66
+          ],
+          "titulo": [
+            45,
+            1020
+          ]
+        },
+        "sec21_novo_linear": {
+          "evidencia": [],
+          "titulo_na_1020": true
+        },
+        "sec20_fluxo_canonico": {
+          "evidencia_antes_da_biblioteca": true
+        },
+        "sec53_minidiagrama": {
+          "ordem_EVID_BIB_NT": true
+        }
+      }
+    },
+    "A6_higiene_sec21": {
+      "fences_crase_coluna0": 60,
+      "fence_indentado_4espacos": 1,
+      "fechamento_antes_do_proximo_---": false,
+      "efeito": "markdown: fence com 4 espaços de indentação NÃO é fence — o '```text' renderiza literal e o desenho sai do bloco de código; falta o fechamento. Correção = 2 edições de formato (desindentar abertura + adicionar fechamento), 0 semântica"
+    },
+    "A7_triade_saida": {
+      "antiga_sugestao_mecanistica": 0,
+      "antiga_explicacao_cientifica": 0,
+      "antiga_narrativa_contextual": 0,
+      "nova_triade": 2,
+      "explicacao_narrativa": 2,
+      "leitura": "mudança editorial dos desenhos (só lá); sem prosa explicando a nova tríade — DÍVIDA editorial nomeada"
+    },
+    "A8_motor_consulta": {
+      "sec2_consulta_ativa": true,
+      "sec19_prosa": true,
+      "sec21_seta": true,
+      "leitura": "o §2-novo desenha a ida-e-volta (consulta ativa); o §21-novo desenha JSONs→MOTOR sem a seta de consulta — os desenhos entre si não são idênticos (coerência parcial; reforça o pedido de canônico único)"
+    },
+    "A9_versionamento": {
+      "nome_do_arquivo": "inalterado ('…V2  -  15.09.26.md') com conteúdo novo — mesmo caso-didático das digitais do kit",
+      "proposta_casa": "instalar como vigente SOB NOVO NOME 'ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.1  -  17.09.26.md' (título interno pode seguir 'V2' com linha de rev datada), anterior (09692e18…) → SUPERSEDED_ + ponteiro, ARQUITETURA_VIGENTE.txt com a nova sha pública — PENDENTE da decisão do operador (3 opções no chat)"
+    }
+  },
+  "vereditos": {
+    "A1_escopo_SO_sec2_e_sec21": true,
+    "A2_kit_zero_novo_texto": true,
+    "A3_guarda_preservada_redistribuida": true,
+    "A4_anamnese_coerente": true,
+    "A5_quatro_representacoes_mapeadas": true,
+    "A5_titulo_duplicado_sec2_x_sec21": true,
+    "A6_fence_sec21_quebrado_detectado": true,
+    "A7_triade_substituida_nos_desenhos": true,
+    "A8_consulta_ativa_no_sec2_e_prosa_sec19": true
+  },
+  "ciencia_tocada": 0,
+  "parecer_agregado": "FAVORÁVEL à instalação: atualização cirúrgica e coerente (escopo provado em A1; guarda da Pasta redistribuída e intacta; anamnese agora entra nos desenhos com definição própria e prosa preexistente). 2 correções de formato pedidas antes ou com nota datada (A6 fence §21; rótulo '# 21.' duplicado no desenho do §2). DÍVIDA que AMPLIA: D-V2-DIAGRAMA-DUPLO → agora 4 representações com a direção Evidência↔Biblioteca divergente entre prosa (a montante) e desenhos gerais (a jusante); sugestão da casa: declarar UM canônico (§2-novo como executivo ou §20/§5.3 como norma de prosa) e rebatizar os demais. NÃO tocado: kit (0 ocorrências) — decisão (a)/(b)/(c) continua com o operador. Tríade de saída nova (MEC/CLÍN/TER) existe só nos desenhos — dívida de prosa nomeada."
+}

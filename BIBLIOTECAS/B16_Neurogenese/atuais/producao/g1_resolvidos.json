@@ -1,0 +1,5414 @@
+{
+ "9809557": {
+  "pmid": "9809557",
+  "title": "Neurogenesis in the adult human hippocampus",
+  "journal": "Nature medicine",
+  "pubdate": "1998 Nov",
+  "authors": [
+   "Eriksson PS",
+   "Perfilieva E",
+   "Björk-Eriksson T",
+   "Alborn AM",
+   "Nordborg C",
+   "Peterson DA"
+  ],
+  "tema": "Neurogênese no hipocampo humano adulto (primeira demonstração)",
+  "autor_ano": "Eriksson 1998 (Nat Med)",
+  "tipo": "clássico/humano Q1",
+  "blocos": [
+   "A"
+  ]
+ },
+ "18295581": {
+  "pmid": "18295581",
+  "title": "Mechanisms and functional implications of adult neurogenesis",
+  "journal": "Cell",
+  "pubdate": "2008 Feb 22",
+  "authors": [
+   "Zhao C",
+   "Deng W",
+   "Gage FH"
+  ],
+  "tema": "Mecanismos e implicações funcionais da neurogênese adulta",
+  "autor_ano": "Zhao 2008 (Cell)",
+  "tipo": "revisão/mecanístico Q1",
+  "blocos": [
+   "A"
+  ]
+ },
+ "21609825": {
+  "pmid": "21609825",
+  "title": "Adult neurogenesis in the mammalian brain: significant answers and significant questions",
+  "journal": "Neuron",
+  "pubdate": "2011 May 26",
+  "authors": [
+   "Ming GL",
+   "Song H"
+  ],
+  "tema": "Neurogênese adulta no cérebro mamífero: respostas e perguntas",
+  "autor_ano": "Ming & Song 2011 (Neuron)",
+  "tipo": "revisão-teto Q1",
+  "blocos": [
+   "A"
+  ]
+ },
+ "24905596": {
+  "pmid": "24905596",
+  "title": "Functions and dysfunctions of adult hippocampal neurogenesis",
+  "journal": "Annual review of neuroscience",
+  "pubdate": "2014",
+  "authors": [
+   "Christian KM",
+   "Song H",
+   "Ming GL"
+  ],
+  "tema": "Funções e disfunções da neurogênese hipocampal adulta",
+  "autor_ano": "Christian 2014 (Annu Rev Neurosci)",
+  "tipo": "revisão-teto Q1",
+  "blocos": [
+   "A"
+  ]
+ },
+ "35495058": {
+  "pmid": "35495058",
+  "title": "What Is Adult Hippocampal Neurogenesis Good for?",
+  "journal": "Frontiers in neuroscience",
+  "pubdate": "2022",
+  "authors": [
+   "Kempermann G"
+  ],
+  "tema": "Para que serve a neurogênese hipocampal adulta?",
+  "autor_ano": "Kempermann 2022 (Front Neurosci)",
+  "tipo": "revisão Q1",
+  "blocos": [
+   "A"
+  ]
+ },
+ "28469276": {
+  "pmid": "28469276",
+  "title": "Adult hippocampal neurogenesis and cognitive flexibility - linking memory and mood",
+  "journal": "Nature reviews. Neuroscience",
+  "pubdate": "2017 Jun",
+  "authors": [
+   "Anacker C",
+   "Hen R"
+  ],
+  "tema": "Neurogênese hipocampal adulta e flexibilidade cognitiva (memória↔humor)",
+  "autor_ano": "Anacker & Hen 2017 (Nat Rev Neurosci)",
+  "tipo": "revisão-teto Q1",
+  "blocos": [
+   "A"
+  ]
+ },
+ "39648699": {
+  "pmid": "39648699",
+  "title": "Adult Neurogenesis in the Human Dentate Gyrus",
+  "journal": "Hippocampus",
+  "pubdate": "2025 Jan",
+  "authors": [
+   "Gage FH"
+  ],
+  "tema": "Neurogênese hipocampal no giro denteado humano",
+  "autor_ano": "Gage 2025 (Hippocampus)",
+  "tipo": "revisão/perspectiva Q1",
+  "blocos": [
+   "A"
+  ]
+ },
+ "26330520": {
+  "pmid": "26330520",
+  "title": "Regulation of Adult Neurogenesis and Plasticity by (Early) Stress, Glucocorticoids, and Inflammation",
+  "journal": "Cold Spring Harbor perspectives in biology",
+  "pubdate": "2015 Sep 1",
+  "authors": [
+   "Lucassen PJ",
+   "Oomen CA",
+   "Naninck EF",
+   "Fitzsimons CP",
+   "van Dam AM",
+   "Czeh B"
+  ],
+  "tema": "Regulação da neurogênese adulta por estresse precoce/glicocorticoides/imune",
+  "autor_ano": "Lucassen 2015 (Cold Spring Harb Perspect Biol)",
+  "tipo": "revisão Q1",
+  "blocos": [
+   "A"
+  ]
+ },
+ "31165247": {
+  "pmid": "31165247",
+  "title": "Neurogenesis and antidepressant action",
+  "journal": "Cell and tissue research",
+  "pubdate": "2019 Jul",
+  "authors": [
+   "Park SC"
+  ],
+  "tema": "Neurogênese e ação antidepressiva",
+  "autor_ano": "Bortolotto/et al. 2019 (Cell Tissue Res)",
+  "tipo": "revisão Q1",
+  "blocos": [
+   "A"
+  ]
+ },
+ "34220412": {
+  "pmid": "34220412",
+  "title": "Adult Hippocampal Neurogenesis and Affective Disorders: New Neurons for Psychic Well-Being",
+  "journal": "Frontiers in neuroscience",
+  "pubdate": "2021",
+  "authors": [
+   "Gomes-Leal W"
+  ],
+  "tema": "Neurogênese hipocampal adulta e transtornos afetivos: novos neurônios para a psiquiatria",
+  "autor_ano": "Gomes-Leal 2021 (Front Neurosci)",
+  "tipo": "revisão",
+  "blocos": [
+   "A"
+  ]
+ },
+ "35853529": {
+  "pmid": "35853529",
+  "title": "Neuromodulation and hippocampal neurogenesis in depression: A scoping review",
+  "journal": "Brain research bulletin",
+  "pubdate": "2022 Oct 1",
+  "authors": [
+   "Flores AD",
+   "Yu WS",
+   "Fung ML",
+   "Lim LW"
+  ],
+  "tema": "Neuromodulação e neurogênese hipocampal na depressão (scoping review)",
+  "autor_ano": "Flores 2022 (Brain Res Bull)",
+  "tipo": "revisão (escopo)",
+  "blocos": [
+   "A"
+  ]
+ },
+ "40341897": {
+  "pmid": "40341897",
+  "title": "Implications of neurogenesis in depression through BDNF: rodent models, regulatory pathways, gut microbiota, and potential therapy",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2025 Sep",
+  "authors": [
+   "Han H",
+   "Yao J",
+   "Wu J",
+   "Mao S",
+   "Pan H",
+   "Qv L"
+  ],
+  "tema": "Implicações da neurogênese na depressão via BDNF (modelos/vias)",
+  "autor_ano": "Han 2025 (Mol Psychiatry)",
+  "tipo": "revisão Q1",
+  "blocos": [
+   "A"
+  ]
+ },
+ "24300695": {
+  "pmid": "24300695",
+  "title": "Stress, serotonin, and hippocampal neurogenesis in relation to depression and antidepressant effects",
+  "journal": "Neuroscience and biobehavioral reviews",
+  "pubdate": "2014 Jan",
+  "authors": [
+   "Mahar I",
+   "Bambico FR",
+   "Mechawar N",
+   "Nobrega JN"
+  ],
+  "tema": "Estresse, serotonina e neurogênese na depressão/antidepressivos",
+  "autor_ano": "Mahar 2014 (Neurosci Biobehav Rev)",
+  "tipo": "revisão Q1",
+  "blocos": [
+   "A"
+  ]
+ },
+ "18045159": {
+  "pmid": "18045159",
+  "title": "Regulation of neurogenesis and gliogenesis by stress and antidepressant treatment",
+  "journal": "CNS & neurological disorders drug targets",
+  "pubdate": "2007 Oct",
+  "authors": [
+   "Banasr M",
+   "Duman RS"
+  ],
+  "tema": "Regulação da neurogênese e gliogênese por estresse/antidepressivos",
+  "autor_ano": "Banasr 2007 (CNS Neurol Disord Drug Targets)",
+  "tipo": "revisão",
+  "blocos": [
+   "A"
+  ]
+ },
+ "17073656": {
+  "pmid": "17073656",
+  "title": "Stress, depression and hippocampal apoptosis",
+  "journal": "CNS & neurological disorders drug targets",
+  "pubdate": "2006 Oct",
+  "authors": [
+   "Lucassen PJ",
+   "Heine VM",
+   "Muller MB",
+   "van der Beek EM",
+   "Wiegant VM",
+   "De Kloet ER"
+  ],
+  "tema": "Estresse, depressão e apoptose hipocampal",
+  "autor_ano": "Lucassen 2006 (CNS Neurol Disord Drug Targets)",
+  "tipo": "revisão",
+  "blocos": [
+   "A"
+  ]
+ },
+ "10889528": {
+  "pmid": "10889528",
+  "title": "Adult brain neurogenesis and psychiatry: a novel theory of depression",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2000 May",
+  "authors": [
+   "Jacobs BL",
+   "van Praag H",
+   "Gage FH"
+  ],
+  "tema": "Neurogênese cerebral adulta e psiquiatria: nova teoria da depressão",
+  "autor_ano": "Jacobs 2000 (Mol Psychiatry)",
+  "tipo": "teoria/clássico Q1",
+  "blocos": [
+   "A"
+  ]
+ },
+ "12401475": {
+  "pmid": "12401475",
+  "title": "Adult brain neurogenesis and depression",
+  "journal": "Brain, behavior, and immunity",
+  "pubdate": "2002 Oct",
+  "authors": [
+   "Jacobs BL"
+  ],
+  "tema": "Neurogênese cerebral adulta e depressão",
+  "autor_ano": "Jacobs 2002 (Brain Behav Immun)",
+  "tipo": "revisão",
+  "blocos": [
+   "A"
+  ]
+ },
+ "16631126": {
+  "pmid": "16631126",
+  "title": "A neurotrophic model for stress-related mood disorders",
+  "journal": "Biological psychiatry",
+  "pubdate": "2006 Jun 15",
+  "authors": [
+   "Duman RS",
+   "Monteggia LM"
+  ],
+  "tema": "Um modelo neurotrófico para transtornos de humor relacionados ao estresse",
+  "autor_ano": "Duman 2006 (Biol Psychiatry)",
+  "tipo": "revisão-teto Q1",
+  "blocos": [
+   "A"
+  ]
+ },
+ "18923511": {
+  "pmid": "18923511",
+  "title": "The molecular neurobiology of depression",
+  "journal": "Nature",
+  "pubdate": "2008 Oct 16",
+  "authors": [
+   "Krishnan V",
+   "Nestler EJ"
+  ],
+  "tema": "A neurobiologia molecular da depressão",
+  "autor_ano": "Krishnan & Nestler 2008 (Nature)",
+  "tipo": "revisão-teto Q1",
+  "blocos": [
+   "A"
+  ]
+ },
+ "25240202": {
+  "pmid": "25240202",
+  "title": "The current state of the neurogenic theory of depression and anxiety",
+  "journal": "Current opinion in neurobiology",
+  "pubdate": "2015 Feb",
+  "authors": [
+   "Miller BR",
+   "Hen R"
+  ],
+  "tema": "Estado atual da teoria neurogênica da depressão/ansiedade: suporte animal, validade humana incerta",
+  "autor_ano": "Miller & Hen 2015 (Curr Opin Neurobiol)",
+  "tipo": "revisão-teto Q1",
+  "blocos": [
+   "A"
+  ]
+ },
+ "20889967": {
+  "pmid": "20889967",
+  "title": "Implications of the functional integration of adult-born hippocampal neurons in anxiety-depression disorders",
+  "journal": "The Neuroscientist : a review journal bringing neurobiology, neurology and psychiatry",
+  "pubdate": "2010 Oct",
+  "authors": [
+   "David DJ",
+   "Wang J",
+   "Samuels BA",
+   "Rainer Q",
+   "David I",
+   "Gardier AM"
+  ],
+  "tema": "Integração funcional de novos neurônios nas fases da NG e implicações para ansiedade/depressão",
+  "autor_ano": "David 2010 (Neuroscientist)",
+  "tipo": "revisão",
+  "blocos": [
+   "A"
+  ]
+ },
+ "25178407": {
+  "pmid": "25178407",
+  "title": "Adult neurogenesis and mental illness",
+  "journal": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+  "pubdate": "2015 Jan",
+  "authors": [
+   "Schoenfeld TJ",
+   "Cameron HA"
+  ],
+  "tema": "NG adulta e doença mental: sem causalidade direta estabelecida para os transtornos",
+  "autor_ano": "Schoenfeld & Cameron 2015 (Neuropsychopharmacology)",
+  "tipo": "revisão Q1",
+  "blocos": [
+   "A"
+  ]
+ },
+ "26801682": {
+  "pmid": "26801682",
+  "title": "Adult Neurogenesis and Psychiatric Disorders",
+  "journal": "Cold Spring Harbor perspectives in biology",
+  "pubdate": "2016 Sep 1",
+  "authors": [
+   "Kang E",
+   "Wen Z",
+   "Song H",
+   "Christian KM",
+   "Ming GL"
+  ],
+  "tema": "NG adulta e transtornos psiquiátricos (regulação emocional + memória)",
+  "autor_ano": "Kang & Song 2016 (CSH Perspect Biol)",
+  "tipo": "revisão",
+  "blocos": [
+   "A"
+  ]
+ },
+ "29922131": {
+  "pmid": "29922131",
+  "title": "Adult Hippocampal Neurogenesis: Regulation and Possible Functional and Clinical Correlates",
+  "journal": "Frontiers in neuroanatomy",
+  "pubdate": "2018",
+  "authors": [
+   "Baptista P",
+   "Andrade JP"
+  ],
+  "tema": "Regulação e correlatos funcionais/clínicos da NG adulta",
+  "autor_ano": "Baptista & Andrade 2018 (Front Neuroanat)",
+  "tipo": "revisão",
+  "blocos": [
+   "A"
+  ]
+ },
+ "29679070": {
+  "pmid": "29679070",
+  "title": "The role of adult hippocampal neurogenesis in brain health and disease",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2019 Jan",
+  "authors": [
+   "Toda T",
+   "Parylak SL",
+   "Linker SB",
+   "Gage FH"
+  ],
+  "tema": "Papel da NG adulta na saúde e na doença do cérebro",
+  "autor_ano": "Toda 2019 (Mol Psychiatry)",
+  "tipo": "revisão-teto Q1",
+  "blocos": [
+   "A"
+  ]
+ },
+ "35354926": {
+  "pmid": "35354926",
+  "title": "Dysregulation of adult hippocampal neuroplasticity in major depression: pathogenesis and therapeutic implications",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2022 Jun",
+  "authors": [
+   "Tartt AN",
+   "Mariani MB",
+   "Hen R",
+   "Mann JJ",
+   "Boldrini M"
+  ],
+  "tema": "Desregulação da neuroplasticidade hipocampal adulta na TDM: patogênese e terapia",
+  "autor_ano": "Tartt 2022 (Mol Psychiatry)",
+  "tipo": "revisão-teto Q1",
+  "blocos": [
+   "A"
+  ]
+ },
+ "40816272": {
+  "pmid": "40816272",
+  "title": "Adult hippocampal neurogenesis: New avenues for treatment of brain disorders",
+  "journal": "Stem cell reports",
+  "pubdate": "2025 Sep 9",
+  "authors": [
+   "Chen L",
+   "Li Z",
+   "Wang W",
+   "Zhou Y",
+   "Li W",
+   "Wang Y"
+  ],
+  "tema": "NG adulta: novas avenidas para tratamento de transtornos do SNC",
+  "autor_ano": "Chen 2025 (Stem Cell Reports)",
+  "tipo": "revisão Q1",
+  "blocos": [
+   "A"
+  ]
+ },
+ "23346419": {
+  "pmid": "23346419",
+  "title": "Functional role of adult hippocampal neurogenesis as a therapeutic strategy for mental disorders",
+  "journal": "Neural plasticity",
+  "pubdate": "2012",
+  "authors": [
+   "Jun H",
+   "Mohammed Qasim Hussaini S",
+   "Rigby MJ",
+   "Jang MH"
+  ],
+  "tema": "Papel funcional da NG como estratégia terapêutica em transtornos mentais (revisão)",
+  "autor_ano": "Jun 2012 (Neural Plast)",
+  "tipo": "revisão",
+  "blocos": [
+   "A"
+  ]
+ },
+ "30929900": {
+  "pmid": "30929900",
+  "title": "A Common Embryonic Origin of Stem Cells Drives Developmental and Adult Neurogenesis",
+  "journal": "Cell",
+  "pubdate": "2019 Apr 18",
+  "authors": [
+   "Berg DA",
+   "Su Y",
+   "Jimenez-Cyrus D",
+   "Patel A",
+   "Huang N",
+   "Morizet D"
+  ],
+  "tema": "Origem embrionária COMUM das células-tronco que geram desenvolvimento E neurogênese adulta (fate mapping)",
+  "autor_ano": "Berg 2019 (Cell)",
+  "tipo": "animal/linhagem Q1",
+  "blocos": [
+   "A"
+  ]
+ },
+ "29335606": {
+  "pmid": "29335606",
+  "title": "Conserved properties of dentate gyrus neurogenesis across postnatal development revealed by single-cell RNA sequencing",
+  "journal": "Nature neuroscience",
+  "pubdate": "2018 Feb",
+  "authors": [
+   "Hochgerner H",
+   "Zeisel A",
+   "Lönnerberg P",
+   "Linnarsson S"
+  ],
+  "tema": "Propriedades conservadas da NG do giro denteado no desenvolvimento pós-natal (scRNA-seq)",
+  "autor_ano": "Hochgerner 2018 (Nat Neurosci)",
+  "tipo": "animal/ômica Q1",
+  "blocos": [
+   "A"
+  ]
+ },
+ "11880507": {
+  "pmid": "11880507",
+  "title": "Adult rodent neurogenic regions: the ventricular subependyma contains neural stem cells, but the dentate gyrus contains restricted progenitors",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "pubdate": "2002 Mar 1",
+  "authors": [
+   "Seaberg RM",
+   "van der Kooy D"
+  ],
+  "tema": "Subependima ventricular contém CTNs; o giro denteado contém PROGENITORES RESTRITOS (biologia da linhagem)",
+  "autor_ano": "Seaberg 2002 (J Neurosci)",
+  "tipo": "animal/clássico Q1",
+  "blocos": [
+   "A"
+  ]
+ },
+ "26330519": {
+  "pmid": "26330519",
+  "title": "Neurogenesis in the Adult Hippocampus",
+  "journal": "Cold Spring Harbor perspectives in biology",
+  "pubdate": "2015 Sep 1",
+  "authors": [
+   "Kempermann G",
+   "Song H",
+   "Gage FH"
+  ],
+  "tema": "Neurogênese no hipocampo adulto (revisão fundamental de linhagem/nicho)",
+  "autor_ano": "Kempermann 2015 (CSH Perspect Biol)",
+  "tipo": "revisão-teto",
+  "blocos": [
+   "A"
+  ]
+ },
+ "31823803": {
+  "pmid": "31823803",
+  "title": "Expression of progenitor cell/immature neuron markers does not present definitive evidence for adult neurogenesis",
+  "journal": "Molecular brain",
+  "pubdate": "2019 Dec 10",
+  "authors": [
+   "Hagihara H",
+   "Murano T",
+   "Ohira K",
+   "Miwa M",
+   "Nakamura K",
+   "Miyakawa T"
+  ],
+  "tema": "ALERTA-MÉTODO: expressão de marcadores de progenitor/neurônio imaturo NÃO é evidência definitiva de NG adulta",
+  "autor_ano": "Hagihara 2019 (Mol Brain)",
+  "tipo": "método/crítico",
+  "blocos": [
+   "A"
+  ]
+ },
+ "35501905": {
+  "pmid": "35501905",
+  "title": "New neurons in old brains: implications of age in the analysis of neurogenesis in post-mortem tissue",
+  "journal": "Molecular brain",
+  "pubdate": "2022 May 2",
+  "authors": [
+   "Terstege DJ",
+   "Addo-Osafo K",
+   "Campbell Teskey G",
+   "Epp JR"
+  ],
+  "tema": "A IDADE do tecido/indivíduo distorce a análise de NG em pós-morte (confundidor de método)",
+  "autor_ano": "Terstege 2022 (Mol Brain)",
+  "tipo": "método",
+  "blocos": [
+   "A"
+  ]
+ },
+ "9065509": {
+  "pmid": "9065509",
+  "title": "Neurogenesis in the dentate gyrus of the adult tree shrew is regulated by psychosocial stress and NMDA receptor activation",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "pubdate": "1997 Apr 1",
+  "authors": [
+   "Gould E",
+   "McEwen BS",
+   "Tanapat P",
+   "Galea LA",
+   "Fuchs E"
+  ],
+  "tema": "Neurogênese no DG do tree shrew adulto regulada por estresse psicossocial e NMDA",
+  "autor_ano": "Gould 1997 (J Neurosci)",
+  "tipo": "clássico animal Q1",
+  "blocos": [
+   "B"
+  ]
+ },
+ "9501234": {
+  "pmid": "9501234",
+  "title": "Proliferation of granule cell precursors in the dentate gyrus of adult monkeys is diminished by stress",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "pubdate": "1998 Mar 17",
+  "authors": [
+   "Gould E",
+   "Tanapat P",
+   "McEwen BS",
+   "Flügge G",
+   "Fuchs E"
+  ],
+  "tema": "Proliferação de precursores granulares em primata adulto diminuída pelo estresse",
+  "autor_ano": "Gould 1998 (PNAS)",
+  "tipo": "clássico/primata Q1",
+  "blocos": [
+   "B"
+  ]
+ },
+ "9785120": {
+  "pmid": "9785120",
+  "title": "Stress inhibits the proliferation of granule cell precursors in the developing dentate gyrus",
+  "journal": "International journal of developmental neuroscience : the official journal of the International Society for Developmental Neuroscience",
+  "pubdate": "1998 Jun-Jul",
+  "authors": [
+   "Tanapat P",
+   "Galea LA",
+   "Gould E"
+  ],
+  "tema": "O estresse inibe proliferação de precursores granulares (DG em desenvolvimento)",
+  "autor_ano": "Tanapat 1998 (Int J Dev Neurosci)",
+  "tipo": "animal",
+  "blocos": [
+   "B"
+  ]
+ },
+ "10599477": {
+  "pmid": "10599477",
+  "title": "Stress and hippocampal neurogenesis",
+  "journal": "Biological psychiatry",
+  "pubdate": "1999 Dec 1",
+  "authors": [
+   "Gould E",
+   "Tanapat P"
+  ],
+  "tema": "Estresse e neurogênese hipocampal",
+  "autor_ano": "Gould 1999 (Biol Psychiatry)",
+  "tipo": "revisão/clássico Q1",
+  "blocos": [
+   "B"
+  ]
+ },
+ "11063968": {
+  "pmid": "11063968",
+  "title": "Regulation of hippocampal neurogenesis in adulthood",
+  "journal": "Biological psychiatry",
+  "pubdate": "2000 Oct 15",
+  "authors": [
+   "Gould E",
+   "Tanapat P",
+   "Rydel T",
+   "Hastings N"
+  ],
+  "tema": "Regulação da neurogênese hipocampal na vida adulta",
+  "autor_ano": "Gould 2000 (Biol Psychiatry)",
+  "tipo": "revisão",
+  "blocos": [
+   "B"
+  ]
+ },
+ "15273691": {
+  "pmid": "15273691",
+  "title": "Early life experience alters response of adult neurogenesis to stress",
+  "journal": "Nature neuroscience",
+  "pubdate": "2004 Aug",
+  "authors": [
+   "Mirescu C",
+   "Peters JD",
+   "Gould E"
+  ],
+  "tema": "Experiência de vida precoce altera a resposta da neurogênese adulta ao estresse",
+  "autor_ano": "Mirescu 2004 (Nat Neurosci)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "B"
+  ]
+ },
+ "16411244": {
+  "pmid": "16411244",
+  "title": "Stress and adult neurogenesis",
+  "journal": "Hippocampus",
+  "pubdate": "2006",
+  "authors": [
+   "Mirescu C",
+   "Gould E"
+  ],
+  "tema": "Estresse e neurogênese adulta",
+  "autor_ano": "Mirescu & Gould 2006 (Hippocampus)",
+  "tipo": "revisão",
+  "blocos": [
+   "B"
+  ]
+ },
+ "17360895": {
+  "pmid": "17360895",
+  "title": "Acute psychosocial stress reduces cell survival in adult hippocampal neurogenesis without altering proliferation",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "pubdate": "2007 Mar 14",
+  "authors": [
+   "Thomas RM",
+   "Hotsenpiller G",
+   "Peterson DA"
+  ],
+  "tema": "Estresse psicossocial agudo reduz sobrevivência celular na neurogênese (sem proliferação)",
+  "autor_ano": "Thomas 2007 (J Neurosci)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "B"
+  ]
+ },
+ "23407954": {
+  "pmid": "23407954",
+  "title": "Glucocorticoids orchestrate divergent effects on mood through adult neurogenesis",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "pubdate": "2013 Feb 13",
+  "authors": [
+   "Lehmann ML",
+   "Brachman RA",
+   "Martinowich K",
+   "Schloesser RJ",
+   "Herkenham M"
+  ],
+  "tema": "Glicocorticoides orquestram efeitos divergentes de humor via neurogênese adulta",
+  "autor_ano": "Lehmann 2013 (J Neurosci)",
+  "tipo": "animal/causal Q1",
+  "blocos": [
+   "B"
+  ]
+ },
+ "32755644": {
+  "pmid": "32755644",
+  "title": "Chronic stress followed by social isolation promotes depressive-like behaviour, alters microglial and astrocyte biology and reduces hippocampal neurogenesis in male mice",
+  "journal": "Brain, behavior, and immunity",
+  "pubdate": "2021 Jan",
+  "authors": [
+   "Du Preez A",
+   "Onorato D",
+   "Eiben I",
+   "Musaelyan K",
+   "Egeland M",
+   "Zunszain PA"
+  ],
+  "tema": "Estresse crônico + isolamento social: comportamento depressivo, microglia e neurogênese",
+  "autor_ano": "Du Preez 2021 (Brain Behav Immun)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "B"
+  ]
+ },
+ "37958520": {
+  "pmid": "37958520",
+  "title": "The Effects of Stress on Hippocampal Neurogenesis and Behavior in the Absence of Lipocalin-2",
+  "journal": "International journal of molecular sciences",
+  "pubdate": "2023 Oct 24",
+  "authors": [
+   "Ferreira AC",
+   "Marques F"
+  ],
+  "tema": "Efeitos do estresse sobre neurogênese/comportamento na ausência de lipocalina-2",
+  "autor_ano": "Ferreira 2023 (Int J Mol Sci)",
+  "tipo": "animal",
+  "blocos": [
+   "B"
+  ]
+ },
+ "34783064": {
+  "pmid": "34783064",
+  "title": "A terrifying sound stress inhibits hippocampal neurogenesis in the adult male mice",
+  "journal": "International journal of developmental neuroscience : the official journal of the International Society for Developmental Neuroscience",
+  "pubdate": "2022 Feb",
+  "authors": [
+   "Li Z",
+   "Zhao Z",
+   "Nan Z",
+   "Duan J",
+   "Zhang S",
+   "Zhang Z"
+  ],
+  "tema": "Estresse por som aterrorizante inibe neurogênese hipocampal (machos)",
+  "autor_ano": "Li 2022 (Int J Dev Neurosci)",
+  "tipo": "animal",
+  "blocos": [
+   "B"
+  ]
+ },
+ "29337227": {
+  "pmid": "29337227",
+  "title": "Juvenile social defeat stress exposure persistently impairs social behaviors and neurogenesis",
+  "journal": "Neuropharmacology",
+  "pubdate": "2018 May 1",
+  "authors": [
+   "Mouri A",
+   "Ukai M",
+   "Uchida M",
+   "Hasegawa S",
+   "Taniguchi M",
+   "Ito T"
+  ],
+  "tema": "Derrota social juvenil prejudica persistentemente comportamento social e neurogênese",
+  "autor_ano": "Mouri 2018 (Neuropharmacology)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "B"
+  ]
+ },
+ "41034507": {
+  "pmid": "41034507",
+  "title": "Hippocampal SGK1 promotes vulnerability to depression: the role of early life adversity, stress, and genetic risk",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2025 Dec",
+  "authors": [
+   "Millette A",
+   "van Dijk MT",
+   "Pokhvisneva I",
+   "Li Y",
+   "Thompson R",
+   "Patel S"
+  ],
+  "tema": "SGK1 hipocampal promove vulnerabilidade à depressão (adversidade precoce/estresse)",
+  "autor_ano": "Millette 2025 (Mol Psychiatry)",
+  "tipo": "animal/translacional Q1",
+  "blocos": [
+   "B"
+  ]
+ },
+ "41651838": {
+  "pmid": "41651838",
+  "title": "Inhibition of stress resilience and adult hippocampal neurogenesis by platelet-derived LPA16:0 in anxiety",
+  "journal": "Nature communications",
+  "pubdate": "2026 Feb 6",
+  "authors": [
+   "Larrieu T",
+   "Grieco F",
+   "Carron C",
+   "Vilademunt M",
+   "Weber C",
+   "Ginggen K"
+  ],
+  "tema": "LPA16:0 derivado de plaqueta inibe resiliência e neurogênese na ansiedade",
+  "autor_ano": "Larrieu 2026 (Nat Commun)",
+  "tipo": "animal/translacional Q1",
+  "blocos": [
+   "B",
+   "N"
+  ]
+ },
+ "34298958": {
+  "pmid": "34298958",
+  "title": "Stress-Related Dysfunction of Adult Hippocampal Neurogenesis-An Attempt for Understanding Resilience?",
+  "journal": "International journal of molecular sciences",
+  "pubdate": "2021 Jul 8",
+  "authors": [
+   "Leschik J",
+   "Lutz B",
+   "Gentile A"
+  ],
+  "tema": "Disfunção estresse-relacionada da NG adulta — tentativa de entender resiliência vs suscetibilidade",
+  "autor_ano": "Leschik 2021 (IJMS)",
+  "tipo": "revisão",
+  "blocos": [
+   "B"
+  ]
+ },
+ "29421158": {
+  "pmid": "29421158",
+  "title": "Behavioral and structural adaptations to stress",
+  "journal": "Frontiers in neuroendocrinology",
+  "pubdate": "2018 Apr",
+  "authors": [
+   "Cameron HA",
+   "Schoenfeld TJ"
+  ],
+  "tema": "Adaptações comportamentais e estruturais ao estresse: novos neurônios do DG aumentam a adaptabilidade",
+  "autor_ano": "Cameron & Schoenfeld 2018 (Front Neuroendocrinol)",
+  "tipo": "revisão",
+  "blocos": [
+   "B"
+  ]
+ },
+ "24478038": {
+  "pmid": "24478038",
+  "title": "Adult hippocampal neurogenesis in depression: behavioral implications and regulation by the stress system",
+  "journal": "Current topics in behavioral neurosciences",
+  "pubdate": "2014",
+  "authors": [
+   "Anacker C"
+  ],
+  "tema": "NG na depressão: implicações comportamentais e regulação pelo estresse (capítulo)",
+  "autor_ano": "Anacker & Hen 2014 (Curr Top Behav Neurosci)",
+  "tipo": "revisão",
+  "blocos": [
+   "B"
+  ]
+ },
+ "26795203": {
+  "pmid": "26795203",
+  "title": "Stress-Induced Anxiety- and Depressive-Like Phenotype Associated with Transient Reduction in Neurogenesis in Adult Nestin-CreERT2/Diphtheria Toxin Fragment A Transgenic Mice",
+  "journal": "PloS one",
+  "pubdate": "2016",
+  "authors": [
+   "Yun S",
+   "Donovan MH",
+   "Ross MN",
+   "Richardson DR",
+   "Reister R",
+   "Farnbauch LA"
+  ],
+  "tema": "Redução TRANSITÓRIA da NG basta para fenótipo ansioso/depressivo induzido por estresse; recuperação de DCX+ normaliza",
+  "autor_ano": "Yun 2016 (PLoS One)",
+  "tipo": "animal/causal",
+  "blocos": [
+   "B"
+  ]
+ },
+ "22249196": {
+  "pmid": "22249196",
+  "title": "Transcriptional control of glutamatergic differentiation during adult neurogenesis",
+  "journal": "Cellular and molecular life sciences : CMLS",
+  "pubdate": "2012 Jul",
+  "authors": [
+   "Hodge RD",
+   "Kahoud RJ",
+   "Hevner RF"
+  ],
+  "tema": "Controle transcricional da diferenciação glutamatérgica na NG adulta (linhagem)",
+  "autor_ano": "Hodge, Kahoud & Hevner 2012 (Cell Mol Life Sci)",
+  "tipo": "revisão (transcrição)",
+  "blocos": [
+   "B"
+  ]
+ },
+ "21281629": {
+  "pmid": "21281629",
+  "title": "Stress, stress hormones, and adult neurogenesis",
+  "journal": "Experimental neurology",
+  "pubdate": "2012 Jan",
+  "authors": [
+   "Schoenfeld TJ",
+   "Gould E"
+  ],
+  "tema": "Estresse, hormônios do estresse e NG adulta — paradoxo: corticosterona às vezes AUMENTA a NG",
+  "autor_ano": "Schoenfeld & Gould 2012 (Exp Neurol)",
+  "tipo": "revisão Q1",
+  "blocos": [
+   "B"
+  ]
+ },
+ "26415720": {
+  "pmid": "26415720",
+  "title": "Ablation of hippocampal neurogenesis in mice impairs the response to stress during the dark cycle",
+  "journal": "Nature communications",
+  "pubdate": "2015 Sep 29",
+  "authors": [
+   "Tsai CY",
+   "Tsai CY",
+   "Arnold SJ",
+   "Huang GJ"
+  ],
+  "tema": "Ablação da NG prejudica a resposta ao estresse NO CICLO ESCURO (período ativo)",
+  "autor_ano": "Tsai 2015 (Nat Commun)",
+  "tipo": "animal/causal Q1 (crossover B10)",
+  "blocos": [
+   "B"
+  ]
+ },
+ "24522255": {
+  "pmid": "24522255",
+  "title": "Stress, glucocorticoid receptors, and adult neurogenesis: a balance between excitation and inhibition?",
+  "journal": "Cellular and molecular life sciences : CMLS",
+  "pubdate": "2014 Jul",
+  "authors": [
+   "Saaltink DJ",
+   "Vreugdenhil E"
+  ],
+  "tema": "GR na fronteira excitação-inibição: o receptor de glicocorticoide regula proliferação, diferenciação, migração e integração",
+  "autor_ano": "Saaltink 2014 (Cell Mol Life Sci)",
+  "tipo": "revisão",
+  "blocos": [
+   "B"
+  ]
+ },
+ "24514565": {
+  "pmid": "24514565",
+  "title": "Stress and glucocorticoids promote oligodendrogenesis in the adult hippocampus",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2014 Dec",
+  "authors": [
+   "Chetty S",
+   "Friedman AR",
+   "Taravosh-Lahn K",
+   "Kirby ED",
+   "Mirescu C",
+   "Guo F"
+  ],
+  "tema": "Estresse/glicocorticoides REDIRECIONAM progenitores do DG para OLIGODENDROGÊNESE (mudança de DESTINO celular, não só menos neurônios)",
+  "autor_ano": "Chetty 2014 (Mol Psychiatry)",
+  "tipo": "animal/causal Q1 (nuance)",
+  "blocos": [
+   "B"
+  ]
+ },
+ "32640230": {
+  "pmid": "32640230",
+  "title": "Chronic Corticosterone Elevation Suppresses Adult Hippocampal Neurogenesis by Hyperphosphorylating Huntingtin",
+  "journal": "Cell reports",
+  "pubdate": "2020 Jul 7",
+  "authors": [
+   "Agasse F",
+   "Mendez-David I",
+   "Christaller W",
+   "Carpentier R",
+   "Braz BY",
+   "David DJ"
+  ],
+  "tema": "Corticosterona crônica suprime a NG por HIPERFOSFORILAÇÃO da HUNTINGTINA (via molecular específica)",
+  "autor_ano": "Agasse 2020 (Cell Rep)",
+  "tipo": "animal/causal Q1",
+  "blocos": [
+   "B"
+  ]
+ },
+ "23303060": {
+  "pmid": "23303060",
+  "title": "Glucocorticoid-related molecular signaling pathways regulating hippocampal neurogenesis",
+  "journal": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+  "pubdate": "2013 Apr",
+  "authors": [
+   "Anacker C",
+   "Cattaneo A",
+   "Luoni A",
+   "Musaelyan K",
+   "Zunszain PA",
+   "Milanesi E"
+  ],
+  "tema": "Vias de sinalização molecular relacionadas ao GR que regulam a NG (humano+animal; SGK1/FKBP5)",
+  "autor_ano": "Anacker 2013 (Neuropsychopharmacology)",
+  "tipo": "revisão Q1",
+  "blocos": [
+   "B"
+  ]
+ },
+ "20406669": {
+  "pmid": "20406669",
+  "title": "Chronic high corticosterone reduces neurogenesis in the dentate gyrus of adult male and female rats",
+  "journal": "Neuroscience",
+  "pubdate": "2010 Jul 14",
+  "authors": [
+   "Brummelte S",
+   "Galea LA"
+  ],
+  "tema": "Corticosterona crônica ALTA reduz a NG em MACHOS E FÊMEAS",
+  "autor_ano": "Brummelte & Galea 2010 (Neuroscience)",
+  "tipo": "animal [♂+♀]",
+  "blocos": [
+   "B"
+  ]
+ },
+ "37979034": {
+  "pmid": "37979034",
+  "title": "Glucocorticoid Receptor Down-Regulation Affects Neural Stem Cell Proliferation and Hippocampal Neurogenesis",
+  "journal": "Molecular neurobiology",
+  "pubdate": "2024 Jun",
+  "authors": [
+   "Kim S",
+   "Yang S",
+   "Kim J",
+   "Chung KW",
+   "Jung YS",
+   "Chung HY"
+  ],
+  "tema": "A REGULAÇÃO PARA BAIXO do GR afeta a proliferação de CTNs e a NG hipocampal",
+  "autor_ano": "Kim 2024 (Mol Neurobiol)",
+  "tipo": "animal/causal",
+  "blocos": [
+   "B"
+  ]
+ },
+ "26910812": {
+  "pmid": "26910812",
+  "title": "Glucocorticoids Suppress the Protective Effect of Cyclooxygenase-2-Related Signaling on Hippocampal Neurogenesis Under Acute Immune Stress",
+  "journal": "Molecular neurobiology",
+  "pubdate": "2017 Apr",
+  "authors": [
+   "Ma Y",
+   "Matsuwaki T",
+   "Yamanouchi K",
+   "Nishihara M"
+  ],
+  "tema": "Glicocorticoides SUPRIMEM a sinalização protetora de COX-2 sobre a NG sob estresse imune agudo (GC×imuno)",
+  "autor_ano": "Ma & Matsuwaki 2017 (Mol Neurobiol)",
+  "tipo": "animal",
+  "blocos": [
+   "B"
+  ]
+ },
+ "33301616": {
+  "pmid": "33301616",
+  "title": "Glucocorticoid-mediated mechanisms of hippocampal damage: Contribution of subgranular neurogenesis",
+  "journal": "Journal of neurochemistry",
+  "pubdate": "2021 May",
+  "authors": [
+   "Podgorny OV",
+   "Gulyaeva NV"
+  ],
+  "tema": "Mecanismos glicocorticoide-mediados de dano hipocampal: contribuição da NG da ZSG (revisão)",
+  "autor_ano": "Podgorny & Gulyaeva 2021 (J Neurochem)",
+  "tipo": "revisão",
+  "blocos": [
+   "B"
+  ]
+ },
+ "11124987": {
+  "pmid": "11124987",
+  "title": "Chronic antidepressant treatment increases neurogenesis in adult rat hippocampus",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "pubdate": "2000 Dec 15",
+  "authors": [
+   "Malberg JE",
+   "Eisch AJ",
+   "Nestler EJ",
+   "Duman RS"
+  ],
+  "tema": "Tratamento antidepressivo crônico aumenta neurogênese no hipocampo de rato",
+  "autor_ano": "Malberg 2000 (J Neurosci)",
+  "tipo": "clássico animal Q1",
+  "blocos": [
+   "C"
+  ]
+ },
+ "16797263": {
+  "pmid": "16797263",
+  "title": "Hippocampal neurogenesis: regulation by stress and antidepressants",
+  "journal": "Biological psychiatry",
+  "pubdate": "2006 Jun 15",
+  "authors": [
+   "Dranovsky A",
+   "Hen R"
+  ],
+  "tema": "Neurogênese hipocampal: regulação por estresse e antidepressivos",
+  "autor_ano": "Dranovsky & Hen 2006 (Biol Psychiatry)",
+  "tipo": "revisão-teto Q1",
+  "blocos": [
+   "C"
+  ]
+ },
+ "12907793": {
+  "pmid": "12907793",
+  "title": "Requirement of hippocampal neurogenesis for the behavioral effects of antidepressants",
+  "journal": "Science (New York, N.Y.)",
+  "pubdate": "2003 Aug 8",
+  "authors": [
+   "Santarelli L",
+   "Saxe M",
+   "Gross C",
+   "Surget A",
+   "Battaglia F",
+   "Dulawa S"
+  ],
+  "tema": "Exigência de neurogênese hipocampal para os efeitos comportamentais de antidepressivos",
+  "autor_ano": "Santarelli 2003 (Science)",
+  "tipo": "clássico/causal animal Q1",
+  "blocos": [
+   "C"
+  ]
+ },
+ "17429410": {
+  "pmid": "17429410",
+  "title": "Behavioral effects of chronic fluoxetine in BALB/cJ mice do not require adult hippocampal neurogenesis or the serotonin 1A receptor",
+  "journal": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+  "pubdate": "2008 Jan",
+  "authors": [
+   "Holick KA",
+   "Lee DC",
+   "Hen R",
+   "Dulawa SC"
+  ],
+  "tema": "Efeitos comportamentais da fluoxetina crônica em BALB/cJ NÃO exigem neurogênese",
+  "autor_ano": "Holick 2008 (Neuropsychopharmacology)",
+  "tipo": "contraprova animal Q1",
+  "blocos": [
+   "C"
+  ]
+ },
+ "18406399": {
+  "pmid": "18406399",
+  "title": "Drug-dependent requirement of hippocampal neurogenesis in a model of depression and of antidepressant reversal",
+  "journal": "Biological psychiatry",
+  "pubdate": "2008 Aug 15",
+  "authors": [
+   "Surget A",
+   "Saxe M",
+   "Leman S",
+   "Ibarguen-Vargas Y",
+   "Chalon S",
+   "Griebel G"
+  ],
+  "tema": "Exigência dependente do fármaco de neurogênese em modelo de depressão/antidepressivo",
+  "autor_ano": "Surget 2008 (Biol Psychiatry)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "C"
+  ]
+ },
+ "19477151": {
+  "pmid": "19477151",
+  "title": "Neurogenesis-dependent and -independent effects of fluoxetine in an animal model of anxiety/depression",
+  "journal": "Neuron",
+  "pubdate": "2009 May 28",
+  "authors": [
+   "David DJ",
+   "Samuels BA",
+   "Rainer Q",
+   "Wang JW",
+   "Marsteller D",
+   "Mendez I"
+  ],
+  "tema": "Efeitos dependentes e independentes de neurogênese da fluoxetina (ansiedade/depressão)",
+  "autor_ano": "David 2009 (Neuron)",
+  "tipo": "animal/causal Q1",
+  "blocos": [
+   "C"
+  ]
+ },
+ "21537331": {
+  "pmid": "21537331",
+  "title": "Antidepressants recruit new neurons to improve stress response regulation",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2011 Dec",
+  "authors": [
+   "Surget A",
+   "Tanti A",
+   "Leonardo ED",
+   "Laugeray A",
+   "Rainer Q",
+   "Touma C"
+  ],
+  "tema": "Antidepressivos recrutam neurônios novos para regular a resposta ao estresse",
+  "autor_ano": "Surget 2011 (Mol Psychiatry)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "C"
+  ]
+ },
+ "21525974": {
+  "pmid": "21525974",
+  "title": "Necessity of hippocampal neurogenesis for the therapeutic action of antidepressants in adult nonhuman primates",
+  "journal": "PloS one",
+  "pubdate": "2011 Apr 15",
+  "authors": [
+   "Perera TD",
+   "Dwork AJ",
+   "Keegan KA",
+   "Thirumangalakudi L",
+   "Lipira CM",
+   "Joyce N"
+  ],
+  "tema": "Necessidade de neurogênese para a ação terapêutica de antidepressivos em primatas",
+  "autor_ano": "Perera 2011 (PLoS One)",
+  "tipo": "primata Q1",
+  "blocos": [
+   "C"
+  ]
+ },
+ "28890366": {
+  "pmid": "28890366",
+  "title": "Increasing adult hippocampal neurogenesis in mice after exposure to unpredictable chronic mild stress may counteract some of the effects of stress",
+  "journal": "Neuropharmacology",
+  "pubdate": "2017 Nov",
+  "authors": [
+   "Culig L",
+   "Surget A",
+   "Bourdey M",
+   "Khemissi W",
+   "Le Guisquet AM",
+   "Vogel E"
+  ],
+  "tema": "Aumentar neurogênese hipocampal adulta após estresse crônico imprevisível (reversão)",
+  "autor_ano": "Culig 2017 (Neuropharmacology)",
+  "tipo": "animal",
+  "blocos": [
+   "C"
+  ]
+ },
+ "26617501": {
+  "pmid": "26617501",
+  "title": "Conditional Reduction of Adult Born Doublecortin-Positive Neurons Reversibly Impairs Selective Behaviors",
+  "journal": "Frontiers in behavioral neuroscience",
+  "pubdate": "2015",
+  "authors": [
+   "Garrett L",
+   "Zhang J",
+   "Zimprich A",
+   "Niedermeier KM",
+   "Fuchs H",
+   "Gailus-Durner V"
+  ],
+  "tema": "Redução condicional e reversível de neurônios DCX⁺ prejudica comportamentos seletivos",
+  "autor_ano": "Garrett 2015 (Front Behav Neurosci)",
+  "tipo": "animal/causal",
+  "blocos": [
+   "C"
+  ]
+ },
+ "19606083": {
+  "pmid": "19606083",
+  "title": "Antidepressants increase neural progenitor cells in the human hippocampus",
+  "journal": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+  "pubdate": "2009 Oct",
+  "authors": [
+   "Boldrini M",
+   "Underwood MD",
+   "Hen R",
+   "Rosoklija GB",
+   "Dwork AJ",
+   "John Mann J"
+  ],
+  "tema": "Antidepressivos aumentam células progenitoras neurais no hipocampo HUMANO",
+  "autor_ano": "Boldrini 2009 (Neuropsychopharmacology)",
+  "tipo": "humano pós-morte Q1",
+  "blocos": [
+   "C"
+  ]
+ },
+ "21483429": {
+  "pmid": "21483429",
+  "title": "Antidepressants increase human hippocampal neurogenesis by activating the glucocorticoid receptor",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2011 Jul",
+  "authors": [
+   "Anacker C",
+   "Zunszain PA",
+   "Cattaneo A",
+   "Carvalho LA",
+   "Garabedian MJ",
+   "Thuret S"
+  ],
+  "tema": "Antidepressivos aumentam neurogênese humana ativando o receptor de glicocorticoide",
+  "autor_ano": "Anacker 2011 (Mol Psychiatry)",
+  "tipo": "humano-celular Q1",
+  "blocos": [
+   "C"
+  ]
+ },
+ "23650397": {
+  "pmid": "23650397",
+  "title": "Role for the kinase SGK1 in stress, depression, and glucocorticoid effects on hippocampal neurogenesis",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "pubdate": "2013 May 21",
+  "authors": [
+   "Anacker C",
+   "Cattaneo A",
+   "Musaelyan K",
+   "Zunszain PA",
+   "Horowitz M",
+   "Molteni R"
+  ],
+  "tema": "Papel da quinase SGK1 no estresse/depressão e efeitos glicocorticoides na neurogênese",
+  "autor_ano": "Anacker 2013 (PNAS)",
+  "tipo": "humano-celular/animal Q1",
+  "blocos": [
+   "C"
+  ]
+ },
+ "20404165": {
+  "pmid": "20404165",
+  "title": "Reversal of hippocampal neuronal maturation by serotonergic antidepressants",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "pubdate": "2010 May 4",
+  "authors": [
+   "Kobayashi K",
+   "Ikeda Y",
+   "Sakai A",
+   "Yamasaki N",
+   "Haneda E",
+   "Miyakawa T"
+  ],
+  "tema": "Reversão da maturação neuronal hipocampal por antidepressivos serotonérgicos (desmaturação)",
+  "autor_ano": "Kobayashi 2010 (PNAS)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "C"
+  ]
+ },
+ "37302394": {
+  "pmid": "37302394",
+  "title": "Fluoxetine Can Cause Epileptogenesis and Aberrant Neurogenesis in Male Wild-Type Mice",
+  "journal": "Developmental neuroscience",
+  "pubdate": "2024",
+  "authors": [
+   "Musaelyan K",
+   "Horowitz MA",
+   "McHugh S",
+   "Szele FG"
+  ],
+  "tema": "Fluoxetina causa epileptogênese e neurogênese aberrante em machos selvagens",
+  "autor_ano": "Musaelyan 2024 (Dev Neurosci)",
+  "tipo": "animal (efeito adverso/sinal)",
+  "blocos": [
+   "C",
+   "N"
+  ]
+ },
+ "36291101": {
+  "pmid": "36291101",
+  "title": "Boosting Neurogenesis in the Adult Hippocampus Using Antidepressants and Mesenchymal Stem Cells",
+  "journal": "Cells",
+  "pubdate": "2022 Oct 14",
+  "authors": [
+   "Kot M",
+   "Neglur PK",
+   "Pietraszewska A",
+   "Buzanska L"
+  ],
+  "tema": "Impulsionar neurogênese com antidepressivos e células-tronco mesenquimais (revisão)",
+  "autor_ano": "Kot 2022 (Cells)",
+  "tipo": "revisão",
+  "blocos": [
+   "C"
+  ]
+ },
+ "30236533": {
+  "pmid": "30236533",
+  "title": "Depression and adult neurogenesis: Positive effects of the antidepressant fluoxetine and of physical exercise",
+  "journal": "Brain research bulletin",
+  "pubdate": "2018 Oct",
+  "authors": [
+   "Micheli L",
+   "Ceccarelli M",
+   "D'Andrea G",
+   "Tirone F"
+  ],
+  "tema": "Neurogênese e efeitos antidepressivos (efeitos da fluoxetina e do exercício)",
+  "autor_ano": "Banasr/et al. 2018 (Brain Res Bull)",
+  "tipo": "revisão animal",
+  "blocos": [
+   "C",
+   "D"
+  ]
+ },
+ "21937982": {
+  "pmid": "21937982",
+  "title": "Depression, antidepressants, and neurogenesis: a critical reappraisal",
+  "journal": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+  "pubdate": "2011 Dec",
+  "authors": [
+   "Hanson ND",
+   "Owens MJ",
+   "Nemeroff CB"
+  ],
+  "tema": "Depressão, antidepressivos e neurogênese: reavaliação crítica",
+  "autor_ano": "Hanson 2011 (Neuropsychopharmacology)",
+  "tipo": "revisão Q1",
+  "blocos": [
+   "C"
+  ]
+ },
+ "20060007": {
+  "pmid": "20060007",
+  "title": "Hippocampal neurogenesis as a target for the treatment of mental illness: a critical evaluation",
+  "journal": "Neuropharmacology",
+  "pubdate": "2010 May",
+  "authors": [
+   "DeCarolis NA",
+   "Eisch AJ"
+  ],
+  "tema": "NG hipocampal como alvo terapêutico: avaliação crítica (modular NG sozinho pode não bastar)",
+  "autor_ano": "DeCarolis & Eisch 2010 (Neuropharmacology)",
+  "tipo": "revisão",
+  "blocos": [
+   "C"
+  ]
+ },
+ "32811415": {
+  "pmid": "32811415",
+  "title": "Is Adult Hippocampal Neurogenesis Really Relevant for the Treatment of Psychiatric Disorders?",
+  "journal": "Current neuropharmacology",
+  "pubdate": "2021",
+  "authors": [
+   "Carli M",
+   "Aringhieri S",
+   "Kolachalam S",
+   "Longoni B",
+   "Grenno G",
+   "Rossi M"
+  ],
+  "tema": "A NG adulta é realmente relevante para o tratamento de transtornos psiquiátricos?",
+  "autor_ano": "Carli 2021 (Curr Neuropharmacol)",
+  "tipo": "revisão",
+  "blocos": [
+   "C"
+  ]
+ },
+ "26464972": {
+  "pmid": "26464972",
+  "title": "Conditional Inhibition of Adult Neurogenesis by Inducible and Targeted Deletion of ERK5 MAP Kinase Is Not Associated with Anxiety/Depression-Like Behaviors",
+  "journal": "eNeuro",
+  "pubdate": "2015 Mar-Apr",
+  "authors": [
+   "Zou J",
+   "Wang W",
+   "Pan YW",
+   "Abel GM",
+   "Storm DR",
+   "Xia Z"
+  ],
+  "tema": "Deleção induzível de ERK5 MAPK inibe a NG SEM gerar ansiedade/depressão, mesmo após estresse crônico imprevisível (contra \"necessidade\")",
+  "autor_ano": "Zou 2015 (eNeuro)",
+  "tipo": "animal/causal",
+  "blocos": [
+   "C"
+  ]
+ },
+ "33302237": {
+  "pmid": "33302237",
+  "title": "Adult neurogenesis augmentation attenuates anhedonia and HPA axis dysregulation in a mouse model of chronic stress and depression",
+  "journal": "Psychoneuroendocrinology",
+  "pubdate": "2021 Feb",
+  "authors": [
+   "Eliwa H",
+   "Brizard B",
+   "Le Guisquet AM",
+   "Hen R",
+   "Belzung C",
+   "Surget A"
+  ],
+  "tema": "Aumento da NG atenua anedonia e disfunção do eixo HPA, mas NÃO é suficiente para todos os déficits depressivos",
+  "autor_ano": "Eliwa 2021 (Psychoneuroendocrinology)",
+  "tipo": "animal/causal (parcial)",
+  "blocos": [
+   "C"
+  ]
+ },
+ "32007727": {
+  "pmid": "32007727",
+  "title": "Adult hippocampal neurogenesis and antidepressants effects",
+  "journal": "Current opinion in pharmacology",
+  "pubdate": "2020 Feb",
+  "authors": [
+   "Planchez B",
+   "Surget A",
+   "Belzung C"
+  ],
+  "tema": "NG adulta e efeitos antidepressivos: mecanismos precisos ainda NÃO definidos",
+  "autor_ano": "Planchez 2020 (Curr Opin Pharmacol)",
+  "tipo": "revisão",
+  "blocos": [
+   "C"
+  ]
+ },
+ "12946878": {
+  "pmid": "12946878",
+  "title": "Depressed new neurons--adult hippocampal neurogenesis and a cellular plasticity hypothesis of major depression",
+  "journal": "Biological psychiatry",
+  "pubdate": "2003 Sep 1",
+  "authors": [
+   "Kempermann G",
+   "Kronenberg G"
+  ],
+  "tema": "Hipótese da plasticidade CELULAR da depressão — \"depressed new neurons\" (marco histórico)",
+  "autor_ano": "Kempermann 2003 (Biol Psychiatry)",
+  "tipo": "revisão/hipótese histórica",
+  "blocos": [
+   "C"
+  ]
+ },
+ "21814201": {
+  "pmid": "21814201",
+  "title": "Adult hippocampal neurogenesis buffers stress responses and depressive behaviour",
+  "journal": "Nature",
+  "pubdate": "2011 Aug 3",
+  "authors": [
+   "Snyder JS",
+   "Soumier A",
+   "Brewer M",
+   "Pickel J",
+   "Cameron HA"
+  ],
+  "tema": "A neurogênese hipocampal adulta amortece respostas ao estresse e comportamento depressivo",
+  "autor_ano": "Snyder 2011 (Nature)",
+  "tipo": "causal animal Q1 (âncora-teto)",
+  "blocos": [
+   "D",
+   "N"
+  ]
+ },
+ "29950730": {
+  "pmid": "29950730",
+  "title": "Hippocampal neurogenesis confers stress resilience by inhibiting the ventral dentate gyrus",
+  "journal": "Nature",
+  "pubdate": "2018 Jul",
+  "authors": [
+   "Anacker C",
+   "Luna VM",
+   "Stevens GS",
+   "Millette A",
+   "Shores R",
+   "Jimenez JC"
+  ],
+  "tema": "A neurogênese confere resiliência ao estresse inibindo o giro denteado ventral",
+  "autor_ano": "Anacker 2018 (Nature)",
+  "tipo": "causal animal Q1 (âncora-teto)",
+  "blocos": [
+   "D"
+  ]
+ },
+ "19255582": {
+  "pmid": "19255582",
+  "title": "Adult hippocampal neurogenesis is involved in anxiety-related behaviors",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2009 Oct",
+  "authors": [
+   "Revest JM",
+   "Dupret D",
+   "Koehl M",
+   "Funk-Reiter C",
+   "Grosjean N",
+   "Piazza PV"
+  ],
+  "tema": "Neurogênese hipocampal adulta está envolvida em comportamentos de ansiedade",
+  "autor_ano": "Revest 2009 (Mol Psychiatry)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "D"
+  ]
+ },
+ "25833129": {
+  "pmid": "25833129",
+  "title": "Increasing Adult Hippocampal Neurogenesis is Sufficient to Reduce Anxiety and Depression-Like Behaviors",
+  "journal": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+  "pubdate": "2015 Sep",
+  "authors": [
+   "Hill AS",
+   "Sahay A",
+   "Hen R"
+  ],
+  "tema": "Aumentar neurogênese adulta basta para reduzir ansiedade e comportamento depressivo",
+  "autor_ano": "Hill 2015 (Neuropsychopharmacology)",
+  "tipo": "causal animal Q1",
+  "blocos": [
+   "D"
+  ]
+ },
+ "23187693": {
+  "pmid": "23187693",
+  "title": "Neurogenesis and generalization: a new approach to stratify and treat anxiety disorders",
+  "journal": "Nature neuroscience",
+  "pubdate": "2012 Dec",
+  "authors": [
+   "Kheirbek MA",
+   "Klemenhagen KC",
+   "Sahay A",
+   "Hen R"
+  ],
+  "tema": "Neurogênese e generalização: nova abordagem para estratificar/ansiedade",
+  "autor_ano": "Kheirbek 2012 (Nat Neurosci)",
+  "tipo": "revisão/ideia Q1",
+  "blocos": [
+   "D"
+  ]
+ },
+ "23473324": {
+  "pmid": "23473324",
+  "title": "Differential control of learning and anxiety along the dorsoventral axis of the dentate gyrus",
+  "journal": "Neuron",
+  "pubdate": "2013 Mar 6",
+  "authors": [
+   "Kheirbek MA",
+   "Drew LJ",
+   "Burghardt NS",
+   "Costantini DO",
+   "Tannenholz L",
+   "Ahmari SE"
+  ],
+  "tema": "Controle diferencial de aprendizado e ansiedade ao longo do eixo dorsoventral do DG",
+  "autor_ano": "Kheirbek 2013 (Neuron)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "D"
+  ]
+ },
+ "24550158": {
+  "pmid": "24550158",
+  "title": "Functional dissociation of adult-born neurons along the dorsoventral axis of the dentate gyrus",
+  "journal": "Hippocampus",
+  "pubdate": "2014 Jul",
+  "authors": [
+   "Wu MV",
+   "Hen R"
+  ],
+  "tema": "Dissociação funcional de neurônios adultos ao longo do eixo dorsoventral do DG",
+  "autor_ano": "Wu 2014 (Hippocampus)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "D"
+  ]
+ },
+ "15225971": {
+  "pmid": "15225971",
+  "title": "Regional dissociations within the hippocampus--memory and anxiety",
+  "journal": "Neuroscience and biobehavioral reviews",
+  "pubdate": "2004 May",
+  "authors": [
+   "Bannerman DM",
+   "Rawlins JN",
+   "McHugh SB",
+   "Deacon RM",
+   "Yee BK",
+   "Bast T"
+  ],
+  "tema": "Dissociações regionais no hipocampo — memória e ansiedade",
+  "autor_ano": "Bannerman 2004 (Neurosci Biobehav Rev)",
+  "tipo": "revisão Q1",
+  "blocos": [
+   "D"
+  ]
+ },
+ "20176946": {
+  "pmid": "20176946",
+  "title": "Adult hippocampal neurogenesis is functionally important for stress-induced social avoidance",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "pubdate": "2010 Mar 2",
+  "authors": [
+   "Lagace DC",
+   "Donovan MH",
+   "DeCarolis NA",
+   "Farnbauch LA",
+   "Malhotra S",
+   "Berton O"
+  ],
+  "tema": "Neurogênese hipocampal é funcionalmente importante para evitação social induzida por estresse",
+  "autor_ano": "Lagace 2010 (PNAS)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "D"
+  ]
+ },
+ "35864848": {
+  "pmid": "35864848",
+  "title": "Inhibition of Hippocampal Neurogenesis Starting in Adolescence Increases Anxiodepressive Behaviors Amid Stress",
+  "journal": "Frontiers in behavioral neuroscience",
+  "pubdate": "2022",
+  "authors": [
+   "Larivee R",
+   "Johnson N",
+   "Freedgood NR",
+   "Cameron HA",
+   "Schoenfeld TJ"
+  ],
+  "tema": "Inibição da neurogênese a partir da adolescência aumenta comportamento ansiodepressivo",
+  "autor_ano": "Larivée 2022 (Front Behav Neurosci)",
+  "tipo": "animal/causal",
+  "blocos": [
+   "D"
+  ]
+ },
+ "36047921": {
+  "pmid": "36047921",
+  "title": "Tau aggravates stress-induced anxiety by inhibiting adult ventral hippocampal neurogenesis in mice",
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "pubdate": "2023 Mar 21",
+  "authors": [
+   "Liu H",
+   "Yang Z",
+   "Yu C",
+   "Dong H",
+   "Wang S",
+   "Wang G"
+  ],
+  "tema": "Tau agrava ansiedade por estresse inibindo neurogênese hipocampal ventral",
+  "autor_ano": "Liu 2023 (Cereb Cortex)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "D"
+  ]
+ },
+ "37393047": {
+  "pmid": "37393047",
+  "title": "Dentate Gyrus Microstructure Is Associated With Resilience After Exposure to Maternal Stress Across Two Human Cohorts",
+  "journal": "Biological psychiatry",
+  "pubdate": "2024 Jan 1",
+  "authors": [
+   "van Dijk MT",
+   "Talati A",
+   "Kashyap P",
+   "Desai K",
+   "Kelsall NC",
+   "Gameroff MJ"
+  ],
+  "tema": "Microestrutura do DG associada à resiliência após estresse materno (humano)",
+  "autor_ano": "van Dijk 2024 (Biol Psychiatry)",
+  "tipo": "humano imagem Q1",
+  "blocos": [
+   "D"
+  ]
+ },
+ "35859546": {
+  "pmid": "35859546",
+  "title": "Perceived stress associations with hippocampal-dependent behavior and hippocampal subfield volume",
+  "journal": "Neurobiology of stress",
+  "pubdate": "2022 Jul",
+  "authors": [
+   "Grupe DW",
+   "Barnes AL",
+   "Gresham L",
+   "Kirvin-Quamme A",
+   "Nord E",
+   "Alexander AL"
+  ],
+  "tema": "Estresse percebido, comportamento hipocampo-dependente e volume de subcampos",
+  "autor_ano": "Grupe 2022 (Neurobiol Stress)",
+  "tipo": "humano",
+  "blocos": [
+   "D"
+  ]
+ },
+ "32774242": {
+  "pmid": "32774242",
+  "title": "Potential Involvement of Adiponectin Signaling in Regulating Physical Exercise-Elicited Hippocampal Neurogenesis and Dendritic Morphology in Stressed Mice",
+  "journal": "Frontiers in cellular neuroscience",
+  "pubdate": "2020",
+  "authors": [
+   "Wang P",
+   "Liang Y",
+   "Chen K",
+   "Yau SY",
+   "Sun X",
+   "Cheng KK"
+  ],
+  "tema": "Adiponectina no elo exercício→neurogênese (metabólico/sinal)",
+  "autor_ano": "(revisão) 2020 (Front Cell Neurosci)",
+  "tipo": "animal/sinal",
+  "blocos": [
+   "D"
+  ]
+ },
+ "33479507": {
+  "pmid": "33479507",
+  "title": "Larger dentate gyrus volume as predisposing resilience factor for the development of trauma-related symptoms",
+  "journal": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+  "pubdate": "2021 Jun",
+  "authors": [
+   "Koch SBJ",
+   "van Ast VA",
+   "Kaldewaij R",
+   "Hashemi MM",
+   "Zhang W",
+   "Klumpers F"
+  ],
+  "tema": "Volume maior do giro denteado como fator de resiliência ao TEPT",
+  "autor_ano": "Koch 2021 (Neuropsychopharmacology)",
+  "tipo": "humano imagem Q1",
+  "blocos": [
+   "D"
+  ]
+ },
+ "39984680": {
+  "pmid": "39984680",
+  "title": "Resting-state fMRI reveals altered functional connectivity associated with resilience and susceptibility to chronic social defeat stress in mouse brain",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2025 Jul",
+  "authors": [
+   "Lupinsky D",
+   "Nasseef MT",
+   "Parent C",
+   "Craig K",
+   "Diorio J",
+   "Zhang TY"
+  ],
+  "tema": "fMRI de repouso: conectividade e resiliência/suscetibilidade",
+  "autor_ano": "Lupinsky 2025 (Mol Psychiatry)",
+  "tipo": "humano imagem Q1",
+  "blocos": [
+   "D"
+  ]
+ },
+ "35842419": {
+  "pmid": "35842419",
+  "title": "Dissecting the role of adult hippocampal neurogenesis towards resilience versus susceptibility to stress-related mood disorders",
+  "journal": "NPJ science of learning",
+  "pubdate": "2022 Jul 16",
+  "authors": [
+   "Jones KL",
+   "Zhou M",
+   "Jhaveri DJ"
+  ],
+  "tema": "Papel da NG na resiliência vs suscetibilidade NÃO é linear — adição/subtração isolada não basta (revisão causal em roedores)",
+  "autor_ano": "Jones & Jhaveri 2022 (npj Sci Learn)",
+  "tipo": "revisão",
+  "blocos": [
+   "D"
+  ]
+ },
+ "33919292": {
+  "pmid": "33919292",
+  "title": "Increasing Adult Hippocampal Neurogenesis Promotes Resilience in a Mouse Model of Depression",
+  "journal": "Cells",
+  "pubdate": "2021 Apr 21",
+  "authors": [
+   "Planchez B",
+   "Lagunas N",
+   "Le Guisquet AM",
+   "Legrand M",
+   "Surget A",
+   "Hen R"
+  ],
+  "tema": "Aumentar a NG promove resiliência (previne sintomas depressivos e cognitivos) em modelo de depressão",
+  "autor_ano": "Planchez 2021 (Cells)",
+  "tipo": "animal/causal",
+  "blocos": [
+   "D"
+  ]
+ },
+ "31434877": {
+  "pmid": "31434877",
+  "title": "Activating newborn neurons suppresses depression and anxiety-like behaviors",
+  "journal": "Nature communications",
+  "pubdate": "2019 Aug 21",
+  "authors": [
+   "Tunc-Ozcan E",
+   "Peng CY",
+   "Zhu Y",
+   "Dunlop SR",
+   "Contractor A",
+   "Kessler JA"
+  ],
+  "tema": "ATIVAR neurônios recém-nascidos (quimiogenética) suprime comportamentos depressivo e ansioso",
+  "autor_ano": "Tunc-Ozcan 2019 (Nat Commun)",
+  "tipo": "animal/causal Q1",
+  "blocos": [
+   "D"
+  ]
+ },
+ "23047242": {
+  "pmid": "23047242",
+  "title": "Anxiety- rather than depression-like behavior is associated with adult neurogenesis in a female mouse model of higher trait anxiety- and comorbid depression-like behavior",
+  "journal": "Translational psychiatry",
+  "pubdate": "2012 Oct 16",
+  "authors": [
+   "Sah A",
+   "Schmuckermair C",
+   "Sartori SB",
+   "Gaburro S",
+   "Kandasamy M",
+   "Irschick R"
+  ],
+  "tema": "FÊMEAS: ansiedade patológica (não comportamento depressivo) associada à NG adulta",
+  "autor_ano": "Sah 2012 (Transl Psychiatry)",
+  "tipo": "animal [fêmea]",
+  "blocos": [
+   "D"
+  ]
+ },
+ "17409249": {
+  "pmid": "17409249",
+  "title": "GABAergic control of adult hippocampal neurogenesis in relation to behavior indicative of trait anxiety and depression states",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "pubdate": "2007 Apr 4",
+  "authors": [
+   "Earnheart JC",
+   "Schweizer C",
+   "Crestani F",
+   "Iwasato T",
+   "Itohara S",
+   "Mohler H"
+  ],
+  "tema": "Controle GABAérgico da NG e comportamento indicativo de traço de ansiedade",
+  "autor_ano": "Earnheart 2007 (J Neurosci)",
+  "tipo": "animal/causal Q1",
+  "blocos": [
+   "D"
+  ]
+ },
+ "33671109": {
+  "pmid": "33671109",
+  "title": "Neural Circuitry-Neurogenesis Coupling Model of Depression",
+  "journal": "International journal of molecular sciences",
+  "pubdate": "2021 Feb 28",
+  "authors": [
+   "Kim IB",
+   "Park SC"
+  ],
+  "tema": "Modelo de acoplamento circuito neural ↔ neurogênese na depressão",
+  "autor_ano": "Kim 2021 (IJMS)",
+  "tipo": "teórico/revisão",
+  "blocos": [
+   "D"
+  ]
+ },
+ "41511343": {
+  "pmid": "41511343",
+  "title": "Modifying Factors of Adult Hippocampal Neurogenesis: A Dorsoventral Perspective in Health and Disease",
+  "journal": "Cells",
+  "pubdate": "2025 Dec 29",
+  "authors": [
+   "Erginousakis I",
+   "Papatheodoropoulos C"
+  ],
+  "tema": "Fatores modificadores da NG: perspectiva DORSOVENTRAL em saúde e doença",
+  "autor_ano": "Erginousakis 2025 (Cells)",
+  "tipo": "revisão",
+  "blocos": [
+   "D"
+  ]
+ },
+ "20862278": {
+  "pmid": "20862278",
+  "title": "Deletion of running-induced hippocampal neurogenesis by irradiation prevents development of an anxious phenotype in mice",
+  "journal": "PloS one",
+  "pubdate": "2010 Sep 16",
+  "authors": [
+   "Fuss J",
+   "Ben Abdallah NM",
+   "Hensley FW",
+   "Weber KJ",
+   "Hellweg R",
+   "Gass P"
+  ],
+  "tema": "Irradiação deletando a NG induzida por corrida PREVINE o aumento de ansiedade — CURVA EM U: nível INTERMEDIÁRIO de NG é o ótimo (não \"mais=melhor\")",
+  "autor_ano": "Fuss 2010 (PLoS One)",
+  "tipo": "animal/causal (contrário)",
+  "blocos": [
+   "D"
+  ]
+ },
+ "32709996": {
+  "pmid": "32709996",
+  "title": "Adult-born neurons from the dorsal, intermediate, and ventral regions of the longitudinal axis of the hippocampus exhibit differential sensitivity to glucocorticoids",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2021 Jul",
+  "authors": [
+   "Levone BR",
+   "Codagnone MG",
+   "Moloney GM",
+   "Nolan YM",
+   "Cryan JF",
+   "O' Leary OF"
+  ],
+  "tema": "Neurônios nascidos adultos DORSAIS/INTERMEDIÁRIOS/VENTRAIS têm SENSIBILIDADE DIFERENCIAL a glicocorticoides",
+  "autor_ano": "Levone 2021 (Mol Psychiatry)",
+  "tipo": "animal Q1 (dorsoventral)",
+  "blocos": [
+   "D"
+  ]
+ },
+ "11268214": {
+  "pmid": "11268214",
+  "title": "Neurogenesis in the adult is involved in the formation of trace memories",
+  "journal": "Nature",
+  "pubdate": "2001 Mar 15",
+  "authors": [
+   "Shors TJ",
+   "Miesegaes G",
+   "Beylin A",
+   "Zhao M",
+   "Rydel T",
+   "Gould E"
+  ],
+  "tema": "Neurogênese no adulto envolvida na formação de memórias de traço",
+  "autor_ano": "Shors 2001 (Nature)",
+  "tipo": "clássico animal Q1",
+  "blocos": [
+   "E"
+  ]
+ },
+ "19590004": {
+  "pmid": "19590004",
+  "title": "A functional role for adult hippocampal neurogenesis in spatial pattern separation",
+  "journal": "Science (New York, N.Y.)",
+  "pubdate": "2009 Jul 10",
+  "authors": [
+   "Clelland CD",
+   "Choi M",
+   "Romberg C",
+   "Clemenson GD Jr",
+   "Fragniere A",
+   "Tyers P"
+  ],
+  "tema": "Papel funcional da neurogênese na separação espacial de padrões",
+  "autor_ano": "Clelland 2009 (Science)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "E"
+  ]
+ },
+ "21609817": {
+  "pmid": "21609817",
+  "title": "Pattern separation: a common function for new neurons in hippocampus and olfactory bulb",
+  "journal": "Neuron",
+  "pubdate": "2011 May 26",
+  "authors": [
+   "Sahay A",
+   "Wilson DA",
+   "Hen R"
+  ],
+  "tema": "Separação de padrões como função COMUM de neurônios novos no giro denteado (e bulbo olfatório)",
+  "autor_ano": "Sahay 2011 (Neuron)",
+  "tipo": "revisão/conceitual Q1",
+  "blocos": [
+   "E"
+  ]
+ },
+ "21609818": {
+  "pmid": "21609818",
+  "title": "Resolving new memories: a critical look at the dentate gyrus, adult neurogenesis, and pattern separation",
+  "journal": "Neuron",
+  "pubdate": "2011 May 26",
+  "authors": [
+   "Aimone JB",
+   "Deng W",
+   "Gage FH"
+  ],
+  "tema": "Olhar crítico/computacional sobre a evidência de separação de padrões atribuída à NG do DG",
+  "autor_ano": "Aimone 2011 (Neuron)",
+  "tipo": "revisão/conceitual Q1",
+  "blocos": [
+   "E"
+  ]
+ },
+ "21460835": {
+  "pmid": "21460835",
+  "title": "Increasing adult hippocampal neurogenesis is sufficient to improve pattern separation",
+  "journal": "Nature",
+  "pubdate": "2011 Apr 28",
+  "authors": [
+   "Sahay A",
+   "Scobie KN",
+   "Hill AS",
+   "O'Carroll CM",
+   "Kheirbek MA",
+   "Burghardt NS"
+  ],
+  "tema": "Aumentar neurogênese basta para melhorar separação de padrões",
+  "autor_ano": "Sahay 2011 (Nature)",
+  "tipo": "causal animal Q1",
+  "blocos": [
+   "E"
+  ]
+ },
+ "22365813": {
+  "pmid": "22365813",
+  "title": "Young dentate granule cells mediate pattern separation, whereas old granule cells facilitate pattern completion",
+  "journal": "Cell",
+  "pubdate": "2012 Mar 30",
+  "authors": [
+   "Nakashiba T",
+   "Cushman JD",
+   "Pelkey KA",
+   "Renaudineau S",
+   "Buhl DL",
+   "McHugh TJ"
+  ],
+  "tema": "Neurônios granulares jovens medeiam separação; velhos, completude de padrão",
+  "autor_ano": "Nakashiba 2012 (Cell)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "E"
+  ]
+ },
+ "17088541": {
+  "pmid": "17088541",
+  "title": "Ablation of hippocampal neurogenesis impairs contextual fear conditioning and synaptic plasticity in the dentate gyrus",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "pubdate": "2006 Nov 14",
+  "authors": [
+   "Saxe MD",
+   "Battaglia F",
+   "Wang JW",
+   "Malleret G",
+   "David DJ",
+   "Monckton JE"
+  ],
+  "tema": "Ablação de neurogênese prejudica medo contextual e plasticidade sináptica no DG",
+  "autor_ano": "Saxe 2006 (PNAS)",
+  "tipo": "animal/causal Q1",
+  "blocos": [
+   "E"
+  ]
+ },
+ "19914173": {
+  "pmid": "19914173",
+  "title": "Adult neurogenesis modulates the hippocampus-dependent period of associative fear memory",
+  "journal": "Cell",
+  "pubdate": "2009 Nov 13",
+  "authors": [
+   "Kitamura T",
+   "Saitoh Y",
+   "Takashima N",
+   "Murayama A",
+   "Niibori Y",
+   "Ageta H"
+  ],
+  "tema": "Neurogênese adulta modula o período hipocampo-dependente da memória de medo",
+  "autor_ano": "Kitamura 2009 (Cell)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "E"
+  ]
+ },
+ "19138433": {
+  "pmid": "19138433",
+  "title": "Effect of ablated hippocampal neurogenesis on the formation and extinction of contextual fear memory",
+  "journal": "Molecular brain",
+  "pubdate": "2009 Jan 13",
+  "authors": [
+   "Ko HG",
+   "Jang DJ",
+   "Son J",
+   "Kwak C",
+   "Choi JH",
+   "Ji YH"
+  ],
+  "tema": "Ablação de neurogênese na formação e extinção do medo contextual",
+  "autor_ano": "Ko 2009 (Mol Brain)",
+  "tipo": "animal",
+  "blocos": [
+   "E"
+  ]
+ },
+ "29941977": {
+  "pmid": "29941977",
+  "title": "Dorsal and ventral hippocampal adult-born neurons contribute to context fear memory",
+  "journal": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+  "pubdate": "2018 Nov",
+  "authors": [
+   "Huckleberry KA",
+   "Shue F",
+   "Copeland T",
+   "Chitwood RA",
+   "Yin W",
+   "Drew MR"
+  ],
+  "tema": "Neurônios adultos dorsal e ventral contribuem para memória de medo contextual",
+  "autor_ano": "Jin 2018 (Neuropsychopharmacology)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "E"
+  ]
+ },
+ "38719894": {
+  "pmid": "38719894",
+  "title": "Neurogenesis-dependent remodeling of hippocampal circuits reduces PTSD-like behaviors in adult mice",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2024 Nov",
+  "authors": [
+   "Fujikawa R",
+   "Ramsaran AI",
+   "Guskjolen A",
+   "de la Parra J",
+   "Zou Y",
+   "Mocle AJ"
+  ],
+  "tema": "Remodelação hipocampal dependente de neurogênese reduz comportamento tipo-TEPT",
+  "autor_ano": "Fujikawa 2024 (Mol Psychiatry)",
+  "tipo": "animal/causal Q1",
+  "blocos": [
+   "E"
+  ]
+ },
+ "32949641": {
+  "pmid": "32949641",
+  "title": "Enhancing adult neurogenesis promotes contextual fear memory discrimination and activation of hippocampal-dorsolateral septal circuits",
+  "journal": "Behavioural brain research",
+  "pubdate": "2021 Feb 5",
+  "authors": [
+   "Besnard A",
+   "Sahay A"
+  ],
+  "tema": "Aumentar neurogênese promove discriminação de medo contextual e ativação hipocampal",
+  "autor_ano": "Besnard 2021 (Behav Brain Res)",
+  "tipo": "animal",
+  "blocos": [
+   "E"
+  ]
+ },
+ "29123464": {
+  "pmid": "29123464",
+  "title": "Pattern Separation: A Potential Marker of Impaired Hippocampal Adult Neurogenesis in Major Depressive Disorder",
+  "journal": "Frontiers in neuroscience",
+  "pubdate": "2017",
+  "authors": [
+   "Gandy K",
+   "Kim S",
+   "Sharp C",
+   "Dindo L",
+   "Maletic-Savatic M",
+   "Calarge C"
+  ],
+  "tema": "Separação de padrões: marcador de neurogênese prejudicada na TDM",
+  "autor_ano": "Gandy 2017 (Front Neurosci)",
+  "tipo": "revisão/humano",
+  "blocos": [
+   "E"
+  ]
+ },
+ "23641193": {
+  "pmid": "23641193",
+  "title": "Adult hippocampal neurogenesis reduces memory interference in humans: opposing effects of aerobic exercise and depression",
+  "journal": "Frontiers in neuroscience",
+  "pubdate": "2013",
+  "authors": [
+   "Déry N",
+   "Pilgrim M",
+   "Gibala M",
+   "Gillen J",
+   "Wojtowicz JM",
+   "Macqueen G"
+  ],
+  "tema": "Neurogênese reduz interferência de memória em humanos (exercício aeróbico)",
+  "autor_ano": "Déry 2013 (Front Neurosci)",
+  "tipo": "humano Q1",
+  "blocos": [
+   "E"
+  ]
+ },
+ "34273388": {
+  "pmid": "34273388",
+  "title": "Hippocampal neurogenesis interferes with extinction and reinstatement of methamphetamine-associated reward memory in mice",
+  "journal": "Neuropharmacology",
+  "pubdate": "2021 Sep 15",
+  "authors": [
+   "Che X",
+   "Bai Y",
+   "Cai J",
+   "Liu Y",
+   "Li Y",
+   "Yin M"
+  ],
+  "tema": "Neurogênese interfere na extinção/reativação de memória de metanfetamina (sinal)",
+  "autor_ano": "Che 2021 (Neuropharmacology)",
+  "tipo": "animal [droga, M10]",
+  "blocos": [
+   "E"
+  ]
+ },
+ "33320965": {
+  "pmid": "33320965",
+  "title": "Hippocampal neurogenesis and memory in adolescence following intrauterine growth restriction",
+  "journal": "Hippocampus",
+  "pubdate": "2021 Mar",
+  "authors": [
+   "Gilchrist CP",
+   "Cumberland AL",
+   "Kondos-Devcic D",
+   "Hill RA",
+   "Khore M",
+   "Quezada S"
+  ],
+  "tema": "Memória/neurogênese na adolescência após restrição de crescimento intrauterino",
+  "autor_ano": "Gilchrist 2021 (Hippocampus)",
+  "tipo": "animal/desenvolvimento",
+  "blocos": [
+   "E"
+  ]
+ },
+ "33183762": {
+  "pmid": "33183762",
+  "title": "Critical Roles of Embryonic Born Dorsal Dentate Granule Neurons for Activity-Dependent Increases in BDNF, Adult Hippocampal Neurogenesis, and Antianxiety-like Behaviors",
+  "journal": "Biological psychiatry",
+  "pubdate": "2021 Mar 15",
+  "authors": [
+   "Sun D",
+   "Milibari L",
+   "Pan JX",
+   "Ren X",
+   "Yao LL",
+   "Zhao Y"
+  ],
+  "tema": "Granulares dorsais NASCIDOS NO EMBRIÃO (não os adultos) medeiam a supressão de ansiedade via BDNF — a população embriônica domina a função",
+  "autor_ano": "Sun 2021 (Biol Psychiatry)",
+  "tipo": "animal/causal Q1 (nuance)",
+  "blocos": [
+   "E"
+  ]
+ },
+ "14581618": {
+  "pmid": "14581618",
+  "title": "Inflammation is detrimental for neurogenesis in adult brain",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "pubdate": "2003 Nov 11",
+  "authors": [
+   "Ekdahl CT",
+   "Claasen JH",
+   "Bonde S",
+   "Kokaia Z",
+   "Lindvall O"
+  ],
+  "tema": "Inflamação é danosa para a neurogênese no cérebro adulto",
+  "autor_ano": "Ekdahl 2003 (PNAS)",
+  "tipo": "clássico animal Q1",
+  "blocos": [
+   "F"
+  ]
+ },
+ "14615545": {
+  "pmid": "14615545",
+  "title": "Inflammatory blockade restores adult hippocampal neurogenesis",
+  "journal": "Science (New York, N.Y.)",
+  "pubdate": "2003 Dec 5",
+  "authors": [
+   "Monje ML",
+   "Toda H",
+   "Palmer TD"
+  ],
+  "tema": "Bloqueio inflamatório restaura a neurogênese hipocampal adulta",
+  "autor_ano": "Monje 2003 (Science)",
+  "tipo": "clássico animal Q1",
+  "blocos": [
+   "F"
+  ]
+ },
+ "29853629": {
+  "pmid": "29853629",
+  "title": "Increased Microglial Activity, Impaired Adult Hippocampal Neurogenesis, and Depressive-like Behavior in Microglial VPS35-Depleted Mice",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "pubdate": "2018 Jun 27",
+  "authors": [
+   "Appel JR",
+   "Ye S",
+   "Tang F",
+   "Sun D",
+   "Zhang H",
+   "Mei L"
+  ],
+  "tema": "Microglia aumentada, neurogênese prejudicada e comportamento depressivo",
+  "autor_ano": "Appel 2018 (J Neurosci)",
+  "tipo": "animal/causal Q1",
+  "blocos": [
+   "F"
+  ]
+ },
+ "33731342": {
+  "pmid": "33731342",
+  "title": "IL4-driven microglia modulate stress resilience through BDNF-dependent neurogenesis",
+  "journal": "Science advances",
+  "pubdate": "2021 Mar",
+  "authors": [
+   "Zhang J",
+   "Rong P",
+   "Zhang L",
+   "He H",
+   "Zhou T",
+   "Fan Y"
+  ],
+  "tema": "Microglia dirigida por IL-4 modula resiliência via neurogênese dependente de BDNF",
+  "autor_ano": "Zhang 2021 (Sci Adv)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "F"
+  ]
+ },
+ "34650207": {
+  "pmid": "34650207",
+  "title": "Microglia and their LAG3 checkpoint underlie the antidepressant and neurogenesis-enhancing effects of electroconvulsive stimulation",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2022 Feb",
+  "authors": [
+   "Rimmerman N",
+   "Verdiger H",
+   "Goldenberg H",
+   "Naggan L",
+   "Robinson E",
+   "Kozela E"
+  ],
+  "tema": "Checkpoint LAG3 microglial media efeito antidepressivo e neurogênico (ECT)",
+  "autor_ano": "Rimmerman 2022 (Mol Psychiatry)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "F"
+  ]
+ },
+ "37881439": {
+  "pmid": "37881439",
+  "title": "Roles of microglia in adult hippocampal neurogenesis in depression and their therapeutics",
+  "journal": "Frontiers in immunology",
+  "pubdate": "2023",
+  "authors": [
+   "Fang S",
+   "Wu Z",
+   "Guo Y",
+   "Zhu W",
+   "Wan C",
+   "Yuan N"
+  ],
+  "tema": "Papel das microglia na neurogênese hipocampal na depressão (revisão)",
+  "autor_ano": "Fang 2023 (Front Immunol)",
+  "tipo": "revisão Q1",
+  "blocos": [
+   "F"
+  ]
+ },
+ "40194747": {
+  "pmid": "40194747",
+  "title": "Stimulation of microglia leads to a rapid antidepressant effect by triggering astrocytic P2Y1Rs and promoting BDNF-mediated neurogenesis in the hippocampus",
+  "journal": "Brain, behavior, and immunity",
+  "pubdate": "2025 Aug",
+  "authors": [
+   "Wang H",
+   "Lu X",
+   "Ye Y",
+   "Huang C",
+   "Fang Y",
+   "Yang R"
+  ],
+  "tema": "Estimular microglia (LAG3) leva a efeito antidepressivo rápido via PDGFB astrocitário",
+  "autor_ano": "Wang 2025 (Brain Behav Immun)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "F"
+  ]
+ },
+ "41663429": {
+  "pmid": "41663429",
+  "title": "Inhibition of TGF-β signaling in microglia stimulates hippocampal adult neurogenesis and reduces anxiety-like behavior in adult mice",
+  "journal": "Nature communications",
+  "pubdate": "2026 Feb 9",
+  "authors": [
+   "Ware K",
+   "Peter J",
+   "Yazell J",
+   "Thapa C",
+   "Taranov A",
+   "Bedolla A"
+  ],
+  "tema": "Inibir TGF-β microglial estimula neurogênese e reduz ansiedade",
+  "autor_ano": "Ware 2026 (Nat Commun)",
+  "tipo": "animal/causal Q1",
+  "blocos": [
+   "F"
+  ]
+ },
+ "41855330": {
+  "pmid": "41855330",
+  "title": "From chronic pain to depression: Neurogenesis-driven microglial remodeling in the hippocampal dentate gyrus",
+  "journal": "Science (New York, N.Y.)",
+  "pubdate": "2026 Mar 19",
+  "authors": [
+   "Ding M",
+   "Xiang S",
+   "Zhang Y",
+   "Wei L",
+   "Weng Y",
+   "Zhang X"
+  ],
+  "tema": "Da dor crônica à depressão: remodelamento microglial dirigido pela neurogênese no DG",
+  "autor_ano": "Ding 2026 (Science)",
+  "tipo": "animal/causal Q1 (âncora-teto)",
+  "blocos": [
+   "F"
+  ]
+ },
+ "32590991": {
+  "pmid": "32590991",
+  "title": "Effects of interferon-alpha on hippocampal neurogenesis and behavior in common marmosets",
+  "journal": "Molecular brain",
+  "pubdate": "2020 Jun 26",
+  "authors": [
+   "Kaneko N",
+   "Nakamura S",
+   "Sawamoto K"
+  ],
+  "tema": "Interferon-α afeta neurogênese hipocampal e comportamento (depressão por citocina)",
+  "autor_ano": "Kaneko 2020 (Mol Brain)",
+  "tipo": "animal",
+  "blocos": [
+   "F"
+  ]
+ },
+ "36603794": {
+  "pmid": "36603794",
+  "title": "IGF2 inhibits hippocampal over-activated microglia and alleviates depression-like behavior in LPS- treated male mice",
+  "journal": "Brain research bulletin",
+  "pubdate": "2023 Mar",
+  "authors": [
+   "Guo D",
+   "Xu Y",
+   "Liu Z",
+   "Wang Y",
+   "Xu X",
+   "Li C"
+  ],
+  "tema": "IGF2 inibe microglia hipocampal hiperativada e alivia comportamento depressivo",
+  "autor_ano": "Guo 2023 (Brain Res Bull)",
+  "tipo": "animal",
+  "blocos": [
+   "F"
+  ]
+ },
+ "34768001": {
+  "pmid": "34768001",
+  "title": "Microglia secrete miR-146a-5p-containing exosomes to regulate neurogenesis in depression",
+  "journal": "Molecular therapy : the journal of the American Society of Gene Therapy",
+  "pubdate": "2022 Mar 2",
+  "authors": [
+   "Fan C",
+   "Li Y",
+   "Lan T",
+   "Wang W",
+   "Long Y",
+   "Yu SY"
+  ],
+  "tema": "Exossomos microgliais com miR-146a-5p inibem a NG na depressão (crosstalk glia→neurônio)",
+  "autor_ano": "Fan 2022 (Mol Ther)",
+  "tipo": "animal/causal Q1",
+  "blocos": [
+   "F"
+  ]
+ },
+ "26802985": {
+  "pmid": "26802985",
+  "title": "Chronic peripheral inflammation, hippocampal neurogenesis, and behavior",
+  "journal": "Brain, behavior, and immunity",
+  "pubdate": "2016 Nov",
+  "authors": [
+   "Chesnokova V",
+   "Pechnick RN",
+   "Wawrowsky K"
+  ],
+  "tema": "Inflamação periférica CRÔNICA reduz a NG hipocampal e perturba cognição/afeto",
+  "autor_ano": "Chesnokova 2016 (Brain Behav Immun)",
+  "tipo": "animal/causal",
+  "blocos": [
+   "F"
+  ]
+ },
+ "36383328": {
+  "pmid": "36383328",
+  "title": "The Dialogue Between Neuroinflammation and Adult Neurogenesis: Mechanisms Involved and Alterations in Neurological Diseases",
+  "journal": "Molecular neurobiology",
+  "pubdate": "2023 Feb",
+  "authors": [
+   "Amanollahi M",
+   "Jameie M",
+   "Heidari A",
+   "Rezaei N"
+  ],
+  "tema": "Diálogo neuroinflamação ↔ neurogênese adulta: mecanismos e alterações em doenças",
+  "autor_ano": "Amanollahi 2023 (Mol Neurobiol)",
+  "tipo": "revisão",
+  "blocos": [
+   "F"
+  ]
+ },
+ "38012702": {
+  "pmid": "38012702",
+  "title": "Neuroinflammation, memory, and depression: new approaches to hippocampal neurogenesis",
+  "journal": "Journal of neuroinflammation",
+  "pubdate": "2023 Nov 27",
+  "authors": [
+   "Wu A",
+   "Zhang J"
+  ],
+  "tema": "Neuroinflamação, memória e depressão: novas abordagens da NG hipocampal",
+  "autor_ano": "Wu 2023 (J Neuroinflammation)",
+  "tipo": "revisão",
+  "blocos": [
+   "F"
+  ]
+ },
+ "18178625": {
+  "pmid": "18178625",
+  "title": "IL-1beta is an essential mediator of the antineurogenic and anhedonic effects of stress",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "pubdate": "2008 Jan 15",
+  "authors": [
+   "Koo JW",
+   "Duman RS"
+  ],
+  "tema": "IL-1β é MEDIADOR ESSENCIAL dos efeitos antineurogênicos E anedônicos do estresse",
+  "autor_ano": "Koo & Duman 2008 (PNAS)",
+  "tipo": "animal/causal Q1",
+  "blocos": [
+   "F"
+  ]
+ },
+ "32652855": {
+  "pmid": "32652855",
+  "title": "Priming of microglia with IFN-γ impairs adult hippocampal neurogenesis and leads to depression-like behaviors and cognitive defects",
+  "journal": "Glia",
+  "pubdate": "2020 Dec",
+  "authors": [
+   "Zhang J",
+   "He H",
+   "Qiao Y",
+   "Zhou T",
+   "He H",
+   "Yi S"
+  ],
+  "tema": "Microglia primada por IFN-γ prejudica a NG adulta e leva a comportamento depressivo + déficit cognitivo",
+  "autor_ano": "Zhang 2020 (Glia)",
+  "tipo": "animal/causal",
+  "blocos": [
+   "F"
+  ]
+ },
+ "42414275": {
+  "pmid": "42414275",
+  "title": "TNF-α induces type I IFN signalling to suppress neurogenesis and recruit T cells",
+  "journal": "Nature communications",
+  "pubdate": "2026 Jul 7",
+  "authors": [
+   "Nissen TAD",
+   "Baig A",
+   "Farmand S",
+   "Rock DT",
+   "Shibu S",
+   "Lee H"
+  ],
+  "tema": "TNF-α induz sinalização de IFN tipo I que SUPRIME a NG e recruta linfócitos T",
+  "autor_ano": "Nissen 2026 (Nat Commun)",
+  "tipo": "animal/ômica Q1 (2026)",
+  "blocos": [
+   "F"
+  ]
+ },
+ "41249553": {
+  "pmid": "41249553",
+  "title": "NLRP3-mediated trained immunity of microglia is involved in the recurrence-like episode of depressive disorders",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2026 Apr",
+  "authors": [
+   "Xu G",
+   "Yuan M",
+   "He H",
+   "Yi J",
+   "Li X",
+   "Yan H"
+  ],
+  "tema": "IMUNIDADE TREINADA microglial (reprogramação epigenética H3K4me3/NLRP3): o estresse inicial deixa 'memória' que, na RE-EXPOSIÇÃO, prejudica a NG e produz RECORRÊNCIA depressiva; knockdown de NLRP3 na microglia RESGATA (ponte B1; base do subtipo recorrência)",
+  "autor_ano": "Xu 2026 (Mol Psychiatry)",
+  "tipo": "animal/causal Q1",
+  "blocos": [
+   "F"
+  ]
+ },
+ "37391731": {
+  "pmid": "37391731",
+  "title": "CD200 in dentate gyrus improves depressive-like behaviors of mice through enhancing hippocampal neurogenesis via alleviation of microglia hyperactivation",
+  "journal": "Journal of neuroinflammation",
+  "pubdate": "2023 Jun 30",
+  "authors": [
+   "Chen X",
+   "Cui QQ",
+   "Hu XH",
+   "Ye J",
+   "Liu ZC",
+   "Mei YX"
+  ],
+  "tema": "CD200 no giro denteado alivia comportamento depressivo via NG — FREIO microglial (checkpoint CD200-CD200R)",
+  "autor_ano": "Chen 2023 (J Neuroinflammation)",
+  "tipo": "animal/causal",
+  "blocos": [
+   "F"
+  ]
+ },
+ "26043079": {
+  "pmid": "26043079",
+  "title": "Microglia-derived IL-1β triggers p53-mediated cell cycle arrest and apoptosis in neural precursor cells",
+  "journal": "Cell death & disease",
+  "pubdate": "2015 Jun 4",
+  "authors": [
+   "Guadagno J",
+   "Swan P",
+   "Shaikh R",
+   "Cregan SP"
+  ],
+  "tema": "IL-1β de microglia dispara parada de ciclo p53 e APOPTOSE em precursores neurais",
+  "autor_ano": "Guadagno 2015 (Cell Death Dis)",
+  "tipo": "animal/mecanístico",
+  "blocos": [
+   "F"
+  ]
+ },
+ "28529072": {
+  "pmid": "28529072",
+  "title": "Rescue of IL-1β-induced reduction of human neurogenesis by omega-3 fatty acids and antidepressants",
+  "journal": "Brain, behavior, and immunity",
+  "pubdate": "2017 Oct",
+  "authors": [
+   "Borsini A",
+   "Alboni S",
+   "Horowitz MA",
+   "Tojo LM",
+   "Cannazza G",
+   "Su KP"
+  ],
+  "tema": "Ômega-3 e antidepressivos RESGATAM a neurogênese HUMANA reduzida por IL-1β (in vitro)",
+  "autor_ano": "Borsini 2017 (Brain Behav Immun)",
+  "tipo": "humano in vitro",
+  "blocos": [
+   "F"
+  ]
+ },
+ "32726406": {
+  "pmid": "32726406",
+  "title": "Pro- and anti-inflammatory properties of interleukin (IL6) in vitro: relevance for major depression and for human hippocampal neurogenesis",
+  "journal": "The international journal of neuropsychopharmacology",
+  "pubdate": "2020 Jul 29",
+  "authors": [
+   "Borsini A",
+   "Di Benedetto MG",
+   "Giacobbe J",
+   "Pariante CM"
+  ],
+  "tema": "Propriedades pró- e anti-inflamatórias de interleucinas na neurogênese HIPPOCAMPAL HUMANA (in vitro)",
+  "autor_ano": "Borsini 2020 (Int J Neuropsychopharmacol)",
+  "tipo": "humano in vitro",
+  "blocos": [
+   "F"
+  ]
+ },
+ "22071871": {
+  "pmid": "22071871",
+  "title": "Interleukin-1β: a new regulator of the kynurenine pathway affecting human hippocampal neurogenesis",
+  "journal": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+  "pubdate": "2012 Mar",
+  "authors": [
+   "Zunszain PA",
+   "Anacker C",
+   "Cattaneo A",
+   "Choudhury S",
+   "Musaelyan K",
+   "Myint AM"
+  ],
+  "tema": "IL-1β regula a VIA DA QUINURENINA afetando a NG hipocampal humana (ponte B1→B16)",
+  "autor_ano": "Zunszain 2012 (Neuropsychopharmacology)",
+  "tipo": "humano in vitro Q1",
+  "blocos": [
+   "F"
+  ]
+ },
+ "37250149": {
+  "pmid": "37250149",
+  "title": "Neuron stem cell NLRP6 sustains hippocampal neurogenesis to resist stress-induced depression",
+  "journal": "Acta pharmaceutica Sinica. B",
+  "pubdate": "2023 May",
+  "authors": [
+   "Tang C",
+   "Wang Q",
+   "Shen J",
+   "Wang C",
+   "Ding H",
+   "Wen S"
+  ],
+  "tema": "NLRP6 nas CTNs neurais SUSTENTA a NG contra a depressão induzida por estresse (inflamasoma protetor)",
+  "autor_ano": "Tang 2023 (Acta Pharm Sin B)",
+  "tipo": "animal/causal Q1",
+  "blocos": [
+   "F"
+  ]
+ },
+ "32920880": {
+  "pmid": "32920880",
+  "title": "The effects of microglia- and astrocyte-derived factors on neurogenesis in health and disease",
+  "journal": "The European journal of neuroscience",
+  "pubdate": "2021 Sep",
+  "authors": [
+   "Araki T",
+   "Ikegaya Y",
+   "Koyama R"
+  ],
+  "tema": "Fatores derivados de microglia e astrócitos na NG em saúde e doença (revisão)",
+  "autor_ano": "Araki 2021 (Eur J Neurosci)",
+  "tipo": "revisão",
+  "blocos": [
+   "F"
+  ]
+ },
+ "31604142": {
+  "pmid": "31604142",
+  "title": "Chronic intrahippocampal interleukin-1β overexpression in adolescence impairs hippocampal neurogenesis but not neurogenesis-associated cognition",
+  "journal": "Brain, behavior, and immunity",
+  "pubdate": "2020 Jan",
+  "authors": [
+   "Pawley LC",
+   "Hueston CM",
+   "O'Leary JD",
+   "Kozareva DA",
+   "Cryan JF",
+   "O'Leary OF"
+  ],
+  "tema": "IL-1β intrahipocampal na ADOLESCÊNCIA prejudica a NG mas NÃO a cognição associada (dissociação)",
+  "autor_ano": "Pawley 2020 (Brain Behav Immun)",
+  "tipo": "animal/causal (nuance)",
+  "blocos": [
+   "F"
+  ]
+ },
+ "29162814": {
+  "pmid": "29162814",
+  "title": "TrkB dependent adult hippocampal progenitor differentiation mediates sustained ketamine antidepressant response",
+  "journal": "Nature communications",
+  "pubdate": "2017 Nov 21",
+  "authors": [
+   "Ma Z",
+   "Zang T",
+   "Birnbaum SG",
+   "Wang Z",
+   "Johnson JE",
+   "Zhang CL"
+  ],
+  "tema": "Diferenciação de progenitores hipocampais dependente de TrkB medeia efeito SUSTENTADO da cetamina",
+  "autor_ano": "Ma 2017 (Nat Commun)",
+  "tipo": "animal/causal Q1 (âncora temporal)",
+  "blocos": [
+   "G"
+  ]
+ },
+ "38413417": {
+  "pmid": "38413417",
+  "title": "Ketamine's rapid and sustained antidepressant effects are driven by distinct mechanisms",
+  "journal": "Cellular and molecular life sciences : CMLS",
+  "pubdate": "2024 Feb 27",
+  "authors": [
+   "Rawat R",
+   "Tunc-Ozcan E",
+   "Dunlop S",
+   "Tsai YH",
+   "Li F",
+   "Bertossi R"
+  ],
+  "tema": "CETAMINA, mecanismo duplo: RÁPIDO = ↑ATIVIDADE de neurônios imaturos do DG SEM nova NG; SUSTENTADO (6 doses/2 sem) = ↓sinalização BMP → ↑DCX+/calretinina+; lentivírus-BMP4 bloqueia o sustentado e NÃO o rápido",
+  "autor_ano": "Rawat 2024 (Cell Mol Life Sci)",
+  "tipo": "animal/causal Q1 (temporal-chave)",
+  "blocos": [
+   "G"
+  ]
+ },
+ "31310776": {
+  "pmid": "31310776",
+  "title": "Potential link between antidepressant-like effects of ketamine and promotion of adult neurogenesis in the ventral hippocampus of mice",
+  "journal": "Neuropharmacology",
+  "pubdate": "2019 Nov 1",
+  "authors": [
+   "Yamada J",
+   "Jinno S"
+  ],
+  "tema": "Potencial ligação entre efeito antidepressivo da cetamina e promoção de neurogênese",
+  "autor_ano": "Ardalan 2019 (Neuropharmacology)",
+  "tipo": "animal",
+  "blocos": [
+   "G"
+  ]
+ },
+ "41299093": {
+  "pmid": "41299093",
+  "title": "The hippocampus as a central hub in ketamine's antidepressant action: from molecules to circuit rewiring",
+  "journal": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+  "pubdate": "2026 Feb",
+  "authors": [
+   "Park D",
+   "Lee G",
+   "Kim B",
+   "Seong M",
+   "Kim JW"
+  ],
+  "tema": "O hipocampo como hub central da ação antidepressiva da cetamina: moléculas a circuitos",
+  "autor_ano": "Park 2026 (Neuropsychopharmacology)",
+  "tipo": "revisão Q1",
+  "blocos": [
+   "G"
+  ]
+ },
+ "39297528": {
+  "pmid": "39297528",
+  "title": "Ketamine Prevents Inflammation-Induced Reduction of Human Hippocampal Neurogenesis via Inhibiting the Production of Neurotoxic Metabolites of the Kynurenine Pathway",
+  "journal": "The international journal of neuropsychopharmacology",
+  "pubdate": "2024 Oct 1",
+  "authors": [
+   "Mandal G",
+   "Kirkpatrick M",
+   "Alboni S",
+   "Mariani N",
+   "Pariante CM",
+   "Borsini A"
+  ],
+  "tema": "Cetamina previne queda de neurogênese humana induzida por inflamação (inibe p38)",
+  "autor_ano": "Mandal 2024 (Int J Neuropsychopharmacol)",
+  "tipo": "humano-celular/organoide Q1",
+  "blocos": [
+   "G"
+  ]
+ },
+ "27106168": {
+  "pmid": "27106168",
+  "title": "Ketamine modulates hippocampal neurogenesis and pro-inflammatory cytokines but not stressor induced neurochemical changes",
+  "journal": "Neuropharmacology",
+  "pubdate": "2017 Jan",
+  "authors": [
+   "Clarke M",
+   "Razmjou S",
+   "Prowse N",
+   "Dwyer Z",
+   "Litteljohn D",
+   "Pentz R"
+  ],
+  "tema": "Cetamina modula neurogênese hipocampal e citocinas pró-inflamatórias",
+  "autor_ano": "Ardalan 2017 (Neuropharmacology)",
+  "tipo": "animal",
+  "blocos": [
+   "G"
+  ]
+ },
+ "40515398": {
+  "pmid": "40515398",
+  "title": "Chronic α5-GABA-A Receptor Potentiation Promotes Mouse Adult Hippocampal Neurogenesis",
+  "journal": "Hippocampus",
+  "pubdate": "2025 Jul",
+  "authors": [
+   "Prevot TD",
+   "Marcotte M",
+   "David DJ",
+   "Mendez-David I",
+   "Mian MY",
+   "Cook JM"
+  ],
+  "tema": "Potenciação crônica do receptor α5-GABA-A promove neurogênese adulta de camundongo",
+  "autor_ano": "Prevot 2025 (Hippocampus)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "G"
+  ]
+ },
+ "35787318": {
+  "pmid": "35787318",
+  "title": "Astrocytes Mediate Cholinergic Regulation of Adult Hippocampal Neurogenesis and Memory Through M(1) Muscarinic Receptor",
+  "journal": "Biological psychiatry",
+  "pubdate": "2022 Dec 15",
+  "authors": [
+   "Li WP",
+   "Su XH",
+   "Hu NY",
+   "Hu J",
+   "Li XW",
+   "Yang JM"
+  ],
+  "tema": "Astrócitos medeiam regulação colinérgica da neurogênese e memória",
+  "autor_ano": "Li 2022 (Biol Psychiatry)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "G"
+  ]
+ },
+ "37325895": {
+  "pmid": "37325895",
+  "title": "PDGF-BB-Dependent Neurogenesis Buffers Depressive-Like Behaviors by Inhibition of GABAergic Projection from Medial Septum to Dentate Gyrus",
+  "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+  "pubdate": "2023 Aug",
+  "authors": [
+   "Li HH",
+   "Liu Y",
+   "Chen HS",
+   "Wang J",
+   "Li YK",
+   "Zhao Y"
+  ],
+  "tema": "Neurogênese dependente de PDGF-BB amortece comportamento depressivo inibindo GABAérgico",
+  "autor_ano": "Li 2023 (Adv Sci)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "G"
+  ]
+ },
+ "35524139": {
+  "pmid": "35524139",
+  "title": "Hypothalamic modulation of adult hippocampal neurogenesis in mice confers activity-dependent regulation of memory and anxiety-like behavior",
+  "journal": "Nature neuroscience",
+  "pubdate": "2022 May",
+  "authors": [
+   "Li YD",
+   "Luo YJ",
+   "Chen ZK",
+   "Quintanilla L",
+   "Cherasse Y",
+   "Zhang L"
+  ],
+  "tema": "Modulação hipotalâmica da neurogênese confere regulação atividade-dependente de memória/ansiedade",
+  "autor_ano": "Li 2022 (Nat Neurosci)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "G",
+   "N"
+  ]
+ },
+ "36269040": {
+  "pmid": "36269040",
+  "title": "Ameliorated Neurogenesis Deficits in Dentate Gyrus May Underly the Pronounced Antidepressant Effect of TREK-1 Potassium Channel Blockade in Rats with Depressive-like Behavior",
+  "journal": "ACS chemical neuroscience",
+  "pubdate": "2022 Nov 2",
+  "authors": [
+   "Xu H",
+   "Ding Y",
+   "Qi X",
+   "Zhang ZJ",
+   "Su J"
+  ],
+  "tema": "Restauração de déficits de neurogênese no DG pode mediar efeito antidepressivo",
+  "autor_ano": "Xu 2022 (ACS Chem Neurosci)",
+  "tipo": "animal",
+  "blocos": [
+   "G"
+  ]
+ },
+ "39007086": {
+  "pmid": "39007086",
+  "title": "Chronic chemogenetic activation of hippocampal progenitors enhances adult neurogenesis and modulates anxiety-like behavior and fear extinction learning",
+  "journal": "IBRO neuroscience reports",
+  "pubdate": "2024 Jun",
+  "authors": [
+   "Maheshwari M",
+   "Singla A",
+   "Rawat A",
+   "Banerjee T",
+   "Pati S",
+   "Shah S"
+  ],
+  "tema": "Ativação quimiogenética crônica de progenitores hipocampais aumenta neurogênese",
+  "autor_ano": "Maheshwari 2024 (IBRO Neurosci Rep)",
+  "tipo": "animal/causal",
+  "blocos": [
+   "G"
+  ]
+ },
+ "23746839": {
+  "pmid": "23746839",
+  "title": "Dynamics of hippocampal neurogenesis in adult humans",
+  "journal": "Cell",
+  "pubdate": "2013 Jun 6",
+  "authors": [
+   "Spalding KL",
+   "Bergmann O",
+   "Alkass K",
+   "Bernard S",
+   "Salehpour M",
+   "Huttner HB"
+  ],
+  "tema": "Dinâmica da neurogênese hipocampal em humanos adultos (datação por 14C)",
+  "autor_ano": "Spalding 2013 (Cell)",
+  "tipo": "humano Q1 (âncora-teto)",
+  "blocos": [
+   "H"
+  ]
+ },
+ "29625071": {
+  "pmid": "29625071",
+  "title": "Human Hippocampal Neurogenesis Persists throughout Aging",
+  "journal": "Cell stem cell",
+  "pubdate": "2018 Apr 5",
+  "authors": [
+   "Boldrini M",
+   "Fulmore CA",
+   "Tartt AN",
+   "Simeon LR",
+   "Pavlova I",
+   "Poposka V"
+  ],
+  "tema": "Neurogênese hipocampal humana persiste por todo o envelhecimento (saudável)",
+  "autor_ano": "Boldrini 2018 (Cell Stem Cell)",
+  "tipo": "humano pós-morte Q1",
+  "blocos": [
+   "H"
+  ]
+ },
+ "29513649": {
+  "pmid": "29513649",
+  "title": "Human hippocampal neurogenesis drops sharply in children to undetectable levels in adults",
+  "journal": "Nature",
+  "pubdate": "2018 Mar 15",
+  "authors": [
+   "Sorrells SF",
+   "Paredes MF",
+   "Cebrian-Silla A",
+   "Sandoval K",
+   "Qi D",
+   "Kelley KW"
+  ],
+  "tema": "A neurogênese hipocampal humana cai drasticamente em crianças a níveis indetectáveis no adulto",
+  "autor_ano": "Sorrells 2018 (Nature)",
+  "tipo": "humano pós-morte Q1 (controvérsia)",
+  "blocos": [
+   "H"
+  ]
+ },
+ "30526879": {
+  "pmid": "30526879",
+  "title": "Does Adult Neurogenesis Persist in the Human Hippocampus?",
+  "journal": "Cell stem cell",
+  "pubdate": "2018 Dec 6",
+  "authors": [
+   "Paredes MF",
+   "Sorrells SF",
+   "Cebrian-Silla A",
+   "Sandoval K",
+   "Qi D",
+   "Kelley KW"
+  ],
+  "tema": "A neurogênese adulta persiste no hipocampo humano? (debate)",
+  "autor_ano": "Paredes 2018 (Cell Stem Cell)",
+  "tipo": "humano/revisão-debate Q1",
+  "blocos": [
+   "H"
+  ]
+ },
+ "30911133": {
+  "pmid": "30911133",
+  "title": "Adult hippocampal neurogenesis is abundant in neurologically healthy subjects and drops sharply in patients with Alzheimer's disease",
+  "journal": "Nature medicine",
+  "pubdate": "2019 Apr",
+  "authors": [
+   "Moreno-Jiménez EP",
+   "Flor-García M",
+   "Terreros-Roncal J",
+   "Rábano A",
+   "Cafini F",
+   "Pallas-Bazarra N"
+  ],
+  "tema": "Neurogênese hipocampal adulta abundante em saudáveis e cai na Doença de Alzheimer",
+  "autor_ano": "Moreno-Jiménez 2019 (Nat Med)",
+  "tipo": "humano pós-morte Q1",
+  "blocos": [
+   "H"
+  ]
+ },
+ "31130513": {
+  "pmid": "31130513",
+  "title": "Human Hippocampal Neurogenesis Persists in Aged Adults and Alzheimer's Disease Patients",
+  "journal": "Cell stem cell",
+  "pubdate": "2019 Jun 6",
+  "authors": [
+   "Tobin MK",
+   "Musaraca K",
+   "Disouky A",
+   "Shetti A",
+   "Bheri A",
+   "Honer WG"
+  ],
+  "tema": "Neurogênese hipocampal persiste em idosos e em pacientes com Alzheimer",
+  "autor_ano": "Tobin 2019 (Cell Stem Cell)",
+  "tipo": "humano pós-morte Q1",
+  "blocos": [
+   "H"
+  ]
+ },
+ "33762406": {
+  "pmid": "33762406",
+  "title": "Evidences for Adult Hippocampal Neurogenesis in Humans",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "pubdate": "2021 Mar 24",
+  "authors": [
+   "Moreno-Jiménez EP",
+   "Terreros-Roncal J",
+   "Flor-García M",
+   "Rábano A",
+   "Llorens-Martín M"
+  ],
+  "tema": "Evidências de neurogênese hipocampal adulta em humanos",
+  "autor_ano": "Moreno-Jiménez 2021 (J Neurosci)",
+  "tipo": "humano/método Q1",
+  "blocos": [
+   "H"
+  ]
+ },
+ "34672693": {
+  "pmid": "34672693",
+  "title": "Impact of neurodegenerative diseases on human adult hippocampal neurogenesis",
+  "journal": "Science (New York, N.Y.)",
+  "pubdate": "2021 Nov 26",
+  "authors": [
+   "Terreros-Roncal J",
+   "Moreno-Jiménez EP",
+   "Flor-García M",
+   "Rodríguez-Moreno CB",
+   "Trinchero MF",
+   "Cafini F"
+  ],
+  "tema": "Impacto das doenças neurodegenerativas na neurogênese hipocampal adulta humana",
+  "autor_ano": "Terreros-Roncal 2021 (Science)",
+  "tipo": "humano pós-morte Q1",
+  "blocos": [
+   "H"
+  ]
+ },
+ "29722804": {
+  "pmid": "29722804",
+  "title": "Hippocampal Radial Glial Subtypes and Their Neurogenic Potential in Human Fetuses and Healthy and Alzheimer's Disease Adults",
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "pubdate": "2018 Jul 1",
+  "authors": [
+   "Cipriani S",
+   "Ferrer I",
+   "Aronica E",
+   "Kovacs GG",
+   "Verney C",
+   "Nardelli J"
+  ],
+  "tema": "Subtipos de glia radial hipocampal e potencial neurogênico (fetos e adultos saudáveis/Alzheimer)",
+  "autor_ano": "Cipriani 2018 (Cereb Cortex)",
+  "tipo": "humano pós-morte (controvérsia)",
+  "blocos": [
+   "H"
+  ]
+ },
+ "40608919": {
+  "pmid": "40608919",
+  "title": "Identification of proliferating neural progenitors in the adult human hippocampus",
+  "journal": "Science (New York, N.Y.)",
+  "pubdate": "2025 Jul 3",
+  "authors": [
+   "Dumitru I",
+   "Paterlini M",
+   "Zamboni M",
+   "Ziegenhain C",
+   "Giatrellis S",
+   "Saghaleyni R"
+  ],
+  "tema": "Identificação de progenitores neurais em proliferação no hipocampo humano adulto",
+  "autor_ano": "Dumitru/Frísén 2025 (Science)",
+  "tipo": "humano single-cell Q1 (âncora-teto)",
+  "blocos": [
+   "H"
+  ]
+ },
+ "40957417": {
+  "pmid": "40957417",
+  "title": "Human adult hippocampal neurogenesis is shaped by neuropsychiatric disorders, demographics, and lifestyle-related factors",
+  "journal": "Cell stem cell",
+  "pubdate": "2025 Oct 2",
+  "authors": [
+   "Márquez-Valadez B",
+   "Gallardo-Caballero M",
+   "Llorens-Martín M"
+  ],
+  "tema": "Neurogênese hipocampal adulta humana moldada por transtornos neuropsiquiátricos/demografia/estilo de vida (>1.000 cérebros)",
+  "autor_ano": "Márquez-Valadez 2025 (Cell Stem Cell)",
+  "tipo": "humano coorte Q1 (âncora-teto)",
+  "blocos": [
+   "H",
+   "N"
+  ]
+ },
+ "42629468": {
+  "pmid": "42629468",
+  "title": "Dysregulated adult hippocampal neurogenesis in major depressive disorder",
+  "journal": "Nature medicine",
+  "pubdate": "2026 Aug 21",
+  "authors": [
+   "Peng MS",
+   "Jiang J",
+   "Polizzi L",
+   "Shi T",
+   "Ramkumar R",
+   "Anosike VO"
+  ],
+  "tema": "Linhagem neurogênica na ZSG humana + processo neurogênico INTERROMPIDO (\"stalled\") em TDM NÃO medicado: reprogramação de estresse, sinalização de INTERFERON, desequilíbrio E/I, menor capacidade metabólica, ativação imune e plasticidade sináptica prejudicada (resumo conferido)",
+  "autor_ano": "Peng/Hen/Dupont 2026 (Nat Med)",
+  "tipo": "humano/âncora-teto",
+  "blocos": [
+   "H"
+  ]
+ },
+ "39414359": {
+  "pmid": "39414359",
+  "title": "Spatial transcriptomic analysis of adult hippocampal neurogenesis in the human brain",
+  "journal": "Journal of psychiatry & neuroscience : JPN",
+  "pubdate": "2024 Sep-Oct",
+  "authors": [
+   "Simard S",
+   "Rahimian R",
+   "Davoli MA",
+   "Théberge S",
+   "Matosin N",
+   "Turecki G"
+  ],
+  "tema": "Análise transcriptômica espacial da neurogênese hipocampal adulta no cérebro humano",
+  "autor_ano": "Simard 2024 (J Psychiatry Neurosci)",
+  "tipo": "humano pós-morte Q1",
+  "blocos": [
+   "H"
+  ]
+ },
+ "16415915": {
+  "pmid": "16415915",
+  "title": "Neural stem cell proliferation is decreased in schizophrenia, but not in depression",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2006 May",
+  "authors": [
+   "Reif A",
+   "Fritzen S",
+   "Finger M",
+   "Strobel A",
+   "Lauer M",
+   "Schmitt A"
+  ],
+  "tema": "Proliferação de células-tronco neurais diminuída na esquizofrenia, mas NÃO na depressão",
+  "autor_ano": "Reif 2006 (Mol Psychiatry)",
+  "tipo": "humano pós-morte Q1",
+  "blocos": [
+   "H"
+  ]
+ },
+ "28675388": {
+  "pmid": "28675388",
+  "title": "Disrupted hippocampal neuregulin-1/ErbB3 signaling and dentate gyrus granule cell alterations in suicide",
+  "journal": "Translational psychiatry",
+  "pubdate": "2017 Jul 4",
+  "authors": [
+   "Mahar I",
+   "Labonte B",
+   "Yogendran S",
+   "Isingrini E",
+   "Perret L",
+   "Davoli MA"
+  ],
+  "tema": "Sinalização neuregulina-1/ErbB3 e alterações de células granulares em suicídio/depressão",
+  "autor_ano": "Mahar 2017 (Transl Psychiatry)",
+  "tipo": "humano pós-morte Q1",
+  "blocos": [
+   "H"
+  ]
+ },
+ "23595256": {
+  "pmid": "23595256",
+  "title": "Hippocampal neurogenesis: a biomarker for depression or antidepressant effects? Methodological considerations and perspectives for future research",
+  "journal": "Cell and tissue research",
+  "pubdate": "2013 Oct",
+  "authors": [
+   "Tanti A",
+   "Belzung C"
+  ],
+  "tema": "Neurogênese hipocampal: biomarcador de depressão ou de efeito antidepressivo? (método)",
+  "autor_ano": "Tanti 2013 (Cell Tissue Res)",
+  "tipo": "revisão/método Q1",
+  "blocos": [
+   "H"
+  ]
+ },
+ "32418723": {
+  "pmid": "32418723",
+  "title": "Adult Hippocampal Neurogenesis in Major Depressive Disorder and Alzheimer's Disease",
+  "journal": "Trends in molecular medicine",
+  "pubdate": "2020 Sep",
+  "authors": [
+   "Berger T",
+   "Lee H",
+   "Young AH",
+   "Aarsland D",
+   "Thuret S"
+  ],
+  "tema": "NG adulta na TDM e na doença de Alzheimer: elo e alvo comum",
+  "autor_ano": "Berger 2020 (Trends Mol Med)",
+  "tipo": "revisão Q1",
+  "blocos": [
+   "H"
+  ]
+ },
+ "40735066": {
+  "pmid": "40735066",
+  "title": "Human adult hippocampal neurogenesis in health and disease",
+  "journal": "Aging brain",
+  "pubdate": "2025",
+  "authors": [
+   "Alonso-Moreno MC",
+   "Gallardo-Caballero M",
+   "Prádanos-Senén AV",
+   "Llorens-Martín M"
+  ],
+  "tema": "NG hipocampal adulta HUMANA em saúde e doença (estado da arte)",
+  "autor_ano": "Alonso-Moreno 2025 (Aging Brain)",
+  "tipo": "revisão humana",
+  "blocos": [
+   "H"
+  ]
+ },
+ "36259116": {
+  "pmid": "36259116",
+  "title": "Methods to study adult hippocampal neurogenesis in humans and across the phylogeny",
+  "journal": "Hippocampus",
+  "pubdate": "2023 Apr",
+  "authors": [
+   "Terreros-Roncal J",
+   "Flor-García M",
+   "Moreno-Jiménez EP",
+   "Rodríguez-Moreno CB",
+   "Márquez-Valadez B",
+   "Gallardo-Caballero M"
+  ],
+  "tema": "Métodos para estudar a NG hipocampal adulta em humanos e na filogenia",
+  "autor_ano": "Terreros-Roncal 2023 (Hippocampus)",
+  "tipo": "revisão metodológica",
+  "blocos": [
+   "H"
+  ]
+ },
+ "31290449": {
+  "pmid": "31290449",
+  "title": "Neurogenesis in the hippocampus of adult humans: controversy \"fixed\" at last",
+  "journal": "Neural regeneration research",
+  "pubdate": "2019 Nov",
+  "authors": [
+   "Lima SMA",
+   "Gomes-Leal W"
+  ],
+  "tema": "Comentário \"controvérsia consertada\" (2019) — ler com CETICISMO à luz de 2024–2026",
+  "autor_ano": "Lima & Gomes-Leal 2019 (Neural Regen Res)",
+  "tipo": "comentário (posição)",
+  "blocos": [
+   "H"
+  ]
+ },
+ "41741649": {
+  "pmid": "41741649",
+  "title": "Human hippocampal neurogenesis in adulthood, ageing and Alzheimer's disease",
+  "journal": "Nature",
+  "pubdate": "2026 Apr",
+  "authors": [
+   "Disouky A",
+   "Sanborn MA",
+   "Sabitha KR",
+   "Mostafa MM",
+   "Ayala IA",
+   "Bennett DA"
+  ],
+  "tema": "MULTIOÔMICA de 355.997 núcleos (snRNA+snATAC): NSCs, neuroblastos e granulares imaturos no hipocampo humano ADULTO — jovens, SuperAgers, DA; disfunção ligada a acessibilidade de cromatina",
+  "autor_ano": "Disouky 2026 (Nature 652:1264–73)",
+  "tipo": "humano/âncora-teto",
+  "blocos": [
+   "H"
+  ]
+ },
+ "38757781": {
+  "pmid": "38757781",
+  "title": "Adult Hippocampal Neurogenesis in the Human Brain: Updates, Challenges, and Perspectives",
+  "journal": "The Neuroscientist : a review journal bringing neurobiology, neurology and psychiatry",
+  "pubdate": "2025 Apr",
+  "authors": [
+   "Simard S",
+   "Matosin N",
+   "Mechawar N"
+  ],
+  "tema": "Atualização do campo: NG adulta no cérebro humano — updates, desafios e perspectivas (mesmo grupo da transcriptômica espacial)",
+  "autor_ano": "Simard 2025 (Neuroscientist)",
+  "tipo": "revisão-teto",
+  "blocos": [
+   "H"
+  ]
+ },
+ "29681514": {
+  "pmid": "29681514",
+  "title": "Human Adult Neurogenesis: Evidence and Remaining Questions",
+  "journal": "Cell stem cell",
+  "pubdate": "2018 Jul 5",
+  "authors": [
+   "Kempermann G",
+   "Gage FH",
+   "Aigner L",
+   "Song H",
+   "Curtis MA",
+   "Thuret S"
+  ],
+  "tema": "CONSENSO de 18 líderes do campo: evidências e perguntas restantes da NG adulta humana",
+  "autor_ano": "Kempermann 2018 (Cell Stem Cell)",
+  "tipo": "consenso/revisão-teto",
+  "blocos": [
+   "H"
+  ]
+ },
+ "33762407": {
+  "pmid": "33762407",
+  "title": "Positive Controls in Adults and Children Support That Very Few, If Any, New Neurons Are Born in the Adult Human Hippocampus",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "pubdate": "2021 Mar 24",
+  "authors": [
+   "Sorrells SF",
+   "Paredes MF",
+   "Zhang Z",
+   "Kang G",
+   "Pastor-Alonso O",
+   "Biagiotti S"
+  ],
+  "tema": "Réplicas com CONTROLES POSITIVOS: muito poucos ou nenhum neurônio novo no hipocampo humano adulto (lado pró-Sorrells da disputa)",
+  "autor_ano": "Sorrells 2021 (J Neurosci)",
+  "tipo": "humano/pós-morte",
+  "blocos": [
+   "H"
+  ]
+ },
+ "35420933": {
+  "pmid": "35420933",
+  "title": "Comment on \"Impact of neurodegenerative diseases on human adult hippocampal neurogenesis\"",
+  "journal": "Science (New York, N.Y.)",
+  "pubdate": "2022 Apr 15",
+  "authors": [
+   "Alvarez-Buylla A",
+   "Cebrian-Silla A",
+   "Sorrells SF",
+   "Nascimento MA",
+   "Paredes MF",
+   "Garcia-Verdugo JM"
+  ],
+  "tema": "COMENTÁRIO técnico sobre Terreros-Roncal 2021 (Science) — o método como nó da disputa",
+  "autor_ano": "Álvarez-Buylla 2022 (Science)",
+  "tipo": "comentário técnico",
+  "blocos": [
+   "H"
+  ]
+ },
+ "37015226": {
+  "pmid": "37015226",
+  "title": "Mapping human adult hippocampal neurogenesis with single-cell transcriptomics: Reconciling controversy or fueling the debate?",
+  "journal": "Neuron",
+  "pubdate": "2023 Jun 7",
+  "authors": [
+   "Tosoni G",
+   "Ayyildiz D",
+   "Bryois J",
+   "Macnair W",
+   "Fitzsimons CP",
+   "Lucassen PJ"
+  ],
+  "tema": "Mapeamento scRNA da NG adulta humana: RECONCILIAR a controvérsia ou alimentar o debate?",
+  "autor_ano": "Tosoni 2023 (Neuron)",
+  "tipo": "humano/ômica Q1",
+  "blocos": [
+   "H"
+  ]
+ },
+ "30617274": {
+  "pmid": "30617274",
+  "title": "Limits to human neurogenesis-really?",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2020 Oct",
+  "authors": [
+   "Lucassen PJ",
+   "Toni N",
+   "Kempermann G",
+   "Frisen J",
+   "Gage FH",
+   "Swaab DF"
+  ],
+  "tema": "\"Limites à neurogênese humana — realmente?\" (réplica crítica a Sorrells 2018)",
+  "autor_ano": "Lucassen 2020 (Mol Psychiatry)",
+  "tipo": "comentário Q1",
+  "blocos": [
+   "H"
+  ]
+ },
+ "31899214": {
+  "pmid": "31899214",
+  "title": "Adult neurogenesis, human after all (again): Classic, optimized, and future approaches",
+  "journal": "Behavioural brain research",
+  "pubdate": "2020 Mar 2",
+  "authors": [
+   "Lucassen PJ",
+   "Fitzsimons CP",
+   "Salta E",
+   "Maletic-Savatic M"
+  ],
+  "tema": "NG adulta \"humana afinal (de novo)\": abordagens clássicas, otimizadas e futuras",
+  "autor_ano": "Lucassen 2020 (Behav Brain Res)",
+  "tipo": "revisão/método",
+  "blocos": [
+   "H"
+  ]
+ },
+ "20126454": {
+  "pmid": "20126454",
+  "title": "Murine features of neurogenesis in the human hippocampus across the lifespan from 0 to 100 years",
+  "journal": "PloS one",
+  "pubdate": "2010 Jan 29",
+  "authors": [
+   "Knoth R",
+   "Singec I",
+   "Ditter M",
+   "Pantazis G",
+   "Capetian P",
+   "Meyer RP"
+  ],
+  "tema": "Características murinas da NG no hipocampo humano dos 0 aos 100 anos",
+  "autor_ano": "Knoth 2010 (PLoS One)",
+  "tipo": "humano/pós-morte",
+  "blocos": [
+   "H"
+  ]
+ },
+ "39558003": {
+  "pmid": "39558003",
+  "title": "Hippocampal neurogenesis in adult primates: a systematic review",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2025 Mar",
+  "authors": [
+   "Elliott T",
+   "Liu KY",
+   "Hazan J",
+   "Wilson J",
+   "Vallipuram H",
+   "Jones K"
+  ],
+  "tema": "REVISÃO SISTEMÁTICA da NG no hipocampo de PRIMATAS adultos (elo translacional)",
+  "autor_ano": "Elliott 2025 (Mol Psychiatry)",
+  "tipo": "primatas/revisão sistemática Q1",
+  "blocos": [
+   "H"
+  ]
+ },
+ "31915385": {
+  "pmid": "31915385",
+  "title": "Unraveling human adult hippocampal neurogenesis",
+  "journal": "Nature protocols",
+  "pubdate": "2020 Feb",
+  "authors": [
+   "Flor-García M",
+   "Terreros-Roncal J",
+   "Moreno-Jiménez EP",
+   "Ávila J",
+   "Rábano A",
+   "Llorens-Martín M"
+  ],
+  "tema": "PROTOCOLO para desvendar a NG adulta humana (otimização de fixação/processamento)",
+  "autor_ano": "Flor-García 2020 (Nat Protocols)",
+  "tipo": "método/humano",
+  "blocos": [
+   "H"
+  ]
+ },
+ "42002876": {
+  "pmid": "42002876",
+  "title": "The Dentate Gyrus Grows Throughout Life Despite Turnover of Developmentally-Born Neurons",
+  "journal": "Hippocampus",
+  "pubdate": "2026 May",
+  "authors": [
+   "Ciric T",
+   "Cahill SP",
+   "Lin T",
+   "Choi SA",
+   "Snyder JS"
+  ],
+  "tema": "O giro denteado CRESCE ao longo da vida APESAR do turnover de neurônios nascidos no desenvolvimento",
+  "autor_ano": "Ciric 2026 (Hippocampus)",
+  "tipo": "animal (2026)",
+  "blocos": [
+   "H"
+  ]
+ },
+ "22652019": {
+  "pmid": "22652019",
+  "title": "Hippocampal angiogenesis and progenitor cell proliferation are increased with antidepressant use in major depression",
+  "journal": "Biological psychiatry",
+  "pubdate": "2012 Oct 1",
+  "authors": [
+   "Boldrini M",
+   "Hen R",
+   "Underwood MD",
+   "Rosoklija GB",
+   "Dwork AJ",
+   "Mann JJ"
+  ],
+  "tema": "HUMANOS: angiogênese e proliferação de progenitores AUMENTADAS com uso de antidepressivo na TDM (pós-morte; 1ª autora Boldrini — insumo atribuía a Hen)",
+  "autor_ano": "Boldrini 2012 (Biol Psychiatry)",
+  "tipo": "humano/pós-morte",
+  "blocos": [
+   "H"
+  ]
+ },
+ "28629541": {
+  "pmid": "28629541",
+  "title": "Stress and Loss of Adult Neurogenesis Differentially Reduce Hippocampal Volume",
+  "journal": "Biological psychiatry",
+  "pubdate": "2017 Dec 15",
+  "authors": [
+   "Schoenfeld TJ",
+   "McCausland HC",
+   "Morris HD",
+   "Padmanaban V",
+   "Cameron HA"
+  ],
+  "tema": "Estresse e perda de neurogênese reduzem o volume hipocampal de forma DIFERENCIAL",
+  "autor_ano": "Schoenfeld 2017 (Biol Psychiatry)",
+  "tipo": "animal/imagem Q1",
+  "blocos": [
+   "I"
+  ]
+ },
+ "30622299": {
+  "pmid": "30622299",
+  "title": "Acute and long-term effects of electroconvulsive therapy on human dentate gyrus",
+  "journal": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+  "pubdate": "2019 Sep",
+  "authors": [
+   "Takamiya A",
+   "Plitman E",
+   "Chung JK",
+   "Chakravarty M",
+   "Graff-Guerrero A",
+   "Mimura M"
+  ],
+  "tema": "Efeitos agudos e de longo prazo da ECT no giro denteado humano",
+  "autor_ano": "Dukart 2019 (Neuropsychopharmacology)",
+  "tipo": "humano imagem Q1",
+  "blocos": [
+   "I"
+  ]
+ },
+ "32360430": {
+  "pmid": "32360430",
+  "title": "Vasogenic edema versus neuroplasticity as neural correlates of hippocampal volume increase following electroconvulsive therapy",
+  "journal": "Brain stimulation",
+  "pubdate": "2020 Jul-Aug",
+  "authors": [
+   "Nuninga JO",
+   "Mandl RCW",
+   "Froeling M",
+   "Siero JCW",
+   "Somers M",
+   "Boks MP"
+  ],
+  "tema": "Edema vasogênico vs. neuroplasticidade como correlatos do aumento de volume após ECT",
+  "autor_ano": "Nuninga 2020 (Brain Stimul)",
+  "tipo": "humano imagem Q1",
+  "blocos": [
+   "I"
+  ]
+ },
+ "32730916": {
+  "pmid": "32730916",
+  "title": "Volume of hippocampal subregions and clinical improvement following electroconvulsive therapy in patients with depression",
+  "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+  "pubdate": "2021 Jan 10",
+  "authors": [
+   "Gbyl K",
+   "Rostrup E",
+   "Raghava JM",
+   "Andersen C",
+   "Rosenberg R",
+   "Larsson HBW"
+  ],
+  "tema": "Volume de sub-regiões hipocampais e melhora clínica após ECT",
+  "autor_ano": "Gbyl 2021 (Prog Neuropsychopharmacol)",
+  "tipo": "humano imagem",
+  "blocos": [
+   "I"
+  ]
+ },
+ "25451411": {
+  "pmid": "25451411",
+  "title": "Dentate gyrus volume and memory performance in major depressive disorder",
+  "journal": "Journal of affective disorders",
+  "pubdate": "2015 Feb 1",
+  "authors": [
+   "Travis S",
+   "Coupland NJ",
+   "Silversone PH",
+   "Huang Y",
+   "Fujiwara E",
+   "Carter R"
+  ],
+  "tema": "Volume do giro denteado e desempenho de memória na TDM",
+  "autor_ano": "Travis 2015 (J Affect Disord)",
+  "tipo": "humano imagem",
+  "blocos": [
+   "I"
+  ]
+ },
+ "30867562": {
+  "pmid": "30867562",
+  "title": "Volume increase in the dentate gyrus after electroconvulsive therapy in depressed patients as measured with 7T",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2020 Jul",
+  "authors": [
+   "Nuninga JO",
+   "Mandl RCW",
+   "Boks MP",
+   "Bakker S",
+   "Somers M",
+   "Heringa SM"
+  ],
+  "tema": "Aumento de volume do giro denteado após ECT em deprimidos (medida de plasticidade)",
+  "autor_ano": "(ECT/DG) 2020 (Mol Psychiatry)",
+  "tipo": "humano imagem Q1",
+  "blocos": [
+   "I"
+  ]
+ },
+ "26138003": {
+  "pmid": "26138003",
+  "title": "Regional brain volumes, diffusivity, and metabolite changes after electroconvulsive therapy for severe depression",
+  "journal": "Acta psychiatrica Scandinavica",
+  "pubdate": "2016 Feb",
+  "authors": [
+   "Jorgensen A",
+   "Magnusson P",
+   "Hanson LG",
+   "Kirkegaard T",
+   "Benveniste H",
+   "Lee H"
+  ],
+  "tema": "Volumes/difusividade regionais após ECT na depressão maior",
+  "autor_ano": "(ECT) 2016 (Acta Psychiatr Scand)",
+  "tipo": "humano imagem",
+  "blocos": [
+   "I"
+  ]
+ },
+ "30986730": {
+  "pmid": "30986730",
+  "title": "Effects of early life adversity and FKBP5 genotype on hippocampal subfields volume in major depression",
+  "journal": "Journal of affective disorders",
+  "pubdate": "2019 Jun 1",
+  "authors": [
+   "Mikolas P",
+   "Tozzi L",
+   "Doolin K",
+   "Farrell C",
+   "O'Keane V",
+   "Frodl T"
+  ],
+  "tema": "Efeitos da adversidade precoce e genótipo FKBP5 no volume de subcampos na TDM",
+  "autor_ano": "(FKBP5/imagem) 2019 (J Affect Disord)",
+  "tipo": "humano imagem",
+  "blocos": [
+   "I"
+  ]
+ },
+ "21519376": {
+  "pmid": "21519376",
+  "title": "Adult human neurogenesis: from microscopy to magnetic resonance imaging",
+  "journal": "Frontiers in neuroscience",
+  "pubdate": "2011",
+  "authors": [
+   "Sierra A",
+   "Encinas JM",
+   "Maletic-Savatic M"
+  ],
+  "tema": "Neurogênese humana adulta: da microscopia à ressonância magnética",
+  "autor_ano": "(revisão imagem) 2011 (Front Neurosci)",
+  "tipo": "revisão/método",
+  "blocos": [
+   "I"
+  ]
+ },
+ "40199994": {
+  "pmid": "40199994",
+  "title": "Hippocampal microstructural changes following electroconvulsive therapy in severe depression",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2025 Sep",
+  "authors": [
+   "Le Berre A",
+   "Attali D",
+   "Uszynski I",
+   "Debacker C",
+   "Lui M",
+   "Charron S"
+  ],
+  "tema": "Mudanças microestruturais hipocampais após ECT na depressão grave",
+  "autor_ano": "Le 2025 (Mol Psychiatry)",
+  "tipo": "humano imagem Q1",
+  "blocos": [
+   "I"
+  ]
+ },
+ "17360578": {
+  "pmid": "17360578",
+  "title": "VEGF is an essential mediator of the neurogenic and behavioral actions of antidepressants",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "pubdate": "2007 Mar 13",
+  "authors": [
+   "Warner-Schmidt JL",
+   "Duman RS"
+  ],
+  "tema": "VEGF é mediador essencial das ações neurogênicas e comportamentais dos antidepressivos",
+  "autor_ano": "Warner-Schmidt & Duman 2007 (PNAS)",
+  "tipo": "animal/causal Q1",
+  "blocos": [
+   "J"
+  ]
+ },
+ "18682560": {
+  "pmid": "18682560",
+  "title": "Electroconvulsive seizure and VEGF increase the proliferation of neural stem-like cells in rat hippocampus",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "pubdate": "2008 Aug 12",
+  "authors": [
+   "Segi-Nishida E",
+   "Warner-Schmidt JL",
+   "Duman RS"
+  ],
+  "tema": "Eletroconvulsoterapia e VEGF aumentam proliferação de células-tronco neurais",
+  "autor_ano": "Segi-Nishida 2008 (PNAS)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "J"
+  ]
+ },
+ "14656329": {
+  "pmid": "14656329",
+  "title": "VEGF is necessary for exercise-induced adult hippocampal neurogenesis",
+  "journal": "The European journal of neuroscience",
+  "pubdate": "2003 Nov",
+  "authors": [
+   "Fabel K",
+   "Fabel K",
+   "Tam B",
+   "Kaufer D",
+   "Baiker A",
+   "Simmons N"
+  ],
+  "tema": "VEGF é necessário à neurogênese induzida por exercício",
+  "autor_ano": "Fabel 2003 (Eur J Neurosci)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "J"
+  ]
+ },
+ "23658167": {
+  "pmid": "23658167",
+  "title": "Serotonin is required for exercise-induced adult hippocampal neurogenesis",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "pubdate": "2013 May 8",
+  "authors": [
+   "Klempin F",
+   "Beis D",
+   "Mosienko V",
+   "Kempermann G",
+   "Bader M",
+   "Alenina N"
+  ],
+  "tema": "Serotonina é necessária à neurogênese induzida por exercício",
+  "autor_ano": "Klempin 2013 (J Neurosci)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "J"
+  ]
+ },
+ "25403840": {
+  "pmid": "25403840",
+  "title": "The 5-HT3 receptor is essential for exercise-induced hippocampal neurogenesis and antidepressant effects",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2015 Nov",
+  "authors": [
+   "Kondo M",
+   "Nakamura Y",
+   "Ishida Y",
+   "Shimada S"
+  ],
+  "tema": "O receptor 5-HT3 é essencial à neurogênese e ao efeito antidepressivo do exercício",
+  "autor_ano": "Kondo 2015 (Mol Psychiatry)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "J"
+  ]
+ },
+ "37179732": {
+  "pmid": "37179732",
+  "title": "Molecular Mechanisms of Exercise-induced Hippocampal Neurogenesis and Antidepressant Effects",
+  "journal": "JMA journal",
+  "pubdate": "2023 Apr 14",
+  "authors": [
+   "Kondo M"
+  ],
+  "tema": "Revisão: mecanismos moleculares do exercício→NG (a via 5-HT3→IGF-1 experimental é a linha acima)",
+  "autor_ano": "Kondo 2023 (JMA J)",
+  "tipo": "revisão (NÃO é a evidência experimental)",
+  "blocos": [
+   "J"
+  ]
+ },
+ "23950576": {
+  "pmid": "23950576",
+  "title": "BDNF and VEGF in the pathogenesis of stress-induced affective diseases: an insight from experimental studies",
+  "journal": "Pharmacological reports : PR",
+  "pubdate": "2013",
+  "authors": [
+   "Nowacka M",
+   "Obuchowicz E"
+  ],
+  "tema": "BDNF e VEGF na patogênese de doenças afetivas induzidas por estresse (revisão experimental)",
+  "autor_ano": "Nowacka 2013 (Pharmacol Rep)",
+  "tipo": "revisão",
+  "blocos": [
+   "J"
+  ]
+ },
+ "36599082": {
+  "pmid": "36599082",
+  "title": "GALR2 and Y1R agonists intranasal infusion enhanced adult ventral hippocampal neurogenesis and antidepressant-like effects involving BDNF actions",
+  "journal": "Journal of cellular physiology",
+  "pubdate": "2023 Feb",
+  "authors": [
+   "Alvarez-Contino JE",
+   "Díaz-Sánchez E",
+   "Mirchandani-Duque M",
+   "Sánchez-Pérez JA",
+   "Barbancho MA",
+   "López-Salas A"
+  ],
+  "tema": "Agonistas GALR2/Y1R intranasais aumentam a NG ventral e o efeito antidepressivo-símile via BDNF (eixo neuropeptidérgico; sinal)",
+  "autor_ano": "Alvarez-Contino 2023 (J Cell Physiol)",
+  "tipo": "animal (composto=sinal)",
+  "blocos": [
+   "J"
+  ]
+ },
+ "35872219": {
+  "pmid": "35872219",
+  "title": "Brain-derived neurotrophic factor expression in serotonergic neurons improves stress resilience and promotes adult hippocampal neurogenesis",
+  "journal": "Progress in neurobiology",
+  "pubdate": "2022 Oct",
+  "authors": [
+   "Leschik J",
+   "Gentile A",
+   "Cicek C",
+   "Péron S",
+   "Tevosian M",
+   "Beer A"
+  ],
+  "tema": "Expressão de BDNF em neurônios serotonérgicos melhora a resiliência ao estresse",
+  "autor_ano": "Leschik 2022 (Prog Neurobiol)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "J"
+  ]
+ },
+ "33637561": {
+  "pmid": "33637561",
+  "title": "Enriched Environment Promotes Adult Hippocampal Neurogenesis through FGFRs",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "pubdate": "2021 Mar 31",
+  "authors": [
+   "Grońska-Pęski M",
+   "Gonçalves JT",
+   "Hébert JM"
+  ],
+  "tema": "Ambiente enriquecido promove neurogênese via receptores de FGF (FGFRs)",
+  "autor_ano": "Grońska-Pęski 2021 (J Neurosci)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "J"
+  ]
+ },
+ "36104438": {
+  "pmid": "36104438",
+  "title": "Inhibition of FKBP51 induces stress resilience and alters hippocampal neurogenesis",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2022 Dec",
+  "authors": [
+   "Codagnone MG",
+   "Kara N",
+   "Ratsika A",
+   "Levone BR",
+   "van de Wouw M",
+   "Tan LA"
+  ],
+  "tema": "Inibição de FKBP51 induz resiliência e altera neurogênese hipocampal",
+  "autor_ano": "Codagnone 2022 (Mol Psychiatry)",
+  "tipo": "animal Q1 (ponte B2/B15)",
+  "blocos": [
+   "J"
+  ]
+ },
+ "21664664": {
+  "pmid": "21664664",
+  "title": "In vivo clonal analysis reveals self-renewing and multipotent adult neural stem cell characteristics",
+  "journal": "Cell",
+  "pubdate": "2011 Jun 24",
+  "authors": [
+   "Bonaguidi MA",
+   "Wheeler MA",
+   "Shapiro JS",
+   "Stadel RP",
+   "Sun GJ",
+   "Ming GL"
+  ],
+  "tema": "Análise clonal in vivo: autorenovação e multipotência de células-tronco neurais adultas",
+  "autor_ano": "Bonaguidi 2011 (Cell)",
+  "tipo": "mecanístico Q1",
+  "blocos": [
+   "J"
+  ]
+ },
+ "26281755": {
+  "pmid": "26281755",
+  "title": "Gadd45b Mediates Electroconvulsive Shock Induced Proliferation of Hippocampal Neural Stem Cells",
+  "journal": "Brain stimulation",
+  "pubdate": "2015 Nov-Dec",
+  "authors": [
+   "Jun H",
+   "Mohammed Qasim Hussaini S",
+   "Cho CH",
+   "Welby J",
+   "Jang MH"
+  ],
+  "tema": "Gadd45b medeia proliferação de células-tronco hipocampais induzida por ECS",
+  "autor_ano": "Jun 2015 (Brain Stimul)",
+  "tipo": "animal",
+  "blocos": [
+   "J"
+  ]
+ },
+ "32755589": {
+  "pmid": "32755589",
+  "title": "RGS6 Mediates Effects of Voluntary Running on Adult Hippocampal Neurogenesis",
+  "journal": "Cell reports",
+  "pubdate": "2020 Aug 4",
+  "authors": [
+   "Gao Y",
+   "Shen M",
+   "Gonzalez JC",
+   "Dong Q",
+   "Kannan S",
+   "Hoang JT"
+  ],
+  "tema": "RGS6 medeia efeitos da corrida voluntária sobre a neurogênese",
+  "autor_ano": "Gao 2020 (Cell Rep)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "J"
+  ]
+ },
+ "36793868": {
+  "pmid": "36793868",
+  "title": "Hyperactive neuronal autophagy depletes BDNF and impairs adult hippocampal neurogenesis in a corticosterone-induced mouse model of depression",
+  "journal": "Theranostics",
+  "pubdate": "2023",
+  "authors": [
+   "Zhang K",
+   "Wang F",
+   "Zhai M",
+   "He M",
+   "Hu Y",
+   "Feng L"
+  ],
+  "tema": "AUTOFAGIA neuronal HIPERATIVA depleta BDNF e prejudica a NG (corticosterona crônica) — PONTE DIRETA B15↔B16",
+  "autor_ano": "Zhang 2023 (Theranostics)",
+  "tipo": "animal/causal Q1",
+  "blocos": [
+   "J"
+  ]
+ },
+ "27843149": {
+  "pmid": "27843149",
+  "title": "JNK1 controls adult hippocampal neurogenesis and imposes cell-autonomous control of anxiety behaviour from the neurogenic niche",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2018 Feb",
+  "authors": [
+   "Mohammad H",
+   "Marchisella F",
+   "Ortega-Martinez S",
+   "Hollos P",
+   "Eerola K",
+   "Komulainen E"
+  ],
+  "tema": "JNK1 controla a NG adulta e impõe controle célula-autônomo do comportamento de ansiedade",
+  "autor_ano": "Mohammad 2018 (Mol Psychiatry)",
+  "tipo": "animal/causal Q1",
+  "blocos": [
+   "J"
+  ]
+ },
+ "10195220": {
+  "pmid": "10195220",
+  "title": "Running increases cell proliferation and neurogenesis in the adult mouse dentate gyrus",
+  "journal": "Nature neuroscience",
+  "pubdate": "1999 Mar",
+  "authors": [
+   "van Praag H",
+   "Kempermann G",
+   "Gage FH"
+  ],
+  "tema": "Corrida aumenta proliferação/neurogênese no giro denteado adulto",
+  "autor_ano": "van Praag 1999 (Nat Neurosci)",
+  "tipo": "clássico animal Q1",
+  "blocos": [
+   "K"
+  ]
+ },
+ "9087407": {
+  "pmid": "9087407",
+  "title": "More hippocampal neurons in adult mice living in an enriched environment",
+  "journal": "Nature",
+  "pubdate": "1997 Apr 3",
+  "authors": [
+   "Kempermann G",
+   "Kuhn HG",
+   "Gage FH"
+  ],
+  "tema": "Mais neurônios hipocampais em camundongos em ambiente enriquecido",
+  "autor_ano": "Kempermann 1997 (Nature)",
+  "tipo": "clássico animal Q1",
+  "blocos": [
+   "K"
+  ]
+ },
+ "11875571": {
+  "pmid": "11875571",
+  "title": "Functional neurogenesis in the adult hippocampus",
+  "journal": "Nature",
+  "pubdate": "2002 Feb 28",
+  "authors": [
+   "van Praag H",
+   "Schinder AF",
+   "Christie BR",
+   "Toni N",
+   "Palmer TD",
+   "Gage FH"
+  ],
+  "tema": "Neurogênese funcional no hipocampo adulto",
+  "autor_ano": "van Praag 2002 (Nature)",
+  "tipo": "clássico animal Q1",
+  "blocos": [
+   "K"
+  ]
+ },
+ "28197080": {
+  "pmid": "28197080",
+  "title": "Intense Exercise Promotes Adult Hippocampal Neurogenesis But Not Spatial Discrimination",
+  "journal": "Frontiers in cellular neuroscience",
+  "pubdate": "2017",
+  "authors": [
+   "So JH",
+   "Huang C",
+   "Ge M",
+   "Cai G",
+   "Zhang L",
+   "Lu Y"
+  ],
+  "tema": "Exercício intenso promove neurogênese mas não discriminação espacial",
+  "autor_ano": "So 2017 (Front Cell Neurosci)",
+  "tipo": "animal",
+  "blocos": [
+   "K"
+  ]
+ },
+ "29467613": {
+  "pmid": "29467613",
+  "title": "Exercise-Mediated Neurogenesis in the Hippocampus via BDNF",
+  "journal": "Frontiers in neuroscience",
+  "pubdate": "2018",
+  "authors": [
+   "Liu PZ",
+   "Nusslock R"
+  ],
+  "tema": "Neurogênese mediada por exercício via BDNF (revisão)",
+  "autor_ano": "Liu 2018 (Front Neurosci)",
+  "tipo": "revisão",
+  "blocos": [
+   "K"
+  ]
+ },
+ "28375209": {
+  "pmid": "28375209",
+  "title": "Stress and adolescent hippocampal neurogenesis: diet and exercise as cognitive modulators",
+  "journal": "Translational psychiatry",
+  "pubdate": "2017 Apr 4",
+  "authors": [
+   "Hueston CM",
+   "Cryan JF",
+   "Nolan YM"
+  ],
+  "tema": "Estresse na adolescência e neurogênese: dieta e exercício como moduladores",
+  "autor_ano": "Hueston 2017 (Transl Psychiatry)",
+  "tipo": "revisão/animal",
+  "blocos": [
+   "K"
+  ]
+ },
+ "28558121": {
+  "pmid": "28558121",
+  "title": "Early-life stress diminishes the increase in neurogenesis after exercise in adult female mice",
+  "journal": "Hippocampus",
+  "pubdate": "2017 Aug",
+  "authors": [
+   "Abbink MR",
+   "Naninck EFG",
+   "Lucassen PJ",
+   "Korosi A"
+  ],
+  "tema": "Estresse de vida precoce diminui o aumento de neurogênese pós-exercício (fêmeas)",
+  "autor_ano": "Abbink 2017 (Hippocampus)",
+  "tipo": "animal/sexo",
+  "blocos": [
+   "K"
+  ]
+ },
+ "37500010": {
+  "pmid": "37500010",
+  "title": "Exercised blood plasma promotes hippocampal neurogenesis in the Alzheimer's disease rat brain",
+  "journal": "Journal of sport and health science",
+  "pubdate": "2024 Mar",
+  "authors": [
+   "Norevik CS",
+   "Huuha AM",
+   "Røsbjørgen RN",
+   "Hildegard Bergersen L",
+   "Jacobsen K",
+   "Miguel-Dos-Santos R"
+  ],
+  "tema": "Plasma de animais exercitados promove neurogênese (modelo Alzheimer)",
+  "autor_ano": "Norevik 2024 (J Sport Health Sci)",
+  "tipo": "animal (sinal)",
+  "blocos": [
+   "K"
+  ]
+ },
+ "16624668": {
+  "pmid": "16624668",
+  "title": "'One night' sleep deprivation stimulates hippocampal neurogenesis",
+  "journal": "Brain research bulletin",
+  "pubdate": "2006 Apr 28",
+  "authors": [
+   "Grassi Zucconi G",
+   "Cipriani S",
+   "Balgkouranidou I",
+   "Scattoni R"
+  ],
+  "tema": "Privação de uma noite de sono estimula neurogênese hipocampal (agudo)",
+  "autor_ano": "Grassi Zucconi 2006 (Brain Res Bull)",
+  "tipo": "animal (agudo vs. crônico)",
+  "blocos": [
+   "K"
+  ]
+ },
+ "28865754": {
+  "pmid": "28865754",
+  "title": "Prolonged sleep deprivation decreases cell proliferation and immature newborn neurons in both dorsal and ventral hippocampus of male rats",
+  "journal": "Neuroscience research",
+  "pubdate": "2018 Jun",
+  "authors": [
+   "Murata Y",
+   "Oka A",
+   "Iseki A",
+   "Mori M",
+   "Ohe K",
+   "Mine K"
+  ],
+  "tema": "Privação prolongada de sono reduz proliferação e neurônios imaturos",
+  "autor_ano": "Murata 2018 (Neurosci Res)",
+  "tipo": "animal",
+  "blocos": [
+   "K"
+  ]
+ },
+ "29484772": {
+  "pmid": "29484772",
+  "title": "Concise Review: Regulatory Influence of Sleep and Epigenetics on Adult Hippocampal Neurogenesis and Cognitive and Emotional Function",
+  "journal": "Stem cells (Dayton, Ohio)",
+  "pubdate": "2018 Jul",
+  "authors": [
+   "Akers KG",
+   "Chérasse Y",
+   "Fujita Y",
+   "Srinivasan S",
+   "Sakurai T",
+   "Sakaguchi M"
+  ],
+  "tema": "Revisão: influência do sono e epigenética sobre a neurogênese adulta",
+  "autor_ano": "Akers 2018 (Stem Cells)",
+  "tipo": "revisão Q1",
+  "blocos": [
+   "K"
+  ]
+ },
+ "32138332": {
+  "pmid": "32138332",
+  "title": "Melatonin Modulates Dendrite Maturation and Complexity in the Dorsal- and Ventral- Dentate Gyrus Concomitantly with Its Antidepressant-Like Effect in Male Balb/C Mice",
+  "journal": "International journal of molecular sciences",
+  "pubdate": "2020 Mar 3",
+  "authors": [
+   "Ramírez-Rodríguez GB",
+   "Palacios-Cabriales DM",
+   "Ortiz-López L",
+   "Estrada-Camarena EM",
+   "Vega-Rivera NM"
+  ],
+  "tema": "Melatonina modula maturação dendrítica no DG dorsal e ventral",
+  "autor_ano": "(melatonina) 2020 (Int J Mol Sci)",
+  "tipo": "animal (composto=sinal)",
+  "blocos": [
+   "K"
+  ]
+ },
+ "19748235": {
+  "pmid": "19748235",
+  "title": "Regulation of adult neurogenesis by stress, sleep disruption, exercise and inflammation: Implications for depression and antidepressant action",
+  "journal": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology",
+  "pubdate": "2010 Jan",
+  "authors": [
+   "Lucassen PJ",
+   "Meerlo P",
+   "Naylor AS",
+   "van Dam AM",
+   "Dayer AG",
+   "Fuchs E"
+  ],
+  "tema": "Estresse, sono interrompido, exercício e inflamação regulam a NG — sintomas cognitivos da depressão (crossover B10)",
+  "autor_ano": "Lucassen 2010 (Eur Neuropsychopharmacol)",
+  "tipo": "revisão Q1",
+  "blocos": [
+   "K"
+  ]
+ },
+ "33915495": {
+  "pmid": "33915495",
+  "title": "Neurogenic hypothesis of positive psychology in stress-induced depression: Adult hippocampal neurogenesis, neuroinflammation, and stress resilience",
+  "journal": "International immunopharmacology",
+  "pubdate": "2021 Aug",
+  "authors": [
+   "Wu Z",
+   "Xiao L",
+   "Wang H",
+   "Wang G"
+  ],
+  "tema": "Hipótese neurogênica da \"psicologia positiva\" na depressão induzida por estresse (enriquecimento positivo→NG→resiliência)",
+  "autor_ano": "Wu 2021 (Int Immunopharmacol)",
+  "tipo": "revisão/hipótese (menor)",
+  "blocos": [
+   "K"
+  ]
+ },
+ "19156854": {
+  "pmid": "19156854",
+  "title": "The effects of exercise and stress on the survival and maturation of adult-generated granule cells",
+  "journal": "Hippocampus",
+  "pubdate": "2009 Oct",
+  "authors": [
+   "Snyder JS",
+   "Glover LR",
+   "Sanzone KM",
+   "Kamhi JF",
+   "Cameron HA"
+  ],
+  "tema": "Exercício e estresse em direções OPOSTAS sobre SOBREVIDA/maturação de granulares adultas (≠ proliferação)",
+  "autor_ano": "Snyder 2009 (Hippocampus)",
+  "tipo": "animal",
+  "blocos": [
+   "K"
+  ]
+ },
+ "28422706": {
+  "pmid": "28422706",
+  "title": "Adult hippocampal neurogenesis: an important target associated with antidepressant effects of exercise",
+  "journal": "Reviews in the neurosciences",
+  "pubdate": "2017 Oct 26",
+  "authors": [
+   "Sun L",
+   "Sun Q",
+   "Qi J"
+  ],
+  "tema": "NG adulta como alvo dos efeitos antidepressivos do exercício (revisão)",
+  "autor_ano": "Sun 2017 (Rev Neurosci)",
+  "tipo": "revisão",
+  "blocos": [
+   "K"
+  ]
+ },
+ "8604047": {
+  "pmid": "8604047",
+  "title": "Neurogenesis in the dentate gyrus of the adult rat: age-related decrease of neuronal progenitor proliferation",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "pubdate": "1996 Mar 15",
+  "authors": [
+   "Kuhn HG",
+   "Dickinson-Anson H",
+   "Gage FH"
+  ],
+  "tema": "A neurogênese no DG do rato adulto diminui com a idade",
+  "autor_ano": "Kuhn 1996 (J Neurosci)",
+  "tipo": "clássico animal Q1",
+  "blocos": [
+   "L"
+  ]
+ },
+ "36624660": {
+  "pmid": "36624660",
+  "title": "Epigenetic aging in adult neurogenesis",
+  "journal": "Hippocampus",
+  "pubdate": "2023 Apr",
+  "authors": [
+   "Zocher S",
+   "Toda T"
+  ],
+  "tema": "Envelhecimento epigenético na neurogênese adulta",
+  "autor_ano": "Zocher 2023 (Hippocampus)",
+  "tipo": "revisão/animal Q1",
+  "blocos": [
+   "L"
+  ]
+ },
+ "26988999": {
+  "pmid": "26988999",
+  "title": "Sex hormones and adult hippocampal neurogenesis: Regulation, implications, and potential mechanisms",
+  "journal": "Frontiers in neuroendocrinology",
+  "pubdate": "2016 Apr",
+  "authors": [
+   "Mahmoud R",
+   "Wainwright SR",
+   "Galea LA"
+  ],
+  "tema": "Hormônios sexuais e neurogênese hipocampal adulta (revisão)",
+  "autor_ano": "Mahmoud 2016 (Front Neuroendocrinol)",
+  "tipo": "revisão Q1",
+  "blocos": [
+   "L"
+  ]
+ },
+ "30414016": {
+  "pmid": "30414016",
+  "title": "Hormonal Regulation of Hippocampal Neurogenesis: Implications for Depression and Exercise",
+  "journal": "Current topics in behavioral neurosciences",
+  "pubdate": "2019",
+  "authors": [
+   "Gheorghe A",
+   "Qiu W",
+   "Galea LAM"
+  ],
+  "tema": "Regulação hormonal da neurogênese: depressão e exercício",
+  "autor_ano": "Barha 2019 (Curr Top Behav Neurosci)",
+  "tipo": "revisão",
+  "blocos": [
+   "L"
+  ]
+ },
+ "26803529": {
+  "pmid": "26803529",
+  "title": "Postpartum estrogen withdrawal impairs hippocampal neurogenesis and causes depression- and anxiety-like behaviors in mice",
+  "journal": "Psychoneuroendocrinology",
+  "pubdate": "2016 Apr",
+  "authors": [
+   "Zhang Z",
+   "Hong J",
+   "Zhang S",
+   "Zhang T",
+   "Sha S",
+   "Yang R"
+  ],
+  "tema": "Retirada de estrogênio pós-parto prejudica neurogênese e causa depressão/ansiedade",
+  "autor_ano": "Zhang 2016 (Psychoneuroendocrinology)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "L"
+  ]
+ },
+ "31930958": {
+  "pmid": "31930958",
+  "title": "Prolactin, Estradiol and Testosterone Differentially Impact Human Hippocampal Neurogenesis in an In Vitro Model",
+  "journal": "Neuroscience",
+  "pubdate": "2021 Feb 1",
+  "authors": [
+   "Smeeth DM",
+   "Kourouzidou I",
+   "Duarte RRR",
+   "Powell TR",
+   "Thuret S"
+  ],
+  "tema": "Prolactina, estradiol e testosterona impactam diferencialmente a neurogênese humana",
+  "autor_ano": "Smeeth 2021 (Neuroscience)",
+  "tipo": "humano-celular Q1",
+  "blocos": [
+   "L"
+  ]
+ },
+ "35870952": {
+  "pmid": "35870952",
+  "title": "Sex differences in contextual pattern separation, neurogenesis, and functional connectivity within the limbic system",
+  "journal": "Biology of sex differences",
+  "pubdate": "2022 Jul 23",
+  "authors": [
+   "Yagi S",
+   "Lee A",
+   "Truter N",
+   "Galea LAM"
+  ],
+  "tema": "Diferenças sexuais na separação contextual, neurogênese e conectividade",
+  "autor_ano": "Yagi 2022 (Biol Sex Differ)",
+  "tipo": "animal",
+  "blocos": [
+   "L"
+  ]
+ },
+ "35473765": {
+  "pmid": "35473765",
+  "title": "Sex Differences in the Spatial Behavior Functions of Adult-Born Neurons in Rats",
+  "journal": "eNeuro",
+  "pubdate": "2022 May-Jun",
+  "authors": [
+   "O'Leary TP",
+   "Askari B",
+   "Lee BH",
+   "Darby K",
+   "Knudson C",
+   "Ash AM"
+  ],
+  "tema": "Diferenças sexuais nas funções espaciais de neurônios adultos",
+  "autor_ano": "O'Leary 2022 (eNeuro)",
+  "tipo": "animal",
+  "blocos": [
+   "L"
+  ]
+ },
+ "34337114": {
+  "pmid": "34337114",
+  "title": "Hippocampal neurogenesis mediates sex-specific effects of social isolation and exercise on fear extinction in adolescence",
+  "journal": "Neurobiology of stress",
+  "pubdate": "2021 Nov",
+  "authors": [
+   "Drummond KD",
+   "Waring ML",
+   "Faulkner GJ",
+   "Blewitt ME",
+   "Perry CJ",
+   "Kim JH"
+  ],
+  "tema": "Neurogênese medeia efeitos sexo-específicos do isolamento social/exercício no medo",
+  "autor_ano": "Drummond 2021 (Neurobiol Stress)",
+  "tipo": "animal/sexo Q1",
+  "blocos": [
+   "L"
+  ]
+ },
+ "30531788": {
+  "pmid": "30531788",
+  "title": "Sex specific effects of pre-pubertal stress on hippocampal neurogenesis and behaviour",
+  "journal": "Translational psychiatry",
+  "pubdate": "2018 Dec 10",
+  "authors": [
+   "Brydges NM",
+   "Moon A",
+   "Rule L",
+   "Watkin H",
+   "Thomas KL",
+   "Hall J"
+  ],
+  "tema": "Efeitos sexo-específicos do estresse pré-puberal sobre neurogênese e comportamento",
+  "autor_ano": "(pré-puberal) 2018 (Transl Psychiatry)",
+  "tipo": "animal",
+  "blocos": [
+   "L"
+  ]
+ },
+ "39228787": {
+  "pmid": "39228787",
+  "title": "Reiterated male-to-female violence disrupts hippocampal estrogen receptor β expression, prompting anxiety-like behavior",
+  "journal": "iScience",
+  "pubdate": "2024 Sep 20",
+  "authors": [
+   "Agrimi J",
+   "Bernardele L",
+   "Sbaiti N",
+   "Brondi M",
+   "D'Angelo D",
+   "Canato M"
+  ],
+  "tema": "Violência masculina repetida rompe sinalização do receptor de estrogênio β no hipocampo feminino",
+  "autor_ano": "Agrimi 2024 (iScience)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "L"
+  ]
+ },
+ "37790349": {
+  "pmid": "37790349",
+  "title": "Male violence disrupts estrogen receptor β signaling in the female hippocampus",
+  "journal": "bioRxiv : the preprint server for biology",
+  "pubdate": "2023 Sep 23",
+  "authors": [
+   "Agrimi J",
+   "Bernardele L",
+   "Sbaiti N",
+   "Canato M",
+   "Marchionni I",
+   "Oeing CU"
+  ],
+  "tema": "(pré-print) Violência masculina e receptor de estrogênio β (versão bioRxiv)",
+  "autor_ano": "Agrimi 2023 (bioRxiv)",
+  "tipo": "[G1: pré-print]",
+  "blocos": [
+   "L"
+  ]
+ },
+ "42346087": {
+  "pmid": "42346087",
+  "title": "Sex Differences in Depression: Adult Cytogenesis as Potential Target for Precision Psychiatry",
+  "journal": "Cells",
+  "pubdate": "2026 Jun 10",
+  "authors": [
+   "Rodrigues-Freitas L",
+   "Pinto L",
+   "Canedo T"
+  ],
+  "tema": "Diferenças sexuais na depressão: citogênese adulta como alvo de psiquiatria de precisão",
+  "autor_ano": "Rodrigues-Freitas 2026 (Cells)",
+  "tipo": "revisão Q1",
+  "blocos": [
+   "L"
+  ]
+ },
+ "27477270": {
+  "pmid": "27477270",
+  "title": "miR-17-92 Cluster Regulates Adult Hippocampal Neurogenesis, Anxiety, and Depression",
+  "journal": "Cell reports",
+  "pubdate": "2016 Aug 9",
+  "authors": [
+   "Jin J",
+   "Kim SN",
+   "Liu X",
+   "Zhang H",
+   "Zhang C",
+   "Seo JS"
+  ],
+  "tema": "Cluster miR-17-92 regula a NG adulta, a ansiedade e a depressão (epigenética)",
+  "autor_ano": "Jin 2016 (Cell Rep)",
+  "tipo": "animal/causal Q1",
+  "blocos": [
+   "L"
+  ]
+ },
+ "34352366": {
+  "pmid": "34352366",
+  "title": "Maternal immune activation primes deficiencies in adult hippocampal neurogenesis",
+  "journal": "Brain, behavior, and immunity",
+  "pubdate": "2021 Oct",
+  "authors": [
+   "Couch ACM",
+   "Berger T",
+   "Hanger B",
+   "Matuleviciute R",
+   "Srivastava DP",
+   "Thuret S"
+  ],
+  "tema": "Ativação imune MATERNA (MIA) \"priming\" de déficits de NG adulta na prole (piora com estresse posterior)",
+  "autor_ano": "Couch 2021 (Brain Behav Immun)",
+  "tipo": "animal/causal",
+  "blocos": [
+   "L"
+  ]
+ },
+ "21862224": {
+  "pmid": "21862224",
+  "title": "Periodic maternal separation decreases hippocampal neurogenesis without affecting basal corticosterone during the stress hyporesponsive period, but alters HPA axis and coping behavior in adulthood",
+  "journal": "Psychoneuroendocrinology",
+  "pubdate": "2012 Mar",
+  "authors": [
+   "Lajud N",
+   "Roque A",
+   "Cajero M",
+   "Gutiérrez-Ospina G",
+   "Torner L"
+  ],
+  "tema": "Separação materna periódica reduz a NG sem alterar corticosterona basal no período hiporresponsivo (ELS; reprograma o coping adulto)",
+  "autor_ano": "Lajud 2012 (Psychoneuroendocrinology)",
+  "tipo": "animal/ELS",
+  "blocos": [
+   "L"
+  ]
+ },
+ "20644737": {
+  "pmid": "20644737",
+  "title": "Sexual experience promotes adult neurogenesis in the hippocampus despite an initial elevation in stress hormones",
+  "journal": "PloS one",
+  "pubdate": "2010 Jul 14",
+  "authors": [
+   "Leuner B",
+   "Glasper ER",
+   "Gould E"
+  ],
+  "tema": "Experiência SEXUAL promove a NG apesar de elevação inicial de hormônios de estresse",
+  "autor_ano": "Leuner 2010 (PLoS One)",
+  "tipo": "animal",
+  "blocos": [
+   "L"
+  ]
+ },
+ "39877695": {
+  "pmid": "39877695",
+  "title": "Corticosterone-induced postpartum depression induces depression-like behavior and impairs hippocampal neurogenesis in adolescent offspring via HPA axis and BDNF-mTOR pathway",
+  "journal": "Neurobiology of stress",
+  "pubdate": "2025 Jan",
+  "authors": [
+   "Xie H",
+   "Jiang Y",
+   "Zhang X",
+   "Min X",
+   "Zeng J",
+   "Chen L"
+  ],
+  "tema": "Depressão PÓS-PARTO induzida por corticosterona prejudica a NG da PROLE adolescente via HPA e BDNF-mTOR (transgeracional)",
+  "autor_ano": "Xie 2025 (Neurobiol Stress)",
+  "tipo": "animal/transgeracional (2025)",
+  "blocos": [
+   "L"
+  ]
+ },
+ "37612364": {
+  "pmid": "37612364",
+  "title": "Acute and long-term effects of adolescence stress exposure on rodent adult hippocampal neurogenesis, cognition, and behaviour",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2023 Oct",
+  "authors": [
+   "Borsini A",
+   "Giacobbe J",
+   "Mandal G",
+   "Boldrini M"
+  ],
+  "tema": "Efeitos agudos e de longo prazo do estresse na ADOLESCÊNCIA sobre a NG adulta, cognição e comportamento (revisão)",
+  "autor_ano": "Borsini 2023 (Mol Psychiatry)",
+  "tipo": "revisão/adolescência Q1",
+  "blocos": [
+   "L"
+  ]
+ },
+ "32187541": {
+  "pmid": "32187541",
+  "title": "Changes in Gut Microbiota by Chronic Stress Impair the Efficacy of Fluoxetine",
+  "journal": "Cell reports",
+  "pubdate": "2020 Mar 17",
+  "authors": [
+   "Siopi E",
+   "Chevalier G",
+   "Katsimpardi L",
+   "Saha S",
+   "Bigot M",
+   "Moigneu C"
+  ],
+  "tema": "Mudanças da microbiota por estresse crônico prejudicam a eficácia da fluoxetina",
+  "autor_ano": "Siopi 2020 (Cell Rep)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "M"
+  ]
+ },
+ "33426525": {
+  "pmid": "33426525",
+  "title": "Diet-dependent gut microbiota impacts on adult neurogenesis through mitochondrial stress modulation",
+  "journal": "Brain communications",
+  "pubdate": "2020",
+  "authors": [
+   "Ribeiro MF",
+   "Santos AA",
+   "Afonso MB",
+   "Rodrigues PM",
+   "Sá Santos S",
+   "Castro RE"
+  ],
+  "tema": "Microbiota dependente de dieta impacta neurogênese via estresse mitocondrial",
+  "autor_ano": "Ribeiro 2020 (Brain Commun)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "M"
+  ]
+ },
+ "33609653": {
+  "pmid": "33609653",
+  "title": "Metformin restores hippocampal neurogenesis and learning and memory via regulating gut microbiota in the obese mouse model",
+  "journal": "Brain, behavior, and immunity",
+  "pubdate": "2021 Jul",
+  "authors": [
+   "Ma X",
+   "Xiao W",
+   "Li H",
+   "Pang P",
+   "Xue F",
+   "Wan L"
+  ],
+  "tema": "Metformina restaura neurogênese via microbiota intestinal",
+  "autor_ano": "Ma 2021 (Brain Behav Immun)",
+  "tipo": "animal (fármaco=sinal)",
+  "blocos": [
+   "M"
+  ]
+ },
+ "34022177": {
+  "pmid": "34022177",
+  "title": "A multispecies probiotic accelerates fear extinction and inhibits relapse in mice: Role of microglia",
+  "journal": "Neuropharmacology",
+  "pubdate": "2021 Aug 1",
+  "authors": [
+   "Cui X",
+   "Zhou S",
+   "Xia G",
+   "Chen J",
+   "Jiang L",
+   "Huang J"
+  ],
+  "tema": "Probiótico multiespécie acelera extinção do medo e inibe recaída",
+  "autor_ano": "Cui 2021 (Neuropharmacology)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "M"
+  ]
+ },
+ "38658547": {
+  "pmid": "38658547",
+  "title": "Exercise mitigates a gut microbiota-mediated reduction in adult hippocampal neurogenesis and associated behaviours in rats",
+  "journal": "Translational psychiatry",
+  "pubdate": "2024 Apr 24",
+  "authors": [
+   "Nicolas S",
+   "Dohm-Hansen S",
+   "Lavelle A",
+   "Bastiaanssen TFS",
+   "English JA",
+   "Cryan JF"
+  ],
+  "tema": "Exercício mitiga redução de neurogênese mediada por microbiota e ansiedade",
+  "autor_ano": "Nicolas 2024 (Transl Psychiatry)",
+  "tipo": "animal Q1",
+  "blocos": [
+   "M"
+  ]
+ },
+ "22968153": {
+  "pmid": "22968153",
+  "title": "Mind-altering microorganisms: the impact of the gut microbiota on brain and behaviour",
+  "journal": "Nature reviews. Neuroscience",
+  "pubdate": "2012 Oct",
+  "authors": [
+   "Cryan JF",
+   "Dinan TG"
+  ],
+  "tema": "Intestino-cérebro: microbiota modula cérebro/comportamento (revisão-teto do campo)",
+  "autor_ano": "Cryan & Dinan 2012 (Nat Rev Neurosci)",
+  "tipo": "revisão-teto Q1 (crosstalk B7)",
+  "blocos": [
+   "M"
+  ]
+ },
+ "36448039": {
+  "pmid": "36448039",
+  "title": "Microbiota-Gut-Brain Axis Regulation of Adult Hippocampal Neurogenesis",
+  "journal": "Brain plasticity (Amsterdam, Netherlands)",
+  "pubdate": "2022",
+  "authors": [
+   "Guzzetta KE",
+   "Cryan JF",
+   "O'Leary OF"
+  ],
+  "tema": "Eixo microbiota-intestino-cérebro na regulação da NG adulta: mecanismos imunológicos, metabólicos e endócrinos",
+  "autor_ano": "Guzzetta 2022 (Brain Plasticity)",
+  "tipo": "revisão (crosstalk B7) — insumo atribuía a \"Moloney\" [ERRADO: 1ª autora Guzzetta]",
+  "blocos": [
+   "M"
+  ]
+ },
+ "22182938": {
+  "pmid": "22182938",
+  "title": "Leptin restores adult hippocampal neurogenesis in a chronic unpredictable stress model of depression and reverses glucocorticoid-induced inhibition of GSK-3β/β-catenin signaling",
+  "journal": "Molecular psychiatry",
+  "pubdate": "2012 Jul",
+  "authors": [
+   "Garza JC",
+   "Guo M",
+   "Zhang W",
+   "Lu XY"
+  ],
+  "tema": "LEPTINA restaura a NG suprimida por estresse crônico imprevisível (eixo metabólico GSK3β/β-catenina)",
+  "autor_ano": "Garza 2012 (Mol Psychiatry)",
+  "tipo": "animal/causal Q1",
+  "blocos": [
+   "M"
+  ]
+ },
+ "42481133": {
+  "pmid": "42481133",
+  "title": "Chronic glucocorticoid exposure disrupts lactate homeostasis and hippocampal neurogenesis by reducing cerebrovascular monocarboxylate transporter 1, leading to behavioral abnormalities in mice",
+  "journal": "Journal of pharmacological sciences",
+  "pubdate": "2026 Sep",
+  "authors": [
+   "Kita-Shirakura A",
+   "Ishihara K",
+   "Kimura N",
+   "Tanida M",
+   "Araki R",
+   "Yabe T"
+  ],
+  "tema": "Glicocorticoide crônico quebra a HOMEOSTASE DE LACTATO (MCT1 cerebrovascular) e prejudica a NG (energético)",
+  "autor_ano": "Kita-Shirakura 2026 (J Pharmacol Sci)",
+  "tipo": "animal/causal (2026)",
+  "blocos": [
+   "M"
+  ]
+ },
+ "35143877": {
+  "pmid": "35143877",
+  "title": "Bacteroides species differentially modulate depression-like behavior via gut-brain metabolic signaling",
+  "journal": "Brain, behavior, and immunity",
+  "pubdate": "2022 May",
+  "authors": [
+   "Zhang Y",
+   "Fan Q",
+   "Hou Y",
+   "Zhang X",
+   "Yin Z",
+   "Cai X"
+  ],
+  "tema": "Bacteroides modula comportamento depressivo via sinal metabólico intestino-cérebro",
+  "autor_ano": "Zhang 2022 (Brain Behav Immun)",
+  "tipo": "animal",
+  "blocos": [
+   "M"
+  ]
+ },
+ "24179463": {
+  "pmid": "24179463",
+  "title": "Cannabinoids, Neurogenesis and Antidepressant Drugs: Is there a Link?",
+  "journal": "Current neuropharmacology",
+  "pubdate": "2013 May",
+  "authors": [
+   "Fogaça MV",
+   "Galve-Roperh I",
+   "Guimarães FS",
+   "Campos AC"
+  ],
+  "tema": "Canabinoides, neurogênese e antidepressivos: há ligação?",
+  "autor_ano": "Fogaça 2013 (Curr Neuropharmacol)",
+  "tipo": "revisão",
+  "blocos": [
+   "M"
+  ]
+ },
+ "30546297": {
+  "pmid": "30546297",
+  "title": "Brain-Derived Neurotrophic Factor (BDNF) Role in Cannabinoid-Mediated Neurogenesis",
+  "journal": "Frontiers in cellular neuroscience",
+  "pubdate": "2018",
+  "authors": [
+   "Ferreira FF",
+   "Ribeiro FF",
+   "Rodrigues RS",
+   "Sebastião AM",
+   "Xapelli S"
+  ],
+  "tema": "Papel do BDNF na neurogênese mediada por canabinoide",
+  "autor_ano": "(revisão) 2018 (Front Cell Neurosci)",
+  "tipo": "revisão",
+  "blocos": [
+   "M"
+  ]
+ },
+ "29311804": {
+  "pmid": "29311804",
+  "title": "Cannabinoid Modulation of the Stressed Hippocampus",
+  "journal": "Frontiers in molecular neuroscience",
+  "pubdate": "2017",
+  "authors": [
+   "Scarante FF",
+   "Vila-Verde C",
+   "Detoni VL",
+   "Ferreira-Junior NC",
+   "Guimarães FS",
+   "Campos AC"
+  ],
+  "tema": "Modulação canabinoide do hipocampo estressado",
+  "autor_ano": "(revisão) 2017 (Front Mol Neurosci)",
+  "tipo": "revisão",
+  "blocos": [
+   "M"
+  ]
+ },
+ "26138027": {
+  "pmid": "26138027",
+  "title": "Antidepressant-like Effects of Electroconvulsive Seizures Require Adult Neurogenesis in a Neuroendocrine Model of Depression",
+  "journal": "Brain stimulation",
+  "pubdate": "2015 Sep-Oct",
+  "authors": [
+   "Schloesser RJ",
+   "Orvoen S",
+   "Jimenez DV",
+   "Hardy NF",
+   "Maynard KR",
+   "Sukumar M"
+  ],
+  "tema": "Efeito antidepressivo da convulsão eletroconvulsiva EXIGE neurogênese adulta",
+  "autor_ano": "Schloesser 2015 (Brain Stimul)",
+  "tipo": "animal/causal Q1",
+  "blocos": [
+   "N"
+  ]
+ },
+ "18336568": {
+  "pmid": "18336568",
+  "title": "Electroconvulsive seizure restores neurogenesis and hippocampus-dependent fear memory after disruption by irradiation",
+  "journal": "The European journal of neuroscience",
+  "pubdate": "2008 Mar",
+  "authors": [
+   "Warner-Schmidt JL",
+   "Madsen TM",
+   "Duman RS"
+  ],
+  "tema": "ECS restaura neurogênese e memória de medo hipocampo-dependente após perturbação",
+  "autor_ano": "Warner-Schmidt 2008 (Eur J Neurosci)",
+  "tipo": "animal",
+  "blocos": [
+   "N"
+  ]
+ },
+ "37209812": {
+  "pmid": "37209812",
+  "title": "Repetitive transcranial magnetic stimulation and fluoxetine reverse depressive-like behavior but with differential effects on Olig2-positive cells in chronically stressed mice",
+  "journal": "Neuropharmacology",
+  "pubdate": "2023 Sep 15",
+  "authors": [
+   "Ramírez-Rodríguez GB",
+   "Meneses San-Juan D",
+   "Rico-Becerra AI",
+   "González-Olvera JJ",
+   "Reyes-Galindo V"
+  ],
+  "tema": "rTMS repetitiva e fluoxetina revertem comportamento depressivo (neurogênese)",
+  "autor_ano": "Ramírez-Rodríguez 2023 (Neuropharmacology)",
+  "tipo": "animal",
+  "blocos": [
+   "N"
+  ]
+ },
+ "29867368": {
+  "pmid": "29867368",
+  "title": "Nitrous Oxide Induces Prominent Cell Proliferation in Adult Rat Hippocampal Dentate Gyrus",
+  "journal": "Frontiers in cellular neuroscience",
+  "pubdate": "2018",
+  "authors": [
+   "Chamaa F",
+   "Bahmad HF",
+   "Makkawi AK",
+   "Chalhoub RM",
+   "Al-Chaer ED",
+   "Bikhazi GB"
+  ],
+  "tema": "Óxido nitroso induz proliferação proeminente no giro denteado adulto",
+  "autor_ano": "Chamaa 2018 (Front Cell Neurosci)",
+  "tipo": "animal (sinal)",
+  "blocos": [
+   "N"
+  ]
+ },
+ "23727882": {
+  "pmid": "23727882",
+  "title": "Effects of psilocybin on hippocampal neurogenesis and extinction of trace fear conditioning",
+  "journal": "Experimental brain research",
+  "pubdate": "2013 Aug",
+  "authors": [
+   "Catlow BJ",
+   "Song S",
+   "Paredes DA",
+   "Kirstein CL",
+   "Sanchez-Ramos J"
+  ],
+  "tema": "Psilocibina sobre neurogênese e extinção do condicionamento de traço",
+  "autor_ano": "Catlow 2013 (Exp Brain Res)",
+  "tipo": "animal (fármaco=sinal)",
+  "blocos": [
+   "N"
+  ]
+ },
+ "37000971": {
+  "pmid": "37000971",
+  "title": "Psilocybin facilitates fear extinction in mice by promoting hippocampal neuroplasticity",
+  "journal": "Chinese medical journal",
+  "pubdate": "2023 Dec 20",
+  "authors": [
+   "Du Y",
+   "Li Y",
+   "Zhao X",
+   "Yao Y",
+   "Wang B",
+   "Zhang L"
+  ],
+  "tema": "Psilocibina facilita extinção do medo por plasticidade hipocampal",
+  "autor_ano": "Du 2023 (Chin Med J)",
+  "tipo": "animal (fármaco=sinal)",
+  "blocos": [
+   "N"
+  ]
+ },
+ "42009274": {
+  "pmid": "42009274",
+  "title": "Psilocybin restores behavioral and neuroplastic deficits induced by chronic stress in rats",
+  "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+  "pubdate": "2026 Jun 20",
+  "authors": [
+   "Bysiek A",
+   "Szpręgiel I",
+   "Wojtas A",
+   "Maćkowiak M",
+   "Wawrzczak-Bargieła A",
+   "Leśkiewicz M"
+  ],
+  "tema": "Psilocibina restaura déficits comportamentais/plásticos por estresse crônico",
+  "autor_ano": "Bysiek 2026 (Prog Neuropsychopharmacol)",
+  "tipo": "animal (fármaco=sinal)",
+  "blocos": [
+   "N"
+  ]
+ },
+ "29898390": {
+  "pmid": "29898390",
+  "title": "Psychedelics Promote Structural and Functional Neural Plasticity",
+  "journal": "Cell reports",
+  "pubdate": "2018 Jun 12",
+  "authors": [
+   "Ly C",
+   "Greb AC",
+   "Cameron LP",
+   "Wong JM",
+   "Barragan EV",
+   "Wilson PC"
+  ],
+  "tema": "PSICOPLASTÓGENOS (psilocibina/LSD/DMT): spinogênese/neuritogênese rápidas via 5-HT2A-mTOR — CONTRASTE-chave: plasticidade ESTRUTURAL rápida ≠ neurogênese (semanas); \"reiniciar NG em horas\" é CONFLAÇÃO rejeitada",
+  "autor_ano": "Ly 2018 (Cell Rep)",
+  "tipo": "in vitro/animal (sinal; ponte B3/B15)",
+  "blocos": [
+   "N"
+  ]
+ },
+ "36080418": {
+  "pmid": "36080418",
+  "title": "Antidepressant Low Doses of Ketamine and Melatonin in Combination Produce Additive Neurogenesis in Human Olfactory Neuronal Precursors",
+  "journal": "Molecules (Basel, Switzerland)",
+  "pubdate": "2022 Sep 1",
+  "authors": [
+   "Estrada-Reyes R",
+   "Quero-Chávez DB",
+   "Alarcón-Elizalde S",
+   "Cercós MG",
+   "Trueta C",
+   "Constantino-Jonapa LA"
+  ],
+  "tema": "Baixas doses de cetamina + melatonina produzem neurogênese aditiva",
+  "autor_ano": "Estrada-Reyes 2022 (Molecules)",
+  "tipo": "animal (composto=sinal)",
+  "blocos": [
+   "N"
+  ]
+ },
+ "39830600": {
+  "pmid": "39830600",
+  "title": "Pharmacological Enhancement of Adult Hippocampal Neurogenesis Improves Behavioral Pattern Separation in Young and Aged Male Mice",
+  "journal": "Biological psychiatry global open science",
+  "pubdate": "2025 Mar",
+  "authors": [
+   "Chang WL",
+   "Tegang K",
+   "Samuels BA",
+   "Saxe M",
+   "Wichmann J",
+   "David DJ"
+  ],
+  "tema": "Aumento farmacológico da neurogênese melhora separação comportamental de padrões",
+  "autor_ano": "Chang 2025 (Biol Psychiatry Glob Open Sci)",
+  "tipo": "animal Q1 (sinal de alvo)",
+  "blocos": [
+   "N"
+  ]
+ },
+ "38352378": {
+  "pmid": "38352378",
+  "title": "Pharmacological Enhancement of Adult Hippocampal Neurogenesis Improves Behavioral Pattern Separation in Young and Aged Mice",
+  "journal": "bioRxiv : the preprint server for biology",
+  "pubdate": "2024 Feb 4",
+  "authors": [
+   "Chang WL",
+   "Tegang K",
+   "Samuels BA",
+   "Saxe M",
+   "Wichmann J",
+   "David DJ"
+  ],
+  "tema": "(pré-print do estudo acima)",
+  "autor_ano": "Chang 2024 (bioRxiv)",
+  "tipo": "[G1: pré-print — versão publicada é 39830600]",
+  "blocos": [
+   "N"
+  ]
+ },
+ "41303432": {
+  "pmid": "41303432",
+  "title": "KBN2202, a Salicylic Acid Derivative, Preserves Neuronal Architecture, Enhances Neurogenesis, Attenuates Amyloid and Inflammatory Pathology, and Restores Recognition Memory in 5xFAD Mice at an Advanced Stage of AD Pathophysiology",
+  "journal": "International journal of molecular sciences",
+  "pubdate": "2025 Nov 12",
+  "authors": [
+   "Lee SY",
+   "Kim JC",
+   "Choi MR",
+   "Song J",
+   "Kim M",
+   "Chang SH"
+  ],
+  "tema": "KBN2202 (derivado de ácido salicílico) preserva arquitetura neuronal e potencializa NG",
+  "autor_ano": "2025 (IJMS)",
+  "tipo": "animal (composto=sinal)",
+  "blocos": [
+   "N"
+  ]
+ }
+}

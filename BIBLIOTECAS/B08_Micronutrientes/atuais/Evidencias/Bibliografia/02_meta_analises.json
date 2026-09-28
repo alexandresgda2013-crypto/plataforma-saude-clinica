@@ -1,0 +1,2594 @@
+[
+ {
+  "pmid_oficial": "15260915",
+  "titulo_artigo": "Folate for depressive disorders: systematic review and meta-analysis of randomized controlled trials",
+  "autores": [
+   "Taylor MJ",
+   "Carney SM",
+   "Goodwin GM",
+   "Geddes JR"
+  ],
+  "revista_ano": "Journal of psychopharmacology (Oxford, England) (2004)",
+  "desenho_estudo": "[MA] meta J Psychopharmacol",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Folato para transtornos depressivos (meta de RCTs).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_TAYLOR_2004"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta de RCTs de folato",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_TAYLOR_2004",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "TAYLOR",
+   "Taylor"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "17568057",
+  "titulo_artigo": "Is low folate a risk factor for depression? A meta-analysis and exploration of heterogeneity",
+  "autores": [
+   "Gilbody S",
+   "Lightfoot T",
+   "Sheldon T"
+  ],
+  "revista_ano": "Journal of epidemiology and community health (2007)",
+  "desenho_estudo": "[MA] meta-análise JECH",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Folato baixo como fator de risco para depressão (associação; heterogeneidade).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GILBODY_2007"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta de estudos observacionais + exploração de heterogeneidade",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_GILBODY_2007",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "GILBODY",
+   "Gilbody"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "18165972",
+  "titulo_artigo": "No association with the 5,10-methylenetetrahydrofolate reductase gene and major depressive disorder: results of the depression case control (DeCC) study and a meta-analysis",
+  "autores": [
+   "Gaysina D",
+   "Cohen S",
+   "Craddock N",
+   "Farmer A",
+   "Hoda F",
+   "Korszun A"
+  ],
+  "revista_ano": "American journal of medical genetics. Part B, Neuropsychiatric genetics : the official publication of the International Society of Psychiatric Genetics (2008)",
+  "desenho_estudo": "[EC] estudo DeCC + meta AJMG-B — NULO",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "SEM associação entre MTHFR C677T e depressão maior (DeCC + meta).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GAYSINA_2008"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "resultado negativo; metas divergem",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_GAYSINA_2008",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "GAYSINA",
+   "Gaysina"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "18981340",
+  "titulo_artigo": "Homocysteine and depression in later life",
+  "autores": [
+   "Almeida OP",
+   "McCaul K",
+   "Hankey GJ",
+   "Norman P",
+   "Jamrozik K",
+   "Flicker L"
+  ],
+  "revista_ano": "Archives of general psychiatry (2008)",
+  "desenho_estudo": "[MA] meta/SR Arch Gen Psychiatry — idosos",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Homocisteína alta associada a depressão no idoso.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ALMEIDA_2008"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão sistemática de estudos em idosos",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_ALMEIDA_2008",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "ALMEIDA",
+   "Almeida"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "20130098",
+  "titulo_artigo": "Updated systematic review and meta-analysis of the effects of n-3 long-chain polyunsaturated fatty acids on depressed mood",
+  "autores": [
+   "Appleton KM",
+   "Rogers PJ",
+   "Ness AR"
+  ],
+  "revista_ano": "The American journal of clinical nutrition (2010)",
+  "desenho_estudo": "[MA] meta-análise AJCN",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Efeitos de n-3 PUFA sobre humor deprimido (meta atualizada; efeito pequeno/heterogêneo).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_APPLETON_2010"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta de n-3 PUFA; referência cruzada",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_APPLETON_2010",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "APPLETON",
+   "Appleton"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "21798601",
+  "titulo_artigo": "The efficacy of zinc supplementation in depression: systematic review of randomised controlled trials",
+  "autores": [
+   "Lai J",
+   "Moxey A",
+   "Nowak G",
+   "Vashum K",
+   "Bailey K",
+   "McEvoy M"
+  ],
+  "revista_ano": "Journal of affective disorders (2012)",
+  "desenho_estudo": "[MA] meta de RCTs J Affect Disord",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Eficácia da suplementação de zinco na depressão (meta de RCTs).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LAI_2012"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta de suplementação",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LAI_2012",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "LAI",
+   "Lai"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "23377209",
+  "titulo_artigo": "Vitamin D deficiency and depression in adults: systematic review and meta-analysis",
+  "autores": [
+   "Anglin RE",
+   "Samaan Z",
+   "Walter SD",
+   "McDonald SD"
+  ],
+  "revista_ano": "The British journal of psychiatry : the journal of mental science (2013)",
+  "desenho_estudo": "[MA] meta-análise Br J Psychiatry",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Deficiência de vitamina D associada à depressão (associação).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ANGLIN_2013"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta de associação",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_ANGLIN_2013",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "ANGLIN",
+   "Anglin"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "23806573",
+  "titulo_artigo": "Zinc in depression: a meta-analysis",
+  "autores": [
+   "Swardfager W",
+   "Herrmann N",
+   "Mazereeuw G",
+   "Goldberger K",
+   "Harimoto T",
+   "Lanctôt KL"
+  ],
+  "revista_ano": "Biological psychiatry (2013)",
+  "desenho_estudo": "[MA] meta-análise Biol Psychiatry",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Zinco na depressão: meta-análise (status baixo + adjuvante).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SWARDFAGER_2013a"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta de zinco",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SWARDFAGER_2013a",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "SWARDFAGER",
+   "Swardfager"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "23831680",
+  "titulo_artigo": "Association between MTHFR C677T polymorphism and depression: An updated meta-analysis of 26 studies",
+  "autores": [
+   "Wu YL",
+   "Ding XX",
+   "Sun YH",
+   "Yang HY",
+   "Chen J",
+   "Zhao X"
+  ],
+  "revista_ano": "Progress in neuro-psychopharmacology & biological psychiatry (2013)",
+  "desenho_estudo": "[MA] meta-análise PNPBP — positiva",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Associação entre MTHFR C677T e depressão (meta atualizada).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_WU_2013"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta; conflita com Gaysina",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_WU_2013",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Wu",
+   "WU"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "25405366",
+  "titulo_artigo": "Increasing iron and zinc in pre-menopausal women and its effects on mood and cognition: a systematic review",
+  "autores": [
+   "Lomagno KA",
+   "Hu F",
+   "Riddell LJ",
+   "Booth AO",
+   "Szymlek-Gay EA",
+   "Nowson CA"
+  ],
+  "revista_ano": "Nutrients (2014)",
+  "desenho_estudo": "[MA] SR Nutrients — mulheres pré-menopausa",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Aumento de ferro e zinco em mulheres pré-menopausa e efeitos sobre humor e cognição.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LOMAGNO_2014"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão de ferro/zinco e humor/cognição",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LOMAGNO_2014",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "LOMAGNO",
+   "Lomagno"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "25644193",
+  "titulo_artigo": "Systematic review and meta-analysis of randomized placebo-controlled trials of folate and vitamin B12 for depression",
+  "autores": [
+   "Almeida OP",
+   "Ford AH",
+   "Flicker L"
+  ],
+  "revista_ano": "International psychogeriatrics (2015)",
+  "desenho_estudo": "[MA] meta de RCTs placebo Int Psychogeriatr",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Folato e B12 em RCTs placebo para depressão (meta).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ALMEIDA_2015"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta de RCTs",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_ALMEIDA_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "ALMEIDA",
+   "Almeida"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "25827510",
+  "titulo_artigo": "Hypomagnesaemia linked to depression: a systematic review and meta-analysis",
+  "autores": [
+   "Cheungpasitporn W",
+   "Thongprayoon C",
+   "Mao MA",
+   "Srivali N",
+   "Ungprasert P",
+   "Varothai N"
+  ],
+  "revista_ano": "Internal medicine journal (2015)",
+  "desenho_estudo": "[MA] meta Intern Med J",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Hipomagnesemia ligada à depressão (meta).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CHEUNGPASITPORN_2015"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta de hipomagnesemia",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_CHEUNGPASITPORN_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "CHEUNGPASITPORN",
+   "Cheungpasitporn"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "26055921",
+  "titulo_artigo": "Folate and B12 serum levels in association with depression in the aged: a systematic review and meta-analysis",
+  "autores": [
+   "Petridou ET",
+   "Kousoulis AA",
+   "Michelakos T",
+   "Papathoma P",
+   "Dessypris N",
+   "Papadopoulos FC"
+  ],
+  "revista_ano": "Aging & mental health (2016)",
+  "desenho_estudo": "[MA] SR Aging Ment Health",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Níveis séricos de folato e B12 associados à depressão no idoso.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_PETRIDOU_2016"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão sistemática em idosos",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_PETRIDOU_2016",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Petridou",
+   "PETRIDOU"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "27727432",
+  "titulo_artigo": "S-adenosyl methionine (SAMe) for depression in adults",
+  "autores": [
+   "Galizia I",
+   "Oldani L",
+   "Macritchie K",
+   "Amari E",
+   "Dougall D",
+   "Jones TN"
+  ],
+  "revista_ano": "The Cochrane database of systematic reviews (2016)",
+  "desenho_estudo": "[MA] Cochrane Database Syst Rev",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "SAMe para depressão em adultos (Cochrane; limitado).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GALIZIA_2016"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "evidência limitada/heterogênea",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_GALIZIA_2016",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Galizia",
+   "GALIZIA"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "28759846",
+  "titulo_artigo": "The association of folate and depression: A meta-analysis",
+  "autores": [
+   "Bender A",
+   "Hagan KE",
+   "Kingston N"
+  ],
+  "revista_ano": "Journal of psychiatric research (2017)",
+  "desenho_estudo": "[MA] meta-análise J Psychiatr Res",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Associação entre folato e depressão.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BENDER_2017"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta de associação",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_BENDER_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "BENDER",
+   "Bender"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "28968218",
+  "titulo_artigo": "Association of C677T polymorphism (rs1801133) in MTHFR gene with depression",
+  "autores": [
+   "Rai V"
+  ],
+  "revista_ano": "Cellular and molecular biology (Noisy-le-Grand, France) (2017)",
+  "desenho_estudo": "[MA] meta Cell Mol Biol — positiva",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Associação do polimorfismo C677T (rs1801133) com depressão.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_RAI_2017"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta; conflita com Gaysina",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_RAI_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Rai",
+   "RAI"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "29897029",
+  "titulo_artigo": "Magnesium and mood disorders: systematic review and meta-analysis",
+  "autores": [
+   "Phelan D",
+   "Molero P",
+   "Martínez-González MA",
+   "Molendijk M"
+  ],
+  "revista_ano": "BJPsych open (2018)",
+  "desenho_estudo": "[MA] meta BJPsych Open — inconclusivo",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Magnésio e transtornos do humor: revisão/meta inconclusiva.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_PHELAN_2018"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "evidência inconclusiva",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_PHELAN_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Phelan",
+   "PHELAN"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "30254236",
+  "titulo_artigo": "Healthy dietary indices and risk of depressive outcomes: a systematic review and meta-analysis of observational studies",
+  "autores": [
+   "Lassale C",
+   "Batty GD",
+   "Baghdadli A",
+   "Jacka F",
+   "Sánchez-Villegas A",
+   "Kivimäki M"
+  ],
+  "revista_ano": "Molecular psychiatry (2019)",
+  "desenho_estudo": "[MA] meta observacional Mol Psychiatry — dose-gradiente",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Padrão saudável/Mediterrâneo reduz risco de depressão de forma dose-gradiente.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LASSALE_2019"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta de índices dietéticos; confundimento residual",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LASSALE_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Lassale",
+   "LASSALE"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "30444158",
+  "titulo_artigo": "Decreased serum magnesium levels in depression: a systematic review and meta-analysis",
+  "autores": [
+   "You HJ",
+   "Cho SE",
+   "Kang SG",
+   "Cho SJ",
+   "Na KS"
+  ],
+  "revista_ano": "Nordic journal of psychiatry (2018)",
+  "desenho_estudo": "[MA] meta Nord J Psychiatry — sensível",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Mg sérico diminuído na depressão (meta; sensível).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_YOU_2018"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "resultado sensível à exclusão de estudos",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_YOU_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "You",
+   "YOU"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "30646157",
+  "titulo_artigo": "Association of Use of Omega-3 Polyunsaturated Fatty Acids With Changes in Severity of Anxiety Symptoms: A Systematic Review and Meta-analysis",
+  "autores": [
+   "Su KP",
+   "Tseng PT",
+   "Lin PY",
+   "Okubo R",
+   "Chen TY",
+   "Chen YW"
+  ],
+  "revista_ano": "JAMA network open (2018)",
+  "desenho_estudo": "[MA] meta-análise JAMA Netw Open — ansiedade",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Uso de ômega-3 associado a redução de sintomas de ansiedade clínica (g≈0,37).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SU_2018"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta; efeito maior em diagnóstico clínico e dose ≥2000mg",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SU_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "SU",
+   "Su"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "31383846",
+  "titulo_artigo": "Efficacy of omega-3 PUFAs in depression: A meta-analysis",
+  "autores": [
+   "Liao Y",
+   "Xie B",
+   "Zhang H",
+   "He Q",
+   "Guo L",
+   "Subramanieapillai M"
+  ],
+  "revista_ano": "Translational psychiatry (2019)",
+  "desenho_estudo": "[MA] meta-análise Transl Psychiatry",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Eficácia de n-3 PUFA na depressão; efeito pequeno, dependente de EPA.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LIAO_2019"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta de n-3 PUFA; EPA>baseline",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LIAO_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "LIAO",
+   "Liao"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "31527485",
+  "titulo_artigo": "A Systematic Review and Meta-Analysis of B Vitamin Supplementation on Depressive Symptoms, Anxiety, and Stress: Effects on Healthy and 'At-Risk' Individuals",
+  "autores": [
+   "Young LM",
+   "Pipingas A",
+   "White DJ",
+   "Gauci S",
+   "Scholey A"
+  ],
+  "revista_ano": "Nutrients (2019)",
+  "desenho_estudo": "[MA] meta Nutrients — estresse +, depressão p=0,07, ansiedade NS",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Suplementação de B-vitaminas: estresse positivo, depressão p=0,07, ansiedade NS.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_YOUNG_2019"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "ansiedade NÃO significativa; depressão limítrofe",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_YOUNG_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "YOUNG",
+   "Young"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "32178540",
+  "titulo_artigo": "Broad spectrum micronutrient formulas for the treatment of symptoms of depression, stress, and/or anxiety: a systematic review",
+  "autores": [
+   "Blampied M",
+   "Bell C",
+   "Gilbert C",
+   "Rucklidge JJ"
+  ],
+  "revista_ano": "Expert review of neurotherapeutics (2020)",
+  "desenho_estudo": "[OB] SR Expert Rev Neurother",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Fórmulas de micronutrientes de largo espectro para depressão/estresse/ansiedade.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BLAMPIED_2020"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão de fórmulas amplas",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_BLAMPIED_2020",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "BLAMPIED",
+   "Blampied"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "32829928",
+  "titulo_artigo": "Zinc in depression: From development to treatment: A comparative/ dose response meta-analysis of observational studies and randomized controlled trials",
+  "autores": [
+   "Yosaee S",
+   "Clark CCT",
+   "Keshtkaran Z",
+   "Ashourpour M",
+   "Keshani P",
+   "Soltani S"
+  ],
+  "revista_ano": "General hospital psychiatry (2022)",
+  "desenho_estudo": "[MA] meta dose-resposta Gen Hosp Psychiatry",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Zinco na depressão: meta dose-resposta (observacional + RCT).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_YOSAEE_2022"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta comparativa/desenvolvimento→tratamento",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_YOSAEE_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "YOSAEE",
+   "Yosaee"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "33158241",
+  "titulo_artigo": "Multinutrients for the Treatment of Psychiatric Symptoms in Clinical Samples: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+  "autores": [
+   "Johnstone JM",
+   "Hughes A",
+   "Goldenberg JZ",
+   "Romijn AR",
+   "Rucklidge JJ"
+  ],
+  "revista_ano": "Nutrients (2020)",
+  "desenho_estudo": "[MA] meta Nutrients — amostras clínicas",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Multinutrientes para sintomas psiquiátricos em amostras clínicas (meta).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_JOHNSTONE_2020"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "sinal modesto, heterogêneo, não atribuível a um nutriente",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_JOHNSTONE_2020",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Johnstone",
+   "JOHNSTONE"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "33809274",
+  "titulo_artigo": "Effects of Vitamin B12 Supplementation on Cognitive Function, Depressive Symptoms, and Fatigue: A Systematic Review, Meta-Analysis, and Meta-Regression",
+  "autores": [
+   "Markun S",
+   "Gravestock I",
+   "Jäger L",
+   "Rosemann T",
+   "Pichierri G",
+   "Burgstaller JM"
+  ],
+  "revista_ano": "Nutrients (2021)",
+  "desenho_estudo": "[MA] meta/metarregressão Nutrients — 16 RCTs/6276",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Suplemento de B12 (sozinho ou complexo B) SEM efeito sobre cognição, sintomas depressivos ou fadiga em não-deficientes.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MARKUN_2021"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCTs em pessoas SEM deficiência/doença neurológica; âncora LIMITADORA",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MARKUN_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Markun",
+   "MARKUN"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "33912967",
+  "titulo_artigo": "Associations of dietary vitamin B1, vitamin B2, vitamin B6, and vitamin B12 with the risk of depression: a systematic review and meta-analysis",
+  "autores": [
+   "Wu Y",
+   "Zhang L",
+   "Li S",
+   "Zhang D"
+  ],
+  "revista_ano": "Nutrition reviews (2022)",
+  "desenho_estudo": "[EC] coorte/observacional Nutr Rev — INGESTÃO",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Ingestão de B1/B2/B6/B12 associada ao risco de depressão (proxy dietético ruidoso).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_WU_2022"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "associação de ingestão dietética (FFQ), não deficiência",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_WU_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Wu",
+   "WU"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "34794190",
+  "titulo_artigo": "Systematic Review and Meta-Analysis of L-Methylfolate Augmentation in Depressive Disorders",
+  "autores": [
+   "Maruf AA",
+   "Poweleit EA",
+   "Brown LC",
+   "Strawn JR",
+   "Bousman CA"
+  ],
+  "revista_ano": "Pharmacopsychiatry (2022)",
+  "desenho_estudo": "[MA] meta Pharmacopsychiatry",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "L-metilfolato como potencialização na TDM (meta).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MARUF_2022"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta de potencialização",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MARUF_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Maruf",
+   "MARUF"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "35058530",
+  "titulo_artigo": "The role of selenium in depression: a systematic review and meta-analysis of human observational and interventional studies",
+  "autores": [
+   "Sajjadi SS",
+   "Foshati S",
+   "Haddadian-Khouzani S",
+   "Rouhani MH"
+  ],
+  "revista_ano": "Scientific reports (2022)",
+  "desenho_estudo": "[MA] SR/meta Sci Rep — SEM diferença sérica, I²≈98%",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Selênio sérico sem diferença na depressão (I²=98%); sinal apenas para depressão pós-parto por ingestão.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SAJJADI_2022"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "evidência fraca/inconsistente; soro sem diferença",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SAJJADI_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "SAJJADI",
+   "Sajjadi"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "35066009",
+  "titulo_artigo": "Continuous supplementation of folic acid in pregnancy and the risk of perinatal depression-A meta-analysis",
+  "autores": [
+   "Jin X",
+   "Cheng Z",
+   "Yu X",
+   "Tao Q",
+   "Huang R",
+   "Wang S"
+  ],
+  "revista_ano": "Journal of affective disorders (2022)",
+  "desenho_estudo": "[EC] coorte JAD — gestação",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Suplementação contínua de ácido fólico na gravidez e risco de depressão perinatal.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_JIN_2022"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "suplementação contínua de folato na gravidez",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_JIN_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Jin",
+   "JIN"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "35156551",
+  "titulo_artigo": "Efficacy of B-vitamins and vitamin D therapy in improving depressive and anxiety disorders: a systematic review of randomized controlled trials",
+  "autores": [
+   "Borges-Vieira JG",
+   "Cardoso CKS"
+  ],
+  "revista_ano": "Nutritional neuroscience (2023)",
+  "desenho_estudo": "[MA] meta Nutr Neurosci",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Eficácia de B-vitaminas e vitamina D em sintomas depressivos/ansiosos.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BORGESVIEIRA_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta de B-vitaminas e vitamina D",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_BORGESVIEIRA_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Borgesvieira",
+   "BorgesVieira",
+   "BORGESVIEIRA"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "35816192",
+  "titulo_artigo": "The effect of vitamin D supplementation on depressive symptoms in adults: A systematic review and meta-analysis of randomized controlled trials",
+  "autores": [
+   "Mikola T",
+   "Marx W",
+   "Lane MM",
+   "Hockey M",
+   "Loughman A",
+   "Rajapolvi S"
+  ],
+  "revista_ano": "Critical reviews in food science and nutrition (2023)",
+  "desenho_estudo": "[MA] meta-análise CRFSN — 41 RCTs/53.235, g≈−0,32, I²≈88%",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Vitamina D reduz sintomas depressivos (g=−0,317) com GRADE muito baixa e I²=88%.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MIKOLA_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "GRADE muito baixa; heterogeneidade alta; RoB preocupante",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MIKOLA_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "MIKOLA",
+   "Mikola"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "36442656",
+  "titulo_artigo": "Protective role of antioxidant supplementation for depression and anxiety: A meta-analysis of randomized clinical trials",
+  "autores": [
+   "Wang H",
+   "Jin M",
+   "Xie M",
+   "Yang Y",
+   "Xue F",
+   "Li W"
+  ],
+  "revista_ano": "Journal of affective disorders (2023)",
+  "desenho_estudo": "[MA] meta-análise J Affect Disord",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Papel protetor pequeno da suplementação antioxidante para depressão e ansiedade.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_WANG_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta de antioxidantes; efeito pequeno",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_WANG_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Wang",
+   "WANG"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "36509315",
+  "titulo_artigo": "Vitamin D protects against depression: Evidence from an umbrella meta-analysis on interventional and observational meta-analyses",
+  "autores": [
+   "Musazadeh V",
+   "Keramati M",
+   "Ghalichi F",
+   "Kavyani Z",
+   "Ghoreishi Z",
+   "Alras KA"
+  ],
+  "revista_ano": "Pharmacological research (2023)",
+  "desenho_estudo": "[MA] umbrella meta Pharmacol Res",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Vitamina D protege contra depressão (evidência de intervenção agregada).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MUSAZADEH_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "umbrella de intervenções",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MUSAZADEH_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "MUSAZADEH",
+   "Musazadeh"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "36716601",
+  "titulo_artigo": "Efficacy and acceptability of vitamin D supplements for depressed patients: A systematic review and meta-analysis of randomized controlled trials",
+  "autores": [
+   "Srifuengfung M",
+   "Srifuengfung S",
+   "Pummangura C",
+   "Pattanaseri K",
+   "Oon-Arom A",
+   "Srisurapanont M"
+  ],
+  "revista_ano": "Nutrition (Burbank, Los Angeles County, Calif.) (2023)",
+  "desenho_estudo": "[MA] meta/rede Nutrition",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Eficácia e aceitabilidade da vitamina D em deprimidos.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SRIFUENGFUNG_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta de eficácia/aceitabilidade",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SRIFUENGFUNG_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Srifuengfung",
+   "SRIFUENGFUNG"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "37019362",
+  "titulo_artigo": "Dietary interventions for perinatal depression and anxiety: a systematic review and meta-analysis of randomized controlled trials",
+  "autores": [
+   "Tsai Z",
+   "Shah N",
+   "Tahir U",
+   "Mortaji N",
+   "Owais S",
+   "Perreault M"
+  ],
+  "revista_ano": "The American journal of clinical nutrition (2023)",
+  "desenho_estudo": "[MA] meta AJCN — perinatal",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Intervenções dietéticas para depressão/ansiedade perinatal.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_TSAI_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta de intervenções dietéticas perinatais",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_TSAI_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "TSAI",
+   "Tsai"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "38191692",
+  "titulo_artigo": "The Changes of Blood and CSF Ion Levels in Depressed Patients: a Systematic Review and Meta-analysis",
+  "autores": [
+   "Meng Y",
+   "Liu S",
+   "Yu M",
+   "Liang H",
+   "Tong Y",
+   "Song J"
+  ],
+  "revista_ano": "Molecular neurobiology (2024)",
+  "desenho_estudo": "[MA] SR/meta Mol Neurobiol — sangue E LCR",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Alterações de íons no sangue e no LCR em deprimidos.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MENG_2024"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta de íons; mede sangue e LCR (Meng/Guo, NÃO \"Wang\")",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MENG_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "MENG",
+   "Meng"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "38213402",
+  "titulo_artigo": "Magnesium supplementation beneficially affects depression in adults with depressive disorder: a systematic review and meta-analysis of randomized clinical trials",
+  "autores": [
+   "Moabedi M",
+   "Aliakbari M",
+   "Erfanian S",
+   "Milajerdi A"
+  ],
+  "revista_ano": "Frontiers in psychiatry (2023)",
+  "desenho_estudo": "[MA] meta de RCTs Front Psychiatry",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Suplementação de Mg afeta beneficamente a depressão.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MOABEDI_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta de suplementação de Mg",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MOABEDI_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "MOABEDI",
+   "Moabedi"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "38812090",
+  "titulo_artigo": "Dietary Magnesium Intake in Relation to Depression in Adults: A GRADE-Assessed Systematic Review and Dose-Response Meta-analysis of Epidemiologic Studies",
+  "autores": [
+   "Hajhashemy Z",
+   "Shirani F",
+   "Askari G"
+  ],
+  "revista_ano": "Nutrition reviews (2025)",
+  "desenho_estudo": "[MA] SR GRADE Nutr Rev",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Ingestão dietética de Mg em relação à depressão (GRADE).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_HAJHASHEMY_2025"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão de ingestão dietética",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_HAJHASHEMY_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "HAJHASHEMY",
+   "Hajhashemy"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "38873435",
+  "titulo_artigo": "Folate supplementation as a beneficial add-on treatment in relieving depressive symptoms: A meta-analysis of meta-analyses",
+  "autores": [
+   "Gao S",
+   "Khalid A",
+   "Amini-Salehi E",
+   "Radkhah N",
+   "Jamilian P",
+   "Badpeyma M"
+  ],
+  "revista_ano": "Food science & nutrition (2024)",
+  "desenho_estudo": "[MA] meta Food Sci Nutr",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Folato como add-on benéfico na TDM.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GAO_2024"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta de folato adjuvante",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_GAO_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Gao",
+   "GAO"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "39552387",
+  "titulo_artigo": "The effect of vitamin D supplementation on depression: a systematic review and dose-response meta-analysis of randomized controlled trials",
+  "autores": [
+   "Ghaemi S",
+   "Zeraattalab-Motlagh S",
+   "Jayedi A",
+   "Shab-Bidar S"
+  ],
+  "revista_ano": "Psychological medicine (2024)",
+  "desenho_estudo": "[MA] meta dose-resposta Psychol Med — 31 RCTs",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "D3 reduz sintomas depressivos no curto prazo (mais em deprimidos); SEM efeito sobre ansiedade.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GHAEMI_2024"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "SMD −0,32; GRADE moderada; ansiedade SEM efeito; efeito some em follow-up longo",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_GHAEMI_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Ghaemi",
+   "GHAEMI"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "40821024",
+  "titulo_artigo": "Meta-analysis of the effect of vitamin D on depression",
+  "autores": [
+   "Wang L",
+   "Su S",
+   "Liu Y"
+  ],
+  "revista_ano": "Frontiers in psychiatry (2025)",
+  "desenho_estudo": "[MA] meta-análise Front Psychiatry",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Efeito da vitamina D na depressão.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_WANG_2025"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta 2025",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_WANG_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Wang",
+   "WANG"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "41189312",
+  "titulo_artigo": "Creatine supplementation for treating symptoms of depression: a systematic review and meta-analysis",
+  "autores": [
+   "Eckert I",
+   "Lima J",
+   "Dariva AA"
+  ],
+  "revista_ano": "The British journal of nutrition (2025)",
+  "desenho_estudo": "[MA] meta Br J Nutr 2025",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Creatina para sintomas de depressão (meta).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ECKERT_2025"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta de creatina; interface B9/energia",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_ECKERT_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "ECKERT",
+   "Eckert"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "41263185",
+  "titulo_artigo": "Association between serum levels of essential elements (copper, zinc, and iron) and major depressive disorder: a systematic review and meta-analysis",
+  "autores": [
+   "Davarinejad O",
+   "Nasseri Z",
+   "Mansouri B"
+  ],
+  "revista_ano": "Reviews on environmental health (2026)",
+  "desenho_estudo": "[EC] meta/estudo Rev Environ Health — Zn↓ Fe↓ Cu↑",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Níveis séricos de Zn e Fe menores e Cu maior na TDM.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_DAVARINEJAD_2026"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "elementos séricos; Cu alto = redistribuição inflamatória",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_DAVARINEJAD_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Davarinejad",
+   "DAVARINEJAD"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "41280388",
+  "titulo_artigo": "The biological relationship among depression, vitamins B(9), B(12), and D, and genetic variants: a systematic review",
+  "autores": [
+   "Soriano-Gonzalez R",
+   "Ramirez-Olea H",
+   "Gonzalez-Soltero R",
+   "Chavez-Santoscoy RA"
+  ],
+  "revista_ano": "Frontiers in nutrition (2025)",
+  "desenho_estudo": "[OB] revisão Front Nutr — 24 estudos",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Relação biológica entre depressão, vitaminas B9/B12/D e variantes genéticas.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SORIANOGONZALEZ_2025"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão de B9/B12/D × variantes genéticas",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SORIANOGONZALEZ_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Sorianogonzalez",
+   "SORIANOGONZALEZ",
+   "SorianoGonzalez"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "41294251",
+  "titulo_artigo": "Effects of Coenzyme Q10 Supplementation on Depressive Symptoms and Fatigue: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+  "autores": [
+   "Magalhães PLM",
+   "da Silva AMP",
+   "Maximiano MLB",
+   "Fernandes JVA",
+   "Amaral DC",
+   "Fortes AAT"
+  ],
+  "revista_ano": "Journal of clinical psychopharmacology (2026)",
+  "desenho_estudo": "[MA] meta J Clin Psychopharmacol 2026",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "CoQ10 sobre sintomas depressivos e fadiga (meta).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MAGALHAES_2026"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta de CoQ10; interface B9; adjuvante",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MAGALHAES_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Magalhaes",
+   "MAGALHAES"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "41472978",
+  "titulo_artigo": "Association of Anaemia and Depression: A Systematic Review and Meta-analysis",
+  "autores": [
+   "Gupta B",
+   "Goel R",
+   "Satodiya V",
+   "Gupta K",
+   "Mittal A"
+  ],
+  "revista_ano": "Nigerian medical journal : journal of the Nigeria Medical Association (2025)",
+  "desenho_estudo": "[MA] SR/meta Niger Med J",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Associação entre anemia e depressão (inespecífica).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GUPTA_2025"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "anemia é inespecífica (vários tipos, não só ferro)",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_GUPTA_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Gupta",
+   "GUPTA"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "28202095",
+  "titulo_artigo": "The effects of vitamin and mineral supplementation on symptoms of schizophrenia: a systematic review and meta-analysis.",
+  "autores": [
+   "Firth J",
+   "Stubbs B",
+   "Sarris J",
+   "Rosenbaum S",
+   "Teasdale S",
+   "Berk M",
+   "Yung AR"
+  ],
+  "revista_ano": "The journal of nutrition, health & aging (2017)",
+  "desenho_estudo": "[MA] revisão sistemática e meta-análise · The journal of nutrition, health & aging",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "SR/MA: suplementação vitamínica/mineral como adjuvante em esquizofrenia mostra sinais modestos — janela de método (intervenção em psicose), não escopo causal B8.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_FIRTH_SUPL_2017"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "master GPM — suplementação vit/mineral em esquizofrenia (fronteira ilustrativa)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B8 2026-09-09): esearch DOI[aid] + esummary + efetch; abstract lido ref a ref; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_FIRTH_SUPL_2017",
+  "doi": "10.1017/S0033291717000022",
+  "claim_id_origem": "B8.MEC.BLOCO06.032",
+  "_aliases": [
+   "FIRTH",
+   "Firth"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "29206972",
+  "titulo_artigo": "Nutritional Deficiencies and Clinical Correlates in First-Episode Psychosis: A Systematic Review and Meta-analysis.",
+  "autores": [
+   "Firth J",
+   "Carney R",
+   "Stubbs B",
+   "Teasdale SB",
+   "Vancampfort D",
+   "Ward PB",
+   "Berk M",
+   "Sarris J"
+  ],
+  "revista_ano": "The journal of nutrition, health & aging (2018)",
+  "desenho_estudo": "[MA] revisão sistemática e meta-análise · The journal of nutrition, health & aging",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "MA: deficiências nutricionais são prevalentes no primeiro episódio psicótico e associam-se a piores correlatos clínicos (status, não intervenção; fronteira ilustrativa).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_FIRTH_FEP_2018"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "master GPM — deficiências no primeiro episódio psicótico (status)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B8 2026-09-09): esearch DOI[aid] + esummary + efetch; abstract lido ref a ref; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_FIRTH_FEP_2018",
+  "doi": "10.1093/schbul/sbx162",
+  "claim_id_origem": "B8.MEC.BLOCO06.033",
+  "_aliases": [
+   "FIRTH",
+   "Firth"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "32552785",
+  "titulo_artigo": "The neuropsychiatric effects of vitamin C deficiency: a systematic review.",
+  "autores": [
+   "Plevin D",
+   "Galletly C"
+  ],
+  "revista_ano": "The journal of nutrition, health & aging (2020)",
+  "desenho_estudo": "[OB] revisão sistemática · The journal of nutrition, health & aging",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "SR: a deficiência de vitamina C associa-se a efeitos neuropsiquiátricos, MAS não há estudos de desfecho adequados demonstrando efeito da reposição (lacuna intervencional explícita).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_PLEVIN_2020"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "master GPM — bloco NEG vitamina C (associação sem prova intervencional)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B8 2026-09-09): esearch DOI[aid] + esummary + efetch; abstract lido ref a ref; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_PLEVIN_2020",
+  "doi": "10.1186/s12888-020-02730-w",
+  "claim_id_origem": "B8.MEC.BLOCO12.049",
+  "_aliases": [
+   "PLEVIN",
+   "Plevin"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "36411563",
+  "titulo_artigo": "Neuronutrients and Central Nervous System: A Systematic Review.",
+  "autores": [
+   "Nogueira-de-Almeida CA",
+   "Zotarelli-Filho IJ",
+   "Nogueirade-Almeida ME",
+   "Souza CG",
+   "Kemp VL",
+   "Ramos WS"
+  ],
+  "revista_ano": "The journal of nutrition, health & aging (2023)",
+  "desenho_estudo": "[OB] revisão sistemática · The journal of nutrition, health & aging",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "SR: neuronutrientes e o sistema nervoso central — catálogo ampliado de nutrientes com papel neural.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_NOGUEIRA_2023"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "master GPM — neuronutrientes e SNC",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B8 2026-09-09): esearch DOI[aid] + esummary + efetch; abstract lido ref a ref; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_NOGUEIRA_2023",
+  "doi": "10.2174/1871524923666221121123937",
+  "claim_id_origem": "B8.MEC.BLOCO01.008",
+  "_aliases": [
+   "NOGUEIRADEALMEIDA",
+   "NogueiradeAlmeida",
+   "NOGUEIRA",
+   "Nogueira",
+   "NOGUEIRA-DE-ALMEIDA",
+   "Nogueira-de-Almeida",
+   "NOGUEIRADEALMEIDA",
+   "Nogueiradealmeida"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "41228551",
+  "titulo_artigo": "A Systematic Review of the Correlation Between Micronutrient Levels and Perinatal Depression.",
+  "autores": [
+   "Islam N",
+   "Semmler A",
+   "Starling J",
+   "Voisey J"
+  ],
+  "revista_ano": "The journal of nutrition, health & aging (2025)",
+  "desenho_estudo": "[OB] revisão sistemática · The journal of nutrition, health & aging",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "SR: correlações entre níveis de micronutrientes e depressão no período perinatal.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ISLAM_2025"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "micronutrientes × depressão perinatal",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B8 2026-09-09): esearch DOI[aid] + esummary + efetch; abstract lido ref a ref; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_ISLAM_2025",
+  "doi": "10.3390/nu17213479",
+  "claim_id_origem": "B8.MEC.BLOCO11.045",
+  "_aliases": [
+   "ISLAM",
+   "Islam"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "39952338",
+  "titulo_artigo": "Causal relationship between B vitamins and neuropsychiatric disorders: A systematic review and meta-analysis.",
+  "autores": [
+   "Ye M",
+   "Yang X",
+   "Yan J",
+   "Yao Y",
+   "Lv H",
+   "Yue Z",
+   "Lin X",
+   "Qian C",
+   "Liu Z"
+  ],
+  "revista_ano": "The journal of nutrition, health & aging (2025)",
+  "desenho_estudo": "[MA] revisão sistemática e meta-análise · The journal of nutrition, health & aging",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "SR/MA: a relação causal entre vitaminas do complexo B e transtornos neuropsiquiátricos é distinta por par vitamina×transtorno — não há efeito geral do \"complexo B\".",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_YE_2025"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "master GPM — causalidade vitaminas B × neuropsiquiatria: distinta por par",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B8 2026-09-09): esearch DOI[aid] + esummary + efetch; abstract lido ref a ref; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_YE_2025",
+  "doi": "10.1016/j.neubiorev.2025.106068",
+  "claim_id_origem": "B8.MEC.BLOCO07.038",
+  "_aliases": [
+   "YE",
+   "Ye"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "42187879",
+  "titulo_artigo": "Vitamin D and Vitamin B12 in Psychiatric Disorders: An Exploratory Systematic Review and Meta-Analysis of Nutrient-Specific Status and Supplementation Evidence.",
+  "autores": [
+   "Moroianu LA",
+   "Curis C",
+   "Ardeleanu V",
+   "Bogdan-Goroftei RE",
+   "Mitincu-Caramfil SD",
+   "Moroianu M",
+   "Pleșea-Condratovici A"
+  ],
+  "revista_ano": "The journal of nutrition, health & aging (2026)",
+  "desenho_estudo": "[MA] revisão sistemática + meta-análise exploratória (PRISMA 2020) · The journal of nutrition, health & aging",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "SR/MA exploratória de vitamina D e B12 em transtornos psiquiátricos: os sinais inversos iniciais colapsam ao nulo após correção de viés de publicação (trim-and-fill OR 0,88; IC95% 0,48–1,63 para suplementação de D); suplementação de B12 esparsa e nula — apoia avaliação direcionada de deficiência, não suplementação de rotina.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MOROIANU_2026"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "master GPM — bloco NEG vitamina D (eficácia não demonstrada) (MeSH pendente)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B8 2026-09-09): esearch DOI[aid] + esummary + efetch; abstract lido ref a ref; MeSH pendente de indexação (espécie inferida por título/abstract); 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_MOROIANU_2026",
+  "doi": "10.3390/diseases14050167",
+  "claim_id_origem": "B8.MEC.BLOCO02.021",
+  "_aliases": [
+   "MOROIANU",
+   "Moroianu"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "42253799",
+  "titulo_artigo": "Clinical outcomes of mitochondrial-enhancing nutraceutical supplementation in psychiatric disorders: A systematic review.",
+  "autores": [
+   "Tortajada J",
+   "Bulduk BK",
+   "Alfonso-Landete B",
+   "Alcaide-Barriga P",
+   "Ballvé-Gelonch B",
+   "Garrabou G",
+   "Vilella E",
+   "Alonso Y",
+   "Valiente-Pallejà A",
+   "Martorell L"
+  ],
+  "revista_ano": "The journal of nutrition, health & aging (2026)",
+  "desenho_estudo": "[OB] revisão sistemática · The journal of nutrition, health & aging",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "SR: desfechos clínicos de suplementação com nutracêuticos voltados à função mitocondrial em transtornos psiquiátricos — campo heterogêneo, estudos pequenos.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_TORTAJADA_2026"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "master GPM — suplementação pró-mitocondrial em psiquiatria (ponte B9) (MeSH pendente)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B8 2026-09-09): esearch DOI[aid] + esummary + efetch; abstract lido ref a ref; MeSH pendente de indexação (espécie inferida por título/abstract); 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_TORTAJADA_2026",
+  "doi": "10.1002/gps3.70023",
+  "claim_id_origem": "B8.MEC.BLOCO06.034",
+  "_aliases": [
+   "TORTAJADA",
+   "Tortajada"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ }
+]

@@ -1,0 +1,136 @@
+{
+  "trilha": 93,
+  "data": "2026-09-24",
+  "objeto": "replica_subscricoes_minuta_saida_claimkit",
+  "digitais": {
+    "mestre": "40b0205c11c042e081b3706161b75e2f7883a6b19a37016cc69c1ebc15d65953",
+    "estrutura": "63e23c2af34e9b08020a7d148d6c8b20f891750a5b29a4ef38d12714fa4aed9e"
+  },
+  "total": 12,
+  "ok": 12,
+  "resultado": [
+    {
+      "id": "T1",
+      "descricao": "upload ≡ série (Mestre) + texto Estrutura arquivado",
+      "ok": true,
+      "detalhe": {
+        "mestre_sha": "40b0205c11c042e081b3706161b75e2f7883a6b19a37016cc69c1ebc15d65953",
+        "mestre_bytes": 5505,
+        "estrutura_sha": "63e23c2af34e9b08020a7d148d6c8b20f891750a5b29a4ef38d12714fa4aed9e",
+        "estrutura_bytes": 3947,
+        "upload_ok": true
+      }
+    },
+    {
+      "id": "T2",
+      "descricao": "vereditos: M=sem ressalva; E=§4.3 impedimento, resto subscrito",
+      "ok": true,
+      "detalhe": {
+        "mestre_sem_ressalva": true,
+        "estrutura_impedimento_4_3": true
+      }
+    },
+    {
+      "id": "T3",
+      "descricao": "N2 allOf: condicional⇒condicao required; sustenta/refuta/inconclusivo⇒condicao null",
+      "ok": true,
+      "detalhe": {
+        "regra_condicional": true,
+        "regra_null": true,
+        "allOf_anchors": 2,
+        "nivel": "L1 JSON Schema"
+      }
+    },
+    {
+      "id": "T4",
+      "descricao": "sustenta+condicao preenchida VIOLA",
+      "ok": true,
+      "detalhe": {
+        "violacoes": [
+          {
+            "regra": "condicao deve ser null",
+            "valor": "classe_antidepressivo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "T5",
+      "descricao": "refuta+condicao preenchida VIOLA",
+      "ok": true,
+      "detalhe": {
+        "violacoes": [
+          {
+            "regra": "condicao deve ser null",
+            "valor": "classe_antidepressivo"
+          }
+        ],
+        "nota": "controle: condicional+condicao violacoes=[] (deve ser 0)"
+      }
+    },
+    {
+      "id": "T6",
+      "descricao": "minuta rev.1 §4.3 contém o par proibido",
+      "ok": true,
+      "detalhe": {
+        "presente": true
+      }
+    },
+    {
+      "id": "T7",
+      "descricao": "minuta rev.1 declara não alterar N1/N2",
+      "ok": true,
+      "detalhe": {
+        "achado": true
+      }
+    },
+    {
+      "id": "T8",
+      "descricao": "Mestre: 30 refs com >1 vínculo; SWANSON_2019 com 3",
+      "ok": true,
+      "detalhe": {
+        "multi_refs": 30,
+        "swanson": 3,
+        "total_vinculos": 274
+      }
+    },
+    {
+      "id": "T9",
+      "descricao": "Mestre declarou não receber v3.1; v1.2 sem sentido_do_achado",
+      "ok": true,
+      "detalhe": {
+        "declaracao": true,
+        "v1_2_sentido": 0
+      }
+    },
+    {
+      "id": "T10",
+      "descricao": "v3.1 existe no workspace com o enum citado (enviável ao Mestre)",
+      "ok": true,
+      "detalhe": {
+        "sha": "f7e664d73e2dad603f7c4316df09286f0da9313a28779d2a67eb5f5fd225624e",
+        "bytes": 13625
+      }
+    },
+    {
+      "id": "T11",
+      "descricao": "minuta rev.2: inverte → P-K6 travado; instrução ativa antiga removida; v1.5 registrada",
+      "ok": true,
+      "detalhe": {
+        "P_K6": true,
+        "instrucao_ativa_antiga_removida": true,
+        "nao_materializa": true,
+        "condicao_modificadora": true
+      }
+    },
+    {
+      "id": "T12",
+      "descricao": "estado: rev.1 não encerra (1 sem + 1 impedimento §4.3)",
+      "ok": true,
+      "detalhe": {
+        "rev1_encerra": false,
+        "proximo": "rev.2 → 2× subscrição nova (documento mudou)"
+      }
+    }
+  ]
+}

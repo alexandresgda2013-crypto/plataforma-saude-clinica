@@ -1,0 +1,1987 @@
+{
+ "totais": {
+  "ENTRA": 76,
+  "EXC": 6,
+  "BAIXO": 69
+ },
+ "itens": [
+  {
+   "pmid": "24632637",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Alaimo A",
+   "ano": "2014",
+   "fonte": "PLoS One",
+   "titulo": "Deregulation of mitochondria-shaping proteins Opa-1 and Drp-1 in manganese-induced apoptosis.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "29928190",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Allen 2018 (Front Neurosci): revisão-âncora \"Mitochondria and Mood\" — arquitetura do campo (hipótese Mito-Mood)",
+   "autor": "Allen J",
+   "ano": "2018",
+   "fonte": "Front Neurosci",
+   "titulo": "Mitochondria and Mood: Mitochondrial Dysfunction as a Key Player in the Manifestation of Depression.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "29292494",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Angelova PR",
+   "ano": "2018",
+   "fonte": "FEBS Lett",
+   "titulo": "Role of mitochondrial ROS in the brain: from physiology to neurodegeneration.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41344231",
+   "decisao": "EXC",
+   "motivo": "EXC — transtorno por uso de metanfetamina (Aytaç 2025); fora do fenótipo ansiedade/depressão",
+   "autor": "Aytac HM",
+   "ano": "2026",
+   "fonte": "J Psychiatr Res",
+   "titulo": "Evaluation of mitochondrial DNA copy number alterations and their clinical correlates in methamphetamine use disorder.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "42497856",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Barnett D",
+   "ano": "2026",
+   "fonte": "Mol Cell",
+   "titulo": "Distinct sources and effects of mitochondrial reactive oxygen species.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "40517524",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Beck 2025 (Psychoneuroendocrinology): ELS × condições psiquiátricas × mtDNAcn em jovens saudáveis (humano)",
+   "autor": "Beck QM",
+   "ano": "2025",
+   "fonte": "Psychoneuroendocrinology",
+   "titulo": "Early life stress, psychiatric conditions, and mitochondrial DNA copy number (mtDNAcn) in medically healthy young adults.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "27412728",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Bergman 2016 (Can J Psychiatry): revisão OXPHOS em esquizofrenia — FRONTEIRA ILUSTRATIVA (não escopo causal)",
+   "autor": "Bergman O",
+   "ano": "2016",
+   "fonte": "Can J Psychiatry",
+   "titulo": "Mitochondrial Oxidative Phosphorylation System (OXPHOS) Deficits in Schizophrenia: Possible Interactions with Cellular Processes.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "26494254",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Bertholet AM",
+   "ano": "2016",
+   "fonte": "Neurobiol Dis",
+   "titulo": "Mitochondrial fusion/fission dynamics in neurodegeneration and neuronal plasticity.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32404275",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Bhatt S",
+   "ano": "2020",
+   "fonte": "Drug Discov Today",
+   "titulo": "Role of oxidative stress in depression.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "40436283",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Brown HJ",
+   "ano": "2025",
+   "fonte": "Neurobiol Dis",
+   "titulo": "Imbalanced mitochondrial dynamics in human PD and α-synuclein mouse brains.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "41922875",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Burr SP",
+   "ano": "2026",
+   "fonte": "Nat Struct Mol Biol",
+   "titulo": "MitoPerturb-Seq identifies gene-specific single-cell responses to mitochondrial DNA depletion and heteroplasmy.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "25486875",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Burté F",
+   "ano": "2015",
+   "fonte": "Nat Rev Neurol",
+   "titulo": "Disturbed mitochondrial dynamics and neurodegenerative disorders.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "36686690",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Büttiker 2022 (Front Pharmacol): revisão processos mitocondriais disfuncionais × sintomas neuropsiquiátricos (ausente do §3/§6 do briefing — cobertura exposta)",
+   "autor": "Büttiker P",
+   "ano": "2022",
+   "fonte": "Front Pharmacol",
+   "titulo": "Dysfunctional mitochondrial processes contribute to energy perturbations in the brain and neuropsychiatric symptoms.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "26687620",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Cai N",
+   "ano": "2015",
+   "fonte": "Curr Biol",
+   "titulo": "Genetic Control over mtDNA and Its Relationship to Major Depressive Disorder.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "38857809",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Cai P",
+   "ano": "2024",
+   "fonte": "Neurobiol Dis",
+   "titulo": "Drp1 and neuroinflammation: Deciphering the interplay between mitochondrial dynamics imbalance and inflammation in neurodegenerative diseases.",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "28114303",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Cao YL",
+   "ano": "2017",
+   "fonte": "Nature",
+   "titulo": "MFN1 structures reveal nucleotide-triggered dimerization critical for mitochondrial fusion.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "25820230",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Carelli V",
+   "ano": "2015",
+   "fonte": "Ann Neurol",
+   "titulo": "Syndromic parkinsonism and dementia associated with OPA1 missense mutations.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "38161720",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Ceylan D",
+   "ano": "2023",
+   "fonte": "Front Psychiatry",
+   "titulo": "Mitochondrial DNA oxidation, methylation, and copy number alterations in major and bipolar depression.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "31585519",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Chan DC",
+   "ano": "2020",
+   "fonte": "Annu Rev Pathol",
+   "titulo": "Mitochondrial Dynamics and Its Involvement in Disease.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "29068134",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Chandhok G",
+   "ano": "2018",
+   "fonte": "Biol Rev Camb Philos Soc",
+   "titulo": "Structure, function, and regulation of mitofusin-2 in health and disease.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "25946463",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Chang CC",
+   "ano": "2015",
+   "fonte": "PLoS One",
+   "titulo": "Mitochondria DNA change and oxidative damage in clinically stable patients with major depressive disorder.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "20649536",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Chang CR",
+   "ano": "2010",
+   "fonte": "Ann N Y Acad Sci",
+   "titulo": "Dynamic regulation of mitochondrial fission through modification of the dynamin-related protein Drp1.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "24447331",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Chang CC",
+   "ano": "2014",
+   "fonte": "Psychiatry Clin Neurosci",
+   "titulo": "Mitochondrial DNA variation and increased oxidative damage in euthymic patients with bipolar disorder.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "42352333",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Charidemou E",
+   "ano": "2026",
+   "fonte": "Biomolecules",
+   "titulo": "Tuning the Fire: Context-Dependent Mitochondrial ROS Signaling, Mitohormesis, and Redox-Modulating Interventions.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "19808793",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Chen H",
+   "ano": "2009",
+   "fonte": "Hum Mol Genet",
+   "titulo": "Mitochondrial dynamics--fusion, fission, movement, and mitophagy--in neurodegenerative diseases.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "39063194",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Choi EH",
+   "ano": "2024",
+   "fonte": "Int J Mol Sci",
+   "titulo": "Targeting Mitochondrial Dysfunction and Reactive Oxygen Species for Neurodegenerative Disease Treatment.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "31639552",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Chung 2019: mtDNA-CN em pacientes com TDM (humano)",
+   "autor": "Chung JK",
+   "ano": "2019",
+   "fonte": "Psychiatry Res",
+   "titulo": "Investigation of mitochondrial DNA copy number in patients with major depressive disorder.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "37508561",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Colpman P",
+   "ano": "2023",
+   "fonte": "Cells",
+   "titulo": "The Role of Mitochondrial Dynamics and Mitotic Fission in Regulating the Cell Cycle in Cancer and Pulmonary Arterial Hypertension: Implications for Dynamin-Related Protein 1 and Mitofusin2 in Hyperproliferative Diseases.",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "36830028",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Correia AS",
+   "ano": "2023",
+   "fonte": "Antioxidants (Basel)",
+   "titulo": "Oxidative Stress in Depression: The Link with the Stress Response, Neuroinflammation, Serotonin, Neurogenesis and Synaptic Plasticity.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41776167",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Cullen 2026 (JA): ATP/bioenergética e fadiga em adultos jovens com e sem TDM (humano funcional)",
+   "autor": "Cullen KR",
+   "ano": "2026",
+   "fonte": "Transl Psychiatry",
+   "titulo": "ATP bioenergetics and fatigue in young adults with and without major depression.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "30687139",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Culmsee C",
+   "ano": "2018",
+   "fonte": "Front Psychiatry",
+   "titulo": "Mitochondria, Microglia, and the Immune System-How Are They Linked in Affective Disorders?",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "31081430",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Czarny 2020: mtDNA — cópia, dano, reparo e degradação em depressão (humano)",
+   "autor": "Czarny P",
+   "ano": "2020",
+   "fonte": "World J Biol Psychiatry",
+   "titulo": "Mitochondrial DNA copy number, damage, repair and degradation in depressive disorder.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "37834200",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Czarny 2023: SNPs em genes de estabilidade do mtDNA em depressão (humano)",
+   "autor": "Czarny P",
+   "ano": "2023",
+   "fonte": "Int J Mol Sci",
+   "titulo": "Single-Nucleotide Polymorphisms in Genes Maintaining the Stability of Mitochondrial DNA Affect the Occurrence, Onset, Severity and Treatment of Major Depressive Disorder.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "19279012",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Dagda RK",
+   "ano": "2009",
+   "fonte": "J Biol Chem",
+   "titulo": "Loss of PINK1 function promotes mitophagy through effects on oxidative stress and mitochondrial fission.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "18799731",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Deng H",
+   "ano": "2008",
+   "fonte": "Proc Natl Acad Sci U S A",
+   "titulo": "The Parkinson's disease genes pink1 and parkin promote mitochondrial fission and/or inhibit fusion in Drosophila.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "33237755",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Ding Q",
+   "ano": "2020",
+   "fonte": "J Am Chem Soc",
+   "titulo": "Oxidative Damage of Tryptophan Hydroxylase-2 Mediated by Peroxisomal Superoxide Anion Radical in Brains of Mouse with Depression.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "37985735",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Dong WT",
+   "ano": "2023",
+   "fonte": "Nat Metab",
+   "titulo": "Mitochondrial fission drives neuronal metabolic burden to promote stress susceptibility in male mice.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "30361041",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "El-Hattab AW",
+   "ano": "2018",
+   "fonte": "Mol Genet Metab",
+   "titulo": "Mitochondrial dynamics: Biological roles, molecular machinery, and related diseases.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32488052",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Emmerzaal TL",
+   "ano": "2020",
+   "fonte": "Transl Psychiatry",
+   "titulo": "Impaired mitochondrial complex I function as a candidate driver in the biological stress response and a concomitant stress-induced brain metabolic reprogramming in male mice.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "31760107",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Feng ST",
+   "ano": "2020",
+   "fonte": "Pharmacol Res",
+   "titulo": "Dynamin-related protein 1: A protein critical for mitochondrial fission, mitophagy, and neuronal death in Parkinson's disease.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41921723",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Fernández-Pech IL",
+   "ano": "2026",
+   "fonte": "Neurosci Biobehav Rev",
+   "titulo": "Mitochondrial signals in the bloodstream: Peripheral signature of mitochondrial dysfunction in mental health. A systematic review.",
+   "pubtype": [
+    "Journal Article",
+    "Systematic Review"
+   ]
+  },
+  {
+   "pmid": "33314045",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Filograna R",
+   "ano": "2021",
+   "fonte": "FEBS Lett",
+   "titulo": "Mitochondrial DNA copy number in human disease: the more the better?",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "30949583",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Filograna R",
+   "ano": "2019",
+   "fonte": "Sci Adv",
+   "titulo": "Modulation of mtDNA copy number ameliorates the pathological consequences of a heteroplasmic mtDNA mutation in the mouse.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "41907442",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Franczak E",
+   "ano": "2026",
+   "fonte": "iScience",
+   "titulo": "Accumulated mtDNA mutations are linked to specific impairments in NADH-linked respiration.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "28379197",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Gao J",
+   "ano": "2017",
+   "fonte": "Antioxidants (Basel)",
+   "titulo": "Abnormalities of Mitochondrial Dynamics in Neurodegenerative Diseases.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "34295268",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Giménez-Palomo 2021 (Eur Neuropsychopharmacol): revisão papel da mitocôndria em transtornos do humor (distinta da vigente 2024)",
+   "autor": "Giménez-Palomo A",
+   "ano": "2021",
+   "fonte": "Front Psychiatry",
+   "titulo": "The Role of Mitochondria in Mood Disorders: From Physiology to Pathophysiology and to Treatment.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32358865",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Glancy B",
+   "ano": "2021",
+   "fonte": "J Physiol",
+   "titulo": "Mitochondrial lactate metabolism: history and implications for exercise and disease.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "37878704",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Glynos A",
+   "ano": "2023",
+   "fonte": "Sci Adv",
+   "titulo": "High-throughput single-cell analysis reveals progressive mitochondrial DNA mosaicism throughout life.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34605675",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Gore E",
+   "ano": "2022",
+   "fonte": "Antioxid Redox Signal",
+   "titulo": "The Multifaceted ATPase Inhibitory Factor 1 (IF1) in Energy Metabolism Reprogramming and Mitochondrial Dysfunction: A New Player in Age-Associated Disorders?",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "37685840",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Grel H",
+   "ano": "2023",
+   "fonte": "Int J Mol Sci",
+   "titulo": "Mitochondrial Dynamics in Neurodegenerative Diseases: Unraveling the Role of Fusion and Fission Processes.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "37587338",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Gupta 2023: controle genético nuclear do mtDNA-CN/heteroplasmia em humanos (arquitetura M04)",
+   "autor": "Gupta R",
+   "ano": "2023",
+   "fonte": "Nature",
+   "titulo": "Nuclear genetic control of mtDNA copy number and heteroplasmy in humans.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "32484300",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Han H",
+   "ano": "2020",
+   "fonte": "EMBO Rep",
+   "titulo": "PINK1 phosphorylates Drp1S616 to regulate mitophagy-independent mitochondrial dynamics.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "38800537",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Hofstra 2024 (Neurobiol Stress): resposta de estresse mitocondrial cross-species em depressão/ELS/hipocampo — âncora UPRmt/ISR integrada (pendência §8 do briefing)",
+   "autor": "Hofstra BM",
+   "ano": "2024",
+   "fonte": "Neurobiol Stress",
+   "titulo": "Cross-species analysis uncovers the mitochondrial stress response in the hippocampus as a shared mechanism in mouse early life stress and human depression.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "26621716",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Hollis F",
+   "ano": "2015",
+   "fonte": "Proc Natl Acad Sci U S A",
+   "titulo": "Mitochondrial function in the brain links anxiety with social subordination.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "28098754",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Hu C",
+   "ano": "2017",
+   "fonte": "Int J Mol Sci",
+   "titulo": "Drp1-Dependent Mitochondrial Fission Plays Critical Roles in Physiological and Pathological Progresses in Mammals.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "36462294",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Hummel EM",
+   "ano": "2023",
+   "fonte": "Psychoneuroendocrinology",
+   "titulo": "Mitochondrial DNA as a marker for treatment-response in post-traumatic stress disorder.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "35065970",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Javani G",
+   "ano": "2022",
+   "fonte": "Mech Ageing Dev",
+   "titulo": "Mitochondrial transplantation improves anxiety- and depression-like behaviors in aged stress-exposed rats.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "38334212",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Jiang 2024: mitocôndria na depressão — disfunção do metabolismo energético (revisão)",
+   "autor": "Jiang M",
+   "ano": "2024",
+   "fonte": "CNS Neurosci Ther",
+   "titulo": "Mitochondria in depression: The dysfunction of mitochondrial energy metabolism and quality control systems.",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "37597078",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Jomova K",
+   "ano": "2023",
+   "fonte": "Arch Toxicol",
+   "titulo": "Reactive oxygen species, toxicity, oxidative stress, and antioxidants: chronic diseases and aging.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "40317489",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Juhász L",
+   "ano": "2025",
+   "fonte": "J Neurochem",
+   "titulo": "The Power Struggle: Kynurenine Pathway Enzyme Knockouts and Brain Mitochondrial Respiration.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "40149919",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Kageyama Y",
+   "ano": "2025",
+   "fonte": "Biomolecules",
+   "titulo": "The Association Among Bipolar Disorder, Mitochondrial Dysfunction, and Reactive Oxygen Species.",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "36841465",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Kalimon 2023 [ML]: MAO (membrana mitocondrial externa) — inibição de MAO-A aumenta respiração em mitocôndrias de córtex de camundongo (ponte B9↔B4)",
+   "autor": "Kalimon OJ",
+   "ano": "2023",
+   "fonte": "Exp Neurol",
+   "titulo": "Inhibition of monoamine oxidase-a increases respiration in isolated mouse cortical mitochondria.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "32647150",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Karabatsiakis A",
+   "ano": "2020",
+   "fonte": "Transl Psychiatry",
+   "titulo": "Depression, mitochondrial bioenergetics, and electroconvulsive therapy: a new approach towards personalized medicine in psychiatric treatment - a short review and current perspective.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "29102411",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Kasahara 2018: revisão \"o que a análise do mtDNA diz sobre transtornos do humor\"",
+   "autor": "Kasahara T",
+   "ano": "2018",
+   "fonte": "Biol Psychiatry",
+   "titulo": "What Can Mitochondrial DNA Analysis Tell Us About Mood Disorders?",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "39223276",
+   "decisao": "EXC",
+   "motivo": "EXC — autismo (Khaliulin 2025; Mol Psychiatry — papel da mitocôndria no TEA); malha de escopo",
+   "autor": "Khaliulin I",
+   "ano": "2025",
+   "fonte": "Mol Psychiatry",
+   "titulo": "The multifaceted role of mitochondria in autism spectrum disorder.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "30585734",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Kim 2019: revisão mitocôndria, metabolismo e redox em transtornos psiquiátricos",
+   "autor": "Kim Y",
+   "ano": "2019",
+   "fonte": "Antioxid Redox Signal",
+   "titulo": "Mitochondria, Metabolism, and Redox Mechanisms in Psychiatric Disorders.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "34742335",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Klein 2021: caracterização de quantidade/qualidade do mtDNA no cérebro humano (referência anatômica; sangue≠SNC)",
+   "autor": "Klein HU",
+   "ano": "2021",
+   "fonte": "Mol Neurodegener",
+   "titulo": "Characterization of mitochondrial DNA quantity and quality in the human aged and Alzheimer's disease brain.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "42352055",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Kleinauskas A",
+   "ano": "2026",
+   "fonte": "Antioxidants (Basel)",
+   "titulo": "Phenazine Methosulfate Rewires Mitochondrial Redox Circuits to Restore Membrane Potential and ATP Synthesis Under ETC Blockade in Glioblastoma Cells.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33805672",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Ko HJ",
+   "ano": "2021",
+   "fonte": "Biomolecules",
+   "titulo": "The Phosphorylation Status of Drp1-Ser637 by PKA in Mitochondrial Fission Modulates Mitophagy via PINK1/Parkin to Exert Multipolar Spindles Assembly during Mitosis.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "34098028",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Kolár 2021: mini-revisão do metabolismo energético cerebral em modelos animais de depressão",
+   "autor": "Kolar D",
+   "ano": "2021",
+   "fonte": "Neurosci Lett",
+   "titulo": "Mini-review: Brain energy metabolism and its role in animal models of depression, bipolar disorder, schizophrenia and autism.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "34948180",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Kowalczyk P",
+   "ano": "2021",
+   "fonte": "Int J Mol Sci",
+   "titulo": "Mitochondrial Oxidative Stress-A Causative Factor and Therapeutic Target in Many Diseases.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32260327",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Kuffner K",
+   "ano": "2020",
+   "fonte": "Cells",
+   "titulo": "Major Depressive Disorder is Associated with Impaired Mitochondrial Function in Skin Fibroblasts.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "42248856",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Lagos D",
+   "ano": "2026",
+   "fonte": "Cell Death Dis",
+   "titulo": "Disease-causing MFN2 mutants impair mitochondrial fission dynamics by distinct DRP1 dysregulation.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41009813",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Lee K",
+   "ano": "2025",
+   "fonte": "Int J Mol Sci",
+   "titulo": "Lactiplantibacillus plantarum HY7715 Alleviates Restraint Stress-Induced Anxiety-like Behaviors by Modulating Oxidative Stress, Apoptosis, and Mitochondrial Function.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "29801445",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Wang D",
+   "ano": "2018",
+   "fonte": "BMC Psychiatry",
+   "titulo": "Differential mitochondrial DNA copy number in three mood states of bipolar disorder.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "34362731",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Li H",
+   "ano": "2021",
+   "fonte": "Sci Adv",
+   "titulo": "Longitudinal tracking of neuronal mitochondria delineates PINK1/Parkin-dependent mechanisms of mitochondrial recycling and degradation.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41169572",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Li X",
+   "ano": "2025",
+   "fonte": "JACS Au",
+   "titulo": "Superoxide Anion-Dependent Mitochondrial Fission Contributes to Hippocampal Synaptic Dysfunction in Stress-Susceptible Mice.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36503124",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Li J",
+   "ano": "2023",
+   "fonte": "Ageing Res Rev",
+   "titulo": "PINK1/Parkin-mediated mitophagy in neurodegenerative diseases.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "29453441",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Lindqvist D",
+   "ano": "2018",
+   "fonte": "Neuropsychopharmacology",
+   "titulo": "Circulating cell-free mitochondrial DNA, but not leukocyte mitochondrial DNA copy number, is elevated in major depressive disorder.",
+   "pubtype": [
+    "Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "37344456",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Liu L 2023 (Transl Psychiatry): MiWAS UK Biobank — interação mtDNA×CRP × ansiedade (N=72 mil)/depressão (ponte B9×B1, humano)",
+   "autor": "Liu L",
+   "ano": "2023",
+   "fonte": "Transl Psychiatry",
+   "titulo": "Mitochondria-wide association study observed significant interactions of mitochondrial respiratory and the inflammatory in the development of anxiety and depression.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "40427494",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Liu X 2025 (Antioxidants): eixo ferroptose-mitocôndria na depressão (fronteira B6, emergente)",
+   "autor": "Liu X",
+   "ano": "2025",
+   "fonte": "Antioxidants (Basel)",
+   "titulo": "The Ferroptosis-Mitochondrial Axis in Depression: Unraveling the Feedforward Loop of Oxidative Stress, Metabolic Homeostasis Dysregulation, and Neuroinflammation.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "33655635",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Liu S",
+   "ano": "2021",
+   "fonte": "EMBO Rep",
+   "titulo": "OXPHOS deficiency activates global adaptation pathways to maintain mitochondrial membrane potential.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "42282151",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Liu CC",
+   "ano": "2026",
+   "fonte": "medRxiv",
+   "titulo": "Lifetime adversity exposure, mood symptoms, and immune mitochondrial bioenergetics.",
+   "pubtype": [
+    "Journal Article",
+    "Preprint"
+   ]
+  },
+  {
+   "pmid": "39197553",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA RESGATE — Lu 2024 MR bidirecional (J Affect Disord): âncora da regra 3 (MR nulo mtDNA-CN↔transtornos); o briefing §8 dizia \"não resolvido\" e o anexo o trazia (DOI 10.1016/j.jad.2024.08.162)",
+   "autor": "Lu Y",
+   "ano": "2024",
+   "fonte": "J Affect Disord",
+   "titulo": "Association between blood mitochondrial DNA copy number and mental disorders: A bidirectional two-sample mendelian randomization study.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36531636",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Lu S",
+   "ano": "2022",
+   "fonte": "Heliyon",
+   "titulo": "Baicalin improves the energy levels in the prefrontal cortex of mice exposed to chronic unpredictable mild stress.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "31755286",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Ľupták 2019: revisão mitocôndria e efeito dos estabilizadores de humor (âncora confundidor-medicação M08.9)",
+   "autor": "Ľupták M",
+   "ano": "2019",
+   "fonte": "Physiol Res",
+   "titulo": "Important role of mitochondria and the effect of mood stabilizers on mitochondrial function.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "19546216",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Lutz AK",
+   "ano": "2009",
+   "fonte": "J Biol Chem",
+   "titulo": "Loss of parkin or PINK1 function increases Drp1-dependent mitochondrial fragmentation.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "39333279",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Mafikandi V",
+   "ano": "2025",
+   "fonte": "Naunyn Schmiedebergs Arch Pharmacol",
+   "titulo": "Nasal administration of mitochondria relieves depressive- and anxiety-like behaviors in male mice exposed to restraint stress through the suppression ROS/NLRP3/caspase-1/IL-1β signaling pathway.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "21145355",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Reddy PH",
+   "ano": "2011",
+   "fonte": "Brain Res Rev",
+   "titulo": "Dynamin-related protein 1 and mitochondrial fragmentation in neurodegenerative diseases.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "34066918",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Marques AP",
+   "ano": "2021",
+   "fonte": "Biomedicines",
+   "titulo": "Mitochondrial Alterations in Fibroblasts of Early Stage Bipolar Disorder Patients.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "38858390",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Morcillo P",
+   "ano": "2024",
+   "fonte": "Cell Death Dis",
+   "titulo": "Aberrant ER-mitochondria communication is a common pathomechanism in mitochondrial disease.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "32564227",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Morris 2020: revisão interplay estresse oxidativo × falha bioenergética em vias neuroprogressivas",
+   "autor": "Morris G",
+   "ano": "2020",
+   "fonte": "Mol Biol Rep",
+   "titulo": "The interplay between oxidative stress and bioenergetic failure in neuropsychiatric illnesses: can we explain it and can we treat it?",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "34829696",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Napolitano G",
+   "ano": "2021",
+   "fonte": "Antioxidants (Basel)",
+   "titulo": "Mitochondrial Management of Reactive Oxygen Species.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "29281123",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Nissanka N",
+   "ano": "2018",
+   "fonte": "FEBS Lett",
+   "titulo": "Mitochondrial DNA damage and reactive oxygen species in neurodegenerative disease.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "36135912",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Al Ojaimi M",
+   "ano": "2022",
+   "fonte": "Membranes (Basel)",
+   "titulo": "Mitochondrial Fission and Fusion: Molecular Mechanisms, Biological Functions, and Related Disorders.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "31450774",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Oliver D",
+   "ano": "2019",
+   "fonte": "Cells",
+   "titulo": "Dynamics of Dynamin-Related Protein 1 in Alzheimer's Disease and Other Neurodegenerative Diseases.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "23383735",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Olsen RH",
+   "ano": "2013",
+   "fonte": "J Neurochem",
+   "titulo": "Enhanced hippocampus-dependent memory and reduced anxiety in mice over-expressing human catalase in mitochondria.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ]
+  },
+  {
+   "pmid": "23434681",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Otera H",
+   "ano": "2013",
+   "fonte": "Biochim Biophys Acta",
+   "titulo": "New insights into the function and regulation of mitochondrial fission.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "38081963",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Palma FR",
+   "ano": "2024",
+   "fonte": "Oncogene",
+   "titulo": "ROS production by mitochondria: function or dysfunction?",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "33774476",
+   "decisao": "EXC",
+   "motivo": "EXC — Alzheimer (Park 2021; NOX4-ferroptose de astrócitos centrado em DA); malha de escopo",
+   "autor": "Park MW",
+   "ano": "2021",
+   "fonte": "Redox Biol",
+   "titulo": "NOX4 promotes ferroptosis of astrocytes by oxidative stress-induced lipid peroxidation via the impairment of mitochondrial metabolism in Alzheimer's diseases.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "33672477",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Patergnani S",
+   "ano": "2021",
+   "fonte": "Biomedicines",
+   "titulo": "Mitochondrial Oxidative Stress and \"Mito-Inflammation\": Actors in the Diseases.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32707949",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Picca A",
+   "ano": "2020",
+   "fonte": "Antioxidants (Basel)",
+   "titulo": "Mitochondrial Dysfunction, Oxidative Stress, and Neuroinflammation: Intertwined Roads to Neurodegeneration.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "35177962",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Pijuan J",
+   "ano": "2022",
+   "fonte": "Front Neurosci",
+   "titulo": "Mitochondrial Dynamics and Mitochondria-Lysosome Contacts in Neurogenetic Diseases.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "18230723",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Poole AC",
+   "ano": "2008",
+   "fonte": "Proc Natl Acad Sci U S A",
+   "titulo": "The PINK1/Parkin pathway regulates mitochondrial morphology.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "33924585",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Portz P",
+   "ano": "2021",
+   "fonte": "Cells",
+   "titulo": "Changes in Drp1 Function and Mitochondrial Morphology Are Associated with the α-Synuclein Pathology in a Transgenic Mouse Model of Parkinson's Disease.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "19290059",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Rollins 2009: variantes mitocondriais em esquizofrenia, bipolar e TDM (humano; inclui fronteira)",
+   "autor": "Rollins B",
+   "ano": "2009",
+   "fonte": "PLoS One",
+   "titulo": "Mitochondrial variants in schizophrenia, bipolar disorder, and major depressive disorder.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "37563104",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Rosenberg AM",
+   "ano": "2023",
+   "fonte": "Nat Commun",
+   "titulo": "Brain mitochondrial diversity and network organization predict anxiety-like behavior in male mice.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "28131082",
+   "decisao": "EXC",
+   "motivo": "EXC — diabetes tipo 2 (Rovira-Llopis 2017); CAMADA E contexto metabólico, fora do fenótipo",
+   "autor": "Rovira-Llopis S",
+   "ano": "2017",
+   "fonte": "Redox Biol",
+   "titulo": "Mitochondrial dynamics in type 2 diabetes: Pathophysiological implications.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "36216200",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Ryan 2023: mtDNA-CN em sangue total na depressão e resposta ao tratamento (humano)",
+   "autor": "Ryan KM",
+   "ano": "2023",
+   "fonte": "Prog Neuropsychopharmacol Biol Psychiatry",
+   "titulo": "Whole blood mitochondrial DNA copy number in depression and response to electroconvulsive therapy.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "28463235",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Scaini 2017 (Transl Psychiatry): via apoptótica e dinâmica da rede mitocondrial em cérebro PÓS-MORTEM (humano, CAMADA A forte)",
+   "autor": "Scaini G",
+   "ano": "2017",
+   "fonte": "Transl Psychiatry",
+   "titulo": "Perturbations in the apoptotic pathway and mitochondrial network dynamics in peripheral blood mononuclear cells from bipolar disorder patients.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "26011537",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Sequeira 2015: mutações mitocondriais em indivíduos com transtornos psiquiátricos (humano)",
+   "autor": "Sequeira A",
+   "ano": "2015",
+   "fonte": "PLoS One",
+   "titulo": "Mitochondrial mutations in subjects with psychiatric disorders.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "42238570",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Shi L",
+   "ano": "2026",
+   "fonte": "Front Immunol",
+   "titulo": "From mitochondrial oxidative stress to neuroinflammation: integrated proteomic and transcriptomic profiling reveals the role of the ROS/TXNIP/NLRP3 signaling pathway in anxious depression.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "37369829",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Smullen M",
+   "ano": "2023",
+   "fonte": "Sci Rep",
+   "titulo": "Modeling of mitochondrial genetic polymorphisms reveals induction of heteroplasmy by pleiotropic disease locus 10398A>G.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "29106705",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Stefanatos R",
+   "ano": "2018",
+   "fonte": "FEBS Lett",
+   "titulo": "The role of mitochondrial ROS in the aging brain.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "39684566",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Sukhorukov VS",
+   "ano": "2024",
+   "fonte": "Int J Mol Sci",
+   "titulo": "Mitochondrial Dynamics in Brain Cells During Normal and Pathological Aging.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "39420231",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Tábara LC",
+   "ano": "2025",
+   "fonte": "Nat Rev Mol Cell Biol",
+   "titulo": "Molecular mechanisms of mitochondrial dynamics.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "39191736",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Tang S",
+   "ano": "2024",
+   "fonte": "Cell Death Dis",
+   "titulo": "Drp1 depletion protects against ferroptotic cell death by preserving mitochondrial integrity and redox homeostasis.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "39457098",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Teranishi M",
+   "ano": "2024",
+   "fonte": "Int J Mol Sci",
+   "titulo": "Extremely Low-Frequency Electromagnetic Field (ELF-EMF) Increases Mitochondrial Electron Transport Chain Activities and Ameliorates Depressive Behaviors in Mice.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "39313624",
+   "decisao": "EXC",
+   "motivo": "EXC — demência/risco cognitivo (Tian Q 2025; UK Biobank n=189 mil); malha de escopo",
+   "autor": "Tian Q",
+   "ano": "2025",
+   "fonte": "Geroscience",
+   "titulo": "Mitochondrial DNA copy number associated dementia risk by somatic mutations and frailty.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Intramural"
+   ]
+  },
+  {
+   "pmid": "41848740",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Tian J",
+   "ano": "2026",
+   "fonte": "Antioxid Redox Signal",
+   "titulo": "Astragaloside IV Confers Prophylactic Efficacy Against Depression Associated with the ROS/Nrf2/Keap1 Axis: Modulation of Oxidative Stress and Energy Homeostasis.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "30030364",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Tilokani L",
+   "ano": "2018",
+   "fonte": "Essays Biochem",
+   "titulo": "Mitochondrial dynamics: overview of molecular mechanisms.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "40747960",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Timón-Gómez A",
+   "ano": "2026",
+   "fonte": "Exp Physiol",
+   "titulo": "Bioenergetic profiles and respiratory control in mitochondrial physiology: Precision analysis of oxidative phosphorylation.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "29065167",
+   "decisao": "EXC",
+   "motivo": "EXC — fadiga crônica/CFS (Tomas 2017); o GPM M10 declara CFS fora da cobertura",
+   "autor": "Tomas C",
+   "ano": "2017",
+   "fonte": "PLoS One",
+   "titulo": "Cellular bioenergetics is impaired in patients with chronic fatigue syndrome.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "29984425",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Tranah 2018: heteroplasmia m.13514G>A associada a depressão (humano)",
+   "autor": "Tranah GJ",
+   "ano": "2018",
+   "fonte": "Int J Geriatr Psychiatry",
+   "titulo": "Mitochondrial DNA m.13514G>A heteroplasmy is associated with depressive symptoms in the elderly.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, N.I.H., Intramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "35732695",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Triebelhorn (print **2024**, Mol Psychiatry): bioenergética+eletrofisiologia de iNPC/iPS-neurônios de MDD; resolve também a pendência \"Triebelhorn 2024\" do §8 (o briefing o chamava 2021 e procurava um 2024 inexistente — é o MESMO artigo, print 2024)",
+   "autor": "Triebelhorn J",
+   "ano": "2024",
+   "fonte": "Mol Psychiatry",
+   "titulo": "Induced neural progenitor cells and iPS-neurons from major depressive disorder patients show altered bioenergetics and electrophysiological properties.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "40227270",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Trofin DM",
+   "ano": "2025",
+   "fonte": "Antioxidants (Basel)",
+   "titulo": "Oxidative Stress in Brain Function.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "29500956",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Tymofiyeva 2018: mtDNA alto associado a medidas de imagem cerebral em adolescentes (humano)",
+   "autor": "Tymofiyeva O",
+   "ano": "2018",
+   "fonte": "J Affect Disord",
+   "titulo": "High levels of mitochondrial DNA are associated with adolescent brain structural hypoconnectivity and increased anxiety but not depression.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "40410878",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Ulecia-Morón C",
+   "ano": "2025",
+   "fonte": "J Transl Med",
+   "titulo": "Chronic mild stress disrupts mitophagy and mitochondrial status in rat frontal cortex.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "35085849",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Valiente-Pallejà 2022: SR abrangente de alterações de mtDNA em cérebro pós-mortem (humano)",
+   "autor": "Valiente-Pallejà A",
+   "ano": "2022",
+   "fonte": "EBioMedicine",
+   "titulo": "Comprehensive summary of mitochondrial DNA alterations in the postmortem human brain: A systematic review.",
+   "pubtype": [
+    "Journal Article",
+    "Systematic Review"
+   ]
+  },
+  {
+   "pmid": "28431972",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Villa RF",
+   "ano": "2017",
+   "fonte": "Neuropharmacology",
+   "titulo": "Mitochondrial energy metabolism of rat hippocampus after treatment with the antidepressants desipramine and fluoxetine.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "32351669",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Visentin APV",
+   "ano": "2020",
+   "fonte": "Oxid Med Cell Longev",
+   "titulo": "Targeting Inflammatory-Mitochondrial Response in Major Depression: Current Evidence and Further Challenges.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "28647451",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Wang X 2017: associação de mtDNA em sangue periférico com depressão (humano)",
+   "autor": "Wang X",
+   "ano": "2017",
+   "fonte": "Eur Neuropsychopharmacol",
+   "titulo": "Association of mitochondrial DNA in peripheral blood with depression, anxiety and stress- and adjustment disorders in primary health care patients.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35855329",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Wang Q",
+   "ano": "2022",
+   "fonte": "Aging Dis",
+   "titulo": "Brain Mitochondrial Dysfunction: A Possible Mechanism Links Early Life Anxiety to Alzheimer's Disease in Later Life.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36252817",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Watanabe S",
+   "ano": "2022",
+   "fonte": "Neurochem Int",
+   "titulo": "Social isolation induces succinate dehydrogenase dysfunction in anxious mice.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "28153046",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Wei 2017: mutações pontuais e CN relativa do mtDNA em amostra depressão (humano)",
+   "autor": "Wei W",
+   "ano": "2017",
+   "fonte": "Acta Neuropathol Commun",
+   "titulo": "Mitochondrial DNA point mutations and relative copy number in 1363 disease and control human brains.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "31609012",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Wolf DM",
+   "ano": "2019",
+   "fonte": "EMBO J",
+   "titulo": "Individual cristae within the same mitochondrion display different membrane potentials and are functionally independent.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "39976201",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Xi Y",
+   "ano": "2025",
+   "fonte": "Adv Sci (Weinh)",
+   "titulo": "SIRT3-Mediated Deacetylation of DRP1K711 Prevents Mitochondrial Dysfunction in Parkinson's Disease.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "30894073",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Xian H",
+   "ano": "2019",
+   "fonte": "Autophagy",
+   "titulo": "Loss of MIEF1/MiD51 confers susceptibility to BAX-mediated cell death and PINK1-PRKN-dependent mitophagy.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "40668505",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Xie X",
+   "ano": "2025",
+   "fonte": "Mol Neurobiol",
+   "titulo": "Elevated Acetylation of MFN2 is Accompanied by the Disruption of Mitochondrial Energy Metabolism and Inflammation in a Mouse Model of Depression.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "32045672",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Xie X",
+   "ano": "2020",
+   "fonte": "J Steroid Biochem Mol Biol",
+   "titulo": "Depression-like behaviors are accompanied by disrupted mitochondrial energy metabolism in chronic corticosterone-induced mice.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "41634133",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Xue H",
+   "ano": "2026",
+   "fonte": "Mol Psychiatry",
+   "titulo": "Powering the mind: deciphering the shared genetic architecture between mitochondrial DNA copy number and major psychiatric disorders.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "18443288",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Yang Y",
+   "ano": "2008",
+   "fonte": "Proc Natl Acad Sci U S A",
+   "titulo": "Pink1 regulates mitochondrial dynamics through interaction with the fission/fusion machinery.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "33742459",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Yapa NMB",
+   "ano": "2021",
+   "fonte": "FEBS Lett",
+   "titulo": "Mitochondrial dynamics in health and disease.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "40915505",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Yin 2026: análise completa da sequência do mtDNA em pacientes com TDM (humano)",
+   "autor": "Yin X",
+   "ano": "2026",
+   "fonte": "J Affect Disord",
+   "titulo": "Complete mitochondrial DNA sequence analysis in patients with major depressive disorder.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "21613270",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Yu W",
+   "ano": "2011",
+   "fonte": "Hum Mol Genet",
+   "titulo": "The PINK1/Parkin pathway regulates mitochondrial dynamics and function in mammalian hippocampal and dopaminergic neurons.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "32595603",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Yu R",
+   "ano": "2020",
+   "fonte": "Front Endocrinol (Lausanne)",
+   "titulo": "Regulation of Mammalian Mitochondrial Dynamics: Opportunities and Challenges.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "40149969",
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM (âncora índice bidirecional)",
+   "autor": "Zanfardino P",
+   "ano": "2025",
+   "fonte": "Biomolecules",
+   "titulo": "The Balance of MFN2 and OPA1 in Mitochondrial Dynamics, Cellular Homeostasis, and Disease.",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "29157198",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Zhang R",
+   "ano": "2017",
+   "fonte": "BMC Genomics",
+   "titulo": "Independent impacts of aging on mitochondrial DNA quantity and quality in humans.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35213291",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Zhang B",
+   "ano": "2022",
+   "fonte": "Redox Rep",
+   "titulo": "Role of mitochondrial reactive oxygen species in homeostasis regulation.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "37774988",
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — camada B/C mecânica redundante com os 44 masters (dinâmica/mitofagia/redox básicos), contexto não-psiquiátrico (envelhecimento, neurodegeneração mecânica, exposição), ou desenho preliminar/preprint; registrado sem descarte por contrariar tese",
+   "autor": "Zhao AR",
+   "ano": "2023",
+   "fonte": "Brain Res Bull",
+   "titulo": "Stress can affect mitochondrial energy metabolism and AMPK/SIRT1 signaling pathway in rats.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "41792945",
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Zong 2026: variantes genéticas do mtDNA associadas a depressão (humano)",
+   "autor": "Zong Q",
+   "ano": "2026",
+   "fonte": "Int J Rheum Dis",
+   "titulo": "Association of Mitochondrial DNA Genetic Variants With Depression and Anxiety in Chinese Patients With Systemic Lupus Erythematosus.",
+   "pubtype": [
+    "Journal Article"
+   ]
+  }
+ ]
+}

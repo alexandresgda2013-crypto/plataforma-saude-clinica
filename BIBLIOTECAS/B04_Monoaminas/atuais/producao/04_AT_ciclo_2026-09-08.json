@@ -1,0 +1,599 @@
+{
+ "at_ciclo": "2026-09-08",
+ "biblioteca": "B4",
+ "at_status": "INCORPORADO_V2",
+ "insumo": {
+  "arquivo": "uploads/Artigos cientificos do mecanismo B4 Deficiencias monoaminas.md",
+  "itens": 177,
+  "consolidacao_texto": true,
+  "briefing_sementes": 14
+ },
+ "incorporadas": [
+  {
+   "pmid": "4863731",
+   "id": "REF_SCHILDKRAUT_1967",
+   "grupo": "HIST",
+   "tag": "OB"
+  },
+  {
+   "pmid": "10775017",
+   "id": "REF_HIRSCHFELD_2000",
+   "grupo": "HIST",
+   "tag": "OB"
+  },
+  {
+   "pmid": "9818625",
+   "id": "REF_CHARNEY_1998",
+   "grupo": "HIST",
+   "tag": "OB"
+  },
+  {
+   "pmid": "8852528",
+   "id": "REF_HENINGER_1996",
+   "grupo": "HIST",
+   "tag": "OB"
+  },
+  {
+   "pmid": "10775019",
+   "id": "REF_LEONARD_2000",
+   "grupo": "HIST",
+   "tag": "OB"
+  },
+  {
+   "pmid": "12953623",
+   "id": "REF_BAUMEISTER_2003",
+   "grupo": "HIST",
+   "tag": "OB"
+  },
+  {
+   "pmid": "36000248",
+   "id": "REF_STRAWBRIDGE_2023",
+   "grupo": "HIST",
+   "tag": "MA"
+  },
+  {
+   "pmid": "26043325",
+   "id": "REF_COWEN_2015",
+   "grupo": "HIST",
+   "tag": "OB"
+  },
+  {
+   "pmid": "37857415",
+   "id": "REF_ALBERT_2023",
+   "grupo": "HIST",
+   "tag": "OB"
+  },
+  {
+   "pmid": "19498050",
+   "id": "REF_NEMEROFF_2009",
+   "grupo": "HIST",
+   "tag": "OB"
+  },
+  {
+   "pmid": "19428959",
+   "id": "REF_SAVITZ_2009",
+   "grupo": "5HT",
+   "tag": "OB"
+  },
+  {
+   "pmid": "27623971",
+   "id": "REF_WANG_2016",
+   "grupo": "5HT",
+   "tag": "MA"
+  },
+  {
+   "pmid": "16154547",
+   "id": "REF_PARSEY_2006",
+   "grupo": "5HT",
+   "tag": "EC"
+  },
+  {
+   "pmid": "17971260",
+   "id": "REF_HIRVONEN_2008",
+   "grupo": "5HT",
+   "tag": "EC"
+  },
+  {
+   "pmid": "31120232",
+   "id": "REF_STEINBERG_2019",
+   "grupo": "5HT",
+   "tag": "EC"
+  },
+  {
+   "pmid": "19423077",
+   "id": "REF_AKIMOVA_2009",
+   "grupo": "5HT",
+   "tag": "OB"
+  },
+  {
+   "pmid": "24936175",
+   "id": "REF_ALBERT_2014",
+   "grupo": "5HT",
+   "tag": "OB"
+  },
+  {
+   "pmid": "24337875",
+   "id": "REF_GARCIAGARCIA_2014",
+   "grupo": "5HT",
+   "tag": "OB"
+  },
+  {
+   "pmid": "23492554",
+   "id": "REF_POPOVA_2013",
+   "grupo": "5HT",
+   "tag": "OB"
+  },
+  {
+   "pmid": "28232871",
+   "id": "REF_NAUTIYAL_2017",
+   "grupo": "5HT",
+   "tag": "OB"
+  },
+  {
+   "pmid": "25823514",
+   "id": "REF_FAKHOURY_2016",
+   "grupo": "5HT",
+   "tag": "OB"
+  },
+  {
+   "pmid": "33651238",
+   "id": "REF_POURHAMZEH_2022",
+   "grupo": "5HT",
+   "tag": "OB"
+  },
+  {
+   "pmid": "33673205",
+   "id": "REF_VILLASBOAS_2021",
+   "grupo": "5HT",
+   "tag": "OB"
+  },
+  {
+   "pmid": "33672070",
+   "id": "REF_BORROTOESCUELA_2021",
+   "grupo": "5HT",
+   "tag": "OB"
+  },
+  {
+   "pmid": "30144453",
+   "id": "REF_ZMUDZKA_2018",
+   "grupo": "5HT",
+   "tag": "OB"
+  },
+  {
+   "pmid": "30430940",
+   "id": "REF_SONGTACHALERT_2018",
+   "grupo": "5HT",
+   "tag": "OB"
+  },
+  {
+   "pmid": "27353308",
+   "id": "REF_NAUTIYAL_2016",
+   "grupo": "5HT",
+   "tag": "ML"
+  },
+  {
+   "pmid": "9844013",
+   "id": "REF_HEISLER_1998",
+   "grupo": "5HT",
+   "tag": "ML"
+  },
+  {
+   "pmid": "22832966",
+   "id": "REF_MOSIENKO_2012",
+   "grupo": "5HT",
+   "tag": "ML"
+  },
+  {
+   "pmid": "28920103",
+   "id": "REF_BORROTOESCUELA_2017",
+   "grupo": "5HT",
+   "tag": "ML"
+  },
+  {
+   "pmid": "26083190",
+   "id": "REF_FRICK_2015",
+   "grupo": "5HT",
+   "tag": "EC"
+  },
+  {
+   "pmid": "11331552",
+   "id": "REF_BELL_2001",
+   "grupo": "DEPL",
+   "tag": "MA"
+  },
+  {
+   "pmid": "11063917",
+   "id": "REF_MOORE_2000",
+   "grupo": "DEPL",
+   "tag": "OB"
+  },
+  {
+   "pmid": "12431859",
+   "id": "REF_BOOIJ_2002",
+   "grupo": "DEPL",
+   "tag": "MA"
+  },
+  {
+   "pmid": "11922881",
+   "id": "REF_BERMAN_2002",
+   "grupo": "DEPL",
+   "tag": "EC"
+  },
+  {
+   "pmid": "8988796",
+   "id": "REF_SALOMON_1997",
+   "grupo": "DEPL",
+   "tag": "EC"
+  },
+  {
+   "pmid": "15131521",
+   "id": "REF_NEUMEISTER_2003",
+   "grupo": "DEPL",
+   "tag": "OB"
+  },
+  {
+   "pmid": "14647394",
+   "id": "REF_BOOIJ_2003",
+   "grupo": "DEPL",
+   "tag": "OB"
+  },
+  {
+   "pmid": "14731308",
+   "id": "REF_HUGHES_2004",
+   "grupo": "DEPL",
+   "tag": "EC"
+  },
+  {
+   "pmid": "12955284",
+   "id": "REF_MCLEAN_2004",
+   "grupo": "DEPL",
+   "tag": "EC"
+  },
+  {
+   "pmid": "33574223",
+   "id": "REF_SCHOPMAN_2021",
+   "grupo": "DEPL",
+   "tag": "MA"
+  },
+  {
+   "pmid": "37430145",
+   "id": "REF_BILC_2023",
+   "grupo": "DEPL",
+   "tag": "EC"
+  },
+  {
+   "pmid": "3275471",
+   "id": "REF_KAHN_1988",
+   "grupo": "DEPL",
+   "tag": "OB"
+  },
+  {
+   "pmid": "15450786",
+   "id": "REF_ARGYROPOULOS_2004",
+   "grupo": "DEPL",
+   "tag": "EC"
+  },
+  {
+   "pmid": "16566899",
+   "id": "REF_NESTLER_2006",
+   "grupo": "DA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "20603146",
+   "id": "REF_TREADWAY_2011",
+   "grupo": "DA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "26323245",
+   "id": "REF_SALAMONE_2016",
+   "grupo": "DA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "29106542",
+   "id": "REF_BELUJON_2017",
+   "grupo": "DA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "29573379",
+   "id": "REF_SZCZYPINSKI_2018",
+   "grupo": "DA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "29309799",
+   "id": "REF_KNOWLAND_2018",
+   "grupo": "DA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "26525751",
+   "id": "REF_HESHMATI_2015",
+   "grupo": "DA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "18654637",
+   "id": "REF_SHIRAYAMA_2006",
+   "grupo": "DA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "33631251",
+   "id": "REF_WANG_2021",
+   "grupo": "DA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "36889362",
+   "id": "REF_JIANG_2023",
+   "grupo": "DA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "28870407",
+   "id": "REF_PECINA_2017",
+   "grupo": "DA",
+   "tag": "EC"
+  },
+  {
+   "pmid": "37301129",
+   "id": "REF_PHILLIPS_2023",
+   "grupo": "DA",
+   "tag": "EC"
+  },
+  {
+   "pmid": "32363761",
+   "id": "REF_MORIYA_2020",
+   "grupo": "DA",
+   "tag": "EC"
+  },
+  {
+   "pmid": "23711983",
+   "id": "REF_TRIFILIEFF_2013",
+   "grupo": "DA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "12668290",
+   "id": "REF_BERRIDGE_2003",
+   "grupo": "LC",
+   "tag": "OB"
+  },
+  {
+   "pmid": "28367128",
+   "id": "REF_MALETIC_2017",
+   "grupo": "LC",
+   "tag": "OB"
+  },
+  {
+   "pmid": "19960531",
+   "id": "REF_GODDARD_2010",
+   "grupo": "LC",
+   "tag": "OB"
+  },
+  {
+   "pmid": "39427811",
+   "id": "REF_SLAVOVA_2024",
+   "grupo": "LC",
+   "tag": "OB"
+  },
+  {
+   "pmid": "41167443",
+   "id": "REF_MIR_2025",
+   "grupo": "LC",
+   "tag": "MA"
+  },
+  {
+   "pmid": "42332025",
+   "id": "REF_KORUKONDA_2026",
+   "grupo": "LC",
+   "tag": "OB"
+  },
+  {
+   "pmid": "40219735",
+   "id": "REF_REYES_2025",
+   "grupo": "LC",
+   "tag": "OB"
+  },
+  {
+   "pmid": "18255055",
+   "id": "REF_VALENTINO_2008",
+   "grupo": "LC",
+   "tag": "OB"
+  },
+  {
+   "pmid": "20210846",
+   "id": "REF_ITOI_2010",
+   "grupo": "LC",
+   "tag": "OB"
+  },
+  {
+   "pmid": "28596922",
+   "id": "REF_BORODOVITSYNA_2017",
+   "grupo": "LC",
+   "tag": "OB"
+  },
+  {
+   "pmid": "26607253",
+   "id": "REF_BANGASSER_2016",
+   "grupo": "LC",
+   "tag": "OB"
+  },
+  {
+   "pmid": "27616990",
+   "id": "REF_ATZORI_2016",
+   "grupo": "LC",
+   "tag": "OB"
+  },
+  {
+   "pmid": "36289638",
+   "id": "REF_ZHANG_2022",
+   "grupo": "LC",
+   "tag": "OB"
+  },
+  {
+   "pmid": "37139472",
+   "id": "REF_BOURAS_2023",
+   "grupo": "LC",
+   "tag": "OB"
+  },
+  {
+   "pmid": "40442382",
+   "id": "REF_FERNANDES_2025",
+   "grupo": "LC",
+   "tag": "OB"
+  },
+  {
+   "pmid": "41938091",
+   "id": "REF_DOSSANTOS_2026",
+   "grupo": "LC",
+   "tag": "OB"
+  },
+  {
+   "pmid": "26212712",
+   "id": "REF_MCCALL_2015",
+   "grupo": "LC",
+   "tag": "ML"
+  },
+  {
+   "pmid": "28708061",
+   "id": "REF_MCCALL_2017",
+   "grupo": "LC",
+   "tag": "ML"
+  },
+  {
+   "pmid": "29341884",
+   "id": "REF_BORODOVITSYNA_2018",
+   "grupo": "LC",
+   "tag": "ML"
+  },
+  {
+   "pmid": "41066175",
+   "id": "REF_TOYODA_2025",
+   "grupo": "LC",
+   "tag": "ML"
+  },
+  {
+   "pmid": "41000807",
+   "id": "REF_SOARES_2025",
+   "grupo": "LC",
+   "tag": "ML"
+  },
+  {
+   "pmid": "38155473",
+   "id": "REF_ZHANG_2024",
+   "grupo": "LC",
+   "tag": "ML"
+  },
+  {
+   "pmid": "29593511",
+   "id": "REF_GIUSTINO_2018",
+   "grupo": "LC",
+   "tag": "OB"
+  },
+  {
+   "pmid": "31801809",
+   "id": "REF_GIUSTINO_2020",
+   "grupo": "LC",
+   "tag": "ML"
+  },
+  {
+   "pmid": "41225565",
+   "id": "REF_SCROGER_2025",
+   "grupo": "LC",
+   "tag": "ML"
+  },
+  {
+   "pmid": "33911187",
+   "id": "REF_TILLAGE_2021",
+   "grupo": "LC",
+   "tag": "ML"
+  },
+  {
+   "pmid": "27480574",
+   "id": "REF_FELGER_2017",
+   "grupo": "INF",
+   "tag": "OB"
+  },
+  {
+   "pmid": "39694342",
+   "id": "REF_BEKHBAT_2025",
+   "grupo": "INF",
+   "tag": "EC"
+  },
+  {
+   "pmid": "34265868",
+   "id": "REF_HERSEY_2022",
+   "grupo": "INF",
+   "tag": "OB"
+  },
+  {
+   "pmid": "34285088",
+   "id": "REF_LUCIDO_2021",
+   "grupo": "INF",
+   "tag": "OB"
+  },
+  {
+   "pmid": "29033793",
+   "id": "REF_LIU_2017",
+   "grupo": "MOD",
+   "tag": "OB"
+  },
+  {
+   "pmid": "28926161",
+   "id": "REF_BOKU_2018",
+   "grupo": "MOD",
+   "tag": "OB"
+  },
+  {
+   "pmid": "38816586",
+   "id": "REF_PAGE_2024",
+   "grupo": "MOD",
+   "tag": "OB"
+  },
+  {
+   "pmid": "42198336",
+   "id": "REF_CARMELLINI_2026",
+   "grupo": "MOD",
+   "tag": "OB"
+  },
+  {
+   "pmid": "25813654",
+   "id": "REF_DALE_2015",
+   "grupo": "MOD",
+   "tag": "OB"
+  },
+  {
+   "pmid": "7899535",
+   "id": "REF_MAES_1995",
+   "grupo": "B2X",
+   "tag": "EC"
+  }
+ ],
+ "exc_tardia_pos_abstract": [
+  {
+   "pmid": "39696597",
+   "rotulo_insumo": "Evans 2024",
+   "motivo": "modelo 5XFAD de doença de Alzheimer — fora de escopo permanente; corte no abstract"
+  }
+ ],
+ "excluidas_escopo": 13,
+ "baixo_incremento": 57,
+ "falhas_nao_resolvidas": 12,
+ "correcoes_autoria": [
+  {
+   "insumo": "Martinez 2010",
+   "real": "Goddard AW 2010 (PMID 19960531)"
+  },
+  {
+   "insumo": "Ogden 2006",
+   "real": "Parsey RV 2006 (PMID 16154547)"
+  }
+ ],
+ "falsos_positivos": 0,
+ "p6": "PENDENTE (2a verificacao cega, Via 2)"
+}

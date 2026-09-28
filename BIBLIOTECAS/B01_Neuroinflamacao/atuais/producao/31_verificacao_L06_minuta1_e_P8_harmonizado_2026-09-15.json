@@ -1,0 +1,41 @@
+{
+  "trilha": "31_verificacao_L06_minuta1_e_P8_harmonizado_2026-09-15",
+  "data": "2026-09-15",
+  "escopo": "bancada da casa sobre (1) L-06 RESOLUCAO_DE_CONFLITOS minuta 1 (especificacao executavel da D-01) e (2) P-8 com harmonizacao pedida na carta 9 §4",
+  "insumos": {
+    "l06_sha256": "3b6a15a0b311a7b73f8793e1187a353df92201a11d7746e9082d18c4f6c38595",
+    "l06_arquivada_em": "BIBLIOTECAS/_documentos_serie/L06_minuta_mestre_recebida_2026-09-15/",
+    "p8_harmonizado_sha256_copiado": "76e526cf2cb5ba13ce67e9bf4f095af396d8978485ca480c1e381c13f979d0ac",
+    "v2_sha_confere": "09692e18a5a65958...",
+    "b1_v7_sha_hoje": "6e2c29797e6322f1... (intacto)"
+  },
+  "l06_verificacao": {
+    "ancoras_documentais": "V2 09692e18 ✔ · cita L-05 1.1 minuta 2 (D-01/D-02/D-03) ✔ · B1 V7 6e2c2979 ✔",
+    "parte_6_coluna_estado_replicada": {
+      "contexto": "0/274 — CONFERE 'ausente'",
+      "condicao": "0/274 no dado; ancoras[] 0/274 — a minuta diz 'esparso, so dentro de ancoras[]': verdade no SCHEMA v1.1 (exigencia condicional), no ACERVO vigente e AUSENTE — errata fina pedida p/ minuta 2 da L-06",
+      "sentido_relacao": "0/274 — CONFERE 'nao existe como campo'",
+      "nivel_cadeia": "0/274 — CONFERE (depende da ontologia)",
+      "direcao": "0/274 (existe no schema v1.1) — CONFERE a linha dela",
+      "grau_maturidade": "274/274 — CONFERE",
+      "natureza_relacao": "274/274; distribuicao causal:109 contributiva:100 associativa:56 nao_estabelecida:4 compensatoria:4 marcador:1 — EXATA contra a matriz 1.2"
+    },
+    "nota_de_precisao_degrau_5": "a segunda perna do consumo do degrau 5 (marcacao extrapolado) JA EXISTE no acervo: verification_status=extrapolado em 62/274 vinculos. Nada muda nas conclusoes da minuta (degrau 5 segue dependendo de direcao), mas 'executavel hoje' ganha meio degrau: 5 parcialmente executavel onde extrapolado esta marcado",
+    "coerencia_com_minuta2_e_V2": {
+      "escada_7_degraus": "mesma ordem e mesmo conteudo da D-01 normativa ✔",
+      "fronteira_D02": "'diferenca de forca/maturidade/desenho nunca cria par candidato' — e a fronteira que impede precedencia fabricada por via indireta ✔; matriz 1.2 nao toca forca, so natureza/sinal ✔",
+      "parte_3_escada_degradada": "contribuicao nova: degrau indisponivel nao resolve, nao conta como testado, entra no rastro; multifatorial com escada degradada e rebaixado para conflito_nao_resolvido + motivo=escada_degradada — alinha com D-03 (ausencia nao vira afirmacao) e e exatamente a honestidade que a minuta 2 pediu para os degraus 2-3 bloqueados",
+      "determinismo_parte_4": "ordem lexicografica dos pares + simetria + idempotencia + sem-estado — alinha com D-07; 'proibido propagar decisao entre pares' fecha precedencia emergente ✔",
+      "risco_gatilho_estreito": "risco residual declarado e racional; revisar apos piloto com pares reais — casa concorda (gatilho largo treinaria ignorar alarmes)"
+    },
+    "divergencias": "nenhuma; nem com a V2, nem com a minuta 2, nem com o dado",
+    "veredito": "L-06 minuta 1 APROVADA como especificacao executavel da D-01, com 1 errata fina (condicao: ausente no dado, nao esparso) e 1 nota de precisao (degrau 5 ja parcial, via extrapolado) — ambas de registro, sem reabrir semantica"
+  },
+  "p8_harmonizacao": {
+    "metodo_duplo": "(a) copia verbatim do colado; (b) reconstrucao oficial+bloco — as duas vias produziram o MESMO arquivo byte a byte (sha identico 76e526cf...), confirmando que o colado difere do oficial apenas no bloco harmonizado",
+    "diff_vs_oficial": "somente o bloco pedido na carta 9 §4: comentario datado + BRUTOS{desenho_estudo} + parciais/plenos + nova linha OK dupla leitura + aviso 'preenchido porem NAO normatizado'. Nenhuma outra alteracao",
+    "execucao": "2 ERRO / 299 AVISO / exit 1 na B1 V7 — V-15 avisos 272->273 (+1: desenho_estudo preenchido-nao-normatizado); linha OK: 'com dado: 3/5 · normatizados: 2/5 · preenchidos mas nao normatizados: [desenho_estudo] · sem dado: [natureza_evidencia, trilha]' — reconciliacao exata das duas leituras, como pedido",
+    "instalacao": "adotado como oficial (sha 76e526cf...) · backup validar_coerencia_camadas.py.bak_oficial_pre_HARMONIZACAO_2026-09-15 · rerodado via invocacao oficial · evidencia producao/p8_regime_camadas_harmonizado_oficial_2026-09-15.json"
+  },
+  "conclusao": "Ciclo fecha limpo: a harmonizacao pedida pela casa foi implementada com precisao cirurgica e a L-06 nasce com a clausula de escada degradada que a D-03 exige. Sem ciencia tocada; sem pendencias novas deste eixo. Aguardando o kit clinico do operador (casa arquiva/mede e devolve guia+shas; o mestre recebe os MESMOS arquivos pela ponte)."
+}

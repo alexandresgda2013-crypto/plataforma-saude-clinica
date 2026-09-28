@@ -1,0 +1,14 @@
+{
+ "data": "2026-09-11",
+ "condicao": "R4 (AUD-035) — Lista Canônica v1.2",
+ "transicoes": 78,
+ "itens_total": 83,
+ "em_uso": 78,
+ "fora_da_lista": [
+  "B1.MEC.BLOCO03.017",
+  "B1.MEC.BLOCO10.004"
+ ],
+ "dividas": [
+  "D-B1-R4-2CLAIMS: B1.MEC.BLOCO03.017 e B1.MEC.BLOCO10.004 em uso sem item na Lista — criar itens ou justificar (decisão humana)"
+ ]
+}

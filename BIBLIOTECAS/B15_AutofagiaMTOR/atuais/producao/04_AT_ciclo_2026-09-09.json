@@ -1,0 +1,43 @@
+{
+ "mecanismo": "B15",
+ "rodada": "[AT] 2026-09-09",
+ "insumos": [
+  "uploads/GPM_B15_Autofagia_mTOR (1).md",
+  "uploads/BRIEFING_B15_AUTOFAGIA_MTOR_RODADA0 (1).md",
+  "uploads/BRIEFING_B15_AUTOFAGIA_MTOR_RODADA0.md",
+  "uploads/BRIENFING CONSOLIDADO _B15_v1.md",
+  "uploads/Resumo do insumo para B15 chatgpt.md",
+  "uploads/Artigos cientificos do mecanismo B15 autofagia mtor.md"
+ ],
+ "triagem": {
+  "universo_novos": 145,
+  "ENTRA": 39,
+  "BAIXO": 93,
+  "EXC": 13,
+  "nao_idx_aparte": 2,
+  "sec6_ja_vigentes": 11,
+  "matriz": "producao/insumos/matriz_b15_decisao.json"
+ },
+ "entra_por_grupo": {
+  "ancoras_GPM_49": 31,
+  "sec6_nucleo": 8
+ },
+ "exposicoes": 11,
+ "totais_v2": {
+  "refs": 173,
+  "vinculos": 173,
+  "auditorias": 173,
+  "palavras": 9974
+ },
+ "arquivos_gerados": [
+  "b15_gen_refs.py",
+  "b15_refs_data.json",
+  "b15_efetch_sel.json",
+  "B15_md_apply.py",
+  "b15_ancoras.json",
+  "B15_json_apply.py",
+  "producao/historico/v1_canonica_2026-09-09.md",
+  "B15 AUTOFAGIA MTOR V2 CANONICA.md"
+ ],
+ "data_fecho": "2026-09-10 (America/Sao_Paulo)"
+}

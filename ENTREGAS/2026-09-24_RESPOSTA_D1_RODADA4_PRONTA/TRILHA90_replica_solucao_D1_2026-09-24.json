@@ -1,0 +1,130 @@
+{
+  "trilha": 90,
+  "data": "2026-09-24",
+  "objeto": "replica_solucao_D1_comentador",
+  "carta_sha256": "b83bcc9457846fe2010976f3ba202e53446a38c2eea002d1cf19ce57c03b57dc",
+  "total": 11,
+  "ok": 11,
+  "resultado": [
+    {
+      "id": "T1",
+      "descricao": "carta D1 arquivada",
+      "ok": true,
+      "detalhe": {
+        "sha256": "b83bcc9457846fe2010976f3ba202e53446a38c2eea002d1cf19ce57c03b57dc",
+        "bytes": 15072
+      }
+    },
+    {
+      "id": "T2",
+      "descricao": "N2: status_auditoria + direcao_suporte + condicao com enums citados",
+      "ok": true,
+      "detalhe": {
+        "status_enum": [
+          "CONFIRMADO",
+          "PARCIALMENTE_CONFIRMADO",
+          "NAO_LOCALIZADO",
+          "CITACAO_INCORRETA",
+          "NAO_SUSTENTA_CLAIM"
+        ],
+        "direcao_enum": [
+          "sustenta",
+          "refuta",
+          "inconclusivo",
+          "condicional"
+        ]
+      }
+    },
+    {
+      "id": "T3",
+      "descricao": "N2 if/then liga condicional ↔ condicao (mínimo textual no allOf das âncoras)",
+      "ok": true,
+      "detalhe": {
+        "allOf_anchors_count": 2,
+        "contem_condicional_condicao": true
+      }
+    },
+    {
+      "id": "T4",
+      "descricao": "enum direcao_suporte exatamente os 4 valores",
+      "ok": true,
+      "detalhe": {
+        "enum": [
+          "sustenta",
+          "refuta",
+          "inconclusivo",
+          "condicional"
+        ]
+      }
+    },
+    {
+      "id": "T5",
+      "descricao": "B1.SM02.001: status e nota_ressalva verbatim do §12",
+      "ok": true,
+      "detalhe": {
+        "status": "aprovado_com_ressalva",
+        "nota": "Efeito por sexo diverge entre estudos — ver .001b"
+      }
+    },
+    {
+      "id": "T6",
+      "descricao": "Schema-Claim v1.2 SEM lista estruturada de ressalvas (lacuna proposta no §6)",
+      "ok": true,
+      "detalhe": {
+        "ressalvas_linha": false,
+        "tipo_ressalva": false,
+        "nota_ressalva": true
+      }
+    },
+    {
+      "id": "T7",
+      "descricao": "kit tem ressalvas não-condicionais (heterogeneidade/divergência)",
+      "ok": true,
+      "detalhe": {
+        "total": 7,
+        "heterogene_ou_diverg": 5,
+        "amostra": [
+          "Efeito por sexo diverge entre estudos — ver .001b",
+          "Heterogeneidade extensa entre estudos; efeito cumulativo permanece incerto",
+          "Heterogeneidade alta (I²=75% na metanálise de TAG); efeito pequeno; restrito a PCR. Painel de pânico é revisão qualitativa, sem tamanho de efeito agrupado. Evidência pediátrica é limitada/inconclusiva, não confirma o mesmo padrão — ver .005b. TOC excluído do escopo (DSM-5 não classifica como transtorno de ansiedade)."
+        ]
+      }
+    },
+    {
+      "id": "T8",
+      "descricao": "L-06: inferência silenciosa 1×",
+      "ok": true,
+      "detalhe": {
+        "ocorrencias": 1
+      }
+    },
+    {
+      "id": "T9",
+      "descricao": "minuta r77 da casa continha a cadeia status→condicional (objeto da abolição)",
+      "ok": true,
+      "detalhe": {
+        "cadeia_presente": true
+      }
+    },
+    {
+      "id": "T10",
+      "descricao": "base r78: D1 documentada (mapeamento único × roteio)",
+      "ok": true,
+      "detalhe": {
+        "mapeamento_unico": true,
+        "D1": true
+      }
+    },
+    {
+      "id": "T11",
+      "descricao": "eixos em camadas distintas do N2 (status no vínculo; direção na âncora)",
+      "ok": true,
+      "detalhe": {
+        "status_no_vinculo": true,
+        "direcao_na_ancora": true,
+        "status_na_ancora": false,
+        "nota": "colapso era regra de derivação Claim→N2, não colisão de propriedades no schema"
+      }
+    }
+  ]
+}

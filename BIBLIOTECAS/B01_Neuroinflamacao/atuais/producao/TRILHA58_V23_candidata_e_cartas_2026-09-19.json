@@ -1,0 +1,257 @@
+{
+  "trilha": 58,
+  "rodada": 41,
+  "data": "2026-09-19",
+  "tema": "V2.3 CANDIDATA (renumerada no cabeçalho, Histórico na Rev) + 3 cartas + regra permanente de downloads",
+  "sha_v23_candidata": "498e7df9d8abe8be4f3145bb7a9bd34215bc87a4502148e9d203391c9ce6ef73",
+  "bytes_v23": 52740,
+  "total": 12,
+  "verdes": 12,
+  "checks": [
+    {
+      "id": "B1",
+      "titulo": "base oficial intacta",
+      "camada": "bytes",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md",
+      "comando": "sha256sum",
+      "medido": [
+        "df7f7cfdfc01cf77d658885f30dfefe29dcf380229ea56e6b3af02920df22ae1",
+        52181
+      ],
+      "esperado": [
+        "df7f7cfdfc01cf77d658885f30dfefe29dcf380229ea56e6b3af02920df22ae1",
+        52181
+      ],
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "B2",
+      "titulo": "'V2.2': 3× (L1 identidade · L4 Rev · L167 proveniência) · '17.09.26': só L1",
+      "camada": "documental{NFC,CS}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md",
+      "comando": "linhas com V2.2 / 17.09.26",
+      "medido": [
+        [
+          1,
+          4,
+          167
+        ],
+        [
+          1
+        ]
+      ],
+      "esperado": [
+        [
+          1,
+          4,
+          167
+        ],
+        [
+          1
+        ]
+      ],
+      "ok": true,
+      "detalhe": "CRITÉRIO declarado: L1/L4 = identidade da vigente (MUDAM) · L167 = proveniência histórica correta (FICA)"
+    },
+    {
+      "id": "C1",
+      "titulo": "construção: CRLF 1411/1411 · 0 LF solto",
+      "camada": "bytes",
+      "escopo": "candidata",
+      "comando": "count",
+      "medido": [
+        1411,
+        0
+      ],
+      "esperado": [
+        1411,
+        0
+      ],
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "C2",
+      "titulo": "diff = exatas 4 linhas substituídas (1·4·269·306), 0 ins/rem",
+      "camada": "documental{NFC}",
+      "escopo": "base×V2.3",
+      "comando": "difflib",
+      "medido": {
+        "n_linhas": [
+          1412,
+          1412
+        ],
+        "menos": 4,
+        "mais": 4,
+        "linhas": [
+          1,
+          4,
+          269,
+          306
+        ]
+      },
+      "esperado": {
+        "n_linhas": [
+          1412,
+          1412
+        ],
+        "menos": 4,
+        "mais": 4,
+        "linhas": [
+          1,
+          4,
+          269,
+          306
+        ]
+      },
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "C3",
+      "titulo": "L167 (proveniência 'Rev. V2.2') INALTERADA · Rev V2.2 preservada INTEIRA na linha histórico",
+      "camada": "documental{NFC}",
+      "escopo": "V2.3",
+      "comando": "L167 igual ∧ Rev_velha ⊆ L4_nova",
+      "medido": [
+        true,
+        true
+      ],
+      "esperado": [
+        true,
+        true
+      ],
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "C3b",
+      "titulo": "cláusula da Rev preserva as citações históricas 'v1.1 → v1.3' e 'v1.1 → v1.4'",
+      "camada": "documental{NFC}",
+      "escopo": "V2.3",
+      "comando": "agulhas literais na linha 4",
+      "medido": [
+        true,
+        true
+      ],
+      "esperado": [
+        true,
+        true
+      ],
+      "ok": true,
+      "detalhe": "guarda contra regressão da C58-1 (replace global comendo a citação histórica)"
+    },
+    {
+      "id": "C4",
+      "titulo": "H1 = V2.3 19.09.26 · 'V2.2' restantes = só histórico (L4-histórico + L167) · 30 seções únicas",
+      "camada": "documental{NFC}",
+      "escopo": "V2.3",
+      "comando": "checks",
+      "medido": [
+        true,
+        [
+          4,
+          167
+        ],
+        30
+      ],
+      "esperado": [
+        true,
+        [
+          4,
+          167
+        ],
+        30
+      ],
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "C5",
+      "titulo": "por-linha: 269→v1.3 (sem v1.1) · 306→v1.4 (sem v1.1) · 'v1.1' só na cláusula histórico da Rev(L4)",
+      "camada": "documental{NFC,CS}",
+      "escopo": "V2.3",
+      "comando": "por linha",
+      "medido": {
+        "l269": [
+          true,
+          true
+        ],
+        "l306": [
+          true,
+          true
+        ],
+        "linhas_v1.1": [
+          4
+        ]
+      },
+      "esperado": {
+        "l269": [
+          true,
+          true
+        ],
+        "l306": [
+          true,
+          true
+        ],
+        "linhas_v1.1": [
+          4
+        ]
+      },
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "G1",
+      "titulo": "candidata V2.3 gravada · ponteiro NÃO movido",
+      "camada": "bytes",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/CARTAS_V23_2026-09-19/CANDIDATA_ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.3 - 19.09.26.md",
+      "comando": "sha; ponteiro",
+      "medido": [
+        true,
+        true
+      ],
+      "esperado": [
+        true,
+        true
+      ],
+      "ok": true,
+      "detalhe": "sha V2.3=498e7df9d8abe8be4f3145bb7a9bd34215bc87a4502148e9d203391c9ce6ef73 · 52740 b · vigente oficial permanece V2.2 df7f7cfd… até aprovação do operador"
+    },
+    {
+      "id": "C6",
+      "titulo": "3 cartas geradas, cada uma cita sha vigente + sha candidata + instrução de verificação",
+      "camada": "documental",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/CARTAS_V23_2026-09-19",
+      "comando": "grep shas nas 3",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "mestre · auditor-estrutura · comentador — direcionadas, com especificidades por frente"
+    },
+    {
+      "id": "G2",
+      "titulo": "pacote ENTREGAS + zip re-extraído confere (candidata byte-idêntica)",
+      "camada": "bytes",
+      "escopo": "/home/user/ENTREGAS/2026-09-19_V2.3_CANDIDATA_E_CARTAS/V2.3_CANDIDATA_E_CARTAS_2026-09-19.zip",
+      "comando": "unzip→sha",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "zip 18292 b · 6 arquivos"
+    },
+    {
+      "id": "CI0",
+      "titulo": "0 ciência intacta",
+      "camada": "bytes",
+      "escopo": "acervo B1",
+      "comando": "sha início==fim",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": ""
+    }
+  ],
+  "veredito_casa": "V2.3 CANDIDATA medida: 4 linhas substituídas (H1·Rev·§5.1·§5.2), resto byte-idêntico, histórico da Rev V2.2 preservado integralmente, L167-proveniência mantida. Vigente oficial continua V2.2 df7f7cfd… até 'aprovado' do operador. Candidata e1 da rodada 40 = SUPERSEDED antes de nascer (decisão de rótulo). Cartas aos 3 frentes geradas com digitais."
+}

@@ -1,0 +1,1130 @@
+{
+ "examinados": 257,
+ "ja_literais": 103,
+ "reparaveis": [
+  {
+   "id_vinculo": "VINC_B1_0002",
+   "metodo": "prefixo_200",
+   "categoria": "SELO",
+   "antes": "Essa ativação aguda é programada para resolver ativamente: mediadores lipídicos pró-resolutivos especializados (SPMs — resolvinas D/E, protectinas, maresinas, lipoxina A4), derivados do metabolismo de ômega-3/6, sinalizam a parada do recrutamento neutrofílico, o clearence de células apoptóticas por macrófagos e o retorno da micróglia ao estado ramificado homeostático (Serhan, 2014)[OB; revisão fisiológica, humano+animal; Serhan & Levy, 2018][OB].",
+   "depois": "Essa ativação aguda é programada para resolver ativamente: mediadores lipídicos pró-resolutivos especializados (SPMs — resolvinas D/E, protectinas, maresinas, lipoxina A4), derivados do metabolismo de ômega-3/6, sinalizam a parada do recrutamento neutrofílico, o clearence de células apoptóticas por macrófagos e o retorno da micróglia ao estado ramificado homeostático (Serhan, 2014)[OB; revisão fisiológica, humano+animal; Serhan & Levy, 2018][VERIFICADO][OB].",
+   "prefixo_comum": 450
+  },
+  {
+   "id_vinculo": "VINC_B1_0003",
+   "metodo": "prefixo_200",
+   "categoria": "SELO",
+   "antes": "Essa ativação aguda é programada para resolver ativamente: mediadores lipídicos pró-resolutivos especializados (SPMs — resolvinas D/E, protectinas, maresinas, lipoxina A4), derivados do metabolismo de ômega-3/6, sinalizam a parada do recrutamento neutrofílico, o clearence de células apoptóticas por macrófagos e o retorno da micróglia ao estado ramificado homeostático (Serhan, 2014)[OB; revisão fisiológica, humano+animal; Serhan & Levy, 2018][OB].",
+   "depois": "Essa ativação aguda é programada para resolver ativamente: mediadores lipídicos pró-resolutivos especializados (SPMs — resolvinas D/E, protectinas, maresinas, lipoxina A4), derivados do metabolismo de ômega-3/6, sinalizam a parada do recrutamento neutrofílico, o clearence de células apoptóticas por macrófagos e o retorno da micróglia ao estado ramificado homeostático (Serhan, 2014)[OB; revisão fisiológica, humano+animal; Serhan & Levy, 2018][VERIFICADO][OB].",
+   "prefixo_comum": 450
+  },
+  {
+   "id_vinculo": "VINC_B1_0008",
+   "metodo": "janela",
+   "categoria": "SELO",
+   "antes": "O melhor modelo de neuroinflamação aguda fisiológica é o sickness behavior (comportamento de adoecimento): após administração de LPS ou indução por citocinas, o organismo exibe um conjunto coordenado e estereotipado — retraimento social, anedonia transitória, fadiga/hipersonia, redução de exploração e apetite, hiperalgesia leve — que redireciona energia para combate ao patógeno e reparo (Dantzer et al., 2001)[EC; revisão mecanística, camundongo+humano].",
+   "depois": "O melhor modelo de neuroinflamação aguda fisiológica é o sickness behavior (comportamento de adoecimento): após administração de LPS ou indução por citocinas, o organismo exibe um conjunto coordenado e estereotipado — retraimento social, anedonia transitória, fadiga/hipersonia, redução de exploração e apetite, hiperalgesia leve — que redireciona energia para combate ao patógeno e reparo (Dantzer et al., 2001)[EC; revisão mecanística, camundongo+humano][VERIFICADO].",
+   "prefixo_comum": 457
+  },
+  {
+   "id_vinculo": "VINC_B1_0011",
+   "metodo": "janela",
+   "categoria": "SELO",
+   "antes": "No animal, o LPS induz comportamento tipo-depressivo transitório que depende de IDO1 (O'Connor et al., 2009)[ML; camundongo]; quando o estímulo inflamatório persiste ou se repete (estresse crônico, envelhecimento, infecção latente), a resposta não retorna à linha de base — é a ponte para o item 1.3.",
+   "depois": "No animal, o LPS induz comportamento tipo-depressivo transitório que depende de IDO1 (O'Connor et al., 2009)[ML; camundongo][PRÉ-CLÍNICO]; quando o estímulo inflamatório persiste ou se repete (estresse crônico, envelhecimento, infecção latente), a resposta não retorna à linha de base — é a ponte para o item 1.3.",
+   "prefixo_comum": 300
+  },
+  {
+   "id_vinculo": "VINC_B1_0013",
+   "metodo": "prefixo_200",
+   "categoria": "SELO",
+   "antes": "Experimentalmente, o priming tem janela temporal longa: inflamação neonatal induz priming microglial no hipocampo ventral via regulação epigenética, persistindo até a vida adulta e aumentando a vulnerabilidade comportamental (Yang et al., 2026)[ML; camundongo]; lesão cerebral leve repetida (\"mTBI\") cria vulnerabilidade a insultos subsequentes por priming (Qiu et al., 2026)[ML; camundongo].",
+   "depois": "Experimentalmente, o priming tem janela temporal longa: inflamação neonatal induz priming microglial no hipocampo ventral via regulação epigenética, persistindo até a vida adulta e aumentando a vulnerabilidade comportamental (Yang et al., 2026)[ML; camundongo]; lesão cerebral leve repetida (\"mTBI\") cria vulnerabilidade a insultos subsequentes por priming (Qiu et al., 2026)[ML; camundongo][PRÉ-CLÍNICO].",
+   "prefixo_comum": 392
+  },
+  {
+   "id_vinculo": "VINC_B1_0014",
+   "metodo": "prefixo_200",
+   "categoria": "SELO",
+   "antes": "Experimentalmente, o priming tem janela temporal longa: inflamação neonatal induz priming microglial no hipocampo ventral via regulação epigenética, persistindo até a vida adulta e aumentando a vulnerabilidade comportamental (Yang et al., 2026)[ML; camundongo]; lesão cerebral leve repetida (\"mTBI\") cria vulnerabilidade a insultos subsequentes por priming (Qiu et al., 2026)[ML; camundongo].",
+   "depois": "Experimentalmente, o priming tem janela temporal longa: inflamação neonatal induz priming microglial no hipocampo ventral via regulação epigenética, persistindo até a vida adulta e aumentando a vulnerabilidade comportamental (Yang et al., 2026)[ML; camundongo]; lesão cerebral leve repetida (\"mTBI\") cria vulnerabilidade a insultos subsequentes por priming (Qiu et al., 2026)[ML; camundongo][PRÉ-CLÍNICO].",
+   "prefixo_comum": 392
+  },
+  {
+   "id_vinculo": "VINC_B1_0017",
+   "metodo": "prefixo_200",
+   "categoria": "SELO",
+   "antes": "A dependência de dois sinais é explorada fisiologicamente como tolerância: em macrófagos, o itaconato induzido por TLR regula o sinal 2 após priming prolongado por LPS, estabelecendo tolerância à ativação tardia do NLRP3 em sinergia com iNOS — demonstração manipulável de que priming e ativação são etapas dissociáveis (Bambouskova et al., 2021)[ML; camundongo].",
+   "depois": "A dependência de dois sinais é explorada fisiologicamente como tolerância: em macrófagos, o itaconato induzido por TLR regula o sinal 2 após priming prolongado por LPS, estabelecendo tolerância à ativação tardia do NLRP3 em sinergia com iNOS — demonstração manipulável de que priming e ativação são etapas dissociáveis (Bambouskova et al., 2021)[ML; camundongo][PRÉ-CLÍNICO].",
+   "prefixo_comum": 362
+  },
+  {
+   "id_vinculo": "VINC_B1_0019",
+   "metodo": "janela",
+   "categoria": "ROTULO",
+   "antes": "### 2.2 — Outros inflamassomas no SNC: NLRP1, AIM2, NLRC4 (BLOCO02.002) Os inflamassomas são complexos supramoleculares citosólicos que respondem a PAMPs/DAMPs e desencadeiam liberação de citocinas e piroptose; a família inclui NLRP3, NLRP1, AIM2 (sensor de DNA) e NLRC4, com estruturas e ligantes distintos (Mechanistic insights from inflammasome structures, 2024)[OB; revisão, humano+animal].",
+   "depois": "### 2.2 — Outros inflamassomas no SNC: NLRP1, AIM2, NLRC4 (BLOCO02.002) Os inflamassomas são complexos supramoleculares citosólicos que respondem a PAMPs/DAMPs e desencadeiam liberação de citocinas e piroptose; a família inclui NLRP3, NLRP1, AIM2 (sensor de DNA) e NLRC4, com estruturas e ligantes distintos (Fu et al., 2024)[OB; revisão, humano+animal][VERIFICADO].",
+   "prefixo_comum": 309
+  },
+  {
+   "id_vinculo": "VINC_B1_0020",
+   "metodo": "prefixo_200",
+   "categoria": "ROTULO",
+   "antes": "No parênquima cerebral, há evidência direta de via análoga para NLRP1 em neurônios: após hemorragia intracerebral experimental, a ativação de CCR5 promove piroptose neuronal dependente de NLRP1 via CCR5/PKA/CREB, e o antagonismo de CCR5 (maraviroc) reduz o dano (CCR5/NLRP1 neuronal pyroptosis, 2021)[ML; camundongo][EXT].",
+   "depois": "No parênquima cerebral, há evidência direta de via análoga para NLRP1 em neurônios: após hemorragia intracerebral experimental, a ativação de CCR5 promove piroptose neuronal dependente de NLRP1 via CCR5/PKA/CREB, e o antagonismo de CCR5 (maraviroc) reduz o dano (Yan et al., 2021)[ML; camundongo][EXTRAPOLADO: animal/célula→humano][EXT].",
+   "prefixo_comum": 263
+  },
+  {
+   "id_vinculo": "VINC_B1_0023",
+   "metodo": "prefixo_80",
+   "categoria": "ROTULO",
+   "antes": "Em microglia, GSDMD medeia piroptose na encefalopatia séptica via eixo TRIM45/Atg5/NLRP3 (TRIM45 microglia pyroptosis, 2023)[ML; camundongo][EXT].",
+   "depois": "Em microglia, GSDMD medeia piroptose na encefalopatia séptica via eixo TRIM45/Atg5/NLRP3 (Huang et al., 2023)[ML; camundongo][EXTRAPOLADO: animal/célula→humano][EXT].",
+   "prefixo_comum": 90
+  },
+  {
+   "id_vinculo": "VINC_B1_0024",
+   "metodo": "prefixo_200",
+   "categoria": "ROTULO",
+   "antes": "A via completa — LPS → TLR4/MyD88 → IRAK/TRAF6 → IKK → degradação de IκBα → NF-κB nuclear → transcrição de IL1B/IL6/TNF — é demonstrada por manipulação: o desafio com LPS induz sickness, déficit cognitivo e ativação microglial (Iba-1+) em camundongos, com elevação de citocinas pró-inflamatórias, bloqueável por interferência na via (LPS-induced cognitive impairment in mice, 2019)[ML; camundongo].",
+   "depois": "A via completa — LPS → TLR4/MyD88 → IRAK/TRAF6 → IKK → degradação de IκBα → NF-κB nuclear → transcrição de IL1B/IL6/TNF — é demonstrada por manipulação: o desafio com LPS induz sickness, déficit cognitivo e ativação microglial (Iba-1+) em camundongos, com elevação de citocinas pró-inflamatórias, bloqueável por interferência na via (Zhao et al., 2019)[ML; camundongo][PRÉ-CLÍNICO].",
+   "prefixo_comum": 334
+  },
+  {
+   "id_vinculo": "VINC_B1_0026",
+   "metodo": "prefixo_200",
+   "categoria": "ROTULO",
+   "antes": "TLR3 neuronal é relevante para função cognitiva: em camundongos com dor neuropática crônica, RNAs extracelulares sinalizam via TLR3 no hipocampo e contribuem para o declínio cognitivo; o knockout de TLR3 e o knockdown neuronal específico melhoram a cognição, reduzem citocinas e apoptose neuronal versus selvagens (Extracellular RNAs–TLR3 cognitive impairment, 2023)[ML; camundongo][EXT].",
+   "depois": "TLR3 neuronal é relevante para função cognitiva: em camundongos com dor neuropática crônica, RNAs extracelulares sinalizam via TLR3 no hipocampo e contribuem para o declínio cognitivo; o knockout de TLR3 e o knockdown neuronal específico melhoram a cognição, reduzem citocinas e apoptose neuronal versus selvagens (Zhang et al., 2023)[ML; camundongo][EXTRAPOLADO: animal/célula→humano][EXT].",
+   "prefixo_comum": 315
+  },
+  {
+   "id_vinculo": "VINC_B1_0027",
+   "metodo": "prefixo_80",
+   "categoria": "ROTULO",
+   "antes": "TLR2 media resposta imune a bactéria em nociceptores de forma distinta da via glial (Bacteria activate sensory neurons, 2013)[ML; camundongo].",
+   "depois": "TLR2 media resposta imune a bactéria em nociceptores de forma distinta da via glial (Chiu et al., 2013)[ML; camundongo][EXTRAPOLADO: animal/célula→humano].",
+   "prefixo_comum": 85
+  },
+  {
+   "id_vinculo": "VINC_B1_0028",
+   "metodo": "prefixo_200",
+   "categoria": "ROTULO",
+   "antes": "O que existe é periférico: TBK1 — que integra a sinalização de RLRs e cGAS-STING para IFN tipo I e NF-κB — quando perdido em humanos por mutações homozigotas causa autoinflamação crônica sistêmica dirigida por morte celular induzida por TNF, sem infecções virais graves (Human TBK1 deficiency autoinflammation, 2021)[EC; humano].",
+   "depois": "O que existe é periférico: TBK1 — que integra a sinalização de RLRs e cGAS-STING para IFN tipo I e NF-κB — quando perdido em humanos por mutações homozigotas causa autoinflamação crônica sistêmica dirigida por morte celular induzida por TNF, sem infecções virais graves (Taft et al., 2021)[EC; humano][VERIFICADO].",
+   "prefixo_comum": 271
+  },
+  {
+   "id_vinculo": "VINC_B1_0032",
+   "metodo": "prefixo_100",
+   "categoria": "ROTULO",
+   "antes": "A disfunção mitocondrial e o \"inflamm-aging\" são alimentados por vazamento de mtDNA e sinalização imune (Fueling Inflamm-Aging through Mitochondrial Dysfunction, 2017)[OB; revisão, humano].",
+   "depois": "A disfunção mitocondrial e o \"inflamm-aging\" são alimentados por vazamento de mtDNA e sinalização imune (Picca et al., 2017)[OB; revisão, humano][EXTRAPOLADO: animal/célula→humano].",
+   "prefixo_comum": 105
+  },
+  {
+   "id_vinculo": "VINC_B1_0035",
+   "metodo": "prefixo_100",
+   "categoria": "ROTULO",
+   "antes": "Em modelo de Alzheimer, a necroptose neuronal dependente de TNF-α é regulada pela coordenação RIPK1 (TNF-α neuronal necroptosis RIPK1, 2021)[ML; camundongo+humano][EXT].",
+   "depois": "Em modelo de Alzheimer, a necroptose neuronal dependente de TNF-α é regulada pela coordenação RIPK1 (Xu et al., 2021)[ML; camundongo+humano][EXTRAPOLADO: animal/célula→humano][EXT].",
+   "prefixo_comum": 101
+  },
+  {
+   "id_vinculo": "VINC_B1_0036",
+   "metodo": "prefixo_100",
+   "categoria": "ROTULO",
+   "antes": "Ao contrário, TNFR2 em microglia molda propriedades remielinizantes e protetoras após dano, de forma sexo-dependente (TNFR2 microglia remyelination, 2025)[ML; camundongo+humano][EXT].",
+   "depois": "Ao contrário, TNFR2 em microglia molda propriedades remielinizantes e protetoras após dano, de forma sexo-dependente (Raffaele et al., 2025)[ML; camundongo+humano][EXTRAPOLADO: animal/célula→humano][EXT].",
+   "prefixo_comum": 118
+  },
+  {
+   "id_vinculo": "VINC_B1_0037",
+   "metodo": "prefixo_100",
+   "categoria": "ROTULO",
+   "antes": "Em modelo de depressão induzida, a inibição de microglia/neuroinflamação por arctigenina envolve a redução de TNF (Arctigenin anti-depression microglia, 2020)[ML; camundongo].",
+   "depois": "Em modelo de depressão induzida, a inibição de microglia/neuroinflamação por arctigenina envolve a redução de TNF (Xu et al., 2020)[ML; camundongo][PRÉ-CLÍNICO].",
+   "prefixo_comum": 115
+  },
+  {
+   "id_vinculo": "VINC_B1_0038",
+   "metodo": "prefixo_200",
+   "categoria": "SELO",
+   "antes": "O achado mais diretamente ancorado nesta trilha: polimorfismos funcionais em IL-6 (rs1800795/-174G>C) e no transportador de serotonina (5-HTTLPR) modificam a depressão induzida por interferon-α em hepatite C — variantes que elevam sinalização IL-6 associam-se a maior risco de depressão sob terapia com citocina (Bull et al., 2009)[EC; humano].",
+   "depois": "O achado mais diretamente ancorado nesta trilha: polimorfismos funcionais em IL-6 (rs1800795/-174G>C) e no transportador de serotonina (5-HTTLPR) modificam a depressão induzida por interferon-α em hepatite C — variantes que elevam sinalização IL-6 associam-se a maior risco de depressão sob terapia com citocina (Bull et al., 2009)[EC; humano][VERIFICADO].",
+   "prefixo_comum": 344
+  },
+  {
+   "id_vinculo": "VINC_B1_0039",
+   "metodo": "prefixo_200",
+   "categoria": "SELO",
+   "antes": "Mediadores lipídios especializados — resolvinas (série E de EPA e D de DHA), protectinas/PD1/NPD1, maresinas (MaR), lipoxina A4 (do araquidônico) — produzidos por lipoxigenases, param o recrutamento neutrofílico, promovem eferocitose e retornam tecidos à homeostase (Serhan, 2014)[OB; revisão, humano+animal]; a superfamília das resolvinas é detalhada quanto a receptores e ações (Serhan & Levy, 2018)[OB; revisão].",
+   "depois": "Mediadores lipídios especializados — resolvinas (série E de EPA e D de DHA), protectinas/PD1/NPD1, maresinas (MaR), lipoxina A4 (do araquidônico) — produzidos por lipoxigenases, param o recrutamento neutrofílico, promovem eferocitose e retornam tecidos à homeostase (Serhan, 2014)[OB; revisão, humano+animal]; a superfamília das resolvinas é detalhada quanto a receptores e ações (Serhan & Levy, 2018)[OB; revisão][VERIFICADO].",
+   "prefixo_comum": 415
+  },
+  {
+   "id_vinculo": "VINC_B1_0041",
+   "metodo": "prefixo_60",
+   "categoria": "ROTULO",
+   "antes": "O GPR37 em macrófagos regula fagocitose e resolução da dor inflamatória (GPR37 macrophage phagocytosis resolution, 2018)[ML; camundongo+humano][EXT].",
+   "depois": "O GPR37 em macrófagos regula fagocitose e resolução da dor inflamatória (Bang et al., 2018)[ML; camundongo+humano][EXTRAPOLADO: animal/célula→humano][EXT].",
+   "prefixo_comum": 73
+  },
+  {
+   "id_vinculo": "VINC_B1_0042",
+   "metodo": "prefixo_120",
+   "categoria": "ROTULO",
+   "antes": "Em microglia senescente no envelhecimento/Alzheimer, a lactilação de histona H3K18 potencializa o SASP e o declínio cerebral (H3K18 lactylation of senescent microglia, 2023)[ML; camundongo+humano][EXT].",
+   "depois": "Em microglia senescente no envelhecimento/Alzheimer, a lactilação de histona H3K18 potencializa o SASP e o declínio cerebral (Wei et al., 2023)[ML; camundongo+humano][EXTRAPOLADO: animal/célula→humano][EXT].",
+   "prefixo_comum": 126
+  },
+  {
+   "id_vinculo": "VINC_B1_0043",
+   "metodo": "prefixo_100",
+   "categoria": "ROTULO",
+   "antes": "O envelhecimento celular e a senescência estão consolidados como mecanismo de neuroinflamação crônica (Aging, Cellular Senescence and Alzheimer's, 2022)[OB; revisão].",
+   "depois": "O envelhecimento celular e a senescência estão consolidados como mecanismo de neuroinflamação crônica (Liu et al., 2022)[OB; revisão][EXTRAPOLADO: animal/célula→humano].",
+   "prefixo_comum": 103
+  },
+  {
+   "id_vinculo": "VINC_B1_0054",
+   "metodo": "prefixo_200",
+   "categoria": "SELO",
+   "antes": "O achado humano seminal: um polimorfismo funcional em FKBP5 (regulador do receptor de glicocorticoide) altera a interação da cromatina entre o sítio de início de transcrição e enhancers de longo alcance, e produz desmetilação alelo-específica dependente de trauma de infância em elementos de resposta a glicocorticoide, aumentando o risco de transtorno psiquiátrico relacionado ao estresse no adulto (Klengel et al., 2013)[EC; humano].",
+   "depois": "O achado humano seminal: um polimorfismo funcional em FKBP5 (regulador do receptor de glicocorticoide) altera a interação da cromatina entre o sítio de início de transcrição e enhancers de longo alcance, e produz desmetilação alelo-específica dependente de trauma de infância em elementos de resposta a glicocorticoide, aumentando o risco de transtorno psiquiátrico relacionado ao estresse no adulto (Klengel et al., 2013)[EC; humano][VERIFICADO].",
+   "prefixo_comum": 435
+  },
+  {
+   "id_vinculo": "VINC_B1_0055",
+   "metodo": "prefixo_150",
+   "categoria": "ROTULO",
+   "antes": "A revisão sistemática do estresse/epigenética/depressão consolida NR3C1 (metilação do promotor do GR), FKBP5, BDNF e outros genes correlacionados com depressão (Stress, epigenetics and depression: systematic review, 2019)[OB; revisão sistemática, humano].",
+   "depois": "A revisão sistemática do estresse/epigenética/depressão consolida NR3C1 (metilação do promotor do GR), FKBP5, BDNF e outros genes correlacionados com depressão (Park et al., 2019)[OB; revisão sistemática, humano][VERIFICADO].",
+   "prefixo_comum": 161
+  },
+  {
+   "id_vinculo": "VINC_B1_0058",
+   "metodo": "prefixo_120",
+   "categoria": "ROTULO",
+   "antes": "Em microglia senescente no envelhecimento/Alzheimer, a lactilação de histona H3K18 potencializa o SASP e o declínio cerebral (H3K18 lactylation of senescent microglia, 2023)[ML; camundongo+humano][EXT].",
+   "depois": "Em microglia senescente no envelhecimento/Alzheimer, a lactilação de histona H3K18 potencializa o SASP e o declínio cerebral (Wei et al., 2023)[ML; camundongo+humano][EXTRAPOLADO: animal/célula→humano][EXT].",
+   "prefixo_comum": 126
+  },
+  {
+   "id_vinculo": "VINC_B1_0060",
+   "metodo": "prefixo_200",
+   "categoria": "ROTULO",
+   "antes": "A revisão de 2025 consolida S100B e S100A8/A9 como DAMPs que interagem com RAGE/TLRs disparando cascatas pró-inflamatórias e ativação glial, com nota explícita de que concentrações baixas podem ser neuroprotetoras (Relationship of S100 Proteins with Neuroinflammation, 2025)[OB; revisão, humano+animal].",
+   "depois": "A revisão de 2025 consolida S100B e S100A8/A9 como DAMPs que interagem com RAGE/TLRs disparando cascatas pró-inflamatórias e ativação glial, com nota explícita de que concentrações baixas podem ser neuroprotetoras (García-Domínguez et al., 2025)[OB; revisão, humano+animal][EXTRAPOLADO: animal/célula→humano].",
+   "prefixo_comum": 215
+  },
+  {
+   "id_vinculo": "VINC_B1_0064",
+   "metodo": "janela",
+   "categoria": "ROTULO",
+   "antes": "### 3.2 — TNF-α e plasticidade sináptica (BLOCO03.002) O TNF tem papel fisiológico na plasticidade hebbiana e homeostática (escala de força sináptica) e patológico quando elevado: em neuroinflamação, TNF e IL-1β modulam plasticidade sináptica e contribuem para excitotoxicidade e neurodegeneração (TNF and IL-1β modulate synaptic plasticity, 2018)[OB; revisão, humano+animal].",
+   "depois": "### 3.2 — TNF-α e plasticidade sináptica (BLOCO03.002) O TNF tem papel fisiológico na plasticidade hebbiana e homeostática (escala de força sináptica) e patológico quando elevado: em neuroinflamação, TNF e IL-1β modulam plasticidade sináptica e contribuem para excitotoxicidade e neurodegeneração (Rizzo et al., 2018)[OB; revisão, humano+animal][VERIFICADO].",
+   "prefixo_comum": 298
+  },
+  {
+   "id_vinculo": "VINC_B1_0065",
+   "metodo": "prefixo_150",
+   "categoria": "ROTULO",
+   "antes": "O bloqueio periférico de TNF com etanercepte por via perispinhal é explorado em distúrbios neuroinflamatórios, sugerindo efeito central mesmo sem cruzar a BHE (Perispinal etanercept for neuroinflammatory disorders, 2009)[OB; revisão, humano].",
+   "depois": "O bloqueio periférico de TNF com etanercepte por via perispinhal é explorado em distúrbios neuroinflamatórios, sugerindo efeito central mesmo sem cruzar a BHE (Tobinick et al., 2009)[OB; revisão, humano][EXTRAPOLADO: animal/célula→humano].",
+   "prefixo_comum": 160
+  },
+  {
+   "id_vinculo": "VINC_B1_0068",
+   "metodo": "janela",
+   "categoria": "ROTULO",
+   "antes": "### 3.4 — TGF-β1 como freio glial (BLOCO03.004) TGF-β1 é citocina imunorreguladora; níveis reduzidos são relatados tanto em Alzheimer quanto em depressão, e a via é proposta como elo restaurativo compartilhado (TGF-β1 pathway in Alzheimer's and depression, 2025)[OB; revisão, humano+animal].",
+   "depois": "### 3.4 — TGF-β1 como freio glial (BLOCO03.004) TGF-β1 é citocina imunorreguladora; níveis reduzidos são relatados tanto em Alzheimer quanto em depressão, e a via é proposta como elo restaurativo compartilhado (Eleni et al., 2025)[OB; revisão, humano+animal][EXTRAPOLADO: animal/célula→humano].",
+   "prefixo_comum": 211
+  },
+  {
+   "id_vinculo": "VINC_B1_0069",
+   "metodo": "prefixo_120",
+   "categoria": "ROTULO",
+   "antes": "A meta-análise do efeito de antidepressivos sobre marcadores periféricos mostra deslocamento do balanço pró/anti-inflamatório (Antidepressant effect on peripheral inflammation meta-analysis, 2018)[MA; humano].",
+   "depois": "A meta-análise do efeito de antidepressivos sobre marcadores periféricos mostra deslocamento do balanço pró/anti-inflamatório (Więdłocha et al., 2018)[MA; humano][VERIFICADO].",
+   "prefixo_comum": 127
+  },
+  {
+   "id_vinculo": "VINC_B1_0070",
+   "metodo": "prefixo_200",
+   "categoria": "ROTULO",
+   "antes": "IFN-γ induz priming em micróglia por ativação STAT1-mediada do inflamassoma NLRP3: em cultura primária e em cérebro de camundongo, IFN-γ produz morfologia ativada (\"hedgehog\"), sobe marcadores CD86/CD11b e sensibiliza o NLRP3 (Microglial priming by IFN-γ involves STAT1/NLRP3, 2024)[ML; célula/camundongo].",
+   "depois": "IFN-γ induz priming em micróglia por ativação STAT1-mediada do inflamassoma NLRP3: em cultura primária e em cérebro de camundongo, IFN-γ produz morfologia ativada (\"hedgehog\"), sobe marcadores CD86/CD11b e sensibiliza o NLRP3 (He et al., 2024)[ML; célula/camundongo][PRÉ-CLÍNICO].",
+   "prefixo_comum": 227
+  },
+  {
+   "id_vinculo": "VINC_B1_0072",
+   "metodo": "prefixo_120",
+   "categoria": "ROTULO",
+   "antes": "Em modelo de depressão, o alvo NEK7 (regulador a montante do NLRP3) modula piroptose e microbiota e alivia comportamento tipo-depressivo (Targeting NEK7 pyroptosis depression, 2025)[ML; rato/camundongo][EXT].",
+   "depois": "Em modelo de depressão, o alvo NEK7 (regulador a montante do NLRP3) modula piroptose e microbiota e alivia comportamento tipo-depressivo (Lang et al., 2025)[ML; rato/camundongo][PRÉ-CLÍNICO][EXT].",
+   "prefixo_comum": 138
+  },
+  {
+   "id_vinculo": "VINC_B1_0078",
+   "metodo": "prefixo_120",
+   "categoria": "ROTULO",
+   "antes": "O receptor CCR2 é o receptor dominante de quimiotaxia de monócitos Ly6C^high; inibição de HMG-CoA redutase reduz expressão de CCR2 e recrutamento (Statin reduces CCR2 monocyte recruitment, 2005)[ML; célula/humano/animal].",
+   "depois": "O receptor CCR2 é o receptor dominante de quimiotaxia de monócitos Ly6C^high; inibição de HMG-CoA redutase reduz expressão de CCR2 e recrutamento (Han et al., 2005)[ML; célula/humano/animal][PRÉ-CLÍNICO].",
+   "prefixo_comum": 147
+  },
+  {
+   "id_vinculo": "VINC_B1_0079",
+   "metodo": "prefixo_200",
+   "categoria": "ROTULO",
+   "antes": "A adesão depende de ICAM-1 no endotélio/astrócito ativado: telmisartana inibe adesão leucocitária induzida por TNF bloqueando ICAM-1 em astrócitos, com melhora de depressão/memória e redução de inflamação cerebral (Telmisartan blocks ICAM-1 in astroglia, 2020)[ML].",
+   "depois": "A adesão depende de ICAM-1 no endotélio/astrócito ativado: telmisartana inibe adesão leucocitária induzida por TNF bloqueando ICAM-1 em astrócitos, com melhora de depressão/memória e redução de inflamação cerebral (Jang et al., 2020)[ML][EXTRAPOLADO: animal/célula→humano].",
+   "prefixo_comum": 215
+  },
+  {
+   "id_vinculo": "VINC_B1_0081",
+   "metodo": "prefixo_80",
+   "categoria": "ROTULO",
+   "antes": "Em lesão cerebral, CX3CL1 atenua déficit neurológico e neuroinflamação via CX3CR1/p38 MAPK/ERK1/2 (CX3CL1 attenuates neuroinflammation via CX3CR1, 2026)[ML; camundongo+humano/célula].",
+   "depois": "Em lesão cerebral, CX3CL1 atenua déficit neurológico e neuroinflamação via CX3CR1/p38 MAPK/ERK1/2 (Zhu et al., 2026)[ML; camundongo+humano/célula][EXTRAPOLADO: animal/célula→humano].",
+   "prefixo_comum": 99
+  },
+  {
+   "id_vinculo": "VINC_B1_0083",
+   "metodo": "prefixo_150",
+   "categoria": "ROTULO",
+   "antes": "A meta-análise de 82 estudos confirma alterações periféricas de quimiocinas na TDM, incluindo CCL2 e quimiocinas correlacionadas a sintomas somáticos/fadiga (Peripheral cytokine/chemokine meta-analysis 82 studies, 2017)[MA; humano].",
+   "depois": "A meta-análise de 82 estudos confirma alterações periféricas de quimiocinas na TDM, incluindo CCL2 e quimiocinas correlacionadas a sintomas somáticos/fadiga (Köhler et al., 2017)[MA; humano].",
+   "prefixo_comum": 158
+  },
+  {
+   "id_vinculo": "VINC_B1_0086",
+   "metodo": "janela",
+   "categoria": "ROTULO",
+   "antes": "A revisão de eixo intestino-cérebro e inflamassoma consolida como microbiota hospedeira influencia fisiologia cerebral (Gut-brain axis microbiota inflammasome, 2020)[OB; revisão, humano+animal].",
+   "depois": "A revisão de eixo intestino-cérebro e inflamassoma consolida como microbiota hospedeira influencia fisiologia cerebral (Rutsch et al., 2020)[OB; revisão, humano+animal][EXTRAPOLADO: animal/célula→humano].",
+   "prefixo_comum": 120
+  },
+  {
+   "id_vinculo": "VINC_B1_0090",
+   "metodo": "prefixo_200",
+   "categoria": "ROTULO",
+   "antes": "O estado DAM (microglia associada a doença) depende do eixo TREM2–APOE: uma assinatura transcricional APOE-dependente identifica micróglia disfuncional em modelos de ALS, esclerose múltipla e Alzheimer e ao redor de placas Aβ em cérebro humano (TREM2-APOE pathway drives dysfunctional microglia, 2017)[ML; camundongo+humano].",
+   "depois": "O estado DAM (microglia associada a doença) depende do eixo TREM2-APOE: uma assinatura transcricional APOE-dependente identifica micróglia disfuncional em modelos de ALS, esclerose múltipla e Alzheimer e ao redor de placas Aβ em cérebro humano (Krasemann et al., 2017)[ML; camundongo+humano][EXTRAPOLADO: animal/célula→humano].",
+   "prefixo_comum": 245
+  },
+  {
+   "id_vinculo": "VINC_B1_0091",
+   "metodo": "prefixo_120",
+   "categoria": "ROTULO",
+   "antes": "O sequenciamento mononuclear em camundongo e humano confirma populações DAM dependentes e independentes de TREM2 associadas à patologia (Human and mouse single-nucleus transcriptomics TREM2, 2020)[EC; humano+camundongo].",
+   "depois": "O sequenciamento mononuclear em camundongo e humano confirma populações DAM dependentes e independentes de TREM2 associadas à patologia (Zhou et al., 2020)[EC; humano+camundongo][EXTRAPOLADO: animal/célula→humano].",
+   "prefixo_comum": 137
+  },
+  {
+   "id_vinculo": "VINC_B1_0092",
+   "metodo": "prefixo_200",
+   "categoria": "ROTULO",
+   "antes": "Um trabalho de 2024 identificou uma chave molecular que separa reatividade neuroprotetora de neurotóxica: astrócitos de substância branca lesada diferenciam-se em populações C3+ e C3− (a simplificação anterior \"A1/A2\"), subdivisíveis por trajetórias de reparo (A molecular switch for neuroprotective astrocyte reactivity, 2024)[ML; camundongo].",
+   "depois": "Um trabalho de 2024 identificou uma chave molecular que separa reatividade neuroprotetora de neurotóxica: astrócitos de substância branca lesada diferenciam-se em populações C3+ e C3− (a simplificação anterior \"A1/A2\"), subdivisíveis por trajetórias de reparo (Cameron et al., 2024)[ML; camundongo][PRÉ-CLÍNICO].",
+   "prefixo_comum": 261
+  },
+  {
+   "id_vinculo": "VINC_B1_0093",
+   "metodo": "prefixo_150",
+   "categoria": "ROTULO",
+   "antes": "O bloqueio da conversão ao fenótipo A1 neurotóxico (induzido por mediadores microgliais) é neuroprotetor em modelos de Parkinson, e agonistas GLP1R inibem essa conversão (Block of A1 astrocyte conversion is neuroprotective, 2018)[ML; camundongo+humano][EXT].",
+   "depois": "O bloqueio da conversão ao fenótipo A1 neurotóxico (induzido por mediadores microgliais) é neuroprotetor em modelos de Parkinson, e agonistas GLP1R inibem essa conversão (Yun et al., 2018)[ML; camundongo+humano][EXTRAPOLADO: animal/célula→humano][EXT].",
+   "prefixo_comum": 171
+  },
+  {
+   "id_vinculo": "VINC_B1_0094",
+   "metodo": "prefixo_80",
+   "categoria": "ROTULO",
+   "antes": "Em depressão, IL-6 derivada de micróglia pode induzir apoptose de astrócitos hipocampais (Microglia-derived IL-6 triggers astrocyte apoptosis hippocampus, 2025)[ML; camundongo].",
+   "depois": "Em depressão, IL-6 derivada de micróglia pode induzir apoptose de astrócitos hipocampais (Shen et al., 2025)[ML; camundongo][PRÉ-CLÍNICO].",
+   "prefixo_comum": 90
+  },
+  {
+   "id_vinculo": "VINC_B1_0096",
+   "metodo": "prefixo_100",
+   "categoria": "ROTULO",
+   "antes": "Os pericitos regulam a BHE: sua integridade é necessária para manter as junções e a baixa vesiculação endotelial (Pericytes regulate the blood-brain barrier, 2010)[ML; camundongo].",
+   "depois": "Os pericitos regulam a BHE: sua integridade é necessária para manter as junções e a baixa vesiculação endotelial (Armulik et al., 2010)[ML; camundongo][PRÉ-CLÍNICO].",
+   "prefixo_comum": 114
+  },
+  {
+   "id_vinculo": "VINC_B1_0098",
+   "metodo": "janela",
+   "categoria": "ROTULO",
+   "antes": "### 4.5 — Nervo vago como via periferia→SNC (BLOCO04.005) O nervo vago (80% fibras aferentes) detecta metabólitos da microbiota e sinais inflamatórios periféricos e os conduz ao SNC independentemente da BHE, na interface do eixo intestino-cérebro (Vagus nerve at microbiota-gut-brain axis, 2018)[OB; revisão].",
+   "depois": "### 4.5 — Nervo vago como via periferia→SNC (BLOCO04.005) O nervo vago (80% fibras aferentes) detecta metabólitos da microbiota e sinais inflamatórios periféricos e os conduz ao SNC independentemente da BHE, na interface do eixo intestino-cérebro (Bonaz et al., 2018)[OB; revisão][VERIFICADO].",
+   "prefixo_comum": 248
+  },
+  {
+   "id_vinculo": "VINC_B1_0099",
+   "metodo": "prefixo_150",
+   "categoria": "ROTULO",
+   "antes": "Em humanos, a estimulação vagal auricular transcutânea (taVNS) aumenta conectividade amígdala–córtex pré-frontal dorsolateral e tem efeito anti-inflamatório na TDM (Neural networks and anti-inflammatory effect of taVNS in MDD, 2020)[EC; humano].",
+   "depois": "Em humanos, a estimulação vagal auricular transcutânea (taVNS) aumenta conectividade amígdala-córtex pré-frontal dorsolateral e tem efeito anti-inflamatório na TDM (Liu et al., 2020)[EC; humano][VERIFICADO].",
+   "prefixo_comum": 165
+  },
+  {
+   "id_vinculo": "VINC_B1_0100",
+   "metodo": "prefixo_80",
+   "categoria": "ROTULO",
+   "antes": "Macrófagos perivasculares promovem clearance glinfático de Aβ pós-AVE por mecanismo próprio (Perivascular macrophage glymphatic Aβ clearance after stroke, 2025)[ML; camundongo].",
+   "depois": "Macrófagos perivasculares promovem clearance glinfático de Aβ pós-AVE por mecanismo próprio (Li et al., 2025)[ML; camundongo][EXTRAPOLADO: animal/célula→humano].",
+   "prefixo_comum": 93
+  },
+  {
+   "id_vinculo": "VINC_B1_0104",
+   "metodo": "prefixo_80",
+   "categoria": "ROTULO",
+   "antes": "A ínsula/anterior é modulada por microglia em comportamento tipo-depressivo/ASD em camundongo (Anterior insular cortex depression-like/ASD via microglia, 2026)[ML; camundongo].",
+   "depois": "A ínsula/anterior é modulada por microglia em comportamento tipo-depressivo/ASD em camundongo (Zhang et al., 2026)[ML; camundongo][PRÉ-CLÍNICO].",
+   "prefixo_comum": 95
+  },
+  {
+   "id_vinculo": "VINC_B1_0109",
+   "metodo": "prefixo_150",
+   "categoria": "SELO",
+   "antes": "A meta-análise seminal de citocinas na depressão maior demonstrou concentrações significativamente elevadas de TNF-α e IL-6 em deprimidos versus controles (Dowlati et al., 2010)[MA; humano].",
+   "depois": "A meta-análise seminal de citocinas na depressão maior demonstrou concentrações significativamente elevadas de TNF-α e IL-6 em deprimidos versus controles (Dowlati et al., 2010)[MA; humano][VERIFICADO].",
+   "prefixo_comum": 190
+  },
+  {
+   "id_vinculo": "VINC_B1_0110",
+   "metodo": "prefixo_150",
+   "categoria": "SELO",
+   "antes": "A meta-análise de PCR, IL-1 e IL-6 confirmou associação positiva entre depressão e PCR/IL-6 em amostras comunitárias e clínicas (Howren et al., 2009)[MA; humano].",
+   "depois": "A meta-análise de PCR, IL-1 e IL-6 confirmou associação positiva entre depressão e PCR/IL-6 em amostras comunitárias e clínicas (Howren et al., 2009)[MA; humano][VERIFICADO].",
+   "prefixo_comum": 162
+  },
+  {
+   "id_vinculo": "VINC_B1_0111",
+   "metodo": "prefixo_150",
+   "categoria": "SELO",
+   "antes": "A meta-análise da rede de citocinas no sangue comparou esquizofrenia, bipolar e TDM e mostrou padrões distintos de alteração conforme estado clínico (Goldsmith et al., 2016)[MA; humano].",
+   "depois": "A meta-análise da rede de citocinas no sangue comparou esquizofrenia, bipolar e TDM e mostrou padrões distintos de alteração conforme estado clínico (Goldsmith et al., 2016)[MA; humano][VERIFICADO].",
+   "prefixo_comum": 186
+  },
+  {
+   "id_vinculo": "VINC_B1_0114",
+   "metodo": "prefixo_120",
+   "categoria": "ROTULO",
+   "antes": "Diferenças sexuais na ligação inflamação-depressão são meta-analisadas, com efeito mais consistente em mulheres em alguns marcadores (Sex differences inflammation-depression meta-analysis, 2024)[MA; humano].",
+   "depois": "Diferenças sexuais na ligação inflamação-depressão são meta-analisadas, com efeito mais consistente em mulheres em alguns marcadores (Jarkas et al., 2024)[MA; humano][VERIFICADO].",
+   "prefixo_comum": 134
+  },
+  {
+   "id_vinculo": "VINC_B1_0115",
+   "metodo": "prefixo_60",
+   "categoria": "ROTULO",
+   "antes": "IL-6 também prediz pior resolução de sintomas em sofrimento psicológico (IL-6 predictor of symptom resolution, 2015)[EC; humano].",
+   "depois": "IL-6 também prediz pior resolução de sintomas em sofrimento psicológico (Virtanen et al., 2015)[EC; humano][VERIFICADO].",
+   "prefixo_comum": 73
+  },
+  {
+   "id_vinculo": "VINC_B1_0116",
+   "metodo": "prefixo_120",
+   "categoria": "ROTULO",
+   "antes": "Em pacientes bipolares e deprimidos, níveis de citocinas e a razão KYN/TRP associam-se seletivamente a alterações de substância branca (KYN/TRP and white matter, 2022)[EC; humano].",
+   "depois": "Em pacientes bipolares e deprimidos, níveis de citocinas e a razão KYN/TRP associam-se seletivamente a alterações de substância branca (Comai et al., 2022)[EC; humano][VERIFICADO].",
+   "prefixo_comum": 136
+  },
+  {
+   "id_vinculo": "VINC_B1_0117",
+   "metodo": "prefixo_100",
+   "categoria": "SELO",
+   "antes": "Em tentadores de suicídio com TDM, quinurenina plasmática está elevada (Sublette et al., 2011)[EC; humano].",
+   "depois": "Em tentadores de suicídio com TDM, quinurenina plasmática está elevada (Sublette et al., 2011)[EC; humano][VERIFICADO].",
+   "prefixo_comum": 107
+  },
+  {
+   "id_vinculo": "VINC_B1_0119",
+   "metodo": "prefixo_150",
+   "categoria": "SELO",
+   "antes": "Em TDM, a densidade de TSPO está elevada em regiões cortico-límbicas (Setiawan et al., 2015)[EC; humano, PET] — primeira demonstração de neuroinflamação central em pacientes vivos.",
+   "depois": "Em TDM, a densidade de TSPO está elevada em regiões cortico-límbicas (Setiawan et al., 2015)[EC; humano, PET][VERIFICADO] — primeira demonstração de neuroinflamação central em pacientes vivos.",
+   "prefixo_comum": 180
+  },
+  {
+   "id_vinculo": "VINC_B1_0120",
+   "metodo": "prefixo_120",
+   "categoria": "SELO",
+   "antes": "O TSPO no córtex cingulado anterior está elevado na depressão maior e relacionado a ideação suicida (Holmes et al., 2018)[EC; humano, PET].",
+   "depois": "O TSPO no córtex cingulado anterior está elevado na depressão maior e relacionado a ideação suicida (Holmes et al., 2018)[EC; humano, PET][VERIFICADO].",
+   "prefixo_comum": 139
+  },
+  {
+   "id_vinculo": "VINC_B1_0123",
+   "metodo": "janela",
+   "categoria": "SELO",
+   "antes": "### 5.6 — Biomarcadores centrais no líquor e pós-morte (BLOCO05.006) No SNC, o achado mais forte é o ácido quinolínico microglial: depressão grave associa-se a QUIN elevado em subregiões do córtex cingulado anterior (Steiner et al., 2011)[EC; pós-morte/tecidos humanos] — popular de suicídio com alta inflamação, não \"TDM geral\" (qualificador obrigatório).",
+   "depois": "### 5.6 — Biomarcadores centrais no líquor e pós-morte (BLOCO05.006) No SNC, o achado mais forte é o ácido quinolínico microglial: depressão grave associa-se a QUIN elevado em subregiões do córtex cingulado anterior (Steiner et al., 2011)[EC; pós-morte/tecidos humanos][VERIFICADO] — popular de suicídio com alta inflamação, não \"TDM geral\" (qualificador obrigatório).",
+   "prefixo_comum": 356
+  },
+  {
+   "id_vinculo": "VINC_B1_0124",
+   "metodo": "prefixo_120",
+   "categoria": "ROTULO",
+   "antes": "Marcadores gliais no LCR (sTREM2, YKL-40) têm associação longitudinal com depressão e disponibilidade de transportador de dopamina em Parkinson (CSF glial markers YKL-40 depression, 2024)[EC; humano, LCR] — sugerindo que marcadores de ativação glial no líquor preveem fenótipo depressivo.",
+   "depois": "Marcadores gliais no LCR (sTREM2, YKL-40) têm associação longitudinal com depressão e disponibilidade de transportador de dopamina em Parkinson (Yang et al., 2024)[EC; humano, LCR][EXTRAPOLADO: animal/célula→humano] — sugerindo que marcadores de ativação glial no líquor preveem fenótipo depressivo.",
+   "prefixo_comum": 145
+  },
+  {
+   "id_vinculo": "VINC_B1_0125",
+   "metodo": "janela",
+   "categoria": "ROTULO",
+   "antes": "### 5.7 — Neuroimagem complementar: conectividade, MRS (mio-inositol), volume hipocampal (BLOCO05.007) Além do TSPO-PET, três camadas de imagem complementam o quadro: conectividade funcional córtico-estriatal e cortico-límbica modificada por inflamação (taVNS altera amígdala-CPFdl, BLOCO04); mio-inositol por MRS como marcador glial in vivo; e volume hipocampal, que se associa a inflamação e desfecho terapêutico — após ECT, marcadores inflamatórios (IL-6/TNF) relacionam-se a volume hipocampal e resposta (Inflammation, hippocampal volume and ECT outcome, 2020)[EC; humano].",
+   "depois": "### 5.7 — Neuroimagem complementar: conectividade, MRS (mio-inositol), volume hipocampal (BLOCO05.007) Além do TSPO-PET, três camadas de imagem complementam o quadro: conectividade funcional córtico-estriatal e cortico-límbica modificada por inflamação (taVNS altera amígdala-CPFdl, BLOCO04); mio-inositol por MRS como marcador glial in vivo; e volume hipocampal, que se associa a inflamação e desfecho terapêutico — após ECT, marcadores inflamatórios (IL-6/TNF) relacionam-se a volume hipocampal e resposta (Belge et al., 2020)[EC; humano][VERIFICADO].",
+   "prefixo_comum": 509
+  },
+  {
+   "id_vinculo": "VINC_B1_0130",
+   "metodo": "janela",
+   "categoria": "SELO",
+   "antes": "### 6.2 — Gradiente de severidade: dose-resposta biológica (BLOCO06.002) Existe relação entre magnitude da ativação inflamatória e intensidade/alcance do sintoma: níveis mais altos de marcadores associam-se a sintomas mais graves e a pior resolução (IL-6 baixa prediz melhor resolução de sintomas em sofrimento psicológico — IL-6 predictor, 2015)[EC; humano].",
+   "depois": "### 6.2 — Gradiente de severidade: dose-resposta biológica (BLOCO06.002) Existe relação entre magnitude da ativação inflamatória e intensidade/alcance do sintoma: níveis mais altos de marcadores associam-se a sintomas mais graves e a pior resolução (IL-6 baixa prediz melhor resolução de sintomas em sofrimento psicológico — IL-6 predictor, 2015)[EC; humano][VERIFICADO].",
+   "prefixo_comum": 359
+  },
+  {
+   "id_vinculo": "VINC_B1_0131",
+   "metodo": "prefixo_200",
+   "categoria": "SELO",
+   "antes": "A meta-análise de variabilidade (Osimo et al., 2020)[MA; humano] mostra que não há \"deprimido inflamado\" binário — a elevação é contínua e concentrada num subgrupo, e o risco/intensidade escalam com o marcador.",
+   "depois": "A meta-análise de variabilidade (Osimo et al., 2020)[MA; humano][VERIFICADO] mostra que não há \"deprimido inflamado\" binário — a elevação é contínua e concentrada num subgrupo, e o risco/intensidade escalam com o marcador.",
+   "prefixo_comum": 210
+  },
+  {
+   "id_vinculo": "VINC_B1_0132",
+   "metodo": "prefixo_150",
+   "categoria": "ROTULO",
+   "antes": "Análise dimensional dos sintomas em pacientes com melanoma mostra clusters neuropsiquiátricos específicos que emergem ao longo dos primeiros três meses e são prevenidos/revertidos por paroxetina (Neurobehavioral effects of interferon-alpha in cancer patients, 2002)[EC; humano].",
+   "depois": "Análise dimensional dos sintomas em pacientes com melanoma mostra clusters neuropsiquiátricos específicos que emergem ao longo dos primeiros três meses e são prevenidos/revertidos por paroxetina (Capuron et al., 2002)[EC; humano][VERIFICADO].",
+   "prefixo_comum": 196
+  },
+  {
+   "id_vinculo": "VINC_B1_0134",
+   "metodo": "prefixo_120",
+   "categoria": "ROTULO",
+   "antes": "A inflamação por IFN-α também reduz o feedback negativo de glicocorticoide (resistência ao eixo HPA), ligando inflamação à disfunção do estresse (IFN-α inflammation and reduced glucocorticoid negative feedback, 2016)[EC; humano].",
+   "depois": "A inflamação por IFN-α também reduz o feedback negativo de glicocorticoide (resistência ao eixo HPA), ligando inflamação à disfunção do estresse (Felger et al., 2016)[EC; humano][VERIFICADO].",
+   "prefixo_comum": 146
+  },
+  {
+   "id_vinculo": "VINC_B1_0143",
+   "metodo": "janela",
+   "categoria": "ROTULO",
+   "antes": "### 8.1 — B1→B2: resistência a glicocorticoides (NF-κB/GR/FKBP5) (BLOCO08.001) O glicocorticoide ativado (GR) reprime potemente a inflamação de macrófagos; análise genômica mostra que o GR reprime genes pró-inflamatórios por mecanismos gene-específicos (genes \"pausados\" prontos para transcrição, controlados por NELF/Pol2) (GR-driven repression of inflammatory genes, 2018)[ML; célula/camundongo].",
+   "depois": "### 8.1 — B1→B2: resistência a glicocorticoides (NF-κB/GR/FKBP5) (BLOCO08.001) O glicocorticoide ativado (GR) reprime potemente a inflamação de macrófagos; análise genômica mostra que o GR reprime genes pró-inflamatórios por mecanismos gene-específicos (genes \"pausados\" prontos para transcrição, controlados por NELF/Pol2) (Sacta et al., 2018)[ML; célula/camundongo][PRÉ-CLÍNICO].",
+   "prefixo_comum": 325
+  },
+  {
+   "id_vinculo": "VINC_B1_0144",
+   "metodo": "prefixo_60",
+   "categoria": "ROTULO",
+   "antes": "A inflamação por IFN-α reduz o feedback negativo do HPA em humanos (IFN-α glucocorticoid negative feedback, 2016)[EC; humano].",
+   "depois": "A inflamação por IFN-α reduz o feedback negativo do HPA em humanos (Felger et al., 2016)[EC; humano][VERIFICADO].",
+   "prefixo_comum": 68
+  },
+  {
+   "id_vinculo": "VINC_B1_0145",
+   "metodo": "janela",
+   "categoria": "SELO",
+   "antes": "### 8.2 — B1→B3: citocinas suprimem BDNF/CREB e complemento faz poda (BLOCO08.002, 003) IL-1β/TNF suprimem BDNF/TrkB/CREB (ver BLOCO03.001/002; IL-1β reduz mRNA de BDNF hipocampal, 1993)[ML].",
+   "depois": "### 8.2 — B1→B3: citocinas suprimem BDNF/CREB e complemento faz poda (BLOCO08.002, 003) IL-1β/TNF suprimem BDNF/TrkB/CREB (ver BLOCO03.001/002; IL-1β reduz mRNA de BDNF hipocampal, 1993)[ML][PRÉ-CLÍNICO].",
+   "prefixo_comum": 191
+  },
+  {
+   "id_vinculo": "VINC_B1_0150",
+   "metodo": "janela",
+   "categoria": "ROTULO",
+   "antes": "### 8.4 — B1↔B7: LPS-TLR4 periférico e translocação (BLOCO08.005) Estresse psicológico compromete a barreira intestinal, permitindo translocação bacteriana (LPS) que ativa TLR4 periférico e central: LPS derivado do intestino e TLR4 periférico medeiam inflamação no estresse (Gut-derived LPS and peripheral TLR4 in stress, 2024)[ML; camundongo], e a estimulação da via TLR4 cerebral no estresse crônico é relevante para depressão (Brain TLR4 pathway stimulation in stress, 2011)[ML; rato].",
+   "depois": "### 8.4 — B1↔B7: LPS-TLR4 periférico e translocação (BLOCO08.005) Estresse psicológico compromete a barreira intestinal, permitindo translocação bacteriana (LPS) que ativa TLR4 periférico e central: LPS derivado do intestino e TLR4 periférico medeiam inflamação no estresse (Cho et al., 2024)[ML; camundongo], e a estimulação da via TLR4 cerebral no estresse crônico é relevante para depressão (Gárate et al., 2011)[ML; rato][EXTRAPOLADO: animal/célula→humano].",
+   "prefixo_comum": 275
+  },
+  {
+   "id_vinculo": "VINC_B1_0151",
+   "metodo": "janela",
+   "categoria": "ROTULO",
+   "antes": "### 8.4 — B1↔B7: LPS-TLR4 periférico e translocação (BLOCO08.005) Estresse psicológico compromete a barreira intestinal, permitindo translocação bacteriana (LPS) que ativa TLR4 periférico e central: LPS derivado do intestino e TLR4 periférico medeiam inflamação no estresse (Gut-derived LPS and peripheral TLR4 in stress, 2024)[ML; camundongo], e a estimulação da via TLR4 cerebral no estresse crônico é relevante para depressão (Brain TLR4 pathway stimulation in stress, 2011)[ML; rato].",
+   "depois": "### 8.4 — B1↔B7: LPS-TLR4 periférico e translocação (BLOCO08.005) Estresse psicológico compromete a barreira intestinal, permitindo translocação bacteriana (LPS) que ativa TLR4 periférico e central: LPS derivado do intestino e TLR4 periférico medeiam inflamação no estresse (Cho et al., 2024)[ML; camundongo], e a estimulação da via TLR4 cerebral no estresse crônico é relevante para depressão (Gárate et al., 2011)[ML; rato][EXTRAPOLADO: animal/célula→humano].",
+   "prefixo_comum": 275
+  },
+  {
+   "id_vinculo": "VINC_B1_0154",
+   "metodo": "janela",
+   "categoria": "ROTULO",
+   "antes": "### 8.8 — B1→B10: sono, relógio e NLRP3 (BLOCO08.010) Privação de sono eleva IL-6/TNF/PCR: privação aguda de sono exacerba inflamação sistêmica e distúrbios psiquiátricos (Acute sleep deprivation systemic inflammation, 2023)[ML; camundongo], e sono perdido induz ansiedade via IL-6 (IL-6 astrocyte PAG, 2026)[ML].",
+   "depois": "### 8.8 — B1→B10: sono, relógio e NLRP3 (BLOCO08.010) Privação de sono eleva IL-6/TNF/PCR: privação aguda de sono exacerba inflamação sistêmica e distúrbios psiquiátricos (Yang et al., 2023)[ML; camundongo], e sono perdido induz ansiedade via IL-6 (Xu et al., 2026)[ML][PRÉ-CLÍNICO].",
+   "prefixo_comum": 172
+  },
+  {
+   "id_vinculo": "VINC_B1_0155",
+   "metodo": "janela",
+   "categoria": "ROTULO",
+   "antes": "### 8.8 — B1→B10: sono, relógio e NLRP3 (BLOCO08.010) Privação de sono eleva IL-6/TNF/PCR: privação aguda de sono exacerba inflamação sistêmica e distúrbios psiquiátricos (Acute sleep deprivation systemic inflammation, 2023)[ML; camundongo], e sono perdido induz ansiedade via IL-6 (IL-6 astrocyte PAG, 2026)[ML].",
+   "depois": "### 8.8 — B1→B10: sono, relógio e NLRP3 (BLOCO08.010) Privação de sono eleva IL-6/TNF/PCR: privação aguda de sono exacerba inflamação sistêmica e distúrbios psiquiátricos (Yang et al., 2023)[ML; camundongo], e sono perdido induz ansiedade via IL-6 (Xu et al., 2026)[ML][PRÉ-CLÍNICO].",
+   "prefixo_comum": 172
+  },
+  {
+   "id_vinculo": "VINC_B1_0156",
+   "metodo": "janela",
+   "categoria": "ROTULO",
+   "antes": "### 8.9 — B1→B11: desiodase tipo 2 (D2) e tireoide (BLOCO08.011) LPS induz a desiodase tipo 2 (D2) em tanicitos do hipotálamo mediobasal — a principal enzima que converte T4 em T3 ativo no SNC (LPS induces D2 in mediobasal hypothalamus, 2004)[ML; rato/humano], e o gene dio2 humano tem elemento responsivo a NF-κB (NF-κB responsiveness of human dio2, 2006)[ML].",
+   "depois": "### 8.9 — B1→B11: desiodase tipo 2 (D2) e tireoide (BLOCO08.011) LPS induz a desiodase tipo 2 (D2) em tanicitos do hipotálamo mediobasal — a principal enzima que converte T4 em T3 ativo no SNC (Fekete et al., 2004)[ML; rato/humano], e o gene dio2 humano tem elemento responsivo a NF-κB (Zeöld et al., 2006)[ML][PRÉ-CLÍNICO].",
+   "prefixo_comum": 194
+  },
+  {
+   "id_vinculo": "VINC_B1_0157",
+   "metodo": "janela",
+   "categoria": "ROTULO",
+   "antes": "### 8.9 — B1→B11: desiodase tipo 2 (D2) e tireoide (BLOCO08.011) LPS induz a desiodase tipo 2 (D2) em tanicitos do hipotálamo mediobasal — a principal enzima que converte T4 em T3 ativo no SNC (LPS induces D2 in mediobasal hypothalamus, 2004)[ML; rato/humano], e o gene dio2 humano tem elemento responsivo a NF-κB (NF-κB responsiveness of human dio2, 2006)[ML].",
+   "depois": "### 8.9 — B1→B11: desiodase tipo 2 (D2) e tireoide (BLOCO08.011) LPS induz a desiodase tipo 2 (D2) em tanicitos do hipotálamo mediobasal — a principal enzima que converte T4 em T3 ativo no SNC (Fekete et al., 2004)[ML; rato/humano], e o gene dio2 humano tem elemento responsivo a NF-κB (Zeöld et al., 2006)[ML][PRÉ-CLÍNICO].",
+   "prefixo_comum": 194
+  },
+  {
+   "id_vinculo": "VINC_B1_0158",
+   "metodo": "janela",
+   "categoria": "ROTULO",
+   "antes": "### 8.10 — B1→B12: trauma precoce, FKBP5 e priming (BLOCO08.012) Adversidade na infância faz priming microglial e marca FKBP5: desmetilação alelo-específica dependente de trauma (Klengel 2013, BLOCO02.20) e efeitos intergeracionais na metilação de FKBP5 em sobreviventes do Holocausto e seus filhos (Holocaust intergenerational FKBP5 methylation, 2016)[EC; humano].",
+   "depois": "### 8.10 — B1→B12: trauma precoce, FKBP5 e priming (BLOCO08.012) Adversidade na infância faz priming microglial e marca FKBP5: desmetilação alelo-específica dependente de trauma (Klengel 2013, BLOCO02.20) e efeitos intergeracionais na metilação de FKBP5 em sobreviventes do Holocausto e seus filhos (Yehuda et al., 2016)[EC; humano][VERIFICADO].",
+   "prefixo_comum": 300
+  },
+  {
+   "id_vinculo": "VINC_B1_0159",
+   "metodo": "janela",
+   "categoria": "ROTULO",
+   "antes": "### 8.10 — B1→B12: trauma precoce, FKBP5 e priming (BLOCO08.012) Adversidade na infância faz priming microglial e marca FKBP5: desmetilação alelo-específica dependente de trauma (Klengel 2013, BLOCO02.20) e efeitos intergeracionais na metilação de FKBP5 em sobreviventes do Holocausto e seus filhos (Holocaust intergenerational FKBP5 methylation, 2016)[EC; humano].",
+   "depois": "### 8.10 — B1→B12: trauma precoce, FKBP5 e priming (BLOCO08.012) Adversidade na infância faz priming microglial e marca FKBP5: desmetilação alelo-específica dependente de trauma (Klengel 2013, BLOCO02.20) e efeitos intergeracionais na metilação de FKBP5 em sobreviventes do Holocausto e seus filhos (Yehuda et al., 2016)[EC; humano][VERIFICADO].",
+   "prefixo_comum": 300
+  },
+  {
+   "id_vinculo": "VINC_B1_0161",
+   "metodo": "prefixo_150",
+   "categoria": "ROTULO",
+   "antes": "IL-1 é regulador central da resposta de estresse e a produção cerebral de IL-1 liga o desafio imunológico/psicológico à ativação neuroendócrina e à plasticidade (Interleukin-1: a central regulator of stress responses, 2009)[OB; revisão, humano+animal].",
+   "depois": "IL-1 é regulador central da resposta de estresse e a produção cerebral de IL-1 liga o desafio imunológico/psicológico à ativação neuroendócrina e à plasticidade (Goshen et al., 2009)[OB; revisão, humano+animal][VERIFICADO].",
+   "prefixo_comum": 162
+  },
+  {
+   "id_vinculo": "VINC_B1_0162",
+   "metodo": "prefixo_120",
+   "categoria": "ROTULO",
+   "antes": "A revisão de ativação glial em transtornos mentais consolida que citocinas interferem com plasticidade sináptica e memória (Neuroinflammation and glial activation in mental disorders, 2020)[OB; revisão].",
+   "depois": "A revisão de ativação glial em transtornos mentais consolida que citocinas interferem com plasticidade sináptica e memória (Almeida et al., 2020)[OB; revisão][VERIFICADO].",
+   "prefixo_comum": 124
+  },
+  {
+   "id_vinculo": "VINC_B1_0163",
+   "metodo": "prefixo_100",
+   "categoria": "SELO",
+   "antes": "O mecanismo molecular é a supressão de BDNF/CREB (BLOCO03.001: IL-1β reduz mRNA de BDNF hipocampal, 1993)[ML; rato].",
+   "depois": "O mecanismo molecular é a supressão de BDNF/CREB (BLOCO03.001: IL-1β reduz mRNA de BDNF hipocampal, 1993)[ML; rato][PRÉ-CLÍNICO].",
+   "prefixo_comum": 116
+  },
+  {
+   "id_vinculo": "VINC_B1_0164",
+   "metodo": "prefixo_150",
+   "categoria": "ROTULO",
+   "antes": "Microglia controla sinapses glutamatérgicas no hipocampo adulto: a depleção farmacológica de microglia altera a transmissão CA3-CA1, demonstrando regulação contínua da sinapse pela glia (Microglia control glutamatergic synapses in adult hippocampus, 2022)[ML; camundongo].",
+   "depois": "Microglia controla sinapses glutamatérgicas no hipocampo adulto: a depleção farmacológica de microglia altera a transmissão CA3-CA1, demonstrando regulação contínua da sinapse pela glia (Basilico et al., 2022)[ML; camundongo][PRÉ-CLÍNICO].",
+   "prefixo_comum": 187
+  },
+  {
+   "id_vinculo": "VINC_B1_0165",
+   "metodo": "prefixo_100",
+   "categoria": "ROTULO",
+   "antes": "Em HIV, dano sinaptodendrítico cortical é regulado por opioides e quimiocinas mesmo sem morte neuronal (Synaptodendritic damage in HIV, 2019)[EC; humano+animal] — modelo de dano reversível por modulação imune.",
+   "depois": "Em HIV, dano sinaptodendrítico cortical é regulado por opioides e quimiocinas mesmo sem morte neuronal (Nash et al., 2019)[EC; humano+animal][EXTRAPOLADO: animal/célula→humano] — modelo de dano reversível por modulação imune.",
+   "prefixo_comum": 104
+  }
+ ],
+ "nao_recuperados": [
+  {
+   "id_vinculo": "VINC_B1_0001",
+   "categoria": "SELO",
+   "motivo": "candidato diverge cedo (prefixo comum 162/446) — seria troca de frase, não reparo"
+  },
+  {
+   "id_vinculo": "VINC_B1_0040",
+   "categoria": "ROTULO",
+   "motivo": "candidato diverge cedo (prefixo comum 90/299) — seria troca de frase, não reparo"
+  },
+  {
+   "id_vinculo": "VINC_B1_0047",
+   "categoria": "ROTULO",
+   "motivo": "candidato diverge cedo (prefixo comum 84/319) — seria troca de frase, não reparo"
+  },
+  {
+   "id_vinculo": "VINC_B1_0049",
+   "categoria": "ROTULO",
+   "motivo": "candidato diverge cedo (prefixo comum 49/123) — seria troca de frase, não reparo"
+  },
+  {
+   "id_vinculo": "VINC_B1_0053",
+   "categoria": "ROTULO",
+   "motivo": "candidato diverge cedo (prefixo comum 72/295) — seria troca de frase, não reparo"
+  },
+  {
+   "id_vinculo": "VINC_B1_0059",
+   "categoria": "ROTULO",
+   "motivo": "candidato diverge cedo (prefixo comum 238/503) — seria troca de frase, não reparo"
+  },
+  {
+   "id_vinculo": "VINC_B1_0067",
+   "categoria": "ROTULO",
+   "motivo": "candidato diverge cedo (prefixo comum 73/161) — seria troca de frase, não reparo"
+  },
+  {
+   "id_vinculo": "VINC_B1_0075",
+   "categoria": "ROTULO",
+   "motivo": "candidato diverge cedo (prefixo comum 121/307) — seria troca de frase, não reparo"
+  },
+  {
+   "id_vinculo": "VINC_B1_0084",
+   "categoria": "ROTULO",
+   "motivo": "candidato diverge cedo (prefixo comum 82/329) — seria troca de frase, não reparo"
+  },
+  {
+   "id_vinculo": "VINC_B1_0085",
+   "categoria": "ROTULO",
+   "motivo": "candidato diverge cedo (prefixo comum 82/329) — seria troca de frase, não reparo"
+  },
+  {
+   "id_vinculo": "VINC_B1_0101",
+   "categoria": "ROTULO",
+   "motivo": "candidato diverge cedo (prefixo comum 81/164) — seria troca de frase, não reparo"
+  },
+  {
+   "id_vinculo": "VINC_B1_0126",
+   "categoria": "ROTULO",
+   "motivo": "candidato diverge cedo (prefixo comum 79/160) — seria troca de frase, não reparo"
+  },
+  {
+   "id_vinculo": "VINC_B1_0129",
+   "categoria": "ROTULO",
+   "motivo": "candidato diverge cedo (prefixo comum 85/177) — seria troca de frase, não reparo"
+  },
+  {
+   "id_vinculo": "VINC_B1_0146",
+   "categoria": "ROTULO",
+   "motivo": "candidato diverge cedo (prefixo comum 111/581) — seria troca de frase, não reparo"
+  },
+  {
+   "id_vinculo": "VINC_B1_0147",
+   "categoria": "ROTULO",
+   "motivo": "candidato diverge cedo (prefixo comum 111/581) — seria troca de frase, não reparo"
+  },
+  {
+   "id_vinculo": "VINC_B1_0148",
+   "categoria": "ROTULO",
+   "motivo": "candidato diverge cedo (prefixo comum 111/581) — seria troca de frase, não reparo"
+  },
+  {
+   "id_vinculo": "VINC_B1_0168",
+   "categoria": "ROTULO",
+   "motivo": "candidato diverge cedo (prefixo comum 153/395) — seria troca de frase, não reparo"
+  },
+  {
+   "id_vinculo": "VINC_B1_0170",
+   "categoria": "ROTULO",
+   "motivo": "candidato diverge cedo (prefixo comum 56/253) — seria troca de frase, não reparo"
+  },
+  {
+   "id_vinculo": "VINC_B1_0171",
+   "categoria": "ROTULO",
+   "motivo": "candidato diverge cedo (prefixo comum 56/253) — seria troca de frase, não reparo"
+  }
+ ],
+ "inspecao_manual": [
+  {
+   "id_vinculo": "VINC_B1_0004",
+   "categoria": "PROSA",
+   "casados": 112,
+   "total": 199,
+   "divergencia": "revisão de biologia microglial; Perry & Teeling, 2"
+  },
+  {
+   "id_vinculo": "VINC_B1_0005",
+   "categoria": "PROSA",
+   "casados": 373,
+   "total": 374,
+   "divergencia": "."
+  },
+  {
+   "id_vinculo": "VINC_B1_0006",
+   "categoria": "PROSA",
+   "casados": 214,
+   "total": 215,
+   "divergencia": "."
+  },
+  {
+   "id_vinculo": "VINC_B1_0009",
+   "categoria": "PROSA",
+   "casados": 394,
+   "total": 395,
+   "divergencia": "."
+  },
+  {
+   "id_vinculo": "VINC_B1_0010",
+   "categoria": "PROSA",
+   "casados": 421,
+   "total": 422,
+   "divergencia": "."
+  },
+  {
+   "id_vinculo": "VINC_B1_0015",
+   "categoria": "PROSA",
+   "casados": 82,
+   "total": 217,
+   "divergencia": ", reforçando que se trata de programa adaptativo e"
+  },
+  {
+   "id_vinculo": "VINC_B1_0018",
+   "categoria": "PROSA",
+   "casados": 324,
+   "total": 393,
+   "divergencia": "Pathogenic NLRP3 mutants, 2024)[EC; humano+camundo"
+  },
+  {
+   "id_vinculo": "VINC_B1_0021",
+   "categoria": "PROSA",
+   "casados": 87,
+   "total": 183,
+   "divergencia": "Innate Immune Cell Death in Neuroinflammation, 202"
+  },
+  {
+   "id_vinculo": "VINC_B1_0022",
+   "categoria": "PROSA",
+   "casados": 359,
+   "total": 460,
+   "divergencia": "Brain endothelial GSDMD activation mediates inflam"
+  },
+  {
+   "id_vinculo": "VINC_B1_0025",
+   "categoria": "PROSA",
+   "casados": 137,
+   "total": 187,
+   "divergencia": "Gastrodin TLR4/TRAF6/NF-κB, 2024)[ML; camundongo]."
+  },
+  {
+   "id_vinculo": "VINC_B1_0029",
+   "categoria": "PROSA",
+   "casados": 157,
+   "total": 217,
+   "divergencia": "HOCl microglial MPO → HMGB1 release, 2024)[ML; rat"
+  },
+  {
+   "id_vinculo": "VINC_B1_0030",
+   "categoria": "PROSA",
+   "casados": 176,
+   "total": 239,
+   "divergencia": "Omega-3/DAMPs in depression, 2024)[OB; revisão, hu"
+  },
+  {
+   "id_vinculo": "VINC_B1_0031",
+   "categoria": "PROSA",
+   "casados": 175,
+   "total": 250,
+   "divergencia": "miR-223 inhibits NLRP3 in mitochondrial DAMP injur"
+  },
+  {
+   "id_vinculo": "VINC_B1_0045",
+   "categoria": "PROSA",
+   "casados": 110,
+   "total": 312,
+   "divergencia": "Gastrodin TLR4/TRAF6/NF-κB, 2024)[ML; camundongo],"
+  },
+  {
+   "id_vinculo": "VINC_B1_0048",
+   "categoria": "PROSA",
+   "casados": 201,
+   "total": 284,
+   "divergencia": "Neural Mechanisms of Inflammation-Induced Fever, 2"
+  },
+  {
+   "id_vinculo": "VINC_B1_0050",
+   "categoria": "PROSA",
+   "casados": 82,
+   "total": 259,
+   "divergencia": "cGAS-STING in neurological disorders, 2023)[OB; re"
+  },
+  {
+   "id_vinculo": "VINC_B1_0051",
+   "categoria": "PROSA",
+   "casados": 179,
+   "total": 249,
+   "divergencia": "mtDNA-cGAS-STING-NLRP3 postoperative cognition, 20"
+  },
+  {
+   "id_vinculo": "VINC_B1_0052",
+   "categoria": "PROSA",
+   "casados": 141,
+   "total": 216,
+   "divergencia": "tructure-based decoupling of IL-10 functions, 2021"
+  },
+  {
+   "id_vinculo": "VINC_B1_0056",
+   "categoria": "PROSA",
+   "casados": 352,
+   "total": 449,
+   "divergencia": "Complex Epigenetic Switching in TNF-α Upregulation"
+  },
+  {
+   "id_vinculo": "VINC_B1_0057",
+   "categoria": "PROSA",
+   "casados": 153,
+   "total": 433,
+   "divergencia": "miR-146a hippocampal microglia IRAK1/TRAF6, 2025)["
+  },
+  {
+   "id_vinculo": "VINC_B1_0061",
+   "categoria": "PROSA",
+   "casados": 146,
+   "total": 208,
+   "divergencia": "Functions of S100 proteins, 2013)[OB; revisão, hum"
+  },
+  {
+   "id_vinculo": "VINC_B1_0062",
+   "categoria": "PROSA",
+   "casados": 163,
+   "total": 230,
+   "divergencia": "Systemic IL-1β decreases BDNF mRNA in hippocampus,"
+  },
+  {
+   "id_vinculo": "VINC_B1_0063",
+   "categoria": "PROSA",
+   "casados": 195,
+   "total": 298,
+   "divergencia": "TNF and IL-1β modulate synaptic plasticity during "
+  },
+  {
+   "id_vinculo": "VINC_B1_0066",
+   "categoria": "PROSA",
+   "casados": 318,
+   "total": 420,
+   "divergencia": "Repopulating Microglia Promote Brain Repair in an "
+  },
+  {
+   "id_vinculo": "VINC_B1_0071",
+   "categoria": "PROSA",
+   "casados": 97,
+   "total": 205,
+   "divergencia": "Principles of inflammasome priming and inhibition:"
+  },
+  {
+   "id_vinculo": "VINC_B1_0073",
+   "categoria": "PROSA",
+   "casados": 99,
+   "total": 188,
+   "divergencia": "odulation of microglial activation by antidepressa"
+  },
+  {
+   "id_vinculo": "VINC_B1_0074",
+   "categoria": "PROSA",
+   "casados": 126,
+   "total": 242,
+   "divergencia": "Proinflammatory cytokines and neuropeptides in pso"
+  },
+  {
+   "id_vinculo": "VINC_B1_0077",
+   "categoria": "PROSA",
+   "casados": 190,
+   "total": 286,
+   "divergencia": "Transcellular transport of CCL2 across brain micro"
+  },
+  {
+   "id_vinculo": "VINC_B1_0080",
+   "categoria": "PROSA",
+   "casados": 104,
+   "total": 195,
+   "divergencia": "Cerebral microvascular inflammatory markers under "
+  },
+  {
+   "id_vinculo": "VINC_B1_0082",
+   "categoria": "PROSA",
+   "casados": 108,
+   "total": 357,
+   "divergencia": "Synaptic pruning by microglia is necessary for nor"
+  },
+  {
+   "id_vinculo": "VINC_B1_0087",
+   "categoria": "PROSA",
+   "casados": 415,
+   "total": 485,
+   "divergencia": "Molecular Mechanisms of IL18 in Disease, 2023)[ML;"
+  },
+  {
+   "id_vinculo": "VINC_B1_0088",
+   "categoria": "PROSA",
+   "casados": 205,
+   "total": 294,
+   "divergencia": "Disrupted betaine metabolism drives Th17 in depres"
+  },
+  {
+   "id_vinculo": "VINC_B1_0095",
+   "categoria": "PROSA",
+   "casados": 399,
+   "total": 501,
+   "divergencia": "Augmented microglial ER-mitochondria contacts medi"
+  },
+  {
+   "id_vinculo": "VINC_B1_0097",
+   "categoria": "PROSA",
+   "casados": 284,
+   "total": 374,
+   "divergencia": "Social stress induces neurovascular pathology prom"
+  },
+  {
+   "id_vinculo": "VINC_B1_0102",
+   "categoria": "PROSA",
+   "casados": 45,
+   "total": 74,
+   "divergencia": "taVNS MDD, 2020)[EC; humano]."
+  },
+  {
+   "id_vinculo": "VINC_B1_0103",
+   "categoria": "PROSA",
+   "casados": 141,
+   "total": 243,
+   "divergencia": "Bifidobacterium longum NCC3001 reduces depression "
+  },
+  {
+   "id_vinculo": "VINC_B1_0105",
+   "categoria": "PROSA",
+   "casados": 206,
+   "total": 470,
+   "divergencia": "Meningeal lymphatics affect microglia responses an"
+  },
+  {
+   "id_vinculo": "VINC_B1_0106",
+   "categoria": "PROSA",
+   "casados": 206,
+   "total": 470,
+   "divergencia": "Meningeal lymphatics affect microglia responses an"
+  },
+  {
+   "id_vinculo": "VINC_B1_0107",
+   "categoria": "PROSA",
+   "casados": 189,
+   "total": 281,
+   "divergencia": "Choroid plexus synergizes with immune cells during"
+  },
+  {
+   "id_vinculo": "VINC_B1_0113",
+   "categoria": "PROSA",
+   "casados": 93,
+   "total": 133,
+   "divergencia": "Leighton/quimiocinas, 2017)[MA; humano]."
+  },
+  {
+   "id_vinculo": "VINC_B1_0118",
+   "categoria": "PROSA",
+   "casados": 90,
+   "total": 268,
+   "divergencia": "Brain IDO depressive-like, 2017)[ML; camundongo], "
+  },
+  {
+   "id_vinculo": "VINC_B1_0121",
+   "categoria": "PROSA",
+   "casados": 147,
+   "total": 305,
+   "divergencia": "Serum S100B in depression, 2019)[OB; humano] e pro"
+  },
+  {
+   "id_vinculo": "VINC_B1_0122",
+   "categoria": "PROSA",
+   "casados": 237,
+   "total": 395,
+   "divergencia": "Serum S100B in depression, 2019)[OB; humano] e pro"
+  },
+  {
+   "id_vinculo": "VINC_B1_0127",
+   "categoria": "PROSA",
+   "casados": 235,
+   "total": 326,
+   "divergencia": "Depression and antidepressant-response biomarkers "
+  },
+  {
+   "id_vinculo": "VINC_B1_0128",
+   "categoria": "PROSA",
+   "casados": 75,
+   "total": 216,
+   "divergencia": "a inflamação \"sabota\" os mecanismos de ação do ant"
+  },
+  {
+   "id_vinculo": "VINC_B1_0133",
+   "categoria": "PROSA",
+   "casados": 93,
+   "total": 241,
+   "divergencia": "Decreased serum tryptophan and depressive symptoms"
+  },
+  {
+   "id_vinculo": "VINC_B1_0135",
+   "categoria": "PROSA",
+   "casados": 223,
+   "total": 328,
+   "divergencia": "Functional connectivity in reward circuitry and an"
+  },
+  {
+   "id_vinculo": "VINC_B1_0136",
+   "categoria": "PROSA",
+   "casados": 135,
+   "total": 234,
+   "divergencia": "Inflammation, reward circuitry and anhedonia/PTSD "
+  },
+  {
+   "id_vinculo": "VINC_B1_0160",
+   "categoria": "PROSA",
+   "casados": 250,
+   "total": 410,
+   "divergencia": "in-derived estrogen and neurological disorders, 20"
+  },
+  {
+   "id_vinculo": "VINC_B1_0166",
+   "categoria": "PROSA",
+   "casados": 148,
+   "total": 228,
+   "divergencia": "ynaptic scaling mediated by glial TNF-alpha, 2006)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0167",
+   "categoria": "PROSA",
+   "casados": 182,
+   "total": 446,
+   "divergencia": "Mechanisms for IFN-α-induced depression and neural"
+  },
+  {
+   "id_vinculo": "VINC_B1_0169",
+   "categoria": "PROSA",
+   "casados": 116,
+   "total": 207,
+   "divergencia": "M2 microglia-derived small extracellular vesicles "
+  },
+  {
+   "id_vinculo": "VINC_B1_0172",
+   "categoria": "PROSA",
+   "casados": 145,
+   "total": 371,
+   "divergencia": " >3 mg/L, com razão de chances ~1,46 para inflamaç"
+  },
+  {
+   "id_vinculo": "VINC_B1V2_0205",
+   "categoria": "PROSA",
+   "casados": 116,
+   "total": 419,
+   "divergencia": "N=105, condicionamento de medo) (Xia et al., 2024)"
+  },
+  {
+   "id_vinculo": "VINC_B1V2_0206",
+   "categoria": "PROSA",
+   "casados": 116,
+   "total": 419,
+   "divergencia": "N=105, condicionamento de medo) (Xia et al., 2024)"
+  }
+ ]
+}

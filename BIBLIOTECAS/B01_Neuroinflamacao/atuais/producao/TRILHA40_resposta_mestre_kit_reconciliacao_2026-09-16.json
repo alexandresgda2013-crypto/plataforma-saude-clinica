@@ -1,0 +1,195 @@
+{
+  "trilha": 40,
+  "data": "2026-09-16",
+  "rodada": 22,
+  "objeto": "resposta do mestre (kit ancorado + diff reconciliado + escopo + camada a montante) — réplica",
+  "etapas": {
+    "M0_arquivo": {
+      "sha_resposta_mestre": "820d37e9773d9ee50e8b0d05fbd0791c44a33e24d225cf2086da14d564123fd0"
+    },
+    "M1_sha_revisao": {
+      "sha_por_extenso_presente_na_resposta": true,
+      "prefixo_confere_com_o_truncado_da_rev24": true,
+      "byte_verify_contra_nossa_copia": "IMPOSSÍVEL — nossa cópia veio colada (renderização), não é o arquivo dele; honestamente nomeado",
+      "condicao_de_selagem": "se o operador repassar o ARQUIVO da revisão, a casa confere be48a5efa… byte a byte"
+    },
+    "M2_campos_do_bloco": {
+      "regex_escopo": {
+        "uso": "(?m)^\\s*uso:\\s*([a-z_]+)\\s*$ @6ºBLOCO",
+        "comparador": "(?m)^\\s*comparador:\\s*(.+?)\\s*$ @6ºBLOCO",
+        "moderadores": "(?m)^\\s*moderadores:\\s*$ @6ºBLOCO",
+        "usado_em_biblioteca": "(?m)^\\s*usado_em_biblioteca:\\s*([a-z_]+)\\s*$ @6ºBLOCO",
+        "evidence_role": "(?m)^\\s*evidence_role:\\s*([a-z_]+)\\s*$ @6ºBLOCO"
+      },
+      "uso": {
+        "total": 22,
+        "dist": {
+          "clinico": 12,
+          "contexto_mecanistico": 6,
+          "gap_pesquisa": 4
+        }
+      },
+      "comparador": {
+        "total": 34,
+        "valores_distintos": 28,
+        "valores": [
+          "controles_com_hipertensao_intracraniana_idiopatica,",
+          "controles_saudaveis,",
+          "controles_saudaveis, especie: humano,",
+          "controles_saudaveis, especie: humano, n: 110,",
+          "controles_saudaveis, especie: humano, n: 137,",
+          "controles_saudaveis, especie: humano, n: 139,",
+          "controles_saudaveis, especie: humano, n: 152,",
+          "controles_saudaveis, especie: humano, n: 206,",
+          "controles_saudaveis, especie: humano, n: 215,",
+          "controles_saudaveis, especie: humano, n: 27,",
+          "controles_saudaveis, especie: humano, n: 30,",
+          "controles_saudaveis, especie: humano, n: 319,",
+          "controles_saudaveis, especie: humano, n: 35,",
+          "controles_saudaveis, especie: humano, n: 40,",
+          "controles_saudaveis, especie: humano, n: 64,",
+          "controles_saudaveis, especie: humano, n: 76,",
+          "controles_saudaveis, especie: humano, n: 88,",
+          "controles_saudaveis, especie: humano, n: 94,",
+          "controles_saudaveis, k: 69,",
+          "controles_saudaveis, k: 8, n: 402,",
+          "controles_saudaveis, k: 9,",
+          "controles_saudaveis, k: 97,",
+          "controles_saudaveis, n: 1188, k: 14,",
+          "controles_saudaveis, n: 13541, k: 37,",
+          "controles_sem_comorbidades_inflamatorias_conhecidas, k: 64,",
+          "correlacao_continua_dentro_coorte_gds15,",
+          "mulheres_idosas_sem_depressao,",
+          "outros_transtornos_psiquiatricos,"
+        ]
+      },
+      "moderadores_ocorrencias": 6,
+      "usado_em_biblioteca": {
+        "total": 22,
+        "dist": {
+          "nao": 22
+        }
+      },
+      "evidence_role": {
+        "total": 22,
+        "dist": {
+          "human_clinical": 22
+        }
+      }
+    },
+    "M5_wiring_claims": {
+      "regex": "B1\\.SM02\\.\\d{3}[a-z]? e B1\\.MEC\\.BLOCO\\d{2}\\.\\d{3} @BLOCO+LISTA+SCHEMA",
+      "SM02_distintos": 43,
+      "SM02_lista": [
+        "B1.SM02.001",
+        "B1.SM02.001b",
+        "B1.SM02.001c",
+        "B1.SM02.001d",
+        "B1.SM02.002",
+        "B1.SM02.003",
+        "B1.SM02.004",
+        "B1.SM02.005",
+        "B1.SM02.005b",
+        "B1.SM02.006",
+        "B1.SM02.007",
+        "B1.SM02.007b",
+        "B1.SM02.008",
+        "B1.SM02.009",
+        "B1.SM02.010",
+        "B1.SM02.011",
+        "B1.SM02.012",
+        "B1.SM02.012b",
+        "B1.SM02.012c",
+        "B1.SM02.013",
+        "B1.SM02.013b",
+        "B1.SM02.014",
+        "B1.SM02.015",
+        "B1.SM02.016",
+        "B1.SM02.017",
+        "B1.SM02.018",
+        "B1.SM02.019",
+        "B1.SM02.020",
+        "B1.SM02.021",
+        "B1.SM02.022",
+        "B1.SM02.023",
+        "B1.SM02.024",
+        "B1.SM02.025",
+        "B1.SM02.026",
+        "B1.SM02.027",
+        "B1.SM02.028",
+        "B1.SM02.029",
+        "B1.SM02.030",
+        "B1.SM02.031",
+        "B1.SM02.032",
+        "B1.SM02.033",
+        "B1.SM02.034",
+        "B1.SM02.035"
+      ],
+      "MEC_distintos": 0
+    },
+    "M4_acervo_evid_role": {
+      "dist": {
+        "preclinical_mechanistic": 133,
+        "human_clinical": 66,
+        "review": 30,
+        "human_experimental": 6,
+        "post_mortem": 2
+      }
+    },
+    "M6_nao_estabelecida": {
+      "total": 4,
+      "ids": [
+        "VINC_B1_0028",
+        "VINC_B1V2_0197",
+        "VINC_B1V2_0198",
+        "VINC_B1V2_0202"
+      ],
+      "lado_kit_da_D03": "4 claims gap_pesquisa (contados em M2, mesmo grep) — convergência dos dois lados medida"
+    },
+    "M2b_correcao_datada_2026-09-16": {
+      "ts": "2026-09-16 07:26:55",
+      "nota": "A primeira varredura da trilha usou regex ANCORADA em início de linha (^\\s*chave:) e subcapturou. Reconciliação de escopo: os números do mestre reproduzem EXATAMENTE no 6º BLOCO com padrão de CHAVE LIVRE ((^|[^_a-z])chave: — captura chaves dentro de estruturas {…} aninhadas). Lição registrada: contagem sem comando/regex declarado gera vaivém — a casa passa a declarar SEMPRE o padrão; fica o convite recíproco.",
+      "uso_livre_bloco": {
+        "total": 23,
+        "valores_ancorados": {
+          "clinico": 12,
+          "contexto_mecanistico": 6,
+          "gap_pesquisa": 4
+        },
+        "obs": "22 entries com valor enum + 1 ocorrência livre — bate com o mestre (23; 12/6/4)"
+      },
+      "comparador_livre_bloco": {
+        "total": 59,
+        "valores_distintos": 8,
+        "valores": {
+          "controles_saudaveis": 38,
+          "transtorno_bipolar": 3,
+          "controles_com_hipertensao_intracraniana_idiopatica": 2,
+          "outros_transtornos_psiquiatricos": 1,
+          "mulheres_idosas_sem_depressao": 1,
+          "correlacao_continua_dentro_coorte_gds15": 1,
+          "controles_sem_comorbidades_inflamatorias_conhecidas": 1,
+          "bipolar": 1
+        },
+        "obs": "48 ocorrências com valor + 11 menções em prosa — bate com o mestre (59; 8 valores)"
+      },
+      "moderadores_livre_bloco": 22,
+      "usado_em_biblioteca_livre_bloco": 23,
+      "escopo_do_mestre_deduzido_e_confirmado": "6º BLOCO, chaves livres"
+    }
+  },
+  "vereditos": {
+    "M1_prefixo_recebido_selagem_pendente_arquivo": true,
+    "M2_uso_23_12_6_4": true,
+    "M2_comparador_59_e_8_valores": true,
+    "M2_moderadores_22": true,
+    "M2_usado_em_biblioteca_23_nao": true,
+    "M3_evidence_role_22de22_human_clinical": true,
+    "M5_wiring_43_SM02_e_0_MEC": true,
+    "M4_133_preclinical_e_30_review": true,
+    "M6_4_em_274": true,
+    "M2b_reconciliacao_escopo_completa_com_confissao": true
+  },
+  "ciencia_tocada": 0,
+  "pendente_nomeado": "anexo do mestre (SEU arquivo P-8 com o comentário F-C2 de 6 linhas) — operador repassa; casa faz o confronto byte a byte contra o oficial instalado (84fa918d…): critério de aceite = diff SO o comentário + execução 2/299/exit 1 + V-14 verde + F-C2 disparando. Reconciliação +17/−7 dele × +10/−7 nosso: remoções idênticas (−7) ✔ confere com o medido na trilha 36."
+}

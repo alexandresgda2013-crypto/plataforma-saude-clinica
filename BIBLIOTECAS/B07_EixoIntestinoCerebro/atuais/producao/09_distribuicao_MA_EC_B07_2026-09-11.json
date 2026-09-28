@@ -1,0 +1,315 @@
+{
+ "acao": "09_distribuicao_MA_EC_MODULO09",
+ "data": "2026-09-11",
+ "biblioteca": "B07_EixoIntestinoCerebro",
+ "lei": "PROMPT_v4.2 instrução final: [MA]->02, [EC]->03; id único global (validar_auditoria.py)",
+ "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+ "contagens": {
+  "ficam_01": 92,
+  "vao_02_MA": 21,
+  "vao_03_EC": 3,
+  "conflitos": 0,
+  "tag_EC_amplo_nao_migrado": 17
+ },
+ "ids_para_02": [
+  {
+   "id": "REF_HUANG_2016",
+   "pmid": "27509521",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_LIU_2018",
+   "pmid": "29995348",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_GOH_2019",
+   "pmid": "31563280",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_CHINNA_2020",
+   "pmid": "32539741",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_SIMPSON_2021",
+   "pmid": "33271426",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_COHENKADOSH_2021",
+   "pmid": "34131108",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_LEMORVAN_2021",
+   "pmid": "34441793",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_NIKOLOVA_2021",
+   "pmid": "34524405",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ELDIB_2021",
+   "pmid": "34620373",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_LEMORVAN_2022",
+   "pmid": "35276981",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_TRIFKOVIC_2022",
+   "pmid": "35742022",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_SIKORSKA_2023",
+   "pmid": "36834489",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_GAO_2023",
+   "pmid": "38065935",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ZHAO_2025",
+   "pmid": "38219239",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_CROCETTA_2024",
+   "pmid": "39360283",
+   "sinais": [
+    "tag_desenho:[MA/neuroimagem]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ASAD_2025",
+   "pmid": "39731509",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_CAO_2025",
+   "pmid": "40312666",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_MOSHFEGHINIA_2025",
+   "pmid": "40440772",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_SHAKIR_2026",
+   "pmid": "41605120",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_DO_2026",
+   "pmid": "41865792",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_LIB_2026",
+   "pmid": "41921871",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  }
+ ],
+ "ids_para_03": [
+  {
+   "id": "REF_MYSONHIMER_2023",
+   "pmid": "36841506",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_FENG_2024",
+   "pmid": "39617896",
+   "sinais": [
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_LIJ_2026",
+   "pmid": "42309058",
+   "sinais": [
+    "tag_desenho:[EC/EMERGENTE]",
+    "desenho_rct:titulo"
+   ]
+  }
+ ],
+ "conflitos_tag_x_titulo_REVISAVEL": [],
+ "REVISAVEL_tag_EC_amplo_sem_sinal_RCT_nao_migrado": [
+  {
+   "id": "REF_MAES_2008",
+   "pmid": "18283240",
+   "desenho_estudo": "[EC] estudo humano transversal; UM GRUPO, ensaio pouco padronizado — Neuro Endocrinol Lett",
+   "titulo": "The gut-brain barrier in major depression: intestinal mucosal dysfunction with an increased translocation of LPS from gram negative enteroba"
+  },
+  {
+   "id": "REF_MESSAOUDI_2011",
+   "pmid": "20974015",
+   "desenho_estudo": "[EC] RCT em voluntários sadios — Br J Nutr",
+   "titulo": "Assessment of psychotropic-like properties of a probiotic formulation (Lactobacillus helveticus R0052 and Bifidobacterium longum R0175) in r"
+  },
+  {
+   "id": "REF_SCHMIDT_2015",
+   "pmid": "25449699",
+   "desenho_estudo": "[EC] RCT em voluntários sadios — Psychopharmacology",
+   "titulo": "Prebiotic intake reduces the waking cortisol response and alters emotional bias in healthy volunteers"
+  },
+  {
+   "id": "REF_JIANG_2015",
+   "pmid": "25882912",
+   "desenho_estudo": "[EC] estudo caso-controle humano — Brain Behav Immun",
+   "titulo": "Altered fecal microbiota composition in patients with major depressive disorder"
+  },
+  {
+   "id": "REF_HEMMINGS_2017",
+   "pmid": "28700459",
+   "desenho_estudo": "[EC] estudo exploratório humano — Psychosom Med",
+   "titulo": "The Microbiome in Posttraumatic Stress Disorder and Trauma-Exposed Controls: An Exploratory Study"
+  },
+  {
+   "id": "REF_STEVENS_2018",
+   "pmid": "28814485",
+   "desenho_estudo": "[EC] carta/estudo humano pequeno Gut — zonulina/FABP2/LPS",
+   "titulo": "Increased human intestinal barrier permeability plasma biomarkers zonulin and FABP2 correlated with plasma LPS and altered gut microbiome in"
+  },
+  {
+   "id": "REF_STRANDWITZ_2019",
+   "pmid": "30531975",
+   "desenho_estudo": "[EC/ecologia] isolamento de bactérias de microbiota humana — Nat Microbiol",
+   "titulo": "GABA-modulating bacteria of the human gut microbiota"
+  },
+  {
+   "id": "REF_VALLESCOLOMER_2019",
+   "pmid": "30718848",
+   "desenho_estudo": "[EC] coorte humana + metagenômica funcional — Nat Microbiol",
+   "titulo": "The neuroactive potential of the human gut microbiota in quality of life and depression"
+  },
+  {
+   "id": "REF_BUTLER_2022",
+   "pmid": "34758380",
+   "desenho_estudo": "[EC] estudo humano transversal Brain Behav Immun — fobia social",
+   "titulo": "The immune-kynurenine pathway in social anxiety disorder"
+  },
+  {
+   "id": "REF_MAES_2023",
+   "pmid": "37174640",
+   "desenho_estudo": "[EC] estudo caso-controle humano (Tailândia) — Cells",
+   "titulo": "Exploration of the Gut Microbiome in Thai Patients with Major Depressive Disorder Shows a Specific Bacterial Profile with Depletion of the R"
+  },
+  {
+   "id": "REF_ZEAMER_2023",
+   "pmid": "37980332",
+   "desenho_estudo": "[EC] coorte longitudinal pós-trauma — Transl Psychiatry",
+   "titulo": "Association between microbiome and the development of adverse posttraumatic neuropsychiatric sequelae after traumatic stress exposure"
+  },
+  {
+   "id": "REF_JIA_2024",
+   "pmid": "39719433",
+   "desenho_estudo": "[EC] metabolômica+metagenômica humana TDM — Transl Psychiatry (epub 2024)",
+   "titulo": "Gut microbiota dysbiosis promotes cognitive impairment via bile acid metabolism in major depressive disorder"
+  },
+  {
+   "id": "REF_CUSSOTTO_2025",
+   "pmid": "40717539",
+   "desenho_estudo": "[EC] estudo 2025 J Neurochem — pacientes SEM antidepressivo",
+   "titulo": "The Gut Microbiota Is Altered in Antidepressant-Free Depressed Patients and Is Associated With Depression Severity"
+  },
+  {
+   "id": "REF_TULKENS_2020",
+   "pmid": "30518529",
+   "desenho_estudo": "[EC] carta ao Gut: EVs bacterianas LPS+ sistêmicas ↑ em pacientes com disfunção de barreira · Gut",
+   "titulo": "Increased levels of systemic LPS-positive bacterial extracellular vesicles in patients with intestinal barrier dysfunction."
+  },
+  {
+   "id": "REF_LIN_2023",
+   "pmid": "37049591",
+   "desenho_estudo": "[EC] disbiose+via KYN como biomarcadores potenciais na TDM · Nutrients",
+   "titulo": "Dysbiosis of the Gut Microbiota and Kynurenine (Kyn) Pathway Activity as Potential Biomarkers in Patients with Major Depressive Disorder."
+  },
+  {
+   "id": "REF_ZHOU_2023",
+   "pmid": "37386523",
+   "desenho_estudo": "[EC] metabolômica Trp + microbiota em adolescentes com depressão (humano) com validação em camundongo · Microbiome",
+   "titulo": "Microbiome and tryptophan metabolomics analysis in adolescent depression: roles of the gut microbiota in the regulation of tryptophan-derive"
+  },
+  {
+   "id": "REF_ZHANG_2025",
+   "pmid": "39716675",
+   "desenho_estudo": "[EC] multiômica microbiota+imunidade+Trp-KYN × cognição na TDM · J Affect Disord",
+   "titulo": "Multiomics analysis reveals aberrant tryptophan-kynurenine metabolism and immunity linked gut microbiota with cognitive impairment in major "
+  }
+ ],
+ "divida_nomeada": "forca_evidencia_afirmacao vazio quando a ficha não trazia (schema 09.2 exige; preenchimento exige avaliação — não fabricar)"
+}

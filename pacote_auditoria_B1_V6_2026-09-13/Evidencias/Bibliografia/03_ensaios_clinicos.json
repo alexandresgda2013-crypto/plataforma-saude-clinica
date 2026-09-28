@@ -1,0 +1,121 @@
+[
+  {
+    "pmid_oficial": "22945416",
+    "doi": "10.1001/2013.jamapsychiatry.4",
+    "titulo_artigo": "A randomized controlled trial of the tumor necrosis factor antagonist infliximab for treatment-resistant depression: the role of baseline inflammatory biomarkers.",
+    "autores": [
+      "Raison CL",
+      "Rutherford RE",
+      "Woolwine BJ",
+      "Shuo C",
+      "Schettler P",
+      "Drake DF"
+    ],
+    "revista_ano": "JAMA psychiatry (2013)",
+    "desenho_estudo": "RCT (JAMA Psychiatry; N=60)",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_06",
+    "achado_central_molecular": "inflamacao alta prediz nao-resposta a antidepressivo e resposta ao anti-TNF; citocina sabotam mecanismo de acao do antidepressivo",
+    "extrapolacao_por_analogia": "baixa (humano)",
+    "status_auditoria": "VALIDADO_G3_IA (revisao de pares pendente)",
+    "claim_id_origem": "",
+    "citacao_confirmada": true,
+    "origem_pipeline": "BUSCA_FERRAMENTA",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "human_clinical",
+    "verification_status": "pendente",
+    "ids_referencia_interna": [
+      "REF_RAISON_2013"
+    ],
+    "data_verificacao": "2026-09-03",
+    "id_referencia_interna": "REF_RAISON_2013",
+    "_aliases": [
+      "RAISON",
+      "Raison"
+    ],
+    "sinais_classificacao": [
+      "desenho_rct:titulo"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+  },
+  {
+    "pmid_oficial": "38233395",
+    "doi": "",
+    "titulo_artigo": "Attenuating human fear memory retention with minocycline: a randomized placebo-controlled trial.",
+    "autores": [
+      "Xia Y"
+    ],
+    "revista_ano": "Translational psychiatry (2024)",
+    "desenho_estudo": "EC humano RCT (minociclina/memoria de medo)",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/v2",
+    "achado_central_molecular": "Attenuating human fear memory retention with minocycline: a randomized placebo-controlled trial.",
+    "extrapolacao_por_analogia": "baixa (humano)",
+    "status_auditoria": "VALIDADO_G3_IA (B1 v2, 2026-09-04)",
+    "claim_id_origem": "",
+    "citacao_confirmada": true,
+    "origem_pipeline": "BUSCA_FERRAMENTA",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora (v2)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "human_experimental",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_XIA_2024"
+    ],
+    "id_referencia_interna": "REF_XIA_2024",
+    "_aliases": [
+      "XIA",
+      "Xia"
+    ],
+    "sinais_classificacao": [
+      "desenho_rct:titulo"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+  },
+  {
+    "pmid_oficial": "31427751",
+    "doi": "",
+    "titulo_artigo": "Effects of immunomodulatory drugs on depressive symptoms: a mega-analysis of randomized placebo-controlled trials.",
+    "autores": [
+      "Wittenberg GM"
+    ],
+    "revista_ano": "Molecular psychiatry (2020)",
+    "desenho_estudo": "MA mega-analise de RCT (farmacos imunomoduladores)",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/v2",
+    "achado_central_molecular": "Effects of immunomodulatory drugs on depressive symptoms: a mega-analysis of randomized placebo-controlled trials.",
+    "extrapolacao_por_analogia": "baixa (humano)",
+    "status_auditoria": "VALIDADO_G3_IA (B1 v2, 2026-09-04)",
+    "claim_id_origem": "",
+    "citacao_confirmada": true,
+    "origem_pipeline": "BUSCA_FERRAMENTA",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora (v2)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "human_experimental",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_WITTENBERG_2020"
+    ],
+    "g2_elegibilidade": "eligible",
+    "g2_motivo": "classificado",
+    "id_referencia_interna": "REF_WITTENBERG_2020",
+    "_aliases": [
+      "Wittenberg",
+      "WITTENBERG"
+    ],
+    "sinais_classificacao": [
+      "desenho_rct:titulo"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+  }
+]

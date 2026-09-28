@@ -1,0 +1,381 @@
+{
+  "rodada": 74,
+  "data": "2026-09-22",
+  "itens": [
+    {
+      "item": 1,
+      "teste": "identidade v1.9 upload ≡ série",
+      "ok": true,
+      "nivel": "L1-preciso (sha256)"
+    },
+    {
+      "item": 2,
+      "teste": "identidade L-06 artefato vigente",
+      "ok": true,
+      "nivel": "L1-preciso (sha256)"
+    },
+    {
+      "item": 3,
+      "teste": "correção 'G3 é parecer, não fechamento' presente no v1.9?",
+      "medicoes": {
+        "v1.9::retorn": {
+          "n": 4,
+          "hits": [
+            {
+              "linha": 331,
+              "trinca": "...ão de leitura de resultados de query (novo)  Quando a query no PubMed retornar múltiplos resultados, a ordem de leitura NÃO deve ser \"os mais rece..."
+            },
+            {
+              "linha": 348,
+              "trinca": "...vez.  ## Fila de resultados não triados (novo)  Todo PMID que a query retornou, mas que não foi lido/avaliado na leva atual, DEVE ser registrado e..."
+            },
+            {
+              "linha": 529,
+              "trinca": "...ogado\"  Nenhum resultado de query descartado sem registro - Todo PMID retornado pela busca e não lido vai para resultados_nao_triados — nunca simp..."
+            }
+          ]
+        },
+        "v1.9::confirmação conjunta": {
+          "n": 0,
+          "hits": []
+        },
+        "v1.9::G3 é parecer": {
+          "n": 0,
+          "hits": []
+        },
+        "v1.9::não fechamento": {
+          "n": 0,
+          "hits": []
+        },
+        "v1.9::fechamento": {
+          "n": 0,
+          "hits": []
+        },
+        "v1.9::confirmad": {
+          "n": 5,
+          "hits": [
+            {
+              "linha": 12,
+              "trinca": "...rado AO VIVO pela IA na própria sessão, desde que o PMID #     esteja confirmado em fonte verificável (PubMed/PMC, site do editor #     ou repositóri..."
+            },
+            {
+              "linha": 234,
+              "trinca": "...o do parecer da IA 3 1. Veredito G1 / G2 / G3 por PMID, com o que foi confirmado e onde    (fonte do texto nomeada — ver \"Verificação ao vivo\") 2. Di..."
+            },
+            {
+              "linha": 264,
+              "trinca": "...itável do texto.  Condições, todas obrigatórias: 1. O PMID tem de ser confirmado em fonte verificável nesta sessão —    PubMed/PMC, site do editor, o..."
+            }
+          ]
+        },
+        "consolidado::retorn": {
+          "n": 2,
+          "hits": [
+            {
+              "linha": 24,
+              "trinca": "... não fechamento do claim.**  O fluxo correto é:  IA1 → IA2 → IA3/G3 → retorno do G3 às demais → confirmação conjunta → fechamento.  Portanto, a de..."
+            },
+            {
+              "linha": 26,
+              "trinca": "...→ confirmação conjunta → fechamento.  Portanto, a decisão da IA3 deve retornar às outras IAs. O claim somente é encerrado quando o resultado estiv..."
+            }
+          ]
+        },
+        "consolidado::confirmação conjunta": {
+          "n": 1,
+          "hits": [
+            {
+              "linha": 24,
+              "trinca": "...*  O fluxo correto é:  IA1 → IA2 → IA3/G3 → retorno do G3 às demais → confirmação conjunta → fechamento.  Portanto, a decisão da IA3 deve retornar às outras IAs..."
+            }
+          ]
+        }
+      },
+      "ok": true,
+      "ok_significado": "AUSENTE no v1.9 (0× nos 3 padrões exatos) = correção NÃO incorporada",
+      "nivel": "L1 (0× de forma exata) — 'ausente' apenas nestes 3 padrões",
+      "veredito_corrigido": "CORREÇÃO AUSENTE do v1.9: 0× 'confirmação conjunta' · 0× 'G3 é parecer' · 0× 'não fechamento'. As 4 ocorrências do radical 'retorn' são casuais (linhas 331/348/529/533: PubMed retornar/retornado/retorno via API) — lidamente lidas por trinca e descartadas como evidência da correção. NENHuma frase do v1.9 manda o parecer da IA 3 retornar às IAs 1-2 para confirmação antes do fechamento do claim.",
+      "confissao_C85-2": "2026-09-22: primeiro teste exigiu retorn==0 e saiu vermelho — erro da casa: radical 'retorn' captura falso amigo (uso casual de query). Correção: veredito pela trinca (lição C78-1 reaplicada). Comando/gravação neste JSON."
+    },
+    {
+      "item": 4,
+      "teste": "mapa de convergência verbatim v1.9 x L-06",
+      "medicoes": {
+        "L06::não fabrica precedência": {
+          "n": 1,
+          "hits": [
+            {
+              "linha": 59,
+              "trinca": "...hum crédito é provisório.  ---  ## 0. INVARIANTE E FECHO  > **O Motor não fabrica precedência científica onde a ciência não estabeleceu precedência.**  Frase idênt..."
+            }
+          ]
+        },
+        "v1.9::fonte primária": {
+          "n": 1,
+          "hits": [
+            {
+              "linha": 194,
+              "trinca": "...redige o claim no schema  ### Princípio de arbitragem (inegociável) A fonte primária é o árbitro factual. Concordância entre IAs NÃO é evidência e não fec..."
+            }
+          ]
+        },
+        "v1.9::consenso": {
+          "n": 1,
+          "hits": [
+            {
+              "linha": 217,
+              "trinca": "...alva, com as duas leituras nomeadas, e o trabalho segue. Não se força consenso: insistir até concordar produz acordo por desgaste, não por evidência..."
+            }
+          ]
+        },
+        "L06::preservar as duas": {
+          "n": 1,
+          "hits": [
+            {
+              "linha": 291,
+              "trinca": "...trutura disponível não permitir resolver legitimamente a diferença: **preservar as duas, registrar a lacuna e não escolher.** > > Quando a estrutura permitir..."
+            }
+          ]
+        },
+        "L06::registrar a lacuna": {
+          "n": 1,
+          "hits": [
+            {
+              "linha": 291,
+              "trinca": "...não permitir resolver legitimamente a diferença: **preservar as duas, registrar a lacuna e não escolher.** > > Quando a estrutura permitir resolução: **resolv..."
+            }
+          ]
+        },
+        "v1.9::não se força consenso": {
+          "n": 0,
+          "hits": []
+        },
+        "L06::preenchimento implícito": {
+          "n": 1,
+          "hits": [
+            {
+              "linha": 153,
+              "trinca": "...resolutivo**.  *Ausência de estrutura gera incerteza explícita, nunca preenchimento implícito.* (Comentador)  ---  ## 4. `ancoras[].direcao_suporte`  Campo do N2 v..."
+            }
+          ]
+        },
+        "v1.9::nunca se estima": {
+          "n": 1,
+          "hits": [
+            {
+              "linha": 276,
+              "trinca": "...texto acessível), o PMID fica    em G1/G2 e aguarda o usuário colar — nunca se estima o conteúdo  A busca da query no PubMed continua sendo do usuário: a I..."
+            }
+          ]
+        },
+        "v1.9::conhecimento nasce em G3": {
+          "n": 1,
+          "hits": [
+            {
+              "linha": 139,
+              "trinca": "...de ouro:** PMID aprovado em G1/G2 é fonte elegível, não conhecimento. Conhecimento nasce em G3. Obrigatório: guardar o log de exclusão, não só o de inclusão (estilo..."
+            }
+          ]
+        },
+        "v1.9::heterogeneidade": {
+          "n": 3,
+          "hits": [
+            {
+              "linha": 152,
+              "trinca": "... O abstract sustenta o claim de forma direta, comparador correto, sem heterogeneidade relevante levantada no próprio texto | Motor usa como evidência plena..."
+            },
+            {
+              "linha": 153,
+              "trinca": "...ressalva** | O abstract sustenta o claim, MAS há limitação relevante (heterogeneidade alta, efeito pequeno/incerto, amostra restrita, comparador parcial) —..."
+            }
+          ]
+        },
+        "v1.9::aprovado_com_ressalva": {
+          "n": 8,
+          "hits": [
+            {
+              "linha": 153,
+              "trinca": "...rio texto | Motor usa como evidência plena na narrativa clínica | | **aprovado_com_ressalva** | O abstract sustenta o claim, MAS há limitação relevante (heteroge..."
+            },
+            {
+              "linha": 156,
+              "trinca": "...unca é citado na narrativa clínica |  **Regra inegociável:** `status: aprovado_com_ressalva` exige `nota_ressalva` preenchido (Schema-Claim já obriga isso) — sem..."
+            }
+          ]
+        },
+        "L06::aprovado_com_ressalva": {
+          "n": 0,
+          "hits": []
+        },
+        "v1.9::nota_ressalva": {
+          "n": 6,
+          "hits": [
+            {
+              "linha": 157,
+              "trinca": "...nica |  **Regra inegociável:** `status: aprovado_com_ressalva` exige `nota_ressalva` preenchido (Schema-Claim já obriga isso) — sem `nota_ressalva`, o cl..."
+            },
+            {
+              "linha": 158,
+              "trinca": "...exige `nota_ressalva` preenchido (Schema-Claim já obriga isso) — sem `nota_ressalva`, o claim não pode ser fechado com esse status, porque o motor não te..."
+            }
+          ]
+        },
+        "L06::nota_ressalva": {
+          "n": 0,
+          "hits": []
+        },
+        "v1.9::divergência": {
+          "n": 5,
+          "hits": [
+            {
+              "linha": 4,
+              "trinca": "... Arena → Claude), #     com papéis, princípio de arbitragem, tipos de divergência, limite #     de rodadas, entrega mínima de rastreabilidade e formato..."
+            },
+            {
+              "linha": 207,
+              "trinca": "... quando as duas análises anteriores concordam entre si.  ### Tipos de divergência e como cada uma fecha | Tipo | Exemplos | Como resolve | Rodadas | |-..."
+            }
+          ]
+        },
+        "v1.9::concordância entre IAs não é evidência": {
+          "n": 0,
+          "hits": []
+        }
+      },
+      "ok": true,
+      "nivel": "L1/L2 conforme padrão; trincas gravadas"
+    },
+    {
+      "item": 5,
+      "teste": "acoplamento nominal entre os documentos",
+      "medicoes": {
+        "v1.9::L-05": {
+          "n": 0,
+          "hits": []
+        },
+        "v1.9::L-06": {
+          "n": 0,
+          "hits": []
+        },
+        "v1.9::L-NT": {
+          "n": 0,
+          "hits": []
+        },
+        "v1.9::Motor": {
+          "n": 7,
+          "hits": [
+            {
+              "linha": 146,
+              "trinca": "...ão 3 desfechos possíveis, e a diferença entre eles é o que permite ao motor clínico, no fim da cadeia, comunicar nuance real ao profissional em v..."
+            },
+            {
+              "linha": 150,
+              "trinca": "...z de simplificar demais a evidência:  | Saída | Quando usar | O que o motor faz com isso | |---|---|---| | **aprovado** (pleno) | O abstract sust..."
+            }
+          ]
+        },
+        "v1.9::N1": {
+          "n": 0,
+          "hits": []
+        },
+        "v1.9::N2": {
+          "n": 0,
+          "hits": []
+        },
+        "L06::Como Executar": {
+          "n": 0,
+          "hits": []
+        },
+        "L06::claim clínico": {
+          "n": 0,
+          "hits": []
+        },
+        "L06::G3": {
+          "n": 0,
+          "hits": []
+        }
+      },
+      "ok": true,
+      "nivel": "L1 (forma exata casefold)"
+    },
+    {
+      "item": 6,
+      "teste": "réplica contagens do kit (mestre: 41/22/21/8/14)",
+      "medicao": {
+        "alvos_lista": 58,
+        "alvos_distintos": 41,
+        "ids_no_bloco": 26,
+        "status_aprovado_no_bloco": 8,
+        "status_aprovado_com_ressalva_no_bloco": 14,
+        "padrao": "regex B1\\.SM02\\.\\d{3}[a-z]?; status:\\s*aprovado(_com_ressalva)? (casefold, neg lookahead no 1º)",
+        "ids_com_status_no_bloco": 22,
+        "alvos_distintos_lista": 41,
+        "os_4_ids_citados_em_logs_alheios": [
+          "B1.SM02.017",
+          "B1.SM02.023",
+          "B1.SM02.028",
+          "B1.SM02.032"
+        ]
+      },
+      "ok": true,
+      "nivel": "L1-exato sobre corpus declarado (Lista 3252a920-era / Bloco 0a630dba-era — digitais medidas agora acima)",
+      "veredito_corrigido": "CONFEREM as medidas do mestre: 41 alvos distintos na Lista · 22 entradas com status no Bloco (8 aprovado + 14 aprovado_com_ressalva) · 21 alvos sem entrada (41-22 com 2 citados só em log = 017 figura nos dois mundos; a conta do mestre 41-22=19+2=21 permanece dele e não é auditada aqui; auditado: 41 distintos e 22 status).",
+      "confissao_C85-1": "2026-09-22: primeira medição contou ids distintos citados no Bloco (26) e deu vermelho vs. 22 — erro de especificação da casa: 4 ids (017/023/028/032) são citações dentro de fontes_rejeitadas/nao_triados de outros claims. Especificação corrigida: 'entrada' = linha 'status:' presente (22). Comando/gravação neste JSON."
+    },
+    {
+      "item": 7,
+      "teste": "rastro do piloto B1.SM02.014 na base",
+      "arquivos_com_mencao": [
+        "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Auditoria_B1/decisoes_B1.md",
+        "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/TRILHA40_resposta_mestre_kit_reconciliacao_2026-09-16.json",
+        "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/TRILHA50_proposta_fluxo_claim_N1N2_2026-09-18.json",
+        "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/TRILHA50_script_proposta_fluxo_claim_N1N2_2026-09-18.py"
+      ],
+      "n_arquivos": 4,
+      "ok": true,
+      "nivel": "busca global por nome; leitura de conteúdo fica para o documento",
+      "comando": "grep -rl 'SM02.014' BIBLIOTECAS/B01_Neuroinflamacao"
+    }
+  ],
+  "corpus_digitais": {
+    "v19": "1cd90b407facee81692d668919829c9d6d5a149b1309424c6f012e26cd81f586",
+    "v19_serie": "1cd90b407facee81692d668919829c9d6d5a149b1309424c6f012e26cd81f586",
+    "L06": "98e90bdc755162b28fd16817d65692cebe81f939c466ef1d29c7a0a1124f2b41",
+    "lista": "3252a920c6e972f21804f0488d6fd34df49ea59c6e23c8dd21e3ebf1239a37dd",
+    "bloco": "0a630dba84f2f03d0d0aa727308a9b6eefef15cd7e0be0e7ae080b7f377756ae",
+    "consolidado": "ff8daf6f33d1a14b1bf4d4a39f29ae17e119646030289bb01453128db498f936"
+  },
+  "regime": "vermelho se investiga antes de publicar: itens 3 e 6 corrigidos nesta mesma trilha, com confissão datada",
+  "adendo_item4_nivelL2_prosa_normalizada": {
+    "motivo": "quebra de linha no v1.9 gerava falso negativo na contagem por substring; nível declarado: L2-prosa com runs de whitespace normalizados a 1 espaço",
+    "comando": "re.sub(r'\\s+',' ',texto).casefold().count(padrao)",
+    "medicoes": {
+      "não se força consenso": {
+        "n": 1,
+        "trinca": "...da no próprio claim, em nota_ressalva, com as duas leituras nomeadas, e o trabalho segue. não se força consenso: insistir até concordar produz acordo por desgaste, não por evidência. com frequência a d..."
+      },
+      "concordância entre ia": {
+        "n": 1,
+        "trinca": "...no schema ### princípio de arbitragem (inegociável) a fonte primária é o árbitro factual. concordância entre ias não é evidência e não fecha nada: três pareceres alinhados sobre um número errado contin..."
+      },
+      "não é evidência": {
+        "n": 1,
+        "trinca": "... de arbitragem (inegociável) a fonte primária é o árbitro factual. concordância entre ias não é evidência e não fecha nada: três pareceres alinhados sobre um número errado continuam errados. nenh..."
+      }
+    }
+  },
+  "adendo2_item6_reconciliacao_21": {
+    "data": "2026-09-22",
+    "motivo": "reconciliar o '21 sem entrada' do mestre com 41-22=19",
+    "medicao": {
+      "comando": "regex ids x janela 600c com 'status:' no Bloco; interseção com Lista",
+      "com_status_no_bloco": 22,
+      "com_status_fora_da_lista": [
+        "B1.SM02.012b",
+        "B1.SM02.012c"
+      ],
+      "alvos_lista_sem_entrada": 21,
+      "nota": "41 - (22 - 2 fora da Lista) = 21 — CONFERE com o mestre. Micro-achado: 012b/012c têm entrada no Bloco v1.6 sem constar como alvos na Lista v1.3 (ids nascidos em trabalho posterior à Lista ancorada). B1.SM02.014 e B1.SM02.017 estão ENTRE os 21 sem entrada no Bloco v1.6 ancorado — o estado real do kit (leva 17/09 citada pelo próprio v1.9; revisão .017 do changelog v1.6→v1.7) está À FRENTE do kit ancorado em 15/09."
+    }
+  }
+}

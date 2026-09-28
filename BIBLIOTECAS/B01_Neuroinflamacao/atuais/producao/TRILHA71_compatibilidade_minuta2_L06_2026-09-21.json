@@ -1,0 +1,86 @@
+{
+  "trilha": 71,
+  "data": "2026-09-21",
+  "rodada": 57,
+  "escopo": "analise de compatibilidade da Minuta 2 L-06 (autoria declarada: comentador) x acervo B1, N2 v1.4, V2.3, Filosofia/P18, verificacao do mestre",
+  "veredito": "COMPATIVEL nas camadas verificaveis · 2 precisoes de campo (P-1 condicao ausente!=esparsa · P-2 extrapolacao tem campo: extrapolacao_por_analogia; degrau 5 parcialmente indisponivel ate retrofit) · 1 finding estrutural (D-01/D-02 sem portador verificavel -> D-D01-D02-FONTE) · anomalia de autoria registrada",
+  "checks": [
+    {
+      "check": "C01 ciencia trio intacto (inicio)",
+      "ok": true,
+      "detalhe": "['6e2c29797e63', '79d1309a1689', '490675e63122']"
+    },
+    {
+      "check": "C02 minuta arquivada verbatim + marcas de regime (V2.3 · L-05 vigente · N1 v1.3 · N2 v1.4 · 'pronta para auditoria do Auditor-Mestre')",
+      "ok": true,
+      "detalhe": "sha=1a51d9b970bb bytes=17249"
+    },
+    {
+      "check": "C03 gatilho/matriz: as 6 naturezas da minuta sao EXATAMENTE as do acervo (causal 109 · contributiva 100 · associativa 56 · nao_estabelecida 4 · compensatoria 4 · marcador 1 = 274)",
+      "ok": true,
+      "detalhe": "{'causal': 109, 'contributiva': 100, 'associativa': 56, 'nao_estabelecida': 4, 'compensatoria': 4, 'marcador': 1}"
+    },
+    {
+      "check": "C04 matriz internamente consistente: 6 celulas 'candidato' na tabela · proibido conflito identico ('—' na diagonal) · gatilho 3c coerente (marcador nao 'afirma' → marcador×nao_estabelecida = compativel)",
+      "ok": true,
+      "detalhe": "candidato=6"
+    },
+    {
+      "check": "C05 campos da Parte 5 presentes 274/274: trecho_ancora · natureza_relacao · forca_causal (4 tiers) · verification_status + grau_maturidade (5 valores; degrau 6 'presente no acervo' VERDADEIRO)",
+      "ok": true,
+      "detalhe": "mat={'bem_suportado': 129, 'muito_estabelecido': 20, 'emergente': 45, 'hipotese_inicial': 2, 'moderadamente_suportado': 78}"
+    },
+    {
+      "check": "C06 ausencias declaradas conferem: contexto 0/274 ('ausente') · nivel_cadeia 0 ('depende da Ontologia') · sentido_relacao 0 (e a minuta MESMA marca 'requer mapeamento contratual' — honesta)",
+      "ok": true,
+      "detalhe": "{'contexto': 0, 'condicao': 0, 'sentido_relacao': 0, 'nivel_cadeia': 0, 'ancoras': 0, 'direcao_suporte': 0}"
+    },
+    {
+      "check": "C07 PRECISAO P-1: 'condicao' = AUSENTE nos dados (0/274; nao 'esparsa') e ancoras[] = 0/274 nos dados — o campo vive no CONTRATO N2 v1.4 (ancoras[].condicao ✔) → redacao sugerida: 'ausente no acervo B1; estruturavel via ancoras[].condicao no retrofit' (efeito ja correto: degraus 2/3 indisponiveis)",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C08 PRECISAO P-2: 'marcacao de extrapolacao' EXISTE no acervo SEM ser nomeada — campo extrapolacao_por_analogia 274/274 (sim/parcial/baixa/media/nao) + verification_status {extrapolado, preclinico} · e ancoras[].direcao_suporte tem 0 portadores NOS DADOS (contrato ✔, retrofit pendente) → pela regra da Parte 4, degrau 5 parcialmente indisponivel na B1 ate o retrofit; minuta deve mapear extrapolacao→campo e espelhar o estado de dado",
+      "ok": true,
+      "detalhe": "ext_top=[('sim', 135), ('baixa', 75), ('nao', 41), ('parcial', 21)]"
+    },
+    {
+      "check": "C09 FINDING P-3: D-01 = 0x e D-02 = 0x em 12 documentos verificaveis (V1…V2.3, fossil, Roteiro, DECISOES, Minuta1 L-NT, deliberacao, proposta, verificacao, COMO EXECUTAR) · D-08 so 2x na deliberacao do mestre → a familia D-xx vive no espaco do mestre: DIVIDA D-D01-D02-FONTE (pedir o documento-fonte; conteudo atribuido e coerente, sem choque interno)",
+      "ok": true,
+      "detalhe": "d01=0 d02=0"
+    },
+    {
+      "check": "C10 V2.3 vigente: 0x 'L-06'/'escada'/'D-01..D-08' — o objeto 'relacoes concorrentes' NAO vive na arquitetura (vive no espaco de contratos do mestre) · §21 existe (diagrama multidominio) · casa RESP6 (15/09) propunha 'L-06' como precedencia por proximidade com a ciencia em PORTAO — escopo distinto de runtime no grafo: sem contradicao medida",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C11 convergencia com a correcao PUBLICA do mestre (linha 110 da verificacao de 21/09: 'a direção é propriedade da âncora... o que afeta o degrau 5 da L-06, que precisa ler ancoras[].direcao_suporte') — a minuta aplica exatamente isso (degrau 5 + Parte 3 + Parte 5 + T-14 + Estado; 8x ancoras[].direcao_suporte)",
+      "ok": true,
+      "detalhe": "count=8"
+    },
+    {
+      "check": "C12 filosofia/P18: Parte 9 da minuta ('nao realiza nova pesquisa bibliografica' · 'nao introduz conhecimento externo' · 'nao altera a fonte canonica') ≡ P18 das DECISOES e Filosofia · invariante anti-precedencia-fabricada alinha com 'o projeto nao e sistema de respostas improvisadas' — COERENTE",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C13 autoria/rito: operador declara autoria do comentador; o documento se assina 'Auditor-Mestre' e se destina 'a auditoria do Auditor-Mestre' → ANOMALIA registrada: compatibilidade medida independe da autoria, mas a assinatura e' metadado normativo — corrigir a linha ANTES de circular (o mestre tem minuta propria declarada pronta; reconciliar ou ele audita esta — decisao do operador)",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C14 pontos internos finos da minuta (consistencia): ordem normativa + errata datada · 'nenhum degrau elimina' em 3 lugares (Parte 2/3/9) · regra multifatorial↔escada degradada (Parte 4) ≡ T-9 · consumo so de aprovados (Parte 5) ≡ T-15 · 'sem precedencia emergente' (Parte 6.7) alinha com o invariante",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C15 ciencia trio intacto (fim)",
+      "ok": true,
+      "detalhe": "['6e2c29797e63', '79d1309a1689', '490675e63122']"
+    }
+  ],
+  "verdes": 15,
+  "total": 15
+}

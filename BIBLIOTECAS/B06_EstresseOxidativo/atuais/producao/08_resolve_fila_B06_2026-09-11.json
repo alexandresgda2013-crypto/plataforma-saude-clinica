@@ -1,0 +1,343 @@
+{
+ "data": "2026-09-11",
+ "bib": "B06",
+ "backup": "/home/user/BIBLIOTECAS/B06_EstresseOxidativo/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json.bak_20260911_230719",
+ "regra": "S1–S4 (cabeçalho do script)",
+ "resolvidos": [
+  {
+   "id": "VINC_B6_037",
+   "ref": "REF_KERY_1994",
+   "escolhida": "A CBS humana é uma\n**hemoproteína PLP-dependente** singular: heme b confirmado em fígado humano/rato (Kéry & Kraus 1994)",
+   "score": 10.039,
+   "segunda": 6.053,
+   "n_cand": 3,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_038",
+   "ref": "REF_KABIL_1999",
+   "escolhida": "A regulação é multiescamada: o domínio regulador C-terminal\nmodula o defeito de mutantes catalíticos (Kabil 1999)[OB]; *",
+   "score": 8.013,
+   "segunda": 2.021,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_039",
+   "ref": "REF_TAOKA_1999",
+   "escolhida": "A CBS humana é uma\n**hemoproteína PLP-dependente** singular: heme b confirmado em fígado humano/rato (Kéry & Kraus 1994)",
+   "score": 12.041,
+   "segunda": 2.015,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_040",
+   "ref": "REF_TAOKA_1999b",
+   "escolhida": "A CBS humana é uma\n**hemoproteína PLP-dependente** singular: heme b confirmado em fígado humano/rato (Kéry & Kraus 1994)",
+   "score": 6.047,
+   "segunda": 2.018,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_041",
+   "ref": "REF_MOSHAROV_2000",
+   "escolhida": "A relação **quantitativa** Hcy↔síntese de GSH e sua modulação por\nestado redox é clássica (Mosharov 2000)[OB]; micronutr",
+   "score": 10.322,
+   "segunda": 2.016,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_042",
+   "ref": "REF_MEIER_2001",
+   "escolhida": "A CBS humana é uma\n**hemoproteína PLP-dependente** singular: heme b confirmado em fígado humano/rato (Kéry & Kraus 1994)",
+   "score": 12.052,
+   "segunda": 2.011,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_043",
+   "ref": "REF_STIPANUK_2004",
+   "escolhida": "O metabolismo de aminoácidos sulfurados controla produção e remoção\nde homocisteína e cisteína (Stipanuk 2004)[OB] e res",
+   "score": 6.039,
+   "segunda": 2.012,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_044",
+   "ref": "REF_BANERJEE_2004",
+   "escolhida": "A CBS humana é uma\n**hemoproteína PLP-dependente** singular: heme b confirmado em fígado humano/rato (Kéry & Kraus 1994)",
+   "score": 12.053,
+   "segunda": 2.015,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_045",
+   "ref": "REF_CHEN_2006",
+   "escolhida": "Mutações de\nhomocistinúria dissecam a enzima: localização intracelular diferente de mutantes (Casique 2013)[OB],\nambient",
+   "score": 8.019,
+   "segunda": 2.014,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_046",
+   "ref": "REF_PRUDOVA_2006",
+   "escolhida": "A regulação é multiescamada: o domínio regulador C-terminal\nmodula o defeito de mutantes catalíticos (Kabil 1999)[OB]; *",
+   "score": 12.014,
+   "segunda": 2.015,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_047",
+   "ref": "REF_SINGH_2007",
+   "escolhida": "A CBS humana é uma\n**hemoproteína PLP-dependente** singular: heme b confirmado em fígado humano/rato (Kéry & Kraus 1994)",
+   "score": 10.013,
+   "segunda": 2.013,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_048",
+   "ref": "REF_ZHU_2008",
+   "escolhida": "CGL/CSE apresenta variantes polimórficas e mutantes patogênicas com cinética\ncaracterizada (Zhu 2008)[OB].",
+   "score": 8.264,
+   "segunda": 0.015,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_049",
+   "ref": "REF_ISHII_2010",
+   "escolhida": "A ablação de CGL (Cth⁻/⁻) torna a cisteína dietética essencial contra\nmiopatia oxidativa letal em camundongos — prova ca",
+   "score": 12.077,
+   "segunda": 2.011,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_050",
+   "ref": "REF_AITKEN_2011",
+   "escolhida": "PLP é cofator obrigatório da **CBS** e da **CGL/CSE**; a revisão\ndos sítios ativos das enzimas da transulfuração fixa a ",
+   "score": 6.29,
+   "segunda": 2.007,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_051",
+   "ref": "REF_SINGH_2011",
+   "escolhida": "CBS/CGL também geram **sulfeto de hidrogênio**, gaseotransmissor\nPLP-dependente (Singh & Banerjee 2011)[OB]; a inibição ",
+   "score": 6.076,
+   "segunda": 4.007,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_052",
+   "ref": "REF_SMITH_2012",
+   "escolhida": "Mutações de\nhomocistinúria dissecam a enzima: localização intracelular diferente de mutantes (Casique 2013)[OB],\nambient",
+   "score": 8.012,
+   "segunda": 2.007,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_053",
+   "ref": "REF_YADAV_2012",
+   "escolhida": "A regulação é multiescamada: o domínio regulador C-terminal\nmodula o defeito de mutantes catalíticos (Kabil 1999)[OB]; *",
+   "score": 8.028,
+   "segunda": 2.013,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_054",
+   "ref": "REF_CASIQUE_2013",
+   "escolhida": "Mutações de\nhomocistinúria dissecam a enzima: localização intracelular diferente de mutantes (Casique 2013)[OB],\nambient",
+   "score": 10.038,
+   "segunda": 2.01,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_056",
+   "ref": "REF_GREGORY_2016",
+   "escolhida": "**Estado nutricional de B6 e disponibilidade celular de PLP governam as\nreações canônicas da via e a produção de H₂S por",
+   "score": 10.015,
+   "segunda": 2.021,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_057",
+   "ref": "REF_DALTO_2017",
+   "escolhida": "**Estado nutricional de B6 e disponibilidade celular de PLP governam as\nreações canônicas da via e a produção de H₂S por",
+   "score": 6.007,
+   "segunda": 2.007,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_058",
+   "ref": "REF_GOULD_2019",
+   "escolhida": "A relação **quantitativa** Hcy↔síntese de GSH e sua modulação por\nestado redox é clássica (Mosharov 2000)[OB]; micronutr",
+   "score": 10.259,
+   "segunda": 2.006,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_059",
+   "ref": "REF_SBODIO_2018",
+   "escolhida": "O metabolismo de aminoácidos sulfurados controla produção e remoção\nde homocisteína e cisteína (Stipanuk 2004)[OB] e res",
+   "score": 4.099,
+   "segunda": 2.013,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_060",
+   "ref": "REF_WILSON_2019",
+   "escolhida": "**Estado nutricional de B6 e disponibilidade celular de PLP governam as\nreações canônicas da via e a produção de H₂S por",
+   "score": 6.023,
+   "segunda": 2.015,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_061",
+   "ref": "REF_STIPANUK_2020",
+   "escolhida": "O metabolismo de aminoácidos sulfurados controla produção e remoção\nde homocisteína e cisteína (Stipanuk 2004)[OB] e res",
+   "score": 4.013,
+   "segunda": 2.011,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_062",
+   "ref": "REF_PETROSINO_2022",
+   "escolhida": "CBS/CGL também geram **sulfeto de hidrogênio**, gaseotransmissor\nPLP-dependente (Singh & Banerjee 2011)[OB]; a inibição ",
+   "score": 6.025,
+   "segunda": 2.01,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_063",
+   "ref": "REF_CIAPAITE_2023",
+   "escolhida": "**Estado nutricional de B6 e disponibilidade celular de PLP governam as\nreações canônicas da via e a produção de H₂S por",
+   "score": 14.023,
+   "segunda": 2.016,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_065",
+   "ref": "REF_MCFARLANE_2024",
+   "escolhida": "A regulação é multiescamada: o domínio regulador C-terminal\nmodula o defeito de mutantes catalíticos (Kabil 1999)[OB]; *",
+   "score": 6.019,
+   "segunda": 2.013,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_066",
+   "ref": "REF_RIVERO_2024",
+   "escolhida": "**Estado nutricional de B6 e disponibilidade celular de PLP governam as\nreações canônicas da via e a produção de H₂S por",
+   "score": 10.012,
+   "segunda": 2.02,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_067",
+   "ref": "REF_CONTER_2025",
+   "escolhida": "Mutações de\nhomocistinúria dissecam a enzima: localização intracelular diferente de mutantes (Casique 2013)[OB],\nambient",
+   "score": 6.011,
+   "segunda": 2.016,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_068",
+   "ref": "REF_PAJARES_2025",
+   "escolhida": "O metabolismo de aminoácidos sulfurados controla produção e remoção\nde homocisteína e cisteína (Stipanuk 2004)[OB] e res",
+   "score": 8.061,
+   "segunda": 2.015,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_069",
+   "ref": "REF_XI_2025",
+   "escolhida": "E a via fecha o círculo da B6: ativar a transulfuração via CBS\natenua estresse oxidativo e **ferroptose** em eritroblast",
+   "score": 16.105,
+   "segunda": 0.012,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_098",
+   "ref": "REF_DAVIS_2006",
+   "escolhida": "**(i) Dieta controlada\n(experimental humana):** a restrição dietética de B6 em adultos jovens **elevou GSH e cistationin",
+   "score": 18.02,
+   "segunda": 2.016,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_099",
+   "ref": "REF_LAMERS_2009",
+   "escolhida": "**(i) Dieta controlada\n(experimental humana):** a restrição dietética de B6 em adultos jovens **elevou GSH e cistationin",
+   "score": 14.022,
+   "segunda": 2.013,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_100",
+   "ref": "REF_SHEN_2010",
+   "escolhida": "**(ii) Observacional (associativo, nunca causal):**\nstatus de B6/PLP associou-se a marcadores de inflamação e estresse o",
+   "score": 18.016,
+   "segunda": 2.012,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_101",
+   "ref": "REF_CHENG_2016",
+   "escolhida": "**(iii) Intervenção como sinal\n(sujeita a P20 — jamais posologia):** complexo B em alta dose alterou a **relação entre m",
+   "score": 12.038,
+   "segunda": 2.014,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_102",
+   "ref": "REF_FORD_2018",
+   "escolhida": "**(iii) Intervenção como sinal\n(sujeita a P20 — jamais posologia):** complexo B em alta dose alterou a **relação entre m",
+   "score": 14.039,
+   "segunda": 2.008,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B6_103",
+   "ref": "REF_LAI_2020",
+   "escolhida": "**(iii) Intervenção como sinal\n(sujeita a P20 — jamais posologia):** complexo B em alta dose alterou a **relação entre m",
+   "score": 10.021,
+   "segunda": 0.012,
+   "n_cand": 2,
+   "empate": false
+  }
+ ],
+ "sem_presenca": [],
+ "residual_contrato": 108
+}

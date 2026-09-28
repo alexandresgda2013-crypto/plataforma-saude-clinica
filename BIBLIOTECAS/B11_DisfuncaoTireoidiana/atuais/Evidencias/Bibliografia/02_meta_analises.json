@@ -1,0 +1,356 @@
+[
+ {
+  "pmid_oficial": "34524390",
+  "titulo_artigo": "Association of Hypothyroidism and Clinical Depression: A Systematic Review and Meta-analysis",
+  "autores": [
+   "Bode H",
+   "Ivens B",
+   "Bschor T",
+   "Schwarzer G",
+   "Henssler J",
+   "Baethge C"
+  ],
+  "revista_ano": "JAMA psychiatry (2021)",
+  "desenho_estudo": "[EC] Meta hipotireoidismo × depressão (Bode 2021) — ass",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Meta hipotireoidismo × depressão (Bode 2021) — associação",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BODE_2021"
+  ],
+  "id_referencia_interna": "REF_BODE_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "âncora módulos 06-10 do GPM completo",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Bode",
+   "BODE"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "36064836",
+  "titulo_artigo": "Hyperthyroidism and clinical depression: a systematic review and meta-analysis",
+  "autores": [
+   "Bode H",
+   "Ivens B",
+   "Bschor T",
+   "Schwarzer G",
+   "Henssler J",
+   "Baethge C"
+  ],
+  "revista_ano": "Translational psychiatry (2022)",
+  "desenho_estudo": "[EC] Meta hipertireoidismo × depressão (Bode 2022) — re",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Meta hipertireoidismo × depressão (Bode 2022) — reversível/U",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BODE_2022"
+  ],
+  "id_referencia_interna": "REF_BODE_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "âncora módulos 06-10 do GPM completo",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Bode",
+   "BODE"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "29800939",
+  "titulo_artigo": "Association of Depression and Anxiety Disorders With Autoimmune Thyroiditis: A Systematic Review and Meta-analysis",
+  "autores": [
+   "Siegmann EM",
+   "Müller HHO",
+   "Luecke C",
+   "Philipsen A",
+   "Kornhuber J",
+   "Grömer TW"
+  ],
+  "revista_ano": "JAMA psychiatry (2018)",
+  "desenho_estudo": "[EC] Depressão/ansiedade × autoimune tireoidiana (Siegm",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Depressão/ansiedade × autoimune tireoidiana (Siegmann 2018) — I² alto",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SIEGMANN_2018"
+  ],
+  "id_referencia_interna": "REF_SIEGMANN_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "âncora módulos 06-10 do GPM completo",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Siegmann",
+   "SIEGMANN"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "29064607",
+  "titulo_artigo": "Hypothalamic-pituitary-thyroid (HPT) axis functioning in anxiety disorders. A systematic review.",
+  "autores": [
+   "Fischer S",
+   "Ehlert U"
+  ],
+  "revista_ano": "Depress Anxiety (2018)",
+  "desenho_estudo": "[OB] revisão sistemática · Depress Anxiety",
+  "secao_origem": "mecanismo_B11_eixo_hpt_ansiedade",
+  "achado_central_molecular": "Revisão sistemática do eixo HPT nos transtornos de ansiedade: alterações modestas e heterogêneas; contraste com a literatura de depressão; ansiedade permanece menos mapeada que depressão.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_FISCHER_2018"
+  ],
+  "id_referencia_interna": "REF_FISCHER_2018",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B11_eixo_hpt_ansiedade",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "30375372",
+  "titulo_artigo": "Subclinical hypothyroidism and depression: a meta-analysis.",
+  "autores": [
+   "Zhao T",
+   "Chen BM",
+   "Zhao XM",
+   "Shan ZY"
+  ],
+  "revista_ano": "Transl Psychiatry (2018)",
+  "desenho_estudo": "[OB] meta-análise · Transl Psychiatry",
+  "secao_origem": "mecanismo_B11_sch_meta",
+  "achado_central_molecular": "Meta-análise SCH×depressão: associação fraca/inerentemente inconsistente contra coortes negativas.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_ZHAO_2018"
+  ],
+  "id_referencia_interna": "REF_ZHAO_2018",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B11_sch_meta",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "31214119",
+  "titulo_artigo": "Subclinical Hypothyroidism and Depression: A Systematic Review and Meta-Analysis.",
+  "autores": [
+   "Tang R",
+   "Wang J",
+   "Yang L",
+   "Ding X"
+  ],
+  "revista_ano": "Front Endocrinol (Lausanne) (2019)",
+  "desenho_estudo": "[OB] revisão sistemática e meta-análise · Front Endocrinol (Lausanne)",
+  "secao_origem": "mecanismo_B11_sch_meta",
+  "achado_central_molecular": "SR/MA SCH×depressão: sinal de associação em estudos transversais, sem estabelecer causalidade.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_TANG_2019"
+  ],
+  "id_referencia_interna": "REF_TANG_2019",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B11_sch_meta",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "30621645",
+  "titulo_artigo": "Association between subclinical hypothyroidism and depression: an updated systematic review and meta-analysis.",
+  "autores": [
+   "Loh HH",
+   "Lim LL",
+   "Yee A",
+   "Loh HS"
+  ],
+  "revista_ano": "BMC Psychiatry (2019)",
+  "desenho_estudo": "[OB] revisão sistemática e meta-análise · BMC Psychiatry",
+  "secao_origem": "mecanismo_B11_sch_meta_lt4",
+  "achado_central_molecular": "MA atualizada SCH×depressão incluindo desfecho de melhora sintomática com LT4 — sinal terapêutico populacional fraco e heterogêneo.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_LOH_2019"
+  ],
+  "id_referencia_interna": "REF_LOH_2019",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B11_sch_meta_lt4",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "39717384",
+  "titulo_artigo": "Association between depression and anxiety disorders with euthyroid Hashimoto's thyroiditis: A systematic review and meta-analysis.",
+  "autores": [
+   "Wang B",
+   "Huang J",
+   "Chen L"
+  ],
+  "revista_ano": "Compr Psychoneuroendocrinol (2024)",
+  "desenho_estudo": "[OB] revisão sistemática e meta-análise · Compr Psychoneuroendocrinol",
+  "secao_origem": "mecanismo_B11_hashimoto_eutireoideo_meta",
+  "achado_central_molecular": "SR/MA: depressão e ansiedade em Hashimoto EUTIREOIDIANO — associação presente sem hipotireoidismo; não resolve se AIT causa ou co-ocorre.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_WANG_2024"
+  ],
+  "id_referencia_interna": "REF_WANG_2024",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B11_hashimoto_eutireoideo_meta",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ }
+]

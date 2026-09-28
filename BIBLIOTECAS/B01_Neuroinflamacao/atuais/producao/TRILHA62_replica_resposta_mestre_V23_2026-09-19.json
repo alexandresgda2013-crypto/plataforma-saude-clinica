@@ -1,0 +1,184 @@
+{
+  "trilha": 62,
+  "rodada": 45,
+  "data": "2026-09-19",
+  "tema": "réplica resposta do MESTRE à carta 18 (V2.3) — 6 checks + confissão de caracterização 309aa65f",
+  "checks": [
+    {
+      "id": "M1",
+      "titulo": "eco V2.3 do mestre: marcadores 3/1/1/1 · UNIFICADOS só L4 · v1.1 só L4",
+      "camada": "documental{NFC,CS}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/CARTAS_V23_2026-09-19/CANDIDATA_ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.3 - 19.09.26.md",
+      "comando": "count por agulha + linhas",
+      "medido": {
+        "V2.3": {
+          "origem_conhecimento": 3,
+          "a prosa deste documento prevalece sobre os desenhos": 1,
+          "fora do cânone": 1,
+          "O Motor busca ativamente": 1,
+          "UNIFICADOS": 1
+        },
+        "UNIFICADOS_L4": true,
+        "v1.1": [
+          2,
+          [
+            4
+          ]
+        ]
+      },
+      "esperado": {
+        "V2.3": {
+          "origem_conhecimento": 3,
+          "a prosa deste documento prevalece sobre os desenhos": 1,
+          "fora do cânone": 1,
+          "O Motor busca ativamente": 1,
+          "UNIFICADOS": 1
+        },
+        "UNIFICADOS_L4": true,
+        "v1.1": [
+          2,
+          [
+            4
+          ]
+        ]
+      },
+      "ok": true,
+      "detalhe": "confere com a alegação dele; precisão: 'v1.1' = 2 substrings (os 2 nomes) em 1 linha. C62-1 (régua): 1ª execução aninhou o dict v1.1 no empacotamento — corrigido; medida inalterada"
+    },
+    {
+      "id": "M2",
+      "titulo": "V2.2 oficial contém os 4 marcadores (a 'V2.2 oficial contém origem_conhecimento' — correção dele ✔)",
+      "camada": "documental{NFC,CS}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md",
+      "comando": "count",
+      "medido": {
+        "origem_conhecimento": 3,
+        "a prosa deste documento prevalece sobre os desenhos": 1,
+        "fora do cânone": 1,
+        "O Motor busca ativamente": 1,
+        "UNIFICADOS": 1
+      },
+      "esperado": {
+        "origem_conhecimento": 3,
+        "a prosa deste documento prevalece sobre os desenhos": 1,
+        "fora do cânone": 1,
+        "O Motor busca ativamente": 1,
+        "UNIFICADOS": 1
+      },
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "M3",
+      "titulo": "ÂNCORAS L-NT: §§6/7/13/14 V2.2 ≡ V2.3 (sha por seção)",
+      "camada": "documental{NFC}",
+      "escopo": "V2.2×V2.3",
+      "comando": "extrair seção até próximo '# N.'; sha256[:12]",
+      "medido": {
+        "# 6.": [
+          true,
+          "e789355747fb"
+        ],
+        "# 7.": [
+          true,
+          "d9f0dc53af89"
+        ],
+        "# 13.": [
+          true,
+          "90b610121632"
+        ],
+        "# 14.": [
+          true,
+          "d22ec6102b35"
+        ]
+      },
+      "esperado": {
+        "# 6.": [
+          true,
+          "e789355747fb"
+        ],
+        "# 7.": [
+          true,
+          "d9f0dc53af89"
+        ],
+        "# 13.": [
+          true,
+          "90b610121632"
+        ],
+        "# 14.": [
+          true,
+          "d22ec6102b35"
+        ]
+      },
+      "ok": true,
+      "detalhe": "afirmação do mestre verificada: idênticas"
+    },
+    {
+      "id": "M4",
+      "titulo": "CONFLITO do arquivo do projeto (a peça que muda a caracterização) — teste cruzado no upload r24 que TEMOS",
+      "camada": "documental{NFC,CS}",
+      "escopo": "/home/user/uploads/ARQUITETURA CONSOLIDADA DA PLATAFORMA V2  -  15.09.26.md",
+      "comando": "count nos bytes do r24",
+      "medido": {
+        "origem_conhecimento": 0,
+        "prosa_prevalece": 0,
+        "fora_do_canone": 0,
+        "motor_busca_ativamente_L82": 1,
+        "UNIFICADOS_L66": 1
+      },
+      "esperado": {
+        "origem_conhecimento": 0,
+        "prosa_prevalece": 0,
+        "fora_do_canone": 0,
+        "motor_busca_ativamente_L82": 1,
+        "UNIFICADOS_L66": 1
+      },
+      "ok": true,
+      "detalhe": "r24: 3 primeiros = 0 (bate com o 0 do projeto) MAS 'O Motor busca ativamente' = 1× na L82 do r24 × 0 no projeto (declarado pelo mestre) → 309aa65f NÃO é byte-idêntico ao upload r24. CONFISSÃO da casa: a caracterização 'r24 rotulado' estava imprecisa; verdade sustentada: 309aa65f é SUPERSEDED e NÃO é a V2.2 oficial. Identidade exata: só com os bytes do projeto (pedido ao operador)"
+    },
+    {
+      "id": "M5",
+      "titulo": "N-4 / herança uso na minuta L-NT (alegação 'coberta no L-NT, regra N-4')",
+      "camada": "documental{NFC,casefold}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/MESTRE_LNT_minuta1_recebido_2026-09-18/L-NT_CONTRATO_UNIDADES_NARRATIVAS_minuta1_294119b9_2026-09-18.md",
+      "comando": "grep 'N-4' e 'uso` herdado do kit'",
+      "medido": {
+        "N-4": true,
+        "uso herdado do kit": true,
+        "NT-05 referencia N-4": true
+      },
+      "esperado": {
+        "N-4": true,
+        "uso herdado do kit": true,
+        "NT-05 referencia N-4": true
+      },
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "M6",
+      "titulo": "DELIBERACAO_FLUXO_CLAIM_CLINICO_2026-09-18.md na base?",
+      "camada": "bytes",
+      "escopo": "/home/user",
+      "comando": "glob",
+      "medido": [],
+      "esperado": [],
+      "ok": true,
+      "detalhe": "confirmado: não temos; posição B dele coerente com consolidado ff8daf6f (r32) e com a posição da casa — pedir os bytes verbatim"
+    },
+    {
+      "id": "CI0",
+      "titulo": "0 ciência",
+      "camada": "bytes",
+      "escopo": "acervo",
+      "comando": "sha início==fim",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": ""
+    }
+  ],
+  "verdes": 7,
+  "total": 7,
+  "veredito": "Mestre: eco V2.3 exato · âncoras idênticas · N-4/herança confere · correções dele honradas. Conflito: conclusão prática (projeto ≠ V2.2 oficial; base sem endurecimento de proveniência) VERDADEIRA e agora provada dos dois lados; MAS 'O Motor busca ativamente' (1× r24 × 0 projeto) → 309aa65f ≠ r24 exato: confissão de precisão da casa, pedido dos bytes do arquivo do projeto."
+}

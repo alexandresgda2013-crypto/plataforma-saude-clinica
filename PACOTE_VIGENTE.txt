@@ -1,0 +1,14 @@
+PACOTE VIGENTE — 2026-09-13
+===========================
+VIGENTE (único a encaminhar, aos DOIS auditores):
+  pacote_auditoria_B1_V7c_2026-09-13.zip
+  sha256 do zip: 6d9591cc01065856ff6ef25e878073306cc212d33c3c8c0d5580361af0c10c8c
+  sha256 da canônica dentro dele: 6e2c29797e6322f16dcc5248cce552be613dd11f1de957c66aaa913e69225238 (V7, inalterada)
+
+SUPERSEDED (não encaminhar — bit a bit preservados só p/ histórico):
+  SUPERSEDED_pacote_auditoria_B1_V6_2026-09-13.zip   (foi o que chegou ao mestre por engano — confissão na carta 4)
+  SUPERSEDED_pacote_auditoria_B1_V7_2026-09-13.zip
+  SUPERSEDED_pacote_auditoria_B1_V7b_2026-09-13.zip  (gate rev.A2; manifesto 2.8 — o V7c só troca: manifesto 2.9 + trilha 24 + decisoes rev.8 + saídas frescas)
+
+Regra da casa a partir de hoje: 1) um único pacote sem prefixo SUPERSEDED_ por vez neste diretório;
+2) este arquivo declara qual é; 3) README do pacote declara o sha256 da canônica contida.

@@ -1,0 +1,112 @@
+{
+ "acao": "09_distribuicao_MA_EC_MODULO09",
+ "data": "2026-09-11",
+ "biblioteca": "B06_EstresseOxidativo",
+ "lei": "PROMPT_v4.2 instrução final: [MA]->02, [EC]->03; id único global (validar_auditoria.py)",
+ "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+ "contagens": {
+  "ficam_01": 95,
+  "vao_02_MA": 10,
+  "vao_03_EC": 3,
+  "conflitos": 0,
+  "tag_EC_amplo_nao_migrado": 0
+ },
+ "ids_para_02": [
+  {
+   "id": "REF_PALTA_2014",
+   "pmid": "24336428",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_BLACK_2015",
+   "pmid": "25462890",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_JIMENEZFERNANDEZ_2015",
+   "pmid": "26579881",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_FERNANDES_2016",
+   "pmid": "27137430",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_LIAO_2019",
+   "pmid": "31383846",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_KISHI_2020",
+   "pmid": "32767039",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_SANI_2023",
+   "pmid": "37107192",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ALMULLA_2023",
+   "pmid": "37557967",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_PENG_2024",
+   "pmid": "39504621",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_BELL_2025",
+   "pmid": "39708105",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  }
+ ],
+ "ids_para_03": [
+  {
+   "id": "REF_SCHMITT_2015",
+   "pmid": "26262996",
+   "sinais": [
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_FORD_2018",
+   "pmid": "30513795",
+   "sinais": [
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_LAI_2020",
+   "pmid": "32635181",
+   "sinais": [
+    "desenho_rct:titulo"
+   ]
+  }
+ ],
+ "conflitos_tag_x_titulo_REVISAVEL": [],
+ "REVISAVEL_tag_EC_amplo_sem_sinal_RCT_nao_migrado": [],
+ "divida_nomeada": "forca_evidencia_afirmacao vazio quando a ficha não trazia (schema 09.2 exige; preenchimento exige avaliação — não fabricar)"
+}

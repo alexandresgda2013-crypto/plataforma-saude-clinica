@@ -1,0 +1,2717 @@
+[
+ {
+  "pmid": "26955968",
+  "grupo": "KET",
+  "label": "Wohleb_2017",
+  "id": "REF_WOHLEB_2017",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO07.001",
+  "titulo": "Molecular and Cellular Mechanisms of Rapid-Acting Antidepressants Ketamine and Scopolamine.",
+  "fonte": "Curr Neuropharmacol",
+  "ano": "2017",
+  "autores": [
+   "Wohleb ES"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Major depressive disorder (MDD) is a prevalent neuropsychiatric disease that causes profound social and economic burdens. The impact of MDD is compounded by the limited therapeutic efficacy and delay of weeks to months of currently available medications. These issues highlight the need for more efficacious and faster-acting treatments to alleviate the burdens of MDD. Recent breakthroughs demonstrate that certain drugs, including ketamine and scopolamine, produce rapid and long-lasting antidepressant effects in MDD patients. Moreover, preclinical work has shown that the antidepressant actions of ketamine and scopolamine in rodent models are caused by an increase of extracellular glutamate, elevated BDNF, activation of the mammalian target of rapamycin complex 1 (mTORC1) cascade, and increased number and function of spine synapses in the prefrontal cortex (PFC). Here we review studies showing that both ketamine and scopolamine elicit rapid antidepressant effects through converging molecular and cellular mechanisms in the PFC. In addition, we discuss evidence that selective antagonists of NMDA and muscarinic acetylcholine (mACh) receptor subtypes (i.e., NR2B and M1-AChR) in the PFC pr"
+ },
+ {
+  "pmid": "27062302",
+  "grupo": "KET",
+  "label": "Abdallah_2016",
+  "id": "REF_ABDALLAH_2016",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO07.002",
+  "titulo": "KETAMINE'S MECHANISM OF ACTION: A PATH TO RAPID-ACTING ANTIDEPRESSANTS.",
+  "fonte": "Depress Anxiety",
+  "ano": "2016",
+  "autores": [
+   "Abdallah CG"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Major depressive disorder (MDD) is a common and debilitating psychiatric disorder. Traditional antidepressants are of limited efficacy and take weeks to months to yield full therapeutic effects. Thus, there is a clear need for effective rapid-acting antidepressant medications. The N-methyl-d-aspartate receptor (NMDA-R) antagonist, ketamine, has received a great deal of attention over the last 20 years due to the discovery that a single subanesthetic dose leads to a rapid antidepressant effect in individuals with treatment-resistant depression. Animal and human research suggest that ketamine's antidepressant effects are mediated by a glutamate surge that leads to a cascade of events that result in synaptogenesis and reversal of the negative effects of chronic stress and depression, particularly within the prefrontal cortex (PFC). Preclinical and clinical data have provided compelling insights into the mechanisms underlying the rapid-acting antidepressant effects of ketamine. This review discusses stress-related neurobiology of depression and the safety, tolerability, and efficacy of ketamine for MDD, along with a review of ketamine's mechanism of action and prospective predictors of"
+ },
+ {
+  "pmid": "29516301",
+  "grupo": "KET",
+  "label": "Zanos_2018",
+  "id": "REF_ZANOS_2018",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO07.003",
+  "titulo": "Convergent Mechanisms Underlying Rapid Antidepressant Action.",
+  "fonte": "CNS Drugs",
+  "ano": "2018",
+  "autores": [
+   "Zanos P"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Traditional pharmacological treatments for depression have a delayed therapeutic onset, ranging from several weeks to months, and there is a high percentage of individuals who never respond to treatment. In contrast, ketamine produces rapid-onset antidepressant, anti-suicidal, and anti-anhedonic actions following a single administration to patients with depression. Proposed mechanisms of the antidepressant action of ketamine include N-methyl-D-aspartate receptor (NMDAR) modulation, gamma aminobutyric acid (GABA)-ergic interneuron disinhibition, and direct actions of its hydroxynorketamine (HNK) metabolites. Downstream actions include activation of the mechanistic target of rapamycin (mTOR), deactivation of glycogen synthase kinase-3 and eukaryotic elongation factor 2 (eEF2), enhanced brain-derived neurotrophic factor (BDNF) signaling, and activation of α-amino-3-hydroxy-5-methyl-4-isoxazole-propionic acid receptors (AMPARs). These putative mechanisms of ketamine action are not mutually exclusive and may complement each other to induce potentiation of excitatory synapses in affective-regulating brain circuits, which results in amelioration of depression symptoms. We review these pro"
+ },
+ {
+  "pmid": "29532791",
+  "grupo": "KET",
+  "label": "Zanos_2018b",
+  "id": "REF_ZANOS_2018b",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO07.004",
+  "titulo": "Mechanisms of ketamine action as an antidepressant.",
+  "fonte": "Mol Psychiatry",
+  "ano": "2018",
+  "autores": [
+   "Zanos P"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Clinical studies have demonstrated that a single sub-anesthetic dose of the dissociative anesthetic ketamine induces rapid and sustained antidepressant actions. Although this finding has been met with enthusiasm, ketamine's widespread use is limited by its abuse potential and dissociative properties. Recent preclinical research has focused on unraveling the molecular mechanisms underlying the antidepressant actions of ketamine in an effort to develop novel pharmacotherapies, which will mimic ketamine's antidepressant actions but lack its undesirable effects. Here we review hypotheses for the mechanism of action of ketamine as an antidepressant, including synaptic or GluN2B-selective extra-synaptic N-methyl-D-aspartate receptor (NMDAR) inhibition, inhibition of NMDARs localized on GABAergic interneurons, inhibition of NMDAR-dependent burst firing of lateral habenula neurons, and the role of α-amino-3-hydroxy-5-methyl-4-isoxazole-propionic acid receptor activation. We also discuss links between ketamine's antidepressant actions and downstream mechanisms regulating synaptic plasticity, including brain-derived neurotrophic factor (BDNF), eukaryotic elongation factor 2 (eEF2), mechanist"
+ },
+ {
+  "pmid": "29899972",
+  "grupo": "KET",
+  "label": "Duman_2018",
+  "id": "REF_DUMAN_2018",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO07.005",
+  "titulo": "Ketamine and rapid-acting antidepressants: a new era in the battle against depression and suicide.",
+  "fonte": "F1000Res",
+  "ano": "2018",
+  "autores": [
+   "Duman RS"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Therapeutic medications for the treatment of depression have serious limitations, particularly delayed onset and low rates of efficacy. However, the discovery that a single subanesthetic dose of ketamine, a glutamate NMDA receptor channel blocker, can produce a rapid (within hours) antidepressant response that is sustained (about 1 week), even in patients considered treatment-resistant, has invigorated the field. In addition to these remarkable actions, ketamine has proven effective for the treatment of suicidal ideation. Efforts are under way to develop ketamine-like drugs with fewer side effects as well as agents that act at other sites within the glutamate neurotransmitter system. This includes ketamine metabolites and stereoisomers, drugs that act as NMDA allosteric modulators or that block mGluR2/3 autoreceptors. In addition, targets that enhance glutamate neurotransmission or synaptic function (or both), which are essential for the rapid and sustained antidepressant actions of ketamine in rodent models, are being investigated; examples are the muscarinic cholinergic antagonist scopolamine and activators of mechanistic target of rapamycin complex 1 (mTORC1) signaling, which is"
+ },
+ {
+  "pmid": "30946828",
+  "grupo": "KET",
+  "label": "Duman_2019",
+  "id": "REF_DUMAN_2019",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO07.006",
+  "titulo": "Altered Connectivity in Depression: GABA and Glutamate Neurotransmitter Deficits and Reversal by Novel Treatments.",
+  "fonte": "Neuron",
+  "ano": "2019",
+  "autores": [
+   "Duman RS"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, U.S. Gov't, Non-P.H.S.",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The mechanisms underlying the pathophysiology and treatment of depression and stress-related disorders remain unclear, but studies in depressed patients and rodent models are beginning to yield promising insights. These studies demonstrate that depression and chronic stress exposure cause atrophy of neurons in cortical and limbic brain regions implicated in depression, and brain imaging studies demonstrate altered connectivity and network function in the brains of depressed patients. Studies of the neurobiological basis of the these alterations have focused on both the principle, excitatory glutamate neurons, as well as inhibitory GABA interneurons. They demonstrate structural, functional, and neurochemical deficits in both major neuronal types that could lead to degradation of signal integrity in cortical and hippocampal regions. The molecular mechanisms underlying these changes have not been identified but are thought to be related to stress induced excitotoxic effects in combination with elevated adrenal glucocorticoids and inflammatory cytokines as well as other environmental factors. Transcriptomic studies are beginning to demonstrate important sex differences and, together wi"
+ },
+ {
+  "pmid": "31830487",
+  "grupo": "KET",
+  "label": "Deyama_2020",
+  "id": "REF_DEYAMA_2020",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO07.007",
+  "titulo": "Neurotrophic mechanisms underlying the rapid and sustained antidepressant actions of ketamine.",
+  "fonte": "Pharmacol Biochem Behav",
+  "ano": "2020",
+  "autores": [
+   "Deyama S"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Clinical and preclinical studies have demonstrated that depression, one of the most common psychiatric illnesses, is associated with reduced levels of neurotrophic factors, including brain-derived neurotrophic factor (BDNF) and vascular endothelial growth factor (VEGF), contributing to neuronal atrophy in the prefrontal cortex (PFC) and hippocampus, and reduced hippocampal adult neurogenesis. Conventional monoaminergic antidepressants can block/reverse, at least partially, these deficits in part via induction of BDNF and/or VEGF, although these drugs have significant limitations, notably a time lag for therapeutic response and low response rates. Recent studies reveal that ketamine, an N-methyl-d-aspartate receptor antagonist produces rapid (within hours) and sustained (up to a week) antidepressant actions in both patients with treatment-resistant depression and rodent models of depression. Rodent studies also demonstrate that ketamine rapidly increases BDNF and VEGF release and/or expression in the medial PFC (mPFC) and hippocampus, leading to increase in the number and function of spine synapses in the mPFC and enhancement of hippocampal neurogenesis. These neurotrophic effects o"
+ },
+ {
+  "pmid": "32017978",
+  "grupo": "KET",
+  "label": "Sial_2020",
+  "id": "REF_SIAL_2020",
+  "tag": "OB",
+  "evid_role": "CONT",
+  "claim_id": "B5.MEC.BLOCO07.008",
+  "titulo": "Ketamine: The final frontier or another depressing end?",
+  "fonte": "Behav Brain Res",
+  "ano": "2020",
+  "autores": [
+   "Sial OK"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Two decades ago, the observation of a rapid and sustained antidepressant response after ketamine administration provided an exciting new avenue in the search for more effective therapeutics for the treatment of clinical depression. Research elucidating the mechanism(s) underlying ketamine's antidepressant properties has led to the development of several hypotheses, including that of disinhibition of excitatory glutamate neurons via blockade of N-methyl-d-aspartate (NMDA) receptors. Although the prominent understanding has been that ketamine's mode of action is mediated solely via the NMDA receptor, this view has been challenged by reports implicating other glutamate receptors such as AMPA, and other neurotransmitter systems such as serotonin and opioids in the antidepressant response. The recent approval of esketamine (Spravato™) for the treatment of depression has sparked a resurgence of interest for a deeper understanding of the mechanism(s) underlying ketamine's actions and safe therapeutic use. This review aims to present our current knowledge on both NMDA and non-NMDA mechanisms implicated in ketamine's response, and addresses the controversy surrounding the antidepressant rol"
+ },
+ {
+  "pmid": "33963284",
+  "grupo": "KET",
+  "label": "Wei_2022",
+  "id": "REF_WEI_2022",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO07.009",
+  "titulo": "Molecular mechanisms underlying the antidepressant actions of arketamine: beyond the NMDA receptor.",
+  "fonte": "Mol Psychiatry",
+  "ano": "2022",
+  "autores": [
+   "Wei Y"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The discovery of robust antidepressant actions exerted by the N-methyl-D-aspartate receptor (NMDAR) antagonist (R,S)-ketamine has been a crucial breakthrough in mood disorder research. (R,S)-ketamine is a racemic mixture of equal amounts of (R)-ketamine (arketamine) and (S)-ketamine (esketamine). In 2019, an esketamine nasal spray from Johnson & Johnson was approved in the United States of America and Europe for treatment-resistant depression. However, an increasing number of preclinical studies show that arketamine has greater potency and longer-lasting antidepressant-like effects than esketamine in rodents, despite the lower binding affinity of arketamine for the NMDAR. In clinical trials, non-ketamine NMDAR-related compounds did not exhibit ketamine-like robust antidepressant actions in patients with depression, despite these compounds showing antidepressant-like effects in rodents. Thus, the rodent data do not necessarily translate to humans due to the complexity of human psychiatric disorders. Collectively, the available studies indicate that it is unlikely that NMDAR plays a major role in the antidepressant action of (R,S)-ketamine and its enantiomers, although the precise mo"
+ },
+ {
+  "pmid": "34968492",
+  "grupo": "KET",
+  "label": "Hess_2022",
+  "id": "REF_HESS_2022",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO07.010",
+  "titulo": "Mechanisms of ketamine and its metabolites as antidepressants.",
+  "fonte": "Biochem Pharmacol",
+  "ano": "2022",
+  "autores": [
+   "Hess EM"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, N.I.H., Intramural",
+   "Research Support, U.S. Gov't, Non-P.H.S.",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Treating major depression is a medical need that remains unmet by monoaminergic therapeutic strategies that commonly fail to achieve symptom remission. A breakthrough in the treatment of depression was the discovery that the anesthetic (R,S)-ketamine (ketamine), when administered at sub-anesthetic doses, elicits rapid (sometimes within hours) antidepressant effects in humans that are otherwise resistant to monoaminergic-acting therapies. While this finding was revolutionary and led to the FDA approval of (S)-ketamine (esketamine) for use in adults with treatment-resistant depression and suicidal ideation, the mechanisms underlying how ketamine or esketamine elicit their effects are still under active investigation. An emerging view is that metabolism of ketamine may be a crucial step in its mechanism of action, as several metabolites of ketamine have neuroactive effects of their own and may be leveraged as therapeutics. For example, (2R,6R)-hydroxynorketamine (HNK), is readily observed in humans following ketamine treatment and has shown therapeutic potential in preclinical tests of antidepressant efficacy and synaptic potentiation while being devoid of the negative adverse effects"
+ },
+ {
+  "pmid": "35182519",
+  "grupo": "KET",
+  "label": "Scotton_2022",
+  "id": "REF_SCOTTON_2022",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO07.011",
+  "titulo": "Is (R)-ketamine a potential therapeutic agent for treatment-resistant depression with less detrimental side effects? A review of molecular mechanisms underlying ketamine and its enantiomers.",
+  "fonte": "Biochem Pharmacol",
+  "ano": "2022",
+  "autores": [
+   "Scotton E"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Approximately one-third of individuals with major depressive disorder are resistant to conventional antidepressants (i.e., monoamine-based therapies), and, even among respondents, a proper therapeutic effect may require weeks of treatment. Ketamine, a racemic mixture of the two enantiomers, (R)-ketamine and (S)-ketamine, is an N-methyl-d-aspartate receptor (NMDAR) antagonist and has been shown to have rapid-acting antidepressant properties in patients with treatment-resistant depression (TRD). Although (R)-ketamine has a lower affinity for NMDAR, it presents greater potency and longer-lasting antidepressant properties, with no major side effects, than racemic ketamine or (S)-ketamine in preclinical findings. Thereby, ketamine and its enantiomers have not only an antagonistic effect on NMDAR but also a strong synaptogenic-modulatory effect, which is impaired in TRD pathophysiology. In this review, we summarize the current evidence regarding the modulation of neurotransmission, neuroplasticity, and neural network activity as putative mechanisms of these rapid-acting antidepressants, highlighting differences on intracellular signaling pathways of synaptic proteins such as mammalian ta"
+ },
+ {
+  "pmid": "35546951",
+  "grupo": "KET",
+  "label": "Kang_2022",
+  "id": "REF_KANG_2022",
+  "tag": "MA",
+  "evid_role": "SUP",
+  "claim_id": "B5.MEC.BLOCO07.012",
+  "titulo": "The Mechanisms Behind Rapid Antidepressant Effects of Ketamine: A Systematic Review With a Focus on Molecular Neuroplasticity.",
+  "fonte": "Front Psychiatry",
+  "ano": "2022",
+  "autores": [
+   "Kang MJY"
+  ],
+  "pubtype": [
+   "Systematic Review",
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The mechanism of action underlying ketamine's rapid antidepressant effects in patients with depression, both suffering from major depressive disorder (MDD) and bipolar disorder (BD), including treatment resistant depression (TRD), remains unclear. Of the many speculated routes that ketamine may act through, restoring deficits in neuroplasticity may be the most parsimonious mechanism in both human patients and preclinical models of depression. Here, we conducted a literature search using PubMed for any reports of ketamine inducing neuroplasticity relevant to depression, to identify cellular and molecular events, relevant to neuroplasticity, immediately observed with rapid mood improvements in humans or antidepressant-like effects in animals. After screening reports using our inclusion/exclusion criteria, 139 publications with data from cell cultures, animal models, and patients with BD or MDD were included (registered on PROSPERO, ID: CRD42019123346). We found accumulating evidence to support that ketamine induces an increase in molecules involved in modulating neuroplasticity, and that these changes are paired with rapid antidepressant effects. Molecules or complexes of high intere"
+ },
+ {
+  "pmid": "37488280",
+  "grupo": "KET",
+  "label": "Krystal_2024",
+  "id": "REF_KRYSTAL_2024",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO07.013",
+  "titulo": "Ketamine and rapid antidepressant action: new treatments and novel synaptic signaling mechanisms.",
+  "fonte": "Neuropsychopharmacology",
+  "ano": "2024",
+  "autores": [
+   "Krystal JH"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, U.S. Gov't, Non-P.H.S."
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Ketamine is an open channel blocker of ionotropic glutamatergic N-Methyl-D-Aspartate (NMDA) receptors. The discovery of its rapid antidepressant effects in patients with depression and treatment-resistant depression fostered novel effective treatments for mood disorders. This discovery not only provided new insight into the neurobiology of mood disorders but also uncovered fundamental synaptic plasticity mechanisms that underlie its treatment. In this review, we discuss key clinical aspects of ketamine's effect as a rapidly acting antidepressant, synaptic and circuit mechanisms underlying its action, as well as how these novel perspectives in clinical practice and synapse biology form a road map for future studies aimed at more effective treatments for neuropsychiatric disorders."
+ },
+ {
+  "pmid": "39116687",
+  "grupo": "KET",
+  "label": "Yun_2024",
+  "id": "REF_YUN_2024",
+  "tag": "MA",
+  "evid_role": "SUP",
+  "claim_id": "B5.MEC.BLOCO07.014",
+  "titulo": "Neural correlates of treatment response to ketamine for treatment-resistant depression: A systematic review of MRI-based studies.",
+  "fonte": "Psychiatry Res",
+  "ano": "2024",
+  "autores": [
+   "Yun JY"
+  ],
+  "pubtype": [
+   "Systematic Review",
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Treatment-resistant depression (TRD) is defined as patients diagnosed with depression having a history of failure with different antidepressants with an adequate dosage and treatment duration. The NMDA receptor antagonist ketamine rapidly reduces depressive symptoms in TRD. We examined neural correlates of treatment response to ketamine in TRD through a systematic review of brain magnetic resonance imaging (MRI) studies. A comprehensive search in PubMed was performed using \"ketamine AND depression AND magnetic resonance.\" The time span for the database queries was \"Start date: 2018/01/01; End date: 2024/05/31.\" Total 41 original articles comprising 1,396 TRD and 587 healthy controls (HC) were included. Diagnosis of depression was made using the Structured Clinical Interview for DSM Disorders (SCID), the Mini-International Neuropsychiatric Interview (MINI), and/or the clinical assessment by psychiatrists. Patients with affective psychotic disorders were excluded. Most studies applied ketamine [0.5mg/kg racemic ketamine and/or 0.25mg/kg S-ketamine] diluted in 60cc of normal saline via intravenous infusion over 40 min one time, four times, or six times spaced 2-3 days apart over 2 wee"
+ },
+ {
+  "pmid": "40840695",
+  "grupo": "KET",
+  "label": "Freudenberg_2025",
+  "id": "REF_FREUDENBERG_2025",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO07.015",
+  "titulo": "All roads lead to glutamate: NMDA and AMPA receptors as targets for rapid-acting antidepressants.",
+  "fonte": "Pharmacol Res",
+  "ano": "2025",
+  "autores": [
+   "Freudenberg F"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Treatment-resistant depression (TRD) represents a major clinical challenge. Affecting about 30 % of major depressive disorder (MDD) patients, effective treatments for TRD are urgently needed. While depression research and antidepressant (AD) development have long centred on monoaminergic targets, research over the past 35 years has increasingly explored glutamatergic mechanisms. Here we present an extended discussion on developments in glutamatergic drug discovery, focusing on mechanistic convergence between NMDA and AMPA receptor signalling. Beyond established rapid-acting antidepressants (RAADs), such as (es)ketamine and dextromethorphan/bupropion (AXS-05), we highlight novel therapeutic directions involving esmethadone (REL-1017), nitrous oxide, and positive allosteric modulators (PAMs) of NMDA receptors (e.g. rapastinel, zelquistinel, and apimostinel). Moreover, we discuss forward-looking strategies using AMPA receptor PAMs (e.g. osavampator and tulrampator) and targeting of AMPA receptor-interacting proteins. By integrating recent clinical evidence with molecular and physiological findings, we highlight a convergent mechanism across these compounds. This involves increased AMP"
+ },
+ {
+  "pmid": "41139588",
+  "grupo": "KET",
+  "label": "Serretti_2025",
+  "id": "REF_SERRETTI_2025",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO07.016",
+  "titulo": "Rapid-acting NMDA and GABAergic Modulators in Mood Disorders: From Synaptic Mechanisms to Clinical Practice.",
+  "fonte": "Clin Psychopharmacol Neurosci",
+  "ano": "2025",
+  "autores": [
+   "Serretti A"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Depression is increasingly conceptualized as a disorder of impaired synaptic plasticity and excitation-inhibition imbalance within corticolimbic circuits. Two rapid-acting therapeutic classes, NMDA receptor modulators (ketamine, esketamine) and neuroactive-steroid GABA-A positive allosteric modulators (brexanolone, zuranolone), offer complementary approaches to restore circuit function. Clinically, intravenous ketamine and intranasal esketamine show superiority over placebo and active comparators in treatment-resistant depression (TRD), with esketamine supported for continuation-phase relapse prevention and, in the United States, is approved both as adjunctive therapy and as monotherapy in adults with TRD. Evidence of efficacy extends to bipolar depression with careful mood-stabilizer coverage. Both agents reduce suicidal ideation within hours to days, although effects on suicidal behavior have not been demonstrated. Safety profiles include dissociation and hemodynamic changes; concerns with prolonged or high-cumulative exposure include cystitis and misuse liability. Neurosteroid GABA-A modulators are effective in post partum depression with some preliminary evidence in major depre"
+ },
+ {
+  "pmid": "41475562",
+  "grupo": "KET",
+  "label": "Le_2026",
+  "id": "REF_LE_2026",
+  "tag": "MA",
+  "evid_role": "SUP",
+  "claim_id": "B5.MEC.BLOCO07.017",
+  "titulo": "A systematic review of ketamine and esketamine-induced long-term potentiation and synaptic scaling: Do the molecular and synaptic plasticity effects inform dosing intervals?",
+  "fonte": "J Affect Disord",
+  "ano": "2026",
+  "autores": [
+   "Le GH"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Systematic Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Ketamine and esketamine exhibit rapid antidepressant effects in persons with treatment-resistant depression (TRD) and bipolar depression (TRBD). However, the synaptic mechanisms governing dose, frequency, and durability of response remain unclear. This review aims to evaluate the dosing parameters, including minimum dose and optimal dosing intervals, that reliably induce or maintain long-term potentiation (LTP) and/or synaptic scaling in humans and preclinical models. A systematic search (database inception to June 2025) was conducted on OVID and PubMed to identify preclinical and clinical studies reporting ketamine-induced clinical symptom changes alongside direct or indirect marker of LTP and/or synaptic scaling. Study selection, quality assessment, and data extraction were conducted by two independent reviewers. Sixty-one clinical and 17 preclinical studies met inclusion criteria. Most clinical studies enrolled persons with TRD, with fewer including TRBD or mixed TRD/TRBD samples. In TRD, a single 0.5 mg/kg intravenous ketamine infusion produced rapid but transient antidepressant effects, peaking at 24-hours and declining over 2-3 days. A similar temporal pattern was observed in"
+ },
+ {
+  "pmid": "41577431",
+  "grupo": "KET",
+  "label": "Le_2026b",
+  "id": "REF_LE_2026b",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO07.018",
+  "titulo": "Modulating tonic NMDA receptor currents: mechanistic insights into ketamine, esketamine, and dextromethorphan for major depressive disorder and implications for the discovery and development of investigational agents.",
+  "fonte": "Expert Opin Ther Targets",
+  "ano": "2026",
+  "autores": [
+   "Le GH"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Up to 50% of adults with major depressive disorder (MDD) fail to achieve remission after two or more monoaminergic antidepressants and meet criteria for treatment-resistant depression (TRD). Low-dose intravenous ketamine, intranasal esketamine, and oral dextromethorphan represent the first glutamatergic treatments to exhibit rapid and robust efficacy in persons with TRD, yet their precise mechanisms remain unclear. Herein, we amplify an existing hypothesis and integrate preclinical, pharmacological, and clinical evidence implicating elevated tonic N-methyl-D-aspartate (NMDA) receptor currents, mediated predominantly by NR2C/D subunits, in the pathophysiology of TRD. We review in vivo proton magnetic resonance spectroscopy and electrophysiology studies that document sustained ambient-glutamate signaling in key limbic regions. We then synthesize mechanistic data on ketamine's dual pore-trapping and hydrophobic lateral-site binding, esketamine's preferential NR2D blockade, and dextromethorphan's pH-enhanced NR2C selectivity. Selective dampening of NR2C/D-mediated tonic currents underlie rapid and sustained antidepressant effects of ketamine, esketamine, and dextromethorphan. Separatel"
+ },
+ {
+  "pmid": "41607072",
+  "grupo": "KET",
+  "label": "Lu_2026",
+  "id": "REF_LU_2026",
+  "tag": "MA",
+  "evid_role": "CONT",
+  "claim_id": "B5.MEC.BLOCO07.019",
+  "titulo": "Is the antidepressant efficacy of ketamine and esketamine mediated via opioid mechanisms?",
+  "fonte": "Eur Psychiatry",
+  "ano": "2026",
+  "autores": [
+   "Lu A"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Systematic Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Ketamine and esketamine produce rapid and sustained antidepressant effects in persons with treatment-resistant depression (TRD). Although it is posited that these effects are largely attributed to N-methyl-D-aspartate receptor antagonism, the potential involvement of the opioid system remains unclear. This systematic review investigates whether ketamine and esketamine antidepressant efficacy is mediated through the opioid system. We conducted a systematic search of preclinical and clinical studies investigating the potential involvement of the opioid system in the antidepressant effects of ketamine and esketamine. Database searches on PubMed, Cochrane Library, Embase and PsycINFO occurred from inception to September 27, 2025. 16 studies were identified: 12 clinical (n = 790) and 4 preclinical studies. Clinical designs included randomized controlled trials, case reports, pre-post studies and observational cohort studies. Preclinical studies utilized animal models of depression. Only one study examined esketamine. Naltrexone (nonselective opioid antagonist) attenuated ketamine's effects in three studies, while four reported no such effect and one reported mixed evidence. Genetic mark"
+ },
+ {
+  "pmid": "41923438",
+  "grupo": "KET",
+  "label": "Van_2026",
+  "id": "REF_VAN_2026",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO07.020",
+  "titulo": "Esketamine Nasal Spray: Mechanism of Action, Clinical, and Translational Science.",
+  "fonte": "Clin Transl Sci",
+  "ano": "2026",
+  "autores": [
+   "van Hoogdalem MW"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Major depressive disorder (MDD) imposes a substantial burden worldwide, with treatment-resistant depression (TRD) and major depressive disorder with acute suicidal ideation or behavior (MDSI) representing two of the most severe clinical challenges. Conventional antidepressants often require several weeks to exert benefit, leaving patients symptomatic and at risk during this delay. Esketamine nasal spray was the first glutamate-modulating antidepressant to enter clinical practice and was recently approved as the first and only monotherapy for adults with TRD. Administered at 56 mg or 84 mg, esketamine offers a rapid onset of action. Intranasal delivery yields approximately 50% bioavailability and peak concentrations within 20-40 min, correlating with early clinical effects. N-methyl-D-aspartate (NMDA) receptor antagonism on inhibitory interneurons disinhibits glutamate release and modulates downstream synaptic plasticity pathways, providing a mechanistic basis for the rapid antidepressant effects of esketamine. This review summarizes the regulatory approval, mechanism of action, and pharmacokinetic/pharmacodynamic characteristics, together with key clinical trial efficacy and safety"
+ },
+ {
+  "pmid": "42515873",
+  "grupo": "KET",
+  "label": "Sledzikowska_2026",
+  "id": "REF_SLEDZIKOWSKA_2026",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO07.021",
+  "titulo": "Esketamine in Treatment-Resistant Depression: Clinical and Translational Perspectives.",
+  "fonte": "Curr Neuropharmacol",
+  "ano": "2026",
+  "autores": [
+   "Śledzikowska Z"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Esketamine, an intranasally administered N-methyl-D-aspartate (NMDA) receptor antagonist, represents a significant advancement in the treatment of Major Depressive Disorder (MDD), particularly among patients with Treatment-Resistant Depression (TRD). Its therapeutic effects are associated with rapid enhancement of glutamatergic neurotransmission and downstream activation of the α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) receptor-Brain-Derived Neurotrophic Factor (BDNF)-mechanistic Target Of Rapamycin (mTOR) signaling pathway, which is implicated in synaptic plasticity. This mini-review aims to synthesize current clinical and translational evidence on intranasal esketamine in TRD. This mini-review provides an integrative overview of clinically relevant and translational studies on intranasal esketamine, based on a focused search of the PubMed and Scopus databases. Peer-reviewed clinical trials, meta-analyses, mechanistic studies, and regulatory documents were included. Evidence from randomized controlled trials demonstrates a rapid onset of antidepressant effects, often within hours of administration, with consistent reductions in depressive symptom severity. Effect"
+ },
+ {
+  "pmid": "21154909",
+  "grupo": "GABA",
+  "label": "Rudy_2011",
+  "id": "REF_RUDY_2011",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO01.001",
+  "titulo": "Three groups of interneurons account for nearly 100% of neocortical GABAergic neurons.",
+  "fonte": "Dev Neurobiol",
+  "ano": "2011",
+  "autores": [
+   "Rudy B"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "An understanding of the diversity of cortical GABAergic interneurons is critical to understand the function of the cerebral cortex. Recent data suggest that neurons expressing three markers, the Ca2+-binding protein parvalbumin (PV), the neuropeptide somatostatin (SST), and the ionotropic serotonin receptor 5HT3a (5HT3aR) account for nearly 100% of neocortical interneurons. Interneurons expressing each of these markers have a different embryological origin. Each group includes several types of interneurons that differ in morphological and electrophysiological properties and likely have different functions in the cortical circuit. The PV group accounts for ∼40% of GABAergic neurons and includes fast spiking basket cells and chandelier cells. The SST group, which represents ∼30% of GABAergic neurons, includes the Martinotti cells and a set of neurons that specifically target layerIV. The 5HT3aR group, which also accounts for ∼30% of the total interneuronal population, is heterogeneous and includes all of the neurons that express the neuropeptide VIP, as well as an equally numerous subgroup of neurons that do not express VIP and includes neurogliaform cells. The universal modulation o"
+ },
+ {
+  "pmid": "23637187",
+  "grupo": "GABA",
+  "label": "Booker_2013",
+  "id": "REF_BOOKER_2013",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO01.002",
+  "titulo": "Differential GABAB-receptor-mediated effects in perisomatic- and dendrite-targeting parvalbumin interneurons.",
+  "fonte": "J Neurosci",
+  "ano": "2013",
+  "autores": [
+   "Booker SA"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Inhibitory parvalbumin-containing interneurons (PVIs) control neuronal discharge and support the generation of theta- and gamma-frequency oscillations in cortical networks. Fast GABAergic input onto PVIs is crucial for their synchronization and oscillatory entrainment, but the role of metabotropic GABA(B) receptors (GABA(B)Rs) in mediating slow presynaptic and postsynaptic inhibition remains unknown. In this study, we have combined high-resolution immunoelectron microscopy, whole-cell patch-clamp recording, and computational modeling to investigate the subcellular distribution and effects of GABA(B)Rs and their postsynaptic effector Kir3 channels in rat hippocampal PVIs. Pre-embedding immunogold labeling revealed that the receptors and channels localize at high levels to the extrasynaptic membrane of parvalbumin-immunoreactive dendrites. Immunoreactivity for GABA(B)Rs was also present at lower levels on PVI axon terminals. Whole-cell recordings further showed that synaptically released GABA in response to extracellular stimulation evokes large GABA(B)R-mediated slow IPSCs in perisomatic-targeting (PT) PVIs, but only small or no currents in dendrite-targeting (DT) PVIs. In contrast,"
+ },
+ {
+  "pmid": "24071826",
+  "grupo": "GABA",
+  "label": "Carver_2013",
+  "id": "REF_CARVER_2013",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO01.003",
+  "titulo": "Neurosteroid interactions with synaptic and extrasynaptic GABA(A) receptors: regulation of subunit plasticity, phasic and tonic inhibition, and neuronal network excitability.",
+  "fonte": "Psychopharmacology (Berl)",
+  "ano": "2013",
+  "autores": [
+   "Carver CM"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Neurosteroids are steroids synthesized within the brain with rapid effects on neuronal excitability. Allopregnanolone, allotetrahydrodeoxycorticosterone, and androstanediol are three widely explored prototype endogenous neurosteroids. They have very different targets and functions compared to conventional steroid hormones. Neuronal γ-aminobutyric acid (GABA) type A (GABA(A)) receptors are one of the prime molecular targets of neurosteroids. This review provides a critical appraisal of recent advances in the pharmacology of endogenous neurosteroids that interact with GABA(A) receptors in the brain. Neurosteroids possess distinct, characteristic effects on the membrane potential and current conductance of the neuron, mainly via potentiation of GABA(A) receptors at low concentrations and direct activation of receptor chloride channel at higher concentrations. The GABA(A) receptor mediates two types of inhibition, now characterized as synaptic (phasic) and extrasynaptic (tonic) inhibition. Synaptic release of GABA results in the activation of low-affinity γ2-containing synaptic receptors, while high-affinity δ-containing extrasynaptic receptors are persistently activated by the ambient"
+ },
+ {
+  "pmid": "24550784",
+  "grupo": "GABA",
+  "label": "Lee_2014",
+  "id": "REF_LEE_2014",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO01.004",
+  "titulo": "The impact of tonic GABAA receptor-mediated inhibition on neuronal excitability varies across brain region and cell type.",
+  "fonte": "Front Neural Circuits",
+  "ano": "2014",
+  "autores": [
+   "Lee V"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The diversity of GABAA receptor (GABAAR) subunits and the numerous configurations during subunit assembly give rise to a variety of receptors with different functional properties. This heterogeneity results in variations in GABAergic conductances across numerous brain regions and cell types. Phasic inhibition is mediated by synaptically-localized receptors with a low affinity for GABA and results in a transient, rapidly desensitizing GABAergic conductance; whereas, tonic inhibition is mediated by extrasynaptic receptors with a high affinity for GABA and results in a persistent GABAergic conductance. The specific functions of tonic versus phasic GABAergic inhibition in different cell types and the impact on specific neural circuits are only beginning to be unraveled. Here we review the diversity in the magnitude of tonic GABAergic inhibition in various brain regions and cell types, and highlight the impact on neuronal excitability in different neuronal circuits. Further, we discuss the relevance of tonic inhibition in various physiological and pathological contexts as well as the potential of targeting these receptor subtypes for treatment of diseases, such as epilepsy."
+ },
+ {
+  "pmid": "25653499",
+  "grupo": "GABA",
+  "label": "Pehrson_2015",
+  "id": "REF_PEHRSON_2015",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO01.005",
+  "titulo": "Altered γ-aminobutyric acid neurotransmission in major depressive disorder: a critical review of the supporting evidence and the influence of serotonergic antidepressants.",
+  "fonte": "Drug Des Devel Ther",
+  "ano": "2015",
+  "autores": [
+   "Pehrson AL"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Evidence suggesting that central nervous system γ-aminobutyric acid (GABA) concentrations are reduced in patients with major depressive disorder (MDD) has been present since at least 1980, and this idea has recently gained support from more recent magnetic resonance spectroscopy data. These observations have led to the assumption that MDD's underlying etiology is tied to an overall reduction in GABA-mediated inhibitory neurotransmission. In this paper, we review the mechanisms that govern GABA and glutamate concentrations in the brain, and provide a comprehensive and critical evaluation of the clinical data supporting reduced GABA neurotransmission in MDD. This review includes an evaluation of magnetic resonance spectroscopy data, as well as data on the expression and function of the GABA-synthesizing enzyme glutamic acid decarboxylase, GABA neuron-specific cell markers, such as parvalbumin, calretinin and calbindin, and the GABAA and GABAB receptors in clinical MDD populations. We explore a potential role for glial pathology in MDD-related reductions in GABA concentrations, and evidence of a connection between neurosteroids, GABA neurotransmission, and hormone-related mood disorde"
+ },
+ {
+  "pmid": "27812532",
+  "grupo": "GABA",
+  "label": "Ghosal_2017",
+  "id": "REF_GHOSAL_2017",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO01.006",
+  "titulo": "Prefrontal Cortex GABAergic Deficits and Circuit Dysfunction in the Pathophysiology and Treatment of Chronic Stress and Depression.",
+  "fonte": "Curr Opin Behav Sci",
+  "ano": "2017",
+  "autores": [
+   "Ghosal S"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Psychiatric diseases, notably major depression, are associated with imbalance of excitatory and inhibitory neurotransmission within the prefrontal cortex (PFC) and related limbic brain circuitry. In many cases these illnesses are precipitated or exacerbated by chronic stress, which also alters excitatory and inhibitory neurotransmitter systems. Notably, exposure to repeated uncontrollable stress causes persistent changes in the synaptic integrity and function of the principal glutamatergic excitatory neurons in the PFC, characterized by neuronal atrophy and loss of synaptic connections. This can lead to dysfunction of the PFC circuitry that is necessary for execution of adaptive behavioral responses. In addition, an emerging literature shows that chronic stress also causes extensive alteration of GABAergic inhibitory circuits in the PFC, leading to the hypothesis that inhibitory neurotransmitter deficits contribute to changes in PFC neuronal excitability and cognitive impairments. Here we review evidence in rodents and human, which point to the mechanisms underlying stress-induced alterations of GABA transmission in the PFC, and its relevance to circuit dysfunction in mood and stre"
+ },
+ {
+  "pmid": "30523065",
+  "grupo": "GABA",
+  "label": "Magnin_2019",
+  "id": "REF_MAGNIN_2019",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO01.007",
+  "titulo": "Input-Specific Synaptic Location and Function of the α5 GABA(A) Receptor Subunit in the Mouse CA1 Hippocampal Neurons.",
+  "fonte": "J Neurosci",
+  "ano": "2019",
+  "autores": [
+   "Magnin E"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Hippocampus-dependent learning processes are coordinated via a large diversity of GABAergic inhibitory mechanisms. The α5 subunit-containing GABAA receptor (α5-GABAAR) is abundantly expressed in the hippocampus populating primarily the extrasynaptic domain of CA1 pyramidal cells, where it mediates tonic inhibitory conductance and may cause functional deficits in synaptic plasticity and hippocampus-dependent memory. However, little is known about synaptic expression of the α5-GABAAR and, accordingly, its location site-specific function. We examined the cell- and synapse-specific distribution of the α5-GABAAR in the CA1 stratum oriens/alveus (O/A) using a combination of immunohistochemistry, whole-cell patch-clamp recordings and optogenetic stimulation in hippocampal slices obtained from mice of either sex. In addition, the input-specific role of the α5-GABAAR in spatial learning and anxiety-related behavior was studied using behavioral testing and chemogenetic manipulations. We demonstrate that α5-GABAAR is preferentially targeted to the inhibitory synapses made by the vasoactive intestinal peptide (VIP)- and calretinin-positive terminals onto dendrites of somatostatin-expressing in"
+ },
+ {
+  "pmid": "31212931",
+  "grupo": "GABA",
+  "label": "Riedemann_2019",
+  "id": "REF_RIEDEMANN_2019",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO01.008",
+  "titulo": "Diversity and Function of Somatostatin-Expressing Interneurons in the Cerebral Cortex.",
+  "fonte": "Int J Mol Sci",
+  "ano": "2019",
+  "autores": [
+   "Riedemann T"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Inhibitory interneurons make up around 10-20% of the total neuron population in the cerebral cortex. A hallmark of inhibitory interneurons is their remarkable diversity in terms of morphology, synaptic connectivity, electrophysiological and neurochemical properties. It is generally understood that there are three distinct and non-overlapping interneuron classes in the mouse neocortex, namely, parvalbumin-expressing, 5-HT3A receptor-expressing and somatostatin-expressing interneuron classes. Each class is, in turn, composed of a multitude of subclasses, resulting in a growing number of interneuron classes and subclasses. In this review, I will focus on the diversity of somatostatin-expressing interneurons (SOM+ INs) in the cerebral cortex and elucidate their function in cortical circuits. I will then discuss pathological consequences of a malfunctioning of SOM+ INs in neurological disorders such as major depressive disorder, and present future avenues in SOM research and brain pathologies."
+ },
+ {
+  "pmid": "31707118",
+  "grupo": "GABA",
+  "label": "Ghosal_2020",
+  "id": "REF_GHOSAL_2020",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO01.009",
+  "titulo": "Ketamine rapidly reverses stress-induced impairments in GABAergic transmission in the prefrontal cortex in male rodents.",
+  "fonte": "Neurobiol Dis",
+  "ano": "2020",
+  "autores": [
+   "Ghosal S"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Dysfunction of medial prefrontal cortex (mPFC) in association with imbalance of inhibitory and excitatory neurotransmission has been implicated in depression. However, the precise cellular mechanisms underlying this imbalance, particularly for GABAergic transmission in the mPFC, and the link with the rapid acting antidepressant ketamine remains poorly understood. Here we determined the influence of chronic unpredictable stress (CUS), an ethologically validated model of depression, on synaptic markers of GABA neurotransmission, and the influence of a single dose of ketamine on CUS-induced synaptic deficits in mPFC of male rodents. The results demonstrate that CUS decreases GABAergic proteins and the frequency of inhibitory post synaptic currents (IPSCs) of layer V mPFC pyramidal neurons, concomitant with depression-like behaviors. In contrast, a single dose of ketamine can reverse CUS-induced deficits of GABA markers, in conjunction with reversal of CUS-induced depressive-like behaviors. These findings provide further evidence of impairments of GABAergic synapses as key determinants of depressive behavior and highlight ketamine-induced synaptic responses that restore GABA inhibitory"
+ },
+ {
+  "pmid": "31974304",
+  "grupo": "GABA",
+  "label": "Bryson_2020",
+  "id": "REF_BRYSON_2020",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO01.010",
+  "titulo": "GABA-mediated tonic inhibition differentially modulates gain in functional subtypes of cortical interneurons.",
+  "fonte": "Proc Natl Acad Sci U S A",
+  "ano": "2020",
+  "autores": [
+   "Bryson A"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "The binding of GABA (γ-aminobutyric acid) to extrasynaptic GABAA receptors generates tonic inhibition that acts as a powerful modulator of cortical network activity. Despite GABA being present throughout the extracellular space of the brain, previous work has shown that GABA may differentially modulate the excitability of neuron subtypes according to variation in chloride gradient. Here, using biophysically detailed neuron models, we predict that tonic inhibition can differentially modulate the excitability of neuron subtypes according to variation in electrophysiological properties. Surprisingly, tonic inhibition increased the responsiveness (or gain) in models with features typical for somatostatin interneurons but decreased gain in models with features typical for parvalbumin interneurons. Patch-clamp recordings from cortical interneurons supported these predictions, and further in silico analysis was then performed to seek a putative mechanism underlying gain modulation. We found that gain modulation in models was dependent upon the magnitude of tonic current generated at depolarized membrane potential-a property associated with outward rectifying GABAA receptors. Furthermore, "
+ },
+ {
+  "pmid": "32073397",
+  "grupo": "GABA",
+  "label": "Booker_2020",
+  "id": "REF_BOOKER_2020",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO01.011",
+  "titulo": "Presynaptic GABA(B) receptors functionally uncouple somatostatin interneurons from the active hippocampal network.",
+  "fonte": "Elife",
+  "ano": "2020",
+  "autores": [
+   "Booker SA"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Information processing in cortical neuronal networks relies on properly balanced excitatory and inhibitory neurotransmission. A ubiquitous motif for maintaining this balance is the somatostatin interneuron (SOM-IN) feedback microcircuit. Here, we investigated the modulation of this microcircuit by presynaptic GABAB receptors (GABABRs) in the rodent hippocampus. Whole-cell recordings from SOM-INs revealed that both excitatory and inhibitory synaptic inputs are strongly inhibited by GABABRs, while optogenetic activation of the interneurons shows that their inhibitory output is also strongly suppressed. Electron microscopic analysis of immunogold-labelled freeze-fracture replicas confirms that GABABRs are highly expressed presynaptically at both input and output synapses of SOM-INs. Activation of GABABRs selectively suppresses the recruitment of SOM-INs during gamma oscillations induced in vitro. Thus, axonal GABABRs are positioned to efficiently control the input and output synapses of SOM-INs and can functionally uncouple them from local network with implications for rhythmogenesis and the balance of entorhinal versus intrahippocampal afferents."
+ },
+ {
+  "pmid": "32859716",
+  "grupo": "GABA",
+  "label": "Antonoudiou_2020",
+  "id": "REF_ANTONOUDIOU_2020",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO01.012",
+  "titulo": "Parvalbumin and Somatostatin Interneurons Contribute to the Generation of Hippocampal Gamma Oscillations.",
+  "fonte": "J Neurosci",
+  "ano": "2020",
+  "autores": [
+   "Antonoudiou P"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "γ-frequency oscillations (30-120 Hz) in cortical networks influence neuronal encoding and information transfer, and are disrupted in multiple brain disorders. While synaptic inhibition is important for synchronization across the γ-frequency range, the role of distinct interneuronal subtypes in slow (<60 Hz) and fast γ states remains unclear. Here, we used optogenetics to examine the involvement of parvalbumin-expressing (PV+) and somatostatin-expressing (SST+) interneurons in γ oscillations in the mouse hippocampal CA3 ex vivo, using animals of either sex. Disrupting either PV+ or SST+ interneuron activity, via either photoinhibition or photoexcitation, led to a decrease in the power of cholinergically induced slow γ oscillations. Furthermore, photoexcitation of SST+ interneurons induced fast γ oscillations, which depended on both synaptic excitation and inhibition. Our findings support a critical role for both PV+ and SST+ interneurons in slow hippocampal γ oscillations, and further suggest that intense activation of SST+ interneurons can enable the CA3 circuit to generate fast γ oscillations.SIGNIFICANCE STATEMENT The generation of hippocampal γ oscillations depends on synchroniz"
+ },
+ {
+  "pmid": "33070149",
+  "grupo": "GABA",
+  "label": "Fogaca_2021",
+  "id": "REF_FOGACA_2021",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO01.013",
+  "titulo": "Inhibition of GABA interneurons in the mPFC is sufficient and necessary for rapid antidepressant responses.",
+  "fonte": "Mol Psychiatry",
+  "ano": "2021",
+  "autores": [
+   "Fogaça MV"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Major depressive disorder (MDD) is associated with alterations of GABAergic interneurons, notably somatostatin (Sst) as well as parvalbumin (Pvalb), in cortical brain areas. In addition, the antidepressant effects of rapid-acting drugs are thought to occur via inhibition of GABA interneurons. However, the impact of these interneuron subtypes in affective behaviors as well as in the effects of rapid-acting antidepressants remains to be determined. Here, we used a Cre-dependent DREADD-chemogenetic approach to determine if inhibition of GABA interneurons in the mPFC of male mice is sufficient to produce antidepressant actions, and conversely if activation of these interneurons blocks the rapid and sustained antidepressant effects of scopolamine, a nonselective acetylcholine muscarinic receptor antagonist. Chemogenetic inhibition of all GABA interneurons (Gad1+), as well as Sst+ and Pvalb+ subtypes in the mPFC produced dose and time-dependent antidepressant effects in the forced swim and novelty suppressed feeding tests, and increased synaptic plasticity. In contrast, stimulation of Gad1, Sst, or Pvalb interneurons in mPFC abolished the effects of scopolamine and prevented scopolamine "
+ },
+ {
+  "pmid": "33438026",
+  "grupo": "GABA",
+  "label": "Fee_2021",
+  "id": "REF_FEE_2021",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO01.014",
+  "titulo": "Behavioral Deficits Induced by Somatostatin-Positive GABA Neuron Silencing Are Rescued by Alpha 5 GABA-A Receptor Potentiation.",
+  "fonte": "Int J Neuropsychopharmacol",
+  "ano": "2021",
+  "autores": [
+   "Fee C"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Deficits in somatostatin-positive gamma-aminobutyric acid interneurons (SST+ GABA cells) are commonly reported in human studies of mood and anxiety disorder patients. A causal link between SST+ cell dysfunction and symptom-related behaviors has been proposed based on rodent studies showing that chronic stress, a major risk factor for mood and anxiety disorders, induces a low SST+ GABA cellular phenotype across corticolimbic brain regions; that lowering Sst, SST+ cell, or GABA functions induces depressive-/anxiety-like behaviors (a rodent behavioral construct collectively defined as \"behavioral emotionality\"); and that disinhibiting SST+ cells has antidepressant-like effects. Recent studies found that compounds preferentially potentiating receptors mediating SST+ cell functions, α5-GABAA receptor positive allosteric modulators (α5-PAMs), achieved antidepressant-like effects. Together, the evidence suggests that SST+ cells regulate mood and cognitive functions that are disrupted in mood disorders and that rescuing SST+ cell function via α5-PAM may represent a targeted therapeutic strategy. We developed a mouse model allowing chemogenetic manipulation of brain-wide SST+ cells and empl"
+ },
+ {
+  "pmid": "33837051",
+  "grupo": "GABA",
+  "label": "Vereczki_2021",
+  "id": "REF_VERECZKI_2021",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO01.015",
+  "titulo": "Total Number and Ratio of GABAergic Neuron Types in the Mouse Lateral and Basal Amygdala.",
+  "fonte": "J Neurosci",
+  "ano": "2021",
+  "autores": [
+   "Vereczki VK"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "GABAergic neurons are key circuit elements in cortical networks. Despite growing evidence showing that inhibitory cells play a critical role in the lateral (LA) and basal (BA) amygdala functions, neither the number of GABAergic neurons nor the ratio of their distinct types has been determined in these amygdalar nuclei. Using unbiased stereology, we found that the ratio of GABAergic neurons in the BA (22%) is significantly higher than in the LA (16%) in both male and female mice. No difference was observed between the right and left hemispheres in either sex. In addition, we assessed the ratio of the major inhibitory cell types in both amygdalar nuclei. Using transgenic mice and a viral strategy for visualizing inhibitory cells combined with immunocytochemistry, we estimated that the following cell types together compose the vast majority of GABAergic cells in the LA and BA: axo-axonic cells (5.5%-6%), basket cells expressing parvalbumin (17%-20%) or cholecystokinin (7%-9%), dendrite-targeting inhibitory cells expressing somatostatin (10%-16%), NPY-containing neurogliaform cells (14%-15%), VIP and/or calretinin-expressing interneuron-selective interneurons (29%-38%), and GABAergic p"
+ },
+ {
+  "pmid": "34322002",
+  "grupo": "GABA",
+  "label": "Yang_2021",
+  "id": "REF_YANG_2021",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO01.016",
+  "titulo": "Prefrontal GABAergic Interneurons Gate Long-Range Afferents to Regulate Prefrontal Cortex-Associated Complex Behaviors.",
+  "fonte": "Front Neural Circuits",
+  "ano": "2021",
+  "autores": [
+   "Yang SS"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Prefrontal cortical GABAergic interneurons (INs) and their innervations are essential for the execution of complex behaviors such as working memory, social behavior, and fear expression. These behavior regulations are highly dependent on primary long-range afferents originating from the subcortical structures such as mediodorsal thalamus (MD), ventral hippocampus (vHPC), and basolateral amygdala (BLA). In turn, the regulatory effects of these inputs are mediated by activation of parvalbumin-expressing (PV) and/or somatostatin expressing (SST) INs within the prefrontal cortex (PFC). Here we review how each of these long-range afferents from the MD, vHPC, or BLA recruits a subset of the prefrontal interneuron population to exert precise control of specific PFC-dependent behaviors. Specifically, we first summarize the anatomical connections of different long-range inputs formed on prefrontal GABAergic INs, focusing on PV versus SST cells. Next, we elaborate on the role of prefrontal PV- and SST- INs in regulating MD afferents-mediated cognitive behaviors. We also examine how prefrontal PV- and SST- INs gate vHPC afferents in spatial working memory and fear expression. Finally, we disc"
+ },
+ {
+  "pmid": "36184627",
+  "grupo": "GABA",
+  "label": "Wen_2022",
+  "id": "REF_WEN_2022",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO01.017",
+  "titulo": "Glutamate and GABA(A) receptor crosstalk mediates homeostatic regulation of neuronal excitation in the mammalian brain.",
+  "fonte": "Signal Transduct Target Ther",
+  "ano": "2022",
+  "autores": [
+   "Wen Y"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Maintaining a proper balance between the glutamate receptor-mediated neuronal excitation and the A type of GABA receptor (GABAAR) mediated inhibition is essential for brain functioning; and its imbalance contributes to the pathogenesis of many brain disorders including neurodegenerative diseases and mental illnesses. Here we identify a novel glutamate-GABAAR interaction mediated by a direct glutamate binding of the GABAAR. In HEK293 cells overexpressing recombinant GABAARs, glutamate and its analog ligands, while producing no current on their own, potentiate GABA-evoked currents. This potentiation is mediated by a direct binding at a novel glutamate binding pocket located at the α+/β- subunit interface of the GABAAR. Moreover, the potentiation does not require the presence of a γ subunit, and in fact, the presence of γ subunit significantly reduces the potency of the glutamate potentiation. In addition, the glutamate-mediated allosteric potentiation occurs on native GABAARs in rat neurons maintained in culture, as evidenced by the potentiation of GABAAR-mediated inhibitory postsynaptic currents and tonic currents. Most importantly, we found that genetic impairment of this glutamate"
+ },
+ {
+  "pmid": "36725341",
+  "grupo": "GABA",
+  "label": "Lu_2023",
+  "id": "REF_LU_2023",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO01.018",
+  "titulo": "Allopregnanolone Effects on Inhibition in Hippocampal Parvalbumin Interneurons.",
+  "fonte": "eNeuro",
+  "ano": "2023",
+  "autores": [
+   "Lu X"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Allopregnanolone (AlloP) is a neurosteroid that potentiates ionotropic GABAergic (GABAA) inhibition and is approved for treating postpartum depression in women. Although the antidepressant mechanism of AlloP is largely unknown, it could involve selective action at GABAA receptors containing the δ subunit. Despite previous evidence for selective effects of AlloP on α4/δ-containing receptors of hippocampal dentate granule cells (DGCs), other recent results failed to demonstrate selectivity at these receptors (Lu et al., 2020). In contrast to DGCs, hippocampal fast-spiking parvalbumin (PV) interneurons express an unusual variant partnership of δ subunits with α1 subunits. Here, we hypothesized that native α1/δ receptors in hippocampal fast-spiking interneurons may provide a preferred substrate for AlloP. Contrary to the hypothesis, electrophysiology from genetically tagged PV interneurons in hippocampal slices from male mice showed that 100 nm AlloP promoted phasic inhibition by increasing the sIPSC decay, but tonic inhibition was not detectably altered. Co-application of AlloP with 5 μm GABA did augment tonic current, which was not primarily through δ-containing receptors. Furthermor"
+ },
+ {
+  "pmid": "37101797",
+  "grupo": "GABA",
+  "label": "Du_2023",
+  "id": "REF_DU_2023",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO01.019",
+  "titulo": "Genetic inhibition of glutamate allosteric potentiation of GABA(A)Rs in mice results in hyperexcitability, leading to neurobehavioral abnormalities.",
+  "fonte": "MedComm (2020)",
+  "ano": "2023",
+  "autores": [
+   "Du Y"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "The imbalance between neuronal excitation and inhibition (E/I) in neural circuit has been considered to be at the root of numerous brain disorders. We recently reported a novel feedback crosstalk between the excitatory neurotransmitter glutamate and inhibitory γ-aminobutyric acid type A receptor (GABAAR)-glutamate allosteric potentiation of GABAAR functions through a direct binding of glutamate to the GABAAR itself. Here, we investigated the physiological significance and pathological implications of this cross-talk by generating the β3E182G knock-in (KI) mice. We found that β3E182G KI, while had little effect on basal GABAAR-mediated synaptic transmission, significantly reduced glutamate potentiation of GABAAR-mediated responses. These KI mice displayed lower thresholds for noxious stimuli, higher susceptibility to seizures and enhanced hippocampus-related learning and memory. Additionally, the KI mice exhibited impaired social interactions and decreased anxiety-like behaviors. Importantly, hippocampal overexpression of wild-type β3-containing GABAARs was sufficient to rescue the deficits of glutamate potentiation of GABAAR-mediated responses, hippocampus-related behavioral abnorm"
+ },
+ {
+  "pmid": "37709943",
+  "grupo": "GABA",
+  "label": "Thompson_2024",
+  "id": "REF_THOMPSON_2024",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO01.020",
+  "titulo": "Modulators of GABA(A) receptor-mediated inhibition in the treatment of neuropsychiatric disorders: past, present, and future.",
+  "fonte": "Neuropsychopharmacology",
+  "ano": "2024",
+  "autores": [
+   "Thompson SM"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review",
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The predominant inhibitory neurotransmitter in the brain, γ-aminobutyric acid (GABA), acts at ionotropic GABAA receptors to counterbalance excitation and regulate neuronal firing. GABAA receptors are heteropentameric channels comprised from subunits derived from 19 different genes. GABAA receptors have one of the richest and well-developed pharmacologies of any therapeutic drug target, including agonists, antagonists, and positive and negative allosteric modulators (PAMs, NAMs). Currently used PAMs include benzodiazepine sedatives and anxiolytics, barbiturates, endogenous and synthetic neurosteroids, and general anesthetics. In this article, I will review evidence that these drugs act at several distinct binding sites and how they can be used to alter the balance between excitation and inhibition. I will also summarize existing literature regarding (1) evidence that changes in GABAergic inhibition play a causative role in major depression, anxiety, postpartum depression, premenstrual dysphoric disorder, and schizophrenia and (2) whether and how GABAergic drugs exert beneficial effects in these conditions, focusing on human studies where possible. Where these classical therapeutics "
+ },
+ {
+  "pmid": "15356193",
+  "grupo": "NMDA",
+  "label": "Massey_2004",
+  "id": "REF_MASSEY_2004",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO02.001",
+  "titulo": "Differential roles of NR2A and NR2B-containing NMDA receptors in cortical long-term potentiation and long-term depression.",
+  "fonte": "J Neurosci",
+  "ano": "2004",
+  "autores": [
+   "Massey PV"
+  ],
+  "pubtype": [
+   "Comparative Study",
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "It is widely believed that long-term depression (LTD) and its counterpart, long-term potentiation (LTP), involve mechanisms that are crucial for learning and memory. However, LTD is difficult to induce in adult cortex for reasons that are not known. Here we show that LTD can be readily induced in adult cortex by the activation of NMDA receptors (NMDARs), after inhibition of glutamate uptake. Interestingly there is no need to activate synaptic NMDARs to induce this LTD, suggesting that LTD is triggered primarily by extrasynaptic NMDA receptors. We also find that de novo LTD requires the activation of NR2B-containing NMDAR, whereas LTP requires activation of NR2A-containing NMDARs. Surprisingly another form of LTD, depotentiation, requires activation of NR2A-containing NMDARs. Therefore, NMDARs with different synaptic locations and subunit compositions are involved in various forms of synaptic plasticity in adult cortex."
+ },
+ {
+  "pmid": "18992785",
+  "grupo": "NMDA",
+  "label": "Feyissa_2009",
+  "id": "REF_FEYISSA_2009",
+  "tag": "EC",
+  "evid_role": "SUP",
+  "claim_id": "B5.MEC.BLOCO02.002",
+  "titulo": "Reduced levels of NR2A and NR2B subunits of NMDA receptor and PSD-95 in the prefrontal cortex in major depression.",
+  "fonte": "Prog Neuropsychopharmacol Biol Psychiatry",
+  "ano": "2009",
+  "autores": [
+   "Feyissa AM"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Recent neuroimaging and postmortem studies have demonstrated abnormalities in glutamatergic transmission in major depression. Glutamate NMDA (N-methyl-d-aspartate) receptors are one of the major mediators of excitatory neurotransmission in the central nervous system. At synaptic sites, NMDA receptors are linked with postsynaptic density protein-95 (PSD-95) that plays a key role in mediating trafficking, clustering, and downstream signaling events, following receptor activation. In this study, we examined the expression of NMDA receptor subunits NR1, NR2A, and NR2B as well as PSD-95 in the anterior prefrontal cortex (PFC) using Western blot method. Cortical samples were obtained from age, gender and postmortem interval matched depressed and psychiatrically healthy controls. The results revealed that there was a reduced expression of the NMDA receptor subunits NR2A (-54%) and NR2B (-48%), and PSD-95 protein level (-40%) in the PFC of depressed subjects relative to controls, with no change in the NR1 subunit. The alterations in NMDA receptor subunits, especially the NR2A and NR2B, as well as PSD-95 suggest an abnormality in the NMDA receptor signaling in the PFC in major depression. O"
+ },
+ {
+  "pmid": "20357110",
+  "grupo": "NMDA",
+  "label": "Brigman_2010",
+  "id": "REF_BRIGMAN_2010",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO02.003",
+  "titulo": "Loss of GluN2B-containing NMDA receptors in CA1 hippocampus and cortex impairs long-term depression, reduces dendritic spine density, and disrupts learning.",
+  "fonte": "J Neurosci",
+  "ano": "2010",
+  "autores": [
+   "Brigman JL"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "NMDA receptors (NMDARs) are key mediators of certain forms of synaptic plasticity and learning. NMDAR complexes are heteromers composed of an obligatory GluN1 subunit and one or more GluN2 (GluN2A-GluN2D) subunits. Different subunits confer distinct physiological and molecular properties to NMDARs, but their contribution to synaptic plasticity and learning in the adult brain remains uncertain. Here, we generated mice lacking GluN2B in pyramidal neurons of cortex and CA1 subregion of hippocampus. We found that hippocampal principal neurons of adult GluN2B mutants had faster decaying NMDAR-mediated EPSCs than nonmutant controls and were insensitive to GluN2B but not NMDAR antagonism. A subsaturating form of hippocampal long-term potentiation (LTP) was impaired in the mutants, whereas a saturating form of LTP was intact. An NMDAR-dependent form of long-term depression (LTD) produced by low-frequency stimulation combined with glutamate transporter inhibition was abolished in the mutants. Additionally, mutants exhibited decreased dendritic spine density in CA1 hippocampal neurons compared with controls. On multiple assays for corticohippocampal-mediated learning and memory (hidden platf"
+ },
+ {
+  "pmid": "24298164",
+  "grupo": "NMDA",
+  "label": "Shipton_2014",
+  "id": "REF_SHIPTON_2014",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO02.004",
+  "titulo": "GluN2A and GluN2B subunit-containing NMDA receptors in hippocampal plasticity.",
+  "fonte": "Philos Trans R Soc Lond B Biol Sci",
+  "ano": "2014",
+  "autores": [
+   "Shipton OA"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "N-Methyl-d-aspartate receptor (NMDAR)-dependent synaptic plasticity is a strong candidate to mediate learning and memory processes that require the hippocampus. This plasticity is bidirectional, and how the same receptor can mediate opposite changes in synaptic weights remains a conundrum. It has been suggested that the NMDAR subunit composition could be involved. Specifically, one subunit composition of NMDARs would be responsible for the induction of long-term potentiation (LTP), whereas NMDARs with a different subunit composition would be engaged in the induction of long-term depression (LTD). Unfortunately, the results from studies that have investigated this hypothesis are contradictory, particularly in relation to LTD. Nevertheless, current evidence does suggest that the GluN2B subunit might be particularly important for plasticity and may make a synapse bidirectionally malleable. In particular, we conclude that the presence of GluN2B subunit-containing NMDARs at the postsynaptic density might be a necessary, though not a sufficient, condition for the strengthening of individual synapses. This is owing to the interaction of GluN2B with calcium/calmodulin-dependent protein kin"
+ },
+ {
+  "pmid": "25340958",
+  "grupo": "NMDA",
+  "label": "Miller_2014",
+  "id": "REF_MILLER_2014",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO02.005",
+  "titulo": "GluN2B-containing NMDA receptors regulate depression-like behavior and are critical for the rapid antidepressant actions of ketamine.",
+  "fonte": "Elife",
+  "ano": "2014",
+  "autores": [
+   "Miller OH"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "A single, low dose of the NMDA receptor antagonist ketamine produces rapid antidepressant actions in treatment-resistant depressed patients. Understanding the cellular mechanisms underlying this will lead to new therapies for treating major depression. NMDARs are heteromultimeric complexes formed through association of two GluN1 and two GluN2 subunits. We show that in vivo deletion of GluN2B, only from principal cortical neurons, mimics and occludes ketamine's actions on depression-like behavior and excitatory synaptic transmission. Furthermore, ketamine-induced increases in mTOR activation and synaptic protein synthesis were mimicked and occluded in 2BΔCtx mice. We show here that cortical GluN2B-containing NMDARs are uniquely activated by ambient glutamate to regulate levels of excitatory synaptic transmission. Together these data predict a novel cellular mechanism that explains ketamine's rapid antidepressant actions. In this model, basal glutamatergic neurotransmission sensed by cortical GluN2B-containing NMDARs regulates excitatory synaptic strength in PFC determining basal levels of depression-like behavior."
+ },
+ {
+  "pmid": "27262028",
+  "grupo": "NMDA",
+  "label": "Treccani_2016",
+  "id": "REF_TRECCANI_2016",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO02.006",
+  "titulo": "Differential expression of postsynaptic NMDA and AMPA receptor subunits in the hippocampus and prefrontal cortex of the flinders sensitive line rat model of depression.",
+  "fonte": "Synapse",
+  "ano": "2016",
+  "autores": [
+   "Treccani G"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Glutamatergic abnormalities have recently been implicated in the pathophysiology of depression, and the ionotropic glutamate receptors in particular have been suggested as possible underlying molecular determinants. The Flinders Sensitive Line (FSL) rats constitute a validated model of depression with dysfunctional regulation of glutamate transmission relatively to their control strain Flinders Resistant Line (FRL). To gain insight into how signaling through glutamate receptors may be altered in the FSL rats, we investigated the expression and phosphorylation of AMPA and NMDA receptor subunits in an enriched postsynaptic fraction of the hippocampus and prefrontal cortex. Compared to the hippocampal postsynaptic fractions of FRL rats, FSL rats exhibited decreased and increased levels of the NMDA receptor subunits GluN2A and GluN2B, respectively, causing a lower ratio of GluN2A/GluN2B. The GluA2/GluA3 AMPA receptor subunit ratio was significantly decreased while the expression of the individual GluA1, GluA2, and GluA3 subunits were unaltered including phosphorylation levels of GluA1 at S831 and S845. There were no changes in the prefrontal cortex. These results support altered expres"
+ },
+ {
+  "pmid": "28439098",
+  "grupo": "NMDA",
+  "label": "Li_2018",
+  "id": "REF_LI_2018",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO02.007",
+  "titulo": "Uncoupling DAPK1 from NMDA receptor GluN2B subunit exerts rapid antidepressant-like effects.",
+  "fonte": "Mol Psychiatry",
+  "ano": "2018",
+  "autores": [
+   "Li SX"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Several preclinical studies have reported the rapid antidepressant effects of N-methyl-D-aspartate receptor (NMDAR) antagonists, although the underlying mechanisms are still unclear. Death-associated protein kinase 1 (DAPK1) couples GluN2B subunits at extrasynaptic sites to regulate NMDAR channel conductance. In the present study, we found that chronic unpredictable stress (CUS) induced extracellular glutamate accumulation, accompanied by an increase in the DAPK1-NMDAR interaction, the high expression of DAPK1 and phosphorylated GluN2B at Ser1303, a decrease in phosphorylated DAPK1 at Ser308 and synaptic protein deficits in the rat medial prefrontal cortex (mPFC). CUS also enhanced GluN2B-mediated NMDA currents and extrasynaptic responses that were induced by bursts of high-frequency stimulation, which may be associated with the loss of astrocytes and low expression of glutamate transporter-1 (GLT-1). The blockade of GLT-1 in the mPFC was sufficient to induce depressive-like behavior and cause similar molecular changes. Selective GluN2B antagonist, DAPK1 knockdown by adeno-associated virus-mediated short-hairpin RNA or a pharmacological inhibitor, and the uncoupling of DAPK1 from t"
+ },
+ {
+  "pmid": "29706992",
+  "grupo": "NMDA",
+  "label": "Baez_2018",
+  "id": "REF_BAEZ_2018",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO02.008",
+  "titulo": "NMDA Receptor Subunits Change after Synaptic Plasticity Induction and Learning and Memory Acquisition.",
+  "fonte": "Neural Plast",
+  "ano": "2018",
+  "autores": [
+   "Baez MV"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "NMDA ionotropic glutamate receptors (NMDARs) are crucial in activity-dependent synaptic changes and in learning and memory. NMDARs are composed of two GluN1 essential subunits and two regulatory subunits which define their pharmacological and physiological profile. In CNS structures involved in cognitive functions as the hippocampus and prefrontal cortex, GluN2A and GluN2B are major regulatory subunits; their expression is dynamic and tightly regulated, but little is known about specific changes after plasticity induction or memory acquisition. Data strongly suggest that following appropriate stimulation, there is a rapid increase in surface GluN2A-NMDAR at the postsynapses, attributed to lateral receptor mobilization from adjacent locations. Whenever synaptic plasticity is induced or memory is consolidated, more GluN2A-NMDARs are assembled likely using GluN2A from a local translation and GluN1 from local ER. Later on, NMDARs are mobilized from other pools, and there are de novo syntheses at the neuron soma. Changes in GluN1 or NMDAR levels induced by synaptic plasticity and by spatial memory formation seem to occur in different waves of NMDAR transport/expression/degradation, with"
+ },
+ {
+  "pmid": "30296532",
+  "grupo": "NMDA",
+  "label": "Francija_2019",
+  "id": "REF_FRANCIJA_2019",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO02.009",
+  "titulo": "Disruption of the NMDA receptor GluN2A subunit abolishes inflammation-induced depression.",
+  "fonte": "Behav Brain Res",
+  "ano": "2019",
+  "autores": [
+   "Francija E"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Recent reports have demonstrated that lipopolysaccharide (LPS)-induced depressive-like behaviour is mediated via NMDA receptor. In this study, we further investigated the role of GluN2 A subunit of NMDA receptor in synaptic processes in the prefrontal cortex (PFC) and hippocampus of GluN2 A knockout (KO) mice in LPS-induced depressive-like behavior. Our data suggest that LPS-treated mice, lacking GluN2 A subunit, did not exhibit depressive-like behaviour. This was accompanied by unaltered levels of IL-6 and significant changes in neuroplasticity markers and glutamate receptor subunits composition in PFC and hippocampus. In particular, an immune challenge in GluN2 A KO mice resulted in unchanged PSA-NCAM levels and proBDNF increase in both brain structures as well as in increase in BDNF levels in hippocampus. Furthermore, the absence of GluN2 A resulted in increased levels of all NCAM isoforms in PFC upon LPS which was followed with a decrease in GluN1 and GluN2B subunits. The levels of AMPA receptor subunits (GluA1, GluA3, and GluA4) in the hippocampus of GluN2 A mice were unaltered upon the treatment and abundantly present in the PFC of KO mice. These results indicate that the Glu"
+ },
+ {
+  "pmid": "31207274",
+  "grupo": "NMDA",
+  "label": "Amidfar_2019",
+  "id": "REF_AMIDFAR_2019",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO02.010",
+  "titulo": "The role of NMDA receptor in neurobiology and treatment of major depressive disorder: Evidence from translational research.",
+  "fonte": "Prog Neuropsychopharmacol Biol Psychiatry",
+  "ano": "2019",
+  "autores": [
+   "Amidfar M"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "There is accumulating evidence demonstrating that dysfunction of glutamatergic neurotransmission, particularly via N-methyl-d-aspartate (NMDA) receptors, is involved in the pathophysiology of major depressive disorder (MDD). Several studies have revealed an altered expression of NMDA receptor subtypes and impaired NMDA receptor-mediated intracellular signaling pathways in brain circuits of patients with MDD. Clinical studies have demonstrated that NMDA receptor antagonists, particularly ketamine, have rapid antidepressant effects in treatment-resistant depression, however, neurobiological mechanisms are not completely understood. Growing body of evidence suggest that signal transduction pathways involved in synaptic plasticity play critical role in molecular mechanisms underlying rapidly acting antidepressant properties of ketamine and other NMDAR antagonists in MDD. Discovering the molecular mechanisms underlying the unique antidepressant actions of ketamine will facilitate the development of novel fast acting antidepressants which lack undesirable effects of ketamine. This review provides a critical examination of the NMDA receptor involvement in the neurobiology of MDD including"
+ },
+ {
+  "pmid": "32640261",
+  "grupo": "NMDA",
+  "label": "Elhussiny_2021",
+  "id": "REF_ELHUSSINY_2021",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO02.011",
+  "titulo": "Modulation by chronic stress and ketamine of ionotropic AMPA/NMDA and metabotropic glutamate receptors in the rat hippocampus.",
+  "fonte": "Prog Neuropsychopharmacol Biol Psychiatry",
+  "ano": "2021",
+  "autores": [
+   "Elhussiny MEA"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Converging clinical and preclinical evidence has shown that dysfunction of the glutamate system is a core feature of major depressive disorder. In this context, the N-methyl-d-aspartate (NMDA) receptor antagonist ketamine has raised growing interest as fast acting antidepressant. Using the chronic mild stress (CMS) rat model of depression, performed in male rats, we aimed at analyzing whether hippocampal specific changes in subunit expression and regulation of α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) or NMDA ionotropic receptors and in metabotropic glutamate receptors could be associated with behavioral vulnerability/resilience to CMS. We also assessed whether acute ketamine (10 mg/kg) was able to dampen the alterations in CMS vulnerable animals. Although chronic stress and ketamine had no effect on ionotropic glutamate receptors mRNAs (expression, RNA editing and splicing), we found selective modulations in their protein expression, phosphorylation and localization at synaptic membranes. AMPA GluA2 expression at synaptic membranes was significantly increased only in CMS resilient rats (although a trend was found also in vulnerable animals), while its phosphoryla"
+ },
+ {
+  "pmid": "33059355",
+  "grupo": "NMDA",
+  "label": "Pothula_2021",
+  "id": "REF_POTHULA_2021",
+  "tag": "ML",
+  "evid_role": "CONT",
+  "claim_id": "B5.MEC.BLOCO02.012",
+  "titulo": "Positive modulation of NMDA receptors by AGN-241751 exerts rapid antidepressant-like effects via excitatory neurons.",
+  "fonte": "Neuropsychopharmacology",
+  "ano": "2021",
+  "autores": [
+   "Pothula S"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Dysregulation of the glutamatergic system and its receptors in medial prefrontal cortex (mPFC) has been implicated in major depressive disorder. Recent preclinical studies have shown that enhancing NMDA receptor (NMDAR) activity can exert rapid antidepressant-like effects. AGN-241751, an NMDAR positive allosteric modulator (PAM), is currently being tested as an antidepressant in clinical trials, but the mechanism and NMDAR subunit(s) mediating its antidepressant-like effects are unknown. We therefore used molecular, biochemical, and electrophysiological approaches to examine the cell-type-specific role of GluN2B-containing NMDAR in mediating antidepressant-like behavioral effects of AGN-241751. We demonstrate that AGN-241751 exerts antidepressant-like effects and reverses behavioral deficits induced by chronic unpredictable stress in mice. AGN-241751 treatment enhances NMDAR activity of excitatory and parvalbumin-inhibitory neurons in mPFC, activates Akt/mTOR signaling, and increases levels of synaptic proteins crucial for synaptic plasticity in the prefrontal cortex. Furthermore, cell-type-specific knockdown of GluN2B-containing NMDARs in mPFC demonstrates that GluN2B subunits on "
+ },
+ {
+  "pmid": "33087756",
+  "grupo": "NMDA",
+  "label": "Kang_2020",
+  "id": "REF_KANG_2020",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO02.013",
+  "titulo": "NMDA receptor-dependent long-term depression in the lateral habenula: implications in physiology and depression.",
+  "fonte": "Sci Rep",
+  "ano": "2020",
+  "autores": [
+   "Kang M"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Abnormally increased neuronal activity in the lateral habenula (LHb) is closely associated with depressive-like behavior. Despite the emphasis on the pathological importance of NMDA receptor (NMDAR)-dependent long-term depression (LTD) and the involvement of calcium permeable AMPA receptor (CP-AMPAR) as major Ca2+ source, the functions of NMDAR and CP-AMPAR on LTD modulation in the LHb still have not been fully investigated. Here, we found that NMDAR-dependent LTD by low frequency stimulation was induced in both synaptic and extrasynaptic regions in the LHb. In addition, CP-AMPAR was necessary for the activation of NMDAR in the induction phase of NMDAR-dependent LTD. The acute stress, which induced depressive behavior, had a blocked effect on synaptic NMDAR-dependent LTD but left extrasynaptic NMDAR-dependent LTD intact. These findings show that NMDAR-dependent LTD in LHb plays an important role in regulating neuronal activity, which is probable to be excessively increased by repeated stress, via maintaining homeostasis in both synaptic and extrasynaptic regions of the LHb. Moreover, NMDAR and CP-AMPAR may serve as a depression-related modulator and be regarded as a promising thera"
+ },
+ {
+  "pmid": "33843051",
+  "grupo": "NMDA",
+  "label": "Bieler_2021",
+  "id": "REF_BIELER_2021",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO02.014",
+  "titulo": "Changes in concentrations of NMDA receptor subunit GluN2B, Arc and syntaxin-1 in dorsal hippocampus Schaffer collateral synapses in a rat learned helplessness model of depression.",
+  "fonte": "J Comp Neurol",
+  "ano": "2021",
+  "autores": [
+   "Bieler M"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Major depressive disorder involves changes in synaptic structure and function, but the molecular underpinnings of these changes are still not established. In an initial pilot experiment, whole-brain synaptosome screening with quantitative western blotting was performed to identify synaptic proteins that may show concentration changes in a congenital rat learned helplessness model of depression. We found that the N-methyl-d-aspartate receptor (NMDAR) subunits GluN2A/GluN2B, activity-regulated cytoskeleton-associated protein (Arc) and syntaxin-1 showed significant concentration differences between congenitally learned helpless (LH) and nonlearned helpless (NLH) rats. Having identified these three proteins, we then performed more elaborate quantitative immunogold electron microscopic analyses of the proteins in a specific synapse type in the dorsal hippocampus: the Schaffer collateral synapse in the CA1 region. We expanded the setup to include also unstressed wild-type (WT) rats. The concentrations of the proteins in the LH and NLH groups were compared to WT animals. In this specific synapse, we found that the concentration of NMDARs was increased in postsynaptic spines in both LH and"
+ },
+ {
+  "pmid": "34364898",
+  "grupo": "NMDA",
+  "label": "Chen_2021",
+  "id": "REF_CHEN_2021",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO02.015",
+  "titulo": "NMDA receptors and synaptic plasticity in the anterior cingulate cortex.",
+  "fonte": "Neuropharmacology",
+  "ano": "2021",
+  "autores": [
+   "Chen QY"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The anterior cingulate cortex (ACC) plays an important role in pain modulation, and pain-related emotional disorders. In the ACC, two major forms of long-term potentiation (LTP) coexist in excitatory synapses and lay the basis of chronic pain and pain-related emotional disorders. The induction of postsynaptic LTP is dependent on the activation of postsynaptic NMDA receptors (NMDARs), while the presynaptic LTP is NMDAR-independent. Long-term depression (LTD) can also be divided into two types according to the degree of sensitivity to the inhibition of NMDARs. NMDAR heteromers containing GluN2A and GluN2B act as key molecules in both the NMDAR-dependent postsynaptic LTP and LTD. Additionally, NMDARs also exist in presynaptic terminals and modulate the evoked and spontaneous transmitter release. From a translational point of view, inhibiting subtypes of NMDARs and/or downstream signaling proteins may provide potential drug targets for chronic pain and its related emotional disorders. This article is part of the special Issue on 'Glutamate Receptors -NMDA receptors'."
+ },
+ {
+  "pmid": "36596696",
+  "grupo": "NMDA",
+  "label": "Zanos_2023",
+  "id": "REF_ZANOS_2023",
+  "tag": "ML",
+  "evid_role": "CONT",
+  "claim_id": "B5.MEC.BLOCO02.016",
+  "titulo": "NMDA Receptor Activation-Dependent Antidepressant-Relevant Behavioral and Synaptic Actions of Ketamine.",
+  "fonte": "J Neurosci",
+  "ano": "2023",
+  "autores": [
+   "Zanos P"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, U.S. Gov't, Non-P.H.S."
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Ketamine is a well-characterized NMDA receptor (NMDAR) antagonist, although the relevance of this pharmacology to its rapid (within hours of administration) antidepressant actions, which depend on mechanisms convergent with strengthening of excitatory synapses, is unclear. Activation of synaptic NMDARs is necessary for the induction of canonical long-term potentiation (LTP) leading to a sustained expression of increased synaptic strength. We tested the hypothesis that induction of rapid antidepressant effects requires NMDAR activation, by using behavioral pharmacology, western blot quantification of hippocampal synaptoneurosomal protein levels, and ex vivo hippocampal slice electrophysiology in male mice. We found that ketamine exerts an inverted U-shaped dose-response in antidepressant-sensitive behavioral tests, suggesting that an excessive NMDAR inhibition can prevent ketamine's antidepressant effects. Ketamine's actions to induce antidepressant-like behavioral effects, up-regulation of hippocampal AMPAR subunits GluA1 and GluA2, as well as metaplasticity measured ex vivo using electrically-stimulated LTP, were abolished by pretreatment with other non-antidepressant NMDAR antago"
+ },
+ {
+  "pmid": "39185814",
+  "grupo": "NMDA",
+  "label": "Wang_2024",
+  "id": "REF_WANG_2024",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO02.017",
+  "titulo": "GluN2A: A Promising Target for Developing Novel Antidepressants.",
+  "fonte": "Int J Neuropsychopharmacol",
+  "ano": "2024",
+  "autores": [
+   "Wang G"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Depression is a heterogeneous disorder with high morbidity and disability rates that poses serious problems regarding mental health care. It is now well established that N-methyl D-aspartate receptor (NMDAR) modulators are being increasingly explored as potential therapeutic options for treating depression, although relatively little is known about their mechanisms of action. NMDARs are glutamate-gated ion channels that are ubiquitously expressed in the central nervous system (CNS), and they have been shown to play key roles in excitatory synaptic transmission. GluN2A, the predominant Glu2N subunit of functional NMDARs in neurons, is involved in various physiological processes in the CNS and is associated with diseases such as anxiety, depression, and schizophrenia. However, the role of GluN2A in the pathophysiology of depression has not yet been elucidated. We reviewed several past studies to better understand the function of GluN2A in depression. Additionally, we also summarized the pathogenesis of depression based on the regulation of GluN2A expression, particularly its interaction with neuroinflammation and neurogenesis, which has received considerable critical attention and is"
+ },
+ {
+  "pmid": "39562042",
+  "grupo": "NMDA",
+  "label": "Storey_2025",
+  "id": "REF_STOREY_2025",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO02.018",
+  "titulo": "Activity-Dependent Internalization of Glun2B-Containing NMDARs Is Required for Synaptic Incorporation of Glun2A and Synaptic Plasticity.",
+  "fonte": "J Neurosci",
+  "ano": "2025",
+  "autores": [
+   "Storey GP"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "NMDA-type glutamate receptors are heterotetrameric complexes composed of two GluN1 and two GluN2 subunits. The precise composition of the GluN2 subunits determines the channel's biophysical properties and influences its interaction with postsynaptic scaffolding proteins and signaling molecules involved in synaptic physiology and plasticity. The precise regulation of NMDAR subunit composition at synapses is crucial for proper synaptogenesis, neuronal circuit development, and synaptic plasticity, a cellular model of memory formation. In the forebrain during early development, NMDARs contain solely the GluN2B subunit, which is necessary for proper synaptogenesis and synaptic plasticity. In rodents, GluN2A subunit expression begins in the second postnatal week, replacing GluN2B-containing NMDARs at synapses in an activity- or sensory experience-dependent process. This switch in NMDAR subunit composition at synapses alters channel properties and reduces synaptic plasticity. The molecular mechanism regulating the switch remains unclear. We have investigated the role of activity-dependent internalization of GluN2B-containing receptors in shaping synaptic NMDAR subunit composition. Using m"
+ },
+ {
+  "pmid": "39770460",
+  "grupo": "NMDA",
+  "label": "Comai_2024",
+  "id": "REF_COMAI_2024",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO02.019",
+  "titulo": "N-methyl-D-aspartate Receptors and Depression: Linking Psychopharmacology, Pathology and Physiology in a Unifying Hypothesis for the Epigenetic Code of Neural Plasticity.",
+  "fonte": "Pharmaceuticals (Basel)",
+  "ano": "2024",
+  "autores": [
+   "Comai S"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Uncompetitive NMDAR (N-methyl-D-aspartate receptor) antagonists restore impaired neural plasticity, reverse depressive-like behavior in animal models, and relieve major depressive disorder (MDD) in humans. This review integrates recent findings from in silico, in vitro, in vivo, and human studies of uncompetitive NMDAR antagonists into the extensive body of knowledge on NMDARs and neural plasticity. Uncompetitive NMDAR antagonists are activity-dependent channel blockers that preferentially target hyperactive GluN2D subtypes because these subtypes are most sensitive to activation by low concentrations of extracellular glutamate and are more likely activated by certain pathological agonists and allosteric modulators. Hyperactivity of GluN2D subtypes in specific neural circuits may underlie the pathophysiology of MDD. We hypothesize that neural plasticity is epigenetically regulated by precise Ca2+ quanta entering cells via NMDARs. Stimuli reach receptor cells (specialized cells that detect specific types of stimuli and convert them into electrical signals) and change their membrane potential, regulating glutamate release in the synaptic cleft. Free glutamate binds ionotropic glutamat"
+ },
+ {
+  "pmid": "28234212",
+  "grupo": "AMPA",
+  "label": "Aleksandrova_2017",
+  "id": "REF_ALEKSANDROVA_2017",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO02.020",
+  "titulo": "Antidepressant effects of ketamine and the roles of AMPA glutamate receptors and other mechanisms beyond NMDA receptor antagonism.",
+  "fonte": "J Psychiatry Neurosci",
+  "ano": "2017",
+  "autores": [
+   "Aleksandrova LR"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The molecular mechanisms underlying major depressive disorder remain poorly understood, and current antidepressant treatments have many shortcomings. The recent discovery that a single intravenous infusion of ketamine at a subanesthetic dose had robust, rapid and sustained antidepressant effects in individuals with treatment-resistant depression inspired tremendous interest in investigating the molecular mechanisms mediating ketamine's clinical efficacy as well as increased efforts to identify new targets for antidepressant action. We review the clinical utility of ketamine and recent insights into its mechanism of action as an antidepressant, including the roles of N-methyl-D-aspartate receptor inhibition, α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor upregulation, activation of downstream synaptogenic signalling pathways and the production of an active ketamine metabolite, hydroxynorketamine. Emerging knowledge of the molecular mechanisms underlying both ketamine's positive therapeutic and detrimental side effects will aid the development of a new generation of much-needed superior antidepressant agents."
+ },
+ {
+  "pmid": "32754026",
+  "grupo": "AMPA",
+  "label": "Zhang_2020",
+  "id": "REF_ZHANG_2020",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO02.021",
+  "titulo": "Bidirectional Dysregulation of AMPA Receptor-Mediated Synaptic Transmission and Plasticity in Brain Disorders.",
+  "fonte": "Front Synaptic Neurosci",
+  "ano": "2020",
+  "autores": [
+   "Zhang H"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "AMPA receptors (AMPARs) are glutamate-gated ion channels that mediate the majority of fast excitatory synaptic transmission throughout the brain. Changes in the properties and postsynaptic abundance of AMPARs are pivotal mechanisms in synaptic plasticity, such as long-term potentiation (LTP) and long-term depression (LTD) of synaptic transmission. A wide range of neurodegenerative, neurodevelopmental and neuropsychiatric disorders, despite their extremely diverse etiology, pathogenesis and symptoms, exhibit brain region-specific and AMPAR subunit-specific aberrations in synaptic transmission or plasticity. These include abnormally enhanced or reduced AMPAR-mediated synaptic transmission or plasticity. Bidirectional reversal of these changes by targeting AMPAR subunits or trafficking ameliorates drug-seeking behavior, chronic pain, epileptic seizures, or cognitive deficits. This indicates that bidirectional dysregulation of AMPAR-mediated synaptic transmission or plasticity may contribute to the expression of many brain disorders and therefore serve as a therapeutic target. Here, we provide a synopsis of bidirectional AMPAR dysregulation in animal models of brain disorders and revie"
+ },
+ {
+  "pmid": "37124348",
+  "grupo": "AMPA",
+  "label": "He_2023",
+  "id": "REF_HE_2023",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO02.022",
+  "titulo": "Dysfunction of Glutamatergic Synaptic Transmission in Depression: Focus on AMPA Receptor Trafficking.",
+  "fonte": "Biol Psychiatry Glob Open Sci",
+  "ano": "2023",
+  "autores": [
+   "He JG"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Pharmacological and anatomical evidence suggests that abnormal glutamatergic neurotransmission may be associated with the pathophysiology of depression. Compounds that act as NMDA receptor antagonists may be a potential treatment for depression, notably the rapid-acting agent ketamine. The rapid-acting and sustained antidepressant effects of ketamine rely on the activation of AMPA receptors (AMPARs). As the key elements of fast excitatory neurotransmission in the brain, AMPARs are crucially involved in synaptic plasticity and memory. Recent efforts have been directed toward investigating the bidirectional dysregulation of AMPAR-mediated synaptic transmission in depression. Here, we summarize the published evidence relevant to the dysfunction of AMPAR in stress conditions and review the recent progress toward the understanding of the involvement of AMPAR trafficking in the pathophysiology of depression, focusing on the roles of AMPAR auxiliary subunits, key AMPAR-interacting proteins, and posttranslational regulation of AMPARs. We also discuss new prospects for the development of improved therapeutics for depression."
+ },
+ {
+  "pmid": "37358072",
+  "grupo": "AMPA",
+  "label": "Zaytseva_2023",
+  "id": "REF_ZAYTSEVA_2023",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO02.023",
+  "titulo": "Ketamine's rapid antidepressant effects are mediated by Ca(2+)-permeable AMPA receptors.",
+  "fonte": "Elife",
+  "ano": "2023",
+  "autores": [
+   "Zaytseva A"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Ketamine is shown to enhance excitatory synaptic drive in multiple brain areas, which is presumed to underlie its rapid antidepressant effects. Moreover, ketamine's therapeutic actions are likely mediated by enhancing neuronal Ca2+ signaling. However, ketamine is a noncompetitive NMDA receptor (NMDAR) antagonist that reduces excitatory synaptic transmission and postsynaptic Ca2+ signaling. Thus, it is a puzzling question how ketamine enhances glutamatergic and Ca2+ activity in neurons to induce rapid antidepressant effects while blocking NMDARs in the hippocampus. Here, we find that ketamine treatment in cultured mouse hippocampal neurons significantly reduces Ca2+ and calcineurin activity to elevate AMPA receptor (AMPAR) subunit GluA1 phosphorylation. This phosphorylation ultimately leads to the expression of Ca2+-Permeable, GluA2-lacking, and GluA1-containing AMPARs (CP-AMPARs). The ketamine-induced expression of CP-AMPARs enhances glutamatergic activity and glutamate receptor plasticity in cultured hippocampal neurons. Moreover, when a sub-anesthetic dose of ketamine is given to mice, it increases synaptic GluA1 levels, but not GluA2, and GluA1 phosphorylation in the hippocampus"
+ },
+ {
+  "pmid": "41781722",
+  "grupo": "AMPA",
+  "label": "Nakajima_2026",
+  "id": "REF_NAKAJIMA_2026",
+  "tag": "EC",
+  "evid_role": "SUP",
+  "claim_id": "B5.MEC.BLOCO02.024",
+  "titulo": "The dynamics of AMPA receptors underlies the efficacy of ketamine in treatment resistant patients with depression.",
+  "fonte": "Mol Psychiatry",
+  "ano": "2026",
+  "autores": [
+   "Nakajima W"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Approximately 30% of patients with depression suffer from treatment-resistant depression (TRD). Ketamine has shown antidepressant efficacy for TRD. While glutamate α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor (AMPAR) has been demonstrated to play crucial roles in the process of pharmacological action of ketamine in experimental animals, it remains elusive how ketamine exhibits its efficacy through changes in AMPAR dynamics in patients with TRD. In this study, using a positron emission tomography (PET) tracer, [11C]K-2, which depicts AMPAR density in the living human brain, we detected a negative correlation between AMPAR density and illness severity and differences in AMPAR distribution between patients with TRD and healthy participants. Furthermore, we detected brain areas where ketamine administration altered AMPAR density in significant correlations with ketamine-induced antidepressant effect in patients with TRD. AMPAR density alteration in these regions partially rescued AMPAR phenotype in the affected areas. Thus, AMPAR dynamics underlies the antidepressant effect of ketamine in patients with TRD."
+ },
+ {
+  "pmid": "22510460",
+  "grupo": "PLAST",
+  "label": "Luscher_2012",
+  "id": "REF_LUSCHER_2012",
+  "tag": "EC",
+  "evid_role": "SUP",
+  "claim_id": "B5.MEC.BLOCO09.001",
+  "titulo": "NMDA receptor-dependent long-term potentiation and long-term depression (LTP/LTD).",
+  "fonte": "Cold Spring Harb Perspect Biol",
+  "ano": "2012",
+  "autores": [
+   "Lüscher C"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Long-term potentiation and long-term depression (LTP/LTD) can be elicited by activating N-methyl-d-aspartate (NMDA)-type glutamate receptors, typically by the coincident activity of pre- and postsynaptic neurons. The early phases of expression are mediated by a redistribution of AMPA-type glutamate receptors: More receptors are added to potentiate the synapse or receptors are removed to weaken synapses. With time, structural changes become apparent, which in general require the synthesis of new proteins. The investigation of the molecular and cellular mechanisms underlying these forms of synaptic plasticity has received much attention, because NMDA receptor-dependent LTP and LTD may constitute cellular substrates of learning and memory."
+ },
+ {
+  "pmid": "23534055",
+  "grupo": "PLAST",
+  "label": "Kavalali_2012",
+  "id": "REF_KAVALALI_2012",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO09.002",
+  "titulo": "Synaptic mechanisms underlying rapid antidepressant action of ketamine.",
+  "fonte": "Am J Psychiatry",
+  "ano": "2012",
+  "autores": [
+   "Kavalali ET"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Recent clinical studies have demonstrated that a single subpsychotomimetic dose of ketamine, an ionotropic glutamatergic N-methyl-D-aspartate (NMDA) receptor antagonist, produces a rapid antidepressant response in patients with major depressive disorder, with effects lasting up to 2 weeks. Despite enthusiasm about this unexpected efficacy of ketamine, its widespread use as a fast-acting antidepressant in routine clinical settings is curtailed by its abuse potential as well as possible psychotomimetic effects. However, the ability of ketamine to produce a rapid and long-lasting antidepressant response in patients with depression provides a unique opportunity for investigation of mechanisms that mediate these clinically relevant behavioral effects. From a mechanistic perspective, it is easy to imagine how activation of NMDA receptors may trigger cellular and behavioral responses; it is relatively more difficult, however, to envision how transient blockade of one of the key pathways for neuronal communication produces a persistent beneficial effect. The authors discuss recent work linking ketamine's mechanism of action to homeostatic synaptic plasticity processes activated after suppr"
+ },
+ {
+  "pmid": "25619552",
+  "grupo": "PLAST",
+  "label": "Volianskis_2015",
+  "id": "REF_VOLIANSKIS_2015",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO09.003",
+  "titulo": "Long-term potentiation and the role of N-methyl-D-aspartate receptors.",
+  "fonte": "Brain Res",
+  "ano": "2015",
+  "autores": [
+   "Volianskis A"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "N-methyl-D-aspartate receptors (NMDARs) are known for their role in the induction of long-term potentiation (LTP). Here we start by reviewing the early evidence for their role in LTP at CA1 synapses in the hippocampus. We then discuss more recent evidence that NMDAR dependent synaptic plasticity at these synapses can be separated into mechanistically distinct components. An initial phase of the synaptic potentiation, which is generally termed short-term potentiation (STP), decays in an activity-dependent manner and comprises two components that differ in their kinetics and NMDAR subtype dependence. The faster component involves activation of GluN2A and GluN2B subunits whereas the slower component involves activation of GluN2B and GluN2D subunits. The stable phase of potentiation, commonly referred to as LTP, requires activation of primarily triheteromeric NMDARs containing both GluN2A and GluN2B subunits. In new work, we compare STP with a rebound potentiation (RP) that is induced by NMDA application and conclude that they are different phenomena. We also report that NMDAR dependent long-term depression (NMDAR-LTD) is sensitive to a glycine site NMDAR antagonist. We conclude that N"
+ },
+ {
+  "pmid": "26938443",
+  "grupo": "PLAST",
+  "label": "Sanderson_2016",
+  "id": "REF_SANDERSON_2016",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO09.004",
+  "titulo": "NMDA Receptor-Dependent LTD Requires Transient Synaptic Incorporation of Ca²⁺-Permeable AMPARs Mediated by AKAP150-Anchored PKA and Calcineurin.",
+  "fonte": "Neuron",
+  "ano": "2016",
+  "autores": [
+   "Sanderson JL"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Information processing in the brain requires multiple forms of synaptic plasticity that converge on regulation of NMDA and AMPA-type glutamate receptors (NMDAR, AMPAR), including long-term potentiation (LTP) and long-term depression (LTD) and homeostatic scaling. In some cases, LTP and homeostatic plasticity regulate synaptic AMPAR subunit composition to increase the contribution of Ca(2+)-permeable receptors (CP-AMPARs) containing GluA1 but lacking GluA2 subunits. Here, we show that PKA anchored to the scaffold protein AKAP150 regulates GluA1 phosphorylation and plays a novel role controlling CP-AMPAR synaptic incorporation during NMDAR-dependent LTD. Using knockin mice that are deficient in AKAP-anchoring of either PKA or the opposing phosphatase calcineurin, we found that CP-AMPARs are recruited to hippocampal synapses by anchored PKA during LTD induction but are then rapidly removed by anchored calcineurin. Importantly, blocking CP-AMPAR recruitment, removal, or activity interferes with LTD. Thus, CP-AMPAR synaptic recruitment is required to transiently augment NMDAR Ca(2+) signaling during LTD induction."
+ },
+ {
+  "pmid": "29158584",
+  "grupo": "PLAST",
+  "label": "Cavalleri_2018",
+  "id": "REF_CAVALLERI_2018",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO09.005",
+  "titulo": "Ketamine enhances structural plasticity in mouse mesencephalic and human iPSC-derived dopaminergic neurons via AMPAR-driven BDNF and mTOR signaling.",
+  "fonte": "Mol Psychiatry",
+  "ano": "2018",
+  "autores": [
+   "Cavalleri L"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Among neurobiological mechanisms underlying antidepressant properties of ketamine, structural remodeling of prefrontal and hippocampal neurons has been proposed as critical. The suggested mechanism involves downstream activation of α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) receptors, which trigger mammalian target of rapamycin (mTOR)-dependent structural plasticity via brain-derived neurotrophic factor (BDNF) and protein neo-synthesis. We evaluated whether ketamine elicits similar molecular events in dopaminergic (DA) neurons, known to be affected in mood disorders, using a novel, translational strategy that involved mouse mesencephalic and human induced pluripotent stem cells-derived DA neurons. Sixty minutes exposure to ketamine elicited concentration-dependent increases of dendritic arborization and soma size in both mouse and human cultures as measured 72 hours after application. These structural effects were blocked by mTOR complex/signaling inhibitors like rapamycin. Direct evidence of mTOR activation by ketamine was revealed by its induction of p70S6 kinase. All effects of ketamine were abolished by AMPA receptor antagonists and mimicked by the AMPA-positiv"
+ },
+ {
+  "pmid": "30359599",
+  "grupo": "PLAST",
+  "label": "Diering_2018",
+  "id": "REF_DIERING_2018",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO09.006",
+  "titulo": "The AMPA Receptor Code of Synaptic Plasticity.",
+  "fonte": "Neuron",
+  "ano": "2018",
+  "autores": [
+   "Diering GH"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Changes in the properties and postsynaptic abundance of AMPA-type glutamate receptors (AMPARs) are major mechanisms underlying various forms of synaptic plasticity, including long-term potentiation (LTP), long-term depression (LTD), and homeostatic scaling. The function and the trafficking of AMPARs to and from synapses is modulated by specific AMPAR GluA1-GluA4 subunits, subunit-specific protein interactors, auxiliary subunits, and posttranslational modifications. Layers of regulation are added to AMPAR tetramers through these different interactions and modifications, increasing the computational power of synapses. Here we review the reliance of synaptic plasticity on AMPAR variants and propose \"the AMPAR code\" as a conceptual framework. The AMPAR code suggests that AMPAR variants will be predictive of the types and extent of synaptic plasticity that can occur and that a hierarchy exists such that certain AMPARs will be disproportionally recruited to synapses during LTP/homeostatic scaling up, or removed during LTD/homeostatic scaling down."
+ },
+ {
+  "pmid": "32292336",
+  "grupo": "PLAST",
+  "label": "Purkey_2020",
+  "id": "REF_PURKEY_2020",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO09.007",
+  "titulo": "Phosphorylation-Dependent Regulation of Ca(2+)-Permeable AMPA Receptors During Hippocampal Synaptic Plasticity.",
+  "fonte": "Front Synaptic Neurosci",
+  "ano": "2020",
+  "autores": [
+   "Purkey AM"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Experience-dependent learning and memory require multiple forms of plasticity at hippocampal and cortical synapses that are regulated by N-methyl-D-aspartate receptors (NMDA) and α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA)-type ionotropic glutamate receptors (NMDAR, AMPAR). These plasticity mechanisms include long-term potentiation (LTP) and depression (LTD), which are Hebbian input-specific mechanisms that rapidly increase or decrease AMPAR synaptic strength at specific inputs, and homeostatic plasticity that globally scales-up or -down AMPAR synaptic strength across many or even all inputs. Frequently, these changes in synaptic strength are also accompanied by a change in the subunit composition of AMPARs at the synapse due to the trafficking to and from the synapse of receptors lacking GluA2 subunits. These GluA2-lacking receptors are most often GluA1 homomeric receptors that exhibit higher single-channel conductance and are Ca2+-permeable (CP-AMPAR). This review article will focus on the role of protein phosphorylation in regulation of GluA1 CP-AMPAR recruitment and removal from hippocampal synapses during synaptic plasticity with an emphasis on the crucial role"
+ },
+ {
+  "pmid": "33723767",
+  "grupo": "PLAST",
+  "label": "Piva_2021",
+  "id": "REF_PIVA_2021",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO09.008",
+  "titulo": "Metaplastic Effects of Ketamine and MK-801 on Glutamate Receptors Expression in Rat Medial Prefrontal Cortex and Hippocampus.",
+  "fonte": "Mol Neurobiol",
+  "ano": "2021",
+  "autores": [
+   "Piva A"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Ketamine and MK-801 by blocking NMDA receptors may induce reinforcing effects as well as schizophrenia-like symptoms. Recent results showed that ketamine can also effectively reverse depressive signs in patients' refractory to standard therapies. This evidence clearly points to the need of characterization of effects of these NMDARs antagonists on relevant brain areas for mood disorders. The aim of the present study was to investigate the molecular changes occurring at glutamatergic synapses 24 h after ketamine or MK-801 treatment in the rat medial prefrontal cortex (mPFC) and hippocampus (Hipp). In particular, we analyzed the levels of the glutamate transporter-1 (GLT-1), NMDA receptors, AMPA receptors subunits, and related scaffolding proteins. In the homogenate, we found a general decrease of protein levels, whereas their changes in the post-synaptic density were more complex. In fact, ketamine in the mPFC decreased the level of GLT-1 and increased the level of GluN2B, GluA1, GluA2, and scaffolding proteins, likely indicating a pattern of enhanced excitability. On the other hand, MK-801 only induced sparse changes with apparently no correlation to functional modification. Differ"
+ },
+ {
+  "pmid": "34407417",
+  "grupo": "PLAST",
+  "label": "Lin_2021",
+  "id": "REF_LIN_2021",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO09.009",
+  "titulo": "A synaptic locus for TrkB signaling underlying ketamine rapid antidepressant action.",
+  "fonte": "Cell Rep",
+  "ano": "2021",
+  "autores": [
+   "Lin PY"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Ketamine produces rapid antidepressant action in patients with major depression or treatment-resistant depression. Studies have identified brain-derived neurotrophic factor (BDNF) and its receptor, tropomyosin receptor kinase B (TrkB), as necessary for the antidepressant effects and underlying ketamine-induced synaptic potentiation in the hippocampus. Here, we delete BDNF or TrkB in presynaptic CA3 or postsynaptic CA1 regions of the Schaffer collateral pathway to investigate the rapid antidepressant action of ketamine. The deletion of Bdnf in CA3 or CA1 blocks the ketamine-induced synaptic potentiation. In contrast, ablation of TrkB only in postsynaptic CA1 eliminates the ketamine-induced synaptic potentiation. We confirm BDNF-TrkB signaling in CA1 is required for ketamine's rapid behavioral action. Moreover, ketamine application elicits dynamin1-dependent TrkB activation and downstream signaling to trigger rapid synaptic effects. Taken together, these data demonstrate a requirement for BDNF-TrkB signaling in CA1 neurons in ketamine-induced synaptic potentiation and identify a specific synaptic locus in eliciting ketamine's rapid antidepressant effects."
+ },
+ {
+  "pmid": "34565579",
+  "grupo": "PLAST",
+  "label": "Aleksandrova_2021",
+  "id": "REF_ALEKSANDROVA_2021",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO09.010",
+  "titulo": "Neuroplasticity as a convergent mechanism of ketamine and classical psychedelics.",
+  "fonte": "Trends Pharmacol Sci",
+  "ano": "2021",
+  "autores": [
+   "Aleksandrova LR"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The emerging therapeutic efficacy of ketamine and classical psychedelics for depression has inspired tremendous interest in the underlying neurobiological mechanisms. We review preclinical and clinical evidence supporting neuroplasticity as a convergent downstream mechanism of action for these novel fast-acting antidepressants. Through their primary glutamate or serotonin receptor targets, ketamine and psychedelics [psilocybin, lysergic acid diethylamide (LSD), and N,N-dimethyltryptamine (DMT)] induce synaptic, structural, and functional changes, particularly in pyramidal neurons in the prefrontal cortex. These include increased glutamate release, α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor (AMPAR) activation, brain-derived neurotrophic factor (BDNF) and mammalian target of rapamycin (mTOR)-mediated signaling, expression of synaptic proteins, and synaptogenesis. Such influences may facilitate adaptive rewiring of pathological neurocircuitry, thus providing a neuroplasticity-focused framework to explain the robust and sustained therapeutic effects of these compounds."
+ },
+ {
+  "pmid": "36907686",
+  "grupo": "PLAST",
+  "label": "Kim_2023",
+  "id": "REF_KIM_2023",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO09.011",
+  "titulo": "Bridging rapid and sustained antidepressant effects of ketamine.",
+  "fonte": "Trends Mol Med",
+  "ano": "2023",
+  "autores": [
+   "Kim JW"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review",
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Acute administration of (R,S)-ketamine (ketamine) produces rapid antidepressant effects that in some patients can be sustained for several days to more than a week. Ketamine blocks N-methyl-d-asparate (NMDA) receptors (NMDARs) to elicit specific downstream signaling that induces a novel form of synaptic plasticity in the hippocampus that has been linked to the rapid antidepressant action. These signaling events lead to subsequent downstream transcriptional changes that are involved in the sustained antidepressant effects. Here we review how ketamine triggers this intracellular signaling pathway to mediate synaptic plasticity which underlies the rapid antidepressant effects and links it to downstream signaling and the sustained antidepressant effects."
+ },
+ {
+  "pmid": "37419688",
+  "grupo": "PLAST",
+  "label": "Guntupalli_2023",
+  "id": "REF_GUNTUPALLI_2023",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO09.012",
+  "titulo": "Ubiquitination of the GluA1 Subunit of AMPA Receptors Is Required for Synaptic Plasticity, Memory, and Cognitive Flexibility.",
+  "fonte": "J Neurosci",
+  "ano": "2023",
+  "autores": [
+   "Guntupalli S"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Activity-dependent changes in the number of AMPA-type glutamate receptors (AMPARs) at the synapse underpin the expression of LTP and LTD, cellular correlates of learning and memory. Post-translational ubiquitination has emerged as a key regulator of the trafficking and surface expression of AMPARs, with ubiquitination of the GluA1 subunit at Lys-868 controlling the post-endocytic sorting of the receptors into the late endosome for degradation, thereby regulating their stability at synapses. However, the physiological significance of GluA1 ubiquitination remains unknown. In this study, we generated mice with a knock-in mutation in the major GluA1 ubiquitination site (K868R) to investigate the role of GluA1 ubiquitination in synaptic plasticity, learning, and memory. Our results reveal that these male mice have normal basal synaptic transmission but exhibit enhanced LTP and deficits in LTD. They also display deficits in short-term spatial memory and cognitive flexibility. These findings underscore the critical roles of GluA1 ubiquitination in bidirectional synaptic plasticity and cognition in male mice.SIGNIFICANCE STATEMENT Subcellular targeting and membrane trafficking determine th"
+ },
+ {
+  "pmid": "38177353",
+  "grupo": "PLAST",
+  "label": "Brown_2024",
+  "id": "REF_BROWN_2024",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO09.013",
+  "titulo": "Targeting metaplasticity mechanisms to promote sustained antidepressant actions.",
+  "fonte": "Mol Psychiatry",
+  "ano": "2024",
+  "autores": [
+   "Brown KA"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review",
+   "Research Support, U.S. Gov't, Non-P.H.S.",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The discovery that subanesthetic doses of (R, S)-ketamine (ketamine) and (S)-ketamine (esketamine) rapidly induce antidepressant effects and promote sustained actions following drug clearance in depressed patients who are treatment-resistant to other therapies has resulted in a paradigm shift in the conceptualization of how rapidly and effectively depression can be treated. Consequently, the mechanism(s) that next generation antidepressants may engage to improve pathophysiology and resultant symptomology are being reconceptualized. Impaired excitatory glutamatergic synapses in mood-regulating circuits are likely a substantial contributor to the pathophysiology of depression. Metaplasticity is the process of regulating future capacity for plasticity by priming neurons with a stimulation that alters later neuronal plasticity responses. Accordingly, the development of treatment modalities that specifically modulate the duration, direction, or magnitude of glutamatergic synaptic plasticity events such as long-term potentiation (LTP), defined here as metaplastogens, may be an effective approach to reverse the pathophysiology underlying depression and improve depression symptoms. We revi"
+ },
+ {
+  "pmid": "39684808",
+  "grupo": "PLAST",
+  "label": "Pardossi_2024",
+  "id": "REF_PARDOSSI_2024",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO09.014",
+  "titulo": "Variations in BDNF and Their Role in the Neurotrophic Antidepressant Mechanisms of Ketamine and Esketamine: A Review.",
+  "fonte": "Int J Mol Sci",
+  "ano": "2024",
+  "autores": [
+   "Pardossi S"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Brain-derived neurotrophic factor (BDNF) is critical for neuroplasticity, synaptic transmission, and neuronal survival. Studies have implicated it in the pathophysiology of depression, as its expression is significantly reduced in brain areas such as the prefrontal cortex and hippocampus in patients with depression. Our narrative review focuses on the relationship between BDNF, ketamine, and esketamine, specifically by summarizing human studies investigating BDNF variations in patients treated with these two drugs. BDNF plays a pivotal role in neuroplasticity and neurotrophic mechanisms that can be enhanced by traditional antidepressants, which have been shown to increase BDNF levels both peripherally and in targeted brain regions. Ketamine and its S-enantiomer, esketamine, exert both rapid and sustained antidepressant effects through activation of glutamate-related pathways, with neurotrophic effects involving BDNF, as demonstrated in experimental studies. However, clinical findings have shown mixed results, with most indicating an increase in plasma BDNF in patients treated with intravenous ketamine, although some studies contradict these findings. In addition to this, there are "
+ },
+ {
+  "pmid": "22676966",
+  "grupo": "MRS",
+  "label": "Duncan_2013",
+  "id": "REF_DUNCAN_2013",
+  "tag": "EC",
+  "evid_role": "SUP",
+  "claim_id": "B5.MEC.BLOCO05.001",
+  "titulo": "Concomitant BDNF and sleep slow wave changes indicate ketamine-induced plasticity in major depressive disorder.",
+  "fonte": "Int J Neuropsychopharmacol",
+  "ano": "2013",
+  "autores": [
+   "Duncan WC"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Research Support, N.I.H., Intramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The N-methyl-d-aspartate (NMDA) receptor antagonist ketamine has rapid antidepressant effects in treatment-resistant major depressive disorder (MDD). In rats, ketamine selectively increased electroencephalogram (EEG) slow wave activity (SWA) during non-rapid eye movement (REM) sleep and altered central brain-derived neurotrophic factor (BDNF) expression. Taken together, these findings suggest that higher SWA and BDNF levels may respectively represent electrophysiological and molecular correlates of mood improvement following ketamine treatment. This study investigated the acute effects of a single ketamine infusion on depressive symptoms, EEG SWA, individual slow wave parameters (surrogate markers of central synaptic plasticity) and plasma BDNF (a peripheral marker of plasticity) in 30 patients with treatment-resistant MDD. Montgomery-Åsberg Depression Rating Scale scores rapidly decreased following ketamine. Compared to baseline, BDNF levels and early sleep SWA (during the first non-REM episode) increased after ketamine. The occurrence of high amplitude waves increased during early sleep, accompanied by an increase in slow wave slope, consistent with increased synaptic strength. C"
+ },
+ {
+  "pmid": "27449797",
+  "grupo": "MRS",
+  "label": "Lener_2017",
+  "id": "REF_LENER_2017",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO05.002",
+  "titulo": "Glutamate and Gamma-Aminobutyric Acid Systems in the Pathophysiology of Major Depression and Antidepressant Response to Ketamine.",
+  "fonte": "Biol Psychiatry",
+  "ano": "2017",
+  "autores": [
+   "Lener MS"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review",
+   "Research Support, N.I.H., Intramural"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "In patients with major depressive disorder or bipolar disorder, abnormalities in excitatory and/or inhibitory neurotransmission and neuronal plasticity may lead to aberrant functional connectivity patterns within large brain networks. Network dysfunction in association with altered brain levels of glutamate and gamma-aminobutyric acid have been identified in both animal and human studies of depression. In addition, evidence of an antidepressant response to subanesthetic-dose ketamine has led to a collection of studies that have examined neurochemical (e.g., glutamatergic and gamma-aminobutyric acidergic) and functional imaging correlates associated with such an effect. Results from these studies suggest that an antidepressant response in association with ketamine occurs, in part, by reversing these neurochemical/physiological disturbances. Future studies in depression will require a combination of neuroimaging approaches from which more biologically homogeneous subgroups can be identified, particularly with respect to treatment response biomarkers of glutamatergic modulation."
+ },
+ {
+  "pmid": "28180078",
+  "grupo": "MRS",
+  "label": "Houtepen_2017",
+  "id": "REF_HOUTEPEN_2017",
+  "tag": "EC",
+  "evid_role": "SUP",
+  "claim_id": "B5.MEC.BLOCO05.003",
+  "titulo": "Acute stress effects on GABA and glutamate levels in the prefrontal cortex: A 7T (1)H magnetic resonance spectroscopy study.",
+  "fonte": "Neuroimage Clin",
+  "ano": "2017",
+  "autores": [
+   "Houtepen LC"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "There is ample evidence that the inhibitory GABA and the excitatory glutamate system are essential for an adequate response to stress. Both GABAergic and glutamatergic brain circuits modulate hypothalamus-pituitary-adrenal (HPA)-axis activity, and stress in turn affects glutamate and GABA levels in the rodent brain. However, studies examining stress-induced GABA and glutamate levels in the human brain are scarce. Therefore, we investigated the influence of acute psychosocial stress (using the Trier Social Stress Test) on glutamate and GABA levels in the medial prefrontal cortex of 29 healthy male individuals using 7 Tesla proton magnetic resonance spectroscopy. In vivo GABA and glutamate levels were measured before and 30 min after exposure to either the stress or the control condition. We found no associations between psychosocial stress or cortisol stress reactivity and changes over time in medial prefrontal glutamate and GABA levels. GABA and glutamate levels over time were significantly correlated in the control condition but not in the stress condition, suggesting that very subtle differential effects of stress on GABA and glutamate across individuals may occur. However, overa"
+ },
+ {
+  "pmid": "30144668",
+  "grupo": "MRS",
+  "label": "Godfrey_2018",
+  "id": "REF_GODFREY_2018",
+  "tag": "MA",
+  "evid_role": "NEG",
+  "claim_id": "B5.MEC.BLOCO05.004",
+  "titulo": "Differences in excitatory and inhibitory neurotransmitter levels between depressed patients and healthy controls: A systematic review and meta-analysis.",
+  "fonte": "J Psychiatr Res",
+  "ano": "2018",
+  "autores": [
+   "Godfrey KEM"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Meta-Analysis",
+   "Research Support, Non-U.S. Gov't",
+   "Systematic Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Dysfunction of gamma-aminobutyric acid (GABA) and/or glutamate neurotransmitter systems have increasingly been implicated in the aetiology of Major Depressive Disorder (MDD). It has been proposed that alterations in GABA and/or glutamate result in an imbalance of inhibition and excitation. In a review of the current literature, we identified studies using Magnetic Resonance Spectroscopy (MRS) to examine the neurotransmitters GABA, glutamate, and the composite glutamate/glutamine measure Glx in patients diagnosed with MDD and healthy controls. Results showed patients with MDD had significantly lower GABA levels compared to controls (-0.35 [-0.61,-0.10], p = 0.007). No significant difference was found between levels of glutamate. Sub-analyses were performed, including only studies where the Anterior Cingulate Cortex (ACC) was the region of interest. GABA and Glx levels were lower in the ACC of MDD patients (-0.56 [-0.93,-0.18] p = 0.004, and 0.40 [-0.81,0.01] p = 0.05). This review indicates widespread cortical reduction of GABA in MDD, with a trend towards a localised reduction of Glx in the ACC. However, given both GABA and glutamate appear decreased a simple interpretation in term"
+ },
+ {
+  "pmid": "32619710",
+  "grupo": "MRS",
+  "label": "Steel_2020",
+  "id": "REF_STEEL_2020",
+  "tag": "EC",
+  "evid_role": "NEG",
+  "claim_id": "B5.MEC.BLOCO05.005",
+  "titulo": "Regional balance between glutamate+glutamine and GABA+ in the resting human brain.",
+  "fonte": "Neuroimage",
+  "ano": "2020",
+  "autores": [
+   "Steel A"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Models of healthy brain function and psychiatric conditions assume that excitatory and inhibitory activity are balanced in the human brain at multiple spatial and temporal scales. In human neuroimaging, concentrations of the major excitatory (glutamate) and inhibitory (γ-aminobutyric acid, GABA) neurotransmitters are measured in vivo using magnetic resonance spectroscopy (MRS). However, despite the central importance of E/I balance to theories of brain function, a relationship between regional glutamate and GABA levels in the human brain has not been shown. We addressed this question in a large corpus of edited MRS data collected at 19 different sites (n ​= ​220). Consistent with the notion of E/I balance, we found that levels of glutamate+glutamine (Glx) and GABA+ were highly correlated (R ​= ​0.52, p ​= ​2.86 x 10-14). This relationship held when controlling for site, scanner vendor, and demographics. Controlling for neurochemicals associated with neuronal density and metabolism (i.e. N-acetylaspartate and creatine) significantly reduced the correlation between GABA+ and Glx, suggesting that the levels of GABA+ and Glx may be critically linked to regional metabolism. These result"
+ },
+ {
+  "pmid": "33986699",
+  "grupo": "MRS",
+  "label": "Sarawagi_2021",
+  "id": "REF_SARAWAGI_2021",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO05.006",
+  "titulo": "Glutamate and GABA Homeostasis and Neurometabolism in Major Depressive Disorder.",
+  "fonte": "Front Psychiatry",
+  "ano": "2021",
+  "autores": [
+   "Sarawagi A"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Major depressive disorder (MDD) is a leading cause of distress, disability, and suicides. As per the latest WHO report, MDD affects more than 260 million people worldwide. Despite decades of research, the underlying etiology of depression is not fully understood. Glutamate and γ-aminobutyric acid (GABA) are the major excitatory and inhibitory neurotransmitters, respectively, in the matured central nervous system. Imbalance in the levels of these neurotransmitters has been implicated in different neurological and psychiatric disorders including MDD. 1H nuclear magnetic resonance (NMR) spectroscopy is a powerful non-invasive method to study neurometabolites homeostasis in vivo. Additionally, 13C-NMR spectroscopy together with an intravenous administration of non-radioactive 13C-labeled glucose or acetate provides a measure of neural functions. In this review, we provide an overview of NMR-based measurements of glutamate and GABA homeostasis, neurometabolic activity, and neurotransmitter cycling in MDD. Finally, we highlight the impact of recent advancements in treatment strategies against a depressive disorder that target glutamate and GABA pathways in the brain."
+ },
+ {
+  "pmid": "34023450",
+  "grupo": "MRS",
+  "label": "Rideaux_2021",
+  "id": "REF_RIDEAUX_2021",
+  "tag": "EC",
+  "evid_role": "NEG",
+  "claim_id": "B5.MEC.BLOCO05.007",
+  "titulo": "No balance between glutamate+glutamine and GABA+ in visual or motor cortices of the human brain: A magnetic resonance spectroscopy study.",
+  "fonte": "Neuroimage",
+  "ano": "2021",
+  "autores": [
+   "Rideaux R"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Theoretical work, supported by electrophysiological evidence, asserts that a balance between excitation and inhibition (E/I) is critical for healthy brain function. In magnetic resonance spectroscopy (MRS) studies, the ratio of excitatory (glutamate) and inhibitory (γ-aminobutyric acid, GABA) neurotransmitters is often used as a proxy for this E/I balance. Recent MRS work found a positive correlation between GABA+ and Glx (glutamate+glutamine) in medial parietal cortex, providing validation for this proxy and supporting the link between the E/I balance observed in electrophysiology and that detected with MRS. Here we assess the same relationship, between GABA+ and Glx, in visual and motor cortices of male and female human participants. We find moderate to strong evidence that there is no positive correlation between these neurotransmitters in either location. We show this holds true when controlling for a range of other factors (i.e., demographics, signal quality, tissue composition, other neurochemicals) and regardless of the state of neural activity (i.e., resting/active). These results show that there is no brain-wide balance between excitatory and inhibitory neurotransmitters a"
+ },
+ {
+  "pmid": "34354048",
+  "grupo": "MRS",
+  "label": "Kantrowitz_2021",
+  "id": "REF_KANTROWITZ_2021",
+  "tag": "MA",
+  "evid_role": "CONT",
+  "claim_id": "B5.MEC.BLOCO05.008",
+  "titulo": "Ventromedial prefrontal cortex/anterior cingulate cortex Glx, glutamate, and GABA levels in medication-free major depressive disorder.",
+  "fonte": "Transl Psychiatry",
+  "ano": "2021",
+  "autores": [
+   "Kantrowitz JT"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Meta-Analysis",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Glutamate (Glu) and gamma-aminobutyric acid (GABA) are implicated in the pathophysiology of major depressive disorder (MDD). GABA levels or GABAergic interneuron numbers are generally low in MDD, potentially disinhibiting Glu release. It is unclear whether Glu release or turnover is increased in depression. Conversely, a meta-analysis of prefrontal proton magnetic resonance spectroscopy (1H MRS) studies in MDD finds low Glx (combination of glutamate and glutamine) in medicated MDD. We hypothesize that elevated Glx or Glu may be a marker of more severe, untreated MDD. We examined ventromedial prefrontal cortex/anterior cingulate cortex (vmPFC/ACC) Glx and glutamate levels using 1H MRS in 34 medication-free, symptomatic, chronically ill MDD patients and 32 healthy volunteers, and GABA levels in a subsample. Elevated Glx and Glu were observed in MDD compared with healthy volunteers, with the highest levels seen in males with MDD. vmPFC/ACC GABA was low in MDD. Higher Glx levels correlated with more severe depression and lower GABA. MDD severity and diagnosis were both linked to higher Glx in vmPFC/ACC. Low GABA in a subset of these patients is consistent with our hypothesized model of"
+ },
+ {
+  "pmid": "35526748",
+  "grupo": "MRS",
+  "label": "Rideaux_2022",
+  "id": "REF_RIDEAUX_2022",
+  "tag": "EC",
+  "evid_role": "NEG",
+  "claim_id": "B5.MEC.BLOCO05.009",
+  "titulo": "On the relationship between GABA+ and glutamate across the brain.",
+  "fonte": "Neuroimage",
+  "ano": "2022",
+  "autores": [
+   "Rideaux R"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Equilibrium between excitation and inhibition (E/I balance) is key to healthy brain function. Conversely, disruption of normal E/I balance has been implicated in a range of central neurological pathologies. Magnetic resonance spectroscopy (MRS) provides a non-invasive means of quantifying in vivo concentrations of excitatory and inhibitory neurotransmitters, which could be used as diagnostic biomarkers. Using the ratio of excitatory and inhibitory neurotransmitters as an index of E/I balance is common practice in MRS work, but recent studies have shown inconsistent evidence for the validity of this proxy. This is underscored by the fact that different measures are often used in calculating E/I balance such as glutamate and Glx (glutamate and glutamine). Here we used a large MRS dataset obtained at ultra-high field (7 T) measured from 193 healthy young adults and focused on two brain regions - prefrontal and occipital cortex - to resolve this inconsistency. We find evidence that there is an inter-individual common ratio between GABA+ (γ-aminobutyric acid and macromolecules) and Glx in the occipital, but not prefrontal cortex. We further replicate the prefrontal result in a legacy da"
+ },
+ {
+  "pmid": "37495889",
+  "grupo": "MRS",
+  "label": "Hu_2023",
+  "id": "REF_HU_2023",
+  "tag": "MA",
+  "evid_role": "SUP",
+  "claim_id": "B5.MEC.BLOCO05.010",
+  "titulo": "Brain-wide changes in excitation-inhibition balance of major depressive disorder: a systematic review of topographic patterns of GABA- and glutamatergic alterations.",
+  "fonte": "Mol Psychiatry",
+  "ano": "2023",
+  "autores": [
+   "Hu YT"
+  ],
+  "pubtype": [
+   "Systematic Review",
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The excitation-inhibition (E/I) imbalance is an important molecular pathological feature of major depressive disorder (MDD) as altered GABA and glutamate levels have been found in multiple brain regions in patients. Healthy subjects show topographic organization of the E/I balance (EIB) across various brain regions. We here raise the question of whether such EIB topography is altered in MDD. Therefore, we systematically review the gene and protein expressions of inhibitory GABAergic and excitatory glutamatergic signaling-related molecules in postmortem MDD brain studies as proxies for EIB topography. Searches were conducted through PubMed and 45 research articles were finally included. We found: i) brain-wide GABA- and glutamatergic alterations; ii) attenuated GABAergic with enhanced glutamatergic signaling in the cortical-subcortical limbic system; iii) that GABAergic signaling is decreased in regions comprising the default mode network (DMN) while it is increased in lateral prefrontal cortex (LPFC). These together demonstrate abnormal GABA- and glutamatergic signaling-based EIB topographies in MDD. This enhances our pathophysiological understanding of MDD and carries important th"
+ },
+ {
+  "pmid": "39150032",
+  "grupo": "MRS",
+  "label": "Mamelak_2024",
+  "id": "REF_MAMELAK_2024",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO05.011",
+  "titulo": "Depression and the Glutamate/GABA-Glutamine Cycle.",
+  "fonte": "Curr Neuropharmacol",
+  "ano": "2024",
+  "autores": [
+   "Mamelak M"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Many features of major depressive disorder are mirrored in rodent models of psychological stress. These models have been used to examine the relationship between the activation of the hypothalamic- pituitary axis in response to stress, the development of oxidative stress and neuroinflammation, the dominance of cholinergic neurotransmission and the associated increase in REM sleep pressure. Rodent models have also provided valuable insights into the impairment of glycolysis and brain glucose utilization by the brain under stress, the resulting decrease in brain energy production and the reduction in glutamate/GABA-glutamine cycling. The rapidly acting antidepressants, scopolamine, ketamine and ECT, all raise extracellular glutamate and scopolamine and ketamine have specifically been shown to increase glutamate/GABA-glutamine cycling in men and rodents with corresponding short-term relief of depression. The nightly use of gammahydroxybutyrate (GHB) may achieve more permanent results and may even act prophylactically to prevent the development or recurrence of depression. GHB is a GABAB agonist and restores the normal balance between cholinergic and monoaminergic neurotransmission by "
+ },
+ {
+  "pmid": "39483976",
+  "grupo": "MRS",
+  "label": "Hu_2024",
+  "id": "REF_HU_2024",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO05.012",
+  "titulo": "Characterization of GABAergic marker expression in prefrontal cortex in dexamethasone induced depression/anxiety model.",
+  "fonte": "Front Endocrinol (Lausanne)",
+  "ano": "2024",
+  "autores": [
+   "Hu L"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "The pivotal responsibility of GABAergic interneurons is inhibitory neurotransmission; in this way, their significance lies in regulating the maintenance of excitation/inhibition (E/I) balance in cortical circuits. An abundance of glucocorticoids (GCs) exposure results in a disorder of GABAergic interneurons in the prefrontal cortex (PFC); the relationship between this status and an enhanced vulnerability to neuropsychiatric ailments, like depression and anxiety, has been identified, but this connection is still poorly understood because systematic and comprehensive research is lacking. Here, we aim to investigate the impact of dexamethasone (DEX, a GC receptor agonist) on GABAergic interneurons in the PFC of eight-week-old adult male mice. A double-blind study was conducted where thirty-two mice were treated subcutaneously either saline or DEX (0.2 mg/10 ml per kg of body weight) dissolved in saline daily for 21 days. Weight measurements were taken at five-day intervals to assess the emotional changes in mice as well as the response to DEX treatment. Following the 21-day regimen of DEX injections, mice underwent examinations for depression/anxiety-like behaviours and GABAergic mark"
+ },
+ {
+  "pmid": "40199850",
+  "grupo": "MRS",
+  "label": "Steinholtz_2025",
+  "id": "REF_STEINHOLTZ_2025",
+  "tag": "EC",
+  "evid_role": "SUP",
+  "claim_id": "B5.MEC.BLOCO05.013",
+  "titulo": "Alterations in gamma-aminobutyric acid and glutamate neurotransmission linked to intermittent theta-burst stimulation in depression: a sham-controlled study.",
+  "fonte": "Transl Psychiatry",
+  "ano": "2025",
+  "autores": [
+   "Steinholtz L"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Randomized Controlled Trial"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Gamma-aminobutyric acid (GABA) and glutamate are implicated in the antidepressant effects of repetitive transcranial magnetic stimulation (rTMS), though findings from magnetic resonance spectroscopy (MRS) are inconsistent. Furthermore, the relationship between GABAA-receptor availability and rTMS outcomes remains largely unexplored. In this study, GABA and glutamate levels in the dorsal anterior cingulate cortex (dACC) were measured using a 1H-MRS MEGA-PRESS sequence in 42 patients with bipolar or unipolar depression, both before and after a sham-controlled, double-blind clinical trial involving intermittent theta-burst stimulation (iTBS) over the dorsomedial prefrontal cortex. A subset of 28 patients also underwent [11C]flumazenil positron emission tomography (PET) to measure whole-brain GABAA-receptor availability and mean receptor availability in the nucleus accumbens and dACC. Depressive symptoms were assessed using the self-rated Montgomery Åsberg Depression Rating Scale (MADRS-S). The results indicated no significant changes in neurotransmitter levels or GABAA-receptor availability post-iTBS in either the active or sham conditions. However, changes in MADRS-S scores after act"
+ },
+ {
+  "pmid": "42250487",
+  "grupo": "MRS",
+  "label": "Yoshihara_2026",
+  "id": "REF_YOSHIHARA_2026",
+  "tag": "EC",
+  "evid_role": "SUP",
+  "claim_id": "B5.MEC.BLOCO05.014",
+  "titulo": "Age-dependent alterations in anterior cingulate excitation-inhibition balance in major depressive disorder revealed by 7-Tesla magnetic resonance spectroscopy.",
+  "fonte": "Neuroimage Clin",
+  "ano": "2026",
+  "autores": [
+   "Yoshihara Y"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Altered excitation-inhibition (E/I) balance has been implicated in the pathophysiology of major depressive disorder (MDD), but previous magnetic resonance spectroscopy (MRS) findings have been inconsistent, partly due to methodological limitations. 7T MRS enables simultaneous quantification of glutamate (Glu) and γ-aminobutyric acid (GABA), and calculation of their ratio as an MRS-based proxy of E/I balance. Using 7T MRS, we measured Glu and GABA levels in the dorsal anterior cingulate cortex (dACC) of 41 treated patients with MDD and 35 matched healthy controls (HC). The primary outcome was the Glu/GABA ratio. Analysis of covariance tested group effects controlling for age and sex. Associations with clinical symptoms (Hamilton Depression Rating Scale) and cognitive performance were also evaluated. A significant group × age interaction was observed (F(1, 57) = 8.49, p = 0.005), with Glu/GABA increasing with age in HC but not in MDD. No significant group differences were detected for Glu or GABA individually, although GABA levels showed a non-significant trend towards higher values in MDD. The Glu/GABA ratio was not associated with symptom severity or cognitive performance. Glu and "
+ },
+ {
+  "pmid": "25653526",
+  "grupo": "ANX",
+  "label": "Nuss_2015",
+  "id": "REF_NUSS_2015",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO06.001",
+  "titulo": "Anxiety disorders and GABA neurotransmission: a disturbance of modulation.",
+  "fonte": "Neuropsychiatr Dis Treat",
+  "ano": "2015",
+  "autores": [
+   "Nuss P"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Lines of evidence coming from many branches of neuroscience indicate that anxiety disorders arise from a dysfunction in the modulation of brain circuits which regulate emotional responses to potentially threatening stimuli. The concept of anxiety disorders as a disturbance of emotional response regulation is a useful one as it allows anxiety to be explained in terms of a more general model of aberrant salience and also because it identifies avenues for developing psychological, behavioral, and pharmacological strategies for the treatment of anxiety disorder. These circuits involve bottom-up activity from the amygdala, indicating the presence of potentially threatening stimuli, and top-down control mechanisms originating in the prefrontal cortex, signaling the emotional salience of stimuli. Understanding the factors that control cortical mechanisms may open the way to identification of more effective cognitive behavioral strategies for managing anxiety disorders. The brain circuits in the amygdala are thought to comprise inhibitory networks of γ-aminobutyric acid-ergic (GABAergic) interneurons and this neurotransmitter thus plays a key role in the modulation of anxiety responses bot"
+ },
+ {
+  "pmid": "27821870",
+  "grupo": "ANX",
+  "label": "Fuchs_2017",
+  "id": "REF_FUCHS_2017",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO06.002",
+  "titulo": "Disinhibition of somatostatin-positive GABAergic interneurons results in an anxiolytic and antidepressant-like brain state.",
+  "fonte": "Mol Psychiatry",
+  "ano": "2017",
+  "autores": [
+   "Fuchs T"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Major depressive disorder (MDD) is associated with reduced concentrations of γ-aminobutyric acid (GABA) that are normalized by antidepressant therapies. Moreover, depressive-like phenotypes of GABAA receptor mutant mice can be reversed by treatment with conventional antidepressants drugs, as well as by subanesthetic doses of ketamine. Thus GABAergic deficits may causally contribute to depressive disorders, while antidepressant therapies may enhance GABAergic synaptic transmission. Here we tested the hypothesis that sustained enhancement of GABAergic transmission alone is sufficient to elicit antidepressant-like behavior, using disinhibition of GABAergic interneurons. We focused on somatostatin-positive (SST+) GABAergic interneurons because of evidence that their function is compromised in MDD. To disinhibit SST+ interneurons, we inactivated the γ2 subunit gene of GABAA receptors selectively in these neurons (SSTCre:γ2f/f mice). Loss of inhibitory synaptic input resulted in increased excitability of SST+ interneurons. In turn, pyramidal cell targets of SST+ neurons showed an increased frequency of spontaneous inhibitory postsynaptic currents. The behavior of SSTCre:γ2f/f mice mimick"
+ },
+ {
+  "pmid": "32277042",
+  "grupo": "ANX",
+  "label": "Salimando_2020",
+  "id": "REF_SALIMANDO_2020",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO06.003",
+  "titulo": "BNST GluN2D-Containing NMDA Receptors Influence Anxiety- and Depressive-like Behaviors and ModulateCell-Specific Excitatory/Inhibitory Synaptic Balance.",
+  "fonte": "J Neurosci",
+  "ano": "2020",
+  "autores": [
+   "Salimando GJ"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Excitatory signaling mediated by NMDARs has been shown to regulate mood disorders. However, current treatments targeting NMDAR subtypes have shown limited success in treating patients, highlighting a need for alternative therapeutic targets. Here, we identify a role for GluN2D-containing NMDARs in modulating emotional behaviors and neural activity in the bed nucleus of the stria terminalis (BNST). Using a GluN2D KO mouse line (GluN2D-/-), we assessed behavioral phenotypes across tasks modeling emotional behavior. We then used a combination of ex vivo electrophysiology and in vivo fiber photometry to assess changes in BNST plasticity, cell-specific physiology, and cellular activity profiles. GluN2D-/- male mice exhibit evidence of exacerbated negative emotional behavior, and a deficit in BNST synaptic potentiation. We also found that GluN2D is functionally expressed on corticotropin-releasing factor (CRF)-positive BNST cells implicated in driving negative emotional states, and recordings in mice of both sexes revealed increased excitatory and reduced inhibitory drive onto GluN2D-/- BNST-CRF cells ex vivo and increased activity in vivo Using a GluN2D conditional KO line (GluN2Dflx/fl"
+ },
+ {
+  "pmid": "32297184",
+  "grupo": "ANX",
+  "label": "Yu_2020",
+  "id": "REF_YU_2020",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO06.004",
+  "titulo": "Activation of LXRβ Signaling in the Amygdala Confers Anxiolytic Effects Through Rebalancing Excitatory and Inhibitory Neurotransmission upon Acute Stress.",
+  "fonte": "Neurotherapeutics",
+  "ano": "2020",
+  "autores": [
+   "Yu W"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "The balance of major excitatory (glutamate, Glu) and inhibitory (γ-aminobutyric acid, GABA), named as E/I neurotransmission, is critical for proper information processing. Anxiety-like responses upon stress are accompanied by abnormal alterations in the formation and function of synapses, resulting in the imbalance of E/I neurotransmission in the amygdala. Liver X receptors (LXRs), including LXRα and LXRβ isoforms, are nuclear receptors responsible for regulating central nervous system (CNS) functions besides maintaining metabolic homeostasis. However, little is known about the contribution of LXRs in E/I balance in regulating anxiety-related behaviors induced by stress. In this study, we found stress-induced anxiety led to the expression reduction of LXRβ not LXRα in mice amygdala. GW3965, a dual agonist for both LXRα and LXRβ, alleviated anxiety-like behaviors of stressed mice through activation of LXRβ, confirmed by the knockdown of LXRβ mediated by lentiviral shRNAs in the basolateral amygdala (BLA). This was paralleled by correcting the disequilibrium of E/I neurotransmission in the stressed BLA. Importantly, GW3965 exerted anxiolytic effects by correcting the promoted amplitu"
+ },
+ {
+  "pmid": "32555286",
+  "grupo": "ANX",
+  "label": "Xiao_2021",
+  "id": "REF_XIAO_2021",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO06.005",
+  "titulo": "A new GABAergic somatostatin projection from the BNST onto accumbal parvalbumin neurons controls anxiety.",
+  "fonte": "Mol Psychiatry",
+  "ano": "2021",
+  "autores": [
+   "Xiao Q"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "The prevailing view is that parvalbumin (PV) interneurons play modulatory roles in emotional response through local medium spiny projection neurons (MSNs). Here, we show that PV activity within the nucleus accumbens shell (sNAc) is required for producing anxiety-like avoidance when mice are under anxiogenic situations. Firing rates of sNAcPV neurons were negatively correlated to exploration time in open arms (threatening environment). In addition, sNAcPV neurons exhibited high excitability in a chronic stress mouse model, which generated excessive maladaptive avoidance behavior in an anxiogenic context. We also discovered a novel GABAergic pathway from the anterior dorsal bed nuclei of stria terminalis (adBNST) to sNAcPV neurons. Optogenetic activation of these afferent terminals in sNAc produced an anxiolytic effect via GABA transmission. Next, we further demonstrated that chronic stressors attenuated the inhibitory synaptic transmission at adBNSTGABA → sNAcPV synapses, which in turn explains the hyperexcitability of sNAc PV neurons on stressed models. Therefore, activation of these GABAergic afferents in sNAc rescued the excessive avoidance behavior related to an anxious state. F"
+ },
+ {
+  "pmid": "37035504",
+  "grupo": "ANX",
+  "label": "Singh_2023",
+  "id": "REF_SINGH_2023",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO06.006",
+  "titulo": "Inhibitory circuits in fear memory and fear-related disorders.",
+  "fonte": "Front Neural Circuits",
+  "ano": "2023",
+  "autores": [
+   "Singh S"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Fear learning and memory rely on dynamic interactions between the excitatory and inhibitory neuronal populations that make up the prefrontal cortical, amygdala, and hippocampal circuits. Whereas inhibition of excitatory principal cells (PCs) by GABAergic neurons restrains their excitation, inhibition of GABAergic neurons promotes the excitation of PCs through a process called disinhibition. Specifically, GABAergic interneurons that express parvalbumin (PV+) and somatostatin (SOM+) provide inhibition to different subcellular domains of PCs, whereas those that express the vasoactive intestinal polypeptide (VIP+) facilitate disinhibition of PCs by inhibiting PV+ and SOM+ interneurons. Importantly, although the main connectivity motifs and the underlying network functions of PV+, SOM+, and VIP+ interneurons are replicated across cortical and limbic areas, these inhibitory populations play region-specific roles in fear learning and memory. Here, we provide an overview of the fear processing in the amygdala, hippocampus, and prefrontal cortex based on the evidence obtained in human and animal studies. Moreover, focusing on recent findings obtained using genetically defined imaging and in"
+ },
+ {
+  "pmid": "37294327",
+  "grupo": "ANX",
+  "label": "Abraham_2023",
+  "id": "REF_ABRAHAM_2023",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO06.007",
+  "titulo": "Maternal separation and its developmental consequences on anxiety and parvalbumin interneurons in the amygdala.",
+  "fonte": "J Neural Transm (Vienna)",
+  "ano": "2023",
+  "autores": [
+   "Abraham M"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "The early postnatal period represents an exceptionally vulnerable phase for the development of neurobiological alterations, aberrant behavior, and psychiatric disorders. Altered GABAergic activity in the hippocampus and the amygdala have been identified in humans diagnosed with depression or anxiety disorders, as well as in respective animal models. Changes in GABAergic activity can be visualized by immunohistochemical staining of parvalbumin (PV) protein. Therewith, alterations in PV intensity as well as in the integrity of the perineural net surrounding PV positive (PV+) interneurons have been reported as consequences of early stress. In the current study, maternal separation (MS) was used to induce early life stress. Female and male Sprague-Dawley rats were subjected to MS over 4 h from postnatal days 2-20. Then, anxiety behavior and PV+ interneurons in the amygdala were analyzed using immunohistochemistry in adolescence or adulthood. MS induced increased anxiety behavior in the marble-burying test in adolescence as well as in the elevated plus maze in adulthood. No effect of sex was found. Concerning alterations of parvalbumin expression in the amygdala, a trend towards a lower"
+ },
+ {
+  "pmid": "38796850",
+  "grupo": "ANX",
+  "label": "Volitaki_2024",
+  "id": "REF_VOLITAKI_2024",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO06.008",
+  "titulo": "Activity of ventral hippocampal parvalbumin interneurons during anxiety.",
+  "fonte": "Cell Rep",
+  "ano": "2024",
+  "autores": [
+   "Volitaki E"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Anxiety plays a key role in guiding behavior in response to potential threats. Anxiety is mediated by the activation of pyramidal neurons in the ventral hippocampus (vH), whose activity is controlled by GABAergic inhibitory interneurons. However, how different vH interneurons might contribute to anxiety-related processes is unclear. Here, we investigate the role of vH parvalbumin (PV)-expressing interneurons while mice transition from safe to more anxiogenic compartments of the elevated plus maze (EPM). We find that vH PV interneurons increase their activity in anxiogenic EPM compartments concomitant with dynamic changes in inhibitory interactions between PV interneurons and pyramidal neurons. By optogenetically inhibiting PV interneurons, we induce an increase in the activity of vH pyramidal neurons and persistent anxiety. Collectively, our results suggest that vH inhibitory microcircuits may act as a trigger for enduring anxiety states."
+ },
+ {
+  "pmid": "38865810",
+  "grupo": "ANX",
+  "label": "Arora_2024",
+  "id": "REF_ARORA_2024",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO06.009",
+  "titulo": "GABAergic implications in anxiety and related disorders.",
+  "fonte": "Biochem Biophys Res Commun",
+  "ano": "2024",
+  "autores": [
+   "Arora I"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Evidence indicates that anxiety disorders arise from an imbalance in the functioning of brain circuits that govern the modulation of emotional responses to possibly threatening stimuli. The circuits under consideration in this context include the amygdala's bottom-up activity, which signifies the existence of stimuli that may be seen as dangerous. Moreover, these circuits encompass top-down regulatory processes that originate in the prefrontal cortex, facilitating the communication of the emotional significance associated with the inputs. Diverse databases (e.g., Pubmed, ScienceDirect, Web of Science, Google Scholar) were searched for literature using a combination of different terms e.g., \"anxiety\", \"stress\", \"neuroanatomy\", and \"neural circuits\", etc. A decrease in GABAergic activity is present in both anxiety disorders and severe depression. Research on cerebral functional imaging in depressive individuals has shown reduced levels of GABA within the cortical regions. Additionally, animal studies demonstrated that a reduction in the expression of GABAA/B receptors results in a behavioral pattern resembling anxiety. The amygdala consists of inhibitory networks composed of GABAergi"
+ },
+ {
+  "pmid": "39086371",
+  "grupo": "ANX",
+  "label": "Mitten_2024",
+  "id": "REF_MITTEN_2024",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO06.010",
+  "titulo": "Stress-induced anxiety-related behavior in mice is driven by enhanced excitability of ventral tegmental area GABA neurons.",
+  "fonte": "Front Behav Neurosci",
+  "ano": "2024",
+  "autores": [
+   "Mitten EH"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Stress and trauma are significant risk factors for many neuropsychiatric disorders and diseases, including anxiety disorders. Stress-induced anxiety symptoms have been attributed to enhanced excitability in circuits controlling fear, anxiety, and aversion. A growing body of evidence has implicated GABAergic neurons of the ventral tegmental area (VTA) in aversion processing and affective behavior. We used an unpredictable footshock (uFS) model, together with electrophysiological and behavioral approaches, to investigate the role of VTA GABA neurons in anxiety-related behavior in mice. One day after a single uFS session, C57BL/6J mice exhibited elevated anxiety-related behavior and VTA GABA neuron excitability. The enhanced excitability of VTA GABA neurons was correlated with increased glutamatergic input and a reduction in postsynaptic signaling mediated via GABAA and GABAB receptors. Chemogenetic activation of VTA GABA neurons was sufficient to increase anxiety-related behavior in stress-naïve mice. In addition, chemogenetic inhibition of VTA GABA neurons suppressed anxiety-related behavior in mice exposed to uFS. These data show that VTA GABA neurons are an early substrate for str"
+ },
+ {
+  "pmid": "31377218",
+  "grupo": "STR",
+  "label": "Page_2019",
+  "id": "REF_PAGE_2019",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO04.001",
+  "titulo": "Prefrontal excitatory/inhibitory balance in stress and emotional disorders: Evidence for over-inhibition.",
+  "fonte": "Neurosci Biobehav Rev",
+  "ano": "2019",
+  "autores": [
+   "Page CE"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Chronic stress-induced emotional disorders like anxiety and depression involve imbalances between the excitatory glutamatergic system and the inhibitory GABAergic system in the prefrontal cortex (PFC). However, the precise nature and trajectory of excitatory/inhibitory (E/I) imbalances in these conditions is not clear, with the literature reporting glutamatergic and GABAergic findings that are at times contradictory and inconclusive. Here we propose and discuss the hypothesis that chronic stress-induced emotional dysfunction involves hypoactivity of the PFC due to increased inhibition. We will also discuss E/I imbalances in the context of sex differences. In this review, we will synthesize research about how glutamatergic and GABAergic systems are perturbed by chronic stress and in related emotional disorders like anxiety and depression and propose ideas for reconciling contradictory findings in support of the hypothesis of over-inhibition. We will also discuss evidence for how aspects of the GABAergic system such as parvalbumin (PV) cells can be targeted therapeutically for reinstating activity and plasticity in the PFC and treating stress-related disorders."
+ },
+ {
+  "pmid": "32158215",
+  "grupo": "STR",
+  "label": "Xu_2020",
+  "id": "REF_XU_2020",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO04.002",
+  "titulo": "Chronic Stress in a Rat Model of Depression Disturbs the Glutamine-Glutamate-GABA Cycle in the Striatum, Hippocampus, and Cerebellum.",
+  "fonte": "Neuropsychiatr Dis Treat",
+  "ano": "2020",
+  "autores": [
+   "Xu S"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Major depressive disorder (MDD) is a complex psychiatric illness involving multiple brain regions. Increasing evidence indicates that the striatum is involved in depression, but the molecular mechanisms remain unclear. In this study, we performed a gas chromatography-mass spectrometer (GC/MS)-based metabolomic analysis in the striatum of depressed rats induced by chronic unpredictable mild stress (CUMS). We then compared striatal data with our previous data from the hippocampus and cerebellum to systematically investigate the potential pathogenesis of depression. We identified 22 differential metabolites in the striatum between the CUMS and control groups; these altered metabolites were mainly involved in amino acid, carbohydrate, and nucleotide metabolism. Pathway analysis revealed that the shared metabolic pathways of the striatum, hippocampus, and cerebellum were mainly involved in the glutamine-glutamate metabolic system. Four genes in the striatum (GS, GLS2, GLT1, and SSADH), six genes in the hippocampus (GS, SNAT1, GAD1, SSADH, VGAT, and ABAT), and five genes in the cerebellum (GS, ABAT, SNAT1, VGAT, and GDH) were found to be significantly altered using RT-qPCR. Correlation a"
+ },
+ {
+  "pmid": "34557569",
+  "grupo": "STR",
+  "label": "Perlman_2021",
+  "id": "REF_PERLMAN_2021",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO04.003",
+  "titulo": "Parvalbumin interneuron alterations in stress-related mood disorders: A systematic review.",
+  "fonte": "Neurobiol Stress",
+  "ano": "2021",
+  "autores": [
+   "Perlman G"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Stress-related psychiatric disorders including depression involve complex cellular and molecular changes in the brain, and GABAergic signaling dysfunction is increasingly implicated in the etiology of mood disorders. Parvalbumin (PV)-expressing neurons are fast-spiking interneurons that, among other roles, coordinate synchronous neuronal firing. Mounting evidence suggests that the PV neuron phenotype is altered by stress and in mood disorders. In this systematic review, we assessed PV interneuron alterations in psychiatric disorders as reported in human postmortem brain studies and animal models of environmental stress. This review aims to 1) comprehensively catalog evidence of PV cell function in mood disorders (humans) and stress models of mood disorders (animals); 2) analyze the strength of evidence of PV interneuron alterations in various brain regions in humans and rodents; 3) determine whether the modulating effect of antidepressant treatment, physical exercise, and environmental enrichment on stress in animals associates with particular effects on PV function; and 4) use this information to guide future research avenues. Its principal findings, derived mainly from rodent stu"
+ },
+ {
+  "pmid": "39362860",
+  "grupo": "STR",
+  "label": "Tao_2024",
+  "id": "REF_TAO_2024",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO04.004",
+  "titulo": "Excitation-inhibition imbalance in medial preoptic area circuits underlies chronic stress-induced depression-like states.",
+  "fonte": "Nat Commun",
+  "ano": "2024",
+  "autores": [
+   "Tao C"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Dysregulation of brain homeostasis is associated with neuropsychiatric conditions such as major depressive disorder. However, underlying neural-circuit mechanisms remain not well-understood. We show in mice that chronic restraint stress (CRS) and social defeat stress (SDS) are both associated with disruption of excitation (E)-inhibition (I) balance, with increased E/I ratios, in medial preoptic area (MPOA) circuits, but through affecting different neuronal types. CRS results in elevated activity in glutamatergic neurons, and their suppression mitigates CRS-induced depressive-like behaviors. Paraventricular hypothalamic input to these neurons contributes to induction but not expression of depressive-like behaviors. Their projections to ventral tegmental area and periaqueductal gray/dorsal raphe suppress midbrain dopaminergic and serotonergic activity, respectively, and mediate expression of divergent depressive-like symptoms. By contrast, SDS results in reduced activity of GABAergic neurons, and their activation alleviates SDS-induced depressive-like behaviors. Thus, E/I imbalance with relatively increased excitation in MPOA circuits may be a general mechanism underlying depression "
+ },
+ {
+  "pmid": "40581655",
+  "grupo": "STR",
+  "label": "Ryazantseva_2025",
+  "id": "REF_RYAZANTSEVA_2025",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO04.005",
+  "titulo": "Parvalbumin interneurons gate amygdala excitability and response to chronic stress via kainate receptor-driven tonic GABA(B) receptor-mediated inhibition.",
+  "fonte": "Mol Psychiatry",
+  "ano": "2025",
+  "autores": [
+   "Ryazantseva M"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Amygdala hyperexcitability is a hallmark of stress-induced anxiety disorders. Stress-associated changes in both principal neurons and interneurons contribute to the increased excitability, but how exactly these mechanisms interact to regulate the function of behaviorally relevant circuits in the amygdala remains unclear. Here, we show that GluK1 subunit-containing kainate receptors in parvalbumin (PV) interneurons maintain high GABA release and control excitability of lateral amygdala (LA) principal neurons via tonic GABAB-receptor-mediated inhibition. Downregulation of GluK1 expression in PV interneurons after chronic restraint stress (CRS) releases the tonic inhibition and increases excitability of LA principal neurons. Stress-induced LA hyperexcitability was associated with increased glutamatergic transmission to central amygdala PKCδ-expressing neurons, implicated in fear generalization. Consistent with significance in anxiogenesis, absence of GluK1-GABAB regulation confers resilience against CRS-induced LA hyperexcitability and anxiety-like behavior. Our data reveal a unique novel mechanism involving an interplay between glutamatergic and GABAergic systems in the regulation of"
+ },
+ {
+  "pmid": "42362547",
+  "grupo": "STR",
+  "label": "Wu_2026",
+  "id": "REF_WU_2026",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO04.006",
+  "titulo": "A dual-pathway dysregulation in prefrontal-habenular circuits mediates stress susceptibility.",
+  "fonte": "Nat Commun",
+  "ano": "2026",
+  "autores": [
+   "Wu J"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Chronic stress disrupts emotional homeostasis, leading to resilience or susceptibility through unclear mechanisms. Here, we identify a dual-pathway mechanism in the dorsomedial prefrontal cortex (dmPFC)-lateral habenula (LHb) circuit in male mice, where glutamatergic and GABAergic projections coordinately regulate stress responses. Chronic stress differentially modulates these pathways, inducing susceptibility-specific hyperactivity in dmPFC-innervated LHb neurons by potentiating excitatory and suppressing inhibitory inputs, disrupting long-range excitatory/inhibitory (E/I) balance. Chemogenetic recapitulation of this imbalance exacerbates LHb hyperactivity and stress susceptibility, whereas restoring balance promotes resilience. Mechanistically, stress-susceptible mice exhibit impaired ATP-P2X2R signaling in GABAergic neurons, leading to disinhibition of the excitatory pathway via local microcircuits and weakening of the inhibitory projection, resulting in E/I imbalance. This disruption ultimately causes LHb hyperactivity and susceptibility. Collectively, these results reveal that coordinated regulation of opposing dmPFC-LHb pathways by ATP-P2X2R signaling gates stress susceptibil"
+ },
+ {
+  "pmid": "25237099",
+  "grupo": "IFACE",
+  "label": "Shabel_2014",
+  "id": "REF_SHABEL_2014",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO08.001",
+  "titulo": "Mood regulation. GABA/glutamate co-release controls habenula output and is modified by antidepressant treatment.",
+  "fonte": "Science",
+  "ano": "2014",
+  "autores": [
+   "Shabel SJ"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "The lateral habenula (LHb), a key regulator of monoaminergic brain regions, is activated by negatively valenced events. Its hyperactivity is associated with depression. Although enhanced excitatory input to the LHb has been linked to depression, little is known about inhibitory transmission. We discovered that γ-aminobutyric acid (GABA) is co-released with its functional opponent, glutamate, from long-range basal ganglia inputs (which signal negative events) to limit LHb activity in rodents. At this synapse, the balance of GABA/glutamate signaling is shifted toward reduced GABA in a model of depression and increased GABA by antidepressant treatment. GABA and glutamate co-release therefore controls LHb activity, and regulation of this form of transmission may be important for determining the effect of negative life events on mood and behavior."
+ },
+ {
+  "pmid": "27240530",
+  "grupo": "IFACE",
+  "label": "Hartmann_2017",
+  "id": "REF_HARTMANN_2017",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO08.002",
+  "titulo": "Forebrain glutamatergic, but not GABAergic, neurons mediate anxiogenic effects of the glucocorticoid receptor.",
+  "fonte": "Mol Psychiatry",
+  "ano": "2017",
+  "autores": [
+   "Hartmann J"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Anxiety disorders constitute a major disease and social burden worldwide; however, many questions concerning the underlying molecular mechanisms still remain open. Besides the involvement of the major excitatory (glutamate) and inhibitory (gamma aminobutyric acid (GABA)) neurotransmitter circuits in anxiety disorders, the stress system has been directly implicated in the pathophysiology of these complex mental illnesses. The glucocorticoid receptor (GR) is the major receptor for the stress hormone cortisol (corticosterone in rodents) and is widely expressed in excitatory and inhibitory neurons, as well as in glial cells. However, currently it is unknown which of these cell populations mediate GR actions that eventually regulate fear- and anxiety-related behaviors. In order to address this question, we generated mice lacking the receptor specifically in forebrain glutamatergic or GABAergic neurons by breeding GRflox/flox mice to Nex-Cre or Dlx5/6-Cre mice, respectively. GR deletion specifically in glutamatergic, but not in GABAergic, neurons induced hypothalamic-pituitary-adrenal axis hyperactivity and reduced fear- and anxiety-related behavior. This was paralleled by reduced GR-dep"
+ },
+ {
+  "pmid": "30851296",
+  "grupo": "IFACE",
+  "label": "Pham_2019",
+  "id": "REF_PHAM_2019",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO08.003",
+  "titulo": "Fast-acting antidepressant activity of ketamine: highlights on brain serotonin, glutamate, and GABA neurotransmission in preclinical studies.",
+  "fonte": "Pharmacol Ther",
+  "ano": "2019",
+  "autores": [
+   "Pham TH"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Ketamine, a non-competitive antagonist of N-methyl-D-aspartate (NMDA) receptor, displays a fast antidepressant activity in treatment-resistant depression and in rodent models of anxiety/depression. A large body of evidence concerning the cellular and molecular mechanisms underlying its fast antidepressant-like activity comes from animal studies. Although structural remodeling of frontocortical/hippocampal neurons has been proposed as critical, the role of excitatory/inhibitory neurotransmitters in this behavioral effect is unclear. Neurochemical and behavioral changes are maintained 24h after ketamine administration, well beyond its plasma elimination half-life. Thus, ketamine is believed to initiate a cascade of cellular mechanisms supporting its fast antidepressant-like activity. To date, the underlying mechanism involves glutamate release, then downstream activation of AMPA receptors, which trigger mammalian target of rapamycin (mTOR)-dependent structural plasticity via brain-derived neurotrophic factor (BDNF) and protein neo-synthesis in the medial prefrontal cortex (mPFC), a brain region strongly involved in ketamine therapeutic effects. However, these mPFC effects are not res"
+ },
+ {
+  "pmid": "33554649",
+  "grupo": "IFACE",
+  "label": "Sears_2021",
+  "id": "REF_SEARS_2021",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO08.004",
+  "titulo": "Influence of glutamate and GABA transport on brain excitatory/inhibitory balance.",
+  "fonte": "Exp Biol Med (Maywood)",
+  "ano": "2021",
+  "autores": [
+   "Sears SM"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "An optimally functional brain requires both excitatory and inhibitory inputs that are regulated and balanced. A perturbation in the excitatory/inhibitory balance-as is the case in some neurological disorders/diseases (e.g. traumatic brain injury Alzheimer's disease, stroke, epilepsy and substance abuse) and disorders of development (e.g. schizophrenia, Rhett syndrome and autism spectrum disorder)-leads to dysfunctional signaling, which can result in impaired cognitive and motor function, if not frank neuronal injury. At the cellular level, transmission of glutamate and GABA, the principle excitatory and inhibitory neurotransmitters in the central nervous system control excitatory/inhibitory balance. Herein, we review the synthesis, release, and signaling of GABA and glutamate followed by a focused discussion on the importance of their transport systems to the maintenance of excitatory/inhibitory balance."
+ },
+ {
+  "pmid": "35513229",
+  "grupo": "IFACE",
+  "label": "Zhong_2022",
+  "id": "REF_ZHONG_2022",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO08.005",
+  "titulo": "Neonatal inflammation via persistent TGF-β1 downregulation decreases GABA(A)R expression in basolateral amygdala leading to the imbalance of the local excitation-inhibition circuits and anxiety-like phenotype in adult mice.",
+  "fonte": "Neurobiol Dis",
+  "ano": "2022",
+  "autores": [
+   "Zhong H"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Neonatal inflammation can increase the risk of anxiety disorder in adulthood. The balance between glutamatergic excitatory and GABAergic inhibitory transmissions in the basolateral amygdala (BLA) plays a vital role in controlling anxiety state. Based on the reports that early-life inflammation had adverse effects on GABAergic system, the aim of this study was to investigate whether and how neonatal inflammation affects excitatory-inhibitory circuits in the BLA resulting in anxiety disorder. Neonatal mice received a daily subcutaneous injection of lipopolysaccharide (LPS, 50 μg/kg) or saline on postnatal days 3-5. LPS-treated mice developed anxiety behaviors accompanied by the hyperactivity of adrenal axis in adulthood. Electrophysiological study revealed the increase of postsynaptic neuronal excitability in the cortical-BLA excitatory synapses of LPS mice which could be recovered by bath-application of GABAAR agonist suggesting the impairment of GABAergic system in LPS mice. Compared with controls, GABAARα2 subunit expression and density of GABA-evoked current in BLA principal neurons were reduced in LPS mice. Additionally, neonatal LPS treatment resulted in the down-regulation of "
+ },
+ {
+  "pmid": "38586282",
+  "grupo": "IFACE",
+  "label": "Rezaei_2024",
+  "id": "REF_REZAEI_2024",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B5.MEC.BLOCO08.006",
+  "titulo": "LPS-induced inflammation reduces GABAergic interneuron markers and brain-derived neurotrophic factor in mouse prefrontal cortex and hippocampus.",
+  "fonte": "Brain Behav Immun Health",
+  "ano": "2024",
+  "autores": [
+   "Rezaei S"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Inflammation, reduced gamma-aminobutyric acidergic (GABAergic) function and altered neuroplasticity are co-occurring pathophysiologies in major depressive disorder (MDD). However, the link between these biological changes remains unclear. We hypothesized that inflammation induces deficits in GABAergic interneuron markers and that this effect is mediated by brain-derived neurotrophic factor (BDNF). We report here that systemic inflammation induced by intraperitoneal injection of lipopolysaccharide (LPS) (0.125, 0.25, 0.5, 1, 2 mg/kg) in the first cohort of C57BL/6 mice (n = 72; 10-11 weeks; 50% female) resulted in increased interleukin 1-beta and interleukin-6 in prefrontal cortex (PFC) and hippocampus (HPC), as measured using enzyme-linked immunosorbent assay (ELISA). Quantitative real-time polymerase reaction (qPCR) was used to explore the effect of LPS on the expression of GABAergic interneuron markers. In the PFC of the second cohort (n = 39; 10-11 weeks; 50% female), 2 mg/kg of LPS decreased the expression of somatostatin (Sst) (p = 0.0014), parvalbumin (Pv) (p = 0.0257), cortistatin (Cort) (p = 0.0003), neuropeptide Y (Npy) (p = 0.0033) and cholecystokinin (Cck) (p = 0.0041), "
+ },
+ {
+  "pmid": "42278495",
+  "grupo": "IFACE",
+  "label": "Zielinska_2026",
+  "id": "REF_ZIELINSKA_2026",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B5.MEC.BLOCO08.007",
+  "titulo": "GABA-Producing Bacteria as Potential Psychobiotics in Gut-Brain Axis Regulation.",
+  "fonte": "Int J Mol Sci",
+  "ano": "2026",
+  "autores": [
+   "Zielińska E"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "γ-Aminobutyric acid (GABA) is the main inhibitory neurotransmitter in the central nervous system (CNS) and plays a vital role in maintaining neural balance, regulating mood, and reducing stress responses. Recent metagenomic studies of the gut microbiome have shown that various bacterial species, especially those in the genera Lactobacillus, Bifidobacterium, and Bacteroides, isolated from the human gut and environmental sources such as fermented foods, contain glutamate decarboxylase (GAD) systems that enable GABA production. Microbially produced GABA can influence the microbiota-gut-brain (MGB) axis by activating neural, endocrine, and immune signalling pathways that are crucial for maintaining gut and brain homeostasis. Emerging evidence suggests that supplementation with GABA-producing bacteria, known as psychobiotics, may improve neurotransmitter balance, modulate cytokine production, strengthen the integrity of the intestinal barrier, and alleviate anxiety- and depression-related behaviours. This review summarises current knowledge of GABA-producing bacterial strains derived from the human gut and food environments and explores their potential as emerging psychobiotics in modul"
+ }
+]

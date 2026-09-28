@@ -1,0 +1,36 @@
+{
+  "reparo": "IMPL-AT-11",
+  "data": "2026-09-10",
+  "arquivo": "Evidencias/Vinculos/vinculos_referencia_afirmacao.json",
+  "motivo": "enum fantasma tier_2_intervencao (perícia 4ª rodada §2); decisão (b): remapear ao tier oficial",
+  "registros_alterados": 3,
+  "detalhe": [
+    {
+      "id_vinculo": "VINC_B1V2_0205",
+      "ref": "REF_XIA_2024",
+      "fc_antes": "tier_2_intervencao",
+      "fc_depois": "tier_2_necessidade_ou_suficiencia",
+      "nat_antes": "tier_2_intervencao",
+      "nat_depois": "causal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0207",
+      "ref": "REF_WITTENBERG_2020",
+      "fc_antes": "tier_2_intervencao",
+      "fc_depois": "tier_2_necessidade_ou_suficiencia",
+      "nat_antes": "tier_2_intervencao",
+      "nat_depois": "causal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0208",
+      "ref": "REF_SU_2018",
+      "fc_antes": "tier_2_intervencao",
+      "fc_depois": "tier_2_necessidade_ou_suficiencia",
+      "nat_antes": "tier_2_intervencao",
+      "nat_depois": "causal"
+    }
+  ],
+  "sha256_antes": "f515ea16b7569edc78ff72197f283e6f32db64b4feadd44bc0862b766ce7b7c8",
+  "sha256_depois": "7a7a08d34205a9aaca37538dc524521bb49bba961dde6f04750cf95ff121c055",
+  "rollback": "git-equivalente: restaurar valores via campo nota_reparo (valor anterior gravado)"
+}

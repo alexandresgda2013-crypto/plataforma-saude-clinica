@@ -1,0 +1,64 @@
+{
+ "data": "2026-09-11",
+ "bib": "B08",
+ "backup": "/home/user/BIBLIOTECAS/B08_Micronutrientes/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json.bak_20260911_230721",
+ "regra": "S1–S4 (cabeçalho do script)",
+ "resolvidos": [
+  {
+   "id": "VINC_B8_001",
+   "ref": "REF_JACKA_2017",
+   "escolhida": "A intervenção mais \"natural\" — comer de\nforma estruturada — é a que tem os dados mais fortes, enquanto o produto mais ve",
+   "score": 12.012,
+   "segunda": 8.061,
+   "n_cand": 11,
+   "empate": false
+  },
+  {
+   "id": "VINC_B8_009",
+   "ref": "REF_RAJIZADEH_2017",
+   "escolhida": "Prova de conceito: RCT duplo-cego placebo de Mg\nem deprimidos **com hipomagnesemia** normalizou soro e reduziu BDI (Raji",
+   "score": 20.088,
+   "segunda": 12.009,
+   "n_cand": 13,
+   "empate": false
+  },
+  {
+   "id": "VINC_B8_014",
+   "ref": "REF_BOTTIGLIERI_2000",
+   "escolhida": "**Folato (5-MTHF) + B12 + B6** reciclam **homocisteína** e geram **SAM (S-adenosilmetionina)**, o\ndoador universal de me",
+   "score": 14.025,
+   "segunda": 12.061,
+   "n_cand": 7,
+   "empate": false
+  },
+  {
+   "id": "VINC_B8_015",
+   "ref": "REF_GAYSINA_2008",
+   "escolhida": "Mas a genética populacional não coopera de forma limpa: a colaboração\nDeCC com meta-análise **não** achou associação ent",
+   "score": 12.055,
+   "segunda": 8.022,
+   "n_cand": 7,
+   "empate": false
+  },
+  {
+   "id": "VINC_B8_016",
+   "ref": "REF_WU_2013",
+   "escolhida": "Mas a genética populacional não coopera de forma limpa: a colaboração\nDeCC com meta-análise **não** achou associação ent",
+   "score": 10.054,
+   "segunda": 8.029,
+   "n_cand": 6,
+   "empate": false
+  },
+  {
+   "id": "VINC_B8_018",
+   "ref": "REF_CARNEGIE_2024",
+   "escolhida": "O Mendelian randomization situa-se entre a\nhipótese e a prova: MR tradicional nulo para TDM, com sinais sugestivos de fe",
+   "score": 20.094,
+   "segunda": 20.069,
+   "n_cand": 6,
+   "empate": false
+  }
+ ],
+ "sem_presenca": [],
+ "residual_contrato": 83
+}

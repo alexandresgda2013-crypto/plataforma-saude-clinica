@@ -1,0 +1,334 @@
+{
+  "trilha": 45,
+  "data": "2026-09-17",
+  "objeto": "achado mestre no UNIFICADOS + parecer comentador + candidata V2.2",
+  "artefatos": {
+    "ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.1  -  17.09.26.md": "1a50645e260984ab7b78b95abc177bdb171203f55f22990c195e5cefa0a94b60",
+    "ACHADO_V21_NO_UNIFICADO_2026-09-17.md": "2841bc66fe11b9e3e8e1db8aa670c0195ef3f2a0b8d1fff8d3165495a85b1b56",
+    "COMENTARIO_COMENTADOR_ACHADO_V21_E_L05v13_2026-09-17.md": "dfbd9ab7cc3ab5f2efd7c560f48272a6f48bbc5b520b37e7e14886feab50c8dd",
+    "L05_1.1_CONTRATO_CADEIA_MOTOR_minuta2_2026-09-15.md": "54ba243d5e380c2882e008bd1dd15778b6b9a013f27cbcc9cee7d74f27c784c1",
+    "B1 NEUROINFLAMAÇÃO V7 CANONICA.md": "6e2c29797e6322f16dcc5248cce552be613dd11f1de957c66aaa913e69225238",
+    "_manifesto_biblioteca.json": "79d1309a168922d0e8bf43736cd5b21c8b361bdf64e3b200eeeafd43806f3a9c",
+    "validar_coerencia_camadas.py": "84fa918d09899d54995ae41d65b0787a7a52888ba6177ce77583483b1124fe8b",
+    "vinculos_referencia_afirmacao.json": "490675e63122a24baebd8890f4a7883a07f68916d90562e74adf309133501d1b"
+  },
+  "upload_V21_registrado_pela_casa": "5be36836610d26832506b73dac45baa09e7041bc9ce22e6557f2be59b258e06a",
+  "checks": [
+    {
+      "check": "A1 achado cita o mesmo sha de upload registrado pela casa",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "A2 sha da V2.1 instalada intacta",
+      "ok": true,
+      "detalhe": "1a50645e260984ab"
+    },
+    {
+      "check": "m1 H1 ainda diz V2/15.09.26 (pendente do achado, item 1)",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "m2 phantom \"# 21.\" removido na instalação",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "m2 duplicata \"# 2.\" AINDA presente (comentador §8.4 aberto)",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "m3 ACHADO PRINCIPAL confirmado: nó recebe os DOIS fluxos antes da Ontologia",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "m3 pastas espelhadas: eixo da Pasta tem EVIDÊNCIAS+NARRATIVAS próprias",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "m4 verbatim do achado item 5 confirmado",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "m6 proveniência AUSENTE da V2.1 (a endurecer na V2.2)",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "m7 D-06 existe fora da V2.1 e bate com a paráfrase do achado",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "m8 §19 desenha Pasta→Motor por seta própria; §20 fecha com a guarda",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "m9 nó UNIFICADOS existe APENAS no §2 (escopo cirúrgico)",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C1 candidata sem UNIFICADOS no DESENHO do §2 (total = só a citação histórica da Rev)",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C2 proveniência presente (desenho + prosa + Rev ≥ 2)",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C3 30 seções numeradas únicas + H1 = 31 cabeçalhos \"# \"",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C4 zero hunks fora das janelas cirúrgicas",
+      "ok": true,
+      "detalhe": "[]"
+    },
+    {
+      "check": "C5 sufixo §3→fim byte-idêntico (catálogo 146 IDs, §§5-30, §19/§20/§21 intactos)",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "S 0 ciência tocada (V7 · manifesto · P-8 · vínculos)",
+      "ok": true,
+      "detalhe": ""
+    }
+  ],
+  "medidas": [
+    {
+      "id": "m1",
+      "comando": "python: L=linhas_crlf(V21); L[0]",
+      "regex_padrao": "linha exata",
+      "camada": "linha 1 (H1), literal",
+      "escopo": "arquivo V2.1 instalada inteiro (CRLF removido p/ leitura; escrita preserva CRLF)",
+      "resultado": "# ARQUITETURA CONSOLIDADA DA PLATAFORMA V2    15.09.26"
+    },
+    {
+      "id": "m1b",
+      "comando": "L[3].startswith('**Rev. V2.1')",
+      "regex_padrao": "literal",
+      "camada": "linha 4 (Rev), literal",
+      "escopo": "arquivo V2.1 instalada inteiro (CRLF removido p/ leitura; escrita preserva CRLF)",
+      "resultado": true
+    },
+    {
+      "id": "m2",
+      "comando": "re.finditer r'^# ' e r'^# (\\d+)\\.'",
+      "regex_padrao": "^#  | ^# (\\d+)\\.",
+      "camada": "linha iniciando com padrão (MI de grep -c)",
+      "escopo": "arquivo V2.1 instalada inteiro (CRLF removido p/ leitura; escrita preserva CRLF)",
+      "resultado": {
+        "total_^#_espaco": 32,
+        "total_^#_numero": 31,
+        "duplicatas_numero": {
+          "2": 2
+        },
+        "secoes_1a30_presentes": true
+      }
+    },
+    {
+      "id": "m3",
+      "comando": "TXT.count casefold 'unificad'",
+      "regex_padrao": "unificad (substring)",
+      "camada": "substring NFC casefold, aquivalente a grep -oi",
+      "escopo": "arquivo V2.1 instalada inteiro (CRLF removido p/ leitura; escrita preserva CRLF)",
+      "resultado": 1
+    },
+    {
+      "id": "m3b",
+      "comando": "recorte L52-L68 + asserts literais por linha",
+      "regex_padrao": "literais de linha",
+      "camada": "linhas exatas do desenho do §2 (camada: linha)",
+      "escopo": "arquivo V2.1 instalada inteiro (CRLF removido p/ leitura; escrita preserva CRLF)",
+      "resultado": {
+        "L53_tem_PASTA": true,
+        "L59_eixo_pasta_espelhado": true,
+        "L65_duas_setas": true,
+        "L67_no": true,
+        "L72_ontologia": true,
+        "fusao_antes_da_ontologia": true
+      }
+    },
+    {
+      "id": "m4",
+      "comando": "TXT.count literais",
+      "regex_padrao": "literais case-sensitive",
+      "camada": "substring NFC case-sensitive",
+      "escopo": "arquivo V2.1 instalada inteiro (CRLF removido p/ leitura; escrita preserva CRLF)",
+      "resultado": {
+        "busca_ativamente_literal": 1,
+        "conexao_consulta_literal": 1
+      }
+    },
+    {
+      "id": "m5",
+      "comando": "python str.count NFC p/ cada padrão (2 camadas)",
+      "regex_padrao": "ANAMNESE, INTERPRETAÇÃO CONTEXTUALIZADA, MECANÍSTICA, CLÍNICA, TERAPÊUTICA, EXPLICAÇÃO NARRATIVA, LAUDO, Sugestão",
+      "camada": "substring NFC; literal=case-sensitive, CI=casefold",
+      "escopo": "arquivo V2.1 instalada inteiro (CRLF removido p/ leitura; escrita preserva CRLF)",
+      "resultado": {
+        "ANAMNESE": {
+          "literal_CS": 4,
+          "casefold_CI": 7
+        },
+        "INTERPRETAÇÃO CONTEXTUALIZADA": {
+          "literal_CS": 2,
+          "casefold_CI": 3
+        },
+        "MECANÍSTICA": {
+          "literal_CS": 2,
+          "casefold_CI": 5
+        },
+        "CLÍNICA": {
+          "literal_CS": 2,
+          "casefold_CI": 9
+        },
+        "TERAPÊUTICA": {
+          "literal_CS": 2,
+          "casefold_CI": 2
+        },
+        "EXPLICAÇÃO NARRATIVA": {
+          "literal_CS": 2,
+          "casefold_CI": 2
+        },
+        "LAUDO": {
+          "literal_CS": 6,
+          "casefold_CI": 12
+        },
+        "Sugestão": {
+          "literal_CS": 3,
+          "casefold_CI": 7
+        }
+      },
+      "extra": "nota de método: grep -oi terapêutica retornou 0 por divergência de forma Unicode; camada oficial da casa = python NFC"
+    },
+    {
+      "id": "m6",
+      "comando": "conta_ci origem_conhecimento / payload",
+      "regex_padrao": "origem_conhecimento|payload",
+      "camada": "substring NFC casefold",
+      "escopo": "arquivo V2.1 instalada inteiro (CRLF removido p/ leitura; escrita preserva CRLF)",
+      "resultado": {
+        "origem_conhecimento_CI": 0,
+        "payload_CI": 0
+      }
+    },
+    {
+      "id": "m7",
+      "comando": "TXT.count 'D-06'/'D-02'",
+      "regex_padrao": "literais",
+      "camada": "substring literal",
+      "escopo": "arquivo V2.1 instalada inteiro (CRLF removido p/ leitura; escrita preserva CRLF)",
+      "resultado": {
+        "D-06_na_V21": 0,
+        "D-02_na_V21": 0
+      },
+      "extra": "cláusulas vivem na minuta 2 do L-05 (contrato), não reproduzidas dentro da V2.1"
+    },
+    {
+      "id": "m7b",
+      "comando": "re.search ^**Regra.** Fronteira arquitetural.*$ na minuta 2",
+      "regex_padrao": "(?m)^\\*\\*Regra\\.\\*\\* Fronteira arquitetural\\..*$",
+      "camada": "linha exata (quote integral)",
+      "escopo": "arquivo V2.1 instalada inteiro (CRLF removido p/ leitura; escrita preserva CRLF)",
+      "resultado": "minuta 2 L-05 (sha no bloco artefatos)",
+      "extra": {
+        "encontrada": true,
+        "palavras_chave": {
+          "segregada e rotulada": true,
+          "não altera nenhum eixo": true,
+          "Toda consulta é registrada": true
+        },
+        "D02_teto": true
+      }
+    },
+    {
+      "id": "m8",
+      "comando": "recortes §19/§20 + literais",
+      "regex_padrao": "PASTA DE|MOTOR|▲|não possuem o mesmo status",
+      "camada": "bloco de seção (linhas)",
+      "escopo": "arquivo V2.1 instalada inteiro (CRLF removido p/ leitura; escrita preserva CRLF)",
+      "resultado": {
+        "s19_tem_PASTA_DE": true,
+        "s19_tem_MOTOR": true,
+        "s19_seta_propria_pasta": true,
+        "s20_fecho": true
+      }
+    },
+    {
+      "id": "m9",
+      "comando": "conta_ci unificad nas linhas ≥159 (após o §2)",
+      "regex_padrao": "unificad",
+      "camada": "substring NFC casefold, escopo: linhas 159-fim",
+      "escopo": "arquivo V2.1 instalada inteiro (CRLF removido p/ leitura; escrita preserva CRLF)",
+      "resultado": {
+        "unificad_fora_do_S2": 0
+      }
+    }
+  ],
+  "D06_minuta2_quote": "**Regra.** Fronteira arquitetural. Conteúdo de Atualização: aparece só em seção segregada e rotulada; não entra no raciocínio mecanístico canônico; não contribui para classificação, estratificação ou pontuação; não altera nenhum eixo de nenhuma relação canônica; não origina sugestão por si só; não substitui evidência canônica. **Toda consulta é registrada** — itens consultados e itens apresentados — para auditoria da influência do conhecimento emergente. *(Adição do comentador externo, adotada com crédito.)*",
+  "veredito_achado": {
+    "item1_artefato_nao_se_identifica_V21": "CONFIRMADO no upload; PARCIALMENTE saneado na instalação (Rev V2.1 linha 4 + nome do arquivo); H1 segue aberto → corrigido na V2.2",
+    "item2_cabecalho_intruso_#21": "CONFIRMADO no upload; SANEADO na instalação (rótulo virou \"# 2. … (MAPA EXECUTIVO)\"); restou duplicata \"# 2.\" (comentador §8.4) → corrigida na V2.2",
+    "item3_no_unificado_derrota_D06": "CONFIRMADO na instalação (m3/m3b: fusão antes da Ontologia; D-06 vive na minuta 2 e exige segregação+rastro) → corrigido na V2.2",
+    "item4_prosa_canonica_e_alinhar_ao_S19": "ACEITO: §19 já desenha a topologia correta (m8); V2.2 alinha o §2 e declara prosa > desenhos",
+    "item5_busca_ativa_ok_com_endurecimento": "CONFIRMADO verbatim (m4); endurecimento (origem no item) ausente (m6) → incorporado na V2.2 (desenho + prosa)"
+  },
+  "veredito_parecer_comentador": {
+    "S1_S2_correcao_arquitetural": "converge com o item 3/4 do achado; verificado (m3, m8)",
+    "S3_proveniencia_payload": "ausente na V2.1 (m6); incorporada na V2.2 com contagem medida",
+    "S4_S5_D06_e_ontologia": "D-06 citada bate na minuta 2 (m7b); Ontologia segue só-canônica na V2.2",
+    "S6_diagrama_proposto": "topologia adotada na V2.2, PRESERVANDO tríade MEC/CLÍN/TER + EXPLICAÇÃO NARRATIVA + ANAMNESE + busca ativa (m5) que o diagrama do parecer omite — omissão editorial, não rejeitada",
+    "S7_sem_reengenharia": "V2.2 cirúrgica: hunks confinados (ver bloco candidata)",
+    "S8_correcoes_documentais": "V2.1+nome ok; \"# 21.\" ok (instalação); duplicata \"# 2.\" → corrigida na V2.2 (m2)",
+    "S9_L05v13_sem_reengenharia": "registrado; mantém RESPOSTA_6 ao auditor-2 estável",
+    "S10_aceito_com_correcao_localizada": "a casa ENDOSSA; aplicação sujeita à decisão do operador (como rodada 24)"
+  },
+  "candidata": {
+    "nome": "ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md",
+    "staging": "/home/user/BIBLIOTECAS/_documentos_serie/CANDIDATA_V22_staging_2026-09-17",
+    "sha256": "df7f7cfdfc01cf77d658885f30dfefe29dcf380229ea56e6b3af02920df22ae1",
+    "pos_checks": {
+      "unificad_CI": 1,
+      "PASTA_DE_ATUALIZACAO_desenho": 4,
+      "origem_conhecimento_CI": 3,
+      "canonico_atualizacao": 3,
+      "cabecalhos_^#_espaco": 31,
+      "cabecalhos_^#_numero_unicos": true,
+      "tríade_preservada": true,
+      "explicacao_narrativa": 2,
+      "anamnese_CS": 3,
+      "busca_ativa": 1,
+      "conexao_consulta": 1,
+      "fecho_S20_intacto": true,
+      "unificad_no_desenho_S2": 0
+    },
+    "diff_opcodes_fora_das_janelas": [],
+    "sufixo_do_S3_ao_fim_byte_identico": true,
+    "linhas": 1412,
+    "hunks_esperados": "H1 · Rev · título do mapa · topo do §2 · bloco Pasta · prosa normativa",
+    "confissao_C1": "1º critério C1 (unificad total == 0) errado: Rev legitimamente cita o nó removido; régua corrigida por camada (desenho §2 = 0 · total = 1 histórico na Rev)",
+    "bytes": 52181
+  },
+  "selos": {
+    "V7": true,
+    "manifesto": true,
+    "P8": true,
+    "vinculos": true
+  },
+  "resultado": "ACHADO DO MESTRE PROCEDENTE (5/5 pontos verificados na instalação vigente) · parecer do comentador convergente (10/10 blocos mapeados) · CANDIDATA V2.2 construída em STAGING e contida (janelas cirúrgicas, sufixo byte-idêntico) · a casa ENDOSSA a correção localizada · APLICAÇÃO aguarda decisão do operador · D-V2-DIAGRAMA-DUPLO mantida para a DIREÇÃO Evidência↔Biblioteca (rec. 4 do achado); nó UNIFICADOS sai da dívida e vira item próprio (D-V2-NO-UNIFICADO)",
+  "checks_ok": 18,
+  "checks_tot": 18,
+  "falhas": []
+}

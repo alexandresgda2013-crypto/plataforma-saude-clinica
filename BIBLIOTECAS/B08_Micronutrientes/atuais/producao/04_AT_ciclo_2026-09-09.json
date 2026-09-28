@@ -1,0 +1,80 @@
+{
+ "ciclo": "[AT] GPM B8 — Deficiências de Micronutrientes",
+ "data": "2026-09-09",
+ "artefato": "CANONICA v2 (145 refs; de 96)",
+ "insumos": [
+  "GPM_B8_Micronutrientes (2).md (oficial, molde v2.0)",
+  "BRIEFING_B8_MICRONUTRIENTES_RODADA0.md",
+  "BRIEFING_CONSOLIDADO_B8_v1.md",
+  "Artigos cientificos do mecanismo B8 (anexo: 106 entradas reais — briefing dizia 98)",
+  "Resumo do insumo para B8 Chatgpt.md (50 claims B8.SM02 + 10 regras B8-Causal + bloco NEG)"
+ ],
+ "auditoria": {
+  "anexo_itens": 106,
+  "dois_lotes_g1": 105,
+  "g1_resolvidos": 96,
+  "sem_doi_resgatados": [
+   "Bourre 2006 (17066209 — busca dirigida; briefing dizia NAO-IDX)"
+  ],
+  "nao_indexados": [
+   "Barakat",
+   "Chambers",
+   "Fedulova",
+   "Jayashree",
+   "Júnior",
+   "Kim",
+   "Lubis",
+   "Medford",
+   "Wróblewska"
+  ],
+  "falsos_positivos": 0,
+  "sobreposicao_com_V1": 6,
+  "masters_gpm": {
+   "total": 41,
+   "ja_vigentes": 0,
+   "novas": 41
+  },
+  "fila_decisao": 91,
+  "entra": 49,
+  "baixo": 30,
+  "exc": 12,
+  "erros_briefing_revertidos": [
+   "\"Mattei 2019 = McWilliams 2022\" (Mattei real = 30953290)",
+   "\"Yoon 2026 = Zielińska 2023\" (Yoon real = 42514375)",
+   "\"Dehesh 2026 = Domański 2025\" (Dehesh real = 42605394)",
+   "\"Cortés-Albornoz 2021 não localizada\" (= 34684531)",
+   "\"Das 2025 não localizada\" (= 41064635)",
+   "\"Bourre 2006 NAO-IDX\" (= 17066209, artigo-âncora Parte 1)",
+   "\"Wang 2018 sem PMID\" (já vigente REF_WANG_2018 = 29747386)"
+  ]
+ },
+ "regras_fixadas": [
+  "B8-CAUSAL-01",
+  "B8-CAUSAL-02",
+  "B8-CAUSAL-03",
+  "B8-CAUSAL-04",
+  "B8-CAUSAL-05",
+  "B8-CAUSAL-06",
+  "B8-CAUSAL-07",
+  "B8-CAUSAL-08",
+  "B8-CAUSAL-09",
+  "B8-CAUSAL-10"
+ ],
+ "blocos_neg": [
+  "vitamina C — associação sem prova intervencional (Plevin 2020)",
+  "vitamina D — eficácia antidepressiva não demonstrada (Moroianu 2026); avaliação direcionada, não universal",
+  "Horsdal 2025 — nulo para TDM"
+ ],
+ "artefatos": [
+  "producao/insumos/RELATORIO_AUDITORIA_MATRIZ_B8.md",
+  "producao/insumos/matriz_b8_decisao.json",
+  "producao/insumos/matriz_b8_g1.json",
+  "producao/insumos/b8_anexo_entries.json",
+  "producao/insumos/b8_cruzamento.json",
+  "producao/insumos/b8_at_efetch.json",
+  "producao/insumos/b8_trechos_ancora.json"
+ ],
+ "pendencias": [
+  "P-6 (2ª verificação cega, Via 2) — PENDENTE ao fim da rodada 16/16, cobrindo todas as levas [AT]"
+ ]
+}

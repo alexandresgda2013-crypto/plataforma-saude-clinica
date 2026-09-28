@@ -1,0 +1,52 @@
+{
+  "reparo": "AT-02 + AT-13 (5ª rodada perícia externa)",
+  "data": "2026-09-11",
+  "arquivos": {
+    "vinculos": {
+      "sha_pre": "7a7a08d34205a9aaca37538dc524521bb49bba961dde6f04750cf95ff121c055",
+      "sha_pos": "4fc26c158c60fb5993590d4b24233c9d296a5c377d3e9e52cfee4b43b51b700e"
+    },
+    "canonica": {
+      "sha_pre": "8b9fe0e6d5f89e986e9ac8a581a91c7c399f7359e92e9f7543054437b8182ce5",
+      "sha_pos": "d415836faa3e86b86cb78bb58abf1b9e6a353b7c8956dc5ff66f9012cd895752",
+      "backup": "antigos/historico/v4_canonica_pre_rodada5_2026-09-11.md"
+    }
+  },
+  "resumo": {
+    "registros_vinculo": 257,
+    "trechos_alterados": 158,
+    "campos_alterados": [
+      "nota_reparo",
+      "reancorado_em",
+      "trecho_ancora"
+    ],
+    "pipeline_perito": {
+      "1a_prefixo": 80,
+      "2a_indices": 6,
+      "3a_ancora_dupla": 38,
+      "4a_multiancora": 0,
+      "5a_citacao_propria": 27
+    },
+    "decisoes_agente": {
+      "AT13": [
+        "VINC_B1_0095",
+        "VINC_B1_0121",
+        "VINC_B1_0122"
+      ],
+      "reancora_0130_virtanen": true,
+      "trims_AT02c_cabecalho": 26,
+      "correcao_canonica": "— IL-6 predictor, 2015) → ; Virtanen et al., 2015)"
+    },
+    "literalidade_final": "257/257 (verificar_literal perito + régua independente do agente)",
+    "bloqueantes_contrato_apos": 27,
+    "bloqueantes_restantes_sao": "AT-01 (27 vínculos v2 com natureza_relacao=tier_* — reparo próprio na fila)"
+  },
+  "fontes": "_documentos_serie/pericia_externa/5a_rodada/ · _documentos_serie/bancada_at02/canonico/log_reparo_consolidado_2026-09-11.json",
+  "metodo": [
+    "execução em bancada isolada, nunca no vivo",
+    "autoteste contrato 8/8 replicado",
+    "hash da canônica conferido com o do perito",
+    "verificação independente (diff por campo; autoria da própria ref nas âncoras da 5ª passada; régua de normalização própria)",
+    "promoção ao vivo só após guardas zeradas"
+  ]
+}

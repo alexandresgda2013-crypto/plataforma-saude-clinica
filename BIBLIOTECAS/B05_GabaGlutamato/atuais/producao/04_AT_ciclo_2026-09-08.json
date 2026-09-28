@@ -1,0 +1,738 @@
+{
+ "at_ciclo": "2026-09-08",
+ "biblioteca": "B5",
+ "at_status": "INCORPORADO_V2",
+ "insumo": {
+  "arquivos": [
+   "uploads/Artigos cientificos do mecanismo B5 Gaba Glutamato.md",
+   "uploads/BRIEFING_CONSOLIDADO_B5_v1.md",
+   "consolidação colada na conversa"
+  ],
+  "itens": 192,
+  "resolvidos": 190
+ },
+ "incorporadas": [
+  {
+   "pmid": "26955968",
+   "id": "REF_WOHLEB_2017",
+   "grupo": "KET",
+   "tag": "OB"
+  },
+  {
+   "pmid": "27062302",
+   "id": "REF_ABDALLAH_2016",
+   "grupo": "KET",
+   "tag": "OB"
+  },
+  {
+   "pmid": "29516301",
+   "id": "REF_ZANOS_2018",
+   "grupo": "KET",
+   "tag": "OB"
+  },
+  {
+   "pmid": "29532791",
+   "id": "REF_ZANOS_B2018",
+   "grupo": "KET",
+   "tag": "OB"
+  },
+  {
+   "pmid": "29899972",
+   "id": "REF_DUMAN_2018",
+   "grupo": "KET",
+   "tag": "OB"
+  },
+  {
+   "pmid": "30946828",
+   "id": "REF_DUMAN_2019",
+   "grupo": "KET",
+   "tag": "OB"
+  },
+  {
+   "pmid": "31830487",
+   "id": "REF_DEYAMA_2020",
+   "grupo": "KET",
+   "tag": "OB"
+  },
+  {
+   "pmid": "32017978",
+   "id": "REF_SIAL_2020",
+   "grupo": "KET",
+   "tag": "OB"
+  },
+  {
+   "pmid": "33963284",
+   "id": "REF_WEI_2022",
+   "grupo": "KET",
+   "tag": "OB"
+  },
+  {
+   "pmid": "34968492",
+   "id": "REF_HESS_2022",
+   "grupo": "KET",
+   "tag": "OB"
+  },
+  {
+   "pmid": "35182519",
+   "id": "REF_SCOTTON_2022",
+   "grupo": "KET",
+   "tag": "OB"
+  },
+  {
+   "pmid": "35546951",
+   "id": "REF_KANG_2022",
+   "grupo": "KET",
+   "tag": "MA"
+  },
+  {
+   "pmid": "37488280",
+   "id": "REF_KRYSTAL_2024",
+   "grupo": "KET",
+   "tag": "OB"
+  },
+  {
+   "pmid": "39116687",
+   "id": "REF_YUN_2024",
+   "grupo": "KET",
+   "tag": "MA"
+  },
+  {
+   "pmid": "40840695",
+   "id": "REF_FREUDENBERG_2025",
+   "grupo": "KET",
+   "tag": "OB"
+  },
+  {
+   "pmid": "41139588",
+   "id": "REF_SERRETTI_2025",
+   "grupo": "KET",
+   "tag": "OB"
+  },
+  {
+   "pmid": "41475562",
+   "id": "REF_LE_2026",
+   "grupo": "KET",
+   "tag": "MA"
+  },
+  {
+   "pmid": "41577431",
+   "id": "REF_LE_B2026",
+   "grupo": "KET",
+   "tag": "OB"
+  },
+  {
+   "pmid": "41607072",
+   "id": "REF_LU_2026",
+   "grupo": "KET",
+   "tag": "MA"
+  },
+  {
+   "pmid": "41923438",
+   "id": "REF_VAN_2026",
+   "grupo": "KET",
+   "tag": "OB"
+  },
+  {
+   "pmid": "42515873",
+   "id": "REF_SLEDZIKOWSKA_2026",
+   "grupo": "KET",
+   "tag": "ML"
+  },
+  {
+   "pmid": "21154909",
+   "id": "REF_RUDY_2011",
+   "grupo": "GABA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "23637187",
+   "id": "REF_BOOKER_2013",
+   "grupo": "GABA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "24071826",
+   "id": "REF_CARVER_2013",
+   "grupo": "GABA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "24550784",
+   "id": "REF_LEE_2014",
+   "grupo": "GABA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "25653499",
+   "id": "REF_PEHRSON_2015",
+   "grupo": "GABA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "27812532",
+   "id": "REF_GHOSAL_2017",
+   "grupo": "GABA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "30523065",
+   "id": "REF_MAGNIN_2019",
+   "grupo": "GABA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "31212931",
+   "id": "REF_RIEDEMANN_2019",
+   "grupo": "GABA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "31707118",
+   "id": "REF_GHOSAL_2020",
+   "grupo": "GABA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "31974304",
+   "id": "REF_BRYSON_2020",
+   "grupo": "GABA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "32073397",
+   "id": "REF_BOOKER_2020",
+   "grupo": "GABA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "32859716",
+   "id": "REF_ANTONOUDIOU_2020",
+   "grupo": "GABA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "33070149",
+   "id": "REF_FOGACA_2021",
+   "grupo": "GABA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "33438026",
+   "id": "REF_FEE_2021",
+   "grupo": "GABA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "33837051",
+   "id": "REF_VERECZKI_2021",
+   "grupo": "GABA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "34322002",
+   "id": "REF_YANG_2021",
+   "grupo": "GABA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "36184627",
+   "id": "REF_WEN_2022",
+   "grupo": "GABA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "36725341",
+   "id": "REF_LU_2023",
+   "grupo": "GABA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "37101797",
+   "id": "REF_DU_2023",
+   "grupo": "GABA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "37709943",
+   "id": "REF_THOMPSON_2024",
+   "grupo": "GABA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "15356193",
+   "id": "REF_MASSEY_2004",
+   "grupo": "NMDA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "18992785",
+   "id": "REF_FEYISSA_2009",
+   "grupo": "NMDA",
+   "tag": "EC"
+  },
+  {
+   "pmid": "20357110",
+   "id": "REF_BRIGMAN_2010",
+   "grupo": "NMDA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "24298164",
+   "id": "REF_SHIPTON_2014",
+   "grupo": "NMDA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "25340958",
+   "id": "REF_MILLER_2014",
+   "grupo": "NMDA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "27262028",
+   "id": "REF_TRECCANI_2016",
+   "grupo": "NMDA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "28439098",
+   "id": "REF_LI_2018",
+   "grupo": "NMDA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "29706992",
+   "id": "REF_BAEZ_2018",
+   "grupo": "NMDA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "30296532",
+   "id": "REF_FRANCIJA_2019",
+   "grupo": "NMDA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "31207274",
+   "id": "REF_AMIDFAR_2019",
+   "grupo": "NMDA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "32640261",
+   "id": "REF_ELHUSSINY_2021",
+   "grupo": "NMDA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "33059355",
+   "id": "REF_POTHULA_2021",
+   "grupo": "NMDA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "33087756",
+   "id": "REF_KANG_2020",
+   "grupo": "NMDA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "33843051",
+   "id": "REF_BIELER_2021",
+   "grupo": "NMDA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "34364898",
+   "id": "REF_CHEN_2021",
+   "grupo": "NMDA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "36596696",
+   "id": "REF_ZANOS_2023",
+   "grupo": "NMDA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "39185814",
+   "id": "REF_WANG_2024",
+   "grupo": "NMDA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "39562042",
+   "id": "REF_STOREY_2025",
+   "grupo": "NMDA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "39770460",
+   "id": "REF_COMAI_2024",
+   "grupo": "NMDA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "28234212",
+   "id": "REF_ALEKSANDROVA_2017",
+   "grupo": "AMPA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "32754026",
+   "id": "REF_ZHANG_2020",
+   "grupo": "AMPA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "37124348",
+   "id": "REF_HE_2023",
+   "grupo": "AMPA",
+   "tag": "OB"
+  },
+  {
+   "pmid": "37358072",
+   "id": "REF_ZAYTSEVA_2023",
+   "grupo": "AMPA",
+   "tag": "ML"
+  },
+  {
+   "pmid": "41781722",
+   "id": "REF_NAKAJIMA_2026",
+   "grupo": "AMPA",
+   "tag": "EC"
+  },
+  {
+   "pmid": "22510460",
+   "id": "REF_LUSCHER_2012",
+   "grupo": "PLAST",
+   "tag": "EC"
+  },
+  {
+   "pmid": "23534055",
+   "id": "REF_KAVALALI_2012",
+   "grupo": "PLAST",
+   "tag": "OB"
+  },
+  {
+   "pmid": "25619552",
+   "id": "REF_VOLIANSKIS_2015",
+   "grupo": "PLAST",
+   "tag": "OB"
+  },
+  {
+   "pmid": "26938443",
+   "id": "REF_SANDERSON_2016",
+   "grupo": "PLAST",
+   "tag": "ML"
+  },
+  {
+   "pmid": "29158584",
+   "id": "REF_CAVALLERI_2018",
+   "grupo": "PLAST",
+   "tag": "ML"
+  },
+  {
+   "pmid": "30359599",
+   "id": "REF_DIERING_2018",
+   "grupo": "PLAST",
+   "tag": "OB"
+  },
+  {
+   "pmid": "32292336",
+   "id": "REF_PURKEY_2020",
+   "grupo": "PLAST",
+   "tag": "ML"
+  },
+  {
+   "pmid": "33723767",
+   "id": "REF_PIVA_2021",
+   "grupo": "PLAST",
+   "tag": "ML"
+  },
+  {
+   "pmid": "34407417",
+   "id": "REF_LIN_2021",
+   "grupo": "PLAST",
+   "tag": "ML"
+  },
+  {
+   "pmid": "34565579",
+   "id": "REF_ALEKSANDROVA_2021",
+   "grupo": "PLAST",
+   "tag": "OB"
+  },
+  {
+   "pmid": "36907686",
+   "id": "REF_KIM_2023",
+   "grupo": "PLAST",
+   "tag": "OB"
+  },
+  {
+   "pmid": "37419688",
+   "id": "REF_GUNTUPALLI_2023",
+   "grupo": "PLAST",
+   "tag": "ML"
+  },
+  {
+   "pmid": "38177353",
+   "id": "REF_BROWN_2024",
+   "grupo": "PLAST",
+   "tag": "OB"
+  },
+  {
+   "pmid": "39684808",
+   "id": "REF_PARDOSSI_2024",
+   "grupo": "PLAST",
+   "tag": "OB"
+  },
+  {
+   "pmid": "22676966",
+   "id": "REF_DUNCAN_2013",
+   "grupo": "MRS",
+   "tag": "EC"
+  },
+  {
+   "pmid": "27449797",
+   "id": "REF_LENER_2017",
+   "grupo": "MRS",
+   "tag": "OB"
+  },
+  {
+   "pmid": "28180078",
+   "id": "REF_HOUTEPEN_2017",
+   "grupo": "MRS",
+   "tag": "EC"
+  },
+  {
+   "pmid": "30144668",
+   "id": "REF_GODFREY_2018",
+   "grupo": "MRS",
+   "tag": "MA"
+  },
+  {
+   "pmid": "32619710",
+   "id": "REF_STEEL_2020",
+   "grupo": "MRS",
+   "tag": "EC"
+  },
+  {
+   "pmid": "33986699",
+   "id": "REF_SARAWAGI_2021",
+   "grupo": "MRS",
+   "tag": "OB"
+  },
+  {
+   "pmid": "34023450",
+   "id": "REF_RIDEAUX_2021",
+   "grupo": "MRS",
+   "tag": "EC"
+  },
+  {
+   "pmid": "34354048",
+   "id": "REF_KANTROWITZ_2021",
+   "grupo": "MRS",
+   "tag": "MA"
+  },
+  {
+   "pmid": "35526748",
+   "id": "REF_RIDEAUX_2022",
+   "grupo": "MRS",
+   "tag": "EC"
+  },
+  {
+   "pmid": "37495889",
+   "id": "REF_HU_2023",
+   "grupo": "MRS",
+   "tag": "MA"
+  },
+  {
+   "pmid": "39150032",
+   "id": "REF_MAMELAK_2024",
+   "grupo": "MRS",
+   "tag": "OB"
+  },
+  {
+   "pmid": "39483976",
+   "id": "REF_HU_2024",
+   "grupo": "MRS",
+   "tag": "ML"
+  },
+  {
+   "pmid": "40199850",
+   "id": "REF_STEINHOLTZ_2025",
+   "grupo": "MRS",
+   "tag": "EC"
+  },
+  {
+   "pmid": "42250487",
+   "id": "REF_YOSHIHARA_2026",
+   "grupo": "MRS",
+   "tag": "EC"
+  },
+  {
+   "pmid": "25653526",
+   "id": "REF_NUSS_2015",
+   "grupo": "ANX",
+   "tag": "OB"
+  },
+  {
+   "pmid": "27821870",
+   "id": "REF_FUCHS_2017",
+   "grupo": "ANX",
+   "tag": "ML"
+  },
+  {
+   "pmid": "32277042",
+   "id": "REF_SALIMANDO_2020",
+   "grupo": "ANX",
+   "tag": "ML"
+  },
+  {
+   "pmid": "32297184",
+   "id": "REF_YU_2020",
+   "grupo": "ANX",
+   "tag": "ML"
+  },
+  {
+   "pmid": "32555286",
+   "id": "REF_XIAO_2021",
+   "grupo": "ANX",
+   "tag": "ML"
+  },
+  {
+   "pmid": "37035504",
+   "id": "REF_SINGH_2023",
+   "grupo": "ANX",
+   "tag": "OB"
+  },
+  {
+   "pmid": "37294327",
+   "id": "REF_ABRAHAM_2023",
+   "grupo": "ANX",
+   "tag": "ML"
+  },
+  {
+   "pmid": "38796850",
+   "id": "REF_VOLITAKI_2024",
+   "grupo": "ANX",
+   "tag": "ML"
+  },
+  {
+   "pmid": "38865810",
+   "id": "REF_ARORA_2024",
+   "grupo": "ANX",
+   "tag": "OB"
+  },
+  {
+   "pmid": "39086371",
+   "id": "REF_MITTEN_2024",
+   "grupo": "ANX",
+   "tag": "ML"
+  },
+  {
+   "pmid": "31377218",
+   "id": "REF_PAGE_2019",
+   "grupo": "STR",
+   "tag": "OB"
+  },
+  {
+   "pmid": "32158215",
+   "id": "REF_XU_2020",
+   "grupo": "STR",
+   "tag": "ML"
+  },
+  {
+   "pmid": "34557569",
+   "id": "REF_PERLMAN_2021",
+   "grupo": "STR",
+   "tag": "OB"
+  },
+  {
+   "pmid": "39362860",
+   "id": "REF_TAO_2024",
+   "grupo": "STR",
+   "tag": "ML"
+  },
+  {
+   "pmid": "40581655",
+   "id": "REF_RYAZANTSEVA_2025",
+   "grupo": "STR",
+   "tag": "ML"
+  },
+  {
+   "pmid": "42362547",
+   "id": "REF_WU_2026",
+   "grupo": "STR",
+   "tag": "ML"
+  },
+  {
+   "pmid": "25237099",
+   "id": "REF_SHABEL_2014",
+   "grupo": "IFACE",
+   "tag": "ML"
+  },
+  {
+   "pmid": "27240530",
+   "id": "REF_HARTMANN_2017",
+   "grupo": "IFACE",
+   "tag": "ML"
+  },
+  {
+   "pmid": "30851296",
+   "id": "REF_PHAM_2019",
+   "grupo": "IFACE",
+   "tag": "OB"
+  },
+  {
+   "pmid": "33554649",
+   "id": "REF_SEARS_2021",
+   "grupo": "IFACE",
+   "tag": "OB"
+  },
+  {
+   "pmid": "35513229",
+   "id": "REF_ZHONG_2022",
+   "grupo": "IFACE",
+   "tag": "ML"
+  },
+  {
+   "pmid": "38586282",
+   "id": "REF_REZAEI_2024",
+   "grupo": "IFACE",
+   "tag": "ML"
+  },
+  {
+   "pmid": "42278495",
+   "id": "REF_ZIELINSKA_2026",
+   "grupo": "IFACE",
+   "tag": "OB"
+  }
+ ],
+ "falso_positivo": [
+  {
+   "rotulo_insumo": "Prosowski 2024 — Ketamine/Esketamine TRD",
+   "doi_apontava_para": "Zhang L 2026 (γ-butyrolactones)",
+   "destino": "NÃO ENTRA — artigo pretendido inexistente no PubMed [G1]"
+  }
+ ],
+ "correcoes_autoria": [
+  {
+   "insumo": "Matthew & Samba 2013",
+   "real": "Carver CM 2013 (PMID 24071826)"
+  },
+  {
+   "insumo": "Pich & Millan 2018",
+   "real": "Cavalleri L 2018 (PMID 29158584)"
+  },
+  {
+   "insumo": "Hollestein 2021",
+   "real": "Hollestein V 2023 (PMID 36681677; EXC autismo)"
+  }
+ ],
+ "excluidas_escopo": 14,
+ "baixo_incremento": 53,
+ "falhas": 2,
+ "ja_vigentes": 6,
+ "p6": "PENDENTE (2a verificacao cega, Via 2)"
+}

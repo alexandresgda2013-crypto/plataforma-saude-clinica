@@ -1,0 +1,73 @@
+{
+  "trilha": 105,
+  "data": "2026-09-25",
+  "objeto": "minuta_v111_paradas",
+  "v11_sha": "ef27f8b3a492cd2f667b8892ec99603e57a5b22f46f5797e52705293d004fc66",
+  "total": 8,
+  "ok": 8,
+  "resultado": [
+    {
+      "id": "T1",
+      "descricao": "v1.10 vigente intacta",
+      "ok": true,
+      "detalhe": {
+        "sha": "4951434417f24a329d41fc31f0ec13a5d6da5e1191edde1e72e6cbe2fee4038e"
+      }
+    },
+    {
+      "id": "T2",
+      "descricao": "v1.11 declara MINUTA e correção E-04",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T3",
+      "descricao": "paradas na sequência: ORDEM ENTREGA→PÁRA→COMANDO por transição",
+      "ok": true,
+      "detalhe": {
+        "marcas": {
+          "ENTREGA análise 1 → ⛔ PÁRA": 142,
+          "ENTREGA análise 2 → ⛔ PÁRA": 215,
+          "ENTREGA análise 3 + PARECER → ⛔ PÁRA": 314,
+          "COM COMANDO DO OPERADOR: comparação": 364,
+          "COM COMANDO DO OPERADOR: FECHAMENTO CONJUNTO": 590
+        },
+        "ordem_ok": true,
+        "count_PARA": 7
+      }
+    },
+    {
+      "id": "T4",
+      "descricao": "comando do operador explícito",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T5",
+      "descricao": "fora do rito para quem avança",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T6",
+      "descricao": "corpo fora do cabeçalho/sequência idêntico",
+      "ok": true,
+      "detalhe": {
+        "len10": 27667,
+        "len11": 27667
+      }
+    },
+    {
+      "id": "T7",
+      "descricao": "portões/G3/4 decisões intactos",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T8",
+      "descricao": "frases mortas v1.9 não voltaram",
+      "ok": true,
+      "detalhe": {}
+    }
+  ]
+}

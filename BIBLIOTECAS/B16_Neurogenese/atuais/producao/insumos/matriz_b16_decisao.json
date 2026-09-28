@@ -1,0 +1,28 @@
+{
+ "biblioteca": "B16",
+ "data": "2026-09-09",
+ "universo": {
+  "numerico_8d": 285,
+  "doi_only_detectados_na_checagem_autor_ano": 2
+ },
+ "decisao": {
+  "ENTRA": 2,
+  "VIGENTE": 283,
+  "OFF_SCOPE_OFICIAL": 1,
+  "FALSO_ID": 4,
+  "DUPLICATA": 1,
+  "EXC_RATIFICADAS_MATRIZ": 6,
+  "NAO_INDEXADOS_G1_NOTA": 2
+ },
+ "entra": {
+  "REF_DOLUDDA_2026": "41795427",
+  "REF_ZHOU_2025": "40681842"
+ },
+ "falsos": {
+  "20001002": "fragmento DOI Palmer 2000",
+  "00207454": "fragmento DOI Fares 2018",
+  "40727497": "N/A PubMed (\"Allen 2025\")",
+  "39024461": "N/A PubMed (\"Zhou 2024\")"
+ },
+ "numeros_computados": true
+}

@@ -1,0 +1,89 @@
+{
+  "trilha": 72,
+  "data": "2026-09-21",
+  "rodada": 58,
+  "escopo": "replica integral da Minuta 2 L-06 do mestre contra schema N2 v1.4 + acervo B1 (274)",
+  "veredito": "VERIFICADA INTEGRALMENTE — todas as afirmacoes mediveis conferem; a minuta se autocorrige nos mesmos 2 pontos que a casa anotou na minuta do comentador (P-1 absorvida via 'carta 10'; campo do degrau 5 ≡ P-2 da casa) e vai alem: matriz executada no acervo (velha=4 FP exatos; nova=0), proxies proibidos com evidencia, escopo/papel fieis ao schema",
+  "confissoes": {
+    "C72-1": "1a corrida da casa agrupou claim_id='' como grupo (77 pares espurios); claim_id vazio=ausente; regua corrigida → VELHA=4, NOVA=0"
+  },
+  "checks": [
+    {
+      "check": "C01 ciencia trio intacto (inicio)",
+      "ok": true,
+      "detalhe": "['6e2c29797e63', '79d1309a1689', '490675e63122']"
+    },
+    {
+      "check": "C02 minuta 2 do mestre arquivada verbatim: sha eb54337c... · 12.837 b · serie == upload",
+      "ok": true,
+      "detalhe": "eb54337c7f17"
+    },
+    {
+      "check": "C03 RETRATAÇÃO §0.1 VERDADEIRA: direcao_suporte enum selado == {sustenta, refuta, inconclusivo, condicional} e descricao 'eixo epistemico, ortogonal ao papel' → era a DIREÇÃO DO SUPORTE, nao extrapolacao; o campo do degrau 5 da minuta 1 (e da minuta do comentador, trilha 71) estava errado; a casa replica e registra a correcao DELE (7a confissao bilateral)",
+      "ok": true,
+      "detalhe": "['sustenta', 'refuta', 'inconclusivo', 'condicional']"
+    },
+    {
+      "check": "C04 degrau 3: schema diz condicao 'Obrigatorio quando direcao_suporte=condicional; PROIBIDO (null) nos demais valores' == nota da escada dele",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C05 degrau 2 NAO-serve-proxy VERDADEIRO: escopo descricao == 'Subdivisao interna da entidade... BLOCO_XX[/sub]' (nao e' contexto clinico) — aviso dele fiel ao schema",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C06 degrau 4 proxy rejeitado com razao: papel enum tem sustenta_mecanismo/biomarcador/intervencao e descricao 'RELACAO TEMATICA — NUNCA o veredito' — adotar como nivel causal atribuiria semantica que o campo recusa (palavras dele) — bate no schema",
+      "ok": true,
+      "detalhe": "['sustenta_mecanismo', 'sustenta_biomarcador', 'sustenta_intervencao', 'contextualiza_cenario', 'fronteira']"
+    },
+    {
+      "check": "C07 EXECUCAO §0.2 REPLICADA: matriz VELHA (proxy claim_id nao-vazio) dispara EXATAMENTE os 4 pares dele (2 claims, ids e naturezas exatos) — confissao C72-1 aplicada",
+      "ok": true,
+      "detalhe": "4 pares"
+    },
+    {
+      "check": "C08 leitura biológica dos 4 FP confere nos bytes: TNFR1 (0035) × TNFR2 (0036) receptores diferentes · 0037 arctigenina reduz TNF · 0052/0053 × 0261 IL-10 mesma direcao — 'o que realmente dizem' dele = o que esta escrito",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C09 matriz NOVA → 0 pares · 4 nao_estabelecida isolados como ele disse (0028 unico no claim BLOCO02.006; 0197/0198/0202 sem claim_id) · marcador unico (0201) sem par → 'sem caso no acervo' para marcador×nao_estabelecida VERDADEIRO (registro para o piloto, como ele pede)",
+      "ok": true,
+      "detalhe": "nova=0 naos=4"
+    },
+    {
+      "check": "C10 estado de executabilidade (tabela §5 dele) medido N/A-por-N/A: ancoras[] 0/274 (gatilho NAO executavel hoje) · verification_status 274/274 (contem verificado/extrapolado) · extrapolacao_por_analogia 274/274 · grau_maturidade 274/274 (degraus 5 e 6 plenos HOJE) · contexto/sentido_relacao/nivel_cadeia = 0x no schema N2 (raiz E ancoras)",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C11 citacao dele EXATA: 'A casa mediu 243/274 migraveis por maquina na trilha 27' ≡ registro da casa de 15/09 (RESPOSTA_7/rev.14: 'trilha 27 … 243/274 vinculos migraveis a maquina') — leitura precisa do nosso acervo documental",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C12 referencias do cabecalho dele batem na casa: V2.3 sha completo 498e7df9 (64h) · N1 prefixo b06660fd · N2 prefixo d96ad15b · V7 prefixo 6e2c2979 + '274 vinculos'",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C13 comparativo codificado: a minuta do comentador (trilha 71) carrega o campo errado no degrau 5 (`ancoras[].direcao_suporte` + marcação de extrapolação) — herdado da frase que o mestre hoje RETRATOU · e a celula compensatoria×{causal,contributiva}=candidato que gerou os 4 FP · e marcador×nao_estabelecida=compativel — os 3 pontos que esta minuta 2 corrige COM EXECUCAO. Resgates da do comentador para a ata: teste 'direcao nao-precedente' (T-14 dela; reformulavel ja que direcao_suporte virou gatilho/degrau1) e a formalizacao do determinismo",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C14 linhagem/rito: 'substitui a minuta 1' — porem a MINUTA 1 da L-06 nunca chegou a casa (0 bytes na serie; o que ha e' Minuta 1 do L-NT) → entra no pacote D-D01-D02-FONTE (mesma divida: a familia D-xx e a minuta 1 vivem no projeto do mestre) · autoria desta = mestre, coerente com assinatura + auto-retratacao",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C15 ciencia trio intacto (fim)",
+      "ok": true,
+      "detalhe": "['6e2c29797e63', '79d1309a1689', '490675e63122']"
+    }
+  ],
+  "verdes": 15,
+  "total": 15
+}

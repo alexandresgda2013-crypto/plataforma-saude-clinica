@@ -1,0 +1,792 @@
+{
+ "10557352": {
+  "abstract": "The neurosteroid 3alpha-hydroxysteroid-5alpha-pregnan-20-one (allopregnanolone) acts as a positive allosteric modulator of gamma-aminobutyric acid at gamma-aminobutyric acid type A receptors and hence is a powerful anxiolytic, anticonvulsant, and anesthetic agent. Allopregnanolone is synthesized from progesterone by reduction to 5alpha-dihydroprogesterone, mediated by 5alpha-reductase, and by reduction to allopregnanolone, mediated by 3alpha-hydroxysteroid dehydrogenase (3alpha-HSD). Previous reports suggested that some selective serotonin reuptake inhibitors (SSRIs) could alter concentrations of allopregnanolone in human cerebral spinal fluid and in rat brain sections. We determined whether SSRIs directly altered the activities of either 5alpha-reductase or 3alpha-HSD, using an in vitro system containing purified recombinant proteins. Although rats appear to express a single 3alpha-HSD isoform, the human brain contains several isoforms of this enzyme, including a new isoform we cloned from human fetal brains. Our results indicate that the SSRIs fluoxetine, sertraline, and paroxetine decrease the K(m) of the conversion of 5alpha-dihydroprogesterone to allopregnanolone by human 3alpha-HSD type III 10- to 30-fold. Only sertraline inhibited the reverse oxidative reaction. SSRIs also affected conversions of androgens to 3alpha- and 3alpha, 17beta-reduced or -oxidized androgens mediated by 3alpha-HSD type II(Brain). Another antidepressant, imipramine, was without any effect on allopregnanolone or androstanediol production. The region-specific expression of 3alpha-HSD type II(Brain) and 3alpha-HSD type III mRNAs suggest that SSRIs will affect neurosteroid production in a region-specific manner. Our results may thus help explain the rapid alleviation of the anxiety and dysphoria associated with late luteal phase dysphoria disorder and major unipolar depression by these SSRIs.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "mesh": [
+   "3-Hydroxysteroid Dehydrogenases",
+   "3-alpha-Hydroxysteroid Dehydrogenase (B-Specific)",
+   "Amino Acid Sequence",
+   "Animals",
+   "Base Sequence",
+   "Brain",
+   "COS Cells",
+   "Cholestenone 5 alpha-Reductase",
+   "DNA, Complementary",
+   "Fluoxetine",
+   "Humans",
+   "Molecular Sequence Data"
+  ]
+ },
+ "11720889": {
+  "abstract": "This review summarizes the current knowledge of the biosynthesis of neurosteroids in the human brain, the enzymes mediating these reactions, their localization and the putative effects of neurosteroids. Molecular biological and biochemical studies have now firmly established the presence of the steroidogenic enzymes cytochrome P450 cholesterol side-chain cleavage (P450SCC), aromatase, 5alpha-reductase, 3alpha-hydroxysteroid dehydrogenase and 17beta-hydroxysteroid dehydrogenase in human brain. The functions attributed to specific neurosteroids include modulation of gamma-aminobutyric acid A (GABAA), N-methyl-d-aspartate (NMDA), nicotinic, muscarinic, serotonin (5-HT3), kainate, glycine and sigma receptors, neuroprotection and induction of neurite outgrowth, dendritic spines and synaptogenesis. The first clinical investigations in humans produced evidence for an involvement of neuroactive steroids in conditions such as fatigue during pregnancy, premenstrual syndrome, post partum depression, catamenial epilepsy, depressive disorders and dementia disorders. Better knowledge of the biochemical pathways of neurosteroidogenesis and their actions on the brain seems to open new perspectives in the understanding of the physiology of the human brain as well as in the pharmacological treatment of its disturbances.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "mesh": [
+   "17-Hydroxysteroid Dehydrogenases",
+   "3-Hydroxysteroid Dehydrogenases",
+   "3-Oxo-5-alpha-Steroid 4-Dehydrogenase",
+   "3-alpha-Hydroxysteroid Dehydrogenase (B-Specific)",
+   "Aromatase",
+   "Brain",
+   "Cholesterol Side-Chain Cleavage Enzyme",
+   "Humans",
+   "Steroids"
+  ]
+ },
+ "14993041": {
+  "abstract": "This paper summarizes the current knowledge concerning the biosynthesis of neurosteroids in the human brain, the enzymes mediating these reactions, their localization, and the putative effects of neurosteroids. The presence of the steroidogenic enzymes cytochrome P450(SCC), aromatase, 5alpha-reductase, 3alpha-hydroxysteroid dehydrogenase, and 17beta-hydroxysteroid dehydrogenase in the human brain has now been firmly established by molecular biological and biochemical studies. Their presence in the cerebral cortex and in the subcortical white matter indicates that various cell types, either neurons or glial cells, are involved in the biosynthesis of neuroactive steroids in the brain. The following functions are attributed to specific neurosteroids: modulation of GABA(A), N-methyl-d-aspartate (NMDA), nicotinic, muscarinic, serotonin (5-HT(3)), kainate, glycine and sigma receptors, neuroprotection and induction of neurite outgrowth, dendritic spines, and synaptogenesis. We still do not know whether and how the steroidogenic enzymes are involved in the pathophysiology of the nervous system. The first clinical investigations in humans produced evidence for an involvement of neuroactive steroids in conditions such as fatigue during pregnancy, premenstrual syndrome, postpartum depression, catamenial epilepsy, and depressive disorders. Further and improved knowledge of the biochemical pathways of neurosteroidogenesis and their actions on the brain may enable new perspectives in the understanding of the physiology of the human brain as well as in the pharmacological treatment of its disturbances.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "mesh": [
+   "3-Oxo-5-alpha-Steroid 4-Dehydrogenase",
+   "3-alpha-Hydroxysteroid Dehydrogenase (B-Specific)",
+   "Animals",
+   "Brain",
+   "Humans",
+   "Mental Disorders",
+   "Nervous System Diseases",
+   "Receptors, GABA-A",
+   "Steroids"
+  ]
+ },
+ "18003893": {
+  "abstract": "Allopregnanolone (ALLO), synthesized by pyramidal neurons, is a potent positive allosteric modulator of the action of GABA at GABA(A) receptors expressing specific neurosteroid binding sites. In the brain, ALLO is synthesized from progesterone by the sequential action of two enzymes: 5alpha-reductase type I (5alpha-RI) and 3alpha-hydroxysteroid dehydrogenase (3alpha-HSD). In the cortex, hippocampus, and amygdala, these enzymes are colocalized in principal glutamatergic output neurons [Ag&#xed;s-Balboa RC, Pinna G, Zhubi A, Maloku E, Veldic M, Costa E, Guidotti A (2006) Proc Natl Acad Sci USA 103:14602-14607], but they are not detectable in GABAergic interneurons. Using RT-PCR and in situ hybridization, this study compares 5alpha-RI and 3alpha-HSD mRNA brain expression levels in group housed and in socially isolated male mice for 4 weeks. In these socially isolated mice, the mRNA expression of 5alpha-RI was dramatically decreased in hippocampal CA3 glutamatergic pyramidal neurons, dentate gyrus granule cells, glutamatergic neurons of the basolateral amygdala, and glutamatergic pyramidal neurons of layer V/VI frontal (prelimbic, infralimbic) cortex (FC). In contrast, 5alpha-RI mRNA expression failed to change in CA1 pyramidal neurons, central amygdala neurons, pyramidal neurons of layer II/III FC, ventromedial thalamic nucleus neurons, and striatal medium spiny and reticular thalamic nucleus neurons. Importantly, 3alpha-HSD mRNA expression was unchanged by protracted social isolation (Si). These data suggest that, in male mice, after 4 weeks of Si, the expression of 5alpha-RI mRNA, which is the rate-limiting-step enzyme of ALLO biosynthesis, is specifically down-regulated in glutamatergic pyramidal neurons that converge on the amygdala from cortical and hippocampal regions. In socially isolated mice, this down-regulation may account for the appearance of behavioral disorders such as anxiety, aggression, and cognitive dysfunction.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "3-Oxo-5-alpha-Steroid 4-Dehydrogenase",
+   "3-alpha-Hydroxysteroid Dehydrogenase (B-Specific)",
+   "Animals",
+   "Behavior, Animal",
+   "Brain",
+   "Down-Regulation",
+   "In Situ Hybridization",
+   "Male",
+   "Mice",
+   "Neurons",
+   "Polymerase Chain Reaction",
+   "RNA, Messenger"
+  ]
+ },
+ "23348009": {
+  "abstract": "The neurosteroid allopregnanolone is a potent allosteric modulator of the gamma-aminobutyric acid type A receptor with anxiolytic properties. Exogenous administration of allopregnanolone reduces anxiety, and allopregnanolone blockade impairs social and affective functioning. However, the neural mechanism whereby allopregnanolone improves mood and reduces anxiety is unknown. In particular, brain imaging has not been used to link neurosteroid effects to emotion regulation neurocircuitry. To investigate the brain basis of allopregnanolone's impact on emotion regulation, participants were administered 400 mg of pregnenolone (n=16) or placebo (n=15) and underwent 3T functional magnetic resonance imaging while performing the shifted-attention emotion appraisal task, which probes emotional processing and regulation. Compared with placebo, allopregnanolone was associated with reduced activity in the amygdala and insula across all conditions. During the appraisal condition, allopregnanolone increased activity in the dorsal medial prefrontal cortex and enhanced connectivity between the amygdala and dorsal medial prefrontal cortex, an effect that was associated with reduced self-reported anxiety. These results demonstrate that in response to emotional stimuli, allopregnanolone reduces activity in regions associated with generation of negative emotion. Furthermore, allopregnanolone may enhance activity in regions linked to regulatory processes. Aberrant activity in these regions has been linked to anxiety psychopathology. These results thus provide initial neuroimaging evidence that allopregnanolone may be a target for pharmacologic intervention in the treatment of anxiety disorders and suggest potential future directions for research into neurosteroid effects on emotion regulation neurocircuitry.",
+  "ptypes": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, U.S. Gov't, Non-P.H.S."
+  ],
+  "mesh": [
+   "Administration, Oral",
+   "Adolescent",
+   "Adult",
+   "Attention",
+   "Brain",
+   "Brain Mapping",
+   "Case-Control Studies",
+   "Emotions",
+   "Humans",
+   "Image Processing, Computer-Assisted",
+   "Magnetic Resonance Imaging",
+   "Male"
+  ]
+ },
+ "24302681": {
+  "abstract": "The neurosteroids allopregnanolone and dehydroepiandrosterone (DHEA) are integral components of the stress response and exert positive modulatory effects on emotion in both human and animal studies. Although these antidepressant and anxiolytic effects have been well established, to date, little research has examined their neural correlates, and no research has been conducted into the effects of neurosteroids on large-scale networks at rest. To investigate the neurosteroid impact on intrinsic connectivity networks, participants were administered 400 mg of pregnenolone (N = 16), 400 mg of DHEA (N = 14), or placebo (N = 15) and underwent 3T fMRI. Resting-state brain connectivity was measured using amygdala as a seed region. When compared with placebo, pregnenolone administration reduced connectivity between amygdala and dorsal medial prefrontal cortex, between amygdala and precuneus, and between amygdala and hippocampus. DHEA reduced connectivity between amygdala and periamygdala and between amygdala and insula. Reductions in amygdala to precuneus connectivity were associated with less self-reported negative affect. These results demonstrate that neurosteroids modulate amygdala functional connectivity during resting state and may be a target for pharmacological intervention. Additionally, allopregnanolone and DHEA may shift the balance between salience network and default network, a finding that could provide insight into the neurocircuitry of anxiety psychopathology.",
+  "ptypes": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, U.S. Gov't, Non-P.H.S."
+  ],
+  "mesh": [
+   "Adolescent",
+   "Adult",
+   "Amygdala",
+   "Case-Control Studies",
+   "Dehydroepiandrosterone",
+   "Double-Blind Method",
+   "Functional Laterality",
+   "Humans",
+   "Image Processing, Computer-Assisted",
+   "Magnetic Resonance Imaging",
+   "Male",
+   "Movement"
+  ]
+ },
+ "24402140": {
+  "abstract": "Neuroactive derivatives of steroid hormones, neurosteroids, can act on GABAA receptors (GABAARs) to potentiate the effects of GABA on these receptors. Neurosteroids become elevated to physiologically relevant levels under conditions characterized by increased steroid hormones. There is considerable evidence for plasticity of GABAARs associated with altered levels of neurosteroids which may counteract the fluctuations in the levels of these allosteric modulators. The objective of this review is to summarize the current literature on GABAAR plasticity under conditions characterized by alterations in neurosteroid levels, such as over the estrous cycle, during puberty, and throughout pregnancy and the postpartum period. The expression of specific GABAAR subunits is altered over the estrous cycle, at puberty, and throughout pregnancy and the postpartum period. Inability to regulate &#x3b4; subunit-containing GABAARs throughout pregnancy and the postpartum period is associated with depression-like behavior restricted to the postpartum period. GABAAR plasticity associated with alterations in neurosteroid levels represents a homeostatic compensatory mechanism to maintain an ideal level of inhibition to offset the potentiating effects of neurosteroids on GABAergic inhibition. Failure to properly regulate GABAARs under conditions of altered neurosteroid levels may increase vulnerability to mood disorders, such as premenstrual syndrome (PMS), premenstrual dysphoric disorder (PMDD), and postpartum depression.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "mesh": [
+   "Animals",
+   "Estrous Cycle",
+   "Female",
+   "Gonadal Steroid Hormones",
+   "Humans",
+   "Mood Disorders",
+   "Neurotransmitter Agents",
+   "Ovary",
+   "Postpartum Period",
+   "Pregnancy",
+   "Puberty",
+   "Receptors, GABA-A"
+  ]
+ },
+ "24781515": {
+  "abstract": "The implications of the neurosteroid 3&#x3b1;-hydroxy-5&#x3b1;-pregnan-20-one [allopregnanolone (Allo)] in neuropsychiatric disorders have been highlighted in several recent clinical investigations. For instance, Allo levels are decreased in the cerebrospinal fluid (CSF) of patients with posttraumatic stress disorder (PTSD) and major unipolar depression. Neurosteroidogenic antidepressants [i.e., selective brain steroidogenic stimulants (SBSSs)], including fluoxetine and analogs, correct this decrease in a manner that correlates with improved depressive symptoms. Allo positively and allosterically modulates GABA action at postsynaptic and extrasynaptic GABAA receptors. It is synthesized in both the human and rodent brain cortices by principal glutamatergic pyramidal neurons from progesterone by the sequential action of 5&#x3b1;-reductase type I (5&#x3b1;-RI), which is the rate-limiting step enzyme in Allo biosynthesis, and 3&#x3b1;-hydroxysteroid dehydrogenase (3&#x3b1;-HSD), which converts 5&#x3b1;-dehydroprogesterone into Allo. We thus hypothesized that decreased CSF levels of Allo in depressed patients could reflect a brain dysfunction of 5&#x3b1;-RI. In a pilot study of samples from six patients per group [six depressed patients and six nonpsychiatric subjects (NPS)], we studied the expression of 5&#x3b1;-RI messenger RNA (mRNA) in prefrontal cortex Brodmann's area 9 (BA9) and cerebellum from depressed patients obtained from the Maryland Brain Collection at the Maryland Psychiatric Research Center (Baltimore, MD) that were age-matched with NPS. The levels of 5&#x3b1;-RI mRNA were decreased from 25&#x2009;&#xb1;&#x2009;5.8 in NPS to 9.1&#x2009;&#xb1;&#x2009;3.1 fmol/pmol neuronal specific enolase (NSE) (t1,10&#x2009;=&#x2009;2.7, P&#x2009;=&#x2009;0.02) in depressed patients. These differences are absent in the cerebellum of the same patients. The levels of neurosteroids were determined in the prefrontal cortex BA9 of depressed patients obtained from the Stanley Foundation Brain Bank Neuropathology Consortium, Bethesda (MD). The BA9 levels of Allo in male depressed patients failed to reach statistical difference from the levels of NPS (1.63&#x2009;&#xb1;&#x2009;1.01 pg/mg, n&#x2009;=&#x2009;8, in NPS and 0.82&#x2009;&#xb1;&#x2009;0.33 pg/mg, n&#x2009;=&#x2009;5, in nontreated depressed patients). However, depressed patients who had received antidepressant ",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "mesh": [
+   "3-Oxo-5-alpha-Steroid 4-Dehydrogenase",
+   "Adult",
+   "Major Depressive Disorder",
+   "Down-Regulation",
+   "Female",
+   "Humans",
+   "Male",
+   "Middle Aged",
+   "Pilot Projects",
+   "Prefrontal Cortex",
+   "Pregnanolone",
+   "Pyramidal Cells"
+  ]
+ },
+ "25436563": {
+  "abstract": "Endogenous neurosteroids such as allopregnanolone, allotetrahydrodeoxycorticosterone, and androstanediol are synthesized either de novo in the brain from cholesterol or are generated from the local metabolism of peripherally derived progesterone or corticosterone. Fluctuations in neurosteroid concentrations are important in the regulation of a number of physiological responses including anxiety and stress, reproductive, and sexual behaviors. These effects are mediated in part by the direct binding of neurosteroids to &#x3b3;-aminobutyric acid type-A receptors (GABAARs), resulting in the potentiation of GABAAR-mediated currents. Extrasynaptic GABAARs containing the &#x3b4; subunit, which contribute to the tonic conductance, are particularly sensitive to low nanomolar concentrations of neurosteroids and are likely their preferential target. Considering the large charge transfer generated by these persistently open channels, even subtle changes in neurosteroid concentrations can have a major impact on neuronal excitability. Consequently, aberrant levels of neurosteroids have been implicated in numerous disorders, including, but not limited to, anxiety, neurodegenerative diseases, alcohol abuse, epilepsy, and depression. Here we review the modulation of GABAAR by neurosteroids and the consequences for health and disease.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Review"
+  ],
+  "mesh": [
+   "Animals",
+   "Disease",
+   "Health",
+   "Humans",
+   "Neurotransmitter Agents",
+   "Receptors, GABA-A",
+   "Signal Transduction",
+   "gamma-Aminobutyric Acid"
+  ]
+ },
+ "27306650": {
+  "abstract": "When steroids, such as pregnenolone, progesterone and oestrogen, are synthesised de novo in neural tissues, they are more specifically referred to as neurosteroids. These neurosteroids bind specific receptors to promote essential brain functions. Pregnenolone supports cognition and protects mouse hippocampal cells against glutamate and amyloid peptide-induced cell death. Progesterone promotes myelination, spinogenesis, synaptogenesis, neuronal survival and dendritic growth. Allopregnanolone increases hippocampal neurogenesis, neuronal survival and cognitive functions. Oestrogens, such as oestradiol, regulate synaptic plasticity, reproductive behaviour, aggressive behaviour and learning. In addition, neurosteroids are neuroprotective in animal models of Alzheimer's disease, Parkinson's disease, brain injury and ageing. Using in&#xa0;situ hybridisation and/or immunohistochemistry, steroidogenic enzymes, including cytochrome P450 side-chain cleavage, 3&#x3b2;-hydroxysteroid dehydrogenase/&#x394;5-&#x394;4 isomerase, cytochrome P450arom, steroid 5&#x3b1;-reductase and 3&#x3b1;-hydroxysteroid dehydrogenase, have been detected in numerous brain regions, including the hippocampus, hypothalamus and cerebral cortex. In the present review, we summarise some of the studies related to the synthesis and function of oestrogens and progestagens in the central nervous system.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "mesh": [
+   "Animals",
+   "Brain",
+   "Estrogens",
+   "Humans",
+   "Neuroprotective Agents",
+   "Progestins",
+   "Receptors, Neurotransmitter"
+  ]
+ },
+ "28825678": {
+  "abstract": "Abstrac t : To observe the effects of refined Xiaoyaosan (XYS) on the depressive-like behaviors in rats with chronic unpredictable mild stress (CUMS), and to explore the relationship between the changes of neurosteroids and mRNA expressions of their synthesis and metabolic enzymes, and the mechanism of XYS in the treatment of depression. Methods : Eighty-four healthy male Sprague-Dawley rats were randomly divided into normal group, model group, XYS group and fluoxetine group. The latter three groups were subjected to 21 days of CUMS to prepare the stress depression model. Rats in the XYS group, and fluoxetine group were given intragastric administration with refined XYS and fluoxetine, respectively. The behavioral changes of the rats were observed after 21 days. The contents of pregnenolone (PREG), progesterone (PROG) and alloprognanolone (ALLO) in the plasma of rats were measured by ELISA. The levels of PREG, PROG and ALLO in the hippocampus and amygdala tissues were measured by LC-MS/MS. The mRNA expressions of 3&#x3b1;-hydroxysteroid dehydrogenase (3&#x3b1;-HSD), 3&#x3b2;-hydroxysteroid dehydrogenase (3&#x3b2;-HSD), cholesterol side-chain cleavage enzyme (P450scc) and 5&#x3b1;-reductase (5a-R) in the hippocampus and amygdala were detected by RT-qPCR methods. Results : There were changes in the model rats. The contents of PREG, PROG and ALLO changed similarly, which reflected in the decrease of PROG and ALLO, and the increase of PREG. The mRNA expression of P450scc was increased, and the mRNA expressions of 3&#x3b1;-HSD, 3&#x3b2;-HSD and 5a-R were decreased. Refined XYS could improve the behaviors of rats and the biological indicators. Conclusion s : There is a neurosteroid dysfunction in the brain region of depression rat model animals, and the mechanism of refined XYS depression treatment may be related to the regulation of the control of mRNA expression of related synthesis and metabolic enzymes in the hippocampus and amygdala, further affecting the contents of neurosteroids.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": [
+   "Amygdala",
+   "Animals",
+   "Antidepressive Agents",
+   "Behavior, Animal",
+   "Biomarkers",
+   "Body Weight",
+   "Brain",
+   "Depression",
+   "Disease Models, Animal",
+   "Drugs, Chinese Herbal",
+   "Energy Metabolism",
+   "Gene Expression"
+  ]
+ },
+ "29199875": {
+  "abstract": "Ovarian hormones, particularly oestrogen and progesterone, undergo major fluctuations across the female lifespan. These hormone transition periods, such as the transition from pregnancy to postpartum, as well as the transition into menopause (perimenopause), are also known to be times of elevated susceptibility to depression. This study reviews how these transition periods likely influence neurochemical changes in the brain that result in disease vulnerability. While there are known associations between oestrogen/progesterone and different monoaminergic systems, the interactions and their potential implications for mood disorders are relatively unknown. Positron Emission Tomography (PET) allows for the in-vivo quantification of such neurochemical changes, and, thus, can provide valuable insight into how both subtle and dramatic shifts in hormones contribute to the elevated rates of depression during pre-menstrual, post-partum, and perimenopausal periods in a woman's life. As one better understands how to address the challenges of PET studies involving highly vulnerable populations, such as women who have recently given birth, one will gain the insight necessary to design and individualize treatment and therapy. Understanding the precise time-line in younger women when dramatic fluctuations in the hormonal milieu may contribute to brain changes may present a powerful opportunity to intervene before a vulnerable state develops into a diseased state in later life.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "mesh": [
+   "Brain",
+   "Depression",
+   "Estrogens",
+   "Humans",
+   "Neurochemistry",
+   "Perimenopause",
+   "Positron-Emission Tomography",
+   "Postpartum Period",
+   "Progesterone",
+   "Sex Factors"
+  ]
+ },
+ "30321584": {
+  "abstract": "17&#x3b2;-Hydroxysteroid dehydrogenases are indispensable for downstream enzyme steps of the neurosteroidogenesis. Neurosteroids are synthesized de novo in neurons and glia from cholesterol transported into mitochondria, or by conversion from proneurosteroids, e. g. dehydroepiandrosterone (DHEA) and pregnenolone, through the same metabolic pathway as revealed in the de novo neurosteroidogenesis. Hormonal steroids generated from endocrine glands are transported into brain from the circulation to exert neuronal activity via genomic pathway, whereas neurosteroids produced in brain cells without genomic targets identified could bind to cell surface targets, e.g., GABA A or NMDA receptors and elicit antidepressant, anxiolytic, anticonvulsant and anesthetic effects by regulating neuroexcitability. In a broad sense, neurosteroids include hormonal steroids in brain, and they are irrespective of origin playing important roles in brain development including neuroprotection, neurogenesis and neural plasticity. They are also a critical element in cognitive and memory functions. Mitochondrial 17&#x3b2;-HSD10, encoded by the HSD17B10 gene mapping to Xp11.2, is found in various brain regions, essential for the maintenance of neurosteroid homeostasis. Mutations identified in this gene resulted in two distinct brain diseases, namely HSD10 deficiency and MRXS10, of which clinical presentations and pathogenetic mechanisms are quite different. Since elevated levels of 17&#x3b2;-HSD10 was found in brains of Alzheimer's disease patients and AD mouse model, it may also act as an adverse factor in the AD pathogenesis due to an imbalance of neurosteroid metabolism.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "mesh": [
+   "17-Hydroxysteroid Dehydrogenases",
+   "Animals",
+   "Central Nervous System",
+   "Homeostasis",
+   "Humans",
+   "Mutation, Missense",
+   "Neurosteroids"
+  ]
+ },
+ "31709278": {
+  "abstract": "Recent FDA approval of an allopregnanolone-based treatment specifically for postpartum depression, brexanolone, now commercially called Zulresso&#xae;, is an exciting development for patients and families impacted by postpartum depression and allows us to start asking questions about why and how this compound is so effective. Allopregnanolone is a neuroactive steroid, or neurosteroid, which can be synthesized from steroid hormone precursors, such as progesterone, or synthesized de novo from cholesterol. Neurosteroids are positive allosteric modulators at GABA A receptors (GABA A Rs), a property which is thought to mediate the therapeutic effects of these compounds. However, the durability of effect of brexanolone in clinical trials questions the mechanism of action mediating the remarkable antidepressant effects, leading us to ask why and how does this drug work. Asking why this drug is effective may provide insight into the underlying neurobiology of postpartum depression. Exploring how this drug works will potentially elucidate a novel antidepressant mechanism of action and may provide useful information for next generation drug development. In this review, we examine the clinical and preclinical evidence supporting a role for allopregnanolone in the underlying neurobiology of postpartum depression as well as foundational evidence supporting the therapeutic effects of allopregnanolone for treatment of postpartum depression.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": []
+ },
+ "32435663": {
+  "abstract": "Postpartum depression (PPD) is a unique subtype of major depressive disorder and a substantial contributor to maternal morbidity and mortality. In addition to affecting the mother, PPD can have short- and long-term consequences for the infant and partner. The precise etiology of PPD is unknown, but proposed mechanisms include altered regulation of stress response pathways, such as the hypothalamic-pituitary-adrenal axis, and dysfunctional gamma-aminobutyric acid (GABA) signaling, and functional linkages exist between these pathways. Current PPD pharmacotherapies are not directly related to these proposed pathophysiologies. In this review, we focus on the potential role of GABAergic signaling and the GABA A receptor positive allosteric modulator allopregnanolone in PPD. Data implicating GABAergic signaling and allopregnanolone in PPD are discussed in the context of the development of brexanolone injection, an intravenous formulation of allopregnanolone recently approved by the United States Food and Drug Administration for the treatment of adult women with PPD.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "mesh": []
+ },
+ "32435665": {
+  "abstract": "Allopregnanolone is synthesized in the central nervous system either de novo from cholesterol or from steroid hormone precursors like progesterone and pregnenolone. Over the past 30 years, direct and rapid, non-genomic actions of allopregnanolone and its derivatives via GABA A receptors have been demonstrated. Changes in brain levels of allopregnanolone during pregnancy and in the postpartum period, or during exposure to protracted stress appear to play a crucial role in the pathophysiology of mood disorders. The discovery that allopregnanolone at low (nanomolar) concentrations elicits marked anxiolytic, anti-stress and antidepressant effects by facilitating allosterically the action of GABA at extrasynaptic GABA A receptors has provided new perspectives for the discovery of novel drugs useful for the treatment of mood disorders. These findings have led to the seminal clinical studies that recently demonstrated that treatment with allopregnanolone (i.e., brexanolone) can dramatically and rapidly improve the symptoms of postpartum depression in many patients.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": []
+ },
+ "33404887": {
+  "abstract": "This paper reviews the recent literature on menstrual cycle phase effects on outcomes relevant to anxiety and PTSD, discusses potential neurobiological mechanisms underlying these effects, and highlights methodological limitations impeding scientific advancement. The menstrual cycle and its underlying hormones impact symptom expression among women with anxiety and PTSD, as well as psychophysiological and biological processes relevant to anxiety and PTSD. The most consistent findings are retrospective self-report of premenstrual exacerbation of anxiety symptoms and the protective effect of estradiol on recall of extinction learning among healthy women. Lack of rigorous methodology for assessing menstrual cycle phase and inconsistent menstrual cycle phase definitions likely contribute to other conflicting results. Further investigations that address these limitations and integrate complex interactions between menstrual cycle phase-related hormones, genetics, and psychological vulnerabilities are needed to inform personalized prevention and intervention efforts for women.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "mesh": [
+   "Anxiety",
+   "Fear",
+   "Female",
+   "Humans",
+   "Menstrual Cycle",
+   "Retrospective Studies",
+   "Stress Disorders, Post-Traumatic"
+  ]
+ },
+ "33585496": {
+  "abstract": "Women worldwide are two to three times more likely to suffer from depression in their lifetime than are men. Female risk for depressive symptoms is particularly high during the reproductive years between menarche and menopause. The term \"Reproductive Mood Disorders\" refers to depressive disorders triggered by hormonal fluctuations during reproductive transitions including the perimenarchal phase, the pre-menstrual phase, pregnancy, the peripartum period and the perimenopausal transition. Here we focus on reproductive mood disorders manifesting in adult life. We propose a research agenda that draws together several reproductive mood disorders and investigates which genetic, endocrinological, neural, and psychosocial factors can explain depressive symptoms during phases of hormonal transitions in women. Based on current research it is assumed that some women experience an increased sensitivity to not only fluctuations in reproductive steroids (estrogen and progesterone), but also stress-related steroids. We integrate both dynamics into the concept of \"steroid hormone sensitivity,\" expanding on the concept of \"reproductive hormone sensitivity.\" We suggest that a differential response of the stress steroid system including corticosteroids, neurosteroids, like allopregnanolone and the GABA-A Receptor complex, as well as a differential (epi)genetic risk in serotonergic and GABAergic signaling, are moderators or mediators between changes in the reproductive steroid system and the physiological, affective, and cognitive outcomes manifesting in reproductive mood disorders. We point to the lack of research on the role of psychosocial factors in increasing a woman's stress level and at some point also the sensitivity of her stress steroid system within the etiology of Reproductive Mood Disorders. Drawing together the evidence on various reproductive mood disorders we seek to present a basis for the development of more effective pharmacological, social, and psychological treatment interventions and prevention strategies for women susceptible to these disorders. This could pave the way for new research as well as medical and psychological teaching and practice- such as a new type of Practice for Gynecological Psychoneuroendocrinology- with the aim of working on and ultimately offering more integrative forms of support not yet available to women suffering from depression ",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "mesh": []
+ },
+ "35716803": {
+  "abstract": "Women are at twice the risk for anxiety and depression disorders as men are, although the underlying biological factors and mechanisms are largely unknown. In this review, we address this sex disparity at both the etiological and mechanistic level. We dissect the role of fluctuating sex hormones as a critical biological factor contributing to the increased depression and anxiety risk in women. We provide parallel evidence in humans and rodents that brain structure and function vary with naturally-cycling ovarian hormones. This female-unique brain plasticity and associated vulnerability are primarily driven by estrogen level changes. For the first time, we provide a sex hormone-driven molecular mechanism, namely chromatin organizational changes, that regulates neuronal gene expression and brain plasticity but may also prime the (epi)genome for psychopathology. Finally, we map out future directions including experimental and clinical studies that will facilitate novel sex- and gender-informed approaches to treat depression and anxiety disorders.",
+  "ptypes": [
+   "Journal Article",
+   "Review",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "mesh": [
+   "Anxiety Disorders",
+   "Brain",
+   "Depression",
+   "Estrogens",
+   "Female",
+   "Gonadal Steroid Hormones",
+   "Humans",
+   "Male"
+  ]
+ },
+ "35809362": {
+  "abstract": "The menopausal transition (perimenopause) is associated with an increased risk of major depression, characterized by anxiety and anhedonia phenotypes. Greater estradiol (E2) variability predicts the development of perimenopausal depression, especially within the context of stressful life events (SLEs). While transdermal E2 (TE2) reduces perimenopausal depressive symptoms, the mechanisms underlying TE2 efficacy and predictors of TE2 treatment response remain unknown. This study aimed at determining relationships between E2 fluctuations, mood symptoms, and physiologic stress-reactivity (cortisol and interleukin-6) and whether differences in mood-sensitivity to E2 fluctuations predict mood responses to TE2 treatment. This randomized, double-blind, placebo-controlled trial investigated medically healthy women (46-60 years) in the early or late menopause transition. Baseline E2-sensitivity strength was calculated from eight weekly individual correlations between week-to-week E2 change and index week anxiety (State-Trait Anxiety Inventory) and anhedonia (Snaith-Hamilton Pleasure Scale). Women then received eight weeks of TE2 or transdermal placebo. Analyses included 73 women (active TE2 n&#xa0;=&#xa0;35). Greater baseline E2 fluctuations predicted greater anhedonia (p&#xa0;=&#xa0;.002), particularly in women with more SLEs. Greater E2 fluctuations also predicted higher cortisol (p&#xa0;=&#xa0;.012) and blunted interleukin-6 (p&#xa0;=&#xa0;.02) stress-responses. Controlling for baseline symptoms, TE2 was associated with lower post-treatment anxiety (p&#xa0;&lt;&#xa0;.001) and anhedonia (p&#xa0;&lt;&#xa0;.001) versus placebo. However, the efficacy of TE2 for anxiety (p&#xa0;=&#xa0;.007) and also for somatic complaints (p&#xa0;=&#xa0;.05) was strongest in women with greater baseline E2 sensitivity strength. TE2 treatment reduced perimenopausal anxiety and anhedonia. The ability of baseline mood-sensitivity to E2 fluctuations to predict greater TE2 efficacy has implications for individualized treatment of perimenopausal anxiety disorders.",
+  "ptypes": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Anhedonia",
+   "Anxiety",
+   "Anxiety Disorders",
+   "Double-Blind Method",
+   "Estradiol",
+   "Female",
+   "Humans",
+   "Hydrocortisone",
+   "Interleukin-6",
+   "Perimenopause"
+  ]
+ },
+ "35908135": {
+  "abstract": "Perimenopause marks the transition from a woman's reproductive stage to menopause. Usually occurring between 42 and 52 years of age, it is determined clinically by the onset of irregular menstrual cycles or variable cycle lengths. Women are at an increased risk of depression and anxiety during perimenopause and the menopausal transition. Depressive symptoms experienced in perimenopause are often more severe compared to pre- and post-menopause. During menopausal transition, the impact of fluctuating estrogen in the central nervous system (CNS) can have negative psychological effects for some women. Traditional first-line management of menopausal depression involves antidepressants, with modest outcomes. The positive effects of estrogen treatment in the CNS are becoming increasingly recognised, and hormonal therapy (HT) with estrogen may have a role in the treatment of menopausal depression. In this review we will outline the prevalence, impact and neurochemical basis of menopausal-associated depression, as well as hormone-based approaches that have increasing promise as effective treatments.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "mesh": [
+   "Antidepressive Agents",
+   "Depression",
+   "Estrogens",
+   "Female",
+   "Humans",
+   "Menopause",
+   "Perimenopause"
+  ]
+ },
+ "36725341": {
+  "abstract": "Allopregnanolone (AlloP) is a neurosteroid that potentiates ionotropic GABAergic (GABA A ) inhibition and is approved for treating postpartum depression in women. Although the antidepressant mechanism of AlloP is largely unknown, it could involve selective action at GABA A receptors containing the &#x3b4; subunit. Despite previous evidence for selective effects of AlloP on &#x3b1;4/&#x3b4;-containing receptors of hippocampal dentate granule cells (DGCs), other recent results failed to demonstrate selectivity at these receptors (Lu et al., 2020). In contrast to DGCs, hippocampal fast-spiking parvalbumin (PV) interneurons express an unusual variant partnership of &#x3b4; subunits with &#x3b1;1 subunits. Here, we hypothesized that native &#x3b1;1/&#x3b4; receptors in hippocampal fast-spiking interneurons may provide a preferred substrate for AlloP. Contrary to the hypothesis, electrophysiology from genetically tagged PV interneurons in hippocampal slices from male mice showed that 100 nm AlloP promoted phasic inhibition by increasing the sIPSC decay, but tonic inhibition was not detectably altered. Co-application of AlloP with 5 &#x3bc;m GABA did augment tonic current, which was not primarily through &#x3b4;-containing receptors. Furthermore, AlloP decreased the membrane resistance and the number of action potentials of DGCs, but the impact on PV interneurons was weaker than on DGCs. Thus, our results indicate that hippocampal PV interneurons possess low sensitivity to AlloP and suggest they are unlikely contributors to mood-altering effects of neurosteroids through GABA effects.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "mesh": [
+   "Mice",
+   "Male",
+   "Female",
+   "Animals",
+   "Pregnanolone",
+   "Parvalbumins",
+   "Interneurons",
+   "Receptors, GABA-A",
+   "Hippocampus",
+   "gamma-Aminobutyric Acid"
+  ]
+ },
+ "36937732": {
+  "abstract": "Premenstrual dysphoric disorder (PMDD) can be conceptualized as a disorder of suboptimal sensitivity to neuroactive steroid hormones. Its core symptoms (emotional instability, irritability, depression, and anxiety) are related to the increase of stress sensitivity due to the fluctuation of hormone level in luteal phase of the menstrual cycle. In this review, we describe the emotional regulatory effect of allopregnanolone (ALLO), and summarize the relationship between ALLO and &#x3b3;-aminobutyric acid A (GABA A ) receptor subunits based on rodent experiments and clinical observations. A rapid decrease in ALLO reduces the sensitivity of GABA A receptor, and reduces the chloride influx, hindered the inhibitory effect of GABAergic neurons on pyramidal neurons, and then increased the excitability of pyramidal neurons, resulting in PMDD-like behavior. Finally, we discuss in depth the treatment of PMDD with targeted GABA A receptors, hoping to find a precise target for drug development and subsequent clinical application. In conclusion, PMDD pathophysiology is rooted in GABA A receptor sensitivity changes caused by rapid changes in ALLO levels. Targeting GABA A receptors may alleviate the occurrence of PMDD.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "mesh": []
+ },
+ "37068417": {
+  "abstract": "Sex differences exist in the prevalence of major depressive disorder (MDD). Comparing with males, females are at a higher risk of depression, especially in some reproductive statuses with significant changes in sex hormones. Based on the positive effect on menopausal symptoms in human and on depression-like behaviors in animals, exogenous estrogen was considered as a potential therapeutic approach to the treatment of female depression, however, with inconsistent conclusions in previous studies. In the present systematic review and meta-analysis, 14 eligible randomized controlled trials (RCTs) were included to investigate the effect of exogenous estrogen on depressive mood in women. The results indicated that exogenous estrogens were superior to the control group either alone or in combination with progesterone or antidepressants. Female individuals in perimenopause are more sensitive to estrogen than those in other reproductive statuses, which might be the reason that depressive mood during this stage is more associated with estrogen fluctuations, and exogenous estrogen supplementation can moderate these drastic changes. The finding of meta-regressions that the effect of exogenous estrogen was associated with age in perimenopause and post-menopause rather than the dose or administration of exogenous estrogen, showed again that a stable level of estrogen is more beneficial than a high serum level. This study provides strong evidence of the important role of estrogen fluctuations but not estrogen levels in female depression.",
+  "ptypes": [
+   "Meta-Analysis",
+   "Systematic Review",
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Male",
+   "Female",
+   "Humans",
+   "Depression",
+   "Randomized Controlled Trials as Topic",
+   "Estrogens",
+   "Affect",
+   "Depressive Disorder"
+  ]
+ },
+ "38899227": {
+  "abstract": "Effective treatments for major depressive disorder (MDD) have long been needed. One hypothesis for the mechanism of depression involves a decrease in neuroactive steroids such as allopregnanolone, an endogenous positive allosteric modulator of the &#x3b3;-aminobutyric acid-gated chloride channel (GABA A ) receptor. In our previous study, we discovered that allopregnanolone, not diazepam, exhibited antidepressant-like effects in the social interaction test (SIT) of social defeat stress (SDS) model mice. However, the dynamics of neuronal activity underlying the antidepressant-like effect remain unknown. In the current study, we conducted local field potentials (LFPs) recordings from the basolateral amygdala (BLA) and the medial prefrontal cortex (mPFC) during the SIT to elucidate the relationship between the antidepressant-like effect and neuronal oscillation. We discovered that allopregnanolone has antidepressant-like effects in the SIT of SDS model mice by decreasing intervals of repetitive social interaction (inter-event intervals), resulting in increase of total social interaction time. We also found that theta and beta oscillation increased in BLA at the onset of social interaction following administration of allopregnanolone, which differed from the effects of diazepam. Theta and beta power in BLA within the social interaction zone exhibited a positive correlation with interaction time. This increase of theta and beta power was negatively correlated with inter-event intervals. Regarding theta-band coordinated activity between the BLA and mPFC, theta power correlation decreased at the onset of social interaction with the administration of allopregnanolone. These findings suggest that theta activity in BLA following social interaction and the reduced theta-band coordinated activity between the BLA and mPFC are implicated in social interaction, which is one of the antidepressant behaviors. These differences in neural activity could elucidate the distinctive mechanism underlying antidepressant-like effects of neuroactive steroids, as opposed to benzodiazepines.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": []
+ },
+ "40261706": {
+  "abstract": "Neurosteroids synthesized within the central nervous system modulate neurotransmission, enhance neuroprotection, regulate immune responses and influence cognitive and behavioral processes. Beyond de novo synthesis of pregnenolone (PREG) from cholesterol, the brain also engages in intermediary synthesis, converting local or circulating precursors into active neurosteroids. However, the specific cell types and brain regions involved remain poorly defined. In this study, we used single-cell transcriptomic data to map the expression of steroidogenic genes and identify cell populations in the murine brain responsible for intermediary neurosteroid biosynthesis. Our findings reveal that the synthesis of bioactive steroids downstream of PREG is not streamlined but selectively compartmentalized. Notably, cells involved in de novo neurosteroid biosynthesis are largely disjointed from intermediary steps, indicating reliance on regional diffusion and/or systemic sources. Capacity for synthesis of androgens and corticosteroids anew are practically absent. While sterol sulfotransferases are expressed, sterol sulfatase required for desulfation is absent, indicating irreversible sulfonation of PREG and dehydroepiandrosterone (DHEA). Other enzymes involved in bioconversions of pregnanes and androstanes, when expressed, showed cell type- and region-specific ramifications. Although certain limitations exist in fully deciphering these results due to certain gaps in enzyme substrate specificity and isoform catalytic preferences, our study reveals valuable insights into the brain's intermediary neurosteroid pathways. The distinct compartmentalization of these processes suggests precise control over steroid regulation, which could have far-reaching functional implications. By mapping the neurosteroidogenic potential in the murine brain and sex-associated variations, this study sets the stage for future investigations into the roles of neurosteroids in brain function and their therapeutic potential in neurological disorders.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": [
+   "Animals",
+   "Neurosteroids",
+   "Brain",
+   "Mice",
+   "Male",
+   "Female",
+   "Pregnenolone",
+   "Mice, Inbred C57BL",
+   "Single-Cell Analysis",
+   "Transcriptome"
+  ]
+ },
+ "36961547": {
+  "abstract": "To determine whether menopause elevates the risk for developing diagnostic depression and anxiety. Menopause-associated vasomotor symptoms such as insomnia and hot flushes are well recognized, but no systematic review of the psychological consequences of menopause has been undertaken. Menopause can be a time of social change for women, confounding any correlation. Using PRISMA methodology, we conducted a systematic review of all published (in English) original data examining a relationship between menopause and depression and anxiety. We ranked the quality of all included studies using Grading of Recommendations, Assessment, Development and Evaluation (GRADE) criteria. Twenty-two selected studies were summarized and compared, being eight cross-sectional surveys; one retrospective cohort, and 13 prospective cohort studies. Depression and anxiety are common during menopause and the post-menopause, with vasomotor symptoms and a prior history of major depression elevating risk of menopausal associated depression. Psychosocial factors also may increase risk of depression during menopause. Menopause increases vulnerability to depression and anxiety, perhaps via estrogen fluctuations affecting serotonin and GABA. Underlying neuroticism and contemporaneous adverse life events are also risk factors for menopausal decompensation with depression.",
+  "ptypes": [
+   "Systematic Review",
+   "Journal Article"
+  ],
+  "mesh": [
+   "Female",
+   "Humans",
+   "Depression",
+   "Prospective Studies",
+   "Retrospective Studies",
+   "Cross-Sectional Studies",
+   "Menopause",
+   "Anxiety"
+  ]
+ },
+ "36433781": {
+  "abstract": "Depressive disorders and anxiety states represent one of the most frequent psychiatric pathologies occurring transiently in vulnerable women throughout their life, from puberty to menopause. It is now known that sex hormones play a key role on the nervous system, interfering with neuronal plasticity and enhancing the processes of learning, memory, cognition, and mood. Numerous mechanisms are at the base of these processes, displaying interactions between estrogen and serotoninergic, dopaminergic, and GABAergic receptors at the central level. Therefore, given the sexual steroids fluctuations throughout the entire female lifespan, and considering the role played by sex hormones at the central level, it is not surprising to observe the onset of mood or neurodegenerative disorders over time. This is especially true for women in hormonal transition phase, such as puberty, postpartum and the menopausal transition. Moreover, all these conditions are characterized by hormone withdrawal, imbalance, or modifications due to menopausal hormone therapies or contraceptives which could prompt to a deterioration of mood and cognition impairment or to an improvement in the quality of life. More studies are needed to better understand the hormone-related effects on the nervous system, and the underlying pathways involved in transitional or chronic mood disorders, to promote new patient-specific therapeutic strategies more effective than the current ones and tailored according to the individual need and women's life period.",
+  "ptypes": [
+   "Review",
+   "Journal Article"
+  ],
+  "mesh": [
+   "Female",
+   "Humans",
+   "Mood Disorders",
+   "Quality of Life",
+   "Menopause",
+   "Estrogens",
+   "Gonadal Steroid Hormones"
+  ]
+ },
+ "24044974": {
+  "abstract": "Allopregnanolone (3&#x3b1;-hydroxy-5&#x3b1;-pregnan-20-one) is a major cholesterol-derived neurosteroid in the central nervous system and is synthesized from progesterone by steroidogenic enzymes, 5&#x3b1;-reductase (the rate-limiting enzyme) and 3&#x3b1;-hydroxysteroid dehydrogenase. The pathophysiological role of allopregnanolone in neuropsychiatric disorders has been highlighted in several investigations. The changes in neuroactive steroid levels are detected in stress and stress-related disorders including anxiety, panic and depression. The changes in allopregnanolone in response to acute stressor tend to restore the homeostasis by dampening the hyper-activated HPA axis. However, long standing stressors leading to development of neuropsychiatric disorders including depression and anxiety are associated with decrease in the allopregnanolone levels. GABAA receptor complex has been considered as the primary target of allopregnanolone and majority of its inhibitory actions are mediated through GABA potentiation or direct activation of GABA currents. The role of progesterone receptors in producing the late actions of allopregnanolone particularly in lordosis facilitation has also been described. Moreover, recent studies have also described the involvement of other multiple targets including brain-derived neurotrophic factor (BDNF), glutamate, dopamine, opioids, oxytocin, and calcium channels. The present review discusses the various aspects of allopregnanolone in stress and stress-related disorders including anxiety, depression and panic.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "mesh": [
+   "Anxiety",
+   "Brain-Derived Neurotrophic Factor",
+   "Calcium Channels",
+   "Depression",
+   "Dopamine",
+   "Glutamic Acid",
+   "Humans",
+   "Oxytocin",
+   "Pregnanolone",
+   "Receptors, GABA-A",
+   "Stress, Psychological"
+  ]
+ },
+ "34644812": {
+  "abstract": "Studies in the 1980s revealed endogenous metabolites of progesterone and deoxycorticosterone to be potent, efficacious, positive allosteric modulators (PAMs) of the GABA A receptor (GABA A R). The discovery that such steroids are locally synthesised in the central nervous system (CNS) promoted the thesis that neural inhibition in the CNS may be \"fine-tuned\" by these neurosteroids to influence behaviour. In preclinical studies, these neurosteroids exhibited anxiolytic, anticonvulsant, analgesic and sedative properties and, at relatively high doses, induced a state of general anaesthesia, a profile consistent with their interaction with GABA A Rs. However, realising the therapeutic potential of either endogenous neurosteroids or synthetic \"neuroactive\" steroids has proven challenging. Recent approval by the Food and Drug Administration of the use of allopregnanolone (brexanolone) to treat postpartum depression has rekindled enthusiasm for exploring their potential as new medicines. Although neurosteroids are selective for GABA A Rs, they exhibit little or no selectivity across the many GABA A R subtypes. Nevertheless, a relatively minor population of receptors incorporating the &#x3b4;-subunit (&#x3b4;-GABA A Rs) appears to be an important contributor to their behavioural effects. Here, we consider how neurosteroids acting upon GABA A Rs influence neuronal signalling, as well as how such effects may acutely and persistently influence behaviour, and explore the case for developing selective PAMs of &#x3b4;-GABA A R subtypes for the treatment of psychiatric disorders.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "mesh": [
+   "Central Nervous System",
+   "Female",
+   "Humans",
+   "Neurosteroids",
+   "Receptors, GABA-A",
+   "Synaptic Transmission",
+   "gamma-Aminobutyric Acid"
+  ]
+ },
+ "31879693": {
+  "abstract": "For several years, research from around the world has suggested that the neuroactive steroid (3&#x3b1;,5&#x3b1;)-3-hydroxypregnan-20-one (allopregnanolone) may have therapeutic potential for treatment of various stress-related diseases including post-traumatic stress disorder (PTSD), depression, alcohol use disorders (AUDs), as well as neurological and psychiatric conditions that are worsened in the presence of stress, such as multiple sclerosis, schizophrenia, and seizure disorders. In this review, we make the argument that the pleiotropic actions of allopregnanolone account for its ability to promote recovery in such a wide variety of illnesses. Likewise, the allopregnanolone precursors, pregnenolone and progesterone, share many actions of allopregnanolone. Of course, pregnenolone and progesterone lack direct effects on GABA A receptors, but these compounds are converted to allopregnanolone in vivo . This review presents a theoretical framework for understanding how endogenous neurosteroids that regulate 1) &#x3b3;-aminobutyric acid (GABA) A receptors, 2) corticotropin releasing factor (CRF) and 3) pro-inflammatory signaling in the innate immune system and brain could play a key role in both the prevention and treatment of stress-related disease. We further discuss cautions and limitations of allopregnanolone or precursor therapy as well as the need for more clinical studies.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": []
+ },
+ "39444825": {
+  "abstract": "During the peripartum, women undergo significant hormonal changes that are crucial for fetal development and a healthy pregnancy and postpartum period for mother and infant. Although several studies have determined healthy norm ranges of estradiol and progesterone, there are discrepancies among the reports, rendering it unclear which hormone levels are linked to adverse health outcomes. To account for the impact of sex steroid patterns on health outcomes in mothers and children, a longitudinal assessment of different parameters is needed. We longitudinally assessed a cohort of 130 women over five months during pregnancy and postpartum. The women provided saliva samples and completed psychosocial questionnaires. Hormone analyses were conducted using enzyme-linked immunosorbent assay (ELISA). Different parameters of estradiol and progesterone were analyzed and evaluated in relation to psychometric variables. To examine the presence of heterogenous hormonal trajectories in the peripartum, we applied group-based trajectory modelling as a special case of latent-class group analysis. Estradiol and progesterone levels rose towards the end of pregnancy and dropped sharply after birth, with considerable individual variation, particularly during pregnancy. However, their ratio remained stable. We identified three estradiol trajectory subgroups and two progesterone subgroups. Age influenced progesterone levels, with older pregnant women having higher levels than younger women. Anxiety and depressive symptoms had a predictive value for trajectories of specific subgroups of women. The study also revealed two distinct subgroups regarding the course of estradiol and progesterone fluctuations as well as their ratio. This study provides insights into the course and fluctuation of salivary estradiol and progesterone levels among healthy women during the peripartum period, highlighting significant variations in hormone levels but stability in their ratio during this time. The finding of distinct sex steroid courses in the peripartum is new and suggests the need for further research to explore their impact on health outcomes. Our preliminary results suggest that hormonal fluctuations at the end of pregnancy appear to be a normal occurrence and might even be a protective factor for associated psychological symptoms and sleep disturbances in women.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": []
+ },
+ "37423029": {
+  "abstract": "Anxiety disorders are the most common psychiatric disorder during the perinatal period and one of the major risk factors for postpartum depression, yet we know little about biological factors in the etiology of perinatal anxiety. A growing literature points to neuroactive steroid (NAS) dysregulation in perinatal mental illness, but directionality has not been clearly demonstrated, results are not consistent, and no studies have investigated NAS in a population with pure anxiety without comorbid depression. We aimed to add to the limited literature by examining the association between anxiety without comorbid depression and metabolic pathways of NAS longitudinally across the peripartum. We measured anxiety symptoms by psychological scales and NAS levels using Gas Chromatography-Mass Spectrometry (GC-MS) at the second and third trimester (T2 and T3) and week 6 postpartum (W6) in n&#xa0;=&#xa0;36 women with anxiety and n&#xa0;=&#xa0;38 healthy controls. The anxiety group was determined by a data-driven approach, and cross-sectional and longitudinal statistical methods were used to examine the relationship between the study population and NAS. We found that anxiety had a significant moderating effect on the relationship between progesterone and allopregnanolone, with no such effect for the relationships between progesterone and the intermediate (5&#x3b1;-DHP) or isomeric (isoallopregnanolone) compounds in this pathway, and no effects on the corresponding pathway converting progesterone to pregnanolone and epipregnanolone. We also found a less precipitous decline in the ratio of allopregnanolone to progesterone between T3 and W6 in the anxiety group compared to the non-anxiety group. A genotype analysis of a single-nucleotide polymorphism in the AKR1C2 gene demonstrated that the relationship of allopregnanolone to the intermediate metabolite, 5&#x3b1;-DHP, differed by genotype. Our exploratory findings indicate that, for pregnant people with anxiety, metabolism is shunted more aggressively toward the endpoint of the progesterone to allopregnanolone metabolic pathway than it is for those without anxiety.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "mesh": [
+   "Pregnancy",
+   "Humans",
+   "Female",
+   "Progesterone",
+   "5-alpha-Dihydroprogesterone",
+   "Pregnanolone",
+   "Cross-Sectional Studies",
+   "Anxiety Disorders",
+   "Neurosteroids"
+  ]
+ },
+ "40538358": {
+  "abstract": "While biomarkers are widely used in other medical fields, psychiatry has yet to introduce reliable biological diagnostic tools. Female reproductive transitions provide a unique window of opportunity for investigating psychiatric biomarkers. Hormonal changes across menstruation, pregnancy, parturition and perimenopause can have dramatic effects on mental health in vulnerable individuals, enabling the identification of unique biomarkers associated with these fluctuations. This review integrates current evidence concerning potential biomarkers, with focus on recent human studies in perinatal depression, anxiety and obsessive-compulsive disorder, postpartum psychosis, premenstrual dysphoric disorder and perimenopausal depression. We identified potential articles to be included in this narrative review by using PubMed to obtain articles in English since 2010 on the six conditions listed above, with the additional keywords of 'biomarker', 'epigenetics', 'neuroactive steroid', 'immune', 'inflammatory' and 'neuroimaging'. There is substantial published evidence regarding potential biomarkers of reproductive psychiatric disorders in the areas of epigenetics, neuroactive steroids, immune function and neuroimaging. This body of research holds significant potential to advance biomarker development, uncover disease mechanisms and improve diagnostic and therapeutic strategies, but there is as yet no clinically useful biomarker in commercial development for any reproductive psychiatric disorder. There is an urgent need for longitudinal, large-scale and multi-modal studies to examine potential biomarkers and better understand their functions across various stages of reproduction.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "mesh": [
+   "Humans",
+   "Biomarkers",
+   "Female",
+   "Pregnancy",
+   "Mental Disorders"
+  ]
+ },
+ "16373246": {
+  "abstract": "Allopregnanolone (ALLO) and pregnanolone (PREG), the 3alpha-reduced metabolites of progesterone (PROG), are potent modulators of gamma-aminobutyric acid type A receptors that may function as endogenous anxiolytics. They are purported to be involved in the etiology or expression of clinical depression. In the present study we quantified ALLO and PREG, as well as PROG, 5alpha-dihydroprogesterone (5alpha-DHP), 5beta-dihydroprogesterone (5beta-DHP), epiallopregnanolone and pregnenolone (PREGNEN), in plasma from healthy women at five time points during pregnancy and the postpartum period. Analysis was by gas chromatography/electron capture - negative chemical ionization - mass spectrometry. Neuroactive steroids increased significantly from 10 to 36 weeks of pregnancy, except for 5beta-DHP and PREGNEN which did not change significantly. PROG was the most abundant steroid throughout pregnancy, followed by 5alpha-DHP and ALLO. Metabolite to precursor ratios differed depending on the enzyme and substrate: the turnover of PROG to 5alpha-DHP (catalyzed by 5alpha-reductase) was stable while the conversion of PROG to 5beta-DHP (catalyzed by 5beta-reductase) decreased later in pregnancy. 3alpha-Hydroxysteroid oxidoreductase-mediated turnover of 5alpha- and 5beta-DHP to their metabolites ALLO and PREG, respectively, rose during pregnancy, but the turnover of 5alpha-DHP to ALLO dropped at the late prenatal visit. At 6 weeks postpartum all steroids were significantly reduced compared with late prenatal values, with 5alpha-DHP being the most abundant postpartum steroid. These results provide the basis for further study of neuroactive steroids in psychiatric conditions of pregnancy and the postpartum period.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "5-alpha-Dihydroprogesterone",
+   "Adult",
+   "Delivery, Obstetric",
+   "Depression, Postpartum",
+   "Female",
+   "Gas Chromatography-Mass Spectrometry",
+   "Gestational Age",
+   "Humans",
+   "Labor Onset",
+   "Parity",
+   "Postpartum Period",
+   "Pregnancy"
+  ]
+ },
+ "39640510": {
+  "abstract": "Allopregnanolone (ALLO), a neuroactive steroid hormone derived from progesterone, can modulate mood via the GABA-A receptor. Peripartum mood can be influenced by psychosocial factors, previous mental illness, and hormonal changes. Studies suggest a U-shaped effect of ALLO on mood, with some women being more sensitive to hormonal changes than others. However, research in the peripartum is inconclusive. This study explored the link between salivary ALLO and mood during the peripartum. Over 12&#x2009;weeks, N&#x2009;=&#x2009;61 women completed the Edinburgh Postnatal Depression Scale and the State Anxiety subscale from the State-Trait Anxiety Inventory and provided saliva samples. Salivary ALLO was analyzed using an enzyme-linked immunosorbent assay, validated for saliva samples. Group-based trajectory modeling was performed to identify trajectories of ALLO courses. Multinomial logistic regression models were employed to identify risk factors associated with these trajectories. ALLO levels increased during pregnancy and dropped 2&#x2009;weeks before delivery. Three different trajectory groups of ALLO courses emerged (high decreasing, low moderate, low reduced). Trajectory groups were associated with distinct psychological risk factors, including previous mental illness, adverse childhood experiences, sleep problems, premenstrual symptoms, and resilience. The peripartum ALLO course showed a negative linear association with anxiety symptoms and a U-shaped association with depressive symptoms. The consideration of individual ALLO courses can predict the risk for peripartum mood symptoms, particularly among women with preexisting risk factors. While the majority of women remain healthy during the peripartum transition, analyzing ALLO subgroups helps to provide a better understanding of the relationship between ALLO and peripartum mood.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": []
+ },
+ "42292154": {
+  "abstract": "Depression is a serious mental disorder that affects individuals across diverse demographic and socioeconomic groups. Its pathophysiology is multifactorial and incompletely understood, and currently available pharmacological treatments remain limited in efficacy and scope. This article examines the involvement of the gamma-aminobutyric acid (GABA)ergic system in the pathogenesis of depression and reviews the pharmacological effects, therapeutic efficacy, and recent research developments related to various GABA A receptor modulators in the treatment of depressive disorders, including benzodiazepines, intravenous anesthetics, and neurosteroids. These agents may exert antidepressant and anxiolytic effects through modulation and restoration of GABAergic neurotransmission. In addition, certain agents, such as etomidate and allopregnanolone, have been reported to enhance synaptic plasticity and attenuate neuroinflammatory processes, thereby contributing to the reduction of depressive symptoms through multiple neurobiological mechanisms.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "mesh": [
+   "Humans",
+   "Receptors, GABA-A",
+   "Antidepressive Agents",
+   "Animals",
+   "Depressive Disorder",
+   "Neurosteroids",
+   "Benzodiazepines"
+  ]
+ },
+ "24776841": {
+  "abstract": "Allopregnanolone (3&#x3b1;-hydroxy-5&#x3b1;-pregnan-20-one) is a neurosteroid which has an inhibitory function through interaction with the GABAA receptor. This progesterone metabolite has strong sedative and anxiolytic properties, and low endogenous levels have been associated with depressed mood. This study aimed to investigate whether the very high serum allopregnanolone levels in late pregnancy covary with concurrent self-rated symptoms of depression and anxiety. Ninety-six women in pregnancy weeks 37-40 rated symptoms of depression and anxiety with the Montgomery-&#xc5;sberg Depression Rating Scale (MADRS-S) and Spielberger State-Trait Anxiety Inventory. Their serum allopregnanolone was analyzed by Celite chromatography and radioimmunoassay. Ten women had elevated depression scores (MADRS-S &#x2265; 13), and this group had significantly lower allopregnanolone levels compared to women with MADRS-S scores in the normal range (39.0 &#xb1; 17.9 vs. 54.6 &#xb1; 18.7 nmol/l, p = 0.014). A significant negative correlation was found between self-rated depression scores and allopregnanolone concentrations (Pearson's correlation coefficient = -0.220, p = 0.031). The linear association between self-rated depression scores and allopregnanolone serum concentrations remained significant when adjusted for gestational length, progesterone levels, and parity. Self-rated anxiety, however, was not associated with allopregnanolone serum concentrations during pregnancy. High allopregnanolone serum concentrations may protect against depressed mood during pregnancy.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Adult",
+   "Anxiety",
+   "Depression",
+   "Depression, Postpartum",
+   "Female",
+   "Humans",
+   "Pregnancy",
+   "Pregnancy Complications",
+   "Pregnancy Trimester, Third",
+   "Pregnanolone",
+   "Self Report",
+   "Young Adult"
+  ]
+ },
+ "31031589": {
+  "abstract": "Stress during sensitive developmental periods can adversely affect physical and psychological development and contribute to later-life mental disorders. In particular, adverse experiences during childhood dramatically increase the risk for the development of depression and anxiety disorders. Although women of reproductive age are twice as likely to develop anxiety and depression than men of the corresponding age, little is known about sex-specific factors that promote or protect against the development of psychopathology. To examine potential developmental mechanisms driving sex disparity in risk for anxiety and depression, we established a two-hit developmental stress model including maternal separation in early life followed by social isolation in adolescence. Our study shows complex interactions between early-life and adolescent stress, between stress and sex, and between stress and female estrogen status in shaping behavioral phenotypes of adult animals. In general, increased locomotor activity and body weight reduction were the only two phenotypes where two stressors showed synergistic activity. In terms of anxiety- and depression-related phenotypes, single exposure to early-life stress had the most significant impact and was female-specific. We show that early-life stress disrupts the protective role of estrogen in females, and promotes female vulnerability to anxiety- and depression-related phenotypes associated with the low-estrogenic state. We found plausible transcriptional and epigenetic alterations in psychiatric risk genes, Nr3c1 and Cacna1c , that likely contributed to the stress-induced behavioral effects. In addition, two general transcriptional regulators, Egr1 and Dnmt1, were found to be dysregulated in maternally-separated females and in animals exposed to both stressors, respectively, providing insights into possible transcriptional mechanisms that underlie behavioral phenotypes. Our findings provide a novel insight into developmental risk factors and biological mechanisms driving sex differences in depression and anxiety disorders, facilitating the search for more effective, sex-specific treatments for these disorders.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": []
+ },
+ "27856395": {
+  "abstract": "Increased prevalence, severity, and burden of anxiety, trauma-related and stress-related disorders in women compared with men has been well documented. Evidence from a variety of fields has emerged suggesting that sex hormones, particularly oestradiol and progesterone, play a significant part in generation of these sex differences. In this Series paper, we aim to integrate the literature reporting on the effects of sex hormones on biological, behavioural, and cognitive pathways, to propose two broad mechanisms by which oestradiol and progesterone influence sex differences in anxiety disorders: augmentation of vulnerability factors associated with anxiety disorder development; and facilitation of the maintenance of anxious symptoms post-development. The implications for future research, along with novel approaches to psychological and pharmacological treatment of anxiety disorders, are also considered.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "mesh": [
+   "Anxiety Disorders",
+   "Female",
+   "Gonadal Steroid Hormones",
+   "Humans",
+   "Psychophysiologic Disorders",
+   "Sex Characteristics",
+   "Stress Disorders, Post-Traumatic"
+  ]
+ },
+ "41598293": {
+  "abstract": "Women exhibit a higher prevalence of depression, anxiety, stress-related disorders, and autoimmune conditions compared to men, yet the biological mechanisms underlying this sex difference remain incompletely understood. Growing evidence identifies neuroinflammation as a central mediator of psychiatric vulnerability in women, shaped by interactions between sex hormones, immune activation, and neural circuit regulation. Throughout the female lifespan, fluctuations in estrogen and progesterone, such as those occurring during puberty, the menstrual cycle, pregnancy, postpartum, and perimenopause, modulate microglial activity, cytokine release, and neuroimmune signaling. These hormonal transitions create windows of heightened sensitivity in key brain regions involved in affect regulation, including the amygdala, hippocampus, and prefrontal cortex. Parallel variations in systemic inflammation, mitochondrial function, and hypothalamic-pituitary-adrenal (HPA) axis responsivity amplify stress reactivity and autonomic imbalance, contributing to increased risk for mood and anxiety disorders in women. Emerging data also highlight sex-specific interactions between the immune system and monoaminergic neurotransmission, gut-brain pathways, endothelial function, and neuroplasticity. This review synthesizes current neuroscientific evidence on the sex-dependent neuroinflammatory mechanisms that bridge hormonal dynamics, brain function, and psychiatric outcomes in women. We identify critical periods of vulnerability, summarize converging molecular pathways, and discuss novel therapeutic targets including anti-inflammatory strategies, estrogen-modulating treatments, lifestyle interventions, and biomarkers for personalized psychiatry. Understanding neuroinflammation as a sex-specific process offers a transformative perspective for improving diagnosis, prevention, and treatment of psychiatric disorders in women.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "mesh": []
+ },
+ "29290217": {
+  "abstract": "To examine the association between menopausal status and the risk of symptoms of depression and anxiety in a community-based sample of Australian midlife women. Female participants (mean age 50.6&#xb1;1.5) who were premenopausal (n=237), perimenopausal (n=249) or naturally postmenopausal (n=225) were drawn from the Personality and Total Health (PATH) Through Life Project, a longitudinal study. Symptoms of depression and anxiety were measured using the Goldberg Depression Scale and Goldberg Anxiety Scale. Generalised linear regression models with a negative binomial log link were used. Relative to premenopause and after adjusting for all relevant covariates, being perimenopausal was associated with increased risk of greater symptoms of depression (incidence rate ratio [IRR]=1.29, p=0.001), while being postmenopausal was associated with increased risk of greater symptoms of anxiety (IRR=1.15, p=0.041). Being perimenopausal or postmenopausal was associated with an increased risk of greater symptoms of depression (IRR=1.35, p=0.008; IRR=1.31, p=0.029) and anxiety (IRR=1.22, p=0.030; IRR=1.32, p=0.006) in women without a history of probable major depressive disorder or generalised anxiety disorder. Risk of symptoms did not differ with menopausal status in women with this history. Menopausal status is associated with the risk of symptoms of depression and anxiety. There is a greater likelihood of increased symptoms of depression during perimenopause and symptoms of anxiety during postmenopause. In women without a history of depression or anxiety, the perimenopause and postmenopausal stages are associated with increased risk of greater symptoms of anxiety and depression relative to premenopause.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": [
+   "Adult",
+   "Anxiety",
+   "Australia",
+   "Depression",
+   "Female",
+   "Humans",
+   "Longitudinal Studies",
+   "Menopause",
+   "Middle Aged",
+   "Psychiatric Status Rating Scales",
+   "Risk"
+  ]
+ },
+ "38029039": {
+  "abstract": "Menopausal transition involves failure of ovarian function followed by cessation of menstruation. This has been said to lead to psychiatric comorbidities such as depression and anxiety. Estrogen also has beneficial effects on cognition and thus fluctuation in the same can lead to cognitive decline. Given the number of women undergoing menopause, timely screening of the comorbidities is of importance. Our study aimed at assessment of anxiety, depression, and cognitive impairment in perimenopausal and postmenopausal women presenting in the medicine and gynecology units of a tertiary care hospital. The objectives were to screen the peri- and postmenopausal women presenting with medical and gynecological complaints for the presence of depression and anxiety and assess their cognitive function. To find association of their symptoms with psychosocial and menopausal factors with the psychiatric parameters. Our study was conducted among the perimenopausal and postmenopausal women visiting gynecology and medicine units in a tertiary care hospital. One hundred and five women in the age group of 45-55 were assessed using a specialized pro forma, Beck's Anxiety Inventory, Beck's Depression Inventory, and Addenbrooke's Cognitive Examination III. The results were analyzed using SPSS software (version 20.0). 21.9% of females had moderate levels of anxiety, 24.76% had clinical depression, and 13.33% had mild cognitive impairment. The presence of psychosocial stressors had a significant impact on the anxiety, depression, and cognitive impairment. There was no significant association found between psychiatric parameters and peri- and postmenopausal stage as well between natural or surgical menopause.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": []
+ },
+ "26018188": {
+  "abstract": "",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Comment"
+  ],
+  "mesh": [
+   "Depression",
+   "Depressive Disorder",
+   "Estradiol",
+   "Estrogens",
+   "Female",
+   "Humans",
+   "Perimenopause"
+  ]
+ },
+ "41390123": {
+  "abstract": "Females of reproductive age experience more suicidal ideation, suicide attempts, and psychiatric hospitalizations than their male counterparts-with high risk during periods of hormonal transitions (e.g., puberty, the menstrual cycle, and pregnancy), suggesting a role for cyclical ovarian hormone fluctuations in suicide risk. This role is supported by cross-sectional and longitudinal studies showing that the menstrual cycle can trigger or exacerbate suicidal symptoms in susceptible individuals, particularly during the luteal and perimenstrual phases. However, brain-based mechanisms linking hormonal dynamics to suicidality remain underexplored. In hormone-sensitive individuals, normal fluctuations in estradiol (E2), progesterone (P4), and the neuroactive steroid allopregnanolone (ALLO) may disrupt the molecular mechanisms of mood regulation, cognitive processing, and behavioral control. This selective review synthesizes evidence across 6 promising molecular systems-serotonergic, GABAergic (gamma-aminobutyric acidergic), dopaminergic, neurotrophic, lipid, and DHEA(S) (dehydroepiandrosterone/dehydroepiandrosterone sulfate)-that are modulated by E2, P4, or ALLO and implicated in suicide pathophysiology. Drawing on neuroimaging, genetic, pharmacologic, and hormone manipulation studies, we describe potential mechanisms of cyclical suicide risk and their interactions with genetic and epigenetic vulnerability. Framed within the Dimensional Affective Sensitivity to Hormones across the Menstrual Cycle model, we outline the following research priorities: high-frequency within-person designs, hormone-informed neuroimaging, and personalized modeling approaches to identify modifiable, temporally precise mechanisms. Integrating menstrual cycle dynamics into suicide neuroscience may advance precision prevention for a large and underserved population.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "mesh": [
+   "Humans",
+   "Female",
+   "Menstrual Cycle",
+   "Suicide",
+   "Brain",
+   "Progesterone"
+  ]
+ },
+ "34330326": {
+  "abstract": "The menopause transition is associated with an increased risk of depression. While the mechanisms behind this increased risk are not well understood, the changing perimenopausal hormonal environment has been hypothesized to play a role. The current study examined the potential influence of testosterone and the ratio of testosterone to estradiol as a potential contributor to depressed mood in the menopause transition. Fifty non-depressed perimenopausal women ages 45-55 were recruited for this study. Once every 3 weeks, for a total of four times, the women completed the Centre for Epidemiological Studies-Depression (CES-D) scale for the measurement of depressive symptoms and provided a first-morning urine sample for the measurement of urinary testosterone as well as estrone-3-glucuronide (E1G), a urinary metabolite of estradiol. The week-to-week and mean effects of testosterone, E1G, and the testosterone/E1G ratio on CES-D score were examined. Self-reported sleep quality and vasomotor symptoms were also assessed at each of the four time points. Testosterone levels rose with increasing months since last menstrual period associated with testosterone levels (&#x3b2;(SE) = 175.3(63.2), p = .006), though this effect was moderated by body mass index (p for the interaction = .001) such that overweight women showed a less pronounced increase over time. Past and current smokers also had higher testosterone levels compared to never smokers. Week-to-week testosterone/E1G ratio was positively associated with CES-D score (&#x3b2;(SE) = 1.57(0.76), p = .041) but not sleep quality or vasomotor symptoms (ps &gt; .05). Mean testosterone/E1G ratio was also positively associated with vasomotor symptom bother (&#x3b2;(SE) = 0.14(0.06), p = .018) and poorer sleep quality (&#x3b2;(SE) = - 0.34(0.09), p = .0001). These results suggest that, within the context of the menopause transition, times that are characterized by a higher testosterone-to-estradiol ratio may be associated with higher depressive symptoms. Perimenopausal women with a higher average ratio of testosterone relative to estradiol may also experience more sleep difficulties and vasomotor symptom bother.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Depression",
+   "Estradiol",
+   "Female",
+   "Humans",
+   "Menopause",
+   "Middle Aged",
+   "Sleep Quality",
+   "Testosterone"
+  ]
+ },
+ "34714413": {
+  "abstract": "Recent research has implicated allopregnanolone (ALLO), a neuroactive steroid and metabolite of progesterone, in perinatal mood and anxiety symptoms. We sought to add to the limited literature examining ALLO and mood and anxiety at multiple time points across the peripartum. We measured mood and anxiety symptoms and ALLO levels by ELISA at the second and third trimester (T2 and T3) and week 6 postpartum (W6) in N&#xa0;=&#x2009;73 women with prior histories of mood and/or anxiety disorders and N&#xa0;=&#x2009;38 healthy controls. Analytic methods included multivariate and logistic regressions with linear mixed effect models. Among all participants (N&#xa0;=&#x2009;111), higher ALLO levels at W6 were associated with higher depression and anxiety scores: each one unit increase in log ALLO at W6 was associated with a 2.54 point increase on the Edinburgh Postnatal Depression Scale (EPDS) (95% CI: 0.73 to 4.33) and an 8.0 point increase on the Perinatal Anxiety Screening Scale (PASS) (95% CI: 3.82 to 12.6). In addition, the nature of the relationship between log ALLO level and psychological measures changed across time; from T2 to W6 for EPDS, &#x3b2;&#x2009;=&#x2009;3.73 (95% CI:1.16, 6.30), p&#x2009;=&#x2009;0.0045; for PASS &#x3b2;&#x2009;=&#x2009;9.78 (95% CI:3.77, 15.79), p&#x2009;=&#x2009;0.0014); from T3 to W6, for (EPDS, &#x3b2;&#x2009;=&#x2009;2.52 (95% CI:0.08, 4.96), p&#x2009;=&#x2009;0.043; for PASS &#x3b2;&#x2009;=&#x2009;7.33 (95% CI:1.63, 13.02), p&#x2009;=&#x2009;0.018). The relationship of log ALLO to mood and anxiety symptoms was the same among women with and without psychiatric histories. Our exploratory findings indicate that the relationship between ALLO and mood and anxiety symptoms may change across the peripartum.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "mesh": [
+   "Anxiety",
+   "Depression",
+   "Depression, Postpartum",
+   "Female",
+   "Humans",
+   "Peripartum Period",
+   "Pregnancy",
+   "Pregnanolone",
+   "Psychiatric Status Rating Scales"
+  ]
+ },
+ "16938407": {
+  "abstract": "The neurosteroid allopregnanolone (ALLO) or 3alpha-OH-5alpha-pregnane-20-one interacts with the GABA type A receptor chloride ion channel complex and enhances the effect of GABA. Animal and human studies suggest that ALLO plays an important role in several disorders including premenstrual syndrome, anxiety, and memory impairment. In contrast to ALLO, steroids with a hydroxy group in the 3beta position usually exert a reducing effect and have recently attracted interest due to their suggested role in counteracting the negative action of ALLO. In this study, five different 3beta-steroids were tested for their ability to modulate GABA-mediated chloride ion uptake in the absence and presence of ALLO in rat brain microsacs preparations. In addition, the effects of the 3beta-steroids and their interaction with ALLO were investigated by patch-clamp recordings of spontaneous inhibitory postsynaptic currents (sIPSCs) in rat hypothalamic neurons from the medial preoptic nucleus (MPN). All tested 3beta-steroids reduced the ALLO-enhanced GABA response in cerebral cortex, in hippocampus and in MPN. In cerebellum, only one had this effect. However, in the absence of ALLO, two of the 3beta-steroids potentiated GABA-evoked chloride ion uptake and prolonged the sIPSCs decay time, whereas the others had little or no effect. Therefore, it is possible that at least some 3beta-steroids can act as positive GABA(A) receptor modulators as well as negative modulators depending on whether or not ALLO is present. Finally, these results suggest that the 3beta-steroids could be of interest as pharmacological agents that could counteract the negative effects of ALLO.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Analysis of Variance",
+   "Animals",
+   "Brain",
+   "Cells, Cultured",
+   "Chloride Channels",
+   "Chlorides",
+   "Dose-Response Relationship, Drug",
+   "Drug Interactions",
+   "Male",
+   "Membrane Potentials",
+   "Neurons",
+   "Patch-Clamp Techniques"
+  ]
+ },
+ "32730861": {
+  "abstract": "Estradiol is the \"prototypic\" sex hormone of women. Yet, women have another sex hormone, which is often disregarded: Progesterone. The goal of this article is to provide a comprehensive review on progesterone, and its metabolite allopregnanolone, emphasizing three key areas: biological properties, main functions, and effects on mood in women. Recent years of intensive research on progesterone and allopregnanolone have paved the way for new treatment of postpartum depression. However, treatment for premenstrual syndrome and premenstrual dysphoric disorder as well as contraception that women can use without risking mental health problems are still needed. As far as progesterone is concerned, we might be dealing with a two-edged sword: while its metabolite allopregnanolone has been proven useful for treatment of PPD, it may trigger negative symptoms in women with PMS and PMDD. Overall, our current knowledge on the beneficial and harmful effects of progesterone is limited and further research is imperative.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "mesh": [
+   "Emotions",
+   "Female",
+   "Humans",
+   "Pregnanolone",
+   "Premenstrual Dysphoric Disorder",
+   "Progesterone"
+  ]
+ },
+ "40211702": {
+  "abstract": "Depressive disorder is a highly disabling condition that affects more than 300 million individuals worldwide, with women affected at a higher rate than men. With the aging of the population, the incidence of perimenopausal depression has risen markedly, seriously jeopardizing women's physical and mental health. Symptoms of perimenopausal depression include feelings of depression, stress, anxiety and endocrine dysfunctions, particularly hypogonadism and senescence. During perimenopause, estrogen and progesterone levels fluctuate erratically, adding to the risk of developing depression associated with perimenopause. As a result of these hormonal changes, proinflammatory mediators are produced and oxidative stress is induced, which finally leads to progressive neuronal damage. The present study mainly reviewed roles of neuroinflammation in perimenopausal depression and explained potential anti&#x2011;inflammatory and anti&#x2011;oxidative stress mechanisms for clinically effective therapeutic treatment.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "mesh": [
+   "Humans",
+   "Oxidative Stress",
+   "Perimenopause",
+   "Female",
+   "Depression",
+   "Inflammation",
+   "Animals"
+  ]
+ }
+}

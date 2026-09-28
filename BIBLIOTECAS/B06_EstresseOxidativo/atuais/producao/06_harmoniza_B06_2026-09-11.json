@@ -1,0 +1,1209 @@
+{
+ "data": "2026-09-11",
+ "bib": "B06",
+ "arquivo": "/home/user/BIBLIOTECAS/B06_EstresseOxidativo/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json",
+ "backup": "/home/user/BIBLIOTECAS/B06_EstresseOxidativo/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json.bak_20260911_173147",
+ "bloq_pre": 279,
+ "bloq_pos": 108,
+ "residual_schema": 108,
+ "decisoes": "DECISOES_HARMONIZACAO_SCHEMA_2026-09-11.md",
+ "alteracoes": [
+  {
+   "id_vinculo": "VINC_B6_001",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_002",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_003",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_004",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_005",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_006",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_007",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_008",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_009",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_010",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_011",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_012",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_013",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_014",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_015",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_016",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_017",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_018",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_019",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_020",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_021",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_022",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_023",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_024",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_025",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_026",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_027",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_028",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_029",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_030",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_031",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_032",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_033",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_034",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_035",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_036",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_037",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_037",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_038",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_038",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_039",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_039",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_040",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_040",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_041",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_041",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_042",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_042",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_043",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_043",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_044",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_044",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_045",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_045",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_046",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_046",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_047",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_047",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_048",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_048",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_049",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_049",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_050",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_050",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_051",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_051",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_052",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_052",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_053",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_053",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_054",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_054",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_055",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_055",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_056",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_056",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_057",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_057",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_058",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_058",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_059",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_059",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_060",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_060",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_061",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_061",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_062",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_062",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_063",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_063",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_064",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_064",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_065",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_065",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_066",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_066",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_067",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_067",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_068",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_068",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_069",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_069",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_070",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_070",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_071",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_071",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_072",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_072",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_073",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_073",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_074",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_074",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_075",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_075",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_076",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_076",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_077",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_077",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_078",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_078",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_079",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_079",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_080",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_080",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_081",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_081",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_082",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_082",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_083",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_083",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_084",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_084",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_085",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_085",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_086",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_086",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_087",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_087",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_088",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_088",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_089",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_089",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_090",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_091",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_091",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_092",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_092",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_093",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_093",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_094",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_094",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_095",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_095",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_096",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_096",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_097",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_097",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_098",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_099",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_100",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_100",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_101",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_102",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_103",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_104",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_104",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B6_105",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_106",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_107",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_108",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B6_108",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  }
+ ]
+}

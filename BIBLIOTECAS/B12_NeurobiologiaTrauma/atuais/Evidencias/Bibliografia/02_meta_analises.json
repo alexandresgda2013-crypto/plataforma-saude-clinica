@@ -1,0 +1,1558 @@
+[
+ {
+  "pmid_oficial": "12555794",
+  "titulo_artigo": "Predictors of posttraumatic stress disorder and symptoms in adults: a meta-analysis",
+  "autores": [
+   "Ozer EJ",
+   "Best SR",
+   "Lipsey TL",
+   "Weiss DS"
+  ],
+  "revista_ano": "Psychological bulletin (2003)",
+  "desenho_estudo": "[EC] Ozer_2003",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Predictors of posttraumatic stress disorder and symptoms in adults: a meta-analysis",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_OZER_2003"
+  ],
+  "id_referencia_interna": "REF_OZER_2003",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "OZER",
+   "Ozer"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_neurobiologia_trauma",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "17723027",
+  "titulo_artigo": "The psychophysiology of posttraumatic stress disorder: a meta-analysis",
+  "autores": [
+   "Pole N"
+  ],
+  "revista_ano": "Psychological bulletin (2007)",
+  "desenho_estudo": "[EC] Pole_2007",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "The psychophysiology of posttraumatic stress disorder: a meta-analysis",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_POLE_2007"
+  ],
+  "id_referencia_interna": "REF_POLE_2007",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "POLE",
+   "Pole"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_neurobiologia_trauma",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "17898336",
+  "titulo_artigo": "Functional neuroimaging of anxiety: a meta-analysis of emotional processing in PTSD, social anxiety disorder, and specific phobia",
+  "autores": [
+   "Etkin A",
+   "Wager TD"
+  ],
+  "revista_ano": "The American journal of psychiatry (2007)",
+  "desenho_estudo": "[OB] Etkin_Wager",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Functional neuroimaging of anxiety: a meta-analysis of emotional processing in PTSD, social anxiety disorder, and specific phobia",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ETKIN_2007",
+   "REF_Etkin2007_Wager"
+  ],
+  "id_referencia_interna": "REF_ETKIN_2007",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "ETKIN",
+   "Etkin",
+   "WAGER",
+   "Wager"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_neurobiologia_trauma",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "21199959",
+  "titulo_artigo": "The serotonin transporter promoter variant (5-HTTLPR), stress, and depression meta-analysis revisited: evidence of genetic moderation",
+  "autores": [
+   "Karg K",
+   "Burmeister M",
+   "Shedden K",
+   "Sen S"
+  ],
+  "revista_ano": "Archives of general psychiatry (2011)",
+  "desenho_estudo": "[EC] Karg_2011",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "The serotonin transporter promoter variant (5-HTTLPR), stress, and depression meta-analysis revisited: evidence of genetic moderation",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_KARG_2011"
+  ],
+  "id_referencia_interna": "REF_KARG_2011",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "KARG",
+   "Karg"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_neurobiologia_trauma",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "30021460",
+  "titulo_artigo": "Meta-Analysis of 89 Structural MRI Studies in Posttraumatic Stress Disorder and Comparison With Major Depressive Disorder",
+  "autores": [
+   "Bromis K",
+   "Calem M",
+   "Reinders AATS",
+   "Williams SCR",
+   "Kempton MJ"
+  ],
+  "revista_ano": "The American journal of psychiatry (2018)",
+  "desenho_estudo": "[EC] Bromis_2018",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Meta-Analysis of 89 Structural MRI Studies in Posttraumatic Stress Disorder and Comparison With Major Depressive Disorder",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BROMIS_2018"
+  ],
+  "id_referencia_interna": "REF_BROMIS_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Bromis",
+   "BROMIS"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_neurobiologia_trauma",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "30790632",
+  "titulo_artigo": "HPA axis regulation in posttraumatic stress disorder: A meta-analysis focusing on potential moderators",
+  "autores": [
+   "Schumacher S",
+   "Niemeyer H",
+   "Engel S",
+   "Cwik JC",
+   "Laufer S",
+   "Klusmann H"
+  ],
+  "revista_ano": "Neuroscience and biobehavioral reviews (2019)",
+  "desenho_estudo": "[EC] Schumacher_2019",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "HPA axis regulation in posttraumatic stress disorder: A meta-analysis focusing on potential moderators",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SCHUMACHER_2019"
+  ],
+  "id_referencia_interna": "REF_SCHUMACHER_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "SCHUMACHER",
+   "Schumacher"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_neurobiologia_trauma",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "23536785",
+  "titulo_artigo": "In search of the trauma memory: a meta-analysis of functional neuroimaging studies of symptom provocation in posttraumatic stress disorder (PTSD).",
+  "autores": [
+   "Sartory G",
+   "Cwik J",
+   "Knuppertz H",
+   "Schürholt B"
+  ],
+  "revista_ano": "PLoS One (2013)",
+  "desenho_estudo": "[OB] meta-análise fMRI · PLoS One",
+  "secao_origem": "mecanismo_B12_memoria_traumatica",
+  "achado_central_molecular": "Meta-análise de provocação de sintomas: em busca da memória traumática — assinatura funcional transdiagnóstica do trauma.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_SARTORY_2013"
+  ],
+  "id_referencia_interna": "REF_SARTORY_2013",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_memoria_traumatica",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "25735885",
+  "titulo_artigo": "A systematic review and meta-analysis of magnetic resonance imaging measurement of structural volumes in posttraumatic stress disorder.",
+  "autores": [
+   "O'Doherty DC",
+   "Chitty KM",
+   "Saddiqui S",
+   "Bennett MR"
+  ],
+  "revista_ano": "Psychiatry Res (2015)",
+  "desenho_estudo": "[OB] revisão sistemática e meta-análise MRI · Psychiatry Res",
+  "secao_origem": "mecanismo_B12_ptsd_volumetrico",
+  "achado_central_molecular": "Meta-análise volumétrica em TEPT — alterações estruturais associativas sem valor de biomarcador individual (regra 2).",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_ODOHERTY_2015"
+  ],
+  "id_referencia_interna": "REF_ODOHERTY_2015",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_ptsd_volumetrico",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "27531235",
+  "titulo_artigo": "Understanding heterogeneity in grey matter research of adults with childhood maltreatment-A meta-analysis and review.",
+  "autores": [
+   "Paquola C",
+   "Bennett MR",
+   "Lagopoulos J"
+  ],
+  "revista_ano": "Neurosci Biobehav Rev (2016)",
+  "desenho_estudo": "[OB] meta-análise · Neurosci Biobehav Rev",
+  "secao_origem": "mecanismo_B12_heterogeneidade_massa_cinzenta",
+  "achado_central_molecular": "Heterogeneidade da massa cinzenta em adultos com maus-tratos infantis — a heterogeneidade é dado, não ruído (regra 3).",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_PAQUOLA_2016"
+  ],
+  "id_referencia_interna": "REF_PAQUOLA_2016",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_heterogeneidade_massa_cinzenta",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "27824358",
+  "titulo_artigo": "You say 'prefrontal cortex' and I say 'anterior cingulate': meta-analysis of spatial overlap in amygdala-to-prefrontal connectivity and internalizing symptomology.",
+  "autores": [
+   "Marusak HA",
+   "Thomason ME",
+   "Peters C",
+   "Zundel C"
+  ],
+  "revista_ano": "Transl Psychiatry (2016)",
+  "desenho_estudo": "[OB] meta-análise fMRI · Transl Psychiatry",
+  "secao_origem": "mecanismo_B12_pfc_acc_terminologia",
+  "achado_central_molecular": "Sobreposição espacial amígdala–'PFC'×'ACC' — a controvérsia de terminologia das redes é documentada (regra 2).",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_MARUSAK_2016"
+  ],
+  "id_referencia_interna": "REF_MARUSAK_2016",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_pfc_acc_terminologia",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "28183380",
+  "titulo_artigo": "Assessment of the hypothalamic-pituitary-adrenal axis activity: glucocorticoid receptor and mineralocorticoid receptor function in depression with early life stress - a systematic review.",
+  "autores": [
+   "Von Werne Baes C",
+   "de Carvalho Tofoli SM",
+   "Martins CM",
+   "Juruena MF"
+  ],
+  "revista_ano": "Acta Neuropsychiatr (2012)",
+  "desenho_estudo": "[OB] revisão · Acta Neuropsychiatr",
+  "secao_origem": "mecanismo_B12_gr_mr_depressao",
+  "achado_central_molecular": "Avaliação GR/MR do eixo HPA na depressão — interface molecular (regra 4).",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_VONWERNEBAES_2012"
+  ],
+  "id_referencia_interna": "REF_VONWERNEBAES_2012",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "chave 'Vogelzangs 2016' do insumo = mesmo PMID (duplicata exposta)"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_gr_mr_depressao",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "31258096",
+  "titulo_artigo": "Neural signatures of conditioning, extinction learning, and extinction recall in posttraumatic stress disorder: a meta-analysis of functional magnetic resonance imaging studies.",
+  "autores": [
+   "Suarez-Jimenez B",
+   "Albajes-Eizagirre A",
+   "Lazarov A",
+   "Zhu X"
+  ],
+  "revista_ano": "Psychol Med (2020)",
+  "desenho_estudo": "[EC] tarefa de condicionamento/extinção com fMRI · Psychol Med",
+  "secao_origem": "mecanismo_B12_extincao_ptsd",
+  "achado_central_molecular": "Assinaturas neurais de condicionamento, aprendizagem de extinção e reevocação no TEPT — núcleo da via 7.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_SUAREZJIMENEZ_2020"
+  ],
+  "id_referencia_interna": "REF_SUAREZJIMENEZ_2020",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_extincao_ptsd",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "34256069",
+  "titulo_artigo": "Structural brain correlates in major depression, anxiety disorders and post-traumatic stress disorder: A voxel-based morphometry meta-analysis.",
+  "autores": [
+   "Serra-Blasco M",
+   "Radua J",
+   "Soriano-Mas C",
+   "Gómez-Benlloch A"
+  ],
+  "revista_ano": "Neurosci Biobehav Rev (2021)",
+  "desenho_estudo": "[OB] revisão sistemática e meta-análise · Neurosci Biobehav Rev",
+  "secao_origem": "mecanismo_B12_transdiagnostico_estrutural",
+  "achado_central_molecular": "Correlatos estruturais em depressão maior, ansiedade e TEPT: parte compartilhada, parte específica — regulador do módulo (regra 7).",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_SERRABLASCO_2021"
+  ],
+  "id_referencia_interna": "REF_SERRABLASCO_2021",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "'See 2025' do insumo = Serra-Blasco 2021 (reatribuição)"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_transdiagnostico_estrutural",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "35189164",
+  "titulo_artigo": "Neurostructural traces of early life adversities: A meta-analysis exploring age- and adversity-specific effects.",
+  "autores": [
+   "Pollok TM",
+   "Kaiser A",
+   "Kraaijenvanger EJ",
+   "Monninger M"
+  ],
+  "revista_ano": "Neurosci Biobehav Rev (2022)",
+  "desenho_estudo": "[OB] meta-análise · Neurosci Biobehav Rev",
+  "secao_origem": "mecanismo_B12_neuroestrutura_adversidade",
+  "achado_central_molecular": "Traços neuroestruturais de adversidades precoces: efeitos específicos por idade e tipo de adversidade — janela sensível como dado.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_POLLOK_2022"
+  ],
+  "id_referencia_interna": "REF_POLLOK_2022",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_neuroestrutura_adversidade",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "36029627",
+  "titulo_artigo": "Functional and structural brain abnormalities in posttraumatic stress disorder: A multimodal meta-analysis of neuroimaging studies.",
+  "autores": [
+   "Xiao S",
+   "Yang Z",
+   "Su T",
+   "Gong J"
+  ],
+  "revista_ano": "J Psychiatr Res (2022)",
+  "desenho_estudo": "[OB] meta-análise multimodal · J Psychiatr Res",
+  "secao_origem": "mecanismo_B12_ptsd_multimodal",
+  "achado_central_molecular": "Anormalidades funcionais e estruturais no TEPT: meta-análise multimodal — comparação reguladora (regra 7).",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_XIAO_2022"
+  ],
+  "id_referencia_interna": "REF_XIAO_2022",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_ptsd_multimodal",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "36151073",
+  "titulo_artigo": "Pathological fear, anxiety and negative affect exhibit distinct neurostructural signatures: evidence from psychiatric neuroimaging meta-analysis.",
+  "autores": [
+   "Liu X",
+   "Klugah-Brown B",
+   "Zhang R",
+   "Chen H"
+  ],
+  "revista_ano": "Transl Psychiatry (2022)",
+  "desenho_estudo": "[OB] meta-análise · Transl Psychiatry",
+  "secao_origem": "mecanismo_B12_medo_patologico_neuroestrutura",
+  "achado_central_molecular": "Medo patológico, ansiedade e afeto negativo têm assinaturas neuroestruturais DISTINTAS — separação de fenótipos (transdiagnóstico).",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_LIU_2022"
+  ],
+  "id_referencia_interna": "REF_LIU_2022",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_medo_patologico_neuroestrutura",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "37741177",
+  "titulo_artigo": "A systematic review and meta-analysis of resting-state fMRI in anxiety disorders: Need for data sharing to move the field forward.",
+  "autores": [
+   "Zugman A",
+   "Jett L",
+   "Antonacci C",
+   "Winkler AM"
+  ],
+  "revista_ano": "J Anxiety Disord (2023)",
+  "desenho_estudo": "[OB] revisão sistemática e meta-análise rs-fMRI · J Anxiety Disord",
+  "secao_origem": "mecanismo_B12_repouso_ansiedade",
+  "achado_central_molecular": "Resting-state fMRI nos transtornos de ansiedade: meta-análise com chamado a compartilhamento — ansiedade ≠ TEPT ≠ depressão.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_ZUGMAN_2023"
+  ],
+  "id_referencia_interna": "REF_ZUGMAN_2023",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_repouso_ansiedade",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "39304648",
+  "titulo_artigo": "Neural correlates of harm avoidance: a multimodal meta-analysis of brain structural and resting-state functional neuroimaging studies.",
+  "autores": [
+   "Zhong S",
+   "Lin J",
+   "Zhang L",
+   "Wang S"
+  ],
+  "revista_ano": "Transl Psychiatry (2024)",
+  "desenho_estudo": "[OB] meta-análise multimodal · Transl Psychiatry",
+  "secao_origem": "mecanismo_B12_harm_avoidance",
+  "achado_central_molecular": "Correlatos neurais de harm avoidance (esquiva de dano): meta-análise multimodal — traço ligado a ansiedade/depressão.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_ZHONG_2024"
+  ],
+  "id_referencia_interna": "REF_ZHONG_2024",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_harm_avoidance",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "42165096",
+  "titulo_artigo": "Altered amygdala resting-state functional connectivity in anxiety disorders: a coordinate-based meta-analysis.",
+  "autores": [
+   "Lu L",
+   "Xu H",
+   "Wang R",
+   "Zhang B"
+  ],
+  "revista_ano": "Psychol Med (2026)",
+  "desenho_estudo": "[OB] meta-análise baseada em coordenadas · Psychol Med",
+  "secao_origem": "mecanismo_B12_amigdala_repouso_ansiedade",
+  "achado_central_molecular": "Conectividade funcional de repouso da amígdala alterada nos transtornos de ansiedade: meta-análise ALE — ansiedade-específica.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_LU_2026"
+  ],
+  "id_referencia_interna": "REF_LU_2026",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_amigdala_repouso_ansiedade",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "35058584",
+  "titulo_artigo": "Common and specific large-scale brain changes in major depressive disorder, anxiety disorders, and chronic pain: a transdiagnostic multimodal meta-analysis of structural and functional MRI studies.",
+  "autores": [
+   "Brandl F",
+   "Weise B",
+   "Mulej Bratec S",
+   "Jassim N"
+  ],
+  "revista_ano": "Neuropsychopharmacology (2022)",
+  "desenho_estudo": "[OB] meta-análise multimodal transdiagnóstica · Neuropsychopharmacology",
+  "secao_origem": "mecanismo_B12_transdiagnostico_largescala",
+  "achado_central_molecular": "Mudanças cerebrais comuns e específicas em depressão, ansiedade e dor crônica em larga escala — transdiagnóstico.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_BRANDL_2022"
+  ],
+  "id_referencia_interna": "REF_BRANDL_2022",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_transdiagnostico_largescala",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "33054384",
+  "titulo_artigo": "The Overlapping Neurobiology of Induced and Pathological Anxiety: A Meta-Analysis of Functional Neural Activation.",
+  "autores": [
+   "Chavanne AV",
+   "Robinson OJ"
+  ],
+  "revista_ano": "Am J Psychiatry (2021)",
+  "desenho_estudo": "[OB] meta-análise fMRI · Am J Psychiatry",
+  "secao_origem": "mecanismo_B12_ansiedade_induzida_patologica",
+  "achado_central_molecular": "Neurobiologia sobreposta da ansiedade INDUZIDA e da PATOLÓGICA: validação experimental do circuito de medo humano.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_CHAVANNE_2021"
+  ],
+  "id_referencia_interna": "REF_CHAVANNE_2021",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_ansiedade_induzida_patologica",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "31664439",
+  "titulo_artigo": "Shared Neural Phenotypes for Mood and Anxiety Disorders: A Meta-analysis of 226 Task-Related Functional Imaging Studies.",
+  "autores": [
+   "Janiri D",
+   "Moser DA",
+   "Doucet GE",
+   "Luber MJ"
+  ],
+  "revista_ano": "JAMA Psychiatry (2020)",
+  "desenho_estudo": "[OB] meta-análise (226 estudos task-fMRI) · JAMA Psychiatry",
+  "secao_origem": "mecanismo_B12_fenotipos_neurais_compartilhados",
+  "achado_central_molecular": "Fenótipos neurais compartilhados em transtornos de humor e ansiedade (226 estudos) — JAMA Psychiatry.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_JANIRI_2020"
+  ],
+  "id_referencia_interna": "REF_JANIRI_2020",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "chave insumo 2019 → print 2020"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_fenotipos_neurais_compartilhados",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "40686488",
+  "titulo_artigo": "Structural brain correlates in major depressive disorder, anxiety disorders, and post-traumatic stress disorder: a diffusion tensor imaging meta-analysis.",
+  "autores": [
+   "Guo Y",
+   "Liu S",
+   "Poletti S",
+   "Liu W"
+  ],
+  "revista_ano": "Psychol Med (2025)",
+  "desenho_estudo": "[OB] meta-análise · Psychol Med",
+  "secao_origem": "mecanismo_B12_estrutura_mdd_ansiedade_ptsd",
+  "achado_central_molecular": "Correlatos estruturais em depressão, ansiedade e TEPT (Psychol Med 2025) — atualização da linha transdiagnóstica.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_GUO_2025"
+  ],
+  "id_referencia_interna": "REF_GUO_2025",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_estrutura_mdd_ansiedade_ptsd",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "41444402",
+  "titulo_artigo": "Common alterations of whole and subregion-specific amygdala intrinsic functional connectivity across psychiatric disorders: a meta-analysis.",
+  "autores": [
+   "Cao L",
+   "Maleki Balajoo S",
+   "Gao Y",
+   "Li H"
+  ],
+  "revista_ano": "Mol Psychiatry (2026)",
+  "desenho_estudo": "[OB] meta-análise de conectividade · Mol Psychiatry",
+  "secao_origem": "mecanismo_B12_amigdala_conectividade_comum",
+  "achado_central_molecular": "Alterações comuns da conectividade intrínseca da amígdala (total e sub-regiões) em depressão/ansiedade/TEPT.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_CAO_2026"
+  ],
+  "id_referencia_interna": "REF_CAO_2026",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_amigdala_conectividade_comum",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "30581154",
+  "titulo_artigo": "Neural Correlates of Affective Disturbances: A Comparative Meta-analysis of Negative Affect Processing in Borderline Personality Disorder, Major Depressive Disorder, and Posttraumatic Stress Disorder.",
+  "autores": [
+   "Schulze L",
+   "Schulze A",
+   "Renneberg B",
+   "Schmahl C"
+  ],
+  "revista_ano": "Biol Psychiatry Cogn Neurosci Neuroimaging (2019)",
+  "desenho_estudo": "[OB] meta-análise comparativa · Biol Psychiatry Cogn Neurosci Neuroimaging",
+  "secao_origem": "mecanismo_B12_afeto_negativo_neural",
+  "achado_central_molecular": "Correlatos neurais de distúrbios afetivos: meta-análise comparativa de processamento de afeto negativo.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_SCHULZE_2019"
+  ],
+  "id_referencia_interna": "REF_SCHULZE_2019",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_afeto_negativo_neural",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "24676455",
+  "titulo_artigo": "The common traits of the ACC and PFC in anxiety disorders in the DSM-5: meta-analysis of voxel-based morphometry studies.",
+  "autores": [
+   "Shang J",
+   "Fu Y",
+   "Ren Z",
+   "Zhang T"
+  ],
+  "revista_ano": "PLoS One (2014)",
+  "desenho_estudo": "[OB] meta-análise VBM · PLoS One",
+  "secao_origem": "mecanismo_B12_acc_pfc_ansiedade",
+  "achado_central_molecular": "Traços comuns de ACC e PFC nos transtornos de ansiedade (DSM-5): meta-análise VBM — ansiedade-específica sem TEPT.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_SHANG_2014"
+  ],
+  "id_referencia_interna": "REF_SHANG_2014",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_acc_pfc_ansiedade",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "22738125",
+  "titulo_artigo": "Quantitative meta-analysis of neural activity in posttraumatic stress disorder.",
+  "autores": [
+   "Hayes JP",
+   "Hayes SM",
+   "Mikedis AM"
+  ],
+  "revista_ano": "Biol Mood Anxiety Disord (2012)",
+  "desenho_estudo": "[OB] meta-análise quantitativa fMRI · Biol Mood Anxiety Disord",
+  "secao_origem": "mecanismo_B12_atividade_neural_ptsd",
+  "achado_central_molecular": "Meta-análise quantitativa da atividade neural no TEPT — contraponto funcional do padrão estrutural.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_HAYES_2012"
+  ],
+  "id_referencia_interna": "REF_HAYES_2012",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_atividade_neural_ptsd",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "32726102",
+  "titulo_artigo": "Volumetric brain differences in clinical depression in association with anxiety: a systematic review with meta-analysis.",
+  "autores": [
+   "Espinoza Oyarce DA",
+   "Shaw ME",
+   "Alateeq K",
+   "Cherbuin N"
+  ],
+  "revista_ano": "J Psychiatry Neurosci (2020)",
+  "desenho_estudo": "[OB] revisão sistemática · J Psychiatry Neurosci",
+  "secao_origem": "mecanismo_B12_depressao_com_ansiedade_volumen",
+  "achado_central_molecular": "Diferenças volumétricas na depressão clínica EM ASSOCIAÇÃO com ansiedade — fenótipo comórbido medido.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_ESPINOZA_2020"
+  ],
+  "id_referencia_interna": "REF_ESPINOZA_2020",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "chave insumo 'Oyarce 2020' (Espinoza Oyarce = 1º autor)"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_depressao_com_ansiedade_volumen",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "35158360",
+  "titulo_artigo": "Grey Matter Volume Reductions of the Left Hippocampus and Amygdala in PTSD: A Coordinate-Based Meta-Analysis of Magnetic Resonance Imaging Studies.",
+  "autores": [
+   "Del Casale A",
+   "Ferracuti S",
+   "Barbetti AS",
+   "Bargagna P"
+  ],
+  "revista_ano": "Neuropsychobiology (2022)",
+  "desenho_estudo": "[OB] meta-análise ALE · Neuropsychobiology",
+  "secao_origem": "mecanismo_B12_massa_cinzenta_ptsd",
+  "achado_central_molecular": "Reduções de massa cinzenta em hipocampo e amígdala esquerdos no TEPT: meta-análise ALE.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_DELCASALE_2022"
+  ],
+  "id_referencia_interna": "REF_DELCASALE_2022",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "chave insumo 'Ferracuti 2022' (Del Casale = 1º autor)"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_massa_cinzenta_ptsd",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "33725661",
+  "titulo_artigo": "Neural activation of anxiety and depression in children and young people: A systematic meta-analysis of fMRI studies",
+  "autores": [
+   "Ashworth E",
+   "Schiöth HB",
+   "Brooks SJ"
+  ],
+  "revista_ano": "Psychiatry Res Neuroimaging (2021)",
+  "desenho_estudo": "[OB] revisão sistemática e meta-análise fMRI · Psychiatry Res Neuroimaging",
+  "secao_origem": "mecanismo_B12_jovens_ansiedade_depressao",
+  "achado_central_molecular": "Ativação neural de ansiedade e depressão em CRIANÇAS E JOVENS: meta-análise fMRI — janela do desenvolvimento (via 1.7).",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_ASHWORTH_2021"
+  ],
+  "id_referencia_interna": "REF_ASHWORTH_2021",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "chave 'Ashworth 2021' corrigida: o PMID do dossiê resolvia Badowska-Szalewska (BAIXO)"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_jovens_ansiedade_depressao",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "35378148",
+  "titulo_artigo": "Neurotrophic factors, childhood trauma and psychiatric disorders: A systematic review of genetic, biochemical, cognitive and imaging studies to identify potential biomarkers.",
+  "autores": [
+   "Di Benedetto MG",
+   "Scassellati C",
+   "Cattane N",
+   "Riva MA"
+  ],
+  "revista_ano": "J Affect Disord (2022)",
+  "desenho_estudo": "[OB] revisão sistemática · J Affect Disord",
+  "secao_origem": "mecanismo_B12_fatores_neurotroficos_trauma",
+  "achado_central_molecular": "Fatores neurotróficos, trauma infantil e transtornos psiquiátricos: revisão sistemática — via 8 trauma-específica.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_DIBENEDETTO_2022"
+  ],
+  "id_referencia_interna": "REF_DIBENEDETTO_2022",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "chave insumo 'Deuter 2023' (Di Benedetto = 1º autor)"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_fatores_neurotroficos_trauma",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "32379599",
+  "titulo_artigo": "The Association Between Adverse Childhood Experiences and Inflammation in Patients with Major Depressive Disorder: A Systematic Review.",
+  "autores": [
+   "Gill H",
+   "El-Halabi S",
+   "Majeed A",
+   "Gill B"
+  ],
+  "revista_ano": "J Affect Disord (2020)",
+  "desenho_estudo": "[EC] estudo clínico · J Affect Disord",
+  "secao_origem": "mecanismo_B12_aces_inflamacao",
+  "achado_central_molecular": "Experiências adversas da infância e INFLAMAÇÃO em pacientes com depressão — trauma como exposição imune (via 9).",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_GILL_2020"
+  ],
+  "id_referencia_interna": "REF_GILL_2020",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_aces_inflamacao",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "42167549",
+  "titulo_artigo": "Understanding specificity in immune-brain pathways: A systematic review of differential associations between individual cytokines and brain structure and function measured through magnetic resonance imaging in humans.",
+  "autores": [
+   "Cordero AL",
+   "Frazier MR",
+   "Jost GM",
+   "Hostinar CE"
+  ],
+  "revista_ano": "Brain Behav Immun (2026)",
+  "desenho_estudo": "[OB] revisão sistemática · Brain Behav Immun",
+  "secao_origem": "mecanismo_B12_especificidade_citocina_mri",
+  "achado_central_molecular": "Especificidade de vias imune-cérebro: citocinas INDIVIDUAIS associam-se diferencialmente a estrutura/função por MRI — contra 'inflamação universal' (NEG #7).",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_CORDERO_2026"
+  ],
+  "id_referencia_interna": "REF_CORDERO_2026",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_especificidade_citocina_mri",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "33152026",
+  "titulo_artigo": "Peripheral blood levels of brain-derived neurotrophic factor in patients with post-traumatic stress disorder (PTSD): A systematic review and meta-analysis.",
+  "autores": [
+   "Mojtabavi H",
+   "Saghazadeh A",
+   "van den Heuvel L",
+   "Bucker J"
+  ],
+  "revista_ano": "PLoS One (2020)",
+  "desenho_estudo": "[EC] estudo clínico · PLoS One",
+  "secao_origem": "mecanismo_B12_bdnf_periferico_ptsd",
+  "achado_central_molecular": "BDNF periférico em pacientes com TEPT — marcador periférico, sem status de diagnóstico (M05).",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_MOJTABAVI_2020"
+  ],
+  "id_referencia_interna": "REF_MOJTABAVI_2020",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_bdnf_periferico_ptsd",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "40946890",
+  "titulo_artigo": "Dynamic Cytokine Relationships Across the Blood-Brain Barrier in Humans and Nonhuman Primates-Implications for Psychiatric Illness: A Systematic Review.",
+  "autores": [
+   "Tyagi R",
+   "Bartley CM"
+  ],
+  "revista_ano": "Biol Psychiatry (2026)",
+  "desenho_estudo": "[EC] estudo translacional (humano + primata) · Biol Psychiatry",
+  "secao_origem": "mecanismo_B12_citocinas_bbb_dinamica",
+  "achado_central_molecular": "Relações dinâmicas de citocinas através da barreira hematoencefálica (humanos e primatas) — sangue≠cérebro quantificado (M05).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_TYAGI_2026"
+  ],
+  "id_referencia_interna": "REF_TYAGI_2026",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_citocinas_bbb_dinamica",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "34394855",
+  "titulo_artigo": "Does trauma-focused psychotherapy change the brain? A systematic review of neural correlates of therapeutic gains in PTSD.",
+  "autores": [
+   "Manthey A",
+   "Sierk A",
+   "Brakemeier EL",
+   "Walter H"
+  ],
+  "revista_ano": "Eur J Psychotraumatol (2021)",
+  "desenho_estudo": "[OB] revisão sistemática · Eur J Psychotraumatol",
+  "secao_origem": "mecanismo_B12_psicoterapia_neural",
+  "achado_central_molecular": "A psicoterapia focada em trauma muda o cérebro? Revisão sistemática — PILOTO B12.11 (reversibilidade), status emergente.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_MANTHEY_2021"
+  ],
+  "id_referencia_interna": "REF_MANTHEY_2021",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B12_psicoterapia_neural",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ }
+]

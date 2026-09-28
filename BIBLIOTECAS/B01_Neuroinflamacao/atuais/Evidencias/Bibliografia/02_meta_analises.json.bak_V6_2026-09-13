@@ -1,0 +1,1475 @@
+[
+  {
+    "pmid_oficial": "28122130",
+    "doi": "10.1111/acps.12698",
+    "titulo_artigo": "Peripheral cytokine and chemokine alterations in depression: a meta-analysis of 82 studies.",
+    "autores": [
+      "Köhler CA",
+      "Freitas TH",
+      "Maes M",
+      "de Andrade NQ",
+      "Liu CS",
+      "Fernandes BS"
+    ],
+    "revista_ano": "Acta psychiatrica Scandinavica (2017)",
+    "desenho_estudo": "Meta-analise (Acta Psychiatr Scand; 82 estudos, humano)",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_03",
+    "achado_central_molecular": "IL-6, TNF, IL-10, CCL2 e quimiocinas alteradas em TDM vs controles (3212 TDM/2798 HC)",
+    "extrapolacao_por_analogia": "baixa (humano)",
+    "status_auditoria": "",
+    "claim_id_origem": "",
+    "citacao_confirmada": true,
+    "origem_pipeline": "BUSCA_FERRAMENTA",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "human_clinical",
+    "verification_status": "pendente",
+    "ids_referencia_interna": [
+      "REF_KOHLER_2017"
+    ],
+    "id_referencia_interna": "REF_KOHLER_2017",
+    "_aliases": [
+      "Kohler",
+      "KOHLER"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_03",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "31005627",
+    "doi": "10.1016/j.neubiorev.2019.04.010",
+    "titulo_artigo": "Stress, epigenetics and depression: A systematic review.",
+    "autores": [
+      "Park C",
+      "Rosenblat JD",
+      "Brietzke E",
+      "Pan Z",
+      "Lee Y",
+      "Cao B"
+    ],
+    "revista_ano": "Neuroscience and biobehavioral reviews (2019)",
+    "desenho_estudo": "Revisao sistematica (Neurosci Biobehav Rev; humano)",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_02",
+    "achado_central_molecular": "mudancas epigeneticas por estresse (NR3C1, FKBP5, BDNF...) correlacionadas com depressao (17 estudos)",
+    "extrapolacao_por_analogia": "baixa",
+    "status_auditoria": "VALIDADO_G3_IA (revisao de pares pendente)",
+    "claim_id_origem": "",
+    "citacao_confirmada": true,
+    "origem_pipeline": "BUSCA_FERRAMENTA",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "human_clinical",
+    "verification_status": "pendente",
+    "ids_referencia_interna": [
+      "REF_PARK_2019"
+    ],
+    "data_verificacao": "2026-09-03",
+    "id_referencia_interna": "REF_PARK_2019",
+    "_aliases": [
+      "Park",
+      "PARK"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_02",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "32113908",
+    "doi": "10.1016/j.bbi.2020.02.010",
+    "titulo_artigo": "Inflammatory markers in depression: A meta-analysis of mean differences and variability in 5,166 patients and 5,083 controls.",
+    "autores": [
+      "Osimo EF",
+      "Pillinger T",
+      "Rodriguez IM",
+      "Khandaker GM",
+      "Pariante CM",
+      "Howes OD"
+    ],
+    "revista_ano": "Brain, behavior, and immunity (2020)",
+    "desenho_estudo": "Meta-analise (humano)",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_06",
+    "achado_central_molecular": "meta de variabilidade: elevacao continua concentrada em subgrupo (gradiente)",
+    "extrapolacao_por_analogia": "baixa (humano)",
+    "status_auditoria": "",
+    "claim_id_origem": "",
+    "citacao_confirmada": true,
+    "origem_pipeline": "BUSCA_FERRAMENTA",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "human_clinical",
+    "verification_status": "pendente",
+    "ids_referencia_interna": [
+      "REF_OSIMO_2020"
+    ],
+    "id_referencia_interna": "REF_OSIMO_2020",
+    "_aliases": [
+      "Osimo",
+      "OSIMO"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_06",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "36915214",
+    "doi": "10.1186/s13024-023-00612-1",
+    "titulo_artigo": "Roles of neuropathology-associated reactive astrocytes: a systematic review.",
+    "autores": [
+      "Lawrence JM",
+      "Schardien K",
+      "Wigdahl B",
+      "Rappaport J",
+      "Gelman B",
+      "et al."
+    ],
+    "revista_ano": "Acta Neuropathologica Communications (2023)",
+    "desenho_estudo": "Revisao sistematica (OB; humano+animal)",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_02/2.14",
+    "achado_central_molecular": "revisao sistematica de astrocitos reativos associados a neuropatologia (heterogeneidade/reatividade)",
+    "extrapolacao_por_analogia": "media (revisao; contexto neuroinflamacao, extrapolado para transtornos de humor)",
+    "status_auditoria": "VALIDADO_G3_IA",
+    "citacao_confirmada": true,
+    "origem_pipeline": "BUSCA_FERRAMENTA",
+    "g1_metodo": "eutils_automatico",
+    "especie_mesh": [
+      "Humans",
+      "Animals"
+    ],
+    "evid_role": "human_clinical",
+    "verification_status": "emergente",
+    "ids_referencia_interna": [
+      "REF_LAWRENCE_2023"
+    ],
+    "id_referencia_interna": "REF_LAWRENCE_2023",
+    "claim_id_origem": "",
+    "_aliases": [
+      "Lawrence",
+      "LAWRENCE"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_02/2.14",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "31951051",
+    "doi": "",
+    "titulo_artigo": "A Systematic Review of DNA Methylation and Gene Expression Studies in Posttraumatic Stress Disorder.",
+    "autores": [
+      "Mehta D",
+      "et al."
+    ],
+    "revista_ano": "Journal of traumatic stress (2020)",
+    "desenho_estudo": "OB revisao sistematica (humano; metilacao/expressao em TEPT)",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_02/2.21",
+    "achado_central_molecular": "revisao sistematica de metilacao de DNA e expressao genica (genes imunes/inflamatorios) em TEPT/fatores psicologicos",
+    "extrapolacao_por_analogia": "baixa (humano; revisao)",
+    "status_auditoria": "VALIDADO_G3_IA (resgate Rodada 4, 2026-09-04)",
+    "claim_id_origem": "",
+    "citacao_confirmada": true,
+    "origem_pipeline": "BUSCA_FERRAMENTA",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora (resgate pos-auditoria externa)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "human_clinical",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_MEHTA_2020b"
+    ],
+    "id_referencia_interna": "REF_MEHTA_2020b",
+    "_aliases": [
+      "MEHTA",
+      "Mehta"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_02/2.21",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "id_referencia_interna": "REF_DOWLATI_2010",
+    "pmid_oficial": "20015486",
+    "doi": "10.1016/j.biopsych.2009.09.033",
+    "titulo_artigo": "A meta-analysis of cytokines in major depression.",
+    "autores": [
+      "Dowlati Y",
+      "Herrmann N",
+      "Swardfager W",
+      "Liu H",
+      "Sham L",
+      "Reim EK"
+    ],
+    "revista_ano": "Biological psychiatry (2010)",
+    "desenho_estudo": "Meta-analise (humano)",
+    "forca_evidencia_afirmacao": "alto",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_05",
+    "achado_central_molecular": "TNF-a e IL-6 significativamente elevados na TDM vs controles (meta seminal de citocinas)",
+    "extrapolacao_por_analogia": "baixa (humano direto)",
+    "status_auditoria": "",
+    "claim_id_origem": "B1.MEC.BLOCO05.004",
+    "citacao_confirmada": true,
+    "origem_pipeline": "BUSCA_FERRAMENTA",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "human_clinical",
+    "verification_status": "pendente",
+    "ids_referencia_interna": [
+      "REF_DOWLATI_2010"
+    ],
+    "secao_origem": "mecanismo_B1_neuroinflamacao",
+    "g2_elegibilidade": "eligible",
+    "g2_motivo": "classificado",
+    "_aliases": [
+      "Dowlati",
+      "DOWLATI"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+  },
+  {
+    "id_referencia_interna": "REF_HOWREN_2009",
+    "pmid_oficial": "19188531",
+    "doi": "10.1097/PSY.0b013e3181907c1b",
+    "titulo_artigo": "Associations of depression with C-reactive protein, IL-1, and IL-6: a meta-analysis.",
+    "autores": [
+      "Howren MB",
+      "Lamkin DM",
+      "Suls J"
+    ],
+    "revista_ano": "Psychosomatic medicine (2009)",
+    "desenho_estudo": "Meta-analise (humano)",
+    "forca_evidencia_afirmacao": "alto",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_05",
+    "achado_central_molecular": "depressao associada a PCR, IL-1 e IL-6 elevados (amostras comunitaria+clinica)",
+    "extrapolacao_por_analogia": "baixa (humano direto)",
+    "status_auditoria": "",
+    "claim_id_origem": "B1.MEC.BLOCO05.004",
+    "citacao_confirmada": true,
+    "origem_pipeline": "BUSCA_FERRAMENTA",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "human_clinical",
+    "verification_status": "pendente",
+    "ids_referencia_interna": [
+      "REF_HOWREN_2009"
+    ],
+    "secao_origem": "mecanismo_B1_neuroinflamacao",
+    "g2_elegibilidade": "eligible",
+    "g2_motivo": "classificado",
+    "_aliases": [
+      "HOWREN",
+      "Howren"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+  },
+  {
+    "id_referencia_interna": "REF_GOLDSMITH_2016",
+    "pmid_oficial": "26903267",
+    "doi": "10.1038/mp.2016.3",
+    "titulo_artigo": "A meta-analysis of blood cytokine network alterations in psychiatric patients: comparisons between schizophrenia, bipolar disorder and depression.",
+    "autores": [
+      "Goldsmith DR",
+      "Rapaport MH",
+      "Miller BJ"
+    ],
+    "revista_ano": "Molecular psychiatry (2016)",
+    "desenho_estudo": "Meta-analise (humano)",
+    "forca_evidencia_afirmacao": "medio",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_05",
+    "achado_central_molecular": "rede de citocinas no sangue: padroes distintos entre esquizofrenia/bipolar/TDM e estado agudo/cronico",
+    "extrapolacao_por_analogia": "baixa (humano direto)",
+    "status_auditoria": "",
+    "claim_id_origem": "B1.MEC.BLOCO05.004",
+    "citacao_confirmada": true,
+    "origem_pipeline": "BUSCA_FERRAMENTA",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "human_clinical",
+    "verification_status": "pendente",
+    "ids_referencia_interna": [
+      "REF_GOLDSMITH_2016"
+    ],
+    "secao_origem": "mecanismo_B1_neuroinflamacao",
+    "g2_elegibilidade": "eligible",
+    "g2_motivo": "classificado",
+    "_aliases": [
+      "Goldsmith",
+      "GOLDSMITH"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+  },
+  {
+    "id_referencia_interna": "REF_JARKAS_2024",
+    "pmid_oficial": "39089535",
+    "doi": "10.1016/j.bbi.2024.07.037",
+    "titulo_artigo": "Sex differences in the inflammation-depression link: A systematic review and meta-analysis.",
+    "autores": [
+      "Jarkas DA",
+      "Villeneuve AH",
+      "Daneshmend AZB",
+      "Villeneuve PJ",
+      "McQuaid RJ"
+    ],
+    "revista_ano": "Brain, behavior, and immunity (2024)",
+    "desenho_estudo": "Meta-analise (humano)",
+    "forca_evidencia_afirmacao": "medio",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_05",
+    "achado_central_molecular": "diferencas sexuais na ligacao inflamacao-depressao; efeito mais consistente em mulheres em alguns marcadores",
+    "extrapolacao_por_analogia": "baixa (humano direto)",
+    "status_auditoria": "",
+    "claim_id_origem": "B1.MEC.BLOCO05.004",
+    "citacao_confirmada": true,
+    "origem_pipeline": "BUSCA_FERRAMENTA",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "human_clinical",
+    "verification_status": "pendente",
+    "ids_referencia_interna": [
+      "REF_JARKAS_2024"
+    ],
+    "secao_origem": "mecanismo_B1_neuroinflamacao",
+    "g2_elegibilidade": "eligible",
+    "g2_motivo": "classificado",
+    "_aliases": [
+      "Jarkas",
+      "JARKAS"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+  },
+  {
+    "pmid_oficial": "28445690",
+    "doi": "10.1016/j.pnpbp.2017.04.026",
+    "titulo_artigo": "Effect of antidepressant treatment on peripheral inflammation markers - A meta-analysis.",
+    "autores": [
+      "Więdłocha M",
+      "Marcinowicz P",
+      "Krupa R",
+      "Janoska-Jaździk M",
+      "Janus M",
+      "Dębowska W"
+    ],
+    "revista_ano": "Progress in neuro-psychopharmacology & biological psychiatry (2018)",
+    "desenho_estudo": "Meta-analise (Prog Neuropsychopharmacol; humano)",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_03",
+    "achado_central_molecular": "antidepressivos deslocam balanco pro/anti-inflamatorio de marcadores perifericos",
+    "extrapolacao_por_analogia": "baixa (humano)",
+    "status_auditoria": "",
+    "claim_id_origem": "",
+    "citacao_confirmada": true,
+    "origem_pipeline": "BUSCA_FERRAMENTA",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "human_clinical",
+    "verification_status": "pendente",
+    "ids_referencia_interna": [
+      "REF_WIEDOCHA_2018"
+    ],
+    "g2_elegibilidade": "eligible",
+    "g2_motivo": "classificado",
+    "id_referencia_interna": "REF_WIEDOCHA_2018",
+    "_aliases": [
+      "WIEDOCHA",
+      "Wiedocha"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_03",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "34218905",
+    "doi": "",
+    "titulo_artigo": "Preoperative inflammatory mediators and postoperative delirium: systematic review and meta-analysis.",
+    "autores": [
+      "Noah AM",
+      "et al."
+    ],
+    "revista_ano": "British journal of anaesthesia (2021)",
+    "desenho_estudo": "MA revisao sistematica+meta-analise (humano; mediadores pre-operatorios incl. neopterina/IL-6)",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_05/5.5",
+    "achado_central_molecular": "mediadores inflamatorios pre-operatorios (neopterina, IL-6 etc.) associam-se a delirium pos-operatorio",
+    "extrapolacao_por_analogia": "baixa (humano; contexto cirurgico)",
+    "status_auditoria": "VALIDADO_G3_IA (resgate Rodada 4, 2026-09-04)",
+    "claim_id_origem": "",
+    "citacao_confirmada": true,
+    "origem_pipeline": "BUSCA_FERRAMENTA",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora (resgate pos-auditoria externa)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "human_clinical",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_NOAH_2021"
+    ],
+    "g2_elegibilidade": "eligible",
+    "g2_motivo": "classificado",
+    "id_referencia_interna": "REF_NOAH_2021",
+    "_aliases": [
+      "NOAH",
+      "Noah"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_05/5.5",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "31326932",
+    "doi": "",
+    "titulo_artigo": "Systematic review and meta-analysis of the association between peripheral inflammatory cytokines and anxiety disorders.",
+    "autores": [
+      "Costello H"
+    ],
+    "revista_ano": "BMJ open (2019)",
+    "desenho_estudo": "MA (citocinas perifericas em ansiedade)",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/v2",
+    "achado_central_molecular": "Systematic review and meta-analysis of the association between peripheral inflammatory cytokines and anxiety disorders.",
+    "extrapolacao_por_analogia": "baixa (humano)",
+    "status_auditoria": "VALIDADO_G3_IA (B1 v2, 2026-09-04)",
+    "claim_id_origem": "",
+    "citacao_confirmada": true,
+    "origem_pipeline": "BUSCA_FERRAMENTA",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora (v2)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "human_clinical",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_COSTELLO_2019"
+    ],
+    "g2_elegibilidade": "eligible",
+    "g2_motivo": "classificado",
+    "id_referencia_interna": "REF_COSTELLO_2019",
+    "_aliases": [
+      "COSTELLO",
+      "Costello"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/v2",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "30382535",
+    "doi": "",
+    "titulo_artigo": "Immune aberrations in obsessive-compulsive disorder: a systematic review and meta-analysis.",
+    "autores": [
+      "Cosco TD"
+    ],
+    "revista_ano": "Molecular neurobiology (2019)",
+    "desenho_estudo": "MA (marcadores imunes no TOC)",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/v2",
+    "achado_central_molecular": "Immune aberrations in obsessive-compulsive disorder: a systematic review and meta-analysis.",
+    "extrapolacao_por_analogia": "baixa (humano)",
+    "status_auditoria": "VALIDADO_G3_IA (B1 v2, 2026-09-04)",
+    "claim_id_origem": "",
+    "citacao_confirmada": true,
+    "origem_pipeline": "BUSCA_FERRAMENTA",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora (v2)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "human_clinical",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_COSCO_2019"
+    ],
+    "g2_elegibilidade": "eligible",
+    "g2_motivo": "classificado",
+    "id_referencia_interna": "REF_COSCO_2019",
+    "_aliases": [
+      "COSCO",
+      "Cosco"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/v2",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "29241050",
+    "doi": "",
+    "titulo_artigo": "Cytokine alterations in panic disorder: A systematic review.",
+    "autores": [
+      "Quagliato LA"
+    ],
+    "revista_ano": "Journal of affective disorders (2018)",
+    "desenho_estudo": "OB revisao sistematica (citocinas no panico)",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/v2",
+    "achado_central_molecular": "Cytokine alterations in panic disorder: A systematic review.",
+    "extrapolacao_por_analogia": "baixa (humano)",
+    "status_auditoria": "VALIDADO_G3_IA (B1 v2, 2026-09-04)",
+    "claim_id_origem": "",
+    "citacao_confirmada": true,
+    "origem_pipeline": "BUSCA_FERRAMENTA",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora (v2)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "human_clinical",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_QUAGLIATO_2018"
+    ],
+    "g2_elegibilidade": "eligible",
+    "g2_motivo": "classificado",
+    "id_referencia_interna": "REF_QUAGLIATO_2018",
+    "_aliases": [
+      "Quagliato",
+      "QUAGLIATO"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/v2",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "26544749",
+    "doi": "",
+    "titulo_artigo": "Inflammatory markers in post-traumatic stress disorder: systematic review, meta-analysis.",
+    "autores": [
+      "Passos IC"
+    ],
+    "revista_ano": "Lancet psychiatry (2015)",
+    "desenho_estudo": "MA (marcadores inflamatorios no TEPT)",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/v2",
+    "achado_central_molecular": "Inflammatory markers in post-traumatic stress disorder: systematic review, meta-analysis.",
+    "extrapolacao_por_analogia": "baixa (humano)",
+    "status_auditoria": "VALIDADO_G3_IA (B1 v2, 2026-09-04)",
+    "claim_id_origem": "",
+    "citacao_confirmada": true,
+    "origem_pipeline": "BUSCA_FERRAMENTA",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora (v2)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "human_clinical",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_PASSOS_2015"
+    ],
+    "g2_elegibilidade": "eligible",
+    "g2_motivo": "classificado",
+    "id_referencia_interna": "REF_PASSOS_2015",
+    "_aliases": [
+      "Passos",
+      "PASSOS"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/v2",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "33200498",
+    "doi": "",
+    "titulo_artigo": "Review: Inflammation and anxiety-based disorders in children and adolescents - a systematic review.",
+    "autores": [
+      "Parsons C"
+    ],
+    "revista_ano": "Child and adolescent mental health (2021)",
+    "desenho_estudo": "OB revisao sistematica (ansiedade infantil/ADO)",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/v2",
+    "achado_central_molecular": "Review: Inflammation and anxiety-based disorders in children and adolescents - a systematic review.",
+    "extrapolacao_por_analogia": "baixa (humano)",
+    "status_auditoria": "VALIDADO_G3_IA (B1 v2, 2026-09-04)",
+    "claim_id_origem": "",
+    "citacao_confirmada": true,
+    "origem_pipeline": "BUSCA_FERRAMENTA",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora (v2)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "human_clinical",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_PARSONS_2021"
+    ],
+    "g2_elegibilidade": "eligible",
+    "g2_motivo": "classificado",
+    "id_referencia_interna": "REF_PARSONS_2021",
+    "_aliases": [
+      "Parsons",
+      "PARSONS"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/v2",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "35880170",
+    "doi": "",
+    "titulo_artigo": "Cytokine alterations in pediatric internalizing disorders: systematic review and exploratory meta-analysis.",
+    "autores": [
+      "Howe AS"
+    ],
+    "revista_ano": "Brain behavior & immunity - health (2022)",
+    "desenho_estudo": "MA (citocinas em internalizantes pediatricos)",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/v2",
+    "achado_central_molecular": "Cytokine alterations in pediatric internalizing disorders: systematic review and exploratory meta-analysis.",
+    "extrapolacao_por_analogia": "baixa (humano)",
+    "status_auditoria": "VALIDADO_G3_IA (B1 v2, 2026-09-04)",
+    "claim_id_origem": "",
+    "citacao_confirmada": true,
+    "origem_pipeline": "BUSCA_FERRAMENTA",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora (v2)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "human_clinical",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_HOWE_2022"
+    ],
+    "g2_elegibilidade": "eligible",
+    "g2_motivo": "classificado",
+    "id_referencia_interna": "REF_HOWE_2022",
+    "_aliases": [
+      "HOWE",
+      "Howe"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/v2",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "28338954",
+    "doi": "10.1093/schbul/sbx035",
+    "titulo_artigo": "Meta-analysis of Cerebrospinal Fluid Cytokine and Tryptophan Catabolite Alterations in Psychiatric Patients: Comparisons Between Schizophrenia, Bipolar Disorder, and Depression.",
+    "autores": [
+      "Wang AK",
+      "Miller BJ"
+    ],
+    "revista_ano": "Schizophrenia bulletin (2018)",
+    "desenho_estudo": "Comparative Study; Journal Article; Meta-Analysis",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_05",
+    "achado_central_molecular": "Meta-análise de citocinas e TRYCATs no LCR em transtornos psiquiátricos: alterações discretas/transdiagnósticas",
+    "extrapolacao_por_analogia": "baixa",
+    "status_auditoria": "",
+    "claim_id_origem": "B1.MEC.BLOCO05.006",
+    "citacao_confirmada": true,
+    "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "review",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_WANG_2018b"
+    ],
+    "id_referencia_interna": "REF_WANG_2018b",
+    "_aliases": [
+      "Wang",
+      "WANG",
+      "Wang"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_05",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "28612257",
+    "doi": "",
+    "titulo_artigo": "Peripheral Alterations in Cytokine and Chemokine Levels After Antidepressant Drug Treatment for Major Depressive Disorder: Systematic Review and Meta-Analysis.",
+    "autores": [
+      "Köhler CA",
+      "Freitas TH",
+      "Stubbs B",
+      "Maes M",
+      "Solmi M",
+      "Veronese N",
+      "de Andrade NQ",
+      "Morris G"
+    ],
+    "revista_ano": "Molecular neurobiology (2018)",
+    "desenho_estudo": "Journal Article; Meta-Analysis; Systematic Review",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_06",
+    "achado_central_molecular": "Citocinas/quimiocinas periféricas após tratamento antidepressivo no TDM (meta): queda com resposta",
+    "extrapolacao_por_analogia": "baixa",
+    "status_auditoria": "",
+    "claim_id_origem": "B1.MEC.BLOCO06.001",
+    "citacao_confirmada": true,
+    "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "review",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_KOHLER_2018"
+    ],
+    "id_referencia_interna": "REF_KOHLER_2018",
+    "_aliases": [
+      "Köhler",
+      "KOHLER",
+      "Kohler"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_06",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "30797959",
+    "doi": "10.1016/j.bbi.2019.02.021",
+    "titulo_artigo": "Effects of SSRIs on peripheral inflammatory markers in patients with major depressive disorder: A systematic review and meta-analysis.",
+    "autores": [
+      "Wang L",
+      "Wang R",
+      "Liu L",
+      "Qiao D",
+      "Baldwin DS",
+      "Hou R"
+    ],
+    "revista_ano": "Brain, behavior, and immunity (2019)",
+    "desenho_estudo": "Journal Article; Meta-Analysis; Research Support, Non-U.S. Gov't",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_06",
+    "achado_central_molecular": "Efeitos de ISRIs sobre marcadores inflamatórios periféricos no TDM (meta)",
+    "extrapolacao_por_analogia": "baixa",
+    "status_auditoria": "",
+    "claim_id_origem": "B1.MEC.BLOCO06.001",
+    "citacao_confirmada": true,
+    "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "review",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_WANG_2019"
+    ],
+    "id_referencia_interna": "REF_WANG_2019",
+    "_aliases": [
+      "Wang",
+      "WANG",
+      "Wang"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_06",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "30939048",
+    "doi": "10.1089/cap.2019.0015",
+    "titulo_artigo": "Inflammatory Cytokines in Children and Adolescents with Depressive Disorders: A Systematic Review and Meta-Analysis.",
+    "autores": [
+      "D'Acunto G",
+      "Nageye F",
+      "Zhang J",
+      "Masi G",
+      "Cortese S"
+    ],
+    "revista_ano": "Journal of child and adolescent psychopharmacology (2019)",
+    "desenho_estudo": "Journal Article; Meta-Analysis; Systematic Review",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_05",
+    "achado_central_molecular": "Citocinas inflamatórias em crianças/adolescentes com transtornos depressivos (meta)",
+    "extrapolacao_por_analogia": "baixa",
+    "status_auditoria": "",
+    "claim_id_origem": "B1.MEC.BLOCO05.004",
+    "citacao_confirmada": true,
+    "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "review",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_DACUNTO_2019"
+    ],
+    "id_referencia_interna": "REF_DACUNTO_2019",
+    "_aliases": [
+      "D'Acunto",
+      "D'ACUNTO",
+      "D'Acunto"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_05",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "31195092",
+    "doi": "10.1016/j.bbi.2019.06.015",
+    "titulo_artigo": "Markers of central inflammation in major depressive disorder: A systematic review and meta-analysis of studies examining cerebrospinal fluid, positron emission tomography and post-mortem brain tissue.",
+    "autores": [
+      "Enache D",
+      "Pariante CM",
+      "Mondelli V"
+    ],
+    "revista_ano": "Brain, behavior, and immunity (2019)",
+    "desenho_estudo": "Journal Article; Meta-Analysis; Research Support, Non-U.S. Gov't",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_05",
+    "achado_central_molecular": "meta-analise de marcadores centrais no TDM em LCR e PET (69 estudos); pos-morte tratado como revisao narrativa, sem metanalise; marcadores centrais parcialmente independentes dos perifericos",
+    "extrapolacao_por_analogia": "baixa",
+    "status_auditoria": "",
+    "claim_id_origem": "B1.MEC.BLOCO05.006",
+    "citacao_confirmada": true,
+    "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "review",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_ENACHE_2019"
+    ],
+    "id_referencia_interna": "REF_ENACHE_2019",
+    "_aliases": [
+      "Enache",
+      "ENACHE",
+      "Enache"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_05",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": "",
+    "nota_reparo": "{\"data\": \"2026-09-13\", \"regra\": \"C1/AUD-049\", \"campo\": \"achado_central_molecular\", \"valor_anterior\": \"Marcadores CENTRAIS de inflamação no TDM (LCR/PET/pós-morte): meta — parcialmente independentes do periférico\", \"motivo\": \"R11/AUD-030: escopo corrigido na prosa da V5; ficha e ledger mantinham 'meta tri-compartimental'.\"}"
+  },
+  {
+    "pmid_oficial": "31427752",
+    "doi": "10.1146/annurev-publhealth-031912-114409",
+    "titulo_artigo": "Peripheral cytokine levels and response to antidepressant treatment in depression: a systematic review and meta-analysis.",
+    "autores": [
+      "Liu JJ",
+      "Wei YB",
+      "Strawbridge R",
+      "Bao Y",
+      "Chang S",
+      "Shi L",
+      "Que J",
+      "Gadad BS"
+    ],
+    "revista_ano": "Molecular psychiatry (2020)",
+    "desenho_estudo": "Journal Article; Meta-Analysis; Research Support, N.I.H., Extramural",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_06",
+    "achado_central_molecular": "Citocinas periféricas e RESPOSTA a antidepressivo (meta): TNF/citocinas caem em respondedores",
+    "extrapolacao_por_analogia": "baixa",
+    "status_auditoria": "",
+    "claim_id_origem": "B1.MEC.BLOCO06.001",
+    "citacao_confirmada": true,
+    "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "review",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_LIU_2020b"
+    ],
+    "id_referencia_interna": "REF_LIU_2020b",
+    "_aliases": [
+      "Liu",
+      "LIU",
+      "Liu"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_06",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "32807846",
+    "doi": "",
+    "titulo_artigo": "The longitudinal associations of inflammatory biomarkers and depression revisited: systematic review, meta-analysis, and meta-regression.",
+    "autores": [
+      "Mac Giollabhui N",
+      "Ng TH",
+      "Ellman LM",
+      "Alloy LB"
+    ],
+    "revista_ano": "Molecular psychiatry (2021)",
+    "desenho_estudo": "Journal Article; Meta-Analysis; Research Support, N.I.H., Extramural",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_05",
+    "achado_central_molecular": "Associações longitudinais inflamação<->depressão: bidirecionais mas modestas",
+    "extrapolacao_por_analogia": "baixa",
+    "status_auditoria": "",
+    "claim_id_origem": "B1.MEC.BLOCO05.004",
+    "citacao_confirmada": true,
+    "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "review",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_MACGIOLLABHUI_2021"
+    ],
+    "id_referencia_interna": "REF_MACGIOLLABHUI_2021",
+    "_aliases": [
+      "Mac",
+      "MAC",
+      "Mac"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_05",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "34864233",
+    "doi": "10.1016/j.psychres.2021.114317",
+    "titulo_artigo": "Fluoxetine modulates the pro-inflammatory process of IL-6, IL-1β and TNF-α levels in individuals with depression: a systematic review and meta-analysis.",
+    "autores": [
+      "García-García ML",
+      "Tovilla-Zárate CA",
+      "Villar-Soto M",
+      "Juárez-Rojop IE",
+      "González-Castro TB",
+      "Genis-Mendoza AD",
+      "Ramos-Méndez MÁ",
+      "López-Nárvaez ML"
+    ],
+    "revista_ano": "Psychiatry research (2022)",
+    "desenho_estudo": "Journal Article; Meta-Analysis; Systematic Review",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_06",
+    "achado_central_molecular": "Fluoxetina modula IL-6/IL-1b/TNF-a em TDM (meta; ~292 pacientes)",
+    "extrapolacao_por_analogia": "baixa",
+    "status_auditoria": "",
+    "claim_id_origem": "B1.MEC.BLOCO06.001",
+    "citacao_confirmada": true,
+    "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "review",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_GARCIAGARCIA_2022"
+    ],
+    "id_referencia_interna": "REF_GARCIAGARCIA_2022",
+    "_aliases": [
+      "García-García",
+      "GARCIA-GARCIA",
+      "Garcia-Garcia"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_06",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "36226319",
+    "doi": "10.3389/fnmol.2022.981442",
+    "titulo_artigo": "Meta-analysis of molecular imaging of translocator protein in major depression.",
+    "autores": [
+      "Eggerstorfer B",
+      "Kim JH",
+      "Cumming P",
+      "Lanzenberger R",
+      "Gryglewski G"
+    ],
+    "revista_ano": "Frontiers in molecular neuroscience (2022)",
+    "desenho_estudo": "Systematic Review; Journal Article",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_05",
+    "achado_central_molecular": "Meta de imagem molecular TSPO na depressão: aumento ~18%, sem especificidade celular",
+    "extrapolacao_por_analogia": "baixa",
+    "status_auditoria": "",
+    "claim_id_origem": "B1.MEC.BLOCO05.002",
+    "citacao_confirmada": true,
+    "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+    "especie_mesh": [],
+    "evid_role": "review",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_EGGERSTORFER_2022"
+    ],
+    "id_referencia_interna": "REF_EGGERSTORFER_2022",
+    "_aliases": [
+      "Eggerstorfer",
+      "EGGERSTORFER",
+      "Eggerstorfer"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_05",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "36231075",
+    "doi": "10.3390/cells11193112",
+    "titulo_artigo": "The Tryptophan Catabolite or Kynurenine Pathway in a Major Depressive Episode with Melancholia, Psychotic Features and Suicidal Behaviors: A Systematic Review and Meta-Analysis.",
+    "autores": [
+      "Almulla AF",
+      "Thipakorn Y",
+      "Vasupanrajit A",
+      "Tunvirachaisakul C",
+      "Oxenkrug G",
+      "Al-Hakeim HK",
+      "Maes M"
+    ],
+    "revista_ano": "Cells (2022)",
+    "desenho_estudo": "Journal Article; Meta-Analysis; Systematic Review",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_02",
+    "achado_central_molecular": "TRYCATs no episódio depressivo (meta): alterações sobretudo em melancolia/psicótico/suicida",
+    "extrapolacao_por_analogia": "baixa",
+    "status_auditoria": "",
+    "claim_id_origem": "B1.MEC.BLOCO02.010",
+    "citacao_confirmada": true,
+    "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "review",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_ALMULLA_2022"
+    ],
+    "id_referencia_interna": "REF_ALMULLA_2022",
+    "_aliases": [
+      "Almulla",
+      "ALMULLA",
+      "Almulla"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_02",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "38025419",
+    "doi": "10.3389/fpsyt.2023.1242367",
+    "titulo_artigo": "The role of IL-33 in depression: a systematic review and meta-analysis.",
+    "autores": [
+      "Liu R",
+      "Liu L",
+      "Ren S",
+      "Wei C",
+      "Wang Y",
+      "Li D",
+      "Zhang W"
+    ],
+    "revista_ano": "Frontiers in psychiatry (2023)",
+    "desenho_estudo": "Systematic Review; Journal Article",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_03",
+    "achado_central_molecular": "IL-33 e depressão: revisão sistemática com meta-análise — sinal emergente de alarmina",
+    "extrapolacao_por_analogia": "baixa",
+    "status_auditoria": "",
+    "claim_id_origem": "B1.MEC.BLOCO03.017",
+    "citacao_confirmada": true,
+    "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+    "especie_mesh": [],
+    "evid_role": "review",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_LIU_2023b"
+    ],
+    "id_referencia_interna": "REF_LIU_2023b",
+    "_aliases": [
+      "Liu",
+      "LIU",
+      "Liu"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_03",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "39603515",
+    "doi": "10.1016/j.jad.2024.11.071",
+    "titulo_artigo": "Blood cytokines in major depressive disorder in drug-naïve adolescents: A systematic review and meta-analysis.",
+    "autores": [
+      "Jadhav KK",
+      "Daouk J",
+      "Kurkinen K",
+      "Kraav SL",
+      "Eriksson P",
+      "Tolmunen T",
+      "Kanninen KM"
+    ],
+    "revista_ano": "Journal of affective disorders (2025)",
+    "desenho_estudo": "Journal Article; Systematic Review; Meta-Analysis",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_05",
+    "achado_central_molecular": "Citocinas no TDM de adolescentes DRUG-NAÏVE (meta)",
+    "extrapolacao_por_analogia": "baixa",
+    "status_auditoria": "",
+    "claim_id_origem": "B1.MEC.BLOCO05.004",
+    "citacao_confirmada": true,
+    "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "review",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_JADHAV_2025"
+    ],
+    "id_referencia_interna": "REF_JADHAV_2025",
+    "_aliases": [
+      "Jadhav",
+      "JADHAV",
+      "Jadhav"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_05",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "41023687",
+    "doi": "10.1016/S0140-6736(22)02080-3",
+    "titulo_artigo": "Sertraline and inflammatory markers in major depression: a systematic review and meta-analysis.",
+    "autores": [
+      "Xie Z",
+      "Gao Z",
+      "Li X",
+      "Li S",
+      "Tang F",
+      "Zhang C"
+    ],
+    "revista_ano": "Annals of general psychiatry (2025)",
+    "desenho_estudo": "Journal Article; Review",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_06",
+    "achado_central_molecular": "Sertralina e marcadores inflamatórios no TDM (meta 2025)",
+    "extrapolacao_por_analogia": "baixa",
+    "status_auditoria": "",
+    "claim_id_origem": "B1.MEC.BLOCO06.001",
+    "citacao_confirmada": true,
+    "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+    "especie_mesh": [],
+    "evid_role": "review",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_XIE_2025"
+    ],
+    "id_referencia_interna": "REF_XIE_2025",
+    "_aliases": [
+      "Xie",
+      "XIE",
+      "Xie"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_06",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "41226404",
+    "doi": "10.3390/ijms262110362",
+    "titulo_artigo": "Altered Cytokine Levels in the First Episode of Major Depression and in Antidepressant-Naïve Patients: A Systematic Review and Meta-Analysis.",
+    "autores": [
+      "Gędek A",
+      "Modrzejewski S",
+      "Materna M",
+      "Iwański M",
+      "Wichniak A",
+      "Dominiak M"
+    ],
+    "revista_ano": "International journal of molecular sciences (2025)",
+    "desenho_estudo": "Journal Article; Systematic Review; Meta-Analysis",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_05",
+    "achado_central_molecular": "Citocinas alteradas no PRIMEIRO EPISÓDIO e em pacientes antidepressivo-naïve (meta)",
+    "extrapolacao_por_analogia": "baixa",
+    "status_auditoria": "",
+    "claim_id_origem": "B1.MEC.BLOCO05.004",
+    "citacao_confirmada": true,
+    "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "review",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_GEDEK_2025"
+    ],
+    "id_referencia_interna": "REF_GEDEK_2025",
+    "_aliases": [
+      "Gędek",
+      "GEDEK",
+      "Gedek"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_05",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "41588410",
+    "doi": "10.1016/S0140-6736(18)31948-2",
+    "titulo_artigo": "TNF-α levels in first-episode, drug-naïve patients with major depressive disorder: a case-control study and meta-analysis.",
+    "autores": [
+      "Li C",
+      "Wang Y",
+      "Chen J",
+      "Xiao S",
+      "Lou M",
+      "Ding M",
+      "Xing Y"
+    ],
+    "revista_ano": "BMC psychiatry (2026)",
+    "desenho_estudo": "Journal Article; Meta-Analysis",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_05",
+    "achado_central_molecular": "TNF-a em primeiro episódio drug-naïve: caso-controle + meta",
+    "extrapolacao_por_analogia": "baixa",
+    "status_auditoria": "",
+    "claim_id_origem": "B1.MEC.BLOCO05.004",
+    "citacao_confirmada": true,
+    "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "human_clinical",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_LI_2026"
+    ],
+    "id_referencia_interna": "REF_LI_2026",
+    "_aliases": [
+      "Li",
+      "LI",
+      "Li"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_05",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  },
+  {
+    "pmid_oficial": "41712983",
+    "doi": "10.1016/j.psychres.2026.117003",
+    "titulo_artigo": "NLRP3 inflammasome priming and activation is involved in depression: A systematic review and meta-analysis.",
+    "autores": [
+      "McColgan L",
+      "McNaugher G",
+      "Church M",
+      "Murray EK",
+      "Kelly C",
+      "Coyle S",
+      "McGilligan V"
+    ],
+    "revista_ano": "Psychiatry research (2026)",
+    "desenho_estudo": "Journal Article; Systematic Review; Meta-Analysis",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_02",
+    "achado_central_molecular": "Priming E ativação do NLRP3 envolvidos na depressão (rev. sistemática/meta de modelos animais)",
+    "extrapolacao_por_analogia": "baixa",
+    "status_auditoria": "",
+    "claim_id_origem": "B1.MEC.BLOCO02.001",
+    "citacao_confirmada": true,
+    "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+    "especie_mesh": [
+      "Animals",
+      "Humans"
+    ],
+    "evid_role": "review",
+    "verification_status": "verificado",
+    "ids_referencia_interna": [
+      "REF_MCCOLGAN_2026"
+    ],
+    "id_referencia_interna": "REF_MCCOLGAN_2026",
+    "_aliases": [
+      "McColgan",
+      "MCCOLGAN",
+      "McColgan"
+    ],
+    "sinais_classificacao": [
+      "titulo:meta-analise/revisao-sistematica"
+    ],
+    "migrado_em": "2026-09-11",
+    "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+    "bloco_origem": "mecanismo_B1_neuroinflamacao/BLOCO_02",
+    "bloco_origem_derivado_de_secao": true,
+    "forca_evidencia_afirmacao": ""
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "data": "2026-09-13",
+  "trilha": "18",
+  "tema": "re-ancoras V-02 (delegação científica) + precisão citacional com inicial",
+  "ops": [
+    {
+      "onde": "canônica L231",
+      "de": "(Li et al., 2025)",
+      "para": "(Li H et al., 2025)",
+      "descricao": "Li H (REF_LI_2025b, cGAS-STING/envelhecimento, PMID 41094684) × Li C (REF_LI_2025, clearance Aβ pós-AVE, PMID 40391473) — autoria distinta; ambiguidade que originou a recusa automática V-02"
+    },
+    {
+      "onde": "canônica L495",
+      "de": "(Li et al., 2025)",
+      "para": "(Li C et al., 2025)",
+      "descricao": "idem (Li C)"
+    },
+    {
+      "onde": "canônica L255",
+      "de": "(Mehta et al., 2020)",
+      "para": "(Mehta D et al., 2020)",
+      "descricao": "Mehta D (REF_MEHTA_2020b, metilação TEPT, PMID 31951051) × Mehta ND (REF_MEHTA_2020, anedonia, PMID 32291455)"
+    },
+    {
+      "onde": "canônica L647",
+      "de": "(Mehta et al., 2020)",
+      "para": "(Mehta ND et al., 2020)",
+      "descricao": "idem (Mehta ND)"
+    },
+    {
+      "onde": "vínculo VINC_B1_0100",
+      "de": "(Li et al., 2025)",
+      "para": "(Li C et al., 2025)"
+    },
+    {
+      "onde": "vínculo VINC_B1_0136",
+      "de": "(Mehta et al., 2020)",
+      "para": "(Mehta ND et al., 2020)"
+    },
+    {
+      "onde": "vínculo VINC_B1_0261",
+      "de": "*ZHANG_2025[ML] | KIM_2025[ML] | ZHANG_2025b[ML] | LI_2025[ML] | LANG_2025[ML] |",
+      "para": "O eixo IL-10–STAT3–galectina-3 é essencial para macrófagos reparativos (Shirakawa et al., 2018)[ML; camundongo"
+    },
+    {
+      "onde": "vínculo VINC_B1_0262",
+      "de": "*ZHANG_2025[ML] | KIM_2025[ML] | ZHANG_2025b[ML] | LI_2025[ML] | LANG_2025[ML] |",
+      "para": "TREM2 é também receptor de fagocitose que limita o NLRP3 (Huang et al., 2024)[ML; camundongo, ver BLOCO02.003]"
+    },
+    {
+      "onde": "vínculo VINC_B1_0265",
+      "de": "*ZHANG_2025[ML] | KIM_2025[ML] | ZHANG_2025b[ML] | LI_2025[ML] | LANG_2025[ML] |",
+      "para": "Vazamento de mtDNA e cGAS-STING no envelhecimento cerebral são alvo terapêutico emergente (Li H et al., 2025)["
+    },
+    {
+      "onde": "vínculo VINC_B1_0266",
+      "de": "*MEHTA_2020b[MA] | CHENG_2021[ML] | TANNAHILL_2013[ML] | LIU_2023[ML] | ENGSKOGV",
+      "para": "Fatores psicológicos associam-se a metilação de DNA de genes do sistema imune/inflamatório (Mehta D et al., 20"
+    },
+    {
+      "onde": "canônica APÊNDICE",
+      "de": "| WILLIS_2020[ML] | MEHTA_2020[MA] | CHUKAEW_2021[MA]",
+      "para": "| WILLIS_2020[ML] | MEHTA_2020[OB] | MEHTA_2020b[MA] | CHUKAEW_2021[MA]",
+      "descricao": "token duplo Mehta: MEHTA_2020[OB] (ND, anedonia, 01_pmids) + MEHTA_2020b[MA] (D, metilação, 02_meta) — ficha existia mas token era ambíguo"
+    }
+  ],
+  "decisoes": [
+    {
+      "id": "VINC_B1_0261",
+      "ref": "REF_HAN_2023",
+      "justificativa_cientifica": "única citação (Han et al., 2023) na prosa; frase espelha o título do registro PMID 37597297 (entrega de IL-10 a microglia/macrófago via lipossomos PS melhora desfecho em hemorragia intracerebral)"
+    },
+    {
+      "id": "VINC_B1_0262",
+      "ref": "REF_HUANG_2024",
+      "justificativa_cientifica": "L437 descartada por autoria: é Huang S (REF_HUANG_2024b, Na/K-P2X7, PMID 38395698); L455 espelha o título PMID 37917301 (TREM2 Deficiency Aggravates NLRP3/Pyroptosis em MPTP) — Huang P"
+    },
+    {
+      "id": "VINC_B1_0265",
+      "ref": "REF_LI_2025b",
+      "justificativa_cientifica": "L495 descartada por autoria: é Li C (REF_LI_2025, clearance glinfático Aβ, PMID 40391473); L231 espelha o título PMID 41094684 (cGAS-STING signaling in brain aging) — Li H"
+    },
+    {
+      "id": "VINC_B1_0266",
+      "ref": "REF_MEHTA_2020b",
+      "justificativa_cientifica": "L647 descartada por autoria: é Mehta ND (REF_MEHTA_2020, anedonia/trauma, PMID 32291455); L255 espelha o título PMID 31951051 (Systematic Review of DNA Methylation in PTSD) — Mehta D"
+    }
+  ],
+  "rev1": {
+    "data": "2026-09-13",
+    "o_que": "1ª passada usou INICIAL de autoria; o portão V-05 oficial só reconhece '(Sobrenome et al., ANO[sufixo])' — cobertura caiu p/ 94,1% (V-05 virou ERRO). Reversão no mesmo passe p/ SUFIXO DE ANO, forma canônica dos IDs/tokens. Sugestão de hardening a enviar ao auditor: regex aceitar inicial opcional (APA/ABNT).",
+    "efeito": "âncoras reescritas na forma-sufixo; literalidade re-verificada abaixo"
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "documento": "_ids_oficiais",
+  "tipo": "suporte_decisao_clinica",
+  "nao_substitui_julgamento_profissional": true,
+  "nao_realiza_diagnostico": true,
+  "decisao_final_profissional": true,
+  "regra_uso": "Todo arquivo gerado sob pipeline v2.6 deve validar seus IDs contra este catálogo antes de qualquer claim ser fechado como status:aprovado. Validação ocorre no fluxo G1→G2→G3 (ver Como Executar): o campo referencia_cruzada do Schema-Claim só aceita ID oficial completo deste catálogo. ID não listado = ID inválido = claim não pode ser fechado.",
+  "D1_micronutrientes": [
+    "omega3_epa_dha",
+    "vitd3_k2",
+    "magnesio_treonato",
+    "magnesio_glicinato",
+    "zinco_bisglicinato",
+    "vitamina_b12_5mthf",
+    "b12_metilcobalamina",
+    "ferro_bisglicinato",
+    "vitamina_b6_p5p",
+    "vitamina_c",
+    "dhea"
+  ],
+  "D2_aminoacidos": [
+    "5htp",
+    "ltriptofano",
+    "ltirosina",
+    "same",
+    "lteanina",
+    "gaba_lipossomal",
+    "glicina",
+    "nac",
+    "alcar",
+    "inositol",
+    "taurina"
+  ],
+  "D3_fitoterapicos": [
+    "acafrao_crocus",
+    "ashwagandha",
+    "rhodiola_rosea",
+    "erva_sao_joao",
+    "passiflora",
+    "valeriana",
+    "curcumina",
+    "lions_mane",
+    "bacopa_monnieri",
+    "melatonina_cr",
+    "lavanda_silexan",
+    "kava_kava",
+    "pea_palmitoiletanolamida"
+  ],
+  "D4_fosfolipidios": [
+    "fosfatidilserina",
+    "fosfatidilcolina",
+    "creatina"
+  ],
+  "D5_psicobioticos": [
+    "lactobacillus_rhamnosus_jb1",
+    "bifidobacterium_longum_1714",
+    "psicobiotico_combo",
+    "lactobacillus_ps128",
+    "prebiotico_fos_gos"
+  ],
+  "D6_complementares": [
+    "secao_exercicio",
+    "secao_sono_luz",
+    "secao_trauma_epigenetica",
+    "secao_dieta_nutricao",
+    "secao_psicoterapia"
+  ],
+  "C1_escalas": [
+    "exame_phq9",
+    "exame_gad7",
+    "exame_ham_d",
+    "exame_ham_a",
+    "exame_dass21",
+    "exame_isi",
+    "exame_pss",
+    "exame_pcl5",
+    "exame_mbi",
+    "exame_cssrs",
+    "exame_ybocs",
+    "exame_pdss"
+  ],
+  "C2_causa_organica": [
+    "exame_tireoide_funcional",
+    "exame_hemograma_completo",
+    "exame_ferritina_ferro",
+    "exame_glicemia_hba1c",
+    "exame_glicemia_insulina",
+    "exame_eletrolitos",
+    "exame_cortisol_matinal",
+    "exame_funcao_hepatica",
+    "exame_albumina"
+  ],
+  "C3_deficiencias": [
+    "exame_vitd",
+    "exame_b12",
+    "exame_folato",
+    "exame_homocisteina",
+    "exame_magnesio_eritrocitario",
+    "exame_zinco",
+    "exame_b6_p5p",
+    "exame_selenio",
+    "exame_omega3_index"
+  ],
+  "C4_inflamatorios": [
+    "exame_pcr_us",
+    "exame_il6",
+    "exame_fibrinogenio",
+    "exame_vhs",
+    "exame_il1beta",
+    "exame_tnfalpha",
+    "exame_razao_kyn_trp"
+  ],
+  "C5_hpa": [
+    "exame_cortisol_salivar_4pts",
+    "exame_cortisol_urinario_24h",
+    "exame_dhea_s",
+    "exame_dutch_test",
+    "exame_dexametasona",
+    "exame_acth",
+    "exame_estradiol",
+    "exame_progesterona",
+    "exame_testosterona_shbg"
+  ],
+  "C6_neurotransmissores": [
+    "exame_serotonina_plaquetaria",
+    "exame_aminoacidos_plasmaticos",
+    "exame_acido_metilmalonico"
+  ],
+  "C7_acidos_organicos": [
+    "exame_oat"
+  ],
+  "C8_farmacogenomica": [
+    "exame_mthfr",
+    "exame_comt",
+    "exame_slc6a4",
+    "exame_bdnf_val66met",
+    "exame_mao_a",
+    "exame_cyp2d6_2c19",
+    "exame_apoe",
+    "exame_snps_inflamatorios"
+  ],
+  "C9_sono": [
+    "exame_melatonina_salivar_dlmo",
+    "exame_polissonografia",
+    "exame_actigrafia"
+  ],
+  "C10_microbiota": [
+    "exame_zonulina",
+    "exame_lps_serico",
+    "exame_calprotectina",
+    "exame_16s_rrna"
+  ],
+  "C11_estresse_oxidativo": [
+    "exame_glutationa_gsh",
+    "exame_gssg",
+    "exame_8_ohdg",
+    "exame_capacidade_antioxidante_total"
+  ],
+  "C12_metais": [
+    "exame_metais_pesados"
+  ],
+  "C13_algoritmo": [
+    "algoritmo_resultado_protocolo"
+  ],
+  "mecanismos": [
+    "mecanismo_B1_neuroinflamacao",
+    "mecanismo_B2_eixo_hpa_cortisol",
+    "mecanismo_B3_neuroplasticidade",
+    "mecanismo_B4_deficiencias_monoaminas",
+    "mecanismo_B5_gaba_glutamato",
+    "mecanismo_B6_estresse_oxidativo",
+    "mecanismo_B7_eixo_intestino_cerebro",
+    "mecanismo_B8_deficiencias_micronutrientes",
+    "mecanismo_B9_disfuncao_mitocondrial",
+    "mecanismo_B10_desregulacao_circadiana",
+    "mecanismo_B11_disfuncao_tireoidiana",
+    "mecanismo_B12_neurobiologia_trauma",
+    "mecanismo_B13_sistema_endocanabinoide",
+    "mecanismo_B14_neuroesteroides_hormonios",
+    "mecanismo_B15_autofagia_mtor",
+    "mecanismo_B16_neurogenese"
+  ],
+  "cenarios": [
+    "cenario_E1",
+    "cenario_E2",
+    "cenario_E3",
+    "cenario_E4",
+    "cenario_E5",
+    "cenario_E6",
+    "cenario_E7",
+    "cenario_E8",
+    "cenario_E9",
+    "cenario_E10",
+    "cenario_E99_urgencias_psiquiatricas"
+  ],
+  "ids_proibidos": {
+    "exame_hamd": "usar exame_ham_d",
+    "exame_hama": "usar exame_ham_a",
+    "exame_magnesio": "usar exame_magnesio_eritrocitario",
+    "exame_cortisol_manha": "usar exame_cortisol_matinal",
+    "kava": "usar kava_kava",
+    "rhodiola": "usar rhodiola_rosea",
+    "gaba": "usar gaba_lipossomal",
+    "acafrao": "usar acafrao_crocus",
+    "bacopa": "usar bacopa_monnieri",
+    "zinco": "usar zinco_bisglicinato",
+    "omega3": "usar omega3_epa_dha",
+    "alcar_carnitina": "usar alcar",
+    "vitamina_c_ascorbato": "usar vitamina_c",
+    "omega3__epa_dha": "usar omega3_epa_dha — underscore duplo — ID invalido historico",
+    "mecanismo_B3_bdnf_neurogenese": "usar mecanismo_B3_neuroplasticidade",
+    "mecanismo_B12_neuroplasticidade_trauma": "usar mecanismo_B12_neurobiologia_trauma"
+  },
+  "ids_removidos_definitivo": [
+    "coq10_ubiquinol",
+    "pqq",
+    "resveratrol",
+    "espermidina",
+    "acido_alfa_lipoico"
+  ],
+  "ids_duais": {
+    "descricao": "Suplementos com TIPO_1 primario e TIPO_2 secundario simultaneamente. tipo_primario determina entrada. tipo_secundario reforça indicacao mas nao e bloqueante.",
+    "lista": [
+      "omega3_epa_dha",
+      "vitd3_k2",
+      "b12_metilcobalamina",
+      "magnesio_treonato",
+      "zinco_bisglicinato"
+    ],
+    "nota_ferro": "ferro_bisglicinato removido — classificado como TIPO_2 puro. Entrada depende exclusivamente de déficit laboratorial confirmado. Alinhado com _regras_globais.json R03."
+  },
+  "contagem": {
+    "D1_micronutrientes": 11,
+    "D2_aminoacidos": 11,
+    "D3_fitoterapicos": 13,
+    "D4_fosfolipidios": 3,
+    "D5_psicobioticos": 5,
+    "D6_complementares": 5,
+    "C1_escalas": 12,
+    "C2_causa_organica": 9,
+    "C3_deficiencias": 9,
+    "C4_inflamatorios": 7,
+    "C5_hpa": 9,
+    "C6_neurotransmissores": 3,
+    "C7_acidos_organicos": 1,
+    "C8_farmacogenomica": 8,
+    "C9_sono": 3,
+    "C10_microbiota": 4,
+    "C11_estresse_oxidativo": 4,
+    "C12_metais": 1,
+    "C13_algoritmo": 1,
+    "mecanismos": 16,
+    "cenarios": 11,
+    "ids_proibidos": 15,
+    "ids_removidos_definitivo": 5,
+    "ids_duais": 5,
+    "total_ids_validos": 146
+  },
+  "regras_nomenclatura": {
+    "formato": "snake_case puro",
+    "proibido": "camelCase | PascalCase | hifens | acentos | espacos",
+    "exemplo_correto": "omega3_epa_dha",
+    "exemplo_incorreto": "Omega3EpaDha | omega3-epa-dha | ômega3_epa_dha"
+  },
+  "semantic_layer": {
+    "clinical_summary": "Catálogo canônico de todos os identificadores válidos do sistema de suporte à decisão clínica em saúde mental integrativa. Serve como fonte de verdade para validação de IDs em todas as etapas do pipeline de geração. Usar sempre que um arquivo novo precisar validar IDs antes da auditoria final.",
+    "rag_context_hint": "Recuperar quando: validação de ID de suplemento, exame, mecanismo, cenário ou escala for necessária; ID desconhecido precisar ser verificado; novo arquivo precisar confirmar conformidade com catálogo canônico.",
+    "clinical_domains": [
+      "seguranca_clinica",
+      "decisao_terapeutica",
+      "triagem_clinica",
+      "farmacologia_integrativa"
+    ],
+    "semantic_keywords": [
+      "ids_canonicos",
+      "catalogo_suplementos",
+      "exames_laboratoriais",
+      "escalas_psicometricas",
+      "mecanismos_neuropsiquiatricos",
+      "cenarios_clinicos",
+      "validacao_pipeline",
+      "snake_case",
+      "ids_proibidos",
+      "ids_removidos",
+      "tipo_indicacao",
+      "suporte_decisao"
+    ],
+    "related_entities": [
+      "algoritmo_resultado_protocolo",
+      "cenario_E1",
+      "cenario_E2",
+      "omega3_epa_dha"
+    ]
+  }
+}

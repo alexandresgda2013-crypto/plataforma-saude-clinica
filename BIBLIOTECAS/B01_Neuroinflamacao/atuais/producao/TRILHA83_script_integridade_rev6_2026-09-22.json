@@ -1,0 +1,30 @@
+{
+  "trilha": 83,
+  "rodada": 70,
+  "data": "2026-09-22",
+  "verde": 3,
+  "total": 3,
+  "checks": [
+    {
+      "check": "T1_UPLOADS_IGUAL_SERIE_IGUAL_REGISTRO",
+      "status": "VERDE",
+      "nota": "uploads = 98e90bdc7551… · série = 98e90bdc7551… · escritura = 98e90bdc7551… → os três são O MESMO objeto byte a byte; a rev.6 não sofreu NENHuma alteração dentro do Arena desde a chegada (a casa só leu)"
+    },
+    {
+      "check": "T2_MESMA_DIGITAL_DESDE_A_CHEGADA",
+      "status": "VERDE",
+      "nota": "a digital medida HOJE é idêntica à medida no ato do recebimento (trilha 81 T1, 2026-09-22) e à da escritura L06_VIGENTE.txt — recebeu → mediu → arquivou → só leu"
+    },
+    {
+      "check": "T3_ESCRITURA_COERENTE",
+      "status": "VERDE",
+      "nota": "L06_VIGENTE.txt registra exatamente esta digital — o que você salva nos seus arquivos, se for o arquivo que chegou aqui, tem sha-256 = 98e90bdc755162b28fd16817d65692cebe81f939c466ef1d29c7a0a1124f2b41"
+    }
+  ],
+  "resumo": "TRILHA 83: 3/3 — RESPOSTA AO OPERADOR: dentro do Arena, a rev.6 NÃO mudou um byte: uploads ≡ série ≡ digital da escritura (98e90bdc…, medida igual na chegada e agora). Para conferir o arquivo no SEU computador: sha-256 dele tem de dar 98e90bdc755162b28fd16817d65692cebe81f939c466ef1d29c7a0a1124f2b41. Escopo honesto: dentro do mestre (projeto dele), quem responde é ele com o mesmo teste — o comando está na resposta.",
+  "digitais": {
+    "uploads": "98e90bdc755162b28fd16817d65692cebe81f939c466ef1d29c7a0a1124f2b41",
+    "serie": "98e90bdc755162b28fd16817d65692cebe81f939c466ef1d29c7a0a1124f2b41",
+    "esperada": "98e90bdc755162b28fd16817d65692cebe81f939c466ef1d29c7a0a1124f2b41"
+  }
+}

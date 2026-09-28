@@ -1,0 +1,143 @@
+{
+  "trilha": "27_replicacao_L05_v1.1_auditor_estrutura",
+  "data": "2026-09-15",
+  "objeto": "réplica estrutural da proposta L-05 v1.1 (auditor de estrutura) contra acervo B1 V7",
+  "hashes_entrada": {
+    "schema_referencia_v1.1": "737bcda824b6c355d4f9b34faa3703e5ff94537b65751efbcc9d26b4b93553db",
+    "schema_vinculo_v1.1": "b0934412b010b7e0801f372ae57769fe0daa42c046e757128788159ec9ff4130",
+    "proposta_md": "97af2ecba12d4616500e3f6f47823853dd44bb4ea14a3810ddbf64163fa72f6d"
+  },
+  "errata_v10_item1_secao_origem": {
+    "distintos": 92,
+    "por_formato": {
+      "BLOCO_sem_prefixo": 232,
+      "prefixado": 30,
+      "APENDICE_CORPUS": 12
+    },
+    "ele": {
+      "distintos": 92,
+      "fmt": {
+        "BLOCO_sem_prefixo": 232,
+        "prefixado": 30,
+        "APENDICE_CORPUS": 12
+      }
+    },
+    "bate": true
+  },
+  "desenho_campo_atual": {
+    "distintos": 175,
+    "obs": "campo desenho_estudo atual é a string bruta (v1.1 a move p/ desenho_estudo_bruto)"
+  },
+  "E2_padrao_ancorado_sec8": {
+    "ele": {
+      "falsos_positivos": 0,
+      "medida": "237 fichas + 274 vínculos"
+    },
+    "casa": {
+      "fichas_sub": 1,
+      "fichas_anc": 0,
+      "vincs_sub": 0,
+      "vincs_anc": 0
+    },
+    "exemplos": [
+      "REF_OSIMO_2019: IA_casa (rito [AT]; abstract eutils colado no ledger AUD_B1_0238)"
+    ]
+  },
+  "N1_migracao_mecanica": {
+    "total": 237,
+    "validos_sem_nenhum_erro": 24,
+    "pendencias_mecanicas_declaradas": {
+      "natureza_review": 30,
+      "desenho_sem_sinal": 197,
+      "origem_composta": 50,
+      "status_composto": 162,
+      "pmid_pattern": 0,
+      "id_pattern": 0
+    },
+    "erros_por_campo": {
+      "desenho_estudo | PENDENTE": 197,
+      "natureza_evidencia | PENDENTE": 30,
+      "origem_pipeline | PENDENTE": 1
+    },
+    "exemplos": {
+      "desenho_estudo | PENDENTE": "REF_ZDILAR_2000 -> $.desenho_estudo: valor '__PENDENTE__' fora do enum",
+      "natureza_evidencia | PENDENTE": "REF_KAUFMANN_2017 -> $.natureza_evidencia: valor '__PENDENTE__' fora do enum",
+      "origem_pipeline | PENDENTE": "REF_OSIMO_2019 -> $.origem_pipeline: valor '__PENDENTE__' fora do enum"
+    }
+  },
+  "N2_migracao_mecanica": {
+    "total": 274,
+    "validos_sem_nenhum_erro": 243,
+    "pendencias_mecanicas_declaradas": {
+      "uso_B1v2_para_leva": 30,
+      "direcao_nao_derivavel": 1,
+      "bloco0708_forca_biologica_pendente": 24
+    },
+    "id_principal_fora_do_catalogo": [],
+    "erros_por_campo": {
+      "ancoras | PENDENTE": 1,
+      "uso | PENDENTE": 30,
+      "trilha | PENDENTE": 30
+    },
+    "exemplos": {
+      "ancoras | PENDENTE": "VINC_B1_0047 -> $.ancoras[0].direcao: valor '__PENDENTE__' fora do enum",
+      "uso | PENDENTE": "VINC_B1V2_0179 -> $.uso: valor '__PENDENTE__' fora do enum",
+      "trilha | PENDENTE": "VINC_B1V2_0179 -> $.trilha: valor '__PENDENTE__' fora do enum"
+    },
+    "nota": "direcao por triagem semiassistida: sustenta quando status_auditoria em {CONFIRMADO, PARCIALMENTE_CONFIRMADO} (273), pendente quando NAO_LOCALIZADO (1) — PROPOSTA da casa, não dado inventado (rev. da trilha 26/D2)"
+  },
+  "enums_stats": {
+    "evid_role_fichas": {
+      "human_clinical": 66,
+      "human_experimental": 6,
+      "preclinical_mechanistic": 133,
+      "post_mortem": 2,
+      "review": 30
+    },
+    "verification_fichas_agora": {
+      "pendente": 148,
+      "preclinico": 18,
+      "extrapolado": 5,
+      "verificado": 65,
+      "emergente": 1
+    },
+    "natureza_relacao": {
+      "causal": 109,
+      "contributiva": 100,
+      "associativa": 56,
+      "nao_estabelecida": 4,
+      "compensatoria": 4,
+      "marcador": 1
+    },
+    "forca_causal": {
+      "tier_4_descritivo_estrutural": 118,
+      "tier_2_necessidade_ou_suficiencia": 81,
+      "tier_1_necessidade_e_suficiencia": 5,
+      "tier_3_correlacional_mecanistico": 70
+    },
+    "grau_maturidade": {
+      "bem_suportado": 129,
+      "muito_estabelecido": 20,
+      "emergente": 45,
+      "hipotese_inicial": 2,
+      "moderadamente_suportado": 78
+    },
+    "status_auditoria_vinc": {
+      "CONFIRMADO": 254,
+      "PARCIALMENTE_CONFIRMADO": 19,
+      "NAO_LOCALIZADO": 1
+    },
+    "g2": {
+      "eligible": 242,
+      "nao_avaliado": 1,
+      "redirecionado_clinico": 20,
+      "nao_aplicavel": 11
+    },
+    "status_referencia": {
+      "VALIDADO": 252,
+      "TRIADO": 1,
+      "CANDIDATO": 21
+    },
+    "forca_biologica_vazio": 274
+  }
+}

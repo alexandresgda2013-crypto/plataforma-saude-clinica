@@ -1,0 +1,63 @@
+{
+  "_natureza": "PROPOSTA para o próximo ciclo [AT] — NÃO incorporar por edição direta.",
+  "_origem": "Re-auditoria Auditor-Mestre 2026-09-13, achado AUD-051 / condição C3.",
+  "_problema_que_resolve": "O claim quantitativo '~27% dos pacientes com depressão apresentam PCR-us elevada … razão de chances ~1,46' aparece no §11.1 (BLOCO11.001) e na TABELA DE EVIDÊNCIAS da V5 sem nenhuma referência catalogada no Módulo 09. O único vínculo da frase (VINC_B1_0172) aponta para REF_OSIMO_2020 (PMID 32113908), que é a meta de diferenças de média e variabilidade e sustenta apenas a parte 'subgrupo, não universal'. A origem real dos dois números é o artigo abaixo, ausente do acervo.",
+  "_verificacao_do_auditor": {
+    "data": "2026-09-13",
+    "metodo": "consulta à fonte primária (PubMed + PMC + texto do periódico)",
+    "confirmado": [
+      "prevalência de inflamação de baixo grau (PCR > 3 mg/L) na depressão = 27% (IC 95% 21–34%), meta de 30 estudos",
+      "odds ratio para inflamação de baixo grau na depressão = 1,46 (IC 95% 1,22–1,75), meta de 17 estudos com controles pareados",
+      "37 estudos após avaliação de qualidade; 13.541 pacientes deprimidos e 155.728 controles"
+    ],
+    "observacao_critica": "os 27% são definidos POR PCR > 3 mg/L. A V5 removeu o corte (R7/P20) mas manteve o percentual, deixando-o relativo a um limiar indefinido do C-LAB. Se o C-LAB adotar outro limiar, o número passa a ser falso. A correção de prosa proposta restaura o vínculo número↔definição sem trazer o corte de volta como regra operacional."
+  },
+  "ficha_proposta": {
+    "id_referencia_interna": "REF_OSIMO_2019",
+    "pmid_oficial": "31258105",
+    "doi": "10.1017/S0033291719001454",
+    "titulo_artigo": "Prevalence of low-grade inflammation in depression: a systematic review and meta-analysis of CRP levels.",
+    "autores": [
+      "Osimo EF",
+      "Baxter LJ",
+      "Lewis G",
+      "Jones PB",
+      "Khandaker GM"
+    ],
+    "revista_ano": "Psychological medicine (2019)",
+    "desenho_estudo": "Journal Article; Meta-Analysis; Systematic Review",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_11",
+    "achado_central_molecular": "prevalencia de inflamacao de baixo grau (PCR > 3 mg/L) na depressao = 27% (IC 21-34%, 30 estudos); OR para inflamacao de baixo grau vs controles pareados = 1,46 (IC 1,22-1,75, 17 estudos)",
+    "extrapolacao_por_analogia": "baixa (humano)",
+    "status_auditoria": "",
+    "claim_id_origem": "B1.MEC.BLOCO11.001",
+    "citacao_confirmada": false,
+    "origem_pipeline": "AUDITORIA_EXTERNA_2026-09-13",
+    "g1_metodo": "PENDENTE — deve passar por eutils no rito [AT], como qualquer entrante",
+    "especie_mesh": [
+      "Humans"
+    ],
+    "evid_role": "human_clinical",
+    "verification_status": "pendente",
+    "_aliases": [
+      "Osimo"
+    ]
+  },
+  "correcao_de_prosa_proposta": {
+    "local": "§11.1 (BLOCO11.001) e linha de meta-análise da TABELA DE EVIDÊNCIAS",
+    "texto_atual": "Aproximadamente **27%** dos pacientes com depressão apresentam PCR-us elevada (acima do limiar de inflamação de baixo grau definido no módulo C-LAB), com razão de chances ~1,46 para inflamação de baixo grau versus controles (achado epidemiológico da trilha SM; …)",
+    "texto_proposto": "Aproximadamente **27%** dos pacientes com depressão apresentam inflamação de baixo grau conforme o limiar de PCR adotado na meta-análise de origem (Osimo et al., 2019)[MA; humano], com razão de chances ~1,46 versus controles pareados; a faixa de referência e o ponto de corte operacional residem no módulo C-LAB (…)",
+    "por_que": "mantém P20 (não fixa corte como regra da plataforma) e ao mesmo tempo impede que o percentual flutue com um limiar indefinido; troca a dependência de um artefato não fornecido (trilha SM) por referência catalogada."
+  },
+  "acoes_obrigatorias_no_[AT]": [
+    "G1 por eutils sobre 31258105",
+    "G2 elegibilidade (meta humana, desfecho de prevalência — trilha epidemiológica; avaliar se pertence a B1 ou ao módulo clínico)",
+    "G3 suporte com abstract colado na verificação do ledger",
+    "criar vínculo com âncora na frase corrigida do §11.1 e claim_id B1.MEC.BLOCO11.001",
+    "registrar no manifesto a referência cruzada B1.SM02.007 (condição R7(b), ainda não executada)",
+    "reavaliar VINC_B1_0172: passa a sustentar apenas 'elevação de subgrupo, não universal'"
+  ],
+  "status": "EXECUTADA",
+  "executada_em": "2026-09-13",
+  "execucao": "trilha 19 (producao/19_AT_C3_osimo_2019_2026-09-13.json, rev.1): ficha REF_OSIMO_2019 (34ª MA) + VINC_B1_0274 + AUD_B1_0238 + prosa §11.1 + tabela + listras + apêndice; rito [AT] completo com as 6 ações; sha canônica resultante d8f41662… (V6)"
+}

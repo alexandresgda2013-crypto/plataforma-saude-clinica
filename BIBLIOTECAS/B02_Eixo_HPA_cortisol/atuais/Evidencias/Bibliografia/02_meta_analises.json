@@ -1,0 +1,1453 @@
+[
+ {
+  "pmid_oficial": "31540796",
+  "titulo_artigo": "Relationship between obsessive compulsive disorder and cortisol: Systematic review and meta-analysis.",
+  "autores": [
+   "Sousa-Lima J",
+   "Moreira PS",
+   "Raposo-Lima C",
+   "Sousa N"
+  ],
+  "revista_ano": "Eur Neuropsychopharmacol 2019",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B2_EixoHPA/bibliografia",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SOUSALIMA_2019"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise humana",
+  "id_referencia_interna": "REF_SOUSALIMA_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Sousalima",
+   "SOUSALIMA"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/bibliografia",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "27557747",
+  "titulo_artigo": "Adrenal fatigue does not exist: a systematic review.",
+  "autores": [
+   "Cadegiani FA",
+   "Kater CE"
+  ],
+  "revista_ano": "BMC Endocr Disord 2016",
+  "desenho_estudo": "revisao",
+  "secao_origem": "mecanismo_B2_EixoHPA/bibliografia",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_CADEGIANI_2016"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisao",
+  "id_referencia_interna": "REF_CADEGIANI_2016",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Cadegiani",
+   "CADEGIANI"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/bibliografia",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "28863392",
+  "titulo_artigo": "Mindfulness mediates the physiological markers of stress: Systematic review and meta-analysis.",
+  "autores": [
+   "Pascoe MC",
+   "Thompson DR",
+   "Jenkins ZM",
+   "Ski CF"
+  ],
+  "revista_ano": "J Psychiatr Res 2017",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B2_EixoHPA/reatividade_transdiagnostica",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_PASCOE_2017"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise humana",
+  "id_referencia_interna": "REF_PASCOE_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "PASCOE",
+   "Pascoe"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/reatividade_transdiagnostica",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "28012291",
+  "titulo_artigo": "Cortisol stress reactivity across psychiatric disorders: A systematic review and meta-analysis.",
+  "autores": [
+   "Zorn JV",
+   "Schür RR",
+   "Boks MP",
+   "Kahn RS"
+  ],
+  "revista_ano": "Psychoneuroendocrinology 2017",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B2_EixoHPA/reatividade_transdiagnostica",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_ZORN_2017"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise humana",
+  "id_referencia_interna": "REF_ZORN_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Zorn",
+   "ZORN"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/reatividade_transdiagnostica",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "17978317",
+  "titulo_artigo": "Cortisol and post-traumatic stress disorder in adults: systematic review and meta-analysis.",
+  "autores": [
+   "Meewisse ML",
+   "Reitsma JB",
+   "de Vries GJ",
+   "Gersons BP"
+  ],
+  "revista_ano": "Br J Psychiatry 2007",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B2_EixoHPA/bibliografia",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MEEWISSE_2007"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise humana",
+  "id_referencia_interna": "REF_MEEWISSE_2007",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Meewisse",
+   "MEEWISSE"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/bibliografia",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "28135674",
+  "titulo_artigo": "Stress-related and basic determinants of hair cortisol in humans: A meta-analysis.",
+  "autores": [
+   "Stalder T",
+   "Steudte-Schmiedgen S",
+   "Alexander N",
+   "Klucken T"
+  ],
+  "revista_ano": "Psychoneuroendocrinology 2017",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B2_EixoHPA/biomarcador_cabelo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_STALDER_2017"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise humana",
+  "id_referencia_interna": "REF_STALDER_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "STALDER",
+   "Stalder"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/biomarcador_cabelo",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "42477737",
+  "titulo_artigo": "Inflammatory biomarker alterations in patients with fibromyalgia: a systematic review and meta-analysis.",
+  "autores": [
+   "Fernández-Rodríguez FJ",
+   "Delgado-Pérez E",
+   "Salgado-Ortiz CS",
+   "Quishpe-Rivera EA"
+  ],
+  "revista_ano": "BMC Rheumatol 2026",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B2_EixoHPA/biomarcador_cabelo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_FERNANDEZRODRIGUEZ_2026"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise humana",
+  "id_referencia_interna": "REF_FERNANDEZRODRIGUEZ_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Fernandezrodriguez",
+   "FERNANDEZRODRIGUEZ"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/biomarcador_cabelo",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "41501907",
+  "titulo_artigo": "Probiotic intake and mental health in healthy working adults: a systematic review and meta-analysis of randomized controlled trials.",
+  "autores": [
+   "Ben Fredj S",
+   "Kechiche H",
+   "Chouchen A",
+   "Akkari I"
+  ],
+  "revista_ano": "BMC Psychol 2026",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B2_EixoHPA/reatividade_transdiagnostica",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BEN_2026"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise humana",
+  "id_referencia_interna": "REF_BEN_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "BEN",
+   "Ben"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/reatividade_transdiagnostica",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "33310696",
+  "titulo_artigo": "Is there a relation between major depression and hair cortisol? A systematic review and meta-analysis.",
+  "autores": [
+   "Psarraki EE",
+   "Kokka I",
+   "Bacopoulou F",
+   "Chrousos GP"
+  ],
+  "revista_ano": "Psychoneuroendocrinology 2021",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B2_EixoHPA/biomarcador_cabelo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_PSARRAKI_2021"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise humana",
+  "id_referencia_interna": "REF_PSARRAKI_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "PSARRAKI",
+   "Psarraki"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/biomarcador_cabelo",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "30500331",
+  "titulo_artigo": "Hypothalamic-pituitary-adrenal axis functioning in borderline personality disorder: A meta-analysis.",
+  "autores": [
+   "Drews E",
+   "Fertuck EA",
+   "Koenig J",
+   "Kaess M"
+  ],
+  "revista_ano": "Neurosci Biobehav Rev 2019",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B2_EixoHPA/borderline",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_DREWS_2019"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise humana",
+  "id_referencia_interna": "REF_DREWS_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "DREWS",
+   "Drews"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/borderline",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "28870447",
+  "titulo_artigo": "Psychosocial functioning and the cortisol awakening response: Meta-analysis, P-curve analysis, and evaluation of the evidential value in existing studies.",
+  "autores": [
+   "Boggero IA",
+   "Hostinar CE",
+   "Haak EA",
+   "Murphy MLM"
+  ],
+  "revista_ano": "Biol Psychol 2017",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B2_EixoHPA/biomarcador_car",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BOGGERO_2017"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise humana",
+  "id_referencia_interna": "REF_BOGGERO_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "BOGGERO",
+   "Boggero"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/biomarcador_car",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "35041878",
+  "titulo_artigo": "Sleep disorders and non-sleep circadian disorders predict depression: A systematic review and meta-analysis of longitudinal studies.",
+  "autores": [
+   "Zhang MM",
+   "Ma Y",
+   "Du LT",
+   "Wang K"
+  ],
+  "revista_ano": "Neurosci Biobehav Rev 2022",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B2_EixoHPA/biomarcador_car",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_ZHANG_2022"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise humana",
+  "id_referencia_interna": "REF_ZHANG_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "ZHANG",
+   "Zhang"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/biomarcador_car",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "40654374",
+  "titulo_artigo": "Childhood adversity and the cortisol awakening response in depression: A meta-analysis.",
+  "autores": [
+   "Jopling E",
+   "LeMoult J"
+  ],
+  "revista_ano": "J Mood Anxiety Disord 2023",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B2_EixoHPA/biomarcador_car",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_JOPLING_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise humana",
+  "id_referencia_interna": "REF_JOPLING_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "JOPLING",
+   "Jopling"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/biomarcador_car",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "30557762",
+  "titulo_artigo": "Systematic review and meta-analysis of basal cortisol levels in Borderline Personality Disorder compared to non-psychiatric controls.",
+  "autores": [
+   "Thomas N",
+   "Gurvich C",
+   "Hudaib AR",
+   "Gavrilidis E"
+  ],
+  "revista_ano": "Psychoneuroendocrinology 2019",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B2_EixoHPA/borderline",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_THOMAS_2019"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise humana",
+  "id_referencia_interna": "REF_THOMAS_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Thomas",
+   "THOMAS"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/borderline",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "41987765",
+  "titulo_artigo": "Meditation and workplace health: a systematic review and meta-analysis of mental and cardiometabolic outcomes among employees.",
+  "autores": [
+   "Khanal MK",
+   "Saunders P",
+   "Nguyen K",
+   "Hatmi MA"
+  ],
+  "revista_ano": "Health Psychol Rev 2026",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B2_EixoHPA/biomarcador_cabelo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_KHANAL_2026"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise humana",
+  "id_referencia_interna": "REF_KHANAL_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Khanal",
+   "KHANAL"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/biomarcador_cabelo",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "41791598",
+  "titulo_artigo": "Association between antenatal depression and maternal cortisol diurnal rhythm: A meta-analysis.",
+  "autores": [
+   "Zhang T",
+   "He L",
+   "Zhou M",
+   "Xiao G"
+  ],
+  "revista_ano": "J Affect Disord 2026",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B2_EixoHPA/biomarcador_car",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_ZHANG_2026"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise humana",
+  "id_referencia_interna": "REF_ZHANG_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "ZHANG",
+   "Zhang"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/biomarcador_car",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "8214170",
+  "titulo_artigo": "The DST as a predictor of outcome in depression: a meta-analysis.",
+  "autores": [
+   "Ribeiro SC",
+   "Tandon R",
+   "Grunhaus L",
+   "Greden JF"
+  ],
+  "revista_ano": "Am J Psychiatry 1993",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B2_EixoHPA/bibliografia",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_RIBEIRO_1993"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise humana",
+  "id_referencia_interna": "REF_RIBEIRO_1993",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "RIBEIRO",
+   "Ribeiro"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/bibliografia",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "42330779",
+  "titulo_artigo": "Probiotic, prebiotic, and synbiotic interventions targeting the early-life gut-brain axis: A systematic review of randomized controlled trials.",
+  "autores": [
+   "Carnazzo SM",
+   "Vitello A",
+   "Allia F",
+   "Graziano ACE"
+  ],
+  "revista_ano": "J Neuroimmunol 2026",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B2_EixoHPA/microbiota",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_CARNAZZO_2026"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "ensaio clinico humano",
+  "id_referencia_interna": "REF_CARNAZZO_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Carnazzo",
+   "CARNAZZO"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/microbiota",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "38176541",
+  "titulo_artigo": "Sex differences in cortisol levels in depression: A systematic review and meta-analysis.",
+  "autores": [
+   "Wang R",
+   "Kogler L",
+   "Derntl B"
+  ],
+  "revista_ano": "Front Neuroendocrinol 2024",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B2_EixoHPA/diferença_sexual",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_WANG_2024"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise humana",
+  "id_referencia_interna": "REF_WANG_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "WANG",
+   "Wang"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/diferença_sexual",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "36335755",
+  "titulo_artigo": "Associations between psychological distress and hair cortisol during pregnancy and the early postpartum: A meta-analysis.",
+  "autores": [
+   "Khoury JE",
+   "Giles L",
+   "Kaur H",
+   "Johnson D"
+  ],
+  "revista_ano": "Psychoneuroendocrinology 2023",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B2_EixoHPA/biomarcador_cabelo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_KHOURY_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise humana",
+  "id_referencia_interna": "REF_KHOURY_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "KHOURY",
+   "Khoury"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/biomarcador_cabelo",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "42032711",
+  "titulo_artigo": "Impact of probiotic supplementation on cortisol levels; GRADE-based dose-response meta-analysis",
+  "autores": [
+   "Gandomkar H",
+   "Ismael A",
+   "Eskandarioun M",
+   "Feyzpour M",
+   "Rashki A",
+   "Alamdari MG"
+  ],
+  "revista_ano": "BMC nutrition (2026)",
+  "desenho_estudo": "[OB] citação de fundo indexada por retrocompatibilidade",
+  "secao_origem": "mecanismo_B2_eixo_hpa_cortisol",
+  "achado_central_molecular": "Impact of probiotic supplementation on cortisol levels; GRADE-based dose-response meta-analysis",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GANDOMKAR_2026"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "citação de fundo presente na canônica; metadado conferido",
+  "g3_verificado_por": "G3 retrocompat: esummary confirma autor/ano/título",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_GANDOMKAR_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "GANDOMKAR",
+   "Gandomkar"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_eixo_hpa_cortisol",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "28183380",
+  "titulo_artigo": "Assessment of the hypothalamic-pituitary-adrenal axis activity: glucocorticoid receptor and mineralocorticoid receptor function in depression with early life stress - a systematic review.",
+  "autores": [
+   "Von Werne Baes C",
+   "de Carvalho Tofoli SM",
+   "Martins CM",
+   "Juruena MF"
+  ],
+  "revista_ano": "Acta neuropsychiatrica 2012",
+  "desenho_estudo": "Journal Article",
+  "secao_origem": "mecanismo_B2_EixoHPA/BLOCO_06",
+  "achado_central_molecular": "Avaliação da atividade HPA (grandezas GR/MR) e estresse precoce — revisão",
+  "extrapolacao_por_analogia": "nao",
+  "ids_referencia_interna": [
+   "REF_VONWERNEBAES_2012"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+  "status_auditoria": "",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão; elegível",
+  "id_referencia_interna": "REF_VONWERNEBAES_2012",
+  "doi": "10.1111/j.1601-5215.2011.00610.x",
+  "claim_id_origem": "B2.MEC.BLOCO06.017",
+  "_aliases": [
+   "Von",
+   "VON",
+   "Von"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/BLOCO_06",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "32203965",
+  "titulo_artigo": "Alterations of the HPA Axis Observed in Patients with Major Depressive Disorder and Their Relation to Early Life Stress: A Systematic Review.",
+  "autores": [
+   "Ceruso A",
+   "Martínez-Cengotitabengoa M",
+   "Peters-Corbett A",
+   "Diaz-Gutierrez MJ",
+   "Martínez-Cengotitabengoa M"
+  ],
+  "revista_ano": "Neuropsychobiology 2020",
+  "desenho_estudo": "Journal Article; Systematic Review",
+  "secao_origem": "mecanismo_B2_EixoHPA/BLOCO_06",
+  "achado_central_molecular": "Alterações HPA em TDM com/sem estresse precoce (revisão sistemática)",
+  "extrapolacao_por_analogia": "nao",
+  "ids_referencia_interna": [
+   "REF_CERUSO_2020"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+  "status_auditoria": "",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão sistemática; elegível",
+  "id_referencia_interna": "REF_CERUSO_2020",
+  "doi": "10.1159/000506484",
+  "claim_id_origem": "B2.MEC.BLOCO06.017",
+  "_aliases": [
+   "Ceruso",
+   "CERUSO",
+   "Ceruso"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/BLOCO_06",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "36458076",
+  "titulo_artigo": "A systematic review and meta-analysis of serum and plasma cortisol levels in depressed patients versus control.",
+  "autores": [
+   "Sahu MK",
+   "Dubey RK",
+   "Chandrakar A",
+   "Kumar M",
+   "Kumar M"
+  ],
+  "revista_ano": "Indian journal of psychiatry 2022",
+  "desenho_estudo": "Journal Article; Review",
+  "secao_origem": "mecanismo_B2_EixoHPA/BLOCO_06",
+  "achado_central_molecular": "Cortisol sérico/plasmático no TDM: revisão/meta — heterogeneidade",
+  "extrapolacao_por_analogia": "nao",
+  "ids_referencia_interna": [
+   "REF_SAHU_2022"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+  "status_auditoria": "",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão/meta; elegível",
+  "id_referencia_interna": "REF_SAHU_2022",
+  "doi": "10.4103/indianjpsychiatry.indianjpsychiatry_561_21",
+  "claim_id_origem": "B2.MEC.BLOCO06.017",
+  "_aliases": [
+   "Sahu",
+   "SAHU",
+   "Sahu"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/BLOCO_06",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "41270487",
+  "titulo_artigo": "Association of endogenous hormones with major depressive disorder phenotype: A systematic review and meta-analysis of drug-free case and control cross-sectional study.",
+  "autores": [
+   "Machahary N",
+   "Thakran S",
+   "Thampi G",
+   "Gangte N",
+   "Sood M",
+   "Kaushik M",
+   "Kukreti R"
+  ],
+  "revista_ano": "Biochemical and biophysical research communications 2025",
+  "desenho_estudo": "Journal Article; Systematic Review; Meta-Analysis",
+  "secao_origem": "mecanismo_B2_EixoHPA/BLOCO_06",
+  "achado_central_molecular": "Hormônios endógenos x fenótipos do TDM (meta)",
+  "extrapolacao_por_analogia": "nao",
+  "ids_referencia_interna": [
+   "REF_MACHAHARY_2025"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+  "status_auditoria": "",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise; elegível",
+  "id_referencia_interna": "REF_MACHAHARY_2025",
+  "doi": "10.1016/j.bbrc.2025.153007",
+  "claim_id_origem": "B2.MEC.BLOCO06.017",
+  "_aliases": [
+   "Machahary",
+   "MACHAHARY",
+   "Machahary"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/BLOCO_06",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "40040865",
+  "titulo_artigo": "Immune-neuroendocrine crosstalk in mood and psychotic disorders: A meta-analysis and systematic review.",
+  "autores": [
+   "Van Den Noortgate M",
+   "Van Den Eede F",
+   "Coppens V",
+   "Giltay EJ",
+   "De Picker L",
+   "Morrens M"
+  ],
+  "revista_ano": "Brain, behavior, & immunity - health 2025",
+  "desenho_estudo": "Journal Article; Review",
+  "secao_origem": "mecanismo_B2_EixoHPA/BLOCO_08",
+  "achado_central_molecular": "Meta crosstalk imune-neuroendócrino em transtornos do humor/psicóticos",
+  "extrapolacao_por_analogia": "nao",
+  "ids_referencia_interna": [
+   "REF_VANDENNOORGATE_2025"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+  "status_auditoria": "",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão/meta; elegível ponte B1",
+  "id_referencia_interna": "REF_VANDENNOORGATE_2025",
+  "doi": "10.1016/j.bbih.2025.100965",
+  "claim_id_origem": "B2.MEC.BLOCO08.001",
+  "_aliases": [
+   "Van",
+   "VAN",
+   "Van"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/BLOCO_08",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "28850857",
+  "titulo_artigo": "Interaction between early-life stress and FKBP5 gene variants in major depressive disorder and post-traumatic stress disorder: A systematic review and meta-analysis.",
+  "autores": [
+   "Wang Q",
+   "Shelton RC",
+   "Dwivedi Y"
+  ],
+  "revista_ano": "Journal of affective disorders 2018",
+  "desenho_estudo": "Journal Article; Meta-Analysis; Systematic Review",
+  "secao_origem": "mecanismo_B2_EixoHPA/BLOCO_04",
+  "achado_central_molecular": "Meta 14 estudos/15.109: FKBP5 x trauma precoce -> TDM/TEPT",
+  "extrapolacao_por_analogia": "nao",
+  "ids_referencia_interna": [
+   "REF_WANG_2018"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+  "status_auditoria": "",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise; elegível",
+  "id_referencia_interna": "REF_WANG_2018",
+  "doi": "10.1016/j.jad.2017.08.066",
+  "claim_id_origem": "B2.MEC.BLOCO04.003",
+  "_aliases": [
+   "Wang",
+   "WANG",
+   "Wang"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/BLOCO_04",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "34566653",
+  "titulo_artigo": "Efficacy of Treatments Targeting Hypothalamic-Pituitary-Adrenal Systems for Major Depressive Disorder: A Meta-Analysis.",
+  "autores": [
+   "Ding Y",
+   "Wei Z",
+   "Yan H",
+   "Guo W"
+  ],
+  "revista_ano": "Frontiers in pharmacology 2021",
+  "desenho_estudo": "Journal Article; Review",
+  "secao_origem": "mecanismo_B2_EixoHPA/BLOCO_06",
+  "achado_central_molecular": "Meta de tratamentos HPA no TDM: sinal favorável, efeito global pequeno",
+  "extrapolacao_por_analogia": "nao",
+  "ids_referencia_interna": [
+   "REF_DING_2021"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+  "status_auditoria": "",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise; elegível sonda P20",
+  "id_referencia_interna": "REF_DING_2021",
+  "doi": "10.3389/fphar.2021.732157",
+  "claim_id_origem": "B2.MEC.BLOCO06.015",
+  "_aliases": [
+   "Ding",
+   "DING",
+   "Ding"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/BLOCO_06",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "38308964",
+  "titulo_artigo": "Associations of diurnal cortisol parameters with cortisol stress reactivity and recovery: A systematic review and meta-analysis.",
+  "autores": [
+   "Wesarg-Menzel C",
+   "Marheinecke R",
+   "Staaks J",
+   "Engert V"
+  ],
+  "revista_ano": "Psychoneuroendocrinology 2024",
+  "desenho_estudo": "Journal Article; Meta-Analysis; Systematic Review",
+  "secao_origem": "mecanismo_B2_EixoHPA/BLOCO_05",
+  "achado_central_molecular": "Meta 12 estudos: diurno (AUC/slope/CAR) SEM associação global com reatividade aguda",
+  "extrapolacao_por_analogia": "nao",
+  "ids_referencia_interna": [
+   "REF_WESARGMENZEL_2024"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+  "status_auditoria": "",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise; elegível calibrador",
+  "id_referencia_interna": "REF_WESARGMENZEL_2024",
+  "doi": "10.1016/j.psyneuen.2024.106976",
+  "claim_id_origem": "B2.MEC.BLOCO05.001",
+  "_aliases": [
+   "Wesarg-Menzel",
+   "WESARG-MENZEL",
+   "Wesarg-Menzel"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/BLOCO_05",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "42009273",
+  "titulo_artigo": "Human DNA methylation and the cortisol response to an acute psychological stressor: A systematic review and meta-analysis.",
+  "autores": [
+   "Balfour D",
+   "Kleinig Z",
+   "Mittinty M",
+   "Cohen-Woods S"
+  ],
+  "revista_ano": "Progress in neuro-psychopharmacology & biological psychiatry 2026",
+  "desenho_estudo": "Journal Article; Systematic Review; Meta-Analysis",
+  "secao_origem": "mecanismo_B2_EixoHPA/BLOCO_04",
+  "achado_central_molecular": "Meta 39 estudos metilação x resposta de cortisol: misto; só lactentes; certeza baixa",
+  "extrapolacao_por_analogia": "nao",
+  "ids_referencia_interna": [
+   "REF_BALFOUR_2026"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+  "status_auditoria": "",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise; elegível calibrador",
+  "id_referencia_interna": "REF_BALFOUR_2026",
+  "doi": "10.1016/j.pnpbp.2026.111708",
+  "claim_id_origem": "B2.MEC.BLOCO04.004",
+  "_aliases": [
+   "Balfour",
+   "BALFOUR",
+   "Balfour"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/BLOCO_04",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "34920399",
+  "titulo_artigo": "Cortisol and development of depression in adolescence and young adulthood - a systematic review and meta-analysis.",
+  "autores": [
+   "Zajkowska Z",
+   "Gullett N",
+   "Walsh A",
+   "Zonca V",
+   "Pedersen GA",
+   "Souza L",
+   "Kieling C",
+   "Fisher HL"
+  ],
+  "revista_ano": "Psychoneuroendocrinology 2022",
+  "desenho_estudo": "Journal Article; Meta-Analysis; Research Support, N.I.H., Extramural",
+  "secao_origem": "mecanismo_B2_EixoHPA/BLOCO_06",
+  "achado_central_molecular": "Meta: cortisol e desenvolvimento de depressão em adolescência/adulto jovem",
+  "extrapolacao_por_analogia": "nao",
+  "ids_referencia_interna": [
+   "REF_ZAJKOWSKA_2022"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+  "status_auditoria": "",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise; elegível desenvolvimento",
+  "id_referencia_interna": "REF_ZAJKOWSKA_2022",
+  "doi": "10.1016/j.psyneuen.2021.105625",
+  "claim_id_origem": "B2.MEC.BLOCO06.017",
+  "_aliases": [
+   "Zajkowska",
+   "ZAJKOWSKA",
+   "Zajkowska"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/BLOCO_06",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "31499391",
+  "titulo_artigo": "Baseline cortisol and the efficacy of antiglucocorticoid treatment in mood disorders: A meta-analysis.",
+  "autores": [
+   "Lombardo G",
+   "Enache D",
+   "Gianotti L",
+   "Schatzberg AF",
+   "Young AH",
+   "Pariante CM",
+   "Mondelli V"
+  ],
+  "revista_ano": "Psychoneuroendocrinology 2019",
+  "desenho_estudo": "Journal Article; Meta-Analysis; Research Support, Non-U.S. Gov't",
+  "secao_origem": "mecanismo_B2_EixoHPA/BLOCO_06",
+  "achado_central_molecular": "Cortisol basal x eficácia antiglicocorticoide: só prediz resposta em inibidores de síntese",
+  "extrapolacao_por_analogia": "nao",
+  "ids_referencia_interna": [
+   "REF_LOMBARDO_2019"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)",
+  "status_auditoria": "",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise; elegível sonda P20",
+  "id_referencia_interna": "REF_LOMBARDO_2019",
+  "doi": "10.1016/j.psyneuen.2019.104420",
+  "claim_id_origem": "B2.MEC.BLOCO06.015",
+  "_aliases": [
+   "Lombardo",
+   "LOMBARDO",
+   "Lombardo"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B2_EixoHPA/BLOCO_06",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ }
+]

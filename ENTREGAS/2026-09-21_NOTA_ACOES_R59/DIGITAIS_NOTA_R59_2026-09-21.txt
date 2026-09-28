@@ -1,0 +1,14 @@
+DIGITAIS — PACOTE NOTA R59 ACOES DO OPERADOR — 2026-09-21 (RODADA 59)
+
+Documento-mestre B1 — 5.194 bytes (intocada).
+(1) sha256; nome; bytes
+
+d3906fa9dcca53d92e553622ccbe9bfed9e20dafa868c2270a527a402d46505f  NOTA_R59_ACOES_DO_OPERADOR_2026-09-21.md (4456 b)
+
+Nota de auto-referencia: o sha256 do ZIP deste pacote NAO consta deste arquivo
+(o zip contem este arquivo); ele e publicado no CHANGELOG 59.
+
+Medida da verificacao 'por fora' (env-arena 2026-09-21):
+vinculos sha256 490675e63122a24baebd8890f4a7883a07f68916d90562e74adf309133501d1b (274 itens)
+natureza_relacao 274/274 · verification_status 274/274 · extrapolacao_por_analogia 274/274
+grau_maturidade+forca_causal 274/274 · ancoras[] 0/274 (porta real = migracao N2 v1.4)

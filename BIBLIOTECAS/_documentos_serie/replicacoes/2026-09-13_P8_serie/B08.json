@@ -1,0 +1,749 @@
+{
+  "meta": {
+    "canonica": "B8 DEFICIENCIAS DE MICRONUTRIENTES V2 CANONICA.md",
+    "sha256": "75eec8e612c76c3bd10e852bd685de2e55eadc744ed603705f36985c1a4005eb",
+    "refs": 145,
+    "vinculos": 83,
+    "ledger": 87
+  },
+  "itens": [
+    {
+      "nivel": "OK",
+      "regra": "V-00",
+      "objeto": "-",
+      "mensagem": "canônica: B8 DEFICIENCIAS DE MICRONUTRIENTES V2 CANONICA.md (10007 palavras)"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-00",
+      "objeto": "-",
+      "mensagem": "Módulo 09: 145 · vínculos: 83 · ledger: 87"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-01",
+      "objeto": "-",
+      "mensagem": "83/83 âncoras literais; 0 com deriva TIPOGRÁFICA; 0 com deriva LEXICAL"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_ALMEIDA_2008",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_ALMEIDA_2015",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_APPLETON_2010",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_ARATHIMOS_2021",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_BASSETT_2024",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_BENDER_2017",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_BLAMPIED_2020",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_BORGESVIEIRA_2023",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_BOTTIGLIERI_2005",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_CHEUNGPASITPORN_2015",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_COPPEN_2000",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_COPPEN_2005",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_DEOLIVEIRA_2015",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_ECKERT_2025",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_FLEIG_2026",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_GAO_2024",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_GAO_2025",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_GILBODY_2007",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_HACHMERIYAN_2026",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_HAJHASHEMY_2025",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_HOEPNER_2021",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_JACKA_2010",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_JIN_2022",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_LAI_2012",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_LIAO_2019",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_LI_2026",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_LOMAGNO_2014",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_MAGALHAES_2026",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_MARUF_2022",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_MENG_2019",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_MENG_2024",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_MOABEDI_2023",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_MUSAZADEH_2023",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_NGUYEN_2022",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_PAPAKOSTAS_2014",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_PETRIDOU_2016",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_POUTEAU_2018",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_RAI_2017",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_RUCKLIDGE_2014",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_RUCKLIDGE_2019",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_SARRIS_2015",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_SHELTON_2015",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_SLIWINSKI_2024",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_SORIANOGONZALEZ_2025",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_SRIFUENGFUNG_2023",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_SWARDFAGER_2013a",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_TARLETON_2015",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_TARLETON_2019",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_TAYLOR_2004",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_TEASDALE_2025",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_TONIOLO_2018",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_TSAI_2023",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_WANG_2018",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_WANG_2023",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_WANG_2025",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_WU_2022",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_XU_2024",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_YOSAEE_2022",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_YOU_2018",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_ZAJECKA_2016",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_ZHONG_2026",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_ZIELINSKA_2023",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-05",
+      "objeto": "-",
+      "mensagem": "citações reconhecidas: 448/0 (100.0% de cobertura sobre universo de 448)"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_002",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_LASSALE_2019 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_009",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_RAJIZADEH_2017 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_010",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_TARLETON_2017 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_015",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_GAYSINA_2008 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_016",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_WU_2013 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_017",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_PAPAKOSTAS_2012 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_023",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_JOHNSON_2013 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_027",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_JOHNSTONE_2020 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_034",
+      "mensagem": "prosa ancorada qualifica o achado (['sem diferença']) mas nem achado_central_molecular de REF_DAVARINEJAD_2026 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_036",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_EYLES_2013 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_037",
+      "mensagem": "prosa ancorada qualifica o achado (['apenas']) mas nem achado_central_molecular de REF_DU_2016 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_038",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_KENNEDY_2016 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_041",
+      "mensagem": "prosa ancorada qualifica o achado (['apenas', 'não']) mas nem achado_central_molecular de REF_BARKS_2019 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_042",
+      "mensagem": "prosa ancorada qualifica o achado (['apenas', 'não']) mas nem achado_central_molecular de REF_MATTEI_2019 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_043",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_MOORE_2019 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_044",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_WESSELINK_2019 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_046",
+      "mensagem": "prosa ancorada qualifica o achado (['apenas', 'não']) mas nem achado_central_molecular de REF_BARKS_2021 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_048",
+      "mensagem": "prosa ancorada qualifica o achado (['apenas']) mas nem achado_central_molecular de REF_MUSCARITOLI_2021 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_049",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_RUDZKI_2021 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_050",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_BADAR_2022 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_051",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_BARONE_2022 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_053",
+      "mensagem": "prosa ancorada qualifica o achado (['apenas', 'não']) mas nem achado_central_molecular de REF_MCWILLIAMS_2022 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_054",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_SAHU_2022 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_055",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_SHAYGANFARD_2022 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_056",
+      "mensagem": "prosa ancorada qualifica o achado (['apenas', 'não']) mas nem achado_central_molecular de REF_FIANI_2023 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_057",
+      "mensagem": "prosa ancorada qualifica o achado (['apenas']) mas nem achado_central_molecular de REF_LAHODABRODSKA_2023 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_058",
+      "mensagem": "prosa ancorada qualifica o achado (['apenas']) mas nem achado_central_molecular de REF_NOGUEIRA_2023 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_059",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_ALJASSEM_2024 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_061",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_HUI_2024 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_062",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_MATHEW_2024 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_064",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_SCUTO_2024 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_066",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_ASTORINO_2025 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_068",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_FAA_2025 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_069",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_FAUGERE_2025 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_070",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_HORSDAL_2025 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_072",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_KOHL_2025 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_075",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_RAJEN_2025 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_077",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_SKOCZEK_2025 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_081",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_SHAHINI_2026 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_082",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_TORTAJADA_2026 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B8_083",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_YANG_2026 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-07",
+      "objeto": "corte_literatura",
+      "mensagem": "campo em texto livre (schema antigo) — só a data foi extraída; padronizar para objeto {valor, tipo} na série"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-07",
+      "objeto": "clinical_domains",
+      "mensagem": "manifesto=[] × canônica=['decisao_terapeutica', 'monitoramento', 'seguranca_clinica', 'triagem_clinica']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-07",
+      "objeto": "status_canonico",
+      "mensagem": "campo ausente no manifesto"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-08",
+      "objeto": "88%",
+      "mensagem": "claim quantitativo sem âncora de vínculo na mesma linha: «(Anglin 2013)[MA], mas a intervenção tem efeito pequeno, heterogêneo (I²≈88%), GRADE muito…»"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-08",
+      "objeto": "98%",
+      "mensagem": "claim quantitativo sem âncora de vínculo na mesma linha: «- **Selênio:** GPx; água × GPX1 (Johnson 2013)[EC]; **soro sem diferença, I²≈98%** (Sajjad…»"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-08",
+      "objeto": "98%",
+      "mensagem": "claim quantitativo sem âncora de vínculo na mesma linha: «- **\"Selênio/zinco/cobre como tônico\"** — selênio sérico sem diferença e I²≈98% (Sajjadi…»"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-08",
+      "objeto": "32%",
+      "mensagem": "claim quantitativo sem âncora de vínculo na mesma linha: «MADRS e remissão 32% vs 8% (Jacka 2017)[EC]; a meta observacional mostra relação dose-grad…»"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-08",
+      "objeto": "98%",
+      "mensagem": "claim quantitativo sem âncora de vínculo na mesma linha: «não-deficientes nula (Markun 2021)[MA]; selênio sem diferença/I²≈98% (Sajjadi 2022)[MA];…»"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-08",
+      "objeto": "88%",
+      "mensagem": "claim quantitativo sem âncora de vínculo na mesma linha: «altíssima (I²≈88%) e GRADE muito baixa (Mikola 2023)[MA], e a meta dose-resposta mostra qu…»"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-08",
+      "objeto": "98%",
+      "mensagem": "claim quantitativo sem âncora de vínculo na mesma linha: «entre deprimidos e controles (I²=98%) nem correlação com escores, com um único sinal posit…»"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-08",
+      "objeto": "98%",
+      "mensagem": "claim quantitativo sem âncora de vínculo na mesma linha: «baixa para D (Mikola 2023)[MA]; selênio I²≈98% (Sajjadi 2022)[MA]; B-vitaminas ansiedade N…»"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-09",
+      "objeto": "claim_id",
+      "mensagem": "83 de 83 vínculos (100.0%) sem claim_id — malha de rastreabilidade não navegável por claim"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-10",
+      "objeto": "-",
+      "mensagem": "citacao_literal preenchida com texto real"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-13",
+      "objeto": "-",
+      "mensagem": "sha256 da canônica: 75eec8e612c76c3b…"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-13",
+      "objeto": "manifesto",
+      "mensagem": "hash da canônica vigente não registrado no manifesto — edição fora de trilha não seria detectável"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-14",
+      "objeto": "-",
+      "mensagem": "docstring x implementação coerentes: 14 regras anunciadas, todas executadas"
+    }
+  ]
+}

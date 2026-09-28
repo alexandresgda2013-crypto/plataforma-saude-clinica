@@ -1,0 +1,75 @@
+{
+  "rodada": 75,
+  "data": "2026-09-22",
+  "corpus_digitais": {
+    "carta": "b6af4662a0985d72ceb0888a337db056bcf332e53c0a036934f401aade34879b",
+    "consolidado_B": "ff8daf6f33d1a14b1bf4d4a39f29ae17e119646030289bb01453128db498f936",
+    "v19": "1cd90b407facee81692d668919829c9d6d5a149b1309424c6f012e26cd81f586",
+    "L06": "98e90bdc755162b28fd16817d65692cebe81f939c466ef1d29c7a0a1124f2b41",
+    "trilha85_json": "72e07ac1245988b816857760c6803a081e3a8d6762c3b8d72e53a5525a57615a"
+  },
+  "itens": [
+    {
+      "item": 1,
+      "teste": "citações factuais da carta ≡ achados da trilha 85",
+      "checagem": {
+        "'não está incorporada ao v1.9' ≡ veredito item3 (AUSENTE)": true,
+        "'camadas diferentes' ≡ item5 (L-05/L-06/L-NT/N1/N2 = 0 no v1.9)": true
+      },
+      "ok": true,
+      "nivel": "releitura dos vereditos já medidos na trilha 85"
+    },
+    {
+      "item": 2,
+      "teste": "carta toca P1/P2/P3/P4/P7 e não toca P5/P6/P8",
+      "medicao": {
+        "P1": 5,
+        "P2": 8,
+        "P3": 3,
+        "P4": 4,
+        "P5": 0,
+        "P6": 0,
+        "P7": 2,
+        "P8": 0
+      },
+      "ok": true,
+      "registro": "P5 permanece fechada (r74) · P6 suspensa até o fim do rito · P8 registrada · vindas do operador: piloto .014 e bytes novos continuam com ele",
+      "nivel": "L1 forma exata"
+    },
+    {
+      "item": 3,
+      "teste": "P1 do comentador ESTENDE o consolidado B (independência cega é nova)",
+      "medicao": {
+        "carta::independent": 9,
+        "consolidado_B::independent": 0,
+        "v19::ancoragem_trinca": "...ada mais.  Corolário operacional: o parecer da IA 3 não deve ser escrito a partir do que já veio pronto. O risco específico deste arranjo é ancoragem — assinar embaixo de uma extração plausível. PMID, desenho, população e números são reconferidos contra o artigo mesmo quando as duas análises anterio..."
+      },
+      "ok": true,
+      "conclusao": "O consolidado B (18/09) pedia retorno/confirmação; a P1 do comentador AGORA exige análises INDEPENDENTES antes da comparação — reescreve o papel da IA2 do v1.9 ('segunda inspeção SOBRE a análise da IA 1') e atende ao alerta anti-ancoragem do próprio v1.9. Mérito registrado; não é contradição, é reforço.",
+      "nivel": "L1 forma exata + trinca do v1.9"
+    },
+    {
+      "item": 4,
+      "teste": "princípio P3 da carta ≡ L-06 §5",
+      "trincas": {
+        "carta": "...durante a materialização.  O COMO EXECUTAR deve declarar o comportamento operacional, mas não inventar um campo para solucionar uma deficiência de schema.  5. P4 é governança e dev...",
+        "L06_§5": "...eciados ou de versões de transição **não podem ser reintroduzidos como vigentes**. A L-06 não cria campos ausentes: representação inexistente é dependência estrutural, a resolver no nível apropriado. ..."
+      },
+      "ok": true,
+      "nivel": "trincas verbatim"
+    },
+    {
+      "item": 5,
+      "teste": "rito do comentador compatível com o rito do operador",
+      "checagens": {
+        "operador no topo do fechamento": true,
+        "divergência mantém rodadas abertas": true,
+        "não declara aprovação sem o operador": true,
+        "pareceres independentes anti-contaminação": true
+      },
+      "ok": true,
+      "conclusao": "COMPATÍVEL: opera DENTRO do rito supremo (unanimidade sem ressalva + frase do operador); adiciona disciplina de independência e rodadas por território.",
+      "nivel": "frases verbatim exatas"
+    }
+  ]
+}

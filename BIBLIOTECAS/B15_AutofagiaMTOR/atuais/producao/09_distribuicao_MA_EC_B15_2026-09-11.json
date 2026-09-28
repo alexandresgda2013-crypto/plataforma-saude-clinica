@@ -1,0 +1,155 @@
+{
+ "acao": "09_distribuicao_MA_EC_MODULO09",
+ "data": "2026-09-11",
+ "biblioteca": "B15_AutofagiaMTOR",
+ "lei": "PROMPT_v4.2 instrução final: [MA]->02, [EC]->03; id único global (validar_auditoria.py)",
+ "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+ "contagens": {
+  "ficam_01": 172,
+  "vao_02_MA": 0,
+  "vao_03_EC": 1,
+  "conflitos": 0,
+  "tag_EC_amplo_nao_migrado": 21
+ },
+ "ids_para_02": [],
+ "ids_para_03": [
+  {
+   "id": "REF_TARGUM_2026",
+   "pmid": "41512716",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  }
+ ],
+ "conflitos_tag_x_titulo_REVISAVEL": [],
+ "REVISAVEL_tag_EC_amplo_sem_sinal_RCT_nao_migrado": [
+  {
+   "id": "REF_QUINTANILLA_2025",
+   "pmid": "40064429",
+   "desenho_estudo": "[EC]",
+   "titulo": "Assessment of complement cascade components in patients with major depressive disorder"
+  },
+  {
+   "id": "REF_CORDEIRO_2023",
+   "pmid": "37723283",
+   "desenho_estudo": "[EC]",
+   "titulo": "Mitochondrial health index correlates with plasma circulating cell-free mitochondrial DNA in bipolar disorder"
+  },
+  {
+   "id": "REF_ARENA_2026",
+   "pmid": "41254322",
+   "desenho_estudo": "[EC]",
+   "titulo": "Ketamine reduces microglial activation and brain monocyte infiltration and promotes peripheral regulatory immune cells, relieving lipopolysa"
+  },
+  {
+   "id": "REF_AVERILL_2022",
+   "pmid": "35101523",
+   "desenho_estudo": "[EC]",
+   "titulo": "mTORC1 inhibitor effects on rapid ketamine-induced reductions in suicidal ideation in patients with treatment-resistant depression"
+  },
+  {
+   "id": "REF_JERNIGAN_2011",
+   "pmid": "21635931",
+   "desenho_estudo": "[EC]",
+   "titulo": "The mTOR signaling pathway in the prefrontal cortex is compromised in major depressive disorder"
+  },
+  {
+   "id": "REF_PARK_2022",
+   "pmid": "35508467",
+   "desenho_estudo": "[EC]",
+   "titulo": "Differential expression of gene co-expression networks related to the mTOR signaling pathway in bipolar disorder"
+  },
+  {
+   "id": "REF_MACHADOVIEIRA_2015",
+   "pmid": "25726893",
+   "desenho_estudo": "[EC]",
+   "titulo": "Decreased AKT1/mTOR pathway mRNA expression in short-term bipolar disorder"
+  },
+  {
+   "id": "REF_CUELLARBARBOZA_2020",
+   "pmid": "32039744",
+   "desenho_estudo": "[EC]",
+   "titulo": "Gene expression in peripheral blood in treatment-free major depression"
+  },
+  {
+   "id": "REF_ZHU_2019",
+   "pmid": "31477685",
+   "desenho_estudo": "[EC]",
+   "titulo": "Genome-wide profiling of DNA methylome and transcriptome in peripheral blood monocytes for major depression: A Monozygotic Discordant Twin S"
+  },
+  {
+   "id": "REF_ZHAO_2024",
+   "pmid": "39109146",
+   "desenho_estudo": "[EC]",
+   "titulo": "Abnormal Serum BDNF and p-mTOR in MDD in Adolescents with Childhood Trauma"
+  },
+  {
+   "id": "REF_FLORY_2017",
+   "pmid": "28872639",
+   "desenho_estudo": "[EC]",
+   "titulo": "Gene expression associated with suicide attempts in US veterans"
+  },
+  {
+   "id": "REF_FANG_2020",
+   "pmid": "32469797",
+   "desenho_estudo": "[EC]",
+   "titulo": "Differential serum exosome microRNA profile in a stress-induced depression rat model"
+  },
+  {
+   "id": "REF_LIU_2025",
+   "pmid": "39829117",
+   "desenho_estudo": "[EC]",
+   "titulo": "Identification of Critical Signature in Post-Traumatic Stress Disorder Using Bioinformatics Analysis and in Vitro Analyses"
+  },
+  {
+   "id": "REF_GASSEN_2014",
+   "pmid": "25386878",
+   "desenho_estudo": "[EC]",
+   "titulo": "Association of FKBP51 with priming of autophagy pathways and mediation of antidepressant treatment response: evidence in cells, mice, and hu"
+  },
+  {
+   "id": "REF_HE_2019",
+   "pmid": "31244689",
+   "desenho_estudo": "[EC]",
+   "titulo": "Baseline Serum Levels of Beclin-1, but Not Inflammatory Factors, May Predict Antidepressant Treatment Response in Chinese Han Patients With "
+  },
+  {
+   "id": "REF_HE_2023",
+   "pmid": "38001115",
+   "desenho_estudo": "[EC]",
+   "titulo": "Does decreased autophagy and dysregulation of LC3A in astrocytes play a role in major depressive disorder?"
+  },
+  {
+   "id": "REF_LU_2023",
+   "pmid": "36914810",
+   "desenho_estudo": "[EC]",
+   "titulo": "BNIP3L/NIX-mediated mitophagy alleviates passive stress-coping behaviors induced by tumor necrosis factor-α"
+  },
+  {
+   "id": "REF_ABDALLAH_2020",
+   "pmid": "32092760",
+   "desenho_estudo": "[EC]",
+   "titulo": "Modulation of the antidepressant effects of ketamine by the mTORC1 inhibitor rapamycin"
+  },
+  {
+   "id": "REF_QI_2024",
+   "pmid": "38729223",
+   "desenho_estudo": "[EC]",
+   "titulo": "Association between dietary spermidine intake and depressive symptoms among US adults: National Health and Nutrition Examination Survey (NHA"
+  },
+  {
+   "id": "REF_HE_2021",
+   "pmid": "34391068",
+   "desenho_estudo": "[EC]",
+   "titulo": "Signatures of 4 autophagy-related genes as diagnostic markers of MDD and their correlation with immune infiltration"
+  },
+  {
+   "id": "REF_ALCOCERGOMEZ_2017b",
+   "pmid": "28465217",
+   "desenho_estudo": "[EC] evidência humana (amostras de pacientes + celular + animal) · Pharmacol Res",
+   "titulo": "Antidepressants induce autophagy dependent-NLRP3-inflammasome inhibition in Major depressive disorder"
+  }
+ ],
+ "divida_nomeada": "forca_evidencia_afirmacao vazio quando a ficha não trazia (schema 09.2 exige; preenchimento exige avaliação — não fabricar)"
+}

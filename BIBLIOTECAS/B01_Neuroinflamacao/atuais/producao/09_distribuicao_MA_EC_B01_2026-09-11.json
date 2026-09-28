@@ -1,0 +1,273 @@
+{
+ "acao": "09_distribuicao_MA_EC_MODULO09",
+ "data": "2026-09-11",
+ "biblioteca": "B01_Neuroinflamacao",
+ "lei": "PROMPT_v4.2 instrução final: [MA]->02, [EC]->03; id único global (validar_auditoria.py)",
+ "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+ "contagens": {
+  "ficam_01": 201,
+  "vao_02_MA": 33,
+  "vao_03_EC": 3,
+  "conflitos": 0,
+  "tag_EC_amplo_nao_migrado": 0
+ },
+ "ids_para_02": [
+  {
+   "id": "REF_KOHLER_2017",
+   "pmid": "28122130",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_PARK_2019",
+   "pmid": "31005627",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_OSIMO_2020",
+   "pmid": "32113908",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_LAWRENCE_2023",
+   "pmid": "36915214",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_MEHTA_2020b",
+   "pmid": "31951051",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_DOWLATI_2010",
+   "pmid": "20015486",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_HOWREN_2009",
+   "pmid": "19188531",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_GOLDSMITH_2016",
+   "pmid": "26903267",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_JARKAS_2024",
+   "pmid": "39089535",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_WIEDOCHA_2018",
+   "pmid": "28445690",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_NOAH_2021",
+   "pmid": "34218905",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_COSTELLO_2019",
+   "pmid": "31326932",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_COSCO_2019",
+   "pmid": "30382535",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_QUAGLIATO_2018",
+   "pmid": "29241050",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_PASSOS_2015",
+   "pmid": "26544749",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_PARSONS_2021",
+   "pmid": "33200498",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_HOWE_2022",
+   "pmid": "35880170",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_WANG_2018b",
+   "pmid": "28338954",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_KOHLER_2018",
+   "pmid": "28612257",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_WANG_2019",
+   "pmid": "30797959",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_DACUNTO_2019",
+   "pmid": "30939048",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ENACHE_2019",
+   "pmid": "31195092",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_LIU_2020b",
+   "pmid": "31427752",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_MACGIOLLABHUI_2021",
+   "pmid": "32807846",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_GARCIAGARCIA_2022",
+   "pmid": "34864233",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_EGGERSTORFER_2022",
+   "pmid": "36226319",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ALMULLA_2022",
+   "pmid": "36231075",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_LIU_2023b",
+   "pmid": "38025419",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_JADHAV_2025",
+   "pmid": "39603515",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_XIE_2025",
+   "pmid": "41023687",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_GEDEK_2025",
+   "pmid": "41226404",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_LI_2026",
+   "pmid": "41588410",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_MCCOLGAN_2026",
+   "pmid": "41712983",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  }
+ ],
+ "ids_para_03": [
+  {
+   "id": "REF_RAISON_2013",
+   "pmid": "22945416",
+   "sinais": [
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_XIA_2024",
+   "pmid": "38233395",
+   "sinais": [
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_WITTENBERG_2020",
+   "pmid": "31427751",
+   "sinais": [
+    "desenho_rct:titulo"
+   ]
+  }
+ ],
+ "conflitos_tag_x_titulo_REVISAVEL": [],
+ "REVISAVEL_tag_EC_amplo_sem_sinal_RCT_nao_migrado": [],
+ "divida_nomeada": "forca_evidencia_afirmacao vazio quando a ficha não trazia (schema 09.2 exige; preenchimento exige avaliação — não fabricar)"
+}

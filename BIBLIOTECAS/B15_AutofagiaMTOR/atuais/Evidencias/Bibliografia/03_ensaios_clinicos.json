@@ -1,0 +1,47 @@
+[
+ {
+  "pmid_oficial": "41512716",
+  "titulo_artigo": "A novel, experimental design to assess rapid antidepressant action: Results from a phase 1b randomized trial of NV-5138",
+  "autores": [
+   "Targum SD",
+   "Sanacora G",
+   "Formella AE",
+   "Ceresoli-Borroni G",
+   "Owen R"
+  ],
+  "revista_ano": "Journal of psychiatric research (2026)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B15_autofagia_mtor",
+  "achado_central_molecular": "Ensaio fase 1b randomizado, duplo-cego, placebo de NV-5138 dose única (2400 mg) em depressão resistente: melhora já em 4–12h, efeito ~−0,5 a −0,8, sem psicotomimese",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_TARGUM_2026"
+  ],
+  "id_referencia_interna": "REF_TARGUM_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g1_resumo": "eutils (Briefing B15; 140/140 resolvem PubMed; 2026)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "TARGUM",
+   "Targum"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ }
+]

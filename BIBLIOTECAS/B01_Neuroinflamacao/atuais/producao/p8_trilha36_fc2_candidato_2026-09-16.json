@@ -1,0 +1,1889 @@
+{
+  "meta": {
+    "canonica": "B1 NEUROINFLAMAÇÃO V7 CANONICA.md",
+    "sha256": "6e2c29797e6322f16dcc5248cce552be613dd11f1de957c66aaa913e69225238",
+    "refs": 237,
+    "vinculos": 274,
+    "ledger": 237
+  },
+  "itens": [
+    {
+      "nivel": "OK",
+      "regra": "V-00",
+      "objeto": "-",
+      "mensagem": "canônica: B1 NEUROINFLAMAÇÃO V7 CANONICA.md (21503 palavras)"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-00",
+      "objeto": "-",
+      "mensagem": "Módulo 09: 237 · vínculos: 274 · ledger: 237"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-01",
+      "objeto": "-",
+      "mensagem": "274/274 âncoras literais; 0 com deriva TIPOGRÁFICA; 0 com deriva LEXICAL"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-04",
+      "objeto": "-",
+      "mensagem": "integridade referencial íntegra nos dois sentidos"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-05",
+      "objeto": "-",
+      "mensagem": "citações reconhecidas: 279/288 (96.9% de cobertura sobre universo de 288)"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1_0022",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_WEI_2024 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1_0061",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_DONATO_2013 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1_0068",
+      "mensagem": "prosa ancorada qualifica o achado (['reduzidos']) mas nem achado_central_molecular de REF_ELENI_2025 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1_0123",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_STEINER_2011 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1_0131",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_OSIMO_2020 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1_0175",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_STEINER_2011 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1V2_0193",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_GAO_2023 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1V2_0194",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_KOMLEVA_2021 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1V2_0199",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_PASSOS_2015 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1V2_0200",
+      "mensagem": "prosa ancorada qualifica o achado (['reduzido']) mas nem achado_central_molecular de REF_BHATT_2020 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1V2_0201",
+      "mensagem": "prosa ancorada qualifica o achado (['reduzido']) mas nem achado_central_molecular de REF_RUPPRECHT_2022 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1V2_0205",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_XIA_2024 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1V2_0206",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_BI_2016 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1V2_0207",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_WITTENBERG_2020 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1_0222",
+      "mensagem": "prosa ancorada qualifica o achado (['apenas']) mas nem achado_central_molecular de REF_HAROON_2020 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1_0229",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_WANG_2021 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1_0233",
+      "mensagem": "prosa ancorada qualifica o achado (['apenas']) mas nem achado_central_molecular de REF_LIU_2022b nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1_0235",
+      "mensagem": "prosa ancorada qualifica o achado (['apenas', 'inalterada', 'não']) mas nem achado_central_molecular de REF_ALMULLA_2022 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-07",
+      "objeto": "related_entities",
+      "mensagem": "identidade divergente (fonte única violada) — só na canônica: ['mecanismo_B16_neurogenese'] · só no manifesto: ['mecanismo_B99_inexistente']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-08",
+      "objeto": "21,5%",
+      "mensagem": "claim quantitativo sem âncora de vínculo na mesma linha: «**artefato_rotulo:** CANÔNICA V7 (rev. principal datada 2026-09-13 sobre a V6 final [sha e…»"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-08",
+      "objeto": "18%",
+      "mensagem": "claim quantitativo sem âncora de vínculo na mesma linha: «- TSPO-PET: o polimorfismo rs6971 (ligante baixa/alta afinidade) e a expressão em astrócit…»"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-08",
+      "objeto": "100%",
+      "mensagem": "claim quantitativo sem âncora de vínculo na mesma linha: «a 100% de literalidade contra esta Canônica: 151 re-extrações automáticas do pipeline da…»"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-08",
+      "objeto": "n=8",
+      "mensagem": "claim quantitativo sem âncora de vínculo na mesma linha: «3. **R11 (menores textuais):** rótulo de desenho do Gavril 2024 (estudo original, não revi…»"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-08",
+      "objeto": "27%",
+      "mensagem": "claim quantitativo sem âncora de vínculo na mesma linha: «- **C3/AUD-051 — [AT]:** REF_OSIMO_2019 (PubMed 31258105, Psychological medicine 2019; met…»"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-08",
+      "objeto": "39,6%",
+      "mensagem": "claim quantitativo sem âncora de vínculo na mesma linha: «- **Réplica antes de aceitar (trilha 21):** §3-taxonomia medida dos dois lados — autodiver…»"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-09",
+      "objeto": "claim_id",
+      "mensagem": "30 de 274 vínculos (10.9%) sem claim_id — malha de rastreabilidade não navegável por claim"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-10",
+      "objeto": "ledger",
+      "mensagem": "221 de 237 (93%) entradas com citacao_literal preenchida por TOKEN e não por citação literal — o detector de deriva ledger×texto está inoperante"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-13",
+      "objeto": "-",
+      "mensagem": "sha256 da canônica: 6e2c29797e6322f1…"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-13",
+      "objeto": "-",
+      "mensagem": "hash conferido contra a trilha campo sha256_canonica_vigente (registrado em 2026-09-13)"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Bull_2009",
+      "mensagem": "[editorial] classificador ambíguo na camada prosa: ['EC', 'ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Chen_2024",
+      "mensagem": "[editorial] classificador ambíguo na camada prosa: ['EC', 'ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Huang_2023",
+      "mensagem": "[editorial] classificador ambíguo na camada prosa: ['ML', 'OB']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Yang_2024",
+      "mensagem": "[editorial] classificador ambíguo na camada prosa: ['EC', 'ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Yehuda_2016",
+      "mensagem": "[editorial] classificador ambíguo na camada prosa: ['EC', 'ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Zhang_2025",
+      "mensagem": "[editorial] classificador ambíguo na camada prosa: ['EC', 'ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Bull_2009",
+      "mensagem": "[editorial] classificador ambíguo na camada apêndice: ['EC', 'MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Holmes_2018",
+      "mensagem": "[editorial] classificador ambíguo na camada apêndice: ['EC', 'MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Klengel_2013",
+      "mensagem": "[editorial] classificador ambíguo na camada apêndice: ['EC', 'MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Perryteeling_2013",
+      "mensagem": "[editorial] classificador ambíguo na camada apêndice: ['ML', 'OB']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Primingprinc_2018",
+      "mensagem": "[editorial] classificador ambíguo na camada apêndice: ['ML', 'OB']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Psoriase_2025",
+      "mensagem": "[editorial] classificador ambíguo na camada apêndice: ['EC', 'OB']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Quimiometa_2017",
+      "mensagem": "[editorial] classificador ambíguo na camada apêndice: ['EC', 'MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Serhanlevy_2018",
+      "mensagem": "[editorial] classificador ambíguo na camada apêndice: ['ML', 'OB']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Setiawan_2015",
+      "mensagem": "[editorial] classificador ambíguo na camada apêndice: ['EC', 'MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Steiner_2011",
+      "mensagem": "[editorial] classificador ambíguo na camada apêndice: ['EC', 'MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Stressepi_2019",
+      "mensagem": "[editorial] classificador ambíguo na camada apêndice: ['EC', 'MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Sublette_2011",
+      "mensagem": "[editorial] classificador ambíguo na camada apêndice: ['EC', 'MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Almeida_2020",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Arora_2019",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Barrientos_2015",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Bekhbat_2022",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['EC'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Belge_2020",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['EC'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Bhatt_2020",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['EC'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Blomqvist_2018",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Bonaz_2018",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Brann_2022",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Chen_2021",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Chen_2024",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['EC', 'ML'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Chukaew_2021",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['EC'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Comai_2022",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['EC'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Dantzer_2001",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['EC'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Dantzer_2006",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Donato_2013",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Duman_2016",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Eleni_2025",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Fiore_2023",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Fu_2024",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Garciadominguez_2025",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Goshen_2009",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Gulen_2016",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['EC'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Hafizi_2007",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Harden_2015",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Herman_2018",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Keenan_2025",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Kim_2025",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Lawrence_2023",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Lei_2023",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Li_2025b",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Liu_2020",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['EC'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Liu_2022",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Liu_2023",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Lopes_2021",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × índice['ML'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Malau_2024",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Mariani_2022",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Menendez_2024",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Molinalopez_2024",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['EC'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Monsalve_2025",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Nash_2019",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['EC'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Norden_2015",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Park_2019",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Parsons_2021",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Perry_2013",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Picca_2017",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Pintosanchez_2017",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['EC'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Poletti_2024",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Quagliato_2018",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Raison_2013",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['EC'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Rajesh_2022",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Rizzo_2018",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Rupprecht_2022",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Rutsch_2020",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Salminen_2022",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Saxton_2021",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['EC'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Serhan_2014",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Serhan_2018",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Su_2018",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['MA'] × apêndice['EC']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Swanson_2019",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Taft_2021",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['EC'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Tobinick_2009",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Virtanen_2015",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['EC'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Wang_2018",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['EC'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Wei_2024",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['EC'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Wiley_2024",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['EC'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Wittenberg_2020",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['MA'] × apêndice['EC']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Yang_2008",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Yehuda_2016",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['EC', 'ML'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Zdilar_2000",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['MA']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Zenaro_2017",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Zhou_2020",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['EC'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Zhou_2024",
+      "mensagem": "[editorial] classificador divergente entre camadas: prosa['OB'] × apêndice['ML']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ablock_2018",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Amigdalacitocinas_2025",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ansiedadeped_2021",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Antidepmeta_2018",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Antidepmicroglia_2022",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Aqpglinfatica_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Arctigenin_2020",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Astroreat_2023",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Astroswitch_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Bbbad_2017",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Bi_2016",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Bifido_2017",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Brainido_2017",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Caps_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ccl_2008",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ccr_2005",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ccrnlrp_2021",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Cgasaging_2025",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Cgasneuro_2023",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Cgaspocd_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Cinnam_2025",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Coxsynap_2008",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Cxantidep_2023",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Cxcl_2026",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Cxgj_2011",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Cxhemicanal_2015",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Da_2021",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Dionfkb_2006",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Dlps_2004",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Estrogen_2022",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Etanercept_2009",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Fever_2018",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Fkbpinflam_2020",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Fu_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Gastrodin_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ge_2008",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Gliamental_2020",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Glicolisehipocampo_2022",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Glicolisemicroglia_2021",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Glinf_2025",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Glinfaticarm_2025",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Gpr_2018",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Grrepress_2018",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Gsdmdbbb_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Gutc_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Gutinfl_2020",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Gutlps_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "He_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Hepc_2000",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Hippvolect_2020",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Hivdend_2019",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Hk_2023",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Hmgbhocl_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Holocausto_2016",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Icam_2020",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Idoaging_2022",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ifncancer_2002",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ifndepreview_2007",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ifngpriming_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ifnhpa_2016",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ifnnsc_2014",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Il_2023",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ilamigdala_2017",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ilastro_2025",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ilbbdnf_1993",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ilbnt_2011",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ilgal_2018",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ilich_2023",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ilresol_2015",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ilstat_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ilstress_2009",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ilstress_2009b",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ilstruct_2021",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Inflamassomas_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Inflammaging_2017",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Innatecelldeath_2022",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Insula_2026",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Internalizanteped_2022",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Irgitaconato_2025",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Itaconatonrf_2023",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Kyngutbrain_2021",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Kyntrpwm_2022",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Lclbiom_2021",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Li_2017",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Li_2021",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Li_2025",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Li_2025b",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Li_2026",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Lpscog_2019",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Mams_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Mamspx_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Mediadores_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Megaimunomod_2020",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Menlinf_2021",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Metilptsd_2020",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Microgliaglut_2022",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Microvasc_2023",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Minociclinaextincao_2016",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Minociclinamedo_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Mir_2017",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Mira_2025",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Mitophagycgas_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Mves_2025",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Necroptosedep_2022",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Nek_2025",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Neopterinsurg_2021",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Nlrpdefansiedade_2021",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Obesidade_2025",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Omegaansiedade_2018",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Omegadamp_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Paeoniflorin_2017",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Painresolv_2023",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Panicocitocinas_2018",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Pde_2025",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Pericitos_2010",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Perryteeling_2013",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Plastdep_2016",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Plasticity_2018",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Plexo_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Poda_2011",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Poda_2012",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Primingprinc_2018",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Prob_2020",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Psdgut_2025",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Psoriase_2025",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ptsdmarc_2015",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ptsdsupressao_2020",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Punicalin_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Pvm_2025",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Pxnakansiedade_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Quimio_2017",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Quimiometa_2017",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Quinuransiedade_2018",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ragestress_2018",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Rennaansiedade_2018",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Repopil_2020",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Reward_2022",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Rewardtrauma_2020",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Sb_2011",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Sbburnout_2016",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Sbcox_2007",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Sbdep_2019",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Senesc_2022",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Sexdiff_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Sfunc_2013",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Sleepil_2026",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Sleepinflam_2023",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Snrnatrem_2020",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Socialstressbbb_2017",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Sreview_2025",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Stressepi_2019",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Su_2018",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Succinatohif_2013",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Tavns_2020",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Tbk_2021",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Tetnlrp_2023",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Tgfb_2025",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Th_2025",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Tlr_2023",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Tlrbrain_2011",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Tlrnociceptor_2013",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Tnfr_2025",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Tnfrripk_2021",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Tnfscaling_2006",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Tnfsuicide_2018",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Tocimune_2019",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Treg_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Trem_2025",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Tremapoe_2017",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Trempark_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Trim_2023",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Trp_2002",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Tspoestresse_2022",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Vago_2018",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Vitd_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Xu_2020",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Xu_2021",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Xu_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Xu_2025",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Xu_2026",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "Ykl_2024",
+      "mensagem": "token sem ficha correspondente — possível rótulo temático ocupando o namespace das referências"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-15",
+      "objeto": "natureza_evidencia",
+      "mensagem": "eixo da D-02 sem nenhum dado em 237 registros — a regra de teto por eixo não é executável neste eixo"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-15",
+      "objeto": "trilha",
+      "mensagem": "eixo da D-02 sem nenhum dado em 274 registros — a regra de teto por eixo não é executável neste eixo"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-15",
+      "objeto": "-",
+      "mensagem": "eixos D-02 — com dado: 3/5 · normatizados: 2/5 · preenchidos mas não normatizados: ['desenho_estudo'] · sem dado: ['natureza_evidencia', 'trilha']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-15",
+      "objeto": "desenho_estudo",
+      "mensagem": "preenchido porém NÃO normatizado — texto livre; pleno só após manual de classificação (D-L05-MANUAL-DESENHO) e as 197 leituras pendentes"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-15",
+      "objeto": "-",
+      "mensagem": "classificadores: 406 chaves · 73 divergências entre camadas · 181 tokens sem ficha"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-16",
+      "objeto": "-",
+      "mensagem": "versão V7 concordante em 4/4 superfícies"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-14",
+      "objeto": "-",
+      "mensagem": "docstring x implementação coerentes: 16 regras anunciadas, todas executadas"
+    }
+  ]
+}

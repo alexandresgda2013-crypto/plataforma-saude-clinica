@@ -1,0 +1,1003 @@
+# B15 AUTOFAGIA / mTOR V2 CANÔNICA
+## Biblioteca de Conhecimento Canônico (Mecanismo B15 — Ansiedade e Depressão)
+
+**ID canônico:** mecanismo_B15_autofagia_mtor · **Prompt v4.2** · Corte: 2026-09-07; rodada [AT 2026-09-09], corte E-utilities 2026-09-09/10.
+**artefato_rotulo:** CANÔNICA v1 · G1 (140/140 PMIDs do Briefing validados por eutils; 134
+âncoras mecanísticas; 6 compostos/suplementos de ruído registrados à parte) + G2 + G3.
+
+---
+
+## BLOCO_00 — IDENTIDADE E ASSINATURA SEMÂNTICA
+
+**Frase-síntese.** A B15 cobre dois sistemas celulares quase antiparalelos que juntos
+governam a **homeostase proteica e a renovação sináptica**. O **mTORC1** (complexo com Raptor)
+é o interruptor nutricional que, quando ativo, **promove síntese proteica/sinaptogênese**
+(via p70S6K e 4E-BP1) e ao mesmo tempo **desliga a autofagia** (fosforila ULK1 em sítio
+inibitório); o **mTORC2** (Rictor) sinaliza via Akt/GSK3β. A **autofagia** (ULK1/2 →
+BECN1/VPS34 → alongamento por ATG5/ATG7/LC3 → autofagossomo → fusão lisossômica com
+TFEB/LAMP1) é a via de **degradação/reciclagem** que o mTORC1 ativo reprime — incluindo a
+**mitofagia** seletiva (PINK1/Parkin; BNIP3L/NIX). No estresse crônico e na depressão, o
+quadro é **bidirecional e regional**: o mTOR/plasticidade estão comprometidos no PFC/hipocampo
+(mTOR reduzido em cérebro humano pós-morte — Jernigan 2011)[EC], a autofagia falha no
+núcleo habenular/neurogênese (Yang 2025)[ML] mas pode estar **hiperativa** e ansiogênica na
+amígdala/hipocampo ventral (Shen 2022)[ML]; (Liu 2025)[ML]. O antidepressivo rápido
+(cetamina) tornou o mTOR famoso pelo modelo clássico (Li 2010)[ML], mas esse mecanismo é
+**contestado** (Autry 2011)[ML], e a autofagia aparece como via paralela de plasticidade e
+limpeza. Fármacos e intervenções (cetamina, rapamicina, trealose, espermidina, psilocibina)
+são **sinal de alvo**, não prescrição.
+
+**Teses-centrais.**
+1. **Autofagia ≠ mTOR — são quase antiparalelos** (mTORC1 ativo inibe ULK1 e promove síntese);
+   "ativar mTOR" e "ativar autofagia" apontam, em geral, para direções opostas.
+2. **Autofagia é fluxo, não quantidade** — o correto é medir *autophagic flux* (LC3-II acumula
+   por produção OU por bloqueio de degradação; Klionsky 2021)[OB].
+3. **A direção não é "mais é melhor"** — suprimida na microglia/reciclagem e no LHb é
+   patogênica; hiperativa mata células-tronco (Jung 2020)[ML], degrada BDNF (Yang 2023)[ML] e
+   é ansiogênica na amígdala.
+4. **A cetamina abriu o campo do mTOR, mas o mecanismo é contestado** — mTOR-dependente (Li
+   2010)[ML] vs. eEF2/BDNF mTOR-independente (Autry 2011)[ML] vs. (S)-norketamina
+   AMPA-independente.
+5. **A autofagia é gatilho causal de transição**, não só marcador — o estresse modula
+   dinamicamente a autofagia neuronal para "gatear" o início da depressão (Yang 2025)[ML].
+6. **Janela homeostática ótima** — mTOR deprimido = plasticidade insuficiente; mTOR excessivo
+   = autofagia suprimida/acúmulo; não há interruptor linear "bom/mau".
+7. **Separação temporal** — horas (mTOR/sinaptogênese da cetamina) vs. dias–semanas
+   (autofagia/estabilidade), hipótese que reconciliaria o paradoxo da rapamicina.
+8. **Evidência humana é o elo fraco, mas cresce** — mTOR PFC pós-morte (Jernigan 2011)[EC],
+   Beclin-1 sérico prediz resposta (He 2019)[EC], LC3A em astrócitos (He 2023)[EC], ECR de
+   rapamicina (Abdallah 2020)[EC] e do ativador direto de mTORC1 NV-5138 (Targum 2026)[EC].
+9. **"Autofagia ≠ detox"** — é proteostase/reciclagem intracelular; jejum/restrição como
+   tratamento psiquiátrico não está estabelecido.
+
+**Palavras-chave:** autofagia, macroautofagia, fluxo autofágico, ULK1/2, BECN1/Beclin-1,
+VPS34/PIK3C3, ATG5/ATG7/ATG12, LC3/MAP1LC3 (LC3-I/II), p62/SQSTM1, TFEB, LAMP1, lisossomo,
+mitofagia, PINK1, Parkin/PRKN, BNIP3L/NIX, DNAmt, mTORC1/Raptor, mTORC2/Rictor, p70S6K/S6K1,
+4E-BP1, PI3K, Akt/PKB/AKT2, GSK3β, AMPK, TSC1/2, sestrina, eEF2K/eEF2, MeCP2, BDNF/TrkB,
+NMDA/AMPA/mGluR, cetamina/esketamina, rapamicina/everolimo, FKBP51, NLRP1/NLRP3, CCR5,
+complemento/ApoE, retículo/UPR/sigma-1, espermidina, urolitina A, NV-5138, psilocibina.
+
+---
+
+### 0.1 (PROFUNDIDADE) — DOIS BRAÇOS DA HOMEÓSTASE SINÁPTICA QUE O ESTRESSE DESEQUILIBRA
+
+A melhor forma de entender a B15 é ver o neurônio como uma fábrica que precisa simultaneamente
+**construir** e **descartar**. O braço da construção é o **mTORC1**: sensor de aminoácidos
+(leucina, via sestrina), energia (AMPK) e fatores tróficos (BDNF/TrkB, PI3K-Akt), quando
+ligado ele traduz proteínas sinápticas (p70S6K, 4E-BP1) e gera novas espinhas — e, para
+investir recursos na síntese, **desliga a reciclagem** fosforilando ULK1. O braço da
+renovação é a **autofagia**: quando o mTORC1 se desliga (pouca energia/nutriente, estresse),
+ULK1/2 inicia o isolamento de citoplasma e organelas danificadas num autofagossomo de
+membrana dupla (BECN1/VPS34 nucleiam; ATG5/ATG7/LC3 alongam; LC3-I → LC3-II), que se funde
+ao lisossomo (TFEB comanda a biogênese lisossômica) para degradar e reciclar a carga. A
+**mitofagia** é a versão seletiva que remove mitocôndrias disfuncionais (PINK1/Parkin;
+BNIP3L/NIX). A diretriz metodológica da área (Klionsky 2021)[OB] insiste que o número de
+puntados de LC3 ou o nível de LC3-II **não** medem autofagia: é preciso medir **fluxo** (com
+bloqueio de degradação), porque LC3-II acumula tanto quando a autofagia aumenta quanto quando
+a degradação lisossômica trava. No estresse crônico, esses dois braços se desregionalizam de
+forma **oposta** conforme a região e o tipo celular — e é essa bidirecionalidade, e não um
+"nível" único, que a B15 descreve.
+
+*KLIONSKY_2021[OB] | JIA_2015[OB] | ABELAIRA_2014[OB] | RYSKALIN_2018[OB]*
+
+### 0.2 (DETALHE) — AS NOVE REGRAS QUE ESTRUTURAM O MECANISMO
+
+O GPM B15 organizou nove teses que a canônica preserva. Primeira, autofagia e mTOR são
+sistemas distintos e quase antiparalelos. Segunda, a leitura correta é o **fluxo**, não o
+estoque de LC3. Terceira, a direção é regional/celular (não "mais é melhor"): faltar
+autofagia no LHb e na neurogênese é patogênico, mas o excesso na amígdala/hipocampo ventral
+degrada BDNF e é ansiogênico. Quarta, o modelo cetamina-mTOR (Li 2010) é contestado por
+dados mTOR-independentes (Autry 2011) e pelo ECR da rapamicina. Quinta, a autofagia é gatilho
+**causal** de transição para a depressão (Yang 2025, *Nature*). Sexta, existe uma **janela
+homeostática** — tanto mTOR baixo (pouca plasticidade) quanto mTOR alto crônico (autofagia
+suprimida, acúmulo) são danosos. Sétima, a **separação temporal** (horas da síntese
+cetamínica vs. dias da estabilidade autofágica) reconciliaria o paradoxo da rapamicina.
+Oitava, a evidência humana é escassa mas cresce (pós-morte, Beclin/LC3A, ECRs). Nona,
+"autofagia = detox" é formulação pseudocientífica. Essas teses impedem a B15 de colapsar em
+"ative o mTOR/cetamina cura" ou "jejum limpa o cérebro".
+
+*LI_2010[ML] | AUTRY_2011[ML] | YANG_2025[ML] | JERNIGAN_2011[EC] | HE_2019[EC] | GASSEN_2019[OB]*
+
+---
+
+## BLOCO_01 — FUNDAMENTOS (VIAS)
+
+### 1.1 mTORC1/2 e PI3K-Akt: o interruptor nutricional da síntese sináptica
+O mTORC1 (Raptor) integra nutrientes (sestrina/leucina), energia (AMPK o inibe em baixa
+energia) e fatores tróficos (BDNF/TrkB → PI3K → Akt), e quando ativo fosforila p70S6K e
+4E-BP1 para traduzir proteínas sinápticas, enquanto fosforila ULK1 inibindo a autofagia. O
+mTORC2 (Rictor) sinaliza via Akt/GSK3β e governa citoesqueleto/sobrevivência; inibir
+mTORC1-S6K1 ou ativar mTORC2 melhora plasticidade/aprendizado hipocampal (Sun 2016)[ML]. A
+deficiência de AKT2/PKBβ altera o sinal mTOR cerebral e a fisiologia do PFC/hipocampo
+(Palumbo 2021)[ML]. As revisões do eixo mTOR na depressação/resposta antidepressiva ancoram
+o campo (Abelaira 2014)[OB]; (Ryskalin 2018)[OB]; (Hashimoto 2011)[OB].
+
+*SUN_2016[ML] | PALUMBO_2021[ML] | ABELAIRA_2014[OB] | RYSKALIN_2018[OB] | HASHIMOTO_2011[OB]*
+
+### 1.2 Maquinário autofágico e FLUXO: iniciação → autofagossomo → lisossomo
+A via canônica: ULK1/2 (iniciação) → complexo BECN1/Beclin-1–VPS34/PIK3C3 (nucleação do
+fagóforo; **NRBF2** regula o complexo VPS34 no giro denteado — Zhang 2023)[ML] → conjugação
+ATG5/ATG7/ATG12 e lipidização de LC3 (LC3-I→LC3-II, alongamento) → p62/SQSTM1 adapta a carga
+→ fechamento do autofagossomo → fusão lisossômica com **TFEB** (biogênese lisossômica;
+Mo 2024)[ML] e LAMP1/TRPML1. A diretriz de ensaio que define o campo é a de Klionsky
+(2021)[OB]: monitorar **fluxo** (degradação), não só LC3. A rede molecular da autofagia
+neuronal na depressão foi revisada cedo (Jia 2015)[OB] e ampliada (Gassen 2019)[OB];
+(Zheng 2025)[OB].
+
+*ZHANG_2023[ML] | MO_2024[ML] | KLIONSKY_2021[OB] | JIA_2015[OB] | GASSEN_2019[OB] | ZHENG_2025[OB]*
+
+### 1.3 Mitofagia: reciclagem seletiva de mitocôndrias (PINK1/Parkin; BNIP3L/NIX)
+A mitofagia remove mitocôndrias despolarizadas via PINK1/Parkin (e receptores BNIP3/BNIP3L/NIX)
+e é o ponto de contato direto com a B9. O estresse crônico leve rompe a mitofagia e o status
+mitocondrial no córtex frontal de rato (Ulecia-Moron 2025)[ML]; a dinâmica mitocondrial nos
+transtornos psiquiátricos foi revisada (Scaini 2022)[OB]; (Papageorgiou 2024)[OB], e a
+desregulação de mitofagia/mitocôndria na TDM (Scaini 2022)[OB]. O índice de saúde
+mitocondrial correlaciona com DNAmt livre no plasma no bipolar (Cordeiro 2023)[EC]. A
+mitofagia migra de "autofagia geral" para **alvo específico** na ação da cetamina via NIX
+(Lu 2023)[EC] e na ansiedade via urolitina A (Mallet 2026)[ML].
+
+*ULECIAMORON_2025[ML] | SCAINI_2022[OB] | PAPAGEORGIOU_2024[OB] | CORDEIRO_2023[EC] | LU_2023[EC]*
+
+### 1.4 Cetamina → glutamato/AMPA → BDNF/TrkB → mTORC1 → sinaptogênese (modelo fundador)
+O modelo canônico (Li et al., 2010, *Science*): a cetamina bloqueia NMDA em interneurônios
+em repouso, disparando um surto de glutamato que ativa AMPA, eleva BDNF/TrkB e, via
+Akt-mTORC1, induz nova síntese proteica sináptica e reverte a atrofia de espinhas; o efeito
+antidepressivo rápido é bloqueado por rapamicina nesse paradigma (Li 2010)[ML]. As revisões
+das vias de antidepressivos rápidos ancoram o campo (Duman 2012)[OB]; (Zanos 2018)[OB];
+(Monteggia/Krystal 2024)[OB]; a sinalização Akt/mTOR/BDNF medeia inclusive o efeito de DBS no
+NAc (Li 2025)[ML], e o PSD-95 potencializa o sinal BDNF (Shi 2024)[ML].
+
+*LI_2010[ML] | DUMAN_2012[OB] | ZANOS_2018[OB] | KRYSTAL_2024[OB] | LI_2025[ML] | SHI_2024[ML]*
+
+### 1.5 Contestação: mTOR-independência, eEF2/BDNF e o teste da rapamicina
+O mecanismo é contestado. Autry et al. (2011, *Nature*) mostram que o bloqueio NMDA em
+repouso produz antidepressivo rápido via **eEF2 → tradução de BDNF**, independente de
+transcrição e de mTOR (Autry 2011)[ML]; o metabólito (S)-norketamina tem ações AMPA-
+independentes (Yang 2018)[ML]; os efeitos sustentados exigem fosforilação de MeCP2
+dependente de BDNF (Kim 2021)[ML]; a liberação espontânea de glutamato via mGluR contribui
+para a resposta rápida (McCarthy 2025)[ML], e a atividade ERK estende o efeito por
+plasticidade (Ma 2025)[ML]. De forma decisiva, num **ECR cruzado humano**, a rapamicina oral
+**não bloqueou** a cetamina em 24h e **prolongou** a resposta/remissão em 2 semanas
+(Abdallah 2020)[EC] — enquanto em roedor ela bloqueia conforme a tarefa (Ardid 2016)[ML].
+Isso apoia a separação temporal (horas = mTOR; dias = autofagia/estabilidade).
+
+*AUTRY_2011[ML] | YANG_2018[ML] | KIM_2021[ML] | MCCARTHY_2025[ML] | MA_2025[ML] | ABDALLAH_2020[EC] | ARDID_2016[ML]*
+
+### 1.6 Autofagia regional bidirecional: habenula, neurogênese e amígdala
+A direção da autofagia depende da região. No **núcleo habenular lateral (LHb)**, o estresse
+agudo ativa e o crônico suprime a autofagia; restaurá-la dá antidepressivo rápido, e
+antidepressivos de classes distintas convergem aí — foco do *Nature* 2025 (Yang 2025)[ML]. No
+**giro denteado/neurogênese**, a falta de autofagia (NRBF2) deprime a neurogênese adulta no
+estresse crônico (Zhang 2023)[ML]. Em sentido oposto, o estresse **sem controle** induz
+**hiperfluxo autofágico no hipocampo ventral** (3-metiladenina previne o comportamento
+depressivo — Liao 2022)[ML], e a **downregulation da autofagia na amígdala** é suficiente
+para aliviar ansiedade (Liu 2025)[ML]; a inibição da autofagia amigdalar atenua ansiedade
+por abstinência de morfina (Han 2025)[ML]. Essa oposição regional é a regra
+anti-nivelamento da B15.
+
+*YANG_2025[ML] | ZHANG_2023[ML] | LIAO_2022[ML] | LIU_2025[ML] | HAN_2025b[ML]*
+
+### 1.7 Autofagia glial/imune: microglia, astrócitos, NLRP e complemento
+Na glia, a direção é sobretudo de **deficiência**. A autofagia microglial deficiente agrava
+a evitação social por derrota social (Sakai 2022)[ML]; a disfunção autofágica contribui para
+o comportamento depressivo ligado ao inflamassomo **NLRP1** (Zhu 2024)[ML]; a cetamina induz
+autofagia microglial suprimindo **NLRP3/IL-1β** (Lyu 2022)[ML]; o sinal CCR5
+microglia→neurônio regula autofagia (Festa 2023)[ML]; e o sinal intestinal γδ T17-IL-17A
+rompe a mitofagia hipocampal (Han 2025)[ML]. Nos astrócitos, o eixo lisossômico TFEB-TRPML1
+modula o comportamento tipo-depressivo (Mo 2024)[ML], e a **LC3A está reduzida em astrócitos
+do PFC** na TDM humana (He 2023)[EC]. A interface autofagia×neuroinflamação foi revisada
+(Tang 2021)[OB]; (Gan 2024)[OB].
+
+*SAKAI_2022[ML] | ZHU_2024[ML] | LYU_2022[ML] | FESTA_2023[ML] | HAN_2025[ML] | MO_2024[ML] | HE_2023[EC] | TANG_2021[OB]*
+
+### 1.8 Antidepressivos clássicos e o eixo FKBP51/HPA→autofagia
+Os antidepressivos "clássicos" (ISRS/tricíclicos) também dependem de autofagia, por uma
+ponte direta com o estresse: a co-chaperona **FKBP51** (reguladora do receptor de
+glicocorticoide) associa-se a Beclin-1, "prima" a autofagia e **medeia a resposta
+antidepressiva em células, camundongos e humanos** (Gassen 2014)[EC]; FKBP5/FKBP51 aumenta a
+autofagia para sinergizar com a ação antidepressiva (Gassen 2015)[ML]; os antidepressivos
+agem induzindo autofagia controlada por esfingomielina-ceramida (Gulbins 2018)[ML], e a
+sertralina modula autofagia AMPK-mTOR (Gulbins 2021)[ML]. A inibição de FKBP51 alivia
+depressão via autofagia AKT/mTOR (Li 2026)[ML]. É o elo mais forte entre HPA/estresse (B2/B12)
+e autofagia.
+
+*GASSEN_2014[EC] | GASSEN_2015[ML] | GULBINS_2018[ML] | GULBINS_2021[ML] | LI_2026[ML]*
+
+### 1.9 Energia, ER stress/UPR e envelhecimento
+A autofagia acopla-se à energia e à proteostase do retículo. O sensor AMPK (baixa energia)
+desliga mTOR e ativa ULK1; o estresse de restrição crônica prejudica o sinal de insulina e a
+memória hipocampal (Woo 2018)[ML]. O **ER stress/UPR** e os receptores **sigma-1** cruzam
+autofagia e neuroinflamação na depressão/tratamento (Fujii 2024)[OB]. A disfunção autofágica
+na neurodegeneração/idade é contexto (Oettinger 2025)[OB], e a autofagia/mitofagia na sinapse
+e na memória foi revisada (Lu 2026)[OB].
+
+*WOO_2018[ML] | FUJII_2024[OB] | OETTINGER_2025[OB] | LU_2026[OB]*
+
+### 1.10 Fármacos/ativadores diretos e intervenções como SINAL (não é prescrição)
+Os fármacos e intervenções entram como **prova experimental de alvo**. A cetamina/esketamina e
+os psicodélicos convergem em plasticidade; a **rapamicina/everolimo** testam o polo mTOR
+(Xiang 2026)[ML]; a **trealose** e a **espermidina** indutores de autofagia (Korolenko
+2021)[ML]; a espermidina tem um dado epidemiológico (NHANES — Qi 2024)[EC] e um ECR piloto
+que ainda é **pré-print bioRxiv** (Mackert 2024)[ML] `[G1]`; o ativador **direto** de mTORC1
+sem NMDA **NV-5138** (mefluleucina, modulador de sestrina) tem efeito rápido em roedor
+(Kato 2019)[ML] e um **ECR fase 1b** em depressão resistente com melhora em 4–12h sem
+psicotomimese (Targum 2026)[EC]; a **urolitina A** (metabólito da microbiota) restaura
+mitofagia no NAc e abole a ansiedade (Mallet 2026)[ML]. Nada disso é prescrição (P20).
+
+*XIANG_2026[ML] | KOROLENKO_2021[ML] | QI_2024[EC] | MACKERT_2024[ML] | KATO_2019[ML] | TARGUM_2026[EC] | MALLET_2026[ML]*
+
+### 1.11 (PROFUNDIDADE) — A CETAMINA E O NASCIMENTO DO CAMPO (E SUA CRISE)
+A história moderna da B15 começa em 2010, quando Li e colaboradores mostraram, em *Science*,
+que um único antagonista NMDA (a cetamina) reverte em horas o déficit de espinhas dendríticas
+no PFC de rato estressado, e que esse efeito depende de **mTORC1** — a rapamicina o
+bloqueava. Pela primeira vez, um antidepressivo rápido apontava para uma maquinaria de
+**síntese proteica sináptica**, não para monoaminas. Menos de um ano depois, Autry e
+colaboradores (2011, *Nature*) ofereceram uma rota concorrente: o mesmo bloqueio NMDA em
+repouso age pela **dessupressão da tradução de BDNF via eEF2**, sem exigir transcrição nem
+mTOR. Desde então, o campo se dividiu entre o polo mTOR (construção rápida) e o polo
+BDNF/eEF2, com o metabólito (S)-norketamina agindo independentemente de AMPA e os efeitos
+sustentados exigindo fosforilação de MeCP2. O achado que mais perturba a linearidade é o
+**ECR cruzado da rapamicina** (Abdallah 2020): em humanos, pré-tratar com rapamicina não
+tirou o efeito da cetamina em 24h e chegou a **prolongar** a remissão em duas semanas — o
+oposto do que o modelo "cetamina = mTOR, rapamicina bloqueia" previa. A hipótese que
+reconcilia tudo é **temporal**: o mTOR/síntese age nas horas (a fagulha sináptica), enquanto
+a autofagia/estabilidade sináptica age nos dias–semanas (a duração) — inibir mTOR de antemão
+poderia até facilitar o braço autofágico da manutenção. É tensão real, não resolvida.
+
+*LI_2010[ML] | AUTRY_2011[ML] | YANG_2018[ML] | ABDALLAH_2020[EC] | BROWN_2026[ML]*
+
+### 1.12 (PROFUNDIDADE) — BIDIRECIONALIDADE: POR QUE "AUTOFAGIA BAIXA = DEPRESSÃO" É FALSO
+A tese que mais protege a B15 da super-simplificação é a de que a autofagia não tem uma única
+direção. O estresse crônico **suprime** a autofagia em contextos onde ela faz reciclagem
+protetora: no núcleo habenular (onde restaurá-la dá antidepressivo rápido — Yang 2025,
+*Nature*), no giro denteado (NRBF2 e neurogênese — Zhang 2023) e na microglia (onde a
+deficiência alimenta NLRP e evitação social — Sakai 2022; Zhu 2024). Mas o **excesso** de
+autofagia é igualmente patogênico: o estresse crônico imprevisível induz **morte autofágica
+de células-tronco neurais adultas**, deprimindo a neurogênese (Jung 2020; Choe 2024); a
+hiperativação neuronal **depleta BDNF** (Yang 2023); a **autofagia dendrítica** degrada
+proteínas pós-sinápticas e é necessária à depressão sináptica de longo prazo (Shen 2022); e na
+**amígdala**, a autofagia elevada é **ansiogênica** — sua downregulation alivia ansiedade
+(Liu 2025) e atenua a ansiedade de abstinência (Han 2025). Some-se a regra metodológica: o
+nível de LC3 não diz se a via está acelerada ou travada (Klionsky 2021). Logo, não existe
+"autofagia baixa = depressão"; existe regulação **regional, celular e temporal** com uma
+janela homeostática ótima.
+
+*YANG_2025[ML] | ZHANG_2023[ML] | SAKAI_2022[ML] | JUNG_2020[ML] | CHOE_2024[ML] | YANG_2023[ML] | SHEN_2022b[ML] | LIU_2025[ML] | KLIONSKY_2021[OB]*
+
+### 1.13 (PROFUNDIDADE) — O ELO HUMANO QUE FALTAVA: BEclin, LC3A, FKBP5 E OS ECRs
+Durante anos, a B15 foi dominada por modelo animal; o elo humano vem crescendo. O eixo mTOR
+está **comprometido no PFC pós-morte** na TDM (Jernigan 2011), e redes gênicas da via mTOR
+co-expressas aparecem no sangue/transcriptoma de deprimidos (Park 2022)[EC]; (Zhu 2019)[EC], com AKT1/
+mTOR reduzidos no bipolar de curta duração (Machado 2015). Mais diretamente: o **Beclin-1
+sérico basal prediz a resposta a antidepressivo** (He 2019), e a **LC3A está reduzida em
+astrócitos do PFC** pós-morte e correlaciona-se no sangue com a gravidade (He 2023). A
+**FKBP51** media a resposta antidepressiva em células, camundongos **e humanos** (Gassen
+2014). Dois ECRs testam causalidade em gente: a **rapamicina** oral não bloqueou e prolongou
+a cetamina (Abdallah 2020), e o ativador direto de mTORC1 **NV-5138** melhorou o humor em
+4–12h num fase 1b (Targum 2026). Ainda assim, persiste a ressalva: marcador de sangue/PBMC
+não mede o fluxo sináptico cortical, a amostra é pequena e os números de efeito são alegação
+a confirmar no G3. O elo humano ganhou lastro, mas não fechou a causalidade.
+
+*JERNIGAN_2011[EC] | CHEN_2022[EC] | LI_2019[EC] | MACHADO_2015[EC] | HE_2019[EC] | HE_2023[EC] | GASSEN_2014[EC] | ABDALLAH_2020[EC] | TARGUM_2026[EC]*
+
+---
+
+## BLOCO_02 — VIAS EM DETALHE
+
+### 2.1 A janela homeostática: nem mTOR baixo nem autofagia alta crônica
+O princípio unificador é que **construção e renovação precisam estar balanceadas**. mTOR
+deprimido de forma crônica significa pouca tradução sináptica e perda de espinhas (o PFC
+pós-morte da TDM — Jernigan 2011)[EC]; mTOR excessivamente sustentado (como no modelo de
+ausência de ApoE, onde mTOR alto trava autofagia hipocampal — Chao 2025)[ML] impede a
+reciclagem e acumula componentes danificados. Da mesma forma, autofagia de menos impede
+limpeza no LHb/microglia e autofagia de mais degrada BDNF/sinapses e mata células-tronco. A
+intervenção futura é **restaurar o equilíbrio regional**, não empurrar um dos braços.
+
+*JERNIGAN_2011[EC] | CHAO_2025[ML] | YANG_2023[ML] | SAKAI_2022[ML]*
+
+### 2.2 Engajar o alvo não é curar: fármacos como prova de alvo
+A farmacologia da B15 prova que os alvos são **engajáveis**, mas não que a depressão seja
+"falta de mTOR" nem que um indutor de autofagia seja antidepressivo geral. A cetamina valida
+a plasticidade rápida em humanos (sinal), mas seu mecanismo é contestado; a rapamicina tem
+efeito paradoxal (bloqueia em roedor, prolonga em humano); o NV-5138 prova que ativar
+mTORC1 diretamente (sem NMDA) tem efeito rápido (fase 1b pequeno); a urolitina A e a
+espermidina são indutores/nutrientes em modelo/epidemiologia, não terapia comprovada. A
+lição é a da série: ciência do mecanismo robusta em animal/célula, engenharia terapêutica
+aberta e janela/região-dependent e.
+
+*ABDALLAH_2020[EC] | TARGUM_2026[EC] | KATO_2019[ML] | MALLET_2026[ML] | QI_2024[EC]*
+
+---
+
+### 2.3 (PROFUNDIDADE) — O LIMITE ENTRE MECANISMO E TERAPÊUTICA
+A B15 compartilha com a B13/B14 o princípio "ciência primeiro, ferramenta depois", mas com
+uma nuance: aqui **há** fármacos de ação rápida em uso (cetamina/esketamina) e moléculas em
+ensaio (NV-5138). Três conclusões separam evidência de promessa. Primeira, **prova de alvo
+não é prova de etiologia** — engajar mTORC1 e melhorar o humor mostra que o sistema modula
+o sintoma, não que a depressão seja uma "deficiência de mTOR" (a própria contestação
+Autry/eEF2 e o ECR da rapamicina o dizem). Segunda, a **direção importa por região/célula**:
+o que alivia num circuito (ativar autofagia no LHb) pode piorar noutro (autofagia excessiva
+na amígdala é ansiogênica), o que torna um agonista/antagonista global inespecífico.
+Terceira, a **duração** pode viver num braço (autofagia/estabilidade) distinto do da
+** fagulha** (mTOR/horas), explicando por que inibir mTOR não apaga o efeito em humanos. O
+documento descreve a homeostase proteica/sináptica; não atesta que cetamina, rapamicina,
+trealose, espermidina, urolitina A ou psilocibina sejam prescrição — isso é do módulo
+clínico.
+
+*LI_2010[ML] | AUTRY_2011[ML] | ABDALLAH_2020[EC] | LIU_2025[ML] | YANG_2025[ML]*
+
+### 6.1 (DETALHE) — O QUE A B15 NÃO PRESCRÊVE
+Cetamina/esketamina, (S)-norketamina, rapamicina/everolimo, NV-5138/mefluleucina,
+trealose, espermidina, urolitina A, BGP-15, inibidores de GSK3, scopolamina,
+psilocibina/psicodélicos, DBS, jejum/restrição e exercício entram no corpo apenas como
+**prova experimental de viabilidade de alvo/plasticidade**, nunca como conduta (P20). A B15
+cobre a fisiologia endógena (mTOR/síntese, autofagia/mitofagia, fluxo, FKBP51, plasticidade
+bidirecional); a prescrição de antidepressivos de ação rápida, imunossupressores (rapamicina)
+ou suplementos (espermidina/urolitina) pertence ao módulo clínico. Compostos vegetais/sinais
+de intervenção sem biologia central (apigenina, vitamina E, fórmulas da medicina
+tradicional, obesidade por dieta como contexto) foram **excluídos do corpo** como ruído.
+
+*MALLET_2026[ML] | KOROLENKO_2021[ML] | LLOYD_2017[ML] | MARTON_2024[ML]*
+
+---
+
+## BLOCO_03 — MEDIADORES MOLECULARES
+
+- **mTOR/síntese (construção):** mTORC1/Raptor, mTORC2/Rictor, p70S6K/S6K1, 4E-BP1,
+  PI3K, Akt/PKB (AKT2/PKBβ — Palumbo 2021)[ML], GSK3β, TSC1/2, **AMPK** (sensor energético),
+  eEF2K/eEF2, MeCP2, sestrina (sensoriamento de leucina; alvo de NV-5138).
+- **Autofagia (renovação):** ULK1/ULK2, BECN1/Beclin-1, VPS34/PIK3C3, **NRBF2**
+  (Zhang 2023)[ML], ATG5, ATG7, ATG12, **LC3/MAP1LC3 (LC3-I→II)**, p62/SQSTM1, **TFEB**,
+  LAMP1, TRPML1; CYLD dirige poda por macroautofagia via Akt-mTOR (Zajicek 2022)[ML]; sinal
+  GRID1/GluD1-CBLN1 facilita autofagia neuronal (S 2025)[ML].
+- **Mitofagia/organelas:** PINK1, Parkin/PRKN, **BNIP3L/NIX** (Lu 2023)[EC], BNIP3, DNAmt
+  livre; retículo/UPR e **sigma-1** (Fujii 2024)[OB].
+- **Entrada/saída (humor):** BDNF/TrkB, PSD-95, Reelina, AMPA/GluA1, NMDA (NR2A), mGluR;
+  glutamato (surto cetamínico); **FKBP5/FKBP51** (ponte HPA→autofagia — Gassen 2014)[EC];
+  ceramida/PP2A (Gulbins 2018)[ML].
+- **Imune/glia:** NLRP1 (Zhu 2024)[ML], NLRP3/IL-1β (Lyu 2022)[ML], CCR5 (Festa 2023)[ML],
+  C1q/C3/complemento, **ApoE** (Chao 2025)[ML], TREM2, TNF-α (degrada NIX), IL-17A
+  intestinal (Han 2025)[ML].
+
+### Inventário NEGATIVO (o que a ciência refuta)
+- **"mTOR baixo = causa universal; ativar mTOR é sempre antidepressivo"** — **não linear**:
+  mTOR reduzido no PFC pós-morte (Jernigan 2011)[EC], mas mTOR excessivo suprime autofagia
+  e acumula dano (Chao 2025)[ML]. Janela homeostática, não botão.
+- **"Mais autofagia é sempre protetor"** — **refutado**: hiperautofagia mata
+  células-tronco (Jung 2020; Choe 2024)[ML], depleta BDNF (Yang 2023)[ML] e é ansiogênica na
+  amígdala (Liu 2025)[ML]; a falta é patogênica no LHb/neurogênese.
+- **"LC3 alto/baixo mede autofagia"** — **falso**: é preciso medir **fluxo** (Klionsky
+  2021)[OB]; LC3-II acumula por produção ou por bloqueio de degradação.
+- **"A cetamina prova que depressão é falta de mTOR (via linear obrigatória)"** —
+  **enfraquecido**: eEF2/BDNF mTOR-independente (Autry 2011)[ML] e ECR da rapamicina que não
+  bloqueou (Abdallah 2020)[EC].
+- **"Rapamicina (inibir mTOR) é antidepressivo comprovado"** — falso como regra: bloqueia a
+  cetamina em roedor tarefa-dependente (Ardid 2016)[ML]; no ECR humano prolongou a resposta
+  por mecanismo incerto (possível autofagia em médio prazo).
+- **"Marcador periférico (p-mTOR/LC3/Beclin no sangue) mede o neurônio"** — não
+  demonstrado: PBMC ≠ cérebro; confundido por medicação/jejum/exercício/IMC/idade.
+- **"Autofagia = detox; jejum limpa toxinas e trata depressão"** — formulação
+  pseudocientífica: autofagia é proteostase/reciclagem; jejum/restrição como tratamento
+  psiquiátrico **não está estabelecido**.
+- **"Há biomarcador clínico validado de autofagia/mTOR"** — não: Beclin-1, LC3A, p-mTOR e
+  assinaturas gênicas são candidatos promissores, mas preliminares.
+- **"B15 é igualmente forte em ansiedade e depressão"** — não: ansiedade tem lastro
+  translacional/animal (amígdala/extinção; urolitina), depressão tem lastro humano maior;
+  não nivelar.
+
+*JERNIGAN_2011[EC] | CHAO_2025[ML] | JUNG_2020[ML] | YANG_2023[ML] | LIU_2025[ML] | KLIONSKY_2021[OB] | AUTRY_2011[ML] | ABDALLAH_2020[EC] | ARDID_2016[ML] | GASSEN_2014[EC]*
+
+---
+
+## BLOCO_04 — CÉLULAS E ESTRUTURAS
+
+- **Neurônios piramidais do PFC (infralímbico/prelímbico):** sítio da sinaptogênese
+  cetamina-mTOR e do déficit pós-morte (Jernigan 2011)[EC]; knockdown de mTOR no infralímbico
+  evoca fenótipo depressivo (Garro-Martinez 2021)[ML].
+- **Neurônios do hipocampo/giro denteado:** neurogênese adulta dependente de fluxo
+  autofágico (NRBF2 — Zhang 2023)[ML]; vulneráveis à morte autofágica por estresse
+  (Jung 2020; Choe 2024)[ML]; **hipocampo ventral** com hiperfluxo patogênico (Liao 2022)[ML].
+- **Interneurônios GABAérgicos:** alvo do bloqueio NMDA em repouso que dispara o surto
+  glutamatérgico da cetamina (Autry 2011)[ML].
+- **Neurônios espinhosos médios do NAc:** mitofagia desregulada na ansiedade; urolitina A
+  restaura função sináptica (Mallet 2026)[ML].
+- **Microglia:** autofagia/NLRP no controle inflamatório e poda (Sakai 2022; Zhu 2024; Lyu
+  2022)[ML]; CCR5 microglia→neurônio (Festa 2023)[ML].
+- **Astrócitos:** eixo TFEB-TRPML1 (Mo 2024)[ML]; **LC3A reduzida na TDM** (He 2023)[EC].
+- **Células-tronco/progenitoras neurais adultas:** morrem por autofagia excessiva sob
+  estresse, deprimindo neurogênese (Jung 2020; Guo 2022)[ML].
+- **Oligodendrócitos/mielina:** plasticidade dependente de ritmo (Bmal1 — Zuo 2024)[ML].
+- **Estruturas/circuitos:** **PFC** (infralímbico/prelímbico; maior convergência
+  mTOR–glutamato–BDNF); **hipocampo** (DG/CA1; ventral); **núcleo habenular lateral/LHb**
+  (autofagia suprimida no estresse crônico = alvo antidepressivo convergente — Yang 2025)[ML];
+  **amígdala basolateral/BLA** (excesso de autofagia ansiogênico; extinção dependente de
+  calpaína/mTOR — Girgenti 2017)[ML]; **NAc** (mitofagia da ansiedade); **sinapse**
+  (espinhas, PSD-95, AMPA; autofagia dendrítica — Shen 2022)[ML].
+
+---
+
+### 3.1 (PROFUNDIDADE) — O MARCADOR PERIFÉRICO NÃO É O NEURÔNIO
+Como em B13/B14, a distinção que evita falsos biomarcadores é entre o que se mede no sangue
+e o que acontece na sinapse. p-mTOR, p-S6K, p-Akt, LC3-II, Beclin-1 e p62 em
+sangue/PBMC/soro/exossomos são marcadores de **estado**, fortemente confundidos por
+medicação (cetamina/ISRS/metformina/corticoides), jejum/nutrição, exercício, IMC, idade e
+hora do dia; e a quantidade de LC3 nem sequer mede fluxo sem bloqueio de degradação. Some-se
+que a direção da autofagia é **regional e celular** (suprimida no LHb, excessiva na amígdala),
+impossível de capturar numa amostra periférica única. Os achados humanos são promissores
+como preditores de **grupo/resposta** — Beclin-1 sérico basal prediz resposta a
+antidepressivo (He 2019)[EC]; LC3A no sangue correlaciona-se com gravidade (He 2023)[EC];
+NIX reduzido no sangue na TDM (Lu 2023)[EC]; assinatura de 4 genes de autofagia (Zeng
+2021)[EC] — mas nenhum diagnostica nem mede o fluxo sináptico cortical. Não há, portanto,
+exame de sangue para autofagia/mTOR em ansiedade/depressão: são marcadores de pesquisa, sem
+corte ou protocolo (P20).
+
+*HE_2019[EC] | HE_2023[EC] | LU_2023[EC] | ZENG_2021[EC] | KLIONSKY_2021[OB]*
+
+### 4.1 (PROFUNDIDADE) — SEXO E TEMPO: DUAS DIMENSÕES QUE A B15 NÃO PODE NIVELAR
+Duas dimensões atravessam todo o mecanismo. A primeira é **sexual**: a autofagia é
+**sexualmente dimórfica** — esteroides gonadais modulam BECN1/mTOR, e a maioria dos estudos
+pré-clínicos de humor usou machos, numa doença mais prevalente em mulheres (Shang/Klionsky
+2021)[OB]; há diferenças sexuais nos próprios efeitos da cetamina (Carrier 2013)[ML] e da
+extinção do medo adolescente via NMDA-ERK-mTOR (Glavonic 2023)[ML]. A segunda é **temporal**:
+a ação do antidepressivo rápido separa-se em **horas** (mTOR/síntese sináptica — a fagulha) e
+**dias–semanas** (autofagia/estabilidade — a duração), uma plasticidade tempo-sensível que
+distingue as síndromes rápida e sustentada (Brown 2026)[ML] e que reconciliaria o paradoxo
+da rapamicina. Ignorar sexo ou tempo é tratar um sistema regional e dinâmico como um botão
+estático — exatamente o colapso que a B15 deve evitar.
+
+*SHANG_2021[OB] | CARRIER_2013[ML] | GLAVONIC_2023[ML] | BROWN_2026[ML]*
+
+---
+
+## BLOCO_05 — BIOMARCADORES (PESQUISA; NÃO HÁ DIAGNÓSTICO)
+
+> Catálogo de marcadores e confundidores, **sem protocolo e sem valor de corte**. Periférico
+> ≠ central; fluxo ≠ estoque de LC3.
+
+1. **Periféricos (sangue/PBMC/soro/exossomo):** p-mTOR/p-S6K/p-Akt (estado); **Beclin-1
+   sérico basal prediz resposta a antidepressivo** (He 2019)[EC]; **LC3A no sangue**
+   correlaciona-se com gravidade (He 2023)[EC]; **BNIP3L/NIX reduzido no sangue na TDM**
+   (Lu 2023)[EC]; LC3-II/p62 (exige medir **fluxo**); DNAmt livre/índice de saúde
+   mitocondrial (Cordeiro 2023)[EC]; assinatura de **4 genes de autofagia** (Zeng 2021)[EC];
+   transcriptoma/metiloma de monócitos (Zhu 2019)[EC]; BDNF sérico (≠central); miRNA de
+   exossomos (Fang 2020)[EC].
+2. **Central/pós-morte:** **mTOR comprometido no PFC** na TDM (Jernigan 2011)[EC];
+   **LC3A reduzida em astrócitos do PFC** (He 2023)[EC]; redes gênicas mTOR
+   (Chen 2022)[EC]; AKT1/mTOR no bipolar (Machado 2015)[EC]; genes associados a suicídio
+   (Flory 2017)[EC].
+3. **Imagem/fisiologia (emergente):** perfil neuroanatômico distinto após inibição de mTOR
+   (Abelaira 2017)[ML]; cetamina reduz ativação microglial/monócitos e eleva periféricos
+   (Arena 2026)[EC].
+4. **Princípio:** **não há biomarcador individual validado** de autofagia/mTOR para
+   ansiedade/depressão; marcador de sangue não mede o fluxo sináptico cortical.
+
+### 5.x Exames referenciados por ID oficial (P19/P20)
+- **ID oficial de exame (P19/P20):** não há exame catalogado no C-LAB para autofagia/mTOR
+  (p-mTOR/p-S6K, LC3-II/fluxo, Beclin-1, p62, BNIP3L/NIX, DNAmt livre, assinatura gênica de
+  autofagia) como teste de humor; a coleta/medição é **pesquisa**, sem corte/diagnóstico.
+  Como **contexto clínico geral** (não marcador do mecanismo), podem ser consultados os IDs
+  oficiais: `exame_hemograma_completo`, `exame_ferritina`, `exame_vitd`, `exame_albumina`,
+  `exame_funcao_hepatica`, `exame_glicemia_hba1c`, `exame_eletrolitos`, `exame_il6`,
+  `exame_tnfalpha`, `exame_pcr_us`, `exame_cortisol_matinal`, `exame_acth` (eixo HPA — B2),
+  `exame_tireoide_funcional` (B11), `exame_polissonografia` (sono — B10).
+- Dosagens de sinalização (fosfo-proteínas) ou ensaios de fluxo autofágico **não** têm ID de
+  exame voltado ao diagnóstico de ansiedade/depressão: **elementos ainda não catalogados**,
+  citados como papel biológico sem corte/protocolo (P20). O fluxo autofágico sináptico
+  central não é mensurável diretamente em vida.
+
+---
+
+### 5.1 (PROFUNDIDADE) — MARCADOR DE GRUPO E DE RESPOSTA, NÃO DIAGNÓSTICO
+Os candidatos a biomarcador da B15 têm valor sobretudo **preditivo/de grupo**, não
+diagnóstico individual. O Beclin-1 sérico basal **prediz** quem responde a antidepressivo
+(nível mais alto = pior resposta; sobe nos respondedores — He 2019)[EC], e a LC3A no sangue
+correlaciona-se negativamente com a gravidade (He 2023)[EC]; o NIX circulante reduz-se na
+TDM e responde à cetamina (Lu 2023)[EC]. Mas todos são confundidos por medicação, jejum,
+exercício, IMC e idade, não medem fluxo (só estoque) e não lês o cérebro. O dado
+pós-morte (mTOR PFC, LC3A astrocitária) é mais direto, porém transversal e de tecido único.
+O quadro consolidado é o de marcadores de **pesquisa/preditores de resposta em janela**, sem
+diagnóstico individual e sem medida do fluxo sináptico — por isso a B15 não apresenta exame
+de autofagia/mTOR como teste clínico (P20).
+
+*HE_2019[EC] | HE_2023[EC] | LU_2023[EC] | ZENG_2021[EC] | JERNIGAN_2011[EC]*
+
+### 8.1 (DETALHE) — A HIERARQUIA DE CONEXÕES DE AUTOFAGIA/mTOR
+As conexões mais fortes da B15: **B3** é o **integrador central** (mTOR = construção
+sináptica; autofagia = renovação/proteostase; ambos desembocam em BDNF/espinhas/neurogênese).
+**B5** é HIGH (o glutamato NMDA/AMPA/mGluR é a porta de entrada do modelo cetamina-mTOR;
+mTORC1 medeia a extinção do medo). **B2/B12** são HIGH (o estresse crônico é o indutor que
+desregula mTOR/autofagia; FKBP51 liga o receptor de glicocorticoide à autofagia). Vêm em
+seguida **B1** (autofagia microglial controla NLRP; ApoE-complemento-mTOR) e **B9**
+(mitofagia = ponto de contato direto; AMPK/DNAmt), ambos MEDIUM-HIGH; depois **B4** (ISRS
+induzem autofagia via ceramida/FKBP5/AMPK), **B10** (sono/ritmo; privação de sono altera
+ApoE/AMPK/mTOR), **B7** (urolitina A da microbiota; γδ T17-IL-17; homovanílico) e **B8**
+(leucina/sestrina/insulina como sensores de entrada), todos MEDIUM. Mais fracas: **B13**
+(CB1/mTOR neuroprotetor, indireto) e **B14/B6/B11/B16** (LOW) — coerente com a regra de que
+a B15 é um sistema de homeostase celular que se acopla a quase todos os eixos, com lastro
+muito desigual.
+
+*GASSEN_2014[EC] | GIRGENTI_2017[ML] | ZHU_2024[ML] | LU_2023[EC] | GULBINS_2018[ML] | BAI_2025[ML] | MALLET_2026[ML]*
+
+---
+
+## BLOCO_06 — TRADUÇÃO CLÍNICA (SINAL, NÃO CONDUTA)
+
+A B15 descreve a **fisiologia endógena** da homeostase proteica/sináptica. A cetamina/
+esketamina e psicodélicos (plasticidade rápida), a rapamicina/everolimo (polo mTOR), o
+NV-5138/mefluleucina (ativador direto de mTORC1), a trealose/espermidina/urolitina A
+(indutores de autofagia/mitofagia), o BGP-15 (mitofagia), inibidores de GSK3, scopolamina,
+DBS, jejum e exercício são **prova experimental de viabilidade de alvo/plasticidade**, nunca
+prescrição (P20). Estado da tradução: em **roedor**, mTOR/autofagia são robustos e
+manipuláveis; em **humanos**, há ECRs de cetamina (sinal, mecanismo contestado), um ECR de
+rapamicina com resultado paradoxal (Abdallah 2020)[EC], um fase 1b de NV-5138
+(Targum 2026)[EC], epidemiologia da espermidina (Qi 2024)[EC] e biomarcadores preditivos
+(He 2019)[EC] — todos preliminares/heterogêneos. A conduta (escolha, dose, duração, janela)
+pertence ao módulo clínico.
+
+---
+
+### 1.16 (RESUMO) — O QUE SOBRA DE CONSOLIDADO
+Dez vias, um princípio: a depressão/ansiedade crônicas envolvem **falha de homeostase
+proteica e renovação sináptica**, com mTOR/plasticidade comprometidos no PFC/hipocampo e
+autofagia desregulada de forma **regional e bidirecional** (faltando no LHb/neurogênese/
+microglia; excessiva na amígdala/hipocampo ventral/células-tronco). Consolidadas: a biologia
+celular de mTORC1/2 e da autofagia/mitofagia, o controle por **fluxo** (Klionsky), o elo
+FKBP51/HPA–autofagia dos antidepressivos clássicos (Gassen 2014), a autofagia como gatilho
+causal (Yang 2025, *Nature*), e o mTOR comprometido no cérebro humano (Jernigan 2011).
+Controversas/emergentes: mTOR-dependente vs. eEF2/BDNF na cetamina; o paradoxo da rapamicina;
+a separação temporal horas/dias; a direção regional da autofagia; e os antidepressivos
+rápidos como convergência plástica. Em negativo: não há "deficiência de mTOR" universal, nem
+"autofagia baixa = depressão", nem biomarcador validado, nem "detox por jejum", nem fármaco
+indutor que seja antidepressivo geral.
+
+*KLIONSKY_2021[OB] | GASSEN_2014[EC] | YANG_2025[ML] | JERNIGAN_2011[EC] | LI_2010[ML] | AUTRY_2011[ML]*
+
+### 4.2 (DETALHE) — CIRCUITOS POR TRÁS DA ANSIEDADE E DA DEPRESSÃO
+Na **depressão**, o circuito é o PFC–hipocampo–habênula: o mTOR/síntese sináptica está
+deprimido no PFC (Jernigan 2011)[EC] e a autofagia suprimida no **LHb** (onde restaurá-la dá
+antidepressivo rápido — Yang 2025)[ML] e no giro denteado (Zhang 2023)[ML]. Na **ansiedade/
+medo**, entra a **amígdala**: a cetamina acelera a extinção via mTORC1 (Girgenti 2017)[ML],
+mas a autofagia **elevada** na BLA é ansiogênica (Liu 2025)[ML] — inibi-la alivia ansiedade.
+No **NAc**, a mitofagia desregulada de neurônios espinhosos médios produz ansiedade que a
+urolitina A abole (Mallet 2026)[ML]. O mesmo sistema toca depressão (LHb/PFC, falta de
+construção/reciclagem) e ansiedade (BLA/NAc, excesso regional) por **braços opostos** — o
+que explica por que um agonista/antagonista genérico não seria específico, e por que o lastro
+humano é maior na depressão que na ansiedade.
+
+*JERNIGAN_2011[EC] | YANG_2025[ML] | ZHANG_2023[ML] | GIRGENTI_2017[ML] | LIU_2025[ML] | MALLET_2026[ML]*
+
+---
+
+## BLOCO_07 — NÓS MOLECULARES CENTRAIS
+
+1. **mTORC1→síntese sináptica (p70S6K/4E-BP1) e inibição de ULK1** — o interruptor
+   nutricional (Li 2010)[ML].
+2. **Autofagia por fluxo (ULK→BECN1→ATG/LC3→lisossomo/TFEB)** — a renovação (Klionsky
+   2021)[OB].
+3. **Autofagia como gatilho causal de transição (LHb)** — Yang 2025, *Nature*[ML].
+4. **Bidirecionalidade regional** — faltando no LHb/neurogênese/microglia; excessiva na
+   amígdala/células-tronco (dendrítica degrada BDNF/sinapses).
+5. **Contestação cetamina-mTOR** — Li 2010 vs. Autry 2011 vs. ECR rapamicina (Abdallah
+   2020)[EC].
+6. **FKBP51/HPA→autofagia** — o elo dos antidepressivos clássicos (Gassen 2014)[EC].
+7. **Mitofagia seletiva (NIX/BNIP3L; PINK1/Parkin)** — cetamina, TNF-α, urolitina A (Lu
+   2023)[EC]; (Mallet 2026)[ML].
+8. **Regra:** janela homeostática e separação temporal; fármacos = sinal de alvo, não
+   prescrição.
+
+*LI_2010[ML] | KLIONSKY_2021[OB] | YANG_2025[ML] | AUTRY_2011[ML] | GASSEN_2014[EC] | LU_2023[EC]*
+
+---
+
+## BLOCO_08 — CONEXÕES B1–B16
+
+1. **B15↔B3 (neuroplasticidade/BDNF) — HIGH (integrador central):** mTOR = construção
+   sináptica; autofagia = renovação/proteostase; ambos desembocam em BDNF/espinhas.
+2. **B15↔B5 (GABA/glutamato/medo) — HIGH:** NMDA/AMPA/mGluR é a porta da cetamina;
+   mTORC1 medeia a extinção do medo (Girgenti 2017)[ML].
+3. **B15↔B2 / B12 (HPA/estresse/trauma) — HIGH:** o estresse é o indutor; FKBP51 liga o
+   receptor de glicocorticoide à autofagia (Gassen 2014)[EC].
+4. **B15↔B1 (neuroinflamação/microglia) — MEDIUM-HIGH:** autofagia controla NLRP1/NLRP3;
+   TNF-α degrada NIX; eixo ApoE-complemento-mTOR (Chao 2025)[ML].
+5. **B15↔B9 (mitocôndria/energia) — MEDIUM-HIGH:** mitofagia (PINK1/Parkin/NIX) é o
+   contato direto; AMPK/DNAmt acoplam energia.
+6. **B15↔B4 (monoaminas) — MEDIUM:** ISRS induzem autofagia via ceramida/FKBP5/AMPK
+   (Gulbins 2018)[ML].
+7. **B15↔B10 (sono/ritmo) — MEDIUM:** privação de sono altera ApoE/AMPK/mTOR (Bai 2025)[ML];
+   autofagia ritmicamente regulada.
+8. **B15↔B7 (intestino–cérebro) — MEDIUM:** urolitina A (Mallet 2026)[ML]; γδ T17-IL-17
+   (Han 2025)[ML]; homovanílico bacteriano.
+9. **B15↔B8 (nutrientes/metabolismo) — MEDIUM:** leucina/sestrina/NV-5138; insulina/IGF;
+   dieta/jejum como sensores (sem validar intervenção).
+10. **B15↔B13 (endocanabinoide) — LOW/emergente:** CB1/mTOR neuroprotetor; ponte indireta.
+11. **B15↔B14, B6, B11, B16 — LOW:** esteroides/redox/tireoide/neurogênese como
+    modificadores indiretos (a neurogênese adulta dependente de autofagia é escopo de B16
+    sob B3).
+
+*GIRGENTI_2017[ML] | GASSEN_2014[EC] | CHAO_2025[ML] | GULBINS_2018[ML] | BAI_2025[ML] | MALLET_2026[ML]*
+
+---
+
+## BLOCO_09 — IMPACTO SOBRE NEUROPLASTICIDADE (elo B3)
+A B15 é, em grande parte, **a maquinaria molecular da plasticidade**. O mTORC1 executa a
+síntese proteica que gera novas espinhas (Li 2010)[ML]; a autofagia dendrítica faz a
+**poda/renovação** do complemento pós-sináptico (Shen 2022)[ML], dirigida por CYLD-Akt-mTOR
+(Zajicek 2022)[ML] e modulada por PSD-95 (Shi 2024)[ML]; o TFEB lisossômico e a BDNF
+completam o ciclo construção/renovação. A plasticidade tempo-sensível das síndromes rápida
+(mTOR) vs. sustentada (autofagia) é o eixo B3 por excelência (Brown 2026)[ML]. A maquinaria
+plástica é a B3; a neurogênese adulta é B16.
+
+*LI_2010[ML] | SHEN_2022b[ML] | ZAJICEK_2022[ML] | SHI_2024[ML] | BROWN_2026[ML]*
+
+---
+
+## BLOCO_10 — IMPACTO SOBRE NEUROGÊNESE (elo B16; condicional)
+Há evidência em modelo de que a autofagia governa a **neurogênese hipocampal adulta**: o
+componente NRBF2 do complexo VPS34 orquestra o fluxo autofágico e a neurogênese do giro
+denteado no estresse crônico (Zhang 2023)[ML], e a morte autofágica de células-tronco
+neurais adultas deprime a neurogênese (Jung 2020)[ML]; (Choe 2024)[ML]; (Guo 2022)[ML]. A
+psilocibina, sob corticosterona crônica, promove neurogênese do giro denteado via
+BDNF–TrkB–mTOR (Zhao 2024c)[ML]. Por **P16**, a neurogênese é escopo de
+`mecanismo_B16_neurogenese` (subordinada a B3); a B15 registra autofagia/mTOR como
+**moduladores** desse processo.
+
+*ZHANG_2023[ML] | JUNG_2020[ML] | CHOE_2024[ML] | GUO_2022[ML] | ZHAO_2024c[ML]*
+
+---
+
+## BLOCO_11 — ESTRATIFICAÇÃO (FENÓTIPOS, NÃO DIAGNÓSTICO)
+- **F1 — Depressão maior/estresse crônico:** autofagia desregulada; mTOR PFC baixo em
+  humano (Jernigan 2011)[EC]; LHb com autofagia suprimida (Yang 2025)[ML].
+- **F2 — Depressão resistente/antidepressivo rápido:** cetamina/psicodélico = plasticidade;
+  NV-5138 (Targum 2026)[EC]; predição de resposta por Beclin-1 (He 2019)[EC].
+- **F3 — Ansiedade/medo/TEPT:** extinção mTORC1 (Girgenti 2017)[ML]; autofagia **excessiva**
+  na amígdala ansiogênica (Liu 2025)[ML]; mitofagia do NAc/urolitina (Mallet 2026)[ML] —
+  lastro sobretudo translacional/animal (lacuna humana).
+- **F4 — Neuroinflamatório/microglial:** NLRP1/NLRP3, CCR5, derrota social, ApoE
+  (Zhu 2024; Lyu 2022; Chao 2025)[ML].
+- **F5 — Mitocondrial/mitofagia (envelhecimento/late-life):** NIX/PINK1/Parkin, DNAmt
+  (Lu 2023)[EC]; (Scaini 2022)[OB]; urolitina.
+- **F6 — Desenvolvimental/adolescente:** extinção sexo-específica NMDA-ERK-mTOR
+  (Glavonic 2023)[ML].
+- **F7 — Célula-específico:** neurônio vs. microglia vs. astrócito vs. célula-tronco, com
+  **direções opostas** (heurística central).
+
+Fenótipos sobreponíveis — heurística, não taxonomia. Moderadores: **região/célula**,
+**direção do fluxo**, **tempo** (horas vs. dias) e **sexo**.
+
+*JERNIGAN_2011[EC] | YANG_2025[ML] | TARGUM_2026[EC] | HE_2019[EC] | GIRGENTI_2017[ML] | LIU_2025[ML]*
+
+---
+
+## BLOCO_12 — CENÁRIOS ILUSTRATIVOS (SEM CONDUTA)
+- **"A cetamina ativa o mTOR e cura a depressão"** — mecanismo contestado (Autry 2011)[ML];
+  ECR da rapamicina não bloqueou (Abdallah 2020)[EC]; prova de alvo, não de etiologia.
+- **"Ative a autofagia / jejum detox e limpe o cérebro"** — pseudociência; autofagia é
+  proteostase, tem direção regional e o excesso é patogênico; jejum não é tratamento
+  estabelecido.
+- **"LC3 alto/baixo diagnostica"** — falso; é preciso medir fluxo (Klionsky 2021)[OB].
+- **"Rapamicina é antidepressivo"** — paradoxal (bloqueia em roedor; prolonga em humano);
+  sem indicação.
+- Outras condições (mTORopatias/TSC e autismo, neurodegeneração Alzheimer/Parkinson,
+  câncer/imunossupressão por rapamicina, envelhecimento/longevidade, dor pós-operatória,
+  obesidade/metabólico, bipolar/lítio, psicose) entram como estudo-ponte `[EXTRAPOLADO]`
+  (M10 do GPM), não triagem sistemática.
+
+---
+
+### 9.1 (PROFUNDIDADE) — ONDE O MECANISMO VIRA FENÓTIPO: DUAS JANELAS, DUAS DIREÇÕES
+A B15 toca ansiedade e depressão por janelas distintas. Na **depressão**, a janela é do
+**estresse crônico sobre o eixo PFC–hipocampo–habênula**: mTOR/plasticidade deprimidos e
+autofagia suprimida no LHb/giro denteado, onde restaurar a renovação (ou a síntese) reverte
+o fenótipo (Yang 2025; Zhang 2023; Jernigan 2011). É aqui que está o lastro humano
+(pós-morte, Beclin/LC3A, FKBP5, ECRs). Na **ansiedade**, a janela é do **medo/estresse sobre
+amígdala–NAc**, e a direção pode ser a **oposta**: a autofagia elevada na BLA é ansiogênica
+(Liu 2025), e a mitofagia desregulada no NAc produz ansiedade que a urolitina A abole
+(Mallet 2026) — daí que inibir (não ativar) a autofagia na amígdala alivia, e que o lastro
+humano da ansiedade seja mais fraco (translacional/animal). Some-se a dimensão **temporal**:
+a fagulha do antidepressivo rápido é mTOR (horas); a duração é autofagia/estabilidade
+(dias). Essa combinação — duas janelas, duas direções, dois tempos — é o que impede tratar a
+B15 como um "botão do mTOR" ou um "detox".
+
+*YANG_2025[ML] | ZHANG_2023[ML] | JERNIGAN_2011[EC] | LIU_2025[ML] | MALLET_2026[ML] | BROWN_2026[ML]*
+
+### 7.1 (PROFUNDIDADE) — MITOCÔNDRIA, MICROBIOTA E A PORTA PERIFÉRICA
+Duas pontas periféricas conectam a B15 a B9 e B7. A **mitofagia** remove mitocôndrias
+disfuncionais; no estresse, esse processo falha no córtex frontal (Ulecia-Moron 2025) e o
+TNF-α degrada NIX/BNIP3L, bloqueando a mitofagia no PFC — um bloqueio que a cetamina reverte
+e que está associado a NIX reduzido no sangue de deprimidos (Lu 2023). Na **ansiedade**, a
+**urolitina A** (metabólito da microbiota, de polifenóis) restaura a mitofagia nos neurônios
+espinhosos médios do **NAc**, resgata a estrutura sináptica e **abole a ansiedade alta** sem
+afetar animais basais (Mallet 2026), com editorial (Chaudhari 2026) e convergência com
+ferroptose/Nrf2 na privação de sono (Mallet 2026b). Em paralelo, o sinal intestinal γδ
+T17-IL-17A rompe a mitofagia hipocampal (Han 2025) e o homovanílico bacteriano modula a
+integridade sináptica. É a porta periferia→cérebro: causal em roedor, emergente em humano,
+sem conversão em prescrição (nutrientes/suplementos são sinal).
+
+*ULECIAMORON_2025[ML] | LU_2023[EC] | MALLET_2026[ML] | CHAUDHARI_2026[OB] | HAN_2025[ML] | MALLET_2026b[ML]*
+
+### 12.1 (FECHO EDITORIAL) — A CIÊNCIA, DEPOIS A FERRAMENTA
+A B15 fecha com o contraste que estrutura a trilha. A **fisiologia endógena** é densa e
+crescente: mTORC1/2 governam síntese e sobrevivência, a autofagia/mitofagia governam
+reciclagem e proteostase, o FKBP51 liga o estresse à autofagia dos antidepressivos, e a
+autofagia é um gatilho causal de transição (Yang 2025, *Nature*) regionalmente
+bidirecional. A **tradução** tem um diferencial real — antidepressivos rápidos em uso e
+moléculas em ensaio — mas é estreita e contestada: o mecanismo cetamina-mTOR não é linear,
+a rapamicina tem efeito paradoxal, os indutores de autofagia são sinal em modelo/epidemiologia,
+e não há biomarcador validado. A lição operacional é a de sempre: descrever a homeostase
+construção/renovação com rigor, preservar a bidirecionalidade regional, o fluxo (não o
+estoque), o dimorfismo sexual e a separação temporal, e sinalizar a farmacologia como prova
+de alvo — não prescrição. A ciência de mTOR/autofagia está; a modulação segura por
+região/célula/tempo é o que amadurece.
+
+*YANG_2025[ML] | LI_2010[ML] | AUTRY_2011[ML] | GASSEN_2014[EC] | ABDALLAH_2020[EC] | KLIONSKY_2021[OB]*
+
+---
+
+### 11.1 (PROFUNDIDADE) — FENÓTIPOS SOBREPONÍVEIS DA HOMEÓSTASE PROTEICA
+Os subtipos são heurística. O **F1 (depressão/estresse crônico)** junta mTOR PFC baixo e
+autofagia suprimida no LHb/giro denteado. O **F2 (resistente/antidepressivo rápido)** é o da
+plasticidade cetamínica/psicodélica e da predição por Beclin-1. O **F3 (ansiedade/medo)**
+tem a peculiaridade da autofagia **excessiva** na amígdala e da mitofagia do NAc (direção
+oposta à depressão), com lastro sobretudo animal. O **F4 (neuroinflamatório)** é o da
+microglia/NLRP/ApoE. O **F5 (mitocondrial/envelhecimento)** é o da mitofagia/DNAmt. O **F6
+(desenvolvimental/adolescente)** carrega o dimorfismo sexual da extinção. O **F7
+(célula-específico)** atravessa todos: numa mesma doença, neurônio, microglia, astrócito e
+célula-tronco podem ter autofagia em direções opostas. Essa separação — especialmente entre o
+"faltar renovação" (F1/LHb) e o "excesso patogênico" (F3/amígdala) — é o que impede tratar
+toda desregulação como "ativa a autofagia".
+
+*JERNIGAN_2011[EC] | YANG_2025[ML] | LIU_2025[ML] | MALLET_2026[ML] | ZHU_2024[ML] | GLAVONIC_2023[ML]*
+
+### 12.2 (FECHO) — CONSTRUÇÃO E RENOVAÇÃO, EM EQUILÍBRIO
+A B15 entrega um mecanismo real e bem descrito — dois braços da homeostase sináptica, o
+mTOR que constrói e a autofagia que renova, acoplados pelo estresse (FKBP51), pela energia
+(AMPK/mitocôndria) e pelos fatores tróficos (BDNF) — e uma tradução clínica promissora mas
+aberta: antidepressivos rápidos que engajam a plasticidade, um gatilho causal autofágico
+regionalmente bidirecional, e um paradoxo (rapamicina) que aponta para a separação temporal.
+Não há "nível" único de mTOR ou autofagia que baste: existe uma **janela homeostática**
+regional, celular e temporal, com sexo como variável intrínseca. Para a plataforma, a
+ciência manda dizer que a depressão/ansiedade crônicas desregulam construção e renovação
+sináptica de forma bidirecional; a engenharia segura (saber quando ativar síntese, quando
+restaurar reciclagem, em qual circuito e em qual janela de tempo) é o que não está pronto.
+Essa — e não a defesa do jejum detox nem do "botão do mTOR" — é a conclusão mecanística da
+B15.
+
+*LI_2010[ML] | YANG_2025[ML] | GASSEN_2014[EC] | ABDALLAH_2020[EC] | KLIONSKY_2021[OB] | SHANG_2021[OB]*
+
+---
+
+---
+
+## BLOCO_14 — ATUALIZAÇÃO CANÔNICA [[AT 2026-09-09]] · INSUMO EXTERNO AUDITADO REF A REF (P-7)
+
+> **Proveniência.** Rodada [AT] do GPM B15: índice de 49 âncoras com PMIDs cravados, §6 com 129 itens do insumo não citados, correções §4 (Ulecia-Morón; Ota; Koehl publicada; famílias Li/Zhang desambiguadas; Fukumoto-lixo; onda 09/09 com vortioxetina) e lacunas §8, reconciliados contra a V1 pelo pipeline G1 (esummary + efetch; abstract lido antes de incorporar). Das 49 âncoras, 31 não constavam da V1 e entraram; das 129 da §6, 8 entraram por evidência mecanística direta no eixo autofagia/mTOR; ~76 compõem a **leva N de suporte** (mTOR-plasticidade B3, BDNF-ketamina, HPA, mitocôndria B8, reviews e contexto) registrada com decisões individuais em `producao/insumos/matriz_b15_decisao.json`; ~28 excluídos por malha (Alzheimer/Parkinson/autismo/fragil-X/dor-entorrinal — CAMADA C) e 2 NAO-IDX. Cinco divergências de identidade entre rótulo do insumo e artigo real foram **expostas** (BLOCO_15, regra 08). Nenhum identificador foi inventado; nenhum número do insumo entrou sem fonte.
+
+### B14.1 — Braço mTOR: regionalidade, astrócitos e causalidade pré-clínica
+
+A disrupção seletiva de mTORC1 ou mTORC2 em astrócitos do VTA induz fenótipos depressivo e ansioso em camundongos — causalidade celular-regional do braço mTOR (Zheng, 2024)[ML].
+A via mTORC1 medeia a perda de sinapses induzida por estresse crônico no hipocampo de ratos (Luo, 2021)[ML].
+A ativação da cascata mTORC1 no hipocampo e no córtex pré-frontal medial é requerida para as ações antidepressivas da vortioxetina em camundongos (Li, 2023)[ML].
+Engeletina alivia fenótipo tipo-depressivo em camundongos aumentando plasticidade sináptica via eixo BDNF-TrkB-mTORC1 (Xu, 2023)[ML].
+O p75NTR medeia comportamento tipo-depressivo induzido por estresse crônico em camundongos via mTOR hipocampal (Peng, 2024)[ML].
+USP11 conduz déficits estruturais sinápticos e comportamento tipo-depressivo induzidos por estresse via eixo GSK3β/mTOR em camundongos (Li, 2026)[ML].
+As ações antidepressivas da ketamina engajam tradução célulo-específica via fator eIF4E (Aguilar-Valles, 2021)[ML].
+Os efeitos antidepressivos da ketamina associam-se à regulação ascendente mediada por receptores AMPA do eixo mTOR no hipocampo (Zhou, 2014)[ML].
+A agmatina produz efeitos tipo-antidepressivo ativando receptores AMPA e a sinalização mTOR (Neis, 2016)[ML].
+A ativação da AMPK no hipocampo de ratos participa das ações antidepressivas da ketamina (Xu, 2013)[ML].
+A fluoxetina regula a sinalização mTOR de modo região-dependente em camundongos tipo-depressivo (Liu, 2015)[ML].
+A ketamina promove plasticidade estrutural em neurônios dopaminérgicos murinos e derivados de iPSC humano (Cavalleri, 2018)[ML].
+A remoção genética da p70 S6 quinase 1, efetor de mTORC1, aumenta o comportamento tipo-ansiedade em camundongos (Koehl, 2021)[ML].
+Os mecanismos neurotróficos das ações antidepressivas rápidas e sustentadas da ketamina foram revistos (BDNF, VEGF, mTOR) (Deyama & Duman, 2020)[OB].
+A revisão com foco GABAérgico dos mecanismos da ketamina dá o contexto farmacológico do braço (Luscher, 2020)[OB].
+
+* ZHENG_2024[ML] | LUO_2021[ML] | LI_2023[ML] | XU_2023c[ML] | PENG_2024[ML] | LI_2026b[ML] | AGUILARVALLES_2021[ML] | ZHOU_2014[ML] | NEIS_2016[ML] | XU_2013[ML] | LIU_2015[ML] | CAVALLERI_2018[ML] | KOEHL_2021[ML] | DEYAMA_2020[OB] | LUSCHER_2020[OB] *
+
+### B14.2 — Estresse e HPA × mTOR/autofagia: exposições e janelas
+
+Em ratos expostos a estresse, a fosforilação de componentes da via mTOR está reduzida na amígdala (Chandran, 2013)[ML].
+REDD1 é essencial para a perda sináptica induzida por estresse e o comportamento depressivo em camundongos (Ota, 2014)[ML].
+Estresse precoce altera plasticidade sináptica e sinalização mTOR em ratos, com correlação a fenótipos tipo-ansiedade (Wang, 2020)[ML].
+Estimulação cerebral profunda melhora comportamentos tipo-depressivo e déficits de sinapses hipocampais via eixo AKT/mTOR/BDNF (Sun, 2022)[ML].
+Glucocorticoides reprimem a autofagia mediada por chaperonas e a microautofagia (Sato, 2020)[ML].
+Modelo depressão pós-parto por corticosterona: comportamento tipo-depressivo e prejuízo de neurogênese hipocampal em ratos (Xie, 2025)[ML].
+A macroautofagia neuronal comprometida no córtex pré-límbico acompanha comportamento tipo-ansiedade comórbido à dor neuropática em ratos (Fu, 2024)[ML].
+
+* CHANDRAN_2013[ML] | OTA_2014[ML] | WANG_2020[ML] | SUN_2022[ML] | SATO_2020[ML] | XIE_2025[ML] | FU_2024[ML] *
+
+### B14.3 — Fluxo autofágico: insuficiente, excessivo e adaptativo (sem dualidade simplista)
+
+A dinâmica de autofagia e mitofagia no hipocampo ventral de ratos molda respostas comportamentais ao estresse crônico leve (Brivio, 2025)[ML].
+GDF11 sistêmico atenua fenótipo tipo-depressivo em camundongos idosos por estimulação da autofagia neuronal, independentemente de neurogênese (Moigneu, 2023)[ML].
+Sulfeto de hidrogênio melhora comportamentos tipo-depressivo em camundongos CUMS regulando autofagia; a associação humana por randomização Mendeliana (Beclin-1×depressão) é suporte, não prova (Ling, 2025)[ML].
+A inibição farmacológica da S6K1 resgata déficits sinápticos e atenua comportamento tipo-depressivo em camundongos (Zhang, 2024)[ML].
+Obesidade induzida por dieta leva a fenótipos depressivos e ansiosos em camundongos via eixo AMPK/mTOR/autofagia (Li, 2022)[ML].
+A via PI3K-AKT-mTOR regula a autofagia de neurônios hipocampais em modelo de comorbidade diabetes tipo 2 × estresse crônico (Xu, 2023)[ML].
+O estresse prepara autofagia secretória que promove a maturação extracelular de BDNF via secreção de MMP9 (Martinelli, 2021)[ML].
+
+* BRIVIO_2025[ML] | MOIGNEU_2023[ML] | LING_2025[ML] | ZHANG_2024[ML] | LI_2022[ML] | XU_2023b[ML] | MARTINELLI_2021[ML] *
+
+### B14.4 — Interface autofagia → inflamassoma (ponte B1)
+
+O inflamassoma NLRP3 medeia a depressão induzida por estresse crônico leve em camundongos (Zhang, 2015)[ML].
+Antidepressivos induzem autofagia com inibição dependente do inflamassoma NLRP3 — evidência mista em células humanas THP-1, amostras de pacientes e modelo animal (Alcocer-Gómez, 2017)[EC].
+A degradação de NLRP3 pela via autofagia-lisossomo dependente de p62 atenua a disfunção microglial em modelo de doença de Alzheimer (Zhang, 2023)[ML].
+Formononetina melhora fenótipo tipo-depressivo em camundongos rebalanceando a polarização microglial M1/M2 com inibição de NLRP3 (Peng, 2025)[ML].
+O inflamassoma NLRP3 foi revisto da fisiopatologia ao alvo terapêutico na depressão maior (Kouba, 2022)[OB].
+O inflamassoma NLRP3 na depressão foi revisto com mecanismos candidatos e terapias (Xia, 2023)[OB].
+O NLRP3 em transtornos neuropsiquiátricos relacionados a estresse foi revisto com foco nos mecanismos de neuroinflamação (Woźny-Rasała & Ogłodek, 2025)[OB].
+A neuroinflamação mediada por inflamassomas NLRP3 microgliais e suas estratégias terapêuticas foi revista (Han, 2024)[OB].
+
+* ZHANG_2015[ML] | ALCOCERGOMEZ_2017b[EC] | ZHANG_2023c[ML] | PENG_2025[ML] | KOUBA_2022[OB] | XIA_2023[OB] | WOZNYRASALA_2025[OB] | HAN_2024[OB] *
+
+### B14.5 — Panorama e convergência farmacológica (contexto)
+
+O braço mTOR como encruzilhada de plasticidade, memória e doença — panorama de referência (Hoeffer & Klann, 2010)[OB].
+A sinalização dependente de mTORC1 subjaz ao efeito rápido de creatina e ketamina em teste comportamental murino (Pazini, 2020)[ML].
+
+* HOEFFER_2010[OB] | PAZINI_2020[ML] *
+
+---
+
+## BLOCO_15 — REGRAS CANÔNICAS DA RODADA [AT] (B15-REGRA-01..10), EXPOSIÇÕES, MALHA E LACUNAS [G1]
+
+**B15-REGRA-01 — Regra do fluxo autofágico (obrigatória).** É proibido inferir "autofagia ativada/inibida" a partir de LC3-II, Beclin-1 ou p62 em uma única condição; distinguir expressão × autofagossomo × degradação lisossomal × fluxo efetivo, e basal × induzida × excessiva × insuficiente.
+
+**B15-REGRA-02 — "Depressão = baixa autofagia" é proibido.** A hiperautofagia consome BDNF (Zhang âncora vigente REF_ZHANG_2023) e a direção depende da temporalidade do estresse (Yang âncora vigente REF_YANG_2025); insuficiente, excessiva e adaptativa coexistem na biblioteca.
+
+**B15-REGRA-03 — mTOR é bifásico e regional.** mTORC1 sináptico-plástico ≠ mTORC1 lisossomal-autofágico; astrócitos do VTA (Zheng, 2024) e córtex infralímbico (âncora vigente Garro-Martínez) dão causalidade regional; não extrapolar para o cérebro inteiro.
+
+**B15-REGRA-04 — Ketamina = interface, não núcleo.** Li-2010 e congêneres entram como fundação do braço mTOR-plasticidade; ketamina como intervenção pertence a B3/B1 — a leva ketamina-mecanismo da §6 ficou como suporte (BAIXO), não âncora.
+
+**B15-REGRA-05 — Interfaces sem duplicação.** Autofagia×NLRP3: B15 guarda o mecanismo autofágico, B1 o inflamassoma (Alcocer-Gómez×2, Zhang-2015, Kouba, Xia); mitofagia → B15+B8 (Brivio; Ulecia-Morón vigente); HPA → B2 (Sato, Ota, Xie como interfaces); plasticidade pura → B3; neurogênese adulta é elo condicional (B16; P16); neuroesteroides → B14.
+
+**B15-REGRA-06 — Neurodegeneração fora do núcleo (CAMADA C).** Alzheimer/Parkinson/autismo/fragil-X como fenótipo foram EXCLUIDOS da malha (28 itens); quando a âncora do GPM usa modelo de doença neurodegenerativa (Zhang, 2023 — p62/NLRP3 em 5xFAD), o registro é de contexto mecânico compartilhado, nunca fenótipo.
+
+**B15-REGRA-07 — Reviews e comentários = contexto.** Reviews da §6 não foram promovidas a âncora; Corona 2025 (News & Views) e revisões HPA/metabolic-interface ficaram rebaixadas.
+
+**B15-REGRA-08 — Chave do insumo ≠ identidade do artigo; exposições desta rodada.** (i) "Pich & Millan 2018" = Cavalleri et al. 2018 (Millan sênior); (ii) "Deyama & Duman 2019" é print 2020; (iii) "Li 2021" (obesidade) é print 2022; (iv) "Sun 2021" é print 2022; (v) "Zhang 2023b" (S6K1) é print 2024; (vi) "Aguilar-Valles 2020" é print 2021; (vii) "Chandran 2012" é print 2013; (viii) o grupo Alcocer-Gómez tem DOIS artigos de 2017 — o da V1 (REF_ALCOCERGOMEZ_2017) e o agora incorporado (REF_ALCOCERGOMEZ_2017b); (ix) "Xu 2023a" é modelo de comorbidade diabetes×CUMS; (x) aliases V1↔GPM: "Zhang 2023d" (GPM) = REF_ZHANG_2023b vigente · "Li 2026a" (FKBP51) = REF_LI_2026 vigente · "Li 2025" (ApoE-complemento) = REF_LI_2025b vigente.
+
+**B15-REGRA-09 — Anos canônicos = ano de impressão**, com sufixo de colisão por sobrenome (REF_LI_2022 vs. REF_LI_2010/2023/2025/2026; REF_ZHANG_2023c vs. REF_ZHANG_2023/2023b; REF_XU_2023b/c vs. REF_XU_2013).
+
+**B15-REGRA-10 — Malha e lacunas [G1] declaradas.** NAO-IDX mantidos fora: Fukumoto-2020 (revista predatória), Koehl-2020 bioRxiv (substituída pela publicada), Pannu-2026 (Bentham não indexado). Lacunas [G1] que permanecem: TFEB/lisossomal em psiquiatria humana; marcador periférico de fluxo autofágico validado; mTORC2 além de astrócitos-VTA; dor×depressão como interface dedicada; envelhecimento×depressão tardia em humano (Moigneu é animal); sexo como variável; autofagia no pós-parto humano (Xie é animal); "Pich & Millan 2018" real com identificador próprio; "Choe" e "Liu-BNIP3L/NIX" do insumo sem resolução confiável.
+
+---
+## TABELA DE EVIDÊNCIAS
+
+| Tipo | Resultado | forca_evidencia |
+|---|---|---|
+| Formação sináptica mTOR-dependente = antidepressivo rápido | Li 2010 (roedor) | alto em modelo [ML] |
+| mTOR-independente (eEF2/BDNF) | Autry 2011 (roedor) | alto em modelo [ML] |
+| Autofagia como gatilho causal (LHb) | Yang 2025 *Nature* | alto em modelo [ML] |
+| Autofagia dendrítica degrada pós-sinapse | Shen 2022 *Nat Commun* | alto em modelo [ML] |
+| Morte autofágica de células-tronco | Jung 2020/Choe 2024 | alto em modelo [ML] |
+| Hiperautofagia ansiogênica na amígdala | Liu 2025/Han 2025 | médio-alto (animal) |
+| FKBP51 prima autofagia (células/roedor/humano) | Gassen 2014 | médio-alto (translacional) |
+| mTOR PFC comprometido na TDM | Jernigan 2011 (pós-morte) | médio (humano) |
+| Beclin-1 sérico prediz resposta | He 2019 | médio (humano/preditivo) |
+| LC3A reduzida em astrócitos PFC | He 2023 | médio (humano pós-morte) |
+| Rapamicina NÃO bloqueia e PROLONGA cetamina | Abdallah 2020 (ECR) | médio (humano; tensão) |
+| NV-5138 ativa mTORC1 direto (fase 1b) | Kato 2019/Targum 2026 | médio (sinal humano) |
+| Cetamina via autofagia-NLRP3 / mitofagia NIX | Lyu 2022/Lu 2023 | médio (animal+humano) |
+| Urolitina A restaura mitofagia NAc (ansiedade) | Mallet/Sandi 2026 | médio-alto (animal) |
+| Diretriz de FLUXO (não LC3) | Klionsky 2021 | alto (metodológico) |
+
+## CONTROVÉRSIAS E LACUNAS
+mTOR-dependente (Li 2010) vs. mTOR-independente/eEF2 (Autry 2011) vs. (S)-norketamina
+AMPA-independente; autofagia suprimida vs. hiperativa (região/célula/duração; fluxo vs.
+estoque); "ativar mTOR/sinaptogênese" vs. "inibir mTOR/ativar autofagia" (limpeza) — o
+paradoxo central; rapamicina bloqueia a cetamina em animal mas, num ECR humano, prolongou a
+resposta (separação temporal horas/dias); por que antidepressivos rápidos restauram
+plasticidade (convergência cetamina/psicodélicos/scopolamina); tradução animal→humano
+(evidência humana ainda escassa/pequena); periférico vs. central (PBMC ≠ cérebro);
+**dimorfismo sexual** (autofagia dimórfica; maioria dos estudos em machos); microglia
+neuroprotetora vs. neurotóxica; **ansiedade com lastro humano fraco** (amígdala/NAc são
+translacionais). Itens `[G1]` do Briefing (espermidina clínica = pré-print bioRxiv (Mackert 2024)[ML];
+DISC1; Yamamoto; pós-morte de LC3/fluxo em suicidas; TREM2; GSK3/lítio×autofagia; ECRs de
+moduladores de autofagia em ansiedade) a cravar na auditoria científica G3, sem PMID
+inventado; todos os tamanhos de efeito (cetamina/esketamina, NV-5138, rapamicina,
+urolitina/espermidina) são alegação a confirmar no G3. 140 PMIDs do Briefing validados no
+PubMed (134 âncoras mecanísticas; 6 compostos/suplementos/contexto excluídos do corpo); zero
+PMID no texto.
+
+## ELEMENTOS MOLECULARES CRÍTICOS (UniProt/HGNC)
+MTOR (P42345), RPTOR/Raptor, RICTOR/Rictor, RPS6KB1 (p70S6K), EIF4EBP1 (4E-BP1), PIK3CA,
+AKT1/AKT2 (PKBβ), GSK3B, PRKAA1/AMPK, TSC1/TSC2, ULK1/ULK2, BECN1 (Beclin-1), PIK3C3 (VPS34),
+NRBF2, ATG5, ATG7, ATG12, MAP1LC3A/B (LC3), SQSTM1 (p62), TFEB, LAMP1, MCOLN1 (TRPML1),
+PINK1, PRKN (Parkin), BNIP3L/NIX, FKBP5 (FKBP51), EEF2K/EEF2, MECP2, BDNF/NTRK2 (TrkB),
+NLRP1/NLRP3, CCR5, APOE, SIGMAR1 (sigma-1), SESTRIN (sestrina).
+
+## MARCADORES RESUMIDOS (para RAG/ontologia)
+key_pathways (mTORC1/Raptor→p70S6K/4E-BP1→síntese sináptica e inibição de ULK1; mTORC2/Rictor–
+Akt/GSK3β; autofagia por fluxo ULK1/2→BECN1/VPS34/NRBF2→ATG5/7/LC3-I/II→autofagossomo→fusão
+lisossômica TFEB/LAMP1; mitofagia PINK1/Parkin/BNIP3L-NIX; cetamina→NMDA/AMPA→BDNF/TrkB→
+mTORC1 vs. via revisionista eEF2/BDNF; autofagia dendrítica/poda (CYLD, GRID1/CBLN1); morte
+autofágica de células-tronco; autofagia microglial-NLRP1/NLRP3/CCR5; FKBP51/HPA→autofagia dos
+antidepressivos (ceramida/AMPK-mTOR); ER stress/UPR-sigma1; bidirecionalidade regional
+LHb/neurogênese vs. amígdala/hipocampo ventral; separação temporal horas(mTOR)/dias(autofagia)),
+biomarkers (p-mTOR/p-S6K/p-Akt em PBMC; Beclin-1 sérico preditivo de resposta; LC3A em
+astrócitos PFC e sangue; BNIP3L/NIX sangue; LC3-II/p62 — medir FLUXO; DNAmt livre/índice
+mitocondrial; assinatura de 4 genes de autofagia; transcriptoma/metiloma de monócitos; BDNF
+sérico; miRNA de exossomos — todos de pesquisa, NENHUM exame diagnóstico; periférico≠cérebro;
+estoque≠fluxo), interventions_descritas (cetamina/esketamina/(S)-norketamina, rapamicina/
+everolimo, NV-5138/mefluleucina, trealose, espermidina, urolitina A, BGP-15, inibidores
+GSK3, scopolamina, psilocibina/psicodélicos, DBS, jejum/exercício referidos como SINAL
+EXPERIMENTAL de alvo/plasticidade — NÃO prescritos, P20), connection_strength (B3_HIGH,
+B5_HIGH, B2_HIGH, B12_HIGH, B1_MEDIUM-HIGH, B9_MEDIUM-HIGH, B4_MEDIUM, B10_MEDIUM, B7_MEDIUM,
+B8_MEDIUM, B13_LOW-emergente, B14_LOW, B6_LOW, B11_LOW, B16_LOW). forca_evidencia_afirmacao:
+alto (biologia celular/animal e gatilho causal em modelo), médio (biomarcadores humanos/
+pós-morte, ECRs pequenos, translacional), baixo-médio (fármacos/indutores como terapia geral,
+marcadores periféricos, ansiedade humana).
+
+---
+
+## METADADOS CANÔNICOS (Contrato de Geração — P12 / R06 / P17)
+
+**natureza_sistema (P12 — hard_fail):**
+```json
+{ "natureza_sistema": { "tipo": "suporte_decisao_clinica", "nao_substitui_julgamento_profissional": true, "nao_realiza_diagnostico": true, "decisao_final_profissional": true } }
+```
+> Biblioteca de **mecanismo** (P20): descreve a homeostase proteica/sináptica (mTOR/autofagia/
+> mitofagia); cetamina/rapamicina/indutores/psicodélicos são sinal experimental de alvo, nunca
+> prescrição.
+
+**semantic_layer (R06):**
+- **clinical_summary (3 frases):** A depressão/ansiedade crônicas envolvem desequilíbrio entre construção (mTORC1→síntese sináptica) e renovação (autofagia/mitofagia por fluxo) no neurônio e na glia. | A autofagia é bidirecional e regional — suprimida no núcleo habenular/neurogênese/microglia (restaurá-la é antidepressivo) mas excessiva e ansiogênica na amígdala/hipocampo ventral; o correto é medir fluxo, não LC3, e há uma janela homeostática (nem mTOR baixo nem autofagia alta crônica). | O antidepressivo rápido (cetamina) tornou o mTOR famoso, mas o mecanismo é contestado (eEF2/BDNF; rapamicina não bloqueou em humano) e fármacos/indutores são prova de alvo — use para interpretar a fisiologia endógena, não como prescrição.
+- **rag_context_hint:** Recuperar quando: houver menção a autofagia, macroautofagia, fluxo autofágico, ULK, BECN1/Beclin, ATG5/ATG7/LC3/LC3-II, p62/SQSTM1, TFEB/lisossomo, mitofagia, PINK1/Parkin, BNIP3L/NIX, DNAmt, mTORC1/mTORC2/Raptor/Rictor, p70S6K/4E-BP1, PI3K/Akt/AMPK/GSK3β, sestrina/NV-5138, cetamina/esketamina/antidepressivos rápidos, rapamicina/everolimo, eEF2/MeCP2, FKBP51, NLRP1/NLRP3, espermidina/trealose/urolitina A, ou psilocibina/plasticidade.
+- **clinical_domains:** decisao_terapeutica · seguranca_clinica · triagem_clinica · monitoramento
+- **semantic_keywords:** autofagia, fluxo autofágico, mTORC1/mTORC2, mitofagia, NIX/PINK1/Parkin, LC3, TFEB, cetamina, antidepressivo rápido, FKBP51, bidirecionalidade regional, janela homeostática
+- **related_entities:** mecanismo_B3_neuroplasticidade, mecanismo_B5_gaba_glutamato, mecanismo_B2_eixo_hpa_cortisol, mecanismo_B12_neurobiologia_trauma, mecanismo_B1_neuroinflamacao, mecanismo_B9_disfuncao_mitocondrial, mecanismo_B4_deficiencias_monoaminas, mecanismo_B10_desregulacao_circadiana, mecanismo_B7_eixo_intestino_cerebro, mecanismo_B8_micronutrientes, mecanismo_B16_neurogenese
+- **embedding_priority:** alta
+
+**corte_literatura (R06):** busca ativa E-utilities/PubMed (Briefing B15, 40 clusters C01–C40
++ 3 insumos externos, blocos A–N) — corte 2026-09-07; 140/140 PMIDs resolvem no PubMed.
+
+**R04:** a sinalização animal/celular é `[APENAS PRÉ-CLÍNICO]`/`[EXTRAPOLAÇÃO POR ANALOGIA:
+roedor/célula — validação humana associativa/emergente]`; fármacos e indutores são sinal de
+alvo, não conduta.
+
+**P17:** ID `mecanismo_B15_autofagia_mtor`. **P16:** neurogênese é escopo de
+`mecanismo_B16_neurogenese` (subordinada a B3); a B15 registra autofagia/mTOR como
+moduladores.
+
+---
+
+> **Canônica v1 (Rodada 3).** G1 eutils (140/140 PMIDs do Briefing B15 validados; 134
+> âncoras mecanísticas; 6 compostos/suplementos/contexto metabólico excluídos do corpo e
+> registrados como ruído), G2 (espécie/desenho), G3 (suporte). Sem número de PMID no texto.
+> Causalidade animal/celular [ML]/[EXT]; farmacologia e indutores são sinal, não conduta
+> (P20). O pré-print da espermidina (bioRxiv) permanece `[G1]`. 2ª verificação
+> independente (P-6, avaliador cego da Fase 3 de Fidelidade Canônica, itens A/B/C/E) é
+> pendência do avaliador externo.
+
+### Nota final de abrangência
+Em síntese, a B15 documenta a homeostase proteica e sináptica governada por mTOR (construção)
+e autofagia/mitofagia (renovação por fluxo), acoplada ao estresse por FKBP51, à energia por
+AMPK/mitocôndria e aos fatores tróficos por BDNF; mostra que o estresse crônico desregula
+esses dois braços de forma **bidirecional e regional** (faltando no LHb/neurogênese/microglia,
+excedendo-se na amígdala/células-tronco), e que a autofagia é um gatilho causal de transição,
+não um mero marcador. Distingue com rigor a fisiologia endógena da farmacologia (cetamina e
+antidepressivos rápidos como prova de alvo contestada; rapamicina paradoxal; indutores e
+nutrientes como sinal), preserva a regra do fluxo, o dimorfismo sexual e a separação temporal,
+e posiciona qualquer intervenção como sinal experimental do módulo clínico — ciência primeiro,
+prescrição depois do que os ensaios humanos ainda não confirmaram de forma geral.
+
+---
+
+---
+
+### Nota de fecho v1 → v2 (rodada [AT 2026-09-09])
+A versão anterior (v1, 134 âncoras mecanísticas sobre os 140 PMIDs validados do briefing original) foi integralmente preservada em `producao/historico/v1_canonica_2026-09-09.md`. A rodada [AT] auditou ref a ref o insumo externo do GPM B15 (49 âncoras com PMIDs; §6 com 129 itens; correções §4; lacunas §8): incorporou 39 referências novas (31 âncoras + 8 da §6) com verificação G1 completa (autor/ano/tema/abstract), registrou a leva N de suporte com decisão individual (~76 itens) e excluiu ~28 por malha CAMADA C + 2 NAO-IDX; expôs 10 divergências de identidade/ano entre rótulo do insumo e artigo real e consolidou as 10 regras canônicas no BLOCO_15. Totais da v2: **173 referências · 173 vínculos · 173 registros de auditoria**. P-6 (segunda verificação independente, avaliador cego) permanece pendente para toda a leva [AT].
+
+---
+
+## APÊNDICE DE REFERÊNCIAS (MÓDULO 09) — ATUALIZAÇÃO [AT 2026-09-09]
+
+* ZHENG_2024[ML] | LUO_2021[ML] | LI_2023[ML] | XU_2023c[ML] | PENG_2024[ML] | LI_2026b[ML] | AGUILARVALLES_2021[ML] | ZHOU_2014[ML] | NEIS_2016[ML] | XU_2013[ML] | LIU_2015[ML] | CAVALLERI_2018[ML] | KOEHL_2021[ML] | DEYAMA_2020[OB] | LUSCHER_2020[OB] | CHANDRAN_2013[ML] | OTA_2014[ML] | WANG_2020[ML] | SUN_2022[ML] *
+* SATO_2020[ML] | XIE_2025[ML] | FU_2024[ML] | BRIVIO_2025[ML] | MOIGNEU_2023[ML] | LING_2025[ML] | ZHANG_2024[ML] | LI_2022[ML] | XU_2023b[ML] | MARTINELLI_2021[ML] | ZHANG_2015[ML] | ALCOCERGOMEZ_2017b[EC] | ZHANG_2023c[ML] | PENG_2025[ML] | KOUBA_2022[OB] | XIA_2023[OB] | WOZNYRASALA_2025[OB] | HAN_2024[OB] | HOEFFER_2010[OB] | PAZINI_2020[ML] *
+
+
+* KLIONSKY_2021[OB] | JIA_2015[OB] | ABELAIRA_2014[OB] | ABDALLAH_2018[OB] | ZANOS_2018[OB] | KIM_2024[OB] | KRYSTAL_2024[OB] | DUMAN_2012[OB] | SCHEUING_2015[OB] | DUMAN_2018[OB] | MATUTINO_2023[OB] | OETTINGER_2025[OB] | LU_2026[OB] | PAPAGEORGIOU_2024[OB] | SONG_2023[OB] | FELICE_2015[OB] | LI_2010[ML] | AUTRY_2011[ML] | WANG_2022[OB] | KIM_2021[ML] | LI_2025[ML] | SHI_2024[ML] | PALUMBO_2021[ML] | SUN_2016[ML] | XU_2019[ML] | LICZNERSKI_2013[OB] | LLOYD_2017[ML] | ZHUANG_2016[ML] | FRANCIJA_2022[ML] | SHEN_2022[ML] *
+* LI_2026[ML] | YANG_2025[ML] | SHEN_2022b[ML] | S_2025[ML] | ZAJICEK_2022[ML] | MO_2024[ML] | YANG_2023[ML] | JUNG_2020[ML] | CHOE_2024[ML] | GUO_2022[ML] | KOROLENKO_2021[ML] | ZHU_2024[ML] | SAKAI_2022[ML] | FESTA_2023[ML] | HAN_2025[ML] | QUINTANILLA_2025[EC] | ULECIAMORON_2025[ML] | SCAINI_2022[OB] | CORDEIRO_2023[EC] | WOO_2018[ML] | GULBINS_2018[ML] | GULBINS_2021[ML] | BAI_2025[ML] | ZUO_2024[ML] | SATO_2022[OB] | ALEKSANDROVA_2021[OB] | YANG_2018[ML] | CHUANG_2022[ML] | CARRIER_2013[ML] | SILVA_2017[ML] *
+* JOHNSTON_2020[ML] | ELFVING_2022[ML] | ARENA_2026[EC] | MA_2025[ML] | MCCARTHY_2025[ML] | AVERILL_2022[EC] | GIRGENTI_2017[ML] | GLAVONIC_2023[ML] | LIU_2025[ML] | CHEN_2024[ML] | LEVIN_2017[ML] | SONG_2018[ML] | PARK_2019[ML] | GARROMARTINEZ_2021[ML] | DU_2023[ML] | JERNIGAN_2011[EC] | CHEN_2022[EC] | MACHADO_2015[EC] | CUELLARBARBOZA_2020[EC] | LI_2019[EC] | ZHAO_2024[EC] | FLORY_2017[EC] | FANG_2020[EC] | LY_2018[ML] | JIANG_2026[ML] | CALDER_2023[OB] | FREUDENBERG_2025[OB] | XIANG_2026[ML] | MACKERT_2024[ML] | ZHAO_2024b[ML] *
+* LIU_2025b[EC] | YUAN_2026[ML] | MENG_2025[ML] | GARCIACARACHURE_2024[ML] | XU_2025[ML] | KATO_2023[OB] | ZHENG_2025[OB] | NIKKHESLAT_2021[OB] | XU_2023[OB] | SHANG_2021[OB] | GASSEN_2019[OB] | GASSEN_2014[EC] | GASSEN_2015[ML] | HE_2019[EC] | HE_2023[EC] | LYU_2022[ML] | MA_2022[ML] | LU_2023[EC] | ARDID_2016[ML] | ABDALLAH_2020[EC] | KATO_2019[ML] | TARGUM_2026[EC] | ZHANG_2023[ML] | LIAO_2022[ML] | HAN_2025b[ML] | MALLET_2026[ML] | CHAUDHARI_2026[OB] | MALLET_2026b[ML] | QI_2024[EC] | CHAO_2025[ML] *
+* ZHAO_2024c[ML] | WANG_2025[OB] | MARTON_2024[ML] | PIERONE_2020[OB] | RYSKALIN_2018[OB] | HASHIMOTO_2011[OB] | TANG_2021[OB] | GAN_2024[OB] | FUJII_2024[OB] | BULEK_2026[OB] | BROWN_2026[ML] | ABELAIRA_2017[ML] | ZENG_2021[EC] | ALCOCERGOMEZ_2017[OB] *

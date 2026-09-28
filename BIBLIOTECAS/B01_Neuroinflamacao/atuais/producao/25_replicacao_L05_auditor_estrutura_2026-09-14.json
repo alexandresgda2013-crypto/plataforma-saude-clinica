@@ -1,0 +1,164 @@
+{
+ "trilha": "25_replicacao_L05_auditor_estrutura_2026-09-14",
+ "alvos": {
+  "A1_uso": {
+   "distribuicao": {
+    "contexto_mecanistico": 178,
+    "clinico": 37,
+    "B1_v2": 30,
+    "gap_pesquisa": 29
+   },
+   "no_enum_clinico_PROMPTv4.2": "244/274",
+   "proposta_disse": "244/274 conformam v1.2; 30 = B1_v2"
+  },
+  "A2_B1v2_x_secao_v2": {
+   "vinculos_com_uso_B1v2": 30,
+   "fichas_com_secao_v2": 30,
+   "intersecao": 30,
+   "so_em_vinculos": [],
+   "so_em_fichas": [],
+   "proposta_disse": "mesmos 30; B1_v2 é etiqueta de leva vazada para 'uso'"
+  },
+  "A3_evid_role_fichas": {
+   "dist": {
+    "preclinical_mechanistic": 133,
+    "human_clinical": 66,
+    "review": 30,
+    "human_experimental": 6,
+    "post_mortem": 2
+   },
+   "proposta_disse": "human_clinical 66, human_experimental 6, post_mortem 2, preclinical_mechanistic 133, review 30"
+  },
+  "A4_desenho_bruto": {
+   "distintos": 175,
+   "proposta_disse": "175 distintos em 237"
+  },
+  "A5_secao_origem_vinculos": {
+   "distintos": 92,
+   "dominios": [
+    "APENDICE_CORPUS",
+    "BLOCO_01",
+    "BLOCO_02",
+    "BLOCO_03",
+    "BLOCO_04",
+    "BLOCO_05",
+    "BLOCO_06",
+    "BLOCO_07",
+    "BLOCO_08",
+    "BLOCO_09",
+    "BLOCO_10",
+    "BLOCO_11",
+    "mecanismo_B1_neuroinflamacao"
+   ],
+   "formatos_rev1": {
+    "BLOCO_puro_sem_prefixo": 232,
+    "com_prefixo_mecanismo": 30,
+    "APENDICE_CORPUS": 12
+   },
+   "proposta_disse": "21 valores, 100% B1",
+   "rev1_conclusao": "literalmente impreciso (medido 92, não 21) mas a TESE QUALITATIVA confirma: 0 âncoras fora da B1 (todos BLOCO_* dela, prefixados ou não, + 12 'APENDICE_CORPUS' = selos de índice). Derivação da âncora principal exige normalização de prefixo + tratamento nomeado dos 12 de índice."
+  },
+  "A6_g2": {
+   "dist": {
+    "eligible": 242,
+    "redirecionado_clinico": 20,
+    "nao_aplicavel": 11,
+    "nao_avaliado": 1
+   },
+   "proposta_disse": "20 redirecionado_clinico"
+  },
+  "A7_status_nivel1": {
+   "dist": {
+    "VALIDADO_G3_IA": 165,
+    "": 72
+   },
+   "compostos_ou_com_texto_extra": 162,
+   "proposta_disse": "VALIDADO_G3_IA 165; 162 a separar (veredito×ressalva)"
+  },
+  "A8_origem_pipeline": {
+   "dist": {
+    "BUSCA_FERRAMENTA": 187,
+    "ATUALIZACAO_AT_2026-09-08": 49,
+    "AT_AUDITORIA_EXTERNA_2026-09-13": 1
+   },
+   "compostos": 50,
+   "proposta_disse": "50 a separar"
+  },
+  "A9_verification_status": {
+   "dist": {
+    "pendente": 148,
+    "verificado": 65,
+    "preclinico": 18,
+    "extrapolado": 5,
+    "emergente": 1
+   },
+   "invalidos": [],
+   "proposta_disse": "1 inválido = dívida full-text já nomeada P-6",
+   "rev1_marcacao": "A contagem 1 batia; a IDENTIDADE não: o inválido era REF_OSIMO_2019 com valor-livre 'confimado_G1_G3_2026-09-13' (typo da casa, rodada C3) — CORRIGIDO para 'verificado' nesta rodada (02_meta_analises + manifesto 2.10, backup em antigos/historico/). Após a errata, inv deve sair = [] e pendente_fulltext das fichas = 0 (a dívida full-text é dos VÍNCULOS)."
+  },
+  "A10_forca_biologica": {
+   "vazios": 274,
+   "total": 274
+  },
+  "A11_catalogo_ids": {
+   "arquivo_json_existe": false,
+   "fonte": "01_norteadores/1º IDS_OFICIAIS.md (blocos JSON embutidos)",
+   "ids_parseados": 103,
+   "presentes": {
+    "mecanismo_B1_neuroinflamacao": true,
+    "exame_il6": true,
+    "cenario_E5": true
+   }
+  },
+  "B0_campo_desenho_hoje_enum?": {
+   "fichas_com_desenho_no_enum_proposto": 0,
+   "total": 237
+  }
+ },
+ "B_validacao_237_refs_contra_schema": {
+  "violacoes_fora_campos_novos": {
+   "desenho_estudo": 237,
+   "status_auditoria": 162,
+   "origem_pipeline": 50,
+   "g3_verificado_por": 1
+  },
+  "exemplos": {
+   "desenho_estudo": [
+    "REF_ZDILAR_2000",
+    "$.desenho_estudo: valor 'Review clinico (Hepatology; SEM abstract)' fora do enum ['meta_analise', 'revisao_sis"
+   ],
+   "status_auditoria": [
+    "REF_CAPURON_2002",
+    "$.status_auditoria: valor 'VALIDADO_G3_IA (revisao de pares pendente)' fora do enum ['', 'VALIDADO_G3_IA', 'VA"
+   ],
+   "origem_pipeline": [
+    "REF_HANNESTAD_2013",
+    "$.origem_pipeline: valor 'ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)' fora do enum ['BUSCA_FERRAMENTA"
+   ],
+   "g3_verificado_por": [
+    "REF_OSIMO_2019",
+    "$.g3_verificado_por: viola restrição NOT {'pattern': '(?i)(eutils|script|retrofit)'}"
+   ]
+  }
+ },
+ "C_validacao_274_vinculos_pós-migracao-minima": {
+  "violacoes": {
+   "uso": 60
+  },
+  "exemplos": {
+   "uso": [
+    "VINC_B1V2_0179",
+    "$.uso: valor 'B1_v2' fora do enum ['clinico', 'contexto_mecanistico', 'gap_pesquisa', 'nucleo_causal', 'suport"
+   ]
+  },
+  "id_oficial_fora_do_catalogo": [],
+  "nota": "B1_v2 falha o enum 'uso' até curadoria — esperado e já mapeado (30)."
+ },
+ "D_E2_referencias_verificado_sem_avaliador": [
+  "REF_OSIMO_2019"
+ ],
+ "E_invariante_principal": {
+  "expressavel_no_schema_entregue": false,
+  "motivo": "minItems=1 garante >=1 âncora; nada força exatamente-1 principal:true (JSON Schema draft-07 não conta ocorrências por valor). Cobertura: portão imperativo."
+ }
+}

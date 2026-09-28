@@ -1,0 +1,15 @@
+DIGITAIS — pacote CARTA 19 ao Auditor-Mestre v2 · 2026-09-20 · rodada 47
+carta (v2.1 — substitui a v1, que pedia os bytes ja recebidos; v2 emendada em 20/09 com a finura de regua do 21):
+  CARTA_19_AO_AUDITOR_MESTRE_2026-09-20_v2.md
+  sha256: 74e1e1cbe415870dbe3b865c9fe6435ea864dd5db1e0e11bf0d6dabbf5d7e6f2
+  bytes: 7623
+
+anexo recebido e arquivado nesta rodada (serie: MESTRE_deliberacao_fluxo_claim_recebida_2026-09-20/):
+  DELIBERACAO_FLUXO_CLAIM_CLINICO_2026-09-18.md
+  sha256: fe5a18b3542305014147cf85d00676b4b92d483453c8d04fe331b8a5b5536543 · 8.141 b
+
+zips de envio ao mestre (pacotes de 2026-09-19, inalterados — re-extraidos e conferidos em 20/09):
+  ARQUITETURA_V2.2_OFICIAL_2026-09-19.zip      sha256: 1444ae441186565ac147fe02f5637c1f75f3147335d1d2252c3ff21e2e01e819
+  SCHEMAS_L05_CORRENTES_2026-09-19.zip         sha256: 72f8f2e5ea7ec0ad553fa25ee2976da53b0f896a1a6c3e3ed81279d2e58ba235
+
+historico: a carta v1 (SUPERSEDED_CARTA_19..._v1.md) fica arquivada na serie CARTA19_MESTRE_2026-09-20/ — nunca saiu da casa.

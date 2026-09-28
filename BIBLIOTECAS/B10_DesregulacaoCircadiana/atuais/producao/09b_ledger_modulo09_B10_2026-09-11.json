@@ -1,0 +1,73 @@
+{
+ "acao": "09b_reconciliacao_ledger_arquivo_modulo09",
+ "data": "2026-09-11",
+ "n": 11,
+ "det": [
+  {
+   "id_auditoria": "AUD_B10_0024",
+   "ref": "REF_PIRES_2016",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B10_0028",
+   "ref": "REF_SCHUCH_2018",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B10_0033",
+   "ref": "REF_CARMASSI_2019",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B10_0071",
+   "ref": "REF_ROBERTSONDIXON_2023",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B10_0072",
+   "ref": "REF_ROBERTSONDIXON_2026",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B10_0082",
+   "ref": "REF_VANDALFSEN_2018",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B10_0085",
+   "ref": "REF_WESARGMENZEL_2024",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B10_0103",
+   "ref": "REF_MELO_2017",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B10_0111",
+   "ref": "REF_SCOTT_2022",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B10_0117",
+   "ref": "REF_DEPRATO_2025",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B10_0118",
+   "ref": "REF_WESCOTT_2025",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  }
+ ]
+}

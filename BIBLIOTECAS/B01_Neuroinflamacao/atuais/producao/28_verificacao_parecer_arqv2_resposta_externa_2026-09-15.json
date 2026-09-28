@@ -1,0 +1,60 @@
+{
+  "trilha": "28_verificacao_parecer_mestre_arquiteturaV2_e_resposta_externa",
+  "data": "2026-09-15",
+  "objetos": {
+    "parecer_mestre": "uploads/PARECER_ARQUITETURA_V2_2026-09-15.md",
+    "parecer_sha256": "7445c6c72dc150b58cf5861e156918dc55fead7ff5fb47d747a90a2f24240fd5",
+    "resposta_externa_chatgpt": "texto colado pelo operador (SEM arquivo anexo — registrado aqui por referência ao chat)"
+  },
+  "V15_execucao_fresca": {
+    "erro_itens": 94,
+    "erro_tokens_distintos": 90,
+    "aviso_itens": 181,
+    "aviso_tokens_distintos": 181,
+    "erro_dentro": 19,
+    "por_camada": {
+      "prosa:": 6,
+      "índice:": 1,
+      "apêndice:": 12
+    },
+    "erro_entre": 75,
+    "itens_v15_com_ficha_ou_vinculo_como_CONTEUDO": 0,
+    "nota": "a palavra 'ficha' nos AVISOs refere-se à AUSÊNCIA de ficha (rótulos sem ficha) — V-15 trabalha só camadas da canônica",
+    "rev_1_2026-09-15": "erro_entre corrigido: a mensagem é 'classificador divergente entre camadas: prosa[X] × apêndice[Y]' (minúsculo); primeira leitura regex 'ENTRE' maiúsculo — FP de medição confessado e corrigido no ato, mesmo padrão da trilha 24 rev.0"
+  },
+  "tokens_exemplo_mestre": {
+    "Arctigenin_2020": {
+      "na_canonica": 1,
+      "ficha": false
+    },
+    "Bifido_2017": {
+      "na_canonica": 1,
+      "ficha": false
+    },
+    "taVNS_2020": {
+      "na_canonica": 2,
+      "ficha": false
+    }
+  },
+  "populacao_tokens": {
+    "autor_ano_distintos_canonica": 446,
+    "ocorrencias_marcador_xx": 675,
+    "nao_reproduzido_do_mestre": {
+      "158_tematicos": "não reproduzido",
+      "405_tokens_4_camadas": "não reproduzido — casa mede 446 distintos por regex declarada"
+    },
+    "pedido": "inventário/regex dele para reconciliar (precedente 71×84)"
+  },
+  "V2_greps": {
+    "citacao_sec28_verbatim_O_Motor_nao_devera_assumir": 1,
+    "selecion": 2,
+    "determin": 5,
+    "risco_vital": 0,
+    "lacuna": 1
+  },
+  "conclusao": {
+    "D07_D08_ausentes_da_V2": "confirmado",
+    "todos_erros_V15_editoriais": "confirmado — sob o novo regime do mestre, 94 ERRO viram avisos; P-8 fica sem ERRO de V-15",
+    "consequencia": "D-B1-R4-TOKENS reescopada: convenção editorial (prosa) + campo autoritativo no schema L-05 N1/N2 (já existe na v1.1)"
+  }
+}

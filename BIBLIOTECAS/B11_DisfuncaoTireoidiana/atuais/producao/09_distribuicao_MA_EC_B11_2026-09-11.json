@@ -1,0 +1,479 @@
+{
+ "acao": "09_distribuicao_MA_EC_MODULO09",
+ "data": "2026-09-11",
+ "biblioteca": "B11_DisfuncaoTireoidiana",
+ "lei": "PROMPT_v4.2 instrução final: [MA]->02, [EC]->03; id único global (validar_auditoria.py)",
+ "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+ "contagens": {
+  "ficam_01": 86,
+  "vao_02_MA": 8,
+  "vao_03_EC": 2,
+  "conflitos": 3,
+  "tag_EC_amplo_nao_migrado": 60
+ },
+ "ids_para_02": [
+  {
+   "id": "REF_BODE_2021",
+   "pmid": "34524390",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_BODE_2022",
+   "pmid": "36064836",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_SIEGMANN_2018",
+   "pmid": "29800939",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_FISCHER_2018",
+   "pmid": "29064607",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ZHAO_2018",
+   "pmid": "30375372",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_TANG_2019",
+   "pmid": "31214119",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_LOH_2019",
+   "pmid": "30621645",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_WANG_2024",
+   "pmid": "39717384",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  }
+ ],
+ "ids_para_03": [
+  {
+   "id": "REF_PAPAKOSTAS_2009",
+   "pmid": "19092448",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_WALSHAW_2018",
+   "pmid": "29869405",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  }
+ ],
+ "conflitos_tag_x_titulo_REVISAVEL": [
+  {
+   "id": "REF_BODE_2021",
+   "pmid": "34524390",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  },
+  {
+   "id": "REF_BODE_2022",
+   "pmid": "36064836",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  },
+  {
+   "id": "REF_SIEGMANN_2018",
+   "pmid": "29800939",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  }
+ ],
+ "REVISAVEL_tag_EC_amplo_sem_sinal_RCT_nao_migrado": [
+  {
+   "id": "REF_STERNBACH_1983",
+   "pmid": "6402617",
+   "desenho_estudo": "[EC] Sternbach_1983",
+   "titulo": "Thyroid failure and protirelin (thyrotropin-releasing hormone) test abnormalities in depressed outpatients"
+  },
+  {
+   "id": "REF_IOSIFESCU_2001",
+   "pmid": "11949735",
+   "desenho_estudo": "[EC] Iosifescu_2001",
+   "titulo": "T3 blood levels and treatment outcome in depression"
+  },
+  {
+   "id": "REF_BAUER_2009",
+   "pmid": "19435829",
+   "desenho_estudo": "[EC] Silverman_2009",
+   "titulo": "Brain glucose metabolism in hypothyroidism: a positron emission tomography study before and after thyroid hormone replacement therapy"
+  },
+  {
+   "id": "REF_ZIMMERMANN_2009",
+   "pmid": "19460960",
+   "desenho_estudo": "[EC] Zimmermann_2009",
+   "titulo": "Iodine deficiency"
+  },
+  {
+   "id": "REF_COOKE_2014",
+   "pmid": "24205791",
+   "desenho_estudo": "[EC] Cooke_2014",
+   "titulo": "Hippocampal volume is decreased in adults with hypothyroidism"
+  },
+  {
+   "id": "REF_ATES_2018",
+   "pmid": "29185364",
+   "desenho_estudo": "[EC] Ates_2018",
+   "titulo": "The effect of oxidative stress on the progression of Hashimoto's thyroiditis"
+  },
+  {
+   "id": "REF_DUVAL_2021",
+   "pmid": "33839430",
+   "desenho_estudo": "[EC] Duval_2021",
+   "titulo": "Thyroid axis activity and dopamine function in depression"
+  },
+  {
+   "id": "REF_SINKO_2025",
+   "pmid": "39903117",
+   "desenho_estudo": "[EC] Sinko_2025",
+   "titulo": "Variable transduction of thyroid hormone signaling in structures of the mouse brain"
+  },
+  {
+   "id": "REF_ODAWARA_2023",
+   "pmid": "37528949",
+   "desenho_estudo": "[EC] T4 livre baixo-normal prediz TDM futura (Odawara 2",
+   "titulo": "Association of Low-Normal Free T4 Levels With Future Major Depression Development"
+  },
+  {
+   "id": "REF_DEMET_2002",
+   "pmid": "12505101",
+   "desenho_estudo": "[EC] Depressão/ansiedade no hipertireoidismo (Demet 200",
+   "titulo": "Depression and anxiety in hyperthyroidism"
+  },
+  {
+   "id": "REF_LAZARUS_2009",
+   "pmid": "19942149",
+   "desenho_estudo": "[EC] Lítio e tireoide (Lazarus 2009) — iatrogênico",
+   "titulo": "Lithium and thyroid"
+  },
+  {
+   "id": "REF_LUCAS_2001",
+   "pmid": "11895224",
+   "desenho_estudo": "[EC] Disfunção tireoidiana pós-parto × depressão (Lucas",
+   "titulo": "Postpartum thyroid dysfunction and postpartum depression: are they two linked disorders?"
+  },
+  {
+   "id": "REF_CARTA_2004",
+   "pmid": "15317653",
+   "desenho_estudo": "[EC] Autoimune tireoidiana/anti-TPO × ansiedade na comu",
+   "titulo": "The link between thyroid autoimmunity (antithyroid peroxidase autoantibodies) with anxiety and mood disorders in the community: a field of i"
+  },
+  {
+   "id": "REF_KIM_2018",
+   "pmid": "29408972",
+   "desenho_estudo": "[EC] coorte prospectiva (adultos jovens e de meia-idade) · J Clin Endocrinol Metab",
+   "titulo": "Subclinical Hypothyroidism and Incident Depression in Young and Middle-Age Adults."
+  },
+  {
+   "id": "REF_WILDISEN_2020",
+   "pmid": "33154486",
+   "desenho_estudo": "[EC] análise individual de dados de participantes (IPD) de coortes prospectivas (~23 mil) · Sci Rep",
+   "titulo": "An individual participant data analysis of prospective cohort studies on the association between subclinical thyroid dysfunction and depress"
+  },
+  {
+   "id": "REF_AIRAKSINEN_2021",
+   "pmid": "34147730",
+   "desenho_estudo": "[EC] coorte populacional (NHANES) · Compr Psychiatry",
+   "titulo": "Subclinical hypothyroidism and symptoms of depression: Evidence from the National Health and Nutrition Examination Surveys (NHANES)."
+  },
+  {
+   "id": "REF_SOHEILI_2023",
+   "pmid": "36463425",
+   "desenho_estudo": "[EC] estudo genético (ligações genéticas/compartilhadas) · Thyroid",
+   "titulo": "Exploring the Genetic Link Between Thyroid Dysfunction and Common Psychiatric Disorders: A Specific Hormonal or a General Autoimmune Comorbi"
+  },
+  {
+   "id": "REF_ROADUENAS_2024",
+   "pmid": "37855318",
+   "desenho_estudo": "[EC] coorte populacional transversal e longitudinal · J Clin Endocrinol Metab",
+   "titulo": "The Cross-sectional and Longitudinal Association Between Thyroid Function and Depression: A Population-Based Study."
+  },
+  {
+   "id": "REF_MA_2024",
+   "pmid": "39280013",
+   "desenho_estudo": "[EC] estudo observacional (transversal) · Front Endocrinol (Lausanne)",
+   "titulo": "The association between depression and thyroid function."
+  },
+  {
+   "id": "REF_FAN_2024",
+   "pmid": "40226662",
+   "desenho_estudo": "[EC] coorte prospectiva UK Biobank · Depress Anxiety",
+   "titulo": "The Association between Depression, Anxiety, and Thyroid Disease: A UK Biobank Prospective Cohort Study."
+  },
+  {
+   "id": "REF_ITTERMANN_2015",
+   "pmid": "25777685",
+   "desenho_estudo": "[EC] coorte populacional (SHIP) com diagnósticos por entrevista · Soc Psychiatry Psychiatr Epidemiol",
+   "titulo": "Diagnosed thyroid disorders are associated with depression and anxiety."
+  },
+  {
+   "id": "REF_BENSENOR_2016",
+   "pmid": "25580957",
+   "desenho_estudo": "[EC] coorte transversal populacional (ELSA-Brasil) · Clin Endocrinol (Oxf)",
+   "titulo": "Subclinical thyroid dysfunction and psychiatric disorders: cross-sectional results from the Brazilian Study of Adult Health (ELSA-Brasil)."
+  },
+  {
+   "id": "REF_ENGUM_2002",
+   "pmid": "12100345",
+   "desenho_estudo": "[EC] coorte populacional (HUNT) · Acta Psychiatr Scand",
+   "titulo": "An association between depression, anxiety and thyroid function--a clinical fact or an artefact?"
+  },
+  {
+   "id": "REF_ENGUM_2005",
+   "pmid": "16253615",
+   "desenho_estudo": "[EC] coorte populacional (HUNT) · J Psychosom Res",
+   "titulo": "Thyroid autoimmunity, depression and anxiety; are there any connections? An epidemiological study of a large population."
+  },
+  {
+   "id": "REF_HONG_2018",
+   "pmid": "30106989",
+   "desenho_estudo": "[EC] inquérito populacional (KNHANES) · PLoS One",
+   "titulo": "Association between subclinical thyroid dysfunction and depressive symptoms in the Korean adult population: The 2014 Korea National Health a"
+  },
+  {
+   "id": "REF_KIM_2015",
+   "pmid": "25973566",
+   "desenho_estudo": "[EC] coorte retrospectiva · Psychoneuroendocrinology",
+   "titulo": "Relationship between thyroid-stimulating hormone levels and risk of depression among the general population with normal free T4 levels."
+  },
+  {
+   "id": "REF_LEE_2019",
+   "pmid": "30772742",
+   "desenho_estudo": "[EC] estudo transversal populacional · J Affect Disord",
+   "titulo": "Sex differences in the association between thyroid-stimulating hormone levels and depressive symptoms among the general population with norm"
+  },
+  {
+   "id": "REF_KUMAR_2023",
+   "pmid": "37419569",
+   "desenho_estudo": "[EC] coorte histórica populacional (Mayo) · Mayo Clin Proc",
+   "titulo": "The Association Between Thyroid Stimulating Hormone and Depression: A Historical Cohort Study."
+  },
+  {
+   "id": "REF_LIU_2025",
+   "pmid": "40163571",
+   "desenho_estudo": "[EC] coorte histórica · J Psychiatr Pract",
+   "titulo": "Association of Thyroid Function With Depression: A Historical Cohort Study."
+  },
+  {
+   "id": "REF_BAWEJA_2026",
+   "pmid": "41825352",
+   "desenho_estudo": "[EC] coorte clínica retrospectiva real-world · Psychoneuroendocrinology",
+   "titulo": "Thyroid and depression: Insights from a retrospective real world clinical cohort."
+  },
+  {
+   "id": "REF_FORBES_2026",
+   "pmid": "40133129",
+   "desenho_estudo": "[EC] estudo transversal e longitudinal em idosos · Am J Geriatr Psychiatry",
+   "titulo": "Thyroid-Stimulating Hormone Levels and Depression in Older Adults: Cross-Sectional and Longitudinal Analyses in a Community-Dwelling Populat"
+  },
+  {
+   "id": "REF_ROBERTS_2006",
+   "pmid": "17043339",
+   "desenho_estudo": "[EC] estudo longitudinal em idosos · Ann Intern Med",
+   "titulo": "Is subclinical thyroid dysfunction in the elderly associated with depression or cognitive dysfunction?"
+  },
+  {
+   "id": "REF_BOULD_2012",
+   "pmid": "21890841",
+   "desenho_estudo": "[EC] coorte prospectiva (DEPTH) · Fam Pract",
+   "titulo": "Investigation of thyroid dysfunction is more likely in patients with high psychological morbidity."
+  },
+  {
+   "id": "REF_HIRTZ_2022",
+   "pmid": "35946076",
+   "desenho_estudo": "[EC] coorte prospectiva nacional em adolescentes e adultos jovens · Thyroid",
+   "titulo": "Subclinical Hypothyroidism and Incident Depression in Adolescents and Young Adults: Results from a Nationwide Representative Prospective Stu"
+  },
+  {
+   "id": "REF_AYHAN_2014",
+   "pmid": "24211158",
+   "desenho_estudo": "[EC] estudo caso-controle com entrevista diagnóstica · Gen Hosp Psychiatry",
+   "titulo": "The prevalence of depression and anxiety disorders in patients with euthyroid Hashimoto's thyroiditis: a comparative study."
+  },
+  {
+   "id": "REF_GULSEREN_2006",
+   "pmid": "16314199",
+   "desenho_estudo": "[EC] estudo transversal comparativo · Arch Med Res",
+   "titulo": "Depression, anxiety, health-related quality of life, and disability in patients with overt and subclinical thyroid dysfunction."
+  },
+  {
+   "id": "REF_DELITALA_2016",
+   "pmid": "26655116",
+   "desenho_estudo": "[EC] coorte populacional (SardiNIA) · J Affect Disord",
+   "titulo": "Depressive symptoms, thyroid hormone and autoimmunity in a population-based cohort from Sardinia."
+  },
+  {
+   "id": "REF_GONEN_2004",
+   "pmid": "15256776",
+   "desenho_estudo": "[EC] estudo transversal ambulatorial · Endocr J",
+   "titulo": "Assessment of anxiety in subclinical thyroid disorders."
+  },
+  {
+   "id": "REF_ZHAO_2023",
+   "pmid": "37706034",
+   "desenho_estudo": "[EC] estudo transversal em TDM jovem de primeiro episódio · Front Psychiatry",
+   "titulo": "Gender differences in the association between anxiety symptoms and thyroid hormones in young patients with first-episode and drug naïve majo"
+  },
+  {
+   "id": "REF_QIU_2026",
+   "pmid": "41966231",
+   "desenho_estudo": "[EC] estudo transversal em TDM drug-naïve de primeiro episódio · J Affect Disord",
+   "titulo": "An \"increase-decrease-increase\" pattern: TSH levels and anxiety symptoms in treatment-naïve first-episode patients with major depressive dis"
+  },
+  {
+   "id": "REF_WU_2021",
+   "pmid": "33210405",
+   "desenho_estudo": "[EC] estudo caso-controle · J Clin Lab Anal",
+   "titulo": "Dysregulated thyroid hormones correlate with anxiety and depression risk in patients with autoimmune disease."
+  },
+  {
+   "id": "REF_GORKHALI_2020",
+   "pmid": "33210626",
+   "desenho_estudo": "[EC] estudo transversal · J Nepal Health Res Counc",
+   "titulo": "Anxiety and Depression among Patients with Thyroid Function Disorders."
+  },
+  {
+   "id": "REF_DEHESH_2025",
+   "pmid": "39833737",
+   "desenho_estudo": "[EC] estudo transversal · BMC Psychiatry",
+   "titulo": "Prevalence and associated factors of anxiety and depression among patients with hypothyroidism in Southern Iran."
+  },
+  {
+   "id": "REF_ASLAN_2005",
+   "pmid": "24937789",
+   "desenho_estudo": "[EC] estudo transversal com entrevista · Int J Psychiatry Clin Pract",
+   "titulo": "Psychiatric symptoms and diagnoses in thyroid disorders: a cross-sectional study."
+  },
+  {
+   "id": "REF_ROCA_1990",
+   "pmid": "2129342",
+   "desenho_estudo": "[EC] série clínica com medidas seriadas · Endocr Res",
+   "titulo": "Thyroid hormone elevations during acute psychiatric illness: relationship to severity and distinction from hyperthyroidism."
+  },
+  {
+   "id": "REF_CHOPRA_1990",
+   "pmid": "2336036",
+   "desenho_estudo": "[EC] série clínica em internados psiquiátricos · Metabolism",
+   "titulo": "Serum thyrotropin in hospitalized psychiatric patients: evidence for hyperthyrotropinemia as measured by an ultrasensitive thyrotropin assay"
+  },
+  {
+   "id": "REF_PREMACHANDRA_2006",
+   "pmid": "16840838",
+   "desenho_estudo": "[EC] estudo transversal psiquiátrico · J Endocrinol Invest",
+   "titulo": "Low T3 syndrome in psychiatric depression."
+  },
+  {
+   "id": "REF_SARAVANAN_2006",
+   "pmid": "16804044",
+   "desenho_estudo": "[EC] estudo transversal em reposição tireoidiana · J Clin Endocrinol Metab",
+   "titulo": "Psychological well-being correlates with free thyroxine but not free 3,5,3'-triiodothyronine levels in patients on thyroid hormone replaceme"
+  },
+  {
+   "id": "REF_WILSON_2025",
+   "pmid": "40489725",
+   "desenho_estudo": "[EC] estudo transversal · PLoS One",
+   "titulo": "Reverse T3 in patients with hypothyroidism on different thyroid hormone replacement."
+  },
+  {
+   "id": "REF_PANICKER_2009",
+   "pmid": "19751298",
+   "desenho_estudo": "[EC] estudo transversal populacional (área de captação) · Clin Endocrinol (Oxf)",
+   "titulo": "A paradoxical difference in relationship between anxiety, depression and thyroid function in subjects on and not on T4: findings from the HU"
+  },
+  {
+   "id": "REF_WOOLF_1996",
+   "pmid": "8936670",
+   "desenho_estudo": "[EC] série prospectiva hospitalar · Thyroid",
+   "titulo": "Thyroid evaluation of hospitalized psychiatric patients: the role of TSH screening for thyroid dysfunction."
+  },
+  {
+   "id": "REF_TOMA_2026",
+   "pmid": "42346303",
+   "desenho_estudo": "[EC] estudo transversal em internados · Diseases",
+   "titulo": "HPT Axis Dysregulation in Mood and Anxiety Disorders: The Clinical Utility of Routine Hormonal Dosing in Psychiatric In-Patients."
+  },
+  {
+   "id": "REF_LUFT_2019",
+   "pmid": "31390496",
+   "desenho_estudo": "[EC] série clínica pediátrica · J Clin Psychiatry",
+   "titulo": "Thyroid Function Screening in Children and Adolescents With Mood and Anxiety Disorders."
+  },
+  {
+   "id": "REF_QIAO_2022",
+   "pmid": "34856305",
+   "desenho_estudo": "[EC] coorte clínica · J Affect Disord",
+   "titulo": "Exploring the potential of thyroid hormones to predict clinical improvements in depressive patients: A machine learning analysis of the real"
+  },
+  {
+   "id": "REF_ROMEROGOMEZ_2019",
+   "pmid": "31795239",
+   "desenho_estudo": "[EC] estudo transversal comparativo · Int J Environ Res Public Health",
+   "titulo": "Mood Disorders in Levothyroxine-Treated Hypothyroid Women."
+  },
+  {
+   "id": "REF_ALMEIDA_2007",
+   "pmid": "17639255",
+   "desenho_estudo": "[EC] estudo transversal com entrevista (SCID) · Braz J Psychiatry",
+   "titulo": "Subclinical hypothyroidism: psychiatric disorders and symptoms."
+  },
+  {
+   "id": "REF_ANDRADE_2010",
+   "pmid": "21152840",
+   "desenho_estudo": "[EC] estudo caso-controle · Rev Bras Ginecol Obstet",
+   "titulo": "[Depression and anxiety symptoms in hypothyroid women]."
+  },
+  {
+   "id": "REF_COSTACHE_2020",
+   "pmid": "32874682",
+   "desenho_estudo": "[EC] coorte clínica de deprimidos · Curr Health Sci J",
+   "titulo": "TSH and T4 Levels in a Cohort of Depressive Patients."
+  },
+  {
+   "id": "REF_KAMBLE_2013",
+   "pmid": "23449617",
+   "desenho_estudo": "[EC] estudo caso-controle drug-naïve · J Clin Diagn Res",
+   "titulo": "Thyroid function and mental disorders: an insight into the complex interaction."
+  },
+  {
+   "id": "REF_HILMON_2026",
+   "pmid": "42074695",
+   "desenho_estudo": "[EC] estudo observacional em jovens · J Clin Med",
+   "titulo": "Impact of Levothyroxine Treatment for Hypothyroidism on the Risk of Psychiatric Interventions in Children and Adolescents with Anxiety Disor"
+  }
+ ],
+ "divida_nomeada": "forca_evidencia_afirmacao vazio quando a ficha não trazia (schema 09.2 exige; preenchimento exige avaliação — não fabricar)"
+}

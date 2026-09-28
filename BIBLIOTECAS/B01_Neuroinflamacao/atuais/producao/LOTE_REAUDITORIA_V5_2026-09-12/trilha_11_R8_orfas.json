@@ -1,0 +1,125 @@
+{
+ "data": "2026-09-11",
+ "condicao": "R8 (AUD-032) — 17 órfãs Módulo09∖vínculos",
+ "operador": "IA (delegação do usuário)",
+ "acoes": [
+  {
+   "artefato": "B1 NEUROINFLAMAÇÃO V5 CANONICA.md",
+   "acao": "token ANNETT_2020[ML] removido do APÊNDICE DE CORPUS (única ocorrência)",
+   "linha": 1234
+  },
+  {
+   "artefato": "Evidencias/Bibliografia/01_pmids.json",
+   "acao": "REF_ANNETT_2020 removida",
+   "entrada_preservada": {
+    "pmid_oficial": "32622856",
+    "doi": "10.1016/j.pharmthera.2020.107623",
+    "titulo_artigo": "FK506 binding proteins and inflammation related signalling pathways; basic biology, current status and future prospects for pharmacological intervention.",
+    "autores": [
+     "Annett S",
+     "Moore G",
+     "Robson T"
+    ],
+    "revista_ano": "Pharmacology & therapeutics (2020)",
+    "desenho_estudo": "Review (humano+animal)",
+    "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO_08",
+    "achado_central_molecular": "FKBP e sinalizacao inflamatoria; FKBP5 modula sensibilidade do GR",
+    "extrapolacao_por_analogia": "parcial",
+    "status_auditoria": "",
+    "claim_id_origem": "",
+    "citacao_confirmada": true,
+    "origem_pipeline": "BUSCA_FERRAMENTA",
+    "g1_metodo": "eutils_automatico",
+    "g3_verificado_por": "",
+    "especie_mesh": [
+     "Animals",
+     "Humans"
+    ],
+    "evid_role": "preclinical_mechanistic",
+    "verification_status": "pendente",
+    "ids_referencia_interna": [
+     "REF_ANNETT_2020"
+    ],
+    "id_referencia_interna": "REF_ANNETT_2020",
+    "_aliases": [
+     "ANNETT",
+     "Annett"
+    ]
+   }
+  },
+  {
+   "artefato": "Auditoria_B1/ledger_auditoria_B1.json",
+   "acao": "AUD_B1_0075 removida (preservada abaixo); 23 trecho_ancora re-apontados p/ linha pós-remoção",
+   "reancoradas": 23,
+   "entrada_removida": {
+    "id_auditoria": "AUD_B1_0075",
+    "mecanismo": "B1",
+    "id_referencia_interna": "REF_ANNETT_2020",
+    "pmid_oficial": "32622856",
+    "arquivo_modulo09": "Evidencias/Bibliografia/01_pmids.json",
+    "tipo_classificador": "",
+    "origem_entrada": "GPM",
+    "claim_id": "",
+    "secao_origem": "B1_CANONICA",
+    "trecho_ancora": "*MENARD_2017[ML] | WANG_2018[MA] | SACTA_2018[ML] | BONAZ_2018[ML] | BLOMQVIST_2018[ML] | SERHAN_2018[ML] | RIZZO_2018[ML] | YUN_2018[ML] | HERMAN_2018[ML] | SHIRAKAWA_2018[ML] | BANG_2018[ML] | ARORA_2019[MA] | ZHAO_2019[ML] | PARK_2019[MA] | SWANSON_2019[ML] | NASH_2019[ML] | ZHOU_2020[ML] | LIU_2020[MA] | OSIMO_2020[MA] | BELGE_2020[MA] | YANG_2020[ML] | WILLIS_2020[ML] | MEHTA_2020[MA] | CHUKAEW_2021[MA] | ANNETT_2020[ML]*",
+    "citacao_literal": "ANNETT_2020[TAG]",
+    "natureza_da_relacao": "contributiva",
+    "grau_maturidade_cientifica": "moderadamente_suportado",
+    "forca_causal": "tier_4_descritivo_estrutural",
+    "forca_biologica_conexao": "",
+    "especie_mesh": [
+     "Animals",
+     "Humans"
+    ],
+    "evid_role": "preclinical_mechanistic",
+    "portao_G1_existencia": "VERIFIED_REFERENCE",
+    "portao_G2_elegibilidade": "NAO_APLICAVEL",
+    "portao_G3_suporte": "APROVADO",
+    "status_auditoria": "APROVADO",
+    "destino": "FICA_MECANISMO",
+    "acao_correcao": "ADICIONAR_SINALIZADOR",
+    "reconciliado": true,
+    "verificacao": {
+     "verificador": "IA G3 (geração) — B1; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+     "data_verificacao": "2026-09-05",
+     "g1_metodo": "eutils_automatico (esearch+esummary+efetch)",
+     "abstract_ou_trecho": "esummary/abstract conferido na Rodada de auditoria (G1 eutils; metadados título/autor/ano/periódico conferem).",
+     "query_utilizada": "esearch PubMed por autor+ano+periódico+palavras do trecho",
+     "g2_motivo": "desenho/espécie classificados",
+     "g3_nota": "abstract lido quando alto risco; full-text para P-6"
+    }
+   }
+  },
+  {
+   "artefato": "Evidencias/Vinculos/vinculos_referencia_afirmacao.json",
+   "acao": "16 vínculos criados (VINC_B1_0258–0273) por reconciliação de registro",
+   "ids": [
+    "VINC_B1_0258",
+    "VINC_B1_0259",
+    "VINC_B1_0260",
+    "VINC_B1_0261",
+    "VINC_B1_0262",
+    "VINC_B1_0263",
+    "VINC_B1_0264",
+    "VINC_B1_0265",
+    "VINC_B1_0266",
+    "VINC_B1_0267",
+    "VINC_B1_0268",
+    "VINC_B1_0269",
+    "VINC_B1_0270",
+    "VINC_B1_0271",
+    "VINC_B1_0272",
+    "VINC_B1_0273"
+   ]
+  }
+ ],
+ "contagens_finais": {
+  "01_pmids": 200,
+  "mod09_total": 236,
+  "ledger": 236,
+  "vinculos": 273
+ },
+ "dividas_nomeadas": [
+  "D-B1-R8-CLAIM: 16 vínculos novos sem claim_id (ausente no ledger de origem GPM) — pendem da Lista Canônica (itens em_busca)"
+ ]
+}

@@ -1,0 +1,17 @@
+DIGITAIS — ENVIO AO AUDITOR-MESTRE: schemas L-05 correntes · pacote remontado em 2026-09-20 (conteúdo BYTE-IDÊNTICO ao pacote de distribuição de 19/09 — só reempacotado para facilitar o download)
+
+zip para anexar ao chat do mestre:
+  SCHEMAS_L05_CORRENTES_2026-09-19.zip
+  sha256: 72f8f2e5ea7ec0ad553fa25ee2976da53b0f896a1a6c3e3ed81279d2e58ba235 · 25.015 b
+
+digitais INDIVIDUAIS (correção adotada na rodada 50 — vão também na próxima carta):
+  schema_referencia_v1.3__N1_CORRENTE.json
+    sha256: b06660fd985a8186dbe5ed2878f15d3badd2356e11f4d0c9b71e78d2b2e4e7da · 9.582 b
+  schema_vinculo_v1.4__N2_CORRENTE.json
+    sha256: d96ad15b620fa373d8d95d44159a9f3db31c04cfed051d85c7ab014cb3c65050 · 12.840 b
+  L05_SCHEMA_EVIDENCIA_E_VINCULO_v1.4__ESPECIFICACAO.md
+    sha256: 78a0f2afcd2acf0f78caa8bbc674c337e7c5b47c93ee86d684f1648b6671dc8b · 42.809 b
+  LEIAME.txt
+    sha256: 3fd836d68275c914e65c6a7fb515f810f71228f7909bec2201e613b2eaa4f3a1 · 8.073 b
+
+o que o mestre deve fazer: recalcular os 2 shas dos JSONs e ecoar — transforma 'declarado pela casa' em 'verificado' e fecha o seu critério de aprovação dos schemas.

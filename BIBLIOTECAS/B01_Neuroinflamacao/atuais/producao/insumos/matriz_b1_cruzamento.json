@@ -1,0 +1,455 @@
+{
+ "cobertos": [
+  [
+   "periferica",
+   "20015486",
+   "Dowlati 2010"
+  ],
+  [
+   "periferica",
+   "28122130",
+   "Köhler 2017"
+  ],
+  [
+   "periferica",
+   "32113908",
+   "Osimo 2020"
+  ],
+  [
+   "periferica",
+   "31326932",
+   "Costello 2019"
+  ],
+  [
+   "tspo",
+   "28939116",
+   "Holmes 2018"
+  ],
+  [
+   "antidepressivo",
+   "28445690",
+   "Więdłocha 2018"
+  ]
+ ],
+ "novos": [
+  [
+   "periferica",
+   "31427752",
+   "Liu 2019",
+   "Peripheral cytokine levels and response to antidepressant treatm"
+  ],
+  [
+   "periferica",
+   "32807846",
+   "Ng",
+   "The longitudinal associations of inflammatory biomarkers and dep"
+  ],
+  [
+   "periferica",
+   "41226404",
+   "Gędek 2025",
+   "Altered Cytokine Levels in the First Episode of Major Depression"
+  ],
+  [
+   "periferica",
+   "41588410",
+   "Li 2026",
+   "TNF-α levels in first-episode, drug-naïve patients with major de"
+  ],
+  [
+   "periferica",
+   "1110775",
+   "Min 2023",
+   "Lead levels in blood of residents near the M6-A38(7) interchange"
+  ],
+  [
+   "periferica",
+   "39603515",
+   "Jadhav 2024",
+   "Blood cytokines in major depressive disorder in drug-naïve adole"
+  ],
+  [
+   "periferica",
+   "37070163",
+   "Elgellaie 2023",
+   "Pro-inflammatory cytokines IL-1α, IL-6 and TNF-α in major depres"
+  ],
+  [
+   "periferica",
+   "39595067",
+   "Gavril 2024",
+   "Predictive Value of Inflammatory Biomarkers in Assessing Major D"
+  ],
+  [
+   "periferica",
+   "30939048",
+   "D'Acunto 2019",
+   "Inflammatory Cytokines in Children and Adolescents with Depressi"
+  ],
+  [
+   "central",
+   "31195092",
+   "Enache 2019",
+   "Markers of central inflammation in major depressive disorder: A "
+  ],
+  [
+   "central",
+   "28338954",
+   "Wang & Miller 2018",
+   "Meta-analysis of Cerebrospinal Fluid Cytokine and Tryptophan Cat"
+  ],
+  [
+   "central",
+   "32917850",
+   "Böttcher 2020",
+   "Single-cell mass cytometry of microglia in major depressive diso"
+  ],
+  [
+   "central",
+   "32958675",
+   "Anderson 2020",
+   "Convergent molecular, cellular, and cortical neuroimaging signat"
+  ],
+  [
+   "central",
+   "32341540",
+   "Nagy 2020",
+   "Single-nucleus transcriptomics of the prefrontal cortex in major"
+  ],
+  [
+   "tspo",
+   "23850810",
+   "Hannestad 2013",
+   "The neuroinflammation marker translocator protein is not elevate"
+  ],
+  [
+   "tspo",
+   "25797247",
+   "Setiawan 2015",
+   "GSK3 is required for rapalogs to induce degradation of some onco"
+  ],
+  [
+   "tspo",
+   "30156409",
+   "Richards 2018",
+   "Mapping an Equilibrium Folding Intermediate of the Cytolytic Por"
+  ],
+  [
+   "tspo",
+   "30563872",
+   "Setiawan 2018",
+   "ER Translocation of the MAPK Pathway Drives Therapy Resistance i"
+  ],
+  [
+   "tspo",
+   "33515765",
+   "Schubert 2021",
+   "A Modest Increase in (11)C-PK11195-Positron Emission Tomography "
+  ],
+  [
+   "tspo",
+   "36226319",
+   "Eggerstorfer 2022",
+   "Meta-analysis of molecular imaging of translocator protein in ma"
+  ],
+  [
+   "tspo",
+   "37640701",
+   "Nutma 2023",
+   "Translocator protein is a marker of activated microglia in roden"
+  ],
+  [
+   "tspo",
+   "33433698",
+   "Nutma 2021",
+   "Cellular sources of TSPO expression in healthy and diseased brai"
+  ],
+  [
+   "tspo",
+   "34848203",
+   "Guilarte 2022",
+   "Imaging neuroinflammation with TSPO: A new perspective on the ce"
+  ],
+  [
+   "tspo",
+   "40036275",
+   "Wijesinghe 2025",
+   "Post-mortem validation of in vivo TSPO PET as a microglial bioma"
+  ],
+  [
+   "tspo",
+   "31683271",
+   "Attwells 2020",
+   "Replicating predictive serum correlates of greater translocator "
+  ],
+  [
+   "tspo",
+   "42034206",
+   "Barzon 2026",
+   "Peripheral inflammation is associated with reduced influx of TSP"
+  ],
+  [
+   "tspo",
+   "41957656",
+   "Barzon 2026",
+   "Network-based disease fingerprinting with neuroinflammation PET "
+  ],
+  [
+   "microglia",
+   "36332817",
+   "Cheng 2022",
+   "Minocycline, a classic antibiotic, exerts psychotropic effects b"
+  ],
+  [
+   "kyn",
+   "36231075",
+   "Almulla 2022",
+   "The Tryptophan Catabolite or Kynurenine Pathway in a Major Depre"
+  ],
+  [
+   "kyn",
+   "31940661",
+   "Haroon 2020",
+   "Associations among peripheral and central kynurenine pathway met"
+  ],
+  [
+   "kyn",
+   "27754481",
+   "Parrott 2016",
+   "Neurotoxic kynurenine metabolism is increased in the dorsal hipp"
+  ],
+  [
+   "kyn",
+   "29725904",
+   "Martín-Hernández 2018",
+   "Chronic Mild Stress Alters Kynurenine Pathways Changing the Glut"
+  ],
+  [
+   "kyn",
+   "41749295",
+   "O'Regan 2026",
+   "Kynurenine pathway dysregulation in major depressive disorder: t"
+  ],
+  [
+   "kyn",
+   "30980044",
+   "Savitz 2019",
+   "The kynurenine pathway: a finger in every pie"
+  ],
+  [
+   "kyn",
+   "38102897",
+   "Stone 2023",
+   "Tryptophan metabolism as a 'reflex' feature of neuroimmune commu"
+  ],
+  [
+   "kyn",
+   "37123095",
+   "Badawy 2023",
+   "Kynurenine pathway of tryptophan metabolism in pathophysiology a"
+  ],
+  [
+   "kyn",
+   "36054612",
+   "Gong 2023",
+   "The role and mechanism of tryptophan - kynurenine metabolic path"
+  ],
+  [
+   "kyn",
+   "39245854",
+   "Bertollo 2025",
+   "Neurobiological mechanisms in the kynurenine pathway and major d"
+  ],
+  [
+   "kyn",
+   "41745408",
+   "Murata 2026",
+   "Contextual Regulation of the Kynurenine Pathway and Its Relevanc"
+  ],
+  [
+   "nlrp3",
+   "25603858",
+   "Zhang 2015",
+   "NLRP3 Inflammasome Mediates Chronic Mild Stress-Induced Depressi"
+  ],
+  [
+   "nlrp3",
+   "28263786",
+   "Kaufmann 2017",
+   "NLRP3 inflammasome-driven pathways in depression: Clinical and p"
+  ],
+  [
+   "nlrp3",
+   "34978026",
+   "Liu 2022 MCC950",
+   "Inhibition of Microglial NLRP3 with MCC950 Attenuates Microglial"
+  ],
+  [
+   "nlrp3",
+   "41712983",
+   "McColgan 2026",
+   "NLRP3 inflammasome priming and activation is involved in depress"
+  ],
+  [
+   "nlrp3",
+   "36563870",
+   "Xia 2023",
+   "The NLRP3 inflammasome in depression: Potential mechanisms and t"
+  ],
+  [
+   "nlrp3",
+   "36613574",
+   "Kouba 2023",
+   "NLRP3 Inflammasome: From Pathophysiology to Therapeutic Target i"
+  ],
+  [
+   "nlrp3",
+   "40075143",
+   "Xu 2025",
+   "NLRP3 inflammasome in neuroinflammation and central nervous syst"
+  ],
+  [
+   "nlrp3",
+   "34321623",
+   "Huang 2021",
+   "NLRP3 inflammasome activation and cell death"
+  ],
+  [
+   "nlrp3",
+   "36336552",
+   "Xu & Núñez 2022",
+   "The NLRP3 inflammasome: activation and regulation"
+  ],
+  [
+   "piroptose",
+   "34877938",
+   "Li 2021",
+   "NLRP3/caspase-1/GSDMD-mediated pyroptosis exerts a crucial role "
+  ],
+  [
+   "piroptose",
+   "35669106",
+   "Du 2022",
+   "Ablation of GSDMD Attenuates Neurological Deficits and Neuropath"
+  ],
+  [
+   "piroptose",
+   "34678046",
+   "Wang 2021",
+   "NLRP3 inflammasome activation triggers gasdermin D-independent i"
+  ],
+  [
+   "piroptose",
+   "29895691",
+   "McKenzie 2018",
+   "Caspase-1 inhibition prevents glial inflammasome activation and "
+  ],
+  [
+   "piroptose",
+   "37725102",
+   "Han 2023",
+   "Role of NLRP3 inflammasome-mediated neuronal pyroptosis and neur"
+  ],
+  [
+   "piroptose",
+   "36481964",
+   "Moonen 2023",
+   "Pyroptosis in Alzheimer's disease: cell type-specific activation"
+  ],
+  [
+   "ponte_b16",
+   "34877938",
+   "pyroptose glial",
+   "NLRP3/caspase-1/GSDMD-mediated pyroptosis exerts a crucial role "
+  ],
+  [
+   "ponte_b16",
+   "41862685",
+   "NLRP3 microglial IL-1β neurogenese",
+   "Microglial NLRP3-dependent pyroptosis promotes cognitive dysfunc"
+  ],
+  [
+   "ponte_b16",
+   "38025419",
+   "IL-33",
+   "The role of IL-33 in depression: a systematic review and meta-an"
+  ],
+  [
+   "antidepressivo",
+   "34864233",
+   "fluoxetina",
+   "Fluoxetine modulates the pro-inflammatory process of IL-6, IL-1β"
+  ],
+  [
+   "antidepressivo",
+   "28612257",
+   "Köhler 2017 antidepressivo",
+   "Peripheral Alterations in Cytokine and Chemokine Levels After An"
+  ],
+  [
+   "antidepressivo",
+   "30797959",
+   "Wang 2019 SSRI",
+   "Effects of SSRIs on peripheral inflammatory markers in patients "
+  ],
+  [
+   "antidepressivo",
+   "41023687",
+   "Xie 2025 sertralina",
+   "Sertraline and inflammatory markers in major depression: a syste"
+  ],
+  [
+   "antidepressivo",
+   "31427752",
+   "Liu TNF resposta",
+   "Peripheral cytokine levels and response to antidepressant treatm"
+  ]
+ ],
+ "mismatch": [
+  [
+   "1110775",
+   "1110775",
+   "Min 2023",
+   "->",
+   "Waldron HA",
+   "1975",
+   "Lead levels in blood of residents near the M6-A38(7) interchange, Birm"
+  ],
+  [
+   "25797247",
+   "25797247",
+   "Setiawan 2015",
+   "->",
+   "Koo J",
+   "2015",
+   "GSK3 is required for rapalogs to induce degradation of some oncogenic "
+  ],
+  [
+   "30156409",
+   "30156409",
+   "Richards 2018",
+   "->",
+   "Dingfelder F",
+   "2018",
+   "Mapping an Equilibrium Folding Intermediate of the Cytolytic Pore Toxi"
+  ],
+  [
+   "30563872",
+   "30563872",
+   "Setiawan 2018",
+   "->",
+   "Ojha R",
+   "2019",
+   "ER Translocation of the MAPK Pathway Drives Therapy Resistance in BRAF"
+  ],
+  [
+   "10.1016/j.psychres.2021.114317",
+   "34864233",
+   "fluoxetina",
+   "->",
+   "García-García ML",
+   "2022",
+   "Fluoxetine modulates the pro-inflammatory process of IL-6, IL-1β and T"
+  ]
+ ]
+}

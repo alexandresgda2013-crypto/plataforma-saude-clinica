@@ -1,0 +1,92 @@
+[
+ {
+  "pmid_oficial": "19092448",
+  "titulo_artigo": "Simultaneous initiation (coinitiation) of pharmacotherapy with triiodothyronine and a selective serotonin reuptake inhibitor for major depressive disorder: a quantitative synthesis of double-blind studies",
+  "autores": [
+   "Papakostas GI",
+   "Cooper-Kazaz R",
+   "Appelhof BC",
+   "Posternak MA",
+   "Johnson DP",
+   "Klibanski A"
+  ],
+  "revista_ano": "International clinical psychopharmacology (2009)",
+  "desenho_estudo": "[EC] CooperKazaz_2009",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Simultaneous initiation (coinitiation) of pharmacotherapy with triiodothyronine and a selective serotonin reuptake inhibitor for major depressive disorder: a quantitative synthesis of double-blind studies",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_PAPAKOSTAS_2009"
+  ],
+  "id_referencia_interna": "REF_PAPAKOSTAS_2009",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "PAPAKOSTAS",
+   "Papakostas"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "29869405",
+  "titulo_artigo": "Adjunctive thyroid hormone treatment in rapid cycling bipolar disorder: A double-blind placebo-controlled trial of levothyroxine (L-T(4) ) and triiodothyronine (T(3) )",
+  "autores": [
+   "Walshaw PD",
+   "Gyulai L",
+   "Bauer M",
+   "Bauer MS",
+   "Calimlim B",
+   "Sugar CA"
+  ],
+  "revista_ano": "Bipolar disorders (2018)",
+  "desenho_estudo": "[EC] Hormônio tireoidiano adjuvante na ciclagem rápida ",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Hormônio tireoidiano adjuvante na ciclagem rápida (Walshaw 2018)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_WALSHAW_2018"
+  ],
+  "id_referencia_interna": "REF_WALSHAW_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "âncora módulos 06-10 do GPM completo",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "WALSHAW",
+   "Walshaw"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ }
+]

@@ -1,0 +1,284 @@
+{
+ "trilha": "TRILHA52",
+ "rodada": 33,
+ "data": "2026-09-18",
+ "objeto": "Divergência documental dupla-V2.2 (mestre: 'V2.2' sha 309aa65f no projeto dele, sem as 3 guardas × casa: vigente df7f7cfd). Resposta a (a)-(d) do operador, medida. 0 ciência.",
+ "resposta_abcd_medida": {
+  "a": "SIM — df7f7cfd é posterior e editada SOB DECISÃO REGISTRADA (rodada 26, opção A do operador), aplicando o ACHADO do próprio mestre (2841bc66); não é edição espúria — é a instalação oficial.",
+  "b": "Documental medida: upload-r24 (≈ conteúdo do arquivo do mestre, assinatura C1 exata) × df7f7cfd diferem em §2 (nó UNIFICADOS removido · fluxos segregados até o Motor · bloco Pasta com 'fora do cânone' · origem_conhecimento desenho+prosa · regra 'prosa prevalece sobre desenhos' · H1 V2→V2.2-17.09 · 30 seções únicas) e §21 consolidada. (b)-fina byte-a-byte: pendente dos bytes do 309aa65f.",
+  "c": "VIGENTE RECOMENDADA: df7f7cfd — única com as 3 guardas (exigidas pelo achado do próprio mestre), rastreabilidade completa e conteúdo §§6/7/13/14 idênticos nos dois lados.",
+  "d": "Documentação: decisoes rev.33 · ARQUITETURA_VIGENTE.txt · trilhas 45/45b · ACHADO 2841bc66 · RESPOSTA_14 + ADENDO_2_RESPOSTA_13 · CHANGELOG rodada 26."
+ },
+ "confissoes_e_erratas_datadas_2026_09_18": [
+  "C0 (script): faltou o argumento posicional 'escopo' no reg A1 (TypeError antes de qualquer medida) e o caminho da trilha 45 presumiu um nome abreviado; corrigidos com o nome real medido em produção ('TRILHA45_achado_mestre_V21_no_unificado_2026-09-17.json'). Nenhuma medida afetada.",
+  "C6 (D5): leitura do JSON legado da trilha 45 esperava 'resultado.verde_total'; o schema legado guarda 'resultado' como string. Corrigido para checks[]+'PROCEDENTE'.",
+  "NOTA-DÍVIDA NOVA (não é confissão): D-V22-BYTES-PROJETO — os bytes da V2.2 instalada seguem não confirmados no projeto do mestre; a divergência de hoje é a prova. Repasse do arquivo fecha a identidade."
+ ],
+ "shas_ciencia": {
+  "V7": "6e2c29797e63",
+  "manifesto": "79d1309a1689",
+  "vinculos": "490675e63122"
+ },
+ "shas_vigentes": {
+  "V2.2": "df7f7cfdfc01",
+  "p8": "be48a5efa1d6"
+ },
+ "cadeia_shas": {
+  "V1_upload": "8f050469632c",
+  "V2_1509": "09692e18a5a6",
+  "upload_r24": "5be36836610d",
+  "V2.1": "1a50645e2609",
+  "V2.2": "df7f7cfdfc01",
+  "alvo_mestre_309aa65f": "AUSENTE do workspace"
+ },
+ "resultado": {
+  "verdes": 22,
+  "total": 22,
+  "verde_total": true
+ },
+ "checks": [
+  {
+   "id": "S0.1",
+   "titulo": "V7 intacta",
+   "camada": "ingerida sha256",
+   "escopo": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/B1 NEUROINFLAMAÇÃO V7 CANONICA.md",
+   "comando": "sha256sum",
+   "medido": "6e2c29797e63",
+   "esperado": "6e2c2979",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "S0.2",
+   "titulo": "Manifesto intacto",
+   "camada": "ingerida sha256",
+   "escopo": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Evidencias/Bibliografia/_manifesto_biblioteca.json",
+   "comando": "sha256sum",
+   "medido": "79d1309a1689",
+   "esperado": "79d1309a",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "S0.3",
+   "titulo": "Vínculos intactos (274)",
+   "camada": "ingerida sha256",
+   "escopo": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json",
+   "comando": "sha256sum",
+   "medido": "490675e63122",
+   "esperado": "490675e6",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "S0.4",
+   "titulo": "P-8 oficial intacto",
+   "camada": "ingerida sha256",
+   "escopo": "/home/user/Ferramentas de geração e auditoria/06_portao_P8_coerencia/scripts/validar_coerencia_camadas.py",
+   "comando": "sha256sum",
+   "medido": "be48a5efa1d6",
+   "esperado": "be48a5ef",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "S0.5",
+   "titulo": "V2.2 instalada intacta e = o ponteiro oficial",
+   "camada": "ingerida sha256 × documental",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md × /home/user/BIBLIOTECAS/_documentos_serie/ARQUITETURA_VIGENTE.txt",
+   "comando": "sha × grep ponteiro",
+   "medido": "df7f7cfdfc01 · ponteiro cita df7f7cfdfc01=True",
+   "esperado": "df7f7cfd nos dois",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "A1",
+   "titulo": "O artefato do mestre (sha 309aa65f…) NÃO existe no workspace da casa → (b)-fina exige os bytes; (b)-documental já está medida por conteúdo/seções",
+   "camada": "ingerida sha256 global, camada: todos *.md sob /home/user",
+   "escopo": "/home/user (varredura .md)",
+   "comando": "find + sha256sum por arquivo",
+   "medido": "[]",
+   "esperado": "[] (ausente)",
+   "ok": true,
+   "detalhe": "PEDIDO (obrigatório para selar a identidade): operador envia o arquivo ARQUITETURA_CONSOLIDADA_DA_PLATAFORMA_V2__-__15_09_26.md do projeto do mestre → a casa arquiva verbatim e executa o diff byte-a-byte"
+  },
+  {
+   "id": "B1",
+   "titulo": "As 3 marcas do relato do mestre (origem_conhecimento · prevalência-da-prosa · 'fora do cânone') existem SOMENTE na df7f7cfd (3·1·1); em TODOS os outros elos da cadeia: 0·0·0 — logo o arquivo do projeto dele NÃO é a V2.2 instalada; é um elo anterior rotulado",
+   "camada": "documental NFC+casefold por elo, arquivo inteiro",
+   "escopo": "5 elos da cadeia",
+   "comando": "count 3 agulhas por elo",
+   "medido": "{\"V1-upload\": [0, 0, 0], \"V2-15.09(09692e18)\": [0, 0, 0], \"upload-r24(5be36836)\": [0, 0, 0], \"V2.1(1a50645e)\": [0, 0, 0], \"V2.2-inst(df7f7cfd)\": [3, 1, 1]}",
+   "esperado": "só df7f7cfd: (3,1,1); resto 0",
+   "ok": true,
+   "detalhe": "linhas âncora na df7f7cfd: L4 (Rev. V2.2) · L117 ('fora do cânone', bloco Pasta) · L121 (desenho origem_conhecimento=) · L172 (prosa origem_conhecimento = canonico | atualizacao) · L175 ('a prosa deste documento prevalece sobre os desenhos')"
+  },
+  {
+   "id": "B2",
+   "titulo": "Forma dos elos (H1 · seções '# N.' · duplicatas · CRLF): upload-r24 tem H1 'V2 … 15.09.26' + duplicata §21×2; V2.1 tem H1 idem + duplicata §2×2; APENAS a df7f7cfd tem H1 'V2.2 … 17.09.26' + 30 seções únicas",
+   "camada": "documental NFC+regex '^# \\d+\\.' por linha",
+   "escopo": "upload r24 × V2.1 × V2.2",
+   "comando": "re.findall('^# (\\d+)\\.') + H1 + CRLF",
+   "medido": "{\"upload-r24(5be36836)\": {\"h1\": [\"# ARQUITETURA CONSOLIDADA DA PLATAFORMA V2    15.09.26\"], \"n\": 31, \"dup\": {\"21\": 2}, \"crlf\": true}, \"V2.1(1a50645e)\": {\"h1\": [\"# ARQUITETURA CONSOLIDADA DA PLATAFORMA V2    15.09.26\"], \"n\": 31, \"dup\": {\"2\": 2}, \"crlf\": true}, \"V2.2-inst(df7f7cfd)\": {\"h1\": [\"# ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2    17.09.26\"], \"n\": 30, \"dup\": {}, \"crlf\": true}}",
+   "esperado": "assinaturas registradas",
+   "ok": true,
+   "detalhe": "",
+   "regex": "^# (\\d+)\\."
+  },
+  {
+   "id": "C1",
+   "titulo": "A ASSINATURA DO RELATO BATE EXATA: upload-r24 × V2.1-instalada = 28 seções idênticas; DIFEREM exatamente §2 e §21 (§§6·7·13·14 entre as 28) — a V2.2 do projeto do mestre é, em conteúdo, o upload da rodada 24 (pré-achado) com rótulo 'V2.2'",
+   "camada": "documental por-fatias (# N.) sobre bytes, NFC",
+   "escopo": "upload r24 × V2.1 instalada",
+   "comando": "secs_of × compare por seção",
+   "medido": "idênticas=28 dif=['2', '21']",
+   "esperado": "28 · ['2','21']",
+   "ok": true,
+   "detalhe": "o relato do mestre ('28 idênticas · só §§2/21 · §§6/7/13/14 byte a byte') é EXATAMENTE esta assinatura — identificação por conteúdo fechada; identidade byte-a-byte só quando os bytes chegarem"
+  },
+  {
+   "id": "C2",
+   "titulo": "O que a casa (por decisão do operador) acrescentou: V2.1 → V2.2-instalada difere SOMENTE no §2 (29 idênticas) — é o ACHADO do próprio mestre (2841bc66) + parecer concorrente do comentador",
+   "camada": "documental por-fatias",
+   "escopo": "V2.1 × V2.2 instalada",
+   "comando": "secs_of × compare",
+   "medido": "idênticas=29 dif=['2']",
+   "esperado": "29 · ['2']",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "C3",
+   "titulo": "E portanto: upload-r24 (≈ conteúdo do arquivo do mestre) × V2.2-instalada diferem em §2 e §21 (28 idênticas) — (b) documental congelada",
+   "camada": "documental por-fatias",
+   "escopo": "upload r24 × V2.2 instalada",
+   "comando": "secs_of × compare",
+   "medido": "idênticas=28 dif=['2', '21']",
+   "esperado": "28 · ['2','21']",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "C4",
+   "titulo": "Prova byte-a-byte (re-verificada): sufixo §3→fim de V2.1 e V2.2-instalada é IDÊNTICO (39.165 bytes) — o conteúdo normativo usado pelo L-NT (§§6·7·13·14) é o mesmo nos dois lados; a afirmação do mestre sobre suficiência de conteúdo está CORRETA",
+   "camada": "ingerida bytes, fatia posicional",
+   "escopo": "V2.1 × V2.2",
+   "comando": "raw.find('# 3.') × == sufixos",
+   "medido": "A=12159 B=13016 iguais=True len=39165",
+   "esperado": "True · 39165",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "D1",
+   "titulo": "decisoes rev.33 documenta a instalação da df7f7cfd (achado 2841bc66 · V2.1 1a50645e → SUPERSEDED · decisão opção A do operador)",
+   "camada": "documental NFC, 4 substrings",
+   "escopo": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Auditoria_B1/decisoes_B1.md",
+   "comando": "grep",
+   "medido": "True",
+   "esperado": "presentes",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "D2",
+   "titulo": "ARQUITETURA_VIGENTE.txt registra escopo cirúrgico, origem (decisão opção A) e a cadeia SUPERSEDED",
+   "camada": "documental NFC+casefold",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/ARQUITETURA_VIGENTE.txt",
+   "comando": "4 substrings",
+   "medido": "True",
+   "esperado": "presentes",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "D3",
+   "titulo": "O ACHADO que gerou a V2.2 (2841bc66) está arquivado verbatim e íntegro",
+   "camada": "ingerida sha256 + fs",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/MESTRE_achado_V21_no_unificado_recebido_2026-09-17/ACHADO_V21_NO_UNIFICADO_2026-09-17.md",
+   "comando": "sha256sum",
+   "medido": "True",
+   "esperado": "presente",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "D4",
+   "titulo": "As cartas de instalação (RESPOSTA_14, V2.2) e de anúncio (ADENDO_2_RESPOSTA_13, V2.1) existem — a rota oficial de repasse ao mestre consta",
+   "camada": "ingerida fs",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie",
+   "comando": "os.path.exists ×2",
+   "medido": "True",
+   "esperado": "2/2",
+   "ok": true,
+   "detalhe": "NOTA-DÍVIDA da casa (nova, nomeada D-V22-BYTES-PROJETO): os BYTES da V2.2 instalada seguem não confirmados no projeto do mestre — a divergência de hoje é a prova; o repasse do ARQUIVO (não só a carta) é o passo que fecha a identidade"
+  },
+  {
+   "id": "D5",
+   "titulo": "Trilha 45 reexecutável arquivada e verde (checks todos ok + 'PROCEDENTE') — a mesma prova do sufixo byte-a-byte reexecutada hoje em C4",
+   "camada": "ingerida json (schema legado: resultado é string descritiva + checks[])",
+   "escopo": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/TRILHA45_achado_mestre_V21_no_unificado_2026-09-17.json",
+   "comando": "json.load × len(checks) × all(ok) × 'PROCEDENTE'",
+   "medido": "{\"checks\": 18, \"todos_ok\": true, \"resultado_tem_PROCEDENTE\": true}",
+   "esperado": "todos ok · PROCEDENTE",
+   "ok": true,
+   "detalhe": "CONFISSÃO C6 (datada): o script lia 'resultado.verde_total' — o schema legado da trilha 45 guarda 'resultado' como STRING; leitura corrigida para checks[]+marcador. Nenhum dado histórico afetado; o arquivo da trilha 45 estava e está íntegro."
+  },
+  {
+   "id": "E1",
+   "titulo": "Resposta objetiva ao ponto do mestre: a Minuta 1 JÁ cita o sha correto (df7f7cfd) no cabeçalho e NÃO cita 309aa65f — logo NÃO se corrige a minuta para 309aa65f; a correção é trocar o ARQUIVO no projeto dele (309aa65f → df7f7cfd)",
+   "camada": "documental substring ×2",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/MESTRE_LNT_minuta1_recebido_2026-09-18/L-NT_CONTRATO_UNIDADES_NARRATIVAS_minuta1_294119b9_2026-09-18.md",
+   "comando": "grep shas",
+   "medido": "cita df7f7cfd=True cita 309aa65f=False",
+   "esperado": "Sim · Não",
+   "ok": true,
+   "detalhe": "PEDIDO ao mestre (via operador): substituir o arquivo do projeto pelos bytes da df7f7cfd (52.181 b, CRLF) e re-verificar sha; após isso a identidade fecha e NADA muda no conteúdo normativo dele"
+  },
+  {
+   "id": "H1",
+   "titulo": "decisoes rev.40 registrada (rodada 33)",
+   "camada": "documental NFC",
+   "escopo": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Auditoria_B1/decisoes_B1.md",
+   "comando": "substring",
+   "medido": "True",
+   "esperado": "presente",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "H2",
+   "titulo": "CHANGELOG ABERTURA 33 + RESULTADO 33",
+   "camada": "documental NFC",
+   "escopo": "/home/user/BIBLIOTECAS/CHANGELOG_GERAL.md",
+   "comando": "substring",
+   "medido": "True",
+   "esperado": "presente",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "H3",
+   "titulo": "STATUS_SIMPLES bloco da rodada 33",
+   "camada": "documental NFC",
+   "escopo": "/home/user/BIBLIOTECAS/STATUS_SIMPLES_2026-09-13.md",
+   "comando": "substring",
+   "medido": "True",
+   "esperado": "presente",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "H4",
+   "titulo": "Relatório da casa ao operador (divergência dupla V2.2) emitido",
+   "camada": "ingerida fs",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/RELATORIO_CASA_divergencia_dupla_V22_2026-09-18.md",
+   "comando": "exists + size>5000",
+   "medido": "8087",
+   "esperado": ">5000",
+   "ok": true,
+   "detalhe": ""
+  }
+ ]
+}

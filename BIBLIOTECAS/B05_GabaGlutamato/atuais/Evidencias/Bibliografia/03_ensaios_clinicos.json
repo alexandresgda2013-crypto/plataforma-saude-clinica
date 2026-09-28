@@ -1,0 +1,254 @@
+[
+ {
+  "pmid_oficial": "16894061",
+  "titulo_artigo": "A randomized trial of an N-methyl-D-aspartate antagonist in treatment-resistant major depression.",
+  "autores": [
+   "Zarate CA Jr",
+   "Singh JB",
+   "Carlson PJ",
+   "Brutsche NE"
+  ],
+  "revista_ano": "Arch Gen Psychiatry 2006",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B5_gaba_glutamato",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_ZARATE_2006"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_ZARATE_2006",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Zarate",
+   "ZARATE"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "20679587",
+  "titulo_artigo": "A randomized add-on trial of an N-methyl-D-aspartate antagonist in treatment-resistant bipolar depression.",
+  "autores": [
+   "Diazgranados N",
+   "Ibrahim L",
+   "Brutsche NE",
+   "Newberg A"
+  ],
+  "revista_ano": "Arch Gen Psychiatry 2010",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B5_gaba_glutamato",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_DIAZGRANADOS_2010"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_DIAZGRANADOS_2010",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "DIAZGRANADOS",
+   "Diazgranados"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "28619476",
+  "titulo_artigo": "Brexanolone (SAGE-547 injection) in post-partum depression: a randomised controlled trial.",
+  "autores": [
+   "Kanes S",
+   "Colquhoun H",
+   "Gunduz-Bruce H",
+   "Raines S"
+  ],
+  "revista_ano": "Lancet 2017",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B5_gaba_glutamato",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_KANES_2017"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_KANES_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Kanes",
+   "KANES"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "30177236",
+  "titulo_artigo": "Brexanolone injection in post-partum depression: two multicentre, double-blind, randomised, placebo-controlled, phase 3 trials.",
+  "autores": [
+   "Meltzer-Brody S",
+   "Colquhoun H",
+   "Riesenberg R",
+   "Epperson CN"
+  ],
+  "revista_ano": "Lancet 2018",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B5_gaba_glutamato",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MELTZERBRODY_2018"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MELTZERBRODY_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Meltzerbrody",
+   "MELTZERBRODY"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "34190962",
+  "titulo_artigo": "Effect of Zuranolone vs Placebo in Postpartum Depression: A Randomized Clinical Trial.",
+  "autores": [
+   "Deligiannidis KM",
+   "Meltzer-Brody S",
+   "Gunduz-Bruce H",
+   "Doherty J"
+  ],
+  "revista_ano": "JAMA Psychiatry 2021",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B5_gaba_glutamato",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_DELIGIANNIDIS_2021"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_DELIGIANNIDIS_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Deligiannidis",
+   "DELIGIANNIDIS"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "31166571",
+  "titulo_artigo": "Efficacy of Esketamine Nasal Spray Plus Oral Antidepressant Treatment for Relapse Prevention in Patients With Treatment-Resistant Depression: A Randomized Clinical Trial.",
+  "autores": [
+   "Daly EJ",
+   "Trivedi MH",
+   "Janik A",
+   "Li H"
+  ],
+  "revista_ano": "JAMA Psychiatry 2019",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B5_gaba_glutamato",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_DALY_2019"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_DALY_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Daly",
+   "DALY"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ }
+]

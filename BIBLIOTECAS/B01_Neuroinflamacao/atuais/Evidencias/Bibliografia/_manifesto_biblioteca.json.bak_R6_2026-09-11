@@ -1,0 +1,157 @@
+{
+ "natureza_sistema": {
+  "tipo": "suporte_decisao_clinica",
+  "nao_substitui_julgamento_profissional": true,
+  "nao_realiza_diagnostico": true,
+  "decisao_final_profissional": true
+ },
+ "versao": "2.5",
+ "pipeline_versao_geracao": "2.6",
+ "id_canonico": "mecanismo_B1_neuroinflamacao",
+ "nome_canonico": "Neuroinflamação",
+ "corte_literatura": {
+  "valor": "2026-09-03",
+  "tipo": "busca_ativa_com_ferramenta_externa",
+  "descricao": "Corpus por esearch/efetch NCBI PubMed em 2026-09-03 (relevancia). PMIDs incluidos ate essa data; nao reflete corte de treinamento do modelo — toda referencia passou por G1 via eutils.",
+  "ferramenta": "NCBI eutils (esearch + efetch)"
+ },
+ "semantic_layer": {
+  "clinical_summary": [
+   "Mecanismo de inflamação cerebral e sistêmica (NF-kB/NLRP3) que produz citocinas, desvio quinurenínico e supressão de plasticidade.",
+   "Serve para identificar o subtipo minoritário, mas replicado, de depressão/ansiedade associado a marcadores inflamatórios e a traducao sintoma-mecanismo.",
+   "Usar como lastro biológico do subtipo inflamatório e para raciocínio de estratificação — não para diagnóstico nem conduta."
+  ],
+  "rag_context_hint": "Recuperar quando: depressão/ansiedade com inflamação, citocinas elevadas, anedonia/recompensa, TSPO/PCR/IL-6, resistência a antidepressivo, paradigma interferon, priming microglial.",
+  "clinical_domains": [
+   "fisiopatologia",
+   "biomarcadores",
+   "estratificacao"
+  ],
+  "semantic_keywords": [
+   "neuroinflamacao",
+   "NLRP3",
+   "NF-kB",
+   "IL-6",
+   "TNF",
+   "IDO quinurenina",
+   "TSPO",
+   "microglia",
+   "sickness behavior",
+   "inflamacao baixo grau",
+   "FKBP5",
+   "SPMs resolucao"
+  ],
+  "related_entities": [
+   "mecanismo_B2_eixo_hpa_cortisol",
+   "mecanismo_B3_neuroplasticidade",
+   "mecanismo_B4_deficiencias_monoaminas",
+   "mecanismo_B5_gaba_glutamato",
+   "mecanismo_B6_estresse_oxidativo",
+   "mecanismo_B7_eixo_intestino_cerebro",
+   "mecanismo_B8_deficiencias_micronutrientes",
+   "mecanismo_B9_disfuncao_mitocondrial",
+   "mecanismo_B10_desregulacao_circadiana",
+   "mecanismo_B11_disfuncao_tireoidiana",
+   "mecanismo_B12_neurobiologia_trauma",
+   "mecanismo_B16_neurogenese"
+  ],
+  "embedding_priority": "alta"
+ },
+ "historico_correcoes": [
+  {
+   "data": "2026-09-03",
+   "campo_afetado": "cross_refs_mecanismos",
+   "erro_anterior": "BLOCO_08 usava rotulos nao-oficiais (B14_esteroides_neuroativos, B2_estresse_HPA, B10_sono_circadiano, B4_monoaminas, B5_glutamato, B8_micronutrientes, B12_trauma_adversidade) e faltava cross-ref narrativo para B15.",
+   "correcao_aplicada": "Padronizado para os IDs oficiais do Contrato P17 (mecanismo_B14_neuroesteroides_hormonios etc.); adicionado cross-ref mecanismo_B15_autofagia_mtor.",
+   "acao_downstream_necessaria": "Reconciliacao semantica automatica concluida; revisao de pares confere os cross-refs."
+  },
+  {
+   "data": "2026-09-03",
+   "campo_afetado": "biomarcadores_referencia_por_id",
+   "erro_anterior": "BLOCO_05 referenciava biomarcadores por nome biologico sem apontar IDs oficiais de exame (regra P20/P19).",
+   "correcao_aplicada": "Adicionada nota de referencia por ID oficial (exame_pcr_us, exame_il6, exame_il1beta, exame_tnfalpha, exame_razao_kyn_trp, exame_snps_inflamatorios); TSPO/S100B/YKL-40/resolvina D1 marcados como sem ID catalogado (sem criar ID provisorio).",
+   "acao_downstream_necessaria": "Catalogar IDs de exame para TSPO-PET/S100B/YKL-40 quando existirem no modulo C-LAB."
+  },
+  {
+   "data": "2026-09-03",
+   "campo_afetado": "documentos_de_entrada",
+   "erro_anterior": "O pacote de auditoria listava GPM mas nao o Briefing nem o Contrato de Geracao como insumos da Rodada 1; o Contrato (decisoes P/R) nao foi explicitamente consultado na geracao.",
+   "correcao_aplicada": "Verificacao retroativa do Contrato aplicada (P12/P16/P17/P20/R06); Briefing e Contrato incluidos no pacote de auditoria externa e na conformidade.",
+   "acao_downstream_necessaria": "Revisao de pares confere cobertura do Briefing e decisoes do Contrato."
+  }
+ ],
+ "observacao_auditoria": "G1 por ferramenta (eutils). G2/G3 por IA revisora (abstract lido), assinado como IA_revisora_G3; revisao cega por avaliador humano/externo pendente (fila de 59 vinculos de alto-risco). Esta declaracao de natureza de sistema e do manifesto; os schemas 09.1-09.4 do Modulo 9 seguem o Prompt v4.2 como autoridade de seus campos.",
+ "artefato_rotulo": "CANONICA v4.1",
+ "rodada": "Rodada 5 — v3 (reordenação física das subseções em ordem crescente; sem mudança de conteúdo) (2026-09-04)",
+ "selos_verification_propagados_na_prosa": true,
+ "pmids_total": 184,
+ "meta_analises": 6,
+ "escopo": "Ansiedade (TAG, panico, fobia social, TOC, TEPT) e Depressao; + imunometabolismo/necroptose/Cx43-AQP4",
+ "atualizacoes_pos_publicacao": [
+  {
+   "tipo": "[AT] P-7",
+   "data": "2026-09-08",
+   "versao_gerada": "CANÔNICA v4",
+   "descricao": "Insumo externo 'matriz canônica B1' auditado ref-a-ref (G1 eutils 68/74; 4 falsos positivos rejeitados; 19 itens fora de escopo/redundantes/duplicados); 49 referências verificadas incorporadas (188 -> 237).",
+   "origem_insumo": "producao/insumos/RELATORIO_AUDITORIA_MATRIZ_B1.md",
+   "refs_adicionadas": 49,
+   "refs_totais": 237,
+   "pendencias": "P-6 (2a verificação cega) permanece pendente para os claims de alto risco, incluindo os novos [AT]."
+  }
+ ],
+ "alteracoes": [
+  {
+   "data": "2026-09-10",
+   "id": "IMPL-AT-11",
+   "tipo": "reparo_enum_vinculos",
+   "o_que": "3 vínculos B1-v2 (0205/0207/0208): forca_causal tier_2_intervencao→tier_2_necessidade_ou_suficiencia; natureza_relacao→causal; nota_reparo com valores originais em cada registro",
+   "por_que": "valor fantasma fora do enum oficial de 4 tiers (perícia 4ª rodada §2, decisão opção b do agente); mesma família fantasma existia no gate_script L101 (corrigido no mesmo ciclo)",
+   "evidencia": "producao/05_reparo_AT11_2026-09-10.json; gate 16/16 pós-reparo; Auditoria_B1/decisoes_B1.md ALTERAÇÃO 2026-09-10"
+  },
+  {
+   "data": "2026-09-11",
+   "id": "AT02-AT13-RODADA5",
+   "tipo": "reancoragem_integral_vinculos+correcao_canonica",
+   "o_que": "257/257 trecho_ancora literais (pipeline perito 151 + AT-13×3 + 0130 + 26 trims); Canônica §6.2: rótulo 'IL-6 predictor, 2015' → 'Virtanen et al., 2015' (1 linha); backups nomeados; trilha producao/05_reparo_AT02_AT13_2026-09-11.json",
+   "por_que": "AT-02 pendente desde a 1ª perícia; 5ª rodada entregou ferramental com 7 guardas auditadas e replicadas uma a uma",
+   "evidencia": "literalidade 257/257; diff por campo = trecho_ancora apenas; portões B1 re-verificados (gate ✅ · framework (a registrar) · checklist (a registrar))"
+  },
+  {
+   "data": "2026-09-11",
+   "id": "RENAME-VERSAO-V4.1",
+   "tipo": "rename_versionamento",
+   "o_que": "Canônica B1 renomeada 'B1 NEUROINFLAMAÇÃO V4 CANONICA.md' -> 'B1 NEUROINFLAMAÇÃO V4.1 CANONICA.md'; título interno e artefato_rotulo v4->v4.1 (o rótulo do manifesto estava defasado em v3 desde a v4 — corrigido neste mesmo ato). Motivo: mudança da rodada 5 (1 linha, §6.2) ficava invisível na listagem mantendo o nome antigo. Ciência inalterada; rev.2 na nota de auditoria do documento; v4 integral em antigos/historico/v4_canonica_pre_rodada5_2026-09-11.md; CHANGELOG_GERAL.md 2026-09-11.",
+   "origem": "solicitação do operador 2026-09-11 (visibilidade de versão no workspace)"
+  },
+  {
+   "data": "2026-09-11",
+   "id": "HARMONIZA-CONTRATO-2026-09-11",
+   "tipo": "harmonizacao_vocabulario_contrato",
+   "o_que": "AT-01 (27 natureza por conteúdo, D3) + 237 status_referencia legado→oficial (D1). Vínculos 0 bloqueantes no contrato do perito.",
+   "base": "DECISOES_HARMONIZACAO_SCHEMA_2026-09-11.md (D1–D9); trilhas producao/06_harmoniza_* e 07_ancoras_*; backups .bak datados; portões verdes"
+  },
+  {
+   "id": "DISTRIBUICAO-MOD09-MA-EC-2026-09-11",
+   "data": "2026-09-11",
+   "tipo": "metadado/reorganizacao_modulo_09 — CIENCIA NAO TOCADA (0 linhas de canônica)",
+   "lei_aplicada": "PROMPT v4.2 instrução final de geração: [MA]->02_meta_analises.json, [EC]->03_ensaios_clinicos.json; id único global (validar_auditoria.py) — distribuição especificada desde a geração, executada nesta data",
+   "mudancas": {
+    "fichas_removidas_de_01": 36,
+    "fichas_para_02_meta_analises": 33,
+    "fichas_para_03_ensaios_clinicos": 3,
+    "fichas_restantes_em_01": 201
+   },
+   "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+   "campos_de_dado_alterados": "NENHUM (id, pmid, título, achados intactos); somente casa do registro + campos de schema 09.2 (bloco_origem derivado de secao quando ausente, marcado; forca_evidencia_afirmacao replicado ou '' — vazio = dívida nomeada, nunca fabricado) + sinais_classificacao + migrado_em",
+   "dividas_nomeadas": [
+    "forca_evidencia_afirmacao vazio nas migradas sem valor prévio",
+    "conflitos tag×título [REVISAVEL]: 0",
+    "tag [EC] amplo sem sinal RCT — NÃO migrados (09.3 = RCT estrito), ratificação externa: 0"
+   ],
+   "trilha": "atuais/producao/09_distribuicao_MA_EC_B01_2026-09-11.json",
+   "changelog": "BIBLIOTECAS/CHANGELOG_GERAL.md 2026-09-11",
+   "consolidado_motor": "BIBLIOTECAS/MOTOR_CLINICO/ (evidencias_ma_serie.json, evidencias_ec_serie.json)",
+   "backups": "01/02/03*.bak_<AAAAMMDD_HHMMSS> na mesma pasta"
+  }
+ ]
+}

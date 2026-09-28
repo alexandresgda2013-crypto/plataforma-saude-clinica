@@ -1,0 +1,1748 @@
+[
+ {
+  "pmid": "7929220",
+  "grupo": "ENZ",
+  "label": "Kery_1994",
+  "id": "REF_KERY_1994",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.001",
+  "titulo": "Transsulfuration depends on heme in addition to pyridoxal 5'-phosphate. Cystathionine beta-synthase is a heme protein.",
+  "fonte": "J Biol Chem",
+  "ano": "1994",
+  "autores": [
+   "Kery V"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The first committed step of transsulfuration is catalyzed by cystathionine beta-synthase (CBS), a known pyridoxal 5'-phosphate (PLP) enzyme. The inferred amino acid sequences of rat liver CBS and rat liver hemoprotein H-450 are identical. We now confirm the presence of heme b in rat and human liver CBS. Heme almost entirely accounts for the visible spectrum of CBS rather than PLP. Human CBS, expressed in Escherichia coli, acquires heme b from the host bacteria. delta-Aminolevulinate supplementation during bacterial growth increases both the heme saturation and the specific activity of the homogeneous enzyme more than 3-fold. 1 mol of the 63-kDa CBS subunit binds 1 mol of each (heme and PLP). The presence of heme is required for PLP binding, and the amount of PLP bound is limited by the heme content. Removal of PLP, but not heme, from CBS is reversible. These findings suggest that heme is functionally incorporated into CBS only during protein folding. This report describes the first instance of an enzyme that depends upon both heme and PLP for its function.",
+  "nota": "Kéry & Kraus 1994 — CBS é hemoproteína: PLP+heme (RESGATE da auditoria; briefing não achou)"
+ },
+ {
+  "pmid": "10531322",
+  "grupo": "ENZ",
+  "label": "Kabil_1999",
+  "id": "REF_KABIL_1999",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.002",
+  "titulo": "Deletion of the regulatory domain in the pyridoxal phosphate-dependent heme protein cystathionine beta-synthase alleviates the defect observed in a catalytic site mutant.",
+  "fonte": "J Biol Chem",
+  "ano": "1999",
+  "autores": [
+   "Kabil O"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The most common cause of severely elevated homocysteine or homocystinuria is inherited disorders in cystathionine beta-synthase. The latter enzyme is a unique hemeprotein that catalyzes pyridoxal phosphate (PLP)-dependent condensation of serine and homocysteine to give cystathionine, thus committing homocysteine to catabolism. A point mutation, V168M, has been described in a homocystinuric cell line and is associated with a B(6)-responsive phenotype. In this study, we have examined the kinetic properties of this mutant and demonstrate that the mutation affects the PLP but not the heme content. The approximately 13-fold diminution in activity because of the mutation corresponds to an approximately 7-fold decrease in the level of bound PLP. This may be explained by half of the sites activity associated with cystathionine beta-synthase. The addition of PLP results in partial but not full restoration of activity to wild type levels. Elimination of the C-terminal quarter of the mutant protein results in alleviation of the catalytic penalty imposed by the V168M mutation. The resulting truncated protein is very similar to the corresponding truncated enzyme with wild type sequence and is n",
+  "nota": "Kabil 1999 — domínio regulador CBS; defeito de mutante catalítico"
+ },
+ {
+  "pmid": "10052944",
+  "grupo": "ENZ",
+  "label": "Taoka_1999",
+  "id": "REF_TAOKA_1999",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.003",
+  "titulo": "Characterization of the heme and pyridoxal phosphate cofactors of human cystathionine beta-synthase reveals nonequivalent active sites.",
+  "fonte": "Biochemistry",
+  "ano": "1999",
+  "autores": [
+   "Taoka S"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Cystathionine beta-synthase is an unusual enzyme that requires the cofactors heme and pyridoxal phosphate (PLP) to catalyze the condensation of homocysteine and serine to generate cystathionine. This transsulfuration reaction represents one of two major cellular routes for detoxification of homocysteine, which is a risk factor for atherosclerosis. While the beta-replacement reaction catalyzed by this enzyme suggests a role for the pyridoxal phosphate, the role of the heme is uncertain. In this study we have examined the effect of changing one of the ligands to the heme on the activity of the enzyme. Binding of carbon monooxide results in the displacement of a thiolate ligand to the ferrous heme, and is accompanied by complete loss of cystathionine beta-synthase activity. Furthermore, inhibition by CO is competitive with respect to homocysteine, providing the first indication that the homocysteine binding site is in the proximity of heme. Binding of both CO and cyanide to ferrous cystathionine beta-synthase occurs in two distinct isotherms and indicates that the hemes are nonequivalent. We have employed fluorescence spectroscopy to characterize the bound PLP and its interaction with",
+  "nota": "Taoka 1999a — cofatores heme/PLP, sítios não-equivalentes"
+ },
+ {
+  "pmid": "10529187",
+  "grupo": "ENZ",
+  "label": "Taoka_1999b",
+  "id": "REF_TAOKA_1999b",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.004",
+  "titulo": "Assignment of enzymatic functions to specific regions of the PLP-dependent heme protein cystathionine beta-synthase.",
+  "fonte": "Biochemistry",
+  "ano": "1999",
+  "autores": [
+   "Taoka S"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Cystathionine beta-synthase is a unique heme protein that catalyzes a pyridoxal phosphate (or PLP)-dependent beta-replacement reaction. The reaction involves the condensation of serine and homocysteine and constitutes one of the two major avenues for detoxification of homocysteine in mammals. The enzyme is allosterically regulated by S-adenosylmethionine (AdoMet). In this study, we have characterized the kinetic, spectroscopic, and ligand binding properties of a truncated catalytic core of cystathionine beta-synthase extending from residues 1 through 408 in which the C-terminal 143 residues have been deleted. This is similar to a natural variant of the protein that has been described in a homocystinuric patient in which the predicted peptide is 419 amino acids in length. Truncation leads to the formation of a dimeric enzyme in contrast to the tetrameric organization of the native enzyme. Some of the kinetic properties of the truncated enzyme are different from the full-length form, most notably, significantly higher K(m)s for the two substrates, and loss of activation by AdoMet. This is paralleled by the absence of AdoMet binding to the truncated form, whereas four AdoMet molecules",
+  "nota": "Taoka 1999b — mapeamento funções→regiões da CBS (2º registro; GPM citou só o 1º; complementar)"
+ },
+ {
+  "pmid": "11041866",
+  "grupo": "ENZ",
+  "label": "Mosharov_2000",
+  "id": "REF_MOSHAROV_2000",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.005",
+  "titulo": "The quantitatively important relationship between homocysteine metabolism and glutathione synthesis by the transsulfuration pathway and its regulation by redox changes.",
+  "fonte": "Biochemistry",
+  "ano": "2000",
+  "autores": [
+   "Mosharov E"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Homocysteine is a key junction metabolite in methionine metabolism. It suffers two major metabolic fates: transmethylation catalyzed by methionine synthase or betaine homocysteine methyl transferase and transsulfuration catalyzed by cystathionine beta-synthase leading to cystathionine. The latter is subsequently converted to cysteine, a precursor of glutathione. Studies with purified mammalian methionine synthase and cystathionine beta-synthase have revealed the oxidative sensitivity of both junction enzymes, suggesting the hypothesis that redox regulation of this pathway may be physiologically significant. This hypothesis has been tested in a human hepatoma cell line in culture in which the flux of homocysteine through transsulfuration under normoxic and oxidative conditions has been examined. Addition of 100 microM H(2)O(2) or tertiary butyl hydroperoxide increased cystathionine production 1.6- and 2.1-fold from 82 +/- 7 micromol h(-)(1) (L of cells)(-)(1) to 136 +/- 15 and 172 +/- 23 micromol h(-)(1) (L of cells)(-)(1), respectively. The increase in homocysteine flux through the transsulfuration pathway exhibited a linear dose dependence on the concentrations of both oxidants (5",
+  "nota": "Mosharov 2000 — relação quantitativa Hcy↔síntese de GSH; regulação redox"
+ },
+ {
+  "pmid": "11483494",
+  "grupo": "ENZ",
+  "label": "Meier_2001",
+  "id": "REF_MEIER_2001",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.006",
+  "titulo": "Structure of human cystathionine beta-synthase: a unique pyridoxal 5'-phosphate-dependent heme protein.",
+  "fonte": "EMBO J",
+  "ano": "2001",
+  "autores": [
+   "Meier M"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Cystathionine beta-synthase (CBS) is a unique heme- containing enzyme that catalyzes a pyridoxal 5'-phosphate (PLP)-dependent condensation of serine and homocysteine to give cystathionine. Deficiency of CBS leads to homocystinuria, an inherited disease of sulfur metabolism characterized by increased levels of the toxic metabolite homocysteine. Here we present the X-ray crystal structure of a truncated form of the enzyme. CBS shares the same fold with O-acetylserine sulfhydrylase but it contains an additional N-terminal heme binding site. This heme binding motif together with a spatially adjacent oxidoreductase active site motif could explain the regulation of its enzyme activity by redox changes.",
+  "nota": "Meier 2001 — estrutura cristalina CBS humana (EMBO J)"
+ },
+ {
+  "pmid": "15189131",
+  "grupo": "ENZ",
+  "label": "Stipanuk_2004",
+  "id": "REF_STIPANUK_2004",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.007",
+  "titulo": "Sulfur amino acid metabolism: pathways for production and removal of homocysteine and cysteine.",
+  "fonte": "Annu Rev Nutr",
+  "ano": "2004",
+  "autores": [
+   "Stipanuk MH"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Tissue concentrations of both homocysteine (Hcy) and cysteine (Cys) are maintained at low levels by regulated production and efficient removal of these thiols. The regulation of the metabolism of methionine and Cys is discussed from the standpoint of maintaining low levels of Hcy and Cys while, at the same time, ensuring an adequate supply of these thiols for their essential functions. S-Adenosylmethionine coordinately regulates the flux through remethylation and transsulfuration, and glycine N-methyltransferase regulates flux through transmethylation and hence the S-adenosylmethionine/S-adenosylhomocysteine ratio. Cystathionine beta-synthase activity is also regulated in response to the redox environment, and transcription of the gene is hormonally regulated in response to fuel supply (insulin, glucagon, and glucocorticoids). The H2S-producing capacity of cystathionine gamma-lyase may be regulated in response to nitric oxide. Cys is substrate for a variety of anabolic and catabolic enzymes. Its concentration is regulated primarily by hepatic Cys dioxygenase; the level of Cys dioxygenase is upregulated in a Cys-responsive manner via a decrease in the rate of polyubiquitination and,",
+  "nota": "Stipanuk 2004 — metabolismo de AA sulfurados (rev. Annu Rev Nutr)"
+ },
+ {
+  "pmid": "15581573",
+  "grupo": "ENZ",
+  "label": "Banerjee_2004",
+  "id": "REF_BANERJEE_2004",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.008",
+  "titulo": "Redox regulation and reaction mechanism of human cystathionine-beta-synthase: a PLP-dependent hemesensor protein.",
+  "fonte": "Arch Biochem Biophys",
+  "ano": "2004",
+  "autores": [
+   "Banerjee R"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Cystathionine beta-synthase in mammals lies at a pivotal crossroad in methionine metabolism directing flux toward cysteine synthesis and catabolism. The enzyme exhibits a modular organization and complex regulation. It catalyzes the beta-replacement of the hydroxyl group of serine with the thiolate of homocysteine and is unique in being the only known pyridoxal phosphate-dependent enzyme that also contains heme b as a cofactor. The heme functions as a sensor and modulates enzyme activity in response to redox change and to CO binding. Mutations in this enzyme are the single most common cause of hereditary hyperhomocysteinemia. Elucidation of the crystal structure of a truncated and highly active form of the human enzyme containing the heme- and pyridoxal phosphate binding domains has afforded a structural perspective on mechanistic and mutation analysis studies. The C-terminal regulatory domain containing two CBS motifs exerts intrasteric regulation and binds the allosteric activator, S-adenosylmethionine. Studies with mammalian cells in culture as well as with animal models have unraveled multiple layers of regulation of cystathionine beta-synthase in response to redox perturbation",
+  "nota": "Banerjee 2004 — regulação redox e mecanismo da CBS (rev.) [rótulo alinhado ao Epub oficial; print no revista_ano]",
+  "revista_ano_citado": "Arch Biochem Biophys 2005 (Epub 2004)"
+ },
+ {
+  "pmid": "16619244",
+  "grupo": "ENZ",
+  "label": "Chen_2006",
+  "id": "REF_CHEN_2006",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.009",
+  "titulo": "Contrasting behaviors of mutant cystathionine beta-synthase enzymes associated with pyridoxine response.",
+  "fonte": "Hum Mutat",
+  "ano": "2006",
+  "autores": [
+   "Chen X"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Cystathionine beta-synthase (CBS) deficiency is a recessive genetic disorder characterized by extremely elevated levels in plasma homocysteine. Patients homozygous for the I278T or R266K mutations respond clinically to pharmacologic doses of pyridoxine, the precursor of a cofactor for the enzyme, 5'-pyridoxal phosphate (PLP). Here we test the hypothesis that these mutations are pyridoxine responsive because they lower the affinity of the enzyme for PLP. We show that recombinant R266K has 30 to 100% of the specific activity of the wild-type enzyme, while I278T only has only 1 to 5% activity. Kinetic studies show that the decreased activity in both enzymes is due to reduced turnover rate and not substrate binding. Neither I278T nor R266K appear to greatly affect multimer status of the enzyme. The R266K enzyme has reduced affinity for PLP compared to the wild-type enzyme, providing a mechanism for the pyridoxine response observed in patients. Surprisingly, the I278T enzyme does not have altered affinity for PLP. To confirm that this was not an in vitro artifact, we examined pyridoxine response in mice that stably express human I278T as their sole source of CBS activity. These mice hav",
+  "nota": "Chen 2006 — mutantes CBS (I278T/R266K) × resposta à piridoxina em camundongos transgênicos (Hum Mutat)"
+ },
+ {
+  "pmid": "16614071",
+  "grupo": "ENZ",
+  "label": "Prudova_2006",
+  "id": "REF_PRUDOVA_2006",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.010",
+  "titulo": "S-adenosylmethionine stabilizes cystathionine beta-synthase and modulates redox capacity.",
+  "fonte": "Proc Natl Acad Sci U S A",
+  "ano": "2006",
+  "autores": [
+   "Prudova A"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The transsulfuration pathway converts homocysteine to cysteine and represents the metabolic link between antioxidant and methylation metabolism. The first and committing step in this pathway is catalyzed by cystathionine beta-synthase (CBS), which is subject to complex regulation, including allosteric activation by the methyl donor, S-adenosylmethionine (AdoMet). In this study, we demonstrate that methionine restriction leads to a &gt;10-fold decrease in CBS protein levels, and pulse proteolysis studies reveal that binding of AdoMet stabilizes the protein against degradation by approximately 12 kcal/mol. These observations predict that under pathological conditions where AdoMet levels are diminished, CBS, and therefore glutathione levels, will be reduced. Indeed, we demonstrate this to be the case in a mouse model for spontaneous steatohepatitis in which the gene for the MAT1A isoenzyme encoding AdoMet synthetase has been disrupted, and in human hepatocellular carcinoma, where MAT1A is silenced. Furthermore, diminished CBS levels are associated with reduced cell viability in hepatoma cells challenged with tert-butyl hydroperoxide. This study uncovers a mechanism by which CBS is all",
+  "nota": "Prudova 2006 — AdoMet estabiliza CBS e modula capacidade redox (PNAS)"
+ },
+ {
+  "pmid": "17534535",
+  "grupo": "ENZ",
+  "label": "Singh_2007",
+  "id": "REF_SINGH_2007",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.011",
+  "titulo": "Properties of an unusual heme cofactor in PLP-dependent cystathionine beta-synthase.",
+  "fonte": "Nat Prod Rep",
+  "ano": "2007",
+  "autores": [
+   "Singh S"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "",
+  "nota": "Singh 2007 — cofator heme incomum da CBS (SEM ABSTRACT no PubMed; G3 por título/periódico/autor)"
+ },
+ {
+  "pmid": "18476726",
+  "grupo": "ENZ",
+  "label": "Zhu_2008",
+  "id": "REF_ZHU_2008",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.012",
+  "titulo": "Kinetic properties of polymorphic variants and pathogenic mutants in human cystathionine gamma-lyase.",
+  "fonte": "Biochemistry",
+  "ano": "2008",
+  "autores": [
+   "Zhu W"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Human cystathionine-gamma-lyase (CGL) is a pyridoxal-5'-phosphate (PLP)-dependent enzyme, which functions in the transsulfuration pathway that converts homocysteine to cysteine. In addition, CGL is one of two major enzymes that can catalyze the formation of hydrogen sulfide, an important gaseous signaling molecule. Recently, several mutations in CGL have been described in patients with cystathioninuria, a rare but poorly understood genetic disease. Moreover, a common single nucleotide polymorphism in CGL, c.1364G&gt;T that converts serine at position 403 to isoleucine, has been linked to elevated plasma homocysteine levels. In this study, we have characterized the pathogenic T67I and Q240E missense mutations and the polymorphic variants at amino acid residues 403 using kinetic and spectrophotometric methods. We report that the polymorphism does not influence the cofactor content of the enzyme or its steady-state kinetic properties. In contrast, the T67I mutant exhibits a 3.5-fold decrease in V max compared to that of wild-type CGL, while the Q240E mutant exhibits a 70-fold decrease in V max. The K Ms for cystathionine for both pathogenic mutants are comparable to that of wild type ",
+  "nota": "Zhu 2008 — variantes polimórficas/mutantes patogênicas da CGL humana"
+ },
+ {
+  "pmid": "20566639",
+  "grupo": "ENZ",
+  "label": "Ishii_2010",
+  "id": "REF_ISHII_2010",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B6.MEC.BLOCO01.013",
+  "titulo": "Cystathionine gamma-Lyase-deficient mice require dietary cysteine to protect against acute lethal myopathy and oxidative injury.",
+  "fonte": "J Biol Chem",
+  "ano": "2010",
+  "autores": [
+   "Ishii I"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Cysteine is considered a nonessential amino acid in mammals as it is synthesized from methionine via trans-sulfuration. However, premature infants or patients with hepatic failure may require dietary cysteine due to a lack of cystathionine gamma-lyase (CTH), a key trans-sulfuration enzyme. Here, we generated CTH-deficient (Cth(-/-)) mice as an animal model of cystathioninemia/cystathioninuria. Cth(-/-) mice developed normally in general but displayed hypercystathioninemia/hyperhomocysteinemia though not hypermethioninemia. When fed a low cyst(e)ine diet, Cth(-/-) mice showed acute skeletal muscle atrophy (myopathy) accompanied by enhanced gene expression of asparagine synthetase and reduced contents of glutathione in livers and skeletal muscles, and intracellular accumulation of LC3 and p62 in skeletal myofibers; they finally died of severe paralysis of the extremities. Cth(-/-) hepatocytes required cystine in a culture medium and showed greater sensitivity to oxidative stress. Cth(-/-) mice exhibited systemic vulnerability to oxidative injury, which became more prominent when they were fed the low cyst(e)ine diet. These results reveal novel roles of trans-sulfuration previously un",
+  "nota": "Ishii 2010 — Cth-KO: camundongo sem CGL precisa de cisteína dietética (prova causal mamífera)"
+ },
+ {
+  "pmid": "21435402",
+  "grupo": "ENZ",
+  "label": "Aitken_2011",
+  "id": "REF_AITKEN_2011",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.014",
+  "titulo": "The enzymes of the transsulfuration pathways: active-site characterizations.",
+  "fonte": "Biochim Biophys Acta",
+  "ano": "2011",
+  "autores": [
+   "Aitken SM"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The diversity of reactions catalyzed by enzymes reliant on pyridoxal 5'-phosphate (PLP) demonstrates the catalytic versatility of this cofactor and the plasticity of the protein scaffolds of the major fold types of PLP-dependent enzymes. The enzymes of the transsulfuration (cystathionine &#x3b3;-synthase and cystathionine &#x3b2;-lyase) and reverse transsulfuration (cystathionine &#x3b2;-synthase and cystathionine &#x3b3;-lyase) pathways interconvert l-cysteine and l-homocysteine, the immediate precursor of l-methionine, in plants/bacteria and yeast/animals, respectively. These enzymes provide a useful model system for investigation of the mechanisms of substrate and reaction specificity in PLP-dependent enzymes as they catalyze distinct side chain rearrangements of similar amino acid substrates. Exploration of the underlying factors that enable enzymes to control the substrate and reaction specificity of this cofactor will enable the engineering of these properties and the development of therapeutics and antimicrobial compounds. Recent studies probing the role of active-site residues, of the enzymes of the transsulfuration pathways, as determinants of substrate and reaction specif",
+  "nota": "Aitken 2011 — rev. sítio ativo das enzimas da transulfuração"
+ },
+ {
+  "pmid": "21315854",
+  "grupo": "ENZ",
+  "label": "Singh_2011",
+  "id": "REF_SINGH_2011",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.015",
+  "titulo": "PLP-dependent H(2)S biogenesis.",
+  "fonte": "Biochim Biophys Acta",
+  "ano": "2011",
+  "autores": [
+   "Singh S"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "The role of endogenously produced H(2)S in mediating varied physiological effects in mammals has spurred enormous recent interest in understanding its biology and in exploiting its pharmacological potential. In these early days in the field of H(2)S signaling, large gaps exist in our understanding of its biological targets, its mechanisms of action and the regulation of its biogenesis and its clearance. Two branches within the sulfur metabolic pathway contribute to H(2)S production: (i) the reverse transsulfuration pathway in which two pyridoxal 5'-phosphate-dependent (PLP) enzymes, cystathionine &#x3b2;-synthase and cystathionine &#x3b3;-lyase convert homocysteine successively to cystathionine and cysteine and (ii) a branch of the cysteine catabolic pathway which converts cysteine to mercaptopyruvate via a PLP-dependent cysteine aminotransferase and subsequently, to mercaptopyruvate sulfur transferase-bound persulfide from which H(2)S can be liberated. In this review, we present an overview of the kinetics of the H(2)S-generating reactions, compare the structures of the PLP-enzymes involved in its biogenesis and discuss strategies for their regulation. This article is part of a Sp",
+  "nota": "Singh & Banerjee 2011 — biogênese de H2S PLP-dependente"
+ },
+ {
+  "pmid": "22738154",
+  "grupo": "ENZ",
+  "label": "Smith_2012",
+  "id": "REF_SMITH_2012",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.016",
+  "titulo": "Effect of the disease-causing R266K mutation on the heme and PLP environments of human cystathionine β-synthase.",
+  "fonte": "Biochemistry",
+  "ano": "2012",
+  "autores": [
+   "Smith AT"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Cystathionine &#x3b2;-synthase (CBS) is an essential pyridoxal 5'-phosphate (PLP)-dependent enzyme of the transsulfuration pathway that condenses serine with homocysteine to form cystathionine; intriguingly, human CBS also contains a heme b cofactor of unknown function. Herein we describe the enzymatic and spectroscopic properties of a disease-associated R266K hCBS variant, which has an altered hydrogen-bonding environment. The R266K hCBS contains a low-spin, six-coordinate Fe(III) heme bearing a His/Cys ligation motif, like that of WT hCBS; however, there is a geometric distortion that exists at the R266K heme. Using rR spectroscopy, we show that the Fe(III)-Cys(thiolate) bond is longer and weaker in R266K, as evidenced by an 8 cm(-1) downshift in the &#x3bd;(Fe-S) resonance. Presence of this longer and weaker Fe(III)-Cys(thiolate) bond is correlated with alteration of the fluorescence spectrum of the active PLP ketoenamine tautomer. Activity data demonstrate that, relative to WT, the R266K variant is more impaired in the alternative cysteine-synthesis reaction than in the canonical cystathionine-synthesis reaction. This diminished cysteine synthesis activity and a greater sensiti",
+  "nota": "Smith 2012 — mutação R266K: ambiente heme/PLP da CBS"
+ },
+ {
+  "pmid": "22977242",
+  "grupo": "ENZ",
+  "label": "Yadav_2012",
+  "id": "REF_YADAV_2012",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.017",
+  "titulo": "Allosteric communication between the pyridoxal 5'-phosphate (PLP) and heme sites in the H2S generator human cystathionine β-synthase.",
+  "fonte": "J Biol Chem",
+  "ano": "2012",
+  "autores": [
+   "Yadav PK"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Human cystathionine &#x3b2;-synthase (CBS) is a unique pyridoxal 5'-phosphate (PLP)-dependent enzyme that has a regulatory heme cofactor. Previous studies have demonstrated the importance of Arg-266, a residue at the heme pocket end of &#x3b1;-helix 8, for communication between the heme and PLP sites. In this study, we have examined the role of the conserved Thr-257 and Thr-260 residues, located at the other end of &#x3b1;-helix 8 on the heme electronic environment and on activity. The mutations at the two positions destabilize PLP binding, leading to lower PLP content and ~2- to ~500-fold lower activity compared with the wild-type enzyme. Activity is unresponsive to PLP supplementation, consistent with the pyridoxine-nonresponsive phenotype of the T257M mutation in a homocystinuric patient. The H(2)S-producing activities, also impacted by the mutations, show a different pattern of inhibition compared with the canonical transsulfuration reaction. Interestingly, the mutants exhibit contrasting sensitivities to the allosteric effector, S-adenosylmethionine (AdoMet); whereas T257M and T257I are inhibited, the other mutants are hyperactivated by AdoMet. All mutants showed an increased ",
+  "nota": "Yadav 2012 — comunicação alostérica PLP–heme (CBS)"
+ },
+ {
+  "pmid": "23981774",
+  "grupo": "ENZ",
+  "label": "Casique_2013",
+  "id": "REF_CASIQUE_2013",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.018",
+  "titulo": "Characterization of two pathogenic mutations in cystathionine beta-synthase: different intracellular locations for wild-type and mutant proteins.",
+  "fonte": "Gene",
+  "ano": "2013",
+  "autores": [
+   "Casique L"
+  ],
+  "pubtype": [
+   "Case Reports",
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Cystathionine &#x3b2;-synthase (CBS) is a pyridoxal 5'-phosphate (PLP)-dependent enzyme that catalyzes the condensation of homocysteine with serine to generate cystathionine. Homocystinuria is an autosomal recessive disorder commonly caused by a deficiency of CBS activity. Here, we characterized a novel CBS mutation (c.260C&gt;A (p.T87N)) and a previously reported variant (c.700G&gt;A (p.D234N)) found in Venezuelan homocystinuric patients, one nonresponsive and one responsive to vitamin B6. Both mutant proteins were expressed in vitro in prokaryotic and eukaryotic cells, finding lower soluble expression in HEK-293 cells (19% T87N and 23% D234N) compared to wild-type CBS. Residual activities obtained for the mutant proteins were 3.5% T87N and 43% D234N. Gel exclusion chromatography demonstrated a tendency of the T87N mutant to aggregate while the distribution of the D234N mutant was similar to wild-type enzyme. Using immunofluorescence microscopy, an unexpected difference in intracellular localization was observed between the wild-type and mutant proteins. While the T87N mutant exhibited a punctate appearance, the wild-type protein was homogeneously distributed inside the cell. Inte",
+  "nota": "Casique 2013 — duas mutações patogênicas CBS, localização intracelular"
+ },
+ {
+  "pmid": "24043838",
+  "grupo": "ENZ",
+  "label": "ErenoOrbea_2013",
+  "id": "REF_ERENOORBEA_2013",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.019",
+  "titulo": "Structural basis of regulation and oligomerization of human cystathionine β-synthase, the central enzyme of transsulfuration.",
+  "fonte": "Proc Natl Acad Sci U S A",
+  "ano": "2013",
+  "autores": [
+   "Ereño-Orbea J"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Cystathionine &#x3b2;-synthase (CBS) controls the flux of sulfur from methionine to cysteine, a precursor of glutathione, taurine, and H2S. CBS condenses serine and homocysteine to cystathionine with the help of three cofactors, heme, pyridoxal-5'-phosphate, and S-adenosyl-l-methionine. Inherited deficiency of CBS activity causes homocystinuria, the most frequent disorder of sulfur metabolism. We present the structure of the human enzyme, discuss the unique arrangement of the CBS domains in the C-terminal region, and propose how they interact with the catalytic core of the complementary subunit to regulate access to the catalytic site. This arrangement clearly contrasts with other proteins containing the CBS domain including the recent Drosophila melanogaster CBS structure. The absence of large conformational changes and the crystal structure of the partially activated pathogenic D444N mutant suggest that the rotation of CBS motifs and relaxation of loops delineating the entrance to the catalytic site represent the most likely molecular mechanism of CBS activation by S-adenosyl-l-methionine. Moreover, our data suggest how tetramers, the native quaternary structure of the mammalian ",
+  "nota": "Ereño-Orbea 2013 — base estrutural da regulação/oligomerização da CBS humana (PNAS; briefing não localizou — auditoria confirmou)"
+ },
+ {
+  "pmid": "26765812",
+  "grupo": "ENZ",
+  "label": "Gregory_2016",
+  "id": "REF_GREGORY_2016",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.020",
+  "titulo": "Vitamin B6 nutritional status and cellular availability of pyridoxal 5'-phosphate govern the function of the transsulfuration pathway's canonical reactions and hydrogen sulfide production via side reactions.",
+  "fonte": "Biochimie",
+  "ano": "2016",
+  "autores": [
+   "Gregory JF"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The transsulfuration pathway (TS) acts in sulfur amino acid metabolism by contributing to the regulation of cellular homocysteine, cysteine production, and the generation of H2S for signaling functions. Regulation of TS pathway kinetics involves stimulation of cystathionine &#x3b2;-synthase (CBS) by S-adenosylmethionine (SAM) and oxidants such as H2O2, and by Michaelis-Menten principles whereby substrate concentrations affect reaction rates. Although pyridoxal phosphate (PLP) serves as coenzyme for both CBS and cystathionine &#x3b3;-lyase (CSE), CSE exhibits much greater loss of activity than CBS during PLP insufficiency. Thus, cellular and plasma cystathionine concentrations increase in vitamin B6 deficiency mainly due to the bottleneck caused by reduced CSE activity. Because of the increase in cystathionine, the canonical production of cysteine (homocysteine&#xa0;&#x2192;&#xa0;cystathionine&#xa0;&#x2192;&#xa0;cysteine) is largely maintained even during vitamin B6 deficiency. Typical whole body transsulfuration flux in humans is 3-7&#xa0;&#x3bc;mol/h per kg body weight. The in&#xa0;vivo kinetics of H2S production via side reactions of CBS and CSE in humans are unknown but they hav",
+  "nota": "Gregory 2016 — estado de B6/disponibilidade celular de PLP governam transulfuração + H2S"
+ },
+ {
+  "pmid": "28245568",
+  "grupo": "ENZ",
+  "label": "Dalto_2017",
+  "id": "REF_DALTO_2017",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.021",
+  "titulo": "Pyridoxine (Vitamin B₆) and the Glutathione Peroxidase System; a Link between One-Carbon Metabolism and Antioxidation.",
+  "fonte": "Nutrients",
+  "ano": "2017",
+  "autores": [
+   "Dalto DB"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Vitamin B&#x2086; (B&#x2086;) has a central role in the metabolism of amino acids, which includes important interactions with endogenous redox reactions through its effects on the glutathione peroxidase (GPX) system. In fact, B&#x2086;-dependent enzymes catalyse most reactions of the transsulfuration pathway, driving homocysteine to cysteine and further into GPX proteins. Considering that mammals metabolize sulfur- and seleno-amino acids similarly, B&#x2086; plays an important role in the fate of sulfur-homocysteine and its seleno counterpart between transsulfuration and one-carbon metabolism, especially under oxidative stress conditions. This is particularly important in reproduction because ovarian metabolism may generate an excess of reactive oxygen species (ROS) during the peri-estrus period, which may impair ovulatory functions and early embryo development. Later in gestation, placentation raises embryo oxygen tension and may induce a higher expression of ROS markers and eventually embryo losses. Interestingly, the metabolic accumulation of ROS up-regulates the flow of one-carbon units to transsulfuration and down-regulates remethylation. However, in embryos, the transsulfurat",
+  "nota": "Dalto & Matte 2017 — piridoxina↔sistema GPx: elo 1-carbono↔antioxidação (rev.)"
+ },
+ {
+  "pmid": "31083508",
+  "grupo": "ENZ",
+  "label": "Gould_2019",
+  "id": "REF_GOULD_2019",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.022",
+  "titulo": "Impact of Supplementary Amino Acids, Micronutrients, and Overall Diet on Glutathione Homeostasis.",
+  "fonte": "Nutrients",
+  "ano": "2019",
+  "autores": [
+   "Gould RL"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Glutathione (GSH) is a critical endogenous antioxidant found in all eukaryotic cells. Higher GSH concentrations protect against cellular damage, tissue degeneration, and disease progression in various models, so there is considerable interest in developing interventions that augment GSH biosynthesis. Oral GSH supplementation is not the most efficient option due to the enzymatic degradation of ingested GSH within the intestine by &#x3b3;-glutamyltransferase, but supplementation of its component amino acids-cysteine, glycine, and glutamate-enhances tissue GSH synthesis. Furthermore, supplementation with some non-precursor amino acids and micronutrients appears to influence the redox status of GSH and related antioxidants, such as vitamins C and E, lowering systemic oxidative stress and slowing the rate of tissue deterioration. In this review, the effects of oral supplementation of amino acids and micronutrients on GSH metabolism are evaluated. And since specific dietary patterns and diets are being prescribed as first-line therapeutics for conditions such as hypertension and diabetes, the impact of overall diets on GSH homeostasis is also assessed.",
+  "nota": "Gould & Pazdro 2019 — aminoácidos/micronutrientes/dieta → homeostase de GSH (rev.)"
+ },
+ {
+  "pmid": "30007014",
+  "grupo": "ENZ",
+  "label": "Sbodio_2018",
+  "id": "REF_SBODIO_2018",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.023",
+  "titulo": "Regulators of the transsulfuration pathway.",
+  "fonte": "Br J Pharmacol",
+  "ano": "2018",
+  "autores": [
+   "Sbodio JI"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The transsulfuration pathway is a metabolic pathway where transfer of sulfur from homocysteine to cysteine occurs. The pathway leads to the generation of several sulfur metabolites, which include cysteine, GSH and the gaseous signalling molecule hydrogen sulfide (H 2 S). Precise control of this pathway is critical for maintenance of optimal cellular function and, therefore, the key enzymes of the pathway, cystathionine &#x3b2;-synthase and cystathionine &#x3b3;-lyase, are regulated at multiple levels. Disruption of the transsulfuration pathway contributes to the pathology of several conditions such as vascular dysfunction, Huntington's disease and during ageing. Treatment with donors of hydrogen sulfide and/or stimulation of this pathway have proved beneficial in several of these disorders. In this review, we focus on the regulation of the transsulfuration pathway pertaining to cysteine and H 2 S, which could be targeted to develop novel therapeutics. LINKED ARTICLES: This article is part of a themed section on Chemical Biology of Reactive Sulfur Species. To view the other articles in this section visit http://onlinelibrary.wiley.com/doi/10.1111/bph.v176.4/issuetoc.",
+  "nota": "Sbodio 2018 — reguladores da transulfuração (rev.) [rótulo alinhado ao Epub oficial; print no revista_ano]",
+  "revista_ano_citado": "Br J Pharmacol 2019 (Epub 2018)"
+ },
+ {
+  "pmid": "30671974",
+  "grupo": "ENZ",
+  "label": "Wilson_2019",
+  "id": "REF_WILSON_2019",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.024",
+  "titulo": "Disorders affecting vitamin B(6) metabolism.",
+  "fonte": "J Inherit Metab Dis",
+  "ano": "2019",
+  "autores": [
+   "Wilson MP"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Vitamin B 6 is present in our diet in many forms, however, only pyridoxal 5'-phosphate (PLP) can function as a cofactor for enzymes. The intestine absorbs nonphosphorylated B 6 vitamers, which are converted by specific enzymes to the active PLP form. The role of PLP is enabled by its reactive aldehyde group. Pathways reliant on PLP include amino acid and neurotransmitter metabolism, folate and 1-carbon metabolism, protein and polyamine synthesis, carbohydrate and lipid metabolism, mitochondrial function and erythropoiesis. Besides the role of PLP as a cofactor B 6 vitamers also play other cellular roles, for example, as antioxidants, modifying expression and action of steroid hormone receptors, affecting immune function, as chaperones and as an antagonist of Adenosine-5'-triphosphate (ATP) at P2 purinoceptors. Because of the vital role of PLP in neurotransmitter metabolism, particularly synthesis of the inhibitory transmitter &#x3b3;-aminobutyric acid, it is not surprising that various inborn errors leading to PLP deficiency manifest as B 6 -responsive epilepsy, usually of early onset. This includes pyridox(am)ine phosphate oxidase deficiency (a disorder affecting PLP synthesis and",
+  "nota": "Wilson 2019 — distúrbios do metabolismo de B6 (rev. JIMD)"
+ },
+ {
+  "pmid": "33000151",
+  "grupo": "ENZ",
+  "label": "Stipanuk_2020",
+  "id": "REF_STIPANUK_2020",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.025",
+  "titulo": "Metabolism of Sulfur-Containing Amino Acids: How the Body Copes with Excess Methionine, Cysteine, and Sulfide.",
+  "fonte": "J Nutr",
+  "ano": "2020",
+  "autores": [
+   "Stipanuk MH"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Metabolism of excess methionine (Met) to homocysteine (Hcy) by transmethylation is facilitated by the expression of methionine adenosyltransferase (MAT) I/III and glycine N-methyltransferase (GNMT) in liver, and a lack of either enzyme results in hypermethioninemia despite normal concentrations of MATII and methyltransferases other than GNMT. The further metabolism of Hcy by the transsulfuration pathway is facilitated by activation of cystathionine &#x3b2;-synthase (CBS) by S-adenosylmethionine (SAM) as well as the relatively high KM of CBS for Hcy. Transmethylation plus transsulfuration effects catabolism of the Met molecule along with transfer of the sulfur atom of Met to serine to synthesize cysteine (Cys). Oxidation and excretion of Met sulfur depend upon Cys catabolism and sulfur oxidation pathways. Excess Cys is oxidized by cysteine dioxygenase 1 (CDO1) and further metabolized to taurine or sulfate. Some Cys is normally metabolized by desulfhydration pathways, and the hydrogen sulfide (H2S) produced is further oxidized to sulfate. If Cys or Hcy concentrations are elevated, Cys or Hcy desulfhydration can result in excess H2S and thiosulfate production. Excess Cys or Met may al",
+  "nota": "Stipanuk 2020 — como o corpo lida com excesso de Met/Cys/sulfeto (rev.)"
+ },
+ {
+  "pmid": "35864237",
+  "grupo": "ENZ",
+  "label": "Petrosino_2022",
+  "id": "REF_PETROSINO_2022",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.026",
+  "titulo": "H(2)S biogenesis by cystathionine beta-synthase: mechanism of inhibition by aminooxyacetic acid and unexpected role of serine.",
+  "fonte": "Cell Mol Life Sci",
+  "ano": "2022",
+  "autores": [
+   "Petrosino M"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Cystathionine beta-synthase (CBS) is a pivotal enzyme of the transsulfuration pathway responsible for diverting homocysteine to the biosynthesis of cysteine and production of hydrogen sulfide (H 2 S). Aberrant upregulation of CBS and overproduction of H 2 S contribute to pathophysiology of several diseases including cancer and Down syndrome. Therefore, pharmacological CBS inhibition has emerged as a prospective therapeutic approach. Here, we characterized binding and inhibitory mechanism of aminooxyacetic acid (AOAA), the most commonly used CBS inhibitor. We found that AOAA binds CBS tighter than its respective substrates and forms a dead-end PLP-bound intermediate featuring an oxime bond. Surprisingly, serine, but not cysteine, replaced AOAA from CBS and formed an aminoacrylate reaction intermediate, which allowed for the continuation of the catalytic cycle. Indeed, serine rescued and essentially normalized the enzymatic activity of AOAA-inhibited CBS. Cellular studies confirmed that AOAA decreased H 2 S production and bioenergetics, while additional serine rescued CBS activity, H 2 S production and mitochondrial function. The crystal structure of AOAA-bound human CBS showed a lac",
+  "nota": "Petrosino 2022 — biogênese H2S pela CBS; inibição por AOAA; serina"
+ },
+ {
+  "pmid": "37451483",
+  "grupo": "ENZ",
+  "label": "Ciapaite_2023",
+  "id": "REF_CIAPAITE_2023",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.027",
+  "titulo": "Maintenance of cellular vitamin B(6) levels and mitochondrial oxidative function depend on pyridoxal 5'-phosphate homeostasis protein.",
+  "fonte": "J Biol Chem",
+  "ano": "2023",
+  "autores": [
+   "Ciapaite J"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Recently, biallelic variants in PLPBP coding for pyridoxal 5'-phosphate homeostasis protein (PLPHP) were identified as a novel cause of early-onset vitamin B 6 -dependent epilepsy. The molecular function and precise role of PLPHP in vitamin B 6 metabolism are not well understood. To address these questions, we used PLPHP-deficient patient skin fibroblasts and HEK293&#xa0;cells and YBL036C (PLPHP ortholog)-deficient yeast. We showed that independent of extracellular B 6 vitamer type (pyridoxine, pyridoxamine, or pyridoxal), intracellular pyridoxal 5'-phosphate (PLP) was lower in PLPHP-deficient fibroblasts and HEK293&#xa0;cells than controls. Culturing cells with pyridoxine or pyridoxamine led to the concentration-dependent accumulation of pyridoxine 5'-phosphate and pyridoxamine 5'-phosphate (PMP), respectively, suggesting insufficient pyridox(am)ine 5'-phosphate oxidase activity. Experiments utilizing 13 C 4 -pyridoxine confirmed lower pyridox(am)ine 5'-phosphate oxidase activity and revealed increased fractional turnovers of PLP and pyridoxal, indicating increased PLP hydrolysis to pyridoxal in PLPHP-deficient cells. This effect could be partly counteracted by inactivation of pyr",
+  "nota": "Ciapaite 2023 — PLPBP/homeostase de PLP mantém B6 celular e função oxidativa mitocondrial"
+ },
+ {
+  "pmid": "38563463",
+  "grupo": "ENZ",
+  "label": "AlSadeq_2024",
+  "id": "REF_ALSADEQ_2024",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.028",
+  "titulo": "Biochemical and structural impact of two novel missense mutations in cystathionine β-synthase gene associated with homocystinuria.",
+  "fonte": "Biochem J",
+  "ano": "2024",
+  "autores": [
+   "Al-Sadeq DW"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Case Reports"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Homocystinuria is a rare disease caused by mutations in the CBS gene that results in a deficiency of cystathionine &#x3b2;-synthase (CBS). CBS is an essential pyridoxal 5'-phosphate (PLP)-dependent enzyme in the transsulfuration pathway, responsible for combining serine with homocysteine to produce cystathionine, whose activity is enhanced by the allosteric regulator S-adenosylmethionine (SAM). CBS also plays a role in generating hydrogen sulfide (H2S), a gaseous signaling molecule with diverse regulatory functions within the vascular, nervous, and immune systems. In this study, we present the clinical and biochemical characterization of two novel CBS missense mutations that do not respond to pyridoxine treatment, namely c.689T&#x2009;&gt;&#x2009;A (L230Q) and 215A&#x2009;&gt;&#x2009;T (K72I), identified in a Chinese patient. We observed that the disease-associated K72I genetic variant had no apparent effects on the spectroscopic and catalytic properties of the full-length enzyme. In contrast, the L230Q variant expressed in Escherichia coli did not fully retain heme and when compared with the wild-type enzyme, it exhibited more significant impairments in both the canonical cystathi",
+  "nota": "Al-Sadeq 2024 — duas novas mutações missense CBS (homocistinúria)"
+ },
+ {
+  "pmid": "38832404",
+  "grupo": "ENZ",
+  "label": "Mcfarlane_2024",
+  "id": "REF_MCFARLANE_2024",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.029",
+  "titulo": "Gaseous inhibition of the transsulfuration pathway by cystathionine β-synthase.",
+  "fonte": "Phys Chem Chem Phys",
+  "ano": "2024",
+  "autores": [
+   "McFarlane NR"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The transsulfuration pathway plays a key role in mammals for maintaining the balance between cysteine and homocysteine, whose concentrations are critical in several biochemical processes. Human cystathionine &#x3b2;-synthase is a heme-containing, pyridoxal 5'-phosphate (PLP)-dependent enzyme found in this pathway. The heme group does not participate directly in catalysis, but has a regulatory function, whereby CO or NO binding inhibits the PLP-dependent reactions. In this study, we explore the detailed structural changes responsible for inhibition using quantum chemical calculations to validate the experimentally observed bonding patterns associated with heme CO and NO binding and molecular dynamics simulations to explore the medium-range structural changes triggered by gas binding and propagating to the PLP active site, which is more than 20 &#xc5; distant from the heme group. Our results support a previously proposed mechanical signaling model, whereby the cysteine decoordination associated with gas ligand binding leads to breaking of a hydrogen bond with an arginine residue on a neighbouring helix. In turn, this leads to a shift in position of the helix, and hence also of the PL",
+  "nota": "McFarlane 2024 — inibição gasosa da CBS (NO/CO; fisiologia do heme)"
+ },
+ {
+  "pmid": "38542149",
+  "grupo": "ENZ",
+  "label": "Rivero_2024",
+  "id": "REF_RIVERO_2024",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.030",
+  "titulo": "Pyridoxal 5'-Phosphate Biosynthesis by Pyridox-(am)-ine 5'-Phosphate Oxidase: Species-Specific Features.",
+  "fonte": "Int J Mol Sci",
+  "ano": "2024",
+  "autores": [
+   "Rivero M"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Enzymes reliant on pyridoxal 5'-phosphate (PLP), the metabolically active form of vitamin B 6 , hold significant importance in both biology and medicine. They facilitate various biochemical reactions, particularly in amino acid and neurotransmitter metabolisms. Vitamin B 6 is absorbed by organisms in its non-phosphorylated form and phosphorylated within cells via pyridoxal kinase (PLK) and pyridox-(am)-ine 5'-phosphate oxidase (PNPOx). The flavin mononucleotide-dependent PNPOx enzyme converts pyridoxine 5'-phosphate and pyridoxamine 5'-phosphate into PLP. PNPOx is vital for both biosynthesis and salvage pathways in organisms producing B 6 vitamers. However, for those depending on vitamin B 6 as a nutrient, PNPOx participates only in the salvage pathway. Transferring the PLP produced via PNPOx to client apo-enzymes is indispensable for their catalytic function, proper folding and targeting of specific organelles. PNPOx activity deficiencies due to inborn errors lead to severe neurological pathologies, particularly neonatal epileptic encephalopathy. PNPOx maintains PLP homeostasis through highly regulated mechanisms, including structural alterations throughout the catalytic cycle and",
+  "nota": "Rivero 2024 — biossíntese de PLP pela PNPO: particularidades por espécie (rev.)"
+ },
+ {
+  "pmid": "40327797",
+  "grupo": "ENZ",
+  "label": "Conter_2025",
+  "id": "REF_CONTER_2025",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.031",
+  "titulo": "The disease-linked R336C mutation in cystathionine β-synthase disrupts communication with the PLP cofactor, yet maintains the enzyme's overall structural integrity.",
+  "fonte": "FEBS J",
+  "ano": "2025",
+  "autores": [
+   "Conter C"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Cystathionine &#x3b2;-synthase (CBS) is a pyridoxal-phosphate (PLP)-dependent enzyme essential for the reverse transsulfuration pathway, where homocysteine and serine combine to form cystathionine, the immediate precursor of cysteine. Mutations in the CBS gene cause homocystinuria, a disorder associated with intellectual disability, multisystem complications, and reduced life expectancy. The CBS p.R336C mutation, linked to severe pyridoxine non-responsiveness, results in reduced enzyme activity, previously attributed to protein instability and weakened substrate and PLP binding. To clarify the effects of the pathological R336C mutation, we performed biochemical, biophysical, and crystallographic analyses, as well as molecular dynamics simulations. Our findings show that the R336C mutation minimally impacts the structural environment around residue 336, does not cause enzyme misfolding, and does not impair the binding of PLP or the allosteric activator S-adenosylmethionine (AdoMet) binding. Instead, the mutation induces subtle reorientations in nearby hydrophobic residues, including F185 and Y381, altering intramolecular contacts that perturb the interaction between asparagine 149 a",
+  "nota": "Conter 2025 — R336C rompe comunicação com PLP (FEBS J)"
+ },
+ {
+  "pmid": "40141131",
+  "grupo": "ENZ",
+  "label": "Pajares_2025",
+  "id": "REF_PAJARES_2025",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO01.032",
+  "titulo": "Posttranslational Regulation of Mammalian Sulfur Amino Acid Metabolism.",
+  "fonte": "Int J Mol Sci",
+  "ano": "2025",
+  "autores": [
+   "Pajares MÁ"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Metabolism of the mammalian proteinogenic sulfur amino acids methionine and cysteine includes the methionine cycle and reverse transsulfuration pathway, establishing many connections with other important metabolic routes. The main source of these amino acids is the diet, which also provides B vitamins required as cofactors for several enzymes of the metabolism of these amino acids. While methionine is considered an essential amino acid, cysteine can be produced from methionine in a series of reactions that also generate homocysteine, a non-proteinogenic amino acid linking reverse transsulfuration with the methionine and folate cycles. These pathways produce key metabolites that participate in synthesizing a large variety of compounds and important regulatory processes (e.g., epigenetic methylations). The impairment of sulfur amino acid metabolism manifests in many pathological processes, mostly correlated with oxidative stress and alterations in glutathione levels that also depend on this part of the cellular metabolism. This review analyzes the current knowledge on the posttranslational regulation of mammalian sulfur amino acid metabolism, highlighting the large number of modifica",
+  "nota": "Pajares 2025 — regulação pós-traducional do metabolismo de enxofre (rev.)"
+ },
+ {
+  "pmid": "39762627",
+  "grupo": "ENZ",
+  "label": "Xi_2025",
+  "id": "REF_XI_2025",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B6.MEC.BLOCO01.033",
+  "titulo": "Transsulfuration pathway activation attenuates oxidative stress and ferroptosis in sickle primary erythroblasts and transgenic mice.",
+  "fonte": "Commun Biol",
+  "ano": "2025",
+  "autores": [
+   "Xi C"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "The transsulfuration (TSS) pathway is an alternative source of cysteine for glutathione synthesis. Little of the TSS pathway in antioxidant capacity in sickle cell disease (SCD) is known. Here, we evaluate the effects of TSS pathway activation through cystathionine beta-synthase (CBS) to attenuate reactive oxygen species (ROS) and ferroptosis stresses in SCD. A vital contribution of the TSS pathway in sustaining cysteine levels is detected only under hemin exposure or physiological but not supraphysiological cystine supplement. Mechanistic studies show that hemin suppresses CBS expression to inhibit the TSS pathway and de novo cysteine biosynthesis. By contrast, the expression of CBS is inducible by dimethyl fumarate (DMF) through nuclear factor erythroid 2-related factor 2 (NRF2) activation and CpG islands DNA hydroxymethylation. DMF induces the expression of L-2-hydroxyglutarate dehydrogenase (L2HGDH) to downregulate L-2-hydroxyglutarate (L2HG) and increase global and locus-specific DNA hydroxymethylation levels. This DMF-upregulated DNA hydroxymethylation affects CBS locus chromatin structure modifications and upregulates gene expression. Our results suggest that CBS of the TSS ",
+  "nota": "Xi 2025 — ativação da transulfuração (CBS) atenua EO e FERROPTOSE em eritroblastos falciformes humanos+camundongos (contexto falciforme; valor mecanístico TS→cisteína→GSH→ferroptose; elo com B6-V1)"
+ },
+ {
+  "pmid": "2711414",
+  "grupo": "B6DEF",
+  "label": "Mcgowan_1989",
+  "id": "REF_MCGOWAN_1989",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B6.MEC.BLOCO02.001",
+  "titulo": "Influence of vitamin B6 status on aspects of lead poisoning in rats.",
+  "fonte": "Toxicol Lett",
+  "ano": "1989",
+  "autores": [
+   "McGowan C"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "The effects of vitamin B6 status and lead (Pb) toxicity on aspects of glutathione (GSH) metabolism in rats were examined in a 2 x 2 factorial experiment. The administration of 2000 ppm Pb as Pb acetate.3H2O significantly (P less than 0.05) increased hepatic GSH levels in rats receiving B6-adequate (+B6) but decreased GSH in rats fed B6-deficient (-B6) diets. The addition of Pb to the +B6 diet also increased hepatic glutathione reductase (GSSG-R) activity. Plasma pyridoxal phosphate (PLP), cystathionine and valine levels were decreased by the -B6 diets independent of the presence of Pb. Plasma arginine, alanine, serine and proline levels were increased by Pb in both -B6 and +B6 groups. Glycine levels were increased in -B6 rats only in the absence of Pb while taurine was decreased by Pb only in +B6 rats. There were significant -B6 x Pb interactions for hepatic GSH, cysteine and GSSG-R as well as plasma valine, glycine and proline. These results suggest an influence of B6 status on Pb-induced changes in hepatic GSH, possibly through its role as a co-factor for enzymes involved in amino acid metabolism.",
+  "nota": "McGowan 1989 — status de B6 × intoxicação por Pb: GSH hepático, GR (fatorial 2×2)"
+ },
+ {
+  "pmid": "9844729",
+  "grupo": "B6DEF",
+  "label": "Cabrini_1998",
+  "id": "REF_CABRINI_1998",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B6.MEC.BLOCO02.002",
+  "titulo": "Vitamin B6 deficiency affects antioxidant defences in rat liver and heart.",
+  "fonte": "Biochem Mol Biol Int",
+  "ano": "1998",
+  "autores": [
+   "Cabrini L"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "We have evaluated the effects of a diet containing normal amounts of lipids and a marginal content of vitamin B6 on lipid peroxidation. Pyridoxal phosphate concentrations of plasma and liver indicated that an initial deficiency state was reached. Vitamin B6 deficiency led to peroxidative stress: TBARS production was higher in the liver (+18.6%) and even more in the heart (+61%) of deficient rats as compared with controls. Furthermore, significant stimulation of glutathione-dependent enzymes occurred in both heart and liver of deficient rats: glutathione peroxidase activity increased in heart (+144%) and liver (+505%); glutathione reductase increased in heart (+54.9%) and liver (+15.5%). No difference in the total glutathione content of the organs of the two groups was observed. The reduced glutathione/oxidized glutathione ratio was significantly lower in deficient rats. Although the activity of glutathione-dependent enzymes was significantly greater in deficient rats than in controls, this stimulation was only partially able to counteract the peroxidative damage due to vitamin B6 deficiency.",
+  "nota": "Cabrini 1998 — deficiência de B6: TBARS↑, GSH/GSSG↓, GPx/GR↑ compensatórias, GSH total sem Δ (ÂNCORA HETEROGENEIDADE)"
+ },
+ {
+  "pmid": "15203107",
+  "grupo": "B6DEF",
+  "label": "Mahfouz_2004",
+  "id": "REF_MAHFOUZ_2004",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B6.MEC.BLOCO02.003",
+  "titulo": "Vitamin C or Vitamin B6 supplementation prevent the oxidative stress and decrease of prostacyclin generation in homocysteinemic rats.",
+  "fonte": "Int J Biochem Cell Biol",
+  "ano": "2004",
+  "autores": [
+   "Mahfouz MM"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "We hypothesize that homocysteinemia causes oxidative stress, decreases the aortic ability to generate prostacyclin and that antioxidants have a protective role. Four groups of eight rats each were fed for 8 weeks the control diet (group A), control diet with folic acid omitted and excess methionine (Me) added to drinking water (group B), diet B + 500 mg/kg of Vitamin C (group C) or diet B + 60 mg/kg Vitamin B6 (group D). The three groups of rats fed folic acid deficient (FD) diets (groups B, C and D) were homocysteinemic as indicated by the significant increase in their serum homocysteine (HC) concentration. Rats fed diet B had oxidative stress as indicated by an increase in serum thiobarbituric acid reactive substances (TBARS) and advanced oxidation protein products (AOPP) and urinary isoprostanes and had a decreased ability of their aortas to generate prostacyclin. Homocysteinemic rats fed a FD diet + Vitamin C (group C) or Vitamin B6 (group D) also had high levels of serum homocysteine but the oxidative stress markers and the ability of their aortas to generate prostacyclin returned to normal. This indicates that the homocysteinemic effect is through an oxidative mechanism and t",
+  "nota": "Mahfouz 2004 — vit C ou B6 previnem EO e queda de prostaciclina em ratos homocisteinêmicos"
+ },
+ {
+  "pmid": "16857832",
+  "grupo": "B6DEF",
+  "label": "Lima_2006",
+  "id": "REF_LIMA_2006",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B6.MEC.BLOCO02.004",
+  "titulo": "Vitamin B-6 deficiency suppresses the hepatic transsulfuration pathway but increases glutathione concentration in rats fed AIN-76A or AIN-93G diets.",
+  "fonte": "J Nutr",
+  "ano": "2006",
+  "autores": [
+   "Lima CP"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, U.S. Gov't, Non-P.H.S."
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "The transsulfuration pathway, which aids in regulating homocysteine concentration and mediates cysteine synthesis, may be sensitive to vitamin B-6 status because cystathionine beta-synthase (CBS) and cystathionine gamma-lyase (CGL) require pyridoxal 5'-phosphate (PLP). To assess relations between vitamin B-6 and transsulfuration, we evaluated the effects of dietary pyridoxine (PN) on the hepatic concentration of relevant metabolites and in vitro activity of CBS and CGL. Growing rats were fed AIN-93G- or AIN-76A-based diets that ranged from adequate to deficient in vitamin B-6 (2, 1, 0.5, 0.1, or 0 mg of PN/kg diet, n = 5). This design allowed assessment of the effects of supplemental methionine (AIN-76A) vs. cysteine (AIN-93G) in common research diets over a range of vitamin B-6 levels. CBS activity, assayed in the presence or absence of added S-adenosylmethionine, was independent of diet type and PN level. CGL activity was independent of diet type but proportional to dietary PN. Rats fed deficient (0 and 0.1 mg PN/kg) diets exhibited only approximately 30% of the CGL activity of those fed the 2 mg PN/kg diets. Hepatic cystathionine increased from 20 to 30 nmol/g for the 1-2 mg PN/",
+  "nota": "Lima 2006 — deficiência de B6 suprime TS hepática MAS aumenta GSH (PARADOXO; ÂNCORA)"
+ },
+ {
+  "pmid": "20090886",
+  "grupo": "B6DEF",
+  "label": "Choi_2009",
+  "id": "REF_CHOI_2009",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B6.MEC.BLOCO02.005",
+  "titulo": "Effect of vitamin B(6) deficiency on antioxidative status in rats with exercise-induced oxidative stress.",
+  "fonte": "Nutr Res Pract",
+  "ano": "2009",
+  "autores": [
+   "Choi EY"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "This study investigated the effect of vitamin B(6) deficiency on antioxidant enzyme activities and lipid profile in rats with exercise-induced oxidative stress. Forty eight rats were fed either a vitamin B(6) deficient diet (B6-) or a control diet (control) for 4 weeks and then subdivided into 3 groups: pre-exercise (PreE); post-exercise (PostE); recess after exercise (recessE). Compared to those of control group, plasma catalase and hepatic cytosol superoxide dismutase (SOD, EC 1.15.1.1) activities of B6- group were lower regardless of exercise. The ratio of reduced glutathione/oxidized glutathione (GSH/GSSG) of B6- group was lower in PreE and there was no difference between PostE and recessE. The level of malondialdehyde (MDA) of B6- was significantly higher in PreE and PostE. High-density lipoprotein-cholesterol (HDL-C) level of B6- group was lower regardless of exercise. Atherosclerotic index of B6- group was higher in PreE and there was no difference between PostE and recessE. It is suggested that a reduction in antioxidative status caused by vitamin B(6) deficiency may be aggravated under exercise-induced oxidative stress.",
+  "nota": "Choi 2009 — deficiência de B6 × exercício oxidativo em ratos"
+ },
+ {
+  "pmid": "25933612",
+  "grupo": "B6DEF",
+  "label": "Hsu_2015",
+  "id": "REF_HSU_2015",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B6.MEC.BLOCO02.006",
+  "titulo": "Role of vitamin B6 status on antioxidant defenses, glutathione, and related enzyme activities in mice with homocysteine-induced oxidative stress.",
+  "fonte": "Food Nutr Res",
+  "ano": "2015",
+  "autores": [
+   "Hsu CC"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Vitamin B6 may directly or indirectly play a role in oxidative stress and the antioxidant defense system. The purpose of this study was to examine the associations of vitamin B6 status with cysteine, glutathione, and its related enzyme activities in mice with homocysteine-induced oxidative stress. Four-week-old male BALB/c mice were weighed and divided into one of four dietary treatment groups fed either a normal diet (as a control group and a homocysteine group), a vitamin B6-deficient diet (as a B6-deficient group), or a B6-supplemented diet (a pyridoxine-HCl-free diet supplemented with 14 mg/kg of pyridoxine-HCl, as a B6 supplement group) for 28 days. Homocysteine thiolactone was then added to drinking water in three groups for 21 days to induce oxidative stress. At the end of the study, mice were sacrificed by decapitation and blood and liver samples were obtained. Mice with vitamin B6-deficient diet had the highest homocysteine concentration in plasma and liver among groups. Significantly increased hepatic malondialdehyde levels were observed in the vitamin B6-deficient group. Among homocysteine-treated groups, mice with vitamin B6-deficient diet had the highest plasma glutath",
+  "nota": "Hsu 2015 — status de B6 × defesas/glutationa em camundongos com EO induzido por Hcy"
+ },
+ {
+  "pmid": "28024289",
+  "grupo": "B6DEF",
+  "label": "Danielyan_2017",
+  "id": "REF_DANIELYAN_2017",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B6.MEC.BLOCO02.007",
+  "titulo": "Protective abilities of pyridoxine in experimental oxidative stress settings in vivo and in vitro.",
+  "fonte": "Biomed Pharmacother",
+  "ano": "2017",
+  "autores": [
+   "Danielyan KE"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Pyridoxine (Pr, B6) or its active form pyridoxal phosphate (PLP, B6) deficiency promotes oxidative lipid peroxidation and exacerbates the oxidative stress. From the other hand, by our previous experiments we proved that B6 is able strongly inhibit Xanthine Oxidase (XO) activity, which is an enzyme responsible for the formation of uric acid and hydrogen peroxide. Cells were cultured by Mattson M. method and treated with 3%% hydrogen peroxide. Before and after treatment we added allopurinol as well as B6 into the cell culture media. Hydrogen peroxide after limited craniotomy was injected into the brain parenchyma in accordance to the following coordinates from bregma: 2mm lateral to midline, 3mm anterior to the coronal suture, and 2mm below the surface of the skull. Blood Brain Barrier (BBB) disruption was evaluated spectrophotometrically (&#x3bb;=550nm). were evidencing - B6 as well as allourinol are protective against oxidative stress and support cells maintenance in the culture, protect them from death. In in vivo studies animals treated with pyridoxine and allopurnol from days 1-6 and 1-12 (p&lt;0.035) had less damaged BBB in comparison with the control group. Antioxidative abili",
+  "nota": "Danielyan 2017 — piridoxina protetora in vivo/in vitro; inibição de xantina oxidase"
+ },
+ {
+  "pmid": "40991665",
+  "grupo": "B6DEF",
+  "label": "Todorovic_2025",
+  "id": "REF_TODOROVIC_2025",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B6.MEC.BLOCO02.008",
+  "titulo": "Effects of vitamin B6 on cardiometabolic biomarkers, cardiac oxidative stress and enzymes activities, and cardiovascular histomorphometric parameters in hyperhomocysteinemic rats.",
+  "fonte": "Can J Physiol Pharmacol",
+  "ano": "2025",
+  "autores": [
+   "Todorović D"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Hyperhomocysteinemia can induce significant alterations in the cardiovascular system, and vitamin B6 is one of the primary cofactors of enzymes involved in homocysteine metabolism. The aim of this study was to examine the effects of vitamin B6 in hyperhomocysteinemic conditions on cardiovascular biomarkers in sera, oxidative stress parameters, metabolic enzymes activities, and histological changes in rat heart and aorta. Male Wistar albino rats were divided into four groups ( n &#xa0;=&#xa0;10, per group): C: 0.9% NaCl 0.2&#xa0;mL/day s.c. + 0.9% NaCl 0.5&#xa0;mL i.p; H: D, L-homocysteine 0.45&#xa0;mmol/g b.w./day s.c. + 0.9% NaCl 0.5&#xa0;mL i.p; CB6: 0.9% NaCl 0.2&#xa0;mL/day s.c. + vitamin B6 7&#xa0;mg/kg b.w. i.p.; and H-B6: D, L-homocysteine 0.45&#xa0;mmol/g b.w./day s.c. + vitamin B6 7&#xa0;mg/kg b.w. i.p. Substances were applied s.c. for 2 weeks and i.p for 4 weeks. Level of homocysteine, activity of superoxide dismutase, concentration of malondialdehyde, and right ventricle wall thickness were significantly lower in HB6 group compared to H group, while lactate dehydrogenase activity was higher in HB6 group compared to all other groups. These findings suggest the potential b",
+  "nota": "Todorović 2025 — B6 em ratos hiperhomocisteinêmicos: EO cardíaco, enzimas"
+ },
+ {
+  "pmid": "42351801",
+  "grupo": "B6DEF",
+  "label": "Todorovic_2026",
+  "id": "REF_TODOROVIC_2026",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B6.MEC.BLOCO02.009",
+  "titulo": "Effects of Vitamin B6 and Folic Acid on Cardiometabolic Biomarkers and Cardiac Oxidative Stress in Homocysteine-Loaded Rats.",
+  "fonte": "Biomedicines",
+  "ano": "2026",
+  "autores": [
+   "Todorović D"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Background/Objectives: Elevated homocysteine (Hcy) levels are associated with endothelial dysfunction, oxidative stress, and inflammation, contributing to cardiovascular disease development. The aim of this study was to examine the effects of vitamin B6 and folic acid on cardiometabolic biomarkers, cardiac oxidative stress, metabolic enzyme activities and cardiovascular histomorphometric parameters in homocysteine-loaded rats. Methods: Male Wistar albino rats were divided into four groups (n = 10, per group): C-saline 0.2 mL/day s.c. + saline 0.5 mL i.p; H: Hcy 0.45 &#xb5;mol/g b.w./day s.c. + saline 0.5 mL i.p; C-B6+FA-saline 0.2 mL/day s.c. + vitamin B6 (7 mg/kg b.w. i.p./day) and folic acid (FA) (5 mg/kg b.w. i.p./day); and H-B6+FA-Hcy (0.45 &#xb5;mol/g b.w./day s.c.) + vitamin B6 (7 mg/kg b.w. i.p./day) and FA (5 mg/kg b.w. i.p./day). Substances were applied s.c. for 2 weeks and i.p for 4 weeks. Results: B6+FA supplementation significantly reduced serum Hcy and LDL concentrations and attenuated Hcy-associated increases in cardiac SOD activity and right ventricular wall thickness. However, B6+FA was associated with increased cardiac MDA levels. MDH activity increased mainly in n",
+  "nota": "Todorović 2026 — B6+folato: biomarcadores cardiometabólicos e EO cardíaco em ratos"
+ },
+ {
+  "pmid": "1653565",
+  "grupo": "ANTIOX",
+  "label": "Zhou_1991",
+  "id": "REF_ZHOU_1991",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B6.MEC.BLOCO03.001",
+  "titulo": "Phenolic compounds and an analog as superoxide anion scavengers and antioxidants.",
+  "fonte": "Biochem Pharmacol",
+  "ano": "1991",
+  "autores": [
+   "Zhou YC"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Five phenolic compounds and pyridoxine were studied for their activities as both scavengers of superoxide anions and inhibitors of lipid peroxidation. The superoxide anions were generated in a phenazin methosulfate-NADH system and were assayed by the reduction of nitroblue tetrazolium. The superoxide anion scavenging activities of verbascoside and alizarin yellow R were the strongest, followed by those of caffeic acid and phloridzin; vanillin and pyridoxine exhibited the weakest activity. The concentration values yielding 50% inhibition of lipid peroxidation in mouse liver microsomes were 10(-5) M for verbascoside, 10(-4) M for alizarin yellow R and caffeic acid, and 10(-3) M for phloridzin; vanillin and pyridoxine had almost no antioxidative activity. The inhibition of lipid peroxidation by these individual compounds was much weaker than by butylated hydroxyanisole. The results showed that phenolic compounds and pyridoxine have more than one mechanism of action for free radicals and are able to suppress free radical processes at two stages: the formation of superoxide anions and the production of lipid peroxides.",
+  "nota": "Zhou 1991 — piridoxina como scavenger de ânion superóxido (comparativo)"
+ },
+ {
+  "pmid": "7767942",
+  "grupo": "ANTIOX",
+  "label": "Hu_1995",
+  "id": "REF_HU_1995",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B6.MEC.BLOCO03.002",
+  "titulo": "The antioxidant and prooxidant activity of some B vitamins and vitamin-like compounds.",
+  "fonte": "Chem Biol Interact",
+  "ano": "1995",
+  "autores": [
+   "Hu ML"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "The antioxidant and prooxidant properties of some B vitamins (BVIT) and vitamin-like compounds (VLC) that are commonly included in multivitamin preparations were investigated. Microsomal lipid peroxidation induced by FeCl3 and ascorbate was dose-dependently inhibited by pyridoxal and pantothenate but was stimulated by thiamin, pyridoxine and carnitine. Among the compounds tested, only pyridoxine and pyridoxal reacted, but rather poorly, with superoxide anions. All test compounds reacted with .OH with second-order rate constants comparable or higher than that for mannitol, as assayed using deoxyribose oxidation by a system containing EDTA-chelated Fe(III), H2O2 and ascorbate. When assayed in the absence of EDTA, pyridoxal showed increased inhibition of deoxyribose oxidation over that in the presence of EDTA, suggesting a potent ability of pyridoxal to bind and deactivate iron. Pantothenate, pyridoxine and myo-inositol appeared to equally inhibit deoxyribose oxidation both in the presence and absence of EDTA. The lack of inhibition on deoxyribose oxidation in the absence of EDTA by thiamin, carnitine and choline may suggest that the .OH-scavenging ability is equalled by the ability o",
+  "nota": "Hu 1995 — vitaminas B: atividade antioxidante E pró-oxidante (microsomas; honestidade de polaridade)"
+ },
+ {
+  "pmid": "11165869",
+  "grupo": "ANTIOX",
+  "label": "Jain_2001",
+  "id": "REF_JAIN_2001",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B6.MEC.BLOCO03.003",
+  "titulo": "Pyridoxine and pyridoxamine inhibits superoxide radicals and prevents lipid peroxidation, protein glycosylation, and (Na+ + K+)-ATPase activity reduction in high glucose-treated human erythrocytes.",
+  "fonte": "Free Radic Biol Med",
+  "ano": "2001",
+  "autores": [
+   "Jain SK"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "celular/in vitro"
+  ],
+  "abstract": "Vitamin B(6) (pyridoxine) supplementation has been found beneficial in preventing diabetic neuropathy and retinopathy, and the glycosylation of proteins. Oxygen radicals and oxidative damage have been implicated in the cellular dysfunction and complications of diabetes. This study was undertaken to test the hypothesis that pyridoxine (P) and pyridoxamine (PM) inhibit superoxide radical production, reduce lipid peroxidation and glycosylation, and increase the (Na+ + K+)-ATPase activity in high glucose-exposed red blood cells (RBC). Superoxide radical production was assessed by the reduction of cytochrome C by glucose in the presence and absence of P or PM in a cell-free buffered solution. To examine cellular effects, washed normal human RBC were treated with control and high glucose concentrations with and without P or PM. Both P and PM significantly lowered lipid peroxidation and glycated hemoglobin (HbA(1)) formation in high glucose-exposed RBC. P and PM significantly prevented the reduction in (Na+ + K+)-ATPase activity in high glucose-treated RBC. Thus, P or PM can inhibit oxygen radical production, which in turn prevents the lipid peroxidation, protein glycosylation, and (Na+ +",
+  "nota": "Jain & Lim 2001 — piridoxina/piridoxamina inibem superóxido e peroxidação em eritrócitos humanos in vitro"
+ },
+ {
+  "pmid": "14975445",
+  "grupo": "ANTIOX",
+  "label": "Kannan_2004",
+  "id": "REF_KANNAN_2004",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B6.MEC.BLOCO03.004",
+  "titulo": "Effect of vitamin B6 on oxygen radicals, mitochondrial membrane potential, and lipid peroxidation in H2O2-treated U937 monocytes.",
+  "fonte": "Free Radic Biol Med",
+  "ano": "2004",
+  "autores": [
+   "Kannan K"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "celular/in vitro"
+  ],
+  "abstract": "",
+  "nota": "Kannan & Jain 2004 — B6 reduz radical/ΔΨm/peroxidação em monócitos U937-H2O2 (SEM ABSTRACT no PubMed; G3 título/periódico)"
+ },
+ {
+  "pmid": "17134167",
+  "grupo": "ANTIOX",
+  "label": "Matxain_2006",
+  "id": "REF_MATXAIN_2006",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B6.MEC.BLOCO03.005",
+  "titulo": "Theoretical study of the antioxidant properties of pyridoxine.",
+  "fonte": "J Phys Chem A",
+  "ano": "2006",
+  "autores": [
+   "Matxain JM"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "celular/in vitro"
+  ],
+  "abstract": "Molecules acting as antioxidants capable of scavenging reactive oxygen species (ROS) are of utmost importance in the living cell. The antioxidative properties of pyridoxine (vitamin B6) have recently been discovered. In this study, we have analyzed the reactivity of pyridoxine toward the ROS (.-)OH, (.-)OOH, and (.-)O(2)- at the density functional theory level (functionals B3LYP and MPW1B95). Two reaction types have been studied as follows: addition to the aromatic ring atoms and hydrogen/proton abstraction. Our results show that (.-)OH is the most reactive species, while (.-)OOH displays low reactivity and (.-)O2(-) does not react at all with pyridoxine. The most exergonic reactions are those where (.-)H is removed from the CH(2)OH groups or the ring-bound OH group and range from -33 to -39 kcal/mol. The most exergonic addition reactions occur by attacking the carbon atoms bonded to nitrogen but with an energy gain of only 6 kcal/mol.",
+  "nota": "Matxain 2006 — DFT: reatividade da piridoxina com ·OH/·OOH/·O2−"
+ },
+ {
+  "pmid": "20209473",
+  "grupo": "ANTIOX",
+  "label": "Mahfouz_2009",
+  "id": "REF_MAHFOUZ_2009",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B6.MEC.BLOCO03.006",
+  "titulo": "Vitamin B6 compounds are capable of reducing the superoxide radical and lipid peroxide levels induced by H2O2 in vascular endothelial cells in culture.",
+  "fonte": "Int J Vitam Nutr Res",
+  "ano": "2009",
+  "autores": [
+   "Mahfouz MM"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "celular/in vitro"
+  ],
+  "abstract": "Pyridoxamine, pyridoxine, and pyridoxal phosphate were tested to examine if they have antioxidant properties. Endothelial cells exposed to 0.5 mM H(2)O(2) for 2 hours increased the superoxide anion and lipid peroxide levels as biomarkers of oxidative stress. The increase of superoxide was mainly due to the activation of NADPH-oxidase by H(2)O(2). Preincubation of the endothelial cells with 0.1 or 1.0 mM of pyridoxamine or pyridoxal phosphate for one-half hour before H(2)O(2) exposure significantly reduced the superoxide and lipid peroxide compared to the cells exposed to H(2)O(2) only. Preincubation of the cells with 0.1 or 1.0 mM of pyridoxine also significantly reduced the lipid peroxide but did not significantly affect the superoxide level unless the preincubation time was extended to 24 hours. The prostacyclin release by endothelial cells was also significantly inhibited by H(2)O(2). However, the preincubation of endothelial cells with 1.0 mM of pyridoxamine, pyridoxine, or pyridoxal phosphate did not prevent that inhibition. These results indicate that pyridoxamine, pyridoxine, and pyridoxal phosphate acted as antioxidants and reduced the superoxide and lipid peroxides induced",
+  "nota": "Mahfouz 2009 — vitâmeros B6 reduzem superóxido/peróxido em endotélio H2O2 (NOX)"
+ },
+ {
+  "pmid": "19558175",
+  "grupo": "ANTIOX",
+  "label": "Matxain_2009",
+  "id": "REF_MATXAIN_2009",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B6.MEC.BLOCO03.007",
+  "titulo": "Evidence of high *OH radical quenching efficiency by vitamin B6.",
+  "fonte": "J Phys Chem B",
+  "ano": "2009",
+  "autores": [
+   "Matxain JM"
+  ],
+  "pubtype": [
+   "Letter",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "celular/in vitro"
+  ],
+  "abstract": "Molecules acting as antioxidants capable of scavenging reactive oxygen species (ROS) are of the utmost importance in the living cell. The antioxidative properties of pyridoxine (vitamin B6) have recently been discovered. Previous theoretical calculations have shown a high reactivity of pyridoxine toward hydroxyl radicals, where the latter preferably abstract H from either carbon of the two methanol substituents (C8 or C9). In this study, we have explored the reactivity of pyridoxine toward further hydroxyl radicals, considering as the first step the H abstraction from either C8 or C9, also including addition reactions and cyclization. Many of the reactions display similar DeltaG, and hence, the quenching of hydroxyl radicals by pyridoxine may undergo different pathways leading to a mix of products. In addition, we observe that pyridoxine, under high hydroxyl radical concentrations, may scavenge up to eight radicals, supporting its observed high antioxidant activity.",
+  "nota": "Matxain 2009 — alta eficiência de captura de ·OH pela B6 (química)"
+ },
+ {
+  "pmid": "22231514",
+  "grupo": "ANTIOX",
+  "label": "Natera_2012",
+  "id": "REF_NATERA_2012",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B6.MEC.BLOCO03.008",
+  "titulo": "The role of vitamin B6 as an antioxidant in the presence of vitamin B2-photogenerated reactive oxygen species. A kinetic and mechanistic study.",
+  "fonte": "Photochem Photobiol Sci",
+  "ano": "2012",
+  "autores": [
+   "Natera J"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "celular/in vitro"
+  ],
+  "abstract": "We report on the photostability of a mixture of vitamins B6 and B2 (riboflavin, Rf) upon visible light irradiation and on the possible role of the vitamin B6 family (B6D) as deactivators of reactive oxygen species (ROS). The work is a systematic kinetic and mechanistic study under conditions in which only Rf absorbs photoirradiation. Pyridoxine, pyridoxal hydrochloride, pyridoxal phosphate and pyridoxamine dihydrochloride were studied as representative members of the vitamin B6 family. The visible light irradiation of dissolved Rf and B6D in pH 7.4 aqueous medium under aerobic conditions induces photoprocesses that mainly produce B6D degradation. The overall oxidative mechanism involves the participation of ROS. Photogenerated (3)Rf* is quenched either by oxygen, giving rise to O(2)((1)&#x394;(g)) by electronic energy transfer to dissolved ground state oxygen, or by B6D yielding, through an electron transfer process, the neutral radical RfH&#x2d9;, and O(2)&#x2d9;(-) in an subsequent step. B6D act as quenchers of O(2)((1)&#x394;(g)) and O(2)&#x2d9;(-), the former in a totally reactive event that also inhibits Rf photoconsumption. The common chromophoric moiety of B6D represented by",
+  "nota": "Natera 2012 — cinética de B6 como antioxidante frente a ROS fotogeradas por B2"
+ },
+ {
+  "pmid": "22116705",
+  "grupo": "ANTIOX",
+  "label": "Wondrak_2012",
+  "id": "REF_WONDRAK_2012",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO03.009",
+  "titulo": "Vitamin B6: beyond coenzyme functions.",
+  "fonte": "Subcell Biochem",
+  "ano": "2012",
+  "autores": [
+   "Wondrak GT"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Endogenous reactive intermediates such as photoexcited states of tissue chromophores, reactive oxygen species (ROS), reactive carbonyl species (RCS), and transition metal ions are mediators of tissue damage involved in initiation and progression of human pathologies including tumorigenesis, atherosclerosis, diabetes, and neurodegenerative disease. A large body of evidence now suggests that B6 vitamers antagonize the harmful activity of endogenous reactive intermediates fulfilling a very different role than that established as a cofactor for numerous enzymes. In this chapter, the structural basis of vitamin B6 activity as a potent antioxidant, metal chelator, carbonyl scavenger, and photosensitizer is presented and the physiological relevance is discussed.",
+  "nota": "Wondrak & Jacobson 2012 — B6 além da coenzima: RCS/metais/fotossensíveis (rev. mecanística)"
+ },
+ {
+  "pmid": "31480509",
+  "grupo": "ANTIOX",
+  "label": "Ramis_2019",
+  "id": "REF_RAMIS_2019",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO03.010",
+  "titulo": "How Does Pyridoxamine Inhibit the Formation of Advanced Glycation End Products? The Role of Its Primary Antioxidant Activity.",
+  "fonte": "Antioxidants (Basel)",
+  "ano": "2019",
+  "autores": [
+   "Ramis R"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Pyridoxamine, one of the natural forms of vitamin B 6 , is known to be an effective inhibitor of the formation of advanced glycation end products (AGEs), which are closely related to various human diseases. Pyridoxamine forms stable complexes with metal ions that catalyze the oxidative reactions taking place in the advanced stages of the protein glycation cascade. It also reacts with reactive carbonyl compounds generated as byproducts of protein glycation, thereby preventing further protein damage. We applied Density Functional Theory to study the primary antioxidant activity of pyridoxamine towards three oxygen-centered radicals (&#x2022;OOH, &#x2022;OOCH 3 and &#x2022;OCH 3 ) to find out whether this activity may also play a crucial role in the context of protein glycation inhibition. Our results show that, at physiological pH, pyridoxamine can trap the &#x2022;OCH 3 radical, in both aqueous and lipidic media, with rate constants in the diffusion limit (&gt;1.0 &#xd7; 10 8 M - 1 s - 1 ). The quickest pathways involve the transfer of the hydrogen atoms from the protonated pyridine nitrogen, the protonated amino group or the phenolic group. Its reactivity towards &#x2022;OOH and &#",
+  "nota": "Ramis 2019 — piridoxamina inibe AGEs via atividade antioxidante primária"
+ },
+ {
+  "pmid": "35390394",
+  "grupo": "ANTIOX",
+  "label": "Ngo_2022",
+  "id": "REF_NGO_2022",
+  "tag": "ML",
+  "evid_role": "MEC",
+  "claim_id": "B6.MEC.BLOCO03.011",
+  "titulo": "On the free radical scavenging and metallic ion chelating activities of pyridoxal - Could the pro-oxidant risk be competitive?",
+  "fonte": "Phytochemistry",
+  "ano": "2022",
+  "autores": [
+   "Ngo TC"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "celular/in vitro"
+  ],
+  "abstract": "Primary and secondary antioxidant activities of pyridoxal have been investigated by using density functional theory (DFT) at the M05-2X level combined with 6-311++G(d,p) basis set for non-metallic atoms and LanL2DZ for metallic ions. The former has been examined by its free radical scavenging activity towards HOO &#x25cf; , HO &#x25cf; , and NO 2 &#x25cf; via different mechanisms including formal hydrogen transfer (FHT), proton transfer (PT), single electron transfer (SET), and radical adduct formation (RAF). The latter has been accomplished through its transition metal-chelating ability with Fe(III)/Fe(II) and Cu(II)/Cu(I) ions. The results show that pyridoxal illustrates as an efficient radical scavenger, especially, for HO &#x25cf; and NO 2 &#x25cf; in water. The overall rate constants (k overall ) for the reactions with HOO &#x25cf; , HO &#x25cf; , and NO 2 &#x25cf; radicals are 1.30&#xa0;&#xd7;&#xa0;10 4 , 5.76&#xa0;&#xd7;&#xa0;10 9 , and 1.43&#xa0;&#xd7;&#xa0;10 9 &#xa0;M -1 s -1 , respectively. The SET from the anionic state is the most dominant for the HOO &#x25cf; and NO 2 &#x25cf; scavenging reactions, while both RAF and SET contribute largely to the reaction with highly ",
+  "nota": "Ngo 2022 — DFT piridoxal: scavenger + risco pró-oxidante (polaridade dupla)"
+ },
+ {
+  "pmid": "26262996",
+  "grupo": "GSH",
+  "label": "Schmitt_2015",
+  "id": "REF_SCHMITT_2015",
+  "tag": "EC",
+  "evid_role": "SUP",
+  "claim_id": "B6.MEC.BLOCO03.012",
+  "titulo": "Effects of N-acetylcysteine, oral glutathione (GSH) and a novel sublingual form of GSH on oxidative stress markers: A comparative crossover study.",
+  "fonte": "Redox Biol",
+  "ano": "2015",
+  "autores": [
+   "Schmitt B"
+  ],
+  "pubtype": [
+   "Comparative Study",
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Glutathione (GSH) is critical to fight against oxidative stress. Its very low bioavailability limits the interest of a supplementation. The purpose of this study was to compare the bioavailability, the effect on oxidative stress markers and the safety of a new sublingual form of GSH with two commonly used dietary supplements, N-acetylcysteine (NAC) and oral GSH. The study was a three-week randomized crossover trial. 20 Volunteers with metabolic syndrome were enrolled. GSH levels and several oxidative stress markers were determined at different times during each 21-days period. Compared to oral GSH group, an increase of total and reduced GSH levels in plasma and a higher GSH/GSSG ratio (p=0.003) was observed in sublingual GSH group. After 3 weeks of administration, there was a significant increase of vitamin E level in plasma only in sublingual GSH group (0.83 &#xb5;mol/g; p=0.04). Our results demonstrate the superiority of a new sublingual form of GSH over the oral GSH form and NAC in terms of GSH supplementation.",
+  "nota": "Schmitt 2015 — NAC vs GSH oral vs GSH sublingual: bioavaliação e marcadores (comparativo; P20)"
+ },
+ {
+  "pmid": "28807817",
+  "grupo": "GSH",
+  "label": "Giustarini_2017",
+  "id": "REF_GIUSTARINI_2017",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO03.013",
+  "titulo": "Assessment of glutathione/glutathione disulphide ratio and S-glutathionylated proteins in human blood, solid tissues, and cultured cells.",
+  "fonte": "Free Radic Biol Med",
+  "ano": "2017",
+  "autores": [
+   "Giustarini D"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Glutathione (GSH) is the major non-protein thiol in humans and other mammals, which is present in millimolar concentrations within cells, but at much lower concentrations in the blood plasma. GSH and GSH-related enzymes act both to prevent oxidative damage and to detoxify electrophiles. Under oxidative stress, two GSH molecules become linked by a disulphide bridge to form glutathione disulphide (GSSG). Therefore, assessment of the GSH/GSSG ratio may provide an estimation of cellular redox metabolism. Current evidence resulting from studies in human blood, solid tissues, and cultured cells suggests that GSH also plays a prominent role in protein redox regulation via S -glutathionylation, i.e., the conjugation of GSH to reactive protein cysteine residues. A number of methodologies that enable quantitative analysis of GSH/GSSG ratio and S-glutathionylated proteins (PSSG), as well as identification and visualization of PSSG in tissue sections or cultured cells are currently available. Here, we have considered the main methodologies applied for GSH, GSSG and PSSG detection in biological samples. This review paper provides an up-to-date critical overview of the application of the most re",
+  "nota": "Giustarini 2017 — razão GSH/GSSG e proteínas S-glutationiladas em sangue/tecidos (método)"
+ },
+ {
+  "pmid": "32933160",
+  "grupo": "GSH",
+  "label": "Nuhu_2020",
+  "id": "REF_NUHU_2020",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO03.014",
+  "titulo": "Measurement of Glutathione as a Tool for Oxidative Stress Studies by High Performance Liquid Chromatography.",
+  "fonte": "Molecules",
+  "ano": "2020",
+  "autores": [
+   "Nuhu F"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Maintenance of the ratio of glutathione in the reduced (GSH) and oxidised (GSSG) state in cells is important in redox control, signal transduction and gene regulation, factors that are altered in many diseases. The accurate and reliable determination of GSH and GSSG simultaneously is a useful tool for oxidative stress determination. Measurement is limited primarily to the underestimation of GSH and overestimation GSSG as a result of auto-oxidation of GSH. The aim of this study was to overcome this limitation and develop, optimise and validate a reverse-phase high performance liquid chromatographic (HPLC) assay of GSH and GSSG for the determination of oxidant status in cardiac and chronic kidney diseases. Fluorescence detection of the derivative, glutathione-O-pthaldialdehyde (OPA) adduct was used. The assay was validated by measuring the stability of glutathione and glutathione-OPA adduct under conditions that could affect the reproducibility including reaction time and temperature. Linearity, concentration range, limit of detection (LOD), limit of quantification (LOQ), recovery and extraction efficiency and selectivity of the method were assessed. There was excellent linearity for",
+  "nota": "Nuhu 2020 — medida de GSH/GSSG por HPLC (método)"
+ },
+ {
+  "pmid": "36386929",
+  "grupo": "GSH",
+  "label": "Labarrere_2022",
+  "id": "REF_LABARRERE_2022",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO03.015",
+  "titulo": "Glutathione: A Samsonian life-sustaining small molecule that protects against oxidative stress, ageing and damaging inflammation.",
+  "fonte": "Front Nutr",
+  "ano": "2022",
+  "autores": [
+   "Labarrere CA"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Many local and systemic diseases especially diseases that are leading causes of death globally like chronic obstructive pulmonary disease, atherosclerosis with ischemic heart disease and stroke, cancer and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causing coronavirus disease 19 (COVID-19), involve both, (1) oxidative stress with excessive production of reactive oxygen species (ROS) that lower glutathione (GSH) levels, and (2) inflammation. The GSH tripeptide (&#x3b3;- L-glutamyl-L-cysteinyl-glycine), the most abundant water-soluble non-protein thiol in the cell (1-10 mM) is fundamental for life by (a) sustaining the adequate redox cell signaling needed to maintain physiologic levels of oxidative stress fundamental to control life processes, and (b) limiting excessive oxidative stress that causes cell and tissue damage. GSH activity is facilitated by activation of the Kelch-like ECH-associated protein 1 (Keap1)-Nuclear factor erythroid 2-related factor 2 (Nrf2)-antioxidant response element (ARE) redox regulator pathway, releasing Nrf2 that regulates expression of genes controlling antioxidant, inflammatory and immune system responses. GSH exists in the thiol-reduc",
+  "nota": "Labarrere & Kassab 2022 — GSH: molécula protetora contra EO/envelhecimento/inflamação (rev.)"
+ },
+ {
+  "pmid": "36707132",
+  "grupo": "GSH",
+  "label": "AverillBates_2023",
+  "id": "REF_AVERILLBATES_2023",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO03.016",
+  "titulo": "The antioxidant glutathione.",
+  "fonte": "Vitam Horm",
+  "ano": "2023",
+  "autores": [
+   "Averill-Bates DA"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Reduced glutathione (GSH) is an essential non-enzymatic antioxidant in mammalian cells. GSH can act directly as an antioxidant to protect cells against free radicals and pro-oxidants, and as a cofactor for antioxidant and detoxification enzymes such as glutathione peroxidases, glutathione S-transferases, and glyoxalases. Glutathione peroxidases detoxify peroxides by a reaction that is coupled to GSH oxidation to glutathione disulfide (GSSG). GSSG is converted back to GSH by glutathione reductase and cofactor NADPH. GSH can regenerate vitamin E following detoxification reactions of vitamin E with lipid peroxyl radicals (LOO). GSH is a cofactor for GST during detoxification of electrophilic substances and xenobiotics. Dicarbonyl stress induced by methylglyoxal and glyoxal is alleviated by glyoxalase enzymes and GSH. GSH regulates redox signaling through reversible oxidation of critical protein cysteine residues by S-glutathionylation. GSH is involved in other cellular processes such as protein folding, protecting protein thiols from oxidation and crosslinking, degradation of proteins with disulfide bonds, cell cycle regulation and proliferation, ascorbate metabolism, apoptosis and fe",
+  "nota": "Averill-Bates 2023 — a glutationa antioxidante (rev.; CONTEXT)"
+ },
+ {
+  "pmid": "37237960",
+  "grupo": "GSH",
+  "label": "Giustarini_2023",
+  "id": "REF_GIUSTARINI_2023",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO03.017",
+  "titulo": "How to Increase Cellular Glutathione.",
+  "fonte": "Antioxidants (Basel)",
+  "ano": "2023",
+  "autores": [
+   "Giustarini D"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Glutathione (GSH) has special antioxidant properties due to its high intracellular concentration, ubiquity, and high reactivity towards electrophiles of the sulfhydryl group of its cysteine moiety. In most diseases where oxidative stress is thought to play a pathogenic role, GSH concentration is significantly reduced, making cells more susceptible to oxidative damage. Therefore, there is a growing interest in determining the best method(s) to increase cellular glutathione for both disease prevention and treatment. This review summarizes the major strategies for successfully increasing cellular GSH stores. These include GSH itself, its derivatives, NRf-2 activators, cysteine prodrugs, foods, and special diets. The possible mechanisms by which these molecules can act as GSH boosters, their related pharmacokinetic issues, and their advantages and disadvantages are discussed.",
+  "nota": "Giustarini 2023 — como aumentar GSH celular (rev.; CONTEXT)"
+ },
+ {
+  "pmid": "37683986",
+  "grupo": "GSH",
+  "label": "Lapenna_2023",
+  "id": "REF_LAPENNA_2023",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO03.018",
+  "titulo": "Glutathione and glutathione-dependent enzymes: From biochemistry to gerontology and successful aging.",
+  "fonte": "Ageing Res Rev",
+  "ano": "2023",
+  "autores": [
+   "Lapenna D"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The tripeptide glutathione (GSH), namely &#x3b3;-L-glutamyl-L-cysteinyl-glycine, is an ubiquitous low-molecular weight thiol nucleophile and reductant of utmost importance, representing the central redox agent of most aerobic organisms. GSH has vital functions involving also antioxidant protection, detoxification, redox homeostasis, cell signaling, iron metabolism/homeostasis, DNA synthesis, gene expression, cysteine/protein metabolism, and cell proliferation/differentiation or death including apoptosis and ferroptosis. Various functions of GSH are exerted in concert with GSH-dependent enzymes. Indeed, although GSH has direct scavenging antioxidant effects, its antioxidant function is substantially accomplished by glutathione peroxidase-catalyzed reactions with reductive removal of H 2 O 2 , organic peroxides such as lipid hydroperoxides, and peroxynitrite; to this antioxidant activity also contribute peroxiredoxins, enzymes further involved in redox signaling and chaperone activity. Moreover, the detoxifying function of GSH is basically exerted in conjunction with glutathione transferases, which have also antioxidant properties. GSH is synthesized in the cytosol by the ATP-depende",
+  "nota": "Lapenna 2023 — GSH e enzimas GSH-dependentes: bioquímica→gerontologia (rev.)"
+ },
+ {
+  "pmid": "37759691",
+  "grupo": "GSH",
+  "label": "Valgimigli_2023",
+  "id": "REF_VALGIMIGLI_2023",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO03.019",
+  "titulo": "Lipid Peroxidation and Antioxidant Protection.",
+  "fonte": "Biomolecules",
+  "ano": "2023",
+  "autores": [
+   "Valgimigli L"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Lipid peroxidation (LP) is the most important type of oxidative-radical damage in biological systems, owing to its interplay with ferroptosis and to its role in secondary damage to other biomolecules, such as proteins. The chemistry of LP and its biological consequences are reviewed with focus on the kinetics of the various processes, which helps understand the mechanisms and efficacy of antioxidant strategies. The main types of antioxidants are discussed in terms of structure-activity rationalization, with focus on mechanism and kinetics, as well as on their potential role in modulating ferroptosis. Phenols, pyri(mi)dinols, antioxidants based on heavy chalcogens (Se and Te), diarylamines, ascorbate and others are addressed, along with the latest unconventional antioxidant strategies based on the double-sided role of the superoxide/hydroperoxyl radical system.",
+  "nota": "Valgimigli 2023 — peroxidação lipídica e proteção antioxidante (rev.; elo ferroptose B6-V1)"
+ },
+ {
+  "pmid": "16424114",
+  "grupo": "HUM",
+  "label": "Davis_2006",
+  "id": "REF_DAVIS_2006",
+  "tag": "EC",
+  "evid_role": "SUP",
+  "claim_id": "B6.MEC.BLOCO05.001",
+  "titulo": "Plasma glutathione and cystathionine concentrations are elevated but cysteine flux is unchanged by dietary vitamin B-6 restriction in young men and women.",
+  "fonte": "J Nutr",
+  "ano": "2006",
+  "autores": [
+   "Davis SR"
+  ],
+  "pubtype": [
+   "Clinical Trial",
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, U.S. Gov't, Non-P.H.S."
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Cysteine synthesis from homocysteine is catalyzed by two pyridoxal 5'-phosphate (PLP)-dependent enzymes. This suggests that vitamin B-6 status might affect cysteine and glutathione homeostasis, but it is unclear whether this occurs in humans. We assessed the effects of vitamin B-6 status on static and kinetic parameters of cysteine and glutathione metabolism in healthy female (n=5) and male (n=4) volunteers (20-30 y) before and after 4 wk of dietary vitamin B-6 restriction (&lt;0.5 mg vitamin B-6/d). Rates of reactions related to cysteine metabolism were measured from blood sampled during primed, constant infusions of [(13)C(5)]methionine, [3-(13)C]serine, and [(2)H(2)]cysteine that were conducted after an overnight fast at baseline and after the dietary protocol. Vitamin B-6 restriction reduced the concentration of PLP (55.1+/- 8.3 vs. 22.6+/-1.3 nmol/L; P=0.004) and increased concentrations of cystathionine (124%; P&lt;0.001) and total glutathione (38%; P&lt;0.008) in plasma. Concentrations of plasma homocysteine, cysteine, cysteinylglycine, and C-reactive protein (an indicator of systemic inflammation) were not affected by dietary vitamin B-6 restriction. The rate of cysteine sy",
+  "nota": "Davis 2006 — restrição dietética de B6 em humanos: GSH e cistationina plasmáticas ↑, fluxo de cisteína sem Δ (ÂNCORA PARADOXO)"
+ },
+ {
+  "pmid": "19515736",
+  "grupo": "HUM",
+  "label": "Lamers_2009",
+  "id": "REF_LAMERS_2009",
+  "tag": "EC",
+  "evid_role": "SUP",
+  "claim_id": "B6.MEC.BLOCO05.002",
+  "titulo": "Vitamin B-6 restriction tends to reduce the red blood cell glutathione synthesis rate without affecting red blood cell or plasma glutathione concentrations in healthy men and women.",
+  "fonte": "Am J Clin Nutr",
+  "ano": "2009",
+  "autores": [
+   "Lamers Y"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Glutathione plays various protective roles in the human body. Vitamin B-6 as pyridoxal-5'-phosphate (PLP) is required as the coenzyme in the formation of glutathione precursors. Despite this obligatory role of PLP, previous studies from this laboratory showed that vitamin B-6 deficiency caused elevated glutathione concentrations in rat liver and human plasma. Our aim was to determine the effect of marginal vitamin B-6 deficiency (plasma PLP 20-30 nmol/L) on the rate of red blood cell (RBC) glutathione synthesis. We measured plasma and RBC glutathione concentrations and the fractional and absolute synthesis rates of RBC glutathione using the stable-isotope-labeled glutathione precursor [1,2-(13)C(2)]glycine in 13 healthy volunteers aged 21-39 y. Dietary vitamin B-6 restriction did not significantly affect the glutathione concentration in plasma (6.9 +/- 1.9 compared with 6.7 +/- 1.1 micromol/L) or RBCs (2068 +/- 50 compared with 2117 +/- 48 micromol/L). For RBC glutathione, the mean fractional synthesis rates were 54 +/- 5%/d and 43 +/- 4%/d (P = 0.10), and the absolute synthesis rates were 1116 +/- 100 and 916 +/- 92 micromol . L(-1) . d(-1) (P = 0.14) before and after vitamin B-6 ",
+  "nota": "Lamers 2009 — restrição de B6: tendência ↓taxa de síntese eritrocitária de GSH sem Δconcentração (ÂNCORA HETEROGENEIDADE)"
+ },
+ {
+  "pmid": "19955400",
+  "grupo": "HUM",
+  "label": "Shen_2010",
+  "id": "REF_SHEN_2010",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO05.003",
+  "titulo": "Association of vitamin B-6 status with inflammation, oxidative stress, and chronic inflammatory conditions: the Boston Puerto Rican Health Study.",
+  "fonte": "Am J Clin Nutr",
+  "ano": "2010",
+  "autores": [
+   "Shen J"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, U.S. Gov't, Non-P.H.S."
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Low vitamin B-6 status has been linked to an increased risk of cardiovascular diseases. The cardioprotective effects of vitamin B-6 independent of homocysteine suggest that additional mechanisms may be involved. Our objective was to examine the cross-sectional association of vitamin B-6 status with markers of inflammation and oxidative stress. We measured plasma pyridoxal-5'-phosphate (PLP), C-reactive protein (CRP), and an oxidative DNA damage marker, urinary 8-hydroxydeoxyguanosine (8-OHdG), in Puerto Rican adults who were living in Massachusetts (n = 1205, aged 45-75 y). There was a strong dose-response relation of plasma PLP concentration with plasma CRP. Increasing quartiles of PLP were significantly associated with lower CRP concentrations (geometric means: 4.7, 3.6, 3.1, and 2.5 mg/L; P for trend &lt; 0.0001) and with lower urinary 8-OHdG concentrations (geometric means: 124, 124, 117, and 108 ng/mg creatinine; P for trend: 0.025) after multivariate adjustment. These negative associations persisted after plasma homocysteine was controlled for. Plasma PLP concentrations were significantly correlated with plasma fasting glucose (r = -0.1, P = 0.0006), glycated hemoglobin (r = ",
+  "nota": "Shen 2010 — PLP ↔ inflamação/EO/8-OHdG/CRP (Boston Puerto Rican; ASSOCIATIVO, transversal)"
+ },
+ {
+  "pmid": "27051670",
+  "grupo": "HUM",
+  "label": "Cheng_2016",
+  "id": "REF_CHENG_2016",
+  "tag": "EC",
+  "evid_role": "SUP",
+  "claim_id": "B6.MEC.BLOCO05.004",
+  "titulo": "Vitamin B-6 Supplementation Could Mediate Antioxidant Capacity by Reducing Plasma Homocysteine Concentration in Patients with Hepatocellular Carcinoma after Tumor Resection.",
+  "fonte": "Biomed Res Int",
+  "ano": "2016",
+  "autores": [
+   "Cheng SB"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Vitamin B-6 has a strong antioxidative effect. It would be useful to determine whether vitamin B-6 supplementation had effects on antioxidant capacities in patients with hepatocellular carcinoma (HCC) who had recently undergone tumor resection. Thirty-three HCC patients were randomly assigned to either the placebo (n = 16) group or the vitamin B-6 50 mg/d (n = 17) group for 12 weeks. Plasma pyridoxal 5'-phosphate, homocysteine, indicators of oxidative stress, and antioxidant capacities were measured. Plasma homocysteine in the vitamin B-6 group was significantly decreased at week 12, while the level of trolox equivalent antioxidant capacity (TEAC) was significantly increased at the end of the intervention period. Vitamin B-6 supplementation had a significant reducing effect on the change of plasma homocysteine (&#x3b2; = -2.4, p = 0.02) but not on the change of TEAC level after adjusting for potential confounders. The change of plasma homocysteine was significantly associated with the change of TEAC after adjusting for potential confounders (&#x3b2; = -162.0, p = 0.03). Vitamin B-6 supplementation seemed to mediate antioxidant capacity via reducing plasma homocysteine rather than h",
+  "nota": "Cheng 2016 — RCT HCC pós-ressecção: B6 → ↓Hcy, capacidade antioxidante (sinal-intervenção; P20)"
+ },
+ {
+  "pmid": "30513795",
+  "grupo": "HUM",
+  "label": "Ford_2018",
+  "id": "REF_FORD_2018",
+  "tag": "EC",
+  "evid_role": "SUP",
+  "claim_id": "B6.MEC.BLOCO05.005",
+  "titulo": "The Effect of a High-Dose Vitamin B Multivitamin Supplement on the Relationship between Brain Metabolism and Blood Biomarkers of Oxidative Stress: A Randomized Control Trial.",
+  "fonte": "Nutrients",
+  "ano": "2018",
+  "autores": [
+   "Ford TC"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Randomized Controlled Trial"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "A diet rich in B-group vitamins is essential for optimal body and brain function, and insufficient amounts of such vitamins have been associated with higher levels of neural inflammation and oxidative stress, as marked by increased blood plasma homocysteine. Neural biomarkers of oxidative stress quantified through proton magnetic spectroscopy (1H-MRS) are not well understood, and the relationship between such neural and blood biomarkers is seldom studied. The current study addresses this gap by investigating the direct effect of 6-month high-dose B-group vitamin supplementation on neural and blood biomarkers of metabolism. Using a randomized, double-blind, placebo-controlled design, 32 healthy adults (20 female, 12 male) aged 30&#x207b;65 years underwent blood tests (vitamin B6, vitamin B12, folate, and homocysteine levels) and 1H-MRS of the posterior cingulate cortex (PCC) and dorsolateral prefrontal cortex (DLPFC) before and after supplementation. Results confirmed the supplement was effective in increasing vitamin B6 and vitamin B12 levels and reducing homocysteine, whereas there was no change in folate levels. There were significant relationships between vitamin B6 and N -acety",
+  "nota": "Ford 2018 — RCT complexo B alta dose: metabolismo cerebral (¹H-MRS) × biomarcadores de EO"
+ },
+ {
+  "pmid": "32635181",
+  "grupo": "HUM",
+  "label": "Lai_2020",
+  "id": "REF_LAI_2020",
+  "tag": "EC",
+  "evid_role": "SUP",
+  "claim_id": "B6.MEC.BLOCO05.006",
+  "titulo": "Impact of Glutathione and Vitamin B-6 in Cirrhosis Patients: A Randomized Controlled Trial and Follow-Up Study.",
+  "fonte": "Nutrients",
+  "ano": "2020",
+  "autores": [
+   "Lai CY"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Randomized Controlled Trial"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Vitamin B-6 and glutathione (GSH) are antioxidant nutrients, and inadequate vitamin B-6 may indirectly limit glutathione synthesis and further affect the antioxidant capacities. Since liver cirrhosis is often associated with increased oxidative stress and decreased antioxidant capacities, we conducted a double-blind randomized controlled trial to assess the antioxidative effect of vitamin B-6, GSH, or vitamin B-6/GSH combined supplementation in cirrhotic patients. We followed patients after the end of supplementation to evaluate the association of vitamin B-6 and GSH with disease severity. In total, 61 liver cirrhosis patients were randomly assigned to placebo, vitamin B-6 (50 mg pyridoxine/d), GSH (500 mg/d), or B-6 + GSH groups for 12 weeks. After the end of supplementation, the condition of patient's disease severity was followed until the end of the study. Neither vitamin B-6 nor GSH supplementation had significant effects on indicators of oxidative stress and antioxidant capacities. The median follow-up time was 984 d, and 21 patients were lost to follow-up. High levels of GSH, a high GSH/oxidized GSH ratio, and high GSH-St activity at baseline (Week 0) had a significant effec",
+  "nota": "Lai 2020 — RCT cirrose: GSH+B6 e capacidade antioxidante (sinal-intervenção; P20)"
+ },
+ {
+  "pmid": "31129702",
+  "grupo": "HUM",
+  "label": "Pusceddu_2019",
+  "id": "REF_PUSCEDDU_2019",
+  "tag": "OB",
+  "evid_role": "REF",
+  "claim_id": "B6.MEC.BLOCO05.007",
+  "titulo": "Subclinical inflammation, telomere shortening, homocysteine, vitamin B6, and mortality: the Ludwigshafen Risk and Cardiovascular Health Study.",
+  "fonte": "Eur J Nutr",
+  "ano": "2019",
+  "autores": [
+   "Pusceddu I"
+  ],
+  "pubtype": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Short telomeres and B vitamin deficiencies have been proposed as risk factors for age-related diseases and mortality that interact through oxidative stress and inflammation. However, available data to support this concept are insufficient. We aimed to investigate the predictive role of B vitamins and homocysteine (HCY) for mortality in cardiovascular patients. We explored potential relationships between HCY, B vitamins, relative telomere length (RTL), and indices of inflammation. Vitamin B6, HCY, interleukin-6 (IL-6), high-sensitive-C-reactive protein (hs-CRP), and RTL were measured in participants of the Ludwigshafen Risk and Cardiovascular Health Study. Death events were recorded over a median follow-up of 9.9&#xa0;years. All-cause mortality increased with higher concentrations of HCY and lower vitamin B6. Patients in the 4th quartile of HCY and vitamin B6 had hazard ratios (HR) for all-cause mortality of 2.77 (95% CI 2.28-3.37) and 0.41(95% CI 0.33-0.49), respectively, and for cardiovascular mortality of 2.78 (95% CI 2.29-3.39) and 0.40 (95% CI 0.33-0.49), respectively, compared to those in the 1st quartile. Multiple adjustments for confounders did not change these results. HCY ",
+  "nota": "Pusceddu 2019 — inflamação subclínica, telômeros, Hcy, B6 e mortalidade (LURIC; ASSOCIATIVO) [ano oficial PubMed 2020 (epub 2019); insumo rotulava 2019 — explicado em decisoes] [rótulo alinhado ao Epub oficial; print no revista_ano]",
+  "revista_ano_citado": "Eur J Nutr 2020 (Epub 2019)"
+ },
+ {
+  "pmid": "34229268",
+  "grupo": "HUM",
+  "label": "Vandeneynde_2021",
+  "id": "REF_VANDENEYNDE_2021",
+  "tag": "EC",
+  "evid_role": "SUP",
+  "claim_id": "B6.MEC.BLOCO05.008",
+  "titulo": "Quantification of the B6 vitamers in human plasma and urine in a study with pyridoxamine as an oral supplement; pyridoxamine as an alternative for pyridoxine.",
+  "fonte": "Clin Nutr",
+  "ano": "2021",
+  "autores": [
+   "Van den Eynde MDG"
+  ],
+  "pubtype": [
+   "Clinical Trial",
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Vitamin B6 is involved in a large spectrum of physiological processes and comprises of the vitamers pyridoxamine (PM), pyridoxal (PL), pyridoxine (PN), and their phosphorylated derivatives including the biological active pyridoxal 5'-phosphate (PLP). While PN toxicity is known to complicate several treatments, PM has shown promise in relation to the treatment of metabolic and age-related diseases by blocking oxidative degradation and scavenging toxic dicarbonyl compounds and reactive oxygen species. We aimed to assess the metabolization of oral PM supplements in a single and three daily dose. We optimized and validated a method for the quantification of the B6 vitamers in plasma and urine using ultra-performance liquid chromatography tandem mass spectrometry (UPLC-MS/MS). Five healthy volunteers were recruited to study PM metabolization after a single oral dose of 200&#xa0;mg PM or a three daily dose of 67&#xa0;mg PM. A third protocol was implemented as control for dietary intake. Venous blood samples, 24&#xa0;h urine and fasted second void urine samples were collected. After a single oral dose of 200&#xa0;mg PM, plasma PM increased in the first 3&#xa0;h to a maximum of 2324&#xa0;&",
+  "nota": "Van Den Eynde 2021 — quantificação de vitâmeros B6 em plasma/urina (suporte à regra não-intercambiabilidade) [rótulo normalizado para Van den Eynde]"
+ },
+ {
+  "pmid": "16531614",
+  "grupo": "NEG",
+  "label": "Bonaa_2006",
+  "id": "REF_BONAA_2006",
+  "tag": "EC",
+  "evid_role": "NEG",
+  "claim_id": "B6.MEC.BLOCO06.001",
+  "titulo": "Homocysteine lowering and cardiovascular events after acute myocardial infarction.",
+  "fonte": "N Engl J Med",
+  "ano": "2006",
+  "autores": [
+   "Bønaa KH"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Multicenter Study",
+   "Randomized Controlled Trial",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Homocysteine is a risk factor for cardiovascular disease. We evaluated the efficacy of homocysteine-lowering treatment with B vitamins for secondary prevention in patients who had had an acute myocardial infarction. The trial included 3749 men and women who had had an acute myocardial infarction within seven days before randomization. Patients were randomly assigned, in a two-by-two factorial design, to receive one of the following four daily treatments: 0.8 mg of folic acid, 0.4 mg of vitamin B12, and 40 mg of vitamin B6; 0.8 mg of folic acid and 0.4 mg of vitamin B12; 40 mg of vitamin B6; or placebo. The primary end point during a median follow-up of 40 months was a composite of recurrent myocardial infarction, stroke, and sudden death attributed to coronary artery disease. The mean total homocysteine level was lowered by 27 percent among patients given folic acid plus vitamin B12, but such treatment had no significant effect on the primary end point (risk ratio, 1.08; 95 percent confidence interval, 0.93 to 1.25; P=0.31). Also, treatment with vitamin B6 was not associated with any significant benefit with regard to the primary end point (relative risk of the primary end point, 1",
+  "nota": "Bønaa 2006 NORVIT — reduzir Hcy com vitaminas B NÃO reduziu eventos pós-IM (RCT 3749; LIÇÃO: biomarcador↓ ≠ desfecho; âncora NEG. Desfecho CV, uso metodológico) [rótulo normalizado Bønaa→Bonaa]",
+  "aliases_extra": [
+   "Bønaa"
+  ]
+ },
+ {
+  "pmid": "29776960",
+  "grupo": "NEG",
+  "label": "Christen_2018",
+  "id": "REF_CHRISTEN_2018",
+  "tag": "EC",
+  "evid_role": "NEG",
+  "claim_id": "B6.MEC.BLOCO06.002",
+  "titulo": "Effect of Combined Treatment With Folic Acid, Vitamin B(6), and Vitamin B(12) on Plasma Biomarkers of Inflammation and Endothelial Dysfunction in Women.",
+  "fonte": "J Am Heart Assoc",
+  "ano": "2018",
+  "autores": [
+   "Christen WG"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The aim of this study was to determine whether reducing plasma homocysteine concentrations with long-term, combined treatment with folic acid, vitamin B 6 , and vitamin B 12 alters plasma biomarkers of inflammation and endothelial dysfunction in women at increased risk of cardiovascular disease. We conducted a blood substudy of 300 treatment-adherent participants (150 in the active treatment group, 150 in the placebo group) in the WAFACS (Women's Antioxidant and Folic Acid Cardiovascular Study), a randomized, double-blind, placebo-controlled trial testing a daily combination of folic acid (2.5&#xa0;mg), vitamin B 6 (50&#xa0;mg), vitamin B 12 (1&#xa0;mg), or matching placebo, in cardiovascular disease prevention among women at increased risk of cardiovascular disease. Plasma concentration of 3 biomarkers of inflammation (C-reactive protein, interleukin-6, and fibrinogen) and a biomarker of endothelial dysfunction (intercellular adhesion molecule 1) were measured at baseline and at the end of treatment and follow-up. After 7.3&#xa0;years of combined treatment with folic acid, vitamin B 6 , and vitamin B 12 , homocysteine concentrations were reduced by 18% in the active treatment grou",
+  "nota": "Christen 2018 WAFACS — folato+B6+B12 não alteraram biomarcadores de inflamação/endotélio (substudy RCT; âncora NEG associação↔causa)"
+ },
+ {
+  "pmid": "42196957",
+  "grupo": "HIP",
+  "label": "Kato_2026",
+  "id": "REF_KATO_2026",
+  "tag": "OB",
+  "evid_role": "HIP",
+  "claim_id": "B6.MEC.BLOCO08.001",
+  "titulo": "Potential Role of Vitamin B6 as an Antioxidant via Pyridoxal-5'-Phosphate-Dependent Metabolic Pathways and Subsequent Activation of Nrf2 Signaling.",
+  "fonte": "Nutrients",
+  "ano": "2026",
+  "autores": [
+   "Kato N"
+  ],
+  "pubtype": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Accumulating evidence suggests that vitamin B6 (B6) deficiency among older adults is associated with sarcopenia, frailty, heart disease, and brain diseases. Oxidative stress and inflammation play key roles in cardiac and skeletal muscle and neuronal pathology. However, the detailed roles of B6 supplementation in oxidative stress and inflammation are not fully understood. Recent studies have shown that supplemental B6 upregulated the nuclear factor erythroid 2-like 2 (Nrf2) signaling pathway with the coordinated activation of antioxidant responses. Accumulating evidence suggests the potential of targeted Nrf2 signaling regulation in the treatment of aging-related musculoskeletal, heart, and brain diseases. Notably, dietary supplementation of B6 elevates the levels of several antioxidant metabolites, such as carnosine, anserine, taurine, hydrogen sulfide (H 2 S), 5-methyltetrahydrofolate, kynurenic acid, 3-hydroxyanthranilic acid, and &#x3b3;-aminobutyric acid (GABA) via the upregulation of pyridoxal 5'-phosphate (PLP)-dependent metabolic pathways, thereby linking to Nrf2 signaling activation. Furthermore, supplemental B6 stimulates glycogen breakdown through the PLP enzyme, glycogen",
+  "nota": "Kato 2026 — hipótese B6→PLP-metabolismo→Nrf2 (rev. hipótese; NÃO-CONSOLIDADO; [G1] explícito)"
+ }
+]

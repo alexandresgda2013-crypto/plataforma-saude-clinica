@@ -1,0 +1,1657 @@
+{
+ "data": "2026-09-11",
+ "bib": "B10",
+ "arquivo": "/home/user/BIBLIOTECAS/B10_DesregulacaoCircadiana/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json",
+ "backup": "/home/user/BIBLIOTECAS/B10_DesregulacaoCircadiana/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json.bak_20260911_173209",
+ "bloq_pre": 372,
+ "bloq_pos": 137,
+ "residual_schema": 137,
+ "decisoes": "DECISOES_HARMONIZACAO_SCHEMA_2026-09-11.md",
+ "alteracoes": [
+  {
+   "id_vinculo": "VINC_B10_001",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_002",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_003",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_004",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_005",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_006",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_007",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_008",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_009",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_010",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_011",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_012",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_013",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_014",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_015",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_016",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_017",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_018",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_019",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_020",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_021",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_022",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_023",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_024",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_025",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_026",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_027",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_028",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_029",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_030",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_031",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_032",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_033",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_034",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_035",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_036",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_037",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_038",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_039",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_040",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_040",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_041",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_041",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_042",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_042",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_043",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_043",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_044",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_044",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_045",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_045",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_046",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_046",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_047",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_047",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_048",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_048",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_049",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_049",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_050",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_050",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_051",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_051",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_052",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_052",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_053",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_053",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_054",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_054",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_055",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_055",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_056",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_056",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_057",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_057",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_058",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_058",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_059",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_059",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_060",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_060",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_061",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_061",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_062",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_062",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_063",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_063",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_064",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_064",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_065",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_065",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_066",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_066",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_067",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_067",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_068",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_068",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_069",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_069",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_070",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_070",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_071",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_071",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_072",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_072",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_073",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_073",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_074",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_074",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_075",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_075",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_076",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_076",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_077",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_077",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_078",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_078",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_079",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_079",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_080",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_080",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_081",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_081",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_082",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_082",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_083",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_083",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_084",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_084",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_085",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_085",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_086",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_086",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_087",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_087",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_088",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_088",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_089",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_089",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_090",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_090",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_091",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_091",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_092",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_092",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_093",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_093",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_094",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_094",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_095",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_095",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_096",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_096",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_097",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_097",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_098",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_098",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_099",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_099",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_100",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_100",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_101",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_101",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_102",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_102",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_103",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_103",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_104",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_104",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_105",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_105",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_106",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_106",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_107",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_107",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_108",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_108",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_109",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_109",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_110",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_110",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_111",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_111",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_112",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_112",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_113",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_113",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_114",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_114",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_115",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_115",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_116",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_116",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_117",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_117",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_118",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_118",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_119",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_119",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_120",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_120",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_121",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_121",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_122",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_122",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_123",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_123",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_124",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_124",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_125",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_125",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_126",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_126",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_127",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_127",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_128",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_128",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_129",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_129",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_130",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_130",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_131",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_131",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_132",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_132",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_133",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_133",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_134",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_134",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_135",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_135",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_136",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_136",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B10_137",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B10_137",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  }
+ ]
+}

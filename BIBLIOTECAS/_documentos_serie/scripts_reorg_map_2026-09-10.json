@@ -1,0 +1,632 @@
+[
+ {
+  "arquivo": "B10_build.py",
+  "destino": "B10_DesregulacaoCircadiana/atuais/producao/scripts/B10_build.py",
+  "md5": "8e16efd5feaac8b26e452e0daf5333b4"
+ },
+ {
+  "arquivo": "B10_canonica.md",
+  "destino": "B10_DesregulacaoCircadiana/atuais/producao/scripts/B10_canonica.md",
+  "md5": "3ff6b6b2e34bc557bbbb6146eb1ecbc8"
+ },
+ {
+  "arquivo": "B10_g1.py",
+  "destino": "B10_DesregulacaoCircadiana/atuais/producao/scripts/B10_g1.py",
+  "md5": "3e95d84a272be9abbbc71ac4ba73d208"
+ },
+ {
+  "arquivo": "B10_json_apply.py",
+  "destino": "B10_DesregulacaoCircadiana/atuais/producao/scripts/B10_json_apply.py",
+  "md5": "fd1c322c51e938e602c6bab28690802d"
+ },
+ {
+  "arquivo": "B10_md_apply.py",
+  "destino": "B10_DesregulacaoCircadiana/atuais/producao/scripts/B10_md_apply.py",
+  "md5": "f6ce768afc14e684df2f1c4d11a5545e"
+ },
+ {
+  "arquivo": "B11_build.py",
+  "destino": "B11_DisfuncaoTireoidiana/atuais/producao/scripts/B11_build.py",
+  "md5": "8fbd33963a25450da69fefc5c5fc36bf"
+ },
+ {
+  "arquivo": "B11_canonica.md",
+  "destino": "B11_DisfuncaoTireoidiana/atuais/producao/scripts/B11_canonica.md",
+  "md5": "5298025437d40906b7c48a943cd98421"
+ },
+ {
+  "arquivo": "B11_g1.py",
+  "destino": "B11_DisfuncaoTireoidiana/atuais/producao/scripts/B11_g1.py",
+  "md5": "5c3a51ccc76942cc0d28bb5201078429"
+ },
+ {
+  "arquivo": "B11_json_apply.py",
+  "destino": "B11_DisfuncaoTireoidiana/atuais/producao/scripts/B11_json_apply.py",
+  "md5": "e7d2acd72cf6cbfbb43fd15b294d6934"
+ },
+ {
+  "arquivo": "B11_md_apply.py",
+  "destino": "B11_DisfuncaoTireoidiana/atuais/producao/scripts/B11_md_apply.py",
+  "md5": "3d0952723f4fb9d7e8d9897e16747ec2"
+ },
+ {
+  "arquivo": "B12_build.py",
+  "destino": "B12_NeurobiologiaTrauma/atuais/producao/scripts/B12_build.py",
+  "md5": "d250a9c77969e161a3273cdc3caeea8b"
+ },
+ {
+  "arquivo": "B12_canonica.md",
+  "destino": "B12_NeurobiologiaTrauma/atuais/producao/scripts/B12_canonica.md",
+  "md5": "39eb3b8dd1305cf9ea3f2984bba64a81"
+ },
+ {
+  "arquivo": "B12_g1.py",
+  "destino": "B12_NeurobiologiaTrauma/atuais/producao/scripts/B12_g1.py",
+  "md5": "134f7da4e0f5bd8bea18ef2060f0d315"
+ },
+ {
+  "arquivo": "B12_json_apply.py",
+  "destino": "B12_NeurobiologiaTrauma/atuais/producao/scripts/B12_json_apply.py",
+  "md5": "840ddb50d3a58d66a56326d99cdc55ff"
+ },
+ {
+  "arquivo": "B12_md_apply.py",
+  "destino": "B12_NeurobiologiaTrauma/atuais/producao/scripts/B12_md_apply.py",
+  "md5": "e26e8ffdeaf88289778a366608429342"
+ },
+ {
+  "arquivo": "B13_build.py",
+  "destino": "B13_SistemaEndocanabinoide/atuais/producao/scripts/B13_build.py",
+  "md5": "fd57104bad1e58b6907aa44f81f6997b"
+ },
+ {
+  "arquivo": "B13_canonica.md",
+  "destino": "B13_SistemaEndocanabinoide/atuais/producao/scripts/B13_canonica.md",
+  "md5": "1a72df42d17d0af485fa4949fba16055"
+ },
+ {
+  "arquivo": "B13_g1.py",
+  "destino": "B13_SistemaEndocanabinoide/atuais/producao/scripts/B13_g1.py",
+  "md5": "0a0828a7eb9f23d35c533693762ce852"
+ },
+ {
+  "arquivo": "B13_json_apply.py",
+  "destino": "B13_SistemaEndocanabinoide/atuais/producao/scripts/B13_json_apply.py",
+  "md5": "c2a3d8c94523387ab11ae1b05f140c26"
+ },
+ {
+  "arquivo": "B13_md_apply.py",
+  "destino": "B13_SistemaEndocanabinoide/atuais/producao/scripts/B13_md_apply.py",
+  "md5": "8aad2a6b4538c83ea33ee18cd891105a"
+ },
+ {
+  "arquivo": "B14_build.py",
+  "destino": "B14_Neuroesteroides/atuais/producao/scripts/B14_build.py",
+  "md5": "166f57893668a88b78096c31d3b3dcc1"
+ },
+ {
+  "arquivo": "B14_confere.py",
+  "destino": "B14_Neuroesteroides/atuais/producao/scripts/B14_confere.py",
+  "md5": "94ab1070d4a7932eb3398289ed095a1b"
+ },
+ {
+  "arquivo": "B14_extrai.py",
+  "destino": "B14_Neuroesteroides/atuais/producao/scripts/B14_extrai.py",
+  "md5": "e3c77b5b79858667b3079634237ee14f"
+ },
+ {
+  "arquivo": "B14_g1.py",
+  "destino": "B14_Neuroesteroides/atuais/producao/scripts/B14_g1.py",
+  "md5": "63023a33659e28e3f29d25d35876eb27"
+ },
+ {
+  "arquivo": "B15_build.py",
+  "destino": "B15_AutofagiaMTOR/atuais/producao/scripts/B15_build.py",
+  "md5": "a2a5b43815347f3e8a7f761585eed839"
+ },
+ {
+  "arquivo": "B15_extrai.py",
+  "destino": "B15_AutofagiaMTOR/atuais/producao/scripts/B15_extrai.py",
+  "md5": "a374f4fff27eb1a602c686732bb8d1c6"
+ },
+ {
+  "arquivo": "B15_g1.py",
+  "destino": "B15_AutofagiaMTOR/atuais/producao/scripts/B15_g1.py",
+  "md5": "2cc02b06b442f6a97f3c1a4ddab88009"
+ },
+ {
+  "arquivo": "B16_build.py",
+  "destino": "B16_Neurogenese/atuais/producao/scripts/B16_build.py",
+  "md5": "098c8a17f7a42f611a3ac7c377cf6a9c"
+ },
+ {
+  "arquivo": "B16_confere.py",
+  "destino": "B16_Neurogenese/atuais/producao/scripts/B16_confere.py",
+  "md5": "35d1dca3ba764f757c30ab38c83093c8"
+ },
+ {
+  "arquivo": "B16_extrai.py",
+  "destino": "B16_Neurogenese/atuais/producao/scripts/B16_extrai.py",
+  "md5": "eef9d89126544ccd74212219f2dadfea"
+ },
+ {
+  "arquivo": "B16_g1.py",
+  "destino": "B16_Neurogenese/atuais/producao/scripts/B16_g1.py",
+  "md5": "3af21dfbfed3866e9112cf125a4b0da6"
+ },
+ {
+  "arquivo": "B16_vinculos.py",
+  "destino": "B16_Neurogenese/atuais/producao/scripts/B16_vinculos.py",
+  "md5": "29e00deaf7c4666182e45ddb19d19a1a"
+ },
+ {
+  "arquivo": "B1_at_resolve.py",
+  "destino": "B01_Neuroinflamacao/atuais/producao/scripts/B1_at_resolve.py",
+  "md5": "d90a3a451443c74d250663e47d3f2fff"
+ },
+ {
+  "arquivo": "B1_matriz_audit.py",
+  "destino": "B01_Neuroinflamacao/atuais/producao/scripts/B1_matriz_audit.py",
+  "md5": "cd6bb86e66965a61861623c9bd84ad4d"
+ },
+ {
+  "arquivo": "B1_matriz_cruza.py",
+  "destino": "B01_Neuroinflamacao/atuais/producao/scripts/B1_matriz_cruza.py",
+  "md5": "45fbf23e497701d2987ef4fcea24848b"
+ },
+ {
+  "arquivo": "B2_at_apply.py",
+  "destino": "B02_Eixo_HPA_cortisol/atuais/producao/scripts/B2_at_apply.py",
+  "md5": "bcef767067237beb3548b5597319866e"
+ },
+ {
+  "arquivo": "B2_matriz_audit.py",
+  "destino": "B02_Eixo_HPA_cortisol/atuais/producao/scripts/B2_matriz_audit.py",
+  "md5": "4764bcf726992f70ef6d053bffeb62ce"
+ },
+ {
+  "arquivo": "B3_at_cfg.py",
+  "destino": "B03_Neuroplasticidade/atuais/producao/scripts/B3_at_cfg.py",
+  "md5": "d101e3ba39a51c64cd6b429d7e061ab4"
+ },
+ {
+  "arquivo": "B3_json_apply.py",
+  "destino": "B03_Neuroplasticidade/atuais/producao/scripts/B3_json_apply.py",
+  "md5": "a20b343915995a085b941a6c36243603"
+ },
+ {
+  "arquivo": "B3_matriz_audit.py",
+  "destino": "B03_Neuroplasticidade/atuais/producao/scripts/B3_matriz_audit.py",
+  "md5": "9d36335781f89c03c25ade2d2941a950"
+ },
+ {
+  "arquivo": "B3_md_apply.py",
+  "destino": "B03_Neuroplasticidade/atuais/producao/scripts/B3_md_apply.py",
+  "md5": "4a9835007fb84f1bfffee0e21290f465"
+ },
+ {
+  "arquivo": "B4_at_build.py",
+  "destino": "B04_Monoaminas/atuais/producao/scripts/B4_at_build.py",
+  "md5": "848514d966eae2b28729331f18834880"
+ },
+ {
+  "arquivo": "B4_at_cfg.py",
+  "destino": "B04_Monoaminas/atuais/producao/scripts/B4_at_cfg.py",
+  "md5": "2e3da51f7b52ee0d17188c1b03848803"
+ },
+ {
+  "arquivo": "B4_json_apply.py",
+  "destino": "B04_Monoaminas/atuais/producao/scripts/B4_json_apply.py",
+  "md5": "6f6a30e792bbfde7cd69ef24fe631d5a"
+ },
+ {
+  "arquivo": "B4_matriz_audit.py",
+  "destino": "B04_Monoaminas/atuais/producao/scripts/B4_matriz_audit.py",
+  "md5": "ff5363de2386d14faa78b3c632ce4895"
+ },
+ {
+  "arquivo": "B4_md_apply.py",
+  "destino": "B04_Monoaminas/atuais/producao/scripts/B4_md_apply.py",
+  "md5": "d611c5e53ec8c5a22e403f3d7bd8ba84"
+ },
+ {
+  "arquivo": "B5_at_build.py",
+  "destino": "B05_GabaGlutamato/atuais/producao/scripts/B5_at_build.py",
+  "md5": "84696dee8501bbfc74c0f6ca19f70a5f"
+ },
+ {
+  "arquivo": "B5_decisao.py",
+  "destino": "B05_GabaGlutamato/atuais/producao/scripts/B5_decisao.py",
+  "md5": "3b354867c77c4e2d0e00a6b4f7309e59"
+ },
+ {
+  "arquivo": "B5_g1.py",
+  "destino": "B05_GabaGlutamato/atuais/producao/scripts/B5_g1.py",
+  "md5": "31d37bbbcbf533dcdf3b82fb3884c0f2"
+ },
+ {
+  "arquivo": "B5_g1b.py",
+  "destino": "B05_GabaGlutamato/atuais/producao/scripts/B5_g1b.py",
+  "md5": "f460b684cfa1c4e661f3ff222495abee"
+ },
+ {
+  "arquivo": "B5_json_apply.py",
+  "destino": "B05_GabaGlutamato/atuais/producao/scripts/B5_json_apply.py",
+  "md5": "4286f5b90085458a986d4b5414a01f6d"
+ },
+ {
+  "arquivo": "B5_md_apply.py",
+  "destino": "B05_GabaGlutamato/atuais/producao/scripts/B5_md_apply.py",
+  "md5": "ec1424861a1138296d9bcc6db2b98af4"
+ },
+ {
+  "arquivo": "B5_parse.py",
+  "destino": "B05_GabaGlutamato/atuais/producao/scripts/B5_parse.py",
+  "md5": "323b3b88d258d27b6c4414c30abbca69"
+ },
+ {
+  "arquivo": "B6_at_build.py",
+  "destino": "B06_EstresseOxidativo/atuais/producao/scripts/B6_at_build.py",
+  "md5": "8872540e996d1d4da8b62c6d920877d7"
+ },
+ {
+  "arquivo": "B6_decisao.py",
+  "destino": "B06_EstresseOxidativo/atuais/producao/scripts/B6_decisao.py",
+  "md5": "ddd7370afc93dce0766f9d30102f1d89"
+ },
+ {
+  "arquivo": "B6_decisao_final.py",
+  "destino": "B06_EstresseOxidativo/atuais/producao/scripts/B6_decisao_final.py",
+  "md5": "ad6573050f7a1954f354fa9aa845163a"
+ },
+ {
+  "arquivo": "B6_decisao_view.txt",
+  "destino": "B06_EstresseOxidativo/atuais/producao/scripts/B6_decisao_view.txt",
+  "md5": "b5a61809cf32a3f7136c78d882988c5f"
+ },
+ {
+  "arquivo": "B6_fix.py",
+  "destino": "B06_EstresseOxidativo/atuais/producao/scripts/B6_fix.py",
+  "md5": "74bd890277c7a88adab235b3d56bd473"
+ },
+ {
+  "arquivo": "B6_g1.py",
+  "destino": "B06_EstresseOxidativo/atuais/producao/scripts/B6_g1.py",
+  "md5": "90a02e7db9b635960b19bc2174f53acf"
+ },
+ {
+  "arquivo": "B6_g1b.py",
+  "destino": "B06_EstresseOxidativo/atuais/producao/scripts/B6_g1b.py",
+  "md5": "efe60b9f2490338557bf5f5db3058ebe"
+ },
+ {
+  "arquivo": "B6_g1c.py",
+  "destino": "B06_EstresseOxidativo/atuais/producao/scripts/B6_g1c.py",
+  "md5": "6e43889e3bdfe647f882a2702ec14abe"
+ },
+ {
+  "arquivo": "B6_gpm_check.py",
+  "destino": "B06_EstresseOxidativo/atuais/producao/scripts/B6_gpm_check.py",
+  "md5": "5496439ca6f1cccfe084caba1f67c26b"
+ },
+ {
+  "arquivo": "B6_json_apply.py",
+  "destino": "B06_EstresseOxidativo/atuais/producao/scripts/B6_json_apply.py",
+  "md5": "cbea7bb1d48fb8d73cd1677d8889eeea"
+ },
+ {
+  "arquivo": "B6_md_apply.py",
+  "destino": "B06_EstresseOxidativo/atuais/producao/scripts/B6_md_apply.py",
+  "md5": "45cf258ea1ef73281cd977a31d9de6db"
+ },
+ {
+  "arquivo": "B6_parse.py",
+  "destino": "B06_EstresseOxidativo/atuais/producao/scripts/B6_parse.py",
+  "md5": "5124daa59a68410acec9c2b47e6df5b0"
+ },
+ {
+  "arquivo": "B7_at_build.py",
+  "destino": "B07_EixoIntestinoCerebro/atuais/producao/scripts/B7_at_build.py",
+  "md5": "6b4a54b1a3ab9184a9f11041f4c8ed58"
+ },
+ {
+  "arquivo": "B7_cruzamento.py",
+  "destino": "B07_EixoIntestinoCerebro/atuais/producao/scripts/B7_cruzamento.py",
+  "md5": "da96bd91893e325fd160da6464081c72"
+ },
+ {
+  "arquivo": "B7_cruzamento2.py",
+  "destino": "B07_EixoIntestinoCerebro/atuais/producao/scripts/B7_cruzamento2.py",
+  "md5": "ffac6394d45b61d74af5449dd7d77c3b"
+ },
+ {
+  "arquivo": "B7_decisao.py",
+  "destino": "B07_EixoIntestinoCerebro/atuais/producao/scripts/B7_decisao.py",
+  "md5": "092d3867215eba7ef34b56a6d85ec1e7"
+ },
+ {
+  "arquivo": "B7_decisao_final.py",
+  "destino": "B07_EixoIntestinoCerebro/atuais/producao/scripts/B7_decisao_final.py",
+  "md5": "edc70b08859a75be1e0c8d9ad3737e33"
+ },
+ {
+  "arquivo": "B7_decisao_view.py",
+  "destino": "B07_EixoIntestinoCerebro/atuais/producao/scripts/B7_decisao_view.py",
+  "md5": "24af18ba1ec8f01c14cd56919caf8934"
+ },
+ {
+  "arquivo": "B7_decisao_view.txt",
+  "destino": "B07_EixoIntestinoCerebro/atuais/producao/scripts/B7_decisao_view.txt",
+  "md5": "04f66ecb4da28e03105ad25cc1af5c75"
+ },
+ {
+  "arquivo": "B7_fila_final.txt",
+  "destino": "B07_EixoIntestinoCerebro/atuais/producao/scripts/B7_fila_final.txt",
+  "md5": "59b001279515b64f5ca975f7b82a19b5"
+ },
+ {
+  "arquivo": "B7_g1.py",
+  "destino": "B07_EixoIntestinoCerebro/atuais/producao/scripts/B7_g1.py",
+  "md5": "c8d047458499ef1d7b1bfe2cdb92b8cb"
+ },
+ {
+  "arquivo": "B7_g1b.py",
+  "destino": "B07_EixoIntestinoCerebro/atuais/producao/scripts/B7_g1b.py",
+  "md5": "e550ec6b07768fbb59c66b6bf7378852"
+ },
+ {
+  "arquivo": "B7_json_apply.py",
+  "destino": "B07_EixoIntestinoCerebro/atuais/producao/scripts/B7_json_apply.py",
+  "md5": "7f7fcaac2fecbdf13ca127eb36b14022"
+ },
+ {
+  "arquivo": "B7_md_apply.py",
+  "destino": "B07_EixoIntestinoCerebro/atuais/producao/scripts/B7_md_apply.py",
+  "md5": "cbf11f21c8bfdb3149b3e72cd885ee1c"
+ },
+ {
+  "arquivo": "B8_at_build.py",
+  "destino": "B08_Micronutrientes/atuais/producao/scripts/B8_at_build.py",
+  "md5": "8ec0da39f1f540e5192f595c1c25ec3b"
+ },
+ {
+  "arquivo": "B8_decisao.py",
+  "destino": "B08_Micronutrientes/atuais/producao/scripts/B8_decisao.py",
+  "md5": "b79071d3b8b18670984fdb663a7de776"
+ },
+ {
+  "arquivo": "B8_fila_view.txt",
+  "destino": "B08_Micronutrientes/atuais/producao/scripts/B8_fila_view.txt",
+  "md5": "79cb86e40ba1ce6b0cb8baae8e996a80"
+ },
+ {
+  "arquivo": "B8_g1.py",
+  "destino": "B08_Micronutrientes/atuais/producao/scripts/B8_g1.py",
+  "md5": "42db53e3c9289ed56227c376d33838a6"
+ },
+ {
+  "arquivo": "B8_g1b.py",
+  "destino": "B08_Micronutrientes/atuais/producao/scripts/B8_g1b.py",
+  "md5": "2941d502cb4be61a6c2ac6580d22a87b"
+ },
+ {
+  "arquivo": "B8_json_apply.py",
+  "destino": "B08_Micronutrientes/atuais/producao/scripts/B8_json_apply.py",
+  "md5": "fef106859380743bb7fa7c07a8093658"
+ },
+ {
+  "arquivo": "B8_md_apply.py",
+  "destino": "B08_Micronutrientes/atuais/producao/scripts/B8_md_apply.py",
+  "md5": "6203b4a9ea5df86f7316b9ee78d83ca5"
+ },
+ {
+  "arquivo": "B8_parse.py",
+  "destino": "B08_Micronutrientes/atuais/producao/scripts/B8_parse.py",
+  "md5": "2dc93f5ae2f5b37f48e20198a6655b3e"
+ },
+ {
+  "arquivo": "B9_decisao.py",
+  "destino": "B09_DisfuncaoMitocondrial/atuais/producao/scripts/B9_decisao.py",
+  "md5": "a30ad6445fd434b3cf71956873bdfee8"
+ },
+ {
+  "arquivo": "B9_fila_view.txt",
+  "destino": "B09_DisfuncaoMitocondrial/atuais/producao/scripts/B9_fila_view.txt",
+  "md5": "2e3e01ab6123d19bcbf1086135ba0826"
+ },
+ {
+  "arquivo": "B9_g1.py",
+  "destino": "B09_DisfuncaoMitocondrial/atuais/producao/scripts/B9_g1.py",
+  "md5": "676cb55b3398c220d5c06e3b89550760"
+ },
+ {
+  "arquivo": "B9_g1b.py",
+  "destino": "B09_DisfuncaoMitocondrial/atuais/producao/scripts/B9_g1b.py",
+  "md5": "d3ce795e00dd5a38dfab7f9f5aea667d"
+ },
+ {
+  "arquivo": "B9_g1v2.py",
+  "destino": "B09_DisfuncaoMitocondrial/atuais/producao/scripts/B9_g1v2.py",
+  "md5": "f989520f4cd69d393ec50125b45e37a5"
+ },
+ {
+  "arquivo": "B9_json_apply.py",
+  "destino": "B09_DisfuncaoMitocondrial/atuais/producao/scripts/B9_json_apply.py",
+  "md5": "ddf0010f2d116fe1d6d88f38c69cb2d4"
+ },
+ {
+  "arquivo": "B9_md_apply.py",
+  "destino": "B09_DisfuncaoMitocondrial/atuais/producao/scripts/B9_md_apply.py",
+  "md5": "3516b6e0e59fc5d7ab23ee1b8e2a2581"
+ },
+ {
+  "arquivo": "B9_parse.py",
+  "destino": "B09_DisfuncaoMitocondrial/atuais/producao/scripts/B9_parse.py",
+  "md5": "7895f089f374fdcf7a76e0732bed5537"
+ },
+ {
+  "arquivo": "_insp_b2_rec.py",
+  "destino": "_documentos_serie/scripts_serie/_insp_b2_rec.py",
+  "md5": "bdf886621ab4f45bda240061163aa922"
+ },
+ {
+  "arquivo": "add_exame_ids.py",
+  "destino": "_documentos_serie/scripts_serie/add_exame_ids.py",
+  "md5": "512f945f064937313dbfa23efa3672a1"
+ },
+ {
+  "arquivo": "b10_gen_refs.py",
+  "destino": "B10_DesregulacaoCircadiana/atuais/producao/scripts/b10_gen_refs.py",
+  "md5": "4a4fb38f64433d112a838cd5517fbbc4"
+ },
+ {
+  "arquivo": "b11_gen_refs.py",
+  "destino": "B11_DisfuncaoTireoidiana/atuais/producao/scripts/b11_gen_refs.py",
+  "md5": "30cf0385cafd4591f84cacc21ca08a02"
+ },
+ {
+  "arquivo": "b12_gen_refs.py",
+  "destino": "B12_NeurobiologiaTrauma/atuais/producao/scripts/b12_gen_refs.py",
+  "md5": "2f24eb60095b6c58b5e8e71a4cb20b12"
+ },
+ {
+  "arquivo": "b13_gen_refs.py",
+  "destino": "B13_SistemaEndocanabinoide/atuais/producao/scripts/b13_gen_refs.py",
+  "md5": "404320e8b4ab4a52cd76549df1d0f91e"
+ },
+ {
+  "arquivo": "b9_refs.py",
+  "destino": "B09_DisfuncaoMitocondrial/atuais/producao/scripts/b9_refs.py",
+  "md5": "95d6fcd1159a2f698426da0c08d7eb28"
+ },
+ {
+  "arquivo": "p4_gera_artefatos.py",
+  "destino": "_documentos_serie/scripts_serie/p4_gera_artefatos.py",
+  "md5": "fed1d461284083bee9445ee40837dd73"
+ },
+ {
+  "arquivo": "p4_verifica.py",
+  "destino": "_documentos_serie/scripts_serie/p4_verifica.py",
+  "md5": "c794e52eb8a42666d691100c2e26c0b0"
+ },
+ {
+  "arquivo": "producao_b3_audit_log.txt",
+  "destino": "B03_Neuroplasticidade/atuais/producao/scripts/producao_b3_audit_log.txt",
+  "md5": "3365d015df6a1fc05966b25ec20439dd"
+ },
+ {
+  "arquivo": "producao_b4_audit_log.txt",
+  "destino": "B04_Monoaminas/atuais/producao/scripts/producao_b4_audit_log.txt",
+  "md5": "f75d387dc60427e08f9281bfe7e83885"
+ },
+ {
+  "arquivo": "regen_b567.py",
+  "destino": "_documentos_serie/scripts_serie/regen_b567.py",
+  "md5": "1c289e3d062e13d1626f6f037513d0c2"
+ },
+ {
+  "arquivo": "retro_contrato_decisoes.py",
+  "destino": "_documentos_serie/scripts_serie/retro_contrato_decisoes.py",
+  "md5": "00d9a9bf340fb34455f23f33a6eed9b9"
+ },
+ {
+  "arquivo": "retrocompat_mod9_ledger.py",
+  "destino": "_documentos_serie/scripts_serie/retrocompat_mod9_ledger.py",
+  "md5": "92a9438dbb3fcadde67211f3747b3539"
+ },
+ {
+  "arquivo": "upd_b567.py",
+  "destino": "_documentos_serie/scripts_serie/upd_b567.py",
+  "md5": "ec1a038bbf91ec0c496a8fe1eb623ec0"
+ },
+ {
+  "arquivo": "B14_json_apply.py",
+  "destino": "B14_Neuroesteroides/atuais/producao/scripts/B14_json_apply.py",
+  "md5": "a2fad5da67a588ffb31620ae94418182",
+  "nota": "realocação p/ uniformidade"
+ },
+ {
+  "arquivo": "B14_md_apply.py",
+  "destino": "B14_Neuroesteroides/atuais/producao/scripts/B14_md_apply.py",
+  "md5": "75d37c5690706be295325032869dd4ed",
+  "nota": "realocação p/ uniformidade"
+ },
+ {
+  "arquivo": "b14_ancoras.json",
+  "destino": "B14_Neuroesteroides/atuais/producao/scripts/b14_ancoras.json",
+  "md5": "50421222b50ef9bd0618e17cbd1b2e01",
+  "nota": "realocação p/ uniformidade"
+ },
+ {
+  "arquivo": "b14_efetch_sel.json",
+  "destino": "B14_Neuroesteroides/atuais/producao/scripts/b14_efetch_sel.json",
+  "md5": "f906c4eec73772809b59d30fc2f86e17",
+  "nota": "realocação p/ uniformidade"
+ },
+ {
+  "arquivo": "b14_gen_refs.py",
+  "destino": "B14_Neuroesteroides/atuais/producao/scripts/b14_gen_refs.py",
+  "md5": "ba4698a9965d3df1a702f32b775d7a7d",
+  "nota": "realocação p/ uniformidade"
+ },
+ {
+  "arquivo": "b14_refs_data.json",
+  "destino": "B14_Neuroesteroides/atuais/producao/scripts/b14_refs_data.json",
+  "md5": "1ac315844241681670ff6c7864a788c9",
+  "nota": "realocação p/ uniformidade"
+ },
+ {
+  "arquivo": "B15_json_apply.py",
+  "destino": "B15_AutofagiaMTOR/atuais/producao/scripts/B15_json_apply.py",
+  "md5": "8eb710f6f6a495cfaf623ef173eb5a38",
+  "nota": "realocação p/ uniformidade"
+ },
+ {
+  "arquivo": "B15_md_apply.py",
+  "destino": "B15_AutofagiaMTOR/atuais/producao/scripts/B15_md_apply.py",
+  "md5": "09e56e92be3b85f2fd61b3e7d46ad826",
+  "nota": "realocação p/ uniformidade"
+ },
+ {
+  "arquivo": "b15_ancoras.json",
+  "destino": "B15_AutofagiaMTOR/atuais/producao/scripts/b15_ancoras.json",
+  "md5": "07e9dd3c9134d3d65843b8042ccfd77c",
+  "nota": "realocação p/ uniformidade"
+ },
+ {
+  "arquivo": "b15_efetch_sel.json",
+  "destino": "B15_AutofagiaMTOR/atuais/producao/scripts/b15_efetch_sel.json",
+  "md5": "27341dc18d8d0e2c2ea30aa91c349155",
+  "nota": "realocação p/ uniformidade"
+ },
+ {
+  "arquivo": "b15_gen_refs.py",
+  "destino": "B15_AutofagiaMTOR/atuais/producao/scripts/b15_gen_refs.py",
+  "md5": "744e17a81bb06abdfec223ede5df49fc",
+  "nota": "realocação p/ uniformidade"
+ },
+ {
+  "arquivo": "b15_refs_data.json",
+  "destino": "B15_AutofagiaMTOR/atuais/producao/scripts/b15_refs_data.json",
+  "md5": "4e27e65c79cfc2f0632680f6354b55d1",
+  "nota": "realocação p/ uniformidade"
+ },
+ {
+  "arquivo": "B16_json_apply.py",
+  "destino": "B16_Neurogenese/atuais/producao/scripts/B16_json_apply.py",
+  "md5": "3025a4d54bb243f222be59895c2379c7",
+  "nota": "realocação p/ uniformidade"
+ },
+ {
+  "arquivo": "B16_md_apply.py",
+  "destino": "B16_Neurogenese/atuais/producao/scripts/B16_md_apply.py",
+  "md5": "6c88f39d19559781bbe9786cb6b0c0d0",
+  "nota": "realocação p/ uniformidade"
+ },
+ {
+  "arquivo": "RELATORIO_EXECUCAO_B16_AT_2026-09-09.md",
+  "destino": "B16_Neurogenese/atuais/producao/RELATORIO_EXECUCAO_B16_AT_2026-09-09.md",
+  "md5": "df8caa7b3bfdf86e179730ccc5a41071",
+  "nota": "realocação p/ uniformidade"
+ }
+]

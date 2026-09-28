@@ -1,0 +1,19 @@
+Ancoragem: **9/9 conferem byte a byte.** Os nomes chegaram mutilados pelo upload — `2º PROTOCOLO DE ESCOPO — B1 (v1.3).md` virou `2º_PROTOCOLO_DE_ESCOPO___B1__v1_3_.md` — e é exatamente contra isso que a digital serve. O conteúdo é idêntico ao que vocês mediram.
+
+**As duas pendências que eu devia.** O sha por extenso: `be48a5efa1d67f9e7b4ae3a38fdcf562b924cc03fc58e91baa2c63a3c6b33e92`.
+
+E a divergência do diff está reconciliada, com causa localizada. Os **hunks batem em 3** — meu "5" foi artefato de contar as linhas de cabeçalho de intervalo do diff simples, erro meu de contagem. Já as linhas tocadas divergem de verdade: minhas são **+17/−7**, as de vocês **+10/−7**. Remoções idênticas, adições diferentes em 7 linhas — e a causa é que meu bloco V-07 traz um comentário de 6 linhas documentando o contraexemplo F-C2 e por que a regra passou de cardinalidade para conjunto. A redação da carta 11 não o incluía. **Os arquivos não são idênticos, apenas equivalentes em comportamento** (2/299 dos dois lados). Vai anexo o meu para confronto byte a byte; se preferirem o de vocês, o comportamento é o mesmo — eu só recomendaria preservar o comentário, porque daqui a seis meses ninguém lembra por que aquele teste virou conjunto.
+
+**Sobre o kit, medi por conta própria e confirmo em espécie — com uma precisão de escopo que muda o dimensionamento.** O kit de fato carrega os campos: `uso` em 23 ocorrências (12 `clinico`, 6 `contexto_mecanistico`, 4 `gap_pesquisa`), `comparador` em 59 com oito valores distintos, `moderadores` em 22, `usado_em_biblioteca` em 23.
+
+Mas `evidence_role` **é 22/22** `human_clinical` **— um único valor.** Por desenho: SM-02 é a trilha humana. Então o kit fornece a **semântica** dos dois eixos que faltam ao P-8 (o enum e o que cada valor significa), não os **dados** para as 237 fichas. Das quais 133 são `preclinical_mechanistic` e 30 são `review`, e para essas o kit não diz nada. A frase "o material de origem dos 2 ERRO existe e está tipificado" é verdadeira sobre o vocabulário e otimista sobre a cobertura: são 22 claims, um valor, 10 PMIDs presentes na V7.
+
+**O achado que eu quero registrar é arquitetural, e nenhuma carta o nomeou.** O kit é uma **camada que a Arquitetura V2 não contém.** A cadeia da V2 começa na Biblioteca Canônica; o kit fica a montante dela — é a curadoria atômica que deveria tê-la produzido. E o próprio kit sabe que não foi consumido: `usado_em_biblioteca: nao` em 22/22, 43 claims `B1.SM02.*` e zero `B1.MEC.*`.
+
+Isso é uma decisão do operador, não da casa nem minha, e ela tem duas saídas honestas. Ou o kit é **histórico/superado** — e então deve ser declarado como tal, com os 39 PMIDs não incorporados virando curadoria arquivada. Ou é a **camada de origem pretendida** — e então a V2 precisa de uma camada antes da Biblioteca, e o contrato precisa dizer como o fio `claim → biblioteca` se estabelece. O que não pode é ficar como está: duas linhas vivas sem fio, cada uma achando que é a origem.
+
+E há uma consequência concreta para a D-03 que vale a pena ver agora: o kit tem **4 claims marcados** `uso: gap_pesquisa` — lacunas de pesquisa *declaradas e auditadas*. É precisamente o insumo que distingue `evidencia_insuficiente` de `inexistencia_cientifica`, e o acervo hoje mal consegue ancorar isso (4 vínculos `nao_estabelecida` em 274). **A cadeia atual descarta lacunas tipadas que a curadoria já produziu.** Seja qual for a decisão sobre a camada, esses quatro deveriam sobreviver.
+
+Anotei também os dois candidatos reais de piloto da L-06 que a bancada ofereceu — o conflito de disposição 33339712/30696814 e a contradição C1q Luo 2022 × Yao &amp; Li 2020. O segundo é melhor: é par por objeto e natureza, cai direto na matriz 1.2, e testa a escada com ciência real em vez de caso sintético.
+
+Sigo para a Fase 4, o Contrato das Unidades Narrativas, salvo se você quiser decidir antes a questão da camada do kit — ela muda o que a NT-B1 consome.

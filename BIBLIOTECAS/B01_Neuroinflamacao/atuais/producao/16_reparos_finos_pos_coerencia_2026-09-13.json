@@ -1,0 +1,19 @@
+{
+ "data": "2026-09-13",
+ "condicao": "reparos finos pós-reparo_coerencia (sobras decidíveis mecanicamente)",
+ "ops": [
+  {
+   "op": "R-05b",
+   "id": "VINC_B1_0005",
+   "prova": "nt(fatia)==nt(armazenada)",
+   "de": "O que distingue ativação adaptativa de patológica não é a presença de citocinas ",
+   "para": "O que distingue ativação **adaptativa** de **patológica** não é a presença de ci"
+  },
+  {
+   "op": "R-02b",
+   "id": "VINC_B1_0175",
+   "de": "listra-lote §11",
+   "para": "No SNC, o achado mais forte é o **ácido quinolínico microglial**: depressão grave associa-"
+  }
+ ]
+}

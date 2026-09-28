@@ -1,0 +1,323 @@
+{
+  "data": "2026-09-13",
+  "origem": "re-auditoria Auditor-Mestre 2026-09-13",
+  "dry_run": false,
+  "operacoes": [
+    {
+      "op": "R-01",
+      "arquivo": "01_pmids.json",
+      "id": "REF_COMAI_2022",
+      "de": "citocinas e razao KYN/TRP associam-se seletivamente a alteracoes de substancia branca em bipolar/TDM",
+      "para": "citocinas e razao KYN/TRP associam-se seletivamente a alteracoes de substancia branca em depressao BIPOLAR e NAO em unipolar (titulo PubMed 34847455)"
+    },
+    {
+      "op": "R-01",
+      "arquivo": "02_meta_analises.json",
+      "id": "REF_ENACHE_2019",
+      "de": "Marcadores CENTRAIS de inflamação no TDM (LCR/PET/pós-morte): meta — parcialmente independentes do periférico",
+      "para": "meta-analise de marcadores centrais no TDM em LCR e PET (69 estudos); pos-morte tratado como revisao narrativa, sem metanalise; marcadores centrais parcialmente independentes dos perifericos"
+    },
+    {
+      "op": "R-01",
+      "arquivo": "vinculos",
+      "id": "VINC_B1_0219",
+      "de": "Meta tri-compartimental; dissociação central-periférica e heterogeneidade.",
+      "para": "Meta de LCR e PET (69 estudos); pos-morte apenas narrativo. Dissociacao central-periferica e heterogeneidade. 2026-09-13 (R11/AUD-030, re-auditoria): escopo corrigido — nao e meta tri-compartimental."
+    },
+    {
+      "op": "R-01",
+      "arquivo": "vinculos",
+      "id": "VINC_B1_0247",
+      "de": "[EXTRAPOLADO: PSP->TDM]; questão aberta do PET.",
+      "para": "[EXTRAPOLADO: PSP->TDM]. Unica validacao pos-morte (n=8, PSP): correlacao POSITIVA entre PK11195 in vivo e carga microglial CD68+/TSPO pos-morte. 2026-09-13 (R11/AUD-029, re-auditoria): enquadramento 'questao aberta' substituido pelo resultado positivo, com limite de amostra e extrapolacao pendente."
+    },
+    {
+      "op": "R-02",
+      "id": "VINC_B1_0258",
+      "ref": "REF_BIANCHI_2007",
+      "claim_id": "B1.MEC.BLOCO02.024",
+      "ancora_nova": "Têm efeito **dual por concentração e afinidade de receptor**: em níveis fisiológicos (nanomolar), S100B é trófico para n"
+    },
+    {
+      "op": "R-02",
+      "id": "VINC_B1_0259",
+      "ref": "REF_BOATO_2011",
+      "claim_id": "B1.MEC.BLOCO03.001",
+      "ancora_nova": "Em cultura, IL-1β suprime a sobrevivência neuronal mediada por neurotrofinas e interage com crescimento neurítico de for"
+    },
+    {
+      "op": "R-02",
+      "id": "VINC_B1_0260",
+      "ref": "REF_FRANKLIN_2018",
+      "claim_id": "B1.MEC.BLOCO02.007",
+      "ancora_nova": "RAGE em astrócitos é tratado como \"mais que uma questão de humor\" pela literatura (Franklin et al., 2018)[ML; camundongo"
+    },
+    {
+      "op": "R-02",
+      "id": "VINC_B1_0263",
+      "ref": "REF_LAWRENCE_2023",
+      "claim_id": "B1.MEC.BLOCO02.014",
+      "ancora_nova": "Astócitos reativos associados a neuropatologia são revisados sistematicamente (Lawrence et al., 2023)[OB; revisão, human"
+    },
+    {
+      "op": "R-02",
+      "id": "VINC_B1_0264",
+      "ref": "REF_LI_2017",
+      "claim_id": "B1.MEC.BLOCO02.016",
+      "ancora_nova": "O paradigma de causalidade humana mais próximo de B1 é a **depressão induzida por interferon-α**: pacientes tratados com"
+    },
+    {
+      "op": "R-02",
+      "id": "VINC_B1_0267",
+      "ref": "REF_NOAH_2021",
+      "claim_id": "B1.MEC.BLOCO05.005",
+      "ancora_nova": "- **Neopterina:** marcador de ativação de macrófago/IFN-γ (co-produto da via BH4); medida com IL-6/KYN em contexto cirúr"
+    },
+    {
+      "op": "R-02",
+      "id": "VINC_B1_0268",
+      "ref": "REF_POLETTI_2024",
+      "claim_id": "B1.MEC.BLOCO05.004",
+      "ancora_nova": "Marcadores de revisão recente consolidam mediadores inflamatórios em TDM e bipolar (Poletti et al., 2024)[OB; humano]."
+    },
+    {
+      "op": "R-02",
+      "id": "VINC_B1_0269",
+      "ref": "REF_SUGIMOTO_2022",
+      "claim_id": "B1.MEC.BLOCO02.013",
+      "ancora_nova": "Em dor neuropática, mecanismos imunes pró-resolutivos são mapeados como alvo terapêutico (Fiore et al., 2023)[OB; revisã"
+    },
+    {
+      "op": "R-02",
+      "id": "VINC_B1_0270",
+      "ref": "REF_ZDILAR_2000",
+      "claim_id": "B1.MEC.BLOCO06.003",
+      "ancora_nova": "Revisões clínicas consolidam hepatite C/IFN-α e depressão (Zdilar et al., 2000)[OB; humano, sem abstract — texto complet"
+    },
+    {
+      "op": "R-02",
+      "id": "VINC_B1_0271",
+      "ref": "REF_ZENARO_2017",
+      "claim_id": "B1.MEC.BLOCO04.003",
+      "ancora_nova": "A BHE na neurodegeneração é revista com componentes celulares separados (Zenaro et al., 2017)[OB; revisão] [EXTRAPOLADO:"
+    },
+    {
+      "op": "R-02",
+      "id": "VINC_B1_0272",
+      "ref": "REF_ZHOU_2024",
+      "claim_id": "B1.MEC.BLOCO02.018",
+      "ancora_nova": "A via está consolidada como mecanismo de neuroinflamação em doenças neurológicas (Huang et al., 2023)[OB; revisão, human"
+    },
+    {
+      "op": "R-02",
+      "id": "VINC_B1_0273",
+      "ref": "REF_ZHOU_2025",
+      "claim_id": "B1.MEC.BLOCO02.016",
+      "ancora_nova": "O paradigma de causalidade humana mais próximo de B1 é a **depressão induzida por interferon-α**: pacientes tratados com"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0002",
+      "de": "Essa ativação aguda é programada para resolver ativamente: mediadores lipídicos pró-resolu",
+      "para": "Essa ativação aguda é programada para **resolver ativamente**: mediadores lipídicos pró-re"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0003",
+      "de": "Essa ativação aguda é programada para resolver ativamente: mediadores lipídicos pró-resolu",
+      "para": "Essa ativação aguda é programada para **resolver ativamente**: mediadores lipídicos pró-re"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0006",
+      "de": "O estado resultante é de priming microglial: a micróglia permanece \"sensibilizada\", com li",
+      "para": "O estado resultante é de **priming microglial**: a micróglia permanece \"sensibilizada\", co"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0009",
+      "de": "Cronologicamente, o quadro inicia-se em horas (pico de citocinas 2-6 h pós-LPS), atinge o ",
+      "para": "Cronologicamente, o quadro inicia-se em horas (pico de citocinas 2–6 h pós-LPS), atinge o "
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0016",
+      "de": "Sua ativação exige dois sinais: o sinal 1 (priming) — TLR4/TNFR/IL-1R → NF-κB — induz a tr",
+      "para": "Sua ativação exige **dois sinais**: o sinal 1 (priming) — TLR4/TNFR/IL-1R → NF-κB — induz "
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0033",
+      "de": "A bifurcação celular é funcionalmente oposta: em astrócitos, KAT (kynurenine aminotransfer",
+      "para": "A bifurcação celular é funcionalmente oposta: em **astrócitos**, KAT (kynurenine aminotran"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0034",
+      "de": "O triptofano é desviado da serotonina para a via da quinurenina por ação de IDO1 (induzida",
+      "para": "O triptofano é desviado da serotonina para a via da quinurenina por ação de **IDO1** (indu"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0044",
+      "de": "Sequência: receptor (TLR4/MyD88, TNFR1 ou IL-1R1) → IRAK/TRAF6 → complexo IKK → fosforilaç",
+      "para": "Sequência: receptor (TLR4/MyD88, TNFR1 ou IL-1R1) → **IRAK/TRAF6 → complexo IKK → fosforil"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0046",
+      "de": "IFN tipo I (IFN-α/β via IFNAR) e tipo II (IFN-γ via IFNGR) sinalizam por JAK1/JAK2/TYK2 → ",
+      "para": "IFN tipo I (IFN-α/β via IFNAR) e tipo II (IFN-γ via IFNGR) sinalizam por JAK1/JAK2/TYK2 → "
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0048",
+      "de": "PGE2 sinaliza pelos receptores EP1-EP4 e é o mediador central da febre e de parte do sickn",
+      "para": "PGE2 sinaliza pelos receptores EP1–EP4 e é o mediador central da **febre** e de parte do s"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0051",
+      "de": "Há prova manipulável no SNC: na disfunção cognitiva pós-operatória por sevoflurano, a ativ",
+      "para": "Há prova manipulável no SNC: na disfunção cognitiva pós-operatória por sevoflurano, a ativ"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0054",
+      "de": "O achado humano seminal: um polimorfismo funcional em FKBP5 (regulador do receptor de glic",
+      "para": "O achado humano seminal: um polimorfismo funcional em **FKBP5** (regulador do receptor de "
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0066",
+      "de": "Demonstração elegante: após lesão cerebral traumática, a simples remoção da micróglia pouc",
+      "para": "Demonstração elegante: após lesão cerebral traumática, a simples remoção da micróglia pouc"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0070",
+      "de": "IFN-γ induz priming em micróglia por ativação STAT1-mediada do inflamassoma NLRP3: em cult",
+      "para": "IFN-γ induz priming em micróglia por ativação **STAT1-mediada do inflamassoma NLRP3**: em "
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0076",
+      "de": "P2Y12 é receptor homeostático microglial que guia processos ao dano e mantém vigilância (m",
+      "para": "**P2Y12** é receptor homeostático microglial que guia processos ao dano e mantém vigilânci"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0077",
+      "de": "A quimiocina CCL2 (MCP-1) produzida no parênquima atravessa o endotélio microvascular cere",
+      "para": "A quimiocina **CCL2 (MCP-1)** produzida no parênquima atravessa o endotélio microvascular "
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0078",
+      "de": "O receptor CCR2 é o receptor dominante de quimiotaxia de monócitos Ly6C^high; inibição de ",
+      "para": "O receptor **CCR2** é o receptor dominante de quimiotaxia de monócitos Ly6C^high; inibição"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0079",
+      "de": "A adesão depende de ICAM-1 no endotélio/astrócito ativado: telmisartana inibe adesão leuco",
+      "para": "A adesão depende de **ICAM-1** no endotélio/astrócito ativado: telmisartana inibe adesão l"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0090",
+      "de": "O estado DAM (microglia associada a doença) depende do eixo TREM2-APOE: uma assinatura tra",
+      "para": "O estado **DAM (microglia associada a doença)** depende do eixo **TREM2–APOE**: uma assina"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0092",
+      "de": "Um trabalho de 2024 identificou uma chave molecular que separa reatividade neuroprotetora ",
+      "para": "Um trabalho de 2024 identificou uma **chave molecular** que separa reatividade neuroprotet"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0096",
+      "de": "Os pericitos regulam a BHE: sua integridade é necessária para manter as junções e a baixa ",
+      "para": "Os **pericitos regulam a BHE**: sua integridade é necessária para manter as junções e a ba"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0097",
+      "de": "O achado mais relevante para depressão: estresse social crônico (derrota social em camundo",
+      "para": "O achado mais relevante para depressão: estresse social crônico (derrota social em camundo"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0099",
+      "de": "Em humanos, a estimulação vagal auricular transcutânea (taVNS) aumenta conectividade amígd",
+      "para": "Em humanos, a **estimulação vagal auricular transcutânea (taVNS)** aumenta conectividade a"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0102",
+      "de": "A taVNS modula conectividade amígdala-CPFdl (Liu et al., 2020)[EC; humano][VERIFICADO].",
+      "para": "A taVNS modula conectividade **amígdala–CPFdl** (Liu et al., 2020)[EC; humano] [VERIFICADO"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0105",
+      "de": "O SNC drena pela glinfática e por vasos linfáticos meníngeos, que afetam a resposta microg",
+      "para": "O SNC drena pela **glinfática** e por **vasos linfáticos meníngeos**, que afetam a respost"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0106",
+      "de": "O SNC drena pela glinfática e por vasos linfáticos meníngeos, que afetam a resposta microg",
+      "para": "O SNC drena pela **glinfática** e por **vasos linfáticos meníngeos**, que afetam a respost"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0112",
+      "de": "A meta-análise mais recente quantificou tanto diferenças de média quanto variabilidade, te",
+      "para": "A meta-análise mais recente quantificou tanto diferenças de média quanto **variabilidade**"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0123",
+      "de": "No SNC, o achado mais forte é o ácido quinolínico microglial: depressão grave associa-se a",
+      "para": "No SNC, o achado mais forte é o **ácido quinolínico microglial**: depressão grave associa-"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0125",
+      "de": "Além do TSPO-PET, três camadas de imagem complementam o quadro: conectividade funcional có",
+      "para": "Além do TSPO-PET, três camadas de imagem complementam o quadro: **conectividade funcional "
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0141",
+      "de": "Se NF-κB é o nó transcricional, o inflamassoma NLRP3 é o nó executor a jusante: recebe o p",
+      "para": "Se NF-κB é o nó transcricional, o **inflamassoma NLRP3** é o nó executor a jusante: recebe"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0166",
+      "de": "Esse scaling é mediado por TNF-α glial: o TNF derivado da glia ajusta a força de receptore",
+      "para": "Esse scaling é mediado por **TNF-α glial**: o TNF derivado da glia ajusta a força de recep"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1_0178",
+      "de": "- Depressão perinatal: disfunção do ajuste imunológico gestacional; Treg/Th17 (BLOCO04.006",
+      "para": "- **Depressão perinatal:** disfunção do ajuste imunológico gestacional; Treg/Th17 (BLOCO04"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1V2_0205",
+      "de": "Minociclina atenua a retenção de memória de medo em voluntários saudáveis em ensaio random",
+      "para": "**Minociclina atenua a retenção de memória de medo em voluntários saudáveis** em ensaio ra"
+    },
+    {
+      "op": "R-05",
+      "id": "VINC_B1V2_0206",
+      "de": "Minociclina atenua a retenção de memória de medo em voluntários saudáveis em ensaio random",
+      "para": "**Minociclina atenua a retenção de memória de medo em voluntários saudáveis** em ensaio ra"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "trilha": 78,
+  "rodada": 65,
+  "data": "2026-09-22",
+  "verde": 10,
+  "total": 10,
+  "checks": [
+    {
+      "check": "T1_REPRODUCAO_DO_ERRO",
+      "status": "VERDE",
+      "nota": "padrão antigo \"atribui\" (7 letras) = 0× na minuta 1 (cai no í acentuado) · radical \"atribu\" (6 letras) = 1× — o zero foi artefato do acento; trilha 75 l.43 usou 7 letras em m1 e 6 em r10 (régua assimétrica)"
+    },
+    {
+      "check": "T2_MINUTA1_LINHA97",
+      "status": "VERDE",
+      "nota": "minuta 1 (PARTE 4, item 2 — Simetria), linha 97 verbatim: \"…rótulos **atribuídos por relação**, não por posição.\" → CONCEITO está na minuta 1"
+    },
+    {
+      "check": "T3_NIVEIS_DECLARADOS",
+      "status": "VERDE",
+      "nota": "L1 exata \"atribuição por relação\" = 0× na minuta 1 · L2 família \"atribu*\" = 1 linha (l.97) · L3 conceito = PRESENTE via trinca da l.97. O \"0×\" antigo só era verdade no L1 e foi publicado como se fosse L3"
+    },
+    {
+      "check": "T4_REDACAO_COMENTADOR_TEXTOH",
+      "status": "VERDE",
+      "nota": "TextoH l.229-230: regra autônoma \"3. **Atribuição por relação.** Quando os degraus 5 ou 6 produzirem rótulos, estes serão atribuídos à relação…, nunca à posição…\" → a forma-norma encorpada é mesmo da pena do comentador"
+    },
+    {
+      "check": "T5_REV5_JA_CORRETA",
+      "status": "VERDE",
+      "nota": "rev.5 §6.3 (l.180): \"(Conceito: minuta 1 do Mestre, §4 — \\\"rótulos atribuídos por relação, não por posição\\\". Redação desta frase: Comentador…)\" → o texto NORMATIVO candidato não precisa de emenda; quem erra é o MEU registro histórico"
+    },
+    {
+      "check": "T6_RAIZ_E_DA_MINUTA1",
+      "status": "VERDE",
+      "nota": "minuta 1 l.79 (mestre, 15/09): \"…desce silenciosamente a escada… **falta de dado vira afirmação de coexistência**\" · RESPOSTA_10 = 0× → a ata creditou a raiz à RESPOSTA_10 (casa): FONTE TROCADA; a raiz é do mestre"
+    },
+    {
+      "check": "T7_NORMA_E_DO_COMENTADOR",
+      "status": "VERDE",
+      "nota": "TextoH Parte 8 (l.278): \"A ausência de uma dependência não autoriza substituição silenciosa por outro campo semanticamente parecido.\" · minuta 1 tem o diagnóstico (l.79, \"silenciosamente\") mas 0× \"substitu*\" → norma-redação = comentador, raiz-conceito = minuta 1 l.79"
+    },
+    {
+      "check": "T8_REGUA_SIMETRICA",
+      "status": "VERDE",
+      "nota": "mesmos radicais nos 5 corpora (m1, r10, TextoH, TextoM, rev.5), sem vogal acentuável na borda → contagens: {'atribu': [1, 0, 4, 1, 10], 'silencio': [1, 1, 1, 2, 3], 'substitu': [0, 1, 1, 4, 4]} — esta é a régua R-BUSCA-1 em exercício"
+    },
+    {
+      "check": "T9_REV5_INTEGRA",
+      "status": "VERDE",
+      "nota": "rev.5 = 601c1f18… confere (rodada 64). NOTA: este arquivo vive em uploads/ — série recebe cópia com DIGITAIS nesta rodada (dívida doméstica)"
+    },
+    {
+      "check": "T10_TEXTOM_SEM_A_REGRA",
+      "status": "VERDE",
+      "nota": "TextoM (8ad6bc15…): 0× \"atribuição por relação\" e 0× flexão \"atribuíd*\" → forma-regra vive só no TextoH. FALSO AMIGO DO RADICAL: \"atribu\" dá 1× no TextoM (l.169: Se a conclusão depender de um degrau posterior, mas algum degrau anterior obrigatório estiver indisponível, nã) — é \"atribuir força\" (regra de degrau indisponível), outro sentido. Lição ao vivo da R-BUSCA-1: radical serve p/ ENCONTRAR candidatos; o veredito exige ler a trinca (sentido), senão o falso amigo vira dado"
+    }
+  ],
+  "resumo": "TRILHA 78: 10/10 — MAPA CORRIGIDO: (1) \"atribuição por relação\": conceito+quase-frase = minuta 1 l.97 (PARTE 4, Simetria) · forma-regra = comentador TextoH l.229-230 · rev.5 já correta. (2) anti-substituição silenciosa: raiz-conceito = minuta 1 l.79 (mestre) · norma-redação = comentador TextoH Parte 8 l.278. CONFISSÕES: C78-1 (\"atribui\" 7 letras cego ao í de \"atribuídos\"; régua assimétrica 7l×6l no mesmo teste) · C78-2 (raiz creditada à RESPOSTA_10 quando era da minuta 1 — fonte trocada). NADA muda em bytes/digitais/244/matriz/trilha 77.",
+  "confissoes": [
+    "C78-1",
+    "C78-2"
+  ],
+  "corpus": {
+    "m1": "3b6a15a0b311a7b73f8793e1187a353df92201a11d7746e9082d18c4f6c38595",
+    "r10": "cc40dfa0ed31f08407f96b848283ccdf429e2caa00561a83fd2565d2e74db0e6",
+    "th": "1a51d9b970bb3ecb3f574b76dc772f77c2f599eb7fab70fd7919216c1cb93846",
+    "tm": "8ad6bc157efe4c1a41f84a686a21a0f27a1549221508b46638d21cdb20968e09",
+    "rev5": "601c1f18d074e6e4488dd8a6ee3364345e51713f7d0277cd1637add838a79608"
+  }
+}

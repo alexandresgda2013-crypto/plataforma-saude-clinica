@@ -1,0 +1,81 @@
+{
+  "trilha": 99,
+  "data": "2026-09-25",
+  "objeto": "subscricoes_v13_ressalva_VK6_minuta_rev3",
+  "digitais": {
+    "mestre": "124d9137e53ab013c1589debb04d021dcaa26e548f1b69bf6967fe25cf78ac79",
+    "estrutura": "88289248e040aafbcdcb69dbce1b283f9797d811754c6f3bb23826cda2d8c71a",
+    "rev2": "bd9360e0aa8f59ce3308659684e17cfbb820f9daab133d18d09a57ecdad87101",
+    "rev3": "28cbc9c76006f485f340da124aa1795833afa56d38e6572a9279d94a88f6b94c"
+  },
+  "total": 9,
+  "ok": 9,
+  "resultado": [
+    {
+      "id": "T1",
+      "descricao": "Mestre upload ≡ série",
+      "ok": true,
+      "detalhe": {
+        "sha": "124d9137e53ab013c1589debb04d021dcaa26e548f1b69bf6967fe25cf78ac79",
+        "bytes": 6363
+      }
+    },
+    {
+      "id": "T2",
+      "descricao": "Mestre: SUBSCREVO SEM RESSALVA",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T3",
+      "descricao": "Estrutura: subscreve com ressalva V-K6",
+      "ok": true,
+      "detalhe": {
+        "vk6": true
+      }
+    },
+    {
+      "id": "T4",
+      "descricao": "armadilha: sustenta+condicao VIOLA N2",
+      "ok": true,
+      "detalhe": {
+        "sustenta_cond": true
+      }
+    },
+    {
+      "id": "T5",
+      "descricao": "condicional+condicao aceito; sustenta+null aceito",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T6",
+      "descricao": "rev.3: V-K6 precedência escrita",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T7",
+      "descricao": "rev.3: V-K7 grau_maturidade ausência ≠ null gravado",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T8",
+      "descricao": "rev.3 preserva conteúdo da rev.2 e é distinta",
+      "ok": true,
+      "detalhe": {
+        "sha_r2": "bd9360e0aa8f59ce3308659684e17cfbb820f9daab133d18d09a57ecdad87101",
+        "sha_r3": "28cbc9c76006f485f340da124aa1795833afa56d38e6572a9279d94a88f6b94c"
+      }
+    },
+    {
+      "id": "T9",
+      "descricao": "estado: M sem + E ressalva sanada em rev.3 ⇒ 2× novo sobre rev.3",
+      "ok": true,
+      "detalhe": {
+        "proximo": "Comentador (ciclo da ressalva) → janelas rev.3"
+      }
+    }
+  ]
+}

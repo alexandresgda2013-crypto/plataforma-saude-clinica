@@ -1,0 +1,51 @@
+[
+ {
+  "pmid_oficial": "39558003",
+  "titulo_artigo": "Hippocampal neurogenesis in adult primates: a systematic review",
+  "autores": [
+   "Elliott T",
+   "Liu KY",
+   "Hazan J",
+   "Wilson J",
+   "Vallipuram H",
+   "Jones K"
+  ],
+  "revista_ano": "Molecular psychiatry (2025)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B16_neurogenese",
+  "achado_central_molecular": "REVISÃO SISTEMÁTICA da NG no hipocampo de PRIMATAS adultos (elo translacional) [primatas/revisão sistemática Q1]",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ELLIOTT_2025"
+  ],
+  "id_referencia_interna": "REF_ELLIOTT_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g1_resumo": "eutils (Briefing B16; 288/288 resolvem PubMed; 2025)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Elliott",
+   "ELLIOTT"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B16_neurogenese",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ }
+]

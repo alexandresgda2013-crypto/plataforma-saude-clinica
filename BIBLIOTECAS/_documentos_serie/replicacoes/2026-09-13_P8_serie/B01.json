@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "canonica": "B1 NEUROINFLAMAÇÃO V6 CANONICA.md",
+    "sha256": "d8f41662c4e41ec32104100d27ec59a9c16399d16ac2b4b1732c2ad1bd3363d7",
+    "refs": 237,
+    "vinculos": 274,
+    "ledger": 237
+  },
+  "itens": [
+    {
+      "nivel": "OK",
+      "regra": "V-00",
+      "objeto": "-",
+      "mensagem": "canônica: B1 NEUROINFLAMAÇÃO V6 CANONICA.md (20382 palavras)"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-00",
+      "objeto": "-",
+      "mensagem": "Módulo 09: 237 · vínculos: 274 · ledger: 237"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-01",
+      "objeto": "-",
+      "mensagem": "274/274 âncoras literais; 0 com deriva TIPOGRÁFICA; 0 com deriva LEXICAL"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-04",
+      "objeto": "-",
+      "mensagem": "integridade referencial íntegra nos dois sentidos"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-05",
+      "objeto": "-",
+      "mensagem": "citações reconhecidas: 277/286 (96.9% de cobertura sobre universo de 286)"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1_0022",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_WEI_2024 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1_0061",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_DONATO_2013 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1_0068",
+      "mensagem": "prosa ancorada qualifica o achado (['reduzidos']) mas nem achado_central_molecular de REF_ELENI_2025 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1_0123",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_STEINER_2011 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1_0131",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_OSIMO_2020 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1_0175",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_STEINER_2011 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1V2_0193",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_GAO_2023 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1V2_0194",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_KOMLEVA_2021 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1V2_0199",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_PASSOS_2015 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1V2_0200",
+      "mensagem": "prosa ancorada qualifica o achado (['reduzido']) mas nem achado_central_molecular de REF_BHATT_2020 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1V2_0201",
+      "mensagem": "prosa ancorada qualifica o achado (['reduzido']) mas nem achado_central_molecular de REF_RUPPRECHT_2022 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1V2_0205",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_XIA_2024 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1V2_0206",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_BI_2016 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1V2_0207",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_WITTENBERG_2020 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1_0222",
+      "mensagem": "prosa ancorada qualifica o achado (['apenas']) mas nem achado_central_molecular de REF_HAROON_2020 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1_0229",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_WANG_2021 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1_0233",
+      "mensagem": "prosa ancorada qualifica o achado (['apenas']) mas nem achado_central_molecular de REF_LIU_2022b nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B1_0235",
+      "mensagem": "prosa ancorada qualifica o achado (['apenas', 'inalterada', 'não']) mas nem achado_central_molecular de REF_ALMULLA_2022 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-08",
+      "objeto": "27%",
+      "mensagem": "claim quantitativo sem âncora de vínculo na mesma linha: «**artefato_rotulo:** CANÔNICA V6 (rev. principal datada 2026-09-13 sobre a V5 — continuida…»"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-08",
+      "objeto": "18%",
+      "mensagem": "claim quantitativo sem âncora de vínculo na mesma linha: «- TSPO-PET: o polimorfismo rs6971 (ligante baixa/alta afinidade) e a expressão em astrócit…»"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-08",
+      "objeto": "100%",
+      "mensagem": "claim quantitativo sem âncora de vínculo na mesma linha: «a 100% de literalidade contra esta Canônica: 151 re-extrações automáticas do pipeline da…»"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-08",
+      "objeto": "n=8",
+      "mensagem": "claim quantitativo sem âncora de vínculo na mesma linha: «3. **R11 (menores textuais):** rótulo de desenho do Gavril 2024 (estudo original, não revi…»"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-08",
+      "objeto": "27%",
+      "mensagem": "claim quantitativo sem âncora de vínculo na mesma linha: «- **C3/AUD-051 — [AT]:** REF_OSIMO_2019 (PubMed 31258105, Psychological medicine 2019; met…»"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-09",
+      "objeto": "claim_id",
+      "mensagem": "30 de 274 vínculos (10.9%) sem claim_id — malha de rastreabilidade não navegável por claim"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-10",
+      "objeto": "ledger",
+      "mensagem": "221 de 237 (93%) entradas com citacao_literal preenchida por TOKEN e não por citação literal — o detector de deriva ledger×texto está inoperante"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-13",
+      "objeto": "-",
+      "mensagem": "sha256 da canônica: d8f41662c4e41ec3…"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-13",
+      "objeto": "-",
+      "mensagem": "hash conferido contra a trilha campo sha256_canonica_vigente (registrado em 2026-09-13)"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-14",
+      "objeto": "-",
+      "mensagem": "docstring x implementação coerentes: 14 regras anunciadas, todas executadas"
+    }
+  ]
+}

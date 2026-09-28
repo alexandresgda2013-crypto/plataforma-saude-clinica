@@ -1,0 +1,83 @@
+[
+ {
+  "pmid_oficial": "33146667",
+  "titulo_artigo": "Effects of Psilocybin-Assisted Therapy on Major Depressive Disorder: A Randomized Clinical Trial.",
+  "autores": [
+   "Davis AK",
+   "Barrett FS",
+   "May DG",
+   "Cosimano MP"
+  ],
+  "revista_ano": "JAMA Psychiatry 2021",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B3_neuroplasticidade",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_DAVIS_2021"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_DAVIS_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Davis",
+   "DAVIS"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "33795646",
+  "titulo_artigo": "Translating the immediate effects of S-Ketamine using hippocampal subfield analysis in healthy subjects-results of a randomized controlled trial.",
+  "autores": [
+   "Höflich A"
+  ],
+  "revista_ano": "Translational psychiatry 2021",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B3_neuroplasticidade",
+  "achado_central_molecular": "Antidepressant doses of ketamine rapidly facilitate synaptic plasticity and modify neuronal function within prefrontal and hippocampal circuits. However, most studies have demonstrated these effects in animal models and translational studies in humans are scarce. A recent animal study showed that ketamine restored dendritic spines in the…",
+  "extrapolacao_por_analogia": "—",
+  "ids_referencia_interna": [
+   "REF_HOFLICH_2021"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B3 confirmado em auditoria [AT] (título/abstract MeSH)",
+  "g3_verificado_por": "IA G3 (geração) — B3 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_HOFLICH_2021",
+  "doi": "10.1038/s41398-021-01318-6",
+  "claim_id_origem": "B3.MEC.BLOCO05.062",
+  "_aliases": [
+   "Hoflich",
+   "HOFLICH"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ }
+]

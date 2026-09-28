@@ -1,0 +1,46 @@
+==============================================================================
+CHECKLIST DE ENTREGA — B1 (B1 NEUROINFLAMAÇÃO V7 CANONICA.md)
+==============================================================================
+  [OK]   Canônica .md presente
+  [OK]   13 BLOCOs (00-12)
+  [OK]   Tabela de evidências
+  [OK]   Controvérsias/lacunas
+  [OK]   Elementos moleculares (UniProt/HGNC)
+  [OK]   Marcadores resumidos (RAG)
+  [OK]   ≥7000 palavras
+  [OK]   SEM PMID numérico no texto
+  [OK]   SEM DOI no texto
+  [OK]   SEM "grade A-D" literal (mecanismo usa forca_evidencia)
+  [OK]   SEM doses/posologia (P20)
+  [OK]   SEM valores de corte laboratorial (P20)
+  [OK]   Tags [MA][EC][OB][ML][AT] presentes
+  [OK]   P12 natureza_sistema (bloco hard_fail)
+  [OK]   P16 referência cruzada a mecanismo_B16_neurogenese
+  [OK]   P17 ID canônico do mecanismo
+  [OK]   P17 16 chaves de connection_strength (B1-B16)
+  [OK]   R04 sinalizador [APENAS PRÉ-CLÍNICO] ou EXTRAPOLAÇÃO
+  [OK]   R06 semantic_layer (Recuperar quando)
+  [OK]   R06 clinical_summary (3 frases)
+  [OK]   R06 corte_literatura declarado
+  [OK]   P20 biomarcadores referenciados por ID oficial (exame_*)
+  [OK]   P20 exames sem ID catalogado sinalizados em prosa
+  [OK]   Módulo 09: 01_pmids.json presente
+  [OK]   Módulo 09: 02_meta_analises.json presente
+  [OK]   Módulo 09: 03_ensaios_clinicos.json presente
+  [OK]   Módulo 09: 04_atualizacoes_literatura.json presente
+  [OK]   Módulo 09: 05_manuais_e_livros.json presente
+  [OK]   Módulo 09: refs com id_referencia_interna (REF_SOBRENOME_ANO)
+  [OK]   Módulo 09: G1 eutils em todas as refs
+  [OK]   Módulo 09: sem pmid duplicado
+  [OK]   Módulo 09: campo doi e claim_id_origem
+  [OK]   Vínculos N2 presentes
+  [OK]   Vínculos: status_auditoria em enum
+  [OK]   Vínculos: trecho_ancora preenchido
+  [OK]   Auditoria_Bx: ledger presente
+  [OK]   Auditoria_Bx: relatório decisoes presente
+  [OK]   Ledger: objeto verificacao em toda decisão
+  [OK]   Manifesto com versao/corte/historico
+  [OK]   PORTÃO gate_script.py (P-5)
+  [OK]   PORTÃO validar_auditoria.py (framework): 0 ERRO
+------------------------------------------------------------------------------
+RESULTADO: 41/41 itens OK | 0 FALHA(S)

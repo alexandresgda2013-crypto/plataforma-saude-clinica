@@ -1,0 +1,70 @@
+{
+  "trilha": "45b",
+  "data": "2026-09-17",
+  "objeto": "pós-instalação V2.2 vigente",
+  "checks": [
+    {
+      "check": "vigente = sha da candidata aprovada (df7f7cfd…)",
+      "ok": true,
+      "detalhe": "df7f7cfdfc01cf77"
+    },
+    {
+      "check": "SUPERSEDED V2.1 intacta (1a50645e…)",
+      "ok": true,
+      "detalhe": "1a50645e260984ab"
+    },
+    {
+      "check": "ponteiro aponta p/ V2.2 com sha e cadeia V1→V2→V2.1→V2.2",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "desenho §2: 0 unificad · 1 PASTA DE ATUALIZAÇÃO própria",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "unificad total na vigente = 1 (citação histórica na linha Rev)",
+      "ok": true,
+      "detalhe": "1"
+    },
+    {
+      "check": "31 cabeçalhos \"# \" · 30 seções numeradas únicas 1..30",
+      "ok": true,
+      "detalhe": "31/30"
+    },
+    {
+      "check": "origem_conhecimento ×3 (Rev · desenho · prosa)",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "canonico | atualizacao presente (Rev + desenho + prosa)",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "tríade + explicação + anamnese + busca ativa + conexão preservadas",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "ESCOPO CIRÚRGICO: sufixo §3→fim BYTE-IDÊNTICO vs V2.1 (catálogo 146 · §§5-30 · §18/§19/§20)",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "0 ciência: V7 6e2c2979… · manifesto 79d1309a… · P-8 84fa918d… · vínculos 490675e6…",
+      "ok": true,
+      "detalhe": ""
+    }
+  ],
+  "confissao_2": "1ª régua deste check esperava 2 (desenho+prosa); a linha Rev também carrega o par — real medido = 3. Régua corrigida para ==3 com camada declarada (Rev · desenho · prosa). Confissão datada 2026-09-17.",
+  "selos": {
+    "V7": "6e2c29797e6322f16dcc5248cce552be613dd11f1de957c66aaa913e69225238",
+    "manifesto": "79d1309a168922d0e8bf43736cd5b21c8b361bdf64e3b200eeeafd43806f3a9c",
+    "P8": "84fa918d09899d54995ae41d65b0787a7a52888ba6177ce77583483b1124fe8b",
+    "vinculos": "490675e63122a24baebd8890f4a7883a07f68916d90562e74adf309133501d1b"
+  },
+  "resultado_ok": true
+}

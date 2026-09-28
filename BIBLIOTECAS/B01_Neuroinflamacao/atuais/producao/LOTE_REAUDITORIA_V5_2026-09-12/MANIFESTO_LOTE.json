@@ -1,0 +1,107 @@
+{
+ "lote": "LOTE_REAUDITORIA_V5_2026-09-12",
+ "gerado_em": "2026-09-12",
+ "escopo": "§6 da réplica do Auditor-Mestre (2026-09-11) — re-auditoria B1 V5",
+ "itens": [
+  {
+   "arquivo": "canonica_B1_V5.md",
+   "sha256": "3c6dda4d2f319dd64fbc119768266c0962b88d35d87a406bb3d4e94477e574c3",
+   "origem": "BIBLIOTECAS/B01_Neuroinflamacao/atuais/B1 NEUROINFLAMAÇÃO V5 CANONICA.md"
+  },
+  {
+   "arquivo": "canonica_B1_v4.1_preservada_pos_auditoria.md",
+   "sha256": "43b7673bd2f9d65fcc20bce93f0a104c0105be48480770cf3c7dbfc4cc08a63e",
+   "origem": "BIBLIOTECAS/B01_Neuroinflamacao/antigos/historico/v4_1_canonica_pos_auditoria_integral_2026-09-11.md"
+  },
+  {
+   "arquivo": "manifesto_biblioteca.json",
+   "sha256": "441374507d96331e3150df4b8de96c9a38f9ff13600d96889c4dba1ff357d516",
+   "origem": "BIBLIOTECAS/B01_Neuroinflamacao/atuais/Evidencias/Bibliografia/_manifesto_biblioteca.json"
+  },
+  {
+   "arquivo": "vinculos_referencia_afirmacao.json",
+   "sha256": "3c8677dbc5fbaf6f011d096a4350a5d815b15ab5decd8a51332661a71501728c",
+   "origem": "BIBLIOTECAS/B01_Neuroinflamacao/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json"
+  },
+  {
+   "arquivo": "ledger_auditoria_B1.json",
+   "sha256": "0d095e7b70c88b942771fa68e822fbfbb4d915a6dbba515b780b6601e38b085b",
+   "origem": "BIBLIOTECAS/B01_Neuroinflamacao/atuais/Auditoria_B1/ledger_auditoria_B1.json"
+  },
+  {
+   "arquivo": "decisoes_B1.md",
+   "sha256": "0441e14bdc666cf14ae43984c7f34f4cec106405fd73371e4ab101f120ae6283",
+   "origem": "BIBLIOTECAS/B01_Neuroinflamacao/atuais/Auditoria_B1/decisoes_B1.md"
+  },
+  {
+   "arquivo": "matriz_b1_at_final.json",
+   "sha256": "1cbc71fb16fcbad44b250df0093e6f51df015f916f9971c2fe5d96e03cbf70f1",
+   "origem": "BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/insumos/matriz_b1_at_final.json"
+  },
+  {
+   "arquivo": "RELATORIO_AUDITORIA_MATRIZ_B1.md",
+   "sha256": "f4ca470b68f499662b95028f97ad1242616871bc309fd61500a4c944fed905b1",
+   "origem": "BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/insumos/RELATORIO_AUDITORIA_MATRIZ_B1.md"
+  },
+  {
+   "arquivo": "LISTA_CANONICA_B1_v1.2.md",
+   "sha256": "940c00ef4e3ffdd1c035c3257ec3e2287b983dc0ed348c7f638e53823d8388d2",
+   "origem": "Ferramentas de geração e auditoria/02_fase1_gpm_profundidade/7º LISTA CANÔNICA — B1 TRILHA MECANÍSTICA GPM_B1 ARENA.md"
+  },
+  {
+   "arquivo": "trilha_10_execucao_V5_N2.json",
+   "sha256": "83ac2dba7e64773efb358ee4463c15ed737a71bb6d4d394c24356db07fbf27c5",
+   "origem": "BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/10_execucao_V5_N2_reparos_2026-09-11.json"
+  },
+  {
+   "arquivo": "trilha_11_R8_orfas.json",
+   "sha256": "ed4496092556721329e4118deacbd31e94155b01aaed0300017cb17b70cc4fea",
+   "origem": "BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/11_R8_orfas_B01_2026-09-11.json"
+  },
+  {
+   "arquivo": "trilha_12_R3_parciais_v2.json",
+   "sha256": "3cf7ee5bee74ab114d0d12d076ef85662991c8357b76b82b71711fd37b73ac24",
+   "origem": "BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/12_R3_parciais_v2_B01_2026-09-11.json"
+  },
+  {
+   "arquivo": "trilha_13_reancora_pontuacao.json",
+   "sha256": "76f3dff0154ab559b519ab35b939a71c02e02573e745f8c3db13f5f21e8a8c6c",
+   "origem": "BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/13_reancora_pontuacao_B01_2026-09-11.json"
+  },
+  {
+   "arquivo": "trilha_14_R4_lista_v12.json",
+   "sha256": "2339bb3d278c3b7c6a02da399438a860f05fea5d02217e484e9e33fb6bc4e22e",
+   "origem": "BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/14_R4_lista_v12_B01_2026-09-11.json"
+  },
+  {
+   "arquivo": "censo_pos_R1_R13_2026-09-12.txt",
+   "sha256": "46ae1727cb086b209cfe69e788c8218a32fe839bb7d6ac48c3da17a1ca03257a",
+   "origem": "BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/censo_pos_R1_R13_2026-09-12.txt"
+  },
+  {
+   "arquivo": "DECLARACAO_LOG_BUSCA_D-B1-R13-LOG.md",
+   "sha256": "f6caa0b6913487d28aa70d24668f734f2cd66b75f7a9c4b9d6ae9b6810961f00",
+   "origem": "gerada no lote"
+  },
+  {
+   "arquivo": "FILA_REVISAO_CEGA_ALTO_RISCO_B1_2026-09-12.json",
+   "sha256": "d86604cf5e525929f6980722904652ef199d5857bb969085d18ac931af4ee5df",
+   "origem": "gerada no lote (critério operacional declarado no próprio arquivo)"
+  },
+  {
+   "arquivo": "log_de_busca_top10/ (0 arquivo(s))",
+   "sha256": null,
+   "origem": "atuais/producao/log_de_busca (cópia literal)"
+  },
+  {
+   "arquivo": "LEIA_ME_LOTE_REAUDITORIA_B1_V5.md",
+   "sha256": "1fdfcdeb88f69054a1f8398d23256178aba7e0d584054e14c7a03dcc55c40442",
+   "origem": "gerada no lote (carta-capa §6)"
+  },
+  {
+   "arquivo": "INSTRUMENTO_REVISAO_CEGA_P6_PROPOSTA_2026-09-12.md",
+   "sha256": "6a46cd170356fef9c1d4bcfc354e8e3d2e93869e409b6685ca7208405f8dc721",
+   "origem": "gerada no lote (PROPOSTA — a ratificar)"
+  }
+ ]
+}

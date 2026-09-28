@@ -1,0 +1,19 @@
+{
+ "data": "2026-09-11",
+ "bib": "B12",
+ "backup": "/home/user/BIBLIOTECAS/B12_NeurobiologiaTrauma/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json.bak_20260911_230723",
+ "regra": "S1–S4 (cabeçalho do script)",
+ "resolvidos": [
+  {
+   "id": "VINC_B12_021",
+   "ref": "REF_SHIN_2010",
+   "escolhida": "O modelo fundador postula amígdala\nhiper-reativa + falha de inibição top-down (Rauch 2006)[EC]; (Shin 2006)[EC]; (Liberz",
+   "score": 2.203,
+   "segunda": 0.14,
+   "n_cand": 2,
+   "empate": false
+  }
+ ],
+ "sem_presenca": [],
+ "residual_contrato": 111
+}

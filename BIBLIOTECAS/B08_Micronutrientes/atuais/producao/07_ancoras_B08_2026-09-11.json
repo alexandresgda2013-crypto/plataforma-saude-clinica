@@ -1,0 +1,20 @@
+{
+ "data": "2026-09-11",
+ "bib": "B08",
+ "backup": "/home/user/BIBLIOTECAS/B08_Micronutrientes/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json.bak_20260911_174342",
+ "aplicadas": [
+  {
+   "id": "VINC_B8_010",
+   "modo": "lit_PROSA"
+  },
+  {
+   "id": "VINC_B8_020",
+   "modo": "lit_PROSA"
+  },
+  {
+   "id": "VINC_B8_031",
+   "modo": "lit_PROSA"
+  }
+ ],
+ "restantes_fila": 6
+}

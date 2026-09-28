@@ -1,0 +1,72 @@
+{
+  "trilha": 43,
+  "data": "2026-09-17",
+  "rodada": "24 (continuação datada)",
+  "objeto": "instalação da V2.1 vigente (decisão do operador, opção A) — verificação pós-instalação",
+  "script_de_geracao": "passos executados em shell com comandos gravados neste JSON (campo 'comandos'); arquivo gerado por python com newline='' para PRESERVAR CRLF",
+  "comandos": [
+    "read_text(newline='') → split → edições pontuais (régua: assertion antes de cada edição)",
+    "diff upload×instalada → exatamente 4 blocos (ver 'diff_pos_correcao')",
+    "mv vigente-antiga → SUPERSEDED_ ; cp instalada ; sha256sum dos dois ; reescrita de ARQUITETURA_VIGENTE.txt"
+  ],
+  "cadeia_vigencia": {
+    "V2.1_VIGENTE_sha256": "1a50645e260984ab7b78b95abc177bdb171203f55f22990c195e5cefa0a94b60",
+    "upload_original_sha256": "5be36836610d26832506b73dac45baa09e7041bc9ce22e6557f2be59b258e06a",
+    "V2_SUPERSEDED_sha256": "09692e18a5a65958bde4545ed6ff804c21c5945411159988654c7664c8a4a4e2",
+    "V1_SUPERSEDED_sha256": "8f050469632ce3e83426e382075ab4747a59f478daa70f88a2287310541821d7"
+  },
+  "diff_pos_correcao_upload_x_instalada": [
+    "3a4  > linha '**Rev. V2.1 — 2026-09-17** …' (metadado datado no cabeçalho)",
+    "45c46  < '# 21. ARQUITETURA MULTIDOMÍNIO COMPLETA'  > '# 2. ARQUITETURA GERAL DA PLATAFORMA (MAPA EXECUTIVO)'",
+    "1022c1023  < '    ```text' (indentado)  > '```text'",
+    "1087a1089  > '```' (fechamento do fence do §21)"
+  ],
+  "confissao_datada_2026-09-17_trilha43_passo1": "A 1ª preparação desta instalação reescreveu o arquivo com newline=' universal (CRLF→LF), o que FARIA o diff cobrir o arquivo inteiro (1.387c1.390). Detectado ANTES da instalação pela própria verificação de escopo (fingerprint CRLF); refeito com newline=''. A primeira sha candidata (c3a22c23…, com fins-de-linha reescritos) foi DESCARTADA e nunca foi instalada — fica aqui registrada como rascunho morto. O repositório nunca recebeu os bytes errados.",
+  "nota_adicional_A5_da_trilha42_2026-09-17": "Na inspeção do diff completo durante a instalação, identificou-se uma 5ª representação da arquitetura: o §30 'SÍNTESE FINAL' desenha a cadeia completa novamente (CANÔNICO/ATUALIZAÇÃO → BIBLIOTECA → EVIDÊNCIAS/NTs → VÍNCULOS/JSONs → MOTOR → …; presente e INALTERADO desde a V2). A D-V2-DIAGRAMA-DUPLO passa a registrar 5 representações internas (§2-novo, §21-novo, §20, §5.3, §30). Nota datada — a trilha 42 permanece intocada (norma: corrigir com nota, nunca reescrever).",
+  "verificacao_pos_instalacao": {
+    "comandos_regex": {
+      "kit": "r'\\bkit\\b|SM-02|SCHEMA-CLAIM|claim.?kit' (re.I) sobre a V2.1 instalada",
+      "fences": "r'(?m)^```' contados; r'(?m)^    ```text' (indentados restantes)",
+      "rotulo": "contagem de 'ARQUITETURA MULTIDOMÍNIO COMPLETA' (esperado 1 = só o §21 real)",
+      "guardas_pasta": "§18 camada diferente / §18 não-canônico-automático / §19 não-equivalência-Motor / §20 status epistemológico",
+      "sec53_sec20": "ordem EVIDÊNCIA→BIBLIOTECA no §5.3 e no §20-fluxo-canônico",
+      "triade": "'TERAPÊUTICA' 2× · 'EXPLICAÇÃO NARRATIVA' 2× · tríade antiga 0×",
+      "anamnese": "bloco DEFINIÇÃO presente + prosa §§23/24",
+      "rev_line": "linha Rev. V2.1 no cabeçalho na linha 4"
+    },
+    "resultados": {
+      "kit_ocorrencias": 0,
+      "fences_coluna0": 62,
+      "fences_par": true,
+      "fence_indentado_restante": 0,
+      "rotulo_multidominio_completa": 1,
+      "guardas_pasta_4de4_presentes": true,
+      "sec53_e_sec20_evidencia_a_montante": true,
+      "triade_nova_2e2_antiga_0": true,
+      "anamnese_definicao_e_prosa": true,
+      "rev_line_presente": true,
+      "crlf_preservado": true
+    }
+  },
+  "vereditos": {
+    "T1_instalada_sha_confere_com_o_gerado": true,
+    "T2_escopo_pos_correcao_4_blocos": true,
+    "T3_kit_zero": true,
+    "T4_higiene_markdown_ok": true,
+    "T5_rotulo_unico": true,
+    "T6_guardas_pasta": true,
+    "T7_prosa_a_montante_preservada": true,
+    "T8_triade_nova": true,
+    "T9_anamnese": true,
+    "T10_rev_line": true,
+    "T11_crlf_preservado": true
+  },
+  "ciencia_tocada": 0,
+  "pendencias_novas_ou_atualizadas": [
+    "D-V2-DIAGRAMA-DUPLO (agora 5 representações; §2-novo = MAPA EXECUTIVO × §21 × §20 × §5.3 × §30; direção divergente prosa×desenhos) — sugestão: unificar numa próxima revisão do operador",
+    "prosa da nova tríade MECANÍSTICA/CLÍNICA/TERAPÊUTICA (só existe nos desenhos) — dívida editorial",
+    "kit: decisão da camada (a/b/c) segue com o operador (não tocada pela V2.1)",
+    "ADENDO_2 à RESPOSTA_13 ao mestre (anúncio da V2.1) — produzido nesta continuação; envio via operador",
+    "comunicar ao auditor-2? — o eixo L-05 não é tocado pela V2.1; registro: não enviado (escopo L-05 intacto, schemas v1.2 vigentes em mãos do auditor)"
+  ]
+}

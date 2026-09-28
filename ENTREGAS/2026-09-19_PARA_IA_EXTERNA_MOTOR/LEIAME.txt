@@ -1,0 +1,19 @@
+PACOTE DE TRABALHO — BASE DOCUMENTAL VIGENTE/CORRENTE · 2026-09-19
+========================================================================
+1) ARQUITETURA_CONSOLIDADA_PLATAFORMA_V2.3_19.09.26__CANDIDATA.md  (52.740 b · CRLF)
+   sha256 498e7df9d8abe8be4f3145bb7a9bd34215bc87a4502148e9d203391c9ce6ef73
+   ESTADO: candidata — aguarda aprovação formal do operador para virar vigente.
+   ATENÇÃO — se você leu a V2.2: os ponteiros §5.1/§5.2 dela citavam schemas 'v1.1'
+   (versões superadas, nomes que nunca foram arquivos reais). A V2.3 corrige para
+   v1.3/v1.4. TODO o restante é idêntico byte a byte.
+2) schema_referencia_v1.3.json  (9.582 b)   sha256 b06660fd985a8186dbe5ed2878f15d3badd2356e11f4d0c9b71e78d2b2e4e7da
+3) schema_vinculo_v1.4.json     (12.840 b)  sha256 d96ad15b620fa373d8d95d44159a9f3db31c04cfed051d85c7ab014cb3c65050
+4) L05_SCHEMA_EVIDENCIA_E_VINCULO_v1.4__ESPECIFICACAO.md (42.809 b) sha256 78a0f2afcd2acf0f78caa8bbc674c337e7c5b47c93ee86d684f1648b6671dc8b
+   (especificação que descreve os dois schemas)
+
+VERSÕES REAIS: vivem no $id interno do JSON (ex.: L05/schema_vinculo_v1.4.json).
+Os rótulos internos dizem 'PROPOSTA — não normativo' (estado conhecido; selo formal
+do operador pendente, mesma disciplina da Arquitetura).
+VERIFICAÇÃO (obrigatória): sha256sum <arquivo> → comparar com as digitais acima.
+Se não bater, NÃO use — avise. Versões anteriores (v1.1 · v1.2 · v1.3-vínculo) são
+histórico arquivado, não alternativas.

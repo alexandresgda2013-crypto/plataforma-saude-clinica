@@ -1,0 +1,81 @@
+{
+  "trilha": 94,
+  "data": "2026-09-24",
+  "objeto": "replica_resposta_comentador_PK6",
+  "carta_sha256": "4783526ae58288dcd972963fb85a59eaa993abece42556808eb3816da365ca3c",
+  "minuta_rev2_sha256": "841532dad13cd3fea1356c9e23e37067e78876685db52d3c1f2cd8b2a96e535c",
+  "total": 10,
+  "ok": 10,
+  "resultado": [
+    {
+      "id": "T1",
+      "descricao": "carta P-K6 arquivada",
+      "ok": true,
+      "detalhe": {
+        "sha256": "4783526ae58288dcd972963fb85a59eaa993abece42556808eb3816da365ca3c",
+        "bytes": 6822
+      }
+    },
+    {
+      "id": "T2",
+      "descricao": "P-K6 preserva Rota A + rev.2 segue aos dois auditores",
+      "ok": true,
+      "detalhe": {
+        "preserva": true
+      }
+    },
+    {
+      "id": "T3",
+      "descricao": "fail-closed e não adaptar ao campo errado",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T4",
+      "descricao": "§6 granularidade: bloqueio por claim, não corpus",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T5",
+      "descricao": "§9 pergunta com P-K1..P-K6",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T6",
+      "descricao": "§10 com 6 passos",
+      "ok": true,
+      "detalhe": {
+        "tem_passo1": true,
+        "tem_piloto": true
+      }
+    },
+    {
+      "id": "T7",
+      "descricao": "rev.2 incorpora granularidade §6",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T8",
+      "descricao": "rev.2 sem resíduos: tabela inverte · P-K4 superada · pergunta P-K6",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T9",
+      "descricao": "rev.2 sem instrução ativa antiga em §4.3",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T10",
+      "descricao": "rito: Comentador antes das janelas (mesa r83 registra supersede da r82)",
+      "ok": true,
+      "detalhe": {
+        "nota": "STATUS r82 mandava direto às janelas; operador correu; carta validou P-K6; agora sim, janelas"
+      }
+    }
+  ]
+}

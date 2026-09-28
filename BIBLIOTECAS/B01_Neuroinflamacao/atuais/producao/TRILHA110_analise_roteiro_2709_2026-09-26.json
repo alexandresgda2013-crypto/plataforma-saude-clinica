@@ -1,0 +1,122 @@
+{
+  "trilha": 110,
+  "data": "2026-09-26",
+  "objeto": "analise_roteiro_27.09",
+  "roteiro_sha": "2c286ca17b582a5fcad425d55b6a8f4ca7fd77cb1e95e23f6280fd58aa8357ce",
+  "total": 18,
+  "ok": 18,
+  "resultado": [
+    {
+      "id": "S1a",
+      "descricao": "checklist: COMO EXECUTAR v1.11 rev.2 VIGENTE",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "S1b",
+      "descricao": "§18: v1.11 com SHA + v1.10 declarado histórico",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "S1c",
+      "descricao": "MARCO 4 cita v1.11 rev.2",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "S1d",
+      "descricao": "sem resíduo 'v1.10 VIGENTE'",
+      "ok": true,
+      "detalhe": {
+        "ocorrencias_v1.10": 1
+      }
+    },
+    {
+      "id": "S2a",
+      "descricao": "checklist ensaio REALIZADO E ENCERRADO",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "S2b",
+      "descricao": "§19 ensaio já executado; próximo passo ≠ executar ensaio",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "S2c",
+      "descricao": "controle progresso ensaio ✅",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "S3a",
+      "descricao": "§6.1 validação de documentos e ferramentas existe",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "S3b",
+      "descricao": "regra verbatim: crivo das três IAs antes de vigente",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "S3c",
+      "descricao": "EXISTENTE ≠ VALIDADO ≠ VIGENTE ≠ AUTORIZADO",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "S3d",
+      "descricao": "anamnese: validação documental antes do teste (§11 + checklist 28)",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "D1",
+      "descricao": "SHA contrato 841532da correto no §18",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "D2",
+      "descricao": "SHA schema 28cbc9c7 correto no §18",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "P1",
+      "descricao": "G1 não é parada + 1ª parada após G1+G2",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "P2",
+      "descricao": "níveis de leitura com nao_lido ≠ analisado",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "P3",
+      "descricao": "2ª parada após G3 + fechamento depois do confronto",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "I1",
+      "descricao": "intenções-chave preservadas",
+      "ok": true,
+      "detalhe": {
+        "faltando": []
+      }
+    },
+    {
+      "id": "G1",
+      "descricao": "independência é do piloto, não do ensaio",
+      "ok": true,
+      "detalhe": {}
+    }
+  ]
+}

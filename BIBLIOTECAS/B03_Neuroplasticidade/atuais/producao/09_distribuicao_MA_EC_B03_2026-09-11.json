@@ -1,0 +1,91 @@
+{
+ "acao": "09_distribuicao_MA_EC_MODULO09",
+ "data": "2026-09-11",
+ "biblioteca": "B03_Neuroplasticidade",
+ "lei": "PROMPT_v4.2 instrução final: [MA]->02, [EC]->03; id único global (validar_auditoria.py)",
+ "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+ "contagens": {
+  "ficam_01": 156,
+  "vao_02_MA": 7,
+  "vao_03_EC": 2,
+  "conflitos": 0,
+  "tag_EC_amplo_nao_migrado": 1
+ },
+ "ids_para_02": [
+  {
+   "id": "REF_KNAEPEN_2010",
+   "pmid": "20726622",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_MOLENDIJK_2014",
+   "pmid": "23958957",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_SZUHANY_2015",
+   "pmid": "25455510",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_MESHKAT_2022",
+   "pmid": "36194941",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_KISHI_2017",
+   "pmid": "29387021",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_KANG_2022",
+   "pmid": "35546951",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_CALDER_2025",
+   "pmid": "39613915",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  }
+ ],
+ "ids_para_03": [
+  {
+   "id": "REF_DAVIS_2021",
+   "pmid": "33146667",
+   "sinais": [
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_HOFLICH_2021",
+   "pmid": "33795646",
+   "sinais": [
+    "desenho_rct:titulo"
+   ]
+  }
+ ],
+ "conflitos_tag_x_titulo_REVISAVEL": [],
+ "REVISAVEL_tag_EC_amplo_sem_sinal_RCT_nao_migrado": [
+  {
+   "id": "REF_SEKAR_2016",
+   "pmid": "26814963",
+   "desenho_estudo": "[EC] Risco de esquizofrenia por variação do complemento C4 (poda ",
+   "titulo": "Schizophrenia risk from complex variation of complement component 4"
+  }
+ ],
+ "divida_nomeada": "forca_evidencia_afirmacao vazio quando a ficha não trazia (schema 09.2 exige; preenchimento exige avaliação — não fabricar)"
+}

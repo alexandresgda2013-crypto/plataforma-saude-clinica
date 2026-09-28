@@ -1,0 +1,114 @@
+{
+  "trilha": 39,
+  "data": "2026-09-16",
+  "rodada": "21-continuação-2",
+  "objeto": "resposta do comentador pós-JSON (N1/N2) — réplica da casa",
+  "etapas": {
+    "T1_digitais_cronologia": {
+      "resposta_pos_json": "d4ad1545de7fc7d1311571b84a1245806893fe5380af1e58730b6a15528b6f57",
+      "cronologia": "parecer §1-§24 (trilha 38) = PRÉ-JSON · análise 3 pontos (trilha 37) = intermediária · ESTA = pós-JSON. §2.6 daqui já acerta citacao_confirmada (coerente com a medição V1 da trilha 38)."
+    },
+    "T2_pmid_oficial": {
+      "pattern_atual": "^[0-9]{0,8}$",
+      "admite_vazio_sempre": true,
+      "allOf_toca_pmid": false,
+      "prova_do_furo": {
+        "molde_valido": true,
+        "humana_com_pmid_vazio_PASSA": true,
+        "letra_reprova": true
+      },
+      "proposta_casa": {
+        "if": {
+          "properties": {
+            "natureza_evidencia": {
+              "not": {
+                "const": "nao_aplicavel"
+              }
+            }
+          },
+          "required": [
+            "natureza_evidencia"
+          ]
+        },
+        "then": {
+          "properties": {
+            "pmid_oficial": {
+              "pattern": "^[0-9]{1,8}$"
+            }
+          }
+        }
+      },
+      "medicao_da_proposta": {
+        "molde_ok": true,
+        "furo_fechado": true,
+        "nao_aplicavel_sem_pmid_ok": true,
+        "inversa_nao_proibida_escolha_design": true,
+        "nota": "expressa só a direção declarada ('vazio APENAS se nao_aplicavel'); a inversa (nao_aplicavel EXIGE vazio) fica como decisão dele"
+      },
+      "dado_hoje": {
+        "pmid_vazio": 0,
+        "natureza_preenchida": 0,
+        "leitura": "regra não dispara hoje (0 vazio; natureza migra depois) — pós-migração é quando ela trabalha"
+      },
+      "obs": "draft-07 EXPRESSA (como condicao — carta 5 §2): a casa recomenda SCHEMA; a alternativa 'portão' exige só declaração explícita (D2/D4 dele)"
+    },
+    "T3_uso_3mais3": {
+      "enum_uniao": [
+        "clinico",
+        "contexto_mecanistico",
+        "gap_pesquisa",
+        "nucleo_causal",
+        "suporte_correlacional"
+      ],
+      "qtd": 5,
+      "exclusivos_clinica": [
+        "clinico",
+        "contexto_mecanistico"
+      ],
+      "exclusivos_mecanistica": [
+        "nucleo_causal",
+        "suporte_correlacional"
+      ],
+      "comum": [
+        "gap_pesquisa"
+      ],
+      "formulacao_atual": "Enum-união das duas trilhas. Os 3 primeiros são SCHEMA-CLAIM v1.2 (clínica); os 3 últimos, v3.1 (mecanística), com gap_pesquisa comum às duas.",
+      "imprecisao_CONFIRMADA": "a união tem 5 valores com interseção; '3 últimos' sugere 3 da mecanística, mas exclusivos são 2 + 1 comum",
+      "texto_oferecido": "clinica: {clinico, contexto_mecanistico} · mecanistica: {nucleo_causal, suporte_correlacional} · gap_pesquisa: comum às duas (interseção). A trilha do vínculo seleciona o sub-conjunto permitido."
+    },
+    "T4_medicoes_em_descriptions": {
+      "instancias": [
+        {
+          "campo": ".SR.natureza_evidencia.description",
+          "marcador": "Medido hoje"
+        },
+        {
+          "campo": ".SV.g2_elegibilidade.description",
+          "marcador": "os 20 vinculos"
+        }
+      ],
+      "total": 2,
+      "posicao_da_casa": "ADOTADO com eco da nossa própria norma — número sem comando gravado não vale; em texto normativo o comando se perde. REGRA fica na description; MEDIÇÃO vai ao relatório/gate de migração com data e trilha (a nossa T35/T37 regeneram a qualquer tempo)."
+    },
+    "T5_tensao_condicao": {
+      "analise_anterior_ponto1_exige_exclusividade": true,
+      "resposta_pos_json_3.3_diz_suficiente": true,
+      "leitura_da_casa": "tensão real: ou o ponto 1 está RETIRADO, ou §3.3 fala só do lado positivo. A prova executável da trilha 37 é independente da opinião: sustenta+condicao PASSA hoje = estado inválido admissível. A casa MANTÉM a proposta (carta 5 §2, medida em 5 casos) por mérito próprio e pede confirmação explícita de retirada/manutenção."
+    },
+    "T6_convergencias_com_a_casa": {
+      "D1_transicao_alias": "≡ Adição A da casa (trilha 37-F, com 162/237 medidos + fix de 2 linhas) — a versão dele é estrutural; a nossa traz o dado",
+      "D6_forca_biologica": "≡ fino 2 da carta 5 — ele recomenda PORTÃO explicitamente; 24 vínculos medidos na zona",
+      "D5_trilha_uso": "≡ §5 da carta 5 — implementação pronta, falta registro da Decisão 1",
+      "2.2_aposentadoria_100pc": "≡ nossa leitura da própria liturgia de espelho dele",
+      "3.1_V17_portao_3testes": "≡ oferta da casa (texto já no schema)"
+    },
+    "T7_ciclo_fechamento_§6": "Schema→Derivador→Acervo→Gate→Medição→Correções→Reexecução→Convergência ≡ método bilateral da casa (P-8, cartas 10-12). Concordância plena; a casa replica a execução final."
+  },
+  "vereditos": {
+    "T2_pmid_furo_confirmado_proposta_medida": true,
+    "T3_imprecisao_confirmada_com_texto": true,
+    "T4_2_instancias_localizadas": true,
+    "T5_tensao_nomeada_pedido_confirmacao": true
+  },
+  "ciencia_tocada": 0
+}

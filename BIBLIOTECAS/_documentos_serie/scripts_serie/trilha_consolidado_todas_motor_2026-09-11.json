@@ -1,0 +1,21 @@
+{
+ "acao": "consolidado_todas_refs_motor (rev.1: classe por prioridade MA>EC>base)",
+ "data": "2026-09-11",
+ "fonte": "16 bibliotecas x 5 arquivos Bibliografia (01-05); dedup por pmid_oficial (fallback id)",
+ "total_unicos": 2577,
+ "por_classe": {
+  "meta_analise_ou_revisao_sistematica": 268,
+  "ensaio_clinico_randomizado": 58,
+  "nivel_base": 2251
+ },
+ "em_mais_de_uma_biblioteca": 102,
+ "conflitos_classe": [
+  {
+   "pmid": "30646157",
+   "classe_final": "meta_analise_ou_revisao_sistematica",
+   "classe_inferior": "nivel_base",
+   "biblioteca_fortemente_classificada": "B08_Micronutrientes"
+  }
+ ],
+ "rev.2": "2026-09-11 — arquivo consolidado renomeado evidencias_todas_serie.json -> evidencias_pmids_serie.json (sugestão do operador; padronização com 01_pmids.json e com ma/ec). Conteúdo byte a byte idêntico (move, não regeneração)."
+}

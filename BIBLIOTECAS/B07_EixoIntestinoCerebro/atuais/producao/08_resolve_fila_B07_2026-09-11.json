@@ -1,0 +1,51 @@
+{
+ "data": "2026-09-11",
+ "bib": "B07",
+ "backup": "/home/user/BIBLIOTECAS/B07_EixoIntestinoCerebro/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json.bak_20260911_230720",
+ "regra": "S1–S4 (cabeçalho do script)",
+ "resolvidos": [
+  {
+   "id": "VINC_B7_007",
+   "ref": "REF_YANO_2015",
+   "escolhida": "Cerca de 90% da 5-HT corporal é sintetizada no intestino por **enterocromafins**; bactérias\nesporuladas **regulam** essa",
+   "score": 16.027,
+   "segunda": 12.049,
+   "n_cand": 11,
+   "empate": false
+  },
+  {
+   "id": "VINC_B7_012",
+   "ref": "REF_BRANISTE_2014",
+   "escolhida": "Na escada\npré-clínica, a causalidade está estabelecida com o desenho mais forte que a biologia animal\npermite: o camundo",
+   "score": 6.034,
+   "segunda": 4.3,
+   "n_cand": 5,
+   "empate": false
+  },
+  {
+   "id": "VINC_B7_015",
+   "ref": "REF_LIB_2026",
+   "escolhida": "*Dinan2013_psicobiot[OB] | Sarkar2016_psicob[OB] | Dinan2021_evolucao[OB] | Morkl2020_foco[OB] | Zagorska2020_psicob[OB]",
+   "score": null,
+   "via": "lote_multi"
+  },
+  {
+   "id": "VINC_B7_021",
+   "ref": "REF_ELDIB_2021",
+   "escolhida": "*Dinan2013_psicobiot[OB] | Sarkar2016_psicob[OB] | Dinan2021_evolucao[OB] | Morkl2020_foco[OB] | Zagorska2020_psicob[OB]",
+   "score": null,
+   "via": "lote_unica"
+  },
+  {
+   "id": "VINC_B7_033",
+   "ref": "REF_CRYAN_2019",
+   "escolhida": "O eixo **microbiota–intestino–cérebro** é o canal de comunicação **bidirecional**\nentre a comunidade microbiana intestin",
+   "score": 14.01,
+   "segunda": 8.055,
+   "n_cand": 5,
+   "empate": false
+  }
+ ],
+ "sem_presenca": [],
+ "residual_contrato": 71
+}

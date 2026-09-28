@@ -1,0 +1,77 @@
+{
+  "trilha": "29_verificacao_minuta_1.1_mestre_e_comentador_2026-09-15",
+  "data": "2026-09-15",
+  "escopo": "replicacao empirica da minuta L-05 1.1 do Auditor-Mestre (casa = bancada de verificacao, decisao da rodada 12) + verificacao dos 4 pontos do comentador externo antes de aceitar (politica da casa: vale tambem para quem concorda)",
+  "insumos": {
+    "minuta_arquivo": "uploads/L05_1.1_CONTRATO_CADEIA_MOTOR_minuta1_2026-09-15.md",
+    "minuta_sha256": "f91042b7fee82d0fbf537b7e848f6d37a782181738ff69ce97e3f69f7ac6b14d",
+    "minuta_arquivada_em": "BIBLIOTECAS/_documentos_serie/L05_1.1_minuta_mestre_recebida_2026-09-15/",
+    "v2_sha_citada_pela_minuta": "09692e18...",
+    "v2_sha_medido": "09692e18a5a65958bde4545ed6ff804c21c5945411159988654c7664c8a4a4e2",
+    "v2_confere": true,
+    "schema_referencia_v1.1_sha": "737bcda824b6c355d4f9b34faa3703e5ff94537b65751efbcc9d26b4b93553db",
+    "schema_vinculo_v1.1_sha": "b0934412b010b7e0801f372ae57769fe0daa42c046e757128788159ec9ff4130",
+    "b1_v7_sha_hoje": "6e2c29797e6322f16dcc5248cce552be613dd11f1de957c66aaa913e69225238 (intacta)"
+  },
+  "parte_0_reconciliacao": {
+    "metodo_mestre": "linhas-lote = comecam e terminam com '*' e contem '['; regex ([A-Za-zÀ-ÿ0-9_]+)_(\\d{4}[a-z]?)\\[([A-Z]{2})\\]; chave = group(1) distinto",
+    "replica": {
+      "linhas_lote": 102,
+      "prefixos_distintos_so_lote": 405,
+      "ocorrencias_padrao_nas_lotes": 535,
+      "resolucao_por_prefixo": "primeiro segmento antes do primeiro '_' em maiuscula contido como substring em algum id_referencia_interna do JSON de vinculos",
+      "resolvem": 247,
+      "nao_resolvem": 158,
+      "soma": 405
+    },
+    "amostra_nao_resolvidos": ["A1BLOCK", "AQP4", "AMIGDALA", "ANSIEDADE", "ARCTIGENIN", "ASTROSWITCH", "BBB", "BIFIDO", "CCL2", "CCR2"],
+    "veredito_parte0": "REPRODUZIDO EXATO — 102 linhas-lote, 405 prefixos, 247/158 por prefixo. O pointer '158 tematicos / 405 tokens' esta encerrado por replicacao; os 158 sao de fato prefixos tematicos (nao sobrenomes), consonante com a leitura de indice mnemonico.",
+    "quatro_lugares": {
+      "a_prosa_autor_ano_xx": "confirmado — fora das linhas-lote so restam 7 pares AUTOR_ANO[XX] distintos (8 triplas; 11 ocorrencias) no corpo",
+      "b_linha_lote": "confirmado — 405 prefixos medidos acima",
+      "c_modulo09": "confirmado em trilhas anteriores — 01_pmids.json (201, OB), 02_meta_analises.json (33, MA), 03_ensaios_clinicos.json (3, EC); 237 = ledger",
+      "d_desenho_texto_livre": "confirmado — schema v1.1 formaliza 'desenho_estudo_bruto' justamente para esse resíduo; divida conhecida de 197 leituras"
+    },
+    "aceite_dele_registrado": "delimitador 94->91 aceito por ele na Parte 0 (rotulagem honesta, sobrevive a mudanca de regime)",
+    "errata_da_casa_446": {
+      "fato": "trilha 28 registrou '446 tokens AUTOR_ANO distintos por regex declarada' MAS NAO GRAVOU a regex/comando",
+      "tentativa_hoje": "nenhuma combinacao rederiva 446: regex-mestre{(g1):410,(g1,g2):474,(g1,g2,g3):483} x regex-P8{(g1):413,(g1,g2):477,(g1,g2,g3):486} x escopos{inteiro, pre-REGISTRO, so-lote, sem-lote} x codigos{2,2-3}; variantes lower/ano4{389..460}",
+      "confissao": "o numero 446 nao e verificavel no estado; a trilha violou a propria norma de reproducibilidade (medida sem comando gravado nao vale). Errata pontual, sem efeito material: a V-15 e medida por item, nao por populacao",
+      "licao_incorporada": "toda medida passa a gravar regex+escopo+chave+sha no mesmo registro (precedente: a Parte 0 dele fez isso certo)",
+      "numeros_canonicos_daqui_em_diante": {
+        "escopo_b_lote": "405 prefixos distintos (regex do mestre, chave group(1), 102 linhas) — dele, replicado",
+        "arquivo_inteiro": "474 pares AUTOR_ANO distintos (regex do mestre, chave g1+g2) OU 477 (regex do P-8, chave g1+g2) — declarados por regex",
+        "marcadores_xx": "675 ([A-Z]{2,3}) — replicado exato"
+      }
+    }
+  },
+  "verificacao_schemas_v1.1": {
+    "eixos_D02_origem_real": {
+      "natureza_evidencia": "schema_REFERENCIA (N1), enum fechado de 7 — NAO esta no vinculo",
+      "desenho_estudo": "schema_REFERENCIA (N1), enum fechado de 15 (+ desenho_estudo_bruto livre) — NAO esta no vinculo",
+      "forca_causal": "schema_VINCULO (N2), enum 4 tiers (None permitido)",
+      "grau_maturidade": "schema_VINCULO (N2), enum 5 (None permitido)",
+      "trilha": "schema_VINCULO (N2), enum {clinica, mecanistica}, allOf com uso"
+    },
+    "consequencia": "a frase da minuta D-02 §4 'a v1.1 ja os tem' e verdadeira no nivel PLATAFORMA, falsa no nivel VINCULO: os 5 eixos existem em enum fechado, porem divididos 2x3 entre ficha e vinculo. Corrobora empiricamente o ponto 1 do comentador: a semantica de composicao de cada eixo (propagado/herdado/recalculado/limitante/metadado) e decisao real de schema, nao opcional",
+    "campos_D01_sec3_inventario": {
+      "condicao": "existe apenas como obrigatoriedade condicional dentro de ancoras.items (allOf: direcao=condicional -> condicao) — esparsamente povoado hoje",
+      "contexto": "NAO existe como campo em nenhum dos dois schemas nem nos JSONs de dados (grep nulo)",
+      "sentido_relacao": "NAO existe como campo em schema ou dado — aparece so em documentos de governanca; conceito de grafo/ontologia futura",
+      "direcao_suporte": "NAO existe como campo — o schema v1.1 chama de 'direcao' (ancoras.items, enum sustenta/refuta/inconclusivo/condicional)",
+      "natureza_evidencia": "existe (ficha N1)",
+      "grau_maturidade": "existe (vinculo N2)"
+    },
+    "divida_nomeada": "D-L05-NOMES-DIRECAO: na etapa de schema, reconciliar 'direcao' (schema v1.1) x 'direcao_suporte' (contrato) — rename do campo ou dicionario de dados oficial",
+    "ancora_formal_para_inexistencia": "schema_VINCULO ja tem natureza_relacao enum incluindo 'nao_estabelecida' — ancora machine-verificavel para a restricao do comentador sobre inexistencia_cientifica"
+  },
+  "pontos_do_comentador_verificados": {
+    "P1_D02_nao_congelar_vetor": "PROCEDENTE E CORROBORADO — texto confere com a minuta (vetor de 5); a leitura dos schemas mostra que os eixos tem naturezas e origens diferentes (2 N1 / 3 N2). Adotado com credito: regra de nao-elevacao aprovada; modelagem final por eixo na etapa de schema",
+    "P2_D03_restricao_inexistencia": "PROCEDENTE — gloss da minuta ('a ciencia nao estabeleceu a relacao') e mais largo que o necessario; a restricao dele (so quando o conhecimento canonico auditado estabelece explicitamente o nao-estabelecimento) fecha o deslize. Adotado com credito + ancora formal natureza_relacao=nao_estabelecida",
+    "P3_D07_qualificacao_determinismo": "PROCEDENTE TECNICAMENTE — 'byte a byte identico' sem excecao de envelope torna o requisito intestavel ou proibe metadado util. Adotado com credito: determinismo = conteudo clinico/semantico/estrutural + conjunto de versoes; envelope nao-semantico (timestamp, id de execucao, logs) em lista fechada fora do hash",
+    "P4_Parte1_entradas_autorizadas": "PROCEDENTE COM CONDICAO — a tabela mistura tipos heterogeneos de entrada; 'As entradas autorizadas do Motor sao:' e mais preciso. Condicao da casa: manter verbatim a frase negativa 'Nao consome: a prosa da Biblioteca Canonica (§28 da V2)'",
+    "nao_reabrir": "concordado — D-01 (so precisao de campos, sem reabrir semantica), D-04, D-05 (dependencia humana assumida por ele, registrada), D-06 (adicao externa ja incorporada por ele), D-08 (cobertura parcial honesta ate fase multidominio)"
+  },
+  "ciladas_cacadas_no_comentador": "nenhuma — nenhum dado cientifico fabricado; os 4 pontos sao verificaveis contra o texto e contra os schemas; numeros citados por ele (197/30/24) batem com as medidas da casa (trilhas 27-28)",
+  "conclusao": "MINUTA 1 APROVADA pela casa como base do contrato normativo, COM as 4 correcoes do comentador (verificadas e adotadas com credito) + 3 precisoes de fato da casa (inventario de campos D-01; divida de nomes direcao/direcao_suporte; origem N1/N2 dos eixos D-02) — nenhuma reabre semantica. Errata propria do 446 confessada. Proximo passo bilateral: minuta 2 normativa; ao fechar, carta nº 3 ao auditor de estrutura dispara na ordem do operador."
+}

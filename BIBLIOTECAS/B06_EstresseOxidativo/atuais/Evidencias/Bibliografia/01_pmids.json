@@ -1,0 +1,3292 @@
+[
+ {
+  "pmid_oficial": "15574496",
+  "titulo_artigo": "Accelerated telomere shortening in response to life stress.",
+  "autores": [
+   "Epel ES",
+   "Blackburn EH",
+   "Lin J",
+   "Dhabhar FS"
+  ],
+  "revista_ano": "Proc Natl Acad Sci U S A 2004",
+  "desenho_estudo": "pre-clinico",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_EPEL_2004"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_EPEL_2004",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "EPEL",
+   "Epel"
+  ]
+ },
+ {
+  "pmid_oficial": "20357926",
+  "titulo_artigo": "Oxidative stress and anxiety: relationship and cellular pathways.",
+  "autores": [
+   "Bouayed J",
+   "Rammal H",
+   "Soulimani R"
+  ],
+  "revista_ano": "Oxid Med Cell Longev 2009",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BOUAYED_2009"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_BOUAYED_2009",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Bouayed",
+   "BOUAYED"
+  ]
+ },
+ {
+  "pmid_oficial": "20471444",
+  "titulo_artigo": "A review on the oxidative and nitrosative stress (O&NS) pathways in major depression and their possible contribution to the (neuro)degenerative processes in that illness.",
+  "autores": [
+   "Maes M",
+   "Galecki P",
+   "Chang YS",
+   "Berk M"
+  ],
+  "revista_ano": "Prog Neuropsychopharmacol Biol Psychiatry 2011",
+  "desenho_estudo": "revisao",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MAES_2011"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MAES_2011",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "MAES",
+   "Maes"
+  ]
+ },
+ {
+  "pmid_oficial": "21283134",
+  "titulo_artigo": "Mitochondrial ROS fuel the inflammasome.",
+  "autores": [
+   "Sorbara MT",
+   "Girardin SE"
+  ],
+  "revista_ano": "Cell Res 2011",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SORBARA_2011"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SORBARA_2011",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "SORBARA",
+   "Sorbara"
+  ]
+ },
+ {
+  "pmid_oficial": "23650447",
+  "titulo_artigo": "Mitochondrial dysfunction, oxidative stress, and major depressive disorder.",
+  "autores": [
+   "Tobe EH"
+  ],
+  "revista_ano": "Neuropsychiatr Dis Treat 2013",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_TOBE_2013"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_TOBE_2013",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "TOBE",
+   "Tobe"
+  ]
+ },
+ {
+  "pmid_oficial": "24704328",
+  "titulo_artigo": "In vivo (1)H MRS study of potential associations between glutathione, oxidative stress and anhedonia in major depressive disorder.",
+  "autores": [
+   "Lapidus KA",
+   "Gabbay V",
+   "Mao X",
+   "Johnson A"
+  ],
+  "revista_ano": "Neurosci Lett 2014",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_LAPIDUS_2014"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LAPIDUS_2014",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Lapidus",
+   "LAPIDUS"
+  ]
+ },
+ {
+  "pmid_oficial": "25074444",
+  "titulo_artigo": "Neurochemistry of major depression: a study using magnetic resonance spectroscopy.",
+  "autores": [
+   "Godlewska BR",
+   "Near J",
+   "Cowen PJ"
+  ],
+  "revista_ano": "Psychopharmacology (Berl) 2015",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_GODLEWSKA_2015"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_GODLEWSKA_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "GODLEWSKA",
+   "Godlewska"
+  ]
+ },
+ {
+  "pmid_oficial": "25245500",
+  "titulo_artigo": "Traumatic stress, oxidative stress and post-traumatic stress disorder: neurodegeneration and the accelerated-aging hypothesis.",
+  "autores": [
+   "Miller MW",
+   "Sadeh N"
+  ],
+  "revista_ano": "Mol Psychiatry 2014",
+  "desenho_estudo": "pre-clinico",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MILLER_2014"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MILLER_2014",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Miller",
+   "MILLER"
+  ]
+ },
+ {
+  "pmid_oficial": "25613382",
+  "titulo_artigo": "Ketamine treatment partly reverses alterations in brain derived- neurotrophic factor, oxidative stress and energy metabolism parameters induced by an animal model of depression.",
+  "autores": [
+   "Réus GZ",
+   "Nacif MP",
+   "Abelaira HM",
+   "Tomaz DB"
+  ],
+  "revista_ano": "Curr Neurovasc Res 2015",
+  "desenho_estudo": "pre-clinico",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_REUS_2015"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_REUS_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Reus",
+   "REUS"
+  ]
+ },
+ {
+  "pmid_oficial": "26400084",
+  "titulo_artigo": "Ablation of the Ferroptosis Inhibitor Glutathione Peroxidase 4 in Neurons Results in Rapid Motor Neuron Degeneration and Paralysis.",
+  "autores": [
+   "Chen L",
+   "Hambright WS",
+   "Na R",
+   "Ran Q"
+  ],
+  "revista_ano": "J Biol Chem 2015",
+  "desenho_estudo": "pre-clinico",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_CHEN_2015"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_CHEN_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "CHEN",
+   "Chen"
+  ]
+ },
+ {
+  "pmid_oficial": "28669580",
+  "titulo_artigo": "The interplay between inflammation, oxidative stress, DNA damage, DNA repair and mitochondrial dysfunction in depression.",
+  "autores": [
+   "Czarny P",
+   "Wigner P",
+   "Galecki P",
+   "Sliwinski T"
+  ],
+  "revista_ano": "Prog Neuropsychopharmacol Biol Psychiatry 2018",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_CZARNY_2018"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_CZARNY_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "CZARNY",
+   "Czarny"
+  ]
+ },
+ {
+  "pmid_oficial": "29118286",
+  "titulo_artigo": "[Effects of reactive oxygen species on synaptic plasticity in CNS in relation to aging].",
+  "autores": [
+   "Kakizawa S"
+  ],
+  "revista_ano": "Nihon Yakurigaku Zasshi 2017",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_KAKIZAWA_2017"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_KAKIZAWA_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "KAKIZAWA",
+   "Kakizawa"
+  ]
+ },
+ {
+  "pmid_oficial": "29742940",
+  "titulo_artigo": "The role of oxidative stress in anxiety disorder: cause or consequence?",
+  "autores": [
+   "Fedoce ADG",
+   "Ferreira F",
+   "Bota RG",
+   "Bonet-Costa V"
+  ],
+  "revista_ano": "Free Radic Res 2018",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_FEDOCE_2018"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_FEDOCE_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Fedoce",
+   "FEDOCE"
+  ]
+ },
+ {
+  "pmid_oficial": "30008280",
+  "titulo_artigo": "Mediator effects of parameters of inflammation and neurogenesis from a N-acetyl cysteine clinical-trial for bipolar depression.",
+  "autores": [
+   "Panizzutti B",
+   "Bortolasci C",
+   "Hasebe K",
+   "Kidnapillai S"
+  ],
+  "revista_ano": "Acta Neuropsychiatr 2018",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_PANIZZUTTI_2018"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_PANIZZUTTI_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "PANIZZUTTI",
+   "Panizzutti"
+  ]
+ },
+ {
+  "pmid_oficial": "32744952",
+  "titulo_artigo": "Tetrahydrobioterin (BH4) Pathway: From Metabolism to Neuropsychiatry.",
+  "autores": [
+   "Fanet H",
+   "Capuron L",
+   "Castanon N",
+   "Calon F"
+  ],
+  "revista_ano": "Curr Neuropharmacol 2021",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_FANET_2021"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_FANET_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Fanet",
+   "FANET"
+  ]
+ },
+ {
+  "pmid_oficial": "36830028",
+  "titulo_artigo": "Oxidative Stress in Depression: The Link with the Stress Response, Neuroinflammation, Serotonin, Neurogenesis and Synaptic Plasticity.",
+  "autores": [
+   "Correia AS",
+   "Cardoso A",
+   "Vale N"
+  ],
+  "revista_ano": "Antioxidants (Basel) 2023",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_CORREIA_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_CORREIA_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Correia",
+   "CORREIA"
+  ]
+ },
+ {
+  "pmid_oficial": "39218137",
+  "titulo_artigo": "Quantification of Glutathione and Its Associated Spontaneous Neuronal Activity in Major Depressive Disorder and Obsessive-Compulsive Disorder.",
+  "autores": [
+   "Lee SW",
+   "Kim S",
+   "Chang Y",
+   "Cha H"
+  ],
+  "revista_ano": "Biol Psychiatry 2025",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_LEE_2025"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LEE_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "LEE",
+   "Lee"
+  ]
+ },
+ {
+  "pmid_oficial": "40177374",
+  "titulo_artigo": "Ferroptosis-associated signaling pathways and therapeutic approaches in depression.",
+  "autores": [
+   "Feng X",
+   "Zhang W",
+   "Liu X",
+   "Wang Q"
+  ],
+  "revista_ano": "Front Neurosci 2025",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_FENG_2025"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_FENG_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "FENG",
+   "Feng"
+  ]
+ },
+ {
+  "pmid_oficial": "40427494",
+  "titulo_artigo": "The Ferroptosis-Mitochondrial Axis in Depression: Unraveling the Feedforward Loop of Oxidative Stress, Metabolic Homeostasis Dysregulation, and Neuroinflammation.",
+  "autores": [
+   "Liu X",
+   "Luo Q",
+   "Zhao Y",
+   "Ren P"
+  ],
+  "revista_ano": "Antioxidants (Basel) 2025",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_LIU_2025"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LIU_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Liu",
+   "LIU"
+  ]
+ },
+ {
+  "pmid_oficial": "42399415",
+  "titulo_artigo": "Mitochondrial-inflammation crosstalk in major depressive disorder: molecular mechanisms and therapeutic implications.",
+  "autores": [
+   "Wang Y",
+   "Li JT",
+   "Zhu LL",
+   "Wu YK"
+  ],
+  "revista_ano": "Mol Psychiatry 2026",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_WANG_2026"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_WANG_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Wang",
+   "WANG"
+  ]
+ },
+ {
+  "pmid_oficial": "32979495",
+  "titulo_artigo": "Molecular correlates of mitochondrial dysfunctions in major depression: Evidence from clinical and rodent studies",
+  "autores": [
+   "Rappeneau V",
+   "Wilmes L",
+   "Touma C"
+  ],
+  "revista_ano": "Molecular and cellular neurosciences (2020)",
+  "desenho_estudo": "[OB] citação de fundo indexada por retrocompatibilidade",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Molecular correlates of mitochondrial dysfunctions in major depression: Evidence from clinical and rodent studies",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_RAPPENEAU_2020"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "citação de fundo presente na canônica; metadado conferido",
+  "g3_verificado_por": "G3 retrocompat: esummary confirma autor/ano/título",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_RAPPENEAU_2020",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Rappeneau",
+   "RAPPENEAU"
+  ]
+ },
+ {
+  "pmid_oficial": "33220501",
+  "titulo_artigo": "Severe life stress, mitochondrial dysfunction, and depressive behavior: A pathophysiological and therapeutic perspective",
+  "autores": [
+   "Allen J",
+   "Caruncho HJ",
+   "Kalynchuk LE"
+  ],
+  "revista_ano": "Mitochondrion (2021)",
+  "desenho_estudo": "[OB] clássico de fundo (retrocompat)",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Severe life stress, mitochondrial dysfunction, and depressive behavior: A pathophysiological and therapeutic perspective",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ALLEN_2021"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "citação clássica do corpo; autor+ano+título conferidos",
+  "g3_verificado_por": "G3 retrocompat esummary",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_ALLEN_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Allen",
+   "ALLEN"
+  ]
+ },
+ {
+  "pmid_oficial": "22197082",
+  "titulo_artigo": "Mechanistic explanations how cell-mediated immune activation, inflammation and oxidative and nitrosative stress pathways and their sequels and concomitants play a role in the pathophysiology of unipolar depression",
+  "autores": [
+   "Leonard B",
+   "Maes M"
+  ],
+  "revista_ano": "Neuroscience and biobehavioral reviews (2012)",
+  "desenho_estudo": "[OB] clássico de fundo (retrocompat)",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Mechanistic explanations how cell-mediated immune activation, inflammation and oxidative and nitrosative stress pathways and their sequels and concomitants play a role in the pathophysiology of unipolar depression",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LEONARD_2012"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "citação clássica do corpo; autor+ano+título conferidos",
+  "g3_verificado_por": "G3 retrocompat esummary",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LEONARD_2012",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "LEONARD",
+   "Leonard"
+  ]
+ },
+ {
+  "pmid_oficial": "13332224",
+  "titulo_artigo": "Aging: a theory based on free radical and radiation chemistry",
+  "autores": [
+   "HARMAN D"
+  ],
+  "revista_ano": "Journal of gerontology (1956)",
+  "desenho_estudo": "[OB] Teoria dos radicais livres do envelhecimento (Harman 1956) —",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Teoria dos radicais livres do envelhecimento (Harman 1956) — fundamento histórico do O&NS",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_HARMAN_1956"
+  ],
+  "id_referencia_interna": "REF_HARMAN_1956",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "âncora GPM v2; esummary confere autor+ano+tema",
+  "g3_verificado_por": "IA G3 (GPM v2); P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Harman",
+   "HARMAN"
+  ]
+ },
+ {
+  "pmid_oficial": "26122708",
+  "titulo_artigo": "Mechanisms of activation of the transcription factor Nrf2 by redox stressors, nutrient cues, and energy status and the pathways through which it attenuates degenerative disease",
+  "autores": [
+   "Tebay LE",
+   "Robertson H",
+   "Durant ST",
+   "Vitale SR",
+   "Penning TM",
+   "Dinkova-Kostova AT"
+  ],
+  "revista_ano": "Free radical biology & medicine (2015)",
+  "desenho_estudo": "[OB] Mecanismos de ativação do fator de transcrição Nrf2 pelo est",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Mecanismos de ativação do fator de transcrição Nrf2 pelo estresse oxidativo (Tebay 2015)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_TEBAY_2015"
+  ],
+  "id_referencia_interna": "REF_TEBAY_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "âncora GPM v2; esummary confere autor+ano+tema",
+  "g3_verificado_por": "IA G3 (GPM v2); P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Tebay",
+   "TEBAY"
+  ]
+ },
+ {
+  "pmid_oficial": "32404275",
+  "titulo_artigo": "Role of oxidative stress in depression",
+  "autores": [
+   "Bhatt S",
+   "Nagappa AN",
+   "Patil CR"
+  ],
+  "revista_ano": "Drug discovery today (2020)",
+  "desenho_estudo": "[OB] Papel do estresse oxidativo na depressão (Bhatt & Patil 2020",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Papel do estresse oxidativo na depressão (Bhatt & Patil 2020)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BHATT_2020"
+  ],
+  "id_referencia_interna": "REF_BHATT_2020",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "âncora GPM v2; esummary confere autor+ano+tema",
+  "g3_verificado_por": "IA G3 (GPM v2); P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Bhatt",
+   "BHATT"
+  ]
+ },
+ {
+  "pmid_oficial": "7929220",
+  "titulo_artigo": "Transsulfuration depends on heme in addition to pyridoxal 5'-phosphate. Cystathionine beta-synthase is a heme protein.",
+  "autores": [
+   "Kery V"
+  ],
+  "revista_ano": "J Biol Chem 1994",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Kéry & Kraus 1994 — CBS é hemoproteína: PLP+heme (RESGATE da auditoria; briefing não achou)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_KERY_1994"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_KERY_1994",
+  "doi": "10.1016/s0021-9258(18)47244-4",
+  "claim_id_origem": "B6.MEC.BLOCO01.001",
+  "_aliases": [
+   "Kery",
+   "KERY"
+  ]
+ },
+ {
+  "pmid_oficial": "10531322",
+  "titulo_artigo": "Deletion of the regulatory domain in the pyridoxal phosphate-dependent heme protein cystathionine beta-synthase alleviates the defect observed in a catalytic site mutant.",
+  "autores": [
+   "Kabil O"
+  ],
+  "revista_ano": "J Biol Chem 1999",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Kabil 1999 — domínio regulador CBS; defeito de mutante catalítico",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_KABIL_1999"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_KABIL_1999",
+  "doi": "10.1074/jbc.274.44.31256",
+  "claim_id_origem": "B6.MEC.BLOCO01.002",
+  "_aliases": [
+   "Kabil",
+   "KABIL"
+  ]
+ },
+ {
+  "pmid_oficial": "10052944",
+  "titulo_artigo": "Characterization of the heme and pyridoxal phosphate cofactors of human cystathionine beta-synthase reveals nonequivalent active sites.",
+  "autores": [
+   "Taoka S"
+  ],
+  "revista_ano": "Biochemistry 1999",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Taoka 1999a — cofatores heme/PLP, sítios não-equivalentes",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_TAOKA_1999"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_TAOKA_1999",
+  "doi": "10.1021/bi9826052",
+  "claim_id_origem": "B6.MEC.BLOCO01.003",
+  "_aliases": [
+   "Taoka",
+   "TAOKA"
+  ]
+ },
+ {
+  "pmid_oficial": "10529187",
+  "titulo_artigo": "Assignment of enzymatic functions to specific regions of the PLP-dependent heme protein cystathionine beta-synthase.",
+  "autores": [
+   "Taoka S"
+  ],
+  "revista_ano": "Biochemistry 1999",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Taoka 1999b — mapeamento funções→regiões da CBS (2º registro; GPM citou só o 1º; complementar)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_TAOKA_1999b"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_TAOKA_1999b",
+  "doi": "10.1021/bi990865t",
+  "claim_id_origem": "B6.MEC.BLOCO01.004",
+  "_aliases": [
+   "Taoka",
+   "TAOKA"
+  ]
+ },
+ {
+  "pmid_oficial": "11041866",
+  "titulo_artigo": "The quantitatively important relationship between homocysteine metabolism and glutathione synthesis by the transsulfuration pathway and its regulation by redox changes.",
+  "autores": [
+   "Mosharov E"
+  ],
+  "revista_ano": "Biochemistry 2000",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Mosharov 2000 — relação quantitativa Hcy↔síntese de GSH; regulação redox",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MOSHAROV_2000"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_MOSHAROV_2000",
+  "doi": "10.1021/bi001088w",
+  "claim_id_origem": "B6.MEC.BLOCO01.005",
+  "_aliases": [
+   "Mosharov",
+   "MOSHAROV"
+  ]
+ },
+ {
+  "pmid_oficial": "11483494",
+  "titulo_artigo": "Structure of human cystathionine beta-synthase: a unique pyridoxal 5'-phosphate-dependent heme protein.",
+  "autores": [
+   "Meier M"
+  ],
+  "revista_ano": "EMBO J 2001",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Meier 2001 — estrutura cristalina CBS humana (EMBO J)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MEIER_2001"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_MEIER_2001",
+  "doi": "10.1093/emboj/20.15.3910",
+  "claim_id_origem": "B6.MEC.BLOCO01.006",
+  "_aliases": [
+   "Meier",
+   "MEIER"
+  ]
+ },
+ {
+  "pmid_oficial": "15189131",
+  "titulo_artigo": "Sulfur amino acid metabolism: pathways for production and removal of homocysteine and cysteine.",
+  "autores": [
+   "Stipanuk MH"
+  ],
+  "revista_ano": "Annu Rev Nutr 2004",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Stipanuk 2004 — metabolismo de AA sulfurados (rev. Annu Rev Nutr)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_STIPANUK_2004"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_STIPANUK_2004",
+  "doi": "10.1146/annurev.nutr.24.012003.132418",
+  "claim_id_origem": "B6.MEC.BLOCO01.007",
+  "_aliases": [
+   "Stipanuk",
+   "STIPANUK"
+  ]
+ },
+ {
+  "pmid_oficial": "15581573",
+  "titulo_artigo": "Redox regulation and reaction mechanism of human cystathionine-beta-synthase: a PLP-dependent hemesensor protein.",
+  "autores": [
+   "Banerjee R"
+  ],
+  "revista_ano": "Arch Biochem Biophys 2005 (Epub 2004)",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Banerjee 2004 — regulação redox e mecanismo da CBS (rev.) | ano do rótulo = Epub oficial; print em revista_ano",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BANERJEE_2004"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_BANERJEE_2004",
+  "doi": "10.1016/j.abb.2004.08.037",
+  "claim_id_origem": "B6.MEC.BLOCO01.008",
+  "_aliases": [
+   "Banerjee",
+   "BANERJEE"
+  ]
+ },
+ {
+  "pmid_oficial": "16619244",
+  "titulo_artigo": "Contrasting behaviors of mutant cystathionine beta-synthase enzymes associated with pyridoxine response.",
+  "autores": [
+   "Chen X"
+  ],
+  "revista_ano": "Hum Mutat 2006",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Chen 2006 — mutantes CBS (I278T/R266K) × resposta à piridoxina em camundongos transgênicos (Hum Mutat)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_CHEN_2006"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_CHEN_2006",
+  "doi": "10.1002/humu.20320",
+  "claim_id_origem": "B6.MEC.BLOCO01.009",
+  "_aliases": [
+   "Chen",
+   "CHEN"
+  ]
+ },
+ {
+  "pmid_oficial": "16614071",
+  "titulo_artigo": "S-adenosylmethionine stabilizes cystathionine beta-synthase and modulates redox capacity.",
+  "autores": [
+   "Prudova A"
+  ],
+  "revista_ano": "Proc Natl Acad Sci U S A 2006",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Prudova 2006 — AdoMet estabiliza CBS e modula capacidade redox (PNAS)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_PRUDOVA_2006"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_PRUDOVA_2006",
+  "doi": "10.1073/pnas.0509531103",
+  "claim_id_origem": "B6.MEC.BLOCO01.010",
+  "_aliases": [
+   "Prudova",
+   "PRUDOVA"
+  ]
+ },
+ {
+  "pmid_oficial": "17534535",
+  "titulo_artigo": "Properties of an unusual heme cofactor in PLP-dependent cystathionine beta-synthase.",
+  "autores": [
+   "Singh S"
+  ],
+  "revista_ano": "Nat Prod Rep 2007",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Singh 2007 — cofator heme incomum da CBS (SEM ABSTRACT no PubMed; G3 por título/periódico/autor)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SINGH_2007"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_SINGH_2007",
+  "doi": "10.1039/b604182p",
+  "claim_id_origem": "B6.MEC.BLOCO01.011",
+  "_aliases": [
+   "Singh",
+   "SINGH"
+  ]
+ },
+ {
+  "pmid_oficial": "18476726",
+  "titulo_artigo": "Kinetic properties of polymorphic variants and pathogenic mutants in human cystathionine gamma-lyase.",
+  "autores": [
+   "Zhu W"
+  ],
+  "revista_ano": "Biochemistry 2008",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Zhu 2008 — variantes polimórficas/mutantes patogênicas da CGL humana",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_ZHU_2008"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_ZHU_2008",
+  "doi": "10.1021/bi800351a",
+  "claim_id_origem": "B6.MEC.BLOCO01.012",
+  "_aliases": [
+   "Zhu",
+   "ZHU"
+  ]
+ },
+ {
+  "pmid_oficial": "20566639",
+  "titulo_artigo": "Cystathionine gamma-Lyase-deficient mice require dietary cysteine to protect against acute lethal myopathy and oxidative injury.",
+  "autores": [
+   "Ishii I"
+  ],
+  "revista_ano": "J Biol Chem 2010",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Ishii 2010 — Cth-KO: camundongo sem CGL precisa de cisteína dietética (prova causal mamífera)",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_ISHII_2010"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_ISHII_2010",
+  "doi": "10.1074/jbc.m110.147439",
+  "claim_id_origem": "B6.MEC.BLOCO01.013",
+  "_aliases": [
+   "Ishii",
+   "ISHII"
+  ]
+ },
+ {
+  "pmid_oficial": "21435402",
+  "titulo_artigo": "The enzymes of the transsulfuration pathways: active-site characterizations.",
+  "autores": [
+   "Aitken SM"
+  ],
+  "revista_ano": "Biochim Biophys Acta 2011",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Aitken 2011 — rev. sítio ativo das enzimas da transulfuração",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_AITKEN_2011"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_AITKEN_2011",
+  "doi": "10.1016/j.bbapap.2011.03.006",
+  "claim_id_origem": "B6.MEC.BLOCO01.014",
+  "_aliases": [
+   "Aitken",
+   "AITKEN"
+  ]
+ },
+ {
+  "pmid_oficial": "21315854",
+  "titulo_artigo": "PLP-dependent H(2)S biogenesis.",
+  "autores": [
+   "Singh S"
+  ],
+  "revista_ano": "Biochim Biophys Acta 2011",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Singh & Banerjee 2011 — biogênese de H2S PLP-dependente",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SINGH_2011"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_SINGH_2011",
+  "doi": "10.1016/j.bbapap.2011.02.004",
+  "claim_id_origem": "B6.MEC.BLOCO01.015",
+  "_aliases": [
+   "Singh",
+   "SINGH"
+  ]
+ },
+ {
+  "pmid_oficial": "22738154",
+  "titulo_artigo": "Effect of the disease-causing R266K mutation on the heme and PLP environments of human cystathionine β-synthase.",
+  "autores": [
+   "Smith AT"
+  ],
+  "revista_ano": "Biochemistry 2012",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Smith 2012 — mutação R266K: ambiente heme/PLP da CBS",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SMITH_2012"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_SMITH_2012",
+  "doi": "10.1021/bi300421z",
+  "claim_id_origem": "B6.MEC.BLOCO01.016",
+  "_aliases": [
+   "Smith",
+   "SMITH"
+  ]
+ },
+ {
+  "pmid_oficial": "22977242",
+  "titulo_artigo": "Allosteric communication between the pyridoxal 5'-phosphate (PLP) and heme sites in the H2S generator human cystathionine β-synthase.",
+  "autores": [
+   "Yadav PK"
+  ],
+  "revista_ano": "J Biol Chem 2012",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Yadav 2012 — comunicação alostérica PLP–heme (CBS)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_YADAV_2012"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_YADAV_2012",
+  "doi": "10.1074/jbc.m112.414706",
+  "claim_id_origem": "B6.MEC.BLOCO01.017",
+  "_aliases": [
+   "Yadav",
+   "YADAV"
+  ]
+ },
+ {
+  "pmid_oficial": "23981774",
+  "titulo_artigo": "Characterization of two pathogenic mutations in cystathionine beta-synthase: different intracellular locations for wild-type and mutant proteins.",
+  "autores": [
+   "Casique L"
+  ],
+  "revista_ano": "Gene 2013",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Casique 2013 — duas mutações patogênicas CBS, localização intracelular",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_CASIQUE_2013"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_CASIQUE_2013",
+  "doi": "10.1016/j.gene.2013.08.021",
+  "claim_id_origem": "B6.MEC.BLOCO01.018",
+  "_aliases": [
+   "Casique",
+   "CASIQUE"
+  ]
+ },
+ {
+  "pmid_oficial": "24043838",
+  "titulo_artigo": "Structural basis of regulation and oligomerization of human cystathionine β-synthase, the central enzyme of transsulfuration.",
+  "autores": [
+   "Ereño-Orbea J"
+  ],
+  "revista_ano": "Proc Natl Acad Sci U S A 2013",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Ereño-Orbea 2013 — base estrutural da regulação/oligomerização da CBS humana (PNAS; briefing não localizou — auditoria confirmou)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_ERENOORBEA_2013"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_ERENOORBEA_2013",
+  "doi": "10.1073/pnas.1313683110",
+  "claim_id_origem": "B6.MEC.BLOCO01.019",
+  "_aliases": [
+   "ErenoOrbea",
+   "ERENOORBEA"
+  ]
+ },
+ {
+  "pmid_oficial": "26765812",
+  "titulo_artigo": "Vitamin B6 nutritional status and cellular availability of pyridoxal 5'-phosphate govern the function of the transsulfuration pathway's canonical reactions and hydrogen sulfide production via side reactions.",
+  "autores": [
+   "Gregory JF"
+  ],
+  "revista_ano": "Biochimie 2016",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Gregory 2016 — estado de B6/disponibilidade celular de PLP governam transulfuração + H2S",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_GREGORY_2016"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_GREGORY_2016",
+  "doi": "10.1016/j.biochi.2015.12.020",
+  "claim_id_origem": "B6.MEC.BLOCO01.020",
+  "_aliases": [
+   "Gregory",
+   "GREGORY"
+  ]
+ },
+ {
+  "pmid_oficial": "28245568",
+  "titulo_artigo": "Pyridoxine (Vitamin B₆) and the Glutathione Peroxidase System; a Link between One-Carbon Metabolism and Antioxidation.",
+  "autores": [
+   "Dalto DB"
+  ],
+  "revista_ano": "Nutrients 2017",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Dalto & Matte 2017 — piridoxina↔sistema GPx: elo 1-carbono↔antioxidação (rev.)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_DALTO_2017"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_DALTO_2017",
+  "doi": "10.3390/nu9030189",
+  "claim_id_origem": "B6.MEC.BLOCO01.021",
+  "_aliases": [
+   "Dalto",
+   "DALTO"
+  ]
+ },
+ {
+  "pmid_oficial": "31083508",
+  "titulo_artigo": "Impact of Supplementary Amino Acids, Micronutrients, and Overall Diet on Glutathione Homeostasis.",
+  "autores": [
+   "Gould RL"
+  ],
+  "revista_ano": "Nutrients 2019",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Gould & Pazdro 2019 — aminoácidos/micronutrientes/dieta → homeostase de GSH (rev.)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_GOULD_2019"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_GOULD_2019",
+  "doi": "10.3390/nu11051056",
+  "claim_id_origem": "B6.MEC.BLOCO01.022",
+  "_aliases": [
+   "Gould",
+   "GOULD"
+  ]
+ },
+ {
+  "pmid_oficial": "30007014",
+  "titulo_artigo": "Regulators of the transsulfuration pathway.",
+  "autores": [
+   "Sbodio JI"
+  ],
+  "revista_ano": "Br J Pharmacol 2019 (Epub 2018)",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Sbodio 2018 — reguladores da transulfuração (rev.) | ano do rótulo = Epub oficial; print em revista_ano",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SBODIO_2018"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_SBODIO_2018",
+  "doi": "10.1111/bph.14446",
+  "claim_id_origem": "B6.MEC.BLOCO01.023",
+  "_aliases": [
+   "Sbodio",
+   "SBODIO"
+  ]
+ },
+ {
+  "pmid_oficial": "30671974",
+  "titulo_artigo": "Disorders affecting vitamin B(6) metabolism.",
+  "autores": [
+   "Wilson MP"
+  ],
+  "revista_ano": "J Inherit Metab Dis 2019",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Wilson 2019 — distúrbios do metabolismo de B6 (rev. JIMD)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_WILSON_2019"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_WILSON_2019",
+  "doi": "10.1002/jimd.12060",
+  "claim_id_origem": "B6.MEC.BLOCO01.024",
+  "_aliases": [
+   "Wilson",
+   "WILSON"
+  ]
+ },
+ {
+  "pmid_oficial": "33000151",
+  "titulo_artigo": "Metabolism of Sulfur-Containing Amino Acids: How the Body Copes with Excess Methionine, Cysteine, and Sulfide.",
+  "autores": [
+   "Stipanuk MH"
+  ],
+  "revista_ano": "J Nutr 2020",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Stipanuk 2020 — como o corpo lida com excesso de Met/Cys/sulfeto (rev.)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_STIPANUK_2020"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_STIPANUK_2020",
+  "doi": "10.1093/jn/nxaa094",
+  "claim_id_origem": "B6.MEC.BLOCO01.025",
+  "_aliases": [
+   "Stipanuk",
+   "STIPANUK"
+  ]
+ },
+ {
+  "pmid_oficial": "35864237",
+  "titulo_artigo": "H(2)S biogenesis by cystathionine beta-synthase: mechanism of inhibition by aminooxyacetic acid and unexpected role of serine.",
+  "autores": [
+   "Petrosino M"
+  ],
+  "revista_ano": "Cell Mol Life Sci 2022",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Petrosino 2022 — biogênese H2S pela CBS; inibição por AOAA; serina",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_PETROSINO_2022"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_PETROSINO_2022",
+  "doi": "10.1007/s00018-022-04479-9",
+  "claim_id_origem": "B6.MEC.BLOCO01.026",
+  "_aliases": [
+   "Petrosino",
+   "PETROSINO"
+  ]
+ },
+ {
+  "pmid_oficial": "37451483",
+  "titulo_artigo": "Maintenance of cellular vitamin B(6) levels and mitochondrial oxidative function depend on pyridoxal 5'-phosphate homeostasis protein.",
+  "autores": [
+   "Ciapaite J"
+  ],
+  "revista_ano": "J Biol Chem 2023",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Ciapaite 2023 — PLPBP/homeostase de PLP mantém B6 celular e função oxidativa mitocondrial",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_CIAPAITE_2023"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_CIAPAITE_2023",
+  "doi": "10.1016/j.jbc.2023.105047",
+  "claim_id_origem": "B6.MEC.BLOCO01.027",
+  "_aliases": [
+   "Ciapaite",
+   "CIAPAITE"
+  ]
+ },
+ {
+  "pmid_oficial": "38563463",
+  "titulo_artigo": "Biochemical and structural impact of two novel missense mutations in cystathionine β-synthase gene associated with homocystinuria.",
+  "autores": [
+   "Al-Sadeq DW"
+  ],
+  "revista_ano": "Biochem J 2024",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Al-Sadeq 2024 — duas novas mutações missense CBS (homocistinúria)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_ALSADEQ_2024"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_ALSADEQ_2024",
+  "doi": "10.1042/bcj20240012",
+  "claim_id_origem": "B6.MEC.BLOCO01.028",
+  "_aliases": [
+   "AlSadeq",
+   "ALSADEQ"
+  ]
+ },
+ {
+  "pmid_oficial": "38832404",
+  "titulo_artigo": "Gaseous inhibition of the transsulfuration pathway by cystathionine β-synthase.",
+  "autores": [
+   "McFarlane NR"
+  ],
+  "revista_ano": "Phys Chem Chem Phys 2024",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "McFarlane 2024 — inibição gasosa da CBS (NO/CO; fisiologia do heme)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MCFARLANE_2024"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_MCFARLANE_2024",
+  "doi": "10.1039/d4cp01321b",
+  "claim_id_origem": "B6.MEC.BLOCO01.029",
+  "_aliases": [
+   "Mcfarlane",
+   "MCFARLANE"
+  ]
+ },
+ {
+  "pmid_oficial": "38542149",
+  "titulo_artigo": "Pyridoxal 5'-Phosphate Biosynthesis by Pyridox-(am)-ine 5'-Phosphate Oxidase: Species-Specific Features.",
+  "autores": [
+   "Rivero M"
+  ],
+  "revista_ano": "Int J Mol Sci 2024",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Rivero 2024 — biossíntese de PLP pela PNPO: particularidades por espécie (rev.)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_RIVERO_2024"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_RIVERO_2024",
+  "doi": "10.3390/ijms25063174",
+  "claim_id_origem": "B6.MEC.BLOCO01.030",
+  "_aliases": [
+   "Rivero",
+   "RIVERO"
+  ]
+ },
+ {
+  "pmid_oficial": "40327797",
+  "titulo_artigo": "The disease-linked R336C mutation in cystathionine β-synthase disrupts communication with the PLP cofactor, yet maintains the enzyme's overall structural integrity.",
+  "autores": [
+   "Conter C"
+  ],
+  "revista_ano": "FEBS J 2025",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Conter 2025 — R336C rompe comunicação com PLP (FEBS J)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_CONTER_2025"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_CONTER_2025",
+  "doi": "10.1111/febs.70116",
+  "claim_id_origem": "B6.MEC.BLOCO01.031",
+  "_aliases": [
+   "Conter",
+   "CONTER"
+  ]
+ },
+ {
+  "pmid_oficial": "40141131",
+  "titulo_artigo": "Posttranslational Regulation of Mammalian Sulfur Amino Acid Metabolism.",
+  "autores": [
+   "Pajares MÁ"
+  ],
+  "revista_ano": "Int J Mol Sci 2025",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Pajares 2025 — regulação pós-traducional do metabolismo de enxofre (rev.)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_PAJARES_2025"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_PAJARES_2025",
+  "doi": "10.3390/ijms26062488",
+  "claim_id_origem": "B6.MEC.BLOCO01.032",
+  "_aliases": [
+   "Pajares",
+   "PAJARES"
+  ]
+ },
+ {
+  "pmid_oficial": "39762627",
+  "titulo_artigo": "Transsulfuration pathway activation attenuates oxidative stress and ferroptosis in sickle primary erythroblasts and transgenic mice.",
+  "autores": [
+   "Xi C"
+  ],
+  "revista_ano": "Commun Biol 2025",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Xi 2025 — ativação da transulfuração (CBS) atenua EO e FERROPTOSE em eritroblastos falciformes humanos+camundongos (contexto falciforme; valor mecanístico TS→cisteína→GSH→ferroptose; elo com B6-V1)",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_XI_2025"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_XI_2025",
+  "doi": "10.1038/s42003-024-07424-7",
+  "claim_id_origem": "B6.MEC.BLOCO01.033",
+  "_aliases": [
+   "Xi",
+   "XI"
+  ]
+ },
+ {
+  "pmid_oficial": "2711414",
+  "titulo_artigo": "Influence of vitamin B6 status on aspects of lead poisoning in rats.",
+  "autores": [
+   "McGowan C"
+  ],
+  "revista_ano": "Toxicol Lett 1989",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "McGowan 1989 — status de B6 × intoxicação por Pb: GSH hepático, GR (fatorial 2×2)",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_MCGOWAN_1989"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_MCGOWAN_1989",
+  "doi": "10.1016/0378-4274(89)90088-x",
+  "claim_id_origem": "B6.MEC.BLOCO02.001",
+  "_aliases": [
+   "Mcgowan",
+   "MCGOWAN"
+  ]
+ },
+ {
+  "pmid_oficial": "9844729",
+  "titulo_artigo": "Vitamin B6 deficiency affects antioxidant defences in rat liver and heart.",
+  "autores": [
+   "Cabrini L"
+  ],
+  "revista_ano": "Biochem Mol Biol Int 1998",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Cabrini 1998 — deficiência de B6: TBARS↑, GSH/GSSG↓, GPx/GR↑ compensatórias, GSH total sem Δ (ÂNCORA HETEROGENEIDADE)",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_CABRINI_1998"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_CABRINI_1998",
+  "doi": "10.1080/15216549800204222",
+  "claim_id_origem": "B6.MEC.BLOCO02.002",
+  "_aliases": [
+   "Cabrini",
+   "CABRINI"
+  ]
+ },
+ {
+  "pmid_oficial": "15203107",
+  "titulo_artigo": "Vitamin C or Vitamin B6 supplementation prevent the oxidative stress and decrease of prostacyclin generation in homocysteinemic rats.",
+  "autores": [
+   "Mahfouz MM"
+  ],
+  "revista_ano": "Int J Biochem Cell Biol 2004",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Mahfouz 2004 — vit C ou B6 previnem EO e queda de prostaciclina em ratos homocisteinêmicos",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_MAHFOUZ_2004"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_MAHFOUZ_2004",
+  "doi": "10.1016/j.biocel.2004.01.028",
+  "claim_id_origem": "B6.MEC.BLOCO02.003",
+  "_aliases": [
+   "Mahfouz",
+   "MAHFOUZ"
+  ]
+ },
+ {
+  "pmid_oficial": "16857832",
+  "titulo_artigo": "Vitamin B-6 deficiency suppresses the hepatic transsulfuration pathway but increases glutathione concentration in rats fed AIN-76A or AIN-93G diets.",
+  "autores": [
+   "Lima CP"
+  ],
+  "revista_ano": "J Nutr 2006",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Lima 2006 — deficiência de B6 suprime TS hepática MAS aumenta GSH (PARADOXO; ÂNCORA)",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_LIMA_2006"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_LIMA_2006",
+  "doi": "10.1093/jn/136.8.2141",
+  "claim_id_origem": "B6.MEC.BLOCO02.004",
+  "_aliases": [
+   "Lima",
+   "LIMA"
+  ]
+ },
+ {
+  "pmid_oficial": "20090886",
+  "titulo_artigo": "Effect of vitamin B(6) deficiency on antioxidative status in rats with exercise-induced oxidative stress.",
+  "autores": [
+   "Choi EY"
+  ],
+  "revista_ano": "Nutr Res Pract 2009",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Choi 2009 — deficiência de B6 × exercício oxidativo em ratos",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_CHOI_2009"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_CHOI_2009",
+  "doi": "10.4162/nrp.2009.3.3.208",
+  "claim_id_origem": "B6.MEC.BLOCO02.005",
+  "_aliases": [
+   "Choi",
+   "CHOI"
+  ]
+ },
+ {
+  "pmid_oficial": "25933612",
+  "titulo_artigo": "Role of vitamin B6 status on antioxidant defenses, glutathione, and related enzyme activities in mice with homocysteine-induced oxidative stress.",
+  "autores": [
+   "Hsu CC"
+  ],
+  "revista_ano": "Food Nutr Res 2015",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Hsu 2015 — status de B6 × defesas/glutationa em camundongos com EO induzido por Hcy",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_HSU_2015"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_HSU_2015",
+  "doi": "10.3402/fnr.v59.25702",
+  "claim_id_origem": "B6.MEC.BLOCO02.006",
+  "_aliases": [
+   "Hsu",
+   "HSU"
+  ]
+ },
+ {
+  "pmid_oficial": "28024289",
+  "titulo_artigo": "Protective abilities of pyridoxine in experimental oxidative stress settings in vivo and in vitro.",
+  "autores": [
+   "Danielyan KE"
+  ],
+  "revista_ano": "Biomed Pharmacother 2017",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Danielyan 2017 — piridoxina protetora in vivo/in vitro; inibição de xantina oxidase",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_DANIELYAN_2017"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_DANIELYAN_2017",
+  "doi": "10.1016/j.biopha.2016.12.053",
+  "claim_id_origem": "B6.MEC.BLOCO02.007",
+  "_aliases": [
+   "Danielyan",
+   "DANIELYAN"
+  ]
+ },
+ {
+  "pmid_oficial": "40991665",
+  "titulo_artigo": "Effects of vitamin B6 on cardiometabolic biomarkers, cardiac oxidative stress and enzymes activities, and cardiovascular histomorphometric parameters in hyperhomocysteinemic rats.",
+  "autores": [
+   "Todorović D"
+  ],
+  "revista_ano": "Can J Physiol Pharmacol 2025",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Todorović 2025 — B6 em ratos hiperhomocisteinêmicos: EO cardíaco, enzimas",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_TODOROVIC_2025"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_TODOROVIC_2025",
+  "doi": "10.1139/cjpp-2025-0073",
+  "claim_id_origem": "B6.MEC.BLOCO02.008",
+  "_aliases": [
+   "Todorovic",
+   "TODOROVIC"
+  ]
+ },
+ {
+  "pmid_oficial": "42351801",
+  "titulo_artigo": "Effects of Vitamin B6 and Folic Acid on Cardiometabolic Biomarkers and Cardiac Oxidative Stress in Homocysteine-Loaded Rats.",
+  "autores": [
+   "Todorović D"
+  ],
+  "revista_ano": "Biomedicines 2026",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Todorović 2026 — B6+folato: biomarcadores cardiometabólicos e EO cardíaco em ratos",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_TODOROVIC_2026"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_TODOROVIC_2026",
+  "doi": "10.3390/biomedicines14061373",
+  "claim_id_origem": "B6.MEC.BLOCO02.009",
+  "_aliases": [
+   "Todorovic",
+   "TODOROVIC"
+  ]
+ },
+ {
+  "pmid_oficial": "1653565",
+  "titulo_artigo": "Phenolic compounds and an analog as superoxide anion scavengers and antioxidants.",
+  "autores": [
+   "Zhou YC"
+  ],
+  "revista_ano": "Biochem Pharmacol 1991",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Zhou 1991 — piridoxina como scavenger de ânion superóxido (comparativo)",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_ZHOU_1991"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_ZHOU_1991",
+  "doi": "10.1016/0006-2952(91)90251-y",
+  "claim_id_origem": "B6.MEC.BLOCO03.001",
+  "_aliases": [
+   "Zhou",
+   "ZHOU"
+  ]
+ },
+ {
+  "pmid_oficial": "7767942",
+  "titulo_artigo": "The antioxidant and prooxidant activity of some B vitamins and vitamin-like compounds.",
+  "autores": [
+   "Hu ML"
+  ],
+  "revista_ano": "Chem Biol Interact 1995",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Hu 1995 — vitaminas B: atividade antioxidante E pró-oxidante (microsomas; honestidade de polaridade)",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_HU_1995"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_HU_1995",
+  "doi": "10.1016/0009-2797(95)03608-8",
+  "claim_id_origem": "B6.MEC.BLOCO03.002",
+  "_aliases": [
+   "Hu",
+   "HU"
+  ]
+ },
+ {
+  "pmid_oficial": "11165869",
+  "titulo_artigo": "Pyridoxine and pyridoxamine inhibits superoxide radicals and prevents lipid peroxidation, protein glycosylation, and (Na+ + K+)-ATPase activity reduction in high glucose-treated human erythrocytes.",
+  "autores": [
+   "Jain SK"
+  ],
+  "revista_ano": "Free Radic Biol Med 2001",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Jain & Lim 2001 — piridoxina/piridoxamina inibem superóxido e peroxidação em eritrócitos humanos in vitro",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_JAIN_2001"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "celular/in vitro"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_JAIN_2001",
+  "doi": "10.1016/s0891-5849(00)00462-7",
+  "claim_id_origem": "B6.MEC.BLOCO03.003",
+  "_aliases": [
+   "Jain",
+   "JAIN"
+  ]
+ },
+ {
+  "pmid_oficial": "14975445",
+  "titulo_artigo": "Effect of vitamin B6 on oxygen radicals, mitochondrial membrane potential, and lipid peroxidation in H2O2-treated U937 monocytes.",
+  "autores": [
+   "Kannan K"
+  ],
+  "revista_ano": "Free Radic Biol Med 2004",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Kannan & Jain 2004 — B6 reduz radical/ΔΨm/peroxidação em monócitos U937-H2O2 (SEM ABSTRACT no PubMed; G3 título/periódico)",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_KANNAN_2004"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "celular/in vitro"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_KANNAN_2004",
+  "doi": "",
+  "claim_id_origem": "B6.MEC.BLOCO03.004",
+  "_aliases": [
+   "Kannan",
+   "KANNAN"
+  ]
+ },
+ {
+  "pmid_oficial": "17134167",
+  "titulo_artigo": "Theoretical study of the antioxidant properties of pyridoxine.",
+  "autores": [
+   "Matxain JM"
+  ],
+  "revista_ano": "J Phys Chem A 2006",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Matxain 2006 — DFT: reatividade da piridoxina com ·OH/·OOH/·O2−",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_MATXAIN_2006"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "celular/in vitro"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_MATXAIN_2006",
+  "doi": "10.1021/jp065115p",
+  "claim_id_origem": "B6.MEC.BLOCO03.005",
+  "_aliases": [
+   "Matxain",
+   "MATXAIN"
+  ]
+ },
+ {
+  "pmid_oficial": "20209473",
+  "titulo_artigo": "Vitamin B6 compounds are capable of reducing the superoxide radical and lipid peroxide levels induced by H2O2 in vascular endothelial cells in culture.",
+  "autores": [
+   "Mahfouz MM"
+  ],
+  "revista_ano": "Int J Vitam Nutr Res 2009",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Mahfouz 2009 — vitâmeros B6 reduzem superóxido/peróxido em endotélio H2O2 (NOX)",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_MAHFOUZ_2009"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "celular/in vitro"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_MAHFOUZ_2009",
+  "doi": "10.1024/0300-9831.79.4.218",
+  "claim_id_origem": "B6.MEC.BLOCO03.006",
+  "_aliases": [
+   "Mahfouz",
+   "MAHFOUZ"
+  ]
+ },
+ {
+  "pmid_oficial": "19558175",
+  "titulo_artigo": "Evidence of high *OH radical quenching efficiency by vitamin B6.",
+  "autores": [
+   "Matxain JM"
+  ],
+  "revista_ano": "J Phys Chem B 2009",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Matxain 2009 — alta eficiência de captura de ·OH pela B6 (química)",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_MATXAIN_2009"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "celular/in vitro"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_MATXAIN_2009",
+  "doi": "10.1021/jp903023c",
+  "claim_id_origem": "B6.MEC.BLOCO03.007",
+  "_aliases": [
+   "Matxain",
+   "MATXAIN"
+  ]
+ },
+ {
+  "pmid_oficial": "22231514",
+  "titulo_artigo": "The role of vitamin B6 as an antioxidant in the presence of vitamin B2-photogenerated reactive oxygen species. A kinetic and mechanistic study.",
+  "autores": [
+   "Natera J"
+  ],
+  "revista_ano": "Photochem Photobiol Sci 2012",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Natera 2012 — cinética de B6 como antioxidante frente a ROS fotogeradas por B2",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_NATERA_2012"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "celular/in vitro"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_NATERA_2012",
+  "doi": "10.1039/c2pp05318g",
+  "claim_id_origem": "B6.MEC.BLOCO03.008",
+  "_aliases": [
+   "Natera",
+   "NATERA"
+  ]
+ },
+ {
+  "pmid_oficial": "22116705",
+  "titulo_artigo": "Vitamin B6: beyond coenzyme functions.",
+  "autores": [
+   "Wondrak GT"
+  ],
+  "revista_ano": "Subcell Biochem 2012",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Wondrak & Jacobson 2012 — B6 além da coenzima: RCS/metais/fotossensíveis (rev. mecanística)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_WONDRAK_2012"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_WONDRAK_2012",
+  "doi": "",
+  "claim_id_origem": "B6.MEC.BLOCO03.009",
+  "_aliases": [
+   "Wondrak",
+   "WONDRAK"
+  ]
+ },
+ {
+  "pmid_oficial": "31480509",
+  "titulo_artigo": "How Does Pyridoxamine Inhibit the Formation of Advanced Glycation End Products? The Role of Its Primary Antioxidant Activity.",
+  "autores": [
+   "Ramis R"
+  ],
+  "revista_ano": "Antioxidants (Basel) 2019",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Ramis 2019 — piridoxamina inibe AGEs via atividade antioxidante primária",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_RAMIS_2019"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_RAMIS_2019",
+  "doi": "10.3390/antiox8090344",
+  "claim_id_origem": "B6.MEC.BLOCO03.010",
+  "_aliases": [
+   "Ramis",
+   "RAMIS"
+  ]
+ },
+ {
+  "pmid_oficial": "35390394",
+  "titulo_artigo": "On the free radical scavenging and metallic ion chelating activities of pyridoxal - Could the pro-oxidant risk be competitive?",
+  "autores": [
+   "Ngo TC"
+  ],
+  "revista_ano": "Phytochemistry 2022",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Ngo 2022 — DFT piridoxal: scavenger + risco pró-oxidante (polaridade dupla)",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_NGO_2022"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "celular/in vitro"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_NGO_2022",
+  "doi": "10.1016/j.phytochem.2022.113176",
+  "claim_id_origem": "B6.MEC.BLOCO03.011",
+  "_aliases": [
+   "Ngo",
+   "NGO"
+  ]
+ },
+ {
+  "pmid_oficial": "28807817",
+  "titulo_artigo": "Assessment of glutathione/glutathione disulphide ratio and S-glutathionylated proteins in human blood, solid tissues, and cultured cells.",
+  "autores": [
+   "Giustarini D"
+  ],
+  "revista_ano": "Free Radic Biol Med 2017",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Giustarini 2017 — razão GSH/GSSG e proteínas S-glutationiladas em sangue/tecidos (método)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_GIUSTARINI_2017"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_GIUSTARINI_2017",
+  "doi": "10.1016/j.freeradbiomed.2017.08.008",
+  "claim_id_origem": "B6.MEC.BLOCO03.013",
+  "_aliases": [
+   "Giustarini",
+   "GIUSTARINI"
+  ]
+ },
+ {
+  "pmid_oficial": "32933160",
+  "titulo_artigo": "Measurement of Glutathione as a Tool for Oxidative Stress Studies by High Performance Liquid Chromatography.",
+  "autores": [
+   "Nuhu F"
+  ],
+  "revista_ano": "Molecules 2020",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Nuhu 2020 — medida de GSH/GSSG por HPLC (método)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_NUHU_2020"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_NUHU_2020",
+  "doi": "10.3390/molecules25184196",
+  "claim_id_origem": "B6.MEC.BLOCO03.014",
+  "_aliases": [
+   "Nuhu",
+   "NUHU"
+  ]
+ },
+ {
+  "pmid_oficial": "36386929",
+  "titulo_artigo": "Glutathione: A Samsonian life-sustaining small molecule that protects against oxidative stress, ageing and damaging inflammation.",
+  "autores": [
+   "Labarrere CA"
+  ],
+  "revista_ano": "Front Nutr 2022",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Labarrere & Kassab 2022 — GSH: molécula protetora contra EO/envelhecimento/inflamação (rev.)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_LABARRERE_2022"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_LABARRERE_2022",
+  "doi": "10.3389/fnut.2022.1007816",
+  "claim_id_origem": "B6.MEC.BLOCO03.015",
+  "_aliases": [
+   "Labarrere",
+   "LABARRERE"
+  ]
+ },
+ {
+  "pmid_oficial": "36707132",
+  "titulo_artigo": "The antioxidant glutathione.",
+  "autores": [
+   "Averill-Bates DA"
+  ],
+  "revista_ano": "Vitam Horm 2023",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Averill-Bates 2023 — a glutationa antioxidante (rev.; CONTEXT)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_AVERILLBATES_2023"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_AVERILLBATES_2023",
+  "doi": "10.1016/bs.vh.2022.09.002",
+  "claim_id_origem": "B6.MEC.BLOCO03.016",
+  "_aliases": [
+   "AverillBates",
+   "AVERILLBATES"
+  ]
+ },
+ {
+  "pmid_oficial": "37237960",
+  "titulo_artigo": "How to Increase Cellular Glutathione.",
+  "autores": [
+   "Giustarini D"
+  ],
+  "revista_ano": "Antioxidants (Basel) 2023",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Giustarini 2023 — como aumentar GSH celular (rev.; CONTEXT)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_GIUSTARINI_2023"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_GIUSTARINI_2023",
+  "doi": "10.3390/antiox12051094",
+  "claim_id_origem": "B6.MEC.BLOCO03.017",
+  "_aliases": [
+   "Giustarini",
+   "GIUSTARINI"
+  ]
+ },
+ {
+  "pmid_oficial": "37683986",
+  "titulo_artigo": "Glutathione and glutathione-dependent enzymes: From biochemistry to gerontology and successful aging.",
+  "autores": [
+   "Lapenna D"
+  ],
+  "revista_ano": "Ageing Res Rev 2023",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Lapenna 2023 — GSH e enzimas GSH-dependentes: bioquímica→gerontologia (rev.)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_LAPENNA_2023"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_LAPENNA_2023",
+  "doi": "10.1016/j.arr.2023.102066",
+  "claim_id_origem": "B6.MEC.BLOCO03.018",
+  "_aliases": [
+   "Lapenna",
+   "LAPENNA"
+  ]
+ },
+ {
+  "pmid_oficial": "37759691",
+  "titulo_artigo": "Lipid Peroxidation and Antioxidant Protection.",
+  "autores": [
+   "Valgimigli L"
+  ],
+  "revista_ano": "Biomolecules 2023",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Valgimigli 2023 — peroxidação lipídica e proteção antioxidante (rev.; elo ferroptose B6-V1)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_VALGIMIGLI_2023"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_VALGIMIGLI_2023",
+  "doi": "10.3390/biom13091291",
+  "claim_id_origem": "B6.MEC.BLOCO03.019",
+  "_aliases": [
+   "Valgimigli",
+   "VALGIMIGLI"
+  ]
+ },
+ {
+  "pmid_oficial": "16424114",
+  "titulo_artigo": "Plasma glutathione and cystathionine concentrations are elevated but cysteine flux is unchanged by dietary vitamin B-6 restriction in young men and women.",
+  "autores": [
+   "Davis SR"
+  ],
+  "revista_ano": "J Nutr 2006",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Davis 2006 — restrição dietética de B6 em humanos: GSH e cistationina plasmáticas ↑, fluxo de cisteína sem Δ (ÂNCORA PARADOXO)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_DAVIS_2006"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_DAVIS_2006",
+  "doi": "10.1093/jn/136.2.373",
+  "claim_id_origem": "B6.MEC.BLOCO05.001",
+  "_aliases": [
+   "Davis",
+   "DAVIS"
+  ]
+ },
+ {
+  "pmid_oficial": "19515736",
+  "titulo_artigo": "Vitamin B-6 restriction tends to reduce the red blood cell glutathione synthesis rate without affecting red blood cell or plasma glutathione concentrations in healthy men and women.",
+  "autores": [
+   "Lamers Y"
+  ],
+  "revista_ano": "Am J Clin Nutr 2009",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Lamers 2009 — restrição de B6: tendência ↓taxa de síntese eritrocitária de GSH sem Δconcentração (ÂNCORA HETEROGENEIDADE)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_LAMERS_2009"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_LAMERS_2009",
+  "doi": "10.3945/ajcn.2009.27747",
+  "claim_id_origem": "B6.MEC.BLOCO05.002",
+  "_aliases": [
+   "Lamers",
+   "LAMERS"
+  ]
+ },
+ {
+  "pmid_oficial": "19955400",
+  "titulo_artigo": "Association of vitamin B-6 status with inflammation, oxidative stress, and chronic inflammatory conditions: the Boston Puerto Rican Health Study.",
+  "autores": [
+   "Shen J"
+  ],
+  "revista_ano": "Am J Clin Nutr 2010",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Shen 2010 — PLP ↔ inflamação/EO/8-OHdG/CRP (Boston Puerto Rican; ASSOCIATIVO, transversal)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SHEN_2010"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_SHEN_2010",
+  "doi": "10.3945/ajcn.2009.28571",
+  "claim_id_origem": "B6.MEC.BLOCO05.003",
+  "_aliases": [
+   "Shen",
+   "SHEN"
+  ]
+ },
+ {
+  "pmid_oficial": "27051670",
+  "titulo_artigo": "Vitamin B-6 Supplementation Could Mediate Antioxidant Capacity by Reducing Plasma Homocysteine Concentration in Patients with Hepatocellular Carcinoma after Tumor Resection.",
+  "autores": [
+   "Cheng SB"
+  ],
+  "revista_ano": "Biomed Res Int 2016",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Cheng 2016 — RCT HCC pós-ressecção: B6 → ↓Hcy, capacidade antioxidante (sinal-intervenção; P20)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_CHENG_2016"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_CHENG_2016",
+  "doi": "10.1155/2016/7658981",
+  "claim_id_origem": "B6.MEC.BLOCO05.004",
+  "_aliases": [
+   "Cheng",
+   "CHENG"
+  ]
+ },
+ {
+  "pmid_oficial": "31129702",
+  "titulo_artigo": "Subclinical inflammation, telomere shortening, homocysteine, vitamin B6, and mortality: the Ludwigshafen Risk and Cardiovascular Health Study.",
+  "autores": [
+   "Pusceddu I"
+  ],
+  "revista_ano": "Eur J Nutr 2020 (Epub 2019)",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Pusceddu 2019 — inflamação subclínica, telômeros, Hcy, B6 e mortalidade (LURIC; ASSOCIATIVO) [ano oficial PubMed 2020 (epub 2019); insumo rotulava 2019 — explicado em decisoes] | ano do rótulo = Epub oficial; print em revista_ano",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_PUSCEDDU_2019"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_PUSCEDDU_2019",
+  "doi": "10.1007/s00394-019-01993-8",
+  "claim_id_origem": "B6.MEC.BLOCO05.007",
+  "_aliases": [
+   "Pusceddu",
+   "PUSCEDDU"
+  ]
+ },
+ {
+  "pmid_oficial": "34229268",
+  "titulo_artigo": "Quantification of the B6 vitamers in human plasma and urine in a study with pyridoxamine as an oral supplement; pyridoxamine as an alternative for pyridoxine.",
+  "autores": [
+   "Van den Eynde MDG"
+  ],
+  "revista_ano": "Clin Nutr 2021",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Van Den Eynde 2021 — quantificação de vitâmeros B6 em plasma/urina (suporte à regra não-intercambiabilidade) [rótulo normalizado para Van den Eynde]",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_VANDENEYNDE_2021"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_VANDENEYNDE_2021",
+  "doi": "10.1016/j.clnu.2021.05.028",
+  "claim_id_origem": "B6.MEC.BLOCO05.008",
+  "_aliases": [
+   "Vandeneynde",
+   "VANDENEYNDE"
+  ]
+ },
+ {
+  "pmid_oficial": "16531614",
+  "titulo_artigo": "Homocysteine lowering and cardiovascular events after acute myocardial infarction.",
+  "autores": [
+   "Bønaa KH"
+  ],
+  "revista_ano": "N Engl J Med 2006",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Bønaa 2006 NORVIT — reduzir Hcy com vitaminas B NÃO reduziu eventos pós-IM (RCT 3749; LIÇÃO: biomarcador↓ ≠ desfecho; âncora NEG. Desfecho CV, uso metodológico) [rótulo normalizado Bønaa→Bonaa]",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BONAA_2006"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_BONAA_2006",
+  "doi": "10.1056/nejmoa055227",
+  "claim_id_origem": "B6.MEC.BLOCO06.001",
+  "_aliases": [
+   "Bonaa",
+   "BONAA",
+   "Bønaa"
+  ]
+ },
+ {
+  "pmid_oficial": "29776960",
+  "titulo_artigo": "Effect of Combined Treatment With Folic Acid, Vitamin B(6), and Vitamin B(12) on Plasma Biomarkers of Inflammation and Endothelial Dysfunction in Women.",
+  "autores": [
+   "Christen WG"
+  ],
+  "revista_ano": "J Am Heart Assoc 2018",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Christen 2018 WAFACS — folato+B6+B12 não alteraram biomarcadores de inflamação/endotélio (substudy RCT; âncora NEG associação↔causa)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_CHRISTEN_2018"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_CHRISTEN_2018",
+  "doi": "10.1161/jaha.117.008517",
+  "claim_id_origem": "B6.MEC.BLOCO06.002",
+  "_aliases": [
+   "Christen",
+   "CHRISTEN"
+  ]
+ },
+ {
+  "pmid_oficial": "42196957",
+  "titulo_artigo": "Potential Role of Vitamin B6 as an Antioxidant via Pyridoxal-5'-Phosphate-Dependent Metabolic Pathways and Subsequent Activation of Nrf2 Signaling.",
+  "autores": [
+   "Kato N"
+  ],
+  "revista_ano": "Nutrients 2026",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Kato 2026 — hipótese B6→PLP-metabolismo→Nrf2 (rev. hipótese; NÃO-CONSOLIDADO; [G1] explícito)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_KATO_2026"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_KATO_2026",
+  "doi": "10.3390/nu18101499",
+  "claim_id_origem": "B6.MEC.BLOCO08.001",
+  "_aliases": [
+   "Kato",
+   "KATO"
+  ]
+ }
+]

@@ -1,0 +1,301 @@
+{
+ "trilha": "24_replicacao_parecer4_mestre_2026-09-13",
+ "rev": "rev.1 — apêndice cortado no próximo cabeçalho '## ' (rev.0 varria REGISTRO narrativo e METADADOS: falso positivo MEHTA_2020{EC,MA,OB} confessado e corrigido); fichas buscadas por id_referencia_interna e por autor/título",
+ "canonica_sha256": "6e2c29797e6322f16dcc5248cce552be613dd11f1de957c66aaa913e69225238",
+ "alvo": "B1 NEUROINFLAMAÇÃO V7 CANONICA.md",
+ "A_tokens_dois_classificadores": {
+  "na_V7_por_camada": {
+   "prosa": {},
+   "indice_inline": {
+    "PERRY_TEELING_2013": [
+     "ML",
+     "OB"
+    ],
+    "PRIMINGPRINC_2018": [
+     "ML",
+     "OB"
+    ],
+    "PSORIASE_2025": [
+     "EC",
+     "OB"
+    ],
+    "QUIMIO_META82_2017": [
+     "EC",
+     "MA"
+    ],
+    "SERHAN_LEVY_2018": [
+     "ML",
+     "OB"
+    ],
+    "STRESS_EPI_2019": [
+     "EC",
+     "MA"
+    ]
+   },
+   "apendice": {},
+   "global_uniao": {
+    "BULL_2009": [
+     "EC",
+     "MA"
+    ],
+    "HOLMES_2018": [
+     "EC",
+     "MA"
+    ],
+    "KLENGEL_2013": [
+     "EC",
+     "MA"
+    ],
+    "PERRY_TEELING_2013": [
+     "ML",
+     "OB"
+    ],
+    "PRIMINGPRINC_2018": [
+     "ML",
+     "OB"
+    ],
+    "PSORIASE_2025": [
+     "EC",
+     "OB"
+    ],
+    "QUIMIO_META82_2017": [
+     "EC",
+     "MA"
+    ],
+    "SERHAN_LEVY_2018": [
+     "ML",
+     "OB"
+    ],
+    "SETIAWAN_2015": [
+     "EC",
+     "MA"
+    ],
+    "STRESS_EPI_2019": [
+     "EC",
+     "MA"
+    ],
+    "SUBLETTE_2011": [
+     "EC",
+     "MA"
+    ]
+   }
+  },
+  "lista_mestre_V6_x_estado_V7": {
+   "BULL_2009": {
+    "BULL_2009": [
+     "EC",
+     "MA"
+    ]
+   },
+   "KLENGEL_2013": {
+    "KLENGEL_2013": [
+     "EC",
+     "MA"
+    ]
+   },
+   "STEINER_2011": {
+    "STEINER_2011_QUIN": [
+     "EC"
+    ],
+    "STEINER_2011": [
+     "MA"
+    ]
+   },
+   "SUBLETTE_2011": {
+    "SUBLETTE_2011": [
+     "EC",
+     "MA"
+    ]
+   },
+   "SETIAWAN_2015": {
+    "SETIAWAN_2015": [
+     "EC",
+     "MA"
+    ]
+   },
+   "HOLMES_2018": {
+    "HOLMES_2018": [
+     "EC",
+     "MA"
+    ]
+   },
+   "MEHTA_2020": {
+    "MEHTA_2020": [
+     "EC"
+    ]
+   },
+   "LEVY_2018": {
+    "SERHAN_LEVY_2018": [
+     "ML",
+     "OB"
+    ]
+   },
+   "TEELING_2013": {
+    "PERRY_TEELING_2013": [
+     "ML",
+     "OB"
+    ]
+   },
+   "EPI_2019": {
+    "STRESS_EPI_2019": [
+     "EC",
+     "MA"
+    ]
+   },
+   "PRIMINGPRINC_2018": {
+    "PRIMINGPRINC_2018": [
+     "ML",
+     "OB"
+    ]
+   },
+   "PSORIASE_2025": {
+    "PSORIASE_2025": [
+     "EC",
+     "OB"
+    ]
+   }
+  }
+ },
+ "B_tokens_tematicos": {
+  "classificadores": {
+   "STRESS_EPI_2019": {
+    "classificadores_global": [
+     "EC",
+     "MA"
+    ],
+    "ocorrencias": [
+     [
+      251,
+      "*Klengel_2013[EC] | Stress_Epi_2019[EC]*",
+      "indice_inline"
+     ],
+     [
+      1021,
+      "*Klengel_2013[EC] | Holocausto_2016[EC] | Bull_2009[EC] | Stress_Epi_2019[MA]*",
+      "indice_inline"
+     ]
+    ]
+   },
+   "PRIMINGPRINC_2018": {
+    "classificadores_global": [
+     "ML",
+     "OB"
+    ],
+    "ocorrencias": [
+     [
+      350,
+      "*IFNg_PRIMING_2024[ML] | PrimingPrinc_2018[ML] | NEK7_2025[ML]*",
+      "indice_inline"
+     ],
+     [
+      374,
+      "*PrimingPrinc_2018[ML]*",
+      "indice_inline"
+     ],
+     [
+      475,
+      "*MAMs_P2X7_2024[ML] | PrimingPrinc_2018[OB]*",
+      "indice_inline"
+     ]
+    ]
+   },
+   "PSORIASE_2025": {
+    "classificadores_global": [
+     "EC",
+     "OB"
+    ],
+    "ocorrencias": [
+     [
+      358,
+      "*Antidep_microglia_2022[ML] | Psoriase_2025[EC]*",
+      "indice_inline"
+     ],
+     [
+      422,
+      "*Th17_2025[ML] | Psoriase_2025[OB]*",
+      "indice_inline"
+     ]
+    ]
+   }
+  },
+  "fichas_candidatas_por_token": {
+   "STRESS_EPI_2019": [],
+   "PRIMINGPRINC_2018": [],
+   "PSORIASE_2025": []
+  },
+  "fichas_por_autor_titulo": {
+   "KEENAN": [
+    [
+     "01_pmids.json",
+     "REF_KEENAN_2025",
+     "['Keenan EL', 'Granstein RD']",
+     "39960105",
+     "Review (Acta Physiol; humano+animal)"
+    ]
+   ],
+   "HERMAN": [
+    [
+     "01_pmids.json",
+     "REF_HERMAN_2018",
+     "['Herman FJ', 'Pasinetti GM']",
+     "29902514",
+     "Review (Brain Behav Immun; humano+animal)"
+    ]
+   ],
+   "MEHTA": [
+    [
+     "01_pmids.json",
+     "REF_KLENGEL_2013",
+     "['Klengel T', 'Mehta D', 'Anacker C', 'Rex-Haffner M', 'Pruessner JC',",
+     "23201972",
+     "Genetica/epigenetica humana (Nat Neurosci)"
+    ],
+    [
+     "01_pmids.json",
+     "REF_ARORA_2019",
+     "['Arora P', 'Sagar R', 'Mehta M', 'Pallavi P', 'Sharma S', 'Mukhopadhy",
+     "30745657",
+     "Observacional humano (soro)"
+    ],
+    [
+     "01_pmids.json",
+     "REF_MEHTA_2020",
+     "['Mehta ND', 'Stevens JS', 'Li Z', 'Gillespie CF', 'Fani N', 'Michopou",
+     "32291455",
+     "EC humano (Soc Cogn Affect Neurosci; fMRI; N=56)"
+    ],
+    [
+     "01_pmids.json",
+     "REF_BEKHBAT_2022",
+     "['Bekhbat M', 'Li Z', 'Mehta ND', 'Treadway MT', 'Lucido MJ', 'Woolwin",
+     "35927580",
+     "EC humano (Mol Psychiatry; fMRI)"
+    ],
+    [
+     "01_pmids.json",
+     "REF_MEHTA_2020b",
+     "['Mehta D', 'et al.']",
+     "31951051",
+     "OB revisao sistematica (humano; metilacao/expressa"
+    ]
+   ]
+  }
+ },
+ "C_V16_4_superficies": {
+  "H1_linha1": "# B1 NEUROINFLAMAÇÃO V7 CANÔNICA",
+  "H1_versao": "V7",
+  "artefato_rotulo_L5": "CANONICA V7",
+  "rotulo_versao": "V7",
+  "nome_arquivo": "B1 NEUROINFLAMAÇÃO V7 CANONICA.md",
+  "arquivo_versao": "V7",
+  "manifesto_biblioteca": "CANONICA V7 — status PROVISÓRIO",
+  "manifesto_versao": "V7",
+  "versao_manifesto_campo": "2.9",
+  "V16_resultado": "OK — 4 superficies concordam"
+ },
+ "contagens": {
+  "tokens_indice_inline": 231,
+  "tokens_apendice": 237,
+  "tokens_prosa_com_classe": 0
+ }
+}

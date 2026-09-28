@@ -1,0 +1,35 @@
+DIGITAIS — PACOTE L-05 (N1 v1.3 + N2 v1.4) + PARECER DO COMENTADOR
+Recebido do operador em 2026-09-18 · rodada 29 · casa (Arena) arquivou VERBATIM, mediu e registrou.
+Política: os mesmos bytes que o operador enviou; operador repassa os mesmos bytes à outra frente se necessário.
+
+## Peças (sha256 · bytes · origem)
+1) L05_SCHEMA_EVIDENCIA_E_VINCULO_v1.4_PROPOSTA_78a0f2af.md
+   sha256 = 78a0f2afcd2acf0f78caa8bbc674c337e7c5b47c93ee86d684f1648b6671dc8b
+   bytes  = 42809 · origem: uploads/L05_SCHEMA_EVIDENCIA_E_VINCULO_v1.4_PROPOSTA.md (auditor estrutura)
+
+2) schema_referencia_v1.3_N1_b06660fd.json
+   sha256 = b06660fd985a8186dbe5ed2878f15d3badd2356e11f4d0c9b71e78d2b2e4e7da
+   bytes  = 9582 · origem: uploads/schema_referencia_v1 (2).json
+   NOTA: BYTE-IDÊNTICO ao N1 v1.3 ancorado na rodada 27 — N1 NÃO mudou.
+
+3) schema_vinculo_v1.4_N2_d96ad15b.json
+   sha256 = d96ad15b620fa373d8d95d44159a9f3db31c04cfed051d85c7ab014cb3c65050
+   bytes  = 12840 · origem: uploads/schema_vinculo_v1 (2).json
+   NOTA: versão NOVA. Anterior (v1.3) = ec4f0de88fd0d845ad91f1d413132fa7d9a5c38d1f9f2f7abff1d3a27e7bf836.
+   DIFF v1.3→v1.4 (medido, trilha 48): 3 linhas substituídas ($id · description raiz · ancoras.description)
+   + 19 linhas inseridas (bloco allOf D3: redirecionado_clinico ⇒ ancoras.minItems 2). Nada mais.
+
+4) COMENTADOR_verbatim_aceite_N1v13_N2v14_2026-09-18.md
+   sha256 = c188169e3c7d683660c2121e286253909a57c19ba252633f8e9593ed917c90c5
+   Registro INTERNO da casa (verbatim digitado pelo operador no chat). Política da casa: nota crua
+   de comentador NUNCA circula; pontos verificados viajam em carta da casa, com crédito.
+
+## Réplica executada (trilha 48, 52/52 verdes, exit 0)
+script: /home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/TRILHA48_script_L05_N1v13_N2v14_comentador_2026-09-18.py
+saida : /home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/TRILHA48_L05_N1v13_N2v14_comentador_2026-09-18.json
+anexo : /home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/TRILHA48_reexec_triagem_v11.json
+
+## Selos de ciência (intocados nesta rodada — medidos no início E no fim)
+V7 canônica = 6e2c2979…
+manifesto   = 79d1309a…
+vínculos    = 490675e6…

@@ -1,0 +1,4972 @@
+[
+ {
+  "pmid_oficial": "12161658",
+  "titulo_artigo": "Role of genotype in the cycle of violence in maltreated children.",
+  "autores": [
+   "Caspi A",
+   "McClay J",
+   "Moffitt TE",
+   "Mill J"
+  ],
+  "revista_ano": "Science 2002",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_CASPI_2002"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_CASPI_2002",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "CASPI",
+   "Caspi"
+  ]
+ },
+ {
+  "pmid_oficial": "12869766",
+  "titulo_artigo": "Influence of life stress on depression: moderation by a polymorphism in the 5-HTT gene.",
+  "autores": [
+   "Caspi A",
+   "Sugden K",
+   "Moffitt TE",
+   "Taylor A"
+  ],
+  "revista_ano": "Science 2003",
+  "desenho_estudo": "pre-clinico",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_CASPI_2003"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_CASPI_2003",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "CASPI",
+   "Caspi"
+  ]
+ },
+ {
+  "pmid_oficial": "15107182",
+  "titulo_artigo": "Selective effects of acute serotonin and catecholamine depletion on memory in healthy women.",
+  "autores": [
+   "Harrison BJ",
+   "Olver JS",
+   "Norman TR",
+   "Burrows GD"
+  ],
+  "revista_ano": "J Psychopharmacol 2004",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_HARRISON_2004"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_HARRISON_2004",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Harrison",
+   "HARRISON"
+  ]
+ },
+ {
+  "pmid_oficial": "16268734",
+  "titulo_artigo": "Serotonin and depression: a disconnect between the advertisements and the scientific literature.",
+  "autores": [
+   "Lacasse JR",
+   "Leo J"
+  ],
+  "revista_ano": "PLoS Med 2005",
+  "desenho_estudo": "pre-clinico",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_LACASSE_2005"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LACASSE_2005",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Lacasse",
+   "LACASSE"
+  ]
+ },
+ {
+  "pmid_oficial": "16469931",
+  "titulo_artigo": "Essential role of BDNF in the mesolimbic dopamine pathway in social defeat stress.",
+  "autores": [
+   "Berton O",
+   "McClung CA",
+   "Dileone RJ",
+   "Krishnan V"
+  ],
+  "revista_ano": "Science 2006",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BERTON_2006"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_BERTON_2006",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "BERTON",
+   "Berton"
+  ]
+ },
+ {
+  "pmid_oficial": "17088501",
+  "titulo_artigo": "Elevated monoamine oxidase a levels in the brain: an explanation for the monoamine imbalance of major depression.",
+  "autores": [
+   "Meyer JH",
+   "Ginovart N",
+   "Boovariwala A",
+   "Sagrati S"
+  ],
+  "revista_ano": "Arch Gen Psychiatry 2006",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MEYER_2006"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MEYER_2006",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "MEYER",
+   "Meyer"
+  ]
+ },
+ {
+  "pmid_oficial": "17329412",
+  "titulo_artigo": "Neurosteroid synthesis-mediated regulation of GABA(A) receptors: relevance to the ovarian cycle and stress.",
+  "autores": [
+   "Maguire J",
+   "Mody I"
+  ],
+  "revista_ano": "J Neurosci 2007",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MAGUIRE_2007"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MAGUIRE_2007",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Maguire",
+   "MAGUIRE"
+  ]
+ },
+ {
+  "pmid_oficial": "17389902",
+  "titulo_artigo": "Mood is indirectly related to serotonin, norepinephrine and dopamine levels in humans: a meta-analysis of monoamine depletion studies.",
+  "autores": [
+   "Ruhé HG",
+   "Mason NS",
+   "Schene AH"
+  ],
+  "revista_ano": "Mol Psychiatry 2007",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_RUHE_2007"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_RUHE_2007",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Ruhe",
+   "RUHE"
+  ]
+ },
+ {
+  "pmid_oficial": "18199864",
+  "titulo_artigo": "Selective publication of antidepressant trials and its influence on apparent efficacy.",
+  "autores": [
+   "Turner EH",
+   "Matthews AM",
+   "Linardatos E",
+   "Tell RA"
+  ],
+  "revista_ano": "N Engl J Med 2008",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_TURNER_2008"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_TURNER_2008",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Turner",
+   "TURNER"
+  ]
+ },
+ {
+  "pmid_oficial": "19389999",
+  "titulo_artigo": "Phasic firing in dopaminergic neurons is sufficient for behavioral conditioning.",
+  "autores": [
+   "Tsai HC",
+   "Zhang F",
+   "Adamantidis A",
+   "Stuber GD"
+  ],
+  "revista_ano": "Science 2009",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_TSAI_2009"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_TSAI_2009",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "TSAI",
+   "Tsai"
+  ]
+ },
+ {
+  "pmid_oficial": "19531786",
+  "titulo_artigo": "Interaction between the serotonin transporter gene (5-HTTLPR), stressful life events, and risk of depression: a meta-analysis.",
+  "autores": [
+   "Risch N",
+   "Herrell R",
+   "Lehner T",
+   "Liang KY"
+  ],
+  "revista_ano": "JAMA 2009",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_RISCH_2009"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_RISCH_2009",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "RISCH",
+   "Risch"
+  ]
+ },
+ {
+  "pmid_oficial": "25781231",
+  "titulo_artigo": "Serotonin versus catecholamine deficiency: behavioral and neural effects of experimental depletion in remitted depression.",
+  "autores": [
+   "Homan P",
+   "Neumeister A",
+   "Nugent AC",
+   "Charney DS"
+  ],
+  "revista_ano": "Transl Psychiatry 2015",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_HOMAN_2015"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_HOMAN_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Homan",
+   "HOMAN"
+  ]
+ },
+ {
+  "pmid_oficial": "25860609",
+  "titulo_artigo": "Indigenous bacteria from the gut microbiota regulate host serotonin biosynthesis.",
+  "autores": [
+   "Yano JM",
+   "Yu K",
+   "Donaldson GP",
+   "Shastri GG"
+  ],
+  "revista_ano": "Cell 2015",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_YANO_2015"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_YANO_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Yano",
+   "YANO"
+  ]
+ },
+ {
+  "pmid_oficial": "26373473",
+  "titulo_artigo": "Endocannabinoid signalling in reward and addiction.",
+  "autores": [
+   "Parsons LH",
+   "Hurd YL"
+  ],
+  "revista_ano": "Nat Rev Neurosci 2015",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_PARSONS_2015"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_PARSONS_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "PARSONS",
+   "Parsons"
+  ]
+ },
+ {
+  "pmid_oficial": "29268203",
+  "titulo_artigo": "The state of knowledge about the relationship between 5-HTTLPR, stress, and depression.",
+  "autores": [
+   "Culverhouse RC",
+   "Saccone NL",
+   "Bierut LJ"
+  ],
+  "revista_ano": "J Affect Disord 2018",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_CULVERHOUSE_2018"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_CULVERHOUSE_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "CULVERHOUSE",
+   "Culverhouse"
+  ]
+ },
+ {
+  "pmid_oficial": "29477251",
+  "titulo_artigo": "Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder: a systematic review and network meta-analysis.",
+  "autores": [
+   "Cipriani A",
+   "Furukawa TA",
+   "Salanti G",
+   "Chaimani A"
+  ],
+  "revista_ano": "Lancet 2018",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_CIPRIANI_2018"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_CIPRIANI_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "CIPRIANI",
+   "Cipriani"
+  ]
+ },
+ {
+  "pmid_oficial": "30177236",
+  "titulo_artigo": "Brexanolone injection in post-partum depression: two multicentre, double-blind, randomised, placebo-controlled, phase 3 trials.",
+  "autores": [
+   "Meltzer-Brody S",
+   "Colquhoun H",
+   "Riesenberg R",
+   "Epperson CN"
+  ],
+  "revista_ano": "Lancet 2018",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MELTZERBRODY_2018"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MELTZERBRODY_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Meltzerbrody",
+   "MELTZERBRODY"
+  ]
+ },
+ {
+  "pmid_oficial": "32954002",
+  "titulo_artigo": "The role of the locus coeruleus in the generation of pathological anxiety.",
+  "autores": [
+   "Morris LS",
+   "McCall JG",
+   "Charney DS",
+   "Murrough JW"
+  ],
+  "revista_ano": "Brain Neurosci Adv 2020",
+  "desenho_estudo": "pre-clinico",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MORRIS_2020"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MORRIS_2020",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Morris",
+   "MORRIS"
+  ]
+ },
+ {
+  "pmid_oficial": "35854107",
+  "titulo_artigo": "The serotonin theory of depression: a systematic umbrella review of the evidence.",
+  "autores": [
+   "Moncrieff J",
+   "Cooper RE",
+   "Stockmann T",
+   "Amendola S"
+  ],
+  "revista_ano": "Molecular Psychiatry (2022)",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MONCRIEFF_2022"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MONCRIEFF_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "MONCRIEFF",
+   "Moncrieff"
+  ]
+ },
+ {
+  "pmid_oficial": "37322065",
+  "titulo_artigo": "A leaky umbrella has little value: evidence clearly indicates the serotonin system is implicated in depression.",
+  "autores": [
+   "Jauhar S",
+   "Arnone D",
+   "Baldwin DS",
+   "Bloomfield M"
+  ],
+  "revista_ano": "Mol Psychiatry 2023",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_JAUHAR_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_JAUHAR_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "JAUHAR",
+   "Jauhar"
+  ]
+ },
+ {
+  "pmid_oficial": "37393045",
+  "titulo_artigo": "Mu Opioid Receptor-Positive Neurons in the Dorsal Raphe Nucleus Are Impaired by Morphine Abstinence.",
+  "autores": [
+   "Welsch L",
+   "Colantonio E",
+   "Falconnier C",
+   "Champagnol-DiLiberti C"
+  ],
+  "revista_ano": "Biol Psychiatry 2023",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_WELSCH_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_WELSCH_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Welsch",
+   "WELSCH"
+  ]
+ },
+ {
+  "pmid_oficial": "38036497",
+  "titulo_artigo": "The claustrum-prelimbic cortex circuit through dynorphin/κ-opioid receptor signaling underlies depression-like behaviors associated with social stress etiology.",
+  "autores": [
+   "Wang YJ",
+   "Zan GY",
+   "Xu C",
+   "Li XP"
+  ],
+  "revista_ano": "Nat Commun 2023",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_WANG_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_WANG_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "WANG",
+   "Wang"
+  ]
+ },
+ {
+  "pmid_oficial": "38477670",
+  "titulo_artigo": "Noradrenaline release from the locus coeruleus shapes stress-induced hippocampal gene expression.",
+  "autores": [
+   "Privitera M",
+   "von Ziegler LM",
+   "Floriou-Servou A",
+   "Duss SN"
+  ],
+  "revista_ano": "Elife 2024",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_PRIVITERA_2024"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_PRIVITERA_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "PRIVITERA",
+   "Privitera"
+  ]
+ },
+ {
+  "pmid_oficial": "39284964",
+  "titulo_artigo": "Tonic and burst-like locus coeruleus stimulation distinctly shift network activity across the cortical hierarchy.",
+  "autores": [
+   "Grimm C",
+   "Duss SN",
+   "Privitera M",
+   "Munn BR"
+  ],
+  "revista_ano": "Nat Neurosci 2024",
+  "desenho_estudo": "pre-clinico",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_GRIMM_2024"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_GRIMM_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Grimm",
+   "GRIMM"
+  ]
+ },
+ {
+  "pmid_oficial": "41430076",
+  "titulo_artigo": "Distinct mechanisms of transcriptomic habituation to repeated stress in the mouse hippocampus.",
+  "autores": [
+   "Waag R",
+   "von Ziegler L",
+   "Sonder E",
+   "Sturman O"
+  ],
+  "revista_ano": "Nat Commun 2025",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_WAAG_2025"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_WAAG_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "WAAG",
+   "Waag"
+  ]
+ },
+ {
+  "pmid_oficial": "4169954",
+  "titulo_artigo": "The biochemistry of affective disorders.",
+  "autores": [
+   "Coppen A"
+  ],
+  "revista_ano": "Br J Psychiatry 1967",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_COPPEN_1967"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_COPPEN_1967",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Coppen",
+   "COPPEN"
+  ]
+ },
+ {
+  "pmid_oficial": "5319766",
+  "titulo_artigo": "The catecholamine hypothesis of affective disorders: a review of supporting evidence.",
+  "autores": [
+   "Schildkraut JJ"
+  ],
+  "revista_ano": "Am J Psychiatry 1965",
+  "desenho_estudo": "revisao",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SCHILDKRAUT_1965"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SCHILDKRAUT_1965",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Schildkraut",
+   "SCHILDKRAUT"
+  ]
+ },
+ {
+  "pmid_oficial": "7940983",
+  "titulo_artigo": "Current advances and trends in the treatment of depression.",
+  "autores": [
+   "Blier P",
+   "de Montigny C"
+  ],
+  "revista_ano": "Trends Pharmacol Sci 1994",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BLIER_1994"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_BLIER_1994",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Blier",
+   "BLIER"
+  ]
+ },
+ {
+  "pmid_oficial": "8929413",
+  "titulo_artigo": "Association of anxiety-related traits with a polymorphism in the serotonin transporter gene regulatory region.",
+  "autores": [
+   "Lesch KP",
+   "Bengel D",
+   "Heils A",
+   "Sabol SZ"
+  ],
+  "revista_ano": "Science 1996",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_LESCH_1996"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LESCH_1996",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Lesch",
+   "LESCH"
+  ]
+ },
+ {
+  "pmid_oficial": "9054347",
+  "titulo_artigo": "A neural substrate of prediction and reward.",
+  "autores": [
+   "Schultz W",
+   "Dayan P",
+   "Montague PR"
+  ],
+  "revista_ano": "Science 1997",
+  "desenho_estudo": "pre-clinico",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SCHULTZ_1997"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SCHULTZ_1997",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Schultz",
+   "SCHULTZ"
+  ]
+ },
+ {
+  "pmid_oficial": "18247097",
+  "titulo_artigo": "Primary versus specialty care outcomes for depressed outpatients managed with measurement-based care: results from STAR*D.",
+  "autores": [
+   "Gaynes BN",
+   "Rush AJ",
+   "Trivedi MH",
+   "Wisniewski SR"
+  ],
+  "revista_ano": "J Gen Intern Med 2008",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_GAYNES_2008"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_GAYNES_2008",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Gaynes",
+   "GAYNES"
+  ]
+ },
+ {
+  "pmid_oficial": "26372541",
+  "titulo_artigo": "Trace amine-associated receptor 1 activation silences GSK3β signaling of TAAR1 and D2R heteromers.",
+  "autores": [
+   "Harmeier A",
+   "Obermueller S",
+   "Meyer CA",
+   "Revel FG"
+  ],
+  "revista_ano": "Eur Neuropsychopharmacol 2015",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_HARMEIER_2015"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_HARMEIER_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Harmeier",
+   "HARMEIER"
+  ]
+ },
+ {
+  "pmid_oficial": "31071306",
+  "titulo_artigo": "Effects of Serotonin and Slow-Release 5-Hydroxytryptophan on Gastrointestinal Motility in a Mouse Model of Depression.",
+  "autores": [
+   "Israelyan N",
+   "Del Colle A",
+   "Li Z",
+   "Park Y"
+  ],
+  "revista_ano": "Gastroenterology 2019",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_ISRAELYAN_2019"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_ISRAELYAN_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Israelyan",
+   "ISRAELYAN"
+  ]
+ },
+ {
+  "pmid_oficial": "37032427",
+  "titulo_artigo": "Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for CYP2D6, CYP2C19, CYP2B6, SLC6A4, and HTR2A Genotypes and Serotonin Reuptake Inhibitor Antidepressants.",
+  "autores": [
+   "Bousman CA",
+   "Stevenson JM",
+   "Ramsey LB",
+   "Sangkuhl K"
+  ],
+  "revista_ano": "Clin Pharmacol Ther 2023",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BOUSMAN_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_BOUSMAN_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "BOUSMAN",
+   "Bousman"
+  ]
+ },
+ {
+  "pmid_oficial": "30807107",
+  "titulo_artigo": "Serotonin and Glutamate Interactions in Preclinical Schizophrenia Models.",
+  "autores": [
+   "Shah UH",
+   "González-Maeso J"
+  ],
+  "revista_ano": "ACS Chem Neurosci 2019",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SHAH_2019"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SHAH_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Shah",
+   "SHAH"
+  ]
+ },
+ {
+  "pmid_oficial": "33485945",
+  "titulo_artigo": "Combined 5-HT(2A) and mGlu(2) modulation for the treatment of dyskinesia and psychosis in Parkinson's disease.",
+  "autores": [
+   "Kwan C",
+   "Frouni I",
+   "Nuara SG",
+   "Belliveau S"
+  ],
+  "revista_ano": "Neuropharmacology 2021",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_KWAN_2021"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_KWAN_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "KWAN",
+   "Kwan"
+  ]
+ },
+ {
+  "pmid_oficial": "170534",
+  "titulo_artigo": "Action of various antidepressant treatments reduces reactivity of noradrenergic cyclic AMP-generating system in limbic forebrain",
+  "autores": [
+   "Vetulani J",
+   "Sulser F"
+  ],
+  "revista_ano": "Nature (1975)",
+  "desenho_estudo": "[OB] citação de fundo indexada por retrocompatibilidade",
+  "secao_origem": "mecanismo_B4_deficiencias_monoaminas",
+  "achado_central_molecular": "Action of various antidepressant treatments reduces reactivity of noradrenergic cyclic AMP-generating system in limbic forebrain",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_VETULANI_1975"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "citação de fundo presente na canônica; metadado conferido",
+  "g3_verificado_por": "G3 retrocompat: esummary confirma autor/ano/título",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_VETULANI_1975",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Vetulani",
+   "VETULANI"
+  ]
+ },
+ {
+  "pmid_oficial": "4863731",
+  "titulo_artigo": "The catecholamine hypothesis of affective disorders. A review of supporting evidence.",
+  "autores": [
+   "Schildkraut JJ"
+  ],
+  "revista_ano": "Int J Psychiatry 1967",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SCHILDKRAUT_1967"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_SCHILDKRAUT_1967",
+  "doi": "",
+  "claim_id_origem": "B4.MEC.BLOCO01.001",
+  "_aliases": [
+   "Schildkraut",
+   "SCHILDKRAUT"
+  ]
+ },
+ {
+  "pmid_oficial": "10775017",
+  "titulo_artigo": "History and evolution of the monoamine hypothesis of depression.",
+  "autores": [
+   "Hirschfeld RM"
+  ],
+  "revista_ano": "J Clin Psychiatry 2000",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_HIRSCHFELD_2000"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_HIRSCHFELD_2000",
+  "doi": "",
+  "claim_id_origem": "B4.MEC.BLOCO01.002",
+  "_aliases": [
+   "Hirschfeld",
+   "HIRSCHFELD"
+  ]
+ },
+ {
+  "pmid_oficial": "9818625",
+  "titulo_artigo": "Monoamine dysfunction and the pathophysiology and treatment of depression.",
+  "autores": [
+   "Charney DS"
+  ],
+  "revista_ano": "J Clin Psychiatry 1998",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_CHARNEY_1998"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_CHARNEY_1998",
+  "doi": "",
+  "claim_id_origem": "B4.MEC.BLOCO01.003",
+  "_aliases": [
+   "Charney",
+   "CHARNEY"
+  ]
+ },
+ {
+  "pmid_oficial": "8852528",
+  "titulo_artigo": "The revised monoamine theory of depression: a modulatory role for monoamines, based on new findings from monoamine depletion experiments in humans.",
+  "autores": [
+   "Heninger GR",
+   "Delgado PL",
+   "Charney DS"
+  ],
+  "revista_ano": "Pharmacopsychiatry 1996",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_HENINGER_1996"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_HENINGER_1996",
+  "doi": "10.1055/s-2007-979535",
+  "claim_id_origem": "B4.MEC.BLOCO01.004",
+  "_aliases": [
+   "Heninger",
+   "HENINGER"
+  ]
+ },
+ {
+  "pmid_oficial": "10775019",
+  "titulo_artigo": "Evidence for a biochemical lesion in depression.",
+  "autores": [
+   "Leonard BE"
+  ],
+  "revista_ano": "J Clin Psychiatry 2000",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_LEONARD_2000"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_LEONARD_2000",
+  "doi": "",
+  "claim_id_origem": "B4.MEC.BLOCO01.005",
+  "_aliases": [
+   "Leonard",
+   "LEONARD"
+  ]
+ },
+ {
+  "pmid_oficial": "12953623",
+  "titulo_artigo": "The myth of reserpine-induced depression: role in the historical development of the monoamine hypothesis.",
+  "autores": [
+   "Baumeister AA",
+   "Hawkins MF",
+   "Uzelac SM"
+  ],
+  "revista_ano": "J Hist Neurosci 2003",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BAUMEISTER_2003"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_BAUMEISTER_2003",
+  "doi": "10.1076/jhin.12.2.207.15535",
+  "claim_id_origem": "B4.MEC.BLOCO01.006",
+  "_aliases": [
+   "Baumeister",
+   "BAUMEISTER"
+  ]
+ },
+ {
+  "pmid_oficial": "36000248",
+  "titulo_artigo": "The effects of reserpine on depression: A systematic review.",
+  "autores": [
+   "Strawbridge R",
+   "Javed RR",
+   "Cave J",
+   "Jauhar S",
+   "Young AH"
+  ],
+  "revista_ano": "J Psychopharmacol 2023",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_STRAWBRIDGE_2023"
+  ],
+  "evid_role": "meta_analise",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_STRAWBRIDGE_2023",
+  "doi": "10.1177/02698811221115762",
+  "claim_id_origem": "B4.MEC.BLOCO01.007",
+  "_aliases": [
+   "Strawbridge",
+   "STRAWBRIDGE"
+  ]
+ },
+ {
+  "pmid_oficial": "26043325",
+  "titulo_artigo": "What has serotonin to do with depression?",
+  "autores": [
+   "Cowen PJ",
+   "Browning M"
+  ],
+  "revista_ano": "World Psychiatry 2015",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_COWEN_2015"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_COWEN_2015",
+  "doi": "10.1002/wps.20229",
+  "claim_id_origem": "B4.MEC.BLOCO01.008",
+  "_aliases": [
+   "Cowen",
+   "COWEN"
+  ]
+ },
+ {
+  "pmid_oficial": "37857415",
+  "titulo_artigo": "Does serotonin matter in depression?",
+  "autores": [
+   "Albert PR",
+   "Blier P"
+  ],
+  "revista_ano": "J Psychiatry Neurosci 2023",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_ALBERT_2023"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_ALBERT_2023",
+  "doi": "10.1038/s41386-023-01600-9",
+  "claim_id_origem": "B4.MEC.BLOCO01.009",
+  "_aliases": [
+   "Albert",
+   "ALBERT"
+  ]
+ },
+ {
+  "pmid_oficial": "19498050",
+  "titulo_artigo": "The role of serotonin in the pathophysiology of depression: as important as ever.",
+  "autores": [
+   "Nemeroff CB",
+   "Owens MJ"
+  ],
+  "revista_ano": "Clin Chem 2009",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_NEMEROFF_2009"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_NEMEROFF_2009",
+  "doi": "10.1373/clinchem.2009.123752",
+  "claim_id_origem": "B4.MEC.BLOCO01.010",
+  "_aliases": [
+   "Nemeroff",
+   "NEMEROFF"
+  ]
+ },
+ {
+  "pmid_oficial": "19428959",
+  "titulo_artigo": "5-HT(1A) receptor function in major depressive disorder.",
+  "autores": [
+   "Savitz J",
+   "Lucki I",
+   "Drevets WC"
+  ],
+  "revista_ano": "Prog Neurobiol 2009",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SAVITZ_2009"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_SAVITZ_2009",
+  "doi": "10.1016/j.pneurobio.2009.01.009",
+  "claim_id_origem": "B4.MEC.BLOCO02.011",
+  "_aliases": [
+   "Savitz",
+   "SAVITZ"
+  ]
+ },
+ {
+  "pmid_oficial": "27623971",
+  "titulo_artigo": "Serotonin-1A receptor alterations in depression: a meta-analysis of molecular imaging studies.",
+  "autores": [
+   "Wang L",
+   "Zhou C",
+   "Zhu D",
+   "Wang X",
+   "Fang L",
+   "Zhong J",
+   "Mao Q",
+   "Sun L",
+   "Gong X",
+   "Xia J",
+   "Lian B",
+   "Xie P"
+  ],
+  "revista_ano": "BMC Psychiatry 2016",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_WANG_2016"
+  ],
+  "evid_role": "meta_analise",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_WANG_2016",
+  "doi": "10.1016/j.biopsych.2009.01.028",
+  "claim_id_origem": "B4.MEC.BLOCO02.012",
+  "_aliases": [
+   "Wang",
+   "WANG"
+  ]
+ },
+ {
+  "pmid_oficial": "16154547",
+  "titulo_artigo": "Altered serotonin 1A binding in major depression: a [carbonyl-C-11]WAY100635 positron emission tomography study.",
+  "autores": [
+   "Parsey RV",
+   "Oquendo MA",
+   "Ogden RT",
+   "Olvet DM",
+   "Simpson N",
+   "Huang YY",
+   "Van Heertum RL",
+   "Arango V",
+   "Mann JJ"
+  ],
+  "revista_ano": "Biol Psychiatry 2006",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_PARSEY_2006"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_PARSEY_2006",
+  "doi": "10.1016/j.biopsych.2005.06.016",
+  "claim_id_origem": "B4.MEC.BLOCO02.013",
+  "_aliases": [
+   "Parsey",
+   "PARSEY"
+  ]
+ },
+ {
+  "pmid_oficial": "17971260",
+  "titulo_artigo": "Decreased brain serotonin 5-HT1A receptor availability in medication-naive patients with major depressive disorder: an in-vivo imaging study using PET and [carbonyl-11C]WAY-100635.",
+  "autores": [
+   "Hirvonen J",
+   "Karlsson H",
+   "Kajander J",
+   "Lepola A",
+   "Markkula J",
+   "Rasi-Hakala H",
+   "Någren K",
+   "Salminen JK",
+   "Hietala J"
+  ],
+  "revista_ano": "Int J Neuropsychopharmacol 2008",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_HIRVONEN_2008"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_HIRVONEN_2008",
+  "doi": "10.1017/S1461145707008140",
+  "claim_id_origem": "B4.MEC.BLOCO02.014",
+  "_aliases": [
+   "Hirvonen",
+   "HIRVONEN"
+  ]
+ },
+ {
+  "pmid_oficial": "31120232",
+  "titulo_artigo": "5-HT1A receptor, 5-HT2A receptor and serotonin transporter binding in the human auditory cortex in depression.",
+  "autores": [
+   "Steinberg LJ",
+   "Underwood MD",
+   "Bakalian MJ",
+   "Kassir SA",
+   "Mann JJ",
+   "Arango V"
+  ],
+  "revista_ano": "J Psychiatry Neurosci 2019",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_STEINBERG_2019"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_STEINBERG_2019",
+  "doi": "10.1080/13811118.2017.1417185",
+  "claim_id_origem": "B4.MEC.BLOCO02.015",
+  "_aliases": [
+   "Steinberg",
+   "STEINBERG"
+  ]
+ },
+ {
+  "pmid_oficial": "19423077",
+  "titulo_artigo": "The serotonin-1A receptor in anxiety disorders.",
+  "autores": [
+   "Akimova E",
+   "Lanzenberger R",
+   "Kasper S"
+  ],
+  "revista_ano": "Biol Psychiatry 2009",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_AKIMOVA_2009"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_AKIMOVA_2009",
+  "doi": "10.1016/j.biopsych.2009.03.012",
+  "claim_id_origem": "B4.MEC.BLOCO02.016",
+  "_aliases": [
+   "Akimova",
+   "AKIMOVA"
+  ]
+ },
+ {
+  "pmid_oficial": "24936175",
+  "titulo_artigo": "Serotonin-prefrontal cortical circuitry in anxiety and depression phenotypes: pivotal role of pre- and post-synaptic 5-HT1A receptor expression.",
+  "autores": [
+   "Albert PR",
+   "Vahid-Ansari F",
+   "Luckhart C"
+  ],
+  "revista_ano": "Front Behav Neurosci 2014",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_ALBERT_2014"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_ALBERT_2014",
+  "doi": "10.1074/jbc.M801713200",
+  "claim_id_origem": "B4.MEC.BLOCO02.017",
+  "_aliases": [
+   "Albert",
+   "ALBERT"
+  ]
+ },
+ {
+  "pmid_oficial": "24337875",
+  "titulo_artigo": "5-HT(1A) [corrected] receptors in mood and anxiety: recent insights into autoreceptor versus heteroreceptor function.",
+  "autores": [
+   "Garcia-Garcia AL",
+   "Newman-Tancredi A",
+   "Leonardo ED"
+  ],
+  "revista_ano": "Psychopharmacology (Berl) 2014",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_GARCIAGARCIA_2014"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_GARCIAGARCIA_2014",
+  "doi": "10.4088/JCP.09m05827blu",
+  "claim_id_origem": "B4.MEC.BLOCO02.018",
+  "_aliases": [
+   "GarciaGarcia",
+   "GARCIAGARCIA"
+  ]
+ },
+ {
+  "pmid_oficial": "23492554",
+  "titulo_artigo": "5-HT1A receptor as a key player in the brain 5-HT system.",
+  "autores": [
+   "Popova NK",
+   "Naumenko VS"
+  ],
+  "revista_ano": "Rev Neurosci 2013",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_POPOVA_2013"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_POPOVA_2013",
+  "doi": "10.1515/revneuro-2012-0082",
+  "claim_id_origem": "B4.MEC.BLOCO02.019",
+  "_aliases": [
+   "Popova",
+   "POPOVA"
+  ]
+ },
+ {
+  "pmid_oficial": "28232871",
+  "titulo_artigo": "Serotonin receptors in depression: from A to B.",
+  "autores": [
+   "Nautiyal KM",
+   "Hen R"
+  ],
+  "revista_ano": "F1000Res 2017",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_NAUTIYAL_2017"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_NAUTIYAL_2017",
+  "doi": "10.1016/j.neuroscience.2007.07.043",
+  "claim_id_origem": "B4.MEC.BLOCO02.020",
+  "_aliases": [
+   "Nautiyal",
+   "NAUTIYAL"
+  ]
+ },
+ {
+  "pmid_oficial": "25823514",
+  "titulo_artigo": "Revisiting the Serotonin Hypothesis: Implications for Major Depressive Disorders.",
+  "autores": [
+   "Fakhoury M"
+  ],
+  "revista_ano": "Mol Neurobiol 2016",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_FAKHOURY_2016"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_FAKHOURY_2016",
+  "doi": "10.1007/s12035-015-9152-z",
+  "claim_id_origem": "B4.MEC.BLOCO02.021",
+  "_aliases": [
+   "Fakhoury",
+   "FAKHOURY"
+  ]
+ },
+ {
+  "pmid_oficial": "33651238",
+  "titulo_artigo": "The Roles of Serotonin in Neuropsychiatric Disorders.",
+  "autores": [
+   "Pourhamzeh M",
+   "Moravej FG",
+   "Arabi M",
+   "Shahriari E",
+   "Mehrabi S",
+   "Ward R",
+   "Ahadi R",
+   "Joghataei MT"
+  ],
+  "revista_ano": "Cell Mol Neurobiol 2022",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_POURHAMZEH_2022"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_POURHAMZEH_2022",
+  "doi": "10.30773/pi.2018.12.21.1",
+  "claim_id_origem": "B4.MEC.BLOCO02.022",
+  "_aliases": [
+   "Pourhamzeh",
+   "POURHAMZEH"
+  ]
+ },
+ {
+  "pmid_oficial": "33673205",
+  "titulo_artigo": "Modulation of the Serotonergic Receptosome in the Treatment of Anxiety and Depression: A Narrative Review of the Experimental Evidence.",
+  "autores": [
+   "Villas-Boas GR",
+   "Lavorato SN",
+   "Paes MM",
+   "de Carvalho PMG",
+   "Rescia VC",
+   "Cunha MS",
+   "de Magalhães-Filho MF",
+   "Ponsoni LF",
+   "de Carvalho AAV",
+   "de Lacerda RB",
+   "da S Leite L",
+   "da S Tavares-Henriques M",
+   "Lopes LAF",
+   "Oliveira LGR",
+   "Silva-Filho SE",
+   "da Silveira APS",
+   "Cuman RKN",
+   "de S Silva-Comar FM",
+   "Comar JF",
+   "do A Brasileiro L",
+   "Dos Santos JN",
+   "de Freitas WR",
+   "Leão KV",
+   "da Silva JG",
+   "Klein RC",
+   "Klein MHF",
+   "da S Ramos BH",
+   "Fernandes CKC",
+   "de L Ribas DG",
+   "Oesterreich SA"
+  ],
+  "revista_ano": "Pharmaceuticals (Basel) 2021",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_VILLASBOAS_2021"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_VILLASBOAS_2021",
+  "doi": "10.1002/ptr.6055",
+  "claim_id_origem": "B4.MEC.BLOCO02.023",
+  "_aliases": [
+   "VillasBoas",
+   "VILLASBOAS"
+  ]
+ },
+ {
+  "pmid_oficial": "33672070",
+  "titulo_artigo": "The Role of Central Serotonin Neurons and 5-HT Heteroreceptor Complexes in the Pathophysiology of Depression: A Historical Perspective and Future Prospects.",
+  "autores": [
+   "Borroto-Escuela DO",
+   "Ambrogini P",
+   "Chruścicka B",
+   "Lindskog M",
+   "Crespo-Ramirez M",
+   "Hernández-Mondragón JC",
+   "Perez de la Mora M",
+   "Schellekens H",
+   "Fuxe K"
+  ],
+  "revista_ano": "Int J Mol Sci 2021",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BORROTOESCUELA_2021"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_BORROTOESCUELA_2021",
+  "doi": "10.1016/j.nbd.2019.01.026",
+  "claim_id_origem": "B4.MEC.BLOCO02.024",
+  "_aliases": [
+   "BorrotoEscuela",
+   "BORROTOESCUELA"
+  ]
+ },
+ {
+  "pmid_oficial": "30144453",
+  "titulo_artigo": "Serotonin receptors in depression and anxiety: Insights from animal studies.",
+  "autores": [
+   "Żmudzka E",
+   "Sałaciak K",
+   "Sapa J",
+   "Pytka K"
+  ],
+  "revista_ano": "Life Sci 2018",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_ZMUDZKA_2018"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_ZMUDZKA_2018",
+  "doi": "10.1016/j.lfs.2018.08.050",
+  "claim_id_origem": "B4.MEC.BLOCO02.025",
+  "_aliases": [
+   "Zmudzka",
+   "ZMUDZKA"
+  ]
+ },
+ {
+  "pmid_oficial": "30430940",
+  "titulo_artigo": "Anxiety Disorders: Sex Differences in Serotonin and Tryptophan Metabolism.",
+  "autores": [
+   "Songtachalert T",
+   "Roomruangwong C",
+   "Carvalho AF",
+   "Bourin M",
+   "Maes M"
+  ],
+  "revista_ano": "Curr Top Med Chem 2018",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SONGTACHALERT_2018"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_SONGTACHALERT_2018",
+  "doi": "10.2174/1568026618666181115093136",
+  "claim_id_origem": "B4.MEC.BLOCO02.026",
+  "_aliases": [
+   "Songtachalert",
+   "SONGTACHALERT"
+  ]
+ },
+ {
+  "pmid_oficial": "27353308",
+  "titulo_artigo": "A Lack of Serotonin 1B Autoreceptors Results in Decreased Anxiety and Depression-Related Behaviors.",
+  "autores": [
+   "Nautiyal KM",
+   "Tritschler L",
+   "Ahmari SE",
+   "David DJ",
+   "Gardier AM",
+   "Hen R"
+  ],
+  "revista_ano": "Neuropsychopharmacology 2016",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_NAUTIYAL_2016"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_NAUTIYAL_2016",
+  "doi": "10.1038/npp.2016.109",
+  "claim_id_origem": "B4.MEC.BLOCO02.027",
+  "_aliases": [
+   "Nautiyal",
+   "NAUTIYAL"
+  ]
+ },
+ {
+  "pmid_oficial": "9844013",
+  "titulo_artigo": "Elevated anxiety and antidepressant-like responses in serotonin 5-HT1A receptor mutant mice.",
+  "autores": [
+   "Heisler LK",
+   "Chu HM",
+   "Brennan TJ",
+   "Danao JA",
+   "Bajwa P",
+   "Parsons LH",
+   "Tecott LH"
+  ],
+  "revista_ano": "Proc Natl Acad Sci U S A 1998",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_HEISLER_1998"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_HEISLER_1998",
+  "doi": "10.1073/pnas.95.25.15049",
+  "claim_id_origem": "B4.MEC.BLOCO02.028",
+  "_aliases": [
+   "Heisler",
+   "HEISLER"
+  ]
+ },
+ {
+  "pmid_oficial": "22832966",
+  "titulo_artigo": "Exaggerated aggression and decreased anxiety in mice deficient in brain serotonin.",
+  "autores": [
+   "Mosienko V",
+   "Bert B",
+   "Beis D",
+   "Matthes S",
+   "Fink H",
+   "Bader M",
+   "Alenina N"
+  ],
+  "revista_ano": "Transl Psychiatry 2012",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_MOSIENKO_2012"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_MOSIENKO_2012",
+  "doi": "10.1038/tp.2012.44",
+  "claim_id_origem": "B4.MEC.BLOCO02.029",
+  "_aliases": [
+   "Mosienko",
+   "MOSIENKO"
+  ]
+ },
+ {
+  "pmid_oficial": "28920103",
+  "titulo_artigo": "Existence of Brain 5-HT1A-5-HT2A Isoreceptor Complexes with Antagonistic Allosteric Receptor-Receptor Interactions Regulating 5-HT1A Receptor Recognition.",
+  "autores": [
+   "Borroto-Escuela DO",
+   "Li X",
+   "Tarakanov AO",
+   "Savelli D",
+   "Narváez M",
+   "Shumilov K",
+   "Andrade-Talavera Y",
+   "Jimenez-Beristain A",
+   "Pomierny B",
+   "Díaz-Cabiale Z",
+   "Cuppini R",
+   "Ambrogini P",
+   "Lindskog M",
+   "Fuxe K"
+  ],
+  "revista_ano": "ACS Omega 2017",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_BORROTOESCUELA_2017"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_BORROTOESCUELA_2017",
+  "doi": "10.1186/2193-1801-2-128",
+  "claim_id_origem": "B4.MEC.BLOCO02.030",
+  "_aliases": [
+   "BorrotoEscuela",
+   "BORROTOESCUELA"
+  ]
+ },
+ {
+  "pmid_oficial": "26083190",
+  "titulo_artigo": "Serotonin Synthesis and Reuptake in Social Anxiety Disorder: A Positron Emission Tomography Study.",
+  "autores": [
+   "Frick A",
+   "Åhs F",
+   "Engman J",
+   "Jonasson M",
+   "Alaie I",
+   "Björkstrand J",
+   "Frans Ö",
+   "Faria V",
+   "Linnman C",
+   "Appel L",
+   "Wahlstedt K",
+   "Lubberink M",
+   "Fredrikson M",
+   "Furmark T"
+  ],
+  "revista_ano": "JAMA Psychiatry 2015",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_FRICK_2015"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_FRICK_2015",
+  "doi": "10.1001/jamapsychiatry.2015.0125",
+  "claim_id_origem": "B4.MEC.BLOCO02.031",
+  "_aliases": [
+   "Frick",
+   "FRICK"
+  ]
+ },
+ {
+  "pmid_oficial": "11331552",
+  "titulo_artigo": "Tryptophan depletion and its implications for psychiatry.",
+  "autores": [
+   "Bell C",
+   "Abrams J",
+   "Nutt D"
+  ],
+  "revista_ano": "Br J Psychiatry 2001",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BELL_2001"
+  ],
+  "evid_role": "meta_analise",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_BELL_2001",
+  "doi": "10.1192/bjp.178.5.399",
+  "claim_id_origem": "B4.MEC.BLOCO02.041",
+  "_aliases": [
+   "Bell",
+   "BELL"
+  ]
+ },
+ {
+  "pmid_oficial": "11063917",
+  "titulo_artigo": "Clinical and physiological consequences of rapid tryptophan depletion.",
+  "autores": [
+   "Moore P",
+   "Landolt HP",
+   "Seifritz E",
+   "Clark C",
+   "Bhatti T",
+   "Kelsoe J",
+   "Rapaport M",
+   "Gillin JC"
+  ],
+  "revista_ano": "Neuropsychopharmacology 2000",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MOORE_2000"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_MOORE_2000",
+  "doi": "10.1016/S0893-133X(00)00161-5",
+  "claim_id_origem": "B4.MEC.BLOCO02.042",
+  "_aliases": [
+   "Moore",
+   "MOORE"
+  ]
+ },
+ {
+  "pmid_oficial": "12431859",
+  "titulo_artigo": "Predictors of mood response to acute tryptophan depletion. A reanalysis.",
+  "autores": [
+   "Booij L",
+   "Van der Does W",
+   "Benkelfat C",
+   "Bremner JD",
+   "Cowen PJ",
+   "Fava M",
+   "Gillin C",
+   "Leyton M",
+   "Moore P",
+   "Smith KA",
+   "Van der Kloot WA"
+  ],
+  "revista_ano": "Neuropsychopharmacology 2002",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BOOIJ_2002"
+  ],
+  "evid_role": "meta_analise",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_BOOIJ_2002",
+  "doi": "10.1016/S0893-133X(02)00361-5",
+  "claim_id_origem": "B4.MEC.BLOCO02.043",
+  "_aliases": [
+   "Booij",
+   "BOOIJ"
+  ]
+ },
+ {
+  "pmid_oficial": "11922881",
+  "titulo_artigo": "Monoamine depletion in unmedicated depressed subjects.",
+  "autores": [
+   "Berman RM",
+   "Sanacora G",
+   "Anand A",
+   "Roach LM",
+   "Fasula MK",
+   "Finkelstein CO",
+   "Wachen RM",
+   "Oren DA",
+   "Heninger GR",
+   "Charney DS"
+  ],
+  "revista_ano": "Biol Psychiatry 2002",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BERMAN_2002"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_BERMAN_2002",
+  "doi": "10.1016/s0006-3223(01)01285-9",
+  "claim_id_origem": "B4.MEC.BLOCO02.044",
+  "_aliases": [
+   "Berman",
+   "BERMAN"
+  ]
+ },
+ {
+  "pmid_oficial": "8988796",
+  "titulo_artigo": "Lack of behavioral effects of monoamine depletion in healthy subjects.",
+  "autores": [
+   "Salomon RM",
+   "Miller HL",
+   "Krystal JH",
+   "Heninger GR",
+   "Charney DS"
+  ],
+  "revista_ano": "Biol Psychiatry 1997",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SALOMON_1997"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_SALOMON_1997",
+  "doi": "10.1016/0006-3223(95)00670-2",
+  "claim_id_origem": "B4.MEC.BLOCO02.045",
+  "_aliases": [
+   "Salomon",
+   "SALOMON"
+  ]
+ },
+ {
+  "pmid_oficial": "15131521",
+  "titulo_artigo": "Tryptophan depletion, serotonin, and depression: where do we stand?",
+  "autores": [
+   "Neumeister A"
+  ],
+  "revista_ano": "Psychopharmacol Bull 2003",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_NEUMEISTER_2003"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_NEUMEISTER_2003",
+  "doi": "",
+  "claim_id_origem": "B4.MEC.BLOCO02.046",
+  "_aliases": [
+   "Neumeister",
+   "NEUMEISTER"
+  ]
+ },
+ {
+  "pmid_oficial": "14647394",
+  "titulo_artigo": "Monoamine depletion in psychiatric and healthy populations: review.",
+  "autores": [
+   "Booij L",
+   "Van der Does AJ",
+   "Riedel WJ"
+  ],
+  "revista_ano": "Mol Psychiatry 2003",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BOOIJ_2003"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_BOOIJ_2003",
+  "doi": "10.1038/sj.mp.4001423",
+  "claim_id_origem": "B4.MEC.BLOCO02.047",
+  "_aliases": [
+   "Booij",
+   "BOOIJ"
+  ]
+ },
+ {
+  "pmid_oficial": "14731308",
+  "titulo_artigo": "Selective effects of simultaneous monoamine depletion on mood and emotional responsiveness.",
+  "autores": [
+   "Hughes JM",
+   "Matrenza C",
+   "Kemp AH",
+   "Harrison BJ",
+   "Liley D",
+   "Nathan PJ"
+  ],
+  "revista_ano": "Int J Neuropsychopharmacol 2004",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_HUGHES_2004"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_HUGHES_2004",
+  "doi": "10.1017/S1461145703003845",
+  "claim_id_origem": "B4.MEC.BLOCO02.048",
+  "_aliases": [
+   "Hughes",
+   "HUGHES"
+  ]
+ },
+ {
+  "pmid_oficial": "12955284",
+  "titulo_artigo": "The effects of tyrosine depletion in normal healthy volunteers: implications for unipolar depression.",
+  "autores": [
+   "McLean A",
+   "Rubinsztein JS",
+   "Robbins TW",
+   "Sahakian BJ"
+  ],
+  "revista_ano": "Psychopharmacology (Berl) 2004",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MCLEAN_2004"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_MCLEAN_2004",
+  "doi": "10.1007/s00213-003-1586-8",
+  "claim_id_origem": "B4.MEC.BLOCO02.049",
+  "_aliases": [
+   "McLean",
+   "MCLEAN"
+  ]
+ },
+ {
+  "pmid_oficial": "33574223",
+  "titulo_artigo": "Effects of tryptophan depletion on anxiety, a systematic review.",
+  "autores": [
+   "Schopman SME",
+   "Bosman RC",
+   "Muntingh ADT",
+   "van Balkom AJLM",
+   "Batelaan NM"
+  ],
+  "revista_ano": "Transl Psychiatry 2021",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SCHOPMAN_2021"
+  ],
+  "evid_role": "meta_analise",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_SCHOPMAN_2021",
+  "doi": "10.1177/0269881115581093",
+  "claim_id_origem": "B4.MEC.BLOCO02.050",
+  "_aliases": [
+   "Schopman",
+   "SCHOPMAN"
+  ]
+ },
+ {
+  "pmid_oficial": "37430145",
+  "titulo_artigo": "Serotonin and emotion regulation: the impact of tryptophan depletion on emotional experience, neural and autonomic activity.",
+  "autores": [
+   "Bîlc MI",
+   "Iacob A",
+   "Szekely-Copîndean RD",
+   "Kiss B",
+   "Ștefan MG",
+   "Mureșan RC",
+   "Pop CF",
+   "Pițur S",
+   "Szentágotai-Tătar A",
+   "Vulturar R",
+   "MacLeod C",
+   "Miu AC"
+  ],
+  "revista_ano": "Cogn Affect Behav Neurosci 2023",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BILC_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_BILC_2023",
+  "doi": "10.1007/BF00431803",
+  "claim_id_origem": "B4.MEC.BLOCO02.051",
+  "_aliases": [
+   "Bilc",
+   "BILC"
+  ]
+ },
+ {
+  "pmid_oficial": "3275471",
+  "titulo_artigo": "Serotonin and anxiety revisited.",
+  "autores": [
+   "Kahn RS",
+   "van Praag HM",
+   "Wetzler S",
+   "Asnis GM",
+   "Barr G"
+  ],
+  "revista_ano": "Biol Psychiatry 1988",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_KAHN_1988"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_KAHN_1988",
+  "doi": "10.1016/0006-3223(88)90091-1",
+  "claim_id_origem": "B4.MEC.BLOCO02.052",
+  "_aliases": [
+   "Kahn",
+   "KAHN"
+  ]
+ },
+ {
+  "pmid_oficial": "15450786",
+  "titulo_artigo": "Tryptophan depletion reverses the therapeutic effect of selective serotonin reuptake inhibitors in social anxiety disorder.",
+  "autores": [
+   "Argyropoulos SV",
+   "Hood SD",
+   "Adrover M",
+   "Bell CJ",
+   "Rich AS",
+   "Nash JR",
+   "Rich NC",
+   "Witchel HJ",
+   "Nutt DJ"
+  ],
+  "revista_ano": "Biol Psychiatry 2004",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_ARGYROPOULOS_2004"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_ARGYROPOULOS_2004",
+  "doi": "10.1016/j.biopsych.2004.07.006",
+  "claim_id_origem": "B4.MEC.BLOCO02.053",
+  "_aliases": [
+   "Argyropoulos",
+   "ARGYROPOULOS"
+  ]
+ },
+ {
+  "pmid_oficial": "16566899",
+  "titulo_artigo": "The mesolimbic dopamine reward circuit in depression.",
+  "autores": [
+   "Nestler EJ",
+   "Carlezon WA"
+  ],
+  "revista_ano": "Biol Psychiatry 2006",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_NESTLER_2006"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_NESTLER_2006",
+  "doi": "10.1016/j.biopsych.2005.09.018",
+  "claim_id_origem": "B4.MEC.BLOCO03.061",
+  "_aliases": [
+   "Nestler",
+   "NESTLER"
+  ]
+ },
+ {
+  "pmid_oficial": "20603146",
+  "titulo_artigo": "Reconsidering anhedonia in depression: lessons from translational neuroscience.",
+  "autores": [
+   "Treadway MT",
+   "Zald DH"
+  ],
+  "revista_ano": "Neurosci Biobehav Rev 2011",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_TREADWAY_2011"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_TREADWAY_2011",
+  "doi": "10.1016/j.neubiorev.2010.06.006",
+  "claim_id_origem": "B4.MEC.BLOCO03.062",
+  "_aliases": [
+   "Treadway",
+   "TREADWAY"
+  ]
+ },
+ {
+  "pmid_oficial": "26323245",
+  "titulo_artigo": "Mesolimbic Dopamine and the Regulation of Motivated Behavior.",
+  "autores": [
+   "Salamone JD",
+   "Pardo M",
+   "Yohn SE",
+   "López-Cruz L",
+   "SanMiguel N",
+   "Correa M"
+  ],
+  "revista_ano": "Curr Top Behav Neurosci 2016",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SALAMONE_2016"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_SALAMONE_2016",
+  "doi": "10.1007/7854_2015_383",
+  "claim_id_origem": "B4.MEC.BLOCO03.063",
+  "_aliases": [
+   "Salamone",
+   "SALAMONE"
+  ]
+ },
+ {
+  "pmid_oficial": "29106542",
+  "titulo_artigo": "Dopamine System Dysregulation in Major Depressive Disorders.",
+  "autores": [
+   "Belujon P",
+   "Grace AA"
+  ],
+  "revista_ano": "Int J Neuropsychopharmacol 2017",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BELUJON_2017"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_BELUJON_2017",
+  "doi": "10.1093/ijnp/pyx056",
+  "claim_id_origem": "B4.MEC.BLOCO03.064",
+  "_aliases": [
+   "Belujon",
+   "BELUJON"
+  ]
+ },
+ {
+  "pmid_oficial": "29573379",
+  "titulo_artigo": "Dopamine dysregulation hypothesis: the common basis for motivational anhedonia in major depressive disorder and schizophrenia?",
+  "autores": [
+   "Szczypiński JJ",
+   "Gola M"
+  ],
+  "revista_ano": "Rev Neurosci 2018",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SZCZYPINSKI_2018"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_SZCZYPINSKI_2018",
+  "doi": "10.1515/revneuro-2017-0091",
+  "claim_id_origem": "B4.MEC.BLOCO03.065",
+  "_aliases": [
+   "Szczypinski",
+   "SZCZYPINSKI"
+  ]
+ },
+ {
+  "pmid_oficial": "29309799",
+  "titulo_artigo": "Circuit-based frameworks of depressive behaviors: The role of reward circuitry and beyond.",
+  "autores": [
+   "Knowland D",
+   "Lim BK"
+  ],
+  "revista_ano": "Pharmacol Biochem Behav 2018",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_KNOWLAND_2018"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_KNOWLAND_2018",
+  "doi": "10.1016/j.pbb.2017.12.010",
+  "claim_id_origem": "B4.MEC.BLOCO03.066",
+  "_aliases": [
+   "Knowland",
+   "KNOWLAND"
+  ]
+ },
+ {
+  "pmid_oficial": "26525751",
+  "titulo_artigo": "Anhedonia and the brain reward circuitry in depression.",
+  "autores": [
+   "Heshmati M",
+   "Russo SJ"
+  ],
+  "revista_ano": "Curr Behav Neurosci Rep 2015",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_HESHMATI_2015"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_HESHMATI_2015",
+  "doi": "10.1007/s40473-015-0044-3",
+  "claim_id_origem": "B4.MEC.BLOCO03.067",
+  "_aliases": [
+   "Heshmati",
+   "HESHMATI"
+  ]
+ },
+ {
+  "pmid_oficial": "18654637",
+  "titulo_artigo": "Neurochemistry of the nucleus accumbens and its relevance to depression and antidepressant action in rodents.",
+  "autores": [
+   "Shirayama Y",
+   "Chaki S"
+  ],
+  "revista_ano": "Curr Neuropharmacol 2006",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SHIRAYAMA_2006"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_SHIRAYAMA_2006",
+  "doi": "10.2174/157015906778520773",
+  "claim_id_origem": "B4.MEC.BLOCO03.068",
+  "_aliases": [
+   "Shirayama",
+   "SHIRAYAMA"
+  ]
+ },
+ {
+  "pmid_oficial": "33631251",
+  "titulo_artigo": "Anhedonia as a central factor in depression: Neural mechanisms revealed from preclinical to clinical evidence.",
+  "autores": [
+   "Wang S",
+   "Leri F",
+   "Rizvi SJ"
+  ],
+  "revista_ano": "Prog Neuropsychopharmacol Biol Psychiatry 2021",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_WANG_2021"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_WANG_2021",
+  "doi": "10.1016/j.pnpbp.2021.110289",
+  "claim_id_origem": "B4.MEC.BLOCO03.069",
+  "_aliases": [
+   "Wang",
+   "WANG"
+  ]
+ },
+ {
+  "pmid_oficial": "36889362",
+  "titulo_artigo": "Nucleus accumbens in the pathogenesis of major depressive disorder: A brief review.",
+  "autores": [
+   "Jiang Y",
+   "Zou M",
+   "Wang Y",
+   "Wang Y"
+  ],
+  "revista_ano": "Brain Res Bull 2023",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_JIANG_2023"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_JIANG_2023",
+  "doi": "10.1016/j.brainresbull.2023.03.004",
+  "claim_id_origem": "B4.MEC.BLOCO03.070",
+  "_aliases": [
+   "Jiang",
+   "JIANG"
+  ]
+ },
+ {
+  "pmid_oficial": "28870407",
+  "titulo_artigo": "Striatal dopamine D2/3 receptor-mediated neurotransmission in major depression: Implications for anhedonia, anxiety and treatment response.",
+  "autores": [
+   "Peciña M",
+   "Sikora M",
+   "Avery ET",
+   "Heffernan J",
+   "Peciña S",
+   "Mickey BJ",
+   "Zubieta JK"
+  ],
+  "revista_ano": "Eur Neuropsychopharmacol 2017",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_PECINA_2017"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_PECINA_2017",
+  "doi": "10.1016/j.euroneuro.2017.08.427",
+  "claim_id_origem": "B4.MEC.BLOCO03.071",
+  "_aliases": [
+   "Pecina",
+   "PECINA"
+  ]
+ },
+ {
+  "pmid_oficial": "37301129",
+  "titulo_artigo": "Striatal dopamine in anhedonia: A simultaneous [11C]raclopride positron emission tomography and functional magnetic resonance imaging investigation.",
+  "autores": [
+   "Phillips RD",
+   "Walsh EC",
+   "Zürcher NR",
+   "Lalush DS",
+   "Kinard JL",
+   "Tseng CE",
+   "Cernasov PM",
+   "Kan D",
+   "Cummings K",
+   "Kelley L",
+   "Campbell D",
+   "Dillon DG",
+   "Pizzagalli DA",
+   "Izquierdo-Garcia D",
+   "Hooker JM",
+   "Smoski MJ",
+   "Dichter GS"
+  ],
+  "revista_ano": "Psychiatry Res Neuroimaging 2023",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_PHILLIPS_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_PHILLIPS_2023",
+  "doi": "10.1038/nrn3381",
+  "claim_id_origem": "B4.MEC.BLOCO03.072",
+  "_aliases": [
+   "Phillips",
+   "PHILLIPS"
+  ]
+ },
+ {
+  "pmid_oficial": "32363761",
+  "titulo_artigo": "Low dopamine transporter binding in the nucleus accumbens in geriatric patients with severe depression.",
+  "autores": [
+   "Moriya H",
+   "Tiger M",
+   "Tateno A",
+   "Sakayori T",
+   "Masuoka T",
+   "Kim W",
+   "Arakawa R",
+   "Okubo Y"
+  ],
+  "revista_ano": "Psychiatry Clin Neurosci 2020",
+  "desenho_estudo": "estudo_humano",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MORIYA_2020"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_MORIYA_2020",
+  "doi": "10.1111/pcn.13020",
+  "claim_id_origem": "B4.MEC.BLOCO03.073",
+  "_aliases": [
+   "Moriya",
+   "MORIYA"
+  ]
+ },
+ {
+  "pmid_oficial": "23711983",
+  "titulo_artigo": "Increasing dopamine D2 receptor expression in the adult nucleus accumbens enhances motivation.",
+  "autores": [
+   "Trifilieff P",
+   "Feng B",
+   "Urizar E",
+   "Winiger V",
+   "Ward RD",
+   "Taylor KM",
+   "Martinez D",
+   "Moore H",
+   "Balsam PD",
+   "Simpson EH",
+   "Javitch JA"
+  ],
+  "revista_ano": "Mol Psychiatry 2013",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_TRIFILIEFF_2013"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_TRIFILIEFF_2013",
+  "doi": "10.1038/mp.2013.57",
+  "claim_id_origem": "B4.MEC.BLOCO03.074",
+  "_aliases": [
+   "Trifilieff",
+   "TRIFILIEFF"
+  ]
+ },
+ {
+  "pmid_oficial": "12668290",
+  "titulo_artigo": "The locus coeruleus-noradrenergic system: modulation of behavioral state and state-dependent cognitive processes.",
+  "autores": [
+   "Berridge CW",
+   "Waterhouse BD"
+  ],
+  "revista_ano": "Brain Res Brain Res Rev 2003",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BERRIDGE_2003"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_BERRIDGE_2003",
+  "doi": "10.1016/s0165-0173(03)00143-7",
+  "claim_id_origem": "B4.MEC.BLOCO04.081",
+  "_aliases": [
+   "Berridge",
+   "BERRIDGE"
+  ]
+ },
+ {
+  "pmid_oficial": "28367128",
+  "titulo_artigo": "The Role of Norepinephrine and Its α-Adrenergic Receptors in the Pathophysiology and Treatment of Major Depressive Disorder and Schizophrenia: A Systematic Review.",
+  "autores": [
+   "Maletic V",
+   "Eramo A",
+   "Gwin K",
+   "Offord SJ",
+   "Duffy RA"
+  ],
+  "revista_ano": "Front Psychiatry 2017",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MALETIC_2017"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_MALETIC_2017",
+  "doi": "10.1016/j.brainres.2015.11.021",
+  "claim_id_origem": "B4.MEC.BLOCO04.082",
+  "_aliases": [
+   "Maletic",
+   "MALETIC"
+  ]
+ },
+ {
+  "pmid_oficial": "19960531",
+  "titulo_artigo": "Current perspectives of the roles of the central norepinephrine system in anxiety and depression.",
+  "autores": [
+   "Goddard AW",
+   "Ball SG",
+   "Martinez J",
+   "Robinson MJ",
+   "Yang CR",
+   "Russell JM",
+   "Shekhar A"
+  ],
+  "revista_ano": "Depress Anxiety 2010",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_GODDARD_2010"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_GODDARD_2010",
+  "doi": "10.1002/da.20642",
+  "claim_id_origem": "B4.MEC.BLOCO04.083",
+  "_aliases": [
+   "Goddard",
+   "GODDARD"
+  ]
+ },
+ {
+  "pmid_oficial": "39427811",
+  "titulo_artigo": "Role of the locus coeruleus-noradrenergic system in stress-related psychopathology and resilience: Clinical and pre-clinical evidences.",
+  "autores": [
+   "Slavova D",
+   "Ortiz V",
+   "Blaise M",
+   "Bairachnaya M",
+   "Giros B",
+   "Isingrini E"
+  ],
+  "revista_ano": "Neurosci Biobehav Rev 2024",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SLAVOVA_2024"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_SLAVOVA_2024",
+  "doi": "10.1016/j.neubiorev.2024.105925",
+  "claim_id_origem": "B4.MEC.BLOCO04.084",
+  "_aliases": [
+   "Slavova",
+   "SLAVOVA"
+  ]
+ },
+ {
+  "pmid_oficial": "41167443",
+  "titulo_artigo": "Noradrenergic dysregulation in the locus coeruleus: Implications for neuropsychiatric disease pathophysiology- A systematic review.",
+  "autores": [
+   "Mir FA",
+   "Jha SK",
+   "Nehs CJ"
+  ],
+  "revista_ano": "Neurosci Biobehav Rev 2025",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MIR_2025"
+  ],
+  "evid_role": "meta_analise",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_MIR_2025",
+  "doi": "10.1016/j.neubiorev.2025.106442",
+  "claim_id_origem": "B4.MEC.BLOCO04.085",
+  "_aliases": [
+   "Mir",
+   "MIR"
+  ]
+ },
+ {
+  "pmid_oficial": "42332025",
+  "titulo_artigo": "A new hope: locus coeruleus-norepinephrine system at the nexus of neuropsychiatric symptoms.",
+  "autores": [
+   "Korukonda A",
+   "Weinshenker D"
+  ],
+  "revista_ano": "Mol Psychiatry 2026",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_KORUKONDA_2026"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_KORUKONDA_2026",
+  "doi": "10.1038/s41598-024-72179-4",
+  "claim_id_origem": "B4.MEC.BLOCO04.086",
+  "_aliases": [
+   "Korukonda",
+   "KORUKONDA"
+  ]
+ },
+ {
+  "pmid_oficial": "40219735",
+  "titulo_artigo": "The Locus Coeruleus: Anatomy, Physiology, and Stress-Related Neuropsychiatric Disorders.",
+  "autores": [
+   "Reyes BAS"
+  ],
+  "revista_ano": "Eur J Neurosci 2025",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_REYES_2025"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_REYES_2025",
+  "doi": "10.3389/fnins.2022.1055986/full",
+  "claim_id_origem": "B4.MEC.BLOCO04.087",
+  "_aliases": [
+   "Reyes",
+   "REYES"
+  ]
+ },
+ {
+  "pmid_oficial": "18255055",
+  "titulo_artigo": "Convergent regulation of locus coeruleus activity as an adaptive response to stress.",
+  "autores": [
+   "Valentino RJ",
+   "Van Bockstaele E"
+  ],
+  "revista_ano": "Eur J Pharmacol 2008",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_VALENTINO_2008"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_VALENTINO_2008",
+  "doi": "10.1016/j.ejphar.2007.11.062",
+  "claim_id_origem": "B4.MEC.BLOCO04.088",
+  "_aliases": [
+   "Valentino",
+   "VALENTINO"
+  ]
+ },
+ {
+  "pmid_oficial": "20210846",
+  "titulo_artigo": "The brainstem noradrenergic systems in stress, anxiety and depression.",
+  "autores": [
+   "Itoi K",
+   "Sugimoto N"
+  ],
+  "revista_ano": "J Neuroendocrinol 2010",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_ITOI_2010"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_ITOI_2010",
+  "doi": "10.1111/j.1365-2826.2010.01988.x",
+  "claim_id_origem": "B4.MEC.BLOCO04.089",
+  "_aliases": [
+   "Itoi",
+   "ITOI"
+  ]
+ },
+ {
+  "pmid_oficial": "28596922",
+  "titulo_artigo": "Noradrenergic Modulation of Cognition in Health and Disease.",
+  "autores": [
+   "Borodovitsyna O",
+   "Flamini M",
+   "Chandler D"
+  ],
+  "revista_ano": "Neural Plast 2017",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BORODOVITSYNA_2017"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_BORODOVITSYNA_2017",
+  "doi": "10.1016/0006-8993(91)90687-Q",
+  "claim_id_origem": "B4.MEC.BLOCO04.090",
+  "_aliases": [
+   "Borodovitsyna",
+   "BORODOVITSYNA"
+  ]
+ },
+ {
+  "pmid_oficial": "26607253",
+  "titulo_artigo": "Sex differences in the locus coeruleus-norepinephrine system and its regulation by stress.",
+  "autores": [
+   "Bangasser DA",
+   "Wiersielis KR",
+   "Khantsis S"
+  ],
+  "revista_ano": "Brain Res 2016",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BANGASSER_2016"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_BANGASSER_2016",
+  "doi": "10.1016/j.brainres.2015.11.021",
+  "claim_id_origem": "B4.MEC.BLOCO04.091",
+  "_aliases": [
+   "Bangasser",
+   "BANGASSER"
+  ]
+ },
+ {
+  "pmid_oficial": "27616990",
+  "titulo_artigo": "Locus Ceruleus Norepinephrine Release: A Central Regulator of CNS Spatio-Temporal Activation?",
+  "autores": [
+   "Atzori M",
+   "Cuevas-Olguin R",
+   "Esquivel-Rendon E",
+   "Garcia-Oscos F",
+   "Salgado-Delgado RC",
+   "Saderi N",
+   "Miranda-Morales M",
+   "Treviño M",
+   "Pineda JC",
+   "Salgado H"
+  ],
+  "revista_ano": "Front Synaptic Neurosci 2016",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_ATZORI_2016"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_ATZORI_2016",
+  "doi": "10.1113/jphysiol.2012.248591",
+  "claim_id_origem": "B4.MEC.BLOCO04.092",
+  "_aliases": [
+   "Atzori",
+   "ATZORI"
+  ]
+ },
+ {
+  "pmid_oficial": "36289638",
+  "titulo_artigo": "The Role of Beta-Adrenergic Receptors in Depression and Resilience.",
+  "autores": [
+   "Zhang H",
+   "Cui M",
+   "Cao JL",
+   "Han MH"
+  ],
+  "revista_ano": "Biomedicines 2022",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_ZHANG_2022"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_ZHANG_2022",
+  "doi": "10.1111/bph.14026",
+  "claim_id_origem": "B4.MEC.BLOCO04.093",
+  "_aliases": [
+   "Zhang",
+   "ZHANG"
+  ]
+ },
+ {
+  "pmid_oficial": "37139472",
+  "titulo_artigo": "Prefrontal modulation of anxiety through a lens of noradrenergic signaling.",
+  "autores": [
+   "Bouras NN",
+   "Mack NR",
+   "Gao WJ"
+  ],
+  "revista_ano": "Front Syst Neurosci 2023",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BOURAS_2023"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_BOURAS_2023",
+  "doi": "10.1101/lm.030411.113",
+  "claim_id_origem": "B4.MEC.BLOCO04.094",
+  "_aliases": [
+   "Bouras",
+   "BOURAS"
+  ]
+ },
+ {
+  "pmid_oficial": "40442382",
+  "titulo_artigo": "Noradrenaline Regulation of Brain-Body Communication.",
+  "autores": [
+   "Fernandes G",
+   "Lam R",
+   "Park J",
+   "Drummond GT",
+   "Sur M"
+  ],
+  "revista_ano": "Adv Exp Med Biol 2025",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_FERNANDES_2025"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_FERNANDES_2025",
+  "doi": "10.35077/g.610",
+  "claim_id_origem": "B4.MEC.BLOCO04.095",
+  "_aliases": [
+   "Fernandes",
+   "FERNANDES"
+  ]
+ },
+ {
+  "pmid_oficial": "41938091",
+  "titulo_artigo": "Norepinephrine neurons in the locus coeruleus and the nucleus of the solitary tract drive different stress-related behavioral outputs in mice.",
+  "autores": [
+   "Dos-Santos RC",
+   "Najjar MW",
+   "Friedman C",
+   "Sweeten BLW",
+   "Stelly CE",
+   "Harbom LJ",
+   "Harrison LM",
+   "Tasker JG"
+  ],
+  "revista_ano": "Neurobiol Stress 2026",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_DOSSANTOS_2026"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_DOSSANTOS_2026",
+  "doi": "10.1038/s41593-020-00784-3",
+  "claim_id_origem": "B4.MEC.BLOCO04.096",
+  "_aliases": [
+   "DosSantos",
+   "DOSSANTOS"
+  ]
+ },
+ {
+  "pmid_oficial": "26212712",
+  "titulo_artigo": "CRH Engagement of the Locus Coeruleus Noradrenergic System Mediates Stress-Induced Anxiety.",
+  "autores": [
+   "McCall JG",
+   "Al-Hasani R",
+   "Siuda ER",
+   "Hong DY",
+   "Norris AJ",
+   "Ford CP",
+   "Bruchas MR"
+  ],
+  "revista_ano": "Neuron 2015",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_MCCALL_2015"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_MCCALL_2015",
+  "doi": "10.1016/j.neuron.2015.07.002",
+  "claim_id_origem": "B4.MEC.BLOCO04.097",
+  "_aliases": [
+   "McCall",
+   "MCCALL"
+  ]
+ },
+ {
+  "pmid_oficial": "28708061",
+  "titulo_artigo": "Locus coeruleus to basolateral amygdala noradrenergic projections promote anxiety-like behavior.",
+  "autores": [
+   "McCall JG",
+   "Siuda ER",
+   "Bhatti DL",
+   "Lawson LA",
+   "McElligott ZA",
+   "Stuber GD",
+   "Bruchas MR"
+  ],
+  "revista_ano": "Elife 2017",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_MCCALL_2017"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_MCCALL_2017",
+  "doi": "10.1016/j.neuron.2011.06.004",
+  "claim_id_origem": "B4.MEC.BLOCO04.098",
+  "_aliases": [
+   "McCall",
+   "MCCALL"
+  ]
+ },
+ {
+  "pmid_oficial": "29341884",
+  "titulo_artigo": "Acute Stress Persistently Alters Locus Coeruleus Function and Anxiety-like Behavior in Adolescent Rats.",
+  "autores": [
+   "Borodovitsyna O",
+   "Flamini MD",
+   "Chandler DJ"
+  ],
+  "revista_ano": "Neuroscience 2018",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_BORODOVITSYNA_2018"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_BORODOVITSYNA_2018",
+  "doi": "10.1016/j.neuroscience.2018.01.020",
+  "claim_id_origem": "B4.MEC.BLOCO04.099",
+  "_aliases": [
+   "Borodovitsyna",
+   "BORODOVITSYNA"
+  ]
+ },
+ {
+  "pmid_oficial": "41066175",
+  "titulo_artigo": "Chronic stress impairs autoinhibition in neurons of the locus coeruleus to increase asparagine endopeptidase activity.",
+  "autores": [
+   "Toyoda H",
+   "Kim D",
+   "Koh BG",
+   "Sano T",
+   "Kanematsu T",
+   "Oh SB",
+   "Kang Y"
+  ],
+  "revista_ano": "Elife 2025",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_TOYODA_2025"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_TOYODA_2025",
+  "doi": "10.1038/nm.3700",
+  "claim_id_origem": "B4.MEC.BLOCO04.100",
+  "_aliases": [
+   "Toyoda",
+   "TOYODA"
+  ]
+ },
+ {
+  "pmid_oficial": "41000807",
+  "titulo_artigo": "Noradrenergic inputs to the basolateral amygdala have bidirectional effects on coping behavior and neuronal activity in mice.",
+  "autores": [
+   "Soares AR",
+   "Fai C",
+   "Mineur YS",
+   "Picciotto MR"
+  ],
+  "revista_ano": "bioRxiv 2025",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_SOARES_2025"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_SOARES_2025",
+  "doi": "10.1016/j.neuron.2019.05.027",
+  "claim_id_origem": "B4.MEC.BLOCO04.101",
+  "_aliases": [
+   "Soares",
+   "SOARES"
+  ]
+ },
+ {
+  "pmid_oficial": "38155473",
+  "titulo_artigo": "Locus Coeruleus-Dorsolateral Septum Projections Modulate Depression-Like Behaviors via BDNF But Not Norepinephrine.",
+  "autores": [
+   "Zhang Q",
+   "Xue Y",
+   "Wei K",
+   "Wang H",
+   "Ma Y",
+   "Wei Y",
+   "Fan Y",
+   "Gao L",
+   "Yao H",
+   "Wu F",
+   "Ding X",
+   "Zhang Q",
+   "Ding J",
+   "Fan Y",
+   "Lu M",
+   "Hu G"
+  ],
+  "revista_ano": "Adv Sci (Weinh) 2024",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_ZHANG_2024"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_ZHANG_2024",
+  "doi": "10.1002/advs.202303503",
+  "claim_id_origem": "B4.MEC.BLOCO04.102",
+  "_aliases": [
+   "Zhang",
+   "ZHANG"
+  ]
+ },
+ {
+  "pmid_oficial": "29593511",
+  "titulo_artigo": "Noradrenergic Modulation of Fear Conditioning and Extinction.",
+  "autores": [
+   "Giustino TF",
+   "Maren S"
+  ],
+  "revista_ano": "Front Behav Neurosci 2018",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_GIUSTINO_2018"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_GIUSTINO_2018",
+  "doi": "10.1007/s00213-005-0055-y",
+  "claim_id_origem": "B4.MEC.BLOCO04.103",
+  "_aliases": [
+   "Giustino",
+   "GIUSTINO"
+  ]
+ },
+ {
+  "pmid_oficial": "31801809",
+  "titulo_artigo": "Locus Coeruleus Norepinephrine Drives Stress-Induced Increases in Basolateral Amygdala Firing and Impairs Extinction Learning.",
+  "autores": [
+   "Giustino TF",
+   "Ramanathan KR",
+   "Totty MS",
+   "Miles OW",
+   "Maren S"
+  ],
+  "revista_ano": "J Neurosci 2020",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_GIUSTINO_2020"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_GIUSTINO_2020",
+  "doi": "10.1097/00005053-199205000-00006",
+  "claim_id_origem": "B4.MEC.BLOCO04.104",
+  "_aliases": [
+   "Giustino",
+   "GIUSTINO"
+  ]
+ },
+ {
+  "pmid_oficial": "41225565",
+  "titulo_artigo": "Sex differences in noradrenergic regulation of the medial prefrontal cortex in mice.",
+  "autores": [
+   "Scroger MV",
+   "Athanason AC",
+   "Paperny NM",
+   "Liss A",
+   "Vo KT",
+   "Muneeb M",
+   "Siddiqi MT",
+   "Batchelder MR",
+   "Shahbaz I",
+   "Chan S",
+   "Deak MM",
+   "Karkhanis AN",
+   "Varodayan FP"
+  ],
+  "revista_ano": "Biol Sex Differ 2025",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_SCROGER_2025"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_SCROGER_2025",
+  "doi": "10.1016/j.ynstr.2019.100149",
+  "claim_id_origem": "B4.MEC.BLOCO04.105",
+  "_aliases": [
+   "Scroger",
+   "SCROGER"
+  ]
+ },
+ {
+  "pmid_oficial": "33911187",
+  "titulo_artigo": "Co-released norepinephrine and galanin act on different timescales to promote stress-induced anxiety-like behavior.",
+  "autores": [
+   "Tillage RP",
+   "Foster SL",
+   "Lustberg D",
+   "Liles LC",
+   "McCann KE",
+   "Weinshenker D"
+  ],
+  "revista_ano": "Neuropsychopharmacology 2021",
+  "desenho_estudo": "estudo_preclinico_animal",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "[APENAS PRÉ-CLÍNICO] —",
+  "ids_referencia_interna": [
+   "REF_TILLAGE_2021"
+  ],
+  "evid_role": "preclinico_mecanistico",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_TILLAGE_2021",
+  "doi": "10.1038/s41386-021-01011-8",
+  "claim_id_origem": "B4.MEC.BLOCO04.106",
+  "_aliases": [
+   "Tillage",
+   "TILLAGE"
+  ]
+ },
+ {
+  "pmid_oficial": "27480574",
+  "titulo_artigo": "Inflammation Effects on Motivation and Motor Activity: Role of Dopamine.",
+  "autores": [
+   "Felger JC",
+   "Treadway MT"
+  ],
+  "revista_ano": "Neuropsychopharmacology 2017",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_FELGER_2017"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_FELGER_2017",
+  "doi": "10.1038/npp.2016.143",
+  "claim_id_origem": "B4.MEC.BLOCO08.111",
+  "_aliases": [
+   "Felger",
+   "FELGER"
+  ]
+ },
+ {
+  "pmid_oficial": "39694342",
+  "titulo_artigo": "Sustained effects of repeated levodopa (L-DOPA) administration on reward circuitry, effort-based motivation, and anhedonia in depressed patients with higher inflammation.",
+  "autores": [
+   "Bekhbat M",
+   "Li Z",
+   "Dunlop BW",
+   "Treadway MT",
+   "Mehta ND",
+   "Revill KP",
+   "Lucido MJ",
+   "Hong C",
+   "Ashchi A",
+   "Wommack EC",
+   "Goldsmith DR",
+   "Haroon E",
+   "Miller AH",
+   "Felger JC"
+  ],
+  "revista_ano": "Brain Behav Immun 2025",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BEKHBAT_2025"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_BEKHBAT_2025",
+  "doi": "10.1016/j.bbi.2024.12.026",
+  "claim_id_origem": "B4.MEC.BLOCO08.112",
+  "_aliases": [
+   "Bekhbat",
+   "BEKHBAT"
+  ]
+ },
+ {
+  "pmid_oficial": "34265868",
+  "titulo_artigo": "Integrating the monoamine and cytokine hypotheses of depression: Is histamine the missing link?",
+  "autores": [
+   "Hersey M",
+   "Hashemi P",
+   "Reagan LP"
+  ],
+  "revista_ano": "Eur J Neurosci 2022",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_HERSEY_2022"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_HERSEY_2022",
+  "doi": "10.1111/ejn.15392",
+  "claim_id_origem": "B4.MEC.BLOCO08.113",
+  "_aliases": [
+   "Hersey",
+   "HERSEY"
+  ]
+ },
+ {
+  "pmid_oficial": "34285088",
+  "titulo_artigo": "Aiding and Abetting Anhedonia: Impact of Inflammation on the Brain and Pharmacological Implications.",
+  "autores": [
+   "Lucido MJ",
+   "Bekhbat M",
+   "Goldsmith DR",
+   "Treadway MT",
+   "Haroon E",
+   "Felger JC",
+   "Miller AH"
+  ],
+  "revista_ano": "Pharmacol Rev 2021",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_LUCIDO_2021"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_LUCIDO_2021",
+  "doi": "10.1124/pharmrev.120.000043",
+  "claim_id_origem": "B4.MEC.BLOCO08.114",
+  "_aliases": [
+   "Lucido",
+   "LUCIDO"
+  ]
+ },
+ {
+  "pmid_oficial": "29033793",
+  "titulo_artigo": "From Serotonin to Neuroplasticity: Evolvement of Theories for Major Depressive Disorder.",
+  "autores": [
+   "Liu B",
+   "Liu J",
+   "Wang M",
+   "Zhang Y",
+   "Li L"
+  ],
+  "revista_ano": "Front Cell Neurosci 2017",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_LIU_2017"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_LIU_2017",
+  "doi": "10.1038/mp.2013.87",
+  "claim_id_origem": "B4.MEC.BLOCO00.121",
+  "_aliases": [
+   "Liu",
+   "LIU"
+  ]
+ },
+ {
+  "pmid_oficial": "28926161",
+  "titulo_artigo": "Neural basis of major depressive disorder: Beyond monoamine hypothesis.",
+  "autores": [
+   "Boku S",
+   "Nakagawa S",
+   "Toda H",
+   "Hishimoto A"
+  ],
+  "revista_ano": "Psychiatry Clin Neurosci 2018",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BOKU_2018"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_BOKU_2018",
+  "doi": "10.1111/pcn.12604",
+  "claim_id_origem": "B4.MEC.BLOCO00.122",
+  "_aliases": [
+   "Boku",
+   "BOKU"
+  ]
+ },
+ {
+  "pmid_oficial": "38816586",
+  "titulo_artigo": "Beyond the serotonin deficit hypothesis: communicating a neuroplasticity framework of major depressive disorder.",
+  "autores": [
+   "Page CE",
+   "Epperson CN",
+   "Novick AM",
+   "Duffy KA",
+   "Thompson SM"
+  ],
+  "revista_ano": "Mol Psychiatry 2024",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_PAGE_2024"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_PAGE_2024",
+  "doi": "10.1038/s41380-023-02285-8",
+  "claim_id_origem": "B4.MEC.BLOCO00.123",
+  "_aliases": [
+   "Page",
+   "PAGE"
+  ]
+ },
+ {
+  "pmid_oficial": "42198336",
+  "titulo_artigo": "The Monoamine-Glutamate Continuum of Depression: A Neurobiological Framework for Precision Psychiatry.",
+  "autores": [
+   "Carmellini P",
+   "Cuomo A",
+   "Rescalli MB",
+   "Pinzi M",
+   "Dourmas A",
+   "Fagiolini A"
+  ],
+  "revista_ano": "Pharmaceuticals (Basel) 2026",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_CARMELLINI_2026"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_CARMELLINI_2026",
+  "doi": "10.1172/JCI38832",
+  "claim_id_origem": "B4.MEC.BLOCO00.124",
+  "_aliases": [
+   "Carmellini",
+   "CARMELLINI"
+  ]
+ },
+ {
+  "pmid_oficial": "25813654",
+  "titulo_artigo": "Emerging mechanisms and treatments for depression beyond SSRIs and SNRIs.",
+  "autores": [
+   "Dale E",
+   "Bang-Andersen B",
+   "Sánchez C"
+  ],
+  "revista_ano": "Biochem Pharmacol 2015",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_DALE_2015"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_DALE_2015",
+  "doi": "10.1016/j.bcp.2015.03.011",
+  "claim_id_origem": "B4.MEC.BLOCO00.125",
+  "_aliases": [
+   "Dale",
+   "DALE"
+  ]
+ },
+ {
+  "pmid_oficial": "7899535",
+  "titulo_artigo": "Effects of serotonin precursors on the negative feedback effects of glucocorticoids on hypothalamic-pituitary-adrenal axis function in depression.",
+  "autores": [
+   "Maes M",
+   "Meltzer HY",
+   "D'Hondt P",
+   "Cosyns P",
+   "Blockx P"
+  ],
+  "revista_ano": "Psychoneuroendocrinology 1995",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MAES_1995"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_MAES_1995",
+  "doi": "10.1016/0306-4530(94)00049-g",
+  "claim_id_origem": "B4.MEC.BLOCO08.117",
+  "_aliases": [
+   "Maes",
+   "MAES"
+  ]
+ }
+]

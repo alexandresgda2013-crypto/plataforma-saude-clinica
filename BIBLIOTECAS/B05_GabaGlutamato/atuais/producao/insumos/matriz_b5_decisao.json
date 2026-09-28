@@ -1,0 +1,1529 @@
+{
+ "VIG": [
+  "20724638",
+  "27144355",
+  "28697889",
+  "30914923",
+  "37543478",
+  "39368965"
+ ],
+ "EXC": {
+  "34265291": "Alzheimer",
+  "39450669": "Alzheimer",
+  "33218044": "Alzheimer",
+  "38791587": "Alzheimer/PV-neurológico",
+  "34610314": "Alzheimer/β-amiloide",
+  "26922658": "autismo",
+  "32297709": "autismo",
+  "35587691": "autismo",
+  "36681677": "autismo (e ano corrigido 2021→2023)",
+  "37521710": "apneia do sono",
+  "35167940": "epilepsia",
+  "35250498": "epilepsia (borda: psiq-comorbidades)",
+  "40890771": "epilepsia",
+  "39524246": "Carta — redundância do original Xu 2020 (prioridade ao artigo)"
+ },
+ "FP": {
+  "42701922": "DOI do anexo (\"Prosowski 2024 — Ketamine/Esketamine TRD\") resolve para artigo NÃO correlato (Zhang L 2026, γ-butyrolactones — fisiologia não-psiquiátrica). Artigo pretendido NÃO localizado no PubMed (Prosowski[author] = 0) → [G1]"
+ },
+ "FALHAS": {
+  "10.1002/alz70855_102267": "Imiruaye 2025 — abstract de congresso (Alzheimer Association); não indexado como artigo; também fora de escopo (Alzheimer)",
+  "Prosowski 2024": "rótulo do anexo sem correspondente no PubMed → [G1]"
+ },
+ "BAIXO_MOTIVOS": {
+  "39769420": "narrativa derivada (além do conjunto CORE KET)",
+  "31215725": "história/revisão derivada",
+  "25954495": "revisão derivada era-2015",
+  "33569971": "perspective derivada",
+  "33155503": "perspective derivada",
+  "35312993": "revisão genérica",
+  "32440333": "revisão genérica",
+  "35267893": "panorama neuropsiquiátrico amplo (não-alvo)",
+  "29736744": "eficácia/tolerabilidade clínica — guia, não mecanismo",
+  "41858652": "bipolar-específico",
+  "30034974": "revisão genérica",
+  "35872836": "revisão genérica",
+  "31699965": "revisão genérica",
+  "27523302": "eletrofisiologia básica nicho",
+  "34678377": "eletrofisiologia básica nicho",
+  "29593052": "LTP/LTD básico sem elo",
+  "26830140": "MIA neurodesenvolvimental sem fenótipo-alvo direto (borda)",
+  "38391931": "álcool×TDM misto, incremento baixo",
+  "37900589": "fisiologia nicho (VIP/SST somatossensorial)",
+  "39901494": "fisiologia nicho (BK/GABAb VIP)",
+  "39141819": "fisiologia nicho (subículo)",
+  "35088731": "AMPAR para praticante de estimulação (educacional)",
+  "40161576": "crosstalk pleiotrópico amplo",
+  "33766086": "GluN2C/2D nicho",
+  "41637458": "ubiquitinação GluN2A nicho",
+  "34637787": "GluN2D eletrofisiologia nicho",
+  "35105656": "cinética PV/SST nicho",
+  "26041915": "tráfego AMPAR nicho",
+  "40436282": "Grin2a global nicho",
+  "37545878": "δ/α6 cerebellar nicho",
+  "37258641": "SST-GABAb neocórtex nicho",
+  "40445322": "SST camada-4 aprendizado nicho",
+  "33303963": "SST entorrinal nicho",
+  "38813758": "domínios GluN2 nicho",
+  "35484243": "GluN2A-enhancer nicho",
+  "40239379": "PAMs GluN2A (química medicinal)",
+  "32832654": "GABA pré-frontal LTP nicho",
+  "40013665": "δ-GABA(A) PV nicho",
+  "31873798": "SSTR1-5 córtex-barril nicho",
+  "29311610": "SST-signaling nicho",
+  "28965758": "PV/SST codificação espacial nicho",
+  "38616956": "PV fisiologia nicho",
+  "33972691": "cadherina-13 stem-cell nicho",
+  "36309210": "E/I desenvolvimento sem doença",
+  "26586374": "BLA GABA saúde/doença amplo",
+  "39841263": "AMPAR plasticidade/doenças review amplo",
+  "35601529": "PV plasticidade sensorial nicho",
+  "35775994": "SST-astrócito nicho",
+  "40029461": "PTM NMDAR nicho",
+  "38516040": "crosstalk neuromodulador amplo",
+  "37448697": "inibição tônica bidirecional nicho",
+  "33007389": "sevoflurano pré-natal nicho",
+  "42038294": "editorial (veículo de opinião)"
+ },
+ "ENTRA": [
+  {
+   "pmid": "15356193",
+   "grupo": "NMDA",
+   "a1": "Massey PV",
+   "ano": "2004",
+   "titulo": "Differential roles of NR2A and NR2B-containing NMDA receptors in cortical long-term potentiation and long-term depression.",
+   "fonte": "J Neurosci",
+   "pubtype": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "18992785",
+   "grupo": "NMDA",
+   "a1": "Feyissa AM",
+   "ano": "2009",
+   "titulo": "Reduced levels of NR2A and NR2B subunits of NMDA receptor and PSD-95 in the prefrontal cortex in major depression.",
+   "fonte": "Prog Neuropsychopharmacol Biol Psychiatry",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "20357110",
+   "grupo": "NMDA",
+   "a1": "Brigman JL",
+   "ano": "2010",
+   "titulo": "Loss of GluN2B-containing NMDA receptors in CA1 hippocampus and cortex impairs long-term depression, reduces dendritic spine density, and disrupts learning.",
+   "fonte": "J Neurosci",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "21154909",
+   "grupo": "GABA",
+   "a1": "Rudy B",
+   "ano": "2011",
+   "titulo": "Three groups of interneurons account for nearly 100% of neocortical GABAergic neurons.",
+   "fonte": "Dev Neurobiol",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "22510460",
+   "grupo": "PLAST",
+   "a1": "Lüscher C",
+   "ano": "2012",
+   "titulo": "NMDA receptor-dependent long-term potentiation and long-term depression (LTP/LTD).",
+   "fonte": "Cold Spring Harb Perspect Biol",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "22676966",
+   "grupo": "MRS",
+   "a1": "Duncan WC",
+   "ano": "2013",
+   "titulo": "Concomitant BDNF and sleep slow wave changes indicate ketamine-induced plasticity in major depressive disorder.",
+   "fonte": "Int J Neuropsychopharmacol",
+   "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Intramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "23534055",
+   "grupo": "PLAST",
+   "a1": "Kavalali ET",
+   "ano": "2012",
+   "titulo": "Synaptic mechanisms underlying rapid antidepressant action of ketamine.",
+   "fonte": "Am J Psychiatry",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "23637187",
+   "grupo": "GABA",
+   "a1": "Booker SA",
+   "ano": "2013",
+   "titulo": "Differential GABAB-receptor-mediated effects in perisomatic- and dendrite-targeting parvalbumin interneurons.",
+   "fonte": "J Neurosci",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "24071826",
+   "grupo": "GABA",
+   "a1": "Carver CM",
+   "ano": "2013",
+   "titulo": "Neurosteroid interactions with synaptic and extrasynaptic GABA(A) receptors: regulation of subunit plasticity, phasic and tonic inhibition, and neuronal network excitability.",
+   "fonte": "Psychopharmacology (Berl)",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "24298164",
+   "grupo": "NMDA",
+   "a1": "Shipton OA",
+   "ano": "2014",
+   "titulo": "GluN2A and GluN2B subunit-containing NMDA receptors in hippocampal plasticity.",
+   "fonte": "Philos Trans R Soc Lond B Biol Sci",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "24550784",
+   "grupo": "GABA",
+   "a1": "Lee V",
+   "ano": "2014",
+   "titulo": "The impact of tonic GABAA receptor-mediated inhibition on neuronal excitability varies across brain region and cell type.",
+   "fonte": "Front Neural Circuits",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "25237099",
+   "grupo": "IFACE",
+   "a1": "Shabel SJ",
+   "ano": "2014",
+   "titulo": "Mood regulation. GABA/glutamate co-release controls habenula output and is modified by antidepressant treatment.",
+   "fonte": "Science",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "25340958",
+   "grupo": "NMDA",
+   "a1": "Miller OH",
+   "ano": "2014",
+   "titulo": "GluN2B-containing NMDA receptors regulate depression-like behavior and are critical for the rapid antidepressant actions of ketamine.",
+   "fonte": "Elife",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "25619552",
+   "grupo": "PLAST",
+   "a1": "Volianskis A",
+   "ano": "2015",
+   "titulo": "Long-term potentiation and the role of N-methyl-D-aspartate receptors.",
+   "fonte": "Brain Res",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "25653499",
+   "grupo": "GABA",
+   "a1": "Pehrson AL",
+   "ano": "2015",
+   "titulo": "Altered γ-aminobutyric acid neurotransmission in major depressive disorder: a critical review of the supporting evidence and the influence of serotonergic antidepressants.",
+   "fonte": "Drug Des Devel Ther",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "25653526",
+   "grupo": "ANX",
+   "a1": "Nuss P",
+   "ano": "2015",
+   "titulo": "Anxiety disorders and GABA neurotransmission: a disturbance of modulation.",
+   "fonte": "Neuropsychiatr Dis Treat",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "26938443",
+   "grupo": "PLAST",
+   "a1": "Sanderson JL",
+   "ano": "2016",
+   "titulo": "NMDA Receptor-Dependent LTD Requires Transient Synaptic Incorporation of Ca²⁺-Permeable AMPARs Mediated by AKAP150-Anchored PKA and Calcineurin.",
+   "fonte": "Neuron",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "26955968",
+   "grupo": "KET",
+   "a1": "Wohleb ES",
+   "ano": "2017",
+   "titulo": "Molecular and Cellular Mechanisms of Rapid-Acting Antidepressants Ketamine and Scopolamine.",
+   "fonte": "Curr Neuropharmacol",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "27062302",
+   "grupo": "KET",
+   "a1": "Abdallah CG",
+   "ano": "2016",
+   "titulo": "KETAMINE'S MECHANISM OF ACTION: A PATH TO RAPID-ACTING ANTIDEPRESSANTS.",
+   "fonte": "Depress Anxiety",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "27240530",
+   "grupo": "IFACE",
+   "a1": "Hartmann J",
+   "ano": "2017",
+   "titulo": "Forebrain glutamatergic, but not GABAergic, neurons mediate anxiogenic effects of the glucocorticoid receptor.",
+   "fonte": "Mol Psychiatry",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "27262028",
+   "grupo": "NMDA",
+   "a1": "Treccani G",
+   "ano": "2016",
+   "titulo": "Differential expression of postsynaptic NMDA and AMPA receptor subunits in the hippocampus and prefrontal cortex of the flinders sensitive line rat model of depression.",
+   "fonte": "Synapse",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "27449797",
+   "grupo": "MRS",
+   "a1": "Lener MS",
+   "ano": "2017",
+   "titulo": "Glutamate and Gamma-Aminobutyric Acid Systems in the Pathophysiology of Major Depression and Antidepressant Response to Ketamine.",
+   "fonte": "Biol Psychiatry",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Intramural"
+   ]
+  },
+  {
+   "pmid": "27812532",
+   "grupo": "GABA",
+   "a1": "Ghosal S",
+   "ano": "2017",
+   "titulo": "Prefrontal Cortex GABAergic Deficits and Circuit Dysfunction in the Pathophysiology and Treatment of Chronic Stress and Depression.",
+   "fonte": "Curr Opin Behav Sci",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "27821870",
+   "grupo": "ANX",
+   "a1": "Fuchs T",
+   "ano": "2017",
+   "titulo": "Disinhibition of somatostatin-positive GABAergic interneurons results in an anxiolytic and antidepressant-like brain state.",
+   "fonte": "Mol Psychiatry",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "28180078",
+   "grupo": "MRS",
+   "a1": "Houtepen LC",
+   "ano": "2017",
+   "titulo": "Acute stress effects on GABA and glutamate levels in the prefrontal cortex: A 7T (1)H magnetic resonance spectroscopy study.",
+   "fonte": "Neuroimage Clin",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "28234212",
+   "grupo": "AMPA",
+   "a1": "Aleksandrova LR",
+   "ano": "2017",
+   "titulo": "Antidepressant effects of ketamine and the roles of AMPA glutamate receptors and other mechanisms beyond NMDA receptor antagonism.",
+   "fonte": "J Psychiatry Neurosci",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "28439098",
+   "grupo": "NMDA",
+   "a1": "Li SX",
+   "ano": "2018",
+   "titulo": "Uncoupling DAPK1 from NMDA receptor GluN2B subunit exerts rapid antidepressant-like effects.",
+   "fonte": "Mol Psychiatry",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "29158584",
+   "grupo": "PLAST",
+   "a1": "Cavalleri L",
+   "ano": "2018",
+   "titulo": "Ketamine enhances structural plasticity in mouse mesencephalic and human iPSC-derived dopaminergic neurons via AMPAR-driven BDNF and mTOR signaling.",
+   "fonte": "Mol Psychiatry",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "29516301",
+   "grupo": "KET",
+   "a1": "Zanos P",
+   "ano": "2018",
+   "titulo": "Convergent Mechanisms Underlying Rapid Antidepressant Action.",
+   "fonte": "CNS Drugs",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "29532791",
+   "grupo": "KET",
+   "a1": "Zanos P",
+   "ano": "2018",
+   "titulo": "Mechanisms of ketamine action as an antidepressant.",
+   "fonte": "Mol Psychiatry",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "29706992",
+   "grupo": "NMDA",
+   "a1": "Baez MV",
+   "ano": "2018",
+   "titulo": "NMDA Receptor Subunits Change after Synaptic Plasticity Induction and Learning and Memory Acquisition.",
+   "fonte": "Neural Plast",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "29899972",
+   "grupo": "KET",
+   "a1": "Duman RS",
+   "ano": "2018",
+   "titulo": "Ketamine and rapid-acting antidepressants: a new era in the battle against depression and suicide.",
+   "fonte": "F1000Res",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "30144668",
+   "grupo": "MRS",
+   "a1": "Godfrey KEM",
+   "ano": "2018",
+   "titulo": "Differences in excitatory and inhibitory neurotransmitter levels between depressed patients and healthy controls: A systematic review and meta-analysis.",
+   "fonte": "J Psychiatr Res",
+   "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+   ]
+  },
+  {
+   "pmid": "30296532",
+   "grupo": "NMDA",
+   "a1": "Francija E",
+   "ano": "2019",
+   "titulo": "Disruption of the NMDA receptor GluN2A subunit abolishes inflammation-induced depression.",
+   "fonte": "Behav Brain Res",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "30359599",
+   "grupo": "PLAST",
+   "a1": "Diering GH",
+   "ano": "2018",
+   "titulo": "The AMPA Receptor Code of Synaptic Plasticity.",
+   "fonte": "Neuron",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "30523065",
+   "grupo": "GABA",
+   "a1": "Magnin E",
+   "ano": "2019",
+   "titulo": "Input-Specific Synaptic Location and Function of the α5 GABA(A) Receptor Subunit in the Mouse CA1 Hippocampal Neurons.",
+   "fonte": "J Neurosci",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "30851296",
+   "grupo": "IFACE",
+   "a1": "Pham TH",
+   "ano": "2019",
+   "titulo": "Fast-acting antidepressant activity of ketamine: highlights on brain serotonin, glutamate, and GABA neurotransmission in preclinical studies.",
+   "fonte": "Pharmacol Ther",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "30946828",
+   "grupo": "KET",
+   "a1": "Duman RS",
+   "ano": "2019",
+   "titulo": "Altered Connectivity in Depression: GABA and Glutamate Neurotransmitter Deficits and Reversal by Novel Treatments.",
+   "fonte": "Neuron",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "31207274",
+   "grupo": "NMDA",
+   "a1": "Amidfar M",
+   "ano": "2019",
+   "titulo": "The role of NMDA receptor in neurobiology and treatment of major depressive disorder: Evidence from translational research.",
+   "fonte": "Prog Neuropsychopharmacol Biol Psychiatry",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "31212931",
+   "grupo": "GABA",
+   "a1": "Riedemann T",
+   "ano": "2019",
+   "titulo": "Diversity and Function of Somatostatin-Expressing Interneurons in the Cerebral Cortex.",
+   "fonte": "Int J Mol Sci",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "31377218",
+   "grupo": "STR",
+   "a1": "Page CE",
+   "ano": "2019",
+   "titulo": "Prefrontal excitatory/inhibitory balance in stress and emotional disorders: Evidence for over-inhibition.",
+   "fonte": "Neurosci Biobehav Rev",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "31707118",
+   "grupo": "GABA",
+   "a1": "Ghosal S",
+   "ano": "2020",
+   "titulo": "Ketamine rapidly reverses stress-induced impairments in GABAergic transmission in the prefrontal cortex in male rodents.",
+   "fonte": "Neurobiol Dis",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "31830487",
+   "grupo": "KET",
+   "a1": "Deyama S",
+   "ano": "2020",
+   "titulo": "Neurotrophic mechanisms underlying the rapid and sustained antidepressant actions of ketamine.",
+   "fonte": "Pharmacol Biochem Behav",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "31974304",
+   "grupo": "GABA",
+   "a1": "Bryson A",
+   "ano": "2020",
+   "titulo": "GABA-mediated tonic inhibition differentially modulates gain in functional subtypes of cortical interneurons.",
+   "fonte": "Proc Natl Acad Sci U S A",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "32017978",
+   "grupo": "KET",
+   "a1": "Sial OK",
+   "ano": "2020",
+   "titulo": "Ketamine: The final frontier or another depressing end?",
+   "fonte": "Behav Brain Res",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32073397",
+   "grupo": "GABA",
+   "a1": "Booker SA",
+   "ano": "2020",
+   "titulo": "Presynaptic GABA(B) receptors functionally uncouple somatostatin interneurons from the active hippocampal network.",
+   "fonte": "Elife",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "32158215",
+   "grupo": "STR",
+   "a1": "Xu S",
+   "ano": "2020",
+   "titulo": "Chronic Stress in a Rat Model of Depression Disturbs the Glutamine-Glutamate-GABA Cycle in the Striatum, Hippocampus, and Cerebellum.",
+   "fonte": "Neuropsychiatr Dis Treat",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "32277042",
+   "grupo": "ANX",
+   "a1": "Salimando GJ",
+   "ano": "2020",
+   "titulo": "BNST GluN2D-Containing NMDA Receptors Influence Anxiety- and Depressive-like Behaviors and ModulateCell-Specific Excitatory/Inhibitory Synaptic Balance.",
+   "fonte": "J Neurosci",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "32292336",
+   "grupo": "PLAST",
+   "a1": "Purkey AM",
+   "ano": "2020",
+   "titulo": "Phosphorylation-Dependent Regulation of Ca(2+)-Permeable AMPA Receptors During Hippocampal Synaptic Plasticity.",
+   "fonte": "Front Synaptic Neurosci",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "32297184",
+   "grupo": "ANX",
+   "a1": "Yu W",
+   "ano": "2020",
+   "titulo": "Activation of LXRβ Signaling in the Amygdala Confers Anxiolytic Effects Through Rebalancing Excitatory and Inhibitory Neurotransmission upon Acute Stress.",
+   "fonte": "Neurotherapeutics",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "32555286",
+   "grupo": "ANX",
+   "a1": "Xiao Q",
+   "ano": "2021",
+   "titulo": "A new GABAergic somatostatin projection from the BNST onto accumbal parvalbumin neurons controls anxiety.",
+   "fonte": "Mol Psychiatry",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "32619710",
+   "grupo": "MRS",
+   "a1": "Steel A",
+   "ano": "2020",
+   "titulo": "Regional balance between glutamate+glutamine and GABA+ in the resting human brain.",
+   "fonte": "Neuroimage",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "32640261",
+   "grupo": "NMDA",
+   "a1": "Elhussiny MEA",
+   "ano": "2021",
+   "titulo": "Modulation by chronic stress and ketamine of ionotropic AMPA/NMDA and metabotropic glutamate receptors in the rat hippocampus.",
+   "fonte": "Prog Neuropsychopharmacol Biol Psychiatry",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "32754026",
+   "grupo": "AMPA",
+   "a1": "Zhang H",
+   "ano": "2020",
+   "titulo": "Bidirectional Dysregulation of AMPA Receptor-Mediated Synaptic Transmission and Plasticity in Brain Disorders.",
+   "fonte": "Front Synaptic Neurosci",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "32859716",
+   "grupo": "GABA",
+   "a1": "Antonoudiou P",
+   "ano": "2020",
+   "titulo": "Parvalbumin and Somatostatin Interneurons Contribute to the Generation of Hippocampal Gamma Oscillations.",
+   "fonte": "J Neurosci",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "33059355",
+   "grupo": "NMDA",
+   "a1": "Pothula S",
+   "ano": "2021",
+   "titulo": "Positive modulation of NMDA receptors by AGN-241751 exerts rapid antidepressant-like effects via excitatory neurons.",
+   "fonte": "Neuropsychopharmacology",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "33070149",
+   "grupo": "GABA",
+   "a1": "Fogaça MV",
+   "ano": "2021",
+   "titulo": "Inhibition of GABA interneurons in the mPFC is sufficient and necessary for rapid antidepressant responses.",
+   "fonte": "Mol Psychiatry",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "33087756",
+   "grupo": "NMDA",
+   "a1": "Kang M",
+   "ano": "2020",
+   "titulo": "NMDA receptor-dependent long-term depression in the lateral habenula: implications in physiology and depression.",
+   "fonte": "Sci Rep",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "33438026",
+   "grupo": "GABA",
+   "a1": "Fee C",
+   "ano": "2021",
+   "titulo": "Behavioral Deficits Induced by Somatostatin-Positive GABA Neuron Silencing Are Rescued by Alpha 5 GABA-A Receptor Potentiation.",
+   "fonte": "Int J Neuropsychopharmacol",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "33554649",
+   "grupo": "IFACE",
+   "a1": "Sears SM",
+   "ano": "2021",
+   "titulo": "Influence of glutamate and GABA transport on brain excitatory/inhibitory balance.",
+   "fonte": "Exp Biol Med (Maywood)",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "33723767",
+   "grupo": "PLAST",
+   "a1": "Piva A",
+   "ano": "2021",
+   "titulo": "Metaplastic Effects of Ketamine and MK-801 on Glutamate Receptors Expression in Rat Medial Prefrontal Cortex and Hippocampus.",
+   "fonte": "Mol Neurobiol",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33837051",
+   "grupo": "GABA",
+   "a1": "Vereczki VK",
+   "ano": "2021",
+   "titulo": "Total Number and Ratio of GABAergic Neuron Types in the Mouse Lateral and Basal Amygdala.",
+   "fonte": "J Neurosci",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "33843051",
+   "grupo": "NMDA",
+   "a1": "Bieler M",
+   "ano": "2021",
+   "titulo": "Changes in concentrations of NMDA receptor subunit GluN2B, Arc and syntaxin-1 in dorsal hippocampus Schaffer collateral synapses in a rat learned helplessness model of depression.",
+   "fonte": "J Comp Neurol",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "33963284",
+   "grupo": "KET",
+   "a1": "Wei Y",
+   "ano": "2022",
+   "titulo": "Molecular mechanisms underlying the antidepressant actions of arketamine: beyond the NMDA receptor.",
+   "fonte": "Mol Psychiatry",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "33986699",
+   "grupo": "MRS",
+   "a1": "Sarawagi A",
+   "ano": "2021",
+   "titulo": "Glutamate and GABA Homeostasis and Neurometabolism in Major Depressive Disorder.",
+   "fonte": "Front Psychiatry",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "34023450",
+   "grupo": "MRS",
+   "a1": "Rideaux R",
+   "ano": "2021",
+   "titulo": "No balance between glutamate+glutamine and GABA+ in visual or motor cortices of the human brain: A magnetic resonance spectroscopy study.",
+   "fonte": "Neuroimage",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "34322002",
+   "grupo": "GABA",
+   "a1": "Yang SS",
+   "ano": "2021",
+   "titulo": "Prefrontal GABAergic Interneurons Gate Long-Range Afferents to Regulate Prefrontal Cortex-Associated Complex Behaviors.",
+   "fonte": "Front Neural Circuits",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "34354048",
+   "grupo": "MRS",
+   "a1": "Kantrowitz JT",
+   "ano": "2021",
+   "titulo": "Ventromedial prefrontal cortex/anterior cingulate cortex Glx, glutamate, and GABA levels in medication-free major depressive disorder.",
+   "fonte": "Transl Psychiatry",
+   "pubtype": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "34364898",
+   "grupo": "NMDA",
+   "a1": "Chen QY",
+   "ano": "2021",
+   "titulo": "NMDA receptors and synaptic plasticity in the anterior cingulate cortex.",
+   "fonte": "Neuropharmacology",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "34407417",
+   "grupo": "PLAST",
+   "a1": "Lin PY",
+   "ano": "2021",
+   "titulo": "A synaptic locus for TrkB signaling underlying ketamine rapid antidepressant action.",
+   "fonte": "Cell Rep",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "34557569",
+   "grupo": "STR",
+   "a1": "Perlman G",
+   "ano": "2021",
+   "titulo": "Parvalbumin interneuron alterations in stress-related mood disorders: A systematic review.",
+   "fonte": "Neurobiol Stress",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "34565579",
+   "grupo": "PLAST",
+   "a1": "Aleksandrova LR",
+   "ano": "2021",
+   "titulo": "Neuroplasticity as a convergent mechanism of ketamine and classical psychedelics.",
+   "fonte": "Trends Pharmacol Sci",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "34968492",
+   "grupo": "KET",
+   "a1": "Hess EM",
+   "ano": "2022",
+   "titulo": "Mechanisms of ketamine and its metabolites as antidepressants.",
+   "fonte": "Biochem Pharmacol",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, N.I.H., Intramural",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "35182519",
+   "grupo": "KET",
+   "a1": "Scotton E",
+   "ano": "2022",
+   "titulo": "Is (R)-ketamine a potential therapeutic agent for treatment-resistant depression with less detrimental side effects? A review of molecular mechanisms underlying ketamine and its enantiomers.",
+   "fonte": "Biochem Pharmacol",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "35513229",
+   "grupo": "IFACE",
+   "a1": "Zhong H",
+   "ano": "2022",
+   "titulo": "Neonatal inflammation via persistent TGF-β1 downregulation decreases GABA(A)R expression in basolateral amygdala leading to the imbalance of the local excitation-inhibition circuits and anxiety-like phenotype in adult mice.",
+   "fonte": "Neurobiol Dis",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "35526748",
+   "grupo": "MRS",
+   "a1": "Rideaux R",
+   "ano": "2022",
+   "titulo": "On the relationship between GABA+ and glutamate across the brain.",
+   "fonte": "Neuroimage",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "35546951",
+   "grupo": "KET",
+   "a1": "Kang MJY",
+   "ano": "2022",
+   "titulo": "The Mechanisms Behind Rapid Antidepressant Effects of Ketamine: A Systematic Review With a Focus on Molecular Neuroplasticity.",
+   "fonte": "Front Psychiatry",
+   "pubtype": [
+    "Systematic Review",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36184627",
+   "grupo": "GABA",
+   "a1": "Wen Y",
+   "ano": "2022",
+   "titulo": "Glutamate and GABA(A) receptor crosstalk mediates homeostatic regulation of neuronal excitation in the mammalian brain.",
+   "fonte": "Signal Transduct Target Ther",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "36596696",
+   "grupo": "NMDA",
+   "a1": "Zanos P",
+   "ano": "2023",
+   "titulo": "NMDA Receptor Activation-Dependent Antidepressant-Relevant Behavioral and Synaptic Actions of Ketamine.",
+   "fonte": "J Neurosci",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ]
+  },
+  {
+   "pmid": "36725341",
+   "grupo": "GABA",
+   "a1": "Lu X",
+   "ano": "2023",
+   "titulo": "Allopregnanolone Effects on Inhibition in Hippocampal Parvalbumin Interneurons.",
+   "fonte": "eNeuro",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "36907686",
+   "grupo": "PLAST",
+   "a1": "Kim JW",
+   "ano": "2023",
+   "titulo": "Bridging rapid and sustained antidepressant effects of ketamine.",
+   "fonte": "Trends Mol Med",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "37035504",
+   "grupo": "ANX",
+   "a1": "Singh S",
+   "ano": "2023",
+   "titulo": "Inhibitory circuits in fear memory and fear-related disorders.",
+   "fonte": "Front Neural Circuits",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "37101797",
+   "grupo": "GABA",
+   "a1": "Du Y",
+   "ano": "2023",
+   "titulo": "Genetic inhibition of glutamate allosteric potentiation of GABA(A)Rs in mice results in hyperexcitability, leading to neurobehavioral abnormalities.",
+   "fonte": "MedComm (2020)",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "37124348",
+   "grupo": "AMPA",
+   "a1": "He JG",
+   "ano": "2023",
+   "titulo": "Dysfunction of Glutamatergic Synaptic Transmission in Depression: Focus on AMPA Receptor Trafficking.",
+   "fonte": "Biol Psychiatry Glob Open Sci",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "37294327",
+   "grupo": "ANX",
+   "a1": "Abraham M",
+   "ano": "2023",
+   "titulo": "Maternal separation and its developmental consequences on anxiety and parvalbumin interneurons in the amygdala.",
+   "fonte": "J Neural Transm (Vienna)",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "37358072",
+   "grupo": "AMPA",
+   "a1": "Zaytseva A",
+   "ano": "2023",
+   "titulo": "Ketamine's rapid antidepressant effects are mediated by Ca(2+)-permeable AMPA receptors.",
+   "fonte": "Elife",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "37419688",
+   "grupo": "PLAST",
+   "a1": "Guntupalli S",
+   "ano": "2023",
+   "titulo": "Ubiquitination of the GluA1 Subunit of AMPA Receptors Is Required for Synaptic Plasticity, Memory, and Cognitive Flexibility.",
+   "fonte": "J Neurosci",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "37488280",
+   "grupo": "KET",
+   "a1": "Krystal JH",
+   "ano": "2024",
+   "titulo": "Ketamine and rapid antidepressant action: new treatments and novel synaptic signaling mechanisms.",
+   "fonte": "Neuropsychopharmacology",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ]
+  },
+  {
+   "pmid": "37495889",
+   "grupo": "MRS",
+   "a1": "Hu YT",
+   "ano": "2023",
+   "titulo": "Brain-wide changes in excitation-inhibition balance of major depressive disorder: a systematic review of topographic patterns of GABA- and glutamatergic alterations.",
+   "fonte": "Mol Psychiatry",
+   "pubtype": [
+    "Systematic Review",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "37709943",
+   "grupo": "GABA",
+   "a1": "Thompson SM",
+   "ano": "2024",
+   "titulo": "Modulators of GABA(A) receptor-mediated inhibition in the treatment of neuropsychiatric disorders: past, present, and future.",
+   "fonte": "Neuropsychopharmacology",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "38177353",
+   "grupo": "PLAST",
+   "a1": "Brown KA",
+   "ano": "2024",
+   "titulo": "Targeting metaplasticity mechanisms to promote sustained antidepressant actions.",
+   "fonte": "Mol Psychiatry",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "38586282",
+   "grupo": "IFACE",
+   "a1": "Rezaei S",
+   "ano": "2024",
+   "titulo": "LPS-induced inflammation reduces GABAergic interneuron markers and brain-derived neurotrophic factor in mouse prefrontal cortex and hippocampus.",
+   "fonte": "Brain Behav Immun Health",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "38796850",
+   "grupo": "ANX",
+   "a1": "Volitaki E",
+   "ano": "2024",
+   "titulo": "Activity of ventral hippocampal parvalbumin interneurons during anxiety.",
+   "fonte": "Cell Rep",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "38865810",
+   "grupo": "ANX",
+   "a1": "Arora I",
+   "ano": "2024",
+   "titulo": "GABAergic implications in anxiety and related disorders.",
+   "fonte": "Biochem Biophys Res Commun",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "39086371",
+   "grupo": "ANX",
+   "a1": "Mitten EH",
+   "ano": "2024",
+   "titulo": "Stress-induced anxiety-related behavior in mice is driven by enhanced excitability of ventral tegmental area GABA neurons.",
+   "fonte": "Front Behav Neurosci",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "39116687",
+   "grupo": "KET",
+   "a1": "Yun JY",
+   "ano": "2024",
+   "titulo": "Neural correlates of treatment response to ketamine for treatment-resistant depression: A systematic review of MRI-based studies.",
+   "fonte": "Psychiatry Res",
+   "pubtype": [
+    "Systematic Review",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "39150032",
+   "grupo": "MRS",
+   "a1": "Mamelak M",
+   "ano": "2024",
+   "titulo": "Depression and the Glutamate/GABA-Glutamine Cycle.",
+   "fonte": "Curr Neuropharmacol",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "39185814",
+   "grupo": "NMDA",
+   "a1": "Wang G",
+   "ano": "2024",
+   "titulo": "GluN2A: A Promising Target for Developing Novel Antidepressants.",
+   "fonte": "Int J Neuropsychopharmacol",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "39362860",
+   "grupo": "STR",
+   "a1": "Tao C",
+   "ano": "2024",
+   "titulo": "Excitation-inhibition imbalance in medial preoptic area circuits underlies chronic stress-induced depression-like states.",
+   "fonte": "Nat Commun",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "39483976",
+   "grupo": "MRS",
+   "a1": "Hu L",
+   "ano": "2024",
+   "titulo": "Characterization of GABAergic marker expression in prefrontal cortex in dexamethasone induced depression/anxiety model.",
+   "fonte": "Front Endocrinol (Lausanne)",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "39562042",
+   "grupo": "NMDA",
+   "a1": "Storey GP",
+   "ano": "2025",
+   "titulo": "Activity-Dependent Internalization of Glun2B-Containing NMDARs Is Required for Synaptic Incorporation of Glun2A and Synaptic Plasticity.",
+   "fonte": "J Neurosci",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "39684808",
+   "grupo": "PLAST",
+   "a1": "Pardossi S",
+   "ano": "2024",
+   "titulo": "Variations in BDNF and Their Role in the Neurotrophic Antidepressant Mechanisms of Ketamine and Esketamine: A Review.",
+   "fonte": "Int J Mol Sci",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "39770460",
+   "grupo": "NMDA",
+   "a1": "Comai S",
+   "ano": "2024",
+   "titulo": "N-methyl-D-aspartate Receptors and Depression: Linking Psychopharmacology, Pathology and Physiology in a Unifying Hypothesis for the Epigenetic Code of Neural Plasticity.",
+   "fonte": "Pharmaceuticals (Basel)",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "40199850",
+   "grupo": "MRS",
+   "a1": "Steinholtz L",
+   "ano": "2025",
+   "titulo": "Alterations in gamma-aminobutyric acid and glutamate neurotransmission linked to intermittent theta-burst stimulation in depression: a sham-controlled study.",
+   "fonte": "Transl Psychiatry",
+   "pubtype": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "40581655",
+   "grupo": "STR",
+   "a1": "Ryazantseva M",
+   "ano": "2025",
+   "titulo": "Parvalbumin interneurons gate amygdala excitability and response to chronic stress via kainate receptor-driven tonic GABA(B) receptor-mediated inhibition.",
+   "fonte": "Mol Psychiatry",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "40840695",
+   "grupo": "KET",
+   "a1": "Freudenberg F",
+   "ano": "2025",
+   "titulo": "All roads lead to glutamate: NMDA and AMPA receptors as targets for rapid-acting antidepressants.",
+   "fonte": "Pharmacol Res",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41139588",
+   "grupo": "KET",
+   "a1": "Serretti A",
+   "ano": "2025",
+   "titulo": "Rapid-acting NMDA and GABAergic Modulators in Mood Disorders: From Synaptic Mechanisms to Clinical Practice.",
+   "fonte": "Clin Psychopharmacol Neurosci",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41475562",
+   "grupo": "KET",
+   "a1": "Le GH",
+   "ano": "2026",
+   "titulo": "A systematic review of ketamine and esketamine-induced long-term potentiation and synaptic scaling: Do the molecular and synaptic plasticity effects inform dosing intervals?",
+   "fonte": "J Affect Disord",
+   "pubtype": [
+    "Journal Article",
+    "Systematic Review"
+   ]
+  },
+  {
+   "pmid": "41577431",
+   "grupo": "KET",
+   "a1": "Le GH",
+   "ano": "2026",
+   "titulo": "Modulating tonic NMDA receptor currents: mechanistic insights into ketamine, esketamine, and dextromethorphan for major depressive disorder and implications for the discovery and development of investigational agents.",
+   "fonte": "Expert Opin Ther Targets",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "41607072",
+   "grupo": "KET",
+   "a1": "Lu A",
+   "ano": "2026",
+   "titulo": "Is the antidepressant efficacy of ketamine and esketamine mediated via opioid mechanisms?",
+   "fonte": "Eur Psychiatry",
+   "pubtype": [
+    "Journal Article",
+    "Systematic Review"
+   ]
+  },
+  {
+   "pmid": "41781722",
+   "grupo": "AMPA",
+   "a1": "Nakajima W",
+   "ano": "2026",
+   "titulo": "The dynamics of AMPA receptors underlies the efficacy of ketamine in treatment resistant patients with depression.",
+   "fonte": "Mol Psychiatry",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41923438",
+   "grupo": "KET",
+   "a1": "van Hoogdalem MW",
+   "ano": "2026",
+   "titulo": "Esketamine Nasal Spray: Mechanism of Action, Clinical, and Translational Science.",
+   "fonte": "Clin Transl Sci",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "42250487",
+   "grupo": "MRS",
+   "a1": "Yoshihara Y",
+   "ano": "2026",
+   "titulo": "Age-dependent alterations in anterior cingulate excitation-inhibition balance in major depressive disorder revealed by 7-Tesla magnetic resonance spectroscopy.",
+   "fonte": "Neuroimage Clin",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "42278495",
+   "grupo": "IFACE",
+   "a1": "Zielińska E",
+   "ano": "2026",
+   "titulo": "GABA-Producing Bacteria as Potential Psychobiotics in Gut-Brain Axis Regulation.",
+   "fonte": "Int J Mol Sci",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ]
+  },
+  {
+   "pmid": "42362547",
+   "grupo": "STR",
+   "a1": "Wu J",
+   "ano": "2026",
+   "titulo": "A dual-pathway dysregulation in prefrontal-habenular circuits mediates stress susceptibility.",
+   "fonte": "Nat Commun",
+   "pubtype": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "42515873",
+   "grupo": "KET",
+   "a1": "Śledzikowska Z",
+   "ano": "2026",
+   "titulo": "Esketamine in Treatment-Resistant Depression: Clinical and Translational Perspectives.",
+   "fonte": "Curr Neuropharmacol",
+   "pubtype": [
+    "Journal Article"
+   ]
+  }
+ ]
+}

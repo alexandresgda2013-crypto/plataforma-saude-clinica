@@ -1,0 +1,106 @@
+{
+  "trilha": 97,
+  "data": "2026-09-25",
+  "objeto": "ciclo_kit_minuta_schema_claim_v13",
+  "minuta_sha": "c29abb260673aa26cb29d79b7ef0a6249151ef721d0ea7f766682f41a4fc4e36",
+  "total": 13,
+  "ok": 13,
+  "resultado": [
+    {
+      "id": "T1",
+      "descricao": "minuta existe; declara escopo somente-v1.2",
+      "ok": true,
+      "detalhe": {
+        "bytes": 7527
+      }
+    },
+    {
+      "id": "T2",
+      "descricao": "baseline v1.2 inalterada",
+      "ok": true,
+      "detalhe": {
+        "sha": "56dc0e94cc2e2983384190706bc00977db38f82d4d2663c1c4eca533683b0e79"
+      }
+    },
+    {
+      "id": "T3",
+      "descricao": "contrato vigente é a base normativa da minuta",
+      "ok": true,
+      "detalhe": {
+        "sha_contrato": "841532dad13cd3fea1356c9e23e37067e78876685db52d3c1f2cd8b2a96e535c"
+      }
+    },
+    {
+      "id": "T4",
+      "descricao": "P-K1 enum exato do v3.1 (3 valores)",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T5",
+      "descricao": "P-K2 tipos exatos do contrato",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T6",
+      "descricao": "P-K3 fonte única: nota/moderadores/sentido proibidos",
+      "ok": true,
+      "detalhe": {
+        "proibicoes": 3
+      }
+    },
+    {
+      "id": "T7",
+      "descricao": "P-K5 enum idêntico ao N2 (5 valores)",
+      "ok": true,
+      "detalhe": {
+        "n2_enum": [
+          "muito_estabelecido",
+          "bem_suportado",
+          "moderadamente_suportado",
+          "emergente",
+          "hipotese_inicial"
+        ]
+      }
+    },
+    {
+      "id": "T8",
+      "descricao": "proibições R-1 (4 defaults) presentes",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T9",
+      "descricao": "inverte não materializa (P-K6) no kit",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T10",
+      "descricao": "moderadores v1.2 preservados",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T11",
+      "descricao": "validadores V-K1..V-K5 declarados",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T12",
+      "descricao": "migração sem reescrita retroativa + falha dura",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T13",
+      "descricao": "campos v1.2 preservados",
+      "ok": true,
+      "detalhe": {
+        "faltando": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,1762 @@
+{
+ "data": "2026-09-11",
+ "bib": "B08",
+ "arquivo": "/home/user/BIBLIOTECAS/B08_Micronutrientes/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json",
+ "backup": "/home/user/BIBLIOTECAS/B08_Micronutrientes/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json.bak_20260911_173048",
+ "bloq_pre": 333,
+ "bloq_pos": 83,
+ "residual_schema": 83,
+ "decisoes": "DECISOES_HARMONIZACAO_SCHEMA_2026-09-11.md",
+ "alteracoes": [
+  {
+   "id_vinculo": "VINC_B8_001",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_001",
+   "campo": "forca_causal",
+   "de": "tier_2_intervencao_humana",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_002",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_002",
+   "campo": "forca_causal",
+   "de": "tier_2_meta_analise",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_003",
+   "campo": "natureza_relacao",
+   "de": "refutadora",
+   "para": "nao_estabelecida",
+   "regra": "D3"
+  },
+  {
+   "id_vinculo": "VINC_B8_003",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_003",
+   "campo": "forca_causal",
+   "de": "tier_2_intervencao_humana",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_004",
+   "campo": "natureza_relacao",
+   "de": "refutadora",
+   "para": "nao_estabelecida",
+   "regra": "D3"
+  },
+  {
+   "id_vinculo": "VINC_B8_004",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_004",
+   "campo": "forca_causal",
+   "de": "tier_2_intervencao_humana",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_005",
+   "campo": "natureza_relacao",
+   "de": "refutadora",
+   "para": "nao_estabelecida",
+   "regra": "D3"
+  },
+  {
+   "id_vinculo": "VINC_B8_005",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_005",
+   "campo": "forca_causal",
+   "de": "tier_2_meta_analise",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_006",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_006",
+   "campo": "forca_causal",
+   "de": "tier_2_meta_analise",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_007",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_007",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_007",
+   "campo": "forca_causal",
+   "de": "tier_2_meta_analise",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_008",
+   "campo": "natureza_relacao",
+   "de": "refutadora",
+   "para": "nao_estabelecida",
+   "regra": "D3"
+  },
+  {
+   "id_vinculo": "VINC_B8_008",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_008",
+   "campo": "forca_causal",
+   "de": "tier_2_meta_analise",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_009",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_009",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_009",
+   "campo": "forca_causal",
+   "de": "tier_2_intervencao_humana",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_010",
+   "campo": "status_referencia",
+   "de": "PARCIAL",
+   "para": "TRIADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_010",
+   "campo": "grau_maturidade",
+   "de": "incipiente",
+   "para": "emergente",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_010",
+   "campo": "forca_causal",
+   "de": "tier_2_intervencao_humana",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_011",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_011",
+   "campo": "forca_causal",
+   "de": "tier_3_mecanistico_animal",
+   "para": "tier_3_correlacional_mecanistico",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_012",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_012",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_012",
+   "campo": "forca_causal",
+   "de": "tier_3_mecanistico_animal",
+   "para": "tier_3_correlacional_mecanistico",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_013",
+   "campo": "natureza_relacao",
+   "de": "descritiva",
+   "para": "contributiva",
+   "regra": "D3"
+  },
+  {
+   "id_vinculo": "VINC_B8_013",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_014",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_014",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_014",
+   "campo": "forca_causal",
+   "de": "tier_4_observacional_transversal",
+   "para": "tier_4_descritivo_estrutural",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_015",
+   "campo": "natureza_relacao",
+   "de": "refutadora",
+   "para": "nao_estabelecida",
+   "regra": "D3"
+  },
+  {
+   "id_vinculo": "VINC_B8_015",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_015",
+   "campo": "forca_causal",
+   "de": "tier_4_observacional_transversal",
+   "para": "tier_4_descritivo_estrutural",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_016",
+   "campo": "status_referencia",
+   "de": "PARCIAL",
+   "para": "TRIADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_016",
+   "campo": "grau_maturidade",
+   "de": "incipiente",
+   "para": "emergente",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_016",
+   "campo": "forca_causal",
+   "de": "tier_2_meta_analise",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_017",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_017",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_017",
+   "campo": "forca_causal",
+   "de": "tier_2_intervencao_humana",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_018",
+   "campo": "status_referencia",
+   "de": "PARCIAL",
+   "para": "TRIADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_019",
+   "campo": "status_referencia",
+   "de": "PARCIAL",
+   "para": "TRIADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_020",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_020",
+   "campo": "forca_causal",
+   "de": "tier_2_meta_analise",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_021",
+   "campo": "natureza_relacao",
+   "de": "descritiva",
+   "para": "contributiva",
+   "regra": "D3"
+  },
+  {
+   "id_vinculo": "VINC_B8_021",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_022",
+   "campo": "natureza_relacao",
+   "de": "descritiva",
+   "para": "contributiva",
+   "regra": "D3"
+  },
+  {
+   "id_vinculo": "VINC_B8_022",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_023",
+   "campo": "status_referencia",
+   "de": "PARCIAL",
+   "para": "TRIADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_023",
+   "campo": "grau_maturidade",
+   "de": "incipiente",
+   "para": "emergente",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_023",
+   "campo": "forca_causal",
+   "de": "tier_4_observacional_transversal",
+   "para": "tier_4_descritivo_estrutural",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_024",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_024",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_024",
+   "campo": "forca_causal",
+   "de": "tier_2_meta_analise",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_025",
+   "campo": "natureza_relacao",
+   "de": "refutadora",
+   "para": "nao_estabelecida",
+   "regra": "D3"
+  },
+  {
+   "id_vinculo": "VINC_B8_025",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_025",
+   "campo": "forca_causal",
+   "de": "tier_2_meta_analise",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_026",
+   "campo": "status_referencia",
+   "de": "PARCIAL",
+   "para": "TRIADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_026",
+   "campo": "grau_maturidade",
+   "de": "incipiente",
+   "para": "emergente",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_026",
+   "campo": "forca_causal",
+   "de": "tier_2_revisao_sistematica",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_027",
+   "campo": "status_referencia",
+   "de": "PARCIAL",
+   "para": "TRIADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_027",
+   "campo": "grau_maturidade",
+   "de": "incipiente",
+   "para": "emergente",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_027",
+   "campo": "forca_causal",
+   "de": "tier_2_meta_analise",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_028",
+   "campo": "natureza_relacao",
+   "de": "descritiva",
+   "para": "associativa",
+   "regra": "D3"
+  },
+  {
+   "id_vinculo": "VINC_B8_028",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_029",
+   "campo": "natureza_relacao",
+   "de": "refutadora",
+   "para": "nao_estabelecida",
+   "regra": "D3"
+  },
+  {
+   "id_vinculo": "VINC_B8_029",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_029",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_029",
+   "campo": "forca_causal",
+   "de": "tier_2_meta_analise",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_030",
+   "campo": "natureza_relacao",
+   "de": "descritiva",
+   "para": "associativa",
+   "regra": "D3"
+  },
+  {
+   "id_vinculo": "VINC_B8_030",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_030",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_030",
+   "campo": "forca_causal",
+   "de": "tier_2_meta_analise",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_031",
+   "campo": "natureza_relacao",
+   "de": "descritiva",
+   "para": "contributiva",
+   "regra": "D3"
+  },
+  {
+   "id_vinculo": "VINC_B8_031",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_032",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_032",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_032",
+   "campo": "forca_causal",
+   "de": "tier_2_intervencao_humana",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_033",
+   "campo": "natureza_relacao",
+   "de": "descritiva",
+   "para": "contributiva",
+   "regra": "D3"
+  },
+  {
+   "id_vinculo": "VINC_B8_033",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_034",
+   "campo": "status_referencia",
+   "de": "PARCIAL",
+   "para": "TRIADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_034",
+   "campo": "grau_maturidade",
+   "de": "incipiente",
+   "para": "emergente",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_034",
+   "campo": "forca_causal",
+   "de": "tier_4_observacional_transversal",
+   "para": "tier_4_descritivo_estrutural",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_035",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_035",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_036",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_036",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_037",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_037",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_038",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_038",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_039",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_039",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_039",
+   "campo": "forca_causal",
+   "de": "tier_2_meta_analise",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_039",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_040",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_040",
+   "campo": "forca_causal",
+   "de": "tier_2_meta_analise",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_040",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_041",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_041",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_042",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_042",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_043",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_043",
+   "campo": "grau_maturidade",
+   "de": "incipiente",
+   "para": "emergente",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_043",
+   "campo": "forca_causal",
+   "de": "tier_4_observacional_transversal",
+   "para": "tier_4_descritivo_estrutural",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_043",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_044",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_044",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_044",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_045",
+   "campo": "natureza_relacao",
+   "de": "refutadora",
+   "para": "nao_estabelecida",
+   "regra": "D3"
+  },
+  {
+   "id_vinculo": "VINC_B8_045",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_045",
+   "campo": "forca_causal",
+   "de": "tier_2_revisao_sistematica",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_045",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_046",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_046",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_046",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_047",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_047",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_048",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_048",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_048",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_049",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_049",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_049",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_050",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_050",
+   "campo": "grau_maturidade",
+   "de": "incipiente",
+   "para": "emergente",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_050",
+   "campo": "forca_causal",
+   "de": "tier_4_observacional_transversal",
+   "para": "tier_4_descritivo_estrutural",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_050",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_051",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_051",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_051",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_052",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_052",
+   "campo": "grau_maturidade",
+   "de": "incipiente",
+   "para": "emergente",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_052",
+   "campo": "forca_causal",
+   "de": "tier_4_observacional_transversal",
+   "para": "tier_4_descritivo_estrutural",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_052",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_053",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_053",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_053",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_054",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_054",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_054",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_055",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_055",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_055",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_056",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_056",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_056",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_057",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_057",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_057",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_058",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_058",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_058",
+   "campo": "forca_causal",
+   "de": "tier_2_revisao_sistematica",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_058",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_059",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_059",
+   "campo": "grau_maturidade",
+   "de": "incipiente",
+   "para": "emergente",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_059",
+   "campo": "forca_causal",
+   "de": "tier_4_observacional_transversal",
+   "para": "tier_4_descritivo_estrutural",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_059",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_060",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_060",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_060",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_061",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_061",
+   "campo": "grau_maturidade",
+   "de": "incipiente",
+   "para": "emergente",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_061",
+   "campo": "forca_causal",
+   "de": "tier_4_observacional_transversal",
+   "para": "tier_4_descritivo_estrutural",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_061",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_062",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_062",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_062",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_063",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_063",
+   "campo": "grau_maturidade",
+   "de": "incipiente",
+   "para": "emergente",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_063",
+   "campo": "forca_causal",
+   "de": "tier_4_observacional_transversal",
+   "para": "tier_4_descritivo_estrutural",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_063",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_064",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_064",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_064",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_065",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_065",
+   "campo": "grau_maturidade",
+   "de": "incipiente",
+   "para": "emergente",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_065",
+   "campo": "forca_causal",
+   "de": "tier_4_observacional_transversal",
+   "para": "tier_4_descritivo_estrutural",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_065",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_066",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_066",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_066",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_067",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_067",
+   "campo": "grau_maturidade",
+   "de": "incipiente",
+   "para": "emergente",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_067",
+   "campo": "forca_causal",
+   "de": "tier_4_observacional_transversal",
+   "para": "tier_4_descritivo_estrutural",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_067",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_068",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_068",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_068",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_069",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_069",
+   "campo": "grau_maturidade",
+   "de": "incipiente",
+   "para": "emergente",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_069",
+   "campo": "forca_causal",
+   "de": "tier_4_observacional_transversal",
+   "para": "tier_4_descritivo_estrutural",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_069",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_070",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_070",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_070",
+   "campo": "forca_causal",
+   "de": "tier_4_observacional_transversal",
+   "para": "tier_4_descritivo_estrutural",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_070",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_071",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_071",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_071",
+   "campo": "forca_causal",
+   "de": "tier_2_revisao_sistematica",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_071",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_072",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_072",
+   "campo": "grau_maturidade",
+   "de": "incipiente",
+   "para": "emergente",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_072",
+   "campo": "forca_causal",
+   "de": "tier_4_observacional_transversal",
+   "para": "tier_4_descritivo_estrutural",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_072",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_073",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_073",
+   "campo": "grau_maturidade",
+   "de": "incipiente",
+   "para": "emergente",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_073",
+   "campo": "forca_causal",
+   "de": "tier_4_observacional_transversal",
+   "para": "tier_4_descritivo_estrutural",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_073",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_074",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_074",
+   "campo": "grau_maturidade",
+   "de": "incipiente",
+   "para": "emergente",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_074",
+   "campo": "forca_causal",
+   "de": "tier_4_observacional_transversal",
+   "para": "tier_4_descritivo_estrutural",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_074",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_075",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_075",
+   "campo": "grau_maturidade",
+   "de": "incipiente",
+   "para": "emergente",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_075",
+   "campo": "forca_causal",
+   "de": "tier_4_observacional_transversal",
+   "para": "tier_4_descritivo_estrutural",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_075",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_076",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_076",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_077",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_077",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_077",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_078",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_078",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_078",
+   "campo": "forca_causal",
+   "de": "tier_2_meta_analise",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_078",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_079",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_079",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_079",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_080",
+   "campo": "natureza_relacao",
+   "de": "refutadora",
+   "para": "nao_estabelecida",
+   "regra": "D3"
+  },
+  {
+   "id_vinculo": "VINC_B8_080",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_080",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_080",
+   "campo": "forca_causal",
+   "de": "tier_2_meta_analise",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_080",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_081",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_081",
+   "campo": "grau_maturidade",
+   "de": "incipiente",
+   "para": "emergente",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_081",
+   "campo": "forca_causal",
+   "de": "tier_4_observacional_transversal",
+   "para": "tier_4_descritivo_estrutural",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_081",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_082",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_082",
+   "campo": "grau_maturidade",
+   "de": "moderado_suportado",
+   "para": "moderadamente_suportado",
+   "regra": "D4"
+  },
+  {
+   "id_vinculo": "VINC_B8_082",
+   "campo": "forca_causal",
+   "de": "tier_2_revisao_sistematica",
+   "para": "tier_2_necessidade_ou_suficiencia",
+   "regra": "D5-AT12"
+  },
+  {
+   "id_vinculo": "VINC_B8_082",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  },
+  {
+   "id_vinculo": "VINC_B8_083",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B8_083",
+   "campo": "g3_verificado_por",
+   "de": "mista→assinatura",
+   "para": "",
+   "regra": "D8"
+  }
+ ]
+}

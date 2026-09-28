@@ -1,0 +1,87 @@
+{
+  "artefato_rotulo": "CANONICA v2",
+  "mecanismo_id": "mecanismo_B13_sistema_endocanabinoide",
+  "rodada": 4,
+  "data_corte": "2026-09-09",
+  "prompt": "v4.2",
+  "pmids_total": 207,
+  "g1": {
+    "metodo": "eutils_automatico",
+    "resolvidos": 167
+  },
+  "g2": {
+    "eligible": 142,
+    "redirecionado_mecanistico": 16
+  },
+  "g3": {
+    "vinculos_n2": 207
+  },
+  "versao": "2.6",
+  "pipeline_versao_geracao": "2.6",
+  "corte_literatura": "E-utilities/PubMed 2026-09-09 (rodada [AT])",
+  "historico_correcoes": [
+    {
+      "data": "2026-09-07",
+      "campo": "geracao B13",
+      "correcao": "167/167 PMIDs; SEC endógeno; bifasicidade; FAAH nulo; risco adolescencial",
+      "acao_downstream": "P-6"
+    },
+    {
+      "data": "2026-09-09",
+      "campo": "rodada [AT] GPM B13",
+      "correcao": "ENTRA 40 (18 âncoras+22 selecionados) / BAIXO 19 / EXC 4. 6 chaves divergentes com alias; falso mapeamento Spohrs2021→vídeo neurocirúrgico EXC; Segev real localizado (falso par Șerban); [G1] McWhirter/Zabik-RCT/Spohrs-publicado RESOLVIDOS; Ibarra-Lecue já vigente; anos=print (Garani 2021, Warren 2022, Morena 2019, GoldsteinFerber 2021, Lu 2021, Ribeiro 2021, Uzuneser 2023).",
+      "acao_downstream": "P-6 ampliado p/ levas [AT] B1–B16"
+    }
+  ],
+  "pendencias_fase": [
+    "P-6 (2ª verificação cega, Via 2) pendente — cobre B1–B16 incluindo levas [AT]"
+  ],
+  "alteracoes": [
+    {
+      "data": "2026-09-11",
+      "id": "HARMONIZA-CONTRATO-2026-09-11",
+      "tipo": "harmonizacao_vocabulario_contrato",
+      "o_que": "207 status (D1); 118 g2 eligible_source→eligible (D7); 24 verification_status (D6); 49 g2 'nao_aplicavel' MANTIDOS como extensão declarada (D7 — proposta SCHEMA v2).",
+      "base": "DECISOES_HARMONIZACAO_SCHEMA_2026-09-11.md (D1–D9); trilhas producao/06_harmoniza_* e 07_ancoras_*; backups .bak datados; portões verdes"
+    },
+    {
+      "id": "DISTRIBUICAO-MOD09-MA-EC-2026-09-11",
+      "data": "2026-09-11",
+      "tipo": "metadado/reorganizacao_modulo_09 — CIENCIA NAO TOCADA (0 linhas de canônica)",
+      "lei_aplicada": "PROMPT v4.2 instrução final de geração: [MA]->02_meta_analises.json, [EC]->03_ensaios_clinicos.json; id único global (validar_auditoria.py) — distribuição especificada desde a geração, executada nesta data",
+      "mudancas": {
+        "fichas_removidas_de_01": 24,
+        "fichas_para_02_meta_analises": 15,
+        "fichas_para_03_ensaios_clinicos": 9,
+        "fichas_restantes_em_01": 183
+      },
+      "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+      "campos_de_dado_alterados": "NENHUM (id, pmid, título, achados intactos); somente casa do registro + campos de schema 09.2 (bloco_origem derivado de secao quando ausente, marcado; forca_evidencia_afirmacao replicado ou '' — vazio = dívida nomeada, nunca fabricado) + sinais_classificacao + migrado_em",
+      "dividas_nomeadas": [
+        "forca_evidencia_afirmacao vazio nas migradas sem valor prévio",
+        "conflitos tag×título [REVISAVEL]: 4",
+        "tag [EC] amplo sem sinal RCT — NÃO migrados (09.3 = RCT estrito), ratificação externa: 41"
+      ],
+      "trilha": "atuais/producao/09_distribuicao_MA_EC_B13_2026-09-11.json",
+      "changelog": "BIBLIOTECAS/CHANGELOG_GERAL.md 2026-09-11",
+      "consolidado_motor": "BIBLIOTECAS/MOTOR_CLINICO/ (evidencias_ma_serie.json, evidencias_ec_serie.json)",
+      "backups": "01/02/03*.bak_<AAAAMMDD_HHMMSS> na mesma pasta"
+    },
+    {
+      "data": "2026-09-13",
+      "tipo": "correcao_factual_pontual",
+      "descricao": "Trilha 01 rename Saito (família-Hafizi): token SAITO_1999→SAITO_2010; sha canônica anterior→novo registrados na trilha.",
+      "trilha": "producao/01_rename_saito_1999_2010_2026-09-13.json"
+    }
+  ],
+  "vocabulario_estendido_declarado": {
+    "data": "2026-09-11",
+    "status": "VIGENTE — pendente ratificação SCHEMA v2",
+    "campo": {
+      "g2_elegibilidade": [
+        "nao_aplicavel (49 registros) — sem equivalente fiel no enum oficial; proposta: estender o enum (D7)"
+      ]
+    },
+    "nota": "declaração E-family: aviso nomeado, nunca silenciado; valor NÃO remapeado por honestidade semântica"
+  }
+}

@@ -1,0 +1,452 @@
+[
+ {
+  "pmid_oficial": "24336428",
+  "titulo_artigo": "Depression and oxidative stress: results from a meta-analysis of observational studies.",
+  "autores": [
+   "Palta P",
+   "Samuel LJ",
+   "Miller ER 3rd",
+   "Szanton SL"
+  ],
+  "revista_ano": "Psychosom Med 2014",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_PALTA_2014"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_PALTA_2014",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "PALTA",
+   "Palta"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B6_estresse_oxidativo",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "25462890",
+  "titulo_artigo": "Is depression associated with increased oxidative stress? A systematic review and meta-analysis.",
+  "autores": [
+   "Black CN",
+   "Bot M",
+   "Scheffer PG",
+   "Cuijpers P"
+  ],
+  "revista_ano": "Psychoneuroendocrinology 2015",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BLACK_2015"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_BLACK_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Black",
+   "BLACK"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B6_estresse_oxidativo",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "26579881",
+  "titulo_artigo": "Oxidative stress and antioxidant parameters in patients with major depressive disorder compared to healthy controls before and after antidepressant treatment: results from a meta-analysis.",
+  "autores": [
+   "Jiménez-Fernández S",
+   "Gurpegui M",
+   "Díaz-Atienza F",
+   "Pérez-Costillas L"
+  ],
+  "revista_ano": "J Clin Psychiatry 2015",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_JIMENEZFERNANDEZ_2015"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_JIMENEZFERNANDEZ_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Jimenezfernandez",
+   "JIMENEZFERNANDEZ"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B6_estresse_oxidativo",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "27137430",
+  "titulo_artigo": "N-Acetylcysteine in depressive symptoms and functionality: a systematic review and meta-analysis.",
+  "autores": [
+   "Fernandes BS",
+   "Dean OM",
+   "Dodd S",
+   "Malhi GS"
+  ],
+  "revista_ano": "J Clin Psychiatry 2016",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_FERNANDES_2016"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_FERNANDES_2016",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Fernandes",
+   "FERNANDES"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B6_estresse_oxidativo",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "31383846",
+  "titulo_artigo": "Efficacy of omega-3 PUFAs in depression: A meta-analysis.",
+  "autores": [
+   "Liao Y",
+   "Xie B",
+   "Zhang H",
+   "He Q"
+  ],
+  "revista_ano": "Transl Psychiatry 2019",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_LIAO_2019"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LIAO_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Liao",
+   "LIAO"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B6_estresse_oxidativo",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "32767039",
+  "titulo_artigo": "N-acetylcysteine as an adjunctive treatment for bipolar depression and major depressive disorder: a systematic review and meta-analysis of double-blind, randomized placebo-controlled trials.",
+  "autores": [
+   "Kishi T",
+   "Miyake N",
+   "Okuya M",
+   "Sakuma K"
+  ],
+  "revista_ano": "Psychopharmacology (Berl) 2020",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_KISHI_2020"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_KISHI_2020",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "KISHI",
+   "Kishi"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B6_estresse_oxidativo",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "37107192",
+  "titulo_artigo": "The Nrf2 Pathway in Depressive Disorders: A Systematic Review of Animal and Human Studies.",
+  "autores": [
+   "Sani G",
+   "Margoni S",
+   "Brugnami A",
+   "Ferrara OM"
+  ],
+  "revista_ano": "Antioxidants (Basel) 2023",
+  "desenho_estudo": "revisao",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SANI_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SANI_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Sani",
+   "SANI"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B6_estresse_oxidativo",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "37557967",
+  "titulo_artigo": "Reverse cholesterol transport and lipid peroxidation biomarkers in major depression and bipolar disorder: A systematic review and meta-analysis.",
+  "autores": [
+   "Almulla AF",
+   "Thipakorn Y",
+   "Algon AAA",
+   "Tunvirachaisakul C"
+  ],
+  "revista_ano": "Brain Behav Immun 2023",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_ALMULLA_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_ALMULLA_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "ALMULLA",
+   "Almulla"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B6_estresse_oxidativo",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "39504621",
+  "titulo_artigo": "Efficacy of N-acetylcysteine for patients with depression: An updated systematic review and meta-analysis.",
+  "autores": [
+   "Peng TR",
+   "Lin HH",
+   "Tseng TL",
+   "Huang YH"
+  ],
+  "revista_ano": "Gen Hosp Psychiatry 2024",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_PENG_2024"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_PENG_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Peng",
+   "PENG"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B6_estresse_oxidativo",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "39708105",
+  "titulo_artigo": "Glutathione alterations in depression: a meta-analysis and systematic review of proton magnetic resonance spectroscopy studies.",
+  "autores": [
+   "Bell CJM",
+   "Mehta M",
+   "Mirza L",
+   "Young AH"
+  ],
+  "revista_ano": "Psychopharmacology (Berl) 2025",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_BELL_2025"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_BELL_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "BELL",
+   "Bell"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B6_estresse_oxidativo",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ }
+]

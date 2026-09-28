@@ -1,0 +1,43 @@
+COMO EXECUTAR — v1.10 — VIGENTE
+================================
+Aprovação do operador (verbatim, 25/09/2026):
+
+"Aprovo como vigente o COMO EXECUTAR — v1.10, digital 49514344, de 25/09/2026."
+
+Artefato vigente:
+  BIBLIOTECAS/_documentos_serie/COMO_EXECUTAR_v1.10_vigente_2026-09-25/4º COMO EXECUTAR — v1.10.md
+  sha256 4951434417f24a329d41fc31f0ec13a5d6da5e1191edde1e72e6cbe2fee4038e
+  33.265 bytes · 597 linhas · 2026-09-25
+
+Linhagem:
+  v1.9 intacta (1cd90b40, 20/09) → minuta v1.10 (TRILHA101 12/12)
+  → Comentador libera (eff5b14f) → E sem ressalva × M sem ressalva
+  → TRILHA102 8/8 → aprovação do operador
+
+O que está VIGENTE:
+  C-1 fechamento conjunto (IA3 só emite parecer)
+  C-2 três análises independentes e cegas
+  C-3 retorno do parecer às IAs 1 e 2
+  C-4 divergência factual → fonte primária
+  C-5 ressalvas preservadas
+  X-1 divergência cega = funcionamento correto
+  4 decisões do Contrato de Saída no fechamento
+  materialização passo separado (portões §8)
+  refs: Schema-Claim v1.3 (28cbc9c7) · Contrato (841532da)
+
+Notas não-bloqueantes:
+  E — passagem literal na mesa das três → portão L-05 (quando escrito)
+  M — coerência dos 3 documentos do processo
+
+Não altera: N1 · N2 · contrato de saída · schema · v1.9 (histórica)
+
+Pendências de sempre:
+  P-K1/P-K2 antes da 1ª materialização (já vigentes no schema v1.3 —
+  faltam claims fechados com os campos)
+  P-K6 = ciclo N2 v1.5 (.001b em espera)
+  Piloto .014 PODE COMEÇAR — desenho congelado neste documento
+
+Três documentos vigentes do processo:
+  1) Contrato de Saída rev.2 — 841532da (24/09)
+  2) Schema-Claim v1.3 rev.3 — 28cbc9c7 (25/09)
+  3) COMO EXECUTAR v1.10 — 49514344 (25/09)

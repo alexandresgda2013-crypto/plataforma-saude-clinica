@@ -1,0 +1,3013 @@
+[
+ {
+  "pmid": "4863731",
+  "grupo": "HIST",
+  "label": "Schildkraut_1967",
+  "id": "REF_SCHILDKRAUT_1967",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_01",
+  "subsec": "1.4",
+  "claim_id": "B4.MEC.BLOCO01.001",
+  "autores": [
+   "Schildkraut JJ"
+  ],
+  "ano": "1967",
+  "titulo": "The catecholamine hypothesis of affective disorders. A review of supporting evidence.",
+  "revista": "Int J Psychiatry",
+  "doi": "",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": ""
+ },
+ {
+  "pmid": "10775017",
+  "grupo": "HIST",
+  "label": "Hirschfeld_2000",
+  "id": "REF_HIRSCHFELD_2000",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_01",
+  "subsec": "1.4",
+  "claim_id": "B4.MEC.BLOCO01.002",
+  "autores": [
+   "Hirschfeld RM"
+  ],
+  "ano": "2000",
+  "titulo": "History and evolution of the monoamine hypothesis of depression.",
+  "revista": "J Clin Psychiatry",
+  "doi": "",
+  "pubtypes": [
+   "Historical Article",
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The symptoms of depression can be improved by agents that act by various mechanisms to increase synaptic concentrations of monoamines. This finding led to the adoption of the monoamine hypothesis of depression, first put forward over 30 years ago, which proposes that the underlying biological or neuroanatomical basis for depression is a deficiency of central noradrenergic and/or serotonergic systems and that targeting this neuronal lesion with an antidepressant would tend to restore normal function in depressed patients. The hypothesis has enjoyed considerable support, since it attempts to provide a pathophysiologic explanation of the actions of antidepressants. However, in its original form it is clearly inadequate, as it does not provide a complete explanation for the actions of antidepressants, and the pathophysiology of depression itself remains unknown. The hypothesis has evolved over the years to include, for example, adaptive changes in receptors to explain why there should be only a gradual clinical response to antidepressant treatment when the increase in availability of monoamines is rapid. Still, the monoamine hypothesis does not address key issues such as why antidepres"
+ },
+ {
+  "pmid": "9818625",
+  "grupo": "HIST",
+  "label": "Charney_1998",
+  "id": "REF_CHARNEY_1998",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_01",
+  "subsec": "1.4",
+  "claim_id": "B4.MEC.BLOCO01.003",
+  "autores": [
+   "Charney DS"
+  ],
+  "ano": "1998",
+  "titulo": "Monoamine dysfunction and the pathophysiology and treatment of depression.",
+  "revista": "J Clin Psychiatry",
+  "doi": "",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Alterations in noradrenergic and serotonergic function in the central nervous system (CNS) have been implicated in the pathophysiology of depression and the mechanism of action of antidepressant drugs. Based on changes in norepinephrine and serotonin metabolism in the CNS, it has been postulated that subgroups of patients with differential responses to norepinephrine and serotonin reuptake inhibitors may exist. Alpha-methylparatyrosine (AMPT), which causes rapid depletion of brain catecholamines, has been used as a noradrenergic probe to test the hypothesis that changes in neurotransmission through the catecholamine system may underlie the therapeutic response to norepinephrine reuptake inhibitors. Brain serotonin is dependent on plasma levels of the essential amino acid tryptophan. Rapid tryptophan depletion, in the form of a tryptophan-free amino acid drink, has been used as a serotonergic probe to identify therapeutically responsive subsets of patients. Using these probes, we have recently examined the behavioral effects of reduced concentrations of brain monoamines on depressed patients treated with a variety of serotonin selective reuptake inhibitors (SSRIs) or the relatively "
+ },
+ {
+  "pmid": "8852528",
+  "grupo": "HIST",
+  "label": "Heninger_1996",
+  "id": "REF_HENINGER_1996",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_01",
+  "subsec": "1.4",
+  "claim_id": "B4.MEC.BLOCO01.004",
+  "autores": [
+   "Heninger GR",
+   "Delgado PL",
+   "Charney DS"
+  ],
+  "ano": "1996",
+  "titulo": "The revised monoamine theory of depression: a modulatory role for monoamines, based on new findings from monoamine depletion experiments in humans.",
+  "revista": "Pharmacopsychiatry",
+  "doi": "10.1055/s-2007-979535",
+  "pubtypes": [
+   "Comparative Study",
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The original hypothesis that brain monoamine systems have a primary direct role in depression has been through several modifications during the past 30 years. In order to test this hypothesis and more fully characterize the role of serotonin and catecholamines in the pathophysiology of depression and the mechanism of action of antidepressant treatments, our research group has conducted a series of studies evaluating monoamine depletion induced brief clinical relapse following different types of antidepressant treatment of depressed patients. We have also studied the effects of monoamine depletion (SD) on depressive symptoms in depressed and recovered patients off medication and in healthy controls. Relapse to serotonin depletion or to catecholamine depletion (CD) was found to be specific to the type of antidepressant treatment, i.e., patients responding to selective serotonin reuptake inhibilitors relapsed more frequently following SD than CD and patients responding to selective catecholamine reuptake inhibitors relapsed more frequently following CD than SD. Neither CD or SD increased depressive symptoms in clinically ill patients off treatment, or produced clinical depression in n"
+ },
+ {
+  "pmid": "10775019",
+  "grupo": "HIST",
+  "label": "Leonard_2000",
+  "id": "REF_LEONARD_2000",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_01",
+  "subsec": "1.4",
+  "claim_id": "B4.MEC.BLOCO01.005",
+  "autores": [
+   "Leonard BE"
+  ],
+  "ano": "2000",
+  "titulo": "Evidence for a biochemical lesion in depression.",
+  "revista": "J Clin Psychiatry",
+  "doi": "",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The monoamine hypothesis of depression predicts an impairment in central monoaminergic function. The lesion may comprise deficiencies in the absolute concentrations of norepinephrine and/or serotonin (5-HT). Depletion studies have shown a correlation between such deficiencies and depressive symptoms. Measurement of the concentrations of the neurotransmitters and their metabolites in cerebrospinal fluid, urine, and plasma of patients with depression has yielded equivocal results regarding the possibility of altered metabolism of these neurotransmitters. Other studies have investigated the possibility of altered numbers and/or affinities of the serotonin and norepinephrine receptors and uptake sites. For example, there is evidence for a reduction in the activity of the serotonin reuptake transporter in patients with depression and an increase in the density of 5-HT2 receptors in the brains of suicide victims. Similarly, in the noradrenergic system, up-regulation of beta-adrenoceptors is consistently observed. Most recently, attention has focused on the possibility that a lesion may occur in the postreceptor, subcellular components of the monoamine systems, such as the second messenge"
+ },
+ {
+  "pmid": "12953623",
+  "grupo": "HIST",
+  "label": "Baumeister_2003",
+  "id": "REF_BAUMEISTER_2003",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_01",
+  "subsec": "1.4",
+  "claim_id": "B4.MEC.BLOCO01.006",
+  "autores": [
+   "Baumeister AA",
+   "Hawkins MF",
+   "Uzelac SM"
+  ],
+  "ano": "2003",
+  "titulo": "The myth of reserpine-induced depression: role in the historical development of the monoamine hypothesis.",
+  "revista": "J Hist Neurosci",
+  "doi": "10.1076/jhin.12.2.207.15535",
+  "pubtypes": [
+   "Historical Article",
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "For five decades it has been generally accepted that reserpine, an antihypertensive and antipsychotic drug, causes depression. The discovery that reserpine depletes brain monoamines was an important factor in the development of the monoamine hypothesis of depression, and it continues to be widely cited in support of this hypothesis. The present paper argues that, contrary to prevailing belief, reserpine is not depressogenic. The reason for perpetuation of this myth is reluctance to discard the monoamine hypothesis. This hypothesis ushered the modern biochemical paradigm into psychiatry and is still of great importance. It serves as a heuristic to guide research, it enhances psychiatry's prestige, and it helps to validate and promote drug therapy for depression and other mental disorders."
+ },
+ {
+  "pmid": "36000248",
+  "grupo": "HIST",
+  "label": "Strawbridge_2023",
+  "id": "REF_STRAWBRIDGE_2023",
+  "tag": "MA",
+  "nivel": "CORE",
+  "evid_role": "SUP",
+  "bloco": "BLOCO_01",
+  "subsec": "1.4",
+  "claim_id": "B4.MEC.BLOCO01.007",
+  "autores": [
+   "Strawbridge R",
+   "Javed RR",
+   "Cave J",
+   "Jauhar S",
+   "Young AH"
+  ],
+  "ano": "2023",
+  "titulo": "The effects of reserpine on depression: A systematic review.",
+  "revista": "J Psychopharmacol",
+  "doi": "10.1177/02698811221115762",
+  "pubtypes": [
+   "Systematic Review",
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Reserpine is an effective antihypertensive drug, but its role in routine practice has declined such that it is rarely used. This is largely based on the assumption that reserpine causes depression. This assumption was a foundation for the original monoamine hypothesis of depression. However, there remains conflicting evidence as to whether reserpine causes depression, and no systematic review of available evidence. We systematically reviewed evidence on effects of reserpine on depressive and related symptoms (e.g. anxiety, suicidal ideation). Electronic searches of MEDLINE, Embase and PsycINFO were conducted to identify studies up to 14 February 2021. Studies of any methodological design involving reserpine-treated and reserpine-untreated conditions, in any adult human population, were included and a narrative synthesis of findings was undertaken. Risk of bias (RoB) was examined using ROBINS-I. Of the 35 studies meeting inclusion criteria, 9 were randomised controlled trials. Eleven studies reported some depressogenic effects, 13 reported no effect and 11 reported putative antidepressant effects. Studies identifying depressive effects were more likely to examine people without psyc"
+ },
+ {
+  "pmid": "26043325",
+  "grupo": "HIST",
+  "label": "Cowen_2015",
+  "id": "REF_COWEN_2015",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_01",
+  "subsec": "1.4",
+  "claim_id": "B4.MEC.BLOCO01.008",
+  "autores": [
+   "Cowen PJ",
+   "Browning M"
+  ],
+  "ano": "2015",
+  "titulo": "What has serotonin to do with depression?",
+  "revista": "World Psychiatry",
+  "doi": "10.1002/wps.20229",
+  "pubtypes": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": ""
+ },
+ {
+  "pmid": "37857415",
+  "grupo": "HIST",
+  "label": "Albert_2023",
+  "id": "REF_ALBERT_2023",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_01",
+  "subsec": "1.4",
+  "claim_id": "B4.MEC.BLOCO01.009",
+  "autores": [
+   "Albert PR",
+   "Blier P"
+  ],
+  "ano": "2023",
+  "titulo": "Does serotonin matter in depression?",
+  "revista": "J Psychiatry Neurosci",
+  "doi": "10.1038/s41386-023-01600-9",
+  "pubtypes": [
+   "Editorial"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": ""
+ },
+ {
+  "pmid": "19498050",
+  "grupo": "HIST",
+  "label": "Nemeroff_2009",
+  "id": "REF_NEMEROFF_2009",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_01",
+  "subsec": "1.4",
+  "claim_id": "B4.MEC.BLOCO01.010",
+  "autores": [
+   "Nemeroff CB",
+   "Owens MJ"
+  ],
+  "ano": "2009",
+  "titulo": "The role of serotonin in the pathophysiology of depression: as important as ever.",
+  "revista": "Clin Chem",
+  "doi": "10.1373/clinchem.2009.123752",
+  "pubtypes": [
+   "Comment",
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": ""
+ },
+ {
+  "pmid": "19428959",
+  "grupo": "5HT",
+  "label": "Savitz_2009",
+  "id": "REF_SAVITZ_2009",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_02",
+  "subsec": "2.1",
+  "claim_id": "B4.MEC.BLOCO02.011",
+  "autores": [
+   "Savitz J",
+   "Lucki I",
+   "Drevets WC"
+  ],
+  "ano": "2009",
+  "titulo": "5-HT(1A) receptor function in major depressive disorder.",
+  "revista": "Prog Neurobiol",
+  "doi": "10.1016/j.pneurobio.2009.01.009",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Dysfunction of the serotonin 1A receptor (5-HT(1A)) may play a role in the genesis of major depressive disorder (MDD). Here we review the pharmacological, post-mortem, positron emission tomography (PET), and genetic evidence in support of this statement. We also touch briefly on two MDD-associated phenotypes, cognitive impairment and somatic pain. The results of pharmacological challenge studies with 5-HT(1A) receptor agonists are indicative of blunted endocrine responses in depressed patients. Lithium, valproate, selective serotonin reuptake inhibitors (SSRIs), tricyclic antidepressants (TCAs), and other treatment, such as electroconvulsive shock therapy (ECT), all increase post-synaptic 5-HT(1A) receptor signaling through either direct or indirect effects. Reduced somatodendritic and postsynaptic 5-HT(1A) receptor numbers or affinity have been reported in some post-mortem studies of suicide victims, a result consistent with well-replicated PET analyses demonstrating reduced 5-HT(1A) receptor binding potential in diverse regions such as the dorsal raphe, medial prefrontal cortex (mPFC), amygdala and hippocampus. 5-HT(1A) receptor knockout (KO) mice display increased anxiety-relate"
+ },
+ {
+  "pmid": "27623971",
+  "grupo": "5HT",
+  "label": "Wang_2016",
+  "id": "REF_WANG_2016",
+  "tag": "MA",
+  "nivel": "CORE",
+  "evid_role": "SUP",
+  "bloco": "BLOCO_02",
+  "subsec": "2.1",
+  "claim_id": "B4.MEC.BLOCO02.012",
+  "autores": [
+   "Wang L",
+   "Zhou C",
+   "Zhu D",
+   "Wang X",
+   "Fang L",
+   "Zhong J",
+   "Mao Q",
+   "Sun L",
+   "Gong X",
+   "Xia J",
+   "Lian B",
+   "Xie P"
+  ],
+  "ano": "2016",
+  "titulo": "Serotonin-1A receptor alterations in depression: a meta-analysis of molecular imaging studies.",
+  "revista": "BMC Psychiatry",
+  "doi": "10.1016/j.biopsych.2009.01.028",
+  "pubtypes": [
+   "Journal Article",
+   "Meta-Analysis",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Postmortem studies of people who have successfully committed suicide and people with depression have implicated the serotonin-1A (5-HT1A) receptor system in the pathophysiology of depression. Several molecular imaging studies have investigated alterations in 5-HT1A receptors in patients with depression using positron emission tomography and have reported conflicting results. We performed a meta-analysis of studies investigating the relationship between depression and 5-HT1A binding. We conducted a comprehensive search of Medline, Embase, ScienceDirect, Scopus and Springer databases for relevant studies published between January 1999 and October 2015. The meta-analysis was conducted in accordance with the Meta-analysis of Observational Studies in Epidemiology guidelines. Ten studies were included, comprising 218 patients with depression and 261 healthy controls. The results of these studies indicated a reduction in 5-HT1A receptors in mesiotemporal cortex, yielding a summary effect estimate of -0.8 (95 % CI -1.36, -0.24). Smaller reductions were reported in 5-HT1A receptor binding in the hippocampus, raphe nuclei, insular, anterior cingulate cortex and occipital cortex of people wit"
+ },
+ {
+  "pmid": "16154547",
+  "grupo": "5HT",
+  "label": "Parsey_2006",
+  "id": "REF_PARSEY_2006",
+  "tag": "EC",
+  "nivel": "CORE",
+  "evid_role": "SUP",
+  "bloco": "BLOCO_02",
+  "subsec": "2.1",
+  "claim_id": "B4.MEC.BLOCO02.013",
+  "autores": [
+   "Parsey RV",
+   "Oquendo MA",
+   "Ogden RT",
+   "Olvet DM",
+   "Simpson N",
+   "Huang YY",
+   "Van Heertum RL",
+   "Arango V",
+   "Mann JJ"
+  ],
+  "ano": "2006",
+  "titulo": "Altered serotonin 1A binding in major depression: a [carbonyl-C-11]WAY100635 positron emission tomography study.",
+  "revista": "Biol Psychiatry",
+  "doi": "10.1016/j.biopsych.2005.06.016",
+  "pubtypes": [
+   "Comparative Study",
+   "Controlled Clinical Trial",
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Serotonin 1A receptors (5-HT(1A)) are implicated in the pathophysiology of major depressive disorder (MDD) and in the action of selective serotonin reuptake inhibitors (SSRI). SSRI desensitize 5-HT(1A) and down-regulate 5-HT transporters (5-HTT) with the latter persisting for weeks after discontinuation of SSRI. MDD subjects are more likely to be homozygous for the functional 5-HT(1A) G(-1019) allele of the promoter polymorphism and are postulated to have higher 5-HT(1A) than healthy volunteers (controls). We measure 5-HT(1A) in MDD, assess the effects of antidepressant exposure (AE), and examine the role of the C(-1019)G polymorphism. Genotyped and determined 5-HT(1A) binding potential (BP) by positron emission tomography (PET) using [carbonyl-C-11]-WAY-100635 in 28 medication-free MDD subjects during a current major depressive episode and 43 controls. No difference in BP between controls and MDD subjects (p = .235). There was a difference in BP comparing the controls, antidepressant naive (AN) MDD subjects, and subjects with AE across all regions (p = .013). Post hoc testing reveals higher BP in AN compared to controls (p = .008) and to AE (p = .007). The GG genotype is overrepre"
+ },
+ {
+  "pmid": "17971260",
+  "grupo": "5HT",
+  "label": "Hirvonen_2008",
+  "id": "REF_HIRVONEN_2008",
+  "tag": "EC",
+  "nivel": "CORE",
+  "evid_role": "SUP",
+  "bloco": "BLOCO_02",
+  "subsec": "2.1",
+  "claim_id": "B4.MEC.BLOCO02.014",
+  "autores": [
+   "Hirvonen J",
+   "Karlsson H",
+   "Kajander J",
+   "Lepola A",
+   "Markkula J",
+   "Rasi-Hakala H",
+   "Någren K",
+   "Salminen JK",
+   "Hietala J"
+  ],
+  "ano": "2008",
+  "titulo": "Decreased brain serotonin 5-HT1A receptor availability in medication-naive patients with major depressive disorder: an in-vivo imaging study using PET and [carbonyl-11C]WAY-100635.",
+  "revista": "Int J Neuropsychopharmacol",
+  "doi": "10.1017/S1461145707008140",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Serotonin (5-HT) is involved in the pathophysiology of major depressive disorder (MDD). Among the numerous serotonergic receptors, the 5-HT1A receptor subtype is of interest because of its involvement in cognition, hippocampal neurogenesis, and mechanism of action of antidepressant drugs. Previous imaging studies have suggested altered availability of 5-HT1A receptors in MDD but prior antidepressant medication and chronicity of the illness may confound the interpretation. We examined 21 drug-naive primary-care patients with MDD using positron emission tomography (PET) imaging with [carbonyl-11C]WAY-100635, a radioligand for 5-HT1A receptors, along with 15 healthy control subjects. Binding to receptors was assessed both regionally and at voxel level with the binding potential (BP) that was estimated using arterial blood input. Compared with healthy controls, the BP of [carbonyl-11C]WAY-100635 was reduced in patients with MDD in most brain regions, ranging from -9% to -25%. Voxel-level analysis confirmed this finding by showing a widespread reduction of [carbonyl-11C]WAY-100635 BP. No statistically significant associations were observed between BP and total HAMD scores in the patient"
+ },
+ {
+  "pmid": "31120232",
+  "grupo": "5HT",
+  "label": "Steinberg_2019",
+  "id": "REF_STEINBERG_2019",
+  "tag": "EC",
+  "nivel": "CORE",
+  "evid_role": "SUP",
+  "bloco": "BLOCO_02",
+  "subsec": "2.1",
+  "claim_id": "B4.MEC.BLOCO02.015",
+  "autores": [
+   "Steinberg LJ",
+   "Underwood MD",
+   "Bakalian MJ",
+   "Kassir SA",
+   "Mann JJ",
+   "Arango V"
+  ],
+  "ano": "2019",
+  "titulo": "5-HT1A receptor, 5-HT2A receptor and serotonin transporter binding in the human auditory cortex in depression.",
+  "revista": "J Psychiatry Neurosci",
+  "doi": "10.1080/13811118.2017.1417185",
+  "pubtypes": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Serotonergic system abnormalities are implicated in many psychiatric disorders, including major depression. The temporal lobe receives a high density of serotonergic afferent projections, and responses in the primary auditory cortex to sound are modulated by serotonergic tone. However, the associations between changes in serotonergic tone, disease state and changes in auditory cortical function remain to be clarified. We quantified serotonin 1A (5-HT1A) receptor binding, serotonin 2A (5-HT2A) receptor binding, and serotonin transporter (SERT) binding in Brodmann areas (BA) 41/42, 22, 9 and 4 from postmortem brain sections of 40 psychiatrically healthy controls and 39 individuals who had a history of a major depressive episode (MDE). There was 33% lower 5-HT2A receptor binding in BA 41/42 in individuals who had an MDE than in controls (p = 0.0069). Neither 5-HT1A nor SERT binding in BA 41/42 differed between individuals who had an MDE and controls. We also found 14% higher 5-HT1A receptor binding (p = 0.045) and 21% lower SERT binding in BA 9 of individuals who had an MDE (p = 0.045). The study was limited by the small number of postmortem brain samples including BA 41/42 available "
+ },
+ {
+  "pmid": "19423077",
+  "grupo": "5HT",
+  "label": "Akimova_2009",
+  "id": "REF_AKIMOVA_2009",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_02",
+  "subsec": "2.1",
+  "claim_id": "B4.MEC.BLOCO02.016",
+  "autores": [
+   "Akimova E",
+   "Lanzenberger R",
+   "Kasper S"
+  ],
+  "ano": "2009",
+  "titulo": "The serotonin-1A receptor in anxiety disorders.",
+  "revista": "Biol Psychiatry",
+  "doi": "10.1016/j.biopsych.2009.03.012",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "The serotonin system plays an important role in the neural processing of anxiety. The involvement of the main inhibitory serotonergic receptor, the serotonin-1A (5-HT1A) subtype, in dysfunctional forms of anxiety has been supported by findings from a wide range of preclinical research and clinical trials, including treatment studies, genetic research, and neuroimaging data. The following article summarizes preclinical results with a focus on 5-HT1A receptor knockout and transgenic mice as genetic models of anxiety. Behavioral, autonomic, and endocrinological changes in these mice are reported. This article also presents genetic polymorphisms in humans associated with increased anxiety scores and pharmacological data focused on 5-HT1A receptor agonists and antagonists. Furthermore, molecular neuroimaging results are presented. Recent positron emission tomography (PET) studies have reported reduced 5-HT1A receptor binding in patients with panic disorder and social anxiety disorder, but not in posttraumatic stress disorder. In healthy subjects, increased anxiety scores might be associated with lower 5-HT1A receptor binding. This overview of preclinical and clinical data provides stron"
+ },
+ {
+  "pmid": "24936175",
+  "grupo": "5HT",
+  "label": "Albert_2014",
+  "id": "REF_ALBERT_2014",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_02",
+  "subsec": "2.1",
+  "claim_id": "B4.MEC.BLOCO02.017",
+  "autores": [
+   "Albert PR",
+   "Vahid-Ansari F",
+   "Luckhart C"
+  ],
+  "ano": "2014",
+  "titulo": "Serotonin-prefrontal cortical circuitry in anxiety and depression phenotypes: pivotal role of pre- and post-synaptic 5-HT1A receptor expression.",
+  "revista": "Front Behav Neurosci",
+  "doi": "10.1074/jbc.M801713200",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Decreased serotonergic activity has been implicated in anxiety and major depression, and antidepressants directly or indirectly increase the long-term activity of the serotonin system. A key component of serotonin circuitry is the 5-HT1A autoreceptor, which functions as the major somatodendritic autoreceptor to negatively regulate the \"gain\" of the serotonin system. In addition, 5-HT1A heteroreceptors are abundantly expressed post-synaptically in the prefrontal cortex (PFC), amygdala, and hippocampus to mediate serotonin actions on fear, anxiety, stress, and cognition. Importantly, in the PFC 5-HT1A heteroreceptors are expressed on at least two antagonist neuronal populations: excitatory pyramidal neurons and inhibitory interneurons. Rodent models implicate the 5-HT1A receptor in anxiety- and depression-like phenotypes with distinct roles for pre- and post-synaptic 5-HT1A receptors. In this review, we present a model of serotonin-PFC circuitry that integrates evidence from mouse genetic models of anxiety and depression involving knockout, suppression, over-expression, or mutation of genes of the serotonin system including 5-HT1A receptors. The model postulates that behavioral pheno"
+ },
+ {
+  "pmid": "24337875",
+  "grupo": "5HT",
+  "label": "GarciaGarcia_2014",
+  "id": "REF_GARCIAGARCIA_2014",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_02",
+  "subsec": "2.1",
+  "claim_id": "B4.MEC.BLOCO02.018",
+  "autores": [
+   "Garcia-Garcia AL",
+   "Newman-Tancredi A",
+   "Leonardo ED"
+  ],
+  "ano": "2014",
+  "titulo": "5-HT(1A) [corrected] receptors in mood and anxiety: recent insights into autoreceptor versus heteroreceptor function.",
+  "revista": "Psychopharmacology (Berl)",
+  "doi": "10.4088/JCP.09m05827blu",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Serotonin (5-HT) neurotransmission is intimately linked to anxiety and depression and a diverse body of evidence supports the involvement of the main inhibitory serotonergic receptor, the serotonin-1A (5-HT(1A)) subtype, in both disorders. In this review, we examine the function of 5-HT(1A) receptor subpopulations and re-interpret our understanding of their role in mental illness in light of new data, separating both spatial (autoreceptor versus heteroreceptor) and the temporal (developmental versus adult) roles of the endogenous 5-HT(1A) receptors, emphasizing their distinct actions in mediating anxiety and depression-like behaviors. It is difficult to unambiguously distinguish the effects of different populations of the 5-HT(1A) receptors with traditional genetic animal models and pharmacological approaches. However, with the advent of novel genetic systems and subpopulation-selective pharmacological agents, direct evidence for the distinct roles of these populations in governing emotion-related behavior is emerging. There is strong and growing evidence for a functional dissociation between auto- and heteroreceptor populations in mediating anxiety and depressive-like behaviors, r"
+ },
+ {
+  "pmid": "23492554",
+  "grupo": "5HT",
+  "label": "Popova_2013",
+  "id": "REF_POPOVA_2013",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_02",
+  "subsec": "2.1",
+  "claim_id": "B4.MEC.BLOCO02.019",
+  "autores": [
+   "Popova NK",
+   "Naumenko VS"
+  ],
+  "ano": "2013",
+  "titulo": "5-HT1A receptor as a key player in the brain 5-HT system.",
+  "revista": "Rev Neurosci",
+  "doi": "10.1515/revneuro-2012-0082",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Among an impressive variety of identified serotonin receptors, 5-HT1A attracts particular attention due to its central role in the regulation of 5-HT-ergic neurotransmission and the data on its involvement in the mechanisms of stress response, aggressive behavior, anxiety, and depression. This review concentrates on the cross-regulation between 5-HT receptors and the implication of the 5-HT1A receptor in the genetic control of 5-HT-related behavior. Specifically, it describes the (1) functional interactions between 5-HT1A, 5-HT2A, 5-HT3, and 5-HT7 receptors; (2) cross-talk between 5-HT1A receptor and genes encoding key members of the brain 5-HT system; (3) implication of the 5-HT1A receptor in natural hibernation and genetic predisposition to different kinds of defensive behavior; and (4) role of 5-HT1A autoreceptors and heteroreceptors in anxiety, depression, and suicide, and in the antidepressant effect of serotonin reuptake inhibitors. This review provides converging lines of evidence that the 5-HT1A receptor contributes to the action of other 5-HT receptors, modulating their effect on behavior, and describes new data on the unique role of the 5-HT1A receptor in the indirect reg"
+ },
+ {
+  "pmid": "28232871",
+  "grupo": "5HT",
+  "label": "Nautiyal_2017",
+  "id": "REF_NAUTIYAL_2017",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_02",
+  "subsec": "2.1",
+  "claim_id": "B4.MEC.BLOCO02.020",
+  "autores": [
+   "Nautiyal KM",
+   "Hen R"
+  ],
+  "ano": "2017",
+  "titulo": "Serotonin receptors in depression: from A to B.",
+  "revista": "F1000Res",
+  "doi": "10.1016/j.neuroscience.2007.07.043",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The role of serotonin in major depressive disorder (MDD) is the focus of accumulating clinical and preclinical research. The results of these studies reflect the complexity of serotonin signaling through many receptors, in a large number of brain regions, and throughout the lifespan. The role of the serotonin transporter in MDD has been highlighted in gene by environment association studies as well as its role as a critical player in the mechanism of the most effective antidepressant treatments - selective serotonin reuptake inhibitors. While the majority of the 15 known receptors for serotonin have been implicated in depression or depressive-like behavior, the serotonin 1A (5-HT 1A) and 1B (5-HT 1B) receptors are among the most studied. Human brain imaging and genetic studies point to the involvement of 5-HT 1A and 5-HT 1B receptors in MDD and the response to antidepressant treatment. In rodents, the availability of tissue-specific and inducible knockout mouse lines has made possible the identification of the involvement of 5-HT 1A and 5-HT 1B receptors throughout development and in a cell-type specific manner. This, and other preclinical pharmacology work, shows that autoreceptor"
+ },
+ {
+  "pmid": "25823514",
+  "grupo": "5HT",
+  "label": "Fakhoury_2016",
+  "id": "REF_FAKHOURY_2016",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_02",
+  "subsec": "2.1",
+  "claim_id": "B4.MEC.BLOCO02.021",
+  "autores": [
+   "Fakhoury M"
+  ],
+  "ano": "2016",
+  "titulo": "Revisiting the Serotonin Hypothesis: Implications for Major Depressive Disorders.",
+  "revista": "Mol Neurobiol",
+  "doi": "10.1007/s12035-015-9152-z",
+  "pubtypes": [
+   "Journal Article",
+   "Review",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Major depressive disorder (MDD) is a heritable neuropsychiatric disease associated with severe changes at cellular and molecular levels. Its diagnosis mainly relies on the characterization of a wide range of symptoms including changes in mood and behavior. Despite the availability of antidepressant drugs, 10 to 30 % of patients fail to respond after a single or multiple treatments, and the recurrence of depression among responsive patients is very high. Evidence from the past decades suggests that the brain neurotransmitter serotonin (5-HT) is incriminated in MDD, and that a dysfunction of 5-HT receptors may play a role in the genesis of this disease. The 5-HT membrane transporter protein (SERT), which helps regulate the serotonergic transmission, is also implicated in MDD and is one of the main targets of antidepressant therapy. Although a number of behavioral tests and animal models have been developed to study depression, little is known about the neurobiological bases of MDD. Understanding the role of the serotonergic pathway will significantly help improve our knowledge of the pathophysiology of depression and may open up avenues for the development of new antidepressant drugs"
+ },
+ {
+  "pmid": "33651238",
+  "grupo": "5HT",
+  "label": "Pourhamzeh_2022",
+  "id": "REF_POURHAMZEH_2022",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_02",
+  "subsec": "2.1",
+  "claim_id": "B4.MEC.BLOCO02.022",
+  "autores": [
+   "Pourhamzeh M",
+   "Moravej FG",
+   "Arabi M",
+   "Shahriari E",
+   "Mehrabi S",
+   "Ward R",
+   "Ahadi R",
+   "Joghataei MT"
+  ],
+  "ano": "2022",
+  "titulo": "The Roles of Serotonin in Neuropsychiatric Disorders.",
+  "revista": "Cell Mol Neurobiol",
+  "doi": "10.30773/pi.2018.12.21.1",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The serotonergic system extends throughout the central nervous system (CNS) and the gastrointestinal (GI) tract. In the CNS, serotonin (5-HT, 5-hydroxytryptamine) modulates a broad spectrum of functions, including mood, cognition, anxiety, learning, memory, reward processing, and sleep. These processes are mediated through 5-HT binding to 5-HT receptors (5-HTRs), are classified into seven distinct groups. Deficits in the serotonergic system can result in various pathological conditions, particularly depression, schizophrenia, mood disorders, and autism. In this review, we outlined the complexity of serotonergic modulation of physiologic and pathologic processes. Moreover, we provided experimental and clinical evidence of 5-HT's involvement in neuropsychiatric disorders and discussed the molecular mechanisms that underlie these illnesses and contribute to the new therapies."
+ },
+ {
+  "pmid": "33673205",
+  "grupo": "5HT",
+  "label": "VillasBoas_2021",
+  "id": "REF_VILLASBOAS_2021",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_02",
+  "subsec": "2.1",
+  "claim_id": "B4.MEC.BLOCO02.023",
+  "autores": [
+   "Villas-Boas GR",
+   "Lavorato SN",
+   "Paes MM",
+   "de Carvalho PMG",
+   "Rescia VC",
+   "Cunha MS",
+   "de Magalhães-Filho MF",
+   "Ponsoni LF",
+   "de Carvalho AAV",
+   "de Lacerda RB",
+   "da S Leite L",
+   "da S Tavares-Henriques M",
+   "Lopes LAF",
+   "Oliveira LGR",
+   "Silva-Filho SE",
+   "da Silveira APS",
+   "Cuman RKN",
+   "de S Silva-Comar FM",
+   "Comar JF",
+   "do A Brasileiro L",
+   "Dos Santos JN",
+   "de Freitas WR",
+   "Leão KV",
+   "da Silva JG",
+   "Klein RC",
+   "Klein MHF",
+   "da S Ramos BH",
+   "Fernandes CKC",
+   "de L Ribas DG",
+   "Oesterreich SA"
+  ],
+  "ano": "2021",
+  "titulo": "Modulation of the Serotonergic Receptosome in the Treatment of Anxiety and Depression: A Narrative Review of the Experimental Evidence.",
+  "revista": "Pharmaceuticals (Basel)",
+  "doi": "10.1002/ptr.6055",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Serotonin (5-HT) receptors are found throughout central and peripheral nervous systems, mainly in brain regions involved in the neurobiology of anxiety and depression. 5-HT receptors are currently promising targets for discovering new drugs for treating disorders ranging from migraine to neuropsychiatric upsets, such as anxiety and depression. It is well described in the current literature that the brain expresses seven types of 5-HT receptors comprising eighteen distinct subtypes. In this article, we comprehensively reviewed 5-HT1-7 receptors. Of the eighteen 5-HT receptors known today, thirteen are G protein-coupled receptors (GPCRs) and represent targets for approximately 40% of drugs used in humans. Signaling pathways related to these receptors play a crucial role in neurodevelopment and can be modulated to develop effective therapies to treat anxiety and depression. This review presents the experimental evidence of the modulation of the \"serotonergic receptosome\" in the treatment of anxiety and depression, as well as demonstrating state-of-the-art research related to phytochemicals and these disorders. In addition, detailed aspects of the pharmacological mechanism of action of"
+ },
+ {
+  "pmid": "33672070",
+  "grupo": "5HT",
+  "label": "BorrotoEscuela_2021",
+  "id": "REF_BORROTOESCUELA_2021",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_02",
+  "subsec": "2.1",
+  "claim_id": "B4.MEC.BLOCO02.024",
+  "autores": [
+   "Borroto-Escuela DO",
+   "Ambrogini P",
+   "Chruścicka B",
+   "Lindskog M",
+   "Crespo-Ramirez M",
+   "Hernández-Mondragón JC",
+   "Perez de la Mora M",
+   "Schellekens H",
+   "Fuxe K"
+  ],
+  "ano": "2021",
+  "titulo": "The Role of Central Serotonin Neurons and 5-HT Heteroreceptor Complexes in the Pathophysiology of Depression: A Historical Perspective and Future Prospects.",
+  "revista": "Int J Mol Sci",
+  "doi": "10.1016/j.nbd.2019.01.026",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Serotonin communication operates mainly in the extracellular space and cerebrospinal fluid (CSF), using volume transmission with serotonin moving from source to target cells (neurons and astroglia) via energy gradients, leading to the diffusion and convection (flow) of serotonin. One emerging concept in depression is that disturbances in the integrative allosteric receptor-receptor interactions in highly vulnerable 5-HT1A heteroreceptor complexes can contribute to causing major depression and become novel targets for the treatment of major depression (MD) and anxiety. For instance, a disruption and/or dysfunction in the 5-HT1A-FGFR1 heteroreceptor complexes in the raphe-hippocampal serotonin neuron systems can contribute to the development of MD. It leads inter alia to reduced neuroplasticity and potential atrophy in the raphe-cortical and raphe-striatal 5-HT pathways and in all its forebrain networks. Reduced 5-HT1A auto-receptor function, increased plasticity and trophic activity in the midbrain raphe 5-HT neurons can develop via agonist activation of allosteric receptor-receptor interactions in the 5-HT1A-FGFR1 heterocomplex. Additionally, the inhibitory allosteric receptor-rece"
+ },
+ {
+  "pmid": "30144453",
+  "grupo": "5HT",
+  "label": "Zmudzka_2018",
+  "id": "REF_ZMUDZKA_2018",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_02",
+  "subsec": "2.1",
+  "claim_id": "B4.MEC.BLOCO02.025",
+  "autores": [
+   "Żmudzka E",
+   "Sałaciak K",
+   "Sapa J",
+   "Pytka K"
+  ],
+  "ano": "2018",
+  "titulo": "Serotonin receptors in depression and anxiety: Insights from animal studies.",
+  "revista": "Life Sci",
+  "doi": "10.1016/j.lfs.2018.08.050",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Serotonin regulates many physiological processes including sleep, appetite, and mood. Thus, serotonergic system is an important target in the treatment of psychiatric disorders, such as major depression and anxiety. This natural neurotransmitter interacts with 7 families of its receptors (5-HT1-7), which cause a variety of pharmacological effects. Using genetically modified animals and selective or preferential agonists and antagonist, numerous studies demonstrated the involvement of almost all serotonin receptor subtypes in antidepressant- or anxiolytic-like effects. In this review, based on animal studies, we discuss the possible involvement of serotonin receptor subtypes in depression and anxiety."
+ },
+ {
+  "pmid": "30430940",
+  "grupo": "5HT",
+  "label": "Songtachalert_2018",
+  "id": "REF_SONGTACHALERT_2018",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_02",
+  "subsec": "2.1",
+  "claim_id": "B4.MEC.BLOCO02.026",
+  "autores": [
+   "Songtachalert T",
+   "Roomruangwong C",
+   "Carvalho AF",
+   "Bourin M",
+   "Maes M"
+  ],
+  "ano": "2018",
+  "titulo": "Anxiety Disorders: Sex Differences in Serotonin and Tryptophan Metabolism.",
+  "revista": "Curr Top Med Chem",
+  "doi": "10.2174/1568026618666181115093136",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Anxiety disorders manifest in women more than in men by almost twofold. This narrative review aims to summarize the sex-related biological factors, which underpin anxiety, focusing on the interactions of sex and tryptophan/serotonin with anxiety. A literature search was conducted using Google Scholar, PubMed/MEDLINE, Scopus, and EMBASE databases from inception until December 31, 2017. This review shows that sex may interact with many serotonin functions thereby modulating anxiety, including 5-HT1A and 5-HT2C receptors, 5-HT transporter and central 5-HT concentrations and metabolism. Sex-steroids modulate the expression of serotonin transporter genes, creating a difference in serotonin availability. Sex and estrous cycle phases lead to varying anxiety responses to tryptophan depletion. Testosterone, progesterone and estrogen are important factors in mediating sex differences in serotonin responses to anxiety-generating behavioral tests. At prenatal levels, there are sexrelated differences in the reciprocal relationships between serotonin and the HPA-axis, which modulate anxiety-like behaviors. Activated immune-inflammatory pathways induce indoleamine-2,3-dioxynease (IDO) and the try"
+ },
+ {
+  "pmid": "27353308",
+  "grupo": "5HT",
+  "label": "Nautiyal_2016",
+  "id": "REF_NAUTIYAL_2016",
+  "tag": "ML",
+  "nivel": "SUPPORT",
+  "evid_role": "MEC",
+  "bloco": "BLOCO_02",
+  "subsec": "2.1",
+  "claim_id": "B4.MEC.BLOCO02.027",
+  "autores": [
+   "Nautiyal KM",
+   "Tritschler L",
+   "Ahmari SE",
+   "David DJ",
+   "Gardier AM",
+   "Hen R"
+  ],
+  "ano": "2016",
+  "titulo": "A Lack of Serotonin 1B Autoreceptors Results in Decreased Anxiety and Depression-Related Behaviors.",
+  "revista": "Neuropsychopharmacology",
+  "doi": "10.1038/npp.2016.109",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "The effects of serotonin (5-HT) on anxiety and depression are mediated by a number of 5-HT receptors, including autoreceptors that act to inhibit 5-HT release. While the majority of anxiety and depression-related research has focused on the 5-HT1A receptor, the 5-HT1B receptor has a lesser known role in modulating emotional behavior. 5-HT1B receptors are inhibitory GPCRs located on the presynaptic terminal of both serotonin and non-serotonin neurons, where they act to inhibit neurotransmitter release. The autoreceptor population located on the axon terminals of 5-HT neurons is a difficult population to study due to their diffuse localization throughout the brain that overlaps with 5-HT1B heteroreceptors (receptors located on non-serotonergic neurons). In order to study the contribution of 5-HT1B autoreceptors to anxiety and depression-related behaviors, we developed a genetic mouse model that allows for selective ablation of 5-HT1B autoreceptors. Mice lacking 5-HT1B autoreceptors displayed the expected increases in extracellular serotonin levels in the ventral hippocampus following administration of a selective serotonin reuptake inhibitor. In behavioral studies, they displayed dec"
+ },
+ {
+  "pmid": "9844013",
+  "grupo": "5HT",
+  "label": "Heisler_1998",
+  "id": "REF_HEISLER_1998",
+  "tag": "ML",
+  "nivel": "SUPPORT",
+  "evid_role": "MEC",
+  "bloco": "BLOCO_02",
+  "subsec": "2.1",
+  "claim_id": "B4.MEC.BLOCO02.028",
+  "autores": [
+   "Heisler LK",
+   "Chu HM",
+   "Brennan TJ",
+   "Danao JA",
+   "Bajwa P",
+   "Parsons LH",
+   "Tecott LH"
+  ],
+  "ano": "1998",
+  "titulo": "Elevated anxiety and antidepressant-like responses in serotonin 5-HT1A receptor mutant mice.",
+  "revista": "Proc Natl Acad Sci U S A",
+  "doi": "10.1073/pnas.95.25.15049",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, U.S. Gov't, Non-P.H.S.",
+   "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "The brain serotonin (5-hydroxytryptamine; 5-HT) system is a powerful modulator of emotional processes and a target of medications used in the treatment of psychiatric disorders. To evaluate the contribution of serotonin 5-HT1A receptors to the regulation of these processes, we have used gene-targeting technology to generate 5-HT1A receptor-mutant mice. These animals lack functional 5-HT1A receptors as indicated by receptor autoradiography and by resistance to the hypothermic effects of the 5-HT1A receptor agonist 8-hydroxy-2-(di-n-propylamino)tetralin (8-OH-DPAT). Homozygous mutants display a consistent pattern of responses indicative of elevated anxiety levels in open-field, elevated-zero maze, and novel-object assays. Moreover, they exhibit antidepressant-like responses in a tail-suspension assay. These results indicate that the targeted disruption of the 5-HT1A receptor gene leads to heritable perturbations in the serotonergic regulation of emotional state. 5-HT1A receptor-null mutant mice have potential as a model for investigating mechanisms through which serotonergic systems modulate affective state and mediate the actions of psychiatric drugs."
+ },
+ {
+  "pmid": "22832966",
+  "grupo": "5HT",
+  "label": "Mosienko_2012",
+  "id": "REF_MOSIENKO_2012",
+  "tag": "ML",
+  "nivel": "SUPPORT",
+  "evid_role": "MEC",
+  "bloco": "BLOCO_02",
+  "subsec": "2.1",
+  "claim_id": "B4.MEC.BLOCO02.029",
+  "autores": [
+   "Mosienko V",
+   "Bert B",
+   "Beis D",
+   "Matthes S",
+   "Fink H",
+   "Bader M",
+   "Alenina N"
+  ],
+  "ano": "2012",
+  "titulo": "Exaggerated aggression and decreased anxiety in mice deficient in brain serotonin.",
+  "revista": "Transl Psychiatry",
+  "doi": "10.1038/tp.2012.44",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Serotonin is a major neurotransmitter in the central nervous system (CNS). Dysregulation of serotonin transmission in the CNS is reported to be related to different psychiatric disorders in humans including depression, impulsive aggression and anxiety disorders. The most frequently prescribed antidepressants and anxiolytics target the serotonergic system. However, these drugs are not effective in 20-30% of cases. The causes of this failure as well as the molecular mechanisms involved in the origin of psychological disorders are poorly understood. Biosynthesis of serotonin in the CNS is initiated by tryptophan hydroxylase 2 (TPH2). In this study, we used Tph2-deficient (Tph2(-/-)) mice to evaluate the impact of serotonin depletion in the brain on mouse behavior. Tph2(-/-) mice exhibited increased depression-like behavior in the forced swim test but not in the tail suspension test. In addition, they showed decreased anxiety-like behavior in three different paradigms: elevated plus maze, marble burying and novelty-suppressed feeding tests. These phenotypes were accompanied by strong aggressiveness observed in the resident-intruder paradigm. Despite carrying only one copy of the gene, "
+ },
+ {
+  "pmid": "28920103",
+  "grupo": "5HT",
+  "label": "BorrotoEscuela_2017",
+  "id": "REF_BORROTOESCUELA_2017",
+  "tag": "ML",
+  "nivel": "SUPPORT",
+  "evid_role": "MEC",
+  "bloco": "BLOCO_02",
+  "subsec": "2.1",
+  "claim_id": "B4.MEC.BLOCO02.030",
+  "autores": [
+   "Borroto-Escuela DO",
+   "Li X",
+   "Tarakanov AO",
+   "Savelli D",
+   "Narváez M",
+   "Shumilov K",
+   "Andrade-Talavera Y",
+   "Jimenez-Beristain A",
+   "Pomierny B",
+   "Díaz-Cabiale Z",
+   "Cuppini R",
+   "Ambrogini P",
+   "Lindskog M",
+   "Fuxe K"
+  ],
+  "ano": "2017",
+  "titulo": "Existence of Brain 5-HT1A-5-HT2A Isoreceptor Complexes with Antagonistic Allosteric Receptor-Receptor Interactions Regulating 5-HT1A Receptor Recognition.",
+  "revista": "ACS Omega",
+  "doi": "10.1186/2193-1801-2-128",
+  "pubtypes": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Studies on serotonin-selective reuptake inhibitors have established that disturbances in the ascending 5-HT neuron systems and their 5-HT receptor subtypes and collateral networks to the forebrain contribute to the etiology of major depression and are targets for treatment. The therapeutic action of serotonin-selective reuptake inhibitors is of proven effectiveness, but the mechanisms underlying their effect are still unclear. There are many 5-HT subtypes involved; some need to be blocked (e.g., 5-HT2A, 5-HT3, and 5-HT7), whereas others need to be activated (e.g., postjunctional 5-HT1A and 5-HT4). These state-of-the-art developments are in line with the hypothesis that the development of major depression can involve an imbalance of the activity between different types of 5-HT isoreceptors. In the current study, using in situ proximity ligation assay (PLA), we report evidence for the existence of brain 5-HT1A-5-HT2A isoreceptor complexes validated in cellular models with bioluminescence resonance energy transfer (BRET2) assay. A high density of PLA-positive clusters visualizing 5-HT1A-5-HT2A isoreceptor complexes was demonstrated in the pyramidal cell layer of the CA1-CA3 regions of"
+ },
+ {
+  "pmid": "26083190",
+  "grupo": "5HT",
+  "label": "Frick_2015",
+  "id": "REF_FRICK_2015",
+  "tag": "EC",
+  "nivel": "CORE",
+  "evid_role": "SUP",
+  "bloco": "BLOCO_02",
+  "subsec": "2.1",
+  "claim_id": "B4.MEC.BLOCO02.031",
+  "autores": [
+   "Frick A",
+   "Åhs F",
+   "Engman J",
+   "Jonasson M",
+   "Alaie I",
+   "Björkstrand J",
+   "Frans Ö",
+   "Faria V",
+   "Linnman C",
+   "Appel L",
+   "Wahlstedt K",
+   "Lubberink M",
+   "Fredrikson M",
+   "Furmark T"
+  ],
+  "ano": "2015",
+  "titulo": "Serotonin Synthesis and Reuptake in Social Anxiety Disorder: A Positron Emission Tomography Study.",
+  "revista": "JAMA Psychiatry",
+  "doi": "10.1001/jamapsychiatry.2015.0125",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Serotonin is involved in negative affect, but whether anxiety syndromes, such as social anxiety disorder (SAD), are characterized by an overactive or underactive serotonin system has not been established. Serotonin 1A autoreceptors, which inhibit serotonin synthesis and release, are downregulated in SAD, and serotonin transporter availability might be increased; however, presynaptic serotonin activity has not been evaluated extensively. To examine the serotonin synthesis rate and serotonin transporter availability in patients with SAD and healthy control individuals using positron emission tomography (PET) with the radioligands 5-hydroxytryptophan labeled with carbon 11 ([11C]5-HTP) and 11C-labeled 3-amino-4-(2-dimethylaminomethylphenylsulfanyl)-benzonitrile [11C]DASB. We performed a cross-sectional study at an academic clinical research center. Eighteen patients with SAD (9 men and 9 women; mean [SD] age, 32.6 [8.2] years) and 18 sex- and age-matched healthy controls (9 men and 9 women; mean [SD] age, 34.7 [9.2] years) underwent [11C]5-HTP PET imaging. We acquired [11C]DASB PET images for 26 additional patients with SAD (14 men and 12 women; mean [SD] age, 35.2 [10.7] years) and t"
+ },
+ {
+  "pmid": "11331552",
+  "grupo": "DEPL",
+  "label": "Bell_2001",
+  "id": "REF_BELL_2001",
+  "tag": "MA",
+  "nivel": "CORE",
+  "evid_role": "SUP",
+  "bloco": "BLOCO_02",
+  "subsec": "2.3",
+  "claim_id": "B4.MEC.BLOCO02.041",
+  "autores": [
+   "Bell C",
+   "Abrams J",
+   "Nutt D"
+  ],
+  "ano": "2001",
+  "titulo": "Tryptophan depletion and its implications for psychiatry.",
+  "revista": "Br J Psychiatry",
+  "doi": "10.1192/bjp.178.5.399",
+  "pubtypes": [
+   "Journal Article",
+   "Systematic Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Over the past 10 years the technique of tryptophan depletion has been used increasingly as a tool for studying brain serotonergic systems. To review the technique of tryptophan depletion and its current status as a tool for investigating psychiatric disorders. Systematic review of preclinical and clinical studies. Tryptophan depletion produces a marked reduction in plasma tryptophan and consequently brain serotonin (5-HT) synthesis and release. In healthy volunteers the effects of tryptophan depletion are influenced by the characteristics of the subjects and include some mood lowering, some memory impairment and an increase in aggression. In patients with depression tryptophan depletion tends to result in no worsening of depression in untreated subjects but a relapse in those who have responded to antidepressants (particularly serotonergic agents). In panic disorder the results are similar. The findings that tryptophan depletion produces a relapse of symptoms in patients with depression and panic disorder who have responded to treatment with antidepressants suggests that enhanced 5-HT function is important in maintaining response in these conditions."
+ },
+ {
+  "pmid": "11063917",
+  "grupo": "DEPL",
+  "label": "Moore_2000",
+  "id": "REF_MOORE_2000",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_02",
+  "subsec": "2.3",
+  "claim_id": "B4.MEC.BLOCO02.042",
+  "autores": [
+   "Moore P",
+   "Landolt HP",
+   "Seifritz E",
+   "Clark C",
+   "Bhatti T",
+   "Kelsoe J",
+   "Rapaport M",
+   "Gillin JC"
+  ],
+  "ano": "2000",
+  "titulo": "Clinical and physiological consequences of rapid tryptophan depletion.",
+  "revista": "Neuropsychopharmacology",
+  "doi": "10.1016/S0893-133X(00)00161-5",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, U.S. Gov't, Non-P.H.S.",
+   "Research Support, U.S. Gov't, P.H.S.",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "We review here the rapid tryptophan depletion (RTD) methodology and its controversial association with depressive relapse. RTD has been used over the past decade to deplete serotonin (5-hydroxy-tryptamine, or 5-HT) in humans and to probe the role of the central serotonin system in a variety of psychiatric conditions. Its current popularity was stimulated by reports that RTD reversed the antidepressant effects of selective serotonin reuptake inhibitors (SSRIs) and monoamine oxidase inhibitors (MAOIs) in remitted patients with a history of depression but not in patients treated with antidepressants which promote catecholaminergic rather than serotonergic neurotransmission (such as tricyclic antidepressants or buproprion). However, RTD has inconsistent effects in terms of full clinical relapse in depressed patients. Pooling the data from all published reports, patients who are either unmedicated and/or fully remitted are much less likely to experience relapse (7 of 61, or approximately 9%) than patients who are recently medicated and partially remitted (63 of 133, or approximately 47%; although, the numbers here may reflect patient overlap between reports). Recently remitted patients "
+ },
+ {
+  "pmid": "12431859",
+  "grupo": "DEPL",
+  "label": "Booij_2002",
+  "id": "REF_BOOIJ_2002",
+  "tag": "MA",
+  "nivel": "CORE",
+  "evid_role": "SUP",
+  "bloco": "BLOCO_02",
+  "subsec": "2.3",
+  "claim_id": "B4.MEC.BLOCO02.043",
+  "autores": [
+   "Booij L",
+   "Van der Does W",
+   "Benkelfat C",
+   "Bremner JD",
+   "Cowen PJ",
+   "Fava M",
+   "Gillin C",
+   "Leyton M",
+   "Moore P",
+   "Smith KA",
+   "Van der Kloot WA"
+  ],
+  "ano": "2002",
+  "titulo": "Predictors of mood response to acute tryptophan depletion. A reanalysis.",
+  "revista": "Neuropsychopharmacology",
+  "doi": "10.1016/S0893-133X(02)00361-5",
+  "pubtypes": [
+   "Comparative Study",
+   "Journal Article",
+   "Meta-Analysis",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Acute tryptophan depletion (ATD) induces depressive symptoms in 50-60% of selective serotonin reuptake inhibitor (SSRI) treated, recovered depressed patients. However, no reliable predictors of mood response to ATD have been established. In the present study, individual subject data of six ATD studies were pooled ('mega-analysis') in order to investigate the mediating role of clinical, demographic and biochemical characteristics in the mood response to ATD. A procedure was developed to make different versions of the Hamilton scale comparable. Recurrent depressive episodes, female gender, prior exposure to SSRI antidepressant treatment and previous serious suicidal thoughts/attempts all appear to be independent predictors of mood response to ATD. Chronicity of illness is the most powerful predictor. Residual symptoms of depression were not found to predict response to ATD. ATD may be useful to study the mechanism of action of SSRI antidepressants and individual biological vulnerability of the serotonin system. Whether the effects of ATD represent a reversal of the action of SSRI antidepressants or individual vulnerability probably depends upon the timing of the procedure in the cour"
+ },
+ {
+  "pmid": "11922881",
+  "grupo": "DEPL",
+  "label": "Berman_2002",
+  "id": "REF_BERMAN_2002",
+  "tag": "EC",
+  "nivel": "CORE",
+  "evid_role": "NEG",
+  "bloco": "BLOCO_02",
+  "subsec": "2.3",
+  "claim_id": "B4.MEC.BLOCO02.044",
+  "autores": [
+   "Berman RM",
+   "Sanacora G",
+   "Anand A",
+   "Roach LM",
+   "Fasula MK",
+   "Finkelstein CO",
+   "Wachen RM",
+   "Oren DA",
+   "Heninger GR",
+   "Charney DS"
+  ],
+  "ano": "2002",
+  "titulo": "Monoamine depletion in unmedicated depressed subjects.",
+  "revista": "Biol Psychiatry",
+  "doi": "10.1016/s0006-3223(01)01285-9",
+  "pubtypes": [
+   "Clinical Trial",
+   "Comparative Study",
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Although significant evidence suggests that diminished monoamine function is associated with clinical depression, catecholamine or indoleamine depletion alone has not been associated with significant mood changes in unmedicated depressed subjects or never-depressed control subjects. This study assesses the integrated role of these monoamine systems in depressed patients. Unmedicated depressed subjects underwent a 2-week, double-blind, random-ordered crossover study consisting of the following active and control conditions respectively: indoleamine (via tryptophan depletion) plus catecholamine (via alpha-methyl-paratyrosine administration) depletion and, separately, indoleamine plus sham (via diphenhydramine administration) catecholamine depletion. Ten subjects completed both conditions; two subjects were withdrawn after active testing and one after control testing. Mean Hamilton Depression Rating Scale (HDRS) scores decreased progressively throughout the study days (baseline 26.7 points +/- 1.7 SEM and termination 20.0 +/- 2.4, active depletion; baseline 26.1 points +/- 2.3 SEM and termination 23.2 +/- 2.6, control testing) but did not differ between groups. Only three patients dem"
+ },
+ {
+  "pmid": "8988796",
+  "grupo": "DEPL",
+  "label": "Salomon_1997",
+  "id": "REF_SALOMON_1997",
+  "tag": "EC",
+  "nivel": "CORE",
+  "evid_role": "NEG",
+  "bloco": "BLOCO_02",
+  "subsec": "2.3",
+  "claim_id": "B4.MEC.BLOCO02.045",
+  "autores": [
+   "Salomon RM",
+   "Miller HL",
+   "Krystal JH",
+   "Heninger GR",
+   "Charney DS"
+  ],
+  "ano": "1997",
+  "titulo": "Lack of behavioral effects of monoamine depletion in healthy subjects.",
+  "revista": "Biol Psychiatry",
+  "doi": "10.1016/0006-3223(95)00670-2",
+  "pubtypes": [
+   "Clinical Trial",
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Research Support, U.S. Gov't, Non-P.H.S.",
+   "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "This study was designed to determine the behavioral effects of a reduction in catecholamine and indoleamine function in healthy subjects. Eight healthy subjects received the tyrosine hydroxylase inhibitor, alpha-methyl-para-tyrosine (AMPT) in combination with a full-strength tryptophan-depleting amino acid drink during one 4-day test session, and AMPT and tryptophan-supplemented amino acid drink (n = 2), or a 25% strength tryptophan-depleting amino acid drink (n = 6) during a second 4-day test session. The combined administration of AMPT and the tryptophan-free amino acid drink did not produce statistically significant or even clinically noticeable changes in mood among the healthy subjects. The implications of these observations for the monoamine hypotheses of depression are discussed."
+ },
+ {
+  "pmid": "15131521",
+  "grupo": "DEPL",
+  "label": "Neumeister_2003",
+  "id": "REF_NEUMEISTER_2003",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_02",
+  "subsec": "2.3",
+  "claim_id": "B4.MEC.BLOCO02.046",
+  "autores": [
+   "Neumeister A"
+  ],
+  "ano": "2003",
+  "titulo": "Tryptophan depletion, serotonin, and depression: where do we stand?",
+  "revista": "Psychopharmacol Bull",
+  "doi": "",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Tryptophan depletion is a widely used paradigm to study serotonin system-related mechanisms in the pathophysiology and treatment of depression. There is convincing evidence that tryptophan depletion primarily and selectively affects serotonergic transmission. The behavioral data in healthy controls with and without genetic risk for depression, and in patient populations during the symptomatic phase of depression and when being remitted, suggest a trait abnormality of serotonin function in depression and that antidepressants may compensate for the underlying deficit. Tryptophan depletion may be a useful tool to create more integrative models for the pathophysiology of depression that take into account neurobiological systems beyond monoamines. More recent studies combining tryptophan depletion with genetic variables may provide an important approach for studying gene/environment interactions using candidate genes to define endophenotypes, which ultimately will improve currently used diagnostic categories and help to generate more advanced models to understand the neurobiology of depression. This may lead to the development of truly novel treatment approaches for depression."
+ },
+ {
+  "pmid": "14647394",
+  "grupo": "DEPL",
+  "label": "Booij_2003",
+  "id": "REF_BOOIJ_2003",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_02",
+  "subsec": "2.3",
+  "claim_id": "B4.MEC.BLOCO02.047",
+  "autores": [
+   "Booij L",
+   "Van der Does AJ",
+   "Riedel WJ"
+  ],
+  "ano": "2003",
+  "titulo": "Monoamine depletion in psychiatric and healthy populations: review.",
+  "revista": "Mol Psychiatry",
+  "doi": "10.1038/sj.mp.4001423",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "A number of techniques temporarily lower the functioning of monoamines: acute tryptophan depletion (ATD), alpha-methyl-para-tyrosine (AMPT) and acute phenylalanine/tyrosine depletion (APTD). This paper reviews the results of monoamine depletion studies in humans for the period 1966 until December 2002. The evidence suggests that all three interventions are specific, in terms of their short-term effects on one or two neurotransmitter systems, rather than on brain protein metabolism in general. The AMPT procedure is somewhat less specific, affecting both the dopamine and norepinephrine systems. The behavioral effects of ATD and AMPT are remarkably similar. Neither procedure has an immediate effect on the symptoms of depressed patients; however, both induce transient depressive symptoms in some remitted depressed patients. The magnitude of the effects, response rate and quality of response are also comparable. APTD has not been studied in recovered major depressive patients. Despite the similarities, the effects are distinctive in that ATD affects a subgroup of recently remitted patients treated with serotonergic medications, whereas AMPT affects recently remitted patients treated wit"
+ },
+ {
+  "pmid": "14731308",
+  "grupo": "DEPL",
+  "label": "Hughes_2004",
+  "id": "REF_HUGHES_2004",
+  "tag": "EC",
+  "nivel": "CORE",
+  "evid_role": "SUP",
+  "bloco": "BLOCO_02",
+  "subsec": "2.3",
+  "claim_id": "B4.MEC.BLOCO02.048",
+  "autores": [
+   "Hughes JM",
+   "Matrenza C",
+   "Kemp AH",
+   "Harrison BJ",
+   "Liley D",
+   "Nathan PJ"
+  ],
+  "ano": "2004",
+  "titulo": "Selective effects of simultaneous monoamine depletion on mood and emotional responsiveness.",
+  "revista": "Int J Neuropsychopharmacol",
+  "doi": "10.1017/S1461145703003845",
+  "pubtypes": [
+   "Clinical Trial",
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Monoamines play a significant role in the regulation of mood and emotion. While the selective effects of serotonin and catecholamine depletion on mood have been described, the effects of simultaneous monoamine depletion on subjective measures of mood and emotional responsiveness are yet to be examined. The current study aimed to investigate the effects of simultaneous monoamine depletion on mood and emotional responsiveness in healthy participants. Twenty female participants completed a randomized, double-blind, placebo-controlled study, under a balanced control condition (B), and a combined monoamine depletion condition (CMD; via tryptophan, tyrosine and phenylalanine depletion). Mood ratings Visual Analogue Mood Scale (VAMS) and Profile Of Mood States (POMS) and measures of emotional responsiveness (Emotional Stroop and International Affective Picture System) were examined at baseline and 5 h post-depletion. Following CMD, participants rated themselves as feeling sadder, more antagonistic, and mentally slower on three VAMS subscales. There were no significant mood changes found on the POMS or measures of emotional responsiveness. These findings suggest that simultaneous depletion"
+ },
+ {
+  "pmid": "12955284",
+  "grupo": "DEPL",
+  "label": "McLean_2004",
+  "id": "REF_MCLEAN_2004",
+  "tag": "EC",
+  "nivel": "CORE",
+  "evid_role": "NEG",
+  "bloco": "BLOCO_02",
+  "subsec": "2.3",
+  "claim_id": "B4.MEC.BLOCO02.049",
+  "autores": [
+   "McLean A",
+   "Rubinsztein JS",
+   "Robbins TW",
+   "Sahakian BJ"
+  ],
+  "ano": "2004",
+  "titulo": "The effects of tyrosine depletion in normal healthy volunteers: implications for unipolar depression.",
+  "revista": "Psychopharmacology (Berl)",
+  "doi": "10.1007/s00213-003-1586-8",
+  "pubtypes": [
+   "Clinical Trial",
+   "Comparative Study",
+   "Controlled Clinical Trial",
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "In recent years, there has been a growing interest in the role of dopamine (DA) both in the pathogenesis of unipolar depression and in motivated behaviour. The innovative technique of acute tyrosine depletion presents an opportunity to characterise further its function in these domains. The present study examined the physiological, subjective and cognitive effects of acute tyrosine depletion in healthy volunteers. A double-blind, placebo-controlled, parallel group design was employed. Half of the participants ingested a balanced amino-acid mixture (BAL) and the other half received an identical mixture except that tyrosine and phenylalanine were absent (TYR-free). Plasma amino acid concentrations and subjective ratings were monitored at both baseline (T(0)) and 5 h following consumption (T(5)) of the mixtures. A comprehensive neuropsychological test battery was also administered at T(5). Relative to the BAL group, the reduction in TYR availability to the brain was more marked in the TYR-free group. Employment of psychological rating scales revealed that, compared with the BAL group, the TYR-free group became less content and more apathetic. For the affective go/no-go task, whilst th"
+ },
+ {
+  "pmid": "33574223",
+  "grupo": "DEPL",
+  "label": "Schopman_2021",
+  "id": "REF_SCHOPMAN_2021",
+  "tag": "MA",
+  "nivel": "CORE",
+  "evid_role": "NEG",
+  "bloco": "BLOCO_02",
+  "subsec": "2.3",
+  "claim_id": "B4.MEC.BLOCO02.050",
+  "autores": [
+   "Schopman SME",
+   "Bosman RC",
+   "Muntingh ADT",
+   "van Balkom AJLM",
+   "Batelaan NM"
+  ],
+  "ano": "2021",
+  "titulo": "Effects of tryptophan depletion on anxiety, a systematic review.",
+  "revista": "Transl Psychiatry",
+  "doi": "10.1177/0269881115581093",
+  "pubtypes": [
+   "Journal Article",
+   "Systematic Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Vulnerability markers for onset of anxiety disorders are scarce. In depression, patients at risk tend to respond with a negative mood to 'acute tryptophan depletion' (ATD), while healthy volunteers and current patients do not. The serotonergic system thus provides indications for vulnerability for depression. It is unknown whether ATD reveals vulnerability in anxiety too. This study systematically reviews the effects of ATD on anxiety and assesses whether challenging anxiety modifies the response. PubMed, Embase and PsychInfo were systematically searched up to April 2019 for studies in which (1) healthy volunteers or patients with a (remitted) anxiety disorder underwent ATD and (2) levels of anxiety were reported. In total, 21 studies were included. Studies conducted in healthy volunteers (n = 13), and patients with a remitted (n = 6) or current (panic, social or generalised) anxiety disorder (n = 4). Studies were mostly of poor quality and heterogeneous regarding population, challenge test used and outcome measures. ATD did not consistently affect anxiety in any of the groups. Moreover, a challenge test after ATD (n = 17 studies) did not consistently provoke anxiety in healthy vol"
+ },
+ {
+  "pmid": "37430145",
+  "grupo": "DEPL",
+  "label": "Bilc_2023",
+  "id": "REF_BILC_2023",
+  "tag": "EC",
+  "nivel": "CORE",
+  "evid_role": "NEG",
+  "bloco": "BLOCO_02",
+  "subsec": "2.3",
+  "claim_id": "B4.MEC.BLOCO02.051",
+  "autores": [
+   "Bîlc MI",
+   "Iacob A",
+   "Szekely-Copîndean RD",
+   "Kiss B",
+   "Ștefan MG",
+   "Mureșan RC",
+   "Pop CF",
+   "Pițur S",
+   "Szentágotai-Tătar A",
+   "Vulturar R",
+   "MacLeod C",
+   "Miu AC"
+  ],
+  "ano": "2023",
+  "titulo": "Serotonin and emotion regulation: the impact of tryptophan depletion on emotional experience, neural and autonomic activity.",
+  "revista": "Cogn Affect Behav Neurosci",
+  "doi": "10.1007/BF00431803",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The involvement of serotonin in emotion and psychopathology has been extensively examined. Studies using acute tryptophan depletion (ATD) have found limited effects on mood and aggression, and one of the explanations suggests that serotonin may be involved in higher-order functions, such as emotion regulation. However, there is very limited evidence for this hypothesis. The present study investigated the impact of ATD on emotion regulation in a double-blind, placebo-controlled, crossover design. A sample of psychiatrically healthy men (N = 28) completed a cognitive task assessing reappraisal ability (i.e., the success of using reappraisal, an emotion regulation strategy, to modulate emotional responses), following ATD and placebo. EEG frontal activity and asymmetry, as well as heart-rate variability (HRV), also were assessed in the reappraisal task. Both frequentist and Bayesian methods were employed for statistical analysis. Results indicated that ATD reduced plasma tryptophan, and reappraisal was effective in modulating emotional experience in the emotion regulation task. However, ATD had no significant effect on reappraisal ability, frontal activity, and HRV. These results offer"
+ },
+ {
+  "pmid": "3275471",
+  "grupo": "DEPL",
+  "label": "Kahn_1988",
+  "id": "REF_KAHN_1988",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_02",
+  "subsec": "2.3",
+  "claim_id": "B4.MEC.BLOCO02.052",
+  "autores": [
+   "Kahn RS",
+   "van Praag HM",
+   "Wetzler S",
+   "Asnis GM",
+   "Barr G"
+  ],
+  "ano": "1988",
+  "titulo": "Serotonin and anxiety revisited.",
+  "revista": "Biol Psychiatry",
+  "doi": "10.1016/0006-3223(88)90091-1",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": ""
+ },
+ {
+  "pmid": "15450786",
+  "grupo": "DEPL",
+  "label": "Argyropoulos_2004",
+  "id": "REF_ARGYROPOULOS_2004",
+  "tag": "EC",
+  "nivel": "CORE",
+  "evid_role": "SUP",
+  "bloco": "BLOCO_02",
+  "subsec": "2.3",
+  "claim_id": "B4.MEC.BLOCO02.053",
+  "autores": [
+   "Argyropoulos SV",
+   "Hood SD",
+   "Adrover M",
+   "Bell CJ",
+   "Rich AS",
+   "Nash JR",
+   "Rich NC",
+   "Witchel HJ",
+   "Nutt DJ"
+  ],
+  "ano": "2004",
+  "titulo": "Tryptophan depletion reverses the therapeutic effect of selective serotonin reuptake inhibitors in social anxiety disorder.",
+  "revista": "Biol Psychiatry",
+  "doi": "10.1016/j.biopsych.2004.07.006",
+  "pubtypes": [
+   "Clinical Trial",
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Tryptophan depletion studies have suggested that central serotonin (5-hydroxytryptamine, 5-HT) function mediates the therapeutic effect of selective serotonin reuptake inhibitors (SSRIs) in depression and panic disorder. The present study tested the hypothesis that temporary reduction in central 5-HT transmission, through acute tryptophan depletion, could reverse the therapeutic effect of the SSRIs in social anxiety disorder (SAD) patients. Fourteen patients with SAD who showed sustained clinical improvement with SSRI treatment underwent tryptophan depletion in a double-blind, placebo-controlled, crossover design, over 2 days 1 week apart. At the peak time of depletion, the participants also underwent three behavioral challenges: autobiographical script, verbal task, and neutral script. Psychological outcome was assessed with the Spielberger State Anxiety Inventory (STAI) Form Y-1 and visual analog scales (VAS) measuring anxiety, depression, and somatic symptoms. Anxiety was significantly increased on the depletion day compared with the control day, both on the STAI Form Y-1 and composite VAS score. Furthermore, there was a significant depletion x time interaction, explained mainly"
+ },
+ {
+  "pmid": "16566899",
+  "grupo": "DA",
+  "label": "Nestler_2006",
+  "id": "REF_NESTLER_2006",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_03",
+  "subsec": "3.1",
+  "claim_id": "B4.MEC.BLOCO03.061",
+  "autores": [
+   "Nestler EJ",
+   "Carlezon WA"
+  ],
+  "ano": "2006",
+  "titulo": "The mesolimbic dopamine reward circuit in depression.",
+  "revista": "Biol Psychiatry",
+  "doi": "10.1016/j.biopsych.2005.09.018",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "The neural circuitry that mediates mood under normal and abnormal conditions remains incompletely understood. Most attention in the field has focused on hippocampal and frontal cortical regions for their role in depression and antidepressant action. While these regions no doubt play important roles in these phenomena, there is compelling evidence that other brain regions are also involved. Here we focus on the potential role of the nucleus accumbens (NAc; ventral striatum) and its dopaminergic input from the ventral tegmental area (VTA), which form the mesolimbic dopamine system, in depression. The mesolimbic dopamine system is most often associated with the rewarding effects of food, sex, and drugs of abuse. Given the prominence of anhedonia, reduced motivation, and decreased energy level in most individuals with depression, we propose that the NAc and VTA contribute importantly to the pathophysiology and symptomatology of depression and may even be involved in its etiology. We review recent studies showing that manipulations of key proteins (e.g. CREB, dynorphin, BDNF, MCH, or Clock) within the VTA-NAc circuit of rodents produce unique behavioral phenotypes, some of which are dir"
+ },
+ {
+  "pmid": "20603146",
+  "grupo": "DA",
+  "label": "Treadway_2011",
+  "id": "REF_TREADWAY_2011",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_03",
+  "subsec": "3.1",
+  "claim_id": "B4.MEC.BLOCO03.062",
+  "autores": [
+   "Treadway MT",
+   "Zald DH"
+  ],
+  "ano": "2011",
+  "titulo": "Reconsidering anhedonia in depression: lessons from translational neuroscience.",
+  "revista": "Neurosci Biobehav Rev",
+  "doi": "10.1016/j.neubiorev.2010.06.006",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Anhedonia is a core symptom of major depressive disorder (MDD), the neurobiological mechanisms of which remain poorly understood. Despite decades of speculation regarding the role of dopamine (DA) in anhedonic symptoms, empirical evidence has remained elusive, with frequent reports of contradictory findings. In the present review, we argue that this has resulted from an underspecified definition of anhedonia, which has failed to dissociate between consummatory and motivational aspects of reward behavior. Given substantial preclinical evidence that DA is involved primarily in motivational aspects of reward, we suggest that a refined definition of anhedonia that distinguishes between deficits in pleasure and motivation is essential for the purposes of identifying its neurobiological substrates. Moreover, bridging the gap between preclinical and clinical models of anhedonia may require moving away from the conceptualization of anhedonia as a steady-state, mood-like phenomena. Consequently, we introduce the term \"decisional anhedonia\" to address the influence of anhedonia on reward decision-making. These proposed modifications to the theoretical definition of anhedonia have implication"
+ },
+ {
+  "pmid": "26323245",
+  "grupo": "DA",
+  "label": "Salamone_2016",
+  "id": "REF_SALAMONE_2016",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_03",
+  "subsec": "3.1",
+  "claim_id": "B4.MEC.BLOCO03.063",
+  "autores": [
+   "Salamone JD",
+   "Pardo M",
+   "Yohn SE",
+   "López-Cruz L",
+   "SanMiguel N",
+   "Correa M"
+  ],
+  "ano": "2016",
+  "titulo": "Mesolimbic Dopamine and the Regulation of Motivated Behavior.",
+  "revista": "Curr Top Behav Neurosci",
+  "doi": "10.1007/7854_2015_383",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "It has been known for some time that nucleus accumbens dopamine (DA) is involved in aspects of motivation , but theoretical approaches to understanding the functions of DA have continued to evolve based upon emerging data and novel concepts. Although it has become traditional to label DA neurons as \"reward\" neurons, the actual findings are more complicated than that, because they indicate that DA neurons can respond to a variety of motivationally significant stimuli. Moreover, it is important to distinguish between aspects of motivation that are differentially affected by dopaminergic manipulations. Studies that involve nucleus accumbens DA antagonism or depletion indicate that accumbens DA does not mediate primary food motivation or appetite. Nevertheless, DA is involved in appetitive and aversive motivational processes including behavioral activation , exertion of effort, sustained task engagement, and Pavlovian-to-instrumental transfer. Interference with accumbens DA transmission affects instrumental behavior in a manner that interacts with the response requirements of the task and also shifts effort-related choice behavior, biasing animals toward low-effort alternatives. Dysfun"
+ },
+ {
+  "pmid": "29106542",
+  "grupo": "DA",
+  "label": "Belujon_2017",
+  "id": "REF_BELUJON_2017",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_03",
+  "subsec": "3.1",
+  "claim_id": "B4.MEC.BLOCO03.064",
+  "autores": [
+   "Belujon P",
+   "Grace AA"
+  ],
+  "ano": "2017",
+  "titulo": "Dopamine System Dysregulation in Major Depressive Disorders.",
+  "revista": "Int J Neuropsychopharmacol",
+  "doi": "10.1093/ijnp/pyx056",
+  "pubtypes": [
+   "Journal Article",
+   "Review",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Anhedonia is considered a core feature of major depressive disorder, and the dopamine system plays a pivotal role in the hedonic deficits described in this disorder. Dopaminergic activity is complex and under the regulation of multiple brain structures, including the ventral subiculum of the hippocampus and the basolateral amygdala. Whereas basic and clinical studies demonstrate deficits of the dopaminergic system in depression, the origin of these deficits likely lies in dysregulation of its regulatory afferent circuits. This review explores the current information regarding the afferent modulation of the dopaminergic system and its relevance to major depressive disorder, as well as some of the system-level effects of novel antidepressants such as agomelatine and ketamine."
+ },
+ {
+  "pmid": "29573379",
+  "grupo": "DA",
+  "label": "Szczypinski_2018",
+  "id": "REF_SZCZYPINSKI_2018",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_03",
+  "subsec": "3.1",
+  "claim_id": "B4.MEC.BLOCO03.065",
+  "autores": [
+   "Szczypiński JJ",
+   "Gola M"
+  ],
+  "ano": "2018",
+  "titulo": "Dopamine dysregulation hypothesis: the common basis for motivational anhedonia in major depressive disorder and schizophrenia?",
+  "revista": "Rev Neurosci",
+  "doi": "10.1515/revneuro-2017-0091",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Abnormalities in reward processing are crucial symptoms of major depressive disorder (MDD) and schizophrenia (SCH). Recent neuroscientific findings regarding MDD have led to conclusions about two different symptoms related to reward processing: motivational and consummatory anhedonia, corresponding, respectively, to impaired motivation to obtain rewards ('wanting'), and diminished satisfaction from consuming them ('liking'). One can ask: which of these is common for MDD and SCH. In our review of the latest neuroscientific studies, we show that MDD and SCH do not share consummatory anhedonia, as SCH patients usually have unaltered liking. Therefore, we investigated whether motivational anhedonia is the common symptom across MDD and SCH. With regard to the similarities and differences between the neural mechanisms of MDD and SCH, here we expand the current knowledge of motivation deficits and present the common underlying mechanism of motivational anhedonia - the dopamine dysregulation hypothesis - stating that any prolonged dysregulation in tonic dopamine signaling that exceeds the given equilibrium can lead to striatal dysfunction and motivational anhedonia. The implications for fu"
+ },
+ {
+  "pmid": "29309799",
+  "grupo": "DA",
+  "label": "Knowland_2018",
+  "id": "REF_KNOWLAND_2018",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_03",
+  "subsec": "3.1",
+  "claim_id": "B4.MEC.BLOCO03.066",
+  "autores": [
+   "Knowland D",
+   "Lim BK"
+  ],
+  "ano": "2018",
+  "titulo": "Circuit-based frameworks of depressive behaviors: The role of reward circuitry and beyond.",
+  "revista": "Pharmacol Biochem Behav",
+  "doi": "10.1016/j.pbb.2017.12.010",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Major depressive disorder (MDD) is a common but serious neuropsychiatric affliction that comprises a diverse set of symptoms such as the inability to feel pleasure, lack of motivation, changes in appetite, and cognitive difficulties. Given the patient to patient symptomatic variability in MDD and differing severities of individual symptoms, it is likely that maladaptive changes in distinct brain areas may mediate discrete symptoms in MDD. The advent and recent surge of studies using viral-genetic approaches have allowed for circuit-specific dissection of networks underlying motivational behavior. In particular, areas such as the ventral tegmental area (VTA), nucleus accumbens (NAc), and ventral pallidum (VP) are thought to generally promote reward, with the medial prefrontal cortex (mPFC) providing top-down control of reward seeking. On the contrary, the lateral habenula (LHb) is considered to be the aversive center of the brain as it has been shown to encode negative valence. The behavioral symptoms of MDD may arise from a disruption in the reward circuitry, hyperactivity of aversive centers, or a combination of the two. Thus, gaining access to specific circuits within the brain a"
+ },
+ {
+  "pmid": "26525751",
+  "grupo": "DA",
+  "label": "Heshmati_2015",
+  "id": "REF_HESHMATI_2015",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_03",
+  "subsec": "3.1",
+  "claim_id": "B4.MEC.BLOCO03.067",
+  "autores": [
+   "Heshmati M",
+   "Russo SJ"
+  ],
+  "ano": "2015",
+  "titulo": "Anhedonia and the brain reward circuitry in depression.",
+  "revista": "Curr Behav Neurosci Rep",
+  "doi": "10.1007/s40473-015-0044-3",
+  "pubtypes": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Anhedonia, or the loss of pleasure in previously rewarding stimuli, is a core symptom of major depressive disorder that may reflect an underlying dysregulation in reward processing. The mesolimbic dopamine circuit, also known as the brain's reward circuit, is integral to processing the rewarding salience of stimuli to guide actions. Manifestation of anhedonia and associated depression symptoms like feelings of sadness, changes in appetite, and psychomotor effects, may reflect changes in the brain reward circuitry as a common underlying disease process. This review will synthesize the recent literature from human and rodent studies providing a circuit-level framework for understanding anhedonia in depression, with emphasis on the nucleus accumbens."
+ },
+ {
+  "pmid": "18654637",
+  "grupo": "DA",
+  "label": "Shirayama_2006",
+  "id": "REF_SHIRAYAMA_2006",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_03",
+  "subsec": "3.1",
+  "claim_id": "B4.MEC.BLOCO03.068",
+  "autores": [
+   "Shirayama Y",
+   "Chaki S"
+  ],
+  "ano": "2006",
+  "titulo": "Neurochemistry of the nucleus accumbens and its relevance to depression and antidepressant action in rodents.",
+  "revista": "Curr Neuropharmacol",
+  "doi": "10.2174/157015906778520773",
+  "pubtypes": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "There is accumulating evidence that the nucleus accumbens (NAc) plays an important role in the pathophysiology of depression. Given that clinical depression is marked by anhedonia (diminished interest or pleasure), dysfunction of the brain reward pathway has been suggested as contributing to the pathophysiology of depression.Since the NAc is the center of reward and learning, it is hypothesized that anhedonia might be produced by hampering the function of the NAc. Indeed, it has been reported that stress, drug exposure and drug withdrawal, all of which produce a depressive-phenotype, alter various functions within the NAc, leading to inhibited dopaminergic activity in the NAc.In this review, we describe various factors as possible candidates within the NAc for the initiation of depressive symptoms. First, we discuss the roles of several neurotransmitters and neuropeptides in the functioning of the NAc, including dopamine, glutamate, gamma-aminobutyric acid (GABA), acetylcholine, serotonin, dynorphin, enkephaline, brain-derived neurotrophic factor (BDNF), cAMP response element-binding protein (CREB), melanin-concentrating hormone (MCH) and cocaine- and amphetamine-regulated transcri"
+ },
+ {
+  "pmid": "33631251",
+  "grupo": "DA",
+  "label": "Wang_2021",
+  "id": "REF_WANG_2021",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_03",
+  "subsec": "3.1",
+  "claim_id": "B4.MEC.BLOCO03.069",
+  "autores": [
+   "Wang S",
+   "Leri F",
+   "Rizvi SJ"
+  ],
+  "ano": "2021",
+  "titulo": "Anhedonia as a central factor in depression: Neural mechanisms revealed from preclinical to clinical evidence.",
+  "revista": "Prog Neuropsychopharmacol Biol Psychiatry",
+  "doi": "10.1016/j.pnpbp.2021.110289",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Anhedonia is one of the core symptoms of major depressive disorder (MDD), which is often inadequately treated by traditional antidepressants. The modern framework of anhedonia extends the definition from impaired consummatory pleasure or interest in rewards to a broad spectrum of deficits that impact functions such as reward anticipation, approach motivation, effort expenditure, reward valuation, expectation, and reward-cue association learning. Substantial preclinical and clinical research has explored the neural basis of reward deficits in the context of depression, and has implicated mesocorticolimbic reward circuitry comprising the nucleus accumbens, ventral pallidum, ventral tegmental area, amygdala, hippocampus, anterior cingulate, insula, orbitofrontal cortex, and other prefrontal cortex regions. Dopamine modulates several reward facets including anticipation, motivation, effort, and learning. As well, serotonin, norepinephrine, opioids, glutamate, Gamma aminobutyric acid (GABA), and acetylcholine are also involved in anhedonia, and medications targeting these systems may also potentially normalize reward processing in depression. Unfortunately, whereas reward anticipation a"
+ },
+ {
+  "pmid": "36889362",
+  "grupo": "DA",
+  "label": "Jiang_2023",
+  "id": "REF_JIANG_2023",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_03",
+  "subsec": "3.1",
+  "claim_id": "B4.MEC.BLOCO03.070",
+  "autores": [
+   "Jiang Y",
+   "Zou M",
+   "Wang Y",
+   "Wang Y"
+  ],
+  "ano": "2023",
+  "titulo": "Nucleus accumbens in the pathogenesis of major depressive disorder: A brief review.",
+  "revista": "Brain Res Bull",
+  "doi": "10.1016/j.brainresbull.2023.03.004",
+  "pubtypes": [
+   "Journal Article",
+   "Review",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Major depressive disorder (MDD) is the most prevalent mental disorder characterized by anhedonia, loss of motivation, avolition, behavioral despair and cognitive abnormalities. Despite substantial advancements in the pathophysiology of MDD in recent years, the pathogenesis of this disorder is not fully understood. Meanwhile,the treatment of MDD with currently available antidepressants is inadequate, highlighting the urgent need for clarifying the pathophysiology of MDD and developing novel therapeutics. Extensive studies have demonstrated the involvement of nuclei such as the prefrontal cortex (PFC), hippocampus (HIP), nucleus accumbens (NAc), hypothalamus, etc., in MDD. NAc,a region critical for reward and motivation,dysregulation of its activity seems to be a hallmark of this mood disorder. In this paper, we present a review of NAc related circuits, cellular and molecular mechanisms underlying MDD and share an analysis of the gaps in current research and possible future research directions."
+ },
+ {
+  "pmid": "28870407",
+  "grupo": "DA",
+  "label": "Pecina_2017",
+  "id": "REF_PECINA_2017",
+  "tag": "EC",
+  "nivel": "CORE",
+  "evid_role": "SUP",
+  "bloco": "BLOCO_03",
+  "subsec": "3.1",
+  "claim_id": "B4.MEC.BLOCO03.071",
+  "autores": [
+   "Peciña M",
+   "Sikora M",
+   "Avery ET",
+   "Heffernan J",
+   "Peciña S",
+   "Mickey BJ",
+   "Zubieta JK"
+  ],
+  "ano": "2017",
+  "titulo": "Striatal dopamine D2/3 receptor-mediated neurotransmission in major depression: Implications for anhedonia, anxiety and treatment response.",
+  "revista": "Eur Neuropsychopharmacol",
+  "doi": "10.1016/j.euroneuro.2017.08.427",
+  "pubtypes": [
+   "Journal Article",
+   "Randomized Controlled Trial"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Dopamine (DA) neurotransmission within the brain's reward circuit has been implicated in the pathophysiology of depression and in both, cognitive and pharmacological mechanisms of treatment response. Still, a direct relationship between measures of DA neurotransmission and reward-related deficits in patients with depression has not been demonstrated. To gain insight into the symptom-specific alterations in the DA system in patients with depression, we used positron emission tomography (PET) and the D2/3 receptor-selective radiotracer [11C]raclopride in twenty-three non-smoking un-medicated Major Depressive Disorder (MDD) patients and sixteen healthy controls (HC). We investigated the relationship between D2/3 receptor availability and baseline measures of depression severity, anxiety, anhedonia, and cognitive and pharmacological mechanisms of treatment response. We found that, compared to controls, patients with depression showed greater D2/3 receptor availability in several striatal regions, including the bilateral ventral pallidum/nucleus accumbens (vPAL/NAc), and the right ventral caudate and putamen. In the depressed sample, D2/3 receptor availability in the caudal portion of t"
+ },
+ {
+  "pmid": "37301129",
+  "grupo": "DA",
+  "label": "Phillips_2023",
+  "id": "REF_PHILLIPS_2023",
+  "tag": "EC",
+  "nivel": "CORE",
+  "evid_role": "SUP",
+  "bloco": "BLOCO_03",
+  "subsec": "3.1",
+  "claim_id": "B4.MEC.BLOCO03.072",
+  "autores": [
+   "Phillips RD",
+   "Walsh EC",
+   "Zürcher NR",
+   "Lalush DS",
+   "Kinard JL",
+   "Tseng CE",
+   "Cernasov PM",
+   "Kan D",
+   "Cummings K",
+   "Kelley L",
+   "Campbell D",
+   "Dillon DG",
+   "Pizzagalli DA",
+   "Izquierdo-Garcia D",
+   "Hooker JM",
+   "Smoski MJ",
+   "Dichter GS"
+  ],
+  "ano": "2023",
+  "titulo": "Striatal dopamine in anhedonia: A simultaneous [11C]raclopride positron emission tomography and functional magnetic resonance imaging investigation.",
+  "revista": "Psychiatry Res Neuroimaging",
+  "doi": "10.1038/nrn3381",
+  "pubtypes": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Anhedonia is hypothesized to be associated with blunted mesocorticolimbic dopamine (DA) functioning in samples with major depressive disorder. The purpose of this study was to examine linkages between striatal DA, reward circuitry functioning, anhedonia, and, in an exploratory fashion, self-reported stress, in a transdiagnostic anhedonic sample. Participants with (n = 25) and without (n = 12) clinically impairing anhedonia completed a reward-processing task during simultaneous positron emission tomography and magnetic resonance (PET-MR) imaging with [11C]raclopride, a DA D2/D3 receptor antagonist that selectively binds to striatal DA receptors. Relative to controls, the anhedonia group exhibited decreased task-related DA release in the left putamen, caudate, and nucleus accumbens and right putamen and pallidum. There were no group differences in task-related brain activation (fMRI) during reward processing after correcting for multiple comparisons. General functional connectivity (GFC) findings revealed blunted fMRI connectivity between PET-derived striatal seeds and target regions in the anhedonia group. Associations were identified between anhedonia severity and the magnitude of "
+ },
+ {
+  "pmid": "32363761",
+  "grupo": "DA",
+  "label": "Moriya_2020",
+  "id": "REF_MORIYA_2020",
+  "tag": "EC",
+  "nivel": "CORE",
+  "evid_role": "SUP",
+  "bloco": "BLOCO_03",
+  "subsec": "3.1",
+  "claim_id": "B4.MEC.BLOCO03.073",
+  "autores": [
+   "Moriya H",
+   "Tiger M",
+   "Tateno A",
+   "Sakayori T",
+   "Masuoka T",
+   "Kim W",
+   "Arakawa R",
+   "Okubo Y"
+  ],
+  "ano": "2020",
+  "titulo": "Low dopamine transporter binding in the nucleus accumbens in geriatric patients with severe depression.",
+  "revista": "Psychiatry Clin Neurosci",
+  "doi": "10.1111/pcn.13020",
+  "pubtypes": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Dysfunction of dopaminergic neurons in the central nervous system is considered to be related to major depressive disorder (MDD). Especially, MDD in geriatric patients is characterized by anhedonia, which is assumed to be associated with reduced dopamine neurotransmission in the reward system. Dopamine transporter (DAT) is considered to reflect the function of the dopamine nerve system. However, previous DAT imaging studies using single photon emission computed tomography or positron emission tomography (PET) have shown inconsistent results. The radioligand [18 F]FE-PE2I for PET enables more precise evaluation of DAT availability. Hence, we aimed to evaluate the DAT availability in geriatric patients with MDD using [18 F]FE-PE2I. Eleven geriatric patients with severe MDD and 27 healthy controls underwent PET with [18 F]FE-PE2I, which has high affinity and selectivity for DAT. Binding potentials (BPND ) in the striatum (caudate and putamen), nucleus accumbens (NAc), and substantia nigra were calculated. BPND values were compared between MDD patients and healthy controls. MDD patients showed significantly lower DAT BPND in the NAc (P = 0.009), and there was a trend of lower BPND in t"
+ },
+ {
+  "pmid": "23711983",
+  "grupo": "DA",
+  "label": "Trifilieff_2013",
+  "id": "REF_TRIFILIEFF_2013",
+  "tag": "ML",
+  "nivel": "SUPPORT",
+  "evid_role": "MEC",
+  "bloco": "BLOCO_03",
+  "subsec": "3.1",
+  "claim_id": "B4.MEC.BLOCO03.074",
+  "autores": [
+   "Trifilieff P",
+   "Feng B",
+   "Urizar E",
+   "Winiger V",
+   "Ward RD",
+   "Taylor KM",
+   "Martinez D",
+   "Moore H",
+   "Balsam PD",
+   "Simpson EH",
+   "Javitch JA"
+  ],
+  "ano": "2013",
+  "titulo": "Increasing dopamine D2 receptor expression in the adult nucleus accumbens enhances motivation.",
+  "revista": "Mol Psychiatry",
+  "doi": "10.1038/mp.2013.57",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "A decrease in dopamine D2 receptor (D2R) binding in the striatum is one of the most common findings in disorders that involve a dysregulation of motivation, including obesity, addiction and attention deficit hyperactivity disorder. As disruption of D2R signaling in the ventral striatum--including the nucleus accumbens (NAc)--impairs motivation, we sought to determine whether potentiating postsynaptic D2R-dependent signaling in the NAc would improve motivation. In this study, we used a viral vector strategy to overexpress postsynaptic D2Rs in either the NAc or the dorsal striatum. We investigated the effects of D2R overexpression on instrumental learning, willingness to work, use of reward value representations and modulation of motivation by reward associated cues. Overexpression of postsynaptic D2R in the NAc selectively increased motivation without altering consummatory behavior, the representation of the value of the reinforcer, or the capacity to use reward associated cues in flexible ways. In contrast, D2R overexpression in the dorsal striatum did not alter performance on any of the tasks. Thus, consistent with numerous studies showing that reduced D2R signaling impairs motiva"
+ },
+ {
+  "pmid": "12668290",
+  "grupo": "LC",
+  "label": "Berridge_2003",
+  "id": "REF_BERRIDGE_2003",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.081",
+  "autores": [
+   "Berridge CW",
+   "Waterhouse BD"
+  ],
+  "ano": "2003",
+  "titulo": "The locus coeruleus-noradrenergic system: modulation of behavioral state and state-dependent cognitive processes.",
+  "revista": "Brain Res Brain Res Rev",
+  "doi": "10.1016/s0165-0173(03)00143-7",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, U.S. Gov't, P.H.S.",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Through a widespread efferent projection system, the locus coeruleus-noradrenergic system supplies norepinephrine throughout the central nervous system. Initial studies provided critical insight into the basic organization and properties of this system. More recent work identifies a complicated array of behavioral and electrophysiological actions that have in common the facilitation of processing of relevant, or salient, information. This involves two basic levels of action. First, the system contributes to the initiation and maintenance of behavioral and forebrain neuronal activity states appropriate for the collection of sensory information (e.g. waking). Second, within the waking state, this system modulates the collection and processing of salient sensory information through a diversity of concentration-dependent actions within cortical and subcortical sensory, attention, and memory circuits. Norepinephrine-dependent modulation of long-term alterations in synaptic strength, gene transcription and other processes suggest a potentially critical role of this neurotransmitter system in experience-dependent alterations in neural function and behavior. The ability of a given stimulus"
+ },
+ {
+  "pmid": "28367128",
+  "grupo": "LC",
+  "label": "Maletic_2017",
+  "id": "REF_MALETIC_2017",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.082",
+  "autores": [
+   "Maletic V",
+   "Eramo A",
+   "Gwin K",
+   "Offord SJ",
+   "Duffy RA"
+  ],
+  "ano": "2017",
+  "titulo": "The Role of Norepinephrine and Its α-Adrenergic Receptors in the Pathophysiology and Treatment of Major Depressive Disorder and Schizophrenia: A Systematic Review.",
+  "revista": "Front Psychiatry",
+  "doi": "10.1016/j.brainres.2015.11.021",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Norepinephrine (NE) is recognized as having a key role in the pathophysiology of major depressive disorder (MDD) and schizophrenia, although its distinct actions via α-adrenergic receptors (α-ARs) are not well defined. We performed a systematic review examining the roles of NE and α-ARs in MDD and schizophrenia. PubMed and ProQuest database searches were performed to identify English language papers published between 2008 and 2015. In total, 2,427 publications (PubMed, n = 669; ProQuest, n = 1,758) were identified. Duplicates, articles deemed not relevant, case studies, reviews, meta-analyses, preclinical reports, or articles on non-target indications were excluded. To limit the review to the most recent data representative of the literature, the review further focused on publications from 2010 to 2015, which were screened independently by all authors. A total of 16 research reports were identified: six clinical trial reports, six genetic studies, two biomarker studies, and two receptor studies. Overall, the studies provided indirect evidence that α-AR activity may play an important role in aberrant regulation of cognition, arousal, and valence systems associated with MDD and schiz"
+ },
+ {
+  "pmid": "19960531",
+  "grupo": "LC",
+  "label": "Goddard_2010",
+  "id": "REF_GODDARD_2010",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.083",
+  "autores": [
+   "Goddard AW",
+   "Ball SG",
+   "Martinez J",
+   "Robinson MJ",
+   "Yang CR",
+   "Russell JM",
+   "Shekhar A"
+  ],
+  "ano": "2010",
+  "titulo": "Current perspectives of the roles of the central norepinephrine system in anxiety and depression.",
+  "revista": "Depress Anxiety",
+  "doi": "10.1002/da.20642",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Norepinephrine (NE) is a major monoamine neurotransmitter that has widespread effects across multiple brain areas to regulate arousal and stress responses. The underlying function of the NE cortical system is to balance vigilance/scanning behavior with focused attention on novel environmental stimuli and the state of arousal. The central NE system is involved intrinsically with the stress response system, and dysregulation within the NE system has been implicated in the pathogenesis of anxiety and depressive disorders. Central NE activity paradoxically has either anxiogenic or anxiolytic effects, depending on whether the time course of the stress is acute or chronic, whether the stress is predictable or unpredictable, and which underlying brain regions are affected. Under conditions of chronic stress, NE system activity dysregulation of the hypothalamic-pituitary-adrenal system may turn a homeostatic stress response into a pathological stress response. Data suggest that the NE interplay with the serotonin system may exert neurobiological normalization of the pathophysiological state of anxious depression. Accordingly, pharmacological interventions targeting the NE system can result"
+ },
+ {
+  "pmid": "39427811",
+  "grupo": "LC",
+  "label": "Slavova_2024",
+  "id": "REF_SLAVOVA_2024",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.084",
+  "autores": [
+   "Slavova D",
+   "Ortiz V",
+   "Blaise M",
+   "Bairachnaya M",
+   "Giros B",
+   "Isingrini E"
+  ],
+  "ano": "2024",
+  "titulo": "Role of the locus coeruleus-noradrenergic system in stress-related psychopathology and resilience: Clinical and pre-clinical evidences.",
+  "revista": "Neurosci Biobehav Rev",
+  "doi": "10.1016/j.neubiorev.2024.105925",
+  "pubtypes": [
+   "Journal Article",
+   "Review",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Stressful events, from daily stressors to traumatic experiences, are common and occur at any age. Despite the high prevalence of trauma, not everyone develops stress-related disorders like major depressive disorder (MDD) and post-traumatic stress disorder (PTSD), a variation attributed to resilience, the ability to adapt and avoid negative consequences of significant stress. This review examines the locus coeruleus-norepinephrine (LC-NE) system, a critical component in the brain's stress response. It discusses the LC-NE system's anatomical and functional complexity and its role in individual variability in stress responses. How different etiological factors and stress modalities affect the LC-NE system, influencing both adaptive stress responses and psychopathologies, are discussed and supported by evidence from human and animal studies. It also explores molecular and cellular adaptations in the LC that contribute to resilience, including roles of neuropeptide, inflammatory cytokines, and genetic modulation, and addresses developmental and sex differences in stress vulnerability. The need for a multifaceted approach to understand stress-induced psychopathologies is emphasized and p"
+ },
+ {
+  "pmid": "41167443",
+  "grupo": "LC",
+  "label": "Mir_2025",
+  "id": "REF_MIR_2025",
+  "tag": "MA",
+  "nivel": "CORE",
+  "evid_role": "SUP",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.085",
+  "autores": [
+   "Mir FA",
+   "Jha SK",
+   "Nehs CJ"
+  ],
+  "ano": "2025",
+  "titulo": "Noradrenergic dysregulation in the locus coeruleus: Implications for neuropsychiatric disease pathophysiology- A systematic review.",
+  "revista": "Neurosci Biobehav Rev",
+  "doi": "10.1016/j.neubiorev.2025.106442",
+  "pubtypes": [
+   "Journal Article",
+   "Systematic Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "The locus coeruleus [LC] is a dense cluster of noradrenergic neurons located in the dorsal pons of the brainstem and serves as the brain's principal source of noradrenaline (NA). This neuromodulatory system plays a central role in regulating arousal, attention, stress response, sleep-wake cycles, and emotional behavior. The LC's extensive efferent projections render it highly sensitive to both external environmental stressors and intrinsic factors, including age-related neuronal loss, which can compromise cognitive function, emotional regulation, and psychiatric stability. Emerging evidence implicates dysfunction in LC-noradrenergic signaling as a shared pathophysiological mechanism underlying multiple neuropsychiatric disorders, including major depressive disorder, schizophrenia, autism spectrum disorder, obsessive-compulsive disorder, and post-traumatic stress disorder. This review integrates current clinical, neuroanatomical, and functional studies to highlight how aberrant LC-noradrenergic dynamics contribute to key features of these psychiatric disorders, such as impaired cognitive control, emotional dysregulation, altered sensory processing, and maladaptive stress responses. "
+ },
+ {
+  "pmid": "42332025",
+  "grupo": "LC",
+  "label": "Korukonda_2026",
+  "id": "REF_KORUKONDA_2026",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.086",
+  "autores": [
+   "Korukonda A",
+   "Weinshenker D"
+  ],
+  "ano": "2026",
+  "titulo": "A new hope: locus coeruleus-norepinephrine system at the nexus of neuropsychiatric symptoms.",
+  "revista": "Mol Psychiatry",
+  "doi": "10.1038/s41598-024-72179-4",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The earliest stages of Alzheimer's disease (AD) are frequently characterized by neuropsychiatric symptoms (NPS) such as anxiety, agitation, depression, compulsivity, appetite dysregulation, and sleep disturbances, often preceding measurable cognitive decline. Evidence from clinical and animal studies implicates hyperactivity of the locus coeruleus-norepinephrine (LC-NE) system as a mechanistic driver of these behaviors. Here, we review noradrenergic circuits that can potentially underlie psychiatric disturbances to identify therapeutic targets for preventing and delaying onset of AD. Given that this system influences attention, arousal, mood, and stress responses, LC-NE hyperactivity across circuitry involving amygdala, thalamus, hypothalamus, anterior cingulate cortex, prefrontal cortex, and olfactory areas can contribute to NPS features in early AD. Advances in neuroimaging and physiological measures of noradrenergic function have enabled in vivo tracking of LC integrity and NE transmission, offering the opportunity to detect LC-NE dysfunction early in disease progression and potentially implement targeted pharmacologic and neuromodulatory interventions to restore optimal LC-NE t"
+ },
+ {
+  "pmid": "40219735",
+  "grupo": "LC",
+  "label": "Reyes_2025",
+  "id": "REF_REYES_2025",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.087",
+  "autores": [
+   "Reyes BAS"
+  ],
+  "ano": "2025",
+  "titulo": "The Locus Coeruleus: Anatomy, Physiology, and Stress-Related Neuropsychiatric Disorders.",
+  "revista": "Eur J Neurosci",
+  "doi": "10.3389/fnins.2022.1055986/full",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "The locus coeruleus-norepinephrine (LC-NE) system is involved in mediating a wide array of functions, including attention, arousal, cognition, and stress response. Dysregulation of the LC-NE system is strongly linked with several stress-induced neuropsychiatric disorders, highlighting the LC's pivotal role in the development of these disorders. Located in the dorsal pontine tegmental area, the LC contains noradrenergic neurons that serve as the main source of NE in the central nervous system. Activation of the LC and subsequent release of NE at different levels of the neuroaxis is adaptive, allowing the body to adjust appropriately amid a challenging stimulus. However, prolonged and repeated LC activation leads to maladaptive responses that implicate LC-NE dysfunction in stress-induced neuropsychiatric disorders. As the primary initiator of the stress response, corticotropin-releasing factor (CRF) activates the hypothalamic-pituitary-adrenal axis. Following the discovery of CRF more than four decades ago, numerous studies established that CRF also acts as a neurotransmitter that governs the activity of other neurotransmitters in the brain neurotransmitter system. The LC-NE system r"
+ },
+ {
+  "pmid": "18255055",
+  "grupo": "LC",
+  "label": "Valentino_2008",
+  "id": "REF_VALENTINO_2008",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.088",
+  "autores": [
+   "Valentino RJ",
+   "Van Bockstaele E"
+  ],
+  "ano": "2008",
+  "titulo": "Convergent regulation of locus coeruleus activity as an adaptive response to stress.",
+  "revista": "Eur J Pharmacol",
+  "doi": "10.1016/j.ejphar.2007.11.062",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Although hypothalamic-pituitary-adrenal axis activation is generally considered to be the hallmark of the stress response, many of the same stimuli that initiate this response also activate the locus coeruleus-norepinephrine system. Given its functional attributes, the parallel engagement of the locus coeruleus-norepinephrine system with the hypothalamic-pituitary-adrenal axis serves to coordinate endocrine and cognitive limbs of the stress response. The elucidation of stress-related afferents to the locus coeruleus and the electrophysiological characterization of these inputs are revealing how the activity of this system is fine-tuned by stressors to facilitate adaptive cognitive responses. Emerging from these studies, is a picture of complex interactions between the stress-related neuropeptide, corticotropin-releasing factor (CRF), endogenous opioids and the excitatory amino acid neurotransmitter, glutamate. The net effect of these interactions is to adjust the activity and reactivity of the locus coeruleus-norepinephrine system such that state of arousal and processing of sensory stimuli are modified to facilitate adaptive behavioral responses to stressors. This review begins wi"
+ },
+ {
+  "pmid": "20210846",
+  "grupo": "LC",
+  "label": "Itoi_2010",
+  "id": "REF_ITOI_2010",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.089",
+  "autores": [
+   "Itoi K",
+   "Sugimoto N"
+  ],
+  "ano": "2010",
+  "titulo": "The brainstem noradrenergic systems in stress, anxiety and depression.",
+  "revista": "J Neuroendocrinol",
+  "doi": "10.1111/j.1365-2826.2010.01988.x",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "The locus coeruleus (LC) is regarded as a part of the central 'stress circuitry' because robust activation of the LC has been reported after stressful stimuli in experimental animals. A considerable amount of clinical evidence also suggests the relationship between the central noradrenergic (NAergic) system and fear/anxiety states or depression. However, previous animal studies have not been able to demonstrate unequivocally the involvement of the NAergic system in mediating fear or anxiety. The forebrain structures, including the hypothalamus, receive massive inputs from the medullary NAergic nuclei via the ventral NAergic bundle (VNAB). The VNAB has been implicated in the neuroendocrine stress axis mainly through its action on the corticotrophin-releasing factor neurones in the paraventricular nucleus of the hypothalamus. Novel tools were introduced that are capable of disrupting the NAergic system more selectively and/or thoroughly than the neurotoxins employed in previous studies: the anti-dopamine-beta hydroxylase (DBH)-saporin is an immunotoxin that is taken up from nerve endings and disrupt the NAergic neurones in a retrograde manner. The genetically DBH-depleted mice were a"
+ },
+ {
+  "pmid": "28596922",
+  "grupo": "LC",
+  "label": "Borodovitsyna_2017",
+  "id": "REF_BORODOVITSYNA_2017",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.090",
+  "autores": [
+   "Borodovitsyna O",
+   "Flamini M",
+   "Chandler D"
+  ],
+  "ano": "2017",
+  "titulo": "Noradrenergic Modulation of Cognition in Health and Disease.",
+  "revista": "Neural Plast",
+  "doi": "10.1016/0006-8993(91)90687-Q",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Norepinephrine released by the locus coeruleus modulates cellular processes and synaptic transmission in the central nervous system through its actions at a number of pre- and postsynaptic receptors. This transmitter system facilitates sensory signal detection and promotes waking and arousal, processes which are necessary for navigating a complex and dynamic sensory environment. In addition to its effects on sensory processing and waking behavior, norepinephrine is now recognized as a contributor to various aspects of cognition, including attention, behavioral flexibility, working memory, and long-term mnemonic processes. Two areas of dense noradrenergic innervation, the prefrontal cortex and the hippocampus, are particularly important with regard to these functions. Due to its role in mediating normal cognitive function, it is reasonable to expect that noradrenergic transmission becomes dysfunctional in a number of neuropsychiatric and neurodegenerative diseases characterized by cognitive deficits. In this review, we summarize the unique role that norepinephrine plays in prefrontal cortical and hippocampal function and how its interaction with its various receptors contribute to c"
+ },
+ {
+  "pmid": "26607253",
+  "grupo": "LC",
+  "label": "Bangasser_2016",
+  "id": "REF_BANGASSER_2016",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.091",
+  "autores": [
+   "Bangasser DA",
+   "Wiersielis KR",
+   "Khantsis S"
+  ],
+  "ano": "2016",
+  "titulo": "Sex differences in the locus coeruleus-norepinephrine system and its regulation by stress.",
+  "revista": "Brain Res",
+  "doi": "10.1016/j.brainres.2015.11.021",
+  "pubtypes": [
+   "Journal Article",
+   "Review",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Women are more likely than men to suffer from post-traumatic stress disorder (PTSD) and major depression. In addition to their sex bias, these disorders share stress as an etiological factor and hyperarousal as a symptom. Thus, sex differences in brain arousal systems and their regulation by stress could help explain increased vulnerability to these disorders in women. Here we review preclinical studies that have identified sex differences in the locus coeruleus (LC)-norepinephrine (NE) arousal system. First, we detail how structural sex differences in the LC can bias females towards increased arousal in response to emotional events. Second, we highlight studies demonstrating that estrogen can increase NE in LC target regions by enhancing the capacity for NE synthesis, while reducing NE degradation, potentially increasing arousal in females. Third, we review data revealing how sex differences in the stress receptor, corticotropin releasing factor 1 (CRF1), can increase LC neuronal sensitivity to CRF in females compared to males. This effect could translate into hyperarousal in women under conditions of CRF hypersecretion that occur in PTSD and depression. The implications of these "
+ },
+ {
+  "pmid": "27616990",
+  "grupo": "LC",
+  "label": "Atzori_2016",
+  "id": "REF_ATZORI_2016",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.092",
+  "autores": [
+   "Atzori M",
+   "Cuevas-Olguin R",
+   "Esquivel-Rendon E",
+   "Garcia-Oscos F",
+   "Salgado-Delgado RC",
+   "Saderi N",
+   "Miranda-Morales M",
+   "Treviño M",
+   "Pineda JC",
+   "Salgado H"
+  ],
+  "ano": "2016",
+  "titulo": "Locus Ceruleus Norepinephrine Release: A Central Regulator of CNS Spatio-Temporal Activation?",
+  "revista": "Front Synaptic Neurosci",
+  "doi": "10.1113/jphysiol.2012.248591",
+  "pubtypes": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Norepinephrine (NE) is synthesized in the Locus Coeruleus (LC) of the brainstem, from where it is released by axonal varicosities throughout the brain via volume transmission. A wealth of data from clinics and from animal models indicates that this catecholamine coordinates the activity of the central nervous system (CNS) and of the whole organism by modulating cell function in a vast number of brain areas in a coordinated manner. The ubiquity of NE receptors, the daunting number of cerebral areas regulated by the catecholamine, as well as the variety of cellular effects and of their timescales have contributed so far to defeat the attempts to integrate central adrenergic function into a unitary and coherent framework. Since three main families of NE receptors are represented-in order of decreasing affinity for the catecholamine-by: α2 adrenoceptors (α2Rs, high affinity), α1 adrenoceptors (α1Rs, intermediate affinity), and β adrenoceptors (βRs, low affinity), on a pharmacological basis, and on the ground of recent studies on cellular and systemic central noradrenergic effects, we propose that an increase in LC tonic activity promotes the emergence of four global states covering the"
+ },
+ {
+  "pmid": "36289638",
+  "grupo": "LC",
+  "label": "Zhang_2022",
+  "id": "REF_ZHANG_2022",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.093",
+  "autores": [
+   "Zhang H",
+   "Cui M",
+   "Cao JL",
+   "Han MH"
+  ],
+  "ano": "2022",
+  "titulo": "The Role of Beta-Adrenergic Receptors in Depression and Resilience.",
+  "revista": "Biomedicines",
+  "doi": "10.1111/bph.14026",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Norepinephrine is a catecholamine neurotransmitter that has been extensively implicated in the neurobiology of major depressive disorder (MDD). An accumulating body of evidence indicates that investigations into the action of norepinephrine at the synaptic/receptor level hold high potential for a better understanding of MDD neuropathology and introduce possibilities for developing novel treatments for depression. In this review article, we discuss recent advances in depression neuropathology and the effects of antidepressant medications based on preclinical and clinical studies related to beta-adrenergic receptor subtypes. We also highlight a beta-3 adrenergic receptor-involved mechanism that promotes stress resilience, through which antidepressant efficacy is achieved in both rodent models for depression and patients with major depression-an alternative therapeutic strategy that is conceptually different from the typical therapeutic approach in which treatment efficacy is achieved by reversing pathological alterations rather than by enhancing a good mechanism such as natural resilience. Altogether, in this review, we systematically describe the role of beta-adrenergic receptors in"
+ },
+ {
+  "pmid": "37139472",
+  "grupo": "LC",
+  "label": "Bouras_2023",
+  "id": "REF_BOURAS_2023",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.094",
+  "autores": [
+   "Bouras NN",
+   "Mack NR",
+   "Gao WJ"
+  ],
+  "ano": "2023",
+  "titulo": "Prefrontal modulation of anxiety through a lens of noradrenergic signaling.",
+  "revista": "Front Syst Neurosci",
+  "doi": "10.1101/lm.030411.113",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Anxiety disorders are the most common class of mental illness in the U.S., affecting 40 million individuals annually. Anxiety is an adaptive response to a stressful or unpredictable life event. Though evolutionarily thought to aid in survival, excess intensity or duration of anxiogenic response can lead to a plethora of adverse symptoms and cognitive dysfunction. A wealth of data has implicated the medial prefrontal cortex (mPFC) in the regulation of anxiety. Norepinephrine (NE) is a crucial neuromodulator of arousal and vigilance believed to be responsible for many of the symptoms of anxiety disorders. NE is synthesized in the locus coeruleus (LC), which sends major noradrenergic inputs to the mPFC. Given the unique properties of LC-mPFC connections and the heterogeneous subpopulation of prefrontal neurons known to be involved in regulating anxiety-like behaviors, NE likely modulates PFC function in a cell-type and circuit-specific manner. In working memory and stress response, NE follows an inverted-U model, where an overly high or low release of NE is associated with sub-optimal neural functioning. In contrast, based on current literature review of the individual contributions o"
+ },
+ {
+  "pmid": "40442382",
+  "grupo": "LC",
+  "label": "Fernandes_2025",
+  "id": "REF_FERNANDES_2025",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.095",
+  "autores": [
+   "Fernandes G",
+   "Lam R",
+   "Park J",
+   "Drummond GT",
+   "Sur M"
+  ],
+  "ano": "2025",
+  "titulo": "Noradrenaline Regulation of Brain-Body Communication.",
+  "revista": "Adv Exp Med Biol",
+  "doi": "10.35077/g.610",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Norepinephrine (NE) and its methylated form, epinephrine (Epi), are catecholamines that serve as both neurotransmitters and hormones, regulating a wide array of physiological functions. In the central nervous system (CNS), NE acts as a neurotransmitter, primarily released by the locus coeruleus (LC), to regulate vigilance states and optimize behavioral performance. It is also the primary neurotransmitter of the peripheral, sympathetic nervous system, responsible for tonic and reflexive changes to cardiovascular tone. Conversely, Epi operates primarily as a hormone released by the adrenal medulla, to regulate metabolic homeostasis and orchestrate the body's response to acute stress. While there is no evidence for direct connections between the central and peripheral adrenergic systems, various feedforward and feedback circuits enable them to collaborate and synchronize brain-body responses to stimuli. A notable example of this interaction is evident in the body's response to stress, where multiple adrenergic systems work in concert to elicit a fight-or-flight response to perceived danger. Reciprocal communication between the LC, other adrenergic systems in the brain, and the NE-driv"
+ },
+ {
+  "pmid": "41938091",
+  "grupo": "LC",
+  "label": "DosSantos_2026",
+  "id": "REF_DOSSANTOS_2026",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.096",
+  "autores": [
+   "Dos-Santos RC",
+   "Najjar MW",
+   "Friedman C",
+   "Sweeten BLW",
+   "Stelly CE",
+   "Harbom LJ",
+   "Harrison LM",
+   "Tasker JG"
+  ],
+  "ano": "2026",
+  "titulo": "Norepinephrine neurons in the locus coeruleus and the nucleus of the solitary tract drive different stress-related behavioral outputs in mice.",
+  "revista": "Neurobiol Stress",
+  "doi": "10.1038/s41593-020-00784-3",
+  "pubtypes": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Norepinephrine (NE) is one of the main neuromodulators that regulate the stress response. NE-expressing neurons in the locus coeruleus (LC) and the nucleus of the solitary tract (NTS) project to the corticotropin-releasing hormone (CRH) neurons in the hypothalamic paraventricular nucleus (PVN) to regulate the hypothalamic-pituitary-adrenal (HPA) axis response to stress. NE neurons also project to other brain regions to regulate stress outputs, including throughout the limbic system and the medial prefrontal cortex. The NE circuits, therefore, are well-positioned to regulate an integrated stress response that coordinates the activation of the HPA axis with different behavioral responses appropriate to distinct stressors. Here, we show that chemogenetic activation of LC-NE neurons induces affective stress behaviors while activation of NTS-NE neurons stimulates sickness-like behaviors. Selective activation of NE neurons in the NTS caused an increase in immobility, a decrease in mechanical nociception threshold, and reduced exploratory, grooming, and feeding behaviors. Activation of LC-NE neurons, on the other hand, caused an increase in grooming and a decrease in exploratory behaviors"
+ },
+ {
+  "pmid": "26212712",
+  "grupo": "LC",
+  "label": "McCall_2015",
+  "id": "REF_MCCALL_2015",
+  "tag": "ML",
+  "nivel": "SUPPORT",
+  "evid_role": "MEC",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.097",
+  "autores": [
+   "McCall JG",
+   "Al-Hasani R",
+   "Siuda ER",
+   "Hong DY",
+   "Norris AJ",
+   "Ford CP",
+   "Bruchas MR"
+  ],
+  "ano": "2015",
+  "titulo": "CRH Engagement of the Locus Coeruleus Noradrenergic System Mediates Stress-Induced Anxiety.",
+  "revista": "Neuron",
+  "doi": "10.1016/j.neuron.2015.07.002",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "The locus coeruleus noradrenergic (LC-NE) system is one of the first systems engaged following a stressful event. While numerous groups have demonstrated that LC-NE neurons are activated by many different stressors, the underlying neural circuitry and the role of this activity in generating stress-induced anxiety has not been elucidated. Using a combination of in vivo chemogenetics, optogenetics, and retrograde tracing, we determine that increased tonic activity of the LC-NE system is necessary and sufficient for stress-induced anxiety and aversion. Selective inhibition of LC-NE neurons during stress prevents subsequent anxiety-like behavior. Exogenously increasing tonic, but not phasic, activity of LC-NE neurons is alone sufficient for anxiety-like and aversive behavior. Furthermore, endogenous corticotropin-releasing hormone(+) (CRH(+)) LC inputs from the amygdala increase tonic LC activity, inducing anxiety-like behaviors. These studies position the LC-NE system as a critical mediator of acute stress-induced anxiety and offer a potential intervention for preventing stress-related affective disorders."
+ },
+ {
+  "pmid": "28708061",
+  "grupo": "LC",
+  "label": "McCall_2017",
+  "id": "REF_MCCALL_2017",
+  "tag": "ML",
+  "nivel": "SUPPORT",
+  "evid_role": "MEC",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.098",
+  "autores": [
+   "McCall JG",
+   "Siuda ER",
+   "Bhatti DL",
+   "Lawson LA",
+   "McElligott ZA",
+   "Stuber GD",
+   "Bruchas MR"
+  ],
+  "ano": "2017",
+  "titulo": "Locus coeruleus to basolateral amygdala noradrenergic projections promote anxiety-like behavior.",
+  "revista": "Elife",
+  "doi": "10.1016/j.neuron.2011.06.004",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Increased tonic activity of locus coeruleus noradrenergic (LC-NE) neurons induces anxiety-like and aversive behavior. While some information is known about the afferent circuitry that endogenously drives this neural activity and behavior, the downstream receptors and anatomical projections that mediate these acute risk aversive behavioral states via the LC-NE system remain unresolved. Here we use a combination of retrograde tracing, fast-scan cyclic voltammetry, electrophysiology, and in vivo optogenetics with localized pharmacology to identify neural substrates downstream of increased tonic LC-NE activity in mice. We demonstrate that photostimulation of LC-NE fibers in the BLA evokes norepinephrine release in the basolateral amygdala (BLA), alters BLA neuronal activity, conditions aversion, and increases anxiety-like behavior. Additionally, we report that β-adrenergic receptors mediate the anxiety-like phenotype of increased NE release in the BLA. These studies begin to illustrate how the complex efferent system of the LC-NE system selectively mediates behavior through distinct receptor and projection-selective mechanisms."
+ },
+ {
+  "pmid": "29341884",
+  "grupo": "LC",
+  "label": "Borodovitsyna_2018",
+  "id": "REF_BORODOVITSYNA_2018",
+  "tag": "ML",
+  "nivel": "SUPPORT",
+  "evid_role": "MEC",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.099",
+  "autores": [
+   "Borodovitsyna O",
+   "Flamini MD",
+   "Chandler DJ"
+  ],
+  "ano": "2018",
+  "titulo": "Acute Stress Persistently Alters Locus Coeruleus Function and Anxiety-like Behavior in Adolescent Rats.",
+  "revista": "Neuroscience",
+  "doi": "10.1016/j.neuroscience.2018.01.020",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Stress is a physiological state characterized by altered neuroendocrine signaling, behavioral arousal, and anxiety. Chronic or traumatic stress may predispose individuals for multiple somatic and psychiatric illnesses. The locus coeruleus (LC) is a major node in the stress response that integrates input from multiple stress responsive neural circuits and releases norepinephrine (NE) throughout the central nervous system (CNS) to promote vigilance and anxiety. Many mood disorders associated with prior stress are characterized by chronically altered noradrenergic signaling, yet the long-term impact of an acute stressor on LC function is not clear. To determine how acute stress could affect anxiety-like behavior as well as LC function at immediate and extended time points, rats underwent simultaneous exposure to physical restraint and predator odor. Rats underwent behavioral testing immediately or one week after stressor exposure and were then sacrificed for whole-cell patch-clamp recordings of LC neurons. Stress caused an immediate increase in anxiety-like behaviors in the elevated plus maze (EPM), as well decreased excitatory synaptic transmission and increased spontaneous discharge"
+ },
+ {
+  "pmid": "41066175",
+  "grupo": "LC",
+  "label": "Toyoda_2025",
+  "id": "REF_TOYODA_2025",
+  "tag": "ML",
+  "nivel": "SUPPORT",
+  "evid_role": "MEC",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.100",
+  "autores": [
+   "Toyoda H",
+   "Kim D",
+   "Koh BG",
+   "Sano T",
+   "Kanematsu T",
+   "Oh SB",
+   "Kang Y"
+  ],
+  "ano": "2025",
+  "titulo": "Chronic stress impairs autoinhibition in neurons of the locus coeruleus to increase asparagine endopeptidase activity.",
+  "revista": "Elife",
+  "doi": "10.1038/nm.3700",
+  "pubtypes": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Impairments of locus coeruleus (LC) are implicated in anxiety/depression and Alzheimer's disease (AD). Increases in cytosolic noradrenaline (NA) concentration and monoamine oxidase A (MAO-A) activity initiate the LC impairment through production of NA metabolite, 3,4-dihydroxyphenyl-glycolaldehyde (DOPEGAL), by MAO-A. However, how NA accumulates in soma/dendritic cytosol of LC neurons has never been addressed despite the fact that NA is virtually absent in cytosol while NA is produced exclusively in cytoplasmic vesicles from dopamine by dopamine-β-hydroxylase. Since reuptake of autocrine-released NA following spike activity is the major source of NA accumulation, we investigated whether and how chronic stress can increase the spike activity accompanied by NA autocrine. Overexcitation of LC neurons is normally prevented by the autoinhibition mediated by activation of α2A-adrenergic receptor (AR)-coupled inwardly rectifying potassium-current (GIRK-I) with autocrine-released NA. Patch-clamp study revealed that NA-induced GIRK-I in LC neurons was decreased in chronic restraint stress (RS) mice, while a similar decrease was gradually caused by repeated excitation. Chronic RS caused inte"
+ },
+ {
+  "pmid": "41000807",
+  "grupo": "LC",
+  "label": "Soares_2025",
+  "id": "REF_SOARES_2025",
+  "tag": "ML",
+  "nivel": "SUPPORT",
+  "evid_role": "MEC",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.101",
+  "autores": [
+   "Soares AR",
+   "Fai C",
+   "Mineur YS",
+   "Picciotto MR"
+  ],
+  "ano": "2025",
+  "titulo": "Noradrenergic inputs to the basolateral amygdala have bidirectional effects on coping behavior and neuronal activity in mice.",
+  "revista": "bioRxiv",
+  "doi": "10.1016/j.neuron.2019.05.027",
+  "pubtypes": [
+   "Journal Article",
+   "Preprint"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Norepinephrine (NE) signaling is disrupted in stress disorders, with insufficient NE signaling implicated in major depressive disorder and hyperactive NE signaling associated with post-traumatic stress disorder, suggesting that adequate mood regulation requires optimal NE levels. The basolateral amygdala (BLA) is a hub for stress processing and receives dense noradrenergic innervation from the locus coeruleus (LC), the primary noradrenergic nucleus in the brain. The relationship between LC activity and cognitive/behavioral function during fear conditioning has been described as an inverted U, in which moderate LC activity, and subsequent NE release, is required for adaptive coping to threats, while hyperactive LC-NE signaling drives maladaptive behavioral responses. We used fiber photometry to measure NE signaling in the mouse BLA during acute behavioral responses to escapable and inescapable stressors, and then used an optogenetic approach to stimulate the noradrenergic terminals in the BLA at different frequencies to evaluate effects on coping behavior and cFos expression in the LC-BLA circuit. We found that low-frequency stimulation of the circuit inhibited both passive coping a"
+ },
+ {
+  "pmid": "38155473",
+  "grupo": "LC",
+  "label": "Zhang_2024",
+  "id": "REF_ZHANG_2024",
+  "tag": "ML",
+  "nivel": "SUPPORT",
+  "evid_role": "MEC",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.102",
+  "autores": [
+   "Zhang Q",
+   "Xue Y",
+   "Wei K",
+   "Wang H",
+   "Ma Y",
+   "Wei Y",
+   "Fan Y",
+   "Gao L",
+   "Yao H",
+   "Wu F",
+   "Ding X",
+   "Zhang Q",
+   "Ding J",
+   "Fan Y",
+   "Lu M",
+   "Hu G"
+  ],
+  "ano": "2024",
+  "titulo": "Locus Coeruleus-Dorsolateral Septum Projections Modulate Depression-Like Behaviors via BDNF But Not Norepinephrine.",
+  "revista": "Adv Sci (Weinh)",
+  "doi": "10.1002/advs.202303503",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Locus coeruleus (LC) dysfunction is involved in the pathophysiology of depression; however, the neural circuits and specific molecular mechanisms responsible for this dysfunction remain unclear. Here, it is shown that activation of tyrosine hydroxylase (TH) neurons in the LC alleviates depression-like behaviors in susceptible mice. The dorsolateral septum (dLS) is the most physiologically relevant output from the LC under stress. Stimulation of the LCTH -dLSSST innervation with optogenetic and chemogenetic tools bidirectionally can regulate depression-like behaviors in both male and female mice. Mechanistically, it is found that brain-derived neurotrophic factor (BDNF), but not norepinephrine, is required for the circuit to produce antidepressant-like effects. Genetic overexpression of BDNF in the circuit or supplementation with BDNF protein in the dLS is sufficient to produce antidepressant-like effects. Furthermore, viral knockdown of BDNF in this circuit abolishes the antidepressant-like effect of ketamine, but not fluoxetine. Collectively, these findings underscore the notable antidepressant-like role of the LCTH -dLSSST pathway in depression via BDNF-TrkB signaling."
+ },
+ {
+  "pmid": "29593511",
+  "grupo": "LC",
+  "label": "Giustino_2018",
+  "id": "REF_GIUSTINO_2018",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.103",
+  "autores": [
+   "Giustino TF",
+   "Maren S"
+  ],
+  "ano": "2018",
+  "titulo": "Noradrenergic Modulation of Fear Conditioning and Extinction.",
+  "revista": "Front Behav Neurosci",
+  "doi": "10.1007/s00213-005-0055-y",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The locus coeruleus norepinephrine (LC-NE) system plays a broad role in learning and memory. Here we begin with an overview of the LC-NE system. We then consider how both direct and indirect manipulations of the LC-NE system affect cued and contextual aversive learning and memory. We propose that NE dynamically modulates Pavlovian conditioning and extinction, either promoting or impairing learning aversive processes under different levels of behavioral arousal. We suggest that under high levels of stress (e.g., during/soon after fear conditioning) the locus coeruleus (LC) promotes cued fear learning by enhancing amygdala function while simultaneously blunting prefrontal function. Under low levels of arousal, the LC promotes PFC function to promote downstream inhibition of the amygdala and foster the extinction of cued fear. Thus, LC-NE action on the medial prefrontal cortex (mPFC) might be described by an inverted-U function such that it can either enhance or hinder learning depending on arousal states. In addition, LC-NE seems to be particularly important for the acquisition, consolidation and extinction of contextual fear memories. This may be due to dense adrenoceptor expression"
+ },
+ {
+  "pmid": "31801809",
+  "grupo": "LC",
+  "label": "Giustino_2020",
+  "id": "REF_GIUSTINO_2020",
+  "tag": "ML",
+  "nivel": "SUPPORT",
+  "evid_role": "MEC",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.104",
+  "autores": [
+   "Giustino TF",
+   "Ramanathan KR",
+   "Totty MS",
+   "Miles OW",
+   "Maren S"
+  ],
+  "ano": "2020",
+  "titulo": "Locus Coeruleus Norepinephrine Drives Stress-Induced Increases in Basolateral Amygdala Firing and Impairs Extinction Learning.",
+  "revista": "J Neurosci",
+  "doi": "10.1097/00005053-199205000-00006",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Stress impairs extinction learning, and these deficits depend, in part, on stress-induced norepinephrine (NE) release in the basolateral amygdala (BLA). For example, systemic or intra-BLA administration of propranolol reduces the immediate extinction deficit (IED), an impairment in extinction learning that occurs when extinction trials are administered soon after fear conditioning. Here, we explored whether locus coeruleus (LC)-NE regulates stress-induced changes in spike firing in the BLA and consequent extinction learning impairments. Rats were implanted with recording arrays in the BLA and, after recovery from surgery, underwent a standard auditory fear conditioning procedure. Fear conditioning produced an immediate and dramatic increase in the spontaneous firing of BLA neurons that persisted (and in some units, increased further) up to an hour after conditioning. This stress-induced increase in BLA firing was prevented by systemic administration of propranolol. Conditioning with a weaker footshock caused smaller increases in BLA firing rate, but this could be augmented by chemogenetic activation of the LC. Conditioned freezing in response to a tone paired with a weak footshock "
+ },
+ {
+  "pmid": "41225565",
+  "grupo": "LC",
+  "label": "Scroger_2025",
+  "id": "REF_SCROGER_2025",
+  "tag": "ML",
+  "nivel": "SUPPORT",
+  "evid_role": "MEC",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.105",
+  "autores": [
+   "Scroger MV",
+   "Athanason AC",
+   "Paperny NM",
+   "Liss A",
+   "Vo KT",
+   "Muneeb M",
+   "Siddiqi MT",
+   "Batchelder MR",
+   "Shahbaz I",
+   "Chan S",
+   "Deak MM",
+   "Karkhanis AN",
+   "Varodayan FP"
+  ],
+  "ano": "2025",
+  "titulo": "Sex differences in noradrenergic regulation of the medial prefrontal cortex in mice.",
+  "revista": "Biol Sex Differ",
+  "doi": "10.1016/j.ynstr.2019.100149",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Norepinephrine (noradrenaline; NE) is a stress signal released from the locus coeruleus (LC) into the prefrontal cortex (PFC) to govern arousal, attention, and cognition. The LC is sexually dimorphic, and PFC NE dysfunction contributes to alcohol use disorder and several stress-related neuropsychiatric disorders that manifest differently in men and women. However, most preclinical studies of the medial PFC (mPFC) NE system have only used male subjects. Additionally, even though each mPFC subregion and layer forms unique circuits that mediate different aspects of cognitive behavior, their specific neuromodulation by NE is not understood. We comprehensively probed potential sex differences in the mouse mPFC NE system, starting with fluorescent tracing of the LC→mPFC circuit. Basal mPFC NE tissue content and adrenergic receptor mRNA were measured using high performance liquid chromatography and real-time quantitative polymerase chain reaction. Ex vivo electrophysiology assessed NE modulation of glutamate synapses in layers 2/3 and 5 of the prelimbic and infralimbic subregions of the mPFC. Finally, we used an α2 adrenergic receptor antagonist to increase NE release and tested for mPFC-"
+ },
+ {
+  "pmid": "33911187",
+  "grupo": "LC",
+  "label": "Tillage_2021",
+  "id": "REF_TILLAGE_2021",
+  "tag": "ML",
+  "nivel": "SUPPORT",
+  "evid_role": "MEC",
+  "bloco": "BLOCO_04",
+  "subsec": "4.1",
+  "claim_id": "B4.MEC.BLOCO04.106",
+  "autores": [
+   "Tillage RP",
+   "Foster SL",
+   "Lustberg D",
+   "Liles LC",
+   "McCann KE",
+   "Weinshenker D"
+  ],
+  "ano": "2021",
+  "titulo": "Co-released norepinephrine and galanin act on different timescales to promote stress-induced anxiety-like behavior.",
+  "revista": "Neuropsychopharmacology",
+  "doi": "10.1038/s41386-021-01011-8",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Both the noradrenergic and galaninergic systems have been implicated in stress-related neuropsychiatric disorders, and these two neuromodulators are co-released from the stress-responsive locus coeruleus (LC); however, the individual contributions of LC-derived norepinephrine (NE) and galanin to behavioral stress responses are unclear. Here we aimed to disentangle the functional roles of co-released NE and galanin in stress-induced behavior. We used foot shock, optogenetics, and behavioral pharmacology in wild-type (WT) mice and mice lacking either NE (Dbh-/-) or galanin (GalcKO-Dbh) specifically in noradrenergic neurons to isolate the roles of these co-transmitters in regulating anxiety-like behavior in the elevated zero maze (EZM) either immediately or 24 h following stress. Foot shock and optogenetic LC stimulation produced immediate anxiety-like behavior in WT mice, and the effects of foot shock persisted for 24 h. NE-deficient mice were resistant to the anxiogenic effects of acute stress and optogenetic LC stimulation, while mice lacking noradrenergic-derived galanin displayed typical increases in anxiety-like behavior. However, when tested 24 h after foot shock, both Dbh-/- a"
+ },
+ {
+  "pmid": "27480574",
+  "grupo": "INF",
+  "label": "Felger_2017",
+  "id": "REF_FELGER_2017",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_08",
+  "subsec": "8.x",
+  "claim_id": "B4.MEC.BLOCO08.111",
+  "autores": [
+   "Felger JC",
+   "Treadway MT"
+  ],
+  "ano": "2017",
+  "titulo": "Inflammation Effects on Motivation and Motor Activity: Role of Dopamine.",
+  "revista": "Neuropsychopharmacology",
+  "doi": "10.1038/npp.2016.143",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Motivational and motor deficits are common in patients with depression and other psychiatric disorders, and are related to symptoms of anhedonia and motor retardation. These deficits in motivation and motor function are associated with alterations in corticostriatal neurocircuitry, which may reflect abnormalities in mesolimbic and mesostriatal dopamine (DA). One pathophysiologic pathway that may drive changes in DAergic corticostriatal circuitry is inflammation. Biomarkers of inflammation such as inflammatory cytokines and acute-phase proteins are reliably elevated in a significant proportion of psychiatric patients. A variety of inflammatory stimuli have been found to preferentially target basal ganglia function to lead to impaired motivation and motor activity. Findings have included inflammation-associated reductions in ventral striatal neural responses to reward anticipation, decreased DA and DA metabolites in cerebrospinal fluid, and decreased availability, and release of striatal DA, all of which correlated with symptoms of reduced motivation and/or motor retardation. Importantly, inflammation-associated symptoms are often difficult to treat, and evidence suggests that inflam"
+ },
+ {
+  "pmid": "39694342",
+  "grupo": "INF",
+  "label": "Bekhbat_2025",
+  "id": "REF_BEKHBAT_2025",
+  "tag": "EC",
+  "nivel": "CORE",
+  "evid_role": "SUP",
+  "bloco": "BLOCO_08",
+  "subsec": "8.x",
+  "claim_id": "B4.MEC.BLOCO08.112",
+  "autores": [
+   "Bekhbat M",
+   "Li Z",
+   "Dunlop BW",
+   "Treadway MT",
+   "Mehta ND",
+   "Revill KP",
+   "Lucido MJ",
+   "Hong C",
+   "Ashchi A",
+   "Wommack EC",
+   "Goldsmith DR",
+   "Haroon E",
+   "Miller AH",
+   "Felger JC"
+  ],
+  "ano": "2025",
+  "titulo": "Sustained effects of repeated levodopa (L-DOPA) administration on reward circuitry, effort-based motivation, and anhedonia in depressed patients with higher inflammation.",
+  "revista": "Brain Behav Immun",
+  "doi": "10.1016/j.bbi.2024.12.026",
+  "pubtypes": [
+   "Journal Article",
+   "Randomized Controlled Trial"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Inflammatory biomarkers like C-reactive protein (CRP) are elevated in a subset of patients with depression and have been associated with lower functional connectivity (FC) in a ventral striatum (VS) to ventromedial prefrontal cortex (vmPFC) reward circuit and symptoms of anhedonia. Evidence linking these relationships to the effects of inflammation on dopamine is consistent with our recent findings that acute levodopa (L-DOPA) increased VS-vmPFC FC in association with deceased anhedonia in depressed patients with higher but not lower CRP (>2 versus ≤ 2 mg/L). To determine whether repeated L-DOPA administration caused sustained effects on FC and behavior in these patients, medically stable depressed outpatients with CRP > 2 mg/L and anhedonia (n = 18) received one week of three doses of L-DOPA (150-450 mg/day/week with carbidopa) or placebo in a randomized order. Resting-state (rs) and task-based (tb; monetary incentive delay) fMRI, effort-based motivation, and exploratory measures of anhedonia and depression severity were assessed at baseline and after one week of placebo and each dose of L-DOPA. Responses to individual doses of L-DOPA varied across outcomes. For example, VS-vmPFC "
+ },
+ {
+  "pmid": "34265868",
+  "grupo": "INF",
+  "label": "Hersey_2022",
+  "id": "REF_HERSEY_2022",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_08",
+  "subsec": "8.x",
+  "claim_id": "B4.MEC.BLOCO08.113",
+  "autores": [
+   "Hersey M",
+   "Hashemi P",
+   "Reagan LP"
+  ],
+  "ano": "2022",
+  "titulo": "Integrating the monoamine and cytokine hypotheses of depression: Is histamine the missing link?",
+  "revista": "Eur J Neurosci",
+  "doi": "10.1111/ejn.15392",
+  "pubtypes": [
+   "Journal Article",
+   "Review",
+   "Research Support, U.S. Gov't, Non-P.H.S.",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Psychiatric diseases, like depression, largely affect the central nervous system (CNS). While the underlying neuropathology of depressive illness remains to be elucidated, several hypotheses have been proposed as molecular underpinnings for major depressive disorder, including the monoamine hypothesis and the cytokine hypothesis. The monoamine hypothesis has been largely supported by the pharmaceuticals that target monoamine neurotransmitters as a treatment for depression. However, these antidepressants have come under scrutiny due to their limited clinical efficacy, side effects, and delayed onset of action. The more recent, cytokine hypothesis of depression is supported by the ability of immune-active agents to induce \"sickness behaviour\" akin to that seen with depression. However, treatments that more selectively target inflammation have yielded inconsistent antidepressive results. As such, neither of these hypotheses can fully explain depressive illness pathology, implying that the underlying neuropathological mechanisms may encompass aspects of both theories. The goal of the current review is to integrate these two well-studied hypotheses and to propose a role for histamine as"
+ },
+ {
+  "pmid": "34285088",
+  "grupo": "INF",
+  "label": "Lucido_2021",
+  "id": "REF_LUCIDO_2021",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_08",
+  "subsec": "8.x",
+  "claim_id": "B4.MEC.BLOCO08.114",
+  "autores": [
+   "Lucido MJ",
+   "Bekhbat M",
+   "Goldsmith DR",
+   "Treadway MT",
+   "Haroon E",
+   "Felger JC",
+   "Miller AH"
+  ],
+  "ano": "2021",
+  "titulo": "Aiding and Abetting Anhedonia: Impact of Inflammation on the Brain and Pharmacological Implications.",
+  "revista": "Pharmacol Rev",
+  "doi": "10.1124/pharmrev.120.000043",
+  "pubtypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Animals"
+  ],
+  "abstract": "Exogenous administration of inflammatory stimuli to humans and laboratory animals and chronic endogenous inflammatory states lead to motivational deficits and ultimately anhedonia, a core and disabling symptom of depression present in multiple other psychiatric disorders. Inflammation impacts neurotransmitter systems and neurocircuits in subcortical brain regions including the ventral striatum, which serves as an integration point for reward processing and motivational decision-making. Many mechanisms contribute to these effects of inflammation, including decreased synthesis, release and reuptake of dopamine, increased synaptic and extrasynaptic glutamate, and activation of kynurenine pathway metabolites including quinolinic acid. Neuroimaging data indicate that these inflammation-induced neurotransmitter effects manifest as decreased activation of ventral striatum and decreased functional connectivity in reward circuitry involving ventral striatum and ventromedial prefrontal cortex. Neurocircuitry changes in turn mediate nuanced effects on motivation that include decreased willingness to expend effort for reward while maintaining the ability to experience reward. Taken together, t"
+ },
+ {
+  "pmid": "29033793",
+  "grupo": "MOD",
+  "label": "Liu_2017",
+  "id": "REF_LIU_2017",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_00",
+  "subsec": "P6-falencia",
+  "claim_id": "B4.MEC.BLOCO00.121",
+  "autores": [
+   "Liu B",
+   "Liu J",
+   "Wang M",
+   "Zhang Y",
+   "Li L"
+  ],
+  "ano": "2017",
+  "titulo": "From Serotonin to Neuroplasticity: Evolvement of Theories for Major Depressive Disorder.",
+  "revista": "Front Cell Neurosci",
+  "doi": "10.1038/mp.2013.87",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The serotonin (5-HT) hypothesis of depression has played an important role in the history of psychiatry, yet it has also been criticized for the delayed onset and inadequate efficacy of selective serotonin reuptake inhibitors (SSRIs). With evolvement of neuroscience, the neuroplasticity hypothesis of major depressive disorder (MDD) has been proposed and may provide a better framework for clarification the pathogenesis of MDD and antidepressant efficacy. In this article, we first summarized the evidence challenging the monoamine hypothesis and proposed that the antidepressant efficacy of SSRIs is not derived from elevated monoamine (5-HT, noradrenaline (NE), or dopamine (DA)) concentration or monoamine neurotransmission. Second, we reviewed the role of stress in the pathogenesis of MDD and gave a brief introduction to the neuroplasticity hypothesis of MDD. Third, we explored the possible mechanisms underlying the antidepressant efficacy of typical antidepressants in the context of neuroplasticity theory. Fourth, we tried to provide an explanatory framework for the significant difference in onset of efficacy between typical antidepressants and ketamine. Finally, we provided a brief s"
+ },
+ {
+  "pmid": "28926161",
+  "grupo": "MOD",
+  "label": "Boku_2018",
+  "id": "REF_BOKU_2018",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_00",
+  "subsec": "P6-falencia",
+  "claim_id": "B4.MEC.BLOCO00.122",
+  "autores": [
+   "Boku S",
+   "Nakagawa S",
+   "Toda H",
+   "Hishimoto A"
+  ],
+  "ano": "2018",
+  "titulo": "Neural basis of major depressive disorder: Beyond monoamine hypothesis.",
+  "revista": "Psychiatry Clin Neurosci",
+  "doi": "10.1111/pcn.12604",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The monoamine hypothesis has been accepted as the most common hypothesis of major depressive disorder (MDD) for a long period because of its simplicity and understandability. Actually, most currently used antidepressants have been considered to act based on the monoamine hypothesis. However, an important problem of the monoamine hypothesis has been pointed out as follows: it fails to explain the latency of response to antidepressants. In addition, many patients with MDD have remained refractory to currently used antidepressants. Therefore, monoamine-alternate hypotheses are required to explain the latency of response to antidepressants. Such hypotheses have been expected to contribute to identifying hopeful new therapeutic targets for MDD. Past studies have revealed that the volume of the hippocampus is decreased in patients with MDD, which is likely caused by the failure of the hypothalamic-pituitary-adrenal axis and following elevation of glucocorticoids. Two hypotheses have been proposed to explain the volume of the hippocampus: (i) the neuroplasticity hypothesis; and (ii) the neurogenesis hypothesis. The neuroplasticity hypothesis explains how the hippocampal volume is decrease"
+ },
+ {
+  "pmid": "38816586",
+  "grupo": "MOD",
+  "label": "Page_2024",
+  "id": "REF_PAGE_2024",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_00",
+  "subsec": "P6-falencia",
+  "claim_id": "B4.MEC.BLOCO00.123",
+  "autores": [
+   "Page CE",
+   "Epperson CN",
+   "Novick AM",
+   "Duffy KA",
+   "Thompson SM"
+  ],
+  "ano": "2024",
+  "titulo": "Beyond the serotonin deficit hypothesis: communicating a neuroplasticity framework of major depressive disorder.",
+  "revista": "Mol Psychiatry",
+  "doi": "10.1038/s41380-023-02285-8",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The serotonin deficit hypothesis explanation for major depressive disorder (MDD) has persisted among clinicians and the general public alike despite insufficient supporting evidence. To combat rising mental health crises and eroding public trust in science and medicine, researchers and clinicians must be able to communicate to patients and the public an updated framework of MDD: one that is (1) accessible to a general audience, (2) accurately integrates current evidence about the efficacy of conventional serotonergic antidepressants with broader and deeper understandings of pathophysiology and treatment, and (3) capable of accommodating new evidence. In this article, we summarize a framework for the pathophysiology and treatment of MDD that is informed by clinical and preclinical research in psychiatry and neuroscience. First, we discuss how MDD can be understood as inflexibility in cognitive and emotional brain circuits that involves a persistent negativity bias. Second, we discuss how effective treatments for MDD enhance mechanisms of neuroplasticity-including via serotonergic interventions-to restore synaptic, network, and behavioral function in ways that facilitate adaptive cog"
+ },
+ {
+  "pmid": "42198336",
+  "grupo": "MOD",
+  "label": "Carmellini_2026",
+  "id": "REF_CARMELLINI_2026",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_00",
+  "subsec": "P6-falencia",
+  "claim_id": "B4.MEC.BLOCO00.124",
+  "autores": [
+   "Carmellini P",
+   "Cuomo A",
+   "Rescalli MB",
+   "Pinzi M",
+   "Dourmas A",
+   "Fagiolini A"
+  ],
+  "ano": "2026",
+  "titulo": "The Monoamine-Glutamate Continuum of Depression: A Neurobiological Framework for Precision Psychiatry.",
+  "revista": "Pharmaceuticals (Basel)",
+  "doi": "10.1172/JCI38832",
+  "pubtypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "Background/Objectives: Major depressive disorder (MDD) remains a leading cause of disability worldwide and exhibits substantial biological heterogeneity that is not adequately captured by current symptom-based diagnostic systems. While the classical monoamine hypothesis has historically guided antidepressant development, it does not fully account for variability in treatment response, delayed therapeutic onset, or the persistence of cognitive and anhedonic symptoms. Converging evidence from molecular, neuroimaging, and translational studies increasingly implicates glutamatergic dysregulation and impaired neuroplasticity as key mechanisms in depressive pathology. This narrative review aims to integrate monoaminergic and glutamatergic perspectives within a dimensional framework that may help explain clinical heterogeneity and inform mechanism-based treatment strategies. Methods: A narrative synthesis of the literature was conducted using major biomedical databases including PubMed, Scopus, and Web of Science. Preclinical studies, neuroimaging investigations, biomarker research, randomized clinical trials, and meta-analyses examining monoaminergic dysfunction, glutamatergic signaling,"
+ },
+ {
+  "pmid": "25813654",
+  "grupo": "MOD",
+  "label": "Dale_2015",
+  "id": "REF_DALE_2015",
+  "tag": "OB",
+  "nivel": "CORE",
+  "evid_role": "REF",
+  "bloco": "BLOCO_00",
+  "subsec": "P6-falencia",
+  "claim_id": "B4.MEC.BLOCO00.125",
+  "autores": [
+   "Dale E",
+   "Bang-Andersen B",
+   "Sánchez C"
+  ],
+  "ano": "2015",
+  "titulo": "Emerging mechanisms and treatments for depression beyond SSRIs and SNRIs.",
+  "revista": "Biochem Pharmacol",
+  "doi": "10.1016/j.bcp.2015.03.011",
+  "pubtypes": [
+   "Journal Article"
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "The monoamine hypothesis has been the prevailing hypothesis of depression over the last several decades. It states that depression is associated with reduced monoamine function. Hence efforts to increase monoamine transmission by inhibiting serotonin (5-HT) and norepinephrine (NE) transporters has been a central theme in depression research since the 1960s. The selective 5-HT reuptake inhibitors (SSRIs) and 5-HT and NE reuptake inhibitors (SNRIs) that have emerged from this line of research are currently first line treatment options for major depressive disorder (MDD). One of the recent trends in antidepressant research has been to refine monoaminergic mechanisms by targeting monoaminergic receptors and additional transporters (e.g. with multimodal drugs and triple re-uptake inhibitors) or by adding atypical antipsychotics to SSRI or SNRI treatment. In addition, several other hypotheses of depression have been brought forward in pre-clinical and clinical research based on biological hallmarks of the disease and efficacy of pharmacological interventions. A central strategy has been to target glutamate receptors (for example, with intravenous infusions of the N-methyl-d-aspartate (NM"
+ },
+ {
+  "pmid": "7899535",
+  "grupo": "B2X",
+  "label": "Maes_1995",
+  "id": "REF_MAES_1995",
+  "tag": "EC",
+  "nivel": "SUPPORT",
+  "evid_role": "SUP",
+  "bloco": "BLOCO_08",
+  "subsec": "8.x",
+  "claim_id": "B4.MEC.BLOCO08.117",
+  "autores": [
+   "Maes M",
+   "Meltzer HY",
+   "D'Hondt P",
+   "Cosyns P",
+   "Blockx P"
+  ],
+  "ano": "1995",
+  "titulo": "Effects of serotonin precursors on the negative feedback effects of glucocorticoids on hypothalamic-pituitary-adrenal axis function in depression.",
+  "revista": "Psychoneuroendocrinology",
+  "doi": "10.1016/0306-4530(94)00049-g",
+  "pubtypes": [
+   "Clinical Trial",
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "especie_mesh": [
+   "Humans"
+  ],
+  "abstract": "In order to investigate the relationships between brain serotonergic turnover and hypothalamic-pituitary-adrenal (HPA) axis function in unipolar depression, the authors measured intact adrenocorticotropic hormone (ACTH) and cortisol levels in baseline conditions and after combined dexamethasone (1 mg PO) and L-5-hydroxytryptophan (L-5-HTP, 200 mg PO) administration in 13 minor, 17 simple major, and 17 melancholic subjects. L-5-HTP significantly enhanced post-DST ACTH and cortisol secretion in major--but not in minor--depressed subjects. Major depressed subjects with or without melancholia exhibited significantly higher post-DST ACTH and cortisol responses to L-5-HTP than minor depressed subjects. L-5-HTP administration converted some major depressed ACTH or cortisol suppressors into nonsuppressors. L-5-HTP stimulated ACTH or cortisol secretion to the same extent in major depressed HPA-axis suppressors and nonsuppressors. It is concluded that L-5-HTP loading may augment ACTH and, consequently, cortisol escape from suppression by dexamethasone in major but not in minor depressed subjects. The findings show that serotonergic mechanisms modulate the negative feedback of glucocorticoids"
+ }
+]

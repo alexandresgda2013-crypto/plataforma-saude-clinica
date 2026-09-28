@@ -1,0 +1,223 @@
+{
+ "Rao_2021_Metabolites": {
+  "doi": "10.3390/metabo11080483",
+  "pmids": [
+   "34436424"
+  ]
+ },
+ "Astiz_2019": {
+  "doi": "10.3390/ijms20020343",
+  "pmids": [
+   "30650649"
+  ]
+ },
+ "Goriki_2014": {
+  "doi": "10.1371/journal.pbio.1001839",
+  "pmids": [
+   "24736997"
+  ]
+ },
+ "Lamont_2007": {
+  "doi": "10.31887/dcns.2007.9.3/elamont",
+  "pmids": [
+   "17969870"
+  ]
+ },
+ "Lyall_2018": {
+  "doi": "10.1016/s2215-0366(18)30139-1",
+  "pmids": [
+   "29776774"
+  ]
+ },
+ "Tonon_2024": {
+  "doi": "10.1111/pcn.13729",
+  "pmids": [
+   "39210713"
+  ]
+ },
+ "Kinlein_2019": {
+  "doi": "10.1016/j.yfrne.2019.100819",
+  "pmids": [
+   "31863788"
+  ]
+ },
+ "McCarthy_2021_ISBD": {
+  "doi": "10.1111/bdi.13165",
+  "pmids": [
+   "34850507"
+  ]
+ },
+ "VanDalfsen_2017": {
+  "doi": "10.1016/j.smrv.2017.10.002",
+  "pmids": [
+   "29126903"
+  ]
+ },
+ "Palagini_2022_CN": {
+  "doi": "10.36131/cnfioritieditore20220306",
+  "pmids": [
+   "35821870"
+  ]
+ },
+ "Spiga_2014_a": {
+  "doi": "10.1002/j.2040-4603.2014.tb00576.x",
+  "pmids": []
+ },
+ "Spiga_2014_b": {
+  "doi": "10.1002/cphy.c140003",
+  "pmids": [
+   "24944037"
+  ]
+ },
+ "Burns_2023_NMH": {
+  "doi": "10.1038/s44220-023-00135-8",
+  "pmids": []
+ },
+ "Mendoza_2024_NMH": {
+  "doi": "10.1038/s44220-024-00260-y",
+  "pmids": []
+ },
+ "Sandate_2020": {
+  "doi": "10.1107/s0108767320098785",
+  "pmids": []
+ },
+ "Palagini_2023_EurPsy": {
+  "doi": "10.1192/j.eurpsy.2023.830",
+  "pmids": []
+ },
+ "Feng_2025": {
+  "doi": "10.3390/sym17091418",
+  "pmids": []
+ },
+ "You_2024": {
+  "doi": "10.35986/me.2024.22.1.10",
+  "pmids": []
+ },
+ "Cao_2025": {
+  "doi": "10.54254/2753-8818/2025.au22988",
+  "pmids": []
+ },
+ "Takahashi_2016_chapter": {
+  "doi": "10.1007/978-3-319-27069-2_2",
+  "pmids": [
+   "28892344"
+  ]
+ },
+ "Aydogan_2025": {
+  "doi": "10.1016/j.jbc.2025.110333",
+  "pmids": [
+   "40480635"
+  ]
+ },
+ "Gosztyla_2026": {
+  "doi": "10.31435/ijitss.2(50).2026.5381",
+  "pmids": []
+ },
+ "Noweta_2026": {
+  "doi": "10.31435/ijitss.2(50).2026.5364",
+  "pmids": []
+ },
+ "VanBeurden_2022": {
+  "doi": "10.1096/fj.202200478r",
+  "pmids": [
+   "36057093"
+  ]
+ },
+ "Serrano_2026_eLife": {
+  "pmids": [
+   "42290481"
+  ]
+ },
+ "_meta": {
+  "17969870": {
+   "title": "The role of circadian clock genes in mental disorders.",
+   "first": "Lamont EW",
+   "sortpubdate": "2007/01/01 00:00",
+   "journal": "Dialogues in clinical neuroscience"
+  },
+  "24736997": {
+   "title": "A novel protein, CHRONO, functions as a core component of the mammalian circadian clock.",
+   "first": "Goriki A",
+   "sortpubdate": "2014/04/15 00:00",
+   "journal": "PLoS biology"
+  },
+  "24944037": {
+   "title": "HPA axis-rhythms.",
+   "first": "Spiga F",
+   "sortpubdate": "2014/07/01 00:00",
+   "journal": "Comprehensive physiology"
+  },
+  "28892344": {
+   "title": "Molecular Architecture of the Circadian Clock in Mammals.",
+   "first": "Sassone-Corsi P",
+   "sortpubdate": "2016/04/05 00:00",
+   "journal": ""
+  },
+  "29126903": {
+   "title": "The influence of sleep on human hypothalamic-pituitary-adrenal (HPA) axis reactivity: A sy",
+   "first": "van Dalfsen JH",
+   "sortpubdate": "2018/06/01 00:00",
+   "journal": "Sleep medicine reviews"
+  },
+  "29776774": {
+   "title": "Association of disrupted circadian rhythmicity with mood disorders, subjective wellbeing, ",
+   "first": "Lyall LM",
+   "sortpubdate": "2018/06/01 00:00",
+   "journal": "The lancet. Psychiatry"
+  },
+  "30650649": {
+   "title": "Mechanisms of Communication in the Mammalian Circadian Timing System.",
+   "first": "Astiz M",
+   "sortpubdate": "2019/01/15 00:00",
+   "journal": "International journal of molecular sciences"
+  },
+  "31863788": {
+   "title": "The hypothalamic-pituitary-adrenal axis as a substrate for stress resilience: Interactions",
+   "first": "Kinlein SA",
+   "sortpubdate": "2020/01/01 00:00",
+   "journal": "Frontiers in neuroendocrinology"
+  },
+  "34436424": {
+   "title": "Modeling the Influence of Chronic Sleep Restriction on Cortisol Circadian Rhythms, with Im",
+   "first": "Rao R",
+   "sortpubdate": "2021/07/27 00:00",
+   "journal": "Metabolites"
+  },
+  "34850507": {
+   "title": "Neurobiological and behavioral mechanisms of circadian rhythm disruption in bipolar disord",
+   "first": "McCarthy MJ",
+   "sortpubdate": "2022/05/01 00:00",
+   "journal": "Bipolar disorders"
+  },
+  "35821870": {
+   "title": "Circadian Rhythm Alterations May be Related to Impaired Resilience, Emotional Dysregulatio",
+   "first": "Palagini L",
+   "sortpubdate": "2022/06/01 00:00",
+   "journal": "Clinical neuropsychiatry"
+  },
+  "36057093": {
+   "title": "Single cell model for re-entrainment to a shifted light cycle.",
+   "first": "van Beurden AW",
+   "sortpubdate": "2022/10/01 00:00",
+   "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology"
+  },
+  "39210713": {
+   "title": "Sleep and circadian disruption in bipolar disorders: From psychopathology to digital pheno",
+   "first": "Tonon AC",
+   "sortpubdate": "2024/11/01 00:00",
+   "journal": "Psychiatry and clinical neurosciences"
+  },
+  "40480635": {
+   "title": "M54 selectively stabilizes the circadian clock component of CRY1 and enhances the period o",
+   "first": "Gül ZM",
+   "sortpubdate": "2025/07/01 00:00",
+   "journal": "The Journal of biological chemistry"
+  },
+  "42290481": {
+   "title": "Nuclear CK1δ as a critical determinant of PER:CRY complex dynamics and circadian period.",
+   "first": "Serrano FE",
+   "sortpubdate": "2026/06/15 00:00",
+   "journal": "eLife"
+  }
+ }
+}

@@ -1,0 +1,71 @@
+{
+  "trilha": 102,
+  "data": "2026-09-25",
+  "objeto": "fecho_como_executar_v110",
+  "digitais": {
+    "mestre": "13b2939d942f0dcf3c00f880d4554742524e3925f605f0ae94d9295ccfde0fe6",
+    "estrutura": "d70f6722d07e92b45702b69ee61a39c108e351c9b6f2916e25e16833a1355574",
+    "minuta": "4951434417f24a329d41fc31f0ec13a5d6da5e1191edde1e72e6cbe2fee4038e"
+  },
+  "ciclo_v110": "ENCAVEL",
+  "total": 8,
+  "ok": 8,
+  "resultado": [
+    {
+      "id": "T1",
+      "descricao": "Mestre upload ≡ série",
+      "ok": true,
+      "detalhe": {
+        "sha": "13b2939d942f0dcf3c00f880d4554742524e3925f605f0ae94d9295ccfde0fe6"
+      }
+    },
+    {
+      "id": "T2",
+      "descricao": "Mestre sem ressalva + sha declarado",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T3",
+      "descricao": "Estrutura sem ressalva + sha declarado (prefixo 12)",
+      "ok": true,
+      "detalhe": {
+        "prefixo": "4951434417f2"
+      }
+    },
+    {
+      "id": "T4",
+      "descricao": "minuta canônica sha = 49514344",
+      "ok": true,
+      "detalhe": {
+        "sha": "4951434417f24a329d41fc31f0ec13a5d6da5e1191edde1e72e6cbe2fee4038e"
+      }
+    },
+    {
+      "id": "T5",
+      "descricao": "nota E: passagem literal na mesa das três (não bloqueia)",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T6",
+      "descricao": "nota M: v1.10 coerente com schema+contrato subscritos",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T7",
+      "descricao": "2× sem ressalva ⇒ ciclo v1.10 ENCAVEL",
+      "ok": true,
+      "detalhe": {
+        "vigencia": "pendente frase do operador"
+      }
+    },
+    {
+      "id": "T8",
+      "descricao": "pendências de sempre registradas como não-bloqueio",
+      "ok": true,
+      "detalhe": {}
+    }
+  ]
+}

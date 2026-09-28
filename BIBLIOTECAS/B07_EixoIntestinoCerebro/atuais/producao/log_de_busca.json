@@ -1,0 +1,54 @@
+{
+ "mecanismo": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+ "data": "2026-09-05",
+ "rodada": "Rodada 2 (corpus/pré-cânonica) → Rodada 3 (canônica)",
+ "buscas_esearch": [
+  "antidepressants gut microbiota Cussotto psychotropic drugs microbiome",
+  "antibiotics early life gut microbiota anxiety depression mice",
+  "fecal microbiota transplantation anxiety disorders randomized trial",
+  "sodium butyrate supplementation depression anxiety humans trial",
+  "indole propionic acid microbiota depression AhR tryptophan human",
+  "vagotomy peripheral vagus nerve gut brain behavior humans",
+  "prebiotics fructooligosaccharides stress anxiety humans trial",
+  "Neufeld germ-free mice reduced anxiety",
+  "microbiota metabolites vagal nodose neurons receptor",
+  "endocannabinoid system gut microbiota stress",
+  "vagus nerve stimulation depression treatment review",
+  "Braniste gut microbiota blood-brain barrier",
+  "Clarke gut microbiota neglected endocrine organ",
+  "gut microbiota enteric nervous system development",
+  "Bellono enterochromaffin cells gut chemosensors",
+  "PTSD gut microbiota veterans trauma",
+  "prebiotic galactooligosaccharide cortisol waking Schmidt"
+ ],
+ "g1": {
+  "metodo": "eutils esummary em lote",
+  "resolvidos": 85,
+  "nao_resolvidos": 0
+ },
+ "g2": {
+  "animais_redirecionados_mecanisticos": "Sudo/Bravo/Kelly FMT/Zheng/Li N/Erny/Yano/Bellono/Diaz Heijtz/Desbonnet/Arentsen/Neufeld/Hoban/Braniste/Vicentini/Li rifaximina/Sampson = 17 registros [ML] redirecionado_mecanistico",
+  "humanos_fraco_redirecionados_clinicos": "Maes 2008 (um grupo), Stevens 2018 (carta n pequeno), Feng 2024 ALS = 3 redirecionado_clinico"
+ },
+ "g3": {
+  "abstracts_lidos": [
+   "41921871",
+   "42309058",
+   "36834489",
+   "40440772",
+   "41865792",
+   "34131108",
+   "34620373",
+   "41605120",
+   "34524405",
+   "33271426",
+   "21876150",
+   "27491067",
+   "25860609"
+  ],
+  "achado_nao_obvio": "FMT-RCT 2026 (42309058): endpoint PRIMÁRIO (remissão semana 8) NULO; apenas HAMD-17 (secundário) maior — claim registrado como PARCIALMENTE_CONFIRMADO/emergente"
+ },
+ "pendencias": [
+  "P-6: 2a verificacao independente (avaliador cego) dos claims de alto risco"
+ ]
+}

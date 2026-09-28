@@ -1,0 +1,489 @@
+{
+ "B01": {
+  "n": 257,
+  "fora_enum": {
+   "status_referencia": {
+    "VALIDADO_G3_IA": 236,
+    "PENDENTE_FULLTEXT": 1
+   },
+   "status_referencia__ex": {
+    "VALIDADO_G3_IA": "VINC_B1_0001",
+    "PENDENTE_FULLTEXT": "VINC_B1_0047"
+   },
+   "natureza_relacao": {
+    "tier_3_correlacional_mecanistico": 17,
+    "tier_4_descritivo_estrutural": 10
+   },
+   "natureza_relacao__ex": {
+    "tier_3_correlacional_mecanistico": "VINC_B1V2_0179",
+    "tier_4_descritivo_estrutural": "VINC_B1V2_0195"
+   }
+  },
+  "ausentes": {},
+  "id_fora_padrao": [],
+  "g3_assinaturas": {},
+  "tem_verificacao_dict": 0,
+  "path": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json"
+ },
+ "B02": {
+  "n": 89,
+  "fora_enum": {
+   "status_referencia": {
+    "CONFIRMADA": 61,
+    "VALIDADO_G3_IA": 28
+   },
+   "status_referencia__ex": {
+    "CONFIRMADA": "VINC_B2_001",
+    "VALIDADO_G3_IA": "VINC_B2_0062"
+   }
+  },
+  "ausentes": {},
+  "id_fora_padrao": [
+   61,
+   [
+    "VINC_B2_001",
+    "VINC_B2_002",
+    "VINC_B2_003"
+   ]
+  ],
+  "g3_assinaturas": {},
+  "tem_verificacao_dict": 0,
+  "path": "/home/user/BIBLIOTECAS/B02_Eixo_HPA_cortisol/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json"
+ },
+ "B03": {
+  "n": 165,
+  "fora_enum": {
+   "status_referencia": {
+    "CONFIRMADA": 165
+   },
+   "status_referencia__ex": {
+    "CONFIRMADA": "VINC_B3_001"
+   },
+   "evid_role": {
+    "revisao_mecanistica": 54,
+    "preclinico_mecanistico": 42,
+    "meta_analise": 2
+   },
+   "evid_role__ex": {
+    "revisao_mecanistica": "VINC_B3_055",
+    "preclinico_mecanistico": "VINC_B3_062",
+    "meta_analise": "VINC_B3_078"
+   }
+  },
+  "ausentes": {},
+  "id_fora_padrao": [
+   165,
+   [
+    "VINC_B3_001",
+    "VINC_B3_002",
+    "VINC_B3_003"
+   ]
+  ],
+  "g3_assinaturas": {},
+  "tem_verificacao_dict": 0,
+  "path": "/home/user/BIBLIOTECAS/B03_Neuroplasticidade/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json"
+ },
+ "B04": {
+  "n": 131,
+  "fora_enum": {
+   "status_referencia": {
+    "CONFIRMADA": 37
+   },
+   "status_referencia__ex": {
+    "CONFIRMADA": "VINC_B4_001"
+   },
+   "evid_role": {
+    "revisao_mecanistica": 59,
+    "meta_analise": 6,
+    "preclinico_mecanistico": 14
+   },
+   "evid_role__ex": {
+    "revisao_mecanistica": "VINC_B4_038",
+    "meta_analise": "VINC_B4_044",
+    "preclinico_mecanistico": "VINC_B4_064"
+   }
+  },
+  "ausentes": {
+   "status_referencia": 94
+  },
+  "id_fora_padrao": [
+   131,
+   [
+    "VINC_B4_001",
+    "VINC_B4_002",
+    "VINC_B4_003"
+   ]
+  ],
+  "g3_assinaturas": {},
+  "tem_verificacao_dict": 0,
+  "path": "/home/user/BIBLIOTECAS/B04_Monoaminas/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json"
+ },
+ "B05": {
+  "n": 160,
+  "fora_enum": {
+   "status_referencia": {
+    "CONFIRMADA": 44
+   },
+   "status_referencia__ex": {
+    "CONFIRMADA": "VINC_B5_001"
+   },
+   "evid_role": {
+    "revisao_mecanistica": 50,
+    "meta_analise": 7,
+    "preclinico_mecanistico": 49
+   },
+   "evid_role__ex": {
+    "revisao_mecanistica": "VINC_B5_045",
+    "meta_analise": "VINC_B5_056",
+    "preclinico_mecanistico": "VINC_B5_065"
+   }
+  },
+  "ausentes": {
+   "status_referencia": 116
+  },
+  "id_fora_padrao": [
+   160,
+   [
+    "VINC_B5_001",
+    "VINC_B5_002",
+    "VINC_B5_003"
+   ]
+  ],
+  "g3_assinaturas": {},
+  "tem_verificacao_dict": 0,
+  "path": "/home/user/BIBLIOTECAS/B05_GabaGlutamato/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json"
+ },
+ "B06": {
+  "n": 108,
+  "fora_enum": {
+   "status_referencia": {
+    "CONFIRMADA": 108
+   },
+   "status_referencia__ex": {
+    "CONFIRMADA": "VINC_B6_001"
+   },
+   "evid_role": {
+    "revisao_mecanistica": 43,
+    "preclinico_mecanistico": 20
+   },
+   "evid_role__ex": {
+    "revisao_mecanistica": "VINC_B6_037",
+    "preclinico_mecanistico": "VINC_B6_049"
+   }
+  },
+  "ausentes": {},
+  "id_fora_padrao": [
+   108,
+   [
+    "VINC_B6_001",
+    "VINC_B6_002",
+    "VINC_B6_003"
+   ]
+  ],
+  "g3_assinaturas": {},
+  "tem_verificacao_dict": 0,
+  "path": "/home/user/BIBLIOTECAS/B06_EstresseOxidativo/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json"
+ },
+ "B07": {
+  "n": 71,
+  "fora_enum": {
+   "forca_causal": {
+    "tier_3_mecanistico_animal": 31,
+    "tier_2_intervencao_humana": 3,
+    "tier_2_meta_analise": 8,
+    "tier_2_revisao_sistematica": 2,
+    "tier_4_observacional_transversal": 12,
+    "tier_3_mecanistico_invitro": 1
+   },
+   "forca_causal__ex": {
+    "tier_3_mecanistico_animal": "VINC_B7_001",
+    "tier_2_intervencao_humana": "VINC_B7_014",
+    "tier_2_meta_analise": "VINC_B7_015",
+    "tier_2_revisao_sistematica": "VINC_B7_023",
+    "tier_4_observacional_transversal": "VINC_B7_025",
+    "tier_3_mecanistico_invitro": "VINC_B7_032"
+   },
+   "status_referencia": {
+    "CONFIRMADA": 66,
+    "PARCIAL": 5
+   },
+   "status_referencia__ex": {
+    "CONFIRMADA": "VINC_B7_001",
+    "PARCIAL": "VINC_B7_014"
+   },
+   "grau_maturidade": {
+    "moderado_suportado": 10,
+    "incipiente": 7
+   },
+   "grau_maturidade__ex": {
+    "moderado_suportado": "VINC_B7_005",
+    "incipiente": "VINC_B7_016"
+   },
+   "natureza_relacao": {
+    "descritiva": 7,
+    "refutadora": 4
+   },
+   "natureza_relacao__ex": {
+    "descritiva": "VINC_B7_016",
+    "refutadora": "VINC_B7_018"
+   }
+  },
+  "ausentes": {},
+  "id_fora_padrao": [
+   71,
+   [
+    "VINC_B7_001",
+    "VINC_B7_002",
+    "VINC_B7_003"
+   ]
+  ],
+  "g3_assinaturas": {
+   "IA G3 (Rodada [AT] GPM B7 2026-09-09): eutils esearch DOI[aid] + esummary + efetch abstract lido ref a ref; P-6 pendente": 31
+  },
+  "tem_verificacao_dict": 0,
+  "path": "/home/user/BIBLIOTECAS/B07_EixoIntestinoCerebro/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json"
+ },
+ "B08": {
+  "n": 83,
+  "fora_enum": {
+   "forca_causal": {
+    "tier_2_intervencao_humana": 7,
+    "tier_2_meta_analise": 16,
+    "tier_3_mecanistico_animal": 2,
+    "tier_4_observacional_transversal": 19,
+    "tier_2_revisao_sistematica": 5
+   },
+   "forca_causal__ex": {
+    "tier_2_intervencao_humana": "VINC_B8_001",
+    "tier_2_meta_analise": "VINC_B8_002",
+    "tier_3_mecanistico_animal": "VINC_B8_011",
+    "tier_4_observacional_transversal": "VINC_B8_014",
+    "tier_2_revisao_sistematica": "VINC_B8_026"
+   },
+   "status_referencia": {
+    "CONFIRMADA": 75,
+    "PARCIAL": 8
+   },
+   "status_referencia__ex": {
+    "CONFIRMADA": "VINC_B8_001",
+    "PARCIAL": "VINC_B8_010"
+   },
+   "natureza_relacao": {
+    "refutadora": 9,
+    "descritiva": 7
+   },
+   "natureza_relacao__ex": {
+    "refutadora": "VINC_B8_003",
+    "descritiva": "VINC_B8_013"
+   },
+   "grau_maturidade": {
+    "moderado_suportado": 33,
+    "incipiente": 20
+   },
+   "grau_maturidade__ex": {
+    "moderado_suportado": "VINC_B8_007",
+    "incipiente": "VINC_B8_010"
+   }
+  },
+  "ausentes": {},
+  "id_fora_padrao": [
+   83,
+   [
+    "VINC_B8_001",
+    "VINC_B8_002",
+    "VINC_B8_003"
+   ]
+  ],
+  "g3_assinaturas": {
+   "IA G3 (Rodada [AT] GPM B8 2026-09-09): eutils esearch DOI[aid] + esummary + efetch; abstract lido ref a ref": 44,
+   "IA G3 (Rodada [AT] GPM B8 2026-09-09): eutils esearch DOI[aid] + esummary + efetch; abstract lido ref a ref; MeSH penden": 5
+  },
+  "tem_verificacao_dict": 0,
+  "path": "/home/user/BIBLIOTECAS/B08_Micronutrientes/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json"
+ },
+ "B09": {
+  "n": 111,
+  "fora_enum": {
+   "status_referencia": {
+    "CONFIRMADA": 111
+   },
+   "status_referencia__ex": {
+    "CONFIRMADA": "VINC_B9_001"
+   }
+  },
+  "ausentes": {},
+  "id_fora_padrao": [
+   111,
+   [
+    "VINC_B9_001",
+    "VINC_B9_002",
+    "VINC_B9_003"
+   ]
+  ],
+  "g3_assinaturas": {
+   "IA G3 (Rodada [AT] GPM B9 2026-09-09): eutils esearch DOI[aid] + esummary + efetch; abstract lido; MeSH pendente de inde": 10,
+   "IA G3 (Rodada [AT] GPM B9 2026-09-09): eutils esearch DOI[aid] + esummary + efetch; abstract lido": 66
+  },
+  "tem_verificacao_dict": 0,
+  "path": "/home/user/BIBLIOTECAS/B09_DisfuncaoMitocondrial/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json"
+ },
+ "B10": {
+  "n": 137,
+  "fora_enum": {
+   "status_referencia": {
+    "CONFIRMADA": 137
+   },
+   "status_referencia__ex": {
+    "CONFIRMADA": "VINC_B10_001"
+   }
+  },
+  "ausentes": {},
+  "id_fora_padrao": [
+   137,
+   [
+    "VINC_B10_001",
+    "VINC_B10_002",
+    "VINC_B10_003"
+   ]
+  ],
+  "g3_assinaturas": {
+   "IA G3 (Rodada [AT] GPM B10 2026-09-09): eutils esearch DOI[aid]/PMID + esummary + efetch; abstract lido; divergências do": 98
+  },
+  "tem_verificacao_dict": 0,
+  "path": "/home/user/BIBLIOTECAS/B10_DesregulacaoCircadiana/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json"
+ },
+ "B11": {
+  "n": 96,
+  "fora_enum": {
+   "status_referencia": {
+    "CONFIRMADA": 96
+   },
+   "status_referencia__ex": {
+    "CONFIRMADA": "VINC_B11_001"
+   },
+   "verification_status": {
+    "humano_clinico": 56
+   },
+   "verification_status__ex": {
+    "humano_clinico": "VINC_B11_041"
+   }
+  },
+  "ausentes": {},
+  "id_fora_padrao": [
+   96,
+   [
+    "VINC_B11_001",
+    "VINC_B11_002",
+    "VINC_B11_003"
+   ]
+  ],
+  "g3_assinaturas": {},
+  "tem_verificacao_dict": 0,
+  "path": "/home/user/BIBLIOTECAS/B11_DisfuncaoTireoidiana/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json"
+ },
+ "B12": {
+  "n": 111,
+  "fora_enum": {
+   "status_referencia": {
+    "CONFIRMADA": 111
+   },
+   "status_referencia__ex": {
+    "CONFIRMADA": "VINC_B12_001"
+   },
+   "verification_status": {
+    "humano_clinico": 70
+   },
+   "verification_status__ex": {
+    "humano_clinico": "VINC_B12_038"
+   }
+  },
+  "ausentes": {},
+  "id_fora_padrao": [
+   111,
+   [
+    "VINC_B12_001",
+    "VINC_B12_002",
+    "VINC_B12_003"
+   ]
+  ],
+  "g3_assinaturas": {},
+  "tem_verificacao_dict": 0,
+  "path": "/home/user/BIBLIOTECAS/B12_NeurobiologiaTrauma/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json"
+ },
+ "B13": {
+  "n": 207,
+  "fora_enum": {
+   "status_referencia": {
+    "CONFIRMADA": 207
+   },
+   "status_referencia__ex": {
+    "CONFIRMADA": "VINC_B13_001"
+   },
+   "g2_elegibilidade": {
+    "eligible_source": 118,
+    "nao_aplicavel": 49
+   },
+   "g2_elegibilidade__ex": {
+    "eligible_source": "VINC_B13_001",
+    "nao_aplicavel": "VINC_B13_016"
+   },
+   "verification_status": {
+    "humano_clinico": 24
+   },
+   "verification_status__ex": {
+    "humano_clinico": "VINC_B13_173"
+   }
+  },
+  "ausentes": {},
+  "id_fora_padrao": [
+   207,
+   [
+    "VINC_B13_001",
+    "VINC_B13_002",
+    "VINC_B13_003"
+   ]
+  ],
+  "g3_assinaturas": {},
+  "tem_verificacao_dict": 0,
+  "path": "/home/user/BIBLIOTECAS/B13_SistemaEndocanabinoide/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json"
+ },
+ "B14": {
+  "n": 290,
+  "fora_enum": {},
+  "ausentes": {
+   "status_referencia": 290,
+   "verification_status": 290,
+   "g2_elegibilidade": 290
+  },
+  "id_fora_padrao": [],
+  "g3_assinaturas": {},
+  "tem_verificacao_dict": 0,
+  "path": "/home/user/BIBLIOTECAS/B14_Neuroesteroides/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json"
+ },
+ "B15": {
+  "n": 173,
+  "fora_enum": {},
+  "ausentes": {
+   "status_referencia": 173,
+   "verification_status": 173,
+   "g2_elegibilidade": 173
+  },
+  "id_fora_padrao": [],
+  "g3_assinaturas": {},
+  "tem_verificacao_dict": 0,
+  "path": "/home/user/BIBLIOTECAS/B15_AutofagiaMTOR/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json"
+ },
+ "B16": {
+  "n": 290,
+  "fora_enum": {},
+  "ausentes": {
+   "status_referencia": 290,
+   "verification_status": 290,
+   "g2_elegibilidade": 290
+  },
+  "id_fora_padrao": [],
+  "g3_assinaturas": {},
+  "tem_verificacao_dict": 0,
+  "path": "/home/user/BIBLIOTECAS/B16_Neurogenese/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json"
+ }
+}

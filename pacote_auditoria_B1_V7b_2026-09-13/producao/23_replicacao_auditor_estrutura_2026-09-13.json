@@ -1,0 +1,59 @@
+{
+  "data": "2026-09-13",
+  "trilha": 23,
+  "objeto": "Réplica + correção dos achados do auditor externo de ESTRUTURA (revisão do código do portão P-5) sobre a B1 V7",
+  "veredicto_do_revisor_sobre_a_b1": "18 checagens de integridade reproduzidas em máquina limpa; gate APROVADO exit 0; framework 0 ERRO/236 AVISO; números do README confirmados — qualidade da B1 validada; o que segue é revisão do CÓDIGO do portão (o que escala para os 15)",
+
+  "achados_replicados": {
+    "A2-1_campo_uso_fora_do_enum": {
+      "revisor": "uso≠enum v3.1: contexto mecanístico 178, clínico 37, lacuna 29, B1_v2 30; núcleo causal 0 → ramo do alto-risco por 'nucleo_causal' nunca dispara (mesmo bug do tier_1, 2ª vez)",
+      "replica_casa": {"contexto_mecanistico": 178, "clinico": 37, "gap_pesquisa": 29, "B1_v2": 30, "nucleo_causal": 0, "suporte_correlacional": 0},
+      "enum_oficial": "SCHEMA-CLAIM v3.1 linha 148: uso: nucleo_causal | suporte_correlacional | gap_pesquisa",
+      "confirmado": true,
+      "acoes": "gate rev.A2 item [10] mede e avisa sempre; correção de DADOS NÃO é remapear campo a campo sem norma — entra no pacote L-05/1.2 (taxonomia), definido por decisão de schema; forca_biologica_conexao vazio em 274/274 (ramo HIGH mensurável, não mensurado — INFO [6a0])"
+    },
+    "A2-2_divergencia_59_x_39": {
+      "revisor": "cabeçalho declara 59; gate mede 39 em 27 refs",
+      "replica_casa": "na V6 era fato; NA V7 já está resolvido (AUD-066): cabeçalho amarrado à fila operacional 108/91 com linhagem 59→108→39→~58; o gate rev.A2 conta 38 refs pelos 4 critérios reimplementados",
+      "confirmado": "confirmado na V6; já corrigido na V7 (o revisor rodou o pacote V6/V6-final)",
+      "acao": "pacote V7 enviado; na saída do gate rev.A2 o número passa a ser computado e impresso por critério"
+    },
+    "A2-3_especificado_nao_implementado": {
+      "bloco_h_criterios": "(a) nó central BLOCO_07 ou conexão BLOCO_08 HIGH; (b) uso=clinico; (c) evidência humana afirmando causalidade; (d) decisão de rejeitar",
+      "revisor": "o gate implementava 1,5 (uso/tier_1); falta nó central, conexão HIGH, humano→causal, rejeição",
+      "replica_casa": "confirmado lendo o código (filtro uso∈{clinico,nucleo_causal} OR tier_1)",
+      "implementacao_revA2": {
+        "a": "secao_origem/claim_id contém BLOCO_07 (6) ou forca_biologica_conexao==HIGH (0 — campo vazio, INFO [6a0])",
+        "b": "uso∈{clinico,nucleo_causal} (37 vínculos)",
+        "c": "evid_role human_* E tier_1/tier_2 (14)",
+        "d": "status_auditoria ∈ {NAO_SUSTENTA_CLAIM, CITACAO_INCORRETA} (0)",
+        "uniao": "51 vínculos / 38 refs distintas; sem 2ª verificação: 38 refs — INFO de fase (como antes, não afrouxado)"
+      }
+    },
+    "A2-4_selo_por_frase": {
+      "revisor": "especificado (Bloco H item 3; P12) é verification_status por frase; o gate checava status_auditoria. Medido: 8 passam sem alarme, 7 = CONFIRMADO+pendente",
+      "replica_casa": {"pendente_total": 7, "pendente_fulltext": 1, "soma_8": true, "confirmado_mais_pendente": 7, "lista": ["VINC_B1_0258","VINC_B1_0259","VINC_B1_0264","VINC_B1_0268","VINC_B1_0269","VINC_B1_0270","VINC_B1_0271"], "confirmado": true},
+      "implementacao_revA2": "item [11]: fora de APENDICE_CORPUS sem campo válido E sem selo inline → 1 caso (VINC_B1_0047, full-text declarado na fila P-6) — INFO nomeado permanente (não silencioso); vira FALHA quando a fila fechar; item [11b]: os 7 de APENDICE_CORPUS (índice, não frase declarativa) INFO contado — revisão no P-6"
+    },
+    "A2-5_anti_autocertificacao_E1_E3": {
+      "revisor": "as 3 regras (E1/E2/E3 do Checklist Fidelidade §E) estão fora do código; rodadas à mão: 0 violações hoje",
+      "replica_casa": "confirmado 0 violações: E1 g1_metodo=eutils_automatico 274/274; E2 0 violações nos 140 'verificado'",
+      "implementacao_revA2": "E1 e E2 viram FALHA funcional (itens [7]/[8]); E3 vira INFO heurístico (item [9]: 2 âncoras possivelmente truncadas — VINC_B1_0038, VINC_B1_0232)"
+    },
+    "A2-6_latente_citacao_confirmada": {
+      "revisor": "a 1ª checagem aceita citacao_confirmada como substituto da verificação por ferramenta; hoje não usado; campo gravável por modelo",
+      "replica_casa": "confirmado o bypass no código; E DESCOBERTO na execução: as 237 fichas trazem o campo preenchido (sempre True) — sem dependência (todas têm g1_metodo), mas é dado cuja origem precisa ser auditada",
+      "implementacao_revA2": "[1b] DEPENDÊNCIA do atalho = FALHA (hoje 0); [1c] campo preenchido = INFO nomeado (237) com encaminhamento: auditar origem e decidir remoção/ignorância no pacote L-05 — nada de apagar campo sem norma"
+    }
+  },
+
+  "conflito_de_escopo_resolvido": "o portão vigente era o OFICIAL do Auditor-Mestre; a casa aplicou a revisão com backup (gate_script.py.bak_gateOficial_pre_revA2_2026-09-13) e a propõe à próxima oficial — mesma liturgia das rodadas 1–2 (casa mede e conserta; mestre incorpora)",
+
+  "portoes_pos_patch": {
+    "gate_revA2": "APROVADO exit 0 — com INFO nomeados: [1c] 237 citacao_confirmada; [6a0] HIGH vazio; [6] 51/38, 38 sem 2ª verif; [9/E3] 2; [10] enum uso; [11] VINC_B1_0047; [11b] 7 APENDICE",
+    "checklist": "41/41",
+    "framework": "0 ERRO / 236 AVISO",
+    "P8": "0 ERRO / 26 AVISO",
+    "observacao": "o patch não tocou em dados; framework/P-8 inalterados por construção e re-medidos iguais"
+  }
+}

@@ -1,0 +1,20 @@
+{
+ "data": "2026-09-11",
+ "bib": "B12",
+ "backup": "/home/user/BIBLIOTECAS/B12_NeurobiologiaTrauma/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json.bak_20260911_174328",
+ "aplicadas": [
+  {
+   "id": "VINC_B12_016",
+   "modo": "AT05"
+  },
+  {
+   "id": "VINC_B12_027",
+   "modo": "AT05"
+  },
+  {
+   "id": "VINC_B12_037",
+   "modo": "AT05"
+  }
+ ],
+ "restantes_fila": 1
+}

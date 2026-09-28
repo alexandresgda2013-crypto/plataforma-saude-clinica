@@ -1,0 +1,22 @@
+{
+ "id": "IMPL-AT-00",
+ "data": "2026-09-10",
+ "biblioteca": "B14",
+ "origem_deteccao": "re-varredura checklist×16 motivada pela perícia externa dos scripts",
+ "defeito": "vocabulário cruzado: vínculos com enum de ledger; g1_metodo descritivo",
+ "reparo": {
+  "vinculos_status_auditoria": "APROVADO→CONFIRMADO ×50",
+  "g1_metodo": "→'eutils_automatico' ×50"
+ },
+ "verificacao": [
+  "gate APROVADO",
+  "framework 0 ERRO",
+  "checklist 41/41"
+ ],
+ "conteudo_cientifico_alterado": false,
+ "ligado_a": [
+  "CONTRARRAZAO §6 (AT-00)",
+  "CHANGELOG_GERAL.md",
+  "TRIPLICA do perito (furo F2)"
+ ]
+}

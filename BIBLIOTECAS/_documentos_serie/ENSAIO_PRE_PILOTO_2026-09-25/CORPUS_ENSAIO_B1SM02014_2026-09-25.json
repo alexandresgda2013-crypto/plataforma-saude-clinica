@@ -1,0 +1,870 @@
+{
+  "ensaio": "B1.SM02.014 pré-piloto",
+  "data": "2026-09-25",
+  "bloco_sha256": "7db41d405cdeca181eef9ce3d294797f88c8e5e65fc800dac504f60fa9ed4563",
+  "pool_sha256": "955590e12ff26a79b69c273feddab24c4276be4bed6cc47d700e013d3cad422f",
+  "pool_total": 107,
+  "dois_unicos": 107,
+  "duplicatas_removidas": [],
+  "consolidado_total": 107,
+  "pmids_no_pool": 0,
+  "observacao": "Pool sem PMID — G1 exige resolver PMID/DOI; DOI presente em 107/107. Achado operacional E-01.",
+  "itens": [
+    {
+      "n": 1,
+      "autor": "Alfaifi",
+      "ano": "2025",
+      "doi": "10.1177/0271678x251348790",
+      "pmid": null,
+      "linha": "Alfaifi, B., Tuisku, J., Matilainen, M., Anton-Rodriguez, J., Lewis, D., Jackson, A., Coope, D., Airas, L., Deakin, B., Herholz, K., Gerhard, A., & Hinz, R. (2025). Hemispheric asymmetry of [11C](R)PK"
+    },
+    {
+      "n": 2,
+      "autor": "Attwells",
+      "ano": "2021",
+      "doi": "10.1038/s41398-021-01450-3",
+      "pmid": null,
+      "linha": "Attwells, S., Setiawan, E., Rusjan, P., Xu, C., Kish, S., Vasdev, N., Houle, S., Santhirakumar, A., & Meyer, J. (2021). A double-blind placebo-controlled trial of minocycline on translocator protein d"
+    },
+    {
+      "n": 3,
+      "autor": "Best",
+      "ano": "2019",
+      "doi": "10.1007/s11910-019-0934-y",
+      "pmid": null,
+      "linha": "Best, L. A., Ghadery, C., Pavese, N., Tai, Y., & Strafella, A. (2019). New and Old TSPO PET Radioligands for Imaging Brain Microglial Activation in Neurodegenerative Disease. *Current Neurology and Ne"
+    },
+    {
+      "n": 4,
+      "autor": "Bloomfield",
+      "ano": "2015",
+      "doi": "10.1176/appi.ajp.2015.14101358",
+      "pmid": null,
+      "linha": "Bloomfield, P. S., Selvaraj, S., Veronese, M., Rizzo, G., Bertoldo, A., Owen, D. R., Bloomfield, M. A., Bonoldi, I., Kalk, N., Turkheimer, F., McGuire, P., De Paola, V., & Howes, O. (2015). Microglial"
+    },
+    {
+      "n": 5,
+      "autor": "Chaney",
+      "ano": "2018",
+      "doi": "10.2967/jnumed.118.209155",
+      "pmid": null,
+      "linha": "Chaney, A. M., Cropper, H. C., Johnson, E. M., Lechtenberg, K. J., Peterson, T. C., Stevens, M. Y., Buckwalter, M., & James, M. (2018). 11C-DPA-713 Versus 18F-GE-180: A Preclinical Comparison of Trans"
+    },
+    {
+      "n": 6,
+      "autor": "Chauveau",
+      "ano": "2024",
+      "doi": "10.1038/s41380-024-02656-9",
+      "pmid": null,
+      "linha": "Chauveau, F., Winkeler, A., Chalon, S., Boutin, H., & Becker, G. (2024). PET imaging of neuroinflammation: any credible alternatives to TSPO yet?. *Molecular Psychiatry, 30*, 213 - 228. https://doi.or"
+    },
+    {
+      "n": 7,
+      "autor": "Crook",
+      "ano": "2025",
+      "doi": "10.1007/s00259-025-07579-3",
+      "pmid": null,
+      "linha": "Crook, H., Franzmeier, N., Rahmouni, N., Gnörich, J., Fryer, T., Hong, Y. T., Roemer-Cassiano, S. N., Palleis, C., Strauss, A., Jones, P. S., Aigbirhio, F., Hopewell, R., Rauchmann, B., Massarweh, G.,"
+    },
+    {
+      "n": 8,
+      "autor": "Cumming",
+      "ano": "2017",
+      "doi": "10.1177/0271678x17748786",
+      "pmid": null,
+      "linha": "Cumming, P., Burgher, B., Patkar, O. L., Breakspear, M., Vasdev, N., Thomas, P., Liu, G.-J., & Banati, R. (2017). Sifting through the surfeit of neuroinflammation tracers. *Journal of Cerebral Blood F"
+    },
+    {
+      "n": 9,
+      "autor": "De Picker",
+      "ano": "2023",
+      "doi": "10.1093/ijnp/pyae059.131",
+      "pmid": null,
+      "linha": "De Picker, *., Morrens, M., Branchi, I., Haarman, B. C. M., Terada, T., Kang, M.-S., Boche, D., Tremblay, M., Leroy, C., Bottlaender, M., & Ottoy, J. (2023). TSPO PET BRAIN INFLAMMATION IMAGING: A TRA"
+    },
+    {
+      "n": 10,
+      "autor": "",
+      "ano": "2020",
+      "doi": "10.3390/cells9040870",
+      "pmid": null,
+      "linha": "Dimitrova‐Shumkovska, J., Krstanoski, L., & Veenman, L. (2020). Diagnostic and Therapeutic Potential of TSPO Studies Regarding Neurodegenerative Diseases, Psychiatric Disorders, Alcohol Use Disorders,"
+    },
+    {
+      "n": 11,
+      "autor": "Dupont",
+      "ano": "2017",
+      "doi": "10.3390/ijms18040785",
+      "pmid": null,
+      "linha": "Dupont, A., Largeau, B., Ribeiro, S. M., Guilloteau, D., Tronel, C., & Arlicot, N. (2017). Translocator Protein-18 kDa (TSPO) Positron Emission Tomography (PET) Imaging and Its Clinical Impact in Neur"
+    },
+    {
+      "n": 12,
+      "autor": "Eggerstorfer",
+      "ano": "2022",
+      "doi": "10.3389/fnmol.2022.981442",
+      "pmid": null,
+      "linha": "Eggerstorfer, B., Kim, J.-H., Cumming, P., Lanzenberger, R., & Gryglewski, G. (2022). Meta-analysis of molecular imaging of translocator protein in major depression. *Frontiers in Molecular Neuroscien"
+    },
+    {
+      "n": 13,
+      "autor": "Enache",
+      "ano": "2019",
+      "doi": "10.1016/j.bbi.2019.06.015",
+      "pmid": null,
+      "linha": "Enache, D., Pariante, C., & Mondelli, V. (2019). Markers of central inflammation in major depressive disorder: A systematic review and meta-analysis of studies examining cerebrospinal fluid, positron "
+    },
+    {
+      "n": 14,
+      "autor": "Fujita",
+      "ano": "2017",
+      "doi": "10.1186/s13550-017-0334-8",
+      "pmid": null,
+      "linha": "Fujita, M., Kobayashi, M., Ikawa, M., Gunn, R., Rabiner, E., Owen, D. R., Zoghbi, S., Haskali, M., Telu, S., Pike, V., & Innis, R. (2017). Comparison of four 11C-labeled PET ligands to quantify transl"
+    },
+    {
+      "n": 15,
+      "autor": "Gouilly",
+      "ano": "2022",
+      "doi": "10.1111/ejn.15613",
+      "pmid": null,
+      "linha": "Gouilly, D., Saint-Aubert, L., Ribeiro, M., Salabert, A., Tauber, C., Péran, P., Arlicot, N., Pariente, J., & Payoux, P. (2022). Neuroinflammation PET imaging of the translocator protein (TSPO) in Alz"
+    },
+    {
+      "n": 16,
+      "autor": "Gritti",
+      "ano": "2021",
+      "doi": "10.1016/j.jad.2021.06.001",
+      "pmid": null,
+      "linha": "Gritti, D., Delvecchio, G., Ferro, A., Bressi, C., & Brambilla, P. (2021). Neuroinflammation in Major Depressive Disorder: A Review of PET Imaging Studies Examining the 18-kDa Translocator Protein.. *"
+    },
+    {
+      "n": 17,
+      "autor": "Guilarte",
+      "ano": "2018",
+      "doi": "10.1016/j.pharmthera.2018.09.003",
+      "pmid": null,
+      "linha": "Guilarte, T. (2018). TSPO in diverse CNS pathologies and psychiatric disease: A critical review and a way forward (review article). *Pharmacology & therapeutics, 194*, 44 - 58. https://doi.org/10.1016"
+    },
+    {
+      "n": 18,
+      "autor": "Guo",
+      "ano": "2022",
+      "doi": "10.3389/fncel.2022.802192",
+      "pmid": null,
+      "linha": "Guo, J.-M., Qiu, T.-Z., Wang, L.-X., Shi, L., Ai, M., Xia, Z., Peng, Z., Zheng, A., Li, X., & Kuang, L. (2022). Microglia Loss and Astrocyte Activation Cause Dynamic Changes in Hippocampal [18F]DPA-71"
+    },
+    {
+      "n": 19,
+      "autor": "Hamelin",
+      "ano": "2016",
+      "doi": "10.1093/brain/aww017",
+      "pmid": null,
+      "linha": "Hamelin, L., Lagarde, J., Dorothée, G., Leroy, C., Labit, M., Comley, R., De Souza, L. D., Corné, H., Dauphinot, L., Bertoux, M., Dubois, B., Gervais, P., Colliot, O., Potier, M., Bottlaender, M., & S"
+    },
+    {
+      "n": 20,
+      "autor": "Hannestad",
+      "ano": "2013",
+      "doi": "10.1016/j.bbi.2013.06.010",
+      "pmid": null,
+      "linha": "Hannestad, J., DellaGioia, N., Gallezot, J., Lim, K., Nabulsi, N., Esterlis, I., Pittman, B., Lee, J.-Y., O'Connor, K., Pelletier, D., & Carson, R. (2013). The neuroinflammation marker translocator pr"
+    },
+    {
+      "n": 21,
+      "autor": "Herzog",
+      "ano": "2024",
+      "doi": "10.1001/jamapsychiatry.2024.3543",
+      "pmid": null,
+      "linha": "Herzog, S., Bartlett, E. A., Zanderigo, F., Galfalvy, H., Burke, A., Mintz, A., Schmidt, M., Hauser, E., Huang, Y.-Y., Melhem, N., Sublette, M., Miller, J. M., & Mann, J. (2024). Neuroinflammation, St"
+    },
+    {
+      "n": 22,
+      "autor": "Holmes",
+      "ano": "2017",
+      "doi": "10.1016/j.biopsych.2017.08.005",
+      "pmid": null,
+      "linha": "Holmes, S. E., Hinz, R., Conen, S., Gregory, C. J., Matthews, J., Anton-Rodriguez, J., Gerhard, A., & Talbot, P. (2017). Elevated Translocator Protein in Anterior Cingulate in Major Depression and a R"
+    },
+    {
+      "n": 23,
+      "autor": "Holmes",
+      "ano": "2016",
+      "doi": "10.1038/mp.2016.180",
+      "pmid": null,
+      "linha": "Holmes, S., Hinz, R., Drake, R., Gregory, C. J., Conen, S., Matthews, J., Gerhard, A., & Talbot, P. S. (2016). In vivo imaging of brain microglial activity in antipsychotic-free and medicated schizoph"
+    },
+    {
+      "n": 24,
+      "autor": "Ikawa",
+      "ano": "2017",
+      "doi": "10.2967/jnumed.116.178996",
+      "pmid": null,
+      "linha": "Ikawa, M., Lohith, T. G., Shrestha, S., Telu, S., Zoghbi, S., Castellano, S., Taliani, S., Da Settimo, F., Fujita, M., Pike, V., & Innis, R. (2017). 11C-ER176, a Radioligand for 18-kDa Translocator Pr"
+    },
+    {
+      "n": 25,
+      "autor": "Ji",
+      "ano": "2021",
+      "doi": "10.1177/0271678x21992457",
+      "pmid": null,
+      "linha": "Ji, B., Ono, M., Yamasaki, T., Fujinaga, M., Zhang, M.-R., Seki, C., Aoki, I., Kito, S., Sawada, M., Suhara, T., Sahara, N., & Higuchi, M. (2021). Detection of Alzheimer’s disease-related neuroinflamm"
+    },
+    {
+      "n": 26,
+      "autor": "Joo",
+      "ano": "2021",
+      "doi": "10.3390/biomedicines10010034",
+      "pmid": null,
+      "linha": "Joo, Y.-H., Lee, M.-W., Son, Y., Chang, K.-A., Yaqub, M., Kim, H., Cumming, P., & Kim, J.-H. (2021). In Vivo Cerebral Translocator Protein (TSPO) Binding and Its Relationship with Blood Adiponectin Le"
+    },
+    {
+      "n": 27,
+      "autor": "Kim",
+      "ano": "2025",
+      "doi": "10.1093/ijnp/pyaf052.321",
+      "pmid": null,
+      "linha": "Kim, J. H., Park, H. J., Kim, J. H., & Son, Y.-D. (2025). 584. ALTERED CEREBRAL TSPO AVAILABILITY AND FUNCTIONAL CONNECTIVITY IN PATIENTS WITH MAJOR DEPRESSIVE DISORDER: A PRELIMINARY MULTIMODAL IMAGI"
+    },
+    {
+      "n": 28,
+      "autor": "Kim",
+      "ano": "2025",
+      "doi": "10.1093/ijnp/pyae059.238",
+      "pmid": null,
+      "linha": "Kim, *.-H., Joo, Y.-H., Kim, J.-H., & Son, Y.-D. (2025). ALTERED PATTERNS OF ASSOCIATION BETWEEN TSPO BINDING AND MGLUR5 AVAILABILITY IN VIVO IN DRUG-NAIVE PATIENTS WITH MAJOR DEPRESSIVE DISORDER: A P"
+    },
+    {
+      "n": 29,
+      "autor": "Kreisl",
+      "ano": "2013",
+      "doi": "10.1038/jcbfm.2012.131",
+      "pmid": null,
+      "linha": "Kreisl, W., Jenko, K. J., Hines, C. S., Lyoo, C., Corona, W., Morse, C. L., Zoghbi, S., Hyde, T., Kleinman, J., Pike, V., McMahon, F., & Innis, R. (2013). A Genetic Polymorphism for Translocator Prote"
+    },
+    {
+      "n": 30,
+      "autor": "Laurell",
+      "ano": "2020",
+      "doi": "10.2967/jnumed.120.243717",
+      "pmid": null,
+      "linha": "Laurell, G. L., Plavén-Sigray, P., Jucaite, A., Varrone, A., Cosgrove, K. P., Svarer, C., Knudsen, G., Ogden, R., Zanderigo, F., Cervenka, S., Hillmer, A., & Schain, M. (2020). Nondisplaceable Bindin"
+    },
+    {
+      "n": 31,
+      "autor": "Lavisse",
+      "ano": "2020",
+      "doi": "10.1016/j.parkreldis.2020.11.011",
+      "pmid": null,
+      "linha": "Lavisse, S., Goutal, S., Wimberley, C., Tonietto, M., Bottlaender, M., Gervais, P., Kuhnast, B., Peyronneau, M., Barret, O., Lagarde, J., Sarazin, M., Hantraye, P., Thiriez, C., & Remy, P. (2020). Inc"
+    },
+    {
+      "n": 32,
+      "autor": "Lee",
+      "ano": "2022",
+      "doi": "10.2967/jnumed.121.263168",
+      "pmid": null,
+      "linha": "Lee, J.-H., Siméon, F., Liow, J., Morse, C. L., Gladding, R., Santamaria, J. M. A., Henter, I., Zoghbi, S., Pike, V., & Innis, R. (2022). In Vivo Evaluation of 6 Analogs of 11C-ER176 as Candidate 18F-"
+    },
+    {
+      "n": 33,
+      "autor": "Li",
+      "ano": "2018",
+      "doi": "10.1016/j.pnpbp.2017.12.011",
+      "pmid": null,
+      "linha": "Li, H., Sagar, A. P., & Kéri, S. (2018). Translocator protein (18 kDa TSPO) binding, a marker of microglia, is reduced in major depression during cognitive‐behavioral therapy. *Progress in Neuro-Psych"
+    },
+    {
+      "n": 34,
+      "autor": "Liu",
+      "ano": "2025",
+      "doi": "10.1007/s12035-025-05177-w",
+      "pmid": null,
+      "linha": "Liu, Y., Chang, Y., Xie, X., Wang, X.-Y., H., Liu, M., & Zhang, H.-M. (2025). PET Imaging Unveils Neuroinflammatory Mechanisms in Psychiatric Disorders: From Microglial Activation to Therapeutic Innov"
+    },
+    {
+      "n": 35,
+      "autor": "Maccioni",
+      "ano": "2025",
+      "doi": "10.1177/0271678x251361261",
+      "pmid": null,
+      "linha": "Maccioni, L., Brusaferri, L., Barzon, L., Schubert, J., Nettis, M., Cousins, O., Rosenzweig, I., Mizuno, Y., Vicente-Rodríguez, M., Singh, N., Marques, T. R., Harrison, N., Fryer, T., Bullmore, E., Ca"
+    },
+    {
+      "n": 36,
+      "autor": "Marques",
+      "ano": "2018",
+      "doi": "10.1017/s0033291718003057",
+      "pmid": null,
+      "linha": "Marques, T., Ashok, A., Pillinger, T., Veronese, M., Turkheimer, F., Dazzan, P., Sommer, I., & Howes, O. (2018). Neuroinflammation in schizophrenia: meta-analysis of in-vivo microglial imaging studies"
+    },
+    {
+      "n": 37,
+      "autor": "Masdeu",
+      "ano": "2022",
+      "doi": "10.2967/jnumed.121.263200",
+      "pmid": null,
+      "linha": "Masdeu, J., Pascual, B., & Fujita, M. (2022). Imaging Neuroinflammation in Neurodegenerative Disorders.. *Journal of nuclear medicine : official publication, Society of Nuclear Medicine, 63 Suppl 1*, "
+    },
+    {
+      "n": 38,
+      "autor": "Meyer",
+      "ano": "2020",
+      "doi": "10.1016/s2215-0366(20)30255-8",
+      "pmid": null,
+      "linha": "Meyer, J., Cervenka, S., Kim, M.-J., Kreisl, W., Henter, I., & Innis, R. (2020). Neuroinflammation in psychiatric disorders: PET imaging and promising new targets. *The lancet. Psychiatry, 7*, 1064 - "
+    },
+    {
+      "n": 39,
+      "autor": "Nettis",
+      "ano": "2020",
+      "doi": "10.1038/s41398-020-0768-z",
+      "pmid": null,
+      "linha": "Nettis, M., Veronese, M., Nikkheslat, N., Mariani, N., Lombardo, G., Sforzini, L., Enache, D., Harrison, N., Turkheimer, F., Mondelli, V., & Pariante, C. (2020). PET imaging shows no changes in TSPO b"
+    },
+    {
+      "n": 40,
+      "autor": "Notter",
+      "ano": "2018",
+      "doi": "10.1038/mp.2016.248",
+      "pmid": null,
+      "linha": "Notter, T., Coughlin, J. M., Gschwind, T., Weber-Stadlbauer, U., Wang, Y., Kassiou, M., Vernon, A., Benke, D., Pomper, M., Sawa, A., & Meyer, U. (2018). Translational evaluation of translocator protei"
+    },
+    {
+      "n": 41,
+      "autor": "Notter",
+      "ano": "2017",
+      "doi": "10.1038/mp.2017.232",
+      "pmid": null,
+      "linha": "Notter, T., Coughlin, J. M., Sawa, A., & Meyer, U. (2017). Reconceptualization of translocator protein as a biomarker of neuroinflammation in psychiatry. *Molecular Psychiatry, 23*, 36-47. https://doi"
+    },
+    {
+      "n": 42,
+      "autor": "Nutma",
+      "ano": "2023",
+      "doi": "10.1038/s41467-023-40937-z",
+      "pmid": null,
+      "linha": "Nutma, E., Fancy, N., Weinert, M., Tsartsalis, S., Marzin, M., Muirhead, R., Falk, I., Breur, M., De Bruin, J., Hollaus, D., Pieterman, R., Anink, J., Story, D., Chandran, S., Tang, J., Trolese, M. C."
+    },
+    {
+      "n": 43,
+      "autor": "Nutma",
+      "ano": "2021",
+      "doi": "10.1007/s00259-020-05166-2",
+      "pmid": null,
+      "linha": "Nutma, E., Ceyzériat, K., Amor, S., Tsartsalis, S., Millet, P., Owen, D. R., Papadopoulos, V., & Tournier, B. (2021). Cellular sources of TSPO expression in healthy and diseased brain. *European Journ"
+    },
+    {
+      "n": 44,
+      "autor": "Owen",
+      "ano": "2010",
+      "doi": "10.2967/jnumed.110.079459",
+      "pmid": null,
+      "linha": "Owen, D. R., Gunn, R., Rabiner, E., Bennacef, I., Fujita, M., Kreisl, W., Innis, R., Pike, V., Reynolds, R., Matthews, P., & Parker, C. (2010). Mixed-Affinity Binding in Humans with 18-kDa Translocato"
+    },
+    {
+      "n": 45,
+      "autor": "Pannell",
+      "ano": "2019",
+      "doi": "10.1002/glia.23716",
+      "pmid": null,
+      "linha": "Pannell, M., Economopoulos, V., Wilson, T., Kersemans, V., Isenegger, P. G., Larkin, J., Smart, S., Gilchrist, S., Gouverneur, V., & Sibson, N. (2019). Imaging of translocator protein upregulation is "
+    },
+    {
+      "n": 46,
+      "autor": "Qiu",
+      "ano": "2022",
+      "doi": "10.17305/bjbms.2021.6825",
+      "pmid": null,
+      "linha": "Qiu, T.-Z., Guo, J.-M., Wang, L.-X., Shi, L., Ai, M., Xia, Z., Peng, Z.-P., & Kuang, L. (2022). Dynamic microglial activation is associated with LPS-induced depressive-like behavior in mice: An [18F] "
+    },
+    {
+      "n": 47,
+      "autor": "Richards",
+      "ano": "2018",
+      "doi": "10.1186/s13550-018-0401-9",
+      "pmid": null,
+      "linha": "Richards, E. M., Zanotti-Fregonara, P., Fujita, M., Newman, L. E., Farmer, C. A., Ballard, E., Machado-Vieira, R., Yuan, P., Niciu, M., Lyoo, C., Henter, I., Salvadore, G., Drevets, W., Kolb, H., Inni"
+    },
+    {
+      "n": 48,
+      "autor": "Rupprecht",
+      "ano": "2022",
+      "doi": "10.1038/s41380-022-01561-3",
+      "pmid": null,
+      "linha": "Rupprecht, R., Wetzel, C., Dorostkar, M., Herms, J., Albert, N., Schwarzbach, J. V., Schumacher, M., & Neumann, I. D. (2022). Translocator protein (18kDa) TSPO: a new diagnostic or therapeutic target "
+    },
+    {
+      "n": 49,
+      "autor": "Sandiego",
+      "ano": "2015",
+      "doi": "10.1073/pnas.1511003112",
+      "pmid": null,
+      "linha": "Sandiego, C., Gallezot, J., Pittman, B., Nabulsi, N., Lim, K., Lin, S.-F., Matuskey, D., Lee, J.-Y., O'Connor, K., Huang, Y., Carson, R., Hannestad, J., & Cosgrove, K. P. (2015). Imaging robust microg"
+    },
+    {
+      "n": 50,
+      "autor": "Schubert",
+      "ano": "2021",
+      "doi": "10.1016/j.bpsc.2020.12.017",
+      "pmid": null,
+      "linha": "Schubert, J., Veronese, M., Fryer, T., Manavaki, R., Kitzbichler, M., Nettis, M., Mondelli, V., Pariante, C., Bullmore, E., & Turkheimer, F. (2021). A Modest Increase in 11C-PK11195-Positron Emission "
+    },
+    {
+      "n": 51,
+      "autor": "Setiawan",
+      "ano": "2015",
+      "doi": "10.1001/jamapsychiatry.2014.2427",
+      "pmid": null,
+      "linha": "Setiawan, E., Wilson, A., Mizrahi, R., Rusjan, P., Miler, L., Rajkowska, G., Suridjan, I., Kennedy, J., Rekkas, P. V., Houle, S., & Meyer, J. (2015). Increased Translocator Protein Distribution Volume"
+    },
+    {
+      "n": 52,
+      "autor": "Setiawan",
+      "ano": "2018",
+      "doi": "10.1016/s2215-0366(18)30048-8",
+      "pmid": null,
+      "linha": "Setiawan, E., Attwells, S., Wilson, A., Mizrahi, R., Rusjan, P., Miler, L., Xu, C., Sharma, S., Kish, S., Houle, S., & Meyer, J. (2018). Association of translocator protein total distribution volume w"
+    },
+    {
+      "n": 53,
+      "autor": "Simpson",
+      "ano": "2022",
+      "doi": "10.1038/s41386-022-01306-4",
+      "pmid": null,
+      "linha": "Simpson, D. S. A., Gharehgazlou, A., Da Silva, T., Labrie-Cleary, C., Wilson, A., Meyer, J., Mizrahi, R., & Rusjan, P. (2022). In vivo imaging translocator protein (TSPO) in autism spectrum disorder. "
+    },
+    {
+      "n": 54,
+      "autor": "Tong",
+      "ano": "2020",
+      "doi": "10.1177/0271678x19858003",
+      "pmid": null,
+      "linha": "Tong, J., Williams, B., Rusjan, P., Mizrahi, R., Lacapere, J., McCluskey, T., Furukawa, Y., Guttman, M., Ang, L., Boileau, I., Meyer, J., & Kish, S. (2020). Concentration, distribution, and influence "
+    },
+    {
+      "n": 55,
+      "autor": "Varnäs",
+      "ano": "2018",
+      "doi": "10.1007/s00259-018-4161-6",
+      "pmid": null,
+      "linha": "Varnäs, K., Cselényi, Z., Jucaite, A., Halldin, C., Svenningsson, P., Farde, L., & Varrone, A. (2018). PET imaging of [11C]PBR28 in Parkinson’s disease patients does not indicate increased binding to "
+    },
+    {
+      "n": 56,
+      "autor": "Veronese",
+      "ano": "2017",
+      "doi": "10.1177/0271678x17712388",
+      "pmid": null,
+      "linha": "Veronese, M., Marques, T. R., Bloomfield, P. S., Rizzo, G., Singh, N., Jones, D., Agushi, E., Mosses, D., Bertoldo, A., Howes, O., Roncaroli, F., & Turkheimer, F. (2017). Kinetic modelling of [11C]PBR"
+    },
+    {
+      "n": 57,
+      "autor": "Vicente-Rodríguez",
+      "ano": "2021",
+      "doi": "10.1016/j.bbi.2021.05.025",
+      "pmid": null,
+      "linha": "Vicente-Rodríguez, M., Singh, N., Turkheimer, F., Peris-Yague, A., Randall, K., Veronese, M., Simmons, C., Bordoloi, J., Sander, K., Awais, R., Årstad, E., Cash, D., & Parker, C. (2021). Resolving the"
+    },
+    {
+      "n": 58,
+      "autor": "Vivash",
+      "ano": "2016",
+      "doi": "10.2967/jnumed.114.141713",
+      "pmid": null,
+      "linha": "Vivash, L., & O'Brien, T. (2016). Imaging Microglial Activation with TSPO PET: Lighting Up Neurologic Diseases?. *The Journal of Nuclear Medicine, 57*, 165 - 168. https://doi.org/10.2967/jnumed.114.14"
+    },
+    {
+      "n": 59,
+      "autor": "Wang",
+      "ano": "2025",
+      "doi": "10.1111/ene.70107",
+      "pmid": null,
+      "linha": "Wang, J.-G., Ge, J.-J., Deng, B., Lin, H., Yang, W., Sheng, T., Tang, W., Yu, H., Zhang, X., Li, Y., Liu, X., Zuo, C., & Chen, X. (2025). Microglial Activation Visualized by [ 18F]‐DPA714 PET Is a Pot"
+    },
+    {
+      "n": 60,
+      "autor": "Werry",
+      "ano": "2019",
+      "doi": "10.3390/ijms20133161",
+      "pmid": null,
+      "linha": "Werry, E., Bright, F., Piguet, O., Ittner, L., Halliday, G., Hodges, J., Kiernan, M., Loy, C., Kril, J., & Kassiou, M. (2019). Recent Developments in TSPO PET Imaging as A Biomarker of Neuroinflammati"
+    },
+    {
+      "n": 61,
+      "autor": "Wijesinghe",
+      "ano": "2025",
+      "doi": "10.1093/brain/awaf078",
+      "pmid": null,
+      "linha": "Wijesinghe, S., Rowe, J. B., Mason, H. D., Allinson, K., Thomas, R., Vontobel, D., Fryer, T., Hong, Y. T., Bacioglu, M., Spillantini, M., Van Den Ameele, J., O'Brien, J., Kaalund, S., Malpetti, M., & "
+    },
+    {
+      "n": 62,
+      "autor": "Xiang",
+      "ano": "2021",
+      "doi": "10.1126/scitranslmed.abe5640",
+      "pmid": null,
+      "linha": "Xiang, X., Wind, K., Wiedemann, T., Blume, T., Shi, Y., Briel, N., Beyer, L., Biechele, G., Eckenweber, F., Zatcepin, A., Lammich, S., Ribicic, S., Tahirovic, S., Willem, M., Deussing, M., Palleis, C."
+    },
+    {
+      "n": 63,
+      "autor": "Yan",
+      "ano": "2023",
+      "doi": "10.1007/s00259-023-06270-9",
+      "pmid": null,
+      "linha": "Yan, X.-F., Siméon, F., Liow, J., Morse, C. L., Santamaria, J. M. A., Jenkins, M. D., Manly, L. S., Zoghbi, S., Pike, V., Innis, R., & Zanotti-Fregonara, P. (2023). In vivo evaluation of a novel 18F-l"
+    },
+    {
+      "n": 64,
+      "autor": "Yang",
+      "ano": "2023",
+      "doi": "10.3233/jad-230631",
+      "pmid": null,
+      "linha": "Yang, Z.-S., Banks, S. J., Ritter, A., Cummings, J. L., Sreenivasan, K., Kinney, J., Caldwell, J., Wong, C. G., Miller, J. B., & Cordes, D. (2023). Microglial Imaging in Alzheimer’s Disease and Its Re"
+    },
+    {
+      "n": 65,
+      "autor": "Yokokura",
+      "ano": "2025",
+      "doi": "10.1093/ijnp/pyae059.235",
+      "pmid": null,
+      "linha": "Yokokura, M., Iwabuchi, T., Murayama, C., Goto, T., Tamayama, T., Wakuda, T., Benner, S., Ouchi, Y., & Yamasue, H. (2025). TESTING NEUROINFLAMMATORY HYPOTHESIS OF MAJOR DEPRESSIVE DISORDER: A DOUBLE T"
+    },
+    {
+      "n": 66,
+      "autor": "Yrondi",
+      "ano": "2018",
+      "doi": "10.3389/fpsyt.2018.00326",
+      "pmid": null,
+      "linha": "Yrondi, A., Aouizerate, B., El-Hage, W., Molière, F., Thalamas, C., Delcourt, N., Sporer, M., Taib, S., Schmitt, L., Arlicot, N., Méligne, D., Sommet, A., Salabert, A., Guillaume, S., Courtet, P., Gal"
+    },
+    {
+      "n": 67,
+      "autor": "Zanotti-Fregonara",
+      "ano": "2019",
+      "doi": "10.1007/s00259-019-04349-w",
+      "pmid": null,
+      "linha": "Zanotti-Fregonara, P., Pascual, B., Veronese, M., Yu, M.-X., Beers, D. R., Appel, S., & Masdeu, J. (2019). Head-to-head comparison of 11C-PBR28 and 11C-ER176 for quantification of the translocator pro"
+    },
+    {
+      "n": 68,
+      "autor": "Zhang",
+      "ano": "2020",
+      "doi": "10.1016/j.apsb.2020.08.006",
+      "pmid": null,
+      "linha": "Zhang, L., Hu, K., Shao, T., Hou, L., Zhang, S.-J., Ye, W., Josephson, L., Meyer, J., Zhang, M.-R., Vasdev, N., Wang, J.-H., Xu, H., Wang, L., & Liang, S. H. (2020). Recent developments on PET radiotr"
+    },
+    {
+      "n": 69,
+      "autor": "Zhou",
+      "ano": "2021",
+      "doi": "10.3389/fimmu.2021.739130",
+      "pmid": null,
+      "linha": "Zhou, R.-L., Ji, B., Kong, Y., Qin, L., Ren, W., Guan, Y., & Ni, R. (2021). PET Imaging of Neuroinflammation in Alzheimer’s Disease. *Frontiers in Immunology, 12*. https://doi.org/10.3389/fimmu.2021.7"
+    },
+    {
+      "n": 70,
+      "autor": "Albrecht",
+      "ano": "2018",
+      "doi": "10.1016/j.bbi.2018.09.018",
+      "pmid": null,
+      "linha": "Albrecht, D., Forsberg, A., Sandström, A., Bergan, C., Kadetoff, D., Protsenko, E., Lampa, J., Lee, Y. C., Höglund, C. O., Catana, C., Cervenka, S., Akeju, O., Lekander, M., Cohen, G., Halldin, C., Ta"
+    },
+    {
+      "n": 71,
+      "autor": "Alshelh",
+      "ano": "2020",
+      "doi": "10.1016/j.bbi.2020.01.020",
+      "pmid": null,
+      "linha": "Alshelh, Z., Albrecht, D., Bergan, C., Akeju, O., Clauw, D., Conboy, L., Edwards, R., Kim, M., Lee, Y. C., Protsenko, E., Napadow, V., Sullivan, K., & Loggia, M. (2020). In-vivo imaging of neuroinflam"
+    },
+    {
+      "n": 72,
+      "autor": "Barron",
+      "ano": "2020",
+      "doi": "10.1007/s12035-020-02136-5",
+      "pmid": null,
+      "linha": "Barron, A., Higuchi, M., Hattori, S., Kito, S., Suhara, T., & Ji, B. (2020). Regulation of Anxiety and Depression by Mitochondrial Translocator Protein-Mediated Steroidogenesis: the Role of Neurons. *"
+    },
+    {
+      "n": 73,
+      "autor": "Böttcher",
+      "ano": "2020",
+      "doi": "10.1038/s41398-020-00992-2",
+      "pmid": null,
+      "linha": "Böttcher, C., Fernández-Zapata, C., Snijders, G. J. L., Schlickeiser, S., Sneeboer, M., Kunkel, D., De Witte, L. D., & Priller, J. (2020). Single-cell mass cytometry of microglia in major depressive d"
+    },
+    {
+      "n": 74,
+      "autor": "Cakmak",
+      "ano": "2022",
+      "doi": "10.1503/jpn.210124",
+      "pmid": null,
+      "linha": "Cakmak, J. D., Liu, L.-S., Poirier, S. E., Schaefer, B., Poolacherla, R., Burhan, A., Sabesan, P., St. Lawrence, K., Théberge, J., Hicks, J., Finger, E., Palaniyappan, L., & Anazodo, U. (2022). The fu"
+    },
+    {
+      "n": 75,
+      "autor": "Cerejeira",
+      "ano": "2019",
+      "doi": "10.26226/morressier.5d1a037257558b317a1402f6",
+      "pmid": null,
+      "linha": "Cerejeira, J., Regueira, P., & Albuquerque, E. (2019). The use of [11C]-PK11195 PET imaging in psychiatric disorders. https://doi.org/10.26226/morressier.5d1a037257558b317a1402f6"
+    },
+    {
+      "n": 76,
+      "autor": "Chang",
+      "ano": "2025",
+      "doi": "10.1007/s00259-025-07282-3",
+      "pmid": null,
+      "linha": "Chang, Y., Zhang, X., Xiao, S., Liu, J., Wang, Y., Song, J.-B., Fu, H.-P., Li, Y.-G., Su, H., Yi, H., Su, W., Gao, N., Zhao, J., Wang, R.-M., & Liu, R. (2025). Evidence for brain glial activity in chr"
+    },
+    {
+      "n": 77,
+      "autor": "Chang",
+      "ano": "2021",
+      "doi": "10.1186/s13550-021-00768-9",
+      "pmid": null,
+      "linha": "Chang, C.-W., Chiu, C.-H., Lin, M.-H., Wu, H.-M., Yu, T.-H., Wang, P.-Y., Kuo, Y.-Y., Huang, Y.-Y., Shiue, C., Huang, W.-S., & Yeh, S. (2021). GMP-compliant fully automated radiosynthesis of [18F]FEPP"
+    },
+    {
+      "n": 78,
+      "autor": "Chauveau",
+      "ano": "2021",
+      "doi": "10.1007/s00259-021-05425-w",
+      "pmid": null,
+      "linha": "Chauveau, F., Becker, G., & Boutin, H. (2021). Have (R)-[11C]PK11195 challengers fulfilled the promise? A scoping review of clinical TSPO PET studies. *European Journal of Nuclear Medicine and Molecul"
+    },
+    {
+      "n": 79,
+      "autor": "De Picker",
+      "ano": "2019",
+      "doi": "10.1016/j.bbi.2018.11.318",
+      "pmid": null,
+      "linha": "De Picker, L. D., Ottoy, J., Verhaeghe, J., Deleye, S., Wyffels, L., Fransen, E., Kosten, L., Sabbe, B., Coppens, V., Timmers, M., De Boer, P., Van Nueten, L., De Beeck, K. O., Oberacher, H., Vanhoena"
+    },
+    {
+      "n": 80,
+      "autor": "Ghadery",
+      "ano": "2017",
+      "doi": "10.1186/s12974-016-0778-1",
+      "pmid": null,
+      "linha": "Ghadery, C., Koshimori, Y., Coakeley, S., Harris, M., Rusjan, P., Kim, J., Houle, S., & Strafella, A. (2017). Microglial activation in Parkinson’s disease using [18F]-FEPPA. *Journal of Neuroinflammat"
+    },
+    {
+      "n": 81,
+      "autor": "Haarman",
+      "ano": "2014",
+      "doi": "10.1016/j.bbi.2014.03.016",
+      "pmid": null,
+      "linha": "Haarman, B. B. C. M., Lek, R. R.-V. D. F., De Groot, J. C., Ruhé, H. E. G., Klein, H., Zandstra, T., Burger, H., Schoevers, R., De Vries, E. D., Drexhage, H., Nolen, W., & Doorduin, J. (2014). Neuroin"
+    },
+    {
+      "n": 82,
+      "autor": "Hafizi",
+      "ano": "2016",
+      "doi": "10.1176/appi.ajp.2016.16020171",
+      "pmid": null,
+      "linha": "Hafizi, S., Tseng, H.-H., Rao, N. P., Selvanathan, T., Kenk, M., Bazinet, R., Suridjan, I., Wilson, A., Meyer, J., Remington, G., Houle, S., Rusjan, P., & Mizrahi, R. (2016). Imaging Microglial Activa"
+    },
+    {
+      "n": 83,
+      "autor": "Herranz",
+      "ano": "2016",
+      "doi": "10.1002/ana.24791",
+      "pmid": null,
+      "linha": "Herranz, E., Giannì, C., Louapre, C., Treaba, C., Govindarajan, S. T., Ouellette, R., Loggia, M., Sloane, J. A., Madigan, N., Izquierdo-García, D., Ward, N., Mangeat, M., Granberg, T., Klawiter, E. C."
+    },
+    {
+      "n": 84,
+      "autor": "Horti",
+      "ano": "2019",
+      "doi": "10.1073/pnas.1812155116",
+      "pmid": null,
+      "linha": "Horti, A., Naik, R., Foss, C., Minn, I., Misheneva, V., Du, Y., Wang, Y., Mathews, W. B., Wu, Y.-K., Hall, A. W., Lacourse, C., Ahn, H.-H., Nam, H., Lesniak, W. G., Valentine, H., Pletnikova, O., Tron"
+    },
+    {
+      "n": 85,
+      "autor": "Imhoff-Smith",
+      "ano": "2025",
+      "doi": "10.1016/j.seizure.2025.07.020",
+      "pmid": null,
+      "linha": "Imhoff-Smith, T. P., Philibert-Rosas, S., Hurley, S. A., Ciliento, R., Sevak, B., Nair, V. A., Prabhakaran, V., McMillan, A., Adluru, N., & Struck, A. (2025). Elevated neuroinflammation and region-spe"
+    },
+    {
+      "n": 86,
+      "autor": "Li",
+      "ano": "2018",
+      "doi": "10.1016/j.jad.2018.08.021",
+      "pmid": null,
+      "linha": "Li, H., Sagar, A. P., & Kéri, S. (2018). Microglial markers in the frontal cortex are related to cognitive dysfunctions in major depressive disorder.. *Journal of affective disorders, 241*, 305-310 . "
+    },
+    {
+      "n": 87,
+      "autor": "London",
+      "ano": "2020",
+      "doi": "10.1016/j.drugalcdep.2020.108104",
+      "pmid": null,
+      "linha": "London, E., Okita, K., Kinney, K. R., Dean, A., McClintick, M. N., Rizor, E., Johnson, M. C., Mahmoudie, T., Brody, A., Nurmi, E., Seaman, L., Farahi, J., Ginder, N., & Mandelkern, M. (2020). No signi"
+    },
+    {
+      "n": 88,
+      "autor": "Mirzaei",
+      "ano": "2016",
+      "doi": "10.1002/glia.22978",
+      "pmid": null,
+      "linha": "Mirzaei, N., Tang, S.-P., Ashworth, S., Coello, C., Plisson, C., Passchier, J., Selvaraj, V., Nutt, D., & Sastre, M. (2016). In vivo imaging of microglial activation by positron emission tomography wi"
+    },
+    {
+      "n": 89,
+      "autor": "Passamonti",
+      "ano": "2018",
+      "doi": "10.1212/wnl.0000000000005610",
+      "pmid": null,
+      "linha": "Passamonti, L., Vázquez Rodríguez, P., Hong, Y. T., Allinson, K., Williamson, D., Jones, P. S., Arnold, R., Borchert, R., Surendranathan, A., Mak, E., Su, L., Fryer, T., Aigbirhio, F., O'Brien, J. T.,"
+    },
+    {
+      "n": 90,
+      "autor": "Schaechter",
+      "ano": "2021",
+      "doi": "10.1016/j.bbih.2021.100336",
+      "pmid": null,
+      "linha": "Schaechter, J., Hightower, B. G., Kim, M., & Loggia, M. (2021). A pilot [11C]PBR28 PET/MRI study of neuroinflammation and neurodegeneration in chronic stroke patients. *Brain, Behavior, & Immunity - H"
+    },
+    {
+      "n": 91,
+      "autor": "Su",
+      "ano": "2016",
+      "doi": "10.1192/bjp.bp.116.190165",
+      "pmid": null,
+      "linha": "Su, L., Faluyi, Y., Hong, Y. T., Fryer, T., Mak, E., Gabel, S., Hayes, L., Soteriades, S., Williams, G. B., Arnold, R., Passamonti, L., Vázquez Rodríguez, P., Surendranathan, A., Bevan-Jones, R., Cole"
+    },
+    {
+      "n": 92,
+      "autor": "Suridjan",
+      "ano": "2013",
+      "doi": "10.1016/j.neuroimage.2013.09.021",
+      "pmid": null,
+      "linha": "Suridjan, I., Rusjan, P., Voineskos, A., Selvanathan, T., Setiawan, E., Strafella, A., Wilson, A. A., Meyer, J., & Houle, S. (2013). Neuroinflammation in healthy aging: A PET study using a novel Trans"
+    },
+    {
+      "n": 93,
+      "autor": "Zammit",
+      "ano": "2020",
+      "doi": "10.1186/s13550-020-00683-5",
+      "pmid": null,
+      "linha": "Zammit, M., Tao, Y., Olsen, M. E., Metzger, J. M., Vermilyea, S., Bjornson, K. J., Slesarev, M. S., Block, W., Fuchs, K., Phillips, S., Bondarenko, V., Zhang, S.-C., Emborg, M., & Christian, B. (2020)"
+    },
+    {
+      "n": 94,
+      "autor": "Zhou",
+      "ano": "2026",
+      "doi": "10.1016/j.redox.2026.104014",
+      "pmid": null,
+      "linha": "Zhou, Y.-T., Zou, Y., Zhong, X., Li, H., Yang, J., Meng, H., Xie, W., Yao, P., Wu, X.-A., Cai, H., Li, L., Wang, C.-N., Zhang, W., & Bai, P. (2026). Development of a novel HDAC6 PET imaging agent unco"
+    },
+    {
+      "n": 95,
+      "autor": "Beaino",
+      "ano": "2025",
+      "doi": "10.1007/s00259-025-07109-1",
+      "pmid": null,
+      "linha": "Beaino, W., Werry, E., Vellinga, R. J., Van Den Hoek, J. L., Sohler, G., Cumbers, G. A., Genetzakis, E., Harvey-Latham, E. D., Schuit, R., Kassiou, M., Windhorst, A., & Danon, J. (2025). Development a"
+    },
+    {
+      "n": 96,
+      "autor": "Conen",
+      "ano": "2020",
+      "doi": "10.1038/s41380-020-0829-y",
+      "pmid": null,
+      "linha": "Conen, S., Gregory, C. J., Hinz, R., Smallman, R., Corsi-Zuelli, F., Deakin, B., & Talbot, P. (2020). Neuroinflammation as measured by positron emission tomography in patients with recent onset and es"
+    },
+    {
+      "n": 97,
+      "autor": "Conte",
+      "ano": "2023",
+      "doi": "10.3390/biom13040598",
+      "pmid": null,
+      "linha": "Conte, M., De Feo, M. S., Corica, F., Gorica, J., Sidrak, M. M. A., De Cristofaro, F., Filippi, L., Ricci, M., De Vincentis, G., & Frantellizzi, V. (2023). A Systematic Review on Dementia and Transloc"
+    },
+    {
+      "n": 98,
+      "autor": "Cumbers",
+      "ano": "2024",
+      "doi": "10.1053/j.semnuclmed.2024.09.007",
+      "pmid": null,
+      "linha": "Cumbers, G. A., Harvey-Latham, E. D., Kassiou, M., Werry, E., & Danon, J. (2024). Emerging TSPO-PET Radiotracers for Imaging Neuroinflammation: A Critical Analysis.. *Seminars in nuclear medicine*. ht"
+    },
+    {
+      "n": 99,
+      "autor": "Guilarte",
+      "ano": "2021",
+      "doi": "10.1016/j.pharmthera.2021.108048",
+      "pmid": null,
+      "linha": "Guilarte, T., Rodichkin, A. N., McGlothan, J., De La Rocha, A. A., & Azzam, D. J. (2021). Imaging neuroinflammation with TSPO: A new perspective on the cellular sources and subcellular localization. *"
+    },
+    {
+      "n": 100,
+      "autor": "Kim",
+      "ano": "2020",
+      "doi": "10.7150/thno.46875",
+      "pmid": null,
+      "linha": "Kim, K., Kim, H., Bae, S., Lee, S.-Y., Kim, Y.-H., Na, J., Lee, C., Lee, M.-S., Ko, G., Kim, K., Lee, S.-H., Song, I., Cheon, G., Kang, K., Kim, S., Chung, J.-K., Kim, E., Paek, S., Lee, J. S., . . . "
+    },
+    {
+      "n": 101,
+      "autor": "Ottoy",
+      "ano": "2018",
+      "doi": "10.2967/jnumed.117.203315",
+      "pmid": null,
+      "linha": "Ottoy, J., De Picker, L. D., Verhaeghe, J., Deleye, S., Wyffels, L., Kosten, L., Sabbe, B., Coppens, V., Timmers, M., Van Nueten, L., Ceyssens, S., Stroobants, S., Morrens, M., & Staelens, S. (2018). "
+    },
+    {
+      "n": 102,
+      "autor": "Ramakrishnan",
+      "ano": "2021",
+      "doi": "10.1007/s00259-021-05495-w",
+      "pmid": null,
+      "linha": "Ramakrishnan, N., Hird, M., Thompson, S., Williamson, D., Qiao, L.-X., Owen, D. R., Brooks, A. F., Scott, P., Bacallado, S., O’Brien, J., & Aigbirhio, F. (2021). Preclinical evaluation of (S)-[18F]GE3"
+    },
+    {
+      "n": 103,
+      "autor": "Rupprecht",
+      "ano": "2021",
+      "doi": "10.1080/15622975.2021.1961503",
+      "pmid": null,
+      "linha": "Rupprecht, R., Rupprecht, C., Di Benedetto, B., & Rammes, G. (2021). Neuroinflammation and psychiatric disorders: Relevance of C1q, translocator protein (18 kDa) (TSPO), and neurosteroids. *The World "
+    },
+    {
+      "n": 104,
+      "autor": "Singh",
+      "ano": "2022",
+      "doi": "10.1021/acsomega.2c00588",
+      "pmid": null,
+      "linha": "Singh, P., Adhikari, A., Singh, D., Gond, C., & Tiwari, A. (2022). The 18-kDa Translocator Protein PET Tracers as a Diagnostic Marker for Neuroinflammation: Development and Current Standing. *ACS Omeg"
+    },
+    {
+      "n": 105,
+      "autor": "Tournier",
+      "ano": "2020",
+      "doi": "10.3390/cells9091941",
+      "pmid": null,
+      "linha": "Tournier, B., Tsartsalis, S., Ceyzériat, K., Garibotto, V., & Millet, P. (2020). In Vivo TSPO Signal and Neuroinflammation in Alzheimer’s Disease. *Cells, 9*. https://doi.org/10.3390/cells9091941"
+    },
+    {
+      "n": 106,
+      "autor": "Turkheimer",
+      "ano": "2015",
+      "doi": "10.1042/bst20150058",
+      "pmid": null,
+      "linha": "Turkheimer, F., Rizzo, G., Bloomfield, P. S., Howes, O., Zanotti-Fregonara, P., Bertoldo, A., & Veronese, M. (2015). The methodology of TSPO imaging with positron emission tomography. *Biochemical Soc"
+    },
+    {
+      "n": 107,
+      "autor": "Wimberley",
+      "ano": "2021",
+      "doi": "10.1007/s00259-021-05601-y",
+      "pmid": null,
+      "linha": "Wimberley, C., Buvat, I., & Boutin, H. (2021). Imaging translocator protein expression with positron emission tomography. *European Journal of Nuclear Medicine and Molecular Imaging, 49*, 74 - 76. htt"
+    }
+  ]
+}

@@ -1,0 +1,1452 @@
+[
+ {
+  "pmid": "19963289",
+  "rotulo_insumo": "Hoeffer & Klann, 2010",
+  "autor_real": "Hoeffer CA",
+  "ano_print": "2010",
+  "titulo": "mTOR signaling: at the crossroads of plasticity, memory and disease.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "22889863",
+  "rotulo_insumo": "Chandran, 2012",
+  "autor_real": "Chandran A",
+  "ano_print": "2013",
+  "titulo": "Reduced phosphorylation of the mTOR signaling pathway components in the amygdala of rats exposed to chronic stress.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "23906767",
+  "rotulo_insumo": "Xu, 2013",
+  "autor_real": "Xu SX",
+  "ano_print": "2013",
+  "titulo": "The activation of adenosine monophosphate-activated protein kinase in rat hippocampus contributes to the rapid antidepressant effect of ketamine.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "24321772",
+  "rotulo_insumo": "Zhou, 2014",
+  "autor_real": "Zhou W",
+  "ano_print": "2014",
+  "titulo": "Ketamine-induced antidepressant effects are associated with AMPA receptors-mediated upregulation of mTOR and BDNF in rat hippocampus and prefrontal cortex.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "24728411",
+  "rotulo_insumo": "Ota, 2014",
+  "autor_real": "Ota KT",
+  "ano_print": "2014",
+  "titulo": "REDD1 is essential for stress-induced synaptic loss and depressive behavior.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "26522512",
+  "rotulo_insumo": "Liu, 2015",
+  "autor_real": "Liu XL",
+  "ano_print": "2015",
+  "titulo": "Fluoxetine regulates mTOR signalling in a region-dependent manner in depression-like mice.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "27061850",
+  "rotulo_insumo": "Neis, 2016",
+  "autor_real": "Neis VB",
+  "ano_print": "2016",
+  "titulo": "Agmatine produces antidepressant-like effects by activating AMPA receptors and mTOR signaling.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "29158584",
+  "rotulo_insumo": "Pich & Millan, 2018",
+  "autor_real": "Cavalleri L",
+  "ano_print": "2018",
+  "titulo": "Ketamine enhances structural plasticity in mouse mesencephalic and human iPSC-derived dopaminergic neurons via AMPAR-driven BDNF and mTOR signaling.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "31830487",
+  "rotulo_insumo": "Deyama & Duman, 2019",
+  "autor_real": "Deyama S",
+  "ano_print": "2020",
+  "titulo": "Neurotrophic mechanisms underlying the rapid and sustained antidepressant actions of ketamine.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "32487317",
+  "rotulo_insumo": "Sato, 2020",
+  "autor_real": "Sato M",
+  "ano_print": "2020",
+  "titulo": "Glucocorticoids negatively regulates chaperone mediated autophagy and microautophagy.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "33022268",
+  "rotulo_insumo": "Pazini, 2020",
+  "autor_real": "Pazini FL",
+  "ano_print": "2020",
+  "titulo": "mTORC1-dependent signaling pathway underlies the rapid effect of creatine and ketamine in the novelty-suppressed feeding test.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "33381149",
+  "rotulo_insumo": "Wang, 2020",
+  "autor_real": "Wang A",
+  "ano_print": "2020",
+  "titulo": "Early-Life Stress Alters Synaptic Plasticity and mTOR Signaling: Correlation With Anxiety-Like and Cognition-Related Behavior.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "33723223",
+  "rotulo_insumo": "Koehl, 2021",
+  "autor_real": "Koehl M",
+  "ano_print": "2021",
+  "titulo": "Inhibition of mTOR signaling by genetic removal of p70 S6 kinase 1 increases anxiety-like behavior in mice.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "34330919",
+  "rotulo_insumo": "Martinelli, 2021",
+  "autor_real": "Martinelli S",
+  "ano_print": "2021",
+  "titulo": "Stress-primed secretory autophagy promotes extracellular BDNF maturation by enhancing MMP9 secretion.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "34890598",
+  "rotulo_insumo": "Sun, 2021",
+  "autor_real": "Sun Z",
+  "ano_print": "2022",
+  "titulo": "Deep brain stimulation improved depressive-like behaviors and hippocampal synapse deficits by activating the BDNF/mTOR signaling pathway.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "34902357",
+  "rotulo_insumo": "Li, 2021",
+  "autor_real": "Li Y",
+  "ano_print": "2022",
+  "titulo": "High fat diet-induced obesity leads to depressive and anxiety-like behaviors in mice via AMPK/mTOR-mediated autophagy.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "34987410",
+  "rotulo_insumo": "Luo, 2021",
+  "autor_real": "Luo YF",
+  "ano_print": "2021",
+  "titulo": "mTORC1 Signaling Pathway Mediates Chronic Stress-Induced Synapse Loss in the Hippocampus.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "37025079",
+  "rotulo_insumo": "Li, 2023",
+  "autor_real": "Li WY",
+  "ano_print": "2023",
+  "titulo": "Activation of mTORC1 Signaling Cascade in Hippocampus and Medial Prefrontal Cortex Is Required for Antidepressant Actions of Vortioxetine in Mice.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "37072933",
+  "rotulo_insumo": "Zhang, 2023c",
+  "autor_real": "Zhang D",
+  "ano_print": "2023",
+  "titulo": "Degradation of NLRP3 by p62-dependent-autophagy improves cognitive function in Alzheimer's disease by maintaining the phagocytic function of microglia.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "37118117",
+  "rotulo_insumo": "Moigneu, 2023",
+  "autor_real": "Moigneu C",
+  "ano_print": "2023",
+  "titulo": "Systemic GDF11 attenuates depression-like phenotype in aged mice via stimulation of neuronal autophagy.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "37390967",
+  "rotulo_insumo": "Xu, 2023a",
+  "autor_real": "Xu J",
+  "ano_print": "2023",
+  "titulo": "PI3K-AKT-mTOR signaling pathway regulates autophagy of hippocampal neurons in diabetic rats with chronic unpredictable mild stress.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "37736829",
+  "rotulo_insumo": "Zhang, 2023b",
+  "autor_real": "Zhang Y",
+  "ano_print": "2024",
+  "titulo": "Pharmacological inhibition of S6K1 rescues synaptic deficits and attenuates seizures and depression in chronic epileptic rats.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "37799103",
+  "rotulo_insumo": "Xu, 2023b",
+  "autor_real": "Xu Y",
+  "ano_print": "2023",
+  "titulo": "Engeletin alleviates depression-like phenotype by increasing synaptic plasticity via the BDNF-TrkB-mTORC1 signalling pathway.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "38307148",
+  "rotulo_insumo": "Zheng, 2024",
+  "autor_real": "Zheng Z",
+  "ano_print": "2024",
+  "titulo": "Selective disruption of mTORC1 and mTORC2 in VTA astrocytes induces depression and anxiety-like behaviors in mice.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "38522078",
+  "rotulo_insumo": "Fu, 2024",
+  "autor_real": "Fu S",
+  "ano_print": "2024",
+  "titulo": "Impaired neuronal macroautophagy in the prelimbic cortex contributes to comorbid anxiety-like behaviors in rats with chronic neuropathic pain.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "39477145",
+  "rotulo_insumo": "Peng, 2024",
+  "autor_real": "Peng YY",
+  "ano_print": "2024",
+  "titulo": "p75NTR mediated chronic restraint stress-induced depression-like behaviors in mice via hippocampal mTOR pathway.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "39877695",
+  "rotulo_insumo": "Xie, 2025",
+  "autor_real": "Xie H",
+  "ano_print": "2025",
+  "titulo": "Corticosterone-induced postpartum depression induces depression-like behavior and impairs hippocampal neurogenesis in adolescent offspring via HPA axis and BDNF-mTOR pathway.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "40023886",
+  "rotulo_insumo": "Ling, 2025",
+  "autor_real": "Ling Z",
+  "ano_print": "2025",
+  "titulo": "Hydrogen sulfide improves depression-like behaviors in CUMS-induced mice by regulating autophagy.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "40275171",
+  "rotulo_insumo": "Peng, 2025",
+  "autor_real": "Peng S",
+  "ano_print": "2025",
+  "titulo": "Formononetin ameliorates depression-like behaviors through rebalancing microglia M1/M2 polarization and inhibiting NLRP3 inflammasome: involvement of activating PPARα-mediated autophagy.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "41280327",
+  "rotulo_insumo": "Brivio, 2025",
+  "autor_real": "Brivio P",
+  "ano_print": "2025",
+  "titulo": "Ventral hippocampal autophagy and mitophagy dynamics shape behavioral responses to chronic mild stress in adult male rats.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "41889422",
+  "rotulo_insumo": "Li, 2026b",
+  "autor_real": "Li N",
+  "ano_print": "2026",
+  "titulo": "USP11 drives stress-induced synaptic structural deficits and depression-like behaviors through GSK3β/mTOR signaling.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "ancora_GPM"
+ },
+ {
+  "pmid": "33328636",
+  "rotulo_insumo": "Adaikkan",
+  "autor_real": "Aguilar-Valles A",
+  "ano_print": "2021",
+  "titulo": "Antidepressant actions of ketamine engage cell-specific translation via eIF4E.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "28465217",
+  "rotulo_insumo": "Akinfiresoye",
+  "autor_real": "Alcocer-Gómez E",
+  "ano_print": "2017",
+  "titulo": "Antidepressants induce autophagy dependent-NLRP3-inflammasome inhibition in Major depressive disorder.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "32375205",
+  "rotulo_insumo": "Ali",
+  "autor_real": "Ali T",
+  "ano_print": "2020",
+  "titulo": "Melatonin prevents neuroinflammation and relieves depression by attenuating autophagy impairment through FOXO3a regulation.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "42465698",
+  "rotulo_insumo": "Almalki",
+  "autor_real": "Almalki DF",
+  "ano_print": "2026",
+  "titulo": "Chronic stress, cortisol dysregulation, and neurodegenerative vulnerability: mechanistic pathways linking HPA-axis dysfunction to Alzheimer's disease risk.",
+  "decisao": "EXC",
+  "motivo": "CAMADA C (neurodegeneração/autismo/dor somática) — fora do escopo A/D",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "34071053",
+  "rotulo_insumo": "Almeida",
+  "autor_real": "Almeida FB",
+  "ano_print": "2021",
+  "titulo": "The Role of HPA Axis and Allopregnanolone on the Neurobiology of Major Depressive Disorders and PTSD.",
+  "decisao": "BAIXO",
+  "motivo": "interface HPA/B2 — suporte",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "31327964",
+  "rotulo_insumo": "Arioz",
+  "autor_real": "Arioz BI",
+  "ano_print": "2019",
+  "titulo": "Melatonin Attenuates LPS-Induced Acute Depressive-Like Behaviors and Microglial NLRP3 Inflammasome Activation Through the SIRT1/Nrf2 Pathway.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "34159699",
+  "rotulo_insumo": "Armstrong",
+  "autor_real": "Milligan Armstrong A",
+  "ano_print": "2021",
+  "titulo": "Chronic stress and Alzheimer's disease: the interplay between the hypothalamic-pituitary-adrenal axis, genetics and microglia.",
+  "decisao": "EXC",
+  "motivo": "CAMADA C (neurodegeneração/autismo/dor somática) — fora do escopo A/D",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "39951189",
+  "rotulo_insumo": "Ayyubova",
+  "autor_real": "Ayyubova G",
+  "ano_print": "2025",
+  "titulo": "Microglial NLRP3 Inflammasomes in Alzheimer's Disease Pathogenesis: From Interaction with Autophagy/Mitophagy to Therapeutics.",
+  "decisao": "EXC",
+  "motivo": "CAMADA C (neurodegeneração/autismo/dor somática) — fora do escopo A/D",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "36891528",
+  "rotulo_insumo": "Bassil",
+  "autor_real": "Bassil K",
+  "ano_print": "2023",
+  "titulo": "In vitro modeling of the neurobiological effects of glucocorticoids: A review.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "26519901",
+  "rotulo_insumo": "Björkholm",
+  "autor_real": "Björkholm C",
+  "ano_print": "2016",
+  "titulo": "BDNF - a key transducer of antidepressant effects.",
+  "decisao": "BAIXO",
+  "motivo": "interface plasticidade/BDNF B3 — suporte",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "34401408",
+  "rotulo_insumo": "Brivio",
+  "autor_real": "Brivio P",
+  "ano_print": "2021",
+  "titulo": "The coupling of RACK1 with the beta isoform of the glucocorticoid receptor promotes resilience to chronic stress exposure.",
+  "decisao": "BAIXO",
+  "motivo": "interface HPA/B2 — suporte",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "37858883",
+  "rotulo_insumo": "Caffino",
+  "autor_real": "Caffino L",
+  "ano_print": "2024",
+  "titulo": "Temporal dynamics of BDNF signaling recruitment in the rat prefrontal cortex and hippocampus following a single infusion of a translational dose of ketamine.",
+  "decisao": "BAIXO",
+  "motivo": "interface ketamina/B3 — suporte (regra B15-REGRA-04)",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "37548945",
+  "rotulo_insumo": "Chen",
+  "autor_real": "Chen Y",
+  "ano_print": "2024",
+  "titulo": "Autophagy in Neuroinflammation: A Focus on Epigenetic Regulation.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "35309681",
+  "rotulo_insumo": "Chen",
+  "autor_real": "Chen Y",
+  "ano_print": "2022",
+  "titulo": "The Regulation of Glutamate Transporter 1 in the Rapid Antidepressant-Like Effect of Ketamine in Mice.",
+  "decisao": "BAIXO",
+  "motivo": "interface ketamina/B3 — suporte (regra B15-REGRA-04)",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "39116252",
+  "rotulo_insumo": "Chen",
+  "autor_real": "Chen M",
+  "ano_print": "2024",
+  "titulo": "Brain region-specific action of ketamine as a rapid antidepressant.",
+  "decisao": "BAIXO",
+  "motivo": "interface ketamina/B3 — suporte (regra B15-REGRA-04)",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "32003282",
+  "rotulo_insumo": "Cheng",
+  "autor_real": "Cheng J",
+  "ano_print": "2020",
+  "titulo": "Microglial autophagy defect causes parkinson disease-like symptoms by accelerating inflammasome activation in mice.",
+  "decisao": "EXC",
+  "motivo": "CAMADA C (neurodegeneração/autismo/dor somática) — fora do escopo A/D",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "19317179",
+  "rotulo_insumo": "Conrad",
+  "autor_real": "Conrad CD",
+  "ano_print": "2008",
+  "titulo": "Chronic stress-induced hippocampal vulnerability: the glucocorticoid vulnerability hypothesis.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "40205096",
+  "rotulo_insumo": "Corona",
+  "autor_real": "Corona A",
+  "ano_print": "2025",
+  "titulo": "Chronic stress drives depression by disrupting cellular housekeeping.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "32174832",
+  "rotulo_insumo": "Cui",
+  "autor_real": "Cui Y",
+  "ano_print": "2020",
+  "titulo": "Early-Life Stress Induces Depression-Like Behavior and Synaptic-Plasticity Changes in a Maternal Separation Rat Model: Gender Difference and Metabolomics Study.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "37793481",
+  "rotulo_insumo": "Derosa",
+  "autor_real": "Derosa S",
+  "ano_print": "2024",
+  "titulo": "Changes in neurotrophic signaling pathways in brain areas of the chronic mild stress rat model of depression as a signature of ketamine fast antidepressant response/non-response.",
+  "decisao": "BAIXO",
+  "motivo": "interface ketamina/B3 — suporte (regra B15-REGRA-04)",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "31555091",
+  "rotulo_insumo": "Feng",
+  "autor_real": "Feng X",
+  "ano_print": "2019",
+  "titulo": "Glucocorticoid-Driven NLRP3 Inflammasome Activation in Hippocampal Microglia Mediates Chronic Stress-Induced Depressive-Like Behaviors.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "30559184",
+  "rotulo_insumo": "Fukumoto",
+  "autor_real": "Fukumoto K",
+  "ano_print": "2019",
+  "titulo": "Activity-dependent brain-derived neurotrophic factor signaling is required for the antidepressant actions of (2R,6R)-hydroxynorketamine.",
+  "decisao": "BAIXO",
+  "motivo": "interface ketamina/B3 — suporte (regra B15-REGRA-04)",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "33935683",
+  "rotulo_insumo": "Gao",
+  "autor_real": "Gao S",
+  "ano_print": "2021",
+  "titulo": "Role of mTOR-Regulated Autophagy in Synaptic Plasticity Related Proteins Downregulation and the Reference Memory Deficits Induced by Anesthesia/Surgery in Aged Mice.",
+  "decisao": "BAIXO",
+  "motivo": "interface plasticidade/BDNF B3 — suporte",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "35314861",
+  "rotulo_insumo": "Gao",
+  "autor_real": "Gao F",
+  "ano_print": "2022",
+  "titulo": "Ppp4r3a deficiency leads to depression-like behaviors in mice by modulating the synthesis of synaptic proteins.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "32666621",
+  "rotulo_insumo": "Goncharova",
+  "autor_real": "Goncharova ND",
+  "ano_print": "2020",
+  "titulo": "The HPA Axis under Stress and Aging: Individual Vulnerability is Associated with Behavioral Patterns and Exposure Time.",
+  "decisao": "BAIXO",
+  "motivo": "interface HPA/B2 — suporte",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "33737865",
+  "rotulo_insumo": "Gong",
+  "autor_real": "Gong W",
+  "ano_print": "2021",
+  "titulo": "Analysis of Chronic Mild Stress-Induced Hypothalamic Proteome: Identification of Protein Dysregulations Associated With Vulnerability and Resiliency to Depression or Anxiety.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "39361217",
+  "rotulo_insumo": "Göver",
+  "autor_real": "Göver T",
+  "ano_print": "2024",
+  "titulo": "Targeting glucocorticoid receptor signaling pathway for treatment of stress-related brain disorders.",
+  "decisao": "BAIXO",
+  "motivo": "interface HPA/B2 — suporte",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "34642301",
+  "rotulo_insumo": "Green",
+  "autor_real": "Green C",
+  "ano_print": "2021",
+  "titulo": "Hair glucocorticoids are associated with childhood adversity, depressive symptoms and reduced global and lobar grey matter in Generation Scotland.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "41155288",
+  "rotulo_insumo": "Guo",
+  "autor_real": "Nunez SG",
+  "ano_print": "2025",
+  "titulo": "Chronic Stress and Autoimmunity: The Role of HPA Axis and Cortisol Dysregulation.",
+  "decisao": "BAIXO",
+  "motivo": "interface HPA/B2 — suporte",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "38227513",
+  "rotulo_insumo": "Han",
+  "autor_real": "Han Q",
+  "ano_print": "2024",
+  "titulo": "Microglial NLRP3 inflammasome-mediated neuroinflammation and therapeutic strategies in depression.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "34082381",
+  "rotulo_insumo": "Han",
+  "autor_real": "Han X",
+  "ano_print": "2021",
+  "titulo": "Quercetin hinders microglial activation to alleviate neurotoxicity via the interplay between NLRP3 inflammasome and mitophagy.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "27392857",
+  "rotulo_insumo": "Han",
+  "autor_real": "Han B",
+  "ano_print": "2016",
+  "titulo": "Chronic Stress Aggravates Cognitive Impairment and Suppresses Insulin Associated Signaling Pathway in APP/PS1 Mice.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "30966861",
+  "rotulo_insumo": "Han",
+  "autor_real": "Han X",
+  "ano_print": "2019",
+  "titulo": "Small molecule-driven NLRP3 inflammation inhibition via interplay between ubiquitination and autophagy: implications for Parkinson disease.",
+  "decisao": "EXC",
+  "motivo": "CAMADA C (neurodegeneração/autismo/dor somática) — fora do escopo A/D",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "41797210",
+  "rotulo_insumo": "Hanus",
+  "autor_real": "Hanus P",
+  "ano_print": "2026",
+  "titulo": "Astrocyte Bioenergetic Remodeling as a Central Trait of Disrupted Glucocorticoid Signaling: Mechanisms and Implications for Stress Vulnerability.",
+  "decisao": "BAIXO",
+  "motivo": "interface mitocôndria B8 — suporte",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "34655652",
+  "rotulo_insumo": "Hara",
+  "autor_real": "Hara H",
+  "ano_print": "2021",
+  "titulo": "TAK-653, an AMPA receptor potentiator with minimal agonistic activity, produces an antidepressant-like effect with a favorable safety profile in rats.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "41018719",
+  "rotulo_insumo": "Hartmann",
+  "autor_real": "Hartmann J",
+  "ano_print": "2025",
+  "titulo": "From intracellular sensors to systemic resilience: Reframing the biology of stress.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "37252156",
+  "rotulo_insumo": "Hassamal",
+  "autor_real": "Hassamal S",
+  "ano_print": "2023",
+  "titulo": "Chronic stress, neuroinflammation, and depression: an overview of pathophysiological mechanisms and emerging anti-inflammatories.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "39392762",
+  "rotulo_insumo": "He",
+  "autor_real": "He H",
+  "ano_print": "2024",
+  "titulo": "Microglial priming by IFN-γ involves STAT1-mediated activation of the NLRP3 inflammasome.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "23964212",
+  "rotulo_insumo": "Herman",
+  "autor_real": "Herman JP",
+  "ano_print": "2013",
+  "titulo": "Neural control of chronic stress adaptation.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "29902514",
+  "rotulo_insumo": "Herman",
+  "autor_real": "Herman FJ",
+  "ano_print": "2018",
+  "titulo": "Principles of inflammasome priming and inhibition: Implications for psychiatric disorders.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "27843437",
+  "rotulo_insumo": "Herman",
+  "autor_real": "Herman JP",
+  "ano_print": "2016",
+  "titulo": "Paraventricular Hypothalamic Mechanisms of Chronic Stress Adaptation.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "34968492",
+  "rotulo_insumo": "Hess",
+  "autor_real": "Hess EM",
+  "ano_print": "2022",
+  "titulo": "Mechanisms of ketamine and its metabolites as antidepressants.",
+  "decisao": "BAIXO",
+  "motivo": "interface ketamina/B3 — suporte (regra B15-REGRA-04)",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "32194233",
+  "rotulo_insumo": "Horowitz",
+  "autor_real": "Horowitz MA",
+  "ano_print": "2020",
+  "titulo": "Glucocorticoids prime the inflammatory response of human hippocampal cells through up-regulation of inflammatory pathways.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "30617086",
+  "rotulo_insumo": "Houtman",
+  "autor_real": "Houtman J",
+  "ano_print": "2019",
+  "titulo": "Beclin1-driven autophagy modulates the inflammatory response of microglia via NLRP3.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "27845329",
+  "rotulo_insumo": "Huang",
+  "autor_real": "Huang WC",
+  "ano_print": "2016",
+  "titulo": "Hyperconnectivity of prefrontal cortex to amygdala projections in a mouse model of macrocephaly/autism syndrome.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "40333183",
+  "rotulo_insumo": "Jung",
+  "autor_real": "Jung H",
+  "ano_print": "2025",
+  "titulo": "The NLRP3 inflammasome in microglia regulates repetitive behavior by modulating NMDA glutamate receptor functions.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "35546951",
+  "rotulo_insumo": "Kang",
+  "autor_real": "Kang MJY",
+  "ano_print": "2022",
+  "titulo": "The Mechanisms Behind Rapid Antidepressant Effects of Ketamine: A Systematic Review With a Focus on Molecular Neuroplasticity.",
+  "decisao": "BAIXO",
+  "motivo": "interface ketamina/B3 — suporte (regra B15-REGRA-04)",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "35720261",
+  "rotulo_insumo": "Kinlein",
+  "autor_real": "Kinlein SA",
+  "ano_print": "2022",
+  "titulo": "Chronic hypothalamic-pituitary-adrenal axis disruption alters glutamate homeostasis and neural responses to stress in male C57Bl6/N mice.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "30594817",
+  "rotulo_insumo": "Kinlein",
+  "autor_real": "Kinlein SA",
+  "ano_print": "2019",
+  "titulo": "Role of corticosterone in altered neurobehavioral responses to acute stress in a model of compromised hypothalamic-pituitary-adrenal axis function.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "33973360",
+  "rotulo_insumo": "Kohtala",
+  "autor_real": "Kohtala S",
+  "ano_print": "2021",
+  "titulo": "Rapid-acting antidepressants and the regulation of TrkB neurotrophic signalling-Insights from ketamine, nitrous oxide, seizures and anaesthesia.",
+  "decisao": "BAIXO",
+  "motivo": "interface ketamina/B3 — suporte (regra B15-REGRA-04)",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "36613574",
+  "rotulo_insumo": "Kouba",
+  "autor_real": "Kouba BR",
+  "ano_print": "2022",
+  "titulo": "NLRP3 Inflammasome: From Pathophysiology to Therapeutic Target in Major Depressive Disorder.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "40243556",
+  "rotulo_insumo": "Lei",
+  "autor_real": "Lei AA",
+  "ano_print": "2025",
+  "titulo": "Chronic Stress-Associated Depressive Disorders: The Impact of HPA Axis Dysregulation and Neuroinflammation on the Hippocampus-A Mini Review.",
+  "decisao": "BAIXO",
+  "motivo": "interface HPA/B2 — suporte",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "27634096",
+  "rotulo_insumo": "Lepack",
+  "autor_real": "Lepack AE",
+  "ano_print": "2016",
+  "titulo": "Fast-acting antidepressants rapidly stimulate ERK signaling and BDNF release in primary neuronal cultures.",
+  "decisao": "BAIXO",
+  "motivo": "interface plasticidade/BDNF B3 — suporte",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "35680556",
+  "rotulo_insumo": "Lewis",
+  "autor_real": "Lewis V",
+  "ano_print": "2023",
+  "titulo": "Translational control by ketamine and its implications for comorbid cognitive deficits in depressive disorders.",
+  "decisao": "BAIXO",
+  "motivo": "interface ketamina/B3 — suporte (regra B15-REGRA-04)",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "36288697",
+  "rotulo_insumo": "Li",
+  "autor_real": "Li S",
+  "ano_print": "2022",
+  "titulo": "Microglial NLRP3 inflammasome activates neurotoxic astrocytes in depression-like mice.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "41048915",
+  "rotulo_insumo": "Li",
+  "autor_real": "Li J",
+  "ano_print": "2025",
+  "titulo": "Gut microbiota dysbiosis induces neuroinflammation in major depressive disorders: mechanisms targeting the gut-brain axis.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "34691027",
+  "rotulo_insumo": "Li",
+  "autor_real": "Li Y",
+  "ano_print": "2021",
+  "titulo": "Targeting Microglial α-Synuclein/TLRs/NF-kappaB/NLRP3 Inflammasome Axis in Parkinson's Disease.",
+  "decisao": "EXC",
+  "motivo": "CAMADA C (neurodegeneração/autismo/dor somática) — fora do escopo A/D",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "37165444",
+  "rotulo_insumo": "Li",
+  "autor_real": "Li JM",
+  "ano_print": "2023",
+  "titulo": "The involvement of NLRP3 inflammasome in CUMS-induced AD-like pathological changes and related cognitive decline in mice.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "37204119",
+  "rotulo_insumo": "Li",
+  "autor_real": "Li Q",
+  "ano_print": "2023",
+  "titulo": "Impaired lipophagy induced-microglial lipid droplets accumulation contributes to the buildup of TREM1 in diabetes-associated cognitive impairment.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "32296308",
+  "rotulo_insumo": "Lieberman",
+  "autor_real": "Lieberman OJ",
+  "ano_print": "2020",
+  "titulo": "mTOR Suppresses Macroautophagy During Striatal Postnatal Development and Is Hyperactive in Mouse Models of Autism Spectrum Disorders.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "34407417",
+  "rotulo_insumo": "Lin",
+  "autor_real": "Lin PY",
+  "ano_print": "2021",
+  "titulo": "A synaptic locus for TrkB signaling underlying ketamine rapid antidepressant action.",
+  "decisao": "BAIXO",
+  "motivo": "interface ketamina/B3 — suporte (regra B15-REGRA-04)",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "21867718",
+  "rotulo_insumo": "Lindholm",
+  "autor_real": "Lindholm JS",
+  "ano_print": "2012",
+  "titulo": "The antidepressant-like effects of glutamatergic drugs ketamine and AMPA receptor potentiator LY 451646 are preserved in bdnf⁺/⁻ heterozygous null mice.",
+  "decisao": "BAIXO",
+  "motivo": "interface ketamina/B3 — suporte (regra B15-REGRA-04)",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "39213872",
+  "rotulo_insumo": "Liu",
+  "autor_real": "Liu Y",
+  "ano_print": "2024",
+  "titulo": "AdipoRon exerts an antidepressant effect by inhibiting NLRP3 inflammasome activation in microglia via promoting mitophagy.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "34978026",
+  "rotulo_insumo": "Liu",
+  "autor_real": "Liu Q",
+  "ano_print": "2022",
+  "titulo": "Inhibition of Microglial NLRP3 with MCC950 Attenuates Microglial Morphology and NLRP3/Caspase-1/IL-1β Signaling In Stress-induced Mice.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "26514555",
+  "rotulo_insumo": "Liu",
+  "autor_real": "Liu WX",
+  "ano_print": "2016",
+  "titulo": "Regulation of glutamate transporter 1 via BDNF-TrkB signaling plays a role in the anti-apoptotic and antidepressant effects of ketamine in chronic unpredictable stress model of depression.",
+  "decisao": "BAIXO",
+  "motivo": "interface ketamina/B3 — suporte (regra B15-REGRA-04)",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "32616214",
+  "rotulo_insumo": "Luscher",
+  "autor_real": "Luscher B",
+  "ano_print": "2020",
+  "titulo": "Antidepressant mechanisms of ketamine: Focus on GABAergic inhibition.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "24313960",
+  "rotulo_insumo": "Lyu",
+  "autor_real": "Lyu D",
+  "ano_print": "2013",
+  "titulo": "The mTOR signaling pathway regulates pain-related synaptic plasticity in rat entorhinal-hippocampal pathways.",
+  "decisao": "EXC",
+  "motivo": "CAMADA C (neurodegeneração/autismo/dor somática) — fora do escopo A/D",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "41712983",
+  "rotulo_insumo": "Matveychuk",
+  "autor_real": "McColgan L",
+  "ano_print": "2026",
+  "titulo": "NLRP3 inflammasome priming and activation is involved in depression: A systematic review and meta-analysis.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "34679364",
+  "rotulo_insumo": "Mikulska",
+  "autor_real": "Mikulska J",
+  "ano_print": "2021",
+  "titulo": "HPA Axis in the Pathomechanism of Depression and Schizophrenia: New Therapeutic Strategies Based on Its Participation.",
+  "decisao": "BAIXO",
+  "motivo": "interface HPA/B2 — suporte",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "25340958",
+  "rotulo_insumo": "Miller",
+  "autor_real": "Miller OH",
+  "ano_print": "2014",
+  "titulo": "GluN2B-containing NMDA receptors regulate depression-like behavior and are critical for the rapid antidepressant actions of ketamine.",
+  "decisao": "BAIXO",
+  "motivo": "interface ketamina/B3 — suporte (regra B15-REGRA-04)",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "23062356",
+  "rotulo_insumo": "Monteggia",
+  "autor_real": "Monteggia LM",
+  "ano_print": "2013",
+  "titulo": "The role of eukaryotic elongation factor 2 kinase in rapid antidepressant action of ketamine.",
+  "decisao": "BAIXO",
+  "motivo": "interface ketamina/B3 — suporte (regra B15-REGRA-04)",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "39310640",
+  "rotulo_insumo": "Ota",
+  "autor_real": "P S",
+  "ano_print": "2024",
+  "titulo": "Hypothalamic-Pituitary-Adrenal (HPA) Axis: Unveiling the Potential Mechanisms Involved in Stress-Induced Alzheimer's Disease and Depression.",
+  "decisao": "EXC",
+  "motivo": "CAMADA C (neurodegeneração/autismo/dor somática) — fora do escopo A/D",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "32876364",
+  "rotulo_insumo": "Pascual",
+  "autor_real": "Pascual M",
+  "ano_print": "2021",
+  "titulo": "Role of mTOR-regulated autophagy in spine pruning defects and memory impairments induced by binge-like ethanol treatment in adolescent mice.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "34100334",
+  "rotulo_insumo": "Pereira",
+  "autor_real": "Cheiran Pereira G",
+  "ano_print": "2022",
+  "titulo": "Microglia and HPA axis in depression: An overview of participation and relationship.",
+  "decisao": "BAIXO",
+  "motivo": "interface HPA/B2 — suporte",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "30851296",
+  "rotulo_insumo": "Pham",
+  "autor_real": "Pham TH",
+  "ano_print": "2019",
+  "titulo": "Fast-acting antidepressant activity of ketamine: highlights on brain serotonin, glutamate, and GABA neurotransmission in preclinical studies.",
+  "decisao": "BAIXO",
+  "motivo": "interface ketamina/B3 — suporte (regra B15-REGRA-04)",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "31801966",
+  "rotulo_insumo": "Price",
+  "autor_real": "Price RB",
+  "ano_print": "2020",
+  "titulo": "Neuroplasticity in cognitive and psychological mechanisms of depression: an integrative model.",
+  "decisao": "BAIXO",
+  "motivo": "interface plasticidade/BDNF B3 — suporte",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "35215237",
+  "rotulo_insumo": "Qin",
+  "autor_real": "Rafało-Ulińska A",
+  "ano_print": "2022",
+  "titulo": "Combined Administration of (R)-Ketamine and the mGlu2/3 Receptor Antagonist LY341495 Induces Rapid and Sustained Effects in the CUMS Model of Depression via a TrkB/BDNF-Dependent Mechanism.",
+  "decisao": "BAIXO",
+  "motivo": "interface ketamina/B3 — suporte (regra B15-REGRA-04)",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "30442948",
+  "rotulo_insumo": "Silva",
+  "autor_real": "Silva JM",
+  "ano_print": "2019",
+  "titulo": "Dysregulation of autophagy and stress granule-related proteins in stress-driven Tau pathology.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "37209992",
+  "rotulo_insumo": "Su",
+  "autor_real": "Su WJ",
+  "ano_print": "2023",
+  "titulo": "Microglial NLRP3 inflammasome activation mediates diabetes-induced depression-like behavior via triggering neuroinflammation.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "38906599",
+  "rotulo_insumo": "Su",
+  "autor_real": "Su L",
+  "ano_print": "2024",
+  "titulo": "Paeoniflorin alleviates depression by inhibiting the activation of NLRP3 inflammasome via promoting mitochondrial autophagy.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "32616215",
+  "rotulo_insumo": "Suzuki",
+  "autor_real": "Suzuki K",
+  "ano_print": "2020",
+  "titulo": "The role of eEF2 kinase in the rapid antidepressant actions of ketamine.",
+  "decisao": "BAIXO",
+  "motivo": "interface ketamina/B3 — suporte (regra B15-REGRA-04)",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "21430148",
+  "rotulo_insumo": "Taliaz",
+  "autor_real": "Taliaz D",
+  "ano_print": "2011",
+  "titulo": "Resilience to chronic stress is mediated by hippocampal brain-derived neurotrophic factor.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "25155956",
+  "rotulo_insumo": "Tang",
+  "autor_real": "Tang G",
+  "ano_print": "2014",
+  "titulo": "Loss of mTOR-dependent macroautophagy causes autistic-like synaptic pruning deficits.",
+  "decisao": "EXC",
+  "motivo": "CAMADA C (neurodegeneração/autismo/dor somática) — fora do escopo A/D",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "41755883",
+  "rotulo_insumo": "Thom",
+  "autor_real": "Thom SA",
+  "ano_print": "2026",
+  "titulo": "Reelin, the HPA Axis, and Chronic Stress: Implications for the Neurobiology of Depression.",
+  "decisao": "BAIXO",
+  "motivo": "interface HPA/B2 — suporte",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "28469557",
+  "rotulo_insumo": "Ueda",
+  "autor_real": "van Bodegom M",
+  "ano_print": "2017",
+  "titulo": "Modulation of the Hypothalamic-Pituitary-Adrenal Axis by Early Life Stress Exposure.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "41053956",
+  "rotulo_insumo": "Wang",
+  "autor_real": "Wang L",
+  "ano_print": "2025",
+  "titulo": "Artemisinin Alleviates Chronic Social Defeat Stress-Induced Depressive-Like Behavior by Inhibiting Neuroinflammation via the TLR4/MyD88/NF-κB/NLRP3 Signaling Pathway.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "37401900",
+  "rotulo_insumo": "Wang",
+  "autor_real": "Wang Z",
+  "ano_print": "2023",
+  "titulo": "Aging inverts the effects of p75(NTR) -modulated mTOR manipulation on hippocampal neuron synaptic plasticity in male mice.",
+  "decisao": "BAIXO",
+  "motivo": "interface plasticidade/BDNF B3 — suporte",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "29343269",
+  "rotulo_insumo": "Wang",
+  "autor_real": "Wang YL",
+  "ano_print": "2018",
+  "titulo": "Microglial activation mediates chronic mild stress-induced depressive- and anxiety-like behavior in adult rats.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "33771972",
+  "rotulo_insumo": "Wang",
+  "autor_real": "Wang XQ",
+  "ano_print": "2021",
+  "titulo": "PTEN in prefrontal cortex is essential in regulating depression-like behaviors in mice.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "40357234",
+  "rotulo_insumo": "Wang",
+  "autor_real": "Wang T",
+  "ano_print": "2025",
+  "titulo": "NTN-1 attenuates amyloid-β-mediated microglial neuroinflammation and memory impairment via the NF-κB pathway and NLRP3 inflammasome in a rat model of Alzheimer's disease.",
+  "decisao": "EXC",
+  "motivo": "CAMADA C (neurodegeneração/autismo/dor somática) — fora do escopo A/D",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "41008651",
+  "rotulo_insumo": "Wang",
+  "autor_real": "Woźny-Rasała I",
+  "ano_print": "2025",
+  "titulo": "NLRP3 Inflammasome in Stress-Related Neuropsychiatric Disorders: Mechanisms of Neuron-Microglia-Astrocyte Crosstalk, HPA Axis Dysregulation, and Therapeutic Perspective.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "29895894",
+  "rotulo_insumo": "Wray",
+  "autor_real": "Wray NH",
+  "ano_print": "2019",
+  "titulo": "NMDAR-independent, cAMP-dependent antidepressant actions of ketamine.",
+  "decisao": "BAIXO",
+  "motivo": "interface ketamina/B3 — suporte (regra B15-REGRA-04)",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "37801503",
+  "rotulo_insumo": "Wu",
+  "autor_real": "Wu J",
+  "ano_print": "2023",
+  "titulo": "Deficient chaperone-mediated autophagy facilitates LPS-induced microglial activation via regulation of the p300/NF-κB/NLRP3 pathway.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "33161129",
+  "rotulo_insumo": "Wu",
+  "autor_real": "Wu AG",
+  "ano_print": "2021",
+  "titulo": "Targeting microglial autophagic degradation in NLRP3 inflammasome-mediated neurodegenerative diseases.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "33717152",
+  "rotulo_insumo": "Wu",
+  "autor_real": "Wu X",
+  "ano_print": "2021",
+  "titulo": "NLRP3 Deficiency Protects Against Intermittent Hypoxia-Induced Neuroinflammation and Mitochondrial ROS by Promoting the PINK1-Parkin Pathway of Mitophagy in a Murine Model of Sleep Apnea.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "36563870",
+  "rotulo_insumo": "Xia",
+  "autor_real": "Xia CY",
+  "ano_print": "2023",
+  "titulo": "The NLRP3 inflammasome in depression: Potential mechanisms and therapies.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "37321346",
+  "rotulo_insumo": "Xu",
+  "autor_real": "Xu K",
+  "ano_print": "2024",
+  "titulo": "HMGB1/STAT3/p65 axis drives microglial activation and autophagy exert a crucial role in chronic Stress-Induced major depressive disorder.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "40075143",
+  "rotulo_insumo": "Xu",
+  "autor_real": "Xu W",
+  "ano_print": "2025",
+  "titulo": "NLRP3 inflammasome in neuroinflammation and central nervous system diseases.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "29666475",
+  "rotulo_insumo": "Xue",
+  "autor_real": "Xue Z",
+  "ano_print": "2019",
+  "titulo": "lincRNA-Cox2 regulates NLRP3 inflammasome and autophagy mediated neuroinflammation.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "30242133",
+  "rotulo_insumo": "Yan",
+  "autor_real": "Yan J",
+  "ano_print": "2018",
+  "titulo": "Activation of autophagy rescues synaptic and cognitive deficits in fragile X mice.",
+  "decisao": "EXC",
+  "motivo": "CAMADA C (neurodegeneração/autismo/dor somática) — fora do escopo A/D",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "36658152",
+  "rotulo_insumo": "Yan",
+  "autor_real": "Yan L",
+  "ano_print": "2023",
+  "titulo": "Physical exercise mediates a cortical FMRP-mTOR pathway to improve resilience against chronic stress in adolescent mice.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "31699965",
+  "rotulo_insumo": "Yang",
+  "autor_real": "Yang C",
+  "ano_print": "2019",
+  "titulo": "Molecular and cellular mechanisms underlying the antidepressant effects of ketamine enantiomers and its metabolites.",
+  "decisao": "BAIXO",
+  "motivo": "interface ketamina/B3 — suporte (regra B15-REGRA-04)",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "28651788",
+  "rotulo_insumo": "Yang",
+  "autor_real": "Yang C",
+  "ano_print": "2018",
+  "titulo": "Mechanistic Target of Rapamycin-Independent Antidepressant Effects of (R)-Ketamine in a Social Defeat Stress Model.",
+  "decisao": "BAIXO",
+  "motivo": "interface ketamina/B3 — suporte (regra B15-REGRA-04)",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "34819637",
+  "rotulo_insumo": "Yao",
+  "autor_real": "Yao W",
+  "ano_print": "2022",
+  "titulo": "Microglial ERK-NRBP1-CREB-BDNF signaling in sustained antidepressant actions of (R)-ketamine.",
+  "decisao": "BAIXO",
+  "motivo": "interface ketamina/B3 — suporte (regra B15-REGRA-04)",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "36623760",
+  "rotulo_insumo": "Yuan",
+  "autor_real": "Yuan G",
+  "ano_print": "2023",
+  "titulo": "Tunicamycin induces depression-like behaviors in male rats, accompanied by initiated chaperon-mediated autophagy and decreased synaptic protein expression in the hippocampus.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "29516301",
+  "rotulo_insumo": "Zanos",
+  "autor_real": "Zanos P",
+  "ano_print": "2018",
+  "titulo": "Convergent Mechanisms Underlying Rapid Antidepressant Action.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "41513756",
+  "rotulo_insumo": "Zhang",
+  "autor_real": "Zhang P",
+  "ano_print": "2026",
+  "titulo": "Targeting the NLRP3 inflammasome alleviates the comorbidity of chronic pain and depression via enhancing the autophagy.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "25603858",
+  "rotulo_insumo": "Zhang",
+  "autor_real": "Zhang Y",
+  "ano_print": "2015",
+  "titulo": "NLRP3 Inflammasome Mediates Chronic Mild Stress-Induced Depression in Mice via Neuroinflammation.",
+  "decisao": "ENTRA",
+  "motivo": "núcleo mecanístico B15 — verificado G1 completo",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "40382479",
+  "rotulo_insumo": "Zhang",
+  "autor_real": "Zhang YQ",
+  "ano_print": "2025",
+  "titulo": "Elevated NEGR1 in brain induces anxiety or depression-like phenotypes and synaptic dysfunction.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "39407211",
+  "rotulo_insumo": "Zhang",
+  "autor_real": "Zhang Z",
+  "ano_print": "2024",
+  "titulo": "Glutamine metabolism modulates microglial NLRP3 inflammasome activity through mitophagy in Alzheimer's disease.",
+  "decisao": "EXC",
+  "motivo": "CAMADA C (neurodegeneração/autismo/dor somática) — fora do escopo A/D",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "35918778",
+  "rotulo_insumo": "Zhou",
+  "autor_real": "Zhou XG",
+  "ano_print": "2022",
+  "titulo": "Targeting microglial autophagic degradation of the NLRP3 inflammasome for identification of thonningianin A in Alzheimer's disease.",
+  "decisao": "EXC",
+  "motivo": "CAMADA C (neurodegeneração/autismo/dor somática) — fora do escopo A/D",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "24831808",
+  "rotulo_insumo": "Zhu",
+  "autor_real": "Zhu LJ",
+  "ano_print": "2014",
+  "titulo": "The different roles of glucocorticoids in the hippocampus and hypothalamus in chronic stress-induced HPA axis hyperactivity.",
+  "decisao": "BAIXO",
+  "motivo": "interface HPA/B2 — suporte",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "41822492",
+  "rotulo_insumo": "Zou",
+  "autor_real": "Zou X",
+  "ano_print": "2026",
+  "titulo": "Focusing on microglial mitochondria-lysosome crosstalk and neuroinflammation underlying depression: from molecular pathways to potential therapeutic interventions.",
+  "decisao": "BAIXO",
+  "motivo": "interface inflamassoma B1 — suporte/review",
+  "grupo": "sec6_levaN"
+ },
+ {
+  "pmid": "20406665",
+  "rotulo_insumo": "Zunszain",
+  "autor_real": "Zunszain PA",
+  "ano_print": "2011",
+  "titulo": "Glucocorticoids, cytokines and brain abnormalities in depression.",
+  "decisao": "BAIXO",
+  "motivo": "suporte leva N (review/contexto/metodológico) — sem âncora GPM",
+  "grupo": "sec6_levaN"
+ }
+]

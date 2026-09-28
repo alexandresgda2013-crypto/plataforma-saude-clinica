@@ -1,0 +1,42 @@
+{
+ "mecanismo": "B14",
+ "rodada": "[AT] 2026-09-09",
+ "insumos": [
+  "uploads/GPM_B14_Neuroesteroides (1).md",
+  "uploads/BRIEFING_B14_NEUROESTEROIDES_RODADA0 (1).md",
+  "uploads/BRIEFING_B14_NEUROESTEROIDES_RODADA0.md",
+  "uploads/BRIEFING_CONSOLIDADO_B14_v1.md",
+  "uploads/Resumo do insumo para B14 chatgpt.md",
+  "uploads/Artigos cientificos do mecanismo B14 neuroesteroides hormonios.md"
+ ],
+ "triagem": {
+  "universo_novos": 102,
+  "ENTRA": 50,
+  "BAIXO": 44,
+  "EXC": 7,
+  "ja_vigente": 1,
+  "matriz": "producao/insumos/matriz_b14_decisao.json"
+ },
+ "entra_por_grupo": {
+  "ancoras_GPM_57": 26,
+  "sec6_107": 24
+ },
+ "exposicoes": 10,
+ "totais_v2": {
+  "refs": 290,
+  "vinculos": 290,
+  "auditorias": 290,
+  "palavras": 11979
+ },
+ "arquivos_gerados": [
+  "b14_gen_refs.py",
+  "b14_refs_data.json",
+  "b14_efetch_sel.json",
+  "B14_md_apply.py",
+  "b14_ancoras.json",
+  "B14_json_apply.py",
+  "producao/historico/v1_canonica_2026-09-09.md",
+  "B14 NEUROESTEROIDES V2 CANONICA.md"
+ ],
+ "data_fecho": "2026-09-10 (America/Sao_Paulo)"
+}

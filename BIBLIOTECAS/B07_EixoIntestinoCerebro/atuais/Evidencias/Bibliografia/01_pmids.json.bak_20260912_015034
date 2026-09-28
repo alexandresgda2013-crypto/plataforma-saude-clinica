@@ -1,0 +1,4588 @@
+[
+ {
+  "pmid_oficial": "15133062",
+  "titulo_artigo": "Postnatal microbial colonization programs the hypothalamic-pituitary-adrenal system for stress response in mice",
+  "autores": [
+   "Sudo N",
+   "Chida Y",
+   "Aiba Y",
+   "Sonoda J",
+   "Oyama N",
+   "Yu XN"
+  ],
+  "revista_ano": "The Journal of physiology (2004)",
+  "desenho_estudo": "[ML/marco] camundongos germ-free — J Physiol",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Colonização microbiana pós-natal programa o HPA; germ-free tem resposta de corticosterona exagerada, parcialmente revertida por colonização precoce.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_SUDO_2004"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "marco experimental em ROEDOR; germ-free é extremo não fisiológico",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SUDO_2004",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "SUDO",
+   "Sudo"
+  ]
+ },
+ {
+  "pmid_oficial": "18283240",
+  "titulo_artigo": "The gut-brain barrier in major depression: intestinal mucosal dysfunction with an increased translocation of LPS from gram negative enterobacteria (leaky gut) plays a role in the inflammatory pathophysiology of depression",
+  "autores": [
+   "Maes M",
+   "Kubera M",
+   "Leunis JC"
+  ],
+  "revista_ano": "Neuro endocrinology letters (2008)",
+  "desenho_estudo": "[EC] estudo humano transversal; UM GRUPO, ensaio pouco padronizado — Neuro Endocrinol Lett",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Hipótese da barreira intestino-cérebro na TDM: disfunção mucosa intestinal e translocação bacteriana.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MAES_2008"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_clinico",
+  "g2_motivo": "associação de um único grupo (Maes); IgM anti-LPS; não replicado de forma independente",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MAES_2008",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "MAES",
+   "Maes"
+  ]
+ },
+ {
+  "pmid_oficial": "20974015",
+  "titulo_artigo": "Assessment of psychotropic-like properties of a probiotic formulation (Lactobacillus helveticus R0052 and Bifidobacterium longum R0175) in rats and human subjects",
+  "autores": [
+   "Messaoudi M",
+   "Lalonde R",
+   "Violle N",
+   "Javelot H",
+   "Desor D",
+   "Nejdi A"
+  ],
+  "revista_ano": "The British journal of nutrition (2011)",
+  "desenho_estudo": "[EC] RCT em voluntários sadios — Br J Nutr",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Formulação probiótica (L. helveticus/B. longum) reduz sintomas psicológicos em voluntários sadios com estresse.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MESSAOUDI_2011"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT em população subclínica/sadia",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MESSAOUDI_2011",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Messaoudi",
+   "MESSAOUDI"
+  ]
+ },
+ {
+  "pmid_oficial": "21054680",
+  "titulo_artigo": "Reduced anxiety-like behavior and central neurochemical change in germ-free mice",
+  "autores": [
+   "Neufeld KM",
+   "Kang N",
+   "Bienenstock J",
+   "Foster JA"
+  ],
+  "revista_ano": "Neurogastroenterology and motility (2011)",
+  "desenho_estudo": "[ML] germ-free, ansiedade reduzida — Neurogastroenterol Motil",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Camundongos germ-free exibem comportamento tipo-ansiedade reduzido e alterações neuroquímicas centrais.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_NEUFELD_2011"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "dados animais; direção do fenótipo é complexa (ansiedade reduzida no germ-free)",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_NEUFELD_2011",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "NEUFELD",
+   "Neufeld"
+  ]
+ },
+ {
+  "pmid_oficial": "21282636",
+  "titulo_artigo": "Normal gut microbiota modulates brain development and behavior",
+  "autores": [
+   "Diaz Heijtz R",
+   "Wang S",
+   "Anuar F",
+   "Qian Y",
+   "Björkholm B",
+   "Samuelsson A"
+  ],
+  "revista_ano": "Proceedings of the National Academy of Sciences of the United States of America (2011)",
+  "desenho_estudo": "[ML] germ-free vs convencional — PNAS",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Microbiota normal modula o desenvolvimento cerebral e o comportamento; alterações motoras e de expressão gênica.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_DIAZHEIJTZ_2011"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "dados animais de desenvolvimento",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_DIAZHEIJTZ_2011",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Diazheijtz",
+   "DiazHeijtz",
+   "DIAZHEIJTZ"
+  ]
+ },
+ {
+  "pmid_oficial": "21876150",
+  "titulo_artigo": "Ingestion of Lactobacillus strain regulates emotional behavior and central GABA receptor expression in a mouse via the vagus nerve",
+  "autores": [
+   "Bravo JA",
+   "Forsythe P",
+   "Chew MV",
+   "Escaravage E",
+   "Savignac HM",
+   "Dinan TG"
+  ],
+  "revista_ano": "Proceedings of the National Academy of Sciences of the United States of America (2011)",
+  "desenho_estudo": "[ML] experimento em camundongo com vagotomia — PNAS",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "L. rhamnosus JB-1 altera receptores GABA centrais e ansiedade; efeito abolido por vagotomia seletiva.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_BRAVO_2011"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "prova de dependência vagal em ROEDOR; não há teste equivalente em humano",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_BRAVO_2011",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "BRAVO",
+   "Bravo"
+  ]
+ },
+ {
+  "pmid_oficial": "22483040",
+  "titulo_artigo": "Regulation of the stress response by the gut microbiota: implications for psychoneuroendocrinology",
+  "autores": [
+   "Dinan TG",
+   "Cryan JF"
+  ],
+  "revista_ano": "Psychoneuroendocrinology (2012)",
+  "desenho_estudo": "[OB] revisão Psychoneuroendocrinology",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Microbiota regula a resposta ao estresse/HPA; implicações psiconeuroendócrinas.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_DINANCRYAN_2012"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "revisão centrada em dados animais do HPA",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_DINANCRYAN_2012",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "DINANCRYAN",
+   "Dinancryan",
+   "DinanCryan"
+  ]
+ },
+ {
+  "pmid_oficial": "22968153",
+  "titulo_artigo": "Mind-altering microorganisms: the impact of the gut microbiota on brain and behaviour",
+  "autores": [
+   "Cryan JF",
+   "Dinan TG"
+  ],
+  "revista_ano": "Nature reviews. Neuroscience (2012)",
+  "desenho_estudo": "[OB] revisão fundadora Nat Rev Neurosci",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Formula o eixo microbiota-cérebro como campo; germ-free, FMT e modulação comportamental.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_CRYANDINAN_2012"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão fundadora do campo",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_CRYANDINAN_2012",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "CryanDinan",
+   "CRYANDINAN",
+   "Cryandinan"
+  ]
+ },
+ {
+  "pmid_oficial": "23689536",
+  "titulo_artigo": "Microbiota is essential for social development in the mouse",
+  "autores": [
+   "Desbonnet L",
+   "Clarke G",
+   "Shanahan F",
+   "Dinan TG",
+   "Cryan JF"
+  ],
+  "revista_ano": "Molecular psychiatry (2014)",
+  "desenho_estudo": "[ML] germ-free, déficit social — Mol Psychiatry",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "A microbiota é essencial para o desenvolvimento social do camundongo; germ-free tem déficit social parcialmente reversível.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_DESBONNET_2014"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "dados animais; janela de desenvolvimento",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_DESBONNET_2014",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "DESBONNET",
+   "Desbonnet"
+  ]
+ },
+ {
+  "pmid_oficial": "23759244",
+  "titulo_artigo": "Psychobiotics: a novel class of psychotropic",
+  "autores": [
+   "Dinan TG",
+   "Stanton C",
+   "Cryan JF"
+  ],
+  "revista_ano": "Biological psychiatry (2013)",
+  "desenho_estudo": "[OB] artigo conceitual Biol Psychiatry — psicobióticos",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Cunhagem/definição do termo psicobiótico: organismos vivos com benefício em saúde mental.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_DINAN_2013"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "artigo de conceito",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_DINAN_2013",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "DINAN",
+   "Dinan"
+  ]
+ },
+ {
+  "pmid_oficial": "24892638",
+  "titulo_artigo": "Minireview: Gut microbiota: the neglected endocrine organ",
+  "autores": [
+   "Clarke G",
+   "Stilling RM",
+   "Kennedy PJ",
+   "Stanton C",
+   "Cryan JF",
+   "Dinan TG"
+  ],
+  "revista_ano": "Molecular endocrinology (Baltimore, Md.) (2014)",
+  "desenho_estudo": "[OB] minirrevisão Mol Endocrinol — microbiota como órgão endócrino",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "A microbiota como órgão endócrino negligenciado; produção de moléculas sinalizadoras.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_CLARKE_2014"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão endócrina",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_CLARKE_2014",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Clarke",
+   "CLARKE"
+  ]
+ },
+ {
+  "pmid_oficial": "25411471",
+  "titulo_artigo": "The gut microbiota influences blood-brain barrier permeability in mice",
+  "autores": [
+   "Braniste V",
+   "Al-Asmakh M",
+   "Kowal C",
+   "Anuar F",
+   "Abbaspour A",
+   "Tóth M"
+  ],
+  "revista_ano": "Science translational medicine (2014)",
+  "desenho_estudo": "[ML] germ-free/colonização — Sci Transl Med",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "A microbiota influencia a permeabilidade da barreira hematoencefálica em camundongos.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_BRANISTE_2014"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "dados animais de barreira",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_BRANISTE_2014",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "BRANISTE",
+   "Braniste"
+  ]
+ },
+ {
+  "pmid_oficial": "25449699",
+  "titulo_artigo": "Prebiotic intake reduces the waking cortisol response and alters emotional bias in healthy volunteers",
+  "autores": [
+   "Schmidt K",
+   "Cowen PJ",
+   "Harmer CJ",
+   "Tzortzis G",
+   "Errington S",
+   "Burnet PW"
+  ],
+  "revista_ano": "Psychopharmacology (2015)",
+  "desenho_estudo": "[EC] RCT em voluntários sadios — Psychopharmacology",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Prebiótico (FOS/GOS) reduz resposta de cortisol ao despertar e altera viés emocional em voluntários sadios.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SCHMIDT_2015"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT humano pequeno; desfecho de cortisol e viés emocional",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SCHMIDT_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "SCHMIDT",
+   "Schmidt"
+  ]
+ },
+ {
+  "pmid_oficial": "25860609",
+  "titulo_artigo": "Indigenous bacteria from the gut microbiota regulate host serotonin biosynthesis",
+  "autores": [
+   "Yano JM",
+   "Yu K",
+   "Donaldson GP",
+   "Shastri GG",
+   "Ann P",
+   "Ma L"
+  ],
+  "revista_ano": "Cell (2015)",
+  "desenho_estudo": "[ML] experimento germ-free/cultura — Cell",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Bactérias esporuladas indígenas promovem biossíntese de 5-HT pelas células enteroendócrinas/enterocromafins do cólon; afeta motilidade e plaquetas.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_YANO_2015"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "dados animais/celulares; 5-HT é ENTÉRICA/periférica, não cerebral",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_YANO_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "YANO",
+   "Yano"
+  ]
+ },
+ {
+  "pmid_oficial": "25882912",
+  "titulo_artigo": "Altered fecal microbiota composition in patients with major depressive disorder",
+  "autores": [
+   "Jiang H",
+   "Ling Z",
+   "Zhang Y",
+   "Mao H",
+   "Ma Z",
+   "Yin Y"
+  ],
+  "revista_ano": "Brain, behavior, and immunity (2015)",
+  "desenho_estudo": "[EC] estudo caso-controle humano — Brain Behav Immun",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Composição fecal alterada em pacientes com TDM; aumento de Firmicutes/Proteobacteria e correlação com gravidade.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_JIANG_2015"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "estudo humano fundacional observacional",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_JIANG_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "JIANG",
+   "Jiang"
+  ]
+ },
+ {
+  "pmid_oficial": "26030851",
+  "titulo_artigo": "Host microbiota constantly control maturation and function of microglia in the CNS",
+  "autores": [
+   "Erny D",
+   "Hrabě de Angelis AL",
+   "Jaitin D",
+   "Wieghofer P",
+   "Staszewski O",
+   "David E"
+  ],
+  "revista_ano": "Nature neuroscience (2015)",
+  "desenho_estudo": "[ML] estudo germ-free/reconvenção em camundongo — Nat Neurosci",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "A microbiota do hospedeiro controla constantemente a maturação e a função da microglia no SNC.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_ERNY_2015"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "dados animais; microglia residente",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_ERNY_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Erny",
+   "ERNY"
+  ]
+ },
+ {
+  "pmid_oficial": "26662472",
+  "titulo_artigo": "Stress and the Microbiota-Gut-Brain Axis in Visceral Pain: Relevance to Irritable Bowel Syndrome",
+  "autores": [
+   "Moloney RD",
+   "Johnson AC",
+   "O'Mahony SM",
+   "Dinan TG",
+   "Greenwood-Van Meerveld B",
+   "Cryan JF"
+  ],
+  "revista_ano": "CNS neuroscience & therapeutics (2016)",
+  "desenho_estudo": "[OB] revisão CNS Neurosci Ther estresse/IBS",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Estresse e eixo microbiota-intestino-cérebro na dor visceral/IBS.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_MOLONEY_2016"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão com dados mistos",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MOLONEY_2016",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Moloney",
+   "MOLONEY"
+  ]
+ },
+ {
+  "pmid_oficial": "26679775",
+  "titulo_artigo": "Host microbiota modulates development of social preference in mice",
+  "autores": [
+   "Arentsen T",
+   "Raith H",
+   "Qian Y",
+   "Forssberg H",
+   "Diaz Heijtz R"
+  ],
+  "revista_ano": "Microbial ecology in health and disease (2015)",
+  "desenho_estudo": "[ML] preferência social em camundongo — Microb Ecol Health Dis",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "A microbiota do hospedeiro modula o desenvolvimento da preferência social em camundongos.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_ARENTSEN_2015"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "dados animais; CORREÇÃO de metadado: é preferência social, não BDNF",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_ARENTSEN_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Arentsen",
+   "ARENTSEN"
+  ]
+ },
+ {
+  "pmid_oficial": "27005587",
+  "titulo_artigo": "Brain-gut-microbiota axis: challenges for translation in psychiatry",
+  "autores": [
+   "Kelly JR",
+   "Clarke G",
+   "Cryan JF",
+   "Dinan TG"
+  ],
+  "revista_ano": "Annals of epidemiology (2016)",
+  "desenho_estudo": "[OB] revisão Ann Epidemiol sobre desafios translacionais",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Explicitam os desafios de tradução psiquiátrica do eixo: germ-free não é fisiológico; humanos transversais.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_KELLY_2016"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão sobre o abismo roedor-humano",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_KELLY_2016",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "KELLY",
+   "Kelly"
+  ]
+ },
+ {
+  "pmid_oficial": "27067014",
+  "titulo_artigo": "Gut microbiome remodeling induces depressive-like behaviors through a pathway mediated by the host's metabolism",
+  "autores": [
+   "Zheng P",
+   "Zeng B",
+   "Zhou C",
+   "Liu M",
+   "Fang Z",
+   "Xu X"
+  ],
+  "revista_ano": "Molecular psychiatry (2016)",
+  "desenho_estudo": "[ML/FMT] FMT humano→camundongo + metabolômica — Mol Psychiatry",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Remodelagem do microbioma induz comportamento depressivo via metabolismo (carboidratos/aminoácidos); FMT transfere fenótipo.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_ZHENG_2016"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "prova causal em ROEDOR",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_ZHENG_2016",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "ZHENG",
+   "Zheng"
+  ]
+ },
+ {
+  "pmid_oficial": "27392632",
+  "titulo_artigo": "Kynurenine pathway metabolism and the microbiota-gut-brain axis",
+  "autores": [
+   "Kennedy PJ",
+   "Cryan JF",
+   "Dinan TG",
+   "Clarke G"
+  ],
+  "revista_ano": "Neuropharmacology (2017)",
+  "desenho_estudo": "[OB] revisão Neuropharmacology via quinurenina",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Metabolismo da via da quinurenina e o eixo microbiota-intestino-cérebro.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_KENNEDY_2017"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão de via metabólica",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_KENNEDY_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "KENNEDY",
+   "Kennedy"
+  ]
+ },
+ {
+  "pmid_oficial": "27491067",
+  "titulo_artigo": "Transferring the blues: Depression-associated gut microbiota induces neurobehavioural changes in the rat",
+  "autores": [
+   "Kelly JR",
+   "Borre Y",
+   "O' Brien C",
+   "Patterson E",
+   "El Aidy S",
+   "Deane J"
+  ],
+  "revista_ano": "Journal of psychiatric research (2016)",
+  "desenho_estudo": "[ML/FMT] FMT humano→rato — J Psychiatr Res",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "FMT de pacientes deprimidos para ratos microbiota-depletados induz anedonia, ansiedade e alterações de triptofano.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_KELLY_2016b"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "doadores humanos, mas fenótipo medido em RATO; prova causal animal",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_KELLY_2016b",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "KELLY",
+   "Kelly"
+  ]
+ },
+ {
+  "pmid_oficial": "27509521",
+  "titulo_artigo": "Effect of Probiotics on Depression: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+  "autores": [
+   "Huang R",
+   "Wang K",
+   "Hu J"
+  ],
+  "revista_ano": "Nutrients (2016)",
+  "desenho_estudo": "[MA] meta-análise Nutrients — depressão",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Probióticos reduzem sintomas depressivos em meta de RCTs (efeito pequeno-moderado).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_HUANG_2016"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise de RCTs",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_HUANG_2016",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "HUANG",
+   "Huang"
+  ]
+ },
+ {
+  "pmid_oficial": "27742460",
+  "titulo_artigo": "Behavioural and neurochemical consequences of chronic gut microbiota depletion during adulthood in the rat",
+  "autores": [
+   "Hoban AE",
+   "Moloney RD",
+   "Golubeva AV",
+   "McVey Neufeld KA",
+   "O'Sullivan O",
+   "Patterson E"
+  ],
+  "revista_ano": "Neuroscience (2016)",
+  "desenho_estudo": "[ML] depleção crônica na vida adulta — Neuroscience",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Consequências comportamentais e neuroquímicas da depleção crônica de microbiota na vida adulta do rato.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_HOBAN_2016"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "dados animais; depleção por antibiótico no adulto",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_HOBAN_2016",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "HOBAN",
+   "Hoban"
+  ]
+ },
+ {
+  "pmid_oficial": "27793434",
+  "titulo_artigo": "Psychobiotics and the Manipulation of Bacteria-Gut-Brain Signals",
+  "autores": [
+   "Sarkar A",
+   "Lehto SM",
+   "Harty S",
+   "Dinan TG",
+   "Cryan JF",
+   "Burnet PWJ"
+  ],
+  "revista_ano": "Trends in neurosciences (2016)",
+  "desenho_estudo": "[OB] revisão Trends Neurosci",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Psicobióticos e a manipulação dos sinais bactéria-intestino-cérebro.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_SARKAR_2016"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão conceitual",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SARKAR_2016",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "SARKAR",
+   "Sarkar"
+  ]
+ },
+ {
+  "pmid_oficial": "27912057",
+  "titulo_artigo": "Gut Microbiota Regulate Motor Deficits and Neuroinflammation in a Model of Parkinson's Disease",
+  "autores": [
+   "Sampson TR",
+   "Debelius JW",
+   "Thron T",
+   "Janssen S",
+   "Shastri GG",
+   "Ilhan ZE"
+  ],
+  "revista_ano": "Cell (2016)",
+  "desenho_estudo": "[ML] FMT em modelo de Parkinson — Cell",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Microbiota regula déficits motoros e neuroinflamação em modelo da doença de Parkinson; FMT transfere fenótipo motor.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_SAMPSON_2016"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "doença neurológica, fora do miolo ansiedade/depressão; prova animal",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SAMPSON_2016",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Sampson",
+   "SAMPSON"
+  ]
+ },
+ {
+  "pmid_oficial": "28648659",
+  "titulo_artigo": "Enterochromaffin Cells Are Gut Chemosensors that Couple to Sensory Neural Pathways",
+  "autores": [
+   "Bellono NW",
+   "Bayrer JR",
+   "Leitch DB",
+   "Castro J",
+   "Zhang C",
+   "O'Donnell TA"
+  ],
+  "revista_ano": "Cell (2017)",
+  "desenho_estudo": "[ML] experimento celular/roedor Cell — células enteroendócrinas como sensores",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Enterocromafins funcionam como quimiossensores que acoplam estímulos luminais a aferentes neurais.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_BELLONO_2017"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "mecanismo sensorial em roedor/célula",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_BELLONO_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "BELLONO",
+   "Bellono"
+  ]
+ },
+ {
+  "pmid_oficial": "28700459",
+  "titulo_artigo": "The Microbiome in Posttraumatic Stress Disorder and Trauma-Exposed Controls: An Exploratory Study",
+  "autores": [
+   "Hemmings SMJ",
+   "Malan-Müller S",
+   "van den Heuvel LL",
+   "Demmitt BA",
+   "Stanislawski MA",
+   "Smith DG"
+  ],
+  "revista_ano": "Psychosomatic medicine (2017)",
+  "desenho_estudo": "[EC] estudo exploratório humano — Psychosom Med",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Microbioma no TEPT vs controles expostos a trauma: associações exploratórias.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_HEMMINGS_2017"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "estudo exploratório transversal; TEPT",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_HEMMINGS_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Hemmings",
+   "HEMMINGS"
+  ]
+ },
+ {
+  "pmid_oficial": "28814485",
+  "titulo_artigo": "Increased human intestinal barrier permeability plasma biomarkers zonulin and FABP2 correlated with plasma LPS and altered gut microbiome in anxiety or depression",
+  "autores": [
+   "Stevens BR",
+   "Goel R",
+   "Seungbum K",
+   "Richards EM",
+   "Holbert RC",
+   "Pepine CJ"
+  ],
+  "revista_ano": "Gut (2018)",
+  "desenho_estudo": "[EC] carta/estudo humano pequeno Gut — zonulina/FABP2/LPS",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Zonulina e FABP2 plasmáticos correlacionam-se com LPS plasmático e microbioma alterado em ansiedade/depressão.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_STEVENS_2018"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_clinico",
+  "g2_motivo": "carta ao editor, n pequeno, transversal",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_STEVENS_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Stevens",
+   "STEVENS"
+  ]
+ },
+ {
+  "pmid_oficial": "29134359",
+  "titulo_artigo": "Anxiety, Depression, and the Microbiome: A Role for Gut Peptides",
+  "autores": [
+   "Lach G",
+   "Schellekens H",
+   "Dinan TG",
+   "Cryan JF"
+  ],
+  "revista_ano": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics (2018)",
+  "desenho_estudo": "[OB] revisão Neurotherapeutics de peptídeos intestinais",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Papel de peptídeos intestinais (GLP-1, PYY, CCK, grelina, leptina, NPY) em ansiedade, depressão e microbiota.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_LACH_2018"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LACH_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "LACH",
+   "Lach"
+  ]
+ },
+ {
+  "pmid_oficial": "29276734",
+  "titulo_artigo": "Stress & the gut-brain axis: Regulation by the microbiome",
+  "autores": [
+   "Foster JA",
+   "Rinaman L",
+   "Cryan JF"
+  ],
+  "revista_ano": "Neurobiology of stress (2017)",
+  "desenho_estudo": "[OB] revisão Neurobiol Stress",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Regulação do eixo intestino-cérebro pela microbiota sob estresse; programação do HPA.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_FOSTER_2017"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão de estresse/eixo",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_FOSTER_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "FOSTER",
+   "Foster"
+  ]
+ },
+ {
+  "pmid_oficial": "29467611",
+  "titulo_artigo": "The Vagus Nerve at the Interface of the Microbiota-Gut-Brain Axis",
+  "autores": [
+   "Bonaz B",
+   "Bazin T",
+   "Pellissier S"
+  ],
+  "revista_ano": "Frontiers in neuroscience (2018)",
+  "desenho_estudo": "[OB] revisão Front Neurosci sobre o vago na interface",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Nervo vago como via de comunicação aferente/eferente do eixo; células enteroendócrinas e SNE.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_BONAZ_2018"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão focada na via neural",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_BONAZ_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "BONAZ",
+   "Bonaz"
+  ]
+ },
+ {
+  "pmid_oficial": "29903615",
+  "titulo_artigo": "Neurotransmitter modulation by the gut microbiota",
+  "autores": [
+   "Strandwitz P"
+  ],
+  "revista_ano": "Brain research (2018)",
+  "desenho_estudo": "[OB] revisão Brain Res de neurotransmissores microbianos",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Modulação de neurotransmissores pela microbiota intestinal (GABA, glutamato, monoaminas).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_STRANDWITZ_2018"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_STRANDWITZ_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "STRANDWITZ",
+   "Strandwitz"
+  ]
+ },
+ {
+  "pmid_oficial": "29995348",
+  "titulo_artigo": "Efficacy of probiotics on anxiety-A meta-analysis of randomized controlled trials",
+  "autores": [
+   "Liu B",
+   "He Y",
+   "Wang M",
+   "Liu J",
+   "Ju Y",
+   "Zhang Y"
+  ],
+  "revista_ano": "Depression and anxiety (2018)",
+  "desenho_estudo": "[MA] meta-análise — ansiedade (Depress Anxiety)",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Probióticos reduzem sintomas de ansiedade em meta de RCTs.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LIU_2018"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise de RCTs",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LIU_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Liu",
+   "LIU"
+  ]
+ },
+ {
+  "pmid_oficial": "30531975",
+  "titulo_artigo": "GABA-modulating bacteria of the human gut microbiota",
+  "autores": [
+   "Strandwitz P",
+   "Kim KH",
+   "Terekhova D",
+   "Liu JK",
+   "Sharma A",
+   "Levering J"
+  ],
+  "revista_ano": "Nature microbiology (2019)",
+  "desenho_estudo": "[EC/ecologia] isolamento de bactérias de microbiota humana — Nat Microbiol",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Bactérias da microbiota humana produzem e consomem GABA; ecologia do potencial neuroativo.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_STRANDWITZ_2019"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "ecologia bacteriana de origem humana; NÃO é reposição central",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_STRANDWITZ_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "STRANDWITZ",
+   "Strandwitz"
+  ]
+ },
+ {
+  "pmid_oficial": "30718848",
+  "titulo_artigo": "The neuroactive potential of the human gut microbiota in quality of life and depression",
+  "autores": [
+   "Valles-Colomer M",
+   "Falony G",
+   "Darzi Y",
+   "Tigchelaar EF",
+   "Wang J",
+   "Tito RY"
+  ],
+  "revista_ano": "Nature microbiology (2019)",
+  "desenho_estudo": "[EC] coorte humana + metagenômica funcional — Nat Microbiol",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "O potencial neuroativo da microbiota humana (produção/consumo de GABA, glutamato, dopamina) correlaciona-se com depressão e qualidade de vida.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_VALLESCOLOMER_2019"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "estudo populacional humano; função, não taxonomia",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_VALLESCOLOMER_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "VallesColomer",
+   "VALLESCOLOMER",
+   "Vallescolomer"
+  ]
+ },
+ {
+  "pmid_oficial": "30806744",
+  "titulo_artigo": "Psychotropics and the Microbiome: a Chamber of Secrets…",
+  "autores": [
+   "Cussotto S",
+   "Clarke G",
+   "Dinan TG",
+   "Cryan JF"
+  ],
+  "revista_ano": "Psychopharmacology (2019)",
+  "desenho_estudo": "[OB] revisão Psychopharmacology — psicotrópicos e microbioma",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Psicotrópicos e microbioma: relação mão-dupla e confundimento.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_CUSSOTTO_2019"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão do grupo Cryan/Dinan",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_CUSSOTTO_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Cussotto",
+   "CUSSOTTO"
+  ]
+ },
+ {
+  "pmid_oficial": "31124390",
+  "titulo_artigo": "Fecal microbiota transplantation from chronic unpredictable mild stress mice donors affects anxiety-like and depression-like behavior in recipient mice via the gut microbiota-inflammation-brain axis",
+  "autores": [
+   "Li N",
+   "Wang Q",
+   "Wang Y",
+   "Sun A",
+   "Lin Y",
+   "Jin Y"
+  ],
+  "revista_ano": "Stress (Amsterdam, Netherlands) (2019)",
+  "desenho_estudo": "[ML/FMT] FMT de doadores CUMS — Stress",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "FMT de camundongos sob estresse crônico imprevisível transfere ansiedade/depressão via inflamação.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_LIN_2019"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "dados animais",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LIN_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "LiN",
+   "LIN",
+   "Lin"
+  ]
+ },
+ {
+  "pmid_oficial": "31460832",
+  "titulo_artigo": "The Microbiota-Gut-Brain Axis",
+  "autores": [
+   "Cryan JF",
+   "O'Riordan KJ",
+   "Cowan CSM",
+   "Sandhu KV",
+   "Bastiaanssen TFS",
+   "Boehme M"
+  ],
+  "revista_ano": "Physiological reviews (2019)",
+  "desenho_estudo": "[OB] revisao-teto Physiology Reviews; arquitetura bidirecional do eixo",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Síntese-canônica do eixo microbiota-intestino-cérebro: cinco vias (vago, imune, endócrina, metabólica, neurotransmissora) e bidirecionalidade.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_CRYAN_2019"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão de mecanismo; cita evidência humana e pré-clínica",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_CRYAN_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "CRYAN",
+   "Cryan"
+  ]
+ },
+ {
+  "pmid_oficial": "31563280",
+  "titulo_artigo": "Effect of probiotics on depressive symptoms: A meta-analysis of human studies",
+  "autores": [
+   "Goh KK",
+   "Liu YW",
+   "Kuo PH",
+   "Chung YE",
+   "Lu ML",
+   "Chen CH"
+  ],
+  "revista_ano": "Psychiatry research (2019)",
+  "desenho_estudo": "[MA] meta-análise Psychiatry Res",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Probióticos e sintomas depressivos: efeito significativo, porém heterogêneo.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GOH_2019"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise de estudos humanos",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_GOH_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "GOH",
+   "Goh"
+  ]
+ },
+ {
+  "pmid_oficial": "31646148",
+  "titulo_artigo": "Gut microbial metabolites in depression: understanding the biochemical mechanisms",
+  "autores": [
+   "Caspani G",
+   "Kennedy S",
+   "Foster JA",
+   "Swann J"
+  ],
+  "revista_ano": "Microbial cell (Graz, Austria) (2019)",
+  "desenho_estudo": "[OB] revisão Microb Cell de metabólitos microbianos",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Metabólitos microbianos na depressão: AGCC, triptofano/quinurenina/indóis, sais biliares; mecanismos bioquímicos.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_CASPANI_2019"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão de bioquímica",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_CASPANI_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Caspani",
+   "CASPANI"
+  ]
+ },
+ {
+  "pmid_oficial": "31805290",
+  "titulo_artigo": "You've got male: Sex and the microbiota-gut-brain axis across the lifespan",
+  "autores": [
+   "Jaggar M",
+   "Rea K",
+   "Spichak S",
+   "Dinan TG",
+   "Cryan JF"
+  ],
+  "revista_ano": "Frontiers in neuroendocrinology (2020)",
+  "desenho_estudo": "[OB] revisão Front Neuroendocrinol — sexo e o eixo",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Sexo modula o eixo microbiota-intestino-cérebro ao longo da vida.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_JAGGAR_2020"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão sobre dimorfismo",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_JAGGAR_2020",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Jaggar",
+   "JAGGAR"
+  ]
+ },
+ {
+  "pmid_oficial": "32406013",
+  "titulo_artigo": "Probiotics and the Microbiota-Gut-Brain Axis: Focus on Psychiatry",
+  "autores": [
+   "Mörkl S",
+   "Butler MI",
+   "Holl A",
+   "Cryan JF",
+   "Dinan TG"
+  ],
+  "revista_ano": "Current nutrition reports (2020)",
+  "desenho_estudo": "[OB] revisão Curr Nutr Rep — foco em psiquiatria",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Probióticos e o eixo microbiota-intestino-cérebro com foco em psiquiatria.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_MORKL_2020"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MORKL_2020",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "MORKL",
+   "Morkl"
+  ]
+ },
+ {
+  "pmid_oficial": "32539741",
+  "titulo_artigo": "Effect of fecal microbiota transplant on symptoms of psychiatric disorders: a systematic review",
+  "autores": [
+   "Chinna Meyyappan A",
+   "Forth E",
+   "Wallace CJK",
+   "Milev R"
+  ],
+  "revista_ano": "BMC psychiatry (2020)",
+  "desenho_estudo": "[MA] RS BMC Psychiatry — FMT em sintomas psiquiátricos",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "FMT em sintomas psiquiátricos: evidência preliminar, sobretudo em condições GI; psicopatologia como desfecho secundário.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CHINNA_2020"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão sistemática; maioria estudos pequenos",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_CHINNA_2020",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Chinna",
+   "CHINNA"
+  ]
+ },
+ {
+  "pmid_oficial": "33191776",
+  "titulo_artigo": "From probiotics to psychobiotics - the gut-brain axis in psychiatric disorders",
+  "autores": [
+   "Zagórska A",
+   "Marcinkowska M",
+   "Jamrozik M",
+   "Wiśniowska B",
+   "Paśko P"
+  ],
+  "revista_ano": "Beneficial microbes (2020)",
+  "desenho_estudo": "[OB] revisão Benef Microbes — de probióticos a psicobióticos",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Conceito de psicobiótico e eixo intestino-cérebro em transtornos psiquiátricos.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_ZAGORSKA_2020"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão narrativa",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_ZAGORSKA_2020",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "ZAGORSKA",
+   "Zagorska"
+  ]
+ },
+ {
+  "pmid_oficial": "33271426",
+  "titulo_artigo": "The gut microbiota in anxiety and depression - A systematic review",
+  "autores": [
+   "Simpson CA",
+   "Diaz-Arteche C",
+   "Eliby D",
+   "Schwartz OS",
+   "Simmons JG",
+   "Cowan CSM"
+  ],
+  "revista_ano": "Clinical psychology review (2021)",
+  "desenho_estudo": "[MA] RS de 26 estudos — Clin Psychol Rev",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Microbiota em ansiedade e depressão: achados de diversidade inconsistentes; táxons pró-inflamatórios elevados e produtores de AGCC reduzidos.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SIMPSON_2021"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão sistemática; diversidade inconsistente",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SIMPSON_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Simpson",
+   "SIMPSON"
+  ]
+ },
+ {
+  "pmid_oficial": "33493503",
+  "titulo_artigo": "The Microbiota-Gut-Brain Axis: From Motility to Mood",
+  "autores": [
+   "Margolis KG",
+   "Cryan JF",
+   "Mayer EA"
+  ],
+  "revista_ano": "Gastroenterology (2021)",
+  "desenho_estudo": "[OB] revisão Gastroenterology \"da motilidade ao humor\"",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Eixo microbiota-intestino-cérebro do ponto de vista GI: SNE, motilidade, secreção e humor.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_MARGOLIS_2021"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão de gastroenterologia",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MARGOLIS_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "MARGOLIS",
+   "Margolis"
+  ]
+ },
+ {
+  "pmid_oficial": "34032649",
+  "titulo_artigo": "Psychotropic Drugs and the Microbiome",
+  "autores": [
+   "Cussotto S",
+   "Clarke G",
+   "Dinan TG",
+   "Cryan JF"
+  ],
+  "revista_ano": "Modern trends in psychiatry (2021)",
+  "desenho_estudo": "[OB] revisão Mod Trends Psychiatry — psicofármacos e microbioma",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Drogas psicotrópicas alteram a microbiota; a \"disbiose do doente\" pode ser efeito de droga.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_CUSSOTTO_2021"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão sobre o confundidor medicação",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_CUSSOTTO_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Cussotto",
+   "CUSSOTTO"
+  ]
+ },
+ {
+  "pmid_oficial": "34032650",
+  "titulo_artigo": "Psychobiotics: Evolution of Novel Antidepressants",
+  "autores": [
+   "Dinan TG",
+   "Butler MI",
+   "Cryan JF"
+  ],
+  "revista_ano": "Modern trends in psychiatry (2021)",
+  "desenho_estudo": "[OB] revisão Mod Trends Psychiatry — evolução dos psicobióticos",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Evolução dos psicobióticos como novos antidepressivos; estado da evidência.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_DINAN_2021"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão dos mesmos autores",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_DINAN_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "DINAN",
+   "Dinan"
+  ]
+ },
+ {
+  "pmid_oficial": "34131108",
+  "titulo_artigo": "Psychobiotic interventions for anxiety in young people: a systematic review and meta-analysis, with youth consultation",
+  "autores": [
+   "Cohen Kadosh K",
+   "Basso M",
+   "Knytl P",
+   "Johnstone N",
+   "Lau JYF",
+   "Gibson GR"
+  ],
+  "revista_ano": "Translational psychiatry (2021)",
+  "desenho_estudo": "[MA] meta-análise Transl Psychiatry — JOVENS, EFEITO NULO",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Psicobióticos para ansiedade em jovens: ausência de efeito (SMD −0,03); evidência limitada.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_COHENKADOSH_2021"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise em jovens 10-24 anos; SMD −0,03 (IC −0,21 a 0,14)",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_COHENKADOSH_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "CohenKadosh",
+   "COHENKADOSH",
+   "Cohenkadosh"
+  ]
+ },
+ {
+  "pmid_oficial": "34441793",
+  "titulo_artigo": "The Effect of Probiotics on Quality of Life, Depression and Anxiety in Patients with Irritable Bowel Syndrome: A Systematic Review and Meta-Analysis",
+  "autores": [
+   "Le Morvan de Sequeira C",
+   "Kaeber M",
+   "Cekin SE",
+   "Enck P",
+   "Mack I"
+  ],
+  "revista_ano": "Journal of clinical medicine (2021)",
+  "desenho_estudo": "[MA] meta-análise J Clin Med — IBS",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Probióticos melhoram qualidade de vida, depressão e ansiedade em pacientes com IBS (sinal relativamente melhor que na TDM grave).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LEMORVAN_2021"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise em IBS",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LEMORVAN_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "LeMorvan",
+   "LEMORVAN",
+   "Lemorvan"
+  ]
+ },
+ {
+  "pmid_oficial": "34450312",
+  "titulo_artigo": "The role of microbiota-gut-brain axis in neuropsychiatric and neurological disorders",
+  "autores": [
+   "Socała K",
+   "Doboszewska U",
+   "Szopa A",
+   "Serefko A",
+   "Włodarczyk M",
+   "Zielińska A"
+  ],
+  "revista_ano": "Pharmacological research (2021)",
+  "desenho_estudo": "[OB] revisão Pharmacol Res neuropsiquiátrico",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Papel do eixo em desordens neuropsiquiátricas e neurológicas; potenciais alvos.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_SOCALA_2021"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão farmacológica",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SOCALA_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Socala",
+   "SOCALA"
+  ]
+ },
+ {
+  "pmid_oficial": "34524405",
+  "titulo_artigo": "Perturbations in Gut Microbiota Composition in Psychiatric Disorders: A Review and Meta-analysis",
+  "autores": [
+   "Nikolova VL",
+   "Smith MRB",
+   "Hall LJ",
+   "Cleare AJ",
+   "Stone JM",
+   "Young AH"
+  ],
+  "revista_ano": "JAMA psychiatry (2021)",
+  "desenho_estudo": "[MA] meta-análise guarda-chuva JAMA Psychiatry — 59 estudos",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Perturbações de microbiota são transdiagnósticas (Faecalibacterium/Coprococcus diminuídos; Eggerthella elevado); sem assinatura diagnóstica específica; confundem região e medicação.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_NIKOLOVA_2021"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise de estudos caso-controle; avalia especificidade diagnóstica",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_NIKOLOVA_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Nikolova",
+   "NIKOLOVA"
+  ]
+ },
+ {
+  "pmid_oficial": "34620373",
+  "titulo_artigo": "Probiotics for the treatment of depression and anxiety: A systematic review and meta-analysis of randomized controlled trials",
+  "autores": [
+   "El Dib R",
+   "Periyasamy AG",
+   "de Barros JL",
+   "França CG",
+   "Senefonte FL",
+   "Vesentini G"
+  ],
+  "revista_ano": "Clinical nutrition ESPEN (2021)",
+  "desenho_estudo": "[MA] meta-análise 16 RCTs Clin Nutr ESPEN",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Probióticos melhoram BDI (certeza moderada) e STAI (baixa); vários outros desfechos nulos; efeito pequeno.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ELDIB_2021"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise com GRADE; CORREÇÃO de periódico: Clin Nutr ESPEN",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_ELDIB_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "ElDib",
+   "ELDIB",
+   "Eldib"
+  ]
+ },
+ {
+  "pmid_oficial": "34702353",
+  "titulo_artigo": "Intestinal microbiota shapes gut physiology and regulates enteric neurons and glia",
+  "autores": [
+   "Vicentini FA",
+   "Keenan CM",
+   "Wallace LE",
+   "Woods C",
+   "Cavin JB",
+   "Flockton AR"
+  ],
+  "revista_ano": "Microbiome (2021)",
+  "desenho_estudo": "[ML] estudo em roedor Microbiome — neurônios/glia entéricos",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Microbiota intestinal modela a fisiologia do intestino e regula neurônios e glia entéricos.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_VICENTINI_2021"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "dados animais de fisiologia entérica",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_VICENTINI_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Vicentini",
+   "VICENTINI"
+  ]
+ },
+ {
+  "pmid_oficial": "34736493",
+  "titulo_artigo": "Rifaximin-mediated gut microbiota regulation modulates the function of microglia and protects against CUMS-induced depression-like behaviors in adolescent rat",
+  "autores": [
+   "Li H",
+   "Xiang Y",
+   "Zhu Z",
+   "Wang W",
+   "Jiang Z",
+   "Zhao M"
+  ],
+  "revista_ano": "Journal of neuroinflammation (2021)",
+  "desenho_estudo": "[ML] experimento CUMS em camundongo adolescente — J Neuroinflammation",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Rifaximina modula microbiota e microglia e reverte fenótipo tipo-depressivo induzido por CUMS.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_LI_2021"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "modelo animal de estresse crônico",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LI_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "LI",
+   "Li"
+  ]
+ },
+ {
+  "pmid_oficial": "34758380",
+  "titulo_artigo": "The immune-kynurenine pathway in social anxiety disorder",
+  "autores": [
+   "Butler MI",
+   "Long-Smith C",
+   "Moloney GM",
+   "Morkl S",
+   "O'Mahony SM",
+   "Cryan JF"
+  ],
+  "revista_ano": "Brain, behavior, and immunity (2022)",
+  "desenho_estudo": "[EC] estudo humano transversal Brain Behav Immun — fobia social",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Via imune-quinurenina no transtorno de ansiedade social: associação entre marcadores e sintomas.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BUTLER_2022"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "estudo de caso-controle em humanos",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_BUTLER_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Butler",
+   "BUTLER"
+  ]
+ },
+ {
+  "pmid_oficial": "35276981",
+  "titulo_artigo": "Effect of Probiotics on Psychiatric Symptoms and Central Nervous System Functions in Human Health and Disease: A Systematic Review and Meta-Analysis",
+  "autores": [
+   "Le Morvan de Sequeira C",
+   "Hengstberger C",
+   "Enck P",
+   "Mack I"
+  ],
+  "revista_ano": "Nutrients (2022)",
+  "desenho_estudo": "[MA] RS Nutrients — sintomas psiquiátricos/CNS",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Efeito de probióticos em sintomas psiquiátricos e funções do SNC em humanos.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LEMORVAN_2022"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão sistemática",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LEMORVAN_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "LeMorvan",
+   "LEMORVAN",
+   "Lemorvan"
+  ]
+ },
+ {
+  "pmid_oficial": "35396067",
+  "titulo_artigo": "A Comprehensive Review of Vagus Nerve Stimulation for Depression",
+  "autores": [
+   "Austelle CW",
+   "O'Leary GH",
+   "Thompson S",
+   "Gruber E",
+   "Kahn A",
+   "Manett AJ"
+  ],
+  "revista_ano": "Neuromodulation : journal of the International Neuromodulation Society (2022)",
+  "desenho_estudo": "[OB] revisão Neuromodulation sobre VNS na depressão",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "VNS como terapia estabelecida para depressão refratária/epilepsia; interface com o eixo.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_AUSTELLE_2022"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão de dispositivo em humano",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_AUSTELLE_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "AUSTELLE",
+   "Austelle"
+  ]
+ },
+ {
+  "pmid_oficial": "35634468",
+  "titulo_artigo": "The Microbiome and Gut Endocannabinoid System in the Regulation of Stress Responses and Metabolism",
+  "autores": [
+   "Srivastava RK",
+   "Lutz B",
+   "Ruiz de Azua I"
+  ],
+  "revista_ano": "Frontiers in cellular neuroscience (2022)",
+  "desenho_estudo": "[OB] revisão Front Cell Neurosci — endocanabinoides e estresse",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Microbioma e sistema endocanabinoide entérico na regulação de respostas ao estresse e metabolismo.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_SRIVASTAVA_2022"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "interface com B13; maioria dados animais",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SRIVASTAVA_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Srivastava",
+   "SRIVASTAVA"
+  ]
+ },
+ {
+  "pmid_oficial": "35742022",
+  "titulo_artigo": "Efficacy of Direct or Indirect Use of Probiotics for the Improvement of Maternal Depression during Pregnancy and in the Postnatal Period: A Systematic Review and Meta-Analysis",
+  "autores": [
+   "Trifkovič KČ",
+   "Mičetić-Turk D",
+   "Kmetec S",
+   "Strauss M",
+   "Dahlen HG",
+   "Foster JP"
+  ],
+  "revista_ano": "Healthcare (Basel, Switzerland) (2022)",
+  "desenho_estudo": "[MA] meta-análise Healthcare — depressão materna",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Uso direto/indireto de probióticos para depressão materna; efeito pequeno.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_TRIFKOVIC_2022"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise de população específica",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_TRIFKOVIC_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Trifkovic",
+   "TRIFKOVIC"
+  ]
+ },
+ {
+  "pmid_oficial": "36232548",
+  "titulo_artigo": "The Microbiota-Gut-Brain Axis in Psychiatric Disorders",
+  "autores": [
+   "Góralczyk-Bińkowska A",
+   "Szmajda-Krygier D",
+   "Kozłowska E"
+  ],
+  "revista_ano": "International journal of molecular sciences (2022)",
+  "desenho_estudo": "[OB] revisão do enquadramento psiquiátrico IJMS",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Panorama microbiota-intestino-cérebro em transtornos psiquiátricos (TDM, bipolar, esquizofrenia, ansiedade).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_GORALCZYK_2022"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão narrativa em periódico psiquiátrico/biomédico",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_GORALCZYK_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Goralczyk",
+   "GORALCZYK"
+  ]
+ },
+ {
+  "pmid_oficial": "36521049",
+  "titulo_artigo": "The enteric nervous system",
+  "autores": [
+   "Sharkey KA",
+   "Mawe GM"
+  ],
+  "revista_ano": "Physiological reviews (2023)",
+  "desenho_estudo": "[OB] revisão Physiol Rev sobre o SNE",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Sistema nervoso entérico: anatomia, fisiologia, diálogo com microbiota e vago.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_SHARKEY_2023"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão fisiológica abrangente",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SHARKEY_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Sharkey",
+   "SHARKEY"
+  ]
+ },
+ {
+  "pmid_oficial": "36535610",
+  "titulo_artigo": "Critical windows of early-life microbiota disruption on behaviour, neuroimmune function, and neurodevelopment",
+  "autores": [
+   "Lynch CMK",
+   "Cowan CSM",
+   "Bastiaanssen TFS",
+   "Moloney GM",
+   "Theune N",
+   "van de Wouw M"
+  ],
+  "revista_ano": "Brain, behavior, and immunity (2023)",
+  "desenho_estudo": "[ML] revisão/experimentos de janelas críticas — Brain Behav Immun",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Janelas críticas de perturbação microbiana no início da vida para comportamento, neuroimunidade e neurodesenvolvimento.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LYNCH_2023"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "síntese de dados animais sobre janelas críticas",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LYNCH_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "LYNCH",
+   "Lynch"
+  ]
+ },
+ {
+  "pmid_oficial": "36834489",
+  "titulo_artigo": "Probiotics as a Tool for Regulating Molecular Mechanisms in Depression: A Systematic Review and Meta-Analysis of Randomized Clinical Trials",
+  "autores": [
+   "Sikorska M",
+   "Antosik-Wójcińska AZ",
+   "Dominiak M"
+  ],
+  "revista_ano": "International journal of molecular sciences (2023)",
+  "desenho_estudo": "[MA] RS/meta IJMS — mecanismos moleculares e BDNF",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Probióticos elevam BDNF periférico (SMD 0,37) e reduzem CRP em comorbidade somática; SEM mudança consistente de IL-6, TNF-α, IL-1β, cortisol.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SIKORSKA_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise de 20 registros; BDNF periférico",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SIKORSKA_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "SIKORSKA",
+   "Sikorska"
+  ]
+ },
+ {
+  "pmid_oficial": "36841506",
+  "titulo_artigo": "Prebiotic Consumption Alters Microbiota but Not Biological Markers of Stress and Inflammation or Mental Health Symptoms in Healthy Adults: A Randomized, Controlled, Crossover Trial",
+  "autores": [
+   "Mysonhimer AR",
+   "Cannavale CN",
+   "Bailey MA",
+   "Khan NA",
+   "Holscher HD"
+  ],
+  "revista_ano": "The Journal of nutrition (2023)",
+  "desenho_estudo": "[EC] RCT J Nutr — prebiótico, EFEITO NULO em estresse",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Prebiótico altera a microbiota, mas NÃO marcadores biológicos de estresse/inflamação nem saúde mental em adultos estressados.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MYSONHIMER_2023"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT humano; resultado negativo (contra-ponto importante)",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MYSONHIMER_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Mysonhimer",
+   "MYSONHIMER"
+  ]
+ },
+ {
+  "pmid_oficial": "37174640",
+  "titulo_artigo": "Exploration of the Gut Microbiome in Thai Patients with Major Depressive Disorder Shows a Specific Bacterial Profile with Depletion of the Ruminococcus Genus as a Putative Biomarker",
+  "autores": [
+   "Maes M",
+   "Vasupanrajit A",
+   "Jirakran K",
+   "Klomkliew P",
+   "Chanchaem P",
+   "Tunvirachaisakul C"
+  ],
+  "revista_ano": "Cells (2023)",
+  "desenho_estudo": "[EC] estudo caso-controle humano (Tailândia) — Cells",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Depleção de Ruminococcus e outras alterações de microbioma em pacientes tailandeses com TDM.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MAES_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "estudo observacional; um grupo/região",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MAES_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "MAES",
+   "Maes"
+  ]
+ },
+ {
+  "pmid_oficial": "37505311",
+  "titulo_artigo": "Gut microbiota, intestinal permeability, and systemic inflammation: a narrative review",
+  "autores": [
+   "Di Vincenzo F",
+   "Del Gaudio A",
+   "Petito V",
+   "Lopetuso LR",
+   "Scaldaferri F"
+  ],
+  "revista_ano": "Internal and emergency medicine (2024)",
+  "desenho_estudo": "[OB] revisão narrativa Intern Emerg Med",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Microbiota, permeabilidade intestinal e inflamação sistêmica: estado da arte.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_DIVINCENZO_2024"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão integrativa",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_DIVINCENZO_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Divincenzo",
+   "DIVINCENZO",
+   "DiVincenzo"
+  ]
+ },
+ {
+  "pmid_oficial": "37980332",
+  "titulo_artigo": "Association between microbiome and the development of adverse posttraumatic neuropsychiatric sequelae after traumatic stress exposure",
+  "autores": [
+   "Zeamer AL",
+   "Salive MC",
+   "An X",
+   "Beaudoin FL",
+   "House SL",
+   "Stevens JS"
+  ],
+  "revista_ano": "Translational psychiatry (2023)",
+  "desenho_estudo": "[EC] coorte longitudinal pós-trauma — Transl Psychiatry",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Associação entre microbioma e desenvolvimento de sequelas neuropsiquiátricas pós-traumáticas.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ZEAMER_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "estudo longitudinal humano",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_ZEAMER_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "ZEAMER",
+   "Zeamer"
+  ]
+ },
+ {
+  "pmid_oficial": "38065935",
+  "titulo_artigo": "Gut microbiota composition in depressive disorder: a systematic review, meta-analysis, and meta-regression",
+  "autores": [
+   "Gao M",
+   "Wang J",
+   "Liu P",
+   "Tu H",
+   "Zhang R",
+   "Zhang Y"
+  ],
+  "revista_ano": "Translational psychiatry (2023)",
+  "desenho_estudo": "[MA] meta-análise + metarregressão — Transl Psychiatry",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Composição da microbiota no transtorno depressivo; metarregressão mostra heterogeneidade por medicamento/região.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GAO_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise de composição",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_GAO_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Gao",
+   "GAO"
+  ]
+ },
+ {
+  "pmid_oficial": "38219239",
+  "titulo_artigo": "Probiotics for adults with major depressive disorder compared with antidepressants: a systematic review and network meta-analysis",
+  "autores": [
+   "Zhao S",
+   "Liang S",
+   "Tao J",
+   "Peng Y",
+   "Chen S",
+   "Wai HKF"
+  ],
+  "revista_ano": "Nutrition reviews (2025)",
+  "desenho_estudo": "[MA] revisão/rede 2025 Nutr Rev — probiótico vs antidepressivo",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Probióticos para adultos com TDM comparados a antidepressivos; efeito adjunto, não substitutivo.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ZHAO_2025"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão sistemática comparativa",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_ZHAO_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "ZHAO",
+   "Zhao"
+  ]
+ },
+ {
+  "pmid_oficial": "39360283",
+  "titulo_artigo": "From gut to brain: unveiling probiotic effects through a neuroimaging perspective-A systematic review of randomized controlled trials",
+  "autores": [
+   "Crocetta A",
+   "Liloia D",
+   "Costa T",
+   "Duca S",
+   "Cauda F",
+   "Manuello J"
+  ],
+  "revista_ano": "Frontiers in nutrition (2024)",
+  "desenho_estudo": "[MA/neuroimagem] RS de fMRI em RCTs de probiótico — Front Nutr",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Probióticos modificam sinal regional (amígdala, rede de saliência, DMN, OFC, hipocampo) de forma heterogênea.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CROCETTA_2024"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão sistemática de estudos experimentais com neuroimagem",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_CROCETTA_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "CROCETTA",
+   "Crocetta"
+  ]
+ },
+ {
+  "pmid_oficial": "39617896",
+  "titulo_artigo": "Effect of fecal microbiota transplantation on patients with sporadic amyotrophic lateral sclerosis: a randomized, double-blind, placebo-controlled trial",
+  "autores": [
+   "Feng R",
+   "Zhu Q",
+   "Wang A",
+   "Wang H",
+   "Wang J",
+   "Chen P"
+  ],
+  "revista_ano": "BMC medicine (2024)",
+  "desenho_estudo": "[ML/EC emergente] FMT em ELA — BMC Med",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "FMT em esclerose lateral amiotrófica esporádica: segurança e sinais preliminares.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_FENG_2024"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_clinico",
+  "g2_motivo": "ensaio clínico pequeno em ELA; fora do miolo",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_FENG_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Feng",
+   "FENG"
+  ]
+ },
+ {
+  "pmid_oficial": "39719433",
+  "titulo_artigo": "Gut microbiota dysbiosis promotes cognitive impairment via bile acid metabolism in major depressive disorder",
+  "autores": [
+   "Jia M",
+   "Fan Y",
+   "Ma Q",
+   "Yang D",
+   "Wang Y",
+   "He X"
+  ],
+  "revista_ano": "Translational psychiatry (2024)",
+  "desenho_estudo": "[EC] metabolômica+metagenômica humana TDM — Transl Psychiatry (epub 2024)",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Disbiose promove disfunção cognitiva na TDM via metabolismo de sais biliares.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_JIA_2024"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "estudo humano observacional; CORREÇÃO: ano 2024 (não 2025)",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_JIA_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Jia",
+   "JIA"
+  ]
+ },
+ {
+  "pmid_oficial": "39731509",
+  "titulo_artigo": "Effects of Prebiotics and Probiotics on Symptoms of Depression and Anxiety in Clinically Diagnosed Samples: Systematic Review and Meta-analysis of Randomized Controlled Trials",
+  "autores": [
+   "Asad A",
+   "Kirk M",
+   "Zhu S",
+   "Dong X",
+   "Gao M"
+  ],
+  "revista_ano": "Nutrition reviews (2025)",
+  "desenho_estudo": "[MA] meta-análise 2025 Nutr Rev — amostras DIAGNOSTICADAS",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Prebióticos e probióticos em sintomas de depressão/ansiedade em populações clinicamente diagnosticadas.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ASAD_2025"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise restrita a populações clínicas",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_ASAD_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Asad",
+   "ASAD"
+  ]
+ },
+ {
+  "pmid_oficial": "39940928",
+  "titulo_artigo": "Interaction of the Vagus Nerve and Serotonin in the Gut-Brain Axis",
+  "autores": [
+   "Hwang YK",
+   "Oh JS"
+  ],
+  "revista_ano": "International journal of molecular sciences (2025)",
+  "desenho_estudo": "[OB] revisão 2025 IJMS acoplamento vago x 5-HT",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Interação entre nervo vago e serotonina entérica; aferentes vagais e NTS/DRN; interface com VNS.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_HWANG_2025"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão; publicação 2025",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_HWANG_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Hwang",
+   "HWANG"
+  ]
+ },
+ {
+  "pmid_oficial": "40312666",
+  "titulo_artigo": "Gut microbiota variations in depression and anxiety: a systematic review",
+  "autores": [
+   "Cao Y",
+   "Cheng Y",
+   "Pan W",
+   "Diao J",
+   "Sun L",
+   "Meng M"
+  ],
+  "revista_ano": "BMC psychiatry (2025)",
+  "desenho_estudo": "[MA] RS 2025 BMC Psychiatry",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Variações de microbiota em depressão e ansiedade; confirma heterogeneidade.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CAO_2025"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise 2025",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_CAO_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "CAO",
+   "Cao"
+  ]
+ },
+ {
+  "pmid_oficial": "40440772",
+  "titulo_artigo": "The impact of probiotics, prebiotics, and synbiotics on depression and anxiety symptoms of patients with depression: A systematic review and meta-analysis",
+  "autores": [
+   "Moshfeghinia R",
+   "Nemati H",
+   "Ebrahimi A",
+   "Shekouh D",
+   "Karami S",
+   "Eraghi MM"
+  ],
+  "revista_ano": "Journal of psychiatric research (2025)",
+  "desenho_estudo": "[MA] meta-análise 2025 J Psychiatr Res — I²≈96%",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Probióticos/prebióticos/simbióticos reduzem escores de depressão (SMD −1,76) e ansiedade (SMD −1,60) com heterogeneidade altíssima (I²≈96%).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MOSHFEGHINIA_2025"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise; HETEROGENEIDADE MUITO ALTA (I² 96,3%/96,9%)",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MOSHFEGHINIA_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "MOSHFEGHINIA",
+   "Moshfeghinia"
+  ]
+ },
+ {
+  "pmid_oficial": "40717539",
+  "titulo_artigo": "The Gut Microbiota Is Altered in Antidepressant-Free Depressed Patients and Is Associated With Depression Severity",
+  "autores": [
+   "Cussotto S",
+   "Colle R",
+   "Voican CS",
+   "Ciocan DM",
+   "Trainel N",
+   "Bottemanne H"
+  ],
+  "revista_ano": "Journal of neurochemistry (2025)",
+  "desenho_estudo": "[EC] estudo 2025 J Neurochem — pacientes SEM antidepressivo",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Microbiota alterada em pacientes deprimidos SEM antidepressivo e associada à gravidade — separa doença de efeito de droga.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CUSSOTTO_2025"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "estudo humano controlado para medicação",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_CUSSOTTO_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Cussotto",
+   "CUSSOTTO"
+  ]
+ },
+ {
+  "pmid_oficial": "41155365",
+  "titulo_artigo": "Intestinal Permeability and Depression-A Narrative Review of Selected Blood-Based Biomarkers",
+  "autores": [
+   "Bibolar AC",
+   "Crecan-Suciu BD",
+   "Păunescu RL",
+   "Nechita VI",
+   "Verisezan-Roșu O",
+   "Micluția IV"
+  ],
+  "revista_ano": "International journal of molecular sciences (2025)",
+  "desenho_estudo": "[OB] revisão narrativa 2025 IJMS sobre biomarcadores de permeabilidade",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Biomarcadores sanguíneos de permeabilidade intestinal (zonulina, FABP2, LBP) não estão validados para clínica.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BIBOLAR_2025"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão crítica de validação de marcadores",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_BIBOLAR_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "BIBOLAR",
+   "Bibolar"
+  ]
+ },
+ {
+  "pmid_oficial": "41244880",
+  "titulo_artigo": "The gut-brain-circadian axis in anxiety and depression: a critical review",
+  "autores": [
+   "Bautista J",
+   "Hidalgo-Tinoco C",
+   "Di Capua Delgado M",
+   "Viteri-Recalde J",
+   "Guerra-Guerrero A",
+   "López-Cortés A"
+  ],
+  "revista_ano": "Frontiers in psychiatry (2025)",
+  "desenho_estudo": "[OB] revisão crítica 2025 Front Psychiatry — ritmo circadiano",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Eixo intestino-cérebro-circádio em ansiedade e depressão.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_BAUTISTA_2025"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão; interface com B10",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_BAUTISTA_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "BAUTISTA",
+   "Bautista"
+  ]
+ },
+ {
+  "pmid_oficial": "41605120",
+  "titulo_artigo": "Effectiveness of probiotic supplementation in managing depressive symptoms and inflammatory status in patients with depression: A systematic review and meta-analysis",
+  "autores": [
+   "Shakir Shakir HN",
+   "Alias-Castillo AJ",
+   "Bertini-Pérez D",
+   "Rueda-Ruzafa L",
+   "Roman P",
+   "Cardona D"
+  ],
+  "revista_ano": "Clinical nutrition (Edinburgh, Scotland) (2026)",
+  "desenho_estudo": "[MA] meta-análise 2026 Clin Nutr — citocinas",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Probióticos associam-se a melhora de sintomas depressivos SEM alteração significativa de IL-6 (p=0,45) nem TNF-α (p=0,21).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SHAKIR_2026"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise; 13 RS/7 meta",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SHAKIR_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "SHAKIR",
+   "Shakir"
+  ]
+ },
+ {
+  "pmid_oficial": "41865792",
+  "titulo_artigo": "Circulating Short-Chain Fatty Acid (SCFA) profiles as a biomarker of gut-brain axis dysfunction: A meta-analysis for the SCFA signature in major depression",
+  "autores": [
+   "Do QL",
+   "Malau IA",
+   "Nguyen HT",
+   "Liu J",
+   "Chang JP",
+   "Su KP"
+  ],
+  "revista_ano": "Biomedical journal (2026)",
+  "desenho_estudo": "[MA] meta-análise 2026 Biomed J — AGCC CIRCULANTES (8 estudos humanos + 52 murinos)",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Pacientes com TDM têm AGCC circulantes mais baixos (propionato SMD −0,60; butirato −0,50); heterogeneidade alta; em murino, suplementação melhora comportamento.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_DO_2026"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise de estudos transversais humanos + experimentais murinos; ASSOCIAÇÃO, não intervenção",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_DO_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "DO",
+   "Do"
+  ]
+ },
+ {
+  "pmid_oficial": "41921871",
+  "titulo_artigo": "Efficacy and safety of fecal microbiota transplantation on depressive and anxiety symptoms: A systematic review and meta-analysis",
+  "autores": [
+   "Li B",
+   "Fu J",
+   "Wang S",
+   "Bi X",
+   "Xu D",
+   "Wang L"
+  ],
+  "revista_ano": "Journal of affective disorders (2026)",
+  "desenho_estudo": "[MA] meta-análise 2026 J Affect Disord — 8 estudos/532 participantes",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "FMT melhora sintomas depressivos (g=−0,81) e de ansiedade (g=−1,05) com heterogeneidade substancial; sem eventos adversos graves.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LIB_2026"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise pequena e heterogênea; mistura RCTs e coortes",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LIB_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Lib",
+   "LIB",
+   "LiB"
+  ]
+ },
+ {
+  "pmid_oficial": "42309058",
+  "titulo_artigo": "Adjunctive fecal microbiota transplantation for major depressive disorder: A randomized, double-blind, placebo-controlled trial",
+  "autores": [
+   "Li J",
+   "Wang Y",
+   "Li R",
+   "Huang H",
+   "Zhu X",
+   "Li X"
+  ],
+  "revista_ano": "Cell host & microbe (2026)",
+  "desenho_estudo": "[EC/EMERGENTE] RCT duplo-cego placebo 2026 Cell Host Microbe — TDM",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "FMT adjuvante à escitalopram na TDM: remissão não difere, mas redução de HAMD-17 maior; engraftment duradouro, bile ácidos e mediação inflamatória.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LIJ_2026"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT; endpoint primário (remissão semana 8) NULO; escore HARD maior; ÚNICO, aguarda replicação",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LIJ_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "LIJ",
+   "Lij",
+   "LiJ"
+  ]
+ },
+ {
+  "pmid_oficial": "23201091",
+  "titulo_artigo": "Lipopolysaccharide causes an increase in intestinal tight junction permeability in vitro and in vivo by inducing enterocyte membrane expression and localization of TLR-4 and CD14.",
+  "autores": [
+   "Guo S",
+   "Al-Sadi R",
+   "Said HM",
+   "Ma TY"
+  ],
+  "revista_ano": "Am J Pathol (2013)",
+  "desenho_estudo": "[ML] LPS→TLR4/CD14 no enterócito→↑permeabilidade TJ — in vitro + in vivo (rato) · Am J Pathol",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "LPS induz expressão/localização de TLR4-CD14 na membrana do enterócito e aumenta a permeabilidade de tight junction intestinal, in vitro e in vivo.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_GUO_2013"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "evidência pré-clínica (rato/célula); uso mecanístico; tradução humana indireta [EXT]",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_GUO_2013",
+  "doi": "10.1016/j.ajpath.2012.10.014",
+  "claim_id_origem": "B7.MEC.BLOCO02.001",
+  "_aliases": [
+   "GUO",
+   "Guo"
+  ]
+ },
+ {
+  "pmid_oficial": "26466961",
+  "titulo_artigo": "Lipopolysaccharide Regulation of Intestinal Tight Junction Permeability Is Mediated by TLR4 Signal Transduction Pathway Activation of FAK and MyD88.",
+  "autores": [
+   "Guo S",
+   "Nighot M",
+   "Al-Sadi R",
+   "Alhmoud T",
+   "Nighot P",
+   "Ma TY"
+  ],
+  "revista_ano": "J Immunol (2015)",
+  "desenho_estudo": "[ML] LPS→TLR4→FAK/MyD88→TJ (am J Pathol… J Immunol)",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "A regulação da permeabilidade de tight junction intestinal por LPS é mediada pela via TLR4 com ativação de FAK e MyD88.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_GUO_2015"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "mesmo desenho da série Guo: primário mecanístico não-humano",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_GUO_2015",
+  "doi": "10.4049/jimmunol.1402598",
+  "claim_id_origem": "B7.MEC.BLOCO02.002",
+  "_aliases": [
+   "GUO",
+   "Guo"
+  ]
+ },
+ {
+  "pmid_oficial": "29157665",
+  "titulo_artigo": "Lipopolysaccharide-Induced Increase in Intestinal Epithelial Tight Permeability Is Mediated by Toll-Like Receptor 4/Myeloid Differentiation Primary Response 88 (MyD88) Activation of Myosin Light Chain Kinase Expression.",
+  "autores": [
+   "Nighot M",
+   "Al-Sadi R",
+   "Guo S",
+   "Rawat M",
+   "Nighot P",
+   "Watterson MD",
+   "Ma TY"
+  ],
+  "revista_ano": "Am J Pathol (2017)",
+  "desenho_estudo": "[ML] LPS→TLR4/MyD88→↑MLCK (enterócito, in vitro/in vivo) · Am J Pathol",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "O aumento de permeabilidade epitelial intestinal por LPS é mediado por TLR4/MyD88 com ativação da expressão da MLCK.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_NIGHOT_2017"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "primário mecanístico in vitro/in vivo; tradução indireta [EXT]",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_NIGHOT_2017",
+  "doi": "10.1016/j.ajpath.2017.08.005",
+  "claim_id_origem": "B7.MEC.BLOCO02.003",
+  "_aliases": [
+   "NIGHOT",
+   "Nighot"
+  ]
+ },
+ {
+  "pmid_oficial": "30711488",
+  "titulo_artigo": "Lipopolysaccharide-Induced Increase in Intestinal Permeability Is Mediated by TAK-1 Activation of IKK and MLCK/MYLK Gene.",
+  "autores": [
+   "Nighot M",
+   "Rawat M",
+   "Al-Sadi R",
+   "Castillo EF",
+   "Nighot P",
+   "Ma TY"
+  ],
+  "revista_ano": "Am J Pathol (2019)",
+  "desenho_estudo": "[ML] LPS→TAK-1→IKK→MLCK/MYLK · Am J Pathol",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "O efeito de LPS sobre a permeabilidade intestinal é mediado por TAK-1, com ativação de IKK e do gene MLCK/MYLK.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_NIGHOT_2019"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "primário mecanístico; tradução indireta [EXT]",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_NIGHOT_2019",
+  "doi": "10.1016/j.ajpath.2018.12.016",
+  "claim_id_origem": "B7.MEC.BLOCO02.004",
+  "_aliases": [
+   "NIGHOT",
+   "Nighot"
+  ]
+ },
+ {
+  "pmid_oficial": "31910709",
+  "titulo_artigo": "Metabolic endotoxemia promotes neuroinflammation after focal cerebral ischemia.",
+  "autores": [
+   "Kurita N",
+   "Yamashiro K",
+   "Kuroki T",
+   "Tanaka R",
+   "Urabe T",
+   "Ueno Y",
+   "Miyamoto N",
+   "Takanashi M",
+   "Shimura H",
+   "Inaba T",
+   "Yamashiro Y",
+   "Nomoto K",
+   "Matsumoto S",
+   "Takahashi T",
+   "Tsuji H",
+   "Asahara T",
+   "Hattori N"
+  ],
+  "revista_ano": "J Cereb Blood Flow Metab (2020)",
+  "desenho_estudo": "[ML] endotoxemia metabólica→neuroinflamação (camundongo; contexto isquemia experimental) · J Cereb Blood Flow Metab",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Endotoxemia metabólica crônica promove neuroinflamação em roedor (modelo em contexto isquêmico — a seta transportável é endotoxemia→SNC).",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_KURITA_2020"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "modelo isquêmico: a lição transportável é a endotoxemia; AVC não é escopo",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_KURITA_2020",
+  "doi": "10.1177/0271678X19899577",
+  "claim_id_origem": "B7.MEC.BLOCO02.005",
+  "_aliases": [
+   "KURITA",
+   "Kurita"
+  ]
+ },
+ {
+  "pmid_oficial": "30518529",
+  "titulo_artigo": "Increased levels of systemic LPS-positive bacterial extracellular vesicles in patients with intestinal barrier dysfunction.",
+  "autores": [
+   "Tulkens J",
+   "Vergauwen G",
+   "Van Deun J",
+   "Geeurickx E",
+   "Dhondt B",
+   "Lippens L",
+   "De Scheerder MA",
+   "Miinalainen I",
+   "Rappu P",
+   "De Geest BG",
+   "Vandecasteele K",
+   "Laukens D",
+   "Vandekerckhove L",
+   "Denys H",
+   "Vandesompele J",
+   "De Wever O",
+   "Hendrix A"
+  ],
+  "revista_ano": "Gut (2020)",
+  "desenho_estudo": "[EC] carta ao Gut: EVs bacterianas LPS+ sistêmicas ↑ em pacientes com disfunção de barreira · Gut",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Pacientes com disfunção de barreira intestinal apresentam níveis sistêmicos aumentados de vesículas extracelulares bacterianas LPS-positivas — janela humana de translocação; SEM ABSTRACT no PubMed (validação G3 por título/periódico/autores).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_TULKENS_2020"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_clinico",
+  "g2_motivo": "estudo humano observacional de barreira/translocação; sem desfecho psiquiátrico (B7-CAUSAL-03)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido — SEM ABSTRACT no PubMed; G3 por título/periódico/autores; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_TULKENS_2020",
+  "doi": "10.1136/gutjnl-2018-317726",
+  "claim_id_origem": "B7.MEC.BLOCO02.006",
+  "_aliases": [
+   "TULKENS",
+   "Tulkens"
+  ]
+ },
+ {
+  "pmid_oficial": "34478742",
+  "titulo_artigo": "The Tight Junction Protein ZO-1 Is Dispensable for Barrier Function but Critical for Effective Mucosal Repair.",
+  "autores": [
+   "Kuo WT",
+   "Zuo L",
+   "Odenwald MA",
+   "Madha S",
+   "Singh G",
+   "Gurniak CB",
+   "Abraham C",
+   "Turner JR"
+  ],
+  "revista_ano": "Gastroenterology (2021)",
+  "desenho_estudo": "[ML] ZO-1 cKO: dispensável p/ barreira, crítico p/ reparo (camundongo/organoides) · Gastroenterology",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "A proteína de junção ZO-1 é dispensável para a função de barreira intestinal, mas crítica para o reparo mucoso — freio de precisão contra leituras de ZO-1 como \"marcador de permeabilidade\".",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_KUO_2021"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "primário mecanístico; refina o uso de ZO-1 como marcador",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_KUO_2021",
+  "doi": "10.1053/j.gastro.2021.08.047",
+  "claim_id_origem": "B7.MEC.BLOCO02.007",
+  "_aliases": [
+   "KUO",
+   "Kuo"
+  ]
+ },
+ {
+  "pmid_oficial": "34731656",
+  "titulo_artigo": "Microbiota-derived acetate enables the metabolic fitness of the brain innate immune system during health and disease.",
+  "autores": [
+   "Erny D",
+   "Dokalis N",
+   "Mezö C",
+   "Castoldi A",
+   "Mossad O",
+   "Staszewski O",
+   "Frosch M",
+   "Villa M",
+   "Fuchs V",
+   "Mayer A",
+   "Neuber J",
+   "Sosat J",
+   "Tholen S",
+   "Schilling O",
+   "Vlachos A",
+   "Blank T",
+   "Gomez de Agüero M",
+   "Macpherson AJ",
+   "Pearce EJ",
+   "Prinz M"
+  ],
+  "revista_ano": "Cell Metab (2021)",
+  "desenho_estudo": "[ML] acetato microbiano→aptidão metabólica/maturação microglial (camundongo) · Cell Metab",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "O acetato derivado de microbiota sustenta a aptidão metabólica e a maturação da microglia — imunidade inata cerebral — em saúde e doença (roedor).",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_ERNY_2021"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "marco pré-clínico; formulação específica protegida (não \"AGCC anti-inflamatório\")",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_ERNY_2021",
+  "doi": "10.1016/j.cmet.2021.10.010",
+  "claim_id_origem": "B7.MEC.BLOCO02.008",
+  "_aliases": [
+   "ERNY",
+   "Erny"
+  ]
+ },
+ {
+  "pmid_oficial": "34589808",
+  "titulo_artigo": "Microbially-derived short-chain fatty acids impact astrocyte gene expression in a sex-specific manner.",
+  "autores": [
+   "Spichak S",
+   "Donoso F",
+   "Moloney GM",
+   "Gunnigle E",
+   "Brown JM",
+   "Codagnone M",
+   "Dinan TG",
+   "Cryan JF"
+  ],
+  "revista_ano": "Brain Behav Immun Health (2021)",
+  "desenho_estudo": "[ML] AGCC microbianos→expressão gênica astrocitária sexo-específica (roedor/célula) · Brain Behav Immun Health",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "AGCC derivados de microbiota modulam a expressão gênica de astrócitos de modo sexo-específico.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_SPICHAK_2021"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "primário mecanístico único; astrócitos",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_SPICHAK_2021",
+  "doi": "10.1016/j.bbih.2021.100318",
+  "claim_id_origem": "B7.MEC.BLOCO02.009",
+  "_aliases": [
+   "SPICHAK",
+   "Spichak"
+  ]
+ },
+ {
+  "pmid_oficial": "36797287",
+  "titulo_artigo": "Inhibition of inflammatory microglia by dietary fiber and short-chain fatty acids.",
+  "autores": [
+   "Caetano-Silva ME",
+   "Rund L",
+   "Hutchinson NT",
+   "Woods JA",
+   "Steelman AJ",
+   "Johnson RW"
+  ],
+  "revista_ano": "Sci Rep (2023)",
+  "desenho_estudo": "[ML] fibra/AGCC inibem microglia inflamatória (murino/in vitro) · Sci Rep",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Fibra alimentar e AGCC inibem a ativação inflamatória da microglia em modelo murino/in vitro.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_CAETANOSILVA_2023"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "primário mecanístico; microglia",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_CAETANOSILVA_2023",
+  "doi": "10.1038/s41598-022-27086-x",
+  "claim_id_origem": "B7.MEC.BLOCO02.010",
+  "_aliases": [
+   "CAETANO-SILVA",
+   "Caetano-Silva",
+   "CaetanoSilva",
+   "CAETANOSILVA",
+   "Caetanosilva",
+   "Caetano-Silva",
+   "CAETANO-SILVA"
+  ]
+ },
+ {
+  "pmid_oficial": "35229717",
+  "titulo_artigo": "Chemogenetics defines a short-chain fatty acid receptor gut-brain axis.",
+  "autores": [
+   "Barki N",
+   "Bolognini D",
+   "Börjesson U",
+   "Jenkins L",
+   "Riddell J",
+   "Hughes DI",
+   "Ulven T",
+   "Hudson BD",
+   "Ulven ER",
+   "Dekker N",
+   "Tobin AB",
+   "Milligan G"
+  ],
+  "revista_ano": "Elife (2022)",
+  "desenho_estudo": "[ML] quimiogenética define eixo receptor-AGCC intestino→cérebro (camundongo) · eLife",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "A quimiogenética define um eixo receptor-de-AGCC intestino→cérebro em camundongo.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_BARKI_2022"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "primário mecanístico (quimiogenética); tradução indireta [EXT]",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_BARKI_2022",
+  "doi": "10.7554/eLife.73777",
+  "claim_id_origem": "B7.MEC.BLOCO02.011",
+  "_aliases": [
+   "BARKI",
+   "Barki"
+  ]
+ },
+ {
+  "pmid_oficial": "38390241",
+  "titulo_artigo": "Gut microbiota-derived short-chain fatty acids and depression: deep insight into biological mechanisms and potential applications.",
+  "autores": [
+   "Cheng J",
+   "Hu H",
+   "Ju Y",
+   "Liu J",
+   "Wang M",
+   "Liu B",
+   "Zhang Y"
+  ],
+  "revista_ano": "Gen Psychiatr (2024)",
+  "desenho_estudo": "[OB] revisão: AGCC derivados de microbiota e depressão · Gen Psychiatr",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Revisão mecanística dos AGCC derivados de microbiota na depressão: mecanismos e aplicações potenciais.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_CHENG_2024"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão mecanística dedicada (AGCC×depressão)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_CHENG_2024",
+  "doi": "10.1136/gpsych-2023-101374",
+  "claim_id_origem": "B7.MEC.BLOCO02.012",
+  "_aliases": [
+   "CHENG",
+   "Cheng"
+  ]
+ },
+ {
+  "pmid_oficial": "38939042",
+  "titulo_artigo": "Brain Short-Chain Fatty Acids Induce ACSS2 to Ameliorate Depressive-Like Behavior via PPARγ-TPH2 Axis.",
+  "autores": [
+   "Chen N",
+   "Xu X",
+   "Guo Y",
+   "Zhao M",
+   "Li Y",
+   "Zhou T",
+   "Zhang X",
+   "Gao J",
+   "Zhu F",
+   "Guo C",
+   "Shi Y",
+   "Wang Q",
+   "Wu W",
+   "Zhang L",
+   "Li Y"
+  ],
+  "revista_ano": "Research (Wash D C) (2024)",
+  "desenho_estudo": "[ML] AGCC cerebral→ACSS2→PPARγ→TPH2→comportamento (camundongo; knockdown ACSS2 abole) · Research (Wash DC)",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "AGCC cerebrais induzem ACSS2 neuronal e melhoram o comportamento tipo-depressivo via eixo PPARγ-TPH2 (serotonina); knockdown neuronal de ACSS2 abole o efeito.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_CHEN_2024"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "cadeia circuital completa em ROEDOR — vedado transcrever à clínica",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_CHEN_2024",
+  "doi": "10.34133/research.0400",
+  "claim_id_origem": "B7.MEC.BLOCO02.013",
+  "_aliases": [
+   "CHEN",
+   "Chen"
+  ]
+ },
+ {
+  "pmid_oficial": "39998158",
+  "titulo_artigo": "Short-chain fatty acids mediate gut microbiota-brain communication and protect the blood-brain barrier integrity.",
+  "autores": [
+   "Chenghan M",
+   "Wanxin L",
+   "Bangcheng Z",
+   "Yao H",
+   "Qinxi L",
+   "Ting Z",
+   "Xiaojie L",
+   "Kun Z",
+   "Yingqian Z",
+   "Zhihui Z"
+  ],
+  "revista_ano": "Ann N Y Acad Sci (2025)",
+  "desenho_estudo": "[ML] antibióticos orais perturbam BBB; AGCC restauram — macaco rhesus + camundongo · Ann N Y Acad Sci",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Antibióticos orais perturbam a barreira hematoencefálica e AGCC restauram sua integridade, em macaco rhesus e camundongo.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_CHENGHAN_2025"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "primário translacional (rhesus) único; BBB×AGCC",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_CHENGHAN_2025",
+  "doi": "10.1111/nyas.15299",
+  "claim_id_origem": "B7.MEC.BLOCO02.014",
+  "_aliases": [
+   "CHENGHAN",
+   "Chenghan"
+  ]
+ },
+ {
+  "pmid_oficial": "23885020",
+  "titulo_artigo": "GPR41/FFAR3 and GPR43/FFAR2 as cosensors for short-chain fatty acids in enteroendocrine cells vs FFAR3 in enteric neurons and FFAR2 in enteric leukocytes.",
+  "autores": [
+   "Nøhr MK",
+   "Pedersen MH",
+   "Gille A",
+   "Egerod KL",
+   "Engelstoft MS",
+   "Husted AS",
+   "Sichlau RM",
+   "Grunddal KV",
+   "Poulsen SS",
+   "Han S",
+   "Jones RM",
+   "Offermanns S",
+   "Schwartz TW"
+  ],
+  "revista_ano": "Endocrinology (2013)",
+  "desenho_estudo": "[ML] mapa FFAR3/GPR41 e FFAR2/GPR43 em EEC e SNE (camundongo repórter) · Endocrinology",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "FFAR3 (GPR41) e FFAR2 (GPR43) expressam-se em subconjuntos de células enteroendócrinas (GLP-1/PYY/CCK/GIP/secretina/grelina) e em neurônios entéricos/leucócitos, definindo o sensor intestinal de AGCC.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_NOHR_2013"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "mapeamento de receptores (repórter murino); elo metabólito→receptor",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_NOHR_2013",
+  "doi": "10.1210/en.2013-1142",
+  "claim_id_origem": "B7.MEC.BLOCO02.015",
+  "_aliases": [
+   "NØHR",
+   "Nøhr",
+   "NOHR",
+   "Nohr",
+   "NØHR"
+  ]
+ },
+ {
+  "pmid_oficial": "37070532",
+  "titulo_artigo": "Neuroprotective effect of short-chain fatty acids against oxidative stress-induced SH-SY5Y injury via GPR43-dependent pathway.",
+  "autores": [
+   "Saikachain N",
+   "Sungkaworn T",
+   "Muanprasat C",
+   "Asavapanumas N"
+  ],
+  "revista_ano": "J Neurochem (2023)",
+  "desenho_estudo": "[ML] AGCC neuroprotetores via GPR43 — SH-SY5Y in vitro · J Neurochem",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "AGCC protegem células SH-SY5Y da injúria por estresse oxidativo via via dependente de GPR43 (in vitro).",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_SAIKACHAIN_2023"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "prova celular (linhagem humana SH-SY5Y); in vitro apenas",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_SAIKACHAIN_2023",
+  "doi": "10.1111/jnc.15827",
+  "claim_id_origem": "B7.MEC.BLOCO02.016",
+  "_aliases": [
+   "SAIKACHAIN",
+   "Saikachain"
+  ]
+ },
+ {
+  "pmid_oficial": "29902437",
+  "titulo_artigo": "Gut Microbiota Regulation of Tryptophan Metabolism in Health and Disease.",
+  "autores": [
+   "Agus A",
+   "Planchais J",
+   "Sokol H"
+  ],
+  "revista_ano": "Cell Host Microbe (2018)",
+  "desenho_estudo": "[OB] revisão Cell Host Microbe: microbiota regula o metabolismo do triptofano",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "A microbiota intestinal regula o metabolismo do triptofano em saúde e doença (colheita/partição do substrato).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_AGUS_2018"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão de arquitetura do substrato Trp",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_AGUS_2018",
+  "doi": "10.1016/j.chom.2018.05.003",
+  "claim_id_origem": "B7.MEC.BLOCO02.017",
+  "_aliases": [
+   "AGUS",
+   "Agus"
+  ]
+ },
+ {
+  "pmid_oficial": "32577079",
+  "titulo_artigo": "Tryptophan Metabolites Along the Microbiota-Gut-Brain Axis: An Interkingdom Communication System Influencing the Gut in Health and Disease.",
+  "autores": [
+   "Bosi A",
+   "Banfi D",
+   "Bistoletti M",
+   "Giaroni C",
+   "Baj A"
+  ],
+  "revista_ano": "Int J Tryptophan Res (2020)",
+  "desenho_estudo": "[OB] revisão: metabólitos do triptofano como comunicação inter-reinos no eixo · Int J Tryptophan Res",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Os metabólitos do triptofano operam como sistema de comunicação inter-reinos ao longo do eixo microbiota-intestino-cérebro.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_BOSI_2020"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão de arquitetura",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_BOSI_2020",
+  "doi": "10.1177/1178646920928984",
+  "claim_id_origem": "B7.MEC.BLOCO02.018",
+  "_aliases": [
+   "BOSI",
+   "Bosi"
+  ]
+ },
+ {
+  "pmid_oficial": "34127024",
+  "titulo_artigo": "Tryptophan-kynurenine metabolism: a link between the gut and brain for depression in inflammatory bowel disease.",
+  "autores": [
+   "Chen LM",
+   "Bao CH",
+   "Wu Y",
+   "Liang SH",
+   "Wang D",
+   "Wu LY",
+   "Huang Y",
+   "Liu HR",
+   "Wu HG"
+  ],
+  "revista_ano": "J Neuroinflammation (2021)",
+  "desenho_estudo": "[OB] revisão: elo triptofano-quinurenina intestino-cérebro na depressão/DII · J Neuroinflammation",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "O metabolismo triptofano-quinurenina é um elo intestino-cérebro para a depressão na doença inflamatória intestinal.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_CHEN_2021"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão com desfecho psiquiátrico explícito",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_CHEN_2021",
+  "doi": "10.1186/s12974-021-02175-2",
+  "claim_id_origem": "B7.MEC.BLOCO02.019",
+  "_aliases": [
+   "CHEN",
+   "Chen"
+  ]
+ },
+ {
+  "pmid_oficial": "38612489",
+  "titulo_artigo": "The Probiotic Lactobacillus reuteri Preferentially Synthesizes Kynurenic Acid from Kynurenine.",
+  "autores": [
+   "Schwarcz R",
+   "Foo A",
+   "Sathyasaikumar KV",
+   "Notarangelo FM"
+  ],
+  "revista_ano": "Int J Mol Sci (2024)",
+  "desenho_estudo": "[ML] L. reuteri sintetiza KYNA de KYN — in vitro · Int J Mol Sci",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "O probiótico Lactobacillus reuteri sintetiza preferencialmente ácido quinurênico (KYNA) a partir de quinurenina, in vitro.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_SCHWARCZ_2024"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "produção bacteriana in vitro ≠ produção cerebral (B7-CAUSAL-02)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_SCHWARCZ_2024",
+  "doi": "10.3390/ijms25073679",
+  "claim_id_origem": "B7.MEC.BLOCO02.020",
+  "_aliases": [
+   "SCHWARCZ",
+   "Schwarcz"
+  ]
+ },
+ {
+  "pmid_oficial": "38911967",
+  "titulo_artigo": "The Tryptophan Metabolite Indole-3-Propionic Acid Raises Kynurenic Acid Levels in the Rat Brain In Vivo.",
+  "autores": [
+   "Sathyasaikumar KV",
+   "Blanco-Ayala T",
+   "Zheng Y",
+   "Schwieler L",
+   "Erhardt S",
+   "Tufvesson-Alm M",
+   "Poeggeler B",
+   "Schwarcz R"
+  ],
+  "revista_ano": "Int J Tryptophan Res (2024)",
+  "desenho_estudo": "[ML] IPrA (metabólito isolado) eleva KYNA no cérebro — rato in vivo · Int J Tryptophan Res",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "O metabólito indol-3-propionato (IPrA) eleva os níveis de ácido quinurênico no cérebro de rato in vivo.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_SATHYASAIKUMAR_2024"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "claim metabólito→cérebro; não microbiota→cérebro (B7-CAUSAL-02)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_SATHYASAIKUMAR_2024",
+  "doi": "10.1177/11786469241262876",
+  "claim_id_origem": "B7.MEC.BLOCO02.021",
+  "_aliases": [
+   "SATHYASAIKUMAR",
+   "Sathyasaikumar"
+  ]
+ },
+ {
+  "pmid_oficial": "36776388",
+  "titulo_artigo": "DSS-induced colitis activates the kynurenine pathway in serum and brain by affecting IDO-1 and gut microbiota.",
+  "autores": [
+   "Zhao LP",
+   "Wu J",
+   "Quan W",
+   "Zhou Y",
+   "Hong H",
+   "Niu GY",
+   "Li T",
+   "Huang SB",
+   "Qiao CM",
+   "Zhao WJ",
+   "Cui C",
+   "Shen YQ"
+  ],
+  "revista_ano": "Front Immunol (2022)",
+  "desenho_estudo": "[ML] colite DSS→IDO-1→KYN soro+cérebro, dependente de microbiota (camundongo) · Front Immunol",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "A colite DSS ativa a via da quinurenina no soro e no cérebro via IDO-1, em dependência da microbiota intestinal.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_ZHAO_2022"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "primário mecanístico; inflamação intestinal→KYN cerebral",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_ZHAO_2022",
+  "doi": "10.3389/fimmu.2022.1089200",
+  "claim_id_origem": "B7.MEC.BLOCO02.022",
+  "_aliases": [
+   "ZHAO",
+   "Zhao"
+  ]
+ },
+ {
+  "pmid_oficial": "36746244",
+  "titulo_artigo": "Tryptophan-kynurenine metabolic characterization in the gut and brain of depressive-like rats induced by chronic restraint stress.",
+  "autores": [
+   "Li CC",
+   "Ye F",
+   "Xu CX",
+   "Jiang N",
+   "Chang Q",
+   "Liu XM",
+   "Pan RL"
+  ],
+  "revista_ano": "J Affect Disord (2023)",
+  "desenho_estudo": "[ML] perfil Trp-KYN intestino+cérebro em ratos com fenótipo depressivo (CRS) · J Affect Disord",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Ratos com fenótipo depressivo por estresse crônico de contenção exibem perfil triptofano-quinurenina alterado simultaneamente no intestino e no cérebro.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_LI_2023"
+  ],
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "primário com fenótipo tipo-depressivo em roedor [APENAS PRÉ-CLÍNICO]",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_LI_2023",
+  "doi": "10.1016/j.jad.2023.02.008",
+  "claim_id_origem": "B7.MEC.BLOCO02.023",
+  "_aliases": [
+   "LI",
+   "Li"
+  ]
+ },
+ {
+  "pmid_oficial": "41465592",
+  "titulo_artigo": "Gut-Brain Axis and Bile Acid Signaling: Linking Microbial Metabolism to Brain Function and Metabolic Regulation.",
+  "autores": [
+   "Stanimirov B",
+   "Đanić M",
+   "Pavlović N",
+   "Zaklan D",
+   "Lazarević S",
+   "Mikov M",
+   "Stankov K"
+  ],
+  "revista_ano": "Int J Mol Sci (2025)",
+  "desenho_estudo": "[OB] revisão: sinalização por sais biliares no eixo (FXR/TGR5) · Int J Mol Sci",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "A microbiota modifica o pool de sais biliares, que sinalizam via FXR/TGR5 com ação direta no SNC e indireta por mediadores endócrinos e imunes.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_STANIMIROV_2025"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "única revisão dedicada bile↔cérebro da rodada",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_STANIMIROV_2025",
+  "doi": "10.3390/ijms262412167",
+  "claim_id_origem": "B7.MEC.BLOCO02.024",
+  "_aliases": [
+   "STANIMIROV",
+   "Stanimirov"
+  ]
+ },
+ {
+  "pmid_oficial": "30934533",
+  "titulo_artigo": "Glutamatergic Signaling Along The Microbiota-Gut-Brain Axis.",
+  "autores": [
+   "Baj A",
+   "Moro E",
+   "Bistoletti M",
+   "Orlandi V",
+   "Crema F",
+   "Giaroni C"
+  ],
+  "revista_ano": "Int J Mol Sci (2019)",
+  "desenho_estudo": "[OB] revisão: sinalização glutamatérgica no eixo microbiota-intestino-cérebro · Int J Mol Sci",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "A sinalização glutamatérgica transita no eixo microbiota-intestino-cérebro (revisão dedicada).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_BAJ_2019"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "elo glutamato (B5) no eixo",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_BAJ_2019",
+  "doi": "10.3390/ijms20061482",
+  "claim_id_origem": "B7.MEC.BLOCO02.025",
+  "_aliases": [
+   "BAJ",
+   "Baj"
+  ]
+ },
+ {
+  "pmid_oficial": "39743581",
+  "titulo_artigo": "Microbiota-neuroepithelial signalling across the gut-brain axis.",
+  "autores": [
+   "Ohara TE",
+   "Hsiao EY"
+  ],
+  "revista_ano": "Nat Rev Microbiol (2025)",
+  "desenho_estudo": "[OB] revisão Nat Rev Microbiol: sinalização neuroepitelial no eixo",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Sinalização neuroepitelial no eixo intestino-cérebro: neuropods e células EEC como transdutores do lúmen ao sistema nervoso.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_OHARA_2025"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "janela neuroepitélio/neuropods ausente na V1",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_OHARA_2025",
+  "doi": "10.1038/s41579-024-01136-9",
+  "claim_id_origem": "B7.MEC.BLOCO04.001",
+  "_aliases": [
+   "OHARA",
+   "Ohara"
+  ]
+ },
+ {
+  "pmid_oficial": "38355758",
+  "titulo_artigo": "Gastrointestinal and brain barriers: unlocking gates of communication across the microbiota-gut-brain axis.",
+  "autores": [
+   "Aburto MR",
+   "Cryan JF"
+  ],
+  "revista_ano": "Nat Rev Gastroenterol Hepatol (2024)",
+  "desenho_estudo": "[OB] revisão Nat Rev Gastroenterol Hepatol: barreiras GI e cerebral como portas de comunicação do eixo",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "As barreiras gastrointestinal e cerebral funcionam como portas de comunicação através do eixo microbiota-intestino-cérebro.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_ABURTO_2024"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão-teto de barreiras (2024)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_ABURTO_2024",
+  "doi": "10.1038/s41575-023-00890-0",
+  "claim_id_origem": "B7.MEC.BLOCO01.001",
+  "_aliases": [
+   "ABURTO",
+   "Aburto",
+   "AburtoCryan",
+   "ABURTOCRYAN",
+   "Aburtocryan"
+  ]
+ },
+ {
+  "pmid_oficial": "25830558",
+  "titulo_artigo": "The gut-brain axis: interactions between enteric microbiota, central and enteric nervous systems.",
+  "autores": [
+   "Carabotti M",
+   "Scirocco A",
+   "Maselli MA",
+   "Severi C"
+  ],
+  "revista_ano": "Ann Gastroenterol (2015)",
+  "desenho_estudo": "[OB] revisão Ann Gastroenterol: interações microbiota entérica–SNC–SNE",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Sistematização das interações entre microbiota entérica, sistema nervoso central e sistema nervoso entérico (eixo intestino-cérebro).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_CARABOTTI_2015"
+  ],
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "sistematização clássica; sem DOI no anexo (resgatada por busca dirigida)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_CARABOTTI_2015",
+  "doi": "",
+  "claim_id_origem": "B7.MEC.BLOCO01.002",
+  "_aliases": [
+   "CARABOTTI",
+   "Carabotti"
+  ]
+ },
+ {
+  "pmid_oficial": "37049591",
+  "titulo_artigo": "Dysbiosis of the Gut Microbiota and Kynurenine (Kyn) Pathway Activity as Potential Biomarkers in Patients with Major Depressive Disorder.",
+  "autores": [
+   "Lin P",
+   "Li D",
+   "Shi Y",
+   "Li Q",
+   "Guo X",
+   "Dong K",
+   "Chen Q",
+   "Lou X",
+   "Li Z",
+   "Li P",
+   "Jin W",
+   "Chen S",
+   "Sun Y",
+   "Sun J",
+   "Cheng X"
+  ],
+  "revista_ano": "Nutrients (2023)",
+  "desenho_estudo": "[EC] disbiose+via KYN como biomarcadores potenciais na TDM · Nutrients",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Disbiose da microbiota intestinal e atividade da via da quinurenina como biomarcadores potenciais em pacientes com transtorno depressivo maior.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LIN_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_clinico",
+  "g2_motivo": "observacional humano; ASSOCIATIVO (B7-CAUSAL-03)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_LIN_2023",
+  "doi": "10.3390/nu15071752",
+  "claim_id_origem": "B7.MEC.BLOCO05.001",
+  "_aliases": [
+   "LIN",
+   "Lin"
+  ]
+ },
+ {
+  "pmid_oficial": "37386523",
+  "titulo_artigo": "Microbiome and tryptophan metabolomics analysis in adolescent depression: roles of the gut microbiota in the regulation of tryptophan-derived neurotransmitters and behaviors in human and mice.",
+  "autores": [
+   "Zhou M",
+   "Fan Y",
+   "Xu L",
+   "Yu Z",
+   "Wang S",
+   "Xu H",
+   "Zhang J",
+   "Zhang L",
+   "Liu W",
+   "Wu L",
+   "Yu J",
+   "Yao H",
+   "Wang J",
+   "Gao R"
+  ],
+  "revista_ano": "Microbiome (2023)",
+  "desenho_estudo": "[EC] metabolômica Trp + microbiota em adolescentes com depressão (humano) com validação em camundongo · Microbiome",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Em adolescentes com depressão, a metabolômica do triptofano integra microbiota e neurotransmissores; validação em camundongo aponta a microbiota regulando neurotransmissores derivados de triptofano e comportamento.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ZHOU_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_clinico",
+  "g2_motivo": "humano associativo + braço mecanístico animal (validação); ler clínica como ASSOCIATIVA",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_ZHOU_2023",
+  "doi": "10.1186/s40168-023-01589-9",
+  "claim_id_origem": "B7.MEC.BLOCO05.002",
+  "_aliases": [
+   "ZHOU",
+   "Zhou"
+  ]
+ },
+ {
+  "pmid_oficial": "39716675",
+  "titulo_artigo": "Multiomics analysis reveals aberrant tryptophan-kynurenine metabolism and immunity linked gut microbiota with cognitive impairment in major depressive disorder.",
+  "autores": [
+   "Zhang Q",
+   "Zhao W",
+   "Yun Y",
+   "Ma T",
+   "An H",
+   "Fan N",
+   "Wang J",
+   "Wang Z",
+   "Yang F"
+  ],
+  "revista_ano": "J Affect Disord (2025)",
+  "desenho_estudo": "[EC] multiômica microbiota+imunidade+Trp-KYN × cognição na TDM · J Affect Disord",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Análise multi-ômica associa microbiota intestinal, imunidade e metabolismo triptofano-quinurenina ao desempenho cognitivo no transtorno depressivo maior.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ZHANG_2025"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_clinico",
+  "g2_motivo": "observacional humano (N=86×120); ASSOCIATIVO (B7-CAUSAL-03)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B7 2026-09-09): esearch DOI[aid]/busca dirigida + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "id_referencia_interna": "REF_ZHANG_2025",
+  "doi": "10.1016/j.jad.2024.12.070",
+  "claim_id_origem": "B7.MEC.BLOCO05.003",
+  "_aliases": [
+   "ZHANG",
+   "Zhang",
+   "ZHANG Q",
+   "Zhang Q"
+  ]
+ }
+]

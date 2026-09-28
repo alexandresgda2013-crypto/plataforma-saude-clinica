@@ -1,0 +1,3699 @@
+{
+ "candidatos": [
+  {
+   "chave_insumo": "Oishi",
+   "ano_insumo": 2003,
+   "pmid": "12865428",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Sato",
+   "ano_insumo": 2006,
+   "pmid": "16474406",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Soria",
+   "ano_insumo": 2010,
+   "pmid": "20072116",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Welsh",
+   "ano_insumo": 2010,
+   "pmid": "20148688",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Mohawk",
+   "ano_insumo": 2011,
+   "pmid": "21665298",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Nicolaides",
+   "ano_insumo": 2014,
+   "pmid": "24890877",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Nangle",
+   "ano_insumo": 2014,
+   "pmid": "25127877",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Russell",
+   "ano_insumo": 2015,
+   "pmid": "25494867",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Ramkisoensing",
+   "ano_insumo": 2015,
+   "pmid": "26097465",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Takahashi",
+   "ano_insumo": 2015,
+   "pmid": "26332962",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Schibler",
+   "ano_insumo": 2015,
+   "pmid": "26683231",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Moon",
+   "ano_insumo": 2016,
+   "pmid": "27543154",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Michael",
+   "ano_insumo": 2017,
+   "pmid": "28143926",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Sassone-Corsi",
+   "ano_insumo": 2016,
+   "pmid": "28892344",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Pilz",
+   "ano_insumo": 2018,
+   "pmid": "30061722",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Robillard",
+   "ano_insumo": 2018,
+   "pmid": "30301878",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Pett",
+   "ano_insumo": 2018,
+   "pmid": "30456356",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Yamanaka",
+   "ano_insumo": 2019,
+   "pmid": "30480877",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Rao & Androulakis",
+   "ano_insumo": 2019,
+   "pmid": "30862458",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Nguyen",
+   "ano_insumo": 2019,
+   "pmid": "30878655",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Rao & Androulakis",
+   "ano_insumo": 2019,
+   "pmid": "31371802",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Shan",
+   "ano_insumo": 2020,
+   "pmid": "32768389",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Russell",
+   "ano_insumo": 2021,
+   "pmid": "33509094",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "von Schantz",
+   "ano_insumo": 2021,
+   "pmid": "33641746",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Mukherjee",
+   "ano_insumo": 2022,
+   "pmid": "34320487",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Vidafar",
+   "ano_insumo": 2021,
+   "pmid": "34468894",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Pandi-Perumal",
+   "ano_insumo": 2022,
+   "pmid": "35033557",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Scott",
+   "ano_insumo": 2022,
+   "pmid": "35182537",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Rao",
+   "ano_insumo": 2021,
+   "pmid": "37895351",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Zuo",
+   "ano_insumo": 2024,
+   "pmid": "38241675",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Ono",
+   "ano_insumo": 2024,
+   "pmid": "38366616",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Smith",
+   "ano_insumo": 2024,
+   "pmid": "39308240",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Burns",
+   "ano_insumo": 2024,
+   "pmid": "39314956",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Tofani GSS",
+   "ano_insumo": 2025,
+   "pmid": "39504963",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Wescott",
+   "ano_insumo": 2025,
+   "pmid": "39608218",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Otobe",
+   "ano_insumo": 2026,
+   "pmid": "41108717",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Robertson-Dixon",
+   "ano_insumo": 2026,
+   "pmid": "41389872",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Von Gall",
+   "ano_insumo": 1998,
+   "pmid": "9852576",
+   "fonte": "ancora38"
+  },
+  {
+   "chave_insumo": "Abe",
+   "ano_insumo": 2022,
+   "pmid": "35999195",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Abelson",
+   "ano_insumo": 2023,
+   "pmid": "36801587",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Alloy",
+   "ano_insumo": 2017,
+   "pmid": "28321642",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Androulakis",
+   "ano_insumo": 2021,
+   "pmid": "33438348",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Annayev",
+   "ano_insumo": 2014,
+   "pmid": "24385426",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Aryal",
+   "ano_insumo": 2017,
+   "pmid": "28886335",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Ashton",
+   "ano_insumo": 2022,
+   "pmid": "35054913",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Astiz",
+   "ano_insumo": 2019,
+   "pmid": "40363695",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Bernard",
+   "ano_insumo": 2007,
+   "pmid": "17432930",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Bhake",
+   "ano_insumo": 2019,
+   "pmid": "31355884",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Boareto",
+   "ano_insumo": 2025,
+   "pmid": "42237005",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Boon",
+   "ano_insumo": 2017,
+   "pmid": "29223280",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Buckley",
+   "ano_insumo": 2005,
+   "pmid": "15728214",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Buhr",
+   "ano_insumo": 2019,
+   "pmid": "31607531",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Buijink",
+   "ano_insumo": 2016,
+   "pmid": "28006027",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Calligaro",
+   "ano_insumo": 2023,
+   "pmid": "37500494",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Camici",
+   "ano_insumo": 2026,
+   "pmid": "41568000",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Cao",
+   "ano_insumo": 2020,
+   "pmid": "33443219",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Cao",
+   "ano_insumo": 2023,
+   "pmid": "36682495",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Cao",
+   "ano_insumo": 2025,
+   "pmid": "29054877",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Carpenter",
+   "ano_insumo": 2025,
+   "pmid": "40662977",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Chellappa",
+   "ano_insumo": 2020,
+   "pmid": "33122670",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Chen",
+   "ano_insumo": 2009,
+   "pmid": "19917250",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Chiou",
+   "ano_insumo": 2020,
+   "pmid": "33381013",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Chiou",
+   "ano_insumo": 2016,
+   "pmid": "27688755",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Christiansen",
+   "ano_insumo": 2012,
+   "pmid": "22217141",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Chung",
+   "ano_insumo": 2023,
+   "pmid": "38627069",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Coomans",
+   "ano_insumo": 2015,
+   "pmid": "25451984",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Cox",
+   "ano_insumo": 2024,
+   "pmid": "39096022",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Crumbley",
+   "ano_insumo": 2011,
+   "pmid": "21479263",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Crumbley",
+   "ano_insumo": 2010,
+   "pmid": "20817722",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Dollish",
+   "ano_insumo": 2023,
+   "pmid": "37858331",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Duong",
+   "ano_insumo": 2011,
+   "pmid": "21680841",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Duy",
+   "ano_insumo": 2020,
+   "pmid": "33030409",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Emens",
+   "ano_insumo": 2020,
+   "pmid": "32777620",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Esaki",
+   "ano_insumo": 2021,
+   "pmid": "34645802",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Fernandez",
+   "ano_insumo": 2016,
+   "pmid": "27162356",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Focke",
+   "ano_insumo": 2019,
+   "pmid": "31738971",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Fribourgh",
+   "ano_insumo": 2020,
+   "pmid": "32101164",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Gaffey",
+   "ano_insumo": 2016,
+   "pmid": "27377692",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Gao",
+   "ano_insumo": 2022,
+   "pmid": "35478603",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Gjerstad",
+   "ano_insumo": 2018,
+   "pmid": "29764284",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Golombek",
+   "ano_insumo": 2010,
+   "pmid": "20664079",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Goltsev",
+   "ano_insumo": 2022,
+   "pmid": "35848398",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Goncharova",
+   "ano_insumo": 2023,
+   "pmid": "36699023",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Goriki",
+   "ano_insumo": 2014,
+   "pmid": "37761843",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Gu",
+   "ano_insumo": 2026,
+   "pmid": "41979826",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Gu",
+   "ano_insumo": 2016,
+   "pmid": "27358024",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Gul",
+   "ano_insumo": 2020,
+   "pmid": "33028638",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Gustafson",
+   "ano_insumo": 2014,
+   "pmid": "25303119",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Hafner",
+   "ano_insumo": 2012,
+   "pmid": "22423219",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Hamnett",
+   "ano_insumo": 2019,
+   "pmid": "30710088",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Hastings",
+   "ano_insumo": 2014,
+   "pmid": "24329967",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Herzog",
+   "ano_insumo": 2017,
+   "pmid": "28049647",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "James",
+   "ano_insumo": 2023,
+   "pmid": "36950689",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Jha",
+   "ano_insumo": 2021,
+   "pmid": "33440199",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Jones",
+   "ano_insumo": 2018,
+   "pmid": "30082421",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Juliana",
+   "ano_insumo": 2025,
+   "pmid": "41009704",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Kalsbeek",
+   "ano_insumo": 2012,
+   "pmid": "21782883",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Kandalepas",
+   "ano_insumo": 2016,
+   "pmid": "27362940",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Kanter",
+   "ano_insumo": 2024,
+   "pmid": "39569439",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Karan",
+   "ano_insumo": 2021,
+   "pmid": "34399150",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Karin",
+   "ano_insumo": 2020,
+   "pmid": "32672906",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Kiessling",
+   "ano_insumo": 2014,
+   "pmid": "24658072",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Kim",
+   "ano_insumo": 2021,
+   "pmid": "33510438",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Klusmann",
+   "ano_insumo": 2022,
+   "pmid": "35597328",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Knezevic",
+   "ano_insumo": 2023,
+   "pmid": "38067154",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Koch",
+   "ano_insumo": 2022,
+   "pmid": "35285799",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Korf",
+   "ano_insumo": 2024,
+   "pmid": "38965880",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Korom",
+   "ano_insumo": 2026,
+   "pmid": "41990568",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Kumar",
+   "ano_insumo": 2024,
+   "pmid": "38964508",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Kume",
+   "ano_insumo": 1999,
+   "pmid": "10428031",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Kusov",
+   "ano_insumo": 2023,
+   "pmid": "36903600",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Lamont",
+   "ano_insumo": 2007,
+   "pmid": "24043798",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Laothamatas",
+   "ano_insumo": 2023,
+   "pmid": "37708890",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Leclercq",
+   "ano_insumo": 2020,
+   "pmid": "33326640",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Lee",
+   "ano_insumo": 2011,
+   "pmid": "21199878",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Lei",
+   "ano_insumo": 2024,
+   "pmid": "38800632",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Li",
+   "ano_insumo": 2021,
+   "pmid": "34504149",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Li",
+   "ano_insumo": 2023,
+   "pmid": "37597751",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Li",
+   "ano_insumo": 2022,
+   "pmid": "36387856",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Liberman",
+   "ano_insumo": 2018,
+   "pmid": "29614896",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Lightman",
+   "ano_insumo": 2020,
+   "pmid": "32060528",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Liu",
+   "ano_insumo": 2025,
+   "pmid": "40854106",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Liyanarachchi",
+   "ano_insumo": 2017,
+   "pmid": "29223281",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Lokshin",
+   "ano_insumo": 2015,
+   "pmid": "25994103",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Lu",
+   "ano_insumo": 2021,
+   "pmid": "34657394",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Ludwig",
+   "ano_insumo": 2023,
+   "pmid": "36870963",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Lyall",
+   "ano_insumo": 2018,
+   "pmid": "30555405",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Melo",
+   "ano_insumo": 2017,
+   "pmid": "27524206",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Morimoto",
+   "ano_insumo": 2022,
+   "pmid": "36256675",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Moyers",
+   "ano_insumo": 2023,
+   "pmid": "37001634",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Na",
+   "ano_insumo": 2012,
+   "pmid": "23133559",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Nader",
+   "ano_insumo": 2010,
+   "pmid": "20106676",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Naito",
+   "ano_insumo": 2008,
+   "pmid": "18375863",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Nikhil",
+   "ano_insumo": 2025,
+   "pmid": "41380001",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Postnova",
+   "ano_insumo": 2013,
+   "pmid": "23599244",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Rosensweig",
+   "ano_insumo": 2018,
+   "pmid": "29556064",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Schirmer",
+   "ano_insumo": 2023,
+   "pmid": "37389366",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Schrader",
+   "ano_insumo": 2024,
+   "pmid": "39007272",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Shirtcliff",
+   "ano_insumo": 2024,
+   "pmid": "38428723",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Simons",
+   "ano_insumo": 2017,
+   "pmid": "28027684",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Smyllie",
+   "ano_insumo": 2025,
+   "pmid": "40247113",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Speer",
+   "ano_insumo": 2019,
+   "pmid": "31236437",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Spencer",
+   "ano_insumo": 2016,
+   "pmid": "27871862",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Starnes",
+   "ano_insumo": 2023,
+   "pmid": "37106709",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Starr",
+   "ano_insumo": 2019,
+   "pmid": "30340064",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Takaesu",
+   "ano_insumo": 2018,
+   "pmid": "29869403",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Tamayo",
+   "ano_insumo": 2015,
+   "pmid": "26323038",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Tonon",
+   "ano_insumo": 2024,
+   "pmid": "19305510",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Vriend",
+   "ano_insumo": 2015,
+   "pmid": "25369242",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Waly",
+   "ano_insumo": 2015,
+   "pmid": "27103927",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Welsh",
+   "ano_insumo": 2010,
+   "pmid": "38308964",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Xu",
+   "ano_insumo": 2021,
+   "pmid": "34416169",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Xu",
+   "ano_insumo": 2015,
+   "pmid": "25961797",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Yang",
+   "ano_insumo": 2021,
+   "pmid": "35255992",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Ye",
+   "ano_insumo": 2014,
+   "pmid": "25228643",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Ye",
+   "ano_insumo": 2011,
+   "pmid": "21613214",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Yu",
+   "ano_insumo": 2002,
+   "pmid": "11798163",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Yuan",
+   "ano_insumo": 2025,
+   "pmid": "41170746",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Bautista",
+   "ano_insumo": 2025,
+   "pmid": "41244880",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Chakraborty",
+   "ano_insumo": 2026,
+   "pmid": "41913359",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Deprato",
+   "ano_insumo": 2025,
+   "pmid": "40154089",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Francis",
+   "ano_insumo": 2023,
+   "pmid": "37441675",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Geoffroy",
+   "ano_insumo": 2025,
+   "pmid": "40381827",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Hyndych",
+   "ano_insumo": 2025,
+   "pmid": "41662130",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Joseph",
+   "ano_insumo": 2016,
+   "pmid": "27750377",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Kinlein",
+   "ano_insumo": 2019,
+   "pmid": "32750762",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Meyer",
+   "ano_insumo": 2024,
+   "pmid": "38394243",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Murray",
+   "ano_insumo": 2017,
+   "pmid": "28364473",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Serrano",
+   "ano_insumo": 2026,
+   "pmid": "34640406",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Song",
+   "ano_insumo": 2024,
+   "pmid": "38579366",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Walker",
+   "ano_insumo": 2020,
+   "pmid": "32066704",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Walker",
+   "ano_insumo": 2021,
+   "pmid": "34225967",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Yeom",
+   "ano_insumo": 2024,
+   "pmid": "39757810",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "Zou",
+   "ano_insumo": 2022,
+   "pmid": "36033630",
+   "fonte": "sec6_148"
+  },
+  {
+   "chave_insumo": "McClung",
+   "ano_insumo": 2007,
+   "pmid": "17395264",
+   "fonte": "semente_consolidado"
+  },
+  {
+   "chave_insumo": "McClung",
+   "ano_insumo": 2013,
+   "pmid": "23558300",
+   "fonte": "semente_consolidado"
+  },
+  {
+   "chave_insumo": "Ketchesin",
+   "ano_insumo": 2018,
+   "pmid": "30402924",
+   "fonte": "semente_consolidado"
+  },
+  {
+   "chave_insumo": "Campbell",
+   "ano_insumo": 2017,
+   "pmid": "31528147",
+   "fonte": "semente_consolidado"
+  },
+  {
+   "chave_insumo": "McCarthy",
+   "ano_insumo": 2011,
+   "pmid": "21781277",
+   "fonte": "semente_consolidado"
+  },
+  {
+   "chave_insumo": "Cox & Olatunji",
+   "ano_insumo": 2019,
+   "pmid": "31302521",
+   "fonte": "semente_consolidado"
+  },
+  {
+   "chave_insumo": "McCarthy",
+   "ano_insumo": 2021,
+   "pmid": "34850507",
+   "fonte": "semente_consolidado"
+  },
+  {
+   "chave_insumo": "Boiko",
+   "ano_insumo": 2022,
+   "pmid": "34988815",
+   "fonte": "semente_consolidado"
+  }
+ ],
+ "meta": {
+  "12865428": {
+   "title": "Genome-wide expression analysis of mouse liver reveals CLOCK-regulated circadian output genes.",
+   "authors": [
+    "Oishi K",
+    "Miyazaki K",
+    "Kadota K",
+    "Kikuno R",
+    "Nagase T",
+    "Atsumi G"
+   ],
+   "sortpubdate": "2003/10/17 00:00",
+   "pubdate": "2003 Oct 17",
+   "epubdate": "2003 Jul 15",
+   "source": "J Biol Chem",
+   "fulljournalname": "The Journal of biological chemistry"
+  },
+  "16474406": {
+   "title": "Feedback repression is required for mammalian circadian clock function.",
+   "authors": [
+    "Sato TK",
+    "Yamada RG",
+    "Ukai H",
+    "Baggs JE",
+    "Miraglia LJ",
+    "Kobayashi TJ"
+   ],
+   "sortpubdate": "2006/03/01 00:00",
+   "pubdate": "2006 Mar",
+   "epubdate": "2006 Feb 12",
+   "source": "Nat Genet",
+   "fulljournalname": "Nature genetics"
+  },
+  "20072116": {
+   "title": "Differential association of circadian genes with mood disorders: CRY1 and NPAS2 are associated with unipolar major depression and CLOCK and VIP with bipolar disorder.",
+   "authors": [
+    "Soria V",
+    "Martínez-Amorós E",
+    "Escaramís G",
+    "Valero J",
+    "Pérez-Egea R",
+    "García C"
+   ],
+   "sortpubdate": "2010/05/01 00:00",
+   "pubdate": "2010 May",
+   "epubdate": "2010 Jan 13",
+   "source": "Neuropsychopharmacology",
+   "fulljournalname": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology"
+  },
+  "20148688": {
+   "title": "Suprachiasmatic nucleus: cell autonomy and network properties.",
+   "authors": [
+    "Welsh DK",
+    "Takahashi JS",
+    "Kay SA"
+   ],
+   "sortpubdate": "2010/01/01 00:00",
+   "pubdate": "2010",
+   "epubdate": "",
+   "source": "Annu Rev Physiol",
+   "fulljournalname": "Annual review of physiology"
+  },
+  "21665298": {
+   "title": "Cell autonomy and synchrony of suprachiasmatic nucleus circadian oscillators.",
+   "authors": [
+    "Mohawk JA",
+    "Takahashi JS"
+   ],
+   "sortpubdate": "2011/07/01 00:00",
+   "pubdate": "2011 Jul",
+   "epubdate": "2011 Jun 12",
+   "source": "Trends Neurosci",
+   "fulljournalname": "Trends in neurosciences"
+  },
+  "24890877": {
+   "title": "Circadian endocrine rhythms: the hypothalamic-pituitary-adrenal axis and its actions.",
+   "authors": [
+    "Nicolaides NC",
+    "Charmandari E",
+    "Chrousos GP",
+    "Kino T"
+   ],
+   "sortpubdate": "2014/05/01 00:00",
+   "pubdate": "2014 May",
+   "epubdate": "",
+   "source": "Ann N Y Acad Sci",
+   "fulljournalname": "Annals of the New York Academy of Sciences"
+  },
+  "25127877": {
+   "title": "Molecular assembly of the period-cryptochrome circadian transcriptional repressor complex.",
+   "authors": [
+    "Nangle SN",
+    "Rosensweig C",
+    "Koike N",
+    "Tei H",
+    "Takahashi JS",
+    "Green CB"
+   ],
+   "sortpubdate": "2014/08/15 00:00",
+   "pubdate": "2014 Aug 15",
+   "epubdate": "2014 Aug 15",
+   "source": "Elife",
+   "fulljournalname": "eLife"
+  },
+  "25494867": {
+   "title": "The importance of biological oscillators for hypothalamic-pituitary-adrenal activity and tissue glucocorticoid response: coordinating stress and neurobehavioural adaptation.",
+   "authors": [
+    "Russell GM",
+    "Kalafatakis K",
+    "Lightman SL"
+   ],
+   "sortpubdate": "2015/06/01 00:00",
+   "pubdate": "2015 Jun",
+   "epubdate": "",
+   "source": "J Neuroendocrinol",
+   "fulljournalname": "Journal of neuroendocrinology"
+  },
+  "26097465": {
+   "title": "Synchronization of Biological Clock Neurons by Light and Peripheral Feedback Systems Promotes Circadian Rhythms and Health.",
+   "authors": [
+    "Ramkisoensing A",
+    "Meijer JH"
+   ],
+   "sortpubdate": "2015/06/05 00:00",
+   "pubdate": "2015",
+   "epubdate": "2015 Jun 5",
+   "source": "Front Neurol",
+   "fulljournalname": "Frontiers in neurology"
+  },
+  "26332962": {
+   "title": "Molecular components of the circadian clock in mammals.",
+   "authors": [
+    "Takahashi JS"
+   ],
+   "sortpubdate": "2015/09/01 00:00",
+   "pubdate": "2015 Sep",
+   "epubdate": "",
+   "source": "Diabetes Obes Metab",
+   "fulljournalname": "Diabetes, obesity & metabolism"
+  },
+  "26683231": {
+   "title": "Clock-Talk: Interactions between Central and Peripheral Circadian Oscillators in Mammals.",
+   "authors": [
+    "Schibler U",
+    "Gotic I",
+    "Saini C",
+    "Gos P",
+    "Curie T",
+    "Emmenegger Y"
+   ],
+   "sortpubdate": "2015/01/01 00:00",
+   "pubdate": "2015",
+   "epubdate": "2015 Dec 18",
+   "source": "Cold Spring Harb Symp Quant Biol",
+   "fulljournalname": "Cold Spring Harbor symposia on quantitative biology"
+  },
+  "27543154": {
+   "title": "Advanced Circadian Phase in Mania and Delayed Circadian Phase in Mixed Mania and Depression Returned to Normal after Treatment of Bipolar Disorder.",
+   "authors": [
+    "Moon JH",
+    "Cho CH",
+    "Son GH",
+    "Geum D",
+    "Chung S",
+    "Kim H"
+   ],
+   "sortpubdate": "2016/09/01 00:00",
+   "pubdate": "2016 Sep",
+   "epubdate": "2016 Aug 13",
+   "source": "EBioMedicine",
+   "fulljournalname": "EBioMedicine"
+  },
+  "28143926": {
+   "title": "Formation of a repressive complex in the mammalian circadian clock is mediated by the secondary pocket of CRY1.",
+   "authors": [
+    "Michael AK",
+    "Fribourgh JL",
+    "Chelliah Y",
+    "Sandate CR",
+    "Hura GL",
+    "Schneidman-Duhovny D"
+   ],
+   "sortpubdate": "2017/02/14 00:00",
+   "pubdate": "2017 Feb 14",
+   "epubdate": "2017 Jan 31",
+   "source": "Proc Natl Acad Sci U S A",
+   "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America"
+  },
+  "28892344": {
+   "title": "Molecular Architecture of the Circadian Clock in Mammals.",
+   "authors": [
+    "Sassone-Corsi P",
+    "Christen Y",
+    "Takahashi JS"
+   ],
+   "sortpubdate": "2016/04/05 00:00",
+   "pubdate": "2016",
+   "epubdate": "",
+   "source": "",
+   "fulljournalname": ""
+  },
+  "30061722": {
+   "title": "Rhythmicity of Mood Symptoms in Individuals at Risk for Psychiatric Disorders.",
+   "authors": [
+    "Pilz LK",
+    "Carissimi A",
+    "Oliveira MAB",
+    "Francisco AP",
+    "Fabris RC",
+    "Medeiros MS"
+   ],
+   "sortpubdate": "2018/07/30 00:00",
+   "pubdate": "2018 Jul 30",
+   "epubdate": "2018 Jul 30",
+   "source": "Sci Rep",
+   "fulljournalname": "Scientific reports"
+  },
+  "30301878": {
+   "title": "Circadian rhythms and psychiatric profiles in young adults with unipolar depressive disorders.",
+   "authors": [
+    "Robillard R",
+    "Carpenter JS",
+    "Rogers NL",
+    "Fares S",
+    "Grierson AB",
+    "Hermens DF"
+   ],
+   "sortpubdate": "2018/10/09 00:00",
+   "pubdate": "2018 Oct 9",
+   "epubdate": "2018 Oct 9",
+   "source": "Transl Psychiatry",
+   "fulljournalname": "Translational psychiatry"
+  },
+  "30456356": {
+   "title": "Co-existing feedback loops generate tissue-specific circadian rhythms.",
+   "authors": [
+    "Pett JP",
+    "Kondoff M",
+    "Bordyugov G",
+    "Kramer A",
+    "Herzel H"
+   ],
+   "sortpubdate": "2018/06/14 00:00",
+   "pubdate": "2018 Jun",
+   "epubdate": "2018 Jun 14",
+   "source": "Life Sci Alliance",
+   "fulljournalname": "Life science alliance"
+  },
+  "30480877": {
+   "title": "Hypothalamic-pituitary-adrenal axis differentially responses to morning and evening psychological stress in healthy subjects.",
+   "authors": [
+    "Yamanaka Y",
+    "Motoshima H",
+    "Uchida K"
+   ],
+   "sortpubdate": "2019/03/01 00:00",
+   "pubdate": "2019 Mar",
+   "epubdate": "2018 Nov 27",
+   "source": "Neuropsychopharmacol Rep",
+   "fulljournalname": "Neuropsychopharmacology reports"
+  },
+  "30862458": {
+   "title": "The physiological significance of the circadian dynamics of the HPA axis: Interplay between circadian rhythms, allostasis and stress resilience.",
+   "authors": [
+    "Rao R",
+    "Androulakis IP"
+   ],
+   "sortpubdate": "2019/04/01 00:00",
+   "pubdate": "2019 Apr",
+   "epubdate": "2019 Mar 15",
+   "source": "Horm Behav",
+   "fulljournalname": "Hormones and behavior"
+  },
+  "30878655": {
+   "title": "In vivo molecular chronotyping, circadian misalignment, and high rates of depression in young adults.",
+   "authors": [
+    "Nguyen C",
+    "Murray G",
+    "Anderson S",
+    "Filipowicz A",
+    "Ingram KK"
+   ],
+   "sortpubdate": "2019/05/01 00:00",
+   "pubdate": "2019 May 1",
+   "epubdate": "2019 Mar 8",
+   "source": "J Affect Disord",
+   "fulljournalname": "Journal of affective disorders"
+  },
+  "31371802": {
+   "title": "Allostatic adaptation and personalized physiological trade-offs in the circadian regulation of the HPA axis: A mathematical modeling approach.",
+   "authors": [
+    "Rao R",
+    "Androulakis IP"
+   ],
+   "sortpubdate": "2019/08/01 00:00",
+   "pubdate": "2019 Aug 1",
+   "epubdate": "2019 Aug 1",
+   "source": "Sci Rep",
+   "fulljournalname": "Scientific reports"
+  },
+  "32768389": {
+   "title": "Dual-Color Single-Cell Imaging of the Suprachiasmatic Nucleus Reveals a Circadian Role in Network Synchrony.",
+   "authors": [
+    "Shan Y",
+    "Abel JH",
+    "Li Y",
+    "Izumo M",
+    "Cox KH",
+    "Jeong B"
+   ],
+   "sortpubdate": "2020/10/14 00:00",
+   "pubdate": "2020 Oct 14",
+   "epubdate": "2020 Aug 7",
+   "source": "Neuron",
+   "fulljournalname": "Neuron"
+  },
+  "33509094": {
+   "title": "Knockout of the circadian gene, Per2, disrupts corticosterone secretion and results in depressive-like behaviors and deficits in startle responses.",
+   "authors": [
+    "Russell AL",
+    "Miller L",
+    "Yi H",
+    "Keil R",
+    "Handa RJ",
+    "Wu TJ"
+   ],
+   "sortpubdate": "2021/01/28 00:00",
+   "pubdate": "2021 Jan 28",
+   "epubdate": "2021 Jan 28",
+   "source": "BMC Neurosci",
+   "fulljournalname": "BMC neuroscience"
+  },
+  "33641746": {
+   "title": "Genomic perspectives on the circadian clock hypothesis of psychiatric disorders.",
+   "authors": [
+    "von Schantz M",
+    "Leocadio-Miguel MA",
+    "McCarthy MJ",
+    "Papiol S",
+    "Landgraf D"
+   ],
+   "sortpubdate": "2021/01/01 00:00",
+   "pubdate": "2021",
+   "epubdate": "2020 Dec 7",
+   "source": "Adv Genet",
+   "fulljournalname": "Advances in genetics"
+  },
+  "34320487": {
+   "title": "Dysregulated Diurnal Cortisol Pattern and Heightened Night-Time Cortisol in Individuals with Bipolar Disorder.",
+   "authors": [
+    "Mukherjee D",
+    "Weissenkampen JD",
+    "Wasserman E",
+    "Krishnamurthy VB",
+    "Millett CE",
+    "Conway S"
+   ],
+   "sortpubdate": "2022/01/01 00:00",
+   "pubdate": "2022",
+   "epubdate": "2021 Jul 28",
+   "source": "Neuropsychobiology",
+   "fulljournalname": "Neuropsychobiology"
+  },
+  "34468894": {
+   "title": "Late chronotype predicts more depressive symptoms in bipolar disorder over a 5 year follow-up period.",
+   "authors": [
+    "Vidafar P",
+    "Yocum AK",
+    "Han P",
+    "McInnis MG",
+    "Burgess HJ"
+   ],
+   "sortpubdate": "2021/09/01 00:00",
+   "pubdate": "2021 Sep 1",
+   "epubdate": "2021 Sep 1",
+   "source": "Int J Bipolar Disord",
+   "fulljournalname": "International journal of bipolar disorders"
+  },
+  "35033557": {
+   "title": "Timing is everything: Circadian rhythms and their role in the control of sleep.",
+   "authors": [
+    "Pandi-Perumal SR",
+    "Cardinali DP",
+    "Zaki NFW",
+    "Karthikeyan R",
+    "Spence DW",
+    "Reiter RJ"
+   ],
+   "sortpubdate": "2022/07/01 00:00",
+   "pubdate": "2022 Jul",
+   "epubdate": "2022 Jan 14",
+   "source": "Front Neuroendocrinol",
+   "fulljournalname": "Frontiers in neuroendocrinology"
+  },
+  "35182537": {
+   "title": "A systematic review and meta-analysis of sleep and circadian rhythms disturbances in individuals at high-risk of developing or with early onset of bipolar disorders.",
+   "authors": [
+    "Scott J",
+    "Etain B",
+    "Miklowitz D",
+    "Crouse JJ",
+    "Carpenter J",
+    "Marwaha S"
+   ],
+   "sortpubdate": "2022/04/01 00:00",
+   "pubdate": "2022 Apr",
+   "epubdate": "2022 Feb 17",
+   "source": "Neurosci Biobehav Rev",
+   "fulljournalname": "Neuroscience and biobehavioral reviews"
+  },
+  "37895351": {
+   "title": "The Influence of Light Wavelength on Human HPA Axis Rhythms: A Systematic Review.",
+   "authors": [
+    "Robertson-Dixon I",
+    "Murphy MJ",
+    "Crewther SG",
+    "Riddell N"
+   ],
+   "sortpubdate": "2023/09/26 00:00",
+   "pubdate": "2023 Sep 26",
+   "epubdate": "2023 Sep 26",
+   "source": "Life (Basel)",
+   "fulljournalname": "Life (Basel, Switzerland)"
+  },
+  "38241675": {
+   "title": "Circadian misalignment impairs oligodendrocyte myelination via Bmal1 overexpression leading to anxiety and depression-like behaviors.",
+   "authors": [
+    "Zuo Y",
+    "Hou Y",
+    "Wang Y",
+    "Yuan L",
+    "Cheng L",
+    "Zhang T"
+   ],
+   "sortpubdate": "2024/01/01 00:00",
+   "pubdate": "2024 Jan",
+   "epubdate": "",
+   "source": "J Pineal Res",
+   "fulljournalname": "Journal of pineal research"
+  },
+  "38366616": {
+   "title": "The Suprachiasmatic Nucleus at 50: Looking Back, Then Looking Forward.",
+   "authors": [
+    "Ono D",
+    "Weaver DR",
+    "Hastings MH",
+    "Honma KI",
+    "Honma S",
+    "Silver R"
+   ],
+   "sortpubdate": "2024/04/01 00:00",
+   "pubdate": "2024 Apr",
+   "epubdate": "2024 Feb 16",
+   "source": "J Biol Rhythms",
+   "fulljournalname": "Journal of biological rhythms"
+  },
+  "39308240": {
+   "title": "Chronopsychiatry.",
+   "authors": [
+    "Smith DJ",
+    "McGlashan E",
+    "Gottlieb J",
+    "Meyer N",
+    "Jones MW"
+   ],
+   "sortpubdate": "2024/12/01 00:00",
+   "pubdate": "2024 Dec",
+   "epubdate": "",
+   "source": "Br J Psychiatry",
+   "fulljournalname": "The British journal of psychiatry : the journal of mental science"
+  },
+  "39314956": {
+   "title": "Sleep inertia drives the association of evening chronotype with psychiatric disorders: epidemiological and genetic evidence.",
+   "authors": [
+    "Burns AC",
+    "Zellers S",
+    "Windred DP",
+    "Daghlas I",
+    "Sinnott-Armstrong N",
+    "Rutter M"
+   ],
+   "sortpubdate": "2024/09/11 00:00",
+   "pubdate": "2024 Sep 11",
+   "epubdate": "2024 Sep 11",
+   "source": "medRxiv",
+   "fulljournalname": "medRxiv : the preprint server for health sciences"
+  },
+  "39504963": {
+   "title": "Gut microbiota regulates stress responsivity via the circadian system.",
+   "authors": [
+    "Tofani GSS",
+    "Leigh SJ",
+    "Gheorghe CE",
+    "Bastiaanssen TFS",
+    "Wilmes L",
+    "Sen P"
+   ],
+   "sortpubdate": "2025/01/07 00:00",
+   "pubdate": "2025 Jan 7",
+   "epubdate": "2024 Nov 5",
+   "source": "Cell Metab",
+   "fulljournalname": "Cell metabolism"
+  },
+  "39608218": {
+   "title": "Circadian realignment and depressed mood: A systematic review.",
+   "authors": [
+    "Wescott DL",
+    "Hasler BP",
+    "Foust JE",
+    "Roecklein KA"
+   ],
+   "sortpubdate": "2025/02/01 00:00",
+   "pubdate": "2025 Feb",
+   "epubdate": "2024 Nov 12",
+   "source": "Sleep Med Rev",
+   "fulljournalname": "Sleep medicine reviews"
+  },
+  "41108717": {
+   "title": "Phosphorylation of CLOCK and BMAL1-a key regulatory mechanism in the mammalian circadian clockwork.",
+   "authors": [
+    "Otobe Y",
+    "Yoshitane H"
+   ],
+   "sortpubdate": "2026/03/01 00:00",
+   "pubdate": "2026 Mar",
+   "epubdate": "2025 Oct 18",
+   "source": "FEBS Lett",
+   "fulljournalname": "FEBS letters"
+  },
+  "41389872": {
+   "title": "The influence of light wavelength on HPA axis function in non-human animals: A meta-analysis.",
+   "authors": [
+    "Robertson-Dixon I",
+    "Murphy MJ",
+    "Riddell N"
+   ],
+   "sortpubdate": "2026/02/01 00:00",
+   "pubdate": "2026 Feb",
+   "epubdate": "2025 Dec 11",
+   "source": "Comp Biochem Physiol A Mol Integr Physiol",
+   "fulljournalname": "Comparative biochemistry and physiology. Part A, Molecular & integrative physiology"
+  },
+  "9852576": {
+   "title": "CREB in the mouse SCN: a molecular interface coding the phase-adjusting stimuli light, glutamate, PACAP, and melatonin for clockwork access.",
+   "authors": [
+    "von Gall C",
+    "Duffield GE",
+    "Hastings MH",
+    "Kopp MD",
+    "Dehghani F",
+    "Korf HW"
+   ],
+   "sortpubdate": "1998/12/15 00:00",
+   "pubdate": "1998 Dec 15",
+   "epubdate": "",
+   "source": "J Neurosci",
+   "fulljournalname": "The Journal of neuroscience : the official journal of the Society for Neuroscience"
+  },
+  "35999195": {
+   "title": "Rhythmic transcription of Bmal1 stabilizes the circadian timekeeping system in mammals.",
+   "authors": [
+    "Abe YO",
+    "Yoshitane H",
+    "Kim DW",
+    "Kawakami S",
+    "Koebis M",
+    "Nakao K"
+   ],
+   "sortpubdate": "2022/08/23 00:00",
+   "pubdate": "2022 Aug 23",
+   "epubdate": "2022 Aug 23",
+   "source": "Nat Commun",
+   "fulljournalname": "Nature communications"
+  },
+  "36801587": {
+   "title": "Do diurnal salivary cortisol curves carry meaningful information about the regulatory biology of the HPA axis in healthy humans?",
+   "authors": [
+    "Abelson JL",
+    "Sánchez BN",
+    "Mayer SE",
+    "Briggs H",
+    "Liberzon I",
+    "Rajaram N"
+   ],
+   "sortpubdate": "2023/04/01 00:00",
+   "pubdate": "2023 Apr",
+   "epubdate": "2023 Jan 24",
+   "source": "Psychoneuroendocrinology",
+   "fulljournalname": "Psychoneuroendocrinology"
+  },
+  "28321642": {
+   "title": "Circadian Rhythm Dysregulation in Bipolar Spectrum Disorders.",
+   "authors": [
+    "Alloy LB",
+    "Ng TH",
+    "Titone MK",
+    "Boland EM"
+   ],
+   "sortpubdate": "2017/04/01 00:00",
+   "pubdate": "2017 Apr",
+   "epubdate": "",
+   "source": "Curr Psychiatry Rep",
+   "fulljournalname": "Current psychiatry reports"
+  },
+  "33438348": {
+   "title": "Circadian rhythms and the HPA axis: A systems view.",
+   "authors": [
+    "Androulakis IP"
+   ],
+   "sortpubdate": "2021/07/01 00:00",
+   "pubdate": "2021 Jul",
+   "epubdate": "2021 Jan 12",
+   "source": "WIREs Mech Dis",
+   "fulljournalname": "WIREs mechanisms of disease"
+  },
+  "24385426": {
+   "title": "Gene model 129 (Gm129) encodes a novel transcriptional repressor that modulates circadian gene expression.",
+   "authors": [
+    "Annayev Y",
+    "Adar S",
+    "Chiou YY",
+    "Lieb JD",
+    "Sancar A",
+    "Ye R"
+   ],
+   "sortpubdate": "2014/02/21 00:00",
+   "pubdate": "2014 Feb 21",
+   "epubdate": "2014 Jan 2",
+   "source": "J Biol Chem",
+   "fulljournalname": "The Journal of biological chemistry"
+  },
+  "28886335": {
+   "title": "Macromolecular Assemblies of the Mammalian Circadian Clock.",
+   "authors": [
+    "Aryal RP",
+    "Kwak PB",
+    "Tamayo AG",
+    "Gebert M",
+    "Chiu PL",
+    "Walz T"
+   ],
+   "sortpubdate": "2017/09/07 00:00",
+   "pubdate": "2017 Sep 7",
+   "epubdate": "",
+   "source": "Mol Cell",
+   "fulljournalname": "Molecular cell"
+  },
+  "35054913": {
+   "title": "Photic Entrainment of the Circadian System.",
+   "authors": [
+    "Ashton A",
+    "Foster RG",
+    "Jagannath A"
+   ],
+   "sortpubdate": "2022/01/10 00:00",
+   "pubdate": "2022 Jan 10",
+   "epubdate": "2022 Jan 10",
+   "source": "Int J Mol Sci",
+   "fulljournalname": "International journal of molecular sciences"
+  },
+  "40363695": {
+   "title": "Molecular Links Between Circadian Rhythm Disruption, Melatonin, and Neurodegenerative Diseases: An Updated Review.",
+   "authors": [
+    "Baser KHC",
+    "Haskologlu IC",
+    "Erdag E"
+   ],
+   "sortpubdate": "2025/04/23 00:00",
+   "pubdate": "2025 Apr 23",
+   "epubdate": "2025 Apr 23",
+   "source": "Molecules",
+   "fulljournalname": "Molecules (Basel, Switzerland)"
+  },
+  "17432930": {
+   "title": "Synchronization-induced rhythmicity of circadian oscillators in the suprachiasmatic nucleus.",
+   "authors": [
+    "Bernard S",
+    "Gonze D",
+    "Cajavec B",
+    "Herzel H",
+    "Kramer A"
+   ],
+   "sortpubdate": "2007/04/13 00:00",
+   "pubdate": "2007 Apr 13",
+   "epubdate": "2007 Feb 27",
+   "source": "PLoS Comput Biol",
+   "fulljournalname": "PLoS computational biology"
+  },
+  "31355884": {
+   "title": "Continuous Free Cortisol Profiles-Circadian Rhythms in Healthy Men.",
+   "authors": [
+    "Bhake RC",
+    "Kluckner V",
+    "Stassen H",
+    "Russell GM",
+    "Leendertz J",
+    "Stevens K"
+   ],
+   "sortpubdate": "2019/12/01 00:00",
+   "pubdate": "2019 Dec 1",
+   "epubdate": "",
+   "source": "J Clin Endocrinol Metab",
+   "fulljournalname": "The Journal of clinical endocrinology and metabolism"
+  },
+  "42237005": {
+   "title": "Modelling the effect of V1a receptor antagonism and its potential therapeutic effect in circadian disorders.",
+   "authors": [
+    "Boareto M",
+    "Mendoza J",
+    "Holst SC",
+    "Kalsbeek A",
+    "Prinssen E",
+    "Grundschober C"
+   ],
+   "sortpubdate": "2026/06/03 00:00",
+   "pubdate": "2026 Jun 3",
+   "epubdate": "2026 Jun 3",
+   "source": "NPJ Biol Timing Sleep",
+   "fulljournalname": "Npj biological timing and sleep"
+  },
+  "29223280": {
+   "title": "Circadian and ultradian patterns of HPA-axis activity in rodents: Significance for brain functionality.",
+   "authors": [
+    "den Boon FS",
+    "Sarabdjitsingh RA"
+   ],
+   "sortpubdate": "2017/10/01 00:00",
+   "pubdate": "2017 Oct",
+   "epubdate": "2017 Sep 20",
+   "source": "Best Pract Res Clin Endocrinol Metab",
+   "fulljournalname": "Best practice & research. Clinical endocrinology & metabolism"
+  },
+  "15728214": {
+   "title": "On the interactions of the hypothalamic-pituitary-adrenal (HPA) axis and sleep: normal HPA axis activity and circadian rhythm, exemplary sleep disorders.",
+   "authors": [
+    "Buckley TM",
+    "Schatzberg AF"
+   ],
+   "sortpubdate": "2005/05/01 00:00",
+   "pubdate": "2005 May",
+   "epubdate": "2005 Feb 22",
+   "source": "J Clin Endocrinol Metab",
+   "fulljournalname": "The Journal of clinical endocrinology and metabolism"
+  },
+  "31607531": {
+   "title": "Neuropsin (OPN5) Mediates Local Light-Dependent Induction of Circadian Clock Genes and Circadian Photoentrainment in Exposed Murine Skin.",
+   "authors": [
+    "Buhr ED",
+    "Vemaraju S",
+    "Diaz N",
+    "Lang RA",
+    "Van Gelder RN"
+   ],
+   "sortpubdate": "2019/10/21 00:00",
+   "pubdate": "2019 Oct 21",
+   "epubdate": "2019 Oct 10",
+   "source": "Curr Biol",
+   "fulljournalname": "Current biology : CB"
+  },
+  "28006027": {
+   "title": "Evidence for Weakened Intercellular Coupling in the Mammalian Circadian Clock under Long Photoperiod.",
+   "authors": [
+    "Buijink MR",
+    "Almog A",
+    "Wit CB",
+    "Roethler O",
+    "Olde Engberink AH",
+    "Meijer JH"
+   ],
+   "sortpubdate": "2016/12/22 00:00",
+   "pubdate": "2016",
+   "epubdate": "2016 Dec 22",
+   "source": "PLoS One",
+   "fulljournalname": "PloS one"
+  },
+  "37500494": {
+   "title": "Ultrastructure of Synaptic Connectivity within Subregions of the Suprachiasmatic Nucleus Revealed by a Genetically Encoded Tag and Serial Blockface Electron Microscopy.",
+   "authors": [
+    "Calligaro H",
+    "Shoghi A",
+    "Chen X",
+    "Kim KY",
+    "Yu HL",
+    "Khov B"
+   ],
+   "sortpubdate": "2023/08/23 00:00",
+   "pubdate": "2023 Aug",
+   "epubdate": "2023 Aug 23",
+   "source": "eNeuro",
+   "fulljournalname": "eNeuro"
+  },
+  "41568000": {
+   "title": "Salivary cortisol in long COVID: a marker of broader stress system and circadian rhythm dysregulation.",
+   "authors": [
+    "Camici M",
+    "Franco M",
+    "Talamanca L",
+    "Petino M",
+    "Paulicelli J",
+    "Scarnecchia L"
+   ],
+   "sortpubdate": "2026/01/06 00:00",
+   "pubdate": "2025",
+   "epubdate": "2026 Jan 6",
+   "source": "Front Cell Infect Microbiol",
+   "fulljournalname": "Frontiers in cellular and infection microbiology"
+  },
+  "33443219": {
+   "title": "Molecular mechanism of the repressive phase of the mammalian circadian clock.",
+   "authors": [
+    "Cao X",
+    "Yang Y",
+    "Selby CP",
+    "Liu Z",
+    "Sancar A"
+   ],
+   "sortpubdate": "2021/01/12 00:00",
+   "pubdate": "2021 Jan 12",
+   "epubdate": "2020 Dec 21",
+   "source": "Proc Natl Acad Sci U S A",
+   "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America"
+  },
+  "36682495": {
+   "title": "Analysis of mammalian circadian clock protein complexes over a circadian cycle.",
+   "authors": [
+    "Cao X",
+    "Wang L",
+    "Selby CP",
+    "Lindsey-Boltz LA",
+    "Sancar A"
+   ],
+   "sortpubdate": "2023/03/01 00:00",
+   "pubdate": "2023 Mar",
+   "epubdate": "2023 Jan 20",
+   "source": "J Biol Chem",
+   "fulljournalname": "The Journal of biological chemistry"
+  },
+  "29054877": {
+   "title": "Ontogeny of Circadian Rhythms and Synchrony in the Suprachiasmatic Nucleus.",
+   "authors": [
+    "Carmona-Alcocer V",
+    "Abel JH",
+    "Sun TC",
+    "Petzold LR",
+    "Doyle FJ 3rd",
+    "Simms CL"
+   ],
+   "sortpubdate": "2018/02/07 00:00",
+   "pubdate": "2018 Feb 7",
+   "epubdate": "2017 Oct 20",
+   "source": "J Neurosci",
+   "fulljournalname": "The Journal of neuroscience : the official journal of the Society for Neuroscience"
+  },
+  "40662977": {
+   "title": "Evidence for Internal Misalignment of Circadian Rhythms in Youth With Emerging Mood Disorders.",
+   "authors": [
+    "Carpenter JS",
+    "Crouse JJ",
+    "Shin M",
+    "Tonini E",
+    "Hindmarsh G",
+    "de Haan Z"
+   ],
+   "sortpubdate": "2025/10/01 00:00",
+   "pubdate": "2025 Oct",
+   "epubdate": "2025 Jul 15",
+   "source": "J Biol Rhythms",
+   "fulljournalname": "Journal of biological rhythms"
+  },
+  "33122670": {
+   "title": "Circadian misalignment increases mood vulnerability in simulated shift work.",
+   "authors": [
+    "Chellappa SL",
+    "Morris CJ",
+    "Scheer FAJL"
+   ],
+   "sortpubdate": "2020/10/29 00:00",
+   "pubdate": "2020 Oct 29",
+   "epubdate": "2020 Oct 29",
+   "source": "Sci Rep",
+   "fulljournalname": "Scientific reports"
+  },
+  "19917250": {
+   "title": "Rhythmic PER abundance defines a critical nodal point for negative feedback within the circadian clock mechanism.",
+   "authors": [
+    "Chen R",
+    "Schirmer A",
+    "Lee Y",
+    "Lee H",
+    "Kumar V",
+    "Yoo SH"
+   ],
+   "sortpubdate": "2009/11/13 00:00",
+   "pubdate": "2009 Nov 13",
+   "epubdate": "",
+   "source": "Mol Cell",
+   "fulljournalname": "Molecular cell"
+  },
+  "33381013": {
+   "title": "A Sextuple Knockout Cell Line System to Study the Differential Roles of CRY, PER, and NR1D in the Transcription-Translation Feedback Loop of the Circadian Clock.",
+   "authors": [
+    "Chiou YY",
+    "Li TY",
+    "Yang Y",
+    "Sancar A"
+   ],
+   "sortpubdate": "2020/12/14 00:00",
+   "pubdate": "2020",
+   "epubdate": "2020 Dec 14",
+   "source": "Front Neurosci",
+   "fulljournalname": "Frontiers in neuroscience"
+  },
+  "27688755": {
+   "title": "Mammalian Period represses and de-represses transcription by displacing CLOCK-BMAL1 from promoters in a Cryptochrome-dependent manner.",
+   "authors": [
+    "Chiou YY",
+    "Yang Y",
+    "Rashid N",
+    "Ye R",
+    "Selby CP",
+    "Sancar A"
+   ],
+   "sortpubdate": "2016/10/11 00:00",
+   "pubdate": "2016 Oct 11",
+   "epubdate": "2016 Sep 29",
+   "source": "Proc Natl Acad Sci U S A",
+   "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America"
+  },
+  "22217141": {
+   "title": "Circadian activity of the hypothalamic-pituitary-adrenal axis is differentially affected in the rat chronic mild stress model of depression.",
+   "authors": [
+    "Christiansen S",
+    "Bouzinova EV",
+    "Palme R",
+    "Wiborg O"
+   ],
+   "sortpubdate": "2012/11/01 00:00",
+   "pubdate": "2012 Nov",
+   "epubdate": "2012 Feb 23",
+   "source": "Stress",
+   "fulljournalname": "Stress (Amsterdam, Netherlands)"
+  },
+  "38627069": {
+   "title": "Bipolar Disorder, Circadian Rhythm and Clock Genes.",
+   "authors": [
+    "Chung J",
+    "Kim YC",
+    "Jeong JH"
+   ],
+   "sortpubdate": "2024/05/31 00:00",
+   "pubdate": "2024 May 31",
+   "epubdate": "2023 Jul 17",
+   "source": "Clin Psychopharmacol Neurosci",
+   "fulljournalname": "Clinical psychopharmacology and neuroscience : the official scientific journal of the Korean College of Neuropsychopharmacology"
+  },
+  "25451984": {
+   "title": "The suprachiasmatic nuclei as a seasonal clock.",
+   "authors": [
+    "Coomans CP",
+    "Ramkisoensing A",
+    "Meijer JH"
+   ],
+   "sortpubdate": "2015/04/01 00:00",
+   "pubdate": "2015 Apr",
+   "epubdate": "2014 Nov 20",
+   "source": "Front Neuroendocrinol",
+   "fulljournalname": "Frontiers in neuroendocrinology"
+  },
+  "39096022": {
+   "title": "Transcriptomic Plasticity of the Circadian Clock in Response to Photoperiod: A Study in Male Melatonin-Competent Mice.",
+   "authors": [
+    "Cox OH",
+    "Giannoni-Guzmán MA",
+    "Cartailler JP",
+    "Cottam MA",
+    "McMahon DG"
+   ],
+   "sortpubdate": "2024/10/01 00:00",
+   "pubdate": "2024 Oct",
+   "epubdate": "2024 Aug 2",
+   "source": "J Biol Rhythms",
+   "fulljournalname": "Journal of biological rhythms"
+  },
+  "21479263": {
+   "title": "Direct regulation of CLOCK expression by REV-ERB.",
+   "authors": [
+    "Crumbley C",
+    "Burris TP"
+   ],
+   "sortpubdate": "2011/03/29 00:00",
+   "pubdate": "2011 Mar 29",
+   "epubdate": "2011 Mar 29",
+   "source": "PLoS One",
+   "fulljournalname": "PloS one"
+  },
+  "20817722": {
+   "title": "Characterization of the core mammalian clock component, NPAS2, as a REV-ERBalpha/RORalpha target gene.",
+   "authors": [
+    "Crumbley C",
+    "Wang Y",
+    "Kojetin DJ",
+    "Burris TP"
+   ],
+   "sortpubdate": "2010/11/12 00:00",
+   "pubdate": "2010 Nov 12",
+   "epubdate": "2010 Sep 3",
+   "source": "J Biol Chem",
+   "fulljournalname": "The Journal of biological chemistry"
+  },
+  "37858331": {
+   "title": "Circadian rhythms and mood disorders: Time to see the light.",
+   "authors": [
+    "Dollish HK",
+    "Tsyglakova M",
+    "McClung CA"
+   ],
+   "sortpubdate": "2024/01/03 00:00",
+   "pubdate": "2024 Jan 3",
+   "epubdate": "2023 Oct 18",
+   "source": "Neuron",
+   "fulljournalname": "Neuron"
+  },
+  "21680841": {
+   "title": "A molecular mechanism for circadian clock negative feedback.",
+   "authors": [
+    "Duong HA",
+    "Robles MS",
+    "Knutti D",
+    "Weitz CJ"
+   ],
+   "sortpubdate": "2011/06/17 00:00",
+   "pubdate": "2011 Jun 17",
+   "epubdate": "",
+   "source": "Science",
+   "fulljournalname": "Science (New York, N.Y.)"
+  },
+  "33030409": {
+   "title": "Light Has Diverse Spatiotemporal Molecular Changes in the Mouse Suprachiasmatic Nucleus.",
+   "authors": [
+    "Duy PQ",
+    "Komal R",
+    "Richardson MES",
+    "Hahm KS",
+    "Fernandez DC",
+    "Hattar S"
+   ],
+   "sortpubdate": "2020/12/01 00:00",
+   "pubdate": "2020 Dec",
+   "epubdate": "2020 Oct 8",
+   "source": "J Biol Rhythms",
+   "fulljournalname": "Journal of biological rhythms"
+  },
+  "32777620": {
+   "title": "Circadian rhythm in negative affect: Implications for mood disorders.",
+   "authors": [
+    "Emens JS",
+    "Berman AM",
+    "Thosar SS",
+    "Butler MP",
+    "Roberts SA",
+    "Clemons NA"
+   ],
+   "sortpubdate": "2020/11/01 00:00",
+   "pubdate": "2020 Nov",
+   "epubdate": "2020 Aug 4",
+   "source": "Psychiatry Res",
+   "fulljournalname": "Psychiatry research"
+  },
+  "34645802": {
+   "title": "Association between circadian activity rhythms and mood episode relapse in bipolar disorder: a 12-month prospective cohort study.",
+   "authors": [
+    "Esaki Y",
+    "Obayashi K",
+    "Saeki K",
+    "Fujita K",
+    "Iwata N",
+    "Kitajima T"
+   ],
+   "sortpubdate": "2021/10/13 00:00",
+   "pubdate": "2021 Oct 13",
+   "epubdate": "2021 Oct 13",
+   "source": "Transl Psychiatry",
+   "fulljournalname": "Translational psychiatry"
+  },
+  "27162356": {
+   "title": "Architecture of retinal projections to the central circadian pacemaker.",
+   "authors": [
+    "Fernandez DC",
+    "Chang YT",
+    "Hattar S",
+    "Chen SK"
+   ],
+   "sortpubdate": "2016/05/24 00:00",
+   "pubdate": "2016 May 24",
+   "epubdate": "2016 May 9",
+   "source": "Proc Natl Acad Sci U S A",
+   "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America"
+  },
+  "31738971": {
+   "title": "Rhythmicity matters: Circadian and ultradian patterns of HPA axis activity.",
+   "authors": [
+    "Focke CMB",
+    "Iremonger KJ"
+   ],
+   "sortpubdate": "2020/02/05 00:00",
+   "pubdate": "2020 Feb 5",
+   "epubdate": "2019 Nov 15",
+   "source": "Mol Cell Endocrinol",
+   "fulljournalname": "Molecular and cellular endocrinology"
+  },
+  "32101164": {
+   "title": "Dynamics at the serine loop underlie differential affinity of cryptochromes for CLOCK:BMAL1 to control circadian timing.",
+   "authors": [
+    "Fribourgh JL",
+    "Srivastava A",
+    "Sandate CR",
+    "Michael AK",
+    "Hsu PL",
+    "Rakers C"
+   ],
+   "sortpubdate": "2020/02/26 00:00",
+   "pubdate": "2020 Feb 26",
+   "epubdate": "2020 Feb 26",
+   "source": "Elife",
+   "fulljournalname": "eLife"
+  },
+  "27377692": {
+   "title": "Aging and the HPA axis: Stress and resilience in older adults.",
+   "authors": [
+    "Gaffey AE",
+    "Bergeman CS",
+    "Clark LA",
+    "Wirth MM"
+   ],
+   "sortpubdate": "2016/09/01 00:00",
+   "pubdate": "2016 Sep",
+   "epubdate": "2016 Jul 1",
+   "source": "Neurosci Biobehav Rev",
+   "fulljournalname": "Neuroscience and biobehavioral reviews"
+  },
+  "35478603": {
+   "title": "Transcriptional Feedback Loops in the Caprine Circadian Clock System.",
+   "authors": [
+    "Gao D",
+    "Zhao H",
+    "Dong H",
+    "Li Y",
+    "Zhang J",
+    "Zhang H"
+   ],
+   "sortpubdate": "2022/04/11 00:00",
+   "pubdate": "2022",
+   "epubdate": "2022 Apr 11",
+   "source": "Front Vet Sci",
+   "fulljournalname": "Frontiers in veterinary science"
+  },
+  "29764284": {
+   "title": "Role of glucocorticoid negative feedback in the regulation of HPA axis pulsatility.",
+   "authors": [
+    "Gjerstad JK",
+    "Lightman SL",
+    "Spiga F"
+   ],
+   "sortpubdate": "2018/09/01 00:00",
+   "pubdate": "2018 Sep",
+   "epubdate": "2018 May 15",
+   "source": "Stress",
+   "fulljournalname": "Stress (Amsterdam, Netherlands)"
+  },
+  "20664079": {
+   "title": "Physiology of circadian entrainment.",
+   "authors": [
+    "Golombek DA",
+    "Rosenstein RE"
+   ],
+   "sortpubdate": "2010/07/01 00:00",
+   "pubdate": "2010 Jul",
+   "epubdate": "",
+   "source": "Physiol Rev",
+   "fulljournalname": "Physiological reviews"
+  },
+  "35848398": {
+   "title": "Generation and Disruption of Circadian Rhythms in the Suprachiasmatic Nucleus: A Core-Shell Model.",
+   "authors": [
+    "Goltsev AV",
+    "Wright EAP",
+    "Mendes JFF",
+    "Yoon S"
+   ],
+   "sortpubdate": "2022/10/01 00:00",
+   "pubdate": "2022 Oct",
+   "epubdate": "2022 Jul 17",
+   "source": "J Biol Rhythms",
+   "fulljournalname": "Journal of biological rhythms"
+  },
+  "36699023": {
+   "title": "Age-related and individual features of the HPA axis stress responsiveness under constant light in nonhuman primates.",
+   "authors": [
+    "Goncharova N",
+    "Chigarova O",
+    "Oganyan T"
+   ],
+   "sortpubdate": "2023/01/09 00:00",
+   "pubdate": "2022",
+   "epubdate": "2023 Jan 9",
+   "source": "Front Endocrinol (Lausanne)",
+   "fulljournalname": "Frontiers in endocrinology"
+  },
+  "37761843": {
+   "title": "Circadian Gene Variants in Diseases.",
+   "authors": [
+    "Gršković P",
+    "Korać P"
+   ],
+   "sortpubdate": "2023/08/27 00:00",
+   "pubdate": "2023 Aug 27",
+   "epubdate": "2023 Aug 27",
+   "source": "Genes (Basel)",
+   "fulljournalname": "Genes"
+  },
+  "41979826": {
+   "title": "The suprachiasmatic nucleus: a central pacemaker for temporal coordination of energy metabolic homeostasis.",
+   "authors": [
+    "Gu Y",
+    "Vidal-Puig A",
+    "Xu Y"
+   ],
+   "sortpubdate": "2026/06/01 00:00",
+   "pubdate": "2026 Jun",
+   "epubdate": "2026 Apr 14",
+   "source": "Rev Endocr Metab Disord",
+   "fulljournalname": "Reviews in endocrine & metabolic disorders"
+  },
+  "27358024": {
+   "title": "The synchronization of neuronal oscillators determined by the directed network structure of the suprachiasmatic nucleus under different photoperiods.",
+   "authors": [
+    "Gu C",
+    "Tang M",
+    "Yang H"
+   ],
+   "sortpubdate": "2016/06/30 00:00",
+   "pubdate": "2016 Jun 30",
+   "epubdate": "2016 Jun 30",
+   "source": "Sci Rep",
+   "fulljournalname": "Scientific reports"
+  },
+  "33028638": {
+   "title": "The Arg-293 of Cryptochrome1 is responsible for the allosteric regulation of CLOCK-CRY1 binding in circadian rhythm.",
+   "authors": [
+    "Gul S",
+    "Aydin C",
+    "Ozcan O",
+    "Gurkan B",
+    "Surme S",
+    "Baris I"
+   ],
+   "sortpubdate": "2020/12/11 00:00",
+   "pubdate": "2020 Dec 11",
+   "epubdate": "2020 Oct 7",
+   "source": "J Biol Chem",
+   "fulljournalname": "The Journal of biological chemistry"
+  },
+  "25303119": {
+   "title": "Emerging models for the molecular basis of mammalian circadian timing.",
+   "authors": [
+    "Gustafson CL",
+    "Partch CL"
+   ],
+   "sortpubdate": "2015/01/20 00:00",
+   "pubdate": "2015 Jan 20",
+   "epubdate": "2014 Dec 30",
+   "source": "Biochemistry",
+   "fulljournalname": "Biochemistry"
+  },
+  "22423219": {
+   "title": "Effect of network architecture on synchronization and entrainment properties of the circadian oscillations in the suprachiasmatic nucleus.",
+   "authors": [
+    "Hafner M",
+    "Koeppl H",
+    "Gonze D"
+   ],
+   "sortpubdate": "2012/01/01 00:00",
+   "pubdate": "2012",
+   "epubdate": "2012 Mar 8",
+   "source": "PLoS Comput Biol",
+   "fulljournalname": "PLoS computational biology"
+  },
+  "30710088": {
+   "title": "Vasoactive intestinal peptide controls the suprachiasmatic circadian clock network via ERK1/2 and DUSP4 signalling.",
+   "authors": [
+    "Hamnett R",
+    "Crosby P",
+    "Chesham JE",
+    "Hastings MH"
+   ],
+   "sortpubdate": "2019/02/01 00:00",
+   "pubdate": "2019 Feb 1",
+   "epubdate": "2019 Feb 1",
+   "source": "Nat Commun",
+   "fulljournalname": "Nature communications"
+  },
+  "24329967": {
+   "title": "Circadian pacemaking in cells and circuits of the suprachiasmatic nucleus.",
+   "authors": [
+    "Hastings MH",
+    "Brancaccio M",
+    "Maywood ES"
+   ],
+   "sortpubdate": "2014/01/01 00:00",
+   "pubdate": "2014 Jan",
+   "epubdate": "",
+   "source": "J Neuroendocrinol",
+   "fulljournalname": "Journal of neuroendocrinology"
+  },
+  "28049647": {
+   "title": "Regulating the Suprachiasmatic Nucleus (SCN) Circadian Clockwork: Interplay between Cell-Autonomous and Circuit-Level Mechanisms.",
+   "authors": [
+    "Herzog ED",
+    "Hermanstyne T",
+    "Smyllie NJ",
+    "Hastings MH"
+   ],
+   "sortpubdate": "2017/01/03 00:00",
+   "pubdate": "2017 Jan 3",
+   "epubdate": "2017 Jan 3",
+   "source": "Cold Spring Harb Perspect Biol",
+   "fulljournalname": "Cold Spring Harbor perspectives in biology"
+  },
+  "36950689": {
+   "title": "Understanding the relationships between physiological and psychosocial stress, cortisol and cognition.",
+   "authors": [
+    "James KA",
+    "Stromin JI",
+    "Steenkamp N",
+    "Combrinck MI"
+   ],
+   "sortpubdate": "2023/03/06 00:00",
+   "pubdate": "2023",
+   "epubdate": "2023 Mar 6",
+   "source": "Front Endocrinol (Lausanne)",
+   "fulljournalname": "Frontiers in endocrinology"
+  },
+  "33440199": {
+   "title": "Distinct feedback actions of behavioural arousal to the master circadian clock in nocturnal and diurnal mammals.",
+   "authors": [
+    "Jha PK",
+    "Bouâouda H",
+    "Kalsbeek A",
+    "Challet E"
+   ],
+   "sortpubdate": "2021/04/01 00:00",
+   "pubdate": "2021 Apr",
+   "epubdate": "2021 Jan 10",
+   "source": "Neurosci Biobehav Rev",
+   "fulljournalname": "Neuroscience and biobehavioral reviews"
+  },
+  "30082421": {
+   "title": "SCN VIP Neurons Are Essential for Normal Light-Mediated Resetting of the Circadian System.",
+   "authors": [
+    "Jones JR",
+    "Simon T",
+    "Lones L",
+    "Herzog ED"
+   ],
+   "sortpubdate": "2018/09/12 00:00",
+   "pubdate": "2018 Sep 12",
+   "epubdate": "2018 Aug 6",
+   "source": "J Neurosci",
+   "fulljournalname": "The Journal of neuroscience : the official journal of the Society for Neuroscience"
+  },
+  "41009704": {
+   "title": "Cortisol Detection Methods and the Hormone's Role in Evaluating Circadian Rhythm Disruption.",
+   "authors": [
+    "Juliana N",
+    "Maluin SM",
+    "Effendy NM",
+    "Abu IF",
+    "Azmani S"
+   ],
+   "sortpubdate": "2025/09/19 00:00",
+   "pubdate": "2025 Sep 19",
+   "epubdate": "2025 Sep 19",
+   "source": "Int J Mol Sci",
+   "fulljournalname": "International journal of molecular sciences"
+  },
+  "21782883": {
+   "title": "Circadian rhythms in the hypothalamo-pituitary-adrenal (HPA) axis.",
+   "authors": [
+    "Kalsbeek A",
+    "van der Spek R",
+    "Lei J",
+    "Endert E",
+    "Buijs RM",
+    "Fliers E"
+   ],
+   "sortpubdate": "2012/02/05 00:00",
+   "pubdate": "2012 Feb 5",
+   "epubdate": "2011 Jul 18",
+   "source": "Mol Cell Endocrinol",
+   "fulljournalname": "Molecular and cellular endocrinology"
+  },
+  "27362940": {
+   "title": "Melatonin Signal Transduction Pathways Require E-Box-Mediated Transcription of Per1 and Per2 to Reset the SCN Clock at Dusk.",
+   "authors": [
+    "Kandalepas PC",
+    "Mitchell JW",
+    "Gillette MU"
+   ],
+   "sortpubdate": "2016/06/30 00:00",
+   "pubdate": "2016",
+   "epubdate": "2016 Jun 30",
+   "source": "PLoS One",
+   "fulljournalname": "PloS one"
+  },
+  "39569439": {
+   "title": "Hypothalamic-Pituitary-Adrenal Axis Dysfunction in People With Cancer: A Systematic Review.",
+   "authors": [
+    "Kanter NG",
+    "Cohen-Woods S",
+    "Balfour DA",
+    "Burt MG",
+    "Waterman AL",
+    "Koczwara B"
+   ],
+   "sortpubdate": "2024/11/01 00:00",
+   "pubdate": "2024 Nov",
+   "epubdate": "",
+   "source": "Cancer Med",
+   "fulljournalname": "Cancer medicine"
+  },
+  "34399150": {
+   "title": "School commute time, chronotype, and altered HPA axis functioning during adolescence.",
+   "authors": [
+    "Karan M",
+    "Rahal D",
+    "Almeida DM",
+    "Bower JE",
+    "Irwin MR",
+    "McCreath H"
+   ],
+   "sortpubdate": "2021/11/01 00:00",
+   "pubdate": "2021 Nov",
+   "epubdate": "2021 Jul 31",
+   "source": "Psychoneuroendocrinology",
+   "fulljournalname": "Psychoneuroendocrinology"
+  },
+  "32672906": {
+   "title": "A new model for the HPA axis explains dysregulation of stress hormones on the timescale of weeks.",
+   "authors": [
+    "Karin O",
+    "Raz M",
+    "Tendler A",
+    "Bar A",
+    "Korem Kohanim Y",
+    "Milo T"
+   ],
+   "sortpubdate": "2020/07/01 00:00",
+   "pubdate": "2020 Jul",
+   "epubdate": "",
+   "source": "Mol Syst Biol",
+   "fulljournalname": "Molecular systems biology"
+  },
+  "24658072": {
+   "title": "Light stimulates the mouse adrenal through a retinohypothalamic pathway independent of an effect on the clock in the suprachiasmatic nucleus.",
+   "authors": [
+    "Kiessling S",
+    "Sollars PJ",
+    "Pickard GE"
+   ],
+   "sortpubdate": "2014/03/21 00:00",
+   "pubdate": "2014",
+   "epubdate": "2014 Mar 21",
+   "source": "PLoS One",
+   "fulljournalname": "PloS one"
+  },
+  "33510438": {
+   "title": "Multiplexed CRISPR-Cas9 system in a single adeno-associated virus to simultaneously knock out redundant clock genes.",
+   "authors": [
+    "Kim B",
+    "Kim J",
+    "Chun M",
+    "Park I",
+    "Kwak D",
+    "Choi M"
+   ],
+   "sortpubdate": "2021/01/28 00:00",
+   "pubdate": "2021 Jan 28",
+   "epubdate": "2021 Jan 28",
+   "source": "Sci Rep",
+   "fulljournalname": "Scientific reports"
+  },
+  "35597328": {
+   "title": "HPA axis activity across the menstrual cycle - a systematic review and meta-analysis of longitudinal studies.",
+   "authors": [
+    "Klusmann H",
+    "Schulze L",
+    "Engel S",
+    "Bücklein E",
+    "Daehn D",
+    "Lozza-Fiacco S"
+   ],
+   "sortpubdate": "2022/07/01 00:00",
+   "pubdate": "2022 Jul",
+   "epubdate": "2022 May 18",
+   "source": "Front Neuroendocrinol",
+   "fulljournalname": "Frontiers in neuroendocrinology"
+  },
+  "38067154": {
+   "title": "The Role of Cortisol in Chronic Stress, Neurodegenerative Diseases, and Psychological Disorders.",
+   "authors": [
+    "Knezevic E",
+    "Nenic K",
+    "Milanovic V",
+    "Knezevic NN"
+   ],
+   "sortpubdate": "2023/11/29 00:00",
+   "pubdate": "2023 Nov 29",
+   "epubdate": "2023 Nov 29",
+   "source": "Cells",
+   "fulljournalname": "Cells"
+  },
+  "35285799": {
+   "title": "Quantification of protein abundance and interaction defines a mechanism for operation of the circadian clock.",
+   "authors": [
+    "Koch AA",
+    "Bagnall JS",
+    "Smyllie NJ",
+    "Begley N",
+    "Adamson AD",
+    "Fribourgh JL"
+   ],
+   "sortpubdate": "2022/03/14 00:00",
+   "pubdate": "2022 Mar 14",
+   "epubdate": "2022 Mar 14",
+   "source": "Elife",
+   "fulljournalname": "eLife"
+  },
+  "38965880": {
+   "title": "Mouse Models in Circadian Rhythm and Melatonin Research.",
+   "authors": [
+    "Korf HW",
+    "von Gall C"
+   ],
+   "sortpubdate": "2024/08/01 00:00",
+   "pubdate": "2024 Aug",
+   "epubdate": "",
+   "source": "J Pineal Res",
+   "fulljournalname": "Journal of pineal research"
+  },
+  "41990568": {
+   "title": "Differential stability and covariation of diurnal and stress-reactive HPA axis functions in adolescents with and without maltreatment risk.",
+   "authors": [
+    "Korom M",
+    "Carrera P",
+    "Garnett ML",
+    "Sellers T",
+    "Patel K",
+    "Tottenham N"
+   ],
+   "sortpubdate": "2026/06/01 00:00",
+   "pubdate": "2026 Jun",
+   "epubdate": "2026 Apr 15",
+   "source": "Psychoneuroendocrinology",
+   "fulljournalname": "Psychoneuroendocrinology"
+  },
+  "38964508": {
+   "title": "Dynamic endocannabinoid-mediated neuromodulation of retinal circadian circuitry.",
+   "authors": [
+    "Kumar D",
+    "Khan B",
+    "Okcay Y",
+    "Sis ÇÖ",
+    "Abdallah A",
+    "Murray F"
+   ],
+   "sortpubdate": "2024/08/01 00:00",
+   "pubdate": "2024 Aug",
+   "epubdate": "2024 Jul 3",
+   "source": "Ageing Res Rev",
+   "fulljournalname": "Ageing research reviews"
+  },
+  "10428031": {
+   "title": "mCRY1 and mCRY2 are essential components of the negative limb of the circadian clock feedback loop.",
+   "authors": [
+    "Kume K",
+    "Zylka MJ",
+    "Sriram S",
+    "Shearman LP",
+    "Weaver DR",
+    "Jin X"
+   ],
+   "sortpubdate": "1999/07/23 00:00",
+   "pubdate": "1999 Jul 23",
+   "epubdate": "",
+   "source": "Cell",
+   "fulljournalname": "Cell"
+  },
+  "36903600": {
+   "title": "Cortisol Monitoring Devices toward Implementation for Clinically Relevant Biosensing In Vivo.",
+   "authors": [
+    "Kusov PA",
+    "Kotelevtsev YV",
+    "Drachev VP"
+   ],
+   "sortpubdate": "2023/03/03 00:00",
+   "pubdate": "2023 Mar 3",
+   "epubdate": "2023 Mar 3",
+   "source": "Molecules",
+   "fulljournalname": "Molecules (Basel, Switzerland)"
+  },
+  "24043798": {
+   "title": "A positive feedback loop links circadian clock factor CLOCK-BMAL1 to the basic transcriptional machinery.",
+   "authors": [
+    "Lande-Diner L",
+    "Boyault C",
+    "Kim JY",
+    "Weitz CJ"
+   ],
+   "sortpubdate": "2013/10/01 00:00",
+   "pubdate": "2013 Oct 1",
+   "epubdate": "2013 Sep 16",
+   "source": "Proc Natl Acad Sci U S A",
+   "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America"
+  },
+  "37708890": {
+   "title": "Metabolic and chemical architecture of the mammalian circadian clock.",
+   "authors": [
+    "Laothamatas I",
+    "Rasmussen ES",
+    "Green CB",
+    "Takahashi JS"
+   ],
+   "sortpubdate": "2023/09/21 00:00",
+   "pubdate": "2023 Sep 21",
+   "epubdate": "2023 Sep 13",
+   "source": "Cell Chem Biol",
+   "fulljournalname": "Cell chemical biology"
+  },
+  "33326640": {
+   "title": "Photoperiod integration in C3H rd1 mice.",
+   "authors": [
+    "Leclercq B",
+    "Hicks D",
+    "Laurent V"
+   ],
+   "sortpubdate": "2021/09/01 00:00",
+   "pubdate": "2021 Sep",
+   "epubdate": "2021 May 17",
+   "source": "J Pineal Res",
+   "fulljournalname": "Journal of pineal research"
+  },
+  "21199878": {
+   "title": "Stoichiometric relationship among clock proteins determines robustness of circadian rhythms.",
+   "authors": [
+    "Lee Y",
+    "Chen R",
+    "Lee HM",
+    "Lee C"
+   ],
+   "sortpubdate": "2011/03/04 00:00",
+   "pubdate": "2011 Mar 4",
+   "epubdate": "2011 Jan 3",
+   "source": "J Biol Chem",
+   "fulljournalname": "The Journal of biological chemistry"
+  },
+  "38800632": {
+   "title": "Circadian rhythm dysfunction and psychopathology in the offspring of parents with bipolar disorder: a high-risk study in the Chinese population.",
+   "authors": [
+    "Lei B",
+    "Feng H",
+    "Yang L",
+    "Wang J",
+    "Chen J",
+    "Song W"
+   ],
+   "sortpubdate": "2024/05/22 00:00",
+   "pubdate": "2024",
+   "epubdate": "2024 May 22",
+   "source": "Gen Psychiatr",
+   "fulljournalname": "General psychiatry"
+  },
+  "34504149": {
+   "title": "Light entrainment of the SCN circadian clock and implications for personalized alterations of corticosterone rhythms in shift work and jet lag.",
+   "authors": [
+    "Li Y",
+    "Androulakis IP"
+   ],
+   "sortpubdate": "2021/09/09 00:00",
+   "pubdate": "2021 Sep 9",
+   "epubdate": "2021 Sep 9",
+   "source": "Sci Rep",
+   "fulljournalname": "Scientific reports"
+  },
+  "37597751": {
+   "title": "The Physiological and Pharmacological Significance of the Circadian Timing of the HPA Axis: A Mathematical Modeling Approach.",
+   "authors": [
+    "Li Y",
+    "Lu L",
+    "Androulakis IP"
+   ],
+   "sortpubdate": "2024/01/01 00:00",
+   "pubdate": "2024 Jan",
+   "epubdate": "2023 Aug 18",
+   "source": "J Pharm Sci",
+   "fulljournalname": "Journal of pharmaceutical sciences"
+  },
+  "36387856": {
+   "title": "Light-induced synchronization of the SCN coupled oscillators and implications for entraining the HPA axis.",
+   "authors": [
+    "Li Y",
+    "Androulakis IP"
+   ],
+   "sortpubdate": "2022/10/27 00:00",
+   "pubdate": "2022",
+   "epubdate": "2022 Oct 27",
+   "source": "Front Endocrinol (Lausanne)",
+   "fulljournalname": "Frontiers in endocrinology"
+  },
+  "29614896": {
+   "title": "Modeling Strengthens Molecular Link between Circadian Polymorphisms and Major Mood Disorders.",
+   "authors": [
+    "Liberman AR",
+    "Halitjaha L",
+    "Ay A",
+    "Ingram KK"
+   ],
+   "sortpubdate": "2018/06/01 00:00",
+   "pubdate": "2018 Jun",
+   "epubdate": "2018 Apr 3",
+   "source": "J Biol Rhythms",
+   "fulljournalname": "Journal of biological rhythms"
+  },
+  "32060528": {
+   "title": "Dynamics of ACTH and Cortisol Secretion and Implications for Disease.",
+   "authors": [
+    "Lightman SL",
+    "Birnie MT",
+    "Conway-Campbell BL"
+   ],
+   "sortpubdate": "2020/06/01 00:00",
+   "pubdate": "2020 Jun 1",
+   "epubdate": "",
+   "source": "Endocr Rev",
+   "fulljournalname": "Endocrine reviews"
+  },
+  "40854106": {
+   "title": "Biochemical mechanism of the mammalian circadian clock.",
+   "authors": [
+    "Liu Y",
+    "Sancar A"
+   ],
+   "sortpubdate": "2026/03/01 00:00",
+   "pubdate": "2026 Mar",
+   "epubdate": "2025 Aug 25",
+   "source": "FEBS Lett",
+   "fulljournalname": "FEBS letters"
+  },
+  "29223281": {
+   "title": "Human studies on hypothalamo-pituitary-adrenal (HPA) axis.",
+   "authors": [
+    "Liyanarachchi K",
+    "Ross R",
+    "Debono M"
+   ],
+   "sortpubdate": "2017/10/01 00:00",
+   "pubdate": "2017 Oct",
+   "epubdate": "2017 Nov 2",
+   "source": "Best Pract Res Clin Endocrinol Metab",
+   "fulljournalname": "Best practice & research. Clinical endocrinology & metabolism"
+  },
+  "25994103": {
+   "title": "Selective Distribution of Retinal Input to Mouse SCN Revealed in Analysis of Sagittal Sections.",
+   "authors": [
+    "Lokshin M",
+    "LeSauter J",
+    "Silver R"
+   ],
+   "sortpubdate": "2015/06/01 00:00",
+   "pubdate": "2015 Jun",
+   "epubdate": "",
+   "source": "J Biol Rhythms",
+   "fulljournalname": "Journal of biological rhythms"
+  },
+  "34657394": {
+   "title": "Mammalian circadian networks mediated by the suprachiasmatic nucleus.",
+   "authors": [
+    "Lu Q",
+    "Kim JY"
+   ],
+   "sortpubdate": "2022/11/01 00:00",
+   "pubdate": "2022 Nov",
+   "epubdate": "2021 Oct 26",
+   "source": "FEBS J",
+   "fulljournalname": "The FEBS journal"
+  },
+  "36870963": {
+   "title": "Molecular characterization of the circadian clock in paediatric leukaemia patients: a prospective study protocol.",
+   "authors": [
+    "Ludwig M",
+    "Basti A",
+    "Yalçin M",
+    "Schulte JH",
+    "Relógio A"
+   ],
+   "sortpubdate": "2023/03/04 00:00",
+   "pubdate": "2023 Mar 4",
+   "epubdate": "2023 Mar 4",
+   "source": "BMC Pediatr",
+   "fulljournalname": "BMC pediatrics"
+  },
+  "30555405": {
+   "title": "Imaging Individual Differences in the Response of the Human Suprachiasmatic Area to Light.",
+   "authors": [
+    "McGlashan EM",
+    "Poudel GR",
+    "Vidafar P",
+    "Drummond SPA",
+    "Cain SW"
+   ],
+   "sortpubdate": "2018/11/29 00:00",
+   "pubdate": "2018",
+   "epubdate": "2018 Nov 29",
+   "source": "Front Neurol",
+   "fulljournalname": "Frontiers in neurology"
+  },
+  "27524206": {
+   "title": "Chronotype and circadian rhythm in bipolar disorder: A systematic review.",
+   "authors": [
+    "Melo MCA",
+    "Abreu RLC",
+    "Linhares Neto VB",
+    "de Bruin PFC",
+    "de Bruin VMS"
+   ],
+   "sortpubdate": "2017/08/01 00:00",
+   "pubdate": "2017 Aug",
+   "epubdate": "2016 Jul 1",
+   "source": "Sleep Med Rev",
+   "fulljournalname": "Sleep medicine reviews"
+  },
+  "36256675": {
+   "title": "Regionality of short and long period oscillators in the suprachiasmatic nucleus and their manner of synchronization.",
+   "authors": [
+    "Morimoto T",
+    "Yoshikawa T",
+    "Nagano M",
+    "Shigeyoshi Y"
+   ],
+   "sortpubdate": "2022/10/18 00:00",
+   "pubdate": "2022",
+   "epubdate": "2022 Oct 18",
+   "source": "PLoS One",
+   "fulljournalname": "PloS one"
+  },
+  "37001634": {
+   "title": "Physical activity and cortisol regulation: A meta-analysis.",
+   "authors": [
+    "Moyers SA",
+    "Hagger MS"
+   ],
+   "sortpubdate": "2023/04/01 00:00",
+   "pubdate": "2023 Apr",
+   "epubdate": "2023 Mar 29",
+   "source": "Biol Psychol",
+   "fulljournalname": "Biological psychology"
+  },
+  "23133559": {
+   "title": "Role of type II protein arginine methyltransferase 5 in the regulation of Circadian Per1 gene.",
+   "authors": [
+    "Na J",
+    "Lee K",
+    "Kim HG",
+    "Shin JY",
+    "Na W",
+    "Jeong H"
+   ],
+   "sortpubdate": "2012/01/01 00:00",
+   "pubdate": "2012",
+   "epubdate": "2012 Oct 25",
+   "source": "PLoS One",
+   "fulljournalname": "PloS one"
+  },
+  "20106676": {
+   "title": "Interactions of the circadian CLOCK system and the HPA axis.",
+   "authors": [
+    "Nader N",
+    "Chrousos GP",
+    "Kino T"
+   ],
+   "sortpubdate": "2010/05/01 00:00",
+   "pubdate": "2010 May",
+   "epubdate": "2010 Jan 26",
+   "source": "Trends Endocrinol Metab",
+   "fulljournalname": "Trends in endocrinology and metabolism: TEM"
+  },
+  "18375863": {
+   "title": "Reorganization of the suprachiasmatic nucleus coding for day length.",
+   "authors": [
+    "Naito E",
+    "Watanabe T",
+    "Tei H",
+    "Yoshimura T",
+    "Ebihara S"
+   ],
+   "sortpubdate": "2008/04/01 00:00",
+   "pubdate": "2008 Apr",
+   "epubdate": "",
+   "source": "J Biol Rhythms",
+   "fulljournalname": "Journal of biological rhythms"
+  },
+  "41380001": {
+   "title": "The inferred functional connectome underlying circadian synchronization in the mouse suprachiasmatic nucleus.",
+   "authors": [
+    "Nikhil KL",
+    "Singhal B",
+    "Granados-Fuentes D",
+    "Li JS",
+    "Kiss IZ",
+    "Herzog ED"
+   ],
+   "sortpubdate": "2025/12/16 00:00",
+   "pubdate": "2025 Dec 16",
+   "epubdate": "2025 Dec 11",
+   "source": "Proc Natl Acad Sci U S A",
+   "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America"
+  },
+  "23599244": {
+   "title": "A minimal physiologically based model of the HPA axis under influence of the sleep-wake cycles.",
+   "authors": [
+    "Postnova S",
+    "Fulcher R",
+    "Braun HA",
+    "Robinson PA"
+   ],
+   "sortpubdate": "2013/05/01 00:00",
+   "pubdate": "2013 May",
+   "epubdate": "2013 Apr 18",
+   "source": "Pharmacopsychiatry",
+   "fulljournalname": "Pharmacopsychiatry"
+  },
+  "29556064": {
+   "title": "An evolutionary hotspot defines functional differences between CRYPTOCHROMES.",
+   "authors": [
+    "Rosensweig C",
+    "Reynolds KA",
+    "Gao P",
+    "Laothamatas I",
+    "Shan Y",
+    "Ranganathan R"
+   ],
+   "sortpubdate": "2018/03/19 00:00",
+   "pubdate": "2018 Mar 19",
+   "epubdate": "2018 Mar 19",
+   "source": "Nat Commun",
+   "fulljournalname": "Nature communications"
+  },
+  "37389366": {
+   "title": "Cry1 expression during postnatal development is critical for the establishment of normal circadian period.",
+   "authors": [
+    "Schirmer AE",
+    "Kumar V",
+    "Schook A",
+    "Song EJ",
+    "Marshall MS",
+    "Takahashi JS"
+   ],
+   "sortpubdate": "2023/06/14 00:00",
+   "pubdate": "2023",
+   "epubdate": "2023 Jun 14",
+   "source": "Front Neurosci",
+   "fulljournalname": "Frontiers in neuroscience"
+  },
+  "39007272": {
+   "title": "Circadian disruption, clock genes, and metabolic health.",
+   "authors": [
+    "Schrader LA",
+    "Ronnekleiv-Kelly SM",
+    "Hogenesch JB",
+    "Bradfield CA",
+    "Malecki KM"
+   ],
+   "sortpubdate": "2024/07/15 00:00",
+   "pubdate": "2024 Jul 15",
+   "epubdate": "2024 Jul 15",
+   "source": "J Clin Invest",
+   "fulljournalname": "The Journal of clinical investigation"
+  },
+  "38428723": {
+   "title": "Cortisol's diurnal rhythm indexes the neurobiological impact of child adversity in adolescence.",
+   "authors": [
+    "Shirtcliff EA",
+    "Hanson JL",
+    "Ruttle PL",
+    "Smith B",
+    "Pollak SD"
+   ],
+   "sortpubdate": "2024/03/01 00:00",
+   "pubdate": "2024 Mar",
+   "epubdate": "2024 Feb 28",
+   "source": "Biol Psychol",
+   "fulljournalname": "Biological psychology"
+  },
+  "28027684": {
+   "title": "Associations between circadian and stress response cortisol in children.",
+   "authors": [
+    "Simons SS",
+    "Cillessen AH",
+    "de Weerth C"
+   ],
+   "sortpubdate": "2017/01/01 00:00",
+   "pubdate": "2017 Jan",
+   "epubdate": "2017 Jan 23",
+   "source": "Stress",
+   "fulljournalname": "Stress (Amsterdam, Netherlands)"
+  },
+  "40247113": {
+   "title": "Quantitative measures of clock protein dynamics in the mouse suprachiasmatic nucleus extends the circadian time-keeping model.",
+   "authors": [
+    "Smyllie NJ",
+    "Koch AA",
+    "Adamson AD",
+    "Patton AP",
+    "Johnson A",
+    "Bagnall JS"
+   ],
+   "sortpubdate": "2025/07/01 00:00",
+   "pubdate": "2025 Jul",
+   "epubdate": "2025 Apr 17",
+   "source": "EMBO J",
+   "fulljournalname": "The EMBO journal"
+  },
+  "31236437": {
+   "title": "HPA axis function and diurnal cortisol in post-traumatic stress disorder: A systematic review.",
+   "authors": [
+    "Speer KE",
+    "Semple S",
+    "Naumovski N",
+    "D'Cunha NM",
+    "McKune AJ"
+   ],
+   "sortpubdate": "2019/06/04 00:00",
+   "pubdate": "2019 Nov",
+   "epubdate": "2019 Jun 4",
+   "source": "Neurobiol Stress",
+   "fulljournalname": "Neurobiology of stress"
+  },
+  "27871862": {
+   "title": "A users guide to HPA axis research.",
+   "authors": [
+    "Spencer RL",
+    "Deak T"
+   ],
+   "sortpubdate": "2017/09/01 00:00",
+   "pubdate": "2017 Sep 1",
+   "epubdate": "2016 Nov 18",
+   "source": "Physiol Behav",
+   "fulljournalname": "Physiology & behavior"
+  },
+  "37106709": {
+   "title": "Inputs and Outputs of the Mammalian Circadian Clock.",
+   "authors": [
+    "Starnes AN",
+    "Jones JR"
+   ],
+   "sortpubdate": "2023/03/28 00:00",
+   "pubdate": "2023 Mar 28",
+   "epubdate": "2023 Mar 28",
+   "source": "Biology (Basel)",
+   "fulljournalname": "Biology"
+  },
+  "30340064": {
+   "title": "Chronic stress exposure, diurnal cortisol slope, and implications for mood and fatigue: Moderation by multilocus HPA-Axis genetic variation.",
+   "authors": [
+    "Starr LR",
+    "Dienes K",
+    "Li YI",
+    "Shaw ZA"
+   ],
+   "sortpubdate": "2019/02/01 00:00",
+   "pubdate": "2019 Feb",
+   "epubdate": "2018 Oct 6",
+   "source": "Psychoneuroendocrinology",
+   "fulljournalname": "Psychoneuroendocrinology"
+  },
+  "29869403": {
+   "title": "Circadian rhythm in bipolar disorder: A review of the literature.",
+   "authors": [
+    "Takaesu Y"
+   ],
+   "sortpubdate": "2018/09/01 00:00",
+   "pubdate": "2018 Sep",
+   "epubdate": "2018 Jul 4",
+   "source": "Psychiatry Clin Neurosci",
+   "fulljournalname": "Psychiatry and clinical neurosciences"
+  },
+  "26323038": {
+   "title": "Histone monoubiquitination by Clock-Bmal1 complex marks Per1 and Per2 genes for circadian feedback.",
+   "authors": [
+    "Tamayo AG",
+    "Duong HA",
+    "Robles MS",
+    "Mann M",
+    "Weitz CJ"
+   ],
+   "sortpubdate": "2015/10/01 00:00",
+   "pubdate": "2015 Oct",
+   "epubdate": "2015 Aug 31",
+   "source": "Nat Struct Mol Biol",
+   "fulljournalname": "Nature structural & molecular biology"
+  },
+  "19305510": {
+   "title": "Phase shifting capacity of the circadian pacemaker determined by the SCN neuronal network organization.",
+   "authors": [
+    "vanderLeest HT",
+    "Rohling JH",
+    "Michel S",
+    "Meijer JH"
+   ],
+   "sortpubdate": "2009/01/01 00:00",
+   "pubdate": "2009",
+   "epubdate": "2009 Mar 23",
+   "source": "PLoS One",
+   "fulljournalname": "PloS one"
+  },
+  "25369242": {
+   "title": "Melatonin feedback on clock genes: a theory involving the proteasome.",
+   "authors": [
+    "Vriend J",
+    "Reiter RJ"
+   ],
+   "sortpubdate": "2015/01/01 00:00",
+   "pubdate": "2015 Jan",
+   "epubdate": "2014 Nov 22",
+   "source": "J Pineal Res",
+   "fulljournalname": "Journal of pineal research"
+  },
+  "27103927": {
+   "title": "Circadian Pattern of Melatonin MT1 and MT2 Receptor Localization in the Rat Suprachiasmatic Nucleus.",
+   "authors": [
+    "Waly NE",
+    "Hallworth R"
+   ],
+   "sortpubdate": "2015/03/10 00:00",
+   "pubdate": "2015 Mar 10",
+   "epubdate": "2015 Mar 10",
+   "source": "J Circadian Rhythms",
+   "fulljournalname": "Journal of circadian rhythms"
+  },
+  "38308964": {
+   "title": "Associations of diurnal cortisol parameters with cortisol stress reactivity and recovery: A systematic review and meta-analysis.",
+   "authors": [
+    "Wesarg-Menzel C",
+    "Marheinecke R",
+    "Staaks J",
+    "Engert V"
+   ],
+   "sortpubdate": "2024/05/01 00:00",
+   "pubdate": "2024 May",
+   "epubdate": "2024 Jan 24",
+   "source": "Psychoneuroendocrinology",
+   "fulljournalname": "Psychoneuroendocrinology"
+  },
+  "34416169": {
+   "title": "NPAS4 regulates the transcriptional response of the suprachiasmatic nucleus to light and circadian behavior.",
+   "authors": [
+    "Xu P",
+    "Berto S",
+    "Kulkarni A",
+    "Jeong B",
+    "Joseph C",
+    "Cox KH"
+   ],
+   "sortpubdate": "2021/10/20 00:00",
+   "pubdate": "2021 Oct 20",
+   "epubdate": "2021 Aug 19",
+   "source": "Neuron",
+   "fulljournalname": "Neuron"
+  },
+  "25961797": {
+   "title": "Cryptochrome 1 regulates the circadian clock through dynamic interactions with the BMAL1 C terminus.",
+   "authors": [
+    "Xu H",
+    "Gustafson CL",
+    "Sammons PJ",
+    "Khan SK",
+    "Parsley NC",
+    "Ramanathan C"
+   ],
+   "sortpubdate": "2015/06/01 00:00",
+   "pubdate": "2015 Jun",
+   "epubdate": "2015 May 11",
+   "source": "Nat Struct Mol Biol",
+   "fulljournalname": "Nature structural & molecular biology"
+  },
+  "35255992": {
+   "title": "Chronic corticosterone disrupts the circadian rhythm of CRH expression and m(6)A RNA methylation in the chicken hypothalamus.",
+   "authors": [
+    "Yang Y",
+    "Han W",
+    "Zhang A",
+    "Zhao M",
+    "Cong W",
+    "Jia Y"
+   ],
+   "sortpubdate": "2022/03/08 00:00",
+   "pubdate": "2022 Mar 8",
+   "epubdate": "2022 Mar 8",
+   "source": "J Anim Sci Biotechnol",
+   "fulljournalname": "Journal of animal science and biotechnology"
+  },
+  "25228643": {
+   "title": "Dual modes of CLOCK:BMAL1 inhibition mediated by Cryptochrome and Period proteins in the mammalian circadian clock.",
+   "authors": [
+    "Ye R",
+    "Selby CP",
+    "Chiou YY",
+    "Ozkan-Dagliyan I",
+    "Gaddameedhi S",
+    "Sancar A"
+   ],
+   "sortpubdate": "2014/09/15 00:00",
+   "pubdate": "2014 Sep 15",
+   "epubdate": "",
+   "source": "Genes Dev",
+   "fulljournalname": "Genes & development"
+  },
+  "21613214": {
+   "title": "Biochemical analysis of the canonical model for the mammalian circadian clock.",
+   "authors": [
+    "Ye R",
+    "Selby CP",
+    "Ozturk N",
+    "Annayev Y",
+    "Sancar A"
+   ],
+   "sortpubdate": "2011/07/22 00:00",
+   "pubdate": "2011 Jul 22",
+   "epubdate": "2011 May 25",
+   "source": "J Biol Chem",
+   "fulljournalname": "The Journal of biological chemistry"
+  },
+  "11798163": {
+   "title": "Interactivating feedback loops within the mammalian clock: BMAL1 is negatively autoregulated and upregulated by CRY1, CRY2, and PER2.",
+   "authors": [
+    "Yu W",
+    "Nomura M",
+    "Ikeda M"
+   ],
+   "sortpubdate": "2002/01/25 00:00",
+   "pubdate": "2002 Jan 25",
+   "epubdate": "",
+   "source": "Biochem Biophys Res Commun",
+   "fulljournalname": "Biochemical and biophysical research communications"
+  },
+  "41170746": {
+   "title": "Retinal light perception and biological rhythms: The role of light in sleep and mood from an ophthalmic perspective (Review).",
+   "authors": [
+    "Yuan M",
+    "Liu H",
+    "Zhu R",
+    "Li Y",
+    "Song S",
+    "Yang A"
+   ],
+   "sortpubdate": "2026/01/01 00:00",
+   "pubdate": "2026 Jan",
+   "epubdate": "2025 Oct 31",
+   "source": "Mol Med Rep",
+   "fulljournalname": "Molecular medicine reports"
+  },
+  "41244880": {
+   "title": "The gut-brain-circadian axis in anxiety and depression: a critical review.",
+   "authors": [
+    "Bautista J",
+    "Hidalgo-Tinoco C",
+    "Di Capua Delgado M",
+    "Viteri-Recalde J",
+    "Guerra-Guerrero A",
+    "López-Cortés A"
+   ],
+   "sortpubdate": "2025/10/30 00:00",
+   "pubdate": "2025",
+   "epubdate": "2025 Oct 30",
+   "source": "Front Psychiatry",
+   "fulljournalname": "Frontiers in psychiatry"
+  },
+  "41913359": {
+   "title": "Circadian abnormalities, molecular clock gene and chronobiological treatment for psychiatric disorders.",
+   "authors": [
+    "Chakraborty S",
+    "Srivastava V"
+   ],
+   "sortpubdate": "2026/07/01 00:00",
+   "pubdate": "2026 Jul",
+   "epubdate": "2026 Mar 30",
+   "source": "Chronobiol Int",
+   "fulljournalname": "Chronobiology international"
+  },
+  "40154089": {
+   "title": "Associations between light at night and mental health: A systematic review and meta-analysis.",
+   "authors": [
+    "Deprato A",
+    "Haldar P",
+    "Navarro JF",
+    "Harding BN",
+    "Lacy P",
+    "Maidstone R"
+   ],
+   "sortpubdate": "2025/04/25 00:00",
+   "pubdate": "2025 Apr 25",
+   "epubdate": "2025 Mar 27",
+   "source": "Sci Total Environ",
+   "fulljournalname": "The Science of the total environment"
+  },
+  "37441675": {
+   "title": "Emotionally clocked out: cell-type specific regulation of mood and anxiety by the circadian clock system in the brain.",
+   "authors": [
+    "Francis TC",
+    "Porcu A"
+   ],
+   "sortpubdate": "2023/06/27 00:00",
+   "pubdate": "2023",
+   "epubdate": "2023 Jun 27",
+   "source": "Front Mol Neurosci",
+   "fulljournalname": "Frontiers in molecular neuroscience"
+  },
+  "40381827": {
+   "title": "Chronobiology of Mood Disorders: The Role of the Biological Clock in Depression and Bipolar Disorder.",
+   "authors": [
+    "Geoffroy PA",
+    "Maruani J"
+   ],
+   "sortpubdate": "2025/12/01 00:00",
+   "pubdate": "2025 Dec 1",
+   "epubdate": "2025 May 15",
+   "source": "Biol Psychiatry",
+   "fulljournalname": "Biological psychiatry"
+  },
+  "41662130": {
+   "title": "Sleep and psychiatric disorders: Bidirectional interactions and shared neurobiological mechanisms.",
+   "authors": [
+    "Hyndych A",
+    "Koval K",
+    "Dzeruzhynska N",
+    "Mader EC"
+   ],
+   "sortpubdate": "2025/12/31 00:00",
+   "pubdate": "2025",
+   "epubdate": "2025 Dec 31",
+   "source": "PLOS Ment Health",
+   "fulljournalname": "PLOS mental health"
+  },
+  "27750377": {
+   "title": "Cortisol dysregulation: the bidirectional link between stress, depression, and type 2 diabetes mellitus.",
+   "authors": [
+    "Joseph JJ",
+    "Golden SH"
+   ],
+   "sortpubdate": "2017/03/01 00:00",
+   "pubdate": "2017 Mar",
+   "epubdate": "2016 Oct 17",
+   "source": "Ann N Y Acad Sci",
+   "fulljournalname": "Annals of the New York Academy of Sciences"
+  },
+  "32750762": {
+   "title": "Chronobiology Revisited in Psychiatric Disorders: From a Translational Perspective.",
+   "authors": [
+    "Kirlioglu SS",
+    "Balcioglu YH"
+   ],
+   "sortpubdate": "2020/08/01 00:00",
+   "pubdate": "2020 Aug",
+   "epubdate": "2020 Aug 6",
+   "source": "Psychiatry Investig",
+   "fulljournalname": "Psychiatry investigation"
+  },
+  "38394243": {
+   "title": "The sleep-circadian interface: A window into mental disorders.",
+   "authors": [
+    "Meyer N",
+    "Lok R",
+    "Schmidt C",
+    "Kyle SD",
+    "McClung CA",
+    "Cajochen C"
+   ],
+   "sortpubdate": "2024/02/27 00:00",
+   "pubdate": "2024 Feb 27",
+   "epubdate": "2024 Feb 23",
+   "source": "Proc Natl Acad Sci U S A",
+   "fulljournalname": "Proceedings of the National Academy of Sciences of the United States of America"
+  },
+  "28364473": {
+   "title": "Prevalence of Circadian Misalignment and Its Association With Depressive Symptoms in Delayed Sleep Phase Disorder.",
+   "authors": [
+    "Murray JM",
+    "Sletten TL",
+    "Magee M",
+    "Gordon C",
+    "Lovato N",
+    "Bartlett DJ"
+   ],
+   "sortpubdate": "2017/01/01 00:00",
+   "pubdate": "2017 Jan 1",
+   "epubdate": "",
+   "source": "Sleep",
+   "fulljournalname": "Sleep"
+  },
+  "34640406": {
+   "title": "Circadian Characteristics in Patients under Treatment for Substance Use Disorders and Severe Mental Illness (Schizophrenia, Major Depression and Bipolar Disorder).",
+   "authors": [
+    "Serrano-Serrano AB",
+    "Marquez-Arrico JE",
+    "Navarro JF",
+    "Martinez-Nicolas A",
+    "Adan A"
+   ],
+   "sortpubdate": "2021/09/25 00:00",
+   "pubdate": "2021 Sep 25",
+   "epubdate": "2021 Sep 25",
+   "source": "J Clin Med",
+   "fulljournalname": "Journal of clinical medicine"
+  },
+  "38579366": {
+   "title": "Causal dynamics of sleep, circadian rhythm, and mood symptoms in patients with major depression and bipolar disorder: insights from longitudinal wearable device data.",
+   "authors": [
+    "Song YM",
+    "Jeong J",
+    "de Los Reyes AA 5th",
+    "Lim D",
+    "Cho CH",
+    "Yeom JW"
+   ],
+   "sortpubdate": "2024/05/01 00:00",
+   "pubdate": "2024 May",
+   "epubdate": "2024 Apr 4",
+   "source": "EBioMedicine",
+   "fulljournalname": "EBioMedicine"
+  },
+  "32066704": {
+   "title": "Circadian rhythm disruption and mental health.",
+   "authors": [
+    "Walker WH 2nd",
+    "Walton JC",
+    "DeVries AC",
+    "Nelson RJ"
+   ],
+   "sortpubdate": "2020/01/23 00:00",
+   "pubdate": "2020 Jan 23",
+   "epubdate": "2020 Jan 23",
+   "source": "Transl Psychiatry",
+   "fulljournalname": "Translational psychiatry"
+  },
+  "34225967": {
+   "title": "Disrupted circadian rhythms and mental health.",
+   "authors": [
+    "Walker WH 2nd",
+    "Walton JC",
+    "Nelson RJ"
+   ],
+   "sortpubdate": "2021/01/01 00:00",
+   "pubdate": "2021",
+   "epubdate": "",
+   "source": "Handb Clin Neurol",
+   "fulljournalname": "Handbook of clinical neurology"
+  },
+  "39757810": {
+   "title": "Managing Circadian Rhythms: A Key to Enhancing Mental Health in College Students.",
+   "authors": [
+    "Yeom JW",
+    "Park S",
+    "Lee HJ"
+   ],
+   "sortpubdate": "2024/12/01 00:00",
+   "pubdate": "2024 Dec",
+   "epubdate": "2024 Dec 23",
+   "source": "Psychiatry Investig",
+   "fulljournalname": "Psychiatry investigation"
+  },
+  "36033630": {
+   "title": "Chronotype, circadian rhythm, and psychiatric disorders: Recent evidence and potential mechanisms.",
+   "authors": [
+    "Zou H",
+    "Zhou H",
+    "Yan R",
+    "Yao Z",
+    "Lu Q"
+   ],
+   "sortpubdate": "2022/08/10 00:00",
+   "pubdate": "2022",
+   "epubdate": "2022 Aug 10",
+   "source": "Front Neurosci",
+   "fulljournalname": "Frontiers in neuroscience"
+  },
+  "17395264": {
+   "title": "Circadian genes, rhythms and the biology of mood disorders.",
+   "authors": [
+    "McClung CA"
+   ],
+   "sortpubdate": "2007/05/01 00:00",
+   "pubdate": "2007 May",
+   "epubdate": "2007 Feb 28",
+   "source": "Pharmacol Ther",
+   "fulljournalname": "Pharmacology & therapeutics"
+  },
+  "23558300": {
+   "title": "How might circadian rhythms control mood? Let me count the ways..",
+   "authors": [
+    "McClung CA"
+   ],
+   "sortpubdate": "2013/08/15 00:00",
+   "pubdate": "2013 Aug 15",
+   "epubdate": "2013 Apr 1",
+   "source": "Biol Psychiatry",
+   "fulljournalname": "Biological psychiatry"
+  },
+  "30402924": {
+   "title": "Mood-related central and peripheral clocks.",
+   "authors": [
+    "Ketchesin KD",
+    "Becker-Krail D",
+    "McClung CA"
+   ],
+   "sortpubdate": "2020/01/01 00:00",
+   "pubdate": "2020 Jan",
+   "epubdate": "2018 Nov 29",
+   "source": "Eur J Neurosci",
+   "fulljournalname": "The European journal of neuroscience"
+  },
+  "31528147": {
+   "title": "Bright Light Therapy: Seasonal Affective Disorder and Beyond.",
+   "authors": [
+    "Campbell PD",
+    "Miller AM",
+    "Woesner ME"
+   ],
+   "sortpubdate": "2017/01/01 00:00",
+   "pubdate": "2017",
+   "epubdate": "",
+   "source": "Einstein J Biol Med",
+   "fulljournalname": "The Einstein journal of biology and medicine : EJBM"
+  },
+  "21781277": {
+   "title": "Functional genetic variation in the Rev-Erbα pathway and lithium response in the treatment of bipolar disorder.",
+   "authors": [
+    "McCarthy MJ",
+    "Nievergelt CM",
+    "Shekhtman T",
+    "Kripke DF",
+    "Welsh DK",
+    "Kelsoe JR"
+   ],
+   "sortpubdate": "2011/11/01 00:00",
+   "pubdate": "2011 Nov",
+   "epubdate": "2011 Sep 2",
+   "source": "Genes Brain Behav",
+   "fulljournalname": "Genes, brain, and behavior"
+  },
+  "31302521": {
+   "title": "Differential associations between chronotype, anxiety, and negative affect: A structural equation modeling approach.",
+   "authors": [
+    "Cox RC",
+    "Olatunji BO"
+   ],
+   "sortpubdate": "2019/10/01 00:00",
+   "pubdate": "2019 Oct 1",
+   "epubdate": "2019 Jul 5",
+   "source": "J Affect Disord",
+   "fulljournalname": "Journal of affective disorders"
+  },
+  "34850507": {
+   "title": "Neurobiological and behavioral mechanisms of circadian rhythm disruption in bipolar disorder: A critical multi-disciplinary literature review and agenda for future research from the ISBD task force on chronobiology.",
+   "authors": [
+    "McCarthy MJ",
+    "Gottlieb JF",
+    "Gonzalez R",
+    "McClung CA",
+    "Alloy LB",
+    "Cain S"
+   ],
+   "sortpubdate": "2022/05/01 00:00",
+   "pubdate": "2022 May",
+   "epubdate": "2021 Dec 10",
+   "source": "Bipolar Disord",
+   "fulljournalname": "Bipolar disorders"
+  },
+  "34988815": {
+   "title": "Circadian rhythm disorder and anxiety as mental health complications in post-COVID-19.",
+   "authors": [
+    "Boiko DI",
+    "Skrypnikov AM",
+    "Shkodina AD",
+    "Hasan MM",
+    "Ashraf GM",
+    "Rahman MH"
+   ],
+   "sortpubdate": "2022/04/01 00:00",
+   "pubdate": "2022 Apr",
+   "epubdate": "2022 Jan 5",
+   "source": "Environ Sci Pollut Res Int",
+   "fulljournalname": "Environmental science and pollution research international"
+  }
+ }
+}

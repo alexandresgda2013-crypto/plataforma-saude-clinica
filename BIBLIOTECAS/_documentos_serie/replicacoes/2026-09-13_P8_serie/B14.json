@@ -1,0 +1,1553 @@
+{
+  "meta": {
+    "canonica": "B14 NEUROESTEROIDES V2 CANONICA.md",
+    "sha256": "8d28883b6c31e227dba34e48520010793b7b6b86184d6f3ebdc3379d8ae1326f",
+    "refs": 290,
+    "vinculos": 290,
+    "ledger": 290
+  },
+  "itens": [
+    {
+      "nivel": "OK",
+      "regra": "V-00",
+      "objeto": "-",
+      "mensagem": "canônica: B14 NEUROESTEROIDES V2 CANONICA.md (11979 palavras)"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-00",
+      "objeto": "-",
+      "mensagem": "Módulo 09: 290 · vínculos: 290 · ledger: 290"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-01",
+      "objeto": "-",
+      "mensagem": "290/290 âncoras literais; 0 com deriva TIPOGRÁFICA; 0 com deriva LEXICAL"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0001",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0002",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0003",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0004",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0005",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0006",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0007",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0008",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0009",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0010",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0011",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0012",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0013",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0014",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0015",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0016",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0017",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0018",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0019",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0020",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0021",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0022",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0023",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0024",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0025",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0026",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0027",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0028",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0029",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0030",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0031",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0032",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0033",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0034",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0035",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0036",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0037",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0038",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0039",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0040",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0041",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0042",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0043",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0044",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0045",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0046",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0047",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0048",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0049",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0050",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0051",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0052",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0053",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0054",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0055",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0056",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0057",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0058",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0059",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0060",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0061",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0062",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0063",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0064",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0065",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0066",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0067",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0068",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0069",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0070",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0071",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0072",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0073",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0074",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0075",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0076",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0077",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0078",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0079",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0080",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0081",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0082",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0083",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0084",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0085",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0086",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0087",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0088",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0089",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0090",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0091",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0092",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0093",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0094",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0095",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0096",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0097",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0098",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0099",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0100",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0101",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0102",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0103",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0104",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0105",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0106",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0107",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0108",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0109",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0110",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0111",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0112",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0113",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0114",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0115",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0116",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0117",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0118",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0119",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0120",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0121",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0122",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0123",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0124",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0125",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0126",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0127",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0128",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0129",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0130",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0131",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0132",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0133",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0134",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0135",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0136",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0137",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0138",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0139",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0140",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0141",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0142",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0143",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0144",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0145",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0146",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0147",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0148",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0149",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0150",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0151",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0152",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0153",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0154",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0155",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0156",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0157",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0158",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0159",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0160",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0161",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0162",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0163",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0164",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0165",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0166",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0167",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0168",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0169",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0170",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0171",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0172",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0173",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0174",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0175",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0176",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0177",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0178",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0179",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0180",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0181",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0182",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0183",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0184",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0185",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0186",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0187",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0188",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0189",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0190",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0191",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0192",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0193",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0194",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0195",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0196",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0197",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0198",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0199",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0200",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0201",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0202",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0203",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0204",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0205",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0206",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0207",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0208",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0209",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0210",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0211",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0212",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0213",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0214",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0215",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0216",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0217",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0218",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0219",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0220",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0221",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0222",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0223",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0224",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0225",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0226",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0227",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0228",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0229",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0230",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0231",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0232",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0233",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0234",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0235",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0236",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0237",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0238",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0239",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B14_0240",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-04",
+      "objeto": "-",
+      "mensagem": "integridade referencial íntegra nos dois sentidos"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-05",
+      "objeto": "-",
+      "mensagem": "citações reconhecidas: 262/49 (100.0% de cobertura sobre universo de 262)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-05",
+      "objeto": "(Guo, 2023)",
+      "mensagem": "citação na prosa sem ficha correspondente no Módulo 09"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-05",
+      "objeto": "(Mikulska, 2021)",
+      "mensagem": "citação na prosa sem ficha correspondente no Módulo 09"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-05",
+      "objeto": "(Tateiwa, 2024)",
+      "mensagem": "citação na prosa sem ficha correspondente no Módulo 09"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-05",
+      "objeto": "(Tidke, 2025)",
+      "mensagem": "citação na prosa sem ficha correspondente no Módulo 09"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-06",
+      "objeto": "VINC_B14_0264",
+      "mensagem": "prosa ancorada qualifica o achado (['não']) mas nem achado_central_molecular de REF_ZHANG_2023 nem g3_notas registram a qualificação — possível correção não propagada"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-07",
+      "objeto": "corte_literatura",
+      "mensagem": "campo em texto livre (schema antigo) — só a data foi extraída; padronizar para objeto {valor, tipo} na série"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-07",
+      "objeto": "status_canonico",
+      "mensagem": "campo ausente no manifesto"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-09",
+      "objeto": "claim_id",
+      "mensagem": "290 de 290 vínculos (100.0%) sem claim_id — malha de rastreabilidade não navegável por claim"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-10",
+      "objeto": "ledger",
+      "mensagem": "280 de 290 (97%) entradas com citacao_literal preenchida por TOKEN e não por citação literal — o detector de deriva ledger×texto está inoperante"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-13",
+      "objeto": "-",
+      "mensagem": "sha256 da canônica: 8d28883b6c31e227…"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-13",
+      "objeto": "manifesto",
+      "mensagem": "hash da canônica vigente não registrado no manifesto — edição fora de trilha não seria detectável"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-14",
+      "objeto": "-",
+      "mensagem": "docstring x implementação coerentes: 14 regras anunciadas, todas executadas"
+    }
+  ]
+}

@@ -1,0 +1,624 @@
+[
+ {
+  "pmid_oficial": "10967371",
+  "titulo_artigo": "Enhancement of the antidepressant action of fluoxetine by folic acid: a randomised, placebo controlled trial",
+  "autores": [
+   "Coppen A",
+   "Bailey J"
+  ],
+  "revista_ano": "Journal of affective disorders (2000)",
+  "desenho_estudo": "[EC] RCT J Affect Disord — folato+fluoxetina",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Ácido fólico potencializa a ação antidepressiva da fluoxetina (RCT).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_COPPEN_2000"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT pequeno; folato potencializa fluoxetina",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_COPPEN_2000",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Coppen",
+   "COPPEN"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "23212058",
+  "titulo_artigo": "L-methylfolate as adjunctive therapy for SSRI-resistant major depression: results of two randomized, double-blind, parallel-sequential trials",
+  "autores": [
+   "Papakostas GI",
+   "Shelton RC",
+   "Zajecka JM",
+   "Etemad B",
+   "Rickels K",
+   "Clain A"
+  ],
+  "revista_ano": "The American journal of psychiatry (2012)",
+  "desenho_estudo": "[EC] RCT AJP — L-metilfolato adjuvante",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "L-metilfolato como adjuvante na TDM resistente a ISRS (dois RCTs).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_PAPAKOSTAS_2012"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT em respondedores inadequados a ISRS",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_PAPAKOSTAS_2012",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "PAPAKOSTAS",
+   "Papakostas"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "24813065",
+  "titulo_artigo": "Effect of adjunctive L-methylfolate 15 mg among inadequate responders to SSRIs in depressed patients who were stratified by biomarker levels and genotype: results from a randomized clinical trial",
+  "autores": [
+   "Papakostas GI",
+   "Shelton RC",
+   "Zajecka JM",
+   "Bottiglieri T",
+   "Roffman J",
+   "Cassiello C"
+  ],
+  "revista_ano": "The Journal of clinical psychiatry (2014)",
+  "desenho_estudo": "[EC] RCT JCP — estratificado",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "L-metilfolato 15mg adjuvante em respondedores inadequados a ISRS.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_PAPAKOSTAS_2014"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT estratificado por biomarcador/genótipo",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_PAPAKOSTAS_2014",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "PAPAKOSTAS",
+   "Papakostas"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "26353411",
+  "titulo_artigo": "Effects of Oral Vitamin C Supplementation on Anxiety in Students: A Double-Blind, Randomized, Placebo-Controlled Trial",
+  "autores": [
+   "de Oliveira IJ",
+   "de Souza VV",
+   "Motta V",
+   "Da-Silva SL"
+  ],
+  "revista_ano": "Pakistan journal of biological sciences : PJBS (2015)",
+  "desenho_estudo": "[EC] RCT duplo-cego Pak J Biol Sci — estudantes",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Vitamina C oral reduziu ansiedade em estudantes (RCT pequeno).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_DEOLIVEIRA_2015"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_clinico",
+  "g2_motivo": "RCT pequeno em estudantes; periódico de menor impacto; âncora fraca",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_DEOLIVEIRA_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "deOliveira",
+   "DEOLIVEIRA",
+   "Deoliveira"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "26613389",
+  "titulo_artigo": "Association of obesity and inflammatory marker levels on treatment outcome: results from a double-blind, randomized study of adjunctive L-methylfolate calcium in patients with MDD who are inadequate responders to SSRIs",
+  "autores": [
+   "Shelton RC",
+   "Pencina MJ",
+   "Barrentine LW",
+   "Ruiz JA",
+   "Fava M",
+   "Zajecka JM"
+  ],
+  "revista_ano": "The Journal of clinical psychiatry (2015)",
+  "desenho_estudo": "[EC] análise JCP — obesidade/inflamação",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Obesidade e marcadores inflamatórios modificam o desfecho com L-metilfolato.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SHELTON_2015"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "subgrupo obesidade/marcador inflamatório",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SHELTON_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Shelton",
+   "SHELTON"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "27035404",
+  "titulo_artigo": "Long-term efficacy, safety, and tolerability of L-methylfolate calcium 15 mg as adjunctive therapy with selective serotonin reuptake inhibitors: a 12-month, open-label study following a placebo-controlled acute study",
+  "autores": [
+   "Zajecka JM",
+   "Fava M",
+   "Shelton RC",
+   "Barrentine LW",
+   "Young P",
+   "Papakostas GI"
+  ],
+  "revista_ano": "The Journal of clinical psychiatry (2016)",
+  "desenho_estudo": "[EC] estudo longo prazo JCP",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Eficácia/segurança de longo prazo de L-metilfolato cálcico adjuvante.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ZAJECKA_2016"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "segurança/eficácia de longo prazo",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_ZAJECKA_2016",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "ZAJECKA",
+   "Zajecka"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "28137247",
+  "titulo_artigo": "A randomised controlled trial of dietary improvement for adults with major depression (the 'SMILES' trial)",
+  "autores": [
+   "Jacka FN",
+   "O'Neil A",
+   "Opie R",
+   "Itsiopoulos C",
+   "Cotton S",
+   "Mohebbi M"
+  ],
+  "revista_ano": "BMC medicine (2017)",
+  "desenho_estudo": "[EC] RCT BMC Med — SMILES (dieta vs apoio social)",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Aconselhamento dietético (Mediterrâneo) melhorou a TDM mais que apoio social (SMILES).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_JACKA_2017"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT single-blind de modificação dietética na TDM; d=−1,16; NNT≈4",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_JACKA_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "JACKA",
+   "Jacka"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "28241991",
+  "titulo_artigo": "Effect of magnesium supplementation on depression status in depressed patients with magnesium deficiency: A randomized, double-blind, placebo-controlled trial",
+  "autores": [
+   "Rajizadeh A",
+   "Mozaffari-Khosravi H",
+   "Yassini-Ardakani M",
+   "Dehghani A"
+  ],
+  "revista_ano": "Nutrition (Burbank, Los Angeles County, Calif.) (2017)",
+  "desenho_estudo": "[EC] RCT duplo-cego placebo Nutrition — só em DEFICIENTES",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Mg em deprimidos COM hipomagnesemia normalizou soro e reduziu BDI.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_RAJIZADEH_2017"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT pequeno (n=60) em hipomagnesêmicos; prova de conceito de corrigir deficiência",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_RAJIZADEH_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "RAJIZADEH",
+   "Rajizadeh"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "28654669",
+  "titulo_artigo": "Role of magnesium supplementation in the treatment of depression: A randomized clinical trial",
+  "autores": [
+   "Tarleton EK",
+   "Littenberg B",
+   "MacLean CD",
+   "Kennedy AG",
+   "Daley C"
+  ],
+  "revista_ano": "PloS one (2017)",
+  "desenho_estudo": "[EC] RCT ABERTO/não-cego PLoS One",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Cloreto de Mg melhorou PHQ-9 e GAD-7 em RCT aberto (sem cegueira).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_TARLETON_2017"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "open-label crossover; GAD-7 secundário; âncora com ressalva de cegueira",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_TARLETON_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "TARLETON",
+   "Tarleton"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "29177955",
+  "titulo_artigo": "A randomized, double-blind, placebo-controlled, proof-of-concept trial of creatine monohydrate as adjunctive treatment for bipolar depression",
+  "autores": [
+   "Toniolo RA",
+   "Silva M",
+   "Fernandes FBF",
+   "Amaral JAMS",
+   "Dias RDS",
+   "Lafer B"
+  ],
+  "revista_ano": "Journal of neural transmission (Vienna, Austria : 1996) (2018)",
+  "desenho_estudo": "[EC] RCT duplo-cego prova de conceito J Neural Transm",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Creatina monohidratada como adjuvante na TDM (prova de conceito, duplo-cego).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_TONIOLO_2018"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT pequeno; creatina adjuvante",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_TONIOLO_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "TONIOLO",
+   "Toniolo"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "29215971",
+  "titulo_artigo": "A Mediterranean-style dietary intervention supplemented with fish oil improves diet quality and mental health in people with depression: A randomized controlled trial (HELFIMED)",
+  "autores": [
+   "Parletta N",
+   "Zarnowiecki D",
+   "Cho J",
+   "Wilson A",
+   "Bogomolova S",
+   "Villani A"
+  ],
+  "revista_ano": "Nutritional neuroscience (2019)",
+  "desenho_estudo": "[EC] RCT Nutr Neurosci — Mediterrâneo+peixe",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Intervenção estilo-Mediterrâneo melhorou qualidade da dieta e saúde mental (HELFIMED).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_PARLETTA_2019"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT de intervenção Mediterrânea suplementada com óleo de peixe",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_PARLETTA_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "PARLETTA",
+   "Parletta"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "30562392",
+  "titulo_artigo": "Superiority of magnesium and vitamin B6 over magnesium alone on severe stress in healthy adults with low magnesemia: A randomized, single-blind clinical trial",
+  "autores": [
+   "Pouteau E",
+   "Kabir-Ahmadi M",
+   "Noah L",
+   "Mazur A",
+   "Dye L",
+   "Hellhammer J"
+  ],
+  "revista_ano": "PloS one (2018)",
+  "desenho_estudo": "[EC] RCT PLoS One — estresse em sadios",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Mg+B6 superior ao Mg sozinho em estresse severo em adultos sadios.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_POUTEAU_2018"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT em voluntários sadios com estresse; Mg+B6 vs Mg",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_POUTEAU_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "POUTEAU",
+   "Pouteau"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "32749491",
+  "titulo_artigo": "Effect of Long-term Vitamin D3 Supplementation vs Placebo on Risk of Depression or Clinically Relevant Depressive Symptoms and on Change in Mood Scores: A Randomized Clinical Trial",
+  "autores": [
+   "Okereke OI",
+   "Reynolds CF 3rd",
+   "Mischoulon D",
+   "Chang G",
+   "Vyas CM",
+   "Cook NR"
+  ],
+  "revista_ano": "JAMA (2020)",
+  "desenho_estudo": "[EC] RCT grande JAMA (VITAL-DEP) — NULO/prevenção",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "D3 de longo prazo NÃO preveniu depressão nem alterou escores de humor (HR 0,97).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_OKEREKE_2020"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT ~18 mil, prevenção; âncora LIMITADORA",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_OKEREKE_2020",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "OKEREKE",
+   "Okereke"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "34932079",
+  "titulo_artigo": "Effect of Long-term Supplementation With Marine Omega-3 Fatty Acids vs Placebo on Risk of Depression or Clinically Relevant Depressive Symptoms and on Change in Mood Scores: A Randomized Clinical Trial",
+  "autores": [
+   "Okereke OI",
+   "Vyas CM",
+   "Mischoulon D",
+   "Chang G",
+   "Cook NR",
+   "Weinberg A"
+  ],
+  "revista_ano": "JAMA (2021)",
+  "desenho_estudo": "[EC] RCT grande JAMA (VITAL-DEP) — NULO/prevenção",
+  "secao_origem": "mecanismo_B8_deficiencias_micronutrientes",
+  "achado_central_molecular": "Ômega-3 marinho de longo prazo NÃO preveniu depressão (HR 1,13; humor sem diferença).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_OKEREKE_2021"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT ~18 mil, prevenção; âncora LIMITADORA",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco (VITAL D3/n3, B12 nulo, selênio, Mg Rajizadeh/Tarleton, MR Carnegie, SMILES, Ghaemi/Mikola D); 2a verificação P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_OKEREKE_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "OKEREKE",
+   "Okereke"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ }
+]

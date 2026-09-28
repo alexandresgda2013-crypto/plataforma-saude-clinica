@@ -1,0 +1,2205 @@
+{
+ "candidatos": [
+  {
+   "chave": "Fischer",
+   "ano": 2018,
+   "pmid": "29064607",
+   "fonte": "ancora14"
+  },
+  {
+   "chave": "Kim",
+   "ano": 2018,
+   "pmid": "29408972",
+   "fonte": "ancora14"
+  },
+  {
+   "chave": "Siegmann",
+   "ano": 2018,
+   "pmid": "29800939",
+   "fonte": "ancora14"
+  },
+  {
+   "chave": "Zhao",
+   "ano": 2018,
+   "pmid": "30375372",
+   "fonte": "ancora14"
+  },
+  {
+   "chave": "Tang",
+   "ano": 2019,
+   "pmid": "31214119",
+   "fonte": "ancora14"
+  },
+  {
+   "chave": "Wildisen",
+   "ano": 2020,
+   "pmid": "33154486",
+   "fonte": "ancora14"
+  },
+  {
+   "chave": "Bauer",
+   "ano": 2021,
+   "pmid": "34129186",
+   "fonte": "ancora14"
+  },
+  {
+   "chave": "Airaksinen",
+   "ano": 2021,
+   "pmid": "34147730",
+   "fonte": "ancora14"
+  },
+  {
+   "chave": "Bode",
+   "ano": 2022,
+   "pmid": "36064836",
+   "fonte": "ancora14"
+  },
+  {
+   "chave": "Soheili-Nezhad",
+   "ano": 2023,
+   "pmid": "36463425",
+   "fonte": "ancora14"
+  },
+  {
+   "chave": "Odawara",
+   "ano": 2023,
+   "pmid": "37528949",
+   "fonte": "ancora14"
+  },
+  {
+   "chave": "Roa Dueñas",
+   "ano": 2024,
+   "pmid": "37855318",
+   "fonte": "ancora14"
+  },
+  {
+   "chave": "Ma",
+   "ano": 2024,
+   "pmid": "39280013",
+   "fonte": "ancora14"
+  },
+  {
+   "chave": "Fan",
+   "ano": 2024,
+   "pmid": "40226662",
+   "fonte": "ancora14"
+  },
+  {
+   "chave": "Zhang(registro)",
+   "ano": 2024,
+   "pmid": "37155921",
+   "fonte": "ancora14"
+  },
+  {
+   "chave": "Bould",
+   "ano": 2012,
+   "pmid": "21890841",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Cui",
+   "ano": 2025,
+   "pmid": "39838463",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Liu",
+   "ano": 2025,
+   "pmid": "40270696",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Roca",
+   "ano": 1990,
+   "pmid": "31795239",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Saravanan",
+   "ano": 2006,
+   "pmid": "16804044",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Shangguan",
+   "ano": 2022,
+   "pmid": "35728676",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Wang",
+   "ano": 2023,
+   "pmid": "36806659",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Wilson",
+   "ano": 2025,
+   "pmid": "40489725",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Yang",
+   "ano": 2024,
+   "pmid": "38699891",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Yu",
+   "ano": 2025,
+   "pmid": "41215684",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Zheng",
+   "ano": 2026,
+   "pmid": "41848904",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Zhou",
+   "ano": 2021,
+   "pmid": "33542178",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Bjorklund",
+   "ano": 2025,
+   "pmid": "39799523",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Almeida",
+   "ano": 2007,
+   "pmid": "17639255",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Andrade",
+   "ano": 2010,
+   "pmid": "21152840",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Ao",
+   "ano": 2023,
+   "pmid": "37937562",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Aslan",
+   "ano": 2005,
+   "pmid": "24937789",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Aung",
+   "ano": 2024,
+   "pmid": "39046130",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Ayhan",
+   "ano": 2013,
+   "pmid": "24211158",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Bathla",
+   "ano": 2016,
+   "pmid": "27366712",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Baumgartner",
+   "ano": 1988,
+   "pmid": "3136485",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Baweja",
+   "ano": 2026,
+   "pmid": "41825352",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Bensenor",
+   "ano": 2016,
+   "pmid": "25580957",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Beydoun",
+   "ano": 2013,
+   "pmid": "23690311",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Chen",
+   "ano": 2024,
+   "pmid": "39391263",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Chopra",
+   "ano": 1990,
+   "pmid": "2336036",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Costache",
+   "ano": 2020,
+   "pmid": "32874682",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Dehesh",
+   "ano": 2025,
+   "pmid": "39833737",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Delitala",
+   "ano": 2015,
+   "pmid": "26655116",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Dickerman",
+   "ano": 2012,
+   "pmid": "22318794",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Eckert",
+   "ano": 2020,
+   "pmid": "33325120",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Engum",
+   "ano": 2002,
+   "pmid": "12100345",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Engum",
+   "ano": 2005,
+   "pmid": "16253615",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Erensoy",
+   "ano": 2019,
+   "pmid": "31872808",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Forbes",
+   "ano": 2025,
+   "pmid": "40133129",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Gonen",
+   "ano": 2004,
+   "pmid": "15256776",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Gorkhali",
+   "ano": 2020,
+   "pmid": "33210626",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Gulseren",
+   "ano": 2005,
+   "pmid": "16314199",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Hage",
+   "ano": 2011,
+   "pmid": "22220285",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Hakoshima",
+   "ano": 2025,
+   "pmid": "41354432",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Hallab",
+   "ano": 2024,
+   "pmid": "39833340",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Hein",
+   "ano": 1990,
+   "pmid": "2198197",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Hilmon",
+   "ano": 2026,
+   "pmid": "42074695",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Hirtz",
+   "ano": 2022,
+   "pmid": "35946076",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Hong",
+   "ano": 2018,
+   "pmid": "30106989",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Ittermann",
+   "ano": 2015,
+   "pmid": "25777685",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Jiang",
+   "ano": 2025,
+   "pmid": "39831013",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Kamble",
+   "ano": 2013,
+   "pmid": "23449617",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Karakatsoulis",
+   "ano": 2021,
+   "pmid": "34427900",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Kim",
+   "ano": 2015,
+   "pmid": "25973566",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Kirnap",
+   "ano": 2020,
+   "pmid": "32490648",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Konstantakou",
+   "ano": 2021,
+   "pmid": "34421508",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Kornelius",
+   "ano": 2025,
+   "pmid": "40235655",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Kumar",
+   "ano": 2023,
+   "pmid": "37419569",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Lai",
+   "ano": 2020,
+   "pmid": "32791168",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Lang",
+   "ano": 2019,
+   "pmid": "31759671",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Lee",
+   "ano": 2019,
+   "pmid": "30772742",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Lei",
+   "ano": 2025,
+   "pmid": "40933156",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Liu",
+   "ano": 2025,
+   "pmid": "40163571",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Loh",
+   "ano": 2019,
+   "pmid": "30621645",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Luft",
+   "ano": 2019,
+   "pmid": "31390496",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Luo",
+   "ano": 2023,
+   "pmid": "37201896",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Mattar",
+   "ano": 2025,
+   "pmid": "40641314",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Meng",
+   "ano": 2024,
+   "pmid": "39537660",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Nuguru",
+   "ano": 2022,
+   "pmid": "36003348",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Panicker",
+   "ano": 2009,
+   "pmid": "19751298",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Peng",
+   "ano": 2023,
+   "pmid": "36645990",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Premachandra",
+   "ano": 2006,
+   "pmid": "16840838",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Qaderi",
+   "ano": 2026,
+   "pmid": "41732642",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Qiao",
+   "ano": 2021,
+   "pmid": "34856305",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Qiu",
+   "ano": 2026,
+   "pmid": "41966231",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Rao",
+   "ano": 1989,
+   "pmid": "2497474",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Rehman",
+   "ano": 2025,
+   "pmid": "40108945",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Roberts",
+   "ano": 2006,
+   "pmid": "17043339",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Sabeen",
+   "ano": 2010,
+   "pmid": "19616322",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Shen",
+   "ano": 2019,
+   "pmid": "31446378",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Song",
+   "ano": 2026,
+   "pmid": "41601507",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Sun",
+   "ano": 2023,
+   "pmid": "37437726",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Suwal",
+   "ano": 2026,
+   "pmid": "42021447",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Telo",
+   "ano": 2016,
+   "pmid": "28358451",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Toma",
+   "ano": 2026,
+   "pmid": "42346303",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Vedal",
+   "ano": 2018,
+   "pmid": "30292780",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Wang",
+   "ano": 2024,
+   "pmid": "39717384",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Wang",
+   "ano": 2024,
+   "pmid": "38281598",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Wang",
+   "ano": 2025,
+   "pmid": "40225726",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Woolf",
+   "ano": 1996,
+   "pmid": "8936670",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Wu",
+   "ano": 2020,
+   "pmid": "33210405",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Yang",
+   "ano": 2022,
+   "pmid": "35851661",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Yang",
+   "ano": 2022,
+   "pmid": "35815037",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Yang",
+   "ano": 2023,
+   "pmid": "37303557",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Ye",
+   "ano": 2023,
+   "pmid": "37608074",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Zhan",
+   "ano": 2026,
+   "pmid": "41485512",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Zhan",
+   "ano": 2023,
+   "pmid": "37920820",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Zhang",
+   "ano": 2024,
+   "pmid": "38773550",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Zhang",
+   "ano": 2020,
+   "pmid": "32901909",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Zhao",
+   "ano": 2023,
+   "pmid": "37706034",
+   "fonte": "sec6_119"
+  },
+  {
+   "chave": "Zhu",
+   "ano": 2023,
+   "pmid": "37633524",
+   "fonte": "sec6_119"
+  }
+ ],
+ "meta": {
+  "29064607": {
+   "title": "Hypothalamic-pituitary-thyroid (HPT) axis functioning in anxiety disorders. A systematic review.",
+   "authors": [
+    "Fischer S",
+    "Ehlert U"
+   ],
+   "sortpubdate": "2018/01/01 00:00",
+   "pubdate": "2018 Jan",
+   "epubdate": "2017 Oct 24",
+   "source": "Depress Anxiety",
+   "fulljournalname": "Depression and anxiety"
+  },
+  "29408972": {
+   "title": "Subclinical Hypothyroidism and Incident Depression in Young and Middle-Age Adults.",
+   "authors": [
+    "Kim JS",
+    "Zhang Y",
+    "Chang Y",
+    "Ryu S"
+   ],
+   "sortpubdate": "2018/05/01 00:00",
+   "pubdate": "2018 May 1",
+   "epubdate": "",
+   "source": "J Clin Endocrinol Metab",
+   "fulljournalname": "The Journal of clinical endocrinology and metabolism"
+  },
+  "29800939": {
+   "title": "Association of Depression and Anxiety Disorders With Autoimmune Thyroiditis: A Systematic Review and Meta-analysis.",
+   "authors": [
+    "Siegmann EM",
+    "Müller HHO",
+    "Luecke C",
+    "Philipsen A"
+   ],
+   "sortpubdate": "2018/06/01 00:00",
+   "pubdate": "2018 Jun 1",
+   "epubdate": "",
+   "source": "JAMA Psychiatry",
+   "fulljournalname": "JAMA psychiatry"
+  },
+  "30375372": {
+   "title": "Subclinical hypothyroidism and depression: a meta-analysis.",
+   "authors": [
+    "Zhao T",
+    "Chen BM",
+    "Zhao XM",
+    "Shan ZY"
+   ],
+   "sortpubdate": "2018/10/30 00:00",
+   "pubdate": "2018 Oct 30",
+   "epubdate": "2018 Oct 30",
+   "source": "Transl Psychiatry",
+   "fulljournalname": "Translational psychiatry"
+  },
+  "31214119": {
+   "title": "Subclinical Hypothyroidism and Depression: A Systematic Review and Meta-Analysis.",
+   "authors": [
+    "Tang R",
+    "Wang J",
+    "Yang L",
+    "Ding X"
+   ],
+   "sortpubdate": "2019/06/04 00:00",
+   "pubdate": "2019",
+   "epubdate": "2019 Jun 4",
+   "source": "Front Endocrinol (Lausanne)",
+   "fulljournalname": "Frontiers in endocrinology"
+  },
+  "33154486": {
+   "title": "An individual participant data analysis of prospective cohort studies on the association between subclinical thyroid dysfunction and depressive symptoms.",
+   "authors": [
+    "Wildisen L",
+    "Del Giovane C",
+    "Moutzouri E",
+    "Beglinger S"
+   ],
+   "sortpubdate": "2020/11/05 00:00",
+   "pubdate": "2020 Nov 5",
+   "epubdate": "2020 Nov 5",
+   "source": "Sci Rep",
+   "fulljournalname": "Scientific reports"
+  },
+  "34129186": {
+   "title": "Role of thyroid hormone therapy in depressive disorders.",
+   "authors": [
+    "Bauer M",
+    "Whybrow PC"
+   ],
+   "sortpubdate": "2021/11/01 00:00",
+   "pubdate": "2021 Nov",
+   "epubdate": "2021 Jun 15",
+   "source": "J Endocrinol Invest",
+   "fulljournalname": "Journal of endocrinological investigation"
+  },
+  "34147730": {
+   "title": "Subclinical hypothyroidism and symptoms of depression: Evidence from the National Health and Nutrition Examination Surveys (NHANES).",
+   "authors": [
+    "Airaksinen J",
+    "Komulainen K",
+    "García-Velázquez R",
+    "Määttänen I"
+   ],
+   "sortpubdate": "2021/08/01 00:00",
+   "pubdate": "2021 Aug",
+   "epubdate": "2021 Jun 12",
+   "source": "Compr Psychiatry",
+   "fulljournalname": "Comprehensive psychiatry"
+  },
+  "36064836": {
+   "title": "Hyperthyroidism and clinical depression: a systematic review and meta-analysis.",
+   "authors": [
+    "Bode H",
+    "Ivens B",
+    "Bschor T",
+    "Schwarzer G"
+   ],
+   "sortpubdate": "2022/09/05 00:00",
+   "pubdate": "2022 Sep 5",
+   "epubdate": "2022 Sep 5",
+   "source": "Transl Psychiatry",
+   "fulljournalname": "Translational psychiatry"
+  },
+  "36463425": {
+   "title": "Exploring the Genetic Link Between Thyroid Dysfunction and Common Psychiatric Disorders: A Specific Hormonal or a General Autoimmune Comorbidity.",
+   "authors": [
+    "Soheili-Nezhad S",
+    "Sprooten E",
+    "Tendolkar I",
+    "Medici M"
+   ],
+   "sortpubdate": "2023/02/01 00:00",
+   "pubdate": "2023 Feb",
+   "epubdate": "",
+   "source": "Thyroid",
+   "fulljournalname": "Thyroid : official journal of the American Thyroid Association"
+  },
+  "37528949": {
+   "title": "Association of Low-Normal Free T4 Levels With Future Major Depression Development.",
+   "authors": [
+    "Odawara S",
+    "Shimbo T",
+    "Yamauchi T",
+    "Kobayashi D"
+   ],
+   "sortpubdate": "2023/07/20 00:00",
+   "pubdate": "2023 Jul 3",
+   "epubdate": "2023 Jul 20",
+   "source": "J Endocr Soc",
+   "fulljournalname": "Journal of the Endocrine Society"
+  },
+  "37855318": {
+   "title": "The Cross-sectional and Longitudinal Association Between Thyroid Function and Depression: A Population-Based Study.",
+   "authors": [
+    "Roa Dueñas OH",
+    "Hofman A",
+    "Luik AI",
+    "Medici M"
+   ],
+   "sortpubdate": "2024/04/19 00:00",
+   "pubdate": "2024 Apr 19",
+   "epubdate": "",
+   "source": "J Clin Endocrinol Metab",
+   "fulljournalname": "The Journal of clinical endocrinology and metabolism"
+  },
+  "39280013": {
+   "title": "The association between depression and thyroid function.",
+   "authors": [
+    "Ma Y",
+    "Wang M",
+    "Zhang Z"
+   ],
+   "sortpubdate": "2024/08/30 00:00",
+   "pubdate": "2024",
+   "epubdate": "2024 Aug 30",
+   "source": "Front Endocrinol (Lausanne)",
+   "fulljournalname": "Frontiers in endocrinology"
+  },
+  "40226662": {
+   "title": "The Association between Depression, Anxiety, and Thyroid Disease: A UK Biobank Prospective Cohort Study.",
+   "authors": [
+    "Fan T",
+    "Luo X",
+    "Li X",
+    "Shen Y"
+   ],
+   "sortpubdate": "2024/07/04 00:00",
+   "pubdate": "2024",
+   "epubdate": "2024 Jul 4",
+   "source": "Depress Anxiety",
+   "fulljournalname": "Depression and anxiety"
+  },
+  "37155921": {
+   "title": "Correction to: Exploring the Genetic Link Between Thyroid Dysfunction and Common Psychiatric Disorders: A Specific Hormonal or a General Autoimmune Comorbidity by Soheili-Nezhad et al. Thyroid 2023;33(2):159-168; doi: 10.1089/thy.2022.0304.",
+   "authors": [],
+   "sortpubdate": "2023/05/01 00:00",
+   "pubdate": "2023 May",
+   "epubdate": "",
+   "source": "Thyroid",
+   "fulljournalname": "Thyroid : official journal of the American Thyroid Association"
+  },
+  "21890841": {
+   "title": "Investigation of thyroid dysfunction is more likely in patients with high psychological morbidity.",
+   "authors": [
+    "Bould H",
+    "Panicker V",
+    "Kessler D",
+    "Durant C"
+   ],
+   "sortpubdate": "2012/04/01 00:00",
+   "pubdate": "2012 Apr",
+   "epubdate": "2011 Sep 2",
+   "source": "Fam Pract",
+   "fulljournalname": "Family practice"
+  },
+  "39838463": {
+   "title": "Sex differences in prevalence and clinical correlates of subclinical hypothyroidism in Chinese patients with first-episode untreated major depressive disorder.",
+   "authors": [
+    "Cui J",
+    "Weng Y",
+    "Lang X",
+    "Shangguan F"
+   ],
+   "sortpubdate": "2025/01/21 00:00",
+   "pubdate": "2025 Jan 21",
+   "epubdate": "2025 Jan 21",
+   "source": "BMC Psychiatry",
+   "fulljournalname": "BMC psychiatry"
+  },
+  "40270696": {
+   "title": "Prevalence and Risk Factors of Subclinical Hypothyroidism in Young and Middle-Aged Patients With First-Episode Drug-Naïve Major Depressive Disorder.",
+   "authors": [
+    "Liu J",
+    "Yang L",
+    "Kang C",
+    "Wang X"
+   ],
+   "sortpubdate": "2025/04/16 00:00",
+   "pubdate": "2025",
+   "epubdate": "2025 Apr 16",
+   "source": "Depress Anxiety",
+   "fulljournalname": "Depression and anxiety"
+  },
+  "31795239": {
+   "title": "Mood Disorders in Levothyroxine-Treated Hypothyroid Women.",
+   "authors": [
+    "Romero-Gómez B",
+    "Guerrero-Alonso P",
+    "Carmona-Torres JM",
+    "Notario-Pacheco B"
+   ],
+   "sortpubdate": "2019/11/28 00:00",
+   "pubdate": "2019 Nov 28",
+   "epubdate": "2019 Nov 28",
+   "source": "Int J Environ Res Public Health",
+   "fulljournalname": "International journal of environmental research and public health"
+  },
+  "16804044": {
+   "title": "Psychological well-being correlates with free thyroxine but not free 3,5,3'-triiodothyronine levels in patients on thyroid hormone replacement.",
+   "authors": [
+    "Saravanan P",
+    "Visser TJ",
+    "Dayan CM"
+   ],
+   "sortpubdate": "2006/09/01 00:00",
+   "pubdate": "2006 Sep",
+   "epubdate": "2006 Jun 27",
+   "source": "J Clin Endocrinol Metab",
+   "fulljournalname": "The Journal of clinical endocrinology and metabolism"
+  },
+  "35728676": {
+   "title": "The prevalence and clinical correlates of suicide attempts in comorbid subclinical hypothyroidism in patients with never-treated major depressive disorder in China.",
+   "authors": [
+    "Shangguan F",
+    "Chen Z",
+    "Feng L",
+    "Lu J"
+   ],
+   "sortpubdate": "2022/09/01 00:00",
+   "pubdate": "2022 Sep 1",
+   "epubdate": "2022 Jun 18",
+   "source": "J Affect Disord",
+   "fulljournalname": "Journal of affective disorders"
+  },
+  "36806659": {
+   "title": "Prevalence and risk factors of thyroid dysfunction in outpatients with overweight or obese first-episode and drug-naïve major depressive disorder.",
+   "authors": [
+    "Wang Q",
+    "Xu X",
+    "Ren H",
+    "Tan L"
+   ],
+   "sortpubdate": "2023/05/01 00:00",
+   "pubdate": "2023 May 1",
+   "epubdate": "2023 Feb 18",
+   "source": "J Affect Disord",
+   "fulljournalname": "Journal of affective disorders"
+  },
+  "40489725": {
+   "title": "Reverse T3 in patients with hypothyroidism on different thyroid hormone replacement.",
+   "authors": [
+    "Wilson JB",
+    "Hoang TD",
+    "Lee ML",
+    "Epstein M"
+   ],
+   "sortpubdate": "2025/06/09 00:00",
+   "pubdate": "2025",
+   "epubdate": "2025 Jun 9",
+   "source": "PLoS One",
+   "fulljournalname": "PloS one"
+  },
+  "38699891": {
+   "title": "Association of clinical variables and thyroid-stimulating hormone with psychotic symptoms in patients with first-episode and drug-naïve major depressive disorder with elevated fasting blood glucose: preliminary exploratory study with a large sample.",
+   "authors": [
+    "Yang Q",
+    "Wang Q",
+    "Peng P",
+    "Liu T"
+   ],
+   "sortpubdate": "2024/05/03 00:00",
+   "pubdate": "2024 May 3",
+   "epubdate": "2024 May 3",
+   "source": "BJPsych Open",
+   "fulljournalname": "BJPsych open"
+  },
+  "41215684": {
+   "title": "Thyroid function in alcohol use disorder: a case-control and longitudinal study of gender, Alcohol-Induced Psychotic Disorders, and detoxification effects.",
+   "authors": [
+    "Yu Q",
+    "Ye C",
+    "Wang S",
+    "Zheng Z"
+   ],
+   "sortpubdate": "2026/07/01 00:00",
+   "pubdate": "2026 Jul-Sep",
+   "epubdate": "2025 Nov 11",
+   "source": "J Addict Dis",
+   "fulljournalname": "Journal of addictive diseases"
+  },
+  "41848904": {
+   "title": "Correlation between thyroid hormone levels and cognitive dysfunction in older patients with subclinical hypothyroidism : A matched groups retrospective study.",
+   "authors": [
+    "Zheng H",
+    "Si M",
+    "Wang Q"
+   ],
+   "sortpubdate": "2026/03/18 00:00",
+   "pubdate": "2026 Mar 18",
+   "epubdate": "2026 Mar 18",
+   "source": "Wien Klin Wochenschr",
+   "fulljournalname": "Wiener klinische Wochenschrift"
+  },
+  "33542178": {
+   "title": "The association of clinical correlates, metabolic parameters, and thyroid hormones with suicide attempts in first-episode and drug-naïve patients with major depressive disorder comorbid with anxiety: a large-scale cross-sectional study.",
+   "authors": [
+    "Zhou Y",
+    "Ren W",
+    "Sun Q",
+    "Yu KM"
+   ],
+   "sortpubdate": "2021/02/04 00:00",
+   "pubdate": "2021 Feb 4",
+   "epubdate": "2021 Feb 4",
+   "source": "Transl Psychiatry",
+   "fulljournalname": "Translational psychiatry"
+  },
+  "39799523": {
+   "title": "Serum levels of thyroxine, thyroid-stimulating hormone, and anti-thyroid peroxidase antibodies and their association with anxiety in environmentally exposed populations in Kazakhstan.",
+   "authors": [
+    "Bjørklund G",
+    "Semenova Y"
+   ],
+   "sortpubdate": "2025/02/01 00:00",
+   "pubdate": "2025 Feb",
+   "epubdate": "2025 Jan 12",
+   "source": "Arch Toxicol",
+   "fulljournalname": "Archives of toxicology"
+  },
+  "17639255": {
+   "title": "Subclinical hypothyroidism: psychiatric disorders and symptoms.",
+   "authors": [
+    "Almeida C",
+    "Brasil MA",
+    "Costa AJ",
+    "Reis FA"
+   ],
+   "sortpubdate": "2007/06/01 00:00",
+   "pubdate": "2007 Jun",
+   "epubdate": "",
+   "source": "Braz J Psychiatry",
+   "fulljournalname": "Revista brasileira de psiquiatria (Sao Paulo, Brazil : 1999)"
+  },
+  "21152840": {
+   "title": "[Depression and anxiety symptoms in hypothyroid women].",
+   "authors": [
+    "Andrade Junior NE",
+    "Pires ML",
+    "Thuler LC"
+   ],
+   "sortpubdate": "2010/07/01 00:00",
+   "pubdate": "2010 Jul",
+   "epubdate": "",
+   "source": "Rev Bras Ginecol Obstet",
+   "fulljournalname": "Revista brasileira de ginecologia e obstetricia : revista da Federacao Brasileira das Sociedades de Ginecologia e Obstetricia"
+  },
+  "37937562": {
+   "title": "Association of Anxiety and Depressive Symptoms with Thyroid Hormone Concentrations in Patients with Primary Bone Tumors.",
+   "authors": [
+    "Ao M",
+    "Xu K",
+    "Pan Y",
+    "Wang S"
+   ],
+   "sortpubdate": "2024/01/01 00:00",
+   "pubdate": "2024",
+   "epubdate": "",
+   "source": "Endocr Metab Immune Disord Drug Targets",
+   "fulljournalname": "Endocrine, metabolic & immune disorders drug targets"
+  },
+  "24937789": {
+   "title": "Psychiatric symptoms and diagnoses in thyroid disorders: a cross-sectional study.",
+   "authors": [
+    "Aslan S",
+    "Ersoy R",
+    "Kuruoglu AC",
+    "Karakoc A"
+   ],
+   "sortpubdate": "2005/01/01 00:00",
+   "pubdate": "2005",
+   "epubdate": "",
+   "source": "Int J Psychiatry Clin Pract",
+   "fulljournalname": "International journal of psychiatry in clinical practice"
+  },
+  "39046130": {
+   "title": "Subclinical hypothyroidism and metabolic syndrome in psychiatric patients: A systematic literature review and meta-analysis.",
+   "authors": [
+    "Aung TT",
+    "Wah W",
+    "Chakraborti A",
+    "Garg V"
+   ],
+   "sortpubdate": "2024/10/01 00:00",
+   "pubdate": "2024 Oct",
+   "epubdate": "2024 Jul 24",
+   "source": "Australas Psychiatry",
+   "fulljournalname": "Australasian psychiatry : bulletin of Royal Australian and New Zealand College of Psychiatrists"
+  },
+  "24211158": {
+   "title": "The prevalence of depression and anxiety disorders in patients with euthyroid Hashimoto's thyroiditis: a comparative study.",
+   "authors": [
+    "Giynas Ayhan M",
+    "Uguz F",
+    "Askin R",
+    "Gonen MS"
+   ],
+   "sortpubdate": "2014/01/01 00:00",
+   "pubdate": "2014 Jan-Feb",
+   "epubdate": "2013 Oct 9",
+   "source": "Gen Hosp Psychiatry",
+   "fulljournalname": "General hospital psychiatry"
+  },
+  "27366712": {
+   "title": "Prevalence of anxiety and depressive symptoms among patients with hypothyroidism.",
+   "authors": [
+    "Bathla M",
+    "Singh M",
+    "Relan P"
+   ],
+   "sortpubdate": "2016/07/01 00:00",
+   "pubdate": "2016 Jul-Aug",
+   "epubdate": "",
+   "source": "Indian J Endocrinol Metab",
+   "fulljournalname": "Indian journal of endocrinology and metabolism"
+  },
+  "3136485": {
+   "title": "The hypothalamic-pituitary-thyroid axis in psychiatric patients and healthy subjects: Parts 1-4.",
+   "authors": [
+    "Baumgartner A",
+    "Gräf KJ",
+    "Kürten I",
+    "Meinhold H"
+   ],
+   "sortpubdate": "1988/06/01 00:00",
+   "pubdate": "1988 Jun",
+   "epubdate": "",
+   "source": "Psychiatry Res",
+   "fulljournalname": "Psychiatry research"
+  },
+  "41825352": {
+   "title": "Thyroid and depression: Insights from a retrospective real world clinical cohort.",
+   "authors": [
+    "Baweja R",
+    "Eisele C",
+    "Breitzig MT",
+    "Free MF"
+   ],
+   "sortpubdate": "2026/06/01 00:00",
+   "pubdate": "2026 Jun",
+   "epubdate": "2026 Feb 22",
+   "source": "Psychoneuroendocrinology",
+   "fulljournalname": "Psychoneuroendocrinology"
+  },
+  "25580957": {
+   "title": "Subclinical thyroid dysfunction and psychiatric disorders: cross-sectional results from the Brazilian Study of Adult Health (ELSA-Brasil).",
+   "authors": [
+    "Benseñor IM",
+    "Nunes MA",
+    "Sander Diniz MF",
+    "Santos IS"
+   ],
+   "sortpubdate": "2016/02/01 00:00",
+   "pubdate": "2016 Feb",
+   "epubdate": "2015 Feb 17",
+   "source": "Clin Endocrinol (Oxf)",
+   "fulljournalname": "Clinical endocrinology"
+  },
+  "23690311": {
+   "title": "Thyroid hormones are associated with cognitive function: moderation by sex, race, and depressive symptoms.",
+   "authors": [
+    "Beydoun MA",
+    "Beydoun HA",
+    "Kitner-Triolo MH",
+    "Kaufman JS"
+   ],
+   "sortpubdate": "2013/08/01 00:00",
+   "pubdate": "2013 Aug",
+   "epubdate": "2013 May 20",
+   "source": "J Clin Endocrinol Metab",
+   "fulljournalname": "The Journal of clinical endocrinology and metabolism"
+  },
+  "39391263": {
+   "title": "Short-Term Postoperative Depression and Anxiety in Patients with Differentiated Thyroid Carcinoma: Assessment of Potential Oncologic-Psycho Relevance.",
+   "authors": [
+    "Chen L",
+    "Ren N",
+    "Yang Q",
+    "Tian X"
+   ],
+   "sortpubdate": "2024/10/03 00:00",
+   "pubdate": "2024",
+   "epubdate": "2024 Oct 3",
+   "source": "Int J Endocrinol",
+   "fulljournalname": "International journal of endocrinology"
+  },
+  "2336036": {
+   "title": "Serum thyrotropin in hospitalized psychiatric patients: evidence for hyperthyrotropinemia as measured by an ultrasensitive thyrotropin assay.",
+   "authors": [
+    "Chopra IJ",
+    "Solomon DH",
+    "Huang TS"
+   ],
+   "sortpubdate": "1990/05/01 00:00",
+   "pubdate": "1990 May",
+   "epubdate": "",
+   "source": "Metabolism",
+   "fulljournalname": "Metabolism: clinical and experimental"
+  },
+  "32874682": {
+   "title": "TSH and T4 Levels in a Cohort of Depressive Patients.",
+   "authors": [
+    "Costache A",
+    "Riza AL",
+    "Popescu M",
+    "Dinca ME"
+   ],
+   "sortpubdate": "2020/04/01 00:00",
+   "pubdate": "2020 Apr-Jun",
+   "epubdate": "2020 Jun 30",
+   "source": "Curr Health Sci J",
+   "fulljournalname": "Current health sciences journal"
+  },
+  "39833737": {
+   "title": "Prevalence and associated factors of anxiety and depression among patients with hypothyroidism in Southern Iran.",
+   "authors": [
+    "Dehesh T",
+    "Mosleh-Shirazi MA",
+    "Dehesh P"
+   ],
+   "sortpubdate": "2025/01/20 00:00",
+   "pubdate": "2025 Jan 20",
+   "epubdate": "2025 Jan 20",
+   "source": "BMC Psychiatry",
+   "fulljournalname": "BMC psychiatry"
+  },
+  "26655116": {
+   "title": "Depressive symptoms, thyroid hormone and autoimmunity in a population-based cohort from Sardinia.",
+   "authors": [
+    "Delitala AP",
+    "Terracciano A",
+    "Fiorillo E",
+    "Orrù V"
+   ],
+   "sortpubdate": "2016/02/01 00:00",
+   "pubdate": "2016 Feb",
+   "epubdate": "2015 Nov 26",
+   "source": "J Affect Disord",
+   "fulljournalname": "Journal of affective disorders"
+  },
+  "22318794": {
+   "title": "Abnormal thyroid function tests in psychiatric patients: a red herring?",
+   "authors": [
+    "Dickerman AL",
+    "Barnhill JW"
+   ],
+   "sortpubdate": "2012/02/01 00:00",
+   "pubdate": "2012 Feb",
+   "epubdate": "",
+   "source": "Am J Psychiatry",
+   "fulljournalname": "The American journal of psychiatry"
+  },
+  "33325120": {
+   "title": "Are psychiatric disorders associated with thyroid hormone therapy in adolescents and young adults with type 1 diabetes?",
+   "authors": [
+    "Eckert A",
+    "Galler A",
+    "Papsch M",
+    "Hess M"
+   ],
+   "sortpubdate": "2021/07/01 00:00",
+   "pubdate": "2021 Jul",
+   "epubdate": "2021 Jan 11",
+   "source": "J Diabetes",
+   "fulljournalname": "Journal of diabetes"
+  },
+  "12100345": {
+   "title": "An association between depression, anxiety and thyroid function--a clinical fact or an artefact?",
+   "authors": [
+    "Engum A",
+    "Bjøro T",
+    "Mykletun A",
+    "Dahl AA"
+   ],
+   "sortpubdate": "2002/07/01 00:00",
+   "pubdate": "2002 Jul",
+   "epubdate": "",
+   "source": "Acta Psychiatr Scand",
+   "fulljournalname": "Acta psychiatrica Scandinavica"
+  },
+  "16253615": {
+   "title": "Thyroid autoimmunity, depression and anxiety; are there any connections? An epidemiological study of a large population.",
+   "authors": [
+    "Engum A",
+    "Bjøro T",
+    "Mykletun A",
+    "Dahl AA"
+   ],
+   "sortpubdate": "2005/11/01 00:00",
+   "pubdate": "2005 Nov",
+   "epubdate": "",
+   "source": "J Psychosom Res",
+   "fulljournalname": "Journal of psychosomatic research"
+  },
+  "31872808": {
+   "title": "The association between anxiety and depression with 25(OH)D and thyroid stimulating hormone levels.",
+   "authors": [
+    "Erensoy H"
+   ],
+   "sortpubdate": "2019/10/01 00:00",
+   "pubdate": "2019 Oct",
+   "epubdate": "",
+   "source": "Neurosciences (Riyadh)",
+   "fulljournalname": "Neurosciences (Riyadh, Saudi Arabia)"
+  },
+  "40133129": {
+   "title": "Thyroid-Stimulating Hormone Levels and Depression in Older Adults: Cross-Sectional and Longitudinal Analyses in a Community-Dwelling Population.",
+   "authors": [
+    "Forbes M",
+    "Watson T",
+    "Topliss DJ",
+    "Lotfaliany M"
+   ],
+   "sortpubdate": "2026/04/01 00:00",
+   "pubdate": "2026 Apr",
+   "epubdate": "2025 Mar 1",
+   "source": "Am J Geriatr Psychiatry",
+   "fulljournalname": "The American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry"
+  },
+  "15256776": {
+   "title": "Assessment of anxiety in subclinical thyroid disorders.",
+   "authors": [
+    "Sait Gönen M",
+    "Kisakol G",
+    "Savas Cilli A",
+    "Dikbas O"
+   ],
+   "sortpubdate": "2004/06/01 00:00",
+   "pubdate": "2004 Jun",
+   "epubdate": "",
+   "source": "Endocr J",
+   "fulljournalname": "Endocrine journal"
+  },
+  "33210626": {
+   "title": "Anxiety and Depression among Patients with Thyroid Function Disorders.",
+   "authors": [
+    "Gorkhali B",
+    "Sharma S",
+    "Amatya M",
+    "Acharya D"
+   ],
+   "sortpubdate": "2020/11/13 00:00",
+   "pubdate": "2020 Nov 13",
+   "epubdate": "2020 Nov 13",
+   "source": "J Nepal Health Res Counc",
+   "fulljournalname": "Journal of Nepal Health Research Council"
+  },
+  "16314199": {
+   "title": "Depression, anxiety, health-related quality of life, and disability in patients with overt and subclinical thyroid dysfunction.",
+   "authors": [
+    "Gulseren S",
+    "Gulseren L",
+    "Hekimsoy Z",
+    "Cetinay P"
+   ],
+   "sortpubdate": "2006/01/01 00:00",
+   "pubdate": "2006 Jan",
+   "epubdate": "",
+   "source": "Arch Med Res",
+   "fulljournalname": "Archives of medical research"
+  },
+  "22220285": {
+   "title": "The Link between Thyroid Function and Depression.",
+   "authors": [
+    "Hage MP",
+    "Azar ST"
+   ],
+   "sortpubdate": "2012/01/01 00:00",
+   "pubdate": "2012",
+   "epubdate": "2011 Dec 14",
+   "source": "J Thyroid Res",
+   "fulljournalname": "Journal of thyroid research"
+  },
+  "41354432": {
+   "title": "The association between thyroid hormone levels and psychiatric symptoms in patients with mania or depression.",
+   "authors": [
+    "Hakoshima M",
+    "Tanida S",
+    "Katsuyama H",
+    "Satake N"
+   ],
+   "sortpubdate": "2026/03/02 00:00",
+   "pubdate": "2026 Mar 2",
+   "epubdate": "2025 Dec 6",
+   "source": "Endocr J",
+   "fulljournalname": "Endocrine journal"
+  },
+  "39833340": {
+   "title": "Sex-modulated association between thyroid stimulating hormone and informant-perceived anxiety in non-depressed older adults: Prediction models and relevant cutoff value.",
+   "authors": [
+    "Hallab A"
+   ],
+   "sortpubdate": "2025/01/20 00:00",
+   "pubdate": "2025 Jan 20",
+   "epubdate": "2025 Jan 20",
+   "source": "Sci Rep",
+   "fulljournalname": "Scientific reports"
+  },
+  "2198197": {
+   "title": "Review: thyroid function in psychiatric illness.",
+   "authors": [
+    "Hein MD",
+    "Jackson IM"
+   ],
+   "sortpubdate": "1990/07/01 00:00",
+   "pubdate": "1990 Jul",
+   "epubdate": "",
+   "source": "Gen Hosp Psychiatry",
+   "fulljournalname": "General hospital psychiatry"
+  },
+  "42074695": {
+   "title": "Impact of Levothyroxine Treatment for Hypothyroidism on the Risk of Psychiatric Interventions in Children and Adolescents with Anxiety Disorders: A Retrospective Analysis of Data from the TriNetX Platform.",
+   "authors": [
+    "Hilmon M",
+    "Kulińska J",
+    "Krzyżanowski D",
+    "Skórkowska-Telichowska K"
+   ],
+   "sortpubdate": "2026/04/10 00:00",
+   "pubdate": "2026 Apr 10",
+   "epubdate": "2026 Apr 10",
+   "source": "J Clin Med",
+   "fulljournalname": "Journal of clinical medicine"
+  },
+  "35946076": {
+   "title": "Subclinical Hypothyroidism and Incident Depression in Adolescents and Young Adults: Results from a Nationwide Representative Prospective Study.",
+   "authors": [
+    "Hirtz R",
+    "Hölling H",
+    "Grasemann C"
+   ],
+   "sortpubdate": "2022/10/01 00:00",
+   "pubdate": "2022 Oct",
+   "epubdate": "2022 Sep 12",
+   "source": "Thyroid",
+   "fulljournalname": "Thyroid : official journal of the American Thyroid Association"
+  },
+  "30106989": {
+   "title": "Association between subclinical thyroid dysfunction and depressive symptoms in the Korean adult population: The 2014 Korea National Health and Nutrition Examination Survey.",
+   "authors": [
+    "Hong JW",
+    "Noh JH",
+    "Kim DJ"
+   ],
+   "sortpubdate": "2018/08/14 00:00",
+   "pubdate": "2018",
+   "epubdate": "2018 Aug 14",
+   "source": "PLoS One",
+   "fulljournalname": "PloS one"
+  },
+  "25777685": {
+   "title": "Diagnosed thyroid disorders are associated with depression and anxiety.",
+   "authors": [
+    "Ittermann T",
+    "Völzke H",
+    "Baumeister SE",
+    "Appel K"
+   ],
+   "sortpubdate": "2015/09/01 00:00",
+   "pubdate": "2015 Sep",
+   "epubdate": "2015 Mar 17",
+   "source": "Soc Psychiatry Psychiatr Epidemiol",
+   "fulljournalname": "Social psychiatry and psychiatric epidemiology"
+  },
+  "39831013": {
+   "title": "Correlation analyse between thyroid hormone levels and severity of schizophrenia symptoms.",
+   "authors": [
+    "Jiang QH",
+    "Gong WD"
+   ],
+   "sortpubdate": "2025/01/19 00:00",
+   "pubdate": "2025 Jan 19",
+   "epubdate": "2025 Jan 19",
+   "source": "World J Psychiatry",
+   "fulljournalname": "World journal of psychiatry"
+  },
+  "23449617": {
+   "title": "Thyroid function and mental disorders: an insight into the complex interaction.",
+   "authors": [
+    "Kamble MT",
+    "Nandedkar PD",
+    "Dharme PV",
+    "L LS"
+   ],
+   "sortpubdate": "2013/01/01 00:00",
+   "pubdate": "2013 Jan",
+   "epubdate": "2013 Jan 1",
+   "source": "J Clin Diagn Res",
+   "fulljournalname": "Journal of clinical and diagnostic research : JCDR"
+  },
+  "34427900": {
+   "title": "Subclinical thyroid dysfunction and major depressive disorder.",
+   "authors": [
+    "Karakatsoulis GN",
+    "Tsapakis EM",
+    "Mitkani C",
+    "Fountoulakis KN"
+   ],
+   "sortpubdate": "2021/12/01 00:00",
+   "pubdate": "2021 Dec",
+   "epubdate": "2021 Aug 24",
+   "source": "Hormones (Athens)",
+   "fulljournalname": "Hormones (Athens, Greece)"
+  },
+  "25973566": {
+   "title": "Relationship between thyroid-stimulating hormone levels and risk of depression among the general population with normal free T4 levels.",
+   "authors": [
+    "Kim EY",
+    "Kim SH",
+    "Rhee SJ",
+    "Huh I"
+   ],
+   "sortpubdate": "2015/08/01 00:00",
+   "pubdate": "2015 Aug",
+   "epubdate": "2015 Apr 30",
+   "source": "Psychoneuroendocrinology",
+   "fulljournalname": "Psychoneuroendocrinology"
+  },
+  "32490648": {
+   "title": "The effect of iatrogenic subclinical hyperthyroidism on anxiety, depression and quality of life in differentiated thyroid carcinoma.",
+   "authors": [
+    "Gülsoy Kirnap N",
+    "Turhan Iyidir Ö",
+    "Bozkuş Y",
+    "Işildak ŞM"
+   ],
+   "sortpubdate": "2020/06/23 00:00",
+   "pubdate": "2020 Jun 23",
+   "epubdate": "2020 Jun 23",
+   "source": "Turk J Med Sci",
+   "fulljournalname": "Turkish journal of medical sciences"
+  },
+  "34421508": {
+   "title": "Associations of Thyroid Hormones Profile During Normal Pregnancy and Postpartum With Anxiety, Depression, and Obsessive/Compulsive Disorder Scores in Euthyroid Women.",
+   "authors": [
+    "Konstantakou P",
+    "Chalarakis N",
+    "Valsamakis G",
+    "Sakkas EG"
+   ],
+   "sortpubdate": "2021/08/04 00:00",
+   "pubdate": "2021",
+   "epubdate": "2021 Aug 4",
+   "source": "Front Neurosci",
+   "fulljournalname": "Frontiers in neuroscience"
+  },
+  "40235655": {
+   "title": "Anxiety disorders in patients with thyroid nodules vs. thyroid cancer: a retrospective cohort study.",
+   "authors": [
+    "Kornelius E",
+    "Lo SC",
+    "Huang CN",
+    "Wang YH"
+   ],
+   "sortpubdate": "2025/04/01 00:00",
+   "pubdate": "2025",
+   "epubdate": "2025 Apr 1",
+   "source": "Front Endocrinol (Lausanne)",
+   "fulljournalname": "Frontiers in endocrinology"
+  },
+  "37419569": {
+   "title": "The Association Between Thyroid Stimulating Hormone and Depression: A Historical Cohort Study.",
+   "authors": [
+    "Kumar R",
+    "LeMahieu AM",
+    "Stan MN",
+    "Seshadri A"
+   ],
+   "sortpubdate": "2023/07/01 00:00",
+   "pubdate": "2023 Jul",
+   "epubdate": "",
+   "source": "Mayo Clin Proc",
+   "fulljournalname": "Mayo Clinic proceedings"
+  },
+  "32791168": {
+   "title": "Association of altered thyroid hormones and neurometabolism to cognitive dysfunction in unmedicated bipolar II depression.",
+   "authors": [
+    "Lai S",
+    "Zhong S",
+    "Zhang Y",
+    "Wang Y"
+   ],
+   "sortpubdate": "2021/03/08 00:00",
+   "pubdate": "2021 Mar 8",
+   "epubdate": "2020 Aug 11",
+   "source": "Prog Neuropsychopharmacol Biol Psychiatry",
+   "fulljournalname": "Progress in neuro-psychopharmacology & biological psychiatry"
+  },
+  "31759671": {
+   "title": "Prevalence and clinical correlates of subclinical hypothyroidism in first-episode drug-naive patients with major depressive disorder in a large sample of Chinese.",
+   "authors": [
+    "Lang X",
+    "Hou X",
+    "Shangguan F",
+    "Zhang XY"
+   ],
+   "sortpubdate": "2020/02/15 00:00",
+   "pubdate": "2020 Feb 15",
+   "epubdate": "2019 Nov 3",
+   "source": "J Affect Disord",
+   "fulljournalname": "Journal of affective disorders"
+  },
+  "30772742": {
+   "title": "Sex differences in the association between thyroid-stimulating hormone levels and depressive symptoms among the general population with normal free T4 levels.",
+   "authors": [
+    "Lee S",
+    "Oh SS",
+    "Park EC",
+    "Jang SI"
+   ],
+   "sortpubdate": "2019/04/15 00:00",
+   "pubdate": "2019 Apr 15",
+   "epubdate": "2019 Feb 10",
+   "source": "J Affect Disord",
+   "fulljournalname": "Journal of affective disorders"
+  },
+  "40933156": {
+   "title": "Disease duration-stratified associations of thyroid hormone levels with psychopathology in hospitalized patients with schizophrenia: A cross-sectional study.",
+   "authors": [
+    "Lei XP",
+    "Liao DX",
+    "Wu GY",
+    "Shuai D"
+   ],
+   "sortpubdate": "2025/09/19 00:00",
+   "pubdate": "2025 Sep 19",
+   "epubdate": "2025 Sep 19",
+   "source": "World J Psychiatry",
+   "fulljournalname": "World journal of psychiatry"
+  },
+  "40163571": {
+   "title": "Association of Thyroid Function With Depression: A Historical Cohort Study.",
+   "authors": [
+    "Liu J",
+    "Delgoffe BE",
+    "Gabor R",
+    "Sharma S"
+   ],
+   "sortpubdate": "2025/03/01 00:00",
+   "pubdate": "2025 Mar 1",
+   "epubdate": "2025 Mar 1",
+   "source": "J Psychiatr Pract",
+   "fulljournalname": "Journal of psychiatric practice"
+  },
+  "30621645": {
+   "title": "Association between subclinical hypothyroidism and depression: an updated systematic review and meta-analysis.",
+   "authors": [
+    "Loh HH",
+    "Lim LL",
+    "Yee A",
+    "Loh HS"
+   ],
+   "sortpubdate": "2019/01/08 00:00",
+   "pubdate": "2019 Jan 8",
+   "epubdate": "2019 Jan 8",
+   "source": "BMC Psychiatry",
+   "fulljournalname": "BMC psychiatry"
+  },
+  "31390496": {
+   "title": "Thyroid Function Screening in Children and Adolescents With Mood and Anxiety Disorders.",
+   "authors": [
+    "Luft MJ",
+    "Aldrich SL",
+    "Poweleit E",
+    "Prows CA"
+   ],
+   "sortpubdate": "2019/08/06 00:00",
+   "pubdate": "2019 Aug 6",
+   "epubdate": "2019 Aug 6",
+   "source": "J Clin Psychiatry",
+   "fulljournalname": "The Journal of clinical psychiatry"
+  },
+  "37201896": {
+   "title": "Prevalence of overweight and obesity in patients with major depressive disorder with anxiety: Mediating role of thyroid hormones and metabolic parameters.",
+   "authors": [
+    "Luo G",
+    "Li Y",
+    "Yao C",
+    "Li M"
+   ],
+   "sortpubdate": "2023/08/15 00:00",
+   "pubdate": "2023 Aug 15",
+   "epubdate": "2023 May 16",
+   "source": "J Affect Disord",
+   "fulljournalname": "Journal of affective disorders"
+  },
+  "40641314": {
+   "title": "Exploring the Interplay Between Thyroid Hormone Levels and Symptoms of Anxiety and Depression in Anorexia Nervosa.",
+   "authors": [
+    "Mattar L",
+    "Delaunay AL",
+    "Berthoz S",
+    "Duquesnoy M"
+   ],
+   "sortpubdate": "2025/07/01 00:00",
+   "pubdate": "2025 Jul",
+   "epubdate": "",
+   "source": "Brain Behav",
+   "fulljournalname": "Brain and behavior"
+  },
+  "39537660": {
+   "title": "Logistic regression analysis of risk factors for anxiety and depression in patients with coronary heart disease and subclinical hypothyroidism.",
+   "authors": [
+    "Meng L",
+    "Zhu Q",
+    "Ma F",
+    "Wang J"
+   ],
+   "sortpubdate": "2024/11/13 00:00",
+   "pubdate": "2024 Nov 13",
+   "epubdate": "2024 Nov 13",
+   "source": "Sci Rep",
+   "fulljournalname": "Scientific reports"
+  },
+  "36003348": {
+   "title": "Hypothyroidism and Depression: A Narrative Review.",
+   "authors": [
+    "Nuguru SP",
+    "Rachakonda S",
+    "Sripathi S",
+    "Khan MI"
+   ],
+   "sortpubdate": "2022/08/20 00:00",
+   "pubdate": "2022 Aug",
+   "epubdate": "2022 Aug 20",
+   "source": "Cureus",
+   "fulljournalname": "Cureus"
+  },
+  "19751298": {
+   "title": "A paradoxical difference in relationship between anxiety, depression and thyroid function in subjects on and not on T4: findings from the HUNT study.",
+   "authors": [
+    "Panicker V",
+    "Evans J",
+    "Bjøro T",
+    "Asvold BO"
+   ],
+   "sortpubdate": "2009/10/01 00:00",
+   "pubdate": "2009 Oct",
+   "epubdate": "",
+   "source": "Clin Endocrinol (Oxf)",
+   "fulljournalname": "Clinical endocrinology"
+  },
+  "36645990": {
+   "title": "Association between thyroid hormones and comorbid psychotic symptoms in patients with first-episode and drug-naïve major depressive disorder.",
+   "authors": [
+    "Peng P",
+    "Wang Q",
+    "Ren H",
+    "Zhou Y"
+   ],
+   "sortpubdate": "2023/02/01 00:00",
+   "pubdate": "2023 Feb",
+   "epubdate": "2023 Jan 12",
+   "source": "Psychiatry Res",
+   "fulljournalname": "Psychiatry research"
+  },
+  "16840838": {
+   "title": "Low T3 syndrome in psychiatric depression.",
+   "authors": [
+    "Premachandra BN",
+    "Kabir MA",
+    "Williams IK"
+   ],
+   "sortpubdate": "2006/06/01 00:00",
+   "pubdate": "2006 Jun",
+   "epubdate": "",
+   "source": "J Endocrinol Invest",
+   "fulljournalname": "Journal of endocrinological investigation"
+  },
+  "41732642": {
+   "title": "Exploring the Connection Between Thyroid Health and Psychiatric Disorders: A Comprehensive Review With a Focus on Schizophrenia and Bipolar Disorder.",
+   "authors": [
+    "Al Qaderi AH",
+    "Osman AA",
+    "Manasrah H",
+    "Ali MZ"
+   ],
+   "sortpubdate": "2026/01/23 00:00",
+   "pubdate": "2026 Jan",
+   "epubdate": "2026 Jan 23",
+   "source": "Cureus",
+   "fulljournalname": "Cureus"
+  },
+  "34856305": {
+   "title": "Exploring the potential of thyroid hormones to predict clinical improvements in depressive patients: A machine learning analysis of the real-world based study.",
+   "authors": [
+    "Qiao D",
+    "Liu H",
+    "Zhang X",
+    "Lei L"
+   ],
+   "sortpubdate": "2022/02/15 00:00",
+   "pubdate": "2022 Feb 15",
+   "epubdate": "2021 Nov 29",
+   "source": "J Affect Disord",
+   "fulljournalname": "Journal of affective disorders"
+  },
+  "41966231": {
+   "title": "An \"increase-decrease-increase\" pattern: TSH levels and anxiety symptoms in treatment-naïve first-episode patients with major depressive disorder.",
+   "authors": [
+    "Qiu X",
+    "Wen L",
+    "Mao H",
+    "Lang XE"
+   ],
+   "sortpubdate": "2026/08/15 00:00",
+   "pubdate": "2026 Aug 15",
+   "epubdate": "2026 Apr 9",
+   "source": "J Affect Disord",
+   "fulljournalname": "Journal of affective disorders"
+  },
+  "2497474": {
+   "title": "Thyroid function in anxious and depressed patients.",
+   "authors": [
+    "Rao ML",
+    "Vartzopoulos D",
+    "Fels K"
+   ],
+   "sortpubdate": "1989/03/01 00:00",
+   "pubdate": "1989 Mar",
+   "epubdate": "",
+   "source": "Pharmacopsychiatry",
+   "fulljournalname": "Pharmacopsychiatry"
+  },
+  "40108945": {
+   "title": "Anxiety and depression among adolescents and young adults with thyroid function disorders: a cross-sectional study.",
+   "authors": [
+    "Rehman UL",
+    "Khalid M",
+    "Fatima M",
+    "Khan MS"
+   ],
+   "sortpubdate": "2025/07/01 00:00",
+   "pubdate": "2025 Jul",
+   "epubdate": "2025 Mar 19",
+   "source": "Expert Rev Endocrinol Metab",
+   "fulljournalname": "Expert review of endocrinology & metabolism"
+  },
+  "17043339": {
+   "title": "Is subclinical thyroid dysfunction in the elderly associated with depression or cognitive dysfunction?",
+   "authors": [
+    "Roberts LM",
+    "Pattison H",
+    "Roalfe A",
+    "Franklyn J"
+   ],
+   "sortpubdate": "2006/10/17 00:00",
+   "pubdate": "2006 Oct 17",
+   "epubdate": "",
+   "source": "Ann Intern Med",
+   "fulljournalname": "Annals of internal medicine"
+  },
+  "19616322": {
+   "title": "Abnormal thyroid stimulating hormone (TSH) in psychiatric long-term care patients.",
+   "authors": [
+    "Sabeen S",
+    "Chou C",
+    "Holroyd S"
+   ],
+   "sortpubdate": "2010/07/01 00:00",
+   "pubdate": "2010 Jul-Aug",
+   "epubdate": "2009 Jul 17",
+   "source": "Arch Gerontol Geriatr",
+   "fulljournalname": "Archives of gerontology and geriatrics"
+  },
+  "31446378": {
+   "title": "Association of thyroid dysfunction with suicide attempts in first-episode and drug naïve patients with major depressive disorder.",
+   "authors": [
+    "Shen Y",
+    "Wu F",
+    "Zhou Y",
+    "Ma Y"
+   ],
+   "sortpubdate": "2019/12/01 00:00",
+   "pubdate": "2019 Dec 1",
+   "epubdate": "2019 Aug 20",
+   "source": "J Affect Disord",
+   "fulljournalname": "Journal of affective disorders"
+  },
+  "41601507": {
+   "title": "Thyroid dysfunction in elderly first-episode drug-naïve major depressive disorder patients with comorbid dyslipidemia: prevalence, clinical profile and associated factors.",
+   "authors": [
+    "Song X",
+    "Yi L",
+    "Wang S",
+    "Zhang X"
+   ],
+   "sortpubdate": "2026/01/12 00:00",
+   "pubdate": "2025",
+   "epubdate": "2026 Jan 12",
+   "source": "Front Psychiatry",
+   "fulljournalname": "Frontiers in psychiatry"
+  },
+  "37437726": {
+   "title": "Depression severity partially mediates the association between thyroid function and psychotic symptoms in first-episode, drug-naive major depressive disorder patients with comorbid anxiety at different ages of onset.",
+   "authors": [
+    "Sun QM",
+    "Zhang S",
+    "Xu YH",
+    "Ma J"
+   ],
+   "sortpubdate": "2023/10/15 00:00",
+   "pubdate": "2023 Oct 15",
+   "epubdate": "2023 Jul 10",
+   "source": "J Affect Disord",
+   "fulljournalname": "Journal of affective disorders"
+  },
+  "42021447": {
+   "title": "Study of Thyroid Function and Lipid Profile in Depression Patients.",
+   "authors": [
+    "Suwal S",
+    "Baidya S",
+    "Chhusyabaga M",
+    "Karanjit R"
+   ],
+   "sortpubdate": "2026/03/24 00:00",
+   "pubdate": "2026 Mar 24",
+   "epubdate": "2026 Mar 24",
+   "source": "J Nepal Health Res Counc",
+   "fulljournalname": "Journal of Nepal Health Research Council"
+  },
+  "28358451": {
+   "title": "Thyroid Hormone Levels in Chronic Schizophrenic Patients: Association with Psychopathology.",
+   "authors": [
+    "Telo S",
+    "Bilgic S",
+    "Karabulut N"
+   ],
+   "sortpubdate": "2016/03/15 00:00",
+   "pubdate": "2016 Mar 15",
+   "epubdate": "2016 Mar 15",
+   "source": "West Indian Med J",
+   "fulljournalname": "The West Indian medical journal"
+  },
+  "42346303": {
+   "title": "HPT Axis Dysregulation in Mood and Anxiety Disorders: The Clinical Utility of Routine Hormonal Dosing in Psychiatric In-Patients.",
+   "authors": [
+    "Toma GA",
+    "Coman E",
+    "Vasile AI",
+    "Trifu S"
+   ],
+   "sortpubdate": "2026/06/11 00:00",
+   "pubdate": "2026 Jun 11",
+   "epubdate": "2026 Jun 11",
+   "source": "Diseases",
+   "fulljournalname": "Diseases (Basel, Switzerland)"
+  },
+  "30292780": {
+   "title": "Free thyroxine and thyroid-stimulating hormone in severe mental disorders: A naturalistic study with focus on antipsychotic medication.",
+   "authors": [
+    "Vedal TSJ",
+    "Steen NE",
+    "Birkeland KI",
+    "Dieset I"
+   ],
+   "sortpubdate": "2018/11/01 00:00",
+   "pubdate": "2018 Nov",
+   "epubdate": "2018 Sep 25",
+   "source": "J Psychiatr Res",
+   "fulljournalname": "Journal of psychiatric research"
+  },
+  "39717384": {
+   "title": "Association between depression and anxiety disorders with euthyroid Hashimoto's thyroiditis: A systematic review and meta-analysis.",
+   "authors": [
+    "Wang B",
+    "Huang J",
+    "Chen L"
+   ],
+   "sortpubdate": "2024/12/02 00:00",
+   "pubdate": "2024 Nov",
+   "epubdate": "2024 Dec 2",
+   "source": "Compr Psychoneuroendocrinol",
+   "fulljournalname": "Comprehensive psychoneuroendocrinology"
+  },
+  "38281598": {
+   "title": "Serial multiple mediating roles of anxiety and thyroid-stimulating hormone in the relationship between depression and psychotic symptoms in young adults with anxious depression.",
+   "authors": [
+    "Wang Q",
+    "Ren H",
+    "Liu T",
+    "Zhang XY"
+   ],
+   "sortpubdate": "2024/04/15 00:00",
+   "pubdate": "2024 Apr 15",
+   "epubdate": "2024 Jan 26",
+   "source": "J Affect Disord",
+   "fulljournalname": "Journal of affective disorders"
+  },
+  "40225726": {
+   "title": "Prevalence and Pathogenic Factors of Thyroid Dysfunction in First-Episode and Drug-Naïve Major Depressive Disorder Patients With Fasting Blood Glucose Abnormalities in Early- and Late-Onset Age.",
+   "authors": [
+    "Wang T",
+    "Zhang M",
+    "Cao J",
+    "Xiao S"
+   ],
+   "sortpubdate": "2025/02/28 00:00",
+   "pubdate": "2025",
+   "epubdate": "2025 Feb 28",
+   "source": "Depress Anxiety",
+   "fulljournalname": "Depression and anxiety"
+  },
+  "8936670": {
+   "title": "Thyroid evaluation of hospitalized psychiatric patients: the role of TSH screening for thyroid dysfunction.",
+   "authors": [
+    "Woolf PD",
+    "Nichols D",
+    "Porsteinsson A",
+    "Boulay R"
+   ],
+   "sortpubdate": "1996/10/01 00:00",
+   "pubdate": "1996 Oct",
+   "epubdate": "",
+   "source": "Thyroid",
+   "fulljournalname": "Thyroid : official journal of the American Thyroid Association"
+  },
+  "33210405": {
+   "title": "Dysregulated thyroid hormones correlate with anxiety and depression risk in patients with autoimmune disease.",
+   "authors": [
+    "Wu X",
+    "Zhang K",
+    "Xing Y",
+    "Zhou W"
+   ],
+   "sortpubdate": "2021/01/01 00:00",
+   "pubdate": "2021 Jan",
+   "epubdate": "2020 Nov 18",
+   "source": "J Clin Lab Anal",
+   "fulljournalname": "Journal of clinical laboratory analysis"
+  },
+  "35851661": {
+   "title": "Association between thyroid function and comorbid anxiety in first-episode and drug naïve patients with major depressive disorder.",
+   "authors": [
+    "Yang W",
+    "Qu M",
+    "Jiang R",
+    "Lang X"
+   ],
+   "sortpubdate": "2023/02/01 00:00",
+   "pubdate": "2023 Feb",
+   "epubdate": "2022 Jul 18",
+   "source": "Eur Arch Psychiatry Clin Neurosci",
+   "fulljournalname": "European archives of psychiatry and clinical neuroscience"
+  },
+  "35815037": {
+   "title": "Association of Subclinical Hypothyroidism With Anxiety Symptom in Young First-Episode and Drug-Naïve Patients With Major Depressive Disorder.",
+   "authors": [
+    "Yang R",
+    "Du X",
+    "Li Z",
+    "Zhao X"
+   ],
+   "sortpubdate": "2022/06/24 00:00",
+   "pubdate": "2022",
+   "epubdate": "2022 Jun 24",
+   "source": "Front Psychiatry",
+   "fulljournalname": "Frontiers in psychiatry"
+  },
+  "37303557": {
+   "title": "Association between thyroid function and psychotic symptoms in adolescents with major depressive disorder: A large sample sized cross-sectional study in China.",
+   "authors": [
+    "Yang R",
+    "Zhu F",
+    "Yue Y",
+    "Lu X"
+   ],
+   "sortpubdate": "2023/05/27 00:00",
+   "pubdate": "2023 Jun",
+   "epubdate": "2023 May 27",
+   "source": "Heliyon",
+   "fulljournalname": "Heliyon"
+  },
+  "37608074": {
+   "title": "Sex-differential association of suicide attempts with thyroid dysfunction in first-episode and drug-naïve young major depressive disorder patients with comorbid anxiety.",
+   "authors": [
+    "Ye G",
+    "Yuan Y",
+    "Li Z",
+    "Yue Y"
+   ],
+   "sortpubdate": "2023/08/22 00:00",
+   "pubdate": "2023 Aug 22",
+   "epubdate": "2023 Aug 22",
+   "source": "Sci Rep",
+   "fulljournalname": "Scientific reports"
+  },
+  "41485512": {
+   "title": "Hypothalamic-pituitary-thyroid axis dysregulation in adolescents with major depressive disorder and non-suicidal self-injury: A retrospective study.",
+   "authors": [
+    "Zhan D",
+    "Jin T",
+    "Zhao H",
+    "Zhu H"
+   ],
+   "sortpubdate": "2026/04/15 00:00",
+   "pubdate": "2026 Apr 15",
+   "epubdate": "2026 Jan 2",
+   "source": "J Affect Disord",
+   "fulljournalname": "Journal of affective disorders"
+  },
+  "37920820": {
+   "title": "Prevalence and Factors Associated with Subclinical Hypothyroidism in Major Depressive Disorder Patients with Dyslipidemia.",
+   "authors": [
+    "Zhan L",
+    "Yin H",
+    "Gao Y",
+    "Li Y"
+   ],
+   "sortpubdate": "2023/10/27 00:00",
+   "pubdate": "2023",
+   "epubdate": "2023 Oct 27",
+   "source": "Neuropsychiatr Dis Treat",
+   "fulljournalname": "Neuropsychiatric disease and treatment"
+  },
+  "38773550": {
+   "title": "Elevated thyroid stimulating hormone and metabolic syndrome risk in patients with first-episode and drug-naïve major depressive disorder: a large-scale cross-sectional study.",
+   "authors": [
+    "Zhang Q",
+    "Dong G",
+    "Zhu X",
+    "Cao Y"
+   ],
+   "sortpubdate": "2024/05/21 00:00",
+   "pubdate": "2024 May 21",
+   "epubdate": "2024 May 21",
+   "source": "BMC Psychiatry",
+   "fulljournalname": "BMC psychiatry"
+  },
+  "32901909": {
+   "title": "Changes in serum thyroid hormone levels in psychiatric patients treated with second-generation antipsychotics.",
+   "authors": [
+    "Zhang JX",
+    "Li X"
+   ],
+   "sortpubdate": "2020/01/01 00:00",
+   "pubdate": "2020",
+   "epubdate": "",
+   "source": "Endokrynol Pol",
+   "fulljournalname": "Endokrynologia Polska"
+  },
+  "37706034": {
+   "title": "Gender differences in the association between anxiety symptoms and thyroid hormones in young patients with first-episode and drug naïve major depressive disorder.",
+   "authors": [
+    "Zhao Y",
+    "Liu JC",
+    "Yu F",
+    "Yang LY"
+   ],
+   "sortpubdate": "2023/08/29 00:00",
+   "pubdate": "2023",
+   "epubdate": "2023 Aug 29",
+   "source": "Front Psychiatry",
+   "fulljournalname": "Frontiers in psychiatry"
+  },
+  "37633524": {
+   "title": "Prevalence and clinical correlates of thyroid dysfunction in first-episode and drug-naïve major depressive disorder patients with metabolic syndrome.",
+   "authors": [
+    "Zhu Q",
+    "Jiang G",
+    "Lang X",
+    "Zhang J"
+   ],
+   "sortpubdate": "2023/11/15 00:00",
+   "pubdate": "2023 Nov 15",
+   "epubdate": "2023 Aug 24",
+   "source": "J Affect Disord",
+   "fulljournalname": "Journal of affective disorders"
+  }
+ }
+}

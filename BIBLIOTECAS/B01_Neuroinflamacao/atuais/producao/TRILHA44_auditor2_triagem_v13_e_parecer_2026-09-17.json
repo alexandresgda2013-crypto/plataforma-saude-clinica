@@ -1,0 +1,249 @@
+{
+  "trilha": 44,
+  "data": "2026-09-17",
+  "rodada": 25,
+  "objeto": "pacote auditor-2 (triagem+173/102+schemas v1.3+minuta) + parecer comentador — réplica integral",
+  "etapas": {
+    "W1_arquivamento": {
+      "parecer": {
+        "sha256": "c8c16247a92f120e95d2ffbf0f561f0224b9f788228bb768debeb9aa27f3c159",
+        "bytes": 5520
+      },
+      "py": {
+        "sha256": "753f97968436ce0dc56a40ddc680b078c8157c12e49df908d8e0f70102e42757",
+        "bytes": 7112
+      },
+      "rel": {
+        "sha256": "fae39101c33a5442f00e8e6088357a55fd90d8ed428c025a9c399dd6e08817e7",
+        "bytes": 63636
+      },
+      "n2v13": {
+        "sha256": "ec4f0de88fd0d845ad91f1d413132fa7d9a5c38d1f9f2f7abff1d3a27e7bf836",
+        "bytes": 12307
+      },
+      "n1v13": {
+        "sha256": "b06660fd985a8186dbe5ed2878f15d3badd2356e11f4d0c9b71e78d2b2e4e7da",
+        "bytes": 9582
+      },
+      "minuta": {
+        "sha256": "fc05f470cc763c0fbb67b3cee696ab4c76a0b54d70501295bf2ab35c8236e059",
+        "bytes": 34893
+      },
+      "schemas_v12_de_referencia": {
+        "n2_v12": "19f4f29a8763aa635a09d16c1bd960af2687da62a5f79700b8dfd57081d73360",
+        "n1_v12": "b8bcea8084fc17a296ef2beebd709bb2c90a7d816918ddfda74a0667e6ec168a"
+      }
+    },
+    "W2_reexecucao_x_relatorio": {
+      "exit_code": 0,
+      "sha256_entrada_bate": true,
+      "total_274": true,
+      "automaticos_172": true,
+      "fila_102": true,
+      "por_regra_82_19_1": true,
+      "fila_ids_identicas": true,
+      "auto_ids_identicos": true,
+      "motivos_identicos": true,
+      "raison_aprovado": true,
+      "raison_vinculos": [
+        [
+          "VINC_B1_0128",
+          "__PENDENTE__"
+        ],
+        [
+          "VINC_B1_0173",
+          "__PENDENTE__"
+        ]
+      ],
+      "sha256_entrada": "490675e63122a24baebd8890f4a7883a07f68916d90562e74adf309133501d1b"
+    },
+    "W3_perfil_172_verification_status": {
+      "dist": {
+        "verificado": 114,
+        "preclinico": 49,
+        "extrapolado": 5,
+        "pendente": 3,
+        "emergente": 1
+      },
+      "nao_verificado": 58,
+      "leitura": "corpo empírico à ressalva §4/§5 do comentador: 58/172 (33,7%) dos 'sustenta transitório' NÃO são 'verificado' (inclui 5 extrapolado + 3 pendente que NÃO carregam sinal textual). Não é furo do script — ele mira DIREÇÃO; a cautela de maturidade mora em verification_status (eixo separado). Registro proposto: no portão/migração, os 172 transitórios carregam marca dupla: transitório-de-direção + value='verificado' apenas em 114."
+    },
+    "W4_transitorio_nao_gravado": {
+      "direcao_suporte_no_acervo": 0,
+      "campo_direcao_legado": {
+        "None": 274
+      }
+    },
+    "W5_N2_v13": {
+      "allOf0_obriga_condicao_quando_condicional": true,
+      "allOf1_igual_a_proposta_da_casa_trilha37": true,
+      "jsonschema_10_casos": "10/10",
+      "papel_enum_sem_refuta": [
+        "sustenta_mecanismo",
+        "sustenta_biomarcador",
+        "sustenta_intervencao",
+        "contextualiza_cenario",
+        "fronteira"
+      ],
+      "direcao_suporte_4v": [
+        "sustenta",
+        "refuta",
+        "inconclusivo",
+        "condicional"
+      ],
+      "ancora_principal_no_root_required": true,
+      "ancoras_uniqueItems": null,
+      "sentido_relacao_ocorrencias_total": 1,
+      "forca_biologica_ponteiro_sem_medicao": true,
+      "texto_uso_2mais2mais1": true,
+      "status_auditoria_N2_enum_limpo": [
+        "CONFIRMADO",
+        "PARCIALMENTE_CONFIRMADO",
+        "NAO_LOCALIZADO",
+        "CITACAO_INCORRETA",
+        "NAO_SUSTENTA_CLAIM"
+      ]
+    },
+    "W6_N1_v13": {
+      "required_tem_status_validacao": true,
+      "required_sem_alias": true,
+      "alias_deprecated_com_enum": true,
+      "allOf_pmid_igual_proposta_casa_trilha39": true,
+      "pmid_base_ainda_0a8_provisorio": true,
+      "cross_over_restituido": true,
+      "sem_modificador_case_invalido": true,
+      "sem_Medido_hoje_em_descriptions": true,
+      "status_auditoria_nota_presente": true
+    },
+    "W7_superficie_vs_v13": {
+      "N1_required_faltando": {
+        "natureza_evidencia": 237,
+        "desenho_estudo_bruto": 237,
+        "status_validacao": 237
+      },
+      "fichas_composto_a_migrar": 162,
+      "ja_tem_status_validacao": 0,
+      "N2_required_faltando": {
+        "trilha": 274,
+        "ancoras": 274,
+        "ancora_principal": 274
+      },
+      "uso_fora_do_enum": {
+        "B1_v2": 30
+      },
+      "leitura": "idêntica à ADIÇÃO B da casa (trilha 37), agora contra os required FINAIS v1.3 — superfície de migração quantificada e convergente"
+    },
+    "W8_minuta": {
+      "sec3_reescrito_R1_R7": true,
+      "confissao_e_creditos_casa": true,
+      "linha_ii_sec105": true,
+      "criterio_falsificavel": true,
+      "tabela_273_1_para_172_102": true,
+      "sec13_relatorio_inline": true,
+      "confissao_regra_nao_publicada": true,
+      "R2_criterio_derivador_146": true,
+      "R3_E2_padrao_publicado": true,
+      "errata_21_para_92": true,
+      "errata_sec4b_osimo": true
+    },
+    "W9_E2_e_kit": {
+      "campos_avaliador_varridos": 486,
+      "falsos_positivos": 0,
+      "positivos_reprovados": {
+        "eutils": true,
+        "eutils_automatico": true,
+        "script": true,
+        "retrofit": true,
+        "EUTILS_AUTO": true
+      },
+      "avaliador_legitimo_nao_morde": true,
+      "modificador_case_nos_dois_schemas": {
+        "v12": 0,
+        "v13": 0
+      },
+      "kit_evidence_role_enum": "human_clinical | human_experimental | post_mortem | preclinical_mechanistic"
+    },
+    "W10_errata_sec4B": {
+      "atipico_hoje_no_274": [
+        [
+          "VINC_B1_0047",
+          "REF_HAFIZI_2007"
+        ]
+      ],
+      "REF_OSIMO_2019_hoje": {
+        "verification_status": "verificado",
+        "evid_role": "human_clinical"
+      },
+      "leitura": "a errata dele refere-se à v1.0 histórica (a identidade do inválido NA ÉPOCA: REF_OSIMO_2019, corrigido desde então — hoje 'verificado' no N1). No dado ATUAL o único atípico é VINC_B1_0047·HAFIZI_2007 'pendente_fulltext' = a dívida conhecida. Rodapé 274 recontado: bate."
+    },
+    "W11_separacoes_sec2_parecer": {
+      "papel_x_direcao_suporte": true,
+      "status_auditoria_x_verification_status": true,
+      "trilha_x_uso": true,
+      "ancora_principal_x_ancoras": true,
+      "forca_causal_x_forca_biologica": true,
+      "avaliador_x_nota": true
+    },
+    "W12_sec8_parecer_6_pontos": {
+      "1_relatorio_sobre_o_sha_apresentado": true,
+      "2_contagens_reproduziveis": true,
+      "3_raison_falha_fechado": true,
+      "4_nada_gravado_como_decisao_definitiva": true,
+      "5_separacao_status_x_direcao": true,
+      "6_campos_e_regras_iguais_ao_artefato": true
+    },
+    "W13_selos": {
+      "V7": "6e2c29797e6322f16dcc5248cce552be613dd11f1de957c66aaa913e69225238",
+      "manifesto": "79d1309a168922d0e8bf43736cd5b21c8b361bdf64e3b200eeeafd43806f3a9c",
+      "P8": "84fa918d09899d54995ae41d65b0787a7a52888ba6177ce77583483b1124fe8b",
+      "esperados": {
+        "V7": "6e2c29797e6322f16dcc5248cce552be613dd11f1de957c66aaa913e69225238",
+        "P8": "84fa918d09899d54995ae41d65b0787a7a52888ba6177ce77583483b1124fe8b"
+      }
+    }
+  },
+  "vereditos": {
+    "W2_sha256_entrada_bate": true,
+    "W2_total_274": true,
+    "W2_automaticos_172": true,
+    "W2_fila_102": true,
+    "W2_por_regra_82_19_1": true,
+    "W2_fila_ids_identicas": true,
+    "W2_auto_ids_identicos": true,
+    "W2_motivos_identicos": true,
+    "W2_raison_aprovado": true,
+    "W2_exit_code_0": true,
+    "W3_medida_registrada": true,
+    "W4_nada_gravado_no_acervo": true,
+    "W5_condicao_bloco_casa_adotado_e_10de10": true,
+    "W5_separacoes_e_prosa_ok": true,
+    "W6_required_tem_status_validacao": true,
+    "W6_required_sem_alias": true,
+    "W6_alias_deprecated_com_enum": true,
+    "W6_allOf_pmid_igual_proposta_casa_trilha39": true,
+    "W6_pmid_base_ainda_0a8_provisorio": true,
+    "W6_cross_over_restituido": true,
+    "W6_sem_modificador_case_invalido": true,
+    "W6_sem_Medido_hoje_em_descriptions": true,
+    "W6_status_auditoria_nota_presente": true,
+    "W7_superficie_convergente": true,
+    "W8_sec3_reescrito_R1_R7": true,
+    "W8_confissao_e_creditos_casa": true,
+    "W8_linha_ii_sec105": true,
+    "W8_criterio_falsificavel": true,
+    "W8_tabela_273_1_para_172_102": true,
+    "W8_sec13_relatorio_inline": true,
+    "W8_confissao_regra_nao_publicada": true,
+    "W8_R2_criterio_derivador_146": true,
+    "W8_R3_E2_padrao_publicado": true,
+    "W8_errata_21_para_92": true,
+    "W8_errata_sec4b_osimo": true,
+    "W9_E2_dois_lados_verde": true,
+    "W9_kit_enum_4_sem_review": true,
+    "W10_rodape_bate_e_osimo_corrigido": true,
+    "W11_separacoes_6de6": true,
+    "W12_sec8_6de6_atendidos": true,
+    "W13_ciencia_intacta": true
+  },
+  "ciencia_tocada": 0
+}

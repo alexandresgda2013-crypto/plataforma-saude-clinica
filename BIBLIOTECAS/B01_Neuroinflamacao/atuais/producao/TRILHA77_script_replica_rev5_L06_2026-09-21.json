@@ -1,0 +1,72 @@
+{
+  "trilha": 77,
+  "data": "2026-09-21",
+  "objeto": "réplica mecânica final — minuta 3 rev.5 L-06",
+  "sha_rev5": "601c1f18d074e6e4488dd8a6ee3364345e51713f7d0277cd1637add838a79608",
+  "digital_igualdade_casa": "4217cc635ee12842ad32c3520cda8f61adbef4e7765cdbcecb85065bac4971d0",
+  "rev1_comnota": "8a8ff98639e8ce91600417ebb18e48dee0936744eaf7b7541c9fe93189a2a80e",
+  "rev5_comnota": "c863b8eddda92db02f07659a6cee9c17216605690ccd57e4a75b1bba811dccd5",
+  "verdes": 11,
+  "total": 11,
+  "checks": [
+    {
+      "check": "C01_REV5_MEDIDA",
+      "ok": true,
+      "detalhe": "rev.5 sha=601c1f18 (25.581 b · LF) · nota rev.3 RETRATADA pela rev.4 registrada (2ª retratação do mestre no episódio — crédito de método)"
+    },
+    {
+      "check": "C02_DIFF_ZONAS",
+      "ok": true,
+      "detalhe": "toda diferença rev.1→rev.5 confinada em: ['creditos', 'header-notes', 'linha-§6.3', 'proveniencia', 'rito-rodape'] · fora das zonas: 0 → **conteúdo normativo §0–§13 (exceto a nota §6.3) byte-idêntico** o restante do corpo"
+    },
+    {
+      "check": "C03_EMENDAS",
+      "ok": true,
+      "detalhe": "3 emendas da carta 23 presentes e na forma acordada + auto-correção do mestre nos CRÉDITOS ('a casa mediu 0× nela e corrige a favor do Comentador') registrada"
+    },
+    {
+      "check": "C04_CONCEITO_M1",
+      "ok": true,
+      "detalhe": "M1 l.97: 'rótulos **atribuídos por relação**, não por posição' — o CONCEITO é do mestre e está na minuta 1 · forma-verbo encorpada ('Atribuição por relação, nunca por posição' como regra) é do TextoH → a partilha da rev.5 está CERTA · C77-1: réguas das trilhas 74/75 usavam 'atribui' (7 letras) e ficaram cegas à flexão 'atribuídos' — o '0×' valia só para a frase exata; confissão datada e registrada na ata"
+    },
+    {
+      "check": "C05_PEDIDO2_UMADIF",
+      "ok": true,
+      "detalhe": "recortes §2–§13 (âncora linha-inteira) = 186 linhas nos dois · diff bruto = 2 linhas (−1/+1), TODAS na linha §6.3 → **exatamente UMA diferença: a nota de crédito** ✔"
+    },
+    {
+      "check": "C06_PEDIDO1_IGUAIS",
+      "ok": true,
+      "detalhe": "neutralizados (procedimento declarado) byte-idênticos · digital-da-igualdade da casa = 4217cc635ee12842ad32c3520cda8f61adbef4e7765cdbcecb85065bac4971d0 (com \\n final; 8a066947 sem) → propriedade VERIFICADA com comando gravado"
+    },
+    {
+      "check": "C07_PEDIDO3_COMNOTA",
+      "ok": true,
+      "detalhe": "rev.5-com-nota = c863b8ed ✔ · rev.1-com-nota = 8a8ff986 ✔ — batem EXATO com os publicados; bônus: prova byte-a-byte de que a rev.1 == minuta 3 ORIGINAL dentro do recorte (a nota da rev.1 verificada pela 1ª vez)"
+    },
+    {
+      "check": "C08_HASH_IDENTIDADE_DELES",
+      "ok": true,
+      "detalhe": "na rev.5: 95c7cb41 0× · f8ec8b72 só na nota histórica da rev.4 (rev.5 inteira lida) · bateria da casa: 6 procedimentos de neutralização × 4 serializações, nenhum reproduz 95c7cb41/f8ec8b72 → VEREDITO: a IGUALDADE está verificada (C06, digital da casa); o VALOR ESPECÍFICO deles exige o comando exato (pedido ao mestre) ou fica substituído pela digital da casa · comentador correto no zelo: f8ec8b72 deve ser marcado 'intermediário' quando houver toque editorial — não é normativo (concorda-se)"
+    },
+    {
+      "check": "C09_NORMATIVO",
+      "ok": true,
+      "detalhe": "núcleo normativo presente e inalterado (gatilho · 244 · matriz · suíte 23 · degradada resolutivo/qualificador · §7) — conferido também pelo diff C02"
+    },
+    {
+      "check": "C10_RITO",
+      "ok": true,
+      "detalhe": "rito na rev.5 conforme o combinado · estado: proposta consolidada ainda não vigente (a casa não estampa rótulo em peça própria)"
+    },
+    {
+      "check": "C11_PROVENIENCIA_TAB",
+      "ok": true,
+      "detalhe": "tabela de proveniência reflete o estado pós-entrega (TextoM com digital plena · TextoH distinto) · frase-ponte presente (emenda 3)"
+    }
+  ],
+  "confissoes": [
+    "C77-1: réguas das trilhas 74/75 pesquisaram 'atribui' (7 letras) e ficaram cegas à flexão 'atribuídos' — o '0× na minuta 1' valia apenas para a frase verbo encorpada; o CONCEITO existe na l.97 da minuta 1 ('rótulos atribuídos por relação, não por posição'). A partilha da rev.5 (conceito: M1 · redação: Comentador) está correta e a casa a subscreve, corrigindo a própria ata.",
+    "C77-2: 1ª leitura do recorte caiu na CITAÇÃO dos marcadores dentro da nota histórica da rev.4 ('## 2. A ESCADA…## CRÉDITOS' inline) — corrigida com âncoras de linha-inteira antes de qualquer conclusão (a falha apareceu e morreu dentro da mesma sessão de medição)."
+  ]
+}

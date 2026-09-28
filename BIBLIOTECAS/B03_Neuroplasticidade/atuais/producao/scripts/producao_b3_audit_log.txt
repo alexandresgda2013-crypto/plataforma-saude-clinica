@@ -1,0 +1,68 @@
+esearch 20/193
+esearch 40/193
+esearch 60/193
+esearch 80/193
+esearch 100/193
+esearch 120/193
+esearch 140/193
+esearch 160/193
+esearch 180/193
+resolvidos: 185 falhas: 8
+
+== RESUMO ==
+anexo 193 -> resolvidos: 185 | já na B3: 4
+rótulo divergente (autor ou ano): 34
+  [DIF] doi=10.1093/ijnp/pyy008 decl=(2017) real=Youssef MM(2018) :: Association of BDNF Val66Met Polymorphism and Brain BDNF Levels with M
+  [DIF] doi=10.1038/s41386-022-01370-w decl=Appelbaum(2022) real=Appelbaum LG(2023) :: Synaptic plasticity and mental health: methods, challenges and opportu
+  [DIF] doi=10.1016/j.neurom.2021.09.003 decl=Brown(2021) real=Brown JC(2022) :: Synaptic Plasticity 101: The Story of the AMPA Receptor for the Brain 
+  [DIF] doi=10.1016/j.neuropharm.2011.08.044 decl=Duman(2011) real=Duman RS(2012) :: Signaling pathways underlying the rapid antidepressant actions of keta
+  [DIF] doi=10.1016/j.bpsgos.2022.02.007 decl=He(2022) real=He JG(2023) :: Dysfunction of Glutamatergic Synaptic Transmission in Depression: Focu
+  [DIF] doi=10.2174/1381612824666181120094749 decl=He(2019) real=He M(2018) :: Synaptic Plasticity in PTSD and associated Comorbidities: The Function
+  [DIF] doi=10.1016/j.bcp.2021.114892 decl=Hess(2021) real=Hess EM(2022) :: Mechanisms of ketamine and its metabolites as antidepressants.
+  [DIF] doi=10.1007/s00406-024-01898-6 decl=Kavalali(2024) real=Kavalali ET(2025) :: Synaptic basis of rapid antidepressant action.
+  [DIF] doi=10.3389/fpsyt.2017.00308 decl=Kishi(2018) real=Kishi T(2017) :: Brain-Derived Neurotrophic Factor and Major Depressive Disorder: Evide
+  [DIF] doi=10.1016/j.pharmthera.2007.07.001 decl=Kozisek(2007) real=Kozisek ME(2008) :: Brain-derived neurotrophic factor and its receptor tropomyosin-related
+  [DIF] doi=10.1038/s41386-023-01629-w decl=Krystal(2023) real=Krystal JH(2024) :: Ketamine and rapid antidepressant action: new treatments and novel syn
+  [DIF] doi=10.3389/fncel.2021.814287 decl=Laham(2022) real=Laham BJ(2021) :: How Stress Influences the Dynamic Plasticity of the Brain's Extracellu
+  [DIF] doi=10.1038/mp.2016.68 decl=Lau(2016) real=Lau T(2017) :: Stress-induced structural plasticity of medial amygdala stellate neuro
+  [DIF] doi=10.1038/s41583-024-00876-0 decl=Liao(2024) real=Liao C(2025) :: Structural neural plasticity evoked by rapid-acting antidepressant int
+  [DIF] doi=10.1016/j.biopsych.2024.09.023 decl=Lugenbühl(2024) real=Lugenbühl JF(2025) :: Stress Molecular Signaling in Interaction With Cognition.
+  [DIF] doi=10.1016/j.neuropharm.2011.07.014 decl=McEwen(2011) real=McEwen BS(2012) :: Stress and anxiety: structural plasticity and epigenetic regulation as
+  [DIF] doi=10.1038/npp.2015.171 decl=McEwen(2015) real=McEwen BS(2016) :: Stress Effects on Neuronal Structure: Hippocampus, Amygdala, and Prefr
+  [DIF] doi=10.7554/elife.77455 decl=Moya-Alvarado(2022) real=Moya-Alvarado G(2023) :: BDNF/TrkB signaling endosomes in axons coordinate CREB/mTOR activation
+  [DIF] doi=10.1002/hipo.20654 decl=Peng(2009) real=Peng Y(2010) :: Distinct trafficking and expression mechanisms underlie LTP and LTD of
+  [DIF] doi=10.1038/mp.2017.241 decl=Pich(2018) real=Cavalleri L(2018) :: Ketamine enhances structural plasticity in mouse mesencephalic and hum
+  [DIF] doi=10.1038/sj.npp.1301574 decl=Pittenger(2007) real=Pittenger C(2008) :: Stress, depression, and neuroplasticity: a convergence of mechanisms.
+  [DIF] doi=10.1038/s41380-019-0615-x decl=Price(2019) real=Price RB(2020) :: Neuroplasticity in cognitive and psychological mechanisms of depressio
+  [DIF] doi=10.1038/mp.2008.143 decl=Schofield(2009) real=Gatt JM(2009) :: Interactions between BDNF Val66Met polymorphism and early life stress 
+  [DIF] doi=10.1002/hipo.23422 decl=Shridhar(2021) real=Shridhar S(2022) :: Dominant role of adult neurogenesis-induced structural heterogeneities
+  [DIF] doi=10.1093/eurheartj/ehv692 decl=Stein(2015) real=Stein S(2017) :: Brain-derived neurotrophic factor Val66Met polymorphism in depression 
+  [DIF] doi=10.1038/s41380-020-0821-6 decl=Thomazeau(2020) real=Thomazeau A(2021) :: Dissociation of functional and structural plasticity of dendritic spin
+  [DIF] doi=10.1016/j.bbr.2020.112949 decl=Tian(2020) real=Tian T(2021) :: Effects of childhood trauma experience and BDNF Val66Met polymorphism 
+  [DIF] doi=10.1038/s41380-021-01121-1 decl=Wei(2021) real=Wei Y(2022) :: Molecular mechanisms underlying the antidepressant actions of arketami
+  [DIF] doi=10.1113/jp278703 decl=Won(2020) real=Won S(2021) :: Regulation of glutamate receptors by striatal-enriched tyrosine phosph
+  [DIF] doi=10.1007/s10571-021-01141-z decl=Wu(2021) real=Wu QL(2022) :: The Role of AMPARs Composition and Trafficking in Synaptic Plasticity 
+  [DIF] doi=10.3389/fphar.2021.740996 decl=Xu(2022) real=Xu S(2021) :: Uncovering the Underlying Mechanisms of Ketamine as a Novel Antidepres
+  [DIF] doi=10.1038/s41380-021-01377-7 decl=Yao(2021) real=Yao W(2022) :: Microglial ERK-NRBP1-CREB-BDNF signaling in sustained antidepressant a
+  [DIF] doi=10.1038/mp.2017.239 decl=Zhang(2018) real=Yao N(2018) :: Ketamine and its metabolite (2R,6R)-hydroxynorketamine induce lasting 
+  [DIF] doi=10.1038/s41593-017-0030-z decl=Zhou(2017) real=Zhou Z(2018) :: The C-terminal tails of endogenous GluA1 and GluA2 differentially cont
+falhas: 8
+  [FALHA] 10.1016/s0079-6123(07 :: Bremner, J., Elzinga, B., Schmahl, C., & Vermetten, E. (2007 :: DOI não resolveu no PubMed
+  [FALHA] 10.33612/diss.1479578477 :: De Jager, J. E. (2026). Neuroplasticity in psychiatric disor :: DOI não resolveu no PubMed
+  [FALHA] 10.54254/2753-8818/2024.19967 :: Gao, X. (2025). Effects of Reducing Synaptic Plasticity on R :: DOI não resolveu no PubMed
+  [FALHA] 10.1101/330688 :: Glasgow, S. D., Glasgow, S. D., Labrecque, S., Beamish, I. V :: DOI não resolveu no PubMed
+  [FALHA] 10.48550/arxiv.1711.09536 :: Singh, S. P., & Karkare, S. (2017). Stress, Depression and N :: DOI não resolveu no PubMed
+  [FALHA] 10.1101/2024.05.01.592099 :: Storey, G. P., Riquelme, R., & Barria, A. (2024). Activity-D :: DOI não resolveu no PubMed
+  [FALHA] 10.1192/j.eurpsy.2023.71 :: Vestring, S. (2023). Synaptic plasticity in depression: from :: DOI não resolveu no PubMed
+  [FALHA] 10.1101/2025.07.28.667139 :: Yong, X. L. H., Stefanoska, K., Kwan, W., Irons, I., Padmana :: DOI não resolveu no PubMed
+matriz: PMIDs não existentes: []
+matriz extras (não constam no anexo): 9
+  [EXTRA] 36194941 meta TRD BDNF -> Meshkat S 2022 :: Brain-Derived Neurotrophic Factor (BDNF) as a biomarker of t
+  [EXTRA] 39613915 meta psicoplastógenos BDNF -> Calder AE 2025 :: Effects of psychoplastogens on blood levels of brain-derived
+  [EXTRA] 39562042 Storey -> Storey GP 2025 :: Activity-Dependent Internalization of Glun2B-Containing NMDA
+  [EXTRA] 42066082 TrkB/mGluR5 cross-talk -> Arefin A 2026 :: TrkB/mGluR5 cross-talk underlies a synaptic metaplasticity m
+  [EXTRA] 42287566 Ketamine Evolving Neuroplasticity -> Prabakar A 2026 :: Ketamine and Evolving Neuroplasticity.
+  [EXTRA] 41526004 25 anos cetamina -> Bulek D 2026 :: From monoamine deficits to multiscale plasticity: twenty-fiv
+  [EXTRA] 18037014 Bremner -> Bremner JD 2008 :: Structural and functional plasticity of the human brain in p
+  [EXTRA] 34880451 Yao erratum -> Yao W 2022 :: Correction: Microglial ERK-NRBP1-CREB-BDNF signaling in sust
+  [EXTRA] 35364073 Robinson corrigendum -> Robinson S 2022 :: Corrigendum to: Stress Diminishes BDNF-stimulated TrkB Signa

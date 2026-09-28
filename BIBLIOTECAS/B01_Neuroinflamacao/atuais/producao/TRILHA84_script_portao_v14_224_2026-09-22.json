@@ -1,0 +1,66 @@
+{
+  "trilha": 84,
+  "rodada": 73,
+  "data": "2026-09-22",
+  "verde": 10,
+  "total": 10,
+  "checks": [
+    {
+      "check": "T1_D3_EXISTE_NO_V14_SELO",
+      "status": "VERDE",
+      "nota": "N2 v1.4 = d96ad15b620f… (selo confere) · description: \"REGRA DE CORPUS (D3): … É REQUISITO DE CORPUS apenas quando g2_elegibilidade = redirecionado_clinico…\" · condicional if/then ancoras.minItems=2 PRESENTE — a regra citada existe, e é deliberada (\"Sem a segunda ancora, o redirecionamento volta a ser uma saida sem destino\")"
+    },
+    {
+      "check": "T2_REGRA_E_NOVA_NA_V14",
+      "status": "VERDE",
+      "nota": "condicional ancoras.minItems=2: v1.1 = 0× · v1.3 = 0× · v1.4 = 1× (com description D3) → \"a v1.4 acrescentou justamente a regra\" CONFERE no nível do condicional"
+    },
+    {
+      "check": "T3_224_CONFERE_COM_NIVEL",
+      "status": "VERDE",
+      "nota": "B1_v2=30 (todos eligible/VALIDADO) · redirecionados=20 (todos CANDIDATO) · interseção 0 · NÍVEL conformidade mecânica vs v1.4: 274−30−20 = 224 · NÍVEL estrito elegível-curatorial: 223 — a diferença de 1 entre os níveis é a VINC_B1_0047 (nao_avaliado/TRIADO)"
+    },
+    {
+      "check": "T4_243_PARA_224",
+      "status": "VERDE",
+      "nota": "era v1.1 (trilha 27): 274−30(B1_v2)−1(VINC_B1_0047) = 243 · era v1.4: 274−30−20(D3) = 224 com o 0047 migrável mecanicamente (ou 223 no nível estrito) · Δ=−19 = +20 da regra D3 −1 (o 0047 muda de categoria). Ninguém errou: o schema ficou mais exigente de propósito"
+    },
+    {
+      "check": "T5_18_DE_20",
+      "status": "VERDE",
+      "nota": "20/20 têm g2_motivo em texto livre (destino do redirecionamento descrito) · 18/20 têm a marca formal reancorado_em — a medida \"18 dos 20\" dele CONFERE; curadoria = formalizar a 2ª âncora, não pesquisar"
+    },
+    {
+      "check": "T6_PAPEL_NAO_VEREDITO",
+      "status": "VERDE",
+      "nota": "description de ancoras[].papel (R7): \"…declara a RELACAO TEMATICA da evidencia com a entidade — NUNCA o veredito…\" → recusar papel como proxy do degrau 4 É cumprir a norma — confirmação 1 dele: VERDADEIRA"
+    },
+    {
+      "check": "T7_SENTIDO_RELACAO_FORA",
+      "status": "VERDE",
+      "nota": "ocorrências da palavra sentido_relacao: v1.1 = 0× · v1.3 = 1× (menção em prosa) · v1.4 = 0× · como CAMPO: 0 nas três → efeito prático dele CONFERE (campo inexiste → L-06 certa em depender da Ontologia); a data \"retirado na v1.3\" não se confirma nestas três versões (v1.1 já não tinha) — nota histórica, zero impacto"
+    },
+    {
+      "check": "T8_CAMPOS_INEXISTENTES",
+      "status": "VERDE",
+      "nota": "\"contexto\" como PROPRIEDADE: 0× (a palavra aparece 3× em prosa/enum — nível declarado) · nivel_cadeia: 0× total → confirmação 3 dele VERDADEIRA; degraus 2/4 travam por falta de estrutura, não falha científica"
+    },
+    {
+      "check": "T9_NUANCE_GRANULARIDADE",
+      "status": "VERDE",
+      "nota": "description de escopo (R4): mecanismo usa BLOCO_XX[/sub] · valor reservado APENDICE_CORPUS · \"null para entidades sem subdivisao (exame, suplemento, cenario)\" → a nuance dele CONFERE: não falta campo; falta decisão de ESTENDER escopo às famílias não-mecanismo → D-L05-GRANULARIDADE-OBJETO passa de \"defeito\" a \"decisão de desenho\""
+    },
+    {
+      "check": "T10_ASSINATURAS_COERENTES",
+      "status": "VERDE",
+      "nota": "assinaturas \"20 segunda âncora · 30 trilha · 30 uso\" = 80 mensagens sobre 50 vínculos (20×1 + 30×2) → não-conformes = 50 → conformes = 224 — leitura coerente com a medida da casa; \"trilha\"+\"uso\" são duas mensagens da MESMA família B1_v2 (30)"
+    }
+  ],
+  "resumo": "TRILHA 84: 10/10 — PONTO DO ESTRUTURA CONFIRMADO com níveis declarados: D3 existe verbatim no v1.4 selado (nova na v1.4) · 224 conformes mecânicos / 223 elegíveis-estritos (diferença = VINC_B1_0047) · 243 era medida da era v1.1, correta à época · 18/20 reancorado_em · 3 confirmações dele: VERDADEIRAS (com nota histórica de sentido_relacao) · nuance granularidade CONFERE → dívida relabelada p/ decisão de extensão · CASA ADOTA o critério dele como régua do portão: fechamento = validador zero não-conformes contra d96ad15b, não número. Documento L-06: sem toque (citação de linhagem; risco realizado só se alguém aferir pelo número — neutralizado pela régua adotada).",
+  "corpus": {
+    "N2_v1.4": "d96ad15b620fa373d8d95d44159a9f3db31c04cfed051d85c7ab014cb3c65050",
+    "N2_v1.3": "ec4f0de88fd0d845ad91f1d413132fa7d9a5c38d1f9f2f7abff1d3a27e7bf836",
+    "N2_v1.1": "b0934412b010b7e0801f372ae57769fe0daa42c046e757128788159ec9ff4130",
+    "vinculos_V7": "490675e63122a24baebd8890f4a7883a07f68916d90562e74adf309133501d1b"
+  }
+}

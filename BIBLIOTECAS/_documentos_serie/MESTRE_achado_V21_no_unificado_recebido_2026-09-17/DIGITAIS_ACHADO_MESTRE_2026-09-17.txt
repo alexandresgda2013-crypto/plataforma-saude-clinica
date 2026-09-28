@@ -1,0 +1,8 @@
+DIGITAIS — ACHADO DO AUDITOR-MESTRE SOBRE A V2.1 (rodada 26 · 2026-09-17)
+arquivo: ACHADO_V21_NO_UNIFICADO_2026-09-17.md
+sha256:  2841bc66fe11b9e3e8e1db8aa670c0195ef3f2a0b8d1fff8d3165495a85b1b56
+bytes:   5530 · linhas (wc -l): 70
+origem:  uploads/ (envio do operador, 2026-09-17) — cópia byte a byte (cp -p)
+objeto:  o achado auditou o upload sha 5be36836610d26832506b73dac45baa09e7041bc9ce22e6557f2be59b258e06a
+         = exatamente o upload da V2.1 registrado pela casa (ARQUITETURA_VIGENTE.txt)
+réplica: trilha 45 (producao/TRILHA45_*) — 18/18 checks

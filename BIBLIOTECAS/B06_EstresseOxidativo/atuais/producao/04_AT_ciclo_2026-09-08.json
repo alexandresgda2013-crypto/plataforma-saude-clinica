@@ -1,0 +1,546 @@
+{
+ "at_ciclo": "2026-09-08",
+ "biblioteca": "B6",
+ "at_status": "INCORPORADO_V2",
+ "insumo": {
+  "arquivos": [
+   "uploads/Artigos cientificos do mecanismo B6 Stress oxidativo.md",
+   "uploads/GPM_B6_EstresseOxidativo.md",
+   "uploads/BRIEFING_B6_STRESS_OXIDATIVO_RODADA0.md",
+   "uploads/Resumo do insumo para B6 Chatgpt.md"
+  ],
+  "itens_brutos": 108,
+  "resolvidos_auditoria": 98
+ },
+ "incorporadas": [
+  {
+   "pmid": "7929220",
+   "id": "REF_KERY_1994",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "10531322",
+   "id": "REF_KABIL_1999",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "10052944",
+   "id": "REF_TAOKA_1999",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "10529187",
+   "id": "REF_TAOKA_1999b",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "11041866",
+   "id": "REF_MOSHAROV_2000",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "11483494",
+   "id": "REF_MEIER_2001",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "15189131",
+   "id": "REF_STIPANUK_2004",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "15581573",
+   "id": "REF_BANERJEE_2005",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "16619244",
+   "id": "REF_CHEN_2006",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "16614071",
+   "id": "REF_PRUDOVA_2006",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "17534535",
+   "id": "REF_SINGH_2007",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "18476726",
+   "id": "REF_ZHU_2008",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "20566639",
+   "id": "REF_ISHII_2010",
+   "grupo": "ENZ",
+   "tag": "ML"
+  },
+  {
+   "pmid": "21435402",
+   "id": "REF_AITKEN_2011",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "21315854",
+   "id": "REF_SINGH_2011",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "22738154",
+   "id": "REF_SMITH_2012",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "22977242",
+   "id": "REF_YADAV_2012",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "23981774",
+   "id": "REF_CASIQUE_2013",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "24043838",
+   "id": "REF_ERENOORBEA_2013",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "26765812",
+   "id": "REF_GREGORY_2016",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "28245568",
+   "id": "REF_DALTO_2017",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "31083508",
+   "id": "REF_GOULD_2019",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "30007014",
+   "id": "REF_SBODIO_2019",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "30671974",
+   "id": "REF_WILSON_2019",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "33000151",
+   "id": "REF_STIPANUK_2020",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "35864237",
+   "id": "REF_PETROSINO_2022",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "37451483",
+   "id": "REF_CIAPAITE_2023",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "38563463",
+   "id": "REF_ALSADEQ_2024",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "38832404",
+   "id": "REF_MCFARLANE_2024",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "38542149",
+   "id": "REF_RIVERO_2024",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "40327797",
+   "id": "REF_CONTER_2025",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "40141131",
+   "id": "REF_PAJARES_2025",
+   "grupo": "ENZ",
+   "tag": "OB"
+  },
+  {
+   "pmid": "39762627",
+   "id": "REF_XI_2025",
+   "grupo": "ENZ",
+   "tag": "ML"
+  },
+  {
+   "pmid": "2711414",
+   "id": "REF_MCGOWAN_1989",
+   "grupo": "B6DEF",
+   "tag": "ML"
+  },
+  {
+   "pmid": "9844729",
+   "id": "REF_CABRINI_1998",
+   "grupo": "B6DEF",
+   "tag": "ML"
+  },
+  {
+   "pmid": "15203107",
+   "id": "REF_MAHFOUZ_2004",
+   "grupo": "B6DEF",
+   "tag": "ML"
+  },
+  {
+   "pmid": "16857832",
+   "id": "REF_LIMA_2006",
+   "grupo": "B6DEF",
+   "tag": "ML"
+  },
+  {
+   "pmid": "20090886",
+   "id": "REF_CHOI_2009",
+   "grupo": "B6DEF",
+   "tag": "ML"
+  },
+  {
+   "pmid": "25933612",
+   "id": "REF_HSU_2015",
+   "grupo": "B6DEF",
+   "tag": "ML"
+  },
+  {
+   "pmid": "28024289",
+   "id": "REF_DANIELYAN_2017",
+   "grupo": "B6DEF",
+   "tag": "ML"
+  },
+  {
+   "pmid": "40991665",
+   "id": "REF_TODOROVIC_2025",
+   "grupo": "B6DEF",
+   "tag": "ML"
+  },
+  {
+   "pmid": "42351801",
+   "id": "REF_TODOROVIC_2026",
+   "grupo": "B6DEF",
+   "tag": "ML"
+  },
+  {
+   "pmid": "1653565",
+   "id": "REF_ZHOU_1991",
+   "grupo": "ANTIOX",
+   "tag": "ML"
+  },
+  {
+   "pmid": "7767942",
+   "id": "REF_HU_1995",
+   "grupo": "ANTIOX",
+   "tag": "ML"
+  },
+  {
+   "pmid": "11165869",
+   "id": "REF_JAIN_2001",
+   "grupo": "ANTIOX",
+   "tag": "ML"
+  },
+  {
+   "pmid": "14975445",
+   "id": "REF_KANNAN_2004",
+   "grupo": "ANTIOX",
+   "tag": "ML"
+  },
+  {
+   "pmid": "17134167",
+   "id": "REF_MATXAIN_2006",
+   "grupo": "ANTIOX",
+   "tag": "ML"
+  },
+  {
+   "pmid": "20209473",
+   "id": "REF_MAHFOUZ_2009",
+   "grupo": "ANTIOX",
+   "tag": "ML"
+  },
+  {
+   "pmid": "19558175",
+   "id": "REF_MATXAIN_2009",
+   "grupo": "ANTIOX",
+   "tag": "ML"
+  },
+  {
+   "pmid": "22231514",
+   "id": "REF_NATERA_2012",
+   "grupo": "ANTIOX",
+   "tag": "ML"
+  },
+  {
+   "pmid": "22116705",
+   "id": "REF_WONDRAK_2012",
+   "grupo": "ANTIOX",
+   "tag": "OB"
+  },
+  {
+   "pmid": "31480509",
+   "id": "REF_RAMIS_2019",
+   "grupo": "ANTIOX",
+   "tag": "OB"
+  },
+  {
+   "pmid": "35390394",
+   "id": "REF_NGO_2022",
+   "grupo": "ANTIOX",
+   "tag": "ML"
+  },
+  {
+   "pmid": "26262996",
+   "id": "REF_SCHMITT_2015",
+   "grupo": "GSH",
+   "tag": "EC"
+  },
+  {
+   "pmid": "28807817",
+   "id": "REF_GIUSTARINI_2017",
+   "grupo": "GSH",
+   "tag": "OB"
+  },
+  {
+   "pmid": "32933160",
+   "id": "REF_NUHU_2020",
+   "grupo": "GSH",
+   "tag": "OB"
+  },
+  {
+   "pmid": "36386929",
+   "id": "REF_LABARRERE_2022",
+   "grupo": "GSH",
+   "tag": "OB"
+  },
+  {
+   "pmid": "36707132",
+   "id": "REF_AVERILLBATES_2023",
+   "grupo": "GSH",
+   "tag": "OB"
+  },
+  {
+   "pmid": "37237960",
+   "id": "REF_GIUSTARINI_2023",
+   "grupo": "GSH",
+   "tag": "OB"
+  },
+  {
+   "pmid": "37683986",
+   "id": "REF_LAPENNA_2023",
+   "grupo": "GSH",
+   "tag": "OB"
+  },
+  {
+   "pmid": "37759691",
+   "id": "REF_VALGIMIGLI_2023",
+   "grupo": "GSH",
+   "tag": "OB"
+  },
+  {
+   "pmid": "16424114",
+   "id": "REF_DAVIS_2006",
+   "grupo": "HUM",
+   "tag": "EC"
+  },
+  {
+   "pmid": "19515736",
+   "id": "REF_LAMERS_2009",
+   "grupo": "HUM",
+   "tag": "EC"
+  },
+  {
+   "pmid": "19955400",
+   "id": "REF_SHEN_2010",
+   "grupo": "HUM",
+   "tag": "OB"
+  },
+  {
+   "pmid": "27051670",
+   "id": "REF_CHENG_2016",
+   "grupo": "HUM",
+   "tag": "EC"
+  },
+  {
+   "pmid": "30513795",
+   "id": "REF_FORD_2018",
+   "grupo": "HUM",
+   "tag": "EC"
+  },
+  {
+   "pmid": "32635181",
+   "id": "REF_LAI_2020",
+   "grupo": "HUM",
+   "tag": "EC"
+  },
+  {
+   "pmid": "31129702",
+   "id": "REF_PUSCEDDU_2020",
+   "grupo": "HUM",
+   "tag": "OB"
+  },
+  {
+   "pmid": "34229268",
+   "id": "REF_VANDENEYNDE_2021",
+   "grupo": "HUM",
+   "tag": "EC"
+  },
+  {
+   "pmid": "16531614",
+   "id": "REF_BONAA_2006",
+   "grupo": "NEG",
+   "tag": "EC"
+  },
+  {
+   "pmid": "29776960",
+   "id": "REF_CHRISTEN_2018",
+   "grupo": "NEG",
+   "tag": "EC"
+  },
+  {
+   "pmid": "42196957",
+   "id": "REF_KATO_2026",
+   "grupo": "HIP",
+   "tag": "OB"
+  }
+ ],
+ "falsos_positivos": 0,
+ "resgates": [
+  {
+   "item": "Kéry & Kraus 1994",
+   "pmid": "7929220",
+   "via": "busca dirigida autor+tema (DOI CrossRef não registrado no PubMed)"
+  }
+ ],
+ "excluidas_escopo": [
+  "33414386",
+  "37409540",
+  "31601260",
+  "34058062",
+  "40218880",
+  "41393929",
+  "38830901",
+  "19903353",
+  "31961357",
+  "39441545",
+  "26823273",
+  "31132312",
+  "40044138",
+  "32913258",
+  "32887901",
+  "29630349"
+ ],
+ "baixo_incremento": [
+  "14642387",
+  "31915511",
+  "19491213",
+  "35821844",
+  "38279310",
+  "36717385",
+  "39960689",
+  "35454125",
+  "34573083",
+  "41149254"
+ ],
+ "nao_indexados": [
+  [
+   "Dawood 2024",
+   "10.32947/ajps.v24i1.1030",
+   "RCT piloto B6 em DM2 — periódico não indexado"
+  ],
+  [
+   "González-Recio 2020",
+   "10.1002/9780470015902.a0028966",
+   "eLS (enciclopédia; não indexado)"
+  ],
+  [
+   "İnceören 2023",
+   "10.1556/066.2022.00138",
+   "Silybum+derivados B6 × dano DNA (não indexado)"
+  ],
+  [
+   "Itoh 2024",
+   "10.1016/j.nutos.2024.03.011",
+   "PLP baixo → ↓GSH/neurotransmissor, ↑suscetibilidade H2O2 em SH-SY5Y — periódico não indexado → [G1]"
+  ],
+  [
+   "Lee 2019",
+   "10.3390/cryst9120656",
+   "cristal CGL bacteriana (não indexado; seria EXC-não-mamífero)"
+  ],
+  [
+   "Li 2026",
+   "10.1002/imm3.70032",
+   "piridoxal→estresse oxidativo letal em câncer ovariano (não indexado; seria EXC-onco)"
+  ],
+  [
+   "Mendes 2017",
+   "10.4322/2357-9730.70767",
+   "B6 isolado × EO/coração em hiperhomocisteinemia (não indexado)"
+  ],
+  [
+   "Serhiyenko 2025",
+   "10.22141/2224-0721.21.1.2025.1493",
+   "B6-CV-DM narrativa (não indexado)"
+  ],
+  [
+   "Shrayner 2025",
+   "10.29296/25877305-2025-10-03",
+   "regulação de GSH por vitaminas (não indexado; russo)"
+  ],
+  [
+   "Velásquez 2019",
+   "10.2174/1874091x01913010037",
+   "piridoxina ↓EO em membrana eritrocitária in vitro (não indexado)"
+  ]
+ ],
+ "overlap_vigente": 0,
+ "correcoes_dado": [
+  "mecanismo_origem dos 36 vínculos vigentes (valor bugado da V1) → mecanismo_B6_estresse_oxidativo",
+  "vinculos_n2 do manifesto 19 → 108",
+  "Pusceddu: ano oficial PubMed 2020 (insumo rotulava 2019 epub)"
+ ],
+ "p6": "PENDENTE (2a verificacao cega, Via 2)"
+}

@@ -1,0 +1,367 @@
+{
+  "trilha": 46,
+  "data": "2026-09-17",
+  "rodada": 27,
+  "checks": [
+    {
+      "check": "A0 reenvio do relatório v1.0 é byte-idêntico ao da rodada 25",
+      "ok": true,
+      "detalhe": "fae39101c33a5442"
+    },
+    {
+      "check": "A0b v1.0 arquivado intacto (753f9796…)",
+      "ok": true,
+      "detalhe": "753f97968436ce0d"
+    },
+    {
+      "check": "A1 diff v1.0→v1.1 = apenas o changelog declarado (extrapol fora · regra 4 dentro · docstrings)",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "A2 comentador §3 CONFERE: minuta (5) segue com cabeçalho v1.0 × conteúdo v1.3",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "B1 réplica byte-a-byte da v1.1: 274/231/43 + regras 231/16/19/8 + RAISON APROVADO + JSON = o dele (exceto data)",
+      "ok": true,
+      "detalhe": "{\"exit\": 0, \"mesmos\": true}"
+    },
+    {
+      "check": "B2 lado a lado v1.0: 172/102 reproduzidos + JSON = o dele (exceto data)",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C1 segunda via da casa: mesmos 274 pares (valor, motivo), zero divergência",
+      "ok": true,
+      "detalhe": "[]"
+    },
+    {
+      "check": "C1b por_regra bate: {\"regra_1_confirmado_sem_sinal\": 231, \"regra_3_parcialmente_confirmado\": 19, \"regra_2_confirmado_com_sinal\": 16, \"regra_4_verificacao_pendente\": 8}",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "D1 §14.1 EXATO: regra_4 = 8 = 7 CONFIRMADO + 1 NAO_LOCALIZADO · ex-sustenta = os 3 nomeados",
+      "ok": true,
+      "detalhe": "[\"VINC_B1_0259\", \"VINC_B1_0268\", \"VINC_B1_0270\"]"
+    },
+    {
+      "check": "D2 §14.2 EXATO (5/5): mandados=62 · declara no pool=138 · mandados∩campo=60 · silenciosos=78 · vs extrapolado/preclinico=57",
+      "ok": true,
+      "detalhe": "{\"pendente_star\": 8, \"regra4_bucket\": 8, \"regra4_por_status_auditoria\": {\"NAO_LOCALIZADO\": 1, \"CONFIRMADO\": 7}, \"CONF_e_pendente_total\": 7, \"deles_sem_sinal_na_v10_seriam_sustenta\": [\"VINC_B1_0259\", \"VINC_B1_0268\", \"VINC_B1_0270\"], \"nomeados_dele_presentes\": [\"VINC_B1_0259\", \"VIN"
+    },
+    {
+      "check": "E1 premissas: review 30/237 · citacao_confirmada true 237/237 · redirecionado_clinico 20 (17 uso clinico)",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "F1 derivador: 146 = 48+71+16+11 por categoria · por-chave == bloco contagem · APROVADO · artefato gravado",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "S 0 ciência: V7 6e2c2979… · manifesto 79d1309a… · P-8 84fa918d… · vínculos 490675e6… (entrada intacta após 3 execuções)",
+      "ok": true,
+      "detalhe": ""
+    }
+  ],
+  "artefatos": {
+    "triagem_direcao_suporte_v1.1_recebido_2026-09-17.py": "f8b29ad0592037168ddc17d390dadc66cda570ce60423d6c261c3129b342210a",
+    "triagem_direcao_suporte.py": "753f97968436ce0dc56a40ddc680b078c8157c12e49df908d8e0f70102e42757",
+    "L05_SCHEMA_EVIDENCIA_E_VINCULO_v1.0_PROPOSTA_(5)_recebido_2026-09-17.md": "2b06b3650fbcd6dcf23e6f70ae02068f7f7892e63a5632de9380aa90953e23e8",
+    "L05_minuta_normativa_recebida_2026-09-17.md": "fc05f470cc763c0fbb67b3cee696ab4c76a0b54d70501295bf2ab35c8236e059",
+    "relatorio_triagem_direcao_v11_recebido_2026-09-17.json": "a6ede6f34dc14f785ab7578a5dcabcb3d309cd5b0d7746ef52254ad5e902fdfd",
+    "relatorio_triagem_direcao_2026-09-16_REENVIO_recebido_2026-09-17.json": "fae39101c33a5442f00e8e6088357a55fd90d8ed428c025a9c399dd6e08817e7",
+    "COMENTARIO_COMENTADOR_L05V13_TRIAGEM_V11_2026-09-17.md": "890de3d2945295688ad0a8ccee9e2de3cee596aef0f6245283f790ccbb888ec1",
+    "1º IDS_OFICIAIS.md": "f3a74fbcda9aa0aa4b9e13d42321776c4b68a4928180d7245aa4c008400b0e16"
+  },
+  "diff_py": {
+    "hunks": 6,
+    "sinais_v10_tem_extrapol": true,
+    "sinais_v11_tem_extrapol": false,
+    "STATUS_NAO_AUTOMATICO_novo": true,
+    "sha256_e_main_identicos_AST": true,
+    "triar_mudou_AST": true,
+    "compilam_os_dois": true
+  },
+  "diff_minuta": {
+    "hunks": 2,
+    "linhas_+": 52,
+    "linhas_−": 1,
+    "S14_presente": true,
+    "H2_diz_v1.0": true,
+    "Status_diz_v1.3": true
+  },
+  "reexec_v11": {
+    "exit": 0,
+    "numeros": {
+      "total": 274,
+      "automaticos": 231,
+      "fila_humana": 43,
+      "por_regra": {
+        "regra_1_confirmado_sem_sinal": 231,
+        "regra_3_parcialmente_confirmado": 19,
+        "regra_2_confirmado_com_sinal": 16,
+        "regra_4_verificacao_pendente": 8
+      }
+    },
+    "json_identico_ao_dele_exceto_data": true,
+    "raison": true,
+    "motivos_raison": [
+      "regra_2_confirmado_com_sinal:negativ",
+      "regra_2_confirmado_com_sinal:so no"
+    ]
+  },
+  "S14_numeros": {
+    "pendente_star": 8,
+    "regra4_bucket": 8,
+    "regra4_por_status_auditoria": {
+      "NAO_LOCALIZADO": 1,
+      "CONFIRMADO": 7
+    },
+    "CONF_e_pendente_total": 7,
+    "deles_sem_sinal_na_v10_seriam_sustenta": [
+      "VINC_B1_0259",
+      "VINC_B1_0268",
+      "VINC_B1_0270"
+    ],
+    "nomeados_dele_presentes": [
+      "VINC_B1_0259",
+      "VINC_B1_0268",
+      "VINC_B1_0270"
+    ],
+    "pool_v10_CONF_sem_pendente": 247,
+    "sinal_extrapol_v10_mandados": 62,
+    "campo_declara_no_pool_camada_final": 138,
+    "mandados_com_campo_declarado": 60,
+    "silenciosos": 78,
+    "mandados_sem_campo": 2,
+    "fronteira_media": [
+      "VINC_B1V2_0179",
+      "VINC_B1V2_0180",
+      "VINC_B1V2_0181",
+      "VINC_B1V2_0182",
+      "VINC_B1V2_0183",
+      "VINC_B1V2_0184",
+      "VINC_B1V2_0185",
+      "VINC_B1V2_0186",
+      "VINC_B1V2_0187",
+      "VINC_B1V2_0188",
+      "VINC_B1V2_0189",
+      "VINC_B1V2_0191",
+      "VINC_B1V2_0192",
+      "VINC_B1V2_0193",
+      "VINC_B1V2_0194",
+      "VINC_B1V2_0206",
+      "VINC_B1_0001",
+      "VINC_B1_0002",
+      "VINC_B1_0003",
+      "VINC_B1_0005",
+      "VINC_B1_0006",
+      "VINC_B1_0007",
+      "VINC_B1_0008",
+      "VINC_B1_0009",
+      "VINC_B1_0011",
+      "VINC_B1_0012",
+      "VINC_B1_0013",
+      "VINC_B1_0014",
+      "VINC_B1_0015",
+      "VINC_B1_0016",
+      "VINC_B1_0017",
+      "VINC_B1_0018",
+      "VINC_B1_0019",
+      "VINC_B1_0020",
+      "VINC_B1_0022",
+      "VINC_B1_0023",
+      "VINC_B1_0024",
+      "VINC_B1_0025",
+      "VINC_B1_0026",
+      "VINC_B1_0029",
+      "VINC_B1_0030",
+      "VINC_B1_0031",
+      "VINC_B1_0034",
+      "VINC_B1_0035",
+      "VINC_B1_0036",
+      "VINC_B1_0037",
+      "VINC_B1_0039",
+      "VINC_B1_0041",
+      "VINC_B1_0042",
+      "VINC_B1_0043",
+      "VINC_B1_0045",
+      "VINC_B1_0048",
+      "VINC_B1_0049",
+      "VINC_B1_0050",
+      "VINC_B1_0051",
+      "VINC_B1_0052",
+      "VINC_B1_0057",
+      "VINC_B1_0058",
+      "VINC_B1_0059",
+      "VINC_B1_0060",
+      "VINC_B1_0061",
+      "VINC_B1_0062",
+      "VINC_B1_0063",
+      "VINC_B1_0064",
+      "VINC_B1_0066",
+      "VINC_B1_0068",
+      "VINC_B1_0070",
+      "VINC_B1_0071",
+      "VINC_B1_0072",
+      "VINC_B1_0073",
+      "VINC_B1_0076",
+      "VINC_B1_0077",
+      "VINC_B1_0078",
+      "VINC_B1_0079",
+      "VINC_B1_0080",
+      "VINC_B1_0081",
+      "VINC_B1_0082",
+      "VINC_B1_0085",
+      "VINC_B1_0086",
+      "VINC_B1_0087",
+      "VINC_B1_0088",
+      "VINC_B1_0090",
+      "VINC_B1_0091",
+      "VINC_B1_0092",
+      "VINC_B1_0093",
+      "VINC_B1_0094",
+      "VINC_B1_0095",
+      "VINC_B1_0096",
+      "VINC_B1_0097",
+      "VINC_B1_0098",
+      "VINC_B1_0100",
+      "VINC_B1_0104",
+      "VINC_B1_0105",
+      "VINC_B1_0106",
+      "VINC_B1_0107",
+      "VINC_B1_0124",
+      "VINC_B1_0137",
+      "VINC_B1_0138",
+      "VINC_B1_0140",
+      "VINC_B1_0141",
+      "VINC_B1_0142",
+      "VINC_B1_0143",
+      "VINC_B1_0145",
+      "VINC_B1_0146",
+      "VINC_B1_0147",
+      "VINC_B1_0148",
+      "VINC_B1_0149",
+      "VINC_B1_0151",
+      "VINC_B1_0153",
+      "VINC_B1_0154",
+      "VINC_B1_0155",
+      "VINC_B1_0156",
+      "VINC_B1_0157",
+      "VINC_B1_0161",
+      "VINC_B1_0162",
+      "VINC_B1_0163",
+      "VINC_B1_0164",
+      "VINC_B1_0165",
+      "VINC_B1_0166",
+      "VINC_B1_0167",
+      "VINC_B1_0169",
+      "VINC_B1_0170",
+      "VINC_B1_0210",
+      "VINC_B1_0211",
+      "VINC_B1_0215",
+      "VINC_B1_0229",
+      "VINC_B1_0232",
+      "VINC_B1_0233",
+      "VINC_B1_0241",
+      "VINC_B1_0247",
+      "VINC_B1_0255",
+      "VINC_B1_0260",
+      "VINC_B1_0261",
+      "VINC_B1_0262",
+      "VINC_B1_0265",
+      "VINC_B1_0272",
+      "VINC_B1_0273"
+    ],
+    "mandados_com_vs_extrapolado_ou_preclinico": 57
+  },
+  "S14_nota_camada": "§14 reproduz INTEIRO e EXATO sob camadas declaradas. Caminho da casa nesta trilha (confissões datadas): (1) “CONF+pendente” não é 3 — são 7, dos quais 3 ex-sustenta (os nomeados); (2) régua “campo ≠ nao” larga demais; (3) régua só-sim|parcial dava 77 silenciosos; a fronteira é VINC_B1_0263 (media; texto declara extrapolado). Reconciliação do 66 da rodada 25: 66 − 4 CONF+pendente+sinal = 62 mandados.",
+  "premissas_comentador": {
+    "fichas": 237,
+    "review": 30,
+    "citacao_confirmada_true": 237,
+    "redirecionado_clinico": 20,
+    "ids_redirecionados": [
+      "VINC_B1_0065",
+      "VINC_B1_0067",
+      "VINC_B1_0069",
+      "VINC_B1_0083",
+      "VINC_B1_0089",
+      "VINC_B1_0109",
+      "VINC_B1_0110",
+      "VINC_B1_0111",
+      "VINC_B1_0112",
+      "VINC_B1_0113",
+      "VINC_B1_0114",
+      "VINC_B1_0115",
+      "VINC_B1_0116",
+      "VINC_B1_0117",
+      "VINC_B1_0121",
+      "VINC_B1_0122",
+      "VINC_B1_0125",
+      "VINC_B1_0130",
+      "VINC_B1_0131",
+      "VINC_B1_0172"
+    ],
+    "uso_dos_20": {
+      "gap_pesquisa": 2,
+      "clinico": 17,
+      "contexto_mecanistico": 1
+    }
+  },
+  "marca_dupla_v11": {
+    "automaticos_231_por_verification": {
+      "verificado": 119,
+      "extrapolado": 52,
+      "preclinico": 59,
+      "emergente": 1
+    },
+    "fila_43_por_verification": {
+      "extrapolado": 10,
+      "verificado": 21,
+      "pendente_fulltext": 1,
+      "preclinico": 4,
+      "pendente": 7
+    },
+    "automaticos_nao_verificado": 112
+  },
+  "marca_dupla_nota": "v1.0: 58/172 automáticos não-verificado (rodada 25). v1.1: 112/231 — a fila encolheu, mas o peso da ressalva cresceu (§14.4 dele): o portão de migração deve ler a restrição NOS CAMPOS (marca dupla), não mais na prosa. Mantida como proposta da casa ao portão.",
+  "derivador": {
+    "returncode": 0,
+    "stdout_tail": "{\n  \"APROVADO\": true,\n  \"total\": 146,\n  \"grupos\": {\n    \"suplementos_complementares\": 48,\n    \"exames_algoritmo\": 71,\n    \"mecanismos\": 16,\n    \"cenarios\": 11\n  },\n  \"mecanica_txt\": 74,\n  \"artefato\": \"/home/user/Ferramentas de geração e auditoria/01_norteadores/_derivados_trilha46/_ids_oficiais.json\",\n  \"sha_artefato\": \"d0ff264735dc62565c9c102dcb3bd36d4a9960fcf536b636a64494d33d9c532c\",\n  \"proveniencia\": \"/home/user/Ferramentas de geração e auditoria/01_norteadores/_derivados_trilha46/_ids_oficiais.PROVENIENCIA.json\"\n}\n"
+  },
+  "derivador_resumo": {
+    "somas": {
+      "suplementos_complementares": 48,
+      "exames_algoritmo": 71,
+      "mecanismos": 16,
+      "cenarios": 11
+    },
+    "total": 146,
+    "camadas": {
+      "estrutural_json": 146,
+      "mecanica_prefixo_regex": 74,
+      "trilha25_parser_texto_legado": 103,
+      "causa_do_gap": "IDs de suplementos/cenários/mecanismos sem prefixo capturável — só a camada estrutural reproduz 146"
+    },
+    "sha_fonte": "f3a74fbcda9aa0aa4b9e13d42321776c4b68a4928180d7245aa4c008400b0e16"
+  },
+  "confissao_camada_146": "Registro de rodada anterior dizia \"trilha 38 já mediu 146 estrutural\". Impreciso: a trilha 38 mediu 74 por regex mecânica de prefixo e CITOU os 146 declarados; a camada estrutural que reproduz os 146 por categoria (arquivo-fonte é JSON inteiro) só é medida agora, nesta trilha, pelo derivador. Confissão datada 2026-09-17.",
+  "vereditos": {
+    "v1.1_executavel_e_fiel_ao_relatorio": "CONFERE (byte a byte exceto data; exit 0; RAISON aprovado por negativ/so no)",
+    "mudanca_v10_para_v11": "CONFERE com o changelog dele (extrapol fora + regra 4 dentro; sha256/main idênticos por AST)",
+    "motivo_da_queda_102_para_43": "sinal extrapol carregava 66; regra 4 realoca os 8 pendente* (3 novos do CONFIRMADO); aritmética reconciliada pela segunda via da casa (0 divergências em 274 pares)",
+    "numeros_S14": "medidos por camada e declarados; os campos estruturados existem 274/274 — a tese dele (P20 dentro do próprio script) CONFERE",
+    "comentador": "seções 1-6 verificadas; D2/D3/D4 = as Decisões 2/3/4 já abertas para o OPERADOR na minuta; §3 (v1.0×v1.3) CONFERE; §4 catálogo agora TEM resposta da casa (derivador APROVADO)",
+    "posicao_da_casa": "ENDOSSA a v1.1 (231/43 transitórios) e a consolidação do L-05 v1.3; marca dupla proposta segue para o portão"
+  },
+  "checks_ok": 13,
+  "checks_tot": 13,
+  "falhas": []
+}

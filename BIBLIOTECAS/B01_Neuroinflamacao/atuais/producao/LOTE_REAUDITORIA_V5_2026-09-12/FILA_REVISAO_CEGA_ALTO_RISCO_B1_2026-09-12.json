@@ -1,0 +1,1336 @@
+{
+ "data": "2026-09-12",
+ "criterio_operacional": "Rótulo canônico [MA] ou [EC] (meta-análise ou ensaio clínico, conforme token da própria biblioteca V5) OU evid_role=post_mortem OU genética humana (REF_BULL_2009/REF_KLENGEL_2013/REF_YEHUDA_2016) OU menção TSPO-PET no vínculo/achado — união das classes nominais do RELATORIO_FIDELIDADE_CANONICA_B1 (V3). Critério conservador: NÃO exclui os 4 MA/EC sem 'Humans' no campo especie_mesh.",
+ "reconciliacao": {
+  "nominal_v3_fidelidade_2026-09-04": 59,
+  "nota": "O '59' era contagem qualitativa por classes, sem lista preservada no workspace; NÃO foi bit-reproduzido (tentativas documentadas em producao/trilha_lote). A fila operacional v2026-09-12 é SUPER CONJUNTO conservador das mesmas classes, incluindo a leva [AT] 2026-09-08 (+49 refs).",
+  "ja_cobertos_pela_rodada_fulltext_G3_2026-09-04": 22,
+  "cobertura_dos_22_nesta_fila": "COMPLETA",
+  "fila_operacional_2026-09-12": 108,
+  "decomposicao": {
+   "MA_ou_EC_rotulo": 88,
+   "pos_morte": 2,
+   "genetica_humana": 3,
+   "TSPO_PET": 15
+  }
+ },
+ "fila": [
+  {
+   "id_vinculo": "VINC_B1V2_0187",
+   "id_referencia_interna": "REF_LEI_2023",
+   "pmid_oficial": "37875763",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO02/2.27",
+   "claim_id": "",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_G3_rodada_auditoria_cientifica (abstract efetch relido, 3 perguntas G3: pertencimento/suporte/robustez)"
+  },
+  {
+   "id_vinculo": "VINC_B1V2_0195",
+   "id_referencia_interna": "REF_RENNA_2018",
+   "pmid_oficial": "30199144",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO06/6.6",
+   "claim_id": "",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_G3_rodada_auditoria_cientifica (abstract efetch relido, 3 perguntas G3: pertencimento/suporte/robustez)"
+  },
+  {
+   "id_vinculo": "VINC_B1V2_0196",
+   "id_referencia_interna": "REF_COSTELLO_2019",
+   "pmid_oficial": "31326932",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO06/6.6",
+   "claim_id": "",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_G3_rodada_auditoria_cientifica (abstract efetch relido, 3 perguntas G3: pertencimento/suporte/robustez)"
+  },
+  {
+   "id_vinculo": "VINC_B1V2_0197",
+   "id_referencia_interna": "REF_COSCO_2019",
+   "pmid_oficial": "30382535",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO06/6.6",
+   "claim_id": "",
+   "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+   "g3_verificado_por": "IA_G3_rodada_auditoria_cientifica (abstract efetch relido, 3 perguntas G3: pertencimento/suporte/robustez)"
+  },
+  {
+   "id_vinculo": "VINC_B1V2_0198",
+   "id_referencia_interna": "REF_QUAGLIATO_2018",
+   "pmid_oficial": "29241050",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO06/6.6",
+   "claim_id": "",
+   "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+   "g3_verificado_por": "IA_G3_rodada_auditoria_cientifica (abstract efetch relido, 3 perguntas G3: pertencimento/suporte/robustez)"
+  },
+  {
+   "id_vinculo": "VINC_B1V2_0199",
+   "id_referencia_interna": "REF_PASSOS_2015",
+   "pmid_oficial": "26544749",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO06/6.6",
+   "claim_id": "",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_G3_rodada_auditoria_cientifica (abstract efetch relido, 3 perguntas G3: pertencimento/suporte/robustez)"
+  },
+  {
+   "id_vinculo": "VINC_B1V2_0200",
+   "id_referencia_interna": "REF_BHATT_2020",
+   "pmid_oficial": "32398677",
+   "classes_alto_risco": [
+    "meta/RCT[MA]",
+    "TSPO-PET"
+   ],
+   "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO06/6.6",
+   "claim_id": "",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_G3_rodada_auditoria_cientifica (abstract efetch relido, 3 perguntas G3: pertencimento/suporte/robustez)"
+  },
+  {
+   "id_vinculo": "VINC_B1V2_0201",
+   "id_referencia_interna": "REF_RUPPRECHT_2022",
+   "pmid_oficial": "35444254",
+   "classes_alto_risco": [
+    "meta/RCT[MA]",
+    "TSPO-PET"
+   ],
+   "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO06/6.6",
+   "claim_id": "",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_G3_rodada_auditoria_cientifica (abstract efetch relido, 3 perguntas G3: pertencimento/suporte/robustez)"
+  },
+  {
+   "id_vinculo": "VINC_B1V2_0202",
+   "id_referencia_interna": "REF_PARSONS_2021",
+   "pmid_oficial": "33200498",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO06/6.6",
+   "claim_id": "",
+   "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+   "g3_verificado_por": "IA_G3_rodada_auditoria_cientifica (abstract efetch relido, 3 perguntas G3: pertencimento/suporte/robustez)"
+  },
+  {
+   "id_vinculo": "VINC_B1V2_0203",
+   "id_referencia_interna": "REF_HOWE_2022",
+   "pmid_oficial": "35880170",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO06/6.6",
+   "claim_id": "",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_G3_rodada_auditoria_cientifica (abstract efetch relido, 3 perguntas G3: pertencimento/suporte/robustez)"
+  },
+  {
+   "id_vinculo": "VINC_B1V2_0204",
+   "id_referencia_interna": "REF_KIM_2018",
+   "pmid_oficial": "28901278",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO06/6.6",
+   "claim_id": "",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_G3_rodada_auditoria_cientifica (abstract efetch relido, 3 perguntas G3: pertencimento/suporte/robustez)"
+  },
+  {
+   "id_vinculo": "VINC_B1V2_0205",
+   "id_referencia_interna": "REF_XIA_2024",
+   "pmid_oficial": "38233395",
+   "classes_alto_risco": [
+    "meta/RCT[EC]"
+   ],
+   "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO06/6.7",
+   "claim_id": "",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_G3_rodada_auditoria_cientifica (abstract efetch relido, 3 perguntas G3: pertencimento/suporte/robustez)"
+  },
+  {
+   "id_vinculo": "VINC_B1V2_0207",
+   "id_referencia_interna": "REF_WITTENBERG_2020",
+   "pmid_oficial": "31427751",
+   "classes_alto_risco": [
+    "meta/RCT[EC]"
+   ],
+   "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO06/6.7",
+   "claim_id": "",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_G3_rodada_auditoria_cientifica (abstract efetch relido, 3 perguntas G3: pertencimento/suporte/robustez)"
+  },
+  {
+   "id_vinculo": "VINC_B1V2_0208",
+   "id_referencia_interna": "REF_SU_2018",
+   "pmid_oficial": "30646157",
+   "classes_alto_risco": [
+    "meta/RCT[EC]"
+   ],
+   "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO06/6.7",
+   "claim_id": "",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_G3_rodada_auditoria_cientifica (abstract efetch relido, 3 perguntas G3: pertencimento/suporte/robustez)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0018",
+   "id_referencia_interna": "REF_MOLINALOPEZ_2024",
+   "pmid_oficial": "38321014",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_02/2.1",
+   "claim_id": "B1.MEC.BLOCO02.001",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0028",
+   "id_referencia_interna": "REF_TAFT_2021",
+   "pmid_oficial": "34363755",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_02/2.6",
+   "claim_id": "B1.MEC.BLOCO02.006",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0030",
+   "id_referencia_interna": "REF_MALAU_2024",
+   "pmid_oficial": "39513898",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_02/2.8",
+   "claim_id": "B1.MEC.BLOCO02.008",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_G3_rodada_auditoria_cientifica (abstract efetch relido, 3 perguntas G3: pertencimento/suporte/robustez)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0032",
+   "id_referencia_interna": "REF_PICCA_2017",
+   "pmid_oficial": "28452964",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_02/2.9",
+   "claim_id": "B1.MEC.BLOCO02.009",
+   "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0038",
+   "id_referencia_interna": "REF_BULL_2009",
+   "pmid_oficial": "18458677",
+   "classes_alto_risco": [
+    "meta/RCT[MA]",
+    "genetica_humana"
+   ],
+   "secao_origem": "BLOCO_02/2.12",
+   "claim_id": "B1.MEC.BLOCO02.012",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0047",
+   "id_referencia_interna": "REF_HAFIZI_2005",
+   "pmid_oficial": "17639827",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_02/2.16",
+   "claim_id": "B1.MEC.BLOCO02.016",
+   "status_auditoria": "NAO_LOCALIZADO",
+   "g3_verificado_por": ""
+  },
+  {
+   "id_vinculo": "VINC_B1_0054",
+   "id_referencia_interna": "REF_KLENGEL_2013",
+   "pmid_oficial": "23201972",
+   "classes_alto_risco": [
+    "meta/RCT[MA]",
+    "genetica_humana"
+   ],
+   "secao_origem": "BLOCO_02/2.20",
+   "claim_id": "B1.MEC.BLOCO02.020",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0055",
+   "id_referencia_interna": "REF_PARK_2019",
+   "pmid_oficial": "31005627",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_02/2.20",
+   "claim_id": "B1.MEC.BLOCO02.020",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0056",
+   "id_referencia_interna": "REF_WANG_2018",
+   "pmid_oficial": "29361849",
+   "classes_alto_risco": [
+    "meta/RCT[MA]",
+    "pos_morte"
+   ],
+   "secao_origem": "BLOCO_02/2.21",
+   "claim_id": "B1.MEC.BLOCO02.021",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0065",
+   "id_referencia_interna": "REF_TOBINICK_2009",
+   "pmid_oficial": "19027875",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_03/3.2",
+   "claim_id": "B1.MEC.BLOCO03.002",
+   "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0067",
+   "id_referencia_interna": "REF_KOHLER_2017",
+   "pmid_oficial": "28122130",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_03/3.3",
+   "claim_id": "B1.MEC.BLOCO03.003",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0069",
+   "id_referencia_interna": "REF_WIEDOCHA_2018",
+   "pmid_oficial": "28445690",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_03/3.4",
+   "claim_id": "B1.MEC.BLOCO03.004",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0074",
+   "id_referencia_interna": "REF_KEENAN_2025",
+   "pmid_oficial": "39960105",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_03/3.6",
+   "claim_id": "B1.MEC.BLOCO03.006",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0083",
+   "id_referencia_interna": "REF_KOHLER_2017",
+   "pmid_oficial": "28122130",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_03/3.11",
+   "claim_id": "B1.MEC.BLOCO03.011",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0089",
+   "id_referencia_interna": "REF_KOHLER_2017",
+   "pmid_oficial": "28122130",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_03/3.15",
+   "claim_id": "B1.MEC.BLOCO03.004",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0099",
+   "id_referencia_interna": "REF_LIU_2020",
+   "pmid_oficial": "32050990",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_04/4.5",
+   "claim_id": "B1.MEC.BLOCO04.005",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0101",
+   "id_referencia_interna": "REF_WILEY_2024",
+   "pmid_oficial": "38016492",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_04/4.6",
+   "claim_id": "B1.MEC.BLOCO04.006",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0102",
+   "id_referencia_interna": "REF_LIU_2020",
+   "pmid_oficial": "32050990",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_04/4.7",
+   "claim_id": "B1.MEC.BLOCO04.009",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0103",
+   "id_referencia_interna": "REF_PINTOSANCHEZ_2017",
+   "pmid_oficial": "28483500",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_04/4.7",
+   "claim_id": "B1.MEC.BLOCO04.009",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0109",
+   "id_referencia_interna": "REF_DOWLATI_2010",
+   "pmid_oficial": "20015486",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_05/5.1",
+   "claim_id": "B1.MEC.BLOCO05.004",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0110",
+   "id_referencia_interna": "REF_HOWREN_2009",
+   "pmid_oficial": "19188531",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_05/5.1",
+   "claim_id": "B1.MEC.BLOCO05.004",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0111",
+   "id_referencia_interna": "REF_GOLDSMITH_2016",
+   "pmid_oficial": "26903267",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_05/5.1",
+   "claim_id": "B1.MEC.BLOCO05.004",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0112",
+   "id_referencia_interna": "REF_OSIMO_2020",
+   "pmid_oficial": "32113908",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_05/5.1",
+   "claim_id": "B1.MEC.BLOCO05.004",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0113",
+   "id_referencia_interna": "REF_KOHLER_2017",
+   "pmid_oficial": "28122130",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_05/5.1",
+   "claim_id": "B1.MEC.BLOCO05.004",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0114",
+   "id_referencia_interna": "REF_JARKAS_2024",
+   "pmid_oficial": "39089535",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_05/5.1",
+   "claim_id": "B1.MEC.BLOCO05.004",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0115",
+   "id_referencia_interna": "REF_VIRTANEN_2015",
+   "pmid_oficial": "25697833",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_05/5.1",
+   "claim_id": "B1.MEC.BLOCO05.004",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0116",
+   "id_referencia_interna": "REF_COMAI_2022",
+   "pmid_oficial": "34847455",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_05/5.2",
+   "claim_id": "B1.MEC.BLOCO05.001",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0117",
+   "id_referencia_interna": "REF_SUBLETTE_2011",
+   "pmid_oficial": "21605657",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_05/5.2",
+   "claim_id": "B1.MEC.BLOCO05.001",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0119",
+   "id_referencia_interna": "REF_SETIAWAN_2015",
+   "pmid_oficial": "25629589",
+   "classes_alto_risco": [
+    "meta/RCT[MA]",
+    "TSPO-PET"
+   ],
+   "secao_origem": "BLOCO_05/5.4",
+   "claim_id": "B1.MEC.BLOCO05.002",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0120",
+   "id_referencia_interna": "REF_HOLMES_2018",
+   "pmid_oficial": "28939116",
+   "classes_alto_risco": [
+    "meta/RCT[MA]",
+    "TSPO-PET"
+   ],
+   "secao_origem": "BLOCO_05/5.4",
+   "claim_id": "B1.MEC.BLOCO05.002",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0121",
+   "id_referencia_interna": "REF_ARORA_2019",
+   "pmid_oficial": "30745657",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_05/5.5",
+   "claim_id": "B1.MEC.BLOCO05.005",
+   "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0122",
+   "id_referencia_interna": "REF_GULEN_2016",
+   "pmid_oficial": "27018399",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_05/5.5",
+   "claim_id": "B1.MEC.BLOCO05.005",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0123",
+   "id_referencia_interna": "REF_STEINER_2011",
+   "pmid_oficial": "21831269",
+   "classes_alto_risco": [
+    "meta/RCT[MA]",
+    "pos_morte"
+   ],
+   "secao_origem": "BLOCO_05/5.6",
+   "claim_id": "B1.MEC.BLOCO05.006",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0124",
+   "id_referencia_interna": "REF_YANG_2024b",
+   "pmid_oficial": "39666148",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_05/5.6",
+   "claim_id": "B1.MEC.BLOCO05.006",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0125",
+   "id_referencia_interna": "REF_BELGE_2020",
+   "pmid_oficial": "32114575",
+   "classes_alto_risco": [
+    "meta/RCT[MA]",
+    "TSPO-PET"
+   ],
+   "secao_origem": "BLOCO_05/5.7",
+   "claim_id": "B1.MEC.BLOCO05.007",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0126",
+   "id_referencia_interna": "REF_MONSALVE_2025",
+   "pmid_oficial": "41373743",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_05/5.3",
+   "claim_id": "B1.MEC.BLOCO05.003",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0127",
+   "id_referencia_interna": "REF_CHUKAEW_2021",
+   "pmid_oficial": "32327735",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_06/6.1",
+   "claim_id": "B1.MEC.BLOCO06.001",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0128",
+   "id_referencia_interna": "REF_RAISON_2013",
+   "pmid_oficial": "22945416",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_06/6.1",
+   "claim_id": "B1.MEC.BLOCO06.001",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0129",
+   "id_referencia_interna": "REF_DUMAN_2016",
+   "pmid_oficial": "26937618",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_06/6.1",
+   "claim_id": "B1.MEC.BLOCO06.001",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0130",
+   "id_referencia_interna": "REF_VIRTANEN_2015",
+   "pmid_oficial": "25697833",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_06/6.2",
+   "claim_id": "B1.MEC.BLOCO06.002",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0131",
+   "id_referencia_interna": "REF_OSIMO_2020",
+   "pmid_oficial": "32113908",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_06/6.2",
+   "claim_id": "B1.MEC.BLOCO06.002",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0132",
+   "id_referencia_interna": "REF_CAPURON_2002",
+   "pmid_oficial": "11927189",
+   "classes_alto_risco": [
+    "meta/RCT[EC]"
+   ],
+   "secao_origem": "BLOCO_06/6.3",
+   "claim_id": "B1.MEC.BLOCO06.003",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0133",
+   "id_referencia_interna": "REF_CAPURON_2002b",
+   "pmid_oficial": "12082564",
+   "classes_alto_risco": [
+    "meta/RCT[EC]"
+   ],
+   "secao_origem": "BLOCO_06/6.3",
+   "claim_id": "B1.MEC.BLOCO06.003",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0134",
+   "id_referencia_interna": "REF_FELGER_2016",
+   "pmid_oficial": "26703235",
+   "classes_alto_risco": [
+    "meta/RCT[EC]"
+   ],
+   "secao_origem": "BLOCO_06/6.3",
+   "claim_id": "B1.MEC.BLOCO06.003",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0135",
+   "id_referencia_interna": "REF_BEKHBAT_2022",
+   "pmid_oficial": "35927580",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_06/6.4",
+   "claim_id": "B1.MEC.BLOCO06.004",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0136",
+   "id_referencia_interna": "REF_MEHTA_2020",
+   "pmid_oficial": "32291455",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_06/6.4",
+   "claim_id": "B1.MEC.BLOCO06.004",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0139",
+   "id_referencia_interna": "REF_MOLINALOPEZ_2024",
+   "pmid_oficial": "38321014",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_07/7.2",
+   "claim_id": "B1.MEC.BLOCO07.001",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0144",
+   "id_referencia_interna": "REF_FELGER_2016",
+   "pmid_oficial": "26703235",
+   "classes_alto_risco": [
+    "meta/RCT[EC]"
+   ],
+   "secao_origem": "BLOCO_08/8.1",
+   "claim_id": "B1.MEC.BLOCO08.001",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0152",
+   "id_referencia_interna": "REF_BEKHBAT_2022",
+   "pmid_oficial": "35927580",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_08/8.5",
+   "claim_id": "B1.MEC.BLOCO08.007",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0158",
+   "id_referencia_interna": "REF_KLENGEL_2013",
+   "pmid_oficial": "23201972",
+   "classes_alto_risco": [
+    "meta/RCT[MA]",
+    "genetica_humana"
+   ],
+   "secao_origem": "BLOCO_08/8.10",
+   "claim_id": "B1.MEC.BLOCO08.012",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0159",
+   "id_referencia_interna": "REF_YEHUDA_2016",
+   "pmid_oficial": "26410355",
+   "classes_alto_risco": [
+    "meta/RCT[MA]",
+    "genetica_humana"
+   ],
+   "secao_origem": "BLOCO_08/8.10",
+   "claim_id": "B1.MEC.BLOCO08.012",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0171",
+   "id_referencia_interna": "REF_CHEN_2024",
+   "pmid_oficial": "37933553",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_10/10.3",
+   "claim_id": "B1.MEC.BLOCO10.003",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0172",
+   "id_referencia_interna": "REF_OSIMO_2020",
+   "pmid_oficial": "32113908",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_11/11.1",
+   "claim_id": "B1.MEC.BLOCO11.001",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0173",
+   "id_referencia_interna": "REF_RAISON_2013",
+   "pmid_oficial": "22945416",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_11/11.1",
+   "claim_id": "B1.MEC.BLOCO11.001",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0174",
+   "id_referencia_interna": "REF_SETIAWAN_2015",
+   "pmid_oficial": "25629589",
+   "classes_alto_risco": [
+    "meta/RCT[MA]",
+    "TSPO-PET"
+   ],
+   "secao_origem": "BLOCO_11/11.1",
+   "claim_id": "B1.MEC.BLOCO11.001",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0175",
+   "id_referencia_interna": "REF_STEINER_2011",
+   "pmid_oficial": "21831269",
+   "classes_alto_risco": [
+    "meta/RCT[MA]",
+    "pos_morte"
+   ],
+   "secao_origem": "BLOCO_11/11.1",
+   "claim_id": "B1.MEC.BLOCO11.001",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0176",
+   "id_referencia_interna": "REF_BEKHBAT_2022",
+   "pmid_oficial": "35927580",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_11/11.1",
+   "claim_id": "B1.MEC.BLOCO11.001",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0177",
+   "id_referencia_interna": "REF_BULL_2009",
+   "pmid_oficial": "18458677",
+   "classes_alto_risco": [
+    "meta/RCT[MA]",
+    "genetica_humana"
+   ],
+   "secao_origem": "BLOCO_11/11.2",
+   "claim_id": "B1.MEC.BLOCO11.001",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0178",
+   "id_referencia_interna": "REF_WILEY_2024",
+   "pmid_oficial": "38016492",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_11/11.2",
+   "claim_id": "B1.MEC.BLOCO11.001",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (rodada de auditoria 2026-09-03; aguarda revisao de pares humana)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0209",
+   "id_referencia_interna": "REF_HANNESTAD_2013",
+   "pmid_oficial": "23850810",
+   "classes_alto_risco": [
+    "meta/RCT[EC]",
+    "TSPO-PET"
+   ],
+   "secao_origem": "BLOCO_05/5.4",
+   "claim_id": "B1.MEC.BLOCO05.002",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0213",
+   "id_referencia_interna": "REF_WANG_2018b",
+   "pmid_oficial": "28338954",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_05/5.6",
+   "claim_id": "B1.MEC.BLOCO05.006",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0214",
+   "id_referencia_interna": "REF_KOHLER_2018",
+   "pmid_oficial": "28612257",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_06/6.1",
+   "claim_id": "B1.MEC.BLOCO06.001",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0216",
+   "id_referencia_interna": "REF_WANG_2019",
+   "pmid_oficial": "30797959",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_06/6.1",
+   "claim_id": "B1.MEC.BLOCO06.001",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0217",
+   "id_referencia_interna": "REF_DACUNTO_2019",
+   "pmid_oficial": "30939048",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_05/5.1",
+   "claim_id": "B1.MEC.BLOCO05.004",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0219",
+   "id_referencia_interna": "REF_ENACHE_2019",
+   "pmid_oficial": "31195092",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_05/5.6",
+   "claim_id": "B1.MEC.BLOCO05.006",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0220",
+   "id_referencia_interna": "REF_LIU_2020b",
+   "pmid_oficial": "31427752",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_06/6.1",
+   "claim_id": "B1.MEC.BLOCO06.001",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0221",
+   "id_referencia_interna": "REF_ATTWELLS_2020",
+   "pmid_oficial": "31683271",
+   "classes_alto_risco": [
+    "meta/RCT[EC]",
+    "TSPO-PET"
+   ],
+   "secao_origem": "BLOCO_05/5.4",
+   "claim_id": "B1.MEC.BLOCO05.002",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0222",
+   "id_referencia_interna": "REF_HAROON_2020",
+   "pmid_oficial": "31940661",
+   "classes_alto_risco": [
+    "meta/RCT[EC]"
+   ],
+   "secao_origem": "BLOCO_02/2.10",
+   "claim_id": "B1.MEC.BLOCO02.010",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0223",
+   "id_referencia_interna": "REF_NAGY_2020",
+   "pmid_oficial": "32341540",
+   "classes_alto_risco": [
+    "meta/RCT[EC]"
+   ],
+   "secao_origem": "BLOCO_05/5.6",
+   "claim_id": "B1.MEC.BLOCO05.006",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0224",
+   "id_referencia_interna": "REF_MACGIOLLABHUI_2021",
+   "pmid_oficial": "32807846",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_05/5.1",
+   "claim_id": "B1.MEC.BLOCO05.004",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0225",
+   "id_referencia_interna": "REF_BOTTCHER_2020",
+   "pmid_oficial": "32917850",
+   "classes_alto_risco": [
+    "meta/RCT[EC]"
+   ],
+   "secao_origem": "BLOCO_05/5.6",
+   "claim_id": "B1.MEC.BLOCO05.006",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0226",
+   "id_referencia_interna": "REF_ANDERSON_2020",
+   "pmid_oficial": "32958675",
+   "classes_alto_risco": [
+    "meta/RCT[EC]"
+   ],
+   "secao_origem": "BLOCO_05/5.7",
+   "claim_id": "B1.MEC.BLOCO05.007",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0227",
+   "id_referencia_interna": "REF_NUTMA_2021",
+   "pmid_oficial": "33433698",
+   "classes_alto_risco": [
+    "TSPO-PET"
+   ],
+   "secao_origem": "BLOCO_05/5.4",
+   "claim_id": "B1.MEC.BLOCO05.002",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0228",
+   "id_referencia_interna": "REF_SCHUBERT_2021",
+   "pmid_oficial": "33515765",
+   "classes_alto_risco": [
+    "meta/RCT[EC]",
+    "TSPO-PET"
+   ],
+   "secao_origem": "BLOCO_05/5.4",
+   "claim_id": "B1.MEC.BLOCO05.002",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0230",
+   "id_referencia_interna": "REF_GUILARTE_2022",
+   "pmid_oficial": "34848203",
+   "classes_alto_risco": [
+    "TSPO-PET"
+   ],
+   "secao_origem": "BLOCO_05/5.4",
+   "claim_id": "B1.MEC.BLOCO05.002",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0231",
+   "id_referencia_interna": "REF_GARCIAGARCIA_2022",
+   "pmid_oficial": "34864233",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_06/6.1",
+   "claim_id": "B1.MEC.BLOCO06.001",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0234",
+   "id_referencia_interna": "REF_EGGERSTORFER_2022",
+   "pmid_oficial": "36226319",
+   "classes_alto_risco": [
+    "meta/RCT[MA]",
+    "TSPO-PET"
+   ],
+   "secao_origem": "BLOCO_05/5.4",
+   "claim_id": "B1.MEC.BLOCO05.002",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0235",
+   "id_referencia_interna": "REF_ALMULLA_2022",
+   "pmid_oficial": "36231075",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_02/2.10",
+   "claim_id": "B1.MEC.BLOCO02.010",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0238",
+   "id_referencia_interna": "REF_ELGELLAIE_2023",
+   "pmid_oficial": "37070163",
+   "classes_alto_risco": [
+    "meta/RCT[EC]"
+   ],
+   "secao_origem": "BLOCO_05/5.1",
+   "claim_id": "B1.MEC.BLOCO05.004",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0240",
+   "id_referencia_interna": "REF_NUTMA_2023",
+   "pmid_oficial": "37640701",
+   "classes_alto_risco": [
+    "TSPO-PET"
+   ],
+   "secao_origem": "BLOCO_05/5.4",
+   "claim_id": "B1.MEC.BLOCO05.002",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0242",
+   "id_referencia_interna": "REF_LIU_2023b",
+   "pmid_oficial": "38025419",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_03/3.17",
+   "claim_id": "B1.MEC.BLOCO03.017",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0246",
+   "id_referencia_interna": "REF_JADHAV_2025",
+   "pmid_oficial": "39603515",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_05/5.1",
+   "claim_id": "B1.MEC.BLOCO05.004",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0247",
+   "id_referencia_interna": "REF_WIJESINGHE_2025",
+   "pmid_oficial": "40036275",
+   "classes_alto_risco": [
+    "meta/RCT[EC]",
+    "TSPO-PET"
+   ],
+   "secao_origem": "BLOCO_05/5.4",
+   "claim_id": "B1.MEC.BLOCO05.002",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0249",
+   "id_referencia_interna": "REF_XIE_2025",
+   "pmid_oficial": "41023687",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_06/6.1",
+   "claim_id": "B1.MEC.BLOCO06.001",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0250",
+   "id_referencia_interna": "REF_GEDEK_2025",
+   "pmid_oficial": "41226404",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_05/5.1",
+   "claim_id": "B1.MEC.BLOCO05.004",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0251",
+   "id_referencia_interna": "REF_LI_2026",
+   "pmid_oficial": "41588410",
+   "classes_alto_risco": [
+    "meta/RCT[EC]"
+   ],
+   "secao_origem": "BLOCO_05/5.1",
+   "claim_id": "B1.MEC.BLOCO05.004",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0252",
+   "id_referencia_interna": "REF_MCCOLGAN_2026",
+   "pmid_oficial": "41712983",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "BLOCO_02/2.1",
+   "claim_id": "B1.MEC.BLOCO02.001",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0256",
+   "id_referencia_interna": "REF_BARZON_2026b",
+   "pmid_oficial": "41957656",
+   "classes_alto_risco": [
+    "meta/RCT[EC]",
+    "TSPO-PET"
+   ],
+   "secao_origem": "BLOCO_05/5.4",
+   "claim_id": "B1.MEC.BLOCO05.002",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0257",
+   "id_referencia_interna": "REF_BARZON_2026",
+   "pmid_oficial": "42034206",
+   "classes_alto_risco": [
+    "meta/RCT[EC]",
+    "TSPO-PET"
+   ],
+   "secao_origem": "BLOCO_05/5.4",
+   "claim_id": "B1.MEC.BLOCO05.002",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA_revisora_G3 (mini-rodada [AT] 2026-09-08; aguarda revisao de pares humana — P-6 pendente)"
+  },
+  {
+   "id_vinculo": "VINC_B1_0263",
+   "id_referencia_interna": "REF_LAWRENCE_2023",
+   "pmid_oficial": "36915214",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "APENDICE_CORPUS",
+   "claim_id": "",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA G3 (geração) — B1; P-6 2a verificacao independente (avaliador cego) PENDENTE"
+  },
+  {
+   "id_vinculo": "VINC_B1_0266",
+   "id_referencia_interna": "REF_MEHTA_2020b",
+   "pmid_oficial": "31951051",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "APENDICE_CORPUS",
+   "claim_id": "",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA G3 (geração) — B1; P-6 2a verificacao independente (avaliador cego) PENDENTE"
+  },
+  {
+   "id_vinculo": "VINC_B1_0267",
+   "id_referencia_interna": "REF_NOAH_2021",
+   "pmid_oficial": "34218905",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "APENDICE_CORPUS",
+   "claim_id": "",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA G3 (geração) — B1; P-6 2a verificacao independente (avaliador cego) PENDENTE"
+  },
+  {
+   "id_vinculo": "VINC_B1_0268",
+   "id_referencia_interna": "REF_POLETTI_2024",
+   "pmid_oficial": "38851764",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "APENDICE_CORPUS",
+   "claim_id": "",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA G3 (geração) — B1; P-6 2a verificacao independente (avaliador cego) PENDENTE"
+  },
+  {
+   "id_vinculo": "VINC_B1_0270",
+   "id_referencia_interna": "REF_ZDILAR_2000",
+   "pmid_oficial": "10827143",
+   "classes_alto_risco": [
+    "meta/RCT[MA]"
+   ],
+   "secao_origem": "APENDICE_CORPUS",
+   "claim_id": "",
+   "status_auditoria": "CONFIRMADO",
+   "g3_verificado_por": "IA G3 (geração) — B1; P-6 2a verificacao independente (avaliador cego) PENDENTE"
+  }
+ ]
+}

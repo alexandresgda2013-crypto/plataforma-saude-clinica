@@ -1,0 +1,212 @@
+{
+  "trilha": 89,
+  "data": "2026-09-23",
+  "objeto": "replica_pareceres_interface_claim_n1n2",
+  "digitais": {
+    "mestre": "cbc0ab796b59f577f9faac94f23cd0c89817f2ee0184ffd215a0fc926d262c99",
+    "estrutura": "86d09995eb7a09070e0020feb0f19875b294c4fd0420fbf3ed40266348d46fd3"
+  },
+  "total": 15,
+  "ok": 15,
+  "resultado": [
+    {
+      "id": "T1",
+      "descricao": "upload ≡ série dos dois pareceres + digitais",
+      "ok": true,
+      "detalhe": {
+        "mestre_sha": "cbc0ab796b59f577f9faac94f23cd0c89817f2ee0184ffd215a0fc926d262c99",
+        "mestre_bytes": 8654,
+        "estrutura_sha": "86d09995eb7a09070e0020feb0f19875b294c4fd0420fbf3ed40266348d46fd3",
+        "estrutura_bytes": 8632,
+        "upload_mestre_igual": true,
+        "upload_estrutura_igual": true
+      }
+    },
+    {
+      "id": "T2",
+      "descricao": "declarações anti-contaminação (medir presença, não presumir)",
+      "ok": true,
+      "detalhe": {
+        "mestre_declarou_nao_li": true,
+        "estrutura_declarou_nao_li": false,
+        "nota": "ausência de declaração ≠ contaminação comprovada; registrado como fato textual"
+      }
+    },
+    {
+      "id": "T3",
+      "descricao": "vereditos textuais binários",
+      "ok": true,
+      "detalhe": {
+        "estrutura_sem_impedimento_tecnico_nem_epistemologico": true,
+        "mestre_um_impedimento_epistemologico": true,
+        "leitura": "resposta à pergunta binária diverge quanto a 'existe impedimento epistemológico?'"
+      }
+    },
+    {
+      "id": "T4",
+      "descricao": "pattern REF com sufixo minúsculo e exemplos citados no acervo",
+      "ok": true,
+      "detalhe": {
+        "pattern": "^REF_[A-Z0-9_]+[a-z]?$",
+        "exemplos": {
+          "REF_CAPURON_2002b": true,
+          "REF_CHEN_2024b": true,
+          "REF_CHEN_2024c": true
+        },
+        "sufixos_minusculos_distintos": [
+          "REF_BARZON_2026b",
+          "REF_CAPURON_2002b",
+          "REF_CHEN_2024b",
+          "REF_CHEN_2024c",
+          "REF_HAN_2023b",
+          "REF_HUANG_2023b",
+          "REF_HUANG_2024b",
+          "REF_LIU_2020b",
+          "REF_LIU_2022b",
+          "REF_LIU_2023b",
+          "REF_LI_2025b",
+          "REF_MEHTA_2020b",
+          "REF_WANG_2018b",
+          "REF_YANG_2024b",
+          "REF_ZHANG_2025b"
+        ],
+        "nivel": "L1 schema + L1 dígito/literal no acervo"
+      }
+    },
+    {
+      "id": "T5",
+      "descricao": "pattern VINC e série do acervo (citações do Estrutura)",
+      "ok": true,
+      "detalhe": {
+        "pattern": "^VINC_[A-Z0-9]+_[0-9]{4}$",
+        "candidatos": {
+          "VINC_B1_0275": true,
+          "VINC_B1SM02_0001": true,
+          "VINC_B1CLIN_0001": true,
+          "VINC_B1.SM02_0001": false,
+          "VINC_B1_10001": false
+        },
+        "prefixos": {
+          "VINC_B1": 244,
+          "VINC_B1V2": 30
+        },
+        "max_B1": 274,
+        "VINC_B1_0275_livre": true
+      }
+    },
+    {
+      "id": "T6",
+      "descricao": "forca_causal e grau_maturidade 274/274; opcionais N2; 0× Schema-Claim",
+      "ok": true,
+      "detalhe": {
+        "forca_causal": 274,
+        "grau_maturidade": 274,
+        "total": 274
+      }
+    },
+    {
+      "id": "T7",
+      "descricao": "evid_role ∉ N1 schema; natureza_evidencia ∈ schema; legado 237/237",
+      "ok": true,
+      "detalhe": {
+        "evid_role_no_schema": false,
+        "natureza_evidencia_no_schema": true,
+        "acervo_com_evid_role": 237,
+        "total_acervo": 237
+      }
+    },
+    {
+      "id": "T8",
+      "descricao": "escopo: BLOCO_XX e APENDICE_CORPUS na descrição; SM-02 não declarado",
+      "ok": true,
+      "detalhe": {
+        "description": "Subdivisao interna da entidade. R4: para mecanismo usar BLOCO_XX[/sub] normalizado (o prefixo do mecanismo vai em id_oficial, nunca no escopo). Valor reservado 'APENDICE_CORPUS' para selos de indice. null para entidades sem subdivisao (exame, suplemento, cenario)."
+      }
+    },
+    {
+      "id": "T9",
+      "descricao": "Schema-Claim e N2 contêm a cadeia de ressalva citada",
+      "ok": true,
+      "detalhe": {
+        "status_enum": [
+          "CONFIRMADO",
+          "PARCIALMENTE_CONFIRMADO",
+          "NAO_LOCALIZADO",
+          "CITACAO_INCORRETA",
+          "NAO_SUSTENTA_CLAIM"
+        ]
+      }
+    },
+    {
+      "id": "T10",
+      "descricao": "ressalvas reais do kit incluem heterogeneidade (não só condição de aplicação)",
+      "ok": true,
+      "detalhe": {
+        "total_nota_ressalva_string": 7,
+        "tipos": {
+          "heterogene": 4,
+          "sexo_ou_diverg": 1
+        },
+        "amostra": [
+          "Efeito por sexo diverge entre estudos — ver .001b",
+          "Heterogeneidade extensa entre estudos; efeito cumulativo permanece incerto",
+          "Heterogeneidade alta (I²=75% na metanálise de TAG); efeito pequeno; restrito a PCR. Painel de pânico é revisão qualitativa, sem tamanho de efeito agrupado. Evidência pediátrica é limitada/inconclusiva, não confirma o mesmo padrão — ver .005b. TOC excluído do escopo (DSM-5 não classifica como transtorno de ansiedade).",
+          "Achados classificados como provisórios pelos próprios autores (k=9, heterogeneidade alta, amostras pequenas, sem controle de confundidores). Não é comparação estatística direta adulto-vs-criança — estudo pediátrico isolado, não teste de interação com .005.",
+          "Achado é qualitativo (direção), sem efeito numérico por transtorno no abstract disponível. Evidência de ansiedade e TEPT é descrita pelos próprios autores como preliminar/limitada — não confirma isoladamente neuroinflamação na ansiedade."
+        ]
+      }
+    },
+    {
+      "id": "T11",
+      "descricao": "L-06 rev.6 regra 3 verbatim (inferência silenciosa)",
+      "ok": true,
+      "detalhe": {
+        "ocorrencias_inferencia_silenciosa": 1,
+        "regra3": true
+      }
+    },
+    {
+      "id": "T12",
+      "descricao": "usado_em_biblioteca 22/22 nao (pré-condição Biblioteca→N2)",
+      "ok": true,
+      "detalhe": {
+        "contagem": {
+          "nao": 22
+        }
+      }
+    },
+    {
+      "id": "T13",
+      "descricao": "claim_id_origem string escalar (ambos os pareceres)",
+      "ok": true,
+      "detalhe": {
+        "schema": {
+          "type": "string"
+        },
+        "tipos_acervo": [
+          "str"
+        ]
+      }
+    },
+    {
+      "id": "T14",
+      "descricao": "divergência material textual: mapeamento único × roteio por tipo",
+      "ok": true,
+      "detalhe": {
+        "estrutura_mapeamento_unico": true,
+        "mestre_nao_unico": true,
+        "classificacao": "B — divergência material (ressalva)",
+        "contexto_estrutura": "§5 do parecer do estrutura",
+        "contexto_mestre": "§2/§5 do parecer do mestre"
+      }
+    },
+    {
+      "id": "T15",
+      "descricao": "Estrutura reafirma mapeamento/resalva da r76 neste parecer",
+      "ok": true,
+      "detalhe": {
+        "frase_mapeamento_unico": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+[
+ {
+  "pmid_oficial": "26262996",
+  "titulo_artigo": "Effects of N-acetylcysteine, oral glutathione (GSH) and a novel sublingual form of GSH on oxidative stress markers: A comparative crossover study.",
+  "autores": [
+   "Schmitt B"
+  ],
+  "revista_ano": "Redox Biol 2015",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Schmitt 2015 — NAC vs GSH oral vs GSH sublingual: bioavaliação e marcadores (comparativo; P20)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SCHMITT_2015"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_SCHMITT_2015",
+  "doi": "10.1016/j.redox.2015.07.012",
+  "claim_id_origem": "B6.MEC.BLOCO03.012",
+  "_aliases": [
+   "Schmitt",
+   "SCHMITT"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "30513795",
+  "titulo_artigo": "The Effect of a High-Dose Vitamin B Multivitamin Supplement on the Relationship between Brain Metabolism and Blood Biomarkers of Oxidative Stress: A Randomized Control Trial.",
+  "autores": [
+   "Ford TC"
+  ],
+  "revista_ano": "Nutrients 2018",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Ford 2018 — RCT complexo B alta dose: metabolismo cerebral (¹H-MRS) × biomarcadores de EO",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_FORD_2018"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_FORD_2018",
+  "doi": "10.3390/nu10121860",
+  "claim_id_origem": "B6.MEC.BLOCO05.005",
+  "_aliases": [
+   "Ford",
+   "FORD"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "32635181",
+  "titulo_artigo": "Impact of Glutathione and Vitamin B-6 in Cirrhosis Patients: A Randomized Controlled Trial and Follow-Up Study.",
+  "autores": [
+   "Lai CY"
+  ],
+  "revista_ano": "Nutrients 2020",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B6_estresse_oxidativo",
+  "achado_central_molecular": "Lai 2020 — RCT cirrose: GSH+B6 e capacidade antioxidante (sinal-intervenção; P20)",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_LAI_2020"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B6 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B6 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_LAI_2020",
+  "doi": "10.3390/nu12071978",
+  "claim_id_origem": "B6.MEC.BLOCO05.006",
+  "_aliases": [
+   "Lai",
+   "LAI"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ }
+]

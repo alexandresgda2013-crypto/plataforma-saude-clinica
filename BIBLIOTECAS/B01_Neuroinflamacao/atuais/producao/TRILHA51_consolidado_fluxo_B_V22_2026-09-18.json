@@ -1,0 +1,343 @@
+{
+ "trilha": "TRILHA51",
+ "rodada": 32,
+ "data": "2026-09-18",
+ "objeto": "CONSOLIDADO recebido (B confirmada) + instrução do operador de ancorar na Arquitetura V2 (= V2.2 vigente df7f7cfd). Verificação prévia da casa: 6 itens atribuídos à arquitetura, questão Como Executar v1.7×v1.9, convergências. 0 ciência.",
+ "confissoes_e_erratas_datadas_2026_09_18": [
+  "C1 (fs): DIGITAIS da rodada 32 criadas por engano na RAÍZ do workspace (caminho relativo após cd ter falhado numa chamada paralela anterior); movidas para a pasta ancorada; bytes inalterados. Descoberto pelo FileNotFoundError da 1ª execução da trilha.",
+  "C2 (A4): 1ª agulha de uploads incluía 'consolid' — falsos positivos 'ARQUITETURA CONSOLIDADA…'; estreitada.",
+  "C3 (B5): ordem medida com find() no arquivo inteiro — a 1ª ocorrência de ONTOLOGIA/GRAFO mora numa lista anterior ao mapa (falso negativo); camada corrigida para posições dentro do bloco-fence do mapa.",
+  "C4 (C1): split() sem maxsplit no parse das DIGITAIS cortou nomes com espaços ('4º'); sha esperado vazio — falso negativo.",
+  "C5 (C1): régua autorreferente — após a governança da rodada ser escrita, a contagem global de 'v1.9' marcou 13: eram as citações nos artefatos que a própria casa acabara de produzir. Camada corrigida para 'pré-rodada-32' (mesma lição da C7 da trilha 50).",
+  "PRECISÃO de camada (não é confissão): o consolidado fala 'Como Executar v1.9'; o acervo ancorado da casa tem v1.7. A casa mede nos bytes que tem e marca a diferença como pendência de ancoragem — não como erro do consolidado."
+ ],
+ "shas_ciencia": {
+  "V7": "6e2c29797e63",
+  "manifesto": "79d1309a1689",
+  "vinculos": "490675e63122"
+ },
+ "shas_vigentes": {
+  "V2.2": "df7f7cfdfc01",
+  "p8": "be48a5efa1d6",
+  "N2": "d96ad15b620f"
+ },
+ "shas_pacote": {
+  "consolidado": "ff8daf6f33d1",
+  "proposta_r31": "4ede1c816500"
+ },
+ "resultado": {
+  "verdes": 28,
+  "total": 28,
+  "verde_total": true
+ },
+ "checks": [
+  {
+   "id": "S0.1",
+   "titulo": "V7 intacta",
+   "camada": "ingerida sha256",
+   "escopo": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/B1 NEUROINFLAMAÇÃO V7 CANONICA.md",
+   "comando": "sha256sum",
+   "medido": "6e2c29797e63",
+   "esperado": "6e2c2979",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "S0.2",
+   "titulo": "Manifesto intacto",
+   "camada": "ingerida sha256",
+   "escopo": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Evidencias/Bibliografia/_manifesto_biblioteca.json",
+   "comando": "sha256sum",
+   "medido": "79d1309a1689",
+   "esperado": "79d1309a",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "S0.3",
+   "titulo": "Vínculos intactos (274)",
+   "camada": "ingerida sha256",
+   "escopo": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json",
+   "comando": "sha256sum",
+   "medido": "490675e63122",
+   "esperado": "490675e6",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "S0.4",
+   "titulo": "V2.2 vigente intacta (o documento que o operador mandou olhar = vigente df7f7cfd)",
+   "camada": "ingerida sha256",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md",
+   "comando": "sha256sum",
+   "medido": "df7f7cfdfc01",
+   "esperado": "df7f7cfd",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "S0.5",
+   "titulo": "P-8 oficial intacto (sha; reexecutado na trilha 50 desta mesma data)",
+   "camada": "ingerida sha256",
+   "escopo": "/home/user/Ferramentas de geração e auditoria/06_portao_P8_coerencia/scripts/validar_coerencia_camadas.py",
+   "comando": "sha256sum",
+   "medido": "be48a5efa1d6",
+   "esperado": "be48a5ef",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "A1",
+   "titulo": "Consolidado arquivado; sha == DIGITAIS",
+   "camada": "ingerida sha256 × documental",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/CONSOLIDADO_fluxo_B_recebido_2026-09-18/CONSOLIDADO_RESPOSTA_FLUXO_B_2026-09-18.md × /home/user/BIBLIOTECAS/_documentos_serie/CONSOLIDADO_fluxo_B_recebido_2026-09-18/DIGITAIS_CONSOLIDADO_B_2026-09-18.txt",
+   "comando": "sha256sum × DIGITAIS",
+   "medido": "ff8daf6f33d1",
+   "esperado": "ff8daf6f",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "A2",
+   "titulo": "Camada declarada: LF-only, NFC (fonte: mensagem do operador; digitado verbatim; 2.215 b · 34 linhas)",
+   "camada": "ingerida bytes+NFC",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/CONSOLIDADO_fluxo_B_recebido_2026-09-18/CONSOLIDADO_RESPOSTA_FLUXO_B_2026-09-18.md",
+   "comando": "count(\\r)+NFC+wc",
+   "medido": "2215b · CR=0 · linhas=34 · NFC=True",
+   "esperado": "2215b·0 CR·34·NFC",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "A3",
+   "titulo": "Conteúdo-âncora do consolidado: conclusão B + diagrama IA1 → IA2 → IA3/G3",
+   "camada": "documental NFC substring",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/CONSOLIDADO_fluxo_B_recebido_2026-09-18/CONSOLIDADO_RESPOSTA_FLUXO_B_2026-09-18.md",
+   "comando": "2 substrings",
+   "medido": "True",
+   "esperado": "presentes",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "A4",
+   "titulo": "Fonte do consolidado = mensagem do operador (sem anexo novo em uploads/ referente a este objeto)",
+   "camada": "ingerida fs",
+   "escopo": "uploads/",
+   "comando": "os.listdir × regex consolidado_fluxo|resposta_fluxo",
+   "medido": "50 arquivos · agulha=[]",
+   "esperado": "0 novos",
+   "ok": true,
+   "detalhe": "CONFISSÃO C2 (datada): 1ª agulha incluía 'consolid' — marcou falsos positivos 'ARQUITETURA CONSOLIDADA…'. Estreitada e re-medida: 0."
+  },
+  {
+   "id": "B1",
+   "titulo": "Item 1 (não segunda Biblioteca Canônica): VERBATIM na V2.2 §5 ('Elas não constituem uma segunda Biblioteca Canônica nem uma fonte de conhecimento científico independente')",
+   "camada": "documental NFC, linha-escopo + §",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md",
+   "comando": "achar linha × header '# 5.'",
+   "medido": "V2.2 L243 · §5 em L239",
+   "esperado": "verbatim presente",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "B2",
+   "titulo": "Item 2 (referência existe uma única vez): VERBATIM na V2.2 §5.1 'Schema de Referência — L-05 Nível 1' (e a mesma frase já abre a porta da transversalidade: 'múltiplas entidades oficiais')",
+   "camada": "documental NFC substring + §",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md",
+   "comando": "substring × header 5.1",
+   "medido": "L292 · §5.1=True",
+   "esperado": "verbatim presente",
+   "ok": true,
+   "detalhe": "observação normativa: é exatamente a regra que o dedupe por pmid_oficial da trilha 50 operacionaliza (10 refs do kit já existem → não duplicar)"
+  },
+  {
+   "id": "B3",
+   "titulo": "Item 3 (vínculos permitem uso transversal por entidades): VERBATIM + diagrama na V2.2 (L369s: REFERÊNCIA → CLAIM → {B1, B3, S01})",
+   "camada": "documental NFC, bloco-escopo",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md",
+   "comando": "linha 'Os vínculos funcionam transversalmente' + 15 linhas do diagrama",
+   "medido": "L369 · nós=True",
+   "esperado": "presente + diagrama",
+   "ok": true,
+   "detalhe": "a mesma afirmação em prosa: L292 ('múltiplas entidades oficiais') — B2´s complemento"
+  },
+  {
+   "id": "B4",
+   "titulo": "Item 4 ('Claim Kit pode atuar como produtor controlado de N1/N2'): A ARQUITETURA NÃO DIZ ISSO — 0× 'kit' e 0× 'produtor' na V2.2 (camada casefold, arquivo inteiro). A afirmação é verdadeira como COMPATIBILIDADE (contratos L-05 já admitem o namespace do kit — trilha 50), falsa como citação da arquitetura",
+   "camada": "documental NFC+casefold, arquivo inteiro × N2 description",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md × N2 v1.4",
+   "comando": "count('kit') · count('produtor') · 'SM{nn}' in N2.claim_id.description",
+   "medido": "kit=0 produtor=0 SM{nn}=True",
+   "esperado": "0 · 0 · compatibilidade vem do L-05",
+   "ok": true,
+   "detalhe": "PRECIÃO para a homologação: inserir na redação final 'compatível com a arquitetura por via dos contratos L-05' — não 'a arquitetura confirma que o kit pode…'. A arquitetura é silente sobre o kit (registro desde a rev.29: 'Kit: 0 ocorrências na V2 — INALTERADO em qualquer opção')"
+  },
+  {
+   "id": "B5",
+   "titulo": "Item 5 (NT/Ontologia-Grafo/JSONs permanecem em suas camadas): conferido — cadeia §1 L31 + mapa (bloco-fence: NT→ONTOLOGIA/GRAFO→JSONs MODULARES na ordem) + §6 dedicado à NT",
+   "camada": "documental NFC, posições dentro do bloco-fence do mapa (1º fence com NT∧ONTOLOGIA)",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md",
+   "comando": "split('```')[ímpares] → fence com os tokens → find ordem",
+   "medido": "cadeia L31=True pos_no_mapa={'NARRATIVA TRANSVERSAL': 150, 'ONTOLOGIA / GRAFO': 224, 'JSONs MODULARES': 294} §6=True",
+   "esperado": "camadas na ordem",
+   "ok": true,
+   "detalhe": "CONFISSÃO C3 (datada): a 1ª régua mediu find() no arquivo inteiro e a 1ª ocorrência de ONTOLOGIA/GRAFO (lista anterior, pos 2884) quebrou a ordem — falso negativo. Camada corrigida: ordem medida dentro do bloco-fence do mapa (L353-363)."
+  },
+  {
+   "id": "B6",
+   "titulo": "Item 6 (autoridade científica não aumentada por camada posterior): VERBATIM-PRÓXIMO na V2.2 §22 (L1115) — 'Nenhuma camada posterior deverá possuir autoridade para aumentar artificialmente a certeza científica…' + regra da prosa L1184 + regra de não-alteração silenciosa L1350",
+   "camada": "documental NFC, 4 substrings + §",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md",
+   "comando": "header §22 + 3 frases",
+   "medido": "§22 L1115=True aumento=True permanece=True silenciosamente=True",
+   "esperado": "4/4",
+   "ok": true,
+   "detalhe": "a redação da frente ('não pode ser aumentada por nenhuma camada posterior') é paráfrase fiel da L1214 — a casa registra a âncora exata para citação futura"
+  },
+  {
+   "id": "C1",
+   "titulo": "Acervo ancorado = 'COMO EXECUTAR — v1.7' (sha bate as DIGITAIS do kit); 'v1.9'/'v1.8' NÃO EXISTEM no acervo PRÉ-rodada-32 (camada histórica que exclui os artefatos que a própria casa escreveu nesta rodada — única ocorrência real: dentro do consolidado)",
+   "camada": "ingerida sha256 × documental global count, camada pré-r32",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/KIT_CLINICA_recebido_2026-09-15/4º COMO EXECUTAR — v1.7.md × kit 8 .md × BIBLIOTECAS (prefixos históricos)",
+   "comando": "DIGITAIS × count('v1.9') por escopo declarado",
+   "medido": "sha v1.7 ok=True · 'v1.9' por escopo={'kit': 0, 'resto': 0} · 'v1.8'=0",
+   "esperado": "sha ok · 0 · 0",
+   "ok": true,
+   "detalhe": "CONFISSÃO C5 (datada): régua autorreferente de novo — na execução pós-governança a contagem global marcou 13: eram as citações de 'v1.9' nos próprios artefatos que a casa escreveu nesta rodada (relatório, rev.39, CHANGELOG, STATUS). Camada corrigida para PRÉ-rodada-32. CONFISSÃO C4 (datada): split() sem maxsplit cortou o nome do arquivo em '4º' (falso negativo). PRECIÃO + PEDIDO da casa: ou é lapso de número (o texto corrente é v1.7 — médido: cabeçalho '# COMO EXECUTAR — v1.7') ou existe versão mais nova circulando FORA da casa. Política: nada circula sem ancoragem — se houver v1.8/v1.9, o operador envia os bytes para arquivar verbatim."
+  },
+  {
+   "id": "C2",
+   "titulo": "O que a v1.7 DIZ sobre G3 (quotes com linha): G3 é onde 'Conhecimento nasce' (L114), tem 3 saídas (L111/L120), ressalva exige nota_ressalva (L131s) e exige abstract colado nesta sessão (L136) — executado por 'a IA' (singular): o ARRANJO multi-IA não consta do texto",
+   "camada": "documental NFC substring ×6",
+   "escopo": "COMO EXECUTAR v1.7 L105-141",
+   "comando": "6 substrings",
+   "medido": "todas=True · L114 'Conhecimento nasce em G3'",
+   "esperado": "6/6 presentes",
+   "ok": true,
+   "detalhe": "logo a correção da frente é ADITIVA ao texto arquivado, não contraditiva — e aponta para um protocolo posterior (v1.9) que a casa não tem; ver C1"
+  },
+  {
+   "id": "C3",
+   "titulo": "Na v1.7: 0× IA1/IA2/IA3 · 0× votação · 0× consenso · 0× fonte primária (camada casefold, arquivo inteiro)",
+   "camada": "documental casefold, chaves exatas",
+   "escopo": "COMO EXECUTAR v1.7",
+   "comando": "count \\bia[123]\\b · votaç · consenso · fonte primária",
+   "medido": "{\"\\\\bia1\\\\b\": 0, \"\\\\bia2\\\\b\": 0, \"\\\\bia3\\\\b\": 0, \"vota\\u00e7\": 0, \"consenso\": 0, \"fonte prim\\u00e1ria\": 0}",
+   "esperado": "todos 0",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "C4",
+   "titulo": "Nenhum arquivo do kit contém regra multi-IA/mecanismo de resolução (as ocorrências de 'múltipl/diverg' medidas são contexto científico)",
+   "camada": "documental casefold, 8 .md do kit",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/KIT_CLINICA_recebido_2026-09-15",
+   "comando": "regex outra ia|duas ias|segunda opini|ia.{0,15}auditor|mecanismo de resoluç",
+   "medido": "{}",
+   "esperado": "conjunto vazio",
+   "ok": true,
+   "detalhe": "consequência medida: o 'retorno do G3 + confirmação conjunta' precisa ser ESCRITO em versão normativa (a frente diz v1.9; a casa ancora quando chegar) — e a prática multi-IA declarada na §1 da proposta do operador ('auditoria por múltiplas IAs') não está normatizada em nenhum texto do kit"
+  },
+  {
+   "id": "D1",
+   "titulo": "Convergência da letra: o consolidado confirma B — a MESMA recomendação emitida pela casa nas RESPOSTA_17/RESPOSTA_9 (rev.38)",
+   "camada": "documental substring ×2",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/CONSOLIDADO_fluxo_B_recebido_2026-09-18/CONSOLIDADO_RESPOSTA_FLUXO_B_2026-09-18.md × decisoes rev.38",
+   "comando": "substring",
+   "medido": "True",
+   "esperado": "B × B",
+   "ok": true,
+   "detalhe": "CAMADA registrada: os pareceres originais de cada frente NÃO passaram pela casa — a homologação final deve se dar sobre os bytes deles; pedido ao operador no relatório"
+  },
+  {
+   "id": "D2",
+   "titulo": "Os 5 'ajustes de execução' do consolidado = os 5 ajustes nomeados pela casa (âncoras = fortuna-zero medida · taxonomia = E10/2 ERRO P-8 · status/verification = mapa E9 · trilha = derivação kit⇒clinica · entidades = precisão NT)",
+   "camada": "documental substring, mapeamento 1:1",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/CONSOLIDADO_fluxo_B_recebido_2026-09-18/CONSOLIDADO_RESPOSTA_FLUXO_B_2026-09-18.md × R9 × R17",
+   "comando": "5 substrings × presença nas cartas",
+   "medido": "{\"âncoras\": true, \"taxonomia\": true, \"status/verification\": true, \"trilha\": true, \"entidades\": true} · cons tem os 5=True",
+   "esperado": "5/5",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "D3",
+   "titulo": "A sequência sugerida pelo consolidado (corrigir lacunas → fechar poucos claims → materializar → L-05 → validar → ampliar) == §7/§11 da proposta do operador (piloto B1 controlado)",
+   "camada": "documental substring",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/OPERADOR_PROPOSTA_fluxo_claim_N1N2_recebido_2026-09-18/OPERADOR_PROPOSTA_FORMALIZACAO_FLUXO_CLAIMS_CLINICOS_2026-09-18.md × CONS",
+   "comando": "4 + 2 substrings",
+   "medido": "True",
+   "esperado": "converge",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "D4",
+   "titulo": "Princípio anti-votação do consolidado ('fonte primária é o árbitro; consenso de IAs não cria evidência') = o §22 da V2.2 (autoridade permanece nas fontes canônicas e evidências) + guarda P-6 humano do projeto (decisoes)",
+   "camada": "documental substring ×3",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/CONSOLIDADO_fluxo_B_recebido_2026-09-18/CONSOLIDADO_RESPOSTA_FLUXO_B_2026-09-18.md × V2.2 + decisoes",
+   "comando": "substrings",
+   "medido": "True · P-6 em decisoes=True",
+   "esperado": "harmonia + P-6 vivo",
+   "ok": true,
+   "detalhe": "a casa subscreve: a unanimidade das IAs fecha o claim OPERACIONALMENTE; não sobe a evidência — e o materializador deve carregar quem confirmou (g3_verificado_por) e as notas de divergência"
+  },
+  {
+   "id": "D5",
+   "titulo": "A exigência do consolidado (IA1 → IA2 → IA3/G3 → retorno → confirmação conjunta → fechamento, divergência→mecanismo de resolução) não contradiz nada do texto arquivado (C3/C4): é ADITIVA e deve entrar em versão normativa a ancorar",
+   "camada": "derivada de C3/C4 + substring consolidado",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/CONSOLIDADO_fluxo_B_recebido_2026-09-18/CONSOLIDADO_RESPOSTA_FLUXO_B_2026-09-18.md",
+   "comando": "cons contém v1.9 + retorno + zeros do kit",
+   "medido": "True",
+   "esperado": "aditiva, ancoragem pendente",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "H1",
+   "titulo": "decisoes rev.39 registrada (rodada 32)",
+   "camada": "documental NFC",
+   "escopo": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Auditoria_B1/decisoes_B1.md",
+   "comando": "substring",
+   "medido": "True",
+   "esperado": "presente",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "H2",
+   "titulo": "CHANGELOG ABERTURA 32 + RESULTADO 32",
+   "camada": "documental NFC",
+   "escopo": "/home/user/BIBLIOTECAS/CHANGELOG_GERAL.md",
+   "comando": "substring",
+   "medido": "True",
+   "esperado": "presente",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "H3",
+   "titulo": "STATUS_SIMPLES bloco da rodada 32",
+   "camada": "documental NFC",
+   "escopo": "/home/user/BIBLIOTECAS/STATUS_SIMPLES_2026-09-13.md",
+   "comando": "substring",
+   "medido": "True",
+   "esperado": "presente",
+   "ok": true,
+   "detalhe": ""
+  },
+  {
+   "id": "H4",
+   "titulo": "Relatório da casa ao operador emitido na pasta (repassável)",
+   "camada": "ingerida fs",
+   "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/CONSOLIDADO_fluxo_B_recebido_2026-09-18/RELATORIO_CASA_verificacao_consolidado_B_2026-09-18.md",
+   "comando": "exists + size>4000",
+   "medido": "6988",
+   "esperado": ">4000",
+   "ok": true,
+   "detalhe": ""
+  }
+ ]
+}

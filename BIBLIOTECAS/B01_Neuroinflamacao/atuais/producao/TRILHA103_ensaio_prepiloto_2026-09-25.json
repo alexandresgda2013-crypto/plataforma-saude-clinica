@@ -1,0 +1,81 @@
+{
+  "trilha": 103,
+  "data": "2026-09-25",
+  "objeto": "comunicacao_ensaio_prepiloto",
+  "carta_sha256": "d53d6ec9e35aca6992e4a916186f7006893c28e44ddf9375aeefedcc3c1e20b4",
+  "total": 10,
+  "ok": 10,
+  "resultado": [
+    {
+      "id": "T1",
+      "descricao": "comunicação arquivada",
+      "ok": true,
+      "detalhe": {
+        "sha256": "d53d6ec9e35aca6992e4a916186f7006893c28e44ddf9375aeefedcc3c1e20b4",
+        "bytes": 8338
+      }
+    },
+    {
+      "id": "T2",
+      "descricao": "3 bases citadas e digitais reais conferem",
+      "ok": true,
+      "detalhe": {
+        "contrato": "841532da",
+        "schema": "28cbc9c7",
+        "v110": "49514344"
+      }
+    },
+    {
+      "id": "T3",
+      "descricao": "ensaio ≠ piloto oficial; desenho v1.10 preservado no oficial",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T4",
+      "descricao": "bases normativas intocadas pelo ensaio",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T5",
+      "descricao": "classificação operacional × normativa",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T6",
+      "descricao": "sem ajuste silencioso",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T7",
+      "descricao": "tríade dedicada com pacotes sem acesso cruzado",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T8",
+      "descricao": "atribuição transitória + retorno aos territórios",
+      "ok": true,
+      "detalhe": {
+        "retorna ao seu território": true
+      }
+    },
+    {
+      "id": "T9",
+      "descricao": "pergunta do ensaio operacional",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T10",
+      "descricao": "v1.10 vigente intacta",
+      "ok": true,
+      "detalhe": {
+        "sha": "4951434417f24a329d41fc31f0ec13a5d6da5e1191edde1e72e6cbe2fee4038e"
+      }
+    }
+  ]
+}

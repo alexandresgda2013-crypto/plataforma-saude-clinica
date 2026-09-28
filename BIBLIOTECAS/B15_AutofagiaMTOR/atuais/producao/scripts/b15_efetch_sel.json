@@ -1,0 +1,744 @@
+{
+ "19963289": {
+  "abstract": "Mammalian target of rapamycin (mTOR) is a protein kinase involved in translation control and long-lasting synaptic plasticity. mTOR functions as the central component of two multi-protein signaling complexes, mTORC1 and mTORC2, which can be distinguished from each other based on their unique compositions and substrates. Although the majority of evidence linking mTOR function to synaptic plasticity comes from studies utilizing rapamycin, studies in genetically modified mice also suggest that mTOR couples receptors to the translation machinery for establishing long-lasting synaptic changes that are the basis for higher order brain function, including long-term memory. Finally, perturbation of the mTOR signaling cascade appears to be a common pathophysiological feature of human neurological disorders, including mental retardation syndromes and autism spectrum disorders.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "mesh": [
+   "Animals",
+   "Gene Expression Regulation",
+   "Humans",
+   "Intracellular Signaling Peptides and Proteins",
+   "Memory",
+   "Mice",
+   "Models, Biological",
+   "Nervous System Diseases",
+   "Neuronal Plasticity",
+   "Protein Serine-Threonine Kinases",
+   "Signal Transduction",
+   "TOR Serine-Threonine Kinases"
+  ]
+ },
+ "22889863": {
+  "abstract": "The activity of the mammalian target of rapamycin (mTOR), an ubiquitously expressed serine/threonine kinase, is central to the regulation of translation initiation and, consequently protein synthesis required for long-term potentiation and new synaptic connections. Recent studies show that activation of the mTOR signaling pathway is required for the rapid antidepressant actions of glutamate N-methyl-d-aspartate (NMDA) receptor antagonists such as ketamine. Our prior work documented the first evidence of robust deficits in the mTOR signaling pathway in the prefrontal cortex (PFC) from subjects diagnosed with major depressive disorder (MDD). The goal of this study was to determine whether alterations in mTOR signaling can be observed in rats exposed to the chronic unpredictable stress (CUS) model of depression. In the present study, we examined the effect of CUS on the expression of phosphorylated mTOR and its downstream signaling components in the frontal cortex, hippocampus, amygdala, and dorsal raphe. We also examined the effect of CUS on the expression of kinases that phosphorylate mTOR such as extracellular signal-regulated kinase (ERK1/2) and protein kinase B/Akt (Akt1). In addition, we examined the effect of stress on the phosphorylation of GluR1 an, &#x3b1;-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) receptor subunit. We found that eight-weeks of CUS exposure significantly decreased the phosphorylation levels of mTOR and its downstream signaling components in the amygdala. Reduced level of phospho-mTOR in the amygdala was accompanied by decreased phosphorylation of ERK-1/2, Akt-1, and GluR1. No significant changes were seen in the frontal cortex, hippocampus, or dorsal raphe. Our study demonstrates that long-term stress exposure results in brain region-specific abnormalities in signaling pathways previously linked to novel mechanisms for rapid antidepressant effects. These observations are in line with evidence showing that mTOR and its upstream and downstream signaling partners could be important targets for the development of novel antidepressants.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ],
+  "mesh": [
+   "Amygdala",
+   "Animals",
+   "Extracellular Signal-Regulated MAP Kinases",
+   "Male",
+   "Phosphorylation",
+   "Proto-Oncogene Proteins c-akt",
+   "Rats",
+   "Rats, Wistar",
+   "Signal Transduction",
+   "Stress, Physiological",
+   "Stress, Psychological",
+   "TOR Serine-Threonine Kinases"
+  ]
+ },
+ "23906767": {
+  "abstract": "Recent studies have shown a rapid, robust, and lasting antidepressant effect of ketamine that makes ketamine a promising antidepressant drug. However, the mechanisms underlying this rapid antidepressant effect remain incompletely understood. The goal of the present study was to determine whether adenosine monophosphate-activated protein kinase (AMPK) was involved in ketamine's rapid antidepressant effect during the forced swimming test (FST). In the first stage of experiment, a lower level of phosphorylated form of AMPK (p-AMPK) in the hippocampus and a longer immobility time were observed in the depressed rats during FST; whereas ketamine reversed these changes at 30min after the administration. In the second stage of experiment, we observed that, ketamine up-regulated the levels of p-AMPK and brain-derived neurotrophic factor (BDNF) in the hippocampus of the depressed rats. Moreover, AMPK agonist strengthened the antidepressant effect of ketamine with an up-regulation of BDNF, while AMPK antagonist attenuated the antidepressant effect of ketamine with a down-regulation of BDNF. In conclusion, our results suggest that the activation of AMPK in rat hippocampus is involved in the procedure of ketamine exerting rapid antidepressant effect through the up-regulation of BDNF.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "AMP-Activated Protein Kinases",
+   "Aminoimidazole Carboxamide",
+   "Animals",
+   "Antidepressive Agents",
+   "Blotting, Western",
+   "Brain-Derived Neurotrophic Factor",
+   "Enzyme Activation",
+   "Enzyme-Linked Immunosorbent Assay",
+   "Excitatory Amino Acid Antagonists",
+   "Hippocampus",
+   "Hypoglycemic Agents",
+   "Ketamine"
+  ]
+ },
+ "24321772": {
+  "abstract": "Ketamine exerts fast acting, robust, and lasting antidepressant effects in a sub-anesthetic dose, however, the underlying mechanisms are still not fully elucidated. Recent studies have suggested that ketamine's antidepressant effects are probably attributed to the activation of &#x3b1;-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) receptors. The present study aimed to observe the effects of AMPA receptor modulators on mammalian target of rapamycin (mTOR) and brain-derived neurotrophic factor (BDNF) expression during the procedure of ketamine exerting antidepressant effects. Therefore, we pretreated rats with NBQX, an AMPA receptor antagonist, or CX546, an AMPA receptor agonist, and subsequently observed the immobility time during the forced swimming test (FST) and the hippocampal and prefrontal cortical levels of mTOR and BDNF. The results showed ketamine decreased the immobility time of rats during the FST and increased the hippocampal and prefrontal cortical mTOR and BDNF. NBQX pretreatment significantly increased the immobility time and decreased the levels of mTOR and BDNF when compared with vehicle 1 (DMSO) pretreatment. CX546 pretreatment significantly decreased the immobility time and increased the levels of mTOR and BDNF when compared with vehicle 2 (DMSO+ethanol) pretreatment. Our results suggest ketamine-induced antidepressant effects are associated with AMPA receptors-mediated upregulation of mTOR and BDNF in rat hippocampus and prefrontal cortex.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Animals",
+   "Antidepressive Agents",
+   "Brain-Derived Neurotrophic Factor",
+   "Dioxoles",
+   "Excitatory Amino Acid Agonists",
+   "Excitatory Amino Acid Antagonists",
+   "Hippocampus",
+   "Ketamine",
+   "Piperidines",
+   "Prefrontal Cortex",
+   "Quinoxalines",
+   "Rats"
+  ]
+ },
+ "24728411": {
+  "abstract": "Major depressive disorder (MDD) affects up to 17% of the population, causing profound personal suffering and economic loss. Clinical and preclinical studies have revealed that prolonged stress and MDD are associated with neuronal atrophy of cortical and limbic brain regions, but the molecular mechanisms underlying these morphological alterations have not yet been identified. Here, we show that stress increases levels of REDD1 (regulated in development and DNA damage responses-1), an inhibitor of mTORC1 (mammalian target of rapamycin complex-1; ref. 10), in rat prefrontal cortex (PFC). This is concurrent with a decrease in phosphorylation of signaling targets of mTORC1, which is implicated in protein synthesis-dependent synaptic plasticity. We also found that REDD1 levels are increased in the postmortem PFC of human subjects with MDD relative to matched controls. Mutant mice with a deletion of the gene encoding REDD1 are resilient to the behavioral, synaptic and mTORC1 signaling deficits caused by chronic unpredictable stress, whereas viral-mediated overexpression of REDD1 in rat PFC is sufficient to cause anxiety- and depressive-like behaviors and neuronal atrophy. Taken together, these postmortem and preclinical findings identify REDD1 as a critical mediator of the atrophy of neurons and depressive behavior caused by chronic stress exposure.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Animals",
+   "Anxiety Disorders",
+   "Major Depressive Disorder",
+   "Humans",
+   "Mechanistic Target of Rapamycin Complex 1",
+   "Mice",
+   "Multiprotein Complexes",
+   "Neurons",
+   "Prefrontal Cortex",
+   "Rats",
+   "Signal Transduction",
+   "Synapses"
+  ]
+ },
+ "26522512": {
+  "abstract": "Previous studies have demonstrated that the mammalian target of rapamycin (mTOR) signaling pathway has an important role in ketamine-induced, rapid antidepressant effects despite the acute administration of fluoxetine not affecting mTOR phosphorylation in the brain. However, the effects of long-term fluoxetine treatment on mTOR modulation have not been assessed to date. In the present study, we examined whether fluoxetine, a type of commonly used antidepressant agent, alters mTOR signaling following chronic administration in different brain regions, including the frontal cortex, hippocampus, amygdala and hypothalamus. We also investigated whether fluoxetine enhanced synaptic protein levels in these regions via the activation of the mTOR signaling pathway and its downstream regulators, p70S6K and 4E-BP-1. The results indicated that chronic fluoxetine treatment attenuated the chronic, unpredictable, mild stress (CUMS)-induced mTOR phosphorylation reduction in the hippocampus and amygdala of mice but not in the frontal cortex or the hypothalamus. Moreover, the CUMS-decreased PSD-95 and synapsin I levels were reversed by fluoxetine, and these effects were blocked by rapamycin only in the hippocampus. In conclusion, our findings suggest that chronic treatment with fluoxetine can induce synaptic protein expression by activating the mTOR signaling pathway in a region-dependent manner and mainly in the hippocampus.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Amygdala",
+   "Animals",
+   "Antidepressive Agents",
+   "Depression",
+   "Fluoxetine",
+   "Frontal Lobe",
+   "Hippocampus",
+   "Male",
+   "Mice",
+   "Mice, Inbred ICR",
+   "Phosphorylation",
+   "Ribosomal Protein S6 Kinases, 70-kDa"
+  ]
+ },
+ "27061850": {
+  "abstract": "The activation of AMPA receptors and mTOR signaling has been reported as mechanisms underlying the antidepressant effects of fast-acting agents, specially the NMDA receptor antagonist ketamine. In the present study, oral administration of agmatine (0.1mg/kg), a neuromodulator that has been reported to modulate NMDA receptors, caused a significant reduction in the immobility time of mice submitted to the tail suspension test (TST), an effect prevented by the administration of DNQX (AMPA receptor antagonist, 2.5&#x3bc;g/site, i.c.v.), BDNF antibody (1&#x3bc;g/site, i.c.v.), K-252a (TrkB receptor antagonist, 1&#x3bc;g/site, i.c.v.), LY294002 (PI3K inhibitor, 10nmol/site, i.c.v.) or rapamycin (selective mTOR inhibitor, 0.2nmol/site, i.c.v.). Moreover, the administration of lithium chloride (non-selective GSK-3&#x3b2; inhibitor, 10mg/kg, p.o.) or AR-A014418 (selective GSK-3&#x3b2; inhibitor, 0.01&#x3bc;g/site, i.c.v.) in combination with a sub-effective dose of agmatine (0.0001mg/kg, p.o.) reduced the immobility time in the TST when compared with either drug alone. Furthermore, increased immunocontents of BDNF, PSD-95 and GluA1 were found in the prefrontal cortex of mice just 1h after agmatine administration. These results indicate that the antidepressant-like effect of agmatine in the TST may be dependent on the activation of AMPA and TrkB receptors, PI3K and mTOR signaling as well as inhibition of GSK-3&#x3b2;, and increase in synaptic proteins. The results contribute to elucidate the complex signaling pathways involved in the antidepressant effect of agmatine and reinforce the pivotal role of these molecular targets for antidepressant responses.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": [
+   "Agmatine",
+   "Animals",
+   "Antidepressive Agents",
+   "Brain-Derived Neurotrophic Factor",
+   "Female",
+   "Glycogen Synthase Kinase 3",
+   "Hindlimb Suspension",
+   "Mice",
+   "Motor Activity",
+   "Phosphoinositide-3 Kinase Inhibitors",
+   "Quinoxalines",
+   "Receptor, trkB"
+  ]
+ },
+ "29158584": {
+  "abstract": "Among neurobiological mechanisms underlying antidepressant properties of ketamine, structural remodeling of prefrontal and hippocampal neurons has been proposed as critical. The suggested mechanism involves downstream activation of &#x3b1;-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) receptors, which trigger mammalian target of rapamycin (mTOR)-dependent structural plasticity via brain-derived neurotrophic factor (BDNF) and protein neo-synthesis. We evaluated whether ketamine elicits similar molecular events in dopaminergic (DA) neurons, known to be affected in mood disorders, using a novel, translational strategy that involved mouse mesencephalic and human induced pluripotent stem cells-derived DA neurons. Sixty minutes exposure to ketamine elicited concentration-dependent increases of dendritic arborization and soma size in both mouse and human cultures as measured 72&#x2009;hours after application. These structural effects were blocked by mTOR complex/signaling inhibitors like rapamycin. Direct evidence of mTOR activation by ketamine was revealed by its induction of p70S6 kinase. All effects of ketamine were abolished by AMPA receptor antagonists and mimicked by the AMPA-positive allosteric modulator CX614. Inhibition of BDNF signaling prevented induction of structural plasticity by ketamine or CX614. Furthermore, the actions of ketamine required functionally intact dopamine D3 receptors (D3R), as its effects were abolished by selective D3R antagonists and absent in D3R knockout preparations. Finally, the ketamine metabolite (2R,6R)-hydroxynorketamine mimicked ketamine effects at sub-micromolar concentrations. These data indicate that ketamine elicits structural plasticity by recruitment of AMPAR, mTOR and BDNF signaling in both mouse mesencephalic and human induced pluripotent stem cells-derived DA neurons. These observations are of likely relevance to the influence of ketamine upon mood and its other functional actions in vivo.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Animals",
+   "Antidepressive Agents",
+   "Brain",
+   "Brain-Derived Neurotrophic Factor",
+   "Dopaminergic Neurons",
+   "Hippocampus",
+   "Humans",
+   "Induced Pluripotent Stem Cells",
+   "Ketamine",
+   "Mesencephalon",
+   "Mice",
+   "Mice, Inbred C57BL"
+  ]
+ },
+ "31830487": {
+  "abstract": "Clinical and preclinical studies have demonstrated that depression, one of the most common psychiatric illnesses, is associated with reduced levels of neurotrophic factors, including brain-derived neurotrophic factor (BDNF) and vascular endothelial growth factor (VEGF), contributing to neuronal atrophy in the prefrontal cortex (PFC) and hippocampus, and reduced hippocampal adult neurogenesis. Conventional monoaminergic antidepressants can block/reverse, at least partially, these deficits in part via induction of BDNF and/or VEGF, although these drugs have significant limitations, notably a time lag for therapeutic response and low response rates. Recent studies reveal that ketamine, an N-methyl-d-aspartate receptor antagonist produces rapid (within hours) and sustained (up to a week) antidepressant actions in both patients with treatment-resistant depression and rodent models of depression. Rodent studies also demonstrate that ketamine rapidly increases BDNF and VEGF release and/or expression in the medial PFC (mPFC) and hippocampus, leading to increase in the number and function of spine synapses in the mPFC and enhancement of hippocampal neurogenesis. These neurotrophic effects of ketamine are associated with the antidepressant effects of this drug. Together, these findings provide evidence for a neurotrophic mechanism underlying the rapid and sustained antidepressant actions of ketamine and pave the way for the development of rapid and more effective antidepressants with fewer side effects than ketamine.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ],
+  "mesh": [
+   "Animals",
+   "Antidepressive Agents",
+   "Brain-Derived Neurotrophic Factor",
+   "Depression",
+   "Hippocampus",
+   "Humans",
+   "Ketamine",
+   "Prefrontal Cortex",
+   "Time Factors",
+   "Vascular Endothelial Growth Factor A"
+  ]
+ },
+ "32487317": {
+  "abstract": "Glucocorticoids are released from the adrenal cortex and are important for regulating various physiological functions. However, a persistent increase in glucocorticoids due to chronic stress causes various dysfunctions in the central nervous system which can lead to mental disorders such as depression. Macroautophagy, one of the pathways of the autophagy-lysosome protein degradation system, is dysregulated in psychiatric disorders, implicating a disturbance of protein degradation in the pathogenesis of psychiatric disorders. In the present study, we investigated whether glucocorticoids affect the activity of chaperone-mediated autophagy (CMA) and microautophagy (mA), the other two pathways of the autophagy-lysosome system. Treatment of human-derived AD293&#xa0;cells and primary cultured rat cortical neurons with dexamethasone, a potent glucocorticoid receptor agonist, and endogenous glucocorticoids decreased both CMA and mA activities. However, this decrease was significantly suppressed by treatment with RU-486, a glucocorticoid receptor antagonist. In addition, dexamethasone significantly decreased lysosomal Hsc70. These findings suggest that glucocorticoids negatively regulate CMA and mA in a glucocorticoid receptor-dependent manner, and provide evidence for CMA and mA as novel therapeutic targets for depression.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Animals",
+   "Cell Line",
+   "Chaperone-Mediated Autophagy",
+   "Glucocorticoids",
+   "Humans",
+   "Lysosomes",
+   "Microautophagy",
+   "Rats"
+  ]
+ },
+ "33022268": {
+  "abstract": "The development of fast-acting antidepressants is crucial considering that conventional antidepressants require a long period to elicit therapeutic effects. Creatine, an ergogenic guanidine-like compound, stands out as a candidate to exert fast antidepressant-like responses. The present study investigated whether a single dose of creatine elicits a fast response in mice submitted to the novelty-suppressed feeding (NSF) test, a paradigm that may assess depression-like and anxiety-like behaviors. Ketamine, an NMDA receptor antagonist that has rapid antidepressant effects, and conventional antidepressants were also tested. The involvement of the mTORC1 signaling pathway in the behavioral responses was also investigated. Biochemical analyses included hippocampal BDNF level (ELISA) and total and phospho-mTORC1 (Ser 2448 ), PSD95 and synapsin immunocontent (Western Blotting). Creatine (10&#xa0;mg/kg, p.o.) or ketamine (1&#xa0;mg/kg, i.p.) reduced the latency to feed in the NSF test. Conversely, fluoxetine (10&#xa0;mg/kg, p.o.), imipramine (1&#xa0;mg/kg, p.o.) or bupropion (10&#xa0;mg/kg, p.o.) did not alter this parameter. The administration of rapamycin (mTOR inhibitor, 0.2 nmol/site, i.c.v.) abolished the effects of creatine or ketamine in the NSF test. Creatine or ketamine-treated mice presented increased hippocampal BDNF level, an effect abolished by rapamycin. The hippocampal phospho-mTORC1 (Ser 2448 ) immunocontent was increased by creatine, but not by ketamine. However, ketamine, but not creatine, increased PSD95 and synapsin immunocontent. Creatine and ketamine elicit a rapid response in the NSF test by a mechanism dependent on the mTORC1 signaling pathway.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": [
+   "Animals",
+   "Antidepressive Agents",
+   "Behavior, Animal",
+   "Brain-Derived Neurotrophic Factor",
+   "Creatine",
+   "Disks Large Homolog 4 Protein",
+   "Feeding Behavior",
+   "Female",
+   "Hippocampus",
+   "Ketamine",
+   "Mechanistic Target of Rapamycin Complex 1",
+   "Mice"
+  ]
+ },
+ "33381149": {
+  "abstract": "Early-life stress (ELS) predisposes individuals to psychiatric disorders, including anxiety and depression, and cognitive impairments later in life. However, the underlying molecular mechanisms are not completely understood. Developmental deficits in hippocampal synaptic plasticity are among the primary detrimental alterations in brain function induced by ELS. Impaired synaptic plasticity is usually accompanied by decreased synaptic proteins, such as postsynaptic density 95 (PSD95) and synaptophysin, which are important for synaptic function. The mTOR signaling pathway plays a vital role in regulating protein translation, and mTOR activation is functionally associated with synaptic protein synthesis. In the present study, we observed whether ELS impacts synaptic protein synthesis and mTOR signaling, which is involved in synaptic plasticity. Herein, we established a maternal separation (MS) and chronic restraint stress (CRS) model and evaluated anxiety-like behavior and cognitive function (e.g., learning and memory) in adulthood through behavioral examination and analyzed hippocampal expression levels of PSD95 and synaptophysin. To explore whether the mTOR signaling pathway was associated with ELS, we also examined the activity of mTOR and s6. The behavior tests indicated that maternally separated mice showed increased anxiety-like behavior and cognitive impairments. PSD95 and synaptophysin mRNA and protein expression levels were decreased in the hippocampus, and phosphorylated mTOR and phosphorylated s6 were significantly decreased in maternally separated mice vs. those not exposed to MS. Our data demonstrate that MS impairs synaptic plasticity and inhibits mTOR signaling, specifically via s6. Therefore, we speculate that ELS decreased synaptic plasticity via the inhibition of the mTOR pathway in the hippocampus, which may underlie vulnerability to stress and mental disorders in adulthood.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": []
+ },
+ "33723223": {
+  "abstract": "The mechanistic target of rapamycin (mTOR) is a ubiquitously expressed kinase that acts through two complexes, mTORC1 and mTORC2, to regulate protein homeostasis, as well as long lasting forms of synaptic and behavioral plasticity. Alteration of the mTOR pathway is classically involved in neurodegenerative disorders, and it has been linked to dysregulation of cognitive functions and affective states. However, information concerning the specific involvement of the p70 S6 kinase 1 (S6K1), a downstream target of the mTORC1 pathway, in learning and memory processes and in the regulation of affective states remains scant. To fill this gap, we exposed adult male mice lacking S6K1 to a battery of behavioral tests aimed at measuring their learning and memory capabilities by evaluating reference memory and flexibility with the Morris water maze, and associative memory using the contextual fear conditioning task. We also studied their anxiety-like and depression-like behaviors by, respectively, performing elevated plus maze, open field, light-dark emergence tests, and sucrose preference and forced swim tests. We found that deleting S6K1 leads to a robust anxious phenotype concomitant with associative learning deficits; these symptoms are associated with a reduction of adult neurogenesis and neuronal atrophy in the hippocampus. Collectively, these results provide grounds for the understanding of anxiety reports after treatments with mTOR inhibitors and will be critical for developing novel compounds targeting anxiety.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Animals",
+   "Anxiety",
+   "Male",
+   "Memory",
+   "Mice",
+   "Ribosomal Protein S6 Kinases, 70-kDa",
+   "Sirolimus",
+   "TOR Serine-Threonine Kinases"
+  ]
+ },
+ "34330919": {
+  "abstract": "The stress response is an essential mechanism for maintaining homeostasis, and its disruption is implicated in several psychiatric disorders. On the cellular level, stress activates, among other mechanisms, autophagy that regulates homeostasis through protein degradation and recycling. Secretory autophagy is a recently described pathway in which autophagosomes fuse with the plasma membrane rather than with lysosomes. Here, we demonstrate that glucocorticoid-mediated stress enhances secretory autophagy via the stress-responsive co-chaperone FK506-binding protein 51. We identify the matrix metalloproteinase 9 (MMP9) as one of the proteins secreted in response to stress. Using cellular assays and in vivo microdialysis, we further find that stress-enhanced MMP9 secretion increases the cleavage of pro-brain-derived neurotrophic factor (proBDNF) to its mature form (mBDNF). BDNF is essential for adult synaptic plasticity and its pathway is associated with major depression and posttraumatic stress disorder. These findings unravel a cellular stress adaptation mechanism that bears the potential of opening avenues for the understanding of the pathophysiology of stress-related disorders.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Animals",
+   "Autophagosomes",
+   "Autophagy",
+   "Brain-Derived Neurotrophic Factor",
+   "Cell Line",
+   "Cell Line, Tumor",
+   "Cell Membrane",
+   "Dexamethasone",
+   "Glucocorticoids",
+   "HEK293 Cells",
+   "Humans",
+   "Matrix Metalloproteinase 9"
+  ]
+ },
+ "34890598": {
+  "abstract": "Our previous study demonstrated that acute deep brain stimulation (DBS) in the ventromedial prefrontal cortex (vmPFC) remarkably improved the depressive-like behaviors in a rat model of chronic unpredictable mild stress (CUS rats). However, the mechanisms by which chronic DBS altered depressive-like behaviors and reversed cognitive impairment have not been clarified. Recent work has shown that deficits in brain-derived neurotrophic factor (BDNF) and its downstream proteins, including mammalian target of rapamycin (mTOR), might be involved in the pathogenesis of depression. Therefore, we hypothesized that the antidepressant-like and cognitive improvement effects of DBS were achieved by activating the BDNF/mTOR pathway. CUS rats received vmPFC DBS at 20&#xa0;Hz for 1&#xa0;h once a day for 28 days. After four weeks of stimulation, the rats were assessed for the presence of depressive-like behaviors and euthanized to detect BDNF/mTOR signaling using immunoblots. DBS at the vmPFC significantly ameliorated depressive-like behaviors and spatial learning and memory deficits in the CUS rats. Furthermore, DBS restored the reduced synaptic density in the hippocampus induced by CUS and increased the expression or activity of BDNF, Akt, and mTOR in the hippocampus. Thus, the antidepressant-like effects and cognitive improvement produced by vmPFC DBS might be mediated through increased activity of the BDNF/mTOR signaling pathway.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Animals",
+   "Behavior, Animal",
+   "Brain-Derived Neurotrophic Factor",
+   "Cognitive Dysfunction",
+   "Deep Brain Stimulation",
+   "Depression",
+   "Disease Models, Animal",
+   "Hippocampus",
+   "Male",
+   "Proto-Oncogene Proteins c-akt",
+   "Rats",
+   "Rats, Sprague-Dawley"
+  ]
+ },
+ "34902357": {
+  "abstract": "Depression is one of the most common mental illnesses in modern society. In recent years, several studies show that there are disturbances in lipid metabolism in depressed patients. High-fat diet may lead to anxiety and depression, but the mechanisms involved remain unclear. In our study, we found that 8&#xa0;weeks of high-fat feeding effectively induced metabolic disorders, including obesity and hyperlipidemia in mice. Interestingly, the mice also showed depressive and anxiety-like behaviors. We further found activated microglia and astrocyte, increased neuroinflammation, decreased autophagy and BDNF levels in mice after high-fat feeding. Besides, high-fat feeding can also inhibit AMPK phosphorylation and induce mTOR phosphorylation. After treating with the mTOR inhibitor rapamycin, autophagy and BDNF levels were elevated. The number of activated microglia and astrocyte, and pro-inflammation levels were reduced. Besides, rapamycin can also reduce the body weight and serum lipid level in high fat feeding mice. Depressive and anxiety-like behaviors were also ameliorated to some extent after rapamycin treatment. In summary, these results suggest that high-fat diet-induced obesity may lead to depressive and anxiety-like behaviors in mice by inhibiting AMPK phosphorylation and promoting mTOR shift to phosphorylation to inhibit autophagy. Therefore, improving lipid metabolism or enhancing autophagy through the AMPK/mTOR pathway could be potential targets for the treatment of obesity depression.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "AMP-Activated Protein Kinases",
+   "Animals",
+   "Anxiety",
+   "Autophagy",
+   "Body Weight",
+   "Depression",
+   "Diet, High-Fat",
+   "Lipid Metabolism",
+   "Male",
+   "Maze Learning",
+   "Mice",
+   "Mice, Inbred C57BL"
+  ]
+ },
+ "34987410": {
+  "abstract": "Background: The mechanistic target of rapamycin complex 1 (mTORC1) signaling has served as a promising target for therapeutic intervention of major depressive disorder (MDD), but the mTORC1 signaling underlying MDD has not been well elucidated. In the present study, we investigated whether mTORC1 signaling pathway mediates synapse loss induced by chronic stress in the hippocampus. Methods: Chronic restraint stress-induced depression-like behaviors were tested by behavior tests (sucrose preference test, forced swim test and tail suspension test). Synaptic proteins and alternations of phosphorylation levels of mTORC1 signaling-associated molecules were measured using Western blotting. In addition, mRNA changes of immediate early genes (IEGs) and glutamate receptors were measured by RT-PCR. Rapamycin was used to explore the role of mTORC1 signaling in the antidepressant effects of fluoxetine. Results: After successfully establishing the chronic restraint stress paradigm, we observed that the mRNA levels of some IEGs were significantly changed, indicating the activation of neurons and protein synthesis alterations. Then, there was a significant downregulation of glutamate receptors and postsynaptic density protein 95&#xa0;at protein and mRNA levels. Additionally, synaptic fractionation assay revealed that chronic stress induced synapse loss in the dorsal and ventral hippocampus. Furthermore, these effects were associated with the mTORC1 signaling pathway-mediated protein synthesis, and subsequently the phosphorylation of associated downstream signaling targets was reduced after chronic stress. Finally, we found that intracerebroventricular infusion of rapamycin simulated depression-like behavior and also blocked the antidepressant effects of fluoxetine. Conclusion: Overall, our study suggests that mTORC1 signaling pathway plays a critical role in mediating synapse loss induced by chronic stress, and has part in the behavioral effects of antidepressant treatment.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": []
+ },
+ "37025079": {
+  "abstract": "Although thought of as a multimodal-acting antidepressant targeting the serotonin system, more molecules are being shown to participate in the antidepressant mechanism of vortioxetine. A previous report has shown that vortioxetine administration enhanced the expression of rapamycin complex 1 (mTORC1) in neurons. It has been well demonstrated that mTORC1 participates in not only the pathogenesis of depression but also the pharmacological mechanisms of many antidepressants. Therefore, we speculate that the antidepressant mechanism of vortioxetine may require mTORC1. Two mouse models of depression (chronic social defeat stress and chronic unpredictable mild stress) and western blotting were first used together to examine whether vortioxetine administration produced reversal effects against the chronic stress-induced downregulation in the whole mTORC1 signaling cascade in both the hippocampus and medial prefrontal cortex (mPFC). Then, LY294002, U0126, and rapamycin were used together to explore whether the antidepressant effects of vortioxetine in mouse models of depression were attenuated by pharmacological blockade of the mTORC1 system. Furthermore, lentiviral-mTORC1-short hairpin RNA-enhanced green fluorescence protein (LV-mTORC1-shRNA-EGFP) was adopted to examine if genetic blockade of mTORC1 also abolished the antidepressant actions of vortioxetine in mice. Vortioxetine administration produced significant reversal effects against the chronic stress-induced downregulation in the whole mTORC1 signaling cascade in both the hippocampus and mPFC. Both pharmacological and genetic blockade of the mTORC1 system notably attenuated the antidepressant effects of vortioxetine in mice. Activation of the mTORC1 system in the hippocampus and mPFC is required for the antidepressant actions of vortioxetine in mice.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Mice",
+   "Animals",
+   "Vortioxetine",
+   "Mechanistic Target of Rapamycin Complex 1",
+   "Antidepressive Agents",
+   "Hippocampus",
+   "Prefrontal Cortex",
+   "Sirolimus"
+  ]
+ },
+ "37072933": {
+  "abstract": "Activation of the NLRP3 inflammasome promotes microglia to secrete inflammatory cytokines and induce pyroptosis, leading to impaired phagocytic and clearance functions of microglia in Alzheimer's disease (AD). This study found that the autophagy-associated protein p62 interacts with NLRP3, which is the rate-limiting protein of the NLRP3 inflammasome. Thus, we aimed to prove that the degradation of NLRP3 occurs through the autophagy-lysosome pathway (ALP) and also demonstrate its effects on the function of microglia and pathological changes in AD. The 5XFAD/NLRP3-KO mouse model was established to study the effect of NLRP3 reduction on AD. Behavioral experiments were conducted to assess the cognitive function of the mice. In addition, immunohistochemistry was used to evaluate the deposition of A&#x3b2; plaques and morphological changes in microglia. BV2 cells treated with lipopolysaccharide (LPS) followed by A&#x3b2;1-42 oligomers were used as in vitro AD inflammation models and transfected with lentivirus to regulate the expression of the target protein. The pro-inflammatory status and function of BV2 cells were detected by flow cytometry and immunofluorescence (IF). Co-immunoprecipitation, mass spectrometry, IF, Western blot (WB), quantitative real-time PCR, and RNA-seq analysis were used to elucidate the mechanisms of molecular regulation. Cognitive function was improved in the 5XFAD/NLRP3-KO mouse model by reducing the pro-inflammatory response of microglia and maintaining the phagocytic and clearance function of microglia to the deposited A&#x3b2; plaque. The pro-inflammatory function and pyroptosis of microglia were regulated by NLRP3 expression. Ubiquitinated NLRP3 can be recognized by p62 and degraded by ALP, slowing down the proinflammatory function and pyroptosis of microglia. The expression of autophagy pathway-related proteins such as LC3B/A, p62 was increased in the AD model in vitro. P62 recognizes and binds to ubiquitin-modified NLRP3. It plays a vital role in regulating the inflammatory response by participating in ALP-associated NLRP3 protein degradation, which improves cognitive function in AD by reducing the pro-inflammatory status and pyroptosis of microglia, thus maintaining its phagocytic function.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Animals",
+   "Mice",
+   "Alzheimer Disease",
+   "Autophagy",
+   "Cognition",
+   "Inflammasomes",
+   "Microglia",
+   "NLR Family, Pyrin Domain-Containing 3 Protein"
+  ]
+ },
+ "37118117": {
+  "abstract": "Cognitive decline and mood disorders increase in frequency with age. Many efforts are focused on the identification of molecules and pathways to treat these conditions. Here, we demonstrate that systemic administration of growth differentiation factor 11 (GDF11) in aged mice improves memory and alleviates senescence and depression-like symptoms in a neurogenesis-independent manner. Mechanistically, GDF11 acts directly on hippocampal neurons to enhance neuronal activity via stimulation of autophagy. Transcriptomic and biochemical analyses of these neurons reveal that GDF11 reduces the activity of mammalian target of rapamycin (mTOR), a master regulator of autophagy. Using a murine model of corticosterone-induced depression-like phenotype, we also show that GDF11 attenuates the depressive-like behavior of young mice. Analysis of sera from young adults with major depressive disorder (MDD) reveals reduced GDF11 levels. These findings identify mechanistic pathways related to GDF11 action in the brain and uncover an unknown role for GDF11 as an antidepressant candidate and biomarker.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Mice",
+   "Animals",
+   "Depression",
+   "Major Depressive Disorder",
+   "Growth Differentiation Factors",
+   "Phenotype",
+   "Autophagy",
+   "Mammals",
+   "Bone Morphogenetic Proteins"
+  ]
+ },
+ "37390967": {
+  "abstract": "It is reported that the co-morbidities of diabetes and depression will be a new challenge for humanity. However, the underlying mechanism is not clear. The present study investigated the histopathology, autophagy of hippocampal neurons, and the PI3K-AKT- mTOR signaling pathway in type 2 diabetes with depression&#xff08;T2DD&#xff09; rats. The results showed that, the chronic unpredictable mild stress (CUMS), Type 2 diabetes mellitus (T2DM) and T2DD in rats were induced successfully. Compared with the CUMS and T2DM groups, the T2DD group performed significantly fewer autonomic activities in the open-field test, and longer immobile in the force swimming test, and increasing of Corticosterone (CORT) in blood. The number of pyknotic neurons at cornu ammonis 1 (CA1) and dentate gyrus (DG) of the hippocampus in T2DD was significantly increased compared with CUMS and T2DM groups. Moreover, compared with the CUMS and T2DM groups, the mitochondrial autophagosomes were most abundant in the T2DD group. As shown in western blot and immunofluorescence, compared with the control group, in the CUMS, T2DM and T2DD groups, significantly increased expression of Beclin-1 and LC3B and decreased P62 were detected. In the PC12 cells, the relative amount of parkin and LC3B in the CORT+HG group was significantly higher than that in the CORT and HG groups. Compared with the control group, p-AKT/AKT and p-mTOR/mTOR in CUMS, T2DM and T2DD groups were significantly decreased. Compared with the CUMS group, p-AKT/AKT, p-PI3K/PI3K and p-mTOR/mTOR in the T2DD group exhibited further decrease. Similar results were obtained in PC12 cells in vitro. It is suggests that memory and cognitive impairment in rats with co-morbidities of diabetes and depression might be related with hippocampal neuronal damage and autophagy increase, which was involved in the PI3K-AKT-mTOR signaling pathway.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Rats",
+   "Animals",
+   "Proto-Oncogene Proteins c-akt",
+   "Phosphatidylinositol 3-Kinases",
+   "Diabetes Mellitus, Type 2",
+   "Diabetes Mellitus, Experimental",
+   "Signal Transduction",
+   "TOR Serine-Threonine Kinases",
+   "Hippocampus",
+   "Autophagy",
+   "Neurons"
+  ]
+ },
+ "37736829": {
+  "abstract": "Recent studies have shown that mTOR signaling plays an important role in synaptic plasticity. However, the function of S6K1, the mechanistic target of rapamycin kinase complex 1 (mTORC1) substrate, in epilepsy remains unknown. Our present study aimed to explore the mechanism by which S6K1 is involved in chronic epilepsy. First, immunostaining was used to measure neurite length and complexity in kainic acid (KA)-treated primary cultured neurons treated with PF-4708671, a highly selective S6K1 inhibitor. We obtained evidence for the role of S6K1 in protecting and promoting neuronal growth and development in vitro. Next, to explore the function and mechanism of the S6K1 inhibitor in epilepsy, a pilocarpine-induced chronic epileptic rat model was established. In vivo electrophysiology (including local field potentiation in CA1 and long-term potentiation), depression/anxiety-like behavior tests, and Golgi staining were performed to assess seizure behavior, power spectral density, depression/anxiety-like behavior, and synaptic plasticity. Furthermore, western blotting was applied to explore the potential molecular mechanisms. We found that inhibition of S6K1 expression significantly decreased seizures and depression-like behavior and restored power at low frequencies (1-80&#x2009;Hz), especially in the delta, theta, and alpha bands, in chronic epileptic rats. In addition, PF-4708671 reversed the LTP defect in hippocampal CA3-CA1 and corrected spine loss and dendritic pathology. In conclusion, our data suggest that inhibition of S6K1 attenuates seizures and depression in chronic epileptic rats via the rescue of synaptic structural and functional deficits. Given the wide range of physiological functions of mTOR, inhibition of its effective but relatively simple functional downstream molecules is a promising target for the development of drugs for epilepsy.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Rats",
+   "Animals",
+   "Depression",
+   "Seizures",
+   "Epilepsy",
+   "Long-Term Potentiation",
+   "TOR Serine-Threonine Kinases",
+   "Hippocampus"
+  ]
+ },
+ "37799103": {
+  "abstract": "Major depressive disorder (MDD) is a severe mental disorder associated with high rates of morbidity and mortality. Current first-line pharmacotherapies for MDD are based on enhancement of monoaminergic neurotransmission, but these antidepressants are still insufficient and produce significant side-effects. Consequently, the development of novel antidepressants and therapeutic targets is desired. Engeletin, a natural Smilax glabra rhizomilax derivative, is a compound with proven efficacy in treating ischemic stroke, yet its therapeutic effects and mechanisms for depression remain unexplored. The effects of engeletin were assessed in the forced swimming test (FST) and tail suspension test (TST) in mice. Engeletin was also investigated in the chronic restraint stress (CRS) mouse model of depression with fluoxetine (FLX) as the positive control. Changes in prefrontal cortex (PFC) spine density, synaptic plasticity-linked protein expressions and the brain-derived neurotrophic factor (BDNF)-tyrosine kinase B (TrkB)- mammalian target of rapamycin complex 1 (mTORC1) signalling pathway after chronic stress and engeletin treatment were then investigated. The TrkB and mTORC1 selective inhibitors, ANA-12 and rapamycin, respectively, were utilized to assess the engeletin's antidepressive mechanisms. Our data shows that engeletin exhibited antidepressant-like activity in the FST and TST in mice without affecting locomotor activity. Furthermore, it exhibited efficiency against the depression of CRS model. Moreover, it enhanced the BDNF-TrkB-mTORC1 pathway in the PFC during CRS and altered the reduction in dendritic spine density and levels of synaptic plasticity-linked protein induced by CRS. In conclusion, engeletin has antidepressant activity via activation of the BDNF-TrkB-mTORC1 signalling pathway and upregulation of PFC synaptic plasticity.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Animals",
+   "Humans",
+   "Mice",
+   "Antidepressive Agents",
+   "Brain-Derived Neurotrophic Factor",
+   "Major Depressive Disorder",
+   "Hippocampus",
+   "Mammals",
+   "Mechanistic Target of Rapamycin Complex 1",
+   "Protein-Tyrosine Kinases",
+   "Stress, Psychological",
+   "Neuronal Plasticity"
+  ]
+ },
+ "38307148": {
+  "abstract": "Dysfunction of the mechanistic target of rapamycin (mTOR) signaling pathway is implicated in neuropsychiatric disorders including depression and anxiety. Most studies have been focusing on neurons, and the function of mTOR signaling pathway in astrocytes is less investigated. mTOR forms two distinct complexes, mTORC1 and mTORC2, with key scaffolding protein Raptor and Rictor, respectively. The ventral tegmental area (VTA), a vital component of the brain reward system, is enrolled in regulating both depression and anxiety. In the present study, we aimed to examine the regulation effect of VTA astrocytic mTOR signaling pathway on depression and anxiety. We specifically deleted Raptor or Rictor in VTA astrocytes in mice and performed a series of behavioral tests for depression and anxiety. Deletion of Raptor and Rictor both decreased the immobility time in the tail suspension test and the latency to eat in the novelty suppressed feeding test, and increased the horizontal activity and the movement time in locomotor activity. Deletion of Rictor decreased the number of total arm entries in the elevated plus-maze test and the vertical activity in locomotor activity. These data suggest that VTA astrocytic mTORC1 plays a role in regulating depression-related behaviors and mTORC2 is involved in both depression and anxiety-related behaviors. Our results indicate that VTA astrocytic mTOR signaling pathway might be new targets for the treatment of psychiatric disorders.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Humans",
+   "Mice",
+   "Animals",
+   "Mechanistic Target of Rapamycin Complex 2",
+   "Mechanistic Target of Rapamycin Complex 1",
+   "Ventral Tegmental Area",
+   "Astrocytes",
+   "Depression",
+   "Multiprotein Complexes",
+   "Rapamycin-Insensitive Companion of mTOR Protein",
+   "Carrier Proteins",
+   "TOR Serine-Threonine Kinases"
+  ]
+ },
+ "38522078": {
+  "abstract": "A large proportion of patients with chronic pain experience co-morbid anxiety. The medial prefrontal cortex (mPFC) is proposed to underlie this comorbidity, but the molecular and neuronal mechanisms are not fully understood. Here, we reported that impaired neuronal macroautophagy in the prelimbic cortical (PrL) subregion of the mPFC paralleled the occurrence of anxiety-like behaviors in rats with chronic spared nerve injury (SNI). Intriguingly, such macroautophagy impairment was mainly observed in a FOS/c-Fos + neuronal subpopulation in the PrL. Chemogenetic inactivation of this comorbid anxiety-related neuronal ensemble relieved pain-induced anxiety-like behaviors. Rescuing macroautophagy impairment in this neuronal ensemble relieved chronic pain-associated anxiety and mechanical allodynia and restored synaptic homeostasis at the molecular level. By contrast, artificial disruption of macroautophagy induced early-onset co-morbid anxiety in neuropathic rats, but not general anxiety in normal rats. Taken together, our work identifies causal linkage between PrL neuronal macroautophagy dysfunction and comorbid anxiety in neuropathic pain and provides novel insights into the role of PrL by differentiating its contribution in pain-induced comorbid anxiety from its modulation over general anxiety-like behaviors. Abbreviation: AAV: adeno-associated viruses; ACC: anterior cingulate cortex; ATG5: autophagy related 5; ATG7: autophagy related 7; ATG12: autophagy related 12; CAMK2/CaMKII: calcium/calmodulin-dependent protein kinase II; CNO: clozapine- N -oxide; CQ: chloroquine; DIA: data independent acquisition; DIO: double floxed inverse orf; DLG4/PSD-95: discs large MAGUK scaffold protein 4; Dox: doxycycline; GABA: &#x3b3;-aminobutyric acid; GFP: green fluorescent protein; GO: gene ontology; Gi: inhibitory guanine nucleotide-binding proteins; HsCHRM4/M4D: human cholinergic receptor muscarinic 4; HsSYN: human synapsin; KEGG: Kyoto encyclopedia of genes and genomes; LAMP1: lysosomal-associated membrane protein 1; LC3-II: PE conjugated microtubule-associated protein 1 light chain3; MAP1LC3/LC3: microtubule-associated protein 1 light chain 3; mPFC: medial prefrontal cortex; P2A: 2A self-cleaving peptide; PPI: protein-protein interaction networks; PrL: prelimbic cortex; RBFOX",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Macroautophagy",
+   "Neurons",
+   "Prefrontal Cortex",
+   "Anxiety",
+   "Chronic Pain",
+   "Neuralgia",
+   "Sciatic Nerve",
+   "Synapses",
+   "Homeostasis",
+   "Male",
+   "Animals",
+   "Rats"
+  ]
+ },
+ "39477145": {
+  "abstract": "Major depressive disorder (MDD) is an enduring and severe mood disorder. Previous studies have indicated that p75NTR is involved in neuronal survival and death. However, the specific mechanism of p75NTR in depression remains unknown. The present study aimed to explore the role and mechanism of p75NTR in depression, and try to provide a new target for the treatment of MDD. The p75NTR knockout and overexpression mice were used to establish a mouse model of depression induced by chronic restraint stress (CRS), and the behavioral effects and potential mechanisms associated with p75NTR knockout/overexpression on CRS-induced depressive mice were investigated by animal behavior, histopathology, immunofluorescence and western blot, respectively. The results demonstrate that p75NTR knockout/overexpression can ameliorate the depressive-like behaviors observed in CRS-induced depressive mice. Furthermore, p75NTR knockout/overexpression safeguards the tissue morphology of the hippocampus, inhibits the mTOR signaling pathway to restore autophagy, and modulates apoptosis-related proteins (Bcl-2 and Bax) to reestablish normal levels of autophagy and apoptosis in hippocampal neurons of depressed mice. Importantly, p75NTR knockout/overexpression can improve synaptic plasticity through protecting the dendritic structure and dendritic spines of hippocampal neurons, and upregulating the expression of hippocampal synaptic-related proteins (PSD95 and SYN1). These findings suggest that p75NTR knockout/overexpression can alleviate CRS-induced depression-like behaviors by reinstating autophagy and suppressing apoptosis in hippocampal neurons, and enhancing hippocampal synaptic plasticity via mTOR pathway. These insights may provide potential targets for clinical treatment of depression.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": [
+   "Animals",
+   "TOR Serine-Threonine Kinases",
+   "Mice",
+   "Hippocampus",
+   "Stress, Psychological",
+   "Depression",
+   "Male",
+   "Mice, Knockout",
+   "Signal Transduction",
+   "Restraint, Physical",
+   "Receptors, Nerve Growth Factor",
+   "Mice, Inbred C57BL"
+  ]
+ },
+ "39877695": {
+  "abstract": "Postpartum depression (PPD) adversely affects the growth and development of the offspring, increasing the risk of various internalizing behaviorsduring adolescence. Studies have shown that corticosterone (CORT)-induced PPD affects neurogenesis in the offspring, which is closely related to the onset of depression. However, the underlying mechanisms of these changes in the offspring of PPD mothers remain unexplored. In this study, we demonstrated postpartum mice treated with high CORT experienced activation of the hypothalamic-pituitary-adrenal (HPA) axis, which induced depressive-like behavior and impaired maternal caring behavior. Furthermore, adolescent offspring of PPD mice exhibited depression-like behavior, and learning and memory deficits. These offspring also showed diminished levels of DCX + , decreased levels of synaptic proteins, and reduced dendritic spine density and length in hippocampus. Additionally, we detected increased serum stressed hormones and decreased hippocampal glucocorticoid receptor (GR) protein level in the offspring. We also found the offspring exhibited reduced expression of brain-derived neurotrophic factor (BDNF) and the phosphorylation tyrosine kinase receptor B (TrkB), protein kinase B (AKT), and mammalian target of rapamycin (mTOR) proteins in hippocampus. These results indicated that the behavioral deficits and neuronal damage observed in the offspring of PPD mice may be related to HPA axis dysfunction and inhibition of the BDNF-mTOR pathway. In conclusion, our findings confirm that CORT induces depression-like behavior and impairs maternal caring behavior in maternal mice, which in turn affects their offspring's emotion and cognitive behavior. This impact is characterized by the activation of the HPA axis and inhibition of the BDNF-mTOR pathway.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": []
+ },
+ "40023886": {
+  "abstract": "The pathogenesis of depression is associated with synaptic impairment and dysfunction in autophagy processes. Mendelian randomization (MR) analysis revealed that six GWAS IDs revealed a significant association between Beclin-1 levels and depression risk. Besides, all SNPs had a positive effect on depression risk. Analyzing neurons from depressed individuals using single-cell RNA sequencing (scRNA-seq) uncovered decreased expression of AKT, mTOR, and genes linked to synaptic plasticity. The activation of the PI3K/AKT/mTOR signaling has been demonstrated to control autophagy and have a protective effect on the nervous system. Hydrogen sulfide (H 2 S) is an endogenous gasotransmitter that can potentially treat various neurological disorders by improving neuronal synaptic plasticity. However, whether H 2 S regulates autophagy through PI3K/AKT/mTOR signaling, improves neuronal synaptic plasticity damage, and plays an antidepressant role is unclear. Our current research revealed that the reduction in the expression of p-PI3K, p-AKT, and p-mTOR proteins increase in neuronal autophagy activity and decline synaptic plasticity in mice with depression induced by chronic unpredictable mild stress (CUMS). Treatment with the exogenous hydrogen sulfide donor NaHS for one day and continuous treatment for one week improved the depression-like behaviors in the mice. Compared with those after one day of NaHS treatment, the above protein expression levels were restored and maintained, and the antidepressant effect was more significant after one week of continuous treatment with NaHS. Moreover, the PI3K inhibitor LY294002 was used to demonstrate that NaHS suppresses autophagy through activating the PI3K/AKT/mTOR signaling and ameliorates synaptic plasticity impairments. This study provides novel insights into the antidepressant mechanisms of H 2 S, highlighting its antidepressant therapeutic potential.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Animals",
+   "Hydrogen Sulfide",
+   "Mice",
+   "Autophagy",
+   "Depression",
+   "Signal Transduction",
+   "Neuronal Plasticity",
+   "TOR Serine-Threonine Kinases",
+   "Male",
+   "Phosphatidylinositol 3-Kinases",
+   "Proto-Oncogene Proteins c-akt",
+   "Neurons"
+  ]
+ },
+ "40275171": {
+  "abstract": "The dysregulation of neuroinflammation triggered by imbalance of microglia M1/M2 polarization is a key pathogenic factor and closely associated with occurrence of depression. Formononetin (FMN), a natural non-steroidal isoflavonoid, has been confirmed to exhibit remarkable anti-inflammatory efficacy, but the impact of FMN on depression and the underlying antidepressant mechanisms are still not fully understood. This study aimed to investigate whether the antidepressant effect of FMN is involved in modulating microglia polarization, and if so, what are the underlying mechanisms. Lipopolysaccharide (LPS)-induced depressive mice were used to study antidepressant mechanisms of FMN. Microglia cell line BV2 stimulated by LPS was employed to investigate pharmacological mechanisms of FMN. Effects of FMN on neuronal damage were detected by H&amp;E, Nissl and Golgi staining. The efficacy of FMN were evaluated by immunostaining and western blots in vivo and vitro. In addition, molecular docking, luciferase reporter assay, cellular thermal shift assay (CETSA) and drug affinity responsive target stability (DARTS) were used to confirm the direct target of FMN. Our results showed that FMN significantly reverses depression-like behaviors, alleviates neuroinflammation and neuronal damage, rebalances M1/M2 polarization, inhibits NLRP3 inflammasome and enhances microglial autophagy level in prefrontal cortex of LPS-induced depressive mice. In vitro assays, results unraveled that autophagy inhibitor chloroquine (CQ) blocks effects of FMN on inhibiting NLRP3 inflammasome and rebalancing M1/M2 polarization. Moreover, PPAR&#x3b1; is identified as a direct target of FMN and FMN can activate PPAR&#x3b1;-mediated autophagy. Furtherly, combination PPAR&#x3b1; agonist (WY14643) with FMN had no significant additive effects on inhibiting NLRP3 inflammasome and rebalancing M1/M2 polarization, whereas PPAR&#x3b1; antagonist (GW6471) abrogated these pharmacologic effects of FMN in BV2. Importantly, GW6471 exhibited similar pharmacologic effects to abolish antidepressant effect of FMN in LPS-induced depressive mice. Our study firstly demonstrated that FMN can rebalance microglia M1/M2 polarization and inhibit NLRP3 inflammasome, with the involvement of activating PPAR&#x3b1;-mediated autophagy",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": [
+   "Animals",
+   "Microglia",
+   "NLR Family, Pyrin Domain-Containing 3 Protein",
+   "Isoflavones",
+   "PPAR alpha",
+   "Inflammasomes",
+   "Mice",
+   "Autophagy",
+   "Depression",
+   "Male",
+   "Lipopolysaccharides",
+   "Antidepressive Agents"
+  ]
+ },
+ "41280327": {
+  "abstract": "Major depressive disorder (MDD) is a highly prevalent psychiatric condition characterized by a range of symptoms that often lead to reduced quality of life. Although chronic stress is a major risk factor for the development of MDD, only a subset of individuals exposed to stress develop depressive symptoms, while others remain resilient. Emerging evidence suggests that autophagy and mitophagy, key cellular processes involved in maintaining homeostasis and energy balance, may play a critical role in the response to stress. In this study, we investigated the impact of 6 weeks of chronic mild stress (CMS) on autophagy and mitophagy pathways in adult male rats, aiming to explore their potential association with vulnerability or resilience to stress-induced anhedonic-like behavior. By analyzing key autophagy and mitophagy markers in the dorsal (dHip) and ventral hippocampus (vHip), we describe region- and phenotype-specific alterations that may reflect distinct neurobiological adaptations to stress. In particular, we observed enhanced mitophagy alongside an overall impairment of autophagy in the vHip of vulnerable rats, while resilient animals showed preserved activity. These findings provide new insights into the molecular mechanisms associated with stress susceptibility and may inform future studies aimed at identifying novel therapeutic targets for MDD.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": []
+ },
+ "41889422": {
+  "abstract": "Major depressive disorder (MDD) is a highly disabling psychiatric condition characterized by profound synaptic dysfunction-particularly in the prefrontal cortex-which constitutes a core neuropathological hallmark of the disease. Nevertheless, the molecular mechanisms linking ubiquitination dynamics to stress-associated synaptic structural deficits remain poorly defined. In this study, we identified USP11, an X-linked deubiquitinating enzyme, as a key upstream regulator of the GSK3&#x3b2;/mTOR signaling cascade and the resultant synaptic structural impairments induced by chronic stress. In mice exposed to chronic unpredictable mild stress (CUMS), USP11 expression in the prefrontal cortex was markedly elevated, accompanied by aberrant phosphorylation of GSK3&#x3b2; and mTOR. Immunoprecipitation-mass spectrometry (IP-MS) and co-immunoprecipitation analyses verified a specific interaction between USP11 and GSK3&#x3b2;. Subsequent biochemical and cellular assays demonstrated that USP11 directly deubiquitinates GSK3&#x3b2;, modulates its Ser9 phosphorylation level, and consequently alters its enzymatic activity. Functional investigations using transgenic mice and primary neuronal cultures revealed that USP11 acts as a negative regulator of synaptic integrity. Strikingly, USP11 deficiency conferred robust protection against stress-induced synaptic injury and behavioral impairments by restoring synaptic protein expression, preserving neuronal ultrastructure, and ameliorating depressive-like behaviors. Collectively, these findings delineate a critical USP11-GSK3&#x3b2;/mTOR-synaptic plasticity axis underlying depression-related neuropathology and underscore USP11 as a promising therapeutic target for synaptic preservation and neuroprotection in MDD.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": []
+ },
+ "37644025": {
+  "abstract": "Dysfunctional autophagy and impairment of adult hippocampal neurogenesis (AHN) each contribute to the pathogenesis of major depressive disorder (MDD). However, whether dysfunctional autophagy is linked to aberrant AHN underlying MDD remains unclear. Here we demonstrate that the expression of nuclear receptor binding factor 2 (NRBF2), a component of autophagy-associated PIK3C3/VPS34-containing phosphatidylinositol 3-kinase complex, is attenuated in the dentate gyrus (DG) under chronic stress. NRBF2 deficiency inhibits the activity of the VPS34 complex and impairs autophagic flux in adult neural stem cells (aNSCs). Moreover, loss of NRBF2 disrupts the neurogenesis-related protein network and causes exhaustion of aNSC pool, leading to the depression-like phenotype. Strikingly, overexpressing NRBF2 in aNSCs of the DG is sufficient to rescue impaired AHN and depression-like phenotype of mice. Our findings reveal a significant role of NRBF2-dependent autophagy in preventing chronic stress-induced AHN impairment and suggest the therapeutic potential of targeting NRBF2 in MDD treatment.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": []
+ },
+ "28465217": {
+  "abstract": "Major Depressive Disorder (MDD, ICD-10: F-33) is a prevalent illness in which the pathogenic mechanism remains elusive. Recently an important role has been attributed to neuro-inflammation, and specifically the NLRP3-inflammasome complex, in the pathogenesis of MDD. This suggests a key role for immunomodulation as a key pathway in the treatment of this disorder. This study evaluates the involvement of nine common antidepressants in the NLRP3-inflammasome complex (fluoxetine, paroxetine, mianserin, mirtazapine, venlafaxine, desvenlafaxine, amitriptyline, imipramine and agomelatine), both in in vitro THP-1 cells stimulated by ATP, and in a stress-induced depressive animal or MDD patients. Antidepressant treatment induced inflammasome inhibition was observed by decreased serum levels of IL-1&#x3b2; and IL-18 and decrease of NLRP3 and IL-1&#x3b2; (p17) protein expression. This was also observed under stress-induced depressive behaviour and inflammasome activation in C57Bl/6 mice in vivo. Deletion of key autophagy mediator Atg5 in embryonic fibroblasts (MEF cells) showed an autophagy dependent-NLRP3-inflammasome inhibition by antidepressant treatment. These results suggest the NLRP3-inflammasome could be a biomarker for antidepressant treatment response in MDD patients, and therefore the monitoring of NLRP3 expression levels and/or IL-1&#x3b2;/IL-18 release may have clinical value in drug selection. Existing evidence suggests an anti-inflammatory effect of some antidepressants shown by IL-1&#x3b2;, IL-6 and TNF-&#x3b1;. Our data have shown that antidepressant-mediated autophagy may have a role in restoration of certain metabolic and immunological pathways in MDD patients.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": [
+   "Adult",
+   "Animals",
+   "Antidepressive Agents",
+   "Autophagy",
+   "Cell Line",
+   "Major Depressive Disorder",
+   "Female",
+   "Humans",
+   "Inflammasomes",
+   "Interleukin-1beta",
+   "Male",
+   "Mice, Inbred C57BL"
+  ]
+ },
+ "33328636": {
+  "abstract": "Effective pharmacotherapy for major depressive disorder remains a major challenge, as more than 30% of patients are resistant to the first line of treatment (selective serotonin reuptake inhibitors) 1 . Sub-anaesthetic doses of ketamine, a non-competitive N-methyl-D-aspartate receptor antagonist 2,3 , provide rapid and long-lasting antidepressant effects in these patients 4-6 , but the molecular mechanism of these effects remains unclear 7,8 . Ketamine has been proposed to exert its antidepressant effects through its metabolite (2R,6R)-hydroxynorketamine ((2R,6R)-HNK) 9 . The antidepressant effects of ketamine and (2R,6R)-HNK in rodents require activation of the mTORC1 kinase 10,11 . mTORC1 controls various neuronal functions 12 , particularly through cap-dependent initiation of mRNA translation via the phosphorylation and inactivation of eukaryotic initiation factor 4E-binding proteins (4E-BPs) 13 . Here we show that 4E-BP1 and 4E-BP2 are key effectors of the antidepressant activity of ketamine and (2R,6R)-HNK, and that ketamine-induced hippocampal synaptic plasticity depends on 4E-BP2 and, to a lesser extent, 4E-BP1. It has been hypothesized that ketamine activates mTORC1-4E-BP signalling in pyramidal excitatory cells of the cortex 8,14 . To test this hypothesis, we studied the behavioural response to ketamine and (2R,6R)-HNK in mice lacking 4E-BPs in either excitatory or inhibitory neurons. The antidepressant activity of the drugs is mediated by 4E-BP2 in excitatory neurons, and 4E-BP1 and 4E-BP2 in inhibitory neurons. Notably, genetic deletion of 4E-BP2 in inhibitory neurons induced a reduction in baseline immobility in the forced swim test, mimicking an antidepressant effect. Deletion of 4E-BP2 specifically in inhibitory neurons also prevented the ketamine-induced increase in hippocampal excitatory neurotransmission, and this effect concurred with the inability of ketamine to induce a long-lasting decrease in inhibitory neurotransmission. Overall, our data show that 4E-BPs are central to the antidepressant activity of ketamine.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Adaptor Proteins, Signal Transducing",
+   "Animals",
+   "Antidepressive Agents",
+   "Cell Cycle Proteins",
+   "Major Depressive Disorder",
+   "Eukaryotic Initiation Factor-4E",
+   "Eukaryotic Initiation Factors",
+   "Excitatory Postsynaptic Potentials",
+   "Hippocampus",
+   "Inhibitory Postsynaptic Potentials",
+   "Interneurons",
+   "Ketamine"
+  ]
+ },
+ "34401408": {
+  "abstract": "Several intracellular pathways that contribute to the adaptation or maladaptation to environmental challenges mediate the vulnerability and resilience to chronic stress. The activity of the hypothalamic-pituitary-adrenal (HPA) axis is fundamental for the proper maintenance of brain processes, and it is related to the functionality of the isoform alfa and beta of the glucocorticoid receptor (Gr), the primary regulator of HPA axis. Among the downstream effectors of the axis, the scaffolding protein RACK1 covers an important role in regulating synaptic activity and mediates the transcription of the neurotrophin Bdnf. Hence, by employing the chronic mild stress (CMS) paradigm, we studied the role of the Gr&#x3b2;-RACK1-Bdnf signaling in the different susceptibility to chronic stress exposure. We found that resilience to two weeks of CMS is paralleled by the activation of this pathway in the ventral hippocampus, the hippocampal subregion involved in the modulation of stress response. Moreover, the results we obtained in vitro by exposing SH-SY5Y cells to cortisol support the data we found in vivo . The results obtained add novel critical information about the link among Gr, RACK1 and Bdnf and the resilience to chronic stress, suggesting novel targets for the treatment of stress-related disorders, including depression.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": []
+ },
+ "41048915": {
+  "abstract": "Major depressive disorder (MDD) is a kind of mental disorder with high mortality, suicide and relapse rates, and might be the world's leading cause of health burden by 2030. Growing evidence suggests that neuroinflammation is closely linked to depressive pathogenesis and suggests that MDD can be called a microglia disease. And activation of the P2X7R/NLRP3 signaling pathway in microglia is a key mechanism causing nerve damage. In addition, it is recently found that gut microbiota might initiate neuroinflammatory processes underlying MDD, and gut microbiota dysbiosis can be affected by sleep to ameliorate neuroinflammatory processes. In this paper, we reviewed recent advances about gut-brain axis interactions with neuroinflammation, which might shed light on the mechanisms and treatment of depression.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "mesh": []
+ },
+ "32616214": {
+  "abstract": "There has been much recent progress in understanding of the mechanism of ketamine's rapid and enduring antidepressant effects. Here we review recent insights from clinical and preclinical studies, with special emphasis of ketamine-induced changes in GABAergic synaptic transmission that are considered essential for its antidepressant therapeutic effects. Subanesthetic ketamine is now understood to exert its initial action by selectively blocking a subset of NMDA receptors on GABAergic interneurons, which results in disinhibition of glutamatergic target neurons, a surge in extracellular glutamate and correspondingly elevated glutamatergic synaptic transmission. This surge in glutamate appears to be corroborated by the rapid metabolism of ketamine into hydroxynorketamine, which acts at presynaptic sites to disinhibit the release of glutamate. Preclinical studies indicate that glutamate-induced activity triggers the release of BDNF, followed by transient activation of the mTOR pathway and increased expression of synaptic proteins, along with functional strengthening of glutamatergic synapses. This drug-on phase lasts for approximately 2h and is followed by a period of days characterized by structural maturation of newly formed glutamatergic synapses and prominently enhanced GABAergic synaptic inhibition. Evidence from mouse models with constitutive antidepressant-like phenotypes suggests that this phase involves strengthened inhibition of dendrites by somatostatin-positive GABAergic interneurons and correspondingly reduced NMDA receptor-mediated Ca 2+ entry into dendrites, which activates an intracellular signaling cascade that converges with the mTOR pathway onto increased activity of the eukaryotic elongation factor eEF2 and enhanced translation of dendritic mRNAs. Newly synthesized proteins such as BDNF may be important for the prolonged therapeutic effects of ketamine.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "mesh": [
+   "Animals",
+   "Antidepressive Agents",
+   "Depression",
+   "GABAergic Neurons",
+   "Humans",
+   "Ketamine",
+   "Metabolome",
+   "Neural Inhibition",
+   "Neuronal Plasticity"
+  ]
+ },
+ "40205096": {
+  "abstract": "",
+  "ptypes": [
+   "News"
+  ],
+  "mesh": []
+ },
+ "36613574": {
+  "abstract": "Major depressive disorder (MDD) is a highly prevalent psychiatric disorder, whose pathophysiology has been linked to the neuroinflammatory process. The increased activity of the Nod-like receptor pyrin containing protein 3 (NLRP3) inflammasome, an intracellular multiprotein complex, is intrinsically implicated in neuroinflammation by promoting the maturation and release of proinflammatory cytokines such as interleukin (IL)-1&#x3b2; and IL-18. Interestingly, individuals suffering from MDD have higher expression of NLRP3 inflammasome components and proinflammatory cytokines when compared to healthy individuals. In part, intense activation of the inflammasome may be related to autophagic impairment. Noteworthy, some conventional antidepressants induce autophagy, resulting in less activation of the NLRP3 inflammasome. In addition, the fast-acting antidepressant ketamine, some bioactive compounds and physical exercise have also been shown to have anti-inflammatory properties via inflammasome inhibition. Therefore, it is suggested that modulation of inflammasome-driven pathways may have an antidepressant effect. Here, we review the role of the NLRP3 inflammasome in the pathogenesis of MDD, highlighting that pathways related to its priming and activation are potential therapeutic targets for the treatment of MDD.",
+  "ptypes": [
+   "Journal Article",
+   "Review"
+  ],
+  "mesh": [
+   "Humans",
+   "Inflammasomes",
+   "Major Depressive Disorder",
+   "NLR Family, Pyrin Domain-Containing 3 Protein",
+   "Cytokines",
+   "Antidepressive Agents",
+   "Interleukin-1beta"
+  ]
+ },
+ "41008651": {
+  "abstract": "Chronic stress disrupts neuroimmune homeostasis and initiates CNS inflammation. This paper examines the molecular and cellular mechanisms that connect stress to the interplay among the nervous, endocrine, and immune systems, with a focus on the role of the NLRP3 inflammasome in neuroinflammatory processes. It discusses the dynamics of HPA axis, stress-induced changes in glucocorticoid and mineralocorticoid signaling, sympathetic nervous system activation, and the contribution of pro-inflammatory cytokines in brain immune activation. The NLRP3 inflammasome is described in terms of its structure, activation via a two-signal model, and its role in IL-1&#x3b2; and IL-18 maturation in neurons, microglia, and astrocytes. Preclinical evidence highlights the therapeutic potential of targeting NLRP3 in stress-related disorders, underscoring its key role in their pathophysiology.",
+  "ptypes": [
+   "Journal Article",
+   "Review",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Humans",
+   "NLR Family, Pyrin Domain-Containing 3 Protein",
+   "Inflammasomes",
+   "Animals",
+   "Neurons",
+   "Astrocytes",
+   "Microglia",
+   "Hypothalamo-Hypophyseal System",
+   "Pituitary-Adrenal System",
+   "Mental Disorders",
+   "Stress, Psychological"
+  ]
+ },
+ "41712983": {
+  "abstract": "Depression is characterised by a low mood, loss of interest or pleasure, pessimism, impaired concentration, decreased energy, and fatigue. A strong relationship between inflammatory processes and the pathophysiology of depression had been identified. Studies have suggested that the NLRP3 inflammasome is a key contributor to the pathogenesis of depression. This systematic review aimed to synthesise evidence from animal models of depression to evaluate both priming and activation of the inflammasome, with a specific focus on clarifying the role in depressive pathology. PubMed, Scopus, Web of Science, EMBASE and Medline were searched up until November 2024. Studies involving animal models of depression, measuring NLRP3 inflammasome components (NLRP3, ASC, Caspase-1 and IL-1&#x3b2;) were eligible for inclusion. Risk of bias was assessed using SYRCLEs Risk of Bias tool, and random-effects meta-analysis was conducted for each inflammasome component using RevMan. A total of 3345 studies were identified, with 23 accepted after full text screening, and 16 included in the meta-analysis. Across 170 animals (85 depression model, 85 controls), protein and mRNA levels of NLRP3, ASC, Caspase-1, and IL-1&#x3b2; were significantly upregulated in depression models compared to controls. Analysed brain regions included the hippocampus and prefrontal cortex. Moderate heterogeneity was observed between studies (I 2 = 0-68 %). This systematic review and meta-analysis demonstrates consistent upregulation of NLRP3 inflammasome components in animal models of depression, therefore suggesting an association with depression. Further research should investigate the therapeutic potential of targeting the NLRP3 inflammasome to reduce neuroinflammation and alleviate depression symptoms in both animal and human studies.",
+  "ptypes": [
+   "Journal Article",
+   "Systematic Review",
+   "Meta-Analysis"
+  ],
+  "mesh": [
+   "NLR Family, Pyrin Domain-Containing 3 Protein",
+   "Inflammasomes",
+   "Animals",
+   "Humans",
+   "Depression",
+   "Interleukin-1beta",
+   "Disease Models, Animal",
+   "Caspase 1"
+  ]
+ },
+ "36563870": {
+  "abstract": "Increasing evidence suggests that the failure of clinical antidepressants may be related with neuroinflammation. The NOD-, LRR- and pyrin domain-containing protein 3 (NLRP3) inflammasome is an intracellular multiprotein complex, and has been considered as a key contributor to the development of neuroinflammation. Inhibition of NLRP3 inflammasome is an effective method for depression treatment. In this review, we summarized current researches highlighting the role of NLRP3 inflammasome in the pathology of depression. Firstly, we discussed NLRP3 inflammasome activation in patients with depression and animal models. Secondly, we outlined the possible mechanisms driving the activation of NLRP3 inflammasome. Thirdly, we discussed the pathogenetic role of NLRP3 inflammasome in depression. Finally, we overviewed the current and potential antidepressants targeting the NLRP3 inflammasome. Overall, the inhibition of NLRP3 inflammasome activation may be a potential therapeutic strategy for inflammation-related depression.",
+  "ptypes": [
+   "Journal Article",
+   "Review",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Animals",
+   "Inflammasomes",
+   "NLR Family, Pyrin Domain-Containing 3 Protein",
+   "Depression",
+   "Neuroinflammatory Diseases",
+   "Antidepressive Agents"
+  ]
+ },
+ "25603858": {
+  "abstract": "Evidence from both clinical and experimental research indicates that the immune-brain interaction plays a pivotal role in the pathophysiology of depression. A multi-protein complex of the innate immune system, the NLRP3 inflammasome regulates cleavage and secretion of proinflammatory cytokine interleukin-1&#x3b2;. The inflammasome detects various pathogen-associated molecule patterns and damage-associated molecule patterns, which then leads to a series of immune-inflammatory reactions. To explore the role of inflammasome activation in the underlying biological mechanisms of depression, we established a mouse model of depression with unpredictable chronic mild stress. Mice subjected to chronic mild stress for 4 weeks had significantly higher serum corticosterone levels, serum interleukin-1&#x3b2; levels, and hippocampal active interleukin-1&#x3b2; protein levels. They also displayed depressive-like symptoms, including decreased sucrose preference and increased immobility time. Moreover, the hippocampi of chronic mild stress-exposed mice had significantly higher activity of caspase-1, which accompanied by higher protein levels of NLRP3 and the apoptotic speck-containing protein with a card. Pretreatment with the NLRP3 inflammasome inhibitor VX-765 decreased serum and hippocampal levels of interleukin-1&#x3b2; protein and significantly moderated the depressive-like behaviors induced by chronic mild stress. These data suggest the NLRP3 inflammasome mediates stress-induced depression via immune activation. Future procedures targeting the NLRP3 inflammasome may have promising effects in the prevention and treatment of depression.",
+  "ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh": [
+   "Animals",
+   "Anti-Inflammatory Agents, Non-Steroidal",
+   "Antidepressive Agents",
+   "Carrier Proteins",
+   "Caspase 1",
+   "Chronic Disease",
+   "Corticosterone",
+   "Depressive Disorder",
+   "Dietary Sucrose",
+   "Dipeptides",
+   "Disease Models, Animal",
+   "Food Preferences"
+  ]
+ },
+ "38227513": {
+  "abstract": "Previous studies have demonstrated a bidirectional relationship between inflammation and depression. Activation of the nucleotide-binding oligomerization domain, leucine-rich repeat, and NLR family pyrin domain-containing 3 (NLRP3) inflammasomes is closely related to the pathogenesis of various neurological diseases. In patients with major depressive disorder, NLRP3 inflammasome levels are significantly elevated. Understanding the role that NLRP3 inflammasome-mediated neuroinflammation plays in the pathogenesis of depression may be beneficial for future therapeutic strategies. In this review, we aimed to elucidate the mechanisms that lead to the activation of the NLRP3 inflammasome in depression as well as to provide insight into therapeutic strategies that target the NLRP3 inflammasome. Moreover, we outlined various therapeutic strategies that target the NLRP3 inflammasome, including NLRP3 inflammatory pathway inhibitors, natural compounds, and other therapeutic compounds that have been shown to be effective in treating depression. Additionally, we summarized the application of NLRP3 inflammasome inhibitors in clinical trials related to depression. Currently, there is a scarcity of clinical trials dedicated to investigating the applications of NLRP3 inflammasome inhibitors in depression treatment. The modulation of NLRP3 inflammasomes in microglia holds promise for the management of depression. Further investigations are necessary to ascertain the efficacy and safety of these therapeutic approaches as potential novel antidepressant treatments.",
+  "ptypes": [
+   "Journal Article"
+  ],
+  "mesh": []
+ }
+}

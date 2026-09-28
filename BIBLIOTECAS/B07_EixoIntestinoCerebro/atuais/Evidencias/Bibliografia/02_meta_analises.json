@@ -1,0 +1,1004 @@
+[
+ {
+  "pmid_oficial": "27509521",
+  "titulo_artigo": "Effect of Probiotics on Depression: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+  "autores": [
+   "Huang R",
+   "Wang K",
+   "Hu J"
+  ],
+  "revista_ano": "Nutrients (2016)",
+  "desenho_estudo": "[MA] meta-análise Nutrients — depressão",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Probióticos reduzem sintomas depressivos em meta de RCTs (efeito pequeno-moderado).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_HUANG_2016"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise de RCTs",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_HUANG_2016",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "HUANG",
+   "Huang"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "29995348",
+  "titulo_artigo": "Efficacy of probiotics on anxiety-A meta-analysis of randomized controlled trials",
+  "autores": [
+   "Liu B",
+   "He Y",
+   "Wang M",
+   "Liu J",
+   "Ju Y",
+   "Zhang Y"
+  ],
+  "revista_ano": "Depression and anxiety (2018)",
+  "desenho_estudo": "[MA] meta-análise — ansiedade (Depress Anxiety)",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Probióticos reduzem sintomas de ansiedade em meta de RCTs.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LIU_2018"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise de RCTs",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LIU_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Liu",
+   "LIU"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "31563280",
+  "titulo_artigo": "Effect of probiotics on depressive symptoms: A meta-analysis of human studies",
+  "autores": [
+   "Goh KK",
+   "Liu YW",
+   "Kuo PH",
+   "Chung YE",
+   "Lu ML",
+   "Chen CH"
+  ],
+  "revista_ano": "Psychiatry research (2019)",
+  "desenho_estudo": "[MA] meta-análise Psychiatry Res",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Probióticos e sintomas depressivos: efeito significativo, porém heterogêneo.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GOH_2019"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise de estudos humanos",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_GOH_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "GOH",
+   "Goh"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "32539741",
+  "titulo_artigo": "Effect of fecal microbiota transplant on symptoms of psychiatric disorders: a systematic review",
+  "autores": [
+   "Chinna Meyyappan A",
+   "Forth E",
+   "Wallace CJK",
+   "Milev R"
+  ],
+  "revista_ano": "BMC psychiatry (2020)",
+  "desenho_estudo": "[MA] RS BMC Psychiatry — FMT em sintomas psiquiátricos",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "FMT em sintomas psiquiátricos: evidência preliminar, sobretudo em condições GI; psicopatologia como desfecho secundário.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CHINNA_2020"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão sistemática; maioria estudos pequenos",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_CHINNA_2020",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Chinna",
+   "CHINNA"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "33271426",
+  "titulo_artigo": "The gut microbiota in anxiety and depression - A systematic review",
+  "autores": [
+   "Simpson CA",
+   "Diaz-Arteche C",
+   "Eliby D",
+   "Schwartz OS",
+   "Simmons JG",
+   "Cowan CSM"
+  ],
+  "revista_ano": "Clinical psychology review (2021)",
+  "desenho_estudo": "[MA] RS de 26 estudos — Clin Psychol Rev",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Microbiota em ansiedade e depressão: achados de diversidade inconsistentes; táxons pró-inflamatórios elevados e produtores de AGCC reduzidos.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SIMPSON_2021"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão sistemática; diversidade inconsistente",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SIMPSON_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Simpson",
+   "SIMPSON"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "34131108",
+  "titulo_artigo": "Psychobiotic interventions for anxiety in young people: a systematic review and meta-analysis, with youth consultation",
+  "autores": [
+   "Cohen Kadosh K",
+   "Basso M",
+   "Knytl P",
+   "Johnstone N",
+   "Lau JYF",
+   "Gibson GR"
+  ],
+  "revista_ano": "Translational psychiatry (2021)",
+  "desenho_estudo": "[MA] meta-análise Transl Psychiatry — JOVENS, EFEITO NULO",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Psicobióticos para ansiedade em jovens: ausência de efeito (SMD −0,03); evidência limitada.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_COHENKADOSH_2021"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise em jovens 10-24 anos; SMD −0,03 (IC −0,21 a 0,14)",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_COHENKADOSH_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "CohenKadosh",
+   "COHENKADOSH",
+   "Cohenkadosh"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "34441793",
+  "titulo_artigo": "The Effect of Probiotics on Quality of Life, Depression and Anxiety in Patients with Irritable Bowel Syndrome: A Systematic Review and Meta-Analysis",
+  "autores": [
+   "Le Morvan de Sequeira C",
+   "Kaeber M",
+   "Cekin SE",
+   "Enck P",
+   "Mack I"
+  ],
+  "revista_ano": "Journal of clinical medicine (2021)",
+  "desenho_estudo": "[MA] meta-análise J Clin Med — IBS",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Probióticos melhoram qualidade de vida, depressão e ansiedade em pacientes com IBS (sinal relativamente melhor que na TDM grave).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LEMORVAN_2021"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise em IBS",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LEMORVAN_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "LeMorvan",
+   "LEMORVAN",
+   "Lemorvan"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "34524405",
+  "titulo_artigo": "Perturbations in Gut Microbiota Composition in Psychiatric Disorders: A Review and Meta-analysis",
+  "autores": [
+   "Nikolova VL",
+   "Smith MRB",
+   "Hall LJ",
+   "Cleare AJ",
+   "Stone JM",
+   "Young AH"
+  ],
+  "revista_ano": "JAMA psychiatry (2021)",
+  "desenho_estudo": "[MA] meta-análise guarda-chuva JAMA Psychiatry — 59 estudos",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Perturbações de microbiota são transdiagnósticas (Faecalibacterium/Coprococcus diminuídos; Eggerthella elevado); sem assinatura diagnóstica específica; confundem região e medicação.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_NIKOLOVA_2021"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise de estudos caso-controle; avalia especificidade diagnóstica",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_NIKOLOVA_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Nikolova",
+   "NIKOLOVA"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "34620373",
+  "titulo_artigo": "Probiotics for the treatment of depression and anxiety: A systematic review and meta-analysis of randomized controlled trials",
+  "autores": [
+   "El Dib R",
+   "Periyasamy AG",
+   "de Barros JL",
+   "França CG",
+   "Senefonte FL",
+   "Vesentini G"
+  ],
+  "revista_ano": "Clinical nutrition ESPEN (2021)",
+  "desenho_estudo": "[MA] meta-análise 16 RCTs Clin Nutr ESPEN",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Probióticos melhoram BDI (certeza moderada) e STAI (baixa); vários outros desfechos nulos; efeito pequeno.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ELDIB_2021"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise com GRADE; CORREÇÃO de periódico: Clin Nutr ESPEN",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_ELDIB_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "ElDib",
+   "ELDIB",
+   "Eldib"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "35276981",
+  "titulo_artigo": "Effect of Probiotics on Psychiatric Symptoms and Central Nervous System Functions in Human Health and Disease: A Systematic Review and Meta-Analysis",
+  "autores": [
+   "Le Morvan de Sequeira C",
+   "Hengstberger C",
+   "Enck P",
+   "Mack I"
+  ],
+  "revista_ano": "Nutrients (2022)",
+  "desenho_estudo": "[MA] RS Nutrients — sintomas psiquiátricos/CNS",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Efeito de probióticos em sintomas psiquiátricos e funções do SNC em humanos.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LEMORVAN_2022"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão sistemática",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LEMORVAN_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "LeMorvan",
+   "LEMORVAN",
+   "Lemorvan"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "35742022",
+  "titulo_artigo": "Efficacy of Direct or Indirect Use of Probiotics for the Improvement of Maternal Depression during Pregnancy and in the Postnatal Period: A Systematic Review and Meta-Analysis",
+  "autores": [
+   "Trifkovič KČ",
+   "Mičetić-Turk D",
+   "Kmetec S",
+   "Strauss M",
+   "Dahlen HG",
+   "Foster JP"
+  ],
+  "revista_ano": "Healthcare (Basel, Switzerland) (2022)",
+  "desenho_estudo": "[MA] meta-análise Healthcare — depressão materna",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Uso direto/indireto de probióticos para depressão materna; efeito pequeno.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_TRIFKOVIC_2022"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise de população específica",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_TRIFKOVIC_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Trifkovic",
+   "TRIFKOVIC"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "36834489",
+  "titulo_artigo": "Probiotics as a Tool for Regulating Molecular Mechanisms in Depression: A Systematic Review and Meta-Analysis of Randomized Clinical Trials",
+  "autores": [
+   "Sikorska M",
+   "Antosik-Wójcińska AZ",
+   "Dominiak M"
+  ],
+  "revista_ano": "International journal of molecular sciences (2023)",
+  "desenho_estudo": "[MA] RS/meta IJMS — mecanismos moleculares e BDNF",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Probióticos elevam BDNF periférico (SMD 0,37) e reduzem CRP em comorbidade somática; SEM mudança consistente de IL-6, TNF-α, IL-1β, cortisol.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SIKORSKA_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise de 20 registros; BDNF periférico",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SIKORSKA_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "SIKORSKA",
+   "Sikorska"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "38065935",
+  "titulo_artigo": "Gut microbiota composition in depressive disorder: a systematic review, meta-analysis, and meta-regression",
+  "autores": [
+   "Gao M",
+   "Wang J",
+   "Liu P",
+   "Tu H",
+   "Zhang R",
+   "Zhang Y"
+  ],
+  "revista_ano": "Translational psychiatry (2023)",
+  "desenho_estudo": "[MA] meta-análise + metarregressão — Transl Psychiatry",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Composição da microbiota no transtorno depressivo; metarregressão mostra heterogeneidade por medicamento/região.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GAO_2023"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise de composição",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_GAO_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Gao",
+   "GAO"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "38219239",
+  "titulo_artigo": "Probiotics for adults with major depressive disorder compared with antidepressants: a systematic review and network meta-analysis",
+  "autores": [
+   "Zhao S",
+   "Liang S",
+   "Tao J",
+   "Peng Y",
+   "Chen S",
+   "Wai HKF"
+  ],
+  "revista_ano": "Nutrition reviews (2025)",
+  "desenho_estudo": "[MA] revisão/rede 2025 Nutr Rev — probiótico vs antidepressivo",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Probióticos para adultos com TDM comparados a antidepressivos; efeito adjunto, não substitutivo.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ZHAO_2025"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão sistemática comparativa",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_ZHAO_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "ZHAO",
+   "Zhao"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "39360283",
+  "titulo_artigo": "From gut to brain: unveiling probiotic effects through a neuroimaging perspective-A systematic review of randomized controlled trials",
+  "autores": [
+   "Crocetta A",
+   "Liloia D",
+   "Costa T",
+   "Duca S",
+   "Cauda F",
+   "Manuello J"
+  ],
+  "revista_ano": "Frontiers in nutrition (2024)",
+  "desenho_estudo": "[MA/neuroimagem] RS de fMRI em RCTs de probiótico — Front Nutr",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Probióticos modificam sinal regional (amígdala, rede de saliência, DMN, OFC, hipocampo) de forma heterogênea.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CROCETTA_2024"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão sistemática de estudos experimentais com neuroimagem",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_CROCETTA_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "CROCETTA",
+   "Crocetta"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA/neuroimagem]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "39731509",
+  "titulo_artigo": "Effects of Prebiotics and Probiotics on Symptoms of Depression and Anxiety in Clinically Diagnosed Samples: Systematic Review and Meta-analysis of Randomized Controlled Trials",
+  "autores": [
+   "Asad A",
+   "Kirk M",
+   "Zhu S",
+   "Dong X",
+   "Gao M"
+  ],
+  "revista_ano": "Nutrition reviews (2025)",
+  "desenho_estudo": "[MA] meta-análise 2025 Nutr Rev — amostras DIAGNOSTICADAS",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Prebióticos e probióticos em sintomas de depressão/ansiedade em populações clinicamente diagnosticadas.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ASAD_2025"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise restrita a populações clínicas",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_ASAD_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Asad",
+   "ASAD"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "40312666",
+  "titulo_artigo": "Gut microbiota variations in depression and anxiety: a systematic review",
+  "autores": [
+   "Cao Y",
+   "Cheng Y",
+   "Pan W",
+   "Diao J",
+   "Sun L",
+   "Meng M"
+  ],
+  "revista_ano": "BMC psychiatry (2025)",
+  "desenho_estudo": "[MA] RS 2025 BMC Psychiatry",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Variações de microbiota em depressão e ansiedade; confirma heterogeneidade.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CAO_2025"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise 2025",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_CAO_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "CAO",
+   "Cao"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "40440772",
+  "titulo_artigo": "The impact of probiotics, prebiotics, and synbiotics on depression and anxiety symptoms of patients with depression: A systematic review and meta-analysis",
+  "autores": [
+   "Moshfeghinia R",
+   "Nemati H",
+   "Ebrahimi A",
+   "Shekouh D",
+   "Karami S",
+   "Eraghi MM"
+  ],
+  "revista_ano": "Journal of psychiatric research (2025)",
+  "desenho_estudo": "[MA] meta-análise 2025 J Psychiatr Res — I²≈96%",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Probióticos/prebióticos/simbióticos reduzem escores de depressão (SMD −1,76) e ansiedade (SMD −1,60) com heterogeneidade altíssima (I²≈96%).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MOSHFEGHINIA_2025"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise; HETEROGENEIDADE MUITO ALTA (I² 96,3%/96,9%)",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MOSHFEGHINIA_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "MOSHFEGHINIA",
+   "Moshfeghinia"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "41605120",
+  "titulo_artigo": "Effectiveness of probiotic supplementation in managing depressive symptoms and inflammatory status in patients with depression: A systematic review and meta-analysis",
+  "autores": [
+   "Shakir Shakir HN",
+   "Alias-Castillo AJ",
+   "Bertini-Pérez D",
+   "Rueda-Ruzafa L",
+   "Roman P",
+   "Cardona D"
+  ],
+  "revista_ano": "Clinical nutrition (Edinburgh, Scotland) (2026)",
+  "desenho_estudo": "[MA] meta-análise 2026 Clin Nutr — citocinas",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Probióticos associam-se a melhora de sintomas depressivos SEM alteração significativa de IL-6 (p=0,45) nem TNF-α (p=0,21).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SHAKIR_2026"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise; 13 RS/7 meta",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SHAKIR_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "SHAKIR",
+   "Shakir"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "41865792",
+  "titulo_artigo": "Circulating Short-Chain Fatty Acid (SCFA) profiles as a biomarker of gut-brain axis dysfunction: A meta-analysis for the SCFA signature in major depression",
+  "autores": [
+   "Do QL",
+   "Malau IA",
+   "Nguyen HT",
+   "Liu J",
+   "Chang JP",
+   "Su KP"
+  ],
+  "revista_ano": "Biomedical journal (2026)",
+  "desenho_estudo": "[MA] meta-análise 2026 Biomed J — AGCC CIRCULANTES (8 estudos humanos + 52 murinos)",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Pacientes com TDM têm AGCC circulantes mais baixos (propionato SMD −0,60; butirato −0,50); heterogeneidade alta; em murino, suplementação melhora comportamento.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_DO_2026"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise de estudos transversais humanos + experimentais murinos; ASSOCIAÇÃO, não intervenção",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_DO_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "DO",
+   "Do"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "41921871",
+  "titulo_artigo": "Efficacy and safety of fecal microbiota transplantation on depressive and anxiety symptoms: A systematic review and meta-analysis",
+  "autores": [
+   "Li B",
+   "Fu J",
+   "Wang S",
+   "Bi X",
+   "Xu D",
+   "Wang L"
+  ],
+  "revista_ano": "Journal of affective disorders (2026)",
+  "desenho_estudo": "[MA] meta-análise 2026 J Affect Disord — 8 estudos/532 participantes",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "FMT melhora sintomas depressivos (g=−0,81) e de ansiedade (g=−1,05) com heterogeneidade substancial; sem eventos adversos graves.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LIB_2026"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "meta-análise pequena e heterogênea; mistura RCTs e coortes",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LIB_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Lib",
+   "LIB",
+   "LiB"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[MA]",
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ }
+]

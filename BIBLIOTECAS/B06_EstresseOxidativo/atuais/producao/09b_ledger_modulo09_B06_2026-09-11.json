@@ -1,0 +1,85 @@
+{
+ "acao": "09b_reconciliacao_ledger_arquivo_modulo09",
+ "data": "2026-09-11",
+ "n": 13,
+ "det": [
+  {
+   "id_auditoria": "AUD_B6_0006",
+   "ref": "REF_PALTA_2014",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B6_0010",
+   "ref": "REF_BLACK_2015",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B6_0013",
+   "ref": "REF_JIMENEZFERNANDEZ_2015",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B6_0014",
+   "ref": "REF_FERNANDES_2016",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B6_0019",
+   "ref": "REF_LIAO_2019",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B6_0021",
+   "ref": "REF_KISHI_2020",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B6_0023",
+   "ref": "REF_SANI_2023",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B6_0024",
+   "ref": "REF_ALMULLA_2023",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B6_0026",
+   "ref": "REF_PENG_2024",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B6_0027",
+   "ref": "REF_BELL_2025",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B6_0090",
+   "ref": "REF_SCHMITT_2015",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "03_ensaios_clinicos"
+  },
+  {
+   "id_auditoria": "AUD_B6_0102",
+   "ref": "REF_FORD_2018",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "03_ensaios_clinicos"
+  },
+  {
+   "id_auditoria": "AUD_B6_0103",
+   "ref": "REF_LAI_2020",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "03_ensaios_clinicos"
+  }
+ ]
+}

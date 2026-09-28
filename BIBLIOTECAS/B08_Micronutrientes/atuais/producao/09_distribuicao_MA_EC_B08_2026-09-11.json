@@ -1,0 +1,774 @@
+{
+ "acao": "09_distribuicao_MA_EC_MODULO09",
+ "data": "2026-09-11",
+ "biblioteca": "B08_Micronutrientes",
+ "lei": "PROMPT_v4.2 instrução final: [MA]->02, [EC]->03; id único global (validar_auditoria.py)",
+ "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+ "contagens": {
+  "ficam_01": 76,
+  "vao_02_MA": 55,
+  "vao_03_EC": 14,
+  "conflitos": 4,
+  "tag_EC_amplo_nao_migrado": 30
+ },
+ "ids_para_02": [
+  {
+   "id": "REF_TAYLOR_2004",
+   "pmid": "15260915",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_GILBODY_2007",
+   "pmid": "17568057",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_GAYSINA_2008",
+   "pmid": "18165972",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_ALMEIDA_2008",
+   "pmid": "18981340",
+   "sinais": [
+    "tag_desenho:[MA]"
+   ]
+  },
+  {
+   "id": "REF_APPLETON_2010",
+   "pmid": "20130098",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_LAI_2012",
+   "pmid": "21798601",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ANGLIN_2013",
+   "pmid": "23377209",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_SWARDFAGER_2013a",
+   "pmid": "23806573",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_WU_2013",
+   "pmid": "23831680",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_LOMAGNO_2014",
+   "pmid": "25405366",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ALMEIDA_2015",
+   "pmid": "25644193",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_CHEUNGPASITPORN_2015",
+   "pmid": "25827510",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_PETRIDOU_2016",
+   "pmid": "26055921",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_GALIZIA_2016",
+   "pmid": "27727432",
+   "sinais": [
+    "tag_desenho:[MA]"
+   ]
+  },
+  {
+   "id": "REF_BENDER_2017",
+   "pmid": "28759846",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_RAI_2017",
+   "pmid": "28968218",
+   "sinais": [
+    "tag_desenho:[MA]"
+   ]
+  },
+  {
+   "id": "REF_PHELAN_2018",
+   "pmid": "29897029",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_LASSALE_2019",
+   "pmid": "30254236",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_YOU_2018",
+   "pmid": "30444158",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_SU_2018",
+   "pmid": "30646157",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_LIAO_2019",
+   "pmid": "31383846",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_YOUNG_2019",
+   "pmid": "31527485",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_BLAMPIED_2020",
+   "pmid": "32178540",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_YOSAEE_2022",
+   "pmid": "32829928",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_JOHNSTONE_2020",
+   "pmid": "33158241",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_MARKUN_2021",
+   "pmid": "33809274",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_WU_2022",
+   "pmid": "33912967",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_MARUF_2022",
+   "pmid": "34794190",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_SAJJADI_2022",
+   "pmid": "35058530",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_JIN_2022",
+   "pmid": "35066009",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_BORGESVIEIRA_2023",
+   "pmid": "35156551",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_MIKOLA_2023",
+   "pmid": "35816192",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_WANG_2023",
+   "pmid": "36442656",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_MUSAZADEH_2023",
+   "pmid": "36509315",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_SRIFUENGFUNG_2023",
+   "pmid": "36716601",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_TSAI_2023",
+   "pmid": "37019362",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_MENG_2024",
+   "pmid": "38191692",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_MOABEDI_2023",
+   "pmid": "38213402",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_HAJHASHEMY_2025",
+   "pmid": "38812090",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_GAO_2024",
+   "pmid": "38873435",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_GHAEMI_2024",
+   "pmid": "39552387",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_WANG_2025",
+   "pmid": "40821024",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ECKERT_2025",
+   "pmid": "41189312",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_DAVARINEJAD_2026",
+   "pmid": "41263185",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_SORIANOGONZALEZ_2025",
+   "pmid": "41280388",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_MAGALHAES_2026",
+   "pmid": "41294251",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_GUPTA_2025",
+   "pmid": "41472978",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_FIRTH_SUPL_2017",
+   "pmid": "28202095",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_FIRTH_FEP_2018",
+   "pmid": "29206972",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_PLEVIN_2020",
+   "pmid": "32552785",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_NOGUEIRA_2023",
+   "pmid": "36411563",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ISLAM_2025",
+   "pmid": "41228551",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_YE_2025",
+   "pmid": "39952338",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_MOROIANU_2026",
+   "pmid": "42187879",
+   "sinais": [
+    "tag_desenho:[MA]",
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_TORTAJADA_2026",
+   "pmid": "42253799",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  }
+ ],
+ "ids_para_03": [
+  {
+   "id": "REF_COPPEN_2000",
+   "pmid": "10967371",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_PAPAKOSTAS_2012",
+   "pmid": "23212058",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_PAPAKOSTAS_2014",
+   "pmid": "24813065",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_DEOLIVEIRA_2015",
+   "pmid": "26353411",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_SHELTON_2015",
+   "pmid": "26613389",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_ZAJECKA_2016",
+   "pmid": "27035404",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_JACKA_2017",
+   "pmid": "28137247",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_RAJIZADEH_2017",
+   "pmid": "28241991",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_TARLETON_2017",
+   "pmid": "28654669",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_TONIOLO_2018",
+   "pmid": "29177955",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_PARLETTA_2019",
+   "pmid": "29215971",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_POUTEAU_2018",
+   "pmid": "30562392",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_OKEREKE_2020",
+   "pmid": "32749491",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_OKEREKE_2021",
+   "pmid": "34932079",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  }
+ ],
+ "conflitos_tag_x_titulo_REVISAVEL": [
+  {
+   "id": "REF_GAYSINA_2008",
+   "pmid": "18165972",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  },
+  {
+   "id": "REF_WU_2022",
+   "pmid": "33912967",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  },
+  {
+   "id": "REF_JIN_2022",
+   "pmid": "35066009",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  },
+  {
+   "id": "REF_DAVARINEJAD_2026",
+   "pmid": "41263185",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  }
+ ],
+ "REVISAVEL_tag_EC_amplo_sem_sinal_RCT_nao_migrado": [
+  {
+   "id": "REF_BOTTIGLIERI_2000",
+   "pmid": "10896698",
+   "desenho_estudo": "[EC] estudo humano transversal/caso-controle JNNP",
+   "titulo": "Homocysteine, folate, methylation, and monoamine metabolism in depression"
+  },
+  {
+   "id": "REF_JACKA_2010",
+   "pmid": "20048020",
+   "desenho_estudo": "[EC] estudo transversal Am J Psychiatry",
+   "titulo": "Association of Western and traditional diets with depression and anxiety in women"
+  },
+  {
+   "id": "REF_JOHNSON_2013",
+   "pmid": "23289525",
+   "desenho_estudo": "[EC] coorte transversal BMC Psychiatry — água/ambiental",
+   "titulo": "The impact of GPX1 on the association of groundwater selenium and depression: a Project FRONTIER study"
+  },
+  {
+   "id": "REF_RUCKLIDGE_2014",
+   "pmid": "24554519",
+   "desenho_estudo": "[EC] estudo pós-desastre Hum Psychopharmacol",
+   "titulo": "Psychological functioning 1 year after a brief intervention using micronutrients to treat stress and anxiety related to the 2011 Christchurc"
+  },
+  {
+   "id": "REF_TARLETON_2015",
+   "pmid": "25748766",
+   "desenho_estudo": "[EC] observacional JABFM",
+   "titulo": "Magnesium intake and depression in adults"
+  },
+  {
+   "id": "REF_RUCKLIDGE_2019",
+   "pmid": "31081672",
+   "desenho_estudo": "[EC] observacional J Altern Complement Med",
+   "titulo": "An Observational Preliminary Study on the Safety of Long-Term Consumption of Micronutrients for the Treatment of Psychiatric Symptoms"
+  },
+  {
+   "id": "REF_TARLETON_2019",
+   "pmid": "31261707",
+   "desenho_estudo": "[EC] coorte Nutrients — soro",
+   "titulo": "The Association between Serum Magnesium Levels and Depression in an Adult Primary Care Population"
+  },
+  {
+   "id": "REF_MENG_2019",
+   "pmid": "31518429",
+   "desenho_estudo": "[EC] MR fenômico Int J Epidemiol",
+   "titulo": "Phenome-wide Mendelian-randomization study of genetically determined vitamin D on multiple health outcomes using the UK Biobank study"
+  },
+  {
+   "id": "REF_ARATHIMOS_2021",
+   "pmid": "34737282",
+   "desenho_estudo": "[EC] MR Transl Psychiatry",
+   "titulo": "Vitamin D and the risk of treatment-resistant and atypical depression: A Mendelian randomization study"
+  },
+  {
+   "id": "REF_NGUYEN_2022",
+   "pmid": "34986378",
+   "desenho_estudo": "[EC] modelagem de misturas NHANES J Affect Disord",
+   "titulo": "Mixtures modeling identifies vitamin B1 and B3 intakes associated with depression"
+  },
+  {
+   "id": "REF_XU_2024",
+   "pmid": "38367708",
+   "desenho_estudo": "[EC] estudo nacional transversal J Affect Disord",
+   "titulo": "Association between thiamine intake and depression: A national cross-sectional study"
+  },
+  {
+   "id": "REF_BASSETT_2024",
+   "pmid": "38965219",
+   "desenho_estudo": "[EC] MR linear/não-linear Transl Psychiatry",
+   "titulo": "Vitamin D, chronic pain, and depression: linear and non-linear Mendelian randomization analyses"
+  },
+  {
+   "id": "REF_SLIWINSKI_2024",
+   "pmid": "38992845",
+   "desenho_estudo": "[EC/OB] estudo de metabólitos B circulantes J Affect? Behav Brain Res",
+   "titulo": "Circulating B vitamins metabolites in depressive disorders - connections with the microbiota-gut-brain axis"
+  },
+  {
+   "id": "REF_CARNEGIE_2024",
+   "pmid": "39519523",
+   "desenho_estudo": "[EC] Mendelian randomization Nutrients — PGC 116.209 casos",
+   "titulo": "Micronutrients and Major Depression: A Mendelian Randomisation Study"
+  },
+  {
+   "id": "REF_FANG_2025",
+   "pmid": "41211168",
+   "desenho_estudo": "[EC] MR + colocalização Food Sci Nutr — ansiedade",
+   "titulo": "Causal Influences of Micronutrients on Anxiety: Insights From an Observational and Mendelian Randomization Analysis"
+  },
+  {
+   "id": "REF_MOORE_2019",
+   "pmid": "30692033",
+   "desenho_estudo": "[EC] coorte transversal (TUDA) · The journal of nutrition, health & aging",
+   "titulo": "B-vitamins in Relation to Depression in Older Adults Over 60 Years of Age: The Trinity Ulster Department of Agriculture (TUDA) Cohort Study."
+  },
+  {
+   "id": "REF_BADAR_2022",
+   "pmid": "35223256",
+   "desenho_estudo": "[EC] relato de caso · The journal of nutrition, health & aging",
+   "titulo": "Neuropsychiatric Disorders Associated With Vitamin B12 Deficiency: An Autobiographical Case Report."
+  },
+  {
+   "id": "REF_FERRIANI_2022",
+   "pmid": "34695501",
+   "desenho_estudo": "[EC] coorte transversal (ELSA-Brasil) · The journal of nutrition, health & aging",
+   "titulo": "Associations of depression and intake of antioxidants and vitamin B complex: Results of the Brazilian Longitudinal Study of Adult Health (EL"
+  },
+  {
+   "id": "REF_ALJASSEM_2024",
+   "pmid": "38630748",
+   "desenho_estudo": "[EC] estudo transversal · The journal of nutrition, health & aging",
+   "titulo": "Vitamin B12 deficiency and neuropsychiatric symptoms in Lebanon: A cross-sectional study of vegans, vegetarians, and omnivores."
+  },
+  {
+   "id": "REF_HUI_2024",
+   "pmid": "38999789",
+   "desenho_estudo": "[EC] revisão sistemática de associações genéticas (SNP)/MR · The journal of nutrition, health & aging",
+   "titulo": "Micronutrient-Associated Single Nucleotide Polymorphism and Mental Health: A Mendelian Randomization Study."
+  },
+  {
+   "id": "REF_RAJASEKAR_2024",
+   "pmid": "38605872",
+   "desenho_estudo": "[EC] estudo observacional · The journal of nutrition, health & aging",
+   "titulo": "Dietary intake with supplementation of vitamin D, vitamin B6, and magnesium on depressive symptoms: a public health perspective."
+  },
+  {
+   "id": "REF_ANMELLA_2025",
+   "pmid": "40100400",
+   "desenho_estudo": "[EC] série clínica transversal (N=729 internados jovens) · The journal of nutrition, health & aging",
+   "titulo": "Association of low vitamin B12 levels with depressive and schizophrenia spectrum disorders in child and adolescent psychiatric inpatients."
+  },
+  {
+   "id": "REF_DOMANSKI_2025",
+   "pmid": "40289952",
+   "desenho_estudo": "[EC] estudo clínico observacional · The journal of nutrition, health & aging",
+   "titulo": "Hematological Correlations as Predictors of Disease Manifestations in Psychiatric Inpatients."
+  },
+  {
+   "id": "REF_FAUGERE_2025",
+   "pmid": "40218925",
+   "desenho_estudo": "[EC] estudo clínico transversal · The journal of nutrition, health & aging",
+   "titulo": "Vitamin D, B9, and B12 Deficiencies as Key Drivers of Clinical Severity and Metabolic Comorbidities in Major Psychiatric Disorders."
+  },
+  {
+   "id": "REF_HORSDAL_2025",
+   "pmid": "40379361",
+   "desenho_estudo": "[EC] caso-coorte de base populacional (iPSYCH2012) · The journal of nutrition, health & aging",
+   "titulo": "Convergent evidence linking neonatal vitamin D status and risk of neurodevelopmental disorders: a Danish case-cohort study."
+  },
+  {
+   "id": "REF_KOHL_2025",
+   "pmid": "41515142",
+   "desenho_estudo": "[EC] estudo transversal (mulheres) · The journal of nutrition, health & aging",
+   "titulo": "Common Mental Disorders and Vitamin D Deficiency/Insufficiency: A Cross-Sectional Study Among Female Workers in Southern Brazil."
+  },
+  {
+   "id": "REF_LU_2025",
+   "pmid": "40739033",
+   "desenho_estudo": "[EC] randomização mendeliana · The journal of nutrition, health & aging",
+   "titulo": "Estimating effects of serum vitamin B12 levels on psychiatric disorders and cognitive impairment: a Mendelian randomization study."
+  },
+  {
+   "id": "REF_RADOEVA_2025",
+   "pmid": "40329546",
+   "desenho_estudo": "[EC] estudo observacional (coorte ABCD) · The journal of nutrition, health & aging",
+   "titulo": "Estimated Nutrient Intake and Association With Psychiatric and Sleep Problems in Autistic Youth in the Adolescent Brain Cognitive Developmen"
+  },
+  {
+   "id": "REF_RAJEN_2025",
+   "pmid": "39829265",
+   "desenho_estudo": "[EC] amostra clínica transversal · The journal of nutrition, health & aging",
+   "titulo": "Impaired folate status in patients with mental disorders."
+  },
+  {
+   "id": "REF_SHAHINI_2026",
+   "pmid": "42144425",
+   "desenho_estudo": "[EC] estudo caso-controle · The journal of nutrition, health & aging",
+   "titulo": "Micronutrient-immune interactions in mood and psychotic disorders: a case-control study of vitamin C, iron, zinc, magnesium, and peripheral "
+  }
+ ],
+ "divida_nomeada": "forca_evidencia_afirmacao vazio quando a ficha não trazia (schema 09.2 exige; preenchimento exige avaliação — não fabricar)"
+}

@@ -1,0 +1,478 @@
+{
+ "acao": "09_distribuicao_MA_EC_MODULO09",
+ "data": "2026-09-11",
+ "biblioteca": "B13_SistemaEndocanabinoide",
+ "lei": "PROMPT_v4.2 instrução final: [MA]->02, [EC]->03; id único global (validar_auditoria.py)",
+ "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+ "contagens": {
+  "ficam_01": 183,
+  "vao_02_MA": 15,
+  "vao_03_EC": 9,
+  "conflitos": 4,
+  "tag_EC_amplo_nao_migrado": 41
+ },
+ "ids_para_02": [
+  {
+   "id": "REF_YASEEN_2026",
+   "pmid": "42431383",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_WILSON_2026",
+   "pmid": "41856154",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_GOBBI_2019",
+   "pmid": "30758486",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_GOODWIN_2026",
+   "pmid": "42242480",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_KWEE_2023",
+   "pmid": "37094409",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_JANTSCH_2026",
+   "pmid": "42380607",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_FUENTES_2024",
+   "pmid": "39118031",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_GOWATCH_2024",
+   "pmid": "38683635",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_COELHO_2024",
+   "pmid": "39598172",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_CHURCHILL_2025",
+   "pmid": "39936870",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_XUE_2021",
+   "pmid": "32909828",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_BURKE_2024",
+   "pmid": "39620474",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_LOWE_2024",
+   "pmid": "38285048",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_SORKHOU_2024",
+   "pmid": "38655516",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_MCWHIRTER_2024",
+   "pmid": "38886733",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  }
+ ],
+ "ids_para_03": [
+  {
+   "id": "REF_DIFEDE_2022",
+   "pmid": "35896533",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_MAYO_2025",
+   "pmid": "40382500",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_SCHMIDT_2026",
+   "pmid": "41616640",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_TANSEY_2026",
+   "pmid": "41651806",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_RABINAK_2026",
+   "pmid": "41270825",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_GUNDUGURTI_2024",
+   "pmid": "38797087",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_NAYAK_2024",
+   "pmid": "39680411",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_GHAZIZADEHHASHEMI_2018",
+   "pmid": "29486338",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  },
+  {
+   "id": "REF_SCHMIDT_2021",
+   "pmid": "33070154",
+   "sinais": [
+    "tag_desenho:[EC]",
+    "desenho_rct:titulo"
+   ]
+  }
+ ],
+ "conflitos_tag_x_titulo_REVISAVEL": [
+  {
+   "id": "REF_GOBBI_2019",
+   "pmid": "30758486",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  },
+  {
+   "id": "REF_FUENTES_2024",
+   "pmid": "39118031",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  },
+  {
+   "id": "REF_COELHO_2024",
+   "pmid": "39598172",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  },
+  {
+   "id": "REF_SORKHOU_2024",
+   "pmid": "38655516",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  }
+ ],
+ "REVISAVEL_tag_EC_amplo_sem_sinal_RCT_nao_migrado": [
+  {
+   "id": "REF_DEVANE_1992",
+   "pmid": "1470919",
+   "desenho_estudo": "[EC]",
+   "titulo": "Isolation and structure of a brain constituent that binds to the cannabinoid receptor"
+  },
+  {
+   "id": "REF_STELLA_1997",
+   "pmid": "9285589",
+   "desenho_estudo": "[EC]",
+   "titulo": "A second endogenous cannabinoid that modulates long-term potentiation"
+  },
+  {
+   "id": "REF_HILL_2008",
+   "pmid": "18311684",
+   "desenho_estudo": "[EC]",
+   "titulo": "Serum endocannabinoid content is altered in females with depressive disorders: a preliminary report"
+  },
+  {
+   "id": "REF_FITZGERALD_2021",
+   "pmid": "33614866",
+   "desenho_estudo": "[EC]",
+   "titulo": "Circulating endocannabinoids and prospective risk for depression in trauma-injury survivors"
+  },
+  {
+   "id": "REF_SPOHRS_2021",
+   "pmid": "33723207",
+   "desenho_estudo": "[EC]",
+   "titulo": "Fear extinction learning and anandamide: an fMRI study in healthy humans"
+  },
+  {
+   "id": "REF_CROMBIE_2022",
+   "pmid": "34952353",
+   "desenho_estudo": "[EC]",
+   "titulo": "The influence of FAAH genetic variation on physiological, cognitive, and neural signatures of fear acquisition and extinction learning in wo"
+  },
+  {
+   "id": "REF_NEY_2021",
+   "pmid": "34151472",
+   "desenho_estudo": "[EC]",
+   "titulo": "Cannabinoid polymorphisms interact with plasma endocannabinoid levels to predict fear extinction learning"
+  },
+  {
+   "id": "REF_ZABIK_2022",
+   "pmid": "34051704",
+   "desenho_estudo": "[EC]",
+   "titulo": "A common genetic variant in fatty acid amide hydrolase is linked to alterations in fear extinction neural circuitry in a racially diverse, n"
+  },
+  {
+   "id": "REF_ALBERTINA_2025",
+   "pmid": "41016700",
+   "desenho_estudo": "[EC]",
+   "titulo": "Endocannabinoids Mediate Racial/Ethnic Discrimination Prediction of Posttraumatic Stress Disorder Symptoms Moderated by Resting-State Functi"
+  },
+  {
+   "id": "REF_ALBERTINA_2026",
+   "pmid": "40643612",
+   "desenho_estudo": "[EC]",
+   "titulo": "Relationships among peri-traumatic circulating endocannabinoids and long-term, negative outcomes following traumatic injury"
+  },
+  {
+   "id": "REF_MARUSAK_2026",
+   "pmid": "39547971",
+   "desenho_estudo": "[EC]",
+   "titulo": "Endocannabinoid dysregulation and PTSD in urban adolescents: Associations with anandamide concentrations and FAAH genotype"
+  },
+  {
+   "id": "REF_BERGUNDE_2025",
+   "pmid": "40849292",
+   "desenho_estudo": "[EC]",
+   "titulo": "Endocannabinoid and N-acylethanolamine concentrations in hair of female patients with posttraumatic stress disorder - associations with clin"
+  },
+  {
+   "id": "REF_BERGUNDE_2026",
+   "pmid": "41720284",
+   "desenho_estudo": "[EC]",
+   "titulo": "Associations between hair endocannabinoid concentrations and parental depressive symptoms: A longitudinal study of mothers, fathers, and the"
+  },
+  {
+   "id": "REF_SPOHRS_2023",
+   "pmid": "38139281",
+   "desenho_estudo": "[EC]",
+   "titulo": "Plasma Endocannabinoid Levels in Patients with Borderline Personality Disorder and Healthy Controls"
+  },
+  {
+   "id": "REF_MITJANS_2013",
+   "pmid": "23407780",
+   "desenho_estudo": "[EC]",
+   "titulo": "Screening genetic variability at the CNR1 gene in both major depression etiology and clinical response to citalopram treatment"
+  },
+  {
+   "id": "REF_MITJANS_2012",
+   "pmid": "22826533",
+   "desenho_estudo": "[EC]",
+   "titulo": "Genetic variability in the endocannabinoid system and 12-week clinical response to citalopram treatment: the role of the CNR1, CNR2 and FAAH"
+  },
+  {
+   "id": "REF_PALMER_2019",
+   "pmid": "31184938",
+   "desenho_estudo": "[EC]",
+   "titulo": "CNR1 and FAAH variation and affective states induced by marijuana smoking"
+  },
+  {
+   "id": "REF_SISK_2022",
+   "pmid": "34496065",
+   "desenho_estudo": "[EC]",
+   "titulo": "Genetic variation in endocannabinoid signaling is associated with differential network-level functional connectivity in youth"
+  },
+  {
+   "id": "REF_BERGAMASCHI_2011",
+   "pmid": "21307846",
+   "desenho_estudo": "[EC]",
+   "titulo": "Cannabidiol reduces the anxiety induced by simulated public speaking in treatment-naïve social phobia patients"
+  },
+  {
+   "id": "REF_HU_2026",
+   "pmid": "41762897",
+   "desenho_estudo": "[EC]",
+   "titulo": "Critical considerations on the trial of FAAH inhibitor JNJ-42165279 in major depressive disorder with anxious distress"
+  },
+  {
+   "id": "REF_MATSUDA_1990",
+   "pmid": "2165569",
+   "desenho_estudo": "[EC]",
+   "titulo": "Structure of a cannabinoid receptor and functional expression of the cloned cDNA"
+  },
+  {
+   "id": "REF_RUSSO_2004",
+   "pmid": "15159679",
+   "desenho_estudo": "[EC]",
+   "titulo": "Clinical endocannabinoid deficiency (CECD): can this concept explain therapeutic benefits of cannabis in migraine, fibromyalgia, irritable b"
+  },
+  {
+   "id": "REF_BOILEAU_2015",
+   "pmid": "26036940",
+   "desenho_estudo": "[EC]",
+   "titulo": "The fatty acid amide hydrolase C385A variant affects brain binding of the positron emission tomography tracer [11C]CURB"
+  },
+  {
+   "id": "REF_CONZELMANN_2012",
+   "pmid": "22776995",
+   "desenho_estudo": "[EC]",
+   "titulo": "A polymorphism in the gene of the endocannabinoid-degrading enzyme FAAH (FAAH C385A) is associated with emotional-motivational reactivity"
+  },
+  {
+   "id": "REF_SPAGNOLO_2016",
+   "pmid": "27716956",
+   "desenho_estudo": "[EC]",
+   "titulo": "FAAH Gene Variation Moderates Stress Response and Symptom Severity in Patients with Posttraumatic Stress Disorder and Comorbid Alcohol Depen"
+  },
+  {
+   "id": "REF_NEUMEISTER_2013",
+   "pmid": "23670490",
+   "desenho_estudo": "[EC]",
+   "titulo": "Elevated brain cannabinoid CB1 receptor availability in post-traumatic stress disorder: a positron emission tomography study"
+  },
+  {
+   "id": "REF_KOREM_2025",
+   "pmid": "40846835",
+   "desenho_estudo": "[EC]",
+   "titulo": "Cannabinoid 1 receptor availability in posttraumatic stress disorder: A positron emission tomography study"
+  },
+  {
+   "id": "REF_KERBRAT_2016",
+   "pmid": "27806235",
+   "desenho_estudo": "[EC]",
+   "titulo": "Acute Neurologic Disorder from an Inhibitor of Fatty Acid Amide Hydrolase"
+  },
+  {
+   "id": "REF_MALLET_2016",
+   "pmid": "27191771",
+   "desenho_estudo": "[EC]",
+   "titulo": "FAAH inhibitors in the limelight, but regrettably"
+  },
+  {
+   "id": "REF_VAN_2017",
+   "pmid": "28596366",
+   "desenho_estudo": "[EC]",
+   "titulo": "Activity-based protein profiling reveals off-target proteins of the FAAH inhibitor BIA 10-2474"
+  },
+  {
+   "id": "REF_RAJASEKERA_2025",
+   "pmid": "40967565",
+   "desenho_estudo": "[EC]",
+   "titulo": "Sex differences in endocannabinoid and inflammatory markers associated with posttraumatic stress disorder"
+  },
+  {
+   "id": "REF_MINICHINO_2021",
+   "pmid": "34002020",
+   "desenho_estudo": "[EC]",
+   "titulo": "Endocannabinoid system mediates the association between gut-microbial diversity and anhedonia/amotivation in a general population cohort"
+  },
+  {
+   "id": "REF_MARUSAK_2025",
+   "pmid": "40579470",
+   "desenho_estudo": "[EC]",
+   "titulo": "Circulating endocannabinoids in children and adolescents: associations with anxiety and the impact of selective serotonin reuptake inhibitor"
+  },
+  {
+   "id": "REF_ALCARAZSILVA_2023",
+   "pmid": "35382720",
+   "desenho_estudo": "[EC]",
+   "titulo": "The Endocannabinoid System as a Biomarker for Diagnostic and Therapeutic Applications in Depression and Anxiety"
+  },
+  {
+   "id": "REF_COCCARO_2018",
+   "pmid": "29627714",
+   "desenho_estudo": "[EC]",
+   "titulo": "Circulating endocannabinoids and affect regulation in human subjects"
+  },
+  {
+   "id": "REF_MEYER_2019",
+   "pmid": "30973483",
+   "desenho_estudo": "[EC] estudo experimental humano (exercício) · Med Sci Sports Exerc",
+   "titulo": "Serum Endocannabinoid and Mood Changes after Exercise in Major Depressive Disorder."
+  },
+  {
+   "id": "REF_SPOHRS_2022",
+   "pmid": "34893921",
+   "desenho_estudo": "[EC] estudo fMRI humano (genética) · Eur Arch Psychiatry Clin Neurosci",
+   "titulo": "FAAH polymorphism (rs324420) modulates extinction recall in healthy humans: an fMRI study."
+  },
+  {
+   "id": "REF_OBERMANNS_2023",
+   "pmid": "37984468",
+   "desenho_estudo": "[EC] estudo genético humano · Brain Behav",
+   "titulo": "Genetic variation of the 5-HT1A rs6295, 5-HT2A rs6311, and CNR1 rs1049353 and an altered endocannabinoid system in depressed patients."
+  },
+  {
+   "id": "REF_WANG_2025",
+   "pmid": "41013856",
+   "desenho_estudo": "[EC] estudo humano com validação experimental · Hereditas",
+   "titulo": "Identification and experimental validation of biomarkers associated with the endocannabinoid system in major depressive disorder."
+  },
+  {
+   "id": "REF_HEYMAN_2012",
+   "pmid": "22029953",
+   "desenho_estudo": "[EC] estudo experimental humano (exercício) · Psychoneuroendocrinology",
+   "titulo": "Intense exercise increases circulating endocannabinoid and BDNF levels in humans--possible implications for reward and depression."
+  },
+  {
+   "id": "REF_ZABIK_2023",
+   "pmid": "37088409",
+   "desenho_estudo": "[EC] estudo experimental humano (THC×fMRI) · Neurobiol Learn Mem",
+   "titulo": "Cannabinoid modulation of corticolimbic activation during extinction learning and fear renewal in adults with posttraumatic stress disorder."
+  }
+ ],
+ "divida_nomeada": "forca_evidencia_afirmacao vazio quando a ficha não trazia (schema 09.2 exige; preenchimento exige avaliação — não fabricar)"
+}

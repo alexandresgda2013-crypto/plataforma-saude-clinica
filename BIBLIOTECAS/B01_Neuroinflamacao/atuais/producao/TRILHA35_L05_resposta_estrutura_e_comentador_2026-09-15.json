@@ -1,0 +1,41 @@
+{
+  "trilha": 35,
+  "data": "2026-09-15",
+  "tema": "Resposta do auditor de estrutura (minuta v1.1 com errata §4B) + 4 pontos do comentador externo — réplica ponto a ponto (casa nunca aceita sem medir)",
+  "alvos": {
+    "minuta_nova": "sha256 1595011e0f4e1667f0ec01b12e3e5091ba958134495d89b15b814fe471ced5d6 (recebida como '...v1.0_PROPOSTA (1).md')",
+    "minuta_anterior": "sha256 97af2ecba12d4616500e3f6f47823853dd44bb4ea14a3810ddbf64163fa72f6d (agora SUPERSEDED_ na pasta)",
+    "schemas_v11": {"vinculo": "uploads/schema_vinculo_v1.json", "referencia": "uploads/schema_referencia_v1.json"},
+    "acervo": "B1 V7 sha 6e2c2979… (237 fichas · 274 vínculos)"
+  },
+  "medidas": {
+    "M0_diff_minutas": "cmp + diff: DIFEREM só na linha 260 (§4B verification_status inválido: 1 → 0, com crédito à errata T25 da casa). Todo o resto byte-idêntico.",
+    "M1_ponto1_refuta": {
+      "cmd": "grep -n 'refuta' na minuta nova + verificação do corpo §3",
+      "resultado": "CONFIRMADO: L180 (linha do enum de papel) e L183 (justificativa) ainda contêm refuta; CHANGELOG R7 (L18) declara a saída; 'direcao' não ocorre no corpo (só no CHANGELOG). ADIÇÃO DA CASA (M1b): 'principal' booleano também continua no corpo (L168 exemplo, L195 regra 3, L199) — R1 tampouco foi propagado à prosa. Schemas JSON v1.1 já corretos nos dois pontos (papel 5 sem refuta; direcao 4 valores; ancora_principal presente) → defeito é só de prosa da minuta."
+    },
+    "M2_ponto2_integridade": {
+      "cmd": "inspeção dos schemas: ancora_principal presente; uniqueItems ausente; draft-07 não exprime integridade cruzada campo×lista",
+      "resultado": "CONFIRMADO: (a) ancora_principal ∈ ancoras[].id_oficial e (b) sem duplicidade de id_oficial em ancoras[] NÃO são exprimíveis no schema em uso; uniqueItems não resolve pares (id_oficial,papel). Colocação: portão (simétrico à solução §8/R3 do próprio auditor)."
+    },
+    "M3_rodape_4B": {
+      "cmd": "python: Counter(verification_status) nos 274 vínculos × enum do schema v1.1",
+      "resultado": "verificado 140 · preclinico 63 · extrapolado 62 · pendente 7 · pendente_fulltext 1 · emergente 1 — todos dentro do enum → ZERO inválidos. A errata do auditor replica VERDADE."
+    },
+    "M4_ponto3_human_clinical": {
+      "cmd": "python: regex (?i)(random|ensaio|trial|duplo|double|placebo|crossover|cross-over|interven|controlled|cego|blind); escopo: campo desenho_estudo das fichas evid_role=human_clinical (66); chave: substring no valor literal",
+      "resultado": "0/66 fichas human_clinical com marcador intervencional no desenho; human_experimental (6) = CAPURON_2002, CAPURON_2002b, FELGER_2016, SU_2018, XIA_2024 (EC humano RCT), WITTENBERG_2020 (MA de RCT) — todas intervencionais de fato. Veredito: no dado de HOJE o mapeamento human_clinical→humana_observacional é seguro; a regra do comentador é adotada como GARANTIA com guarda determinística (mesma regex como verificação na migração; quem morder vai para fila de leitura — regime das 30 review/Decisão 2)."
+    },
+    "M5_ponto4_status_auditoria": {
+      "cmd": "enums do campo nos dois schemas",
+      "resultado": "N1 (referência): ['','VALIDADO_G3_IA','VALIDADO_G3_AVALIADOR','NAO_VALIDADO','REJEITADO'] = estado do processo · N2 (vínculo): ['CONFIRMADO','PARCIALMENTE_CONFIRMADO','NAO_LOCALIZADO','CITACAO_INCORRETA','NAO_SUSTENTA_CLAIM'] = veredito de suporte. CONFIRMADO — coincide com a Decisão 5 do próprio documento."
+    }
+  },
+  "estado_das_4_linhas_da_carta3": "(iv) rodapé §4B — ENCERRADO pela errata verificada · (i) papel da âncora principal nos 20 redirecionados — pendente · (ii) triagem direcao (sustenta↔CONFIRMADO/PARCIALMENTE_CONFIRMADO → 273; exceção VINC_B1_0047) — pendente · (iii) colisão de nomes (direcao × direcao_suporte, dívida D-L05-NOMES-DIRECAO) — pendente",
+  "registros_extra": {
+    "ponteiro_morto": "'Estudos que não foram escolhidos.md' (17+ PMIDs) NÃO encontrado pelo operador → declarado ponteiro morto nomeado; fica para a ressincronização do Bloco de Estado; a classe já é coberta por fontes_rejeitadas + resultados_nao_triados.",
+    "frente_claims": "PAUSADA por decisão do operador (2026-09-15). Portões da rodada 18 e a oferta do validador Schema-Claim ficam abertas, sem custo."
+  },
+  "ciencia_tocada": false,
+  "saida": "RESPOSTA_4_AUDITOR_ESTRUTURA_L05_4PONTOS_COMENTADOR_2026-09-15.md · decisoes rev.23 · CHANGELOG 19 · STATUS 19"
+}

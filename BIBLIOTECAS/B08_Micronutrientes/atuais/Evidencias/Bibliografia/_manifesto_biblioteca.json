@@ -1,0 +1,142 @@
+{
+ "artefato_rotulo": "CANONICA v2",
+ "mecanismo_id": "mecanismo_B8_deficiencias_micronutrientes",
+ "rodada": 4,
+ "data_corte": "2026-09-09",
+ "prompt": "v4.2",
+ "pmids_total": 145,
+ "g1": {
+  "metodo": "eutils_automatico (esearch+esummary+efetch)",
+  "resolvidos": 145,
+  "nao_resolvidos": 0,
+  "descartados_auditoria": [
+   "28137334 (carta de infecção; SMILES é 28137247)",
+   "IJITSS/IJISRT PDFs cinzentos não indexados",
+   "rodada [AT] GPM 2026-09-09: 9 NÃO-INDEXADOS confirmados fora (Barakat; Chambers; Fedulova; Jayashree; Júnior; Kim; Lubis; Medford; Wróblewska) + 12 EXC por malha de escopo (autismo ×5, neurodegeneração ×2, anorexia, epilepsia, delirium, botânica, demência/AVC) — sem fonte forjada; 7 erros factuais do briefing externo revertidos (ver decisoes_B8.md)"
+  ]
+ },
+ "g2": {
+  "eligible": 141,
+  "redirecionado_mecanistico": 3,
+  "redirecionado_clinico": 1,
+  "evid_role": {
+   "human_clinical": 83,
+   "preclinical_mechanistic": 2,
+   "review": 44,
+   "human_experimental": 16
+  }
+ },
+ "g3": {
+  "vinculos_n2": 83,
+  "CONFIRMADO": 75,
+  "PARCIALMENTE_CONFIRMADO": 8,
+  "abstracts_lidos_alto_risco": 60,
+  "achado_nao_obvio": "abismo alimento×pílula: dieta (SMILES d=−1,16) forte; pílula isolada em não-deficiente nula nos grandes RCTs (VITAL D3/ômega-3; B12)"
+ },
+ "vinculos_n2": 83,
+ "palavras_canonica": 10007,
+ "blocos": "BLOCO_00..BLOCO_12 (13) + tabela/controvérsias/elementos/marcadores",
+ "pendencias_fase": [
+  "P-6: 2a verificação independente (avaliador cego) dos claims de alto risco (VITAL, MR Carnegie/Hui/Lu/Ye, metas D/Mg/Se, Moroianu, Horsdal) — AMPLIADA na rodada [AT] 2026-09-09: incluir as levas [AT] de TODAS as bibliotecas B1–B16 ao fim da rodada (16/16)"
+ ],
+ "fronteiras_editoriais": {
+  "B8_fica_com": "cofatores/estado nutricional/padrão dietético (vitaminas/minerais)",
+  "B7": "dieta é o insumo da microbiota (B8 = nutriente; B7 = eixo processador)",
+  "B6": "química redox (B8 aporta Zn/Se/Cu/Mg/C/E); curva em U/Fenton é B6",
+  "B9": "maquinaria ETC/ATP (B8 aporta B1/B2/B3/CoQ10/Mg/creatina)",
+  "B4": "síntese/sinapse monoaminérgica (B8 aporta ferro/BH4/B6/AADC)",
+  "B5": "NMDA/GABA sináptico (Zn/Mg são moduladores endógenos)",
+  "B1": "neuroinflamação (VDR/ômega-3/Zn-Se modulam citocinas)",
+  "B2": "HPA (Mg-CRH/ACTH)",
+  "B3": "BDNF/plasticidade",
+  "ômega-3": "lipídio essencial, referência cruzada (não micronutriente)"
+ },
+ "versao": "2.6",
+ "pipeline_versao_geracao": "2.6",
+ "corte_literatura": "busca ativa com ferramenta externa E-utilities/PubMed; corte 2026-09-09",
+ "historico_correcoes": [
+  {
+   "data": "2026-09",
+   "campo": "estrutura_auditoria",
+   "erro_anterior": "biblioteca sem ledger formal do 05_framework_auditoria e Módulo 09 sem schema oficial (id_referencia_interna/doi/claim_id_origem)",
+   "correcao": "adicionados Módulo 09 (5 arquivos), Auditoria_Bx/ledger + decisoes; validador 0 erro",
+   "acao_downstream": "nenhuma — aditivo"
+  },
+  {
+   "data": "2026-09",
+   "campo": "contrato_P_R",
+   "erro_anterior": "faltavam bloco natureza_sistema (P12), semantic_layer (R06), sinalizador [EXTRAPOLAÇÃO POR ANALOGIA] formato completo (R04) e referência cruzada a B16 (P16)",
+   "correcao": "blocos inseridos na canônica; doses residuais removidas (P20)",
+   "acao_downstream": "pré-cânonica sincronizada"
+  },
+  {
+   "data": "2026-09-06",
+   "campo": "GPM B8 v2",
+   "correcao": "confrontação com GPM estrutural corrigido; âncoras novas validadas por eutils, falsos positivos sinalizados P-6",
+   "acao_downstream": "apêndice/ledger/vinc regenerados"
+  },
+  {
+   "data": "2026-09-09",
+   "campo": "rodada_AT_GPM_B8",
+   "erro_anterior": "V1 (96 refs) sem a leva auditada do insumo externo GPM B8 (anexo 106 refs reais — o briefing dizia \"98\")",
+   "correcao": "auditoria ref a ref (G1 eutils 96/105 DOIs + Bourre sem DOI resgatado por busca dirigida; 0 falso positivo; 9 não-indexados confirmados; 6 sobreposições com a V1); matriz de decisão 49 ENTRA/30 BAIXO/12 EXC; 7 erros factuais do briefing revertidos (Mattei≠McWilliams; Yoon; Dehesh; Cortés-Albornoz; Das; Bourre NAO-IDX refutado; Wang 2018 já vigente); fusão V2 com 145 refs; regras B8-CAUSAL-01..10 fixadas em CONTROVÉRSIAS; blocos NEG (vit C — Plevin; vit D — Moroianu); Horsdal 2025 nulo para TDM; tríade sincronizada (pmids 145, vínculos 83, ledger 87)",
+   "acao_downstream": "portões oficiais revalidados (gate P-5, framework auditoria, checklist); P-4 adendo V2; P-6 mantido pendente"
+  }
+ ],
+ "vocabulario_estendido_declarado": {
+  "data_declaracao": "2026-09-10",
+  "status": "SUPERADO 2026-09-11 — implementado via D5 (AT-12): tier oficial + desenho_evidencia; ver HARMONIZA-CONTRATO-2026-09-11 em alteracoes[]",
+  "o_que": "valores de forca_causal fora do enum oficial de 4 tiers, em uso nesta biblioteca",
+  "valores": {
+   "tier_2_intervencao_humana": 7,
+   "tier_2_meta_analise": 16,
+   "tier_3_mecanistico_animal": 2,
+   "tier_4_observacional_transversal": 19,
+   "tier_2_revisao_sistematica": 5
+  },
+  "por_que_declarado": "regra E1 (enum por artefato declarado) + inventário negativo E4: os dados existem e têm semântica coerente (desenho da evidência), mas não constam do enum oficial; perícia 4ª rodada (AT-11) expôs a família fantasma *_intervencao na B1 e o gate",
+  "decisao_pendente": "SCHEMA v2: formalizar 'desenho da evidência' como qualificador ortogonal a forca_causal (proposta do agente na RESPOSTA_PERICIA_RODADA4_2026-09-10.md) OU remapear ao enum oficial com revisão por conteúdo — NÃO remapear em silêncio",
+  "harmonizacao_enfileirada_em": "AT-03 (B7) / AT-04 (B8) + AT-09 (SCHEMA v2)",
+  "superado_em": "2026-09-11"
+ },
+ "alteracoes": [
+  {
+   "data": "2026-09-10",
+   "id": "DECL-E1-ENUM-ESTENDIDO",
+   "tipo": "declaracao_vocabulario",
+   "o_que": "declarado vocabulario_estendido_declarado com 49 registros em 5 valores fora do enum oficial",
+   "por_que": "perícia 4ª rodada ampliada pelo agente: família *_intervencao não era 3 registros na B1 — são 106 nestas duas bibliotecas; E1 exigia declaração",
+   "evidencia": "censo 2026-09-10 em RESPOSTA_PERICIA_RODADA4_2026-09-10.md §3"
+  },
+  {
+   "data": "2026-09-11",
+   "id": "HARMONIZA-CONTRATO-2026-09-11",
+   "tipo": "harmonizacao_vocabulario_contrato",
+   "o_que": "AT-04: 49 assinaturas G3 (D8); 16 natureza (D3); 53 grau (D4); AT-12: 49 forca decompostas (D5) — E1 superada; 3 âncoras; 6 → fila humana.",
+   "base": "DECISOES_HARMONIZACAO_SCHEMA_2026-09-11.md (D1–D9); trilhas producao/06_harmoniza_* e 07_ancoras_*; backups .bak datados; portões verdes"
+  },
+  {
+   "id": "DISTRIBUICAO-MOD09-MA-EC-2026-09-11",
+   "data": "2026-09-11",
+   "tipo": "metadado/reorganizacao_modulo_09 — CIENCIA NAO TOCADA (0 linhas de canônica)",
+   "lei_aplicada": "PROMPT v4.2 instrução final de geração: [MA]->02_meta_analises.json, [EC]->03_ensaios_clinicos.json; id único global (validar_auditoria.py) — distribuição especificada desde a geração, executada nesta data",
+   "mudancas": {
+    "fichas_removidas_de_01": 69,
+    "fichas_para_02_meta_analises": 55,
+    "fichas_para_03_ensaios_clinicos": 14,
+    "fichas_restantes_em_01": 76
+   },
+   "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+   "campos_de_dado_alterados": "NENHUM (id, pmid, título, achados intactos); somente casa do registro + campos de schema 09.2 (bloco_origem derivado de secao quando ausente, marcado; forca_evidencia_afirmacao replicado ou '' — vazio = dívida nomeada, nunca fabricado) + sinais_classificacao + migrado_em",
+   "dividas_nomeadas": [
+    "forca_evidencia_afirmacao vazio nas migradas sem valor prévio",
+    "conflitos tag×título [REVISAVEL]: 4",
+    "tag [EC] amplo sem sinal RCT — NÃO migrados (09.3 = RCT estrito), ratificação externa: 30"
+   ],
+   "trilha": "atuais/producao/09_distribuicao_MA_EC_B08_2026-09-11.json",
+   "changelog": "BIBLIOTECAS/CHANGELOG_GERAL.md 2026-09-11",
+   "consolidado_motor": "BIBLIOTECAS/MOTOR_CLINICO/ (evidencias_ma_serie.json, evidencias_ec_serie.json)",
+   "backups": "01/02/03*.bak_<AAAAMMDD_HHMMSS> na mesma pasta"
+  }
+ ]
+}

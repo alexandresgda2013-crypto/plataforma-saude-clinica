@@ -1,0 +1,307 @@
+[
+ {
+  "pmid_oficial": "20726622",
+  "titulo_artigo": "Neuroplasticity - exercise-induced response of peripheral brain-derived neurotrophic factor: a systematic review of experimental studies in human subjects.",
+  "autores": [
+   "Knaepen K",
+   "Goekint M",
+   "Heyman EM",
+   "Meeusen R"
+  ],
+  "revista_ano": "Sports Med 2010",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B3_neuroplasticidade",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_KNAEPEN_2010"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_KNAEPEN_2010",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "KNAEPEN",
+   "Knaepen"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B3_neuroplasticidade",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "23958957",
+  "titulo_artigo": "Serum BDNF concentrations as peripheral manifestations of depression: evidence from a systematic review and meta-analyses on 179 associations (N=9484).",
+  "autores": [
+   "Molendijk ML",
+   "Spinhoven P",
+   "Polak M",
+   "Bus BA"
+  ],
+  "revista_ano": "Mol Psychiatry 2014",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B3_neuroplasticidade",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MOLENDIJK_2014"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MOLENDIJK_2014",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Molendijk",
+   "MOLENDIJK"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B3_neuroplasticidade",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "25455510",
+  "titulo_artigo": "A meta-analytic review of the effects of exercise on brain-derived neurotrophic factor.",
+  "autores": [
+   "Szuhany KL",
+   "Bugatti M",
+   "Otto MW"
+  ],
+  "revista_ano": "J Psychiatr Res 2015",
+  "desenho_estudo": "revisao",
+  "secao_origem": "mecanismo_B3_neuroplasticidade",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SZUHANY_2015"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SZUHANY_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Szuhany",
+   "SZUHANY"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B3_neuroplasticidade",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "36194941",
+  "titulo_artigo": "Brain-Derived Neurotrophic Factor (BDNF) as a biomarker of treatment response in patients with Treatment Resistant Depression (TRD): A systematic review & meta-analysis.",
+  "autores": [
+   "Meshkat S",
+   "Alnefeesi Y",
+   "Jawad MY",
+   "D Di Vincenzo J"
+  ],
+  "revista_ano": "Psychiatry Res 2022",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B3_neuroplasticidade",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MESHKAT_2022"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MESHKAT_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Meshkat",
+   "MESHKAT"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B3_neuroplasticidade",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "29387021",
+  "titulo_artigo": "Brain-Derived Neurotrophic Factor and Major Depressive Disorder: Evidence from Meta-Analyses.",
+  "autores": [
+   "Kishi T"
+  ],
+  "revista_ano": "Frontiers in psychiatry 2017",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B3_neuroplasticidade",
+  "achado_central_molecular": "Accumulating evidence suggests that brain-derived neurotrophic factor (BDNF) is associated with the pathophysiology of major depressive disorder (MDD). In this mini review, we explored the association between BDNF and MDD using meta-analytic evidence. Our findings indicated that the Val66Met polymorphism in the BDNF gene was not…",
+  "extrapolacao_por_analogia": "—",
+  "ids_referencia_interna": [
+   "REF_KISHI_2017"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "celular/in vitro"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B3 confirmado em auditoria [AT] (título/abstract MeSH)",
+  "g3_verificado_por": "IA G3 (geração) — B3 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_KISHI_2017",
+  "doi": "10.3389/fpsyt.2017.00308",
+  "claim_id_origem": "B3.MEC.BLOCO03.061",
+  "_aliases": [
+   "Kishi",
+   "KISHI"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B3_neuroplasticidade",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "35546951",
+  "titulo_artigo": "The Mechanisms Behind Rapid Antidepressant Effects of Ketamine: A Systematic Review With a Focus on Molecular Neuroplasticity.",
+  "autores": [
+   "Kang MJY"
+  ],
+  "revista_ano": "Frontiers in psychiatry 2022",
+  "desenho_estudo": "meta_analise",
+  "secao_origem": "mecanismo_B3_neuroplasticidade",
+  "achado_central_molecular": "The mechanism of action underlying ketamine's rapid antidepressant effects in patients with depression, both suffering from major depressive disorder (MDD) and bipolar disorder (BD), including treatment resistant depression (TRD), remains unclear. Of the many speculated routes that ketamine may act through, restoring deficits in…",
+  "extrapolacao_por_analogia": "—",
+  "ids_referencia_interna": [
+   "REF_KANG_2022"
+  ],
+  "evid_role": "meta_analise",
+  "especie_mesh": [
+   "celular/in vitro"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B3 confirmado em auditoria [AT] (título/abstract MeSH)",
+  "g3_verificado_por": "IA G3 (geração) — B3 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_KANG_2022",
+  "doi": "10.3389/fpsyt.2022.860882",
+  "claim_id_origem": "B3.MEC.BLOCO02.030",
+  "_aliases": [
+   "Kang",
+   "KANG"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B3_neuroplasticidade",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "39613915",
+  "titulo_artigo": "Effects of psychoplastogens on blood levels of brain-derived neurotrophic factor (BDNF) in humans: a systematic review and meta-analysis.",
+  "autores": [
+   "Calder AE"
+  ],
+  "revista_ano": " 2025",
+  "desenho_estudo": "meta_analise",
+  "secao_origem": "mecanismo_B3_neuroplasticidade",
+  "achado_central_molecular": "Peripheral levels of brain-derived neurotrophic factor (BDNF) are often used as a biomarker for the rapid plasticity-promoting effects of ketamine, psychedelics, and other psychoplastogens in humans. However, studies analyzing peripheral BDNF after psychoplastogen exposure show mixed results. In this meta-analysis, we aimed to test…",
+  "extrapolacao_por_analogia": "[MA — sem efeito significativo cetamina→BDNF periférico; NEG/CONT]",
+  "ids_referencia_interna": [
+   "REF_CALDER_2025"
+  ],
+  "evid_role": "meta_analise",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B3 confirmado em auditoria [AT] (título/abstract MeSH)",
+  "g3_verificado_por": "IA G3 (geração) — B3 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_CALDER_2025",
+  "doi": "10.1038/s41380-024-02830-z",
+  "claim_id_origem": "B3.MEC.BLOCO05.052",
+  "_aliases": [
+   "Calder",
+   "CALDER"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B3_neuroplasticidade",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ }
+]

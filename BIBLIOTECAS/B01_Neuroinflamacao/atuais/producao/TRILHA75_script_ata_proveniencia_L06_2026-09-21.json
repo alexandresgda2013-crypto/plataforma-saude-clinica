@@ -1,0 +1,59 @@
+{
+  "trilha": 75,
+  "data": "2026-09-21",
+  "objeto": "ata de proveniência L-06 — resposta à carta de autoria do comentador",
+  "digitais_cadeia": {
+    "dados_vinculos_274": "490675e63122a24baebd8890f4a7883a07f68916d90562e74adf309133501d1b",
+    "minuta1_mestre": "3b6a15a0b311a7b73f8793e1187a353df92201a11d7746e9082d18c4f6c38595",
+    "TextoH_arquivado": "1a51d9b970bb3ecb3f574b76dc772f77c2f599eb7fab70fd7919216c1cb93846",
+    "resposta10_casa": "cc40dfa0ed31f08407f96b848283ccdf429e2caa00561a83fd2565d2e74db0e6",
+    "minuta3_rev1": "2ce9698c5a163cc16f766c34197d3887bb4cf0093ad0ed38108c96ecb1e46d00"
+  },
+  "verdes": 8,
+  "total": 8,
+  "checks": [
+    {
+      "check": "C01_DIGITAIS_CADEIA",
+      "ok": true,
+      "detalhe": "5 digitais re-medidas e íntegras · pendentes de bytes (nomeadas): TextoM ('Comentador · 2026-09-21', D-TEXTO-M) e minuta3 original a6a0027c… (D-L06-M3-ORIG) — registramos o que TEMOS, nada reconstruído"
+    },
+    {
+      "check": "C02_DECLARACAO",
+      "ok": true,
+      "detalhe": "comentador declara: escreveu as DUAS versões; a de cabeçalho errado era rascunho p/ auditoria; a canônica é 'Comentador · 2026-09-21' — autoria REGISTRADA como declarada; conteúdo segue bytes"
+    },
+    {
+      "check": "C03_FUSAO_ANTERIOR",
+      "ok": true,
+      "detalhe": "9/9 grupos presentes no TextoH (único arquivo, sha medida) → o artefato CHEGOU misto; o cruzamento descreveu o que recebeu com fidelidade. Formulação correta: 'fusão anterior ao cruzamento, no artefato'. Ninguém fabricou nada: o texto nasceu misto (rascunho p/ auditoria, declara o comentador)"
+    },
+    {
+      "check": "C04_ORFAOS",
+      "ok": true,
+      "detalhe": "{'atribuicao_por_relacao': True, 'anti_substituicao_silenciosa': True} — FRASES exatas 0× na minuta 1 E 0× na RESPOSTA_10, presentes no TextoH → redação do Comentador (autoria do rascunho declarada); minuta 3 §6.3 precisa re-apontar. Linhagem de CONCEITO registrada: 'falta de dado vira afirmação' já na RESPOSTA_10 (casa, 15/09, l.79) + escada degradada da minuta 1 — frase nova, raiz antiga"
+    },
+    {
+      "check": "C05_ALVO_EMENDA",
+      "ok": true,
+      "detalhe": "minuta 3 §6.3 credita à minuta 1 conteúdo que NÃO está na minuta 1 (C04) → emenda nº1 das 3 da carta 23 agora tem destino medido: (Comentador, texto arquivado pela casa, Parte 6.3)"
+    },
+    {
+      "check": "C06_CADEIA_244",
+      "ok": true,
+      "detalhe": "244/41 re-executado (comando: mesmo-claim_id + natureza diferente, proxy declarado, sobre dados 490675e6…). CADEIA: enunciado da regra (TextoM §1.1, citado na minuta 3 — bytes pendentes) → dados V7 → execução casa (trilha 74/75) → registro na minuta 3 rev.1 §1.2 (2ce9698c). Artefato na cadeia que SUSTENTA o número = minuta 3 rev.1 + arquivo de dados; minutas 1 e 2 = fontes históricas"
+    },
+    {
+      "check": "C07_MAPA_FINAL",
+      "ok": true,
+      "detalhe": "7 grupos verificados → minuta 1 do mestre (3b6a15a0…) · itens '(Comentador)' citados na minuta 3 → TextoM (declarado, bytes pendentes) · 2 órfãos → TextoH/Comentador declarado · degrau 5 correto (verification_status+extrapolacao) → minuta 2 do mestre (eb54337c…, retratação) · 244/41 → cadeia C06. PEDIDO DELE ATENDIDO com precisão, não por decreto: cada origem tem evidência"
+    },
+    {
+      "check": "C08_RITO",
+      "ok": true,
+      "detalhe": "rito mantido: a ata NÃO altera conteúdo normativo; as 3 emendas de crédito vão na rev.2 (mestre) · TextoM + original a6a0027c seguem dívidas de bytes · depois: réplica final 1 rodada → aprovação do operador"
+    }
+  ],
+  "confissoes": [
+    "nenhuma nova — a rodada consolidou C74-1..C74-4 e acrescentou precisões com evidência"
+  ]
+}

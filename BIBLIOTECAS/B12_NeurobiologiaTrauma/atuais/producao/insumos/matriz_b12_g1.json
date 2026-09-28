@@ -1,0 +1,2856 @@
+{
+ "candidatos": [
+  {
+   "chave": "Almeida2021",
+   "pmid": "34071053",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Aoto2025",
+   "pmid": "40926811",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Arosio2021",
+   "pmid": "33643008",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Ashworth2021",
+   "pmid": "34410003",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Baker2018",
+   "pmid": "30585227",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Bakusic2020",
+   "pmid": "33344725",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Bazzari2022",
+   "pmid": "35955546",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Begni2016",
+   "pmid": "38298789",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Berardelli2013",
+   "pmid": "22836869",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Bodnar2018",
+   "pmid": "30136679",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Brandl2022",
+   "pmid": "35058584",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Bromis2018",
+   "pmid": "30021460",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Brunoni2008",
+   "pmid": "18752720",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Cao2025",
+   "pmid": "41444402",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Castren2021",
+   "pmid": "34053675",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Castren2016",
+   "pmid": "27425886",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Cavaleri2023",
+   "pmid": "37019247",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Chakrapani2020",
+   "pmid": "33312794",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Chavanne2020",
+   "pmid": "33054384",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Chen2024",
+   "pmid": "38891990",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Cheng2025",
+   "pmid": "33096634",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Cordero2026",
+   "pmid": "42167549",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Correia2023",
+   "pmid": "36830028",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Danan2021",
+   "pmid": "34205191",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Dark2022",
+   "pmid": "36030316",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Daskalakis2022",
+   "pmid": "38542503",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Deuter2023",
+   "pmid": "35378148",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Dobernecker2023",
+   "pmid": "36697477",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Duman2019",
+   "pmid": "31811669",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Dunlop2019",
+   "pmid": "30342071",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Er2007",
+   "pmid": "17237843",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Esalatmanesh2023",
+   "pmid": "37538241",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Etkin2007",
+   "pmid": "17898336",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Farrell2018",
+   "pmid": "29793048",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Feiger2022",
+   "pmid": "35125427",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Felger2013",
+   "pmid": "23644052",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Felger2017",
+   "pmid": "29173175",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Feng2026",
+   "pmid": "42212166",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Feola2024",
+   "pmid": "38503924",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Ferracuti2022",
+   "pmid": "35158360",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Fiksdal2018",
+   "pmid": "30513499",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Frycz2026",
+   "pmid": "41593277",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Fullana2018",
+   "pmid": "41226404",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Gerritsen2017",
+   "pmid": "28589964",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Gerritsen2019",
+   "pmid": "30472466",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Gill2020",
+   "pmid": "32379599",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Goldsmith2022",
+   "pmid": "36725140",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Goncharova2020",
+   "pmid": "32666621",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Gover2024",
+   "pmid": "39361217",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Gray2020",
+   "pmid": "32098488",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Gray2012",
+   "pmid": "22922121",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Guo2025",
+   "pmid": "40686488",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Harnett2020",
+   "pmid": "32343956",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Harris2013",
+   "pmid": "22980941",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Hassamal2023",
+   "pmid": "37252156",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Hayes2012",
+   "pmid": "22738125",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Henigsberg2019",
+   "pmid": "30419321",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Herman2018",
+   "pmid": "29902514",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Himmerich2019",
+   "pmid": "30792669",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Hinojosa2026",
+   "pmid": "41922983",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Hole2025",
+   "pmid": "40277932",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Hong2016",
+   "pmid": "27230456",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Hori2024",
+   "pmid": "38199409",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Ising2008",
+   "pmid": "18702710",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Janiri2019",
+   "pmid": "31664439",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Jeon2016",
+   "pmid": "27679767",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Jiang2024",
+   "pmid": "39554694",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Jones2022",
+   "pmid": "36115855",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Juruena2020",
+   "pmid": "32002927",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Juruena2026",
+   "pmid": "42036575",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Juruena2015",
+   "pmid": "25564387",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Kakehi2023",
+   "pmid": "36699501",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Kanes2023",
+   "pmid": "37077711",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Karin2020",
+   "pmid": "32672906",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Kaufmann2017",
+   "pmid": "28263786",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Keller2016",
+   "pmid": "27528460",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Kertes2017",
+   "pmid": "28680507",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Khairova2009",
+   "pmid": "19224657",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Kim2016",
+   "pmid": "26111720",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Kloet2016",
+   "pmid": "26970338",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Koo2019",
+   "pmid": "31327473",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Kouba2024",
+   "pmid": "28623429",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Kunikowska2026",
+   "pmid": "42511837",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Lan2025",
+   "pmid": "41103629",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Leal2016",
+   "pmid": "28215294",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Lee2010",
+   "pmid": "21253405",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Li2026",
+   "pmid": "42352641",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Li2022",
+   "pmid": "35239774",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Liang2023",
+   "pmid": "37725323",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Lin2020",
+   "pmid": "32386841",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Lin2024",
+   "pmid": "39526037",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Liu2024",
+   "pmid": "38199394",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Maeng2019",
+   "pmid": "31795605",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Malik2022",
+   "pmid": "35053845",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Malik2023",
+   "pmid": "37251220",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Manthey2021",
+   "pmid": "34394855",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Menke2023",
+   "pmid": "37581323",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Messina2013",
+   "pmid": "24040309",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Mikulska2021",
+   "pmid": "34679364",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Milenkovic2019",
+   "pmid": "31075818",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Min2023",
+   "pmid": "36860860",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Mojtabavi2020",
+   "pmid": "33152026",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Mojtabavi2021",
+   "pmid": "35287688",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Morisaki2025",
+   "pmid": "40179065",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Ninan2013",
+   "pmid": "23747574",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Oyarce2020",
+   "pmid": "32726102",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Pardossi2024",
+   "pmid": "39684808",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Phillips2017",
+   "pmid": "28928987",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Pinzi2025",
+   "pmid": "41090786",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Potapova2026",
+   "pmid": "41898731",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Rana2020",
+   "pmid": "33230708",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Rhie2020",
+   "pmid": "32161729",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Risbrough2021",
+   "pmid": "34955170",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Romeo2024",
+   "pmid": "40305200",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Santos2019",
+   "pmid": "29627509",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Schulze2019",
+   "pmid": "30581154",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Shang2014",
+   "pmid": "24676455",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Shaw2023",
+   "pmid": "37899543",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Shi2023",
+   "pmid": "37878890",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Shkundin2023",
+   "pmid": "37763162",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Sindermann2021",
+   "pmid": "34388482",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Tafet2020",
+   "pmid": "32499732",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Tapp2019",
+   "pmid": "31068886",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Teo2023",
+   "pmid": "25459896",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Toader2025",
+   "pmid": "40362507",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Toft2018",
+   "pmid": "29631540",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Trifu2020",
+   "pmid": "33544788",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Troubat2020",
+   "pmid": "32150310",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Tsai2020",
+   "pmid": "33186640",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Tyagi2025",
+   "pmid": "40946890",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Umemori2018",
+   "pmid": "29802758",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Vogelzangs2016",
+   "pmid": "28183380",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Wu2023",
+   "pmid": "38012702",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Xu2020",
+   "pmid": "33293948",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Yang2020",
+   "pmid": "32351365",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Zhang2025",
+   "pmid": "41449192",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Zhu2019",
+   "pmid": "30714802",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Zou2018",
+   "pmid": "29856741",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "PaquolaExtra",
+   "pmid": "41156113",
+   "fonte": "sec6_146"
+  },
+  {
+   "chave": "Heim&Nemeroff2001",
+   "pmid": "11430844",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Yu2012",
+   "pmid": "22442074",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Miller2013",
+   "pmid": "23468190",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Sartory2013",
+   "pmid": "23536785",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Wingenfeld2014",
+   "pmid": "25462901",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "ODoherty2015",
+   "pmid": "25735885",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Lu2016",
+   "pmid": "27049575",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Paquola2016",
+   "pmid": "27531235",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Marusak2016",
+   "pmid": "27824358",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "VonWerneBaes2012",
+   "pmid": "28183380",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Menke2018",
+   "pmid": "30086534",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "SuarezJimenez2020",
+   "pmid": "31258096",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Nikkheslat2019",
+   "pmid": "31794798",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "PriceDuman2019",
+   "pmid": "31801966",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Notaras2020",
+   "pmid": "31900428",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "McTeague2020",
+   "pmid": "31964160",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Miao2020",
+   "pmid": "32085670",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Tian2020",
+   "pmid": "33053385",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Pereira2021",
+   "pmid": "34100334",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "SerraBlasco2021",
+   "pmid": "34256069",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Wang2021",
+   "pmid": "34963057",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Pollok2022",
+   "pmid": "35189164",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Tartt2022",
+   "pmid": "35354926",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Murphy2022",
+   "pmid": "35599780",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Leschik2022",
+   "pmid": "35872219",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Rengasamy2021",
+   "pmid": "35992016",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Xiao2022",
+   "pmid": "36029627",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Liu2022",
+   "pmid": "36151073",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Zugman2023",
+   "pmid": "37741177",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Numakawa2023",
+   "pmid": "37781095",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Zhong2024",
+   "pmid": "39304648",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Lee2025",
+   "pmid": "40199321",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Wang2026",
+   "pmid": "41660208",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Lu2026",
+   "pmid": "42165096",
+   "fonte": "ancora34"
+  },
+  {
+   "chave": "Shin_CHECK",
+   "pmid": "19625997",
+   "fonte": "ancora34"
+  }
+ ],
+ "meta": {
+  "34071053": {
+   "title": "The Role of HPA Axis and Allopregnanolone on the Neurobiology of Major Depressive Disorders and PTSD.",
+   "authors": [
+    "Almeida FB",
+    "Pinna G",
+    "Barros HMT"
+   ],
+   "pubdate": "2021 May 23",
+   "source": "Int J Mol Sci",
+   "eloc": "doi: 10.3390/ijms22115495"
+  },
+  "40926811": {
+   "title": "Adaptation to Preceding Acute Psychological Stress is Associated With Subsequent Stress Coping Levels via Corticoid Receptors.",
+   "authors": [
+    "Aoto Y",
+    "Kasama E",
+    "Matsuki T",
+    "Seki K"
+   ],
+   "pubdate": "2025 Aug",
+   "source": "Alpha Psychiatry",
+   "eloc": "doi: 10.31083/AP46061"
+  },
+  "33643008": {
+   "title": "Blood Brain-Derived Neurotrophic Factor (BDNF) and Major Depression: Do We Have a Translational Perspective?",
+   "authors": [
+    "Arosio B",
+    "Guerini FR",
+    "Voshaar RCO",
+    "Aprahamian I"
+   ],
+   "pubdate": "2021",
+   "source": "Front Behav Neurosci",
+   "eloc": "doi: 10.3389/fnbeh.2021.626906"
+  },
+  "34410003": {
+   "title": "Role of brain-derived neurotrophic factor in shaping the behavioural response to environmental stressors.",
+   "authors": [
+    "Badowska-Szalewska E",
+    "Lietzau G",
+    "Moryś J",
+    "Kowiański P"
+   ],
+   "pubdate": "2021",
+   "source": "Folia Morphol (Warsz)",
+   "eloc": "doi: 10.5603/FM.a2021.0079"
+  },
+  "30585227": {
+   "title": "Hsp90 Heterocomplexes Regulate Steroid Hormone Receptors: From Stress Response to Psychiatric Disease.",
+   "authors": [
+    "Baker JD",
+    "Ozsan I",
+    "Rodriguez Ospina S",
+    "Gulick D"
+   ],
+   "pubdate": "2018 Dec 25",
+   "source": "Int J Mol Sci",
+   "eloc": "doi: 10.3390/ijms20010079"
+  },
+  "33344725": {
+   "title": "Increased methylation of NR3C1 and SLC6A4 is associated with blunted cortisol reactivity to stress in major depression.",
+   "authors": [
+    "Bakusic J",
+    "Vrieze E",
+    "Ghosh M",
+    "Bekaert B"
+   ],
+   "pubdate": "2020 Nov",
+   "source": "Neurobiol Stress",
+   "eloc": "doi: 10.1016/j.ynstr.2020.100272"
+  },
+  "35955546": {
+   "title": "BDNF Therapeutic Mechanisms in Neuropsychiatric Disorders.",
+   "authors": [
+    "Bazzari AH",
+    "Bazzari FH"
+   ],
+   "pubdate": "2022 Jul 29",
+   "source": "Int J Mol Sci",
+   "eloc": "doi: 10.3390/ijms23158417"
+  },
+  "38298789": {
+   "title": "Structural Neuroimaging of Hippocampus and Amygdala Subregions in Posttraumatic Stress Disorder: A Scoping Review.",
+   "authors": [
+    "Ben-Zion Z",
+    "Korem N",
+    "Fine NB",
+    "Katz S"
+   ],
+   "pubdate": "2024 Jan",
+   "source": "Biol Psychiatry Glob Open Sci",
+   "eloc": "doi: 10.1016/j.bpsgos.2023.07.001"
+  },
+  "22836869": {
+   "title": "Role of mineralocorticoid receptors on the hypothalamus-pituitary-adrenal axis in humans.",
+   "authors": [
+    "Berardelli R",
+    "Karamouzis I",
+    "D'Angelo V",
+    "Zichi C"
+   ],
+   "pubdate": "2013 Feb",
+   "source": "Endocrine",
+   "eloc": "doi: 10.1007/s12020-012-9750-8"
+  },
+  "30136679": {
+   "title": "Depression following a traumatic brain injury: uncovering cytokine dysregulation as a pathogenic mechanism.",
+   "authors": [
+    "Bodnar CN",
+    "Morganti JM",
+    "Bachstetter AD"
+   ],
+   "pubdate": "2018 Oct",
+   "source": "Neural Regen Res",
+   "eloc": "doi: 10.4103/1673-5374.238604"
+  },
+  "35058584": {
+   "title": "Common and specific large-scale brain changes in major depressive disorder, anxiety disorders, and chronic pain: a transdiagnostic multimodal meta-analysis of structural and functional MRI studies.",
+   "authors": [
+    "Brandl F",
+    "Weise B",
+    "Mulej Bratec S",
+    "Jassim N"
+   ],
+   "pubdate": "2022 Apr",
+   "source": "Neuropsychopharmacology",
+   "eloc": "doi: 10.1038/s41386-022-01271-y"
+  },
+  "30021460": {
+   "title": "Meta-Analysis of 89 Structural MRI Studies in Posttraumatic Stress Disorder and Comparison With Major Depressive Disorder.",
+   "authors": [
+    "Bromis K",
+    "Calem M",
+    "Reinders AATS",
+    "Williams SCR"
+   ],
+   "pubdate": "2018 Oct 1",
+   "source": "Am J Psychiatry",
+   "eloc": "doi: 10.1176/appi.ajp.2018.17111199"
+  },
+  "18752720": {
+   "title": "A systematic review and meta-analysis of clinical studies on major depression and BDNF levels: implications for the role of neuroplasticity in depression.",
+   "authors": [
+    "Brunoni AR",
+    "Lopes M",
+    "Fregni F"
+   ],
+   "pubdate": "2008 Dec",
+   "source": "Int J Neuropsychopharmacol",
+   "eloc": "doi: 10.1017/S1461145708009309"
+  },
+  "41444402": {
+   "title": "Common alterations of whole and subregion-specific amygdala intrinsic functional connectivity across psychiatric disorders: a meta-analysis.",
+   "authors": [
+    "Cao L",
+    "Maleki Balajoo S",
+    "Gao Y",
+    "Li H"
+   ],
+   "pubdate": "2026 May",
+   "source": "Mol Psychiatry",
+   "eloc": "doi: 10.1038/s41380-025-03435-w"
+  },
+  "34053675": {
+   "title": "Brain-Derived Neurotrophic Factor Signaling in Depression and Antidepressant Action.",
+   "authors": [
+    "Castrén E",
+    "Monteggia LM"
+   ],
+   "pubdate": "2021 Jul 15",
+   "source": "Biol Psychiatry",
+   "eloc": "doi: 10.1016/j.biopsych.2021.05.008"
+  },
+  "27425886": {
+   "title": "Brain-derived neurotrophic factor in mood disorders and antidepressant treatments.",
+   "authors": [
+    "Castrén E",
+    "Kojima M"
+   ],
+   "pubdate": "2017 Jan",
+   "source": "Neurobiol Dis",
+   "eloc": "doi: 10.1016/j.nbd.2016.07.010"
+  },
+  "37019247": {
+   "title": "The role of BDNF in major depressive disorder, related clinical features, and antidepressant treatment: Insight from meta-analyses.",
+   "authors": [
+    "Cavaleri D",
+    "Moretti F",
+    "Bartoccetti A",
+    "Mauro S"
+   ],
+   "pubdate": "2023 Jun",
+   "source": "Neurosci Biobehav Rev",
+   "eloc": "doi: 10.1016/j.neubiorev.2023.105159"
+  },
+  "33312794": {
+   "title": "Neuroplasticity and the Biological Role of Brain Derived Neurotrophic Factor in the Pathophysiology and Management of Depression.",
+   "authors": [
+    "Chakrapani S",
+    "Eskander N",
+    "De Los Santos LA",
+    "Omisore BA"
+   ],
+   "pubdate": "2020 Nov 9",
+   "source": "Cureus",
+   "eloc": "doi: 10.7759/cureus.11396"
+  },
+  "33054384": {
+   "title": "The Overlapping Neurobiology of Induced and Pathological Anxiety: A Meta-Analysis of Functional Neural Activation.",
+   "authors": [
+    "Chavanne AV",
+    "Robinson OJ"
+   ],
+   "pubdate": "2021 Feb 1",
+   "source": "Am J Psychiatry",
+   "eloc": "doi: 10.1176/appi.ajp.2020.19111153"
+  },
+  "38891990": {
+   "title": "Roles of Cytokines in Alzheimer's Disease.",
+   "authors": [
+    "Chen Z",
+    "Balachandran YL",
+    "Chong WP",
+    "Chan KWY"
+   ],
+   "pubdate": "2024 May 26",
+   "source": "Int J Mol Sci",
+   "eloc": "doi: 10.3390/ijms25115803"
+  },
+  "33096634": {
+   "title": "Neurotrophic Factor BDNF, Physiological Functions and Therapeutic Potential in Depression, Neurodegeneration and Brain Cancer.",
+   "authors": [
+    "Colucci-D'Amato L",
+    "Speranza L",
+    "Volpicelli F"
+   ],
+   "pubdate": "2020 Oct 21",
+   "source": "Int J Mol Sci",
+   "eloc": "doi: 10.3390/ijms21207777"
+  },
+  "42167549": {
+   "title": "Understanding specificity in immune-brain pathways: A systematic review of differential associations between individual cytokines and brain structure and function measured through magnetic resonance imaging in humans.",
+   "authors": [
+    "Cordero AL",
+    "Frazier MR",
+    "Jost GM",
+    "Hostinar CE"
+   ],
+   "pubdate": "2026 May 20",
+   "source": "Brain Behav Immun",
+   "eloc": "doi: 10.1016/j.bbi.2026.106827"
+  },
+  "36830028": {
+   "title": "Oxidative Stress in Depression: The Link with the Stress Response, Neuroinflammation, Serotonin, Neurogenesis and Synaptic Plasticity.",
+   "authors": [
+    "Correia AS",
+    "Cardoso A",
+    "Vale N"
+   ],
+   "pubdate": "2023 Feb 13",
+   "source": "Antioxidants (Basel)",
+   "eloc": "doi: 10.3390/antiox12020470"
+  },
+  "34205191": {
+   "title": "Is PTSD-Phenotype Associated with HPA-Axis Sensitivity? Feedback Inhibition and Other Modulating Factors of Glucocorticoid Signaling Dynamics.",
+   "authors": [
+    "Danan D",
+    "Todder D",
+    "Zohar J",
+    "Cohen H"
+   ],
+   "pubdate": "2021 Jun 3",
+   "source": "Int J Mol Sci",
+   "eloc": "doi: 10.3390/ijms22116050"
+  },
+  "36030316": {
+   "title": "Sex-related differences in violence exposure, neural reactivity to threat, and mental health.",
+   "authors": [
+    "Dark HE",
+    "Harnett NG",
+    "Hurst DR",
+    "Wheelock MD"
+   ],
+   "pubdate": "2022 Dec",
+   "source": "Neuropsychopharmacology",
+   "eloc": "doi: 10.1038/s41386-022-01430-1"
+  },
+  "38542503": {
+   "title": "Plasma and Platelet Brain-Derived Neurotrophic Factor (BDNF) Levels in Bipolar Disorder Patients with Post-Traumatic Stress Disorder (PTSD) or in a Major Depressive Episode Compared to Healthy Controls.",
+   "authors": [
+    "Dell'Oste V",
+    "Palego L",
+    "Betti L",
+    "Fantasia S"
+   ],
+   "pubdate": "2024 Mar 20",
+   "source": "Int J Mol Sci",
+   "eloc": "doi: 10.3390/ijms25063529"
+  },
+  "35378148": {
+   "title": "Neurotrophic factors, childhood trauma and psychiatric disorders: A systematic review of genetic, biochemical, cognitive and imaging studies to identify potential biomarkers.",
+   "authors": [
+    "Di Benedetto MG",
+    "Scassellati C",
+    "Cattane N",
+    "Riva MA"
+   ],
+   "pubdate": "2022 Jul 1",
+   "source": "J Affect Disord",
+   "eloc": "doi: 10.1016/j.jad.2022.03.071"
+  },
+  "36697477": {
+   "title": "Cumulative trauma predicts hair cortisol concentrations and symptoms of depression and anxiety in pregnant women-an investigation of community samples from Greece, Spain and Perú.",
+   "authors": [
+    "Dobernecker J",
+    "Spyridou A",
+    "Elbert T",
+    "Schauer M"
+   ],
+   "pubdate": "2023 Jan 25",
+   "source": "Sci Rep",
+   "eloc": "doi: 10.1038/s41598-023-28151-9"
+  },
+  "31811669": {
+   "title": "Role of BDNF in the pathophysiology and treatment of depression: Activity-dependent effects distinguish rapid-acting antidepressants.",
+   "authors": [
+    "Duman RS",
+    "Deyama S",
+    "Fogaça MV"
+   ],
+   "pubdate": "2021 Jan",
+   "source": "Eur J Neurosci",
+   "eloc": "doi: 10.1111/ejn.14630"
+  },
+  "30342071": {
+   "title": "The hypothalamic-pituitary-adrenal axis in PTSD: Pathophysiology and treatment interventions.",
+   "authors": [
+    "Dunlop BW",
+    "Wong A"
+   ],
+   "pubdate": "2019 Mar 8",
+   "source": "Prog Neuropsychopharmacol Biol Psychiatry",
+   "eloc": "doi: 10.1016/j.pnpbp.2018.10.010"
+  },
+  "17237843": {
+   "title": "Therapy Insight: is there an imbalanced response of mineralocorticoid and glucocorticoid receptors in depression?",
+   "authors": [
+    "de Kloet ER",
+    "Derijk RH",
+    "Meijer OC"
+   ],
+   "pubdate": "2007 Feb",
+   "source": "Nat Clin Pract Endocrinol Metab",
+   "eloc": ""
+  },
+  "37538241": {
+   "title": "Effects of Antidepressant Medication on Brain-derived Neurotrophic Factor Concentration and Neuroplasticity in Depression: A Review of Preclinical and Clinical Studies.",
+   "authors": [
+    "Esalatmanesh S",
+    "Kashani L",
+    "Akhondzadeh S"
+   ],
+   "pubdate": "2023 Jul-Sep",
+   "source": "Avicenna J Med Biotechnol",
+   "eloc": "doi: 10.18502/ajmb.v15i3.12921"
+  },
+  "17898336": {
+   "title": "Functional neuroimaging of anxiety: a meta-analysis of emotional processing in PTSD, social anxiety disorder, and specific phobia.",
+   "authors": [
+    "Etkin A",
+    "Wager TD"
+   ],
+   "pubdate": "2007 Oct",
+   "source": "Am J Psychiatry",
+   "eloc": ""
+  },
+  "29793048": {
+   "title": "DNA methylation differences at the glucocorticoid receptor gene in depression are related to functional alterations in hypothalamic-pituitary-adrenal axis activity and to early life emotional abuse.",
+   "authors": [
+    "Farrell C",
+    "Doolin K",
+    "O' Leary N",
+    "Jairaj C"
+   ],
+   "pubdate": "2018 Jul",
+   "source": "Psychiatry Res",
+   "eloc": "doi: 10.1016/j.psychres.2018.04.064"
+  },
+  "35125427": {
+   "title": "The Role of Neuroinflammation in Neuropsychiatric Disorders Following Traumatic Brain Injury: A Systematic Review.",
+   "authors": [
+    "Feiger JA",
+    "Snyder RL",
+    "Walsh MJ",
+    "Cissne M"
+   ],
+   "pubdate": "2022 Sep-Oct 01",
+   "source": "J Head Trauma Rehabil",
+   "eloc": "doi: 10.1097/HTR.0000000000000754"
+  },
+  "23644052": {
+   "title": "Inflammatory cytokines in depression: neurobiological mechanisms and therapeutic implications.",
+   "authors": [
+    "Felger JC",
+    "Lotrich FE"
+   ],
+   "pubdate": "2013 Aug 29",
+   "source": "Neuroscience",
+   "eloc": "doi: 10.1016/j.neuroscience.2013.04.060"
+  },
+  "29173175": {
+   "title": "Imaging the Role of Inflammation in Mood and Anxiety-related Disorders.",
+   "authors": [
+    "Felger JC"
+   ],
+   "pubdate": "2018",
+   "source": "Curr Neuropharmacol",
+   "eloc": "doi: 10.2174/1570159X15666171123201142"
+  },
+  "42212166": {
+   "title": "Serum inflammatory cytokines in the progression of depression.",
+   "authors": [
+    "Feng Q",
+    "Yuan Z",
+    "An Q",
+    "Wang K"
+   ],
+   "pubdate": "2026",
+   "source": "Front Immunol",
+   "eloc": "doi: 10.3389/fimmu.2026.1808989"
+  },
+  "38503924": {
+   "title": "Data-driven, connectome-wide analysis identifies psychosis-specific brain correlates of fear and anxiety.",
+   "authors": [
+    "Feola B",
+    "Beermann A",
+    "Manzanarez Felix K",
+    "Coleman M"
+   ],
+   "pubdate": "2024 Sep",
+   "source": "Mol Psychiatry",
+   "eloc": "doi: 10.1038/s41380-024-02512-w"
+  },
+  "35158360": {
+   "title": "Grey Matter Volume Reductions of the Left Hippocampus and Amygdala in PTSD: A Coordinate-Based Meta-Analysis of Magnetic Resonance Imaging Studies.",
+   "authors": [
+    "Del Casale A",
+    "Ferracuti S",
+    "Barbetti AS",
+    "Bargagna P"
+   ],
+   "pubdate": "2022",
+   "source": "Neuropsychobiology",
+   "eloc": "doi: 10.1159/000522003"
+  },
+  "30513499": {
+   "title": "Associations between symptoms of depression and anxiety and cortisol responses to and recovery from acute stress.",
+   "authors": [
+    "Fiksdal A",
+    "Hanlin L",
+    "Kuras Y",
+    "Gianferante D"
+   ],
+   "pubdate": "2019 Apr",
+   "source": "Psychoneuroendocrinology",
+   "eloc": "doi: 10.1016/j.psyneuen.2018.11.035"
+  },
+  "41593277": {
+   "title": "The synaptic triad in depression: how stress-related pathways converge on BDNF, NMDA receptor, and MMP-9.",
+   "authors": [
+    "Frycz BA",
+    "Dutsch-Wicherek M",
+    "Płaza O",
+    "Szulc A"
+   ],
+   "pubdate": "2026 Apr",
+   "source": "Pharmacol Rep",
+   "eloc": "doi: 10.1007/s43440-026-00827-9"
+  },
+  "41226404": {
+   "title": "Altered Cytokine Levels in the First Episode of Major Depression and in Antidepressant-Naïve Patients: A Systematic Review and Meta-Analysis.",
+   "authors": [
+    "Gędek A",
+    "Modrzejewski S",
+    "Materna M",
+    "Iwański M"
+   ],
+   "pubdate": "2025 Oct 24",
+   "source": "Int J Mol Sci",
+   "eloc": "doi: 10.3390/ijms262110362"
+  },
+  "28589964": {
+   "title": "HPA Axis Genes, and Their Interaction with Childhood Maltreatment, are Related to Cortisol Levels and Stress-Related Phenotypes.",
+   "authors": [
+    "Gerritsen L",
+    "Milaneschi Y",
+    "Vinkers CH",
+    "van Hemert AM"
+   ],
+   "pubdate": "2017 Nov",
+   "source": "Neuropsychopharmacology",
+   "eloc": "doi: 10.1038/npp.2017.118"
+  },
+  "30472466": {
+   "title": "Long-term glucocorticoid levels measured in hair in patients with depressive and anxiety disorders.",
+   "authors": [
+    "Gerritsen L",
+    "Staufenbiel SM",
+    "Penninx BWJH",
+    "van Hemert AM"
+   ],
+   "pubdate": "2019 Mar",
+   "source": "Psychoneuroendocrinology",
+   "eloc": "doi: 10.1016/j.psyneuen.2018.11.019"
+  },
+  "32379599": {
+   "title": "The Association Between Adverse Childhood Experiences and Inflammation in Patients with Major Depressive Disorder: A Systematic Review.",
+   "authors": [
+    "Gill H",
+    "El-Halabi S",
+    "Majeed A",
+    "Gill B"
+   ],
+   "pubdate": "2020 Jul 1",
+   "source": "J Affect Disord",
+   "eloc": "doi: 10.1016/j.jad.2020.03.145"
+  },
+  "36725140": {
+   "title": "Inflammation-Related Functional and Structural Dysconnectivity as a Pathway to Psychopathology.",
+   "authors": [
+    "Goldsmith DR",
+    "Bekhbat M",
+    "Mehta ND",
+    "Felger JC"
+   ],
+   "pubdate": "2023 Mar 1",
+   "source": "Biol Psychiatry",
+   "eloc": "doi: 10.1016/j.biopsych.2022.11.003"
+  },
+  "32666621": {
+   "title": "The HPA Axis under Stress and Aging: Individual Vulnerability is Associated with Behavioral Patterns and Exposure Time.",
+   "authors": [
+    "Goncharova ND"
+   ],
+   "pubdate": "2020 Sep",
+   "source": "Bioessays",
+   "eloc": "doi: 10.1002/bies.202000007"
+  },
+  "39361217": {
+   "title": "Targeting glucocorticoid receptor signaling pathway for treatment of stress-related brain disorders.",
+   "authors": [
+    "Göver T",
+    "Slezak M"
+   ],
+   "pubdate": "2024 Dec",
+   "source": "Pharmacol Rep",
+   "eloc": "doi: 10.1007/s43440-024-00654-w"
+  },
+  "32098488": {
+   "title": "Multimodal Abnormalities of Brain Structure and Function in Major Depressive Disorder: A Meta-Analysis of Neuroimaging Studies.",
+   "authors": [
+    "Gray JP",
+    "Müller VI",
+    "Eickhoff SB",
+    "Fox PT"
+   ],
+   "pubdate": "2020 May 1",
+   "source": "Am J Psychiatry",
+   "eloc": "doi: 10.1176/appi.ajp.2019.19050560"
+  },
+  "22922121": {
+   "title": "Dynamic plasticity: the role of glucocorticoids, brain-derived neurotrophic factor and other trophic factors.",
+   "authors": [
+    "Gray JD",
+    "Milner TA",
+    "McEwen BS"
+   ],
+   "pubdate": "2013 Jun 3",
+   "source": "Neuroscience",
+   "eloc": "doi: 10.1016/j.neuroscience.2012.08.034"
+  },
+  "40686488": {
+   "title": "Structural brain correlates in major depressive disorder, anxiety disorders, and post-traumatic stress disorder: a diffusion tensor imaging meta-analysis.",
+   "authors": [
+    "Guo Y",
+    "Liu S",
+    "Poletti S",
+    "Liu W"
+   ],
+   "pubdate": "2025 Jul 21",
+   "source": "Psychol Med",
+   "eloc": "doi: 10.1017/S0033291725100780"
+  },
+  "32343956": {
+   "title": "PTSD-related neuroimaging abnormalities in brain function, structure, and biochemistry.",
+   "authors": [
+    "Harnett NG",
+    "Goodman AM",
+    "Knight DC"
+   ],
+   "pubdate": "2020 Aug",
+   "source": "Exp Neurol",
+   "eloc": "doi: 10.1016/j.expneurol.2020.113331"
+  },
+  "22980941": {
+   "title": "Mineralocorticoid and glucocorticoid receptor balance in control of HPA axis and behaviour.",
+   "authors": [
+    "Harris AP",
+    "Holmes MC",
+    "de Kloet ER",
+    "Chapman KE"
+   ],
+   "pubdate": "2013 May",
+   "source": "Psychoneuroendocrinology",
+   "eloc": "doi: 10.1016/j.psyneuen.2012.08.007"
+  },
+  "37252156": {
+   "title": "Chronic stress, neuroinflammation, and depression: an overview of pathophysiological mechanisms and emerging anti-inflammatories.",
+   "authors": [
+    "Hassamal S"
+   ],
+   "pubdate": "2023",
+   "source": "Front Psychiatry",
+   "eloc": "doi: 10.3389/fpsyt.2023.1130989"
+  },
+  "22738125": {
+   "title": "Quantitative meta-analysis of neural activity in posttraumatic stress disorder.",
+   "authors": [
+    "Hayes JP",
+    "Hayes SM",
+    "Mikedis AM"
+   ],
+   "pubdate": "2012 May 18",
+   "source": "Biol Mood Anxiety Disord",
+   "eloc": "doi: 10.1186/2045-5380-2-9"
+  },
+  "30419321": {
+   "title": "Neuroimaging research in posttraumatic stress disorder - Focus on amygdala, hippocampus and prefrontal cortex.",
+   "authors": [
+    "Henigsberg N",
+    "Kalember P",
+    "Petrović ZK",
+    "Šečić A"
+   ],
+   "pubdate": "2019 Mar 2",
+   "source": "Prog Neuropsychopharmacol Biol Psychiatry",
+   "eloc": "doi: 10.1016/j.pnpbp.2018.11.003"
+  },
+  "29902514": {
+   "title": "Principles of inflammasome priming and inhibition: Implications for psychiatric disorders.",
+   "authors": [
+    "Herman FJ",
+    "Pasinetti GM"
+   ],
+   "pubdate": "2018 Oct",
+   "source": "Brain Behav Immun",
+   "eloc": "doi: 10.1016/j.bbi.2018.06.010"
+  },
+  "30792669": {
+   "title": "Cytokine Research in Depression: Principles, Challenges, and Open Questions.",
+   "authors": [
+    "Himmerich H",
+    "Patsalos O",
+    "Lichtblau N",
+    "Ibrahim MAA"
+   ],
+   "pubdate": "2019",
+   "source": "Front Psychiatry",
+   "eloc": "doi: 10.3389/fpsyt.2019.00030"
+  },
+  "41922983": {
+   "title": "Resting-State Functional Connectivity of the Amygdala and Hippocampus in PTSD: Results From the PGC-ENIGMA PTSD Working Group.",
+   "authors": [
+    "Hinojosa CA",
+    "Sun D",
+    "Russell C",
+    "Baird CL"
+   ],
+   "pubdate": "2026 May 1",
+   "source": "Am J Psychiatry",
+   "eloc": "doi: 10.1176/appi.ajp.20250062"
+  },
+  "40277932": {
+   "title": "Immune Dysregulation in Depression and Anxiety: A Review of the Immune Response in Disease and Treatment.",
+   "authors": [
+    "Hole C",
+    "Dhamsania A",
+    "Brown C",
+    "Ryznar R"
+   ],
+   "pubdate": "2025 Apr 17",
+   "source": "Cells",
+   "eloc": "doi: 10.3390/cells14080607"
+  },
+  "27230456": {
+   "title": "Pathophysiological Role of Neuroinflammation in Neurodegenerative Diseases and Psychiatric Disorders.",
+   "authors": [
+    "Hong H",
+    "Kim BS",
+    "Im HI"
+   ],
+   "pubdate": "2016 May",
+   "source": "Int Neurourol J",
+   "eloc": "doi: 10.5213/inj.1632604.302"
+  },
+  "38199409": {
+   "title": "Blood mRNA expression levels of glucocorticoid receptors and FKBP5 are associated with depressive disorder and altered HPA axis.",
+   "authors": [
+    "Hori H",
+    "Yoshida F",
+    "Ishida I",
+    "Matsuo J"
+   ],
+   "pubdate": "2024 Mar 15",
+   "source": "J Affect Disord",
+   "eloc": "doi: 10.1016/j.jad.2024.01.080"
+  },
+  "18702710": {
+   "title": "Polymorphisms in the FKBP5 gene region modulate recovery from psychosocial stress in healthy controls.",
+   "authors": [
+    "Ising M",
+    "Depping AM",
+    "Siebertz A",
+    "Lucae S"
+   ],
+   "pubdate": "2008 Jul",
+   "source": "Eur J Neurosci",
+   "eloc": "doi: 10.1111/j.1460-9568.2008.06332.x"
+  },
+  "31664439": {
+   "title": "Shared Neural Phenotypes for Mood and Anxiety Disorders: A Meta-analysis of 226 Task-Related Functional Imaging Studies.",
+   "authors": [
+    "Janiri D",
+    "Moser DA",
+    "Doucet GE",
+    "Luber MJ"
+   ],
+   "pubdate": "2020 Feb 1",
+   "source": "JAMA Psychiatry",
+   "eloc": "doi: 10.1001/jamapsychiatry.2019.3351"
+  },
+  "27679767": {
+   "title": "Neuroinflammation and cytokine abnormality in major depression: Cause or consequence in that illness?",
+   "authors": [
+    "Jeon SW",
+    "Kim YK"
+   ],
+   "pubdate": "2016 Sep 22",
+   "source": "World J Psychiatry",
+   "eloc": "doi: 10.5498/wjp.v6.i3.283"
+  },
+  "39554694": {
+   "title": "Common and divergent neuroimaging features in major depression, posttraumatic stress disorder, and their comorbidity.",
+   "authors": [
+    "Jiang J",
+    "Ferraro S",
+    "Zhao Y",
+    "Wu B"
+   ],
+   "pubdate": "2024",
+   "source": "Psychoradiology",
+   "eloc": "doi: 10.1093/psyrad/kkae022"
+  },
+  "36115855": {
+   "title": "Evaluation of brain structure and metabolism in currently depressed adults with a history of childhood trauma.",
+   "authors": [
+    "Jones JS",
+    "Goldstein SJ",
+    "Wang J",
+    "Gardus J"
+   ],
+   "pubdate": "2022 Sep 17",
+   "source": "Transl Psychiatry",
+   "eloc": "doi: 10.1038/s41398-022-02153-z"
+  },
+  "32002927": {
+   "title": "The Role of Early Life Stress in HPA Axis and Anxiety.",
+   "authors": [
+    "Juruena MF",
+    "Eror F",
+    "Cleare AJ",
+    "Young AH"
+   ],
+   "pubdate": "2020",
+   "source": "Adv Exp Med Biol",
+   "eloc": "doi: 10.1007/978-981-32-9705-0_9"
+  },
+  "42036575": {
+   "title": "Early-Life Stress in the HPA Axis and MR/GR Receptors in the Development of Depression.",
+   "authors": [
+    "Juruena MF"
+   ],
+   "pubdate": "2026",
+   "source": "Adv Exp Med Biol",
+   "eloc": "doi: 10.1007/978-981-95-6872-7_18"
+  },
+  "25564387": {
+   "title": "Early life stress in depressive patients: role of glucocorticoid and mineralocorticoid receptors and of hypothalamic-pituitary-adrenal axis activity.",
+   "authors": [
+    "Juruena MF",
+    "Werne Baes CV",
+    "Menezes IC",
+    "Graeff FG"
+   ],
+   "pubdate": "2015",
+   "source": "Curr Pharm Des",
+   "eloc": ""
+  },
+  "36699501": {
+   "title": "Hypothalamic-pituitary-adrenal axis and renin-angiotensin-aldosterone system in adulthood PTSD and childhood maltreatment history.",
+   "authors": [
+    "Kakehi R",
+    "Hori H",
+    "Yoshida F",
+    "Itoh M"
+   ],
+   "pubdate": "2022",
+   "source": "Front Psychiatry",
+   "eloc": "doi: 10.3389/fpsyt.2022.967779"
+  },
+  "37077711": {
+   "title": "Targeting the Arginine Vasopressin V(1b) Receptor System and Stress Response in Depression and Other Neuropsychiatric Disorders.",
+   "authors": [
+    "Kanes SJ",
+    "Dennie L",
+    "Perera P"
+   ],
+   "pubdate": "2023",
+   "source": "Neuropsychiatr Dis Treat",
+   "eloc": "doi: 10.2147/NDT.S402831"
+  },
+  "32672906": {
+   "title": "A new model for the HPA axis explains dysregulation of stress hormones on the timescale of weeks.",
+   "authors": [
+    "Karin O",
+    "Raz M",
+    "Tendler A",
+    "Bar A"
+   ],
+   "pubdate": "2020 Jul",
+   "source": "Mol Syst Biol",
+   "eloc": "doi: 10.15252/msb.20209510"
+  },
+  "28263786": {
+   "title": "NLRP3 inflammasome-driven pathways in depression: Clinical and preclinical findings.",
+   "authors": [
+    "Kaufmann FN",
+    "Costa AP",
+    "Ghisleni G",
+    "Diaz AP"
+   ],
+   "pubdate": "2017 Aug",
+   "source": "Brain Behav Immun",
+   "eloc": "doi: 10.1016/j.bbi.2017.03.002"
+  },
+  "27528460": {
+   "title": "HPA axis in major depression: cortisol, clinical symptomatology and genetic variation predict cognition.",
+   "authors": [
+    "Keller J",
+    "Gomez R",
+    "Williams G",
+    "Lembke A"
+   ],
+   "pubdate": "2017 Apr",
+   "source": "Mol Psychiatry",
+   "eloc": "doi: 10.1038/mp.2016.120"
+  },
+  "28680507": {
+   "title": "BNDF methylation in mothers and newborns is associated with maternal exposure to war trauma.",
+   "authors": [
+    "Kertes DA",
+    "Bhatt SS",
+    "Kamin HS",
+    "Hughes DA"
+   ],
+   "pubdate": "2017",
+   "source": "Clin Epigenetics",
+   "eloc": "doi: 10.1186/s13148-017-0367-x"
+  },
+  "19224657": {
+   "title": "A potential role for pro-inflammatory cytokines in regulating synaptic plasticity in major depressive disorder.",
+   "authors": [
+    "Khairova RA",
+    "Machado-Vieira R",
+    "Du J",
+    "Manji HK"
+   ],
+   "pubdate": "2009 May",
+   "source": "Int J Neuropsychopharmacol",
+   "eloc": "doi: 10.1017/S1461145709009924"
+  },
+  "26111720": {
+   "title": "The role of pro-inflammatory cytokines in neuroinflammation, neurogenesis and the neuroendocrine system in major depression.",
+   "authors": [
+    "Kim YK",
+    "Na KS",
+    "Myint AM",
+    "Leonard BE"
+   ],
+   "pubdate": "2016 Jan 4",
+   "source": "Prog Neuropsychopharmacol Biol Psychiatry",
+   "eloc": "doi: 10.1016/j.pnpbp.2015.06.008"
+  },
+  "26970338": {
+   "title": "Stress and Depression: a Crucial Role of the Mineralocorticoid Receptor.",
+   "authors": [
+    "de Kloet ER",
+    "Otte C",
+    "Kumsta R",
+    "Kok L"
+   ],
+   "pubdate": "2016 Aug",
+   "source": "J Neuroendocrinol",
+   "eloc": "doi: 10.1111/jne.12379"
+  },
+  "31327473": {
+   "title": "Role of Mesolimbic Brain-Derived Neurotrophic Factor in Depression.",
+   "authors": [
+    "Koo JW",
+    "Chaudhury D",
+    "Han MH",
+    "Nestler EJ"
+   ],
+   "pubdate": "2019 Nov 15",
+   "source": "Biol Psychiatry",
+   "eloc": "doi: 10.1016/j.biopsych.2019.05.020"
+  },
+  "28623429": {
+   "title": "BDNF: A Key Factor with Multipotent Impact on Brain Signaling and Synaptic Plasticity.",
+   "authors": [
+    "Kowiański P",
+    "Lietzau G",
+    "Czuba E",
+    "Waśkow M"
+   ],
+   "pubdate": "2018 Apr",
+   "source": "Cell Mol Neurobiol",
+   "eloc": "doi: 10.1007/s10571-017-0510-4"
+  },
+  "42511837": {
+   "title": "IL-37 and Neuroimmune Mechanisms Relevant to Depressive and Anxiety Disorders: A Scoping Review.",
+   "authors": [
+    "Kunikowska J",
+    "Gałecki P",
+    "Su KP",
+    "Bliźniewska-Kowalska K"
+   ],
+   "pubdate": "2026 Jul 22",
+   "source": "Int J Mol Sci",
+   "eloc": "doi: 10.3390/ijms27146496"
+  },
+  "41103629": {
+   "title": "Peripheral pro-inflammatory cytokine levels are associated with brain structural atrophies in patients with anxious depression.",
+   "authors": [
+    "Lan Z",
+    "Li JT",
+    "Zhu LL",
+    "Wu Y"
+   ],
+   "pubdate": "2025 Oct-Dec",
+   "source": "Int J Clin Health Psychol",
+   "eloc": "doi: 10.1016/j.ijchp.2025.100629"
+  },
+  "28215294": {
+   "title": "BDNF and Hippocampal Synaptic Plasticity.",
+   "authors": [
+    "Leal G",
+    "Bramham CR",
+    "Duarte CB"
+   ],
+   "pubdate": "2017",
+   "source": "Vitam Horm",
+   "eloc": "doi: 10.1016/bs.vh.2016.10.004"
+  },
+  "21253405": {
+   "title": "The roles of BDNF in the pathophysiology of major depression and in antidepressant treatment.",
+   "authors": [
+    "Lee BH",
+    "Kim YK"
+   ],
+   "pubdate": "2010 Dec",
+   "source": "Psychiatry Investig",
+   "eloc": "doi: 10.4306/pi.2010.7.4.231"
+  },
+  "42352641": {
+   "title": "Neuroinflammatory Mechanisms in Depression: From Biomarkers to Anti-Inflammatory Therapy.",
+   "authors": [
+    "Li S",
+    "Wang Q",
+    "Li J",
+    "Luo Q"
+   ],
+   "pubdate": "2026 Jun 12",
+   "source": "Brain Sci",
+   "eloc": "doi: 10.3390/brainsci16060632"
+  },
+  "35239774": {
+   "title": "Correlation of common inflammatory cytokines with cognition impairment, anxiety, and depression in acute ischemic stroke patients.",
+   "authors": [
+    "Li R",
+    "Fan W",
+    "Li D",
+    "Liu X"
+   ],
+   "pubdate": "2022",
+   "source": "Braz J Med Biol Res",
+   "eloc": "doi: 10.1590/1414-431X2021e11517"
+  },
+  "37725323": {
+   "title": "Gray matter abnormalities in patients with major depressive disorder and social anxiety disorder: a voxel-based meta-analysis.",
+   "authors": [
+    "Liang J",
+    "Yu Q",
+    "Liu Y",
+    "Qiu Y"
+   ],
+   "pubdate": "2023 Dec",
+   "source": "Brain Imaging Behav",
+   "eloc": "doi: 10.1007/s11682-023-00797-z"
+  },
+  "32386841": {
+   "title": "Brain-derived neurotrophic factor and mental disorders.",
+   "authors": [
+    "Lin CC",
+    "Huang TL"
+   ],
+   "pubdate": "2020 Apr",
+   "source": "Biomed J",
+   "eloc": "doi: 10.1016/j.bj.2020.01.001"
+  },
+  "39526037": {
+   "title": "Neuroinflammation in comorbid depression in Alzheimer's disease: A pilot study using post-mortem brain tissue.",
+   "authors": [
+    "Lin JT",
+    "Morisaki M",
+    "Sampathkumar SA",
+    "Lau LC"
+   ],
+   "pubdate": "2024",
+   "source": "Neurosci Appl",
+   "eloc": "doi: 10.1016/j.nsa.2024.104051"
+  },
+  "38199394": {
+   "title": "The difference in volumetric alternations of the orbitofrontal-limbic-striatal system between major depressive disorder and anxiety disorders: A systematic review and voxel-based meta-analysis.",
+   "authors": [
+    "Liu N",
+    "Sun H",
+    "Yang C",
+    "Li X"
+   ],
+   "pubdate": "2024 Apr 1",
+   "source": "J Affect Disord",
+   "eloc": "doi: 10.1016/j.jad.2024.01.043"
+  },
+  "31795605": {
+   "title": "Inflammation as the Potential Basis in Depression.",
+   "authors": [
+    "Maeng SH",
+    "Hong H"
+   ],
+   "pubdate": "2019 Nov",
+   "source": "Int Neurourol J",
+   "eloc": "doi: 10.5213/inj.1938226.113"
+  },
+  "35053845": {
+   "title": "Correlation between Mild Traumatic Brain Injury-Induced Inflammatory Cytokines and Emotional Symptom Traits: A Systematic Review.",
+   "authors": [
+    "Malik S",
+    "Alnaji O",
+    "Malik M",
+    "Gambale T"
+   ],
+   "pubdate": "2022 Jan 12",
+   "source": "Brain Sci",
+   "eloc": "doi: 10.3390/brainsci12010102"
+  },
+  "37251220": {
+   "title": "Inflammatory cytokines associated with mild traumatic brain injury and clinical outcomes: a systematic review and meta-analysis.",
+   "authors": [
+    "Malik S",
+    "Alnaji O",
+    "Malik M",
+    "Gambale T"
+   ],
+   "pubdate": "2023",
+   "source": "Front Neurol",
+   "eloc": "doi: 10.3389/fneur.2023.1123407"
+  },
+  "34394855": {
+   "title": "Does trauma-focused psychotherapy change the brain? A systematic review of neural correlates of therapeutic gains in PTSD.",
+   "authors": [
+    "Manthey A",
+    "Sierk A",
+    "Brakemeier EL",
+    "Walter H"
+   ],
+   "pubdate": "2021",
+   "source": "Eur J Psychotraumatol",
+   "eloc": "doi: 10.1080/20008198.2021.1929025"
+  },
+  "37581323": {
+   "title": "The HPA Axis as Target for Depression.",
+   "authors": [
+    "Menke A"
+   ],
+   "pubdate": "2024",
+   "source": "Curr Neuropharmacol",
+   "eloc": "doi: 10.2174/1570159X21666230811141557"
+  },
+  "24040309": {
+   "title": "Neural correlates of psychotherapy in anxiety and depression: a meta-analysis.",
+   "authors": [
+    "Messina I",
+    "Sambin M",
+    "Palmieri A",
+    "Viviani R"
+   ],
+   "pubdate": "2013",
+   "source": "PLoS One",
+   "eloc": "doi: 10.1371/journal.pone.0074657"
+  },
+  "34679364": {
+   "title": "HPA Axis in the Pathomechanism of Depression and Schizophrenia: New Therapeutic Strategies Based on Its Participation.",
+   "authors": [
+    "Mikulska J",
+    "Juszczyk G",
+    "Gawrońska-Grzywacz M",
+    "Herbet M"
+   ],
+   "pubdate": "2021 Sep 30",
+   "source": "Brain Sci",
+   "eloc": "doi: 10.3390/brainsci11101298"
+  },
+  "31075818": {
+   "title": "The Role of Chemokines in the Pathophysiology of Major Depressive Disorder.",
+   "authors": [
+    "Milenkovic VM",
+    "Stanton EH",
+    "Nothdurfter C",
+    "Rupprecht R"
+   ],
+   "pubdate": "2019 May 9",
+   "source": "Int J Mol Sci",
+   "eloc": "doi: 10.3390/ijms20092283"
+  },
+  "36860860": {
+   "title": "Association between inflammatory cytokines and symptoms of major depressive disorder in adults.",
+   "authors": [
+    "Min X",
+    "Wang G",
+    "Cui Y",
+    "Meng P"
+   ],
+   "pubdate": "2023",
+   "source": "Front Immunol",
+   "eloc": "doi: 10.3389/fimmu.2023.1110775"
+  },
+  "33152026": {
+   "title": "Peripheral blood levels of brain-derived neurotrophic factor in patients with post-traumatic stress disorder (PTSD): A systematic review and meta-analysis.",
+   "authors": [
+    "Mojtabavi H",
+    "Saghazadeh A",
+    "van den Heuvel L",
+    "Bucker J"
+   ],
+   "pubdate": "2020",
+   "source": "PLoS One",
+   "eloc": "doi: 10.1371/journal.pone.0241928"
+  },
+  "35287688": {
+   "title": "Circulating brain-derived neurotrophic factor as a potential biomarker in stroke: a systematic review and meta-analysis.",
+   "authors": [
+    "Mojtabavi H",
+    "Shaka Z",
+    "Momtazmanesh S",
+    "Ajdari A"
+   ],
+   "pubdate": "2022 Mar 14",
+   "source": "J Transl Med",
+   "eloc": "doi: 10.1186/s12967-022-03312-y"
+  },
+  "40179065": {
+   "title": "Depression as a risk factor for Alzheimer's disease: A human post-mortem study.",
+   "authors": [
+    "Morisaki M",
+    "Rezaali F",
+    "Lau LC",
+    "Boche D"
+   ],
+   "pubdate": "2025",
+   "source": "PLoS One",
+   "eloc": "doi: 10.1371/journal.pone.0320561"
+  },
+  "23747574": {
+   "title": "Synaptic regulation of affective behaviors; role of BDNF.",
+   "authors": [
+    "Ninan I"
+   ],
+   "pubdate": "2014 Jan",
+   "source": "Neuropharmacology",
+   "eloc": "doi: 10.1016/j.neuropharm.2013.04.011"
+  },
+  "32726102": {
+   "title": "Volumetric brain differences in clinical depression in association with anxiety: a systematic review with meta-analysis.",
+   "authors": [
+    "Espinoza Oyarce DA",
+    "Shaw ME",
+    "Alateeq K",
+    "Cherbuin N"
+   ],
+   "pubdate": "2020 Nov 1",
+   "source": "J Psychiatry Neurosci",
+   "eloc": "doi: 10.1503/jpn.190156"
+  },
+  "39684808": {
+   "title": "Variations in BDNF and Their Role in the Neurotrophic Antidepressant Mechanisms of Ketamine and Esketamine: A Review.",
+   "authors": [
+    "Pardossi S",
+    "Fagiolini A",
+    "Cuomo A"
+   ],
+   "pubdate": "2024 Dec 5",
+   "source": "Int J Mol Sci",
+   "eloc": "doi: 10.3390/ijms252313098"
+  },
+  "28928987": {
+   "title": "Brain-Derived Neurotrophic Factor, Depression, and Physical Activity: Making the Neuroplastic Connection.",
+   "authors": [
+    "Phillips C"
+   ],
+   "pubdate": "2017",
+   "source": "Neural Plast",
+   "eloc": "doi: 10.1155/2017/7260130"
+  },
+  "41090786": {
+   "title": "Inflammatory and Immune Biomarkers in Mood Disorders: From Mechanistic Pathways to Clinical Translation.",
+   "authors": [
+    "Pinzi M",
+    "Fagiolini A",
+    "Koukouna D",
+    "Gualtieri G"
+   ],
+   "pubdate": "2025 Oct 8",
+   "source": "Cells",
+   "eloc": "doi: 10.3390/cells14191558"
+  },
+  "41898731": {
+   "title": "Glucocorticoid Receptor Signaling: Multilevel Organization, Roles in Fetal Development, and Postnatal Outcomes.",
+   "authors": [
+    "Potapova S",
+    "Isakov Y",
+    "Tyulkova E",
+    "Vetrovoy O"
+   ],
+   "pubdate": "2026 Mar 22",
+   "source": "Int J Mol Sci",
+   "eloc": "doi: 10.3390/ijms27062873"
+  },
+  "33230708": {
+   "title": "Unfolding the Role of BDNF as a Biomarker for Treatment of Depression.",
+   "authors": [
+    "Rana T",
+    "Behl T",
+    "Sehgal A",
+    "Srivastava P"
+   ],
+   "pubdate": "2021 Oct",
+   "source": "J Mol Neurosci",
+   "eloc": "doi: 10.1007/s12031-020-01754-x"
+  },
+  "32161729": {
+   "title": "The role of neuroinflammation on pathogenesis of affective disorders.",
+   "authors": [
+    "Rhie SJ",
+    "Jung EY",
+    "Shim I"
+   ],
+   "pubdate": "2020 Feb",
+   "source": "J Exerc Rehabil",
+   "eloc": "doi: 10.12965/jer.2040016.008"
+  },
+  "34955170": {
+   "title": "Role of Inflammation in Traumatic Brain Injury-Associated Risk for Neuropsychiatric Disorders: State of the Evidence and Where Do We Go From Here.",
+   "authors": [
+    "Risbrough VB",
+    "Vaughn MN",
+    "Friend SF"
+   ],
+   "pubdate": "2022 Mar 1",
+   "source": "Biol Psychiatry",
+   "eloc": "doi: 10.1016/j.biopsych.2021.11.012"
+  },
+  "40305200": {
+   "title": "Neuroinflammation-A Crucial Factor in the Pathophysiology of Depression-A Comprehensive Review.",
+   "authors": [
+    "Sălcudean A",
+    "Bodo CR",
+    "Popovici RA",
+    "Cozma MM"
+   ],
+   "pubdate": "2025 Mar 30",
+   "source": "Biomolecules",
+   "eloc": "doi: 10.3390/biom15040502"
+  },
+  "29627509": {
+   "title": "Neuroimaging findings as predictors of treatment outcome of psychotherapy in anxiety disorders.",
+   "authors": [
+    "Santos VA",
+    "Carvalho DD",
+    "Van Ameringen M",
+    "Nardi AE"
+   ],
+   "pubdate": "2019 Apr 20",
+   "source": "Prog Neuropsychopharmacol Biol Psychiatry",
+   "eloc": "doi: 10.1016/j.pnpbp.2018.04.001"
+  },
+  "30581154": {
+   "title": "Neural Correlates of Affective Disturbances: A Comparative Meta-analysis of Negative Affect Processing in Borderline Personality Disorder, Major Depressive Disorder, and Posttraumatic Stress Disorder.",
+   "authors": [
+    "Schulze L",
+    "Schulze A",
+    "Renneberg B",
+    "Schmahl C"
+   ],
+   "pubdate": "2019 Mar",
+   "source": "Biol Psychiatry Cogn Neurosci Neuroimaging",
+   "eloc": "doi: 10.1016/j.bpsc.2018.11.004"
+  },
+  "24676455": {
+   "title": "The common traits of the ACC and PFC in anxiety disorders in the DSM-5: meta-analysis of voxel-based morphometry studies.",
+   "authors": [
+    "Shang J",
+    "Fu Y",
+    "Ren Z",
+    "Zhang T"
+   ],
+   "pubdate": "2014",
+   "source": "PLoS One",
+   "eloc": "doi: 10.1371/journal.pone.0093432"
+  },
+  "37899543": {
+   "title": "Immunity impacts cognitive deficits across neurological disorders.",
+   "authors": [
+    "Shaw BC",
+    "Anders VR",
+    "Tinkey RA",
+    "Habean ML"
+   ],
+   "pubdate": "2024 Oct",
+   "source": "J Neurochem",
+   "eloc": "doi: 10.1111/jnc.15999"
+  },
+  "37878890": {
+   "title": "Longitudinal change of six common inflammatory cytokines and their relationship to anxiety, depression, and cognitive impairment in acute ischemic stroke patients.",
+   "authors": [
+    "Shi Q",
+    "Li R",
+    "Qu Z",
+    "Lang Y"
+   ],
+   "pubdate": "2023",
+   "source": "Braz J Med Biol Res",
+   "eloc": "doi: 10.1590/1414-431X2023e13025"
+  },
+  "37763162": {
+   "title": "Associations of BDNF/BDNF-AS SNPs with Depression, Schizophrenia, and Bipolar Disorder.",
+   "authors": [
+    "Shkundin A",
+    "Halaris A"
+   ],
+   "pubdate": "2023 Sep 18",
+   "source": "J Pers Med",
+   "eloc": "doi: 10.3390/jpm13091395"
+  },
+  "34388482": {
+   "title": "Systematic transdiagnostic review of magnetic-resonance imaging results: Depression, anxiety disorders and their co-occurrence.",
+   "authors": [
+    "Sindermann L",
+    "Redlich R",
+    "Opel N",
+    "Böhnlein J"
+   ],
+   "pubdate": "2021 Oct",
+   "source": "J Psychiatr Res",
+   "eloc": "doi: 10.1016/j.jpsychires.2021.07.022"
+  },
+  "32499732": {
+   "title": "Pharmacological Treatment of Anxiety Disorders: The Role of the HPA Axis.",
+   "authors": [
+    "Tafet GE",
+    "Nemeroff CB"
+   ],
+   "pubdate": "2020",
+   "source": "Front Psychiatry",
+   "eloc": "doi: 10.3389/fpsyt.2020.00443"
+  },
+  "31068886": {
+   "title": "A Tilted Axis: Maladaptive Inflammation and HPA Axis Dysfunction Contribute to Consequences of TBI.",
+   "authors": [
+    "Tapp ZM",
+    "Godbout JP",
+    "Kokiko-Cochran ON"
+   ],
+   "pubdate": "2019",
+   "source": "Front Neurol",
+   "eloc": "doi: 10.3389/fneur.2019.00345"
+  },
+  "25459896": {
+   "title": "The brain mineralocorticoid receptor and stress resilience.",
+   "authors": [
+    "ter Heegde F",
+    "De Rijk RH",
+    "Vinkers CH"
+   ],
+   "pubdate": "2015 Feb",
+   "source": "Psychoneuroendocrinology",
+   "eloc": "doi: 10.1016/j.psyneuen.2014.10.022"
+  },
+  "40362507": {
+   "title": "From Synaptic Plasticity to Neurodegeneration: BDNF as a Transformative Target in Medicine.",
+   "authors": [
+    "Toader C",
+    "Serban M",
+    "Munteanu O",
+    "Covache-Busuioc RA"
+   ],
+   "pubdate": "2025 Apr 30",
+   "source": "Int J Mol Sci",
+   "eloc": "doi: 10.3390/ijms26094271"
+  },
+  "29631540": {
+   "title": "The effect of trauma and alcohol on the relationship between level of cytokines and depression among patients entering psychiatric treatment.",
+   "authors": [
+    "Toft H",
+    "Neupane SP",
+    "Bramness JG",
+    "Tilden T"
+   ],
+   "pubdate": "2018 Apr 10",
+   "source": "BMC Psychiatry",
+   "eloc": "doi: 10.1186/s12888-018-1677-z"
+  },
+  "33544788": {
+   "title": "Brain changes in depression.",
+   "authors": [
+    "Trifu SC",
+    "Trifu AC",
+    "Aluaş E",
+    "Tătaru MA"
+   ],
+   "pubdate": "2020 Apr-Jun",
+   "source": "Rom J Morphol Embryol",
+   "eloc": "doi: 10.47162/RJME.61.2.06"
+  },
+  "32150310": {
+   "title": "Neuroinflammation and depression: A review.",
+   "authors": [
+    "Troubat R",
+    "Barone P",
+    "Leman S",
+    "Desmidt T"
+   ],
+   "pubdate": "2021 Jan",
+   "source": "Eur J Neurosci",
+   "eloc": "doi: 10.1111/ejn.14720"
+  },
+  "33186640": {
+   "title": "Role of interleukin 8 in depression and other psychiatric disorders.",
+   "authors": [
+    "Tsai SJ"
+   ],
+   "pubdate": "2021 Mar 2",
+   "source": "Prog Neuropsychopharmacol Biol Psychiatry",
+   "eloc": "doi: 10.1016/j.pnpbp.2020.110173"
+  },
+  "40946890": {
+   "title": "Dynamic Cytokine Relationships Across the Blood-Brain Barrier in Humans and Nonhuman Primates-Implications for Psychiatric Illness: A Systematic Review.",
+   "authors": [
+    "Tyagi R",
+    "Bartley CM"
+   ],
+   "pubdate": "2026 Jun 1",
+   "source": "Biol Psychiatry",
+   "eloc": "doi: 10.1016/j.biopsych.2025.08.022"
+  },
+  "29802758": {
+   "title": "iPlasticity: Induced juvenile-like plasticity in the adult brain as a mechanism of antidepressants.",
+   "authors": [
+    "Umemori J",
+    "Winkel F",
+    "Didio G",
+    "Llach Pou M"
+   ],
+   "pubdate": "2018 Sep",
+   "source": "Psychiatry Clin Neurosci",
+   "eloc": "doi: 10.1111/pcn.12683"
+  },
+  "28183380": {
+   "title": "Assessment of the hypothalamic-pituitary-adrenal axis activity: glucocorticoid receptor and mineralocorticoid receptor function in depression with early life stress - a systematic review.",
+   "authors": [
+    "Von Werne Baes C",
+    "de Carvalho Tofoli SM",
+    "Martins CM",
+    "Juruena MF"
+   ],
+   "pubdate": "2012 Feb",
+   "source": "Acta Neuropsychiatr",
+   "eloc": "doi: 10.1111/j.1601-5215.2011.00610.x"
+  },
+  "38012702": {
+   "title": "Neuroinflammation, memory, and depression: new approaches to hippocampal neurogenesis.",
+   "authors": [
+    "Wu A",
+    "Zhang J"
+   ],
+   "pubdate": "2023 Nov 27",
+   "source": "J Neuroinflammation",
+   "eloc": "doi: 10.1186/s12974-023-02964-x"
+  },
+  "33293948": {
+   "title": "Changes in Hippocampal Plasticity in Depression and Therapeutic Approaches Influencing These Changes.",
+   "authors": [
+    "Xu W",
+    "Yao X",
+    "Zhao F",
+    "Zhao H"
+   ],
+   "pubdate": "2020",
+   "source": "Neural Plast",
+   "eloc": "doi: 10.1155/2020/8861903"
+  },
+  "32351365": {
+   "title": "The Role of BDNF on Neural Plasticity in Depression.",
+   "authors": [
+    "Yang T",
+    "Nie Z",
+    "Shu H",
+    "Kuang Y"
+   ],
+   "pubdate": "2020",
+   "source": "Front Cell Neurosci",
+   "eloc": "doi: 10.3389/fncel.2020.00082"
+  },
+  "41449192": {
+   "title": "Cytokine-Microglia Interactions in Neuroinflammation: Mechanisms, Disease Dynamics, and Therapeutic Strategies.",
+   "authors": [
+    "Zhang F",
+    "Yang W",
+    "Sun R",
+    "Duan X"
+   ],
+   "pubdate": "2026 Feb",
+   "source": "Antioxid Redox Signal",
+   "eloc": "doi: 10.1177/15230864251401591"
+  },
+  "30714802": {
+   "title": "Reduction of BDNF results in GABAergic neuroplasticity dysfunction and contributes to late-life anxiety disorder.",
+   "authors": [
+    "Zhu G",
+    "Sun X",
+    "Yang Y",
+    "Du Y"
+   ],
+   "pubdate": "2019 Apr",
+   "source": "Behav Neurosci",
+   "eloc": "doi: 10.1037/bne0000301"
+  },
+  "29856741": {
+   "title": "Changes in the serum levels of inflammatory cytokines in antidepressant drug-naïve patients with major depression.",
+   "authors": [
+    "Zou W",
+    "Feng R",
+    "Yang Y"
+   ],
+   "pubdate": "2018",
+   "source": "PLoS One",
+   "eloc": "doi: 10.1371/journal.pone.0197267"
+  },
+  "41156113": {
+   "title": "Impact of Post-Traumatic Stress Disorder Duration on Volumetric and Microstructural Parameters of the Hippo-Campus, Amygdala, and Prefrontal Cortex: A Multiparametric Magnetic Resonance Imaging Study with Correlation Analysis.",
+   "authors": [
+    "Paraniak-Gieszczyk B",
+    "Ogłodek EA"
+   ],
+   "pubdate": "2025 Oct 14",
+   "source": "J Clin Med",
+   "eloc": "doi: 10.3390/jcm14207242"
+  },
+  "11430844": {
+   "title": "The role of childhood trauma in the neurobiology of mood and anxiety disorders: preclinical and clinical studies.",
+   "authors": [
+    "Heim C",
+    "Nemeroff CB"
+   ],
+   "pubdate": "2001 Jun 15",
+   "source": "Biol Psychiatry",
+   "eloc": ""
+  },
+  "22442074": {
+   "title": "Variant brain-derived neurotrophic factor Val66Met polymorphism alters vulnerability to stress and response to antidepressants.",
+   "authors": [
+    "Yu H",
+    "Wang DD",
+    "Wang Y",
+    "Liu T"
+   ],
+   "pubdate": "2012 Mar 21",
+   "source": "J Neurosci",
+   "eloc": "doi: 10.1523/JNEUROSCI.5048-11.2012"
+  },
+  "23468190": {
+   "title": "Cytokine targets in the brain: impact on neurotransmitters and neurocircuits.",
+   "authors": [
+    "Miller AH",
+    "Haroon E",
+    "Raison CL",
+    "Felger JC"
+   ],
+   "pubdate": "2013 Apr",
+   "source": "Depress Anxiety",
+   "eloc": "doi: 10.1002/da.22084"
+  },
+  "23536785": {
+   "title": "In search of the trauma memory: a meta-analysis of functional neuroimaging studies of symptom provocation in posttraumatic stress disorder (PTSD).",
+   "authors": [
+    "Sartory G",
+    "Cwik J",
+    "Knuppertz H",
+    "Schürholt B"
+   ],
+   "pubdate": "2013",
+   "source": "PLoS One",
+   "eloc": "doi: 10.1371/journal.pone.0058150"
+  },
+  "25462901": {
+   "title": "Effects of cortisol on cognition in major depressive disorder, posttraumatic stress disorder and borderline personality disorder - 2014 Curt Richter Award Winner.",
+   "authors": [
+    "Wingenfeld K",
+    "Wolf OT"
+   ],
+   "pubdate": "2015 Jan",
+   "source": "Psychoneuroendocrinology",
+   "eloc": "doi: 10.1016/j.psyneuen.2014.10.009"
+  },
+  "25735885": {
+   "title": "A systematic review and meta-analysis of magnetic resonance imaging measurement of structural volumes in posttraumatic stress disorder.",
+   "authors": [
+    "O'Doherty DC",
+    "Chitty KM",
+    "Saddiqui S",
+    "Bennett MR"
+   ],
+   "pubdate": "2015 Apr 30",
+   "source": "Psychiatry Res",
+   "eloc": "doi: 10.1016/j.pscychresns.2015.01.002"
+  },
+  "27049575": {
+   "title": "In search of the HPA axis activity in unipolar depression patients with childhood trauma: Combined cortisol awakening response and dexamethasone suppression test.",
+   "authors": [
+    "Lu S",
+    "Gao W",
+    "Huang M",
+    "Li L"
+   ],
+   "pubdate": "2016 Jul",
+   "source": "J Psychiatr Res",
+   "eloc": "doi: 10.1016/j.jpsychires.2016.03.009"
+  },
+  "27531235": {
+   "title": "Understanding heterogeneity in grey matter research of adults with childhood maltreatment-A meta-analysis and review.",
+   "authors": [
+    "Paquola C",
+    "Bennett MR",
+    "Lagopoulos J"
+   ],
+   "pubdate": "2016 Oct",
+   "source": "Neurosci Biobehav Rev",
+   "eloc": "doi: 10.1016/j.neubiorev.2016.08.011"
+  },
+  "27824358": {
+   "title": "You say 'prefrontal cortex' and I say 'anterior cingulate': meta-analysis of spatial overlap in amygdala-to-prefrontal connectivity and internalizing symptomology.",
+   "authors": [
+    "Marusak HA",
+    "Thomason ME",
+    "Peters C",
+    "Zundel C"
+   ],
+   "pubdate": "2016 Nov 8",
+   "source": "Transl Psychiatry",
+   "eloc": "doi: 10.1038/tp.2016.218"
+  },
+  "30086534": {
+   "title": "Childhood trauma dependent anxious depression sensitizes HPA axis function.",
+   "authors": [
+    "Menke A",
+    "Lehrieder D",
+    "Fietz J",
+    "Leistner C"
+   ],
+   "pubdate": "2018 Dec",
+   "source": "Psychoneuroendocrinology",
+   "eloc": "doi: 10.1016/j.psyneuen.2018.07.025"
+  },
+  "31258096": {
+   "title": "Neural signatures of conditioning, extinction learning, and extinction recall in posttraumatic stress disorder: a meta-analysis of functional magnetic resonance imaging studies.",
+   "authors": [
+    "Suarez-Jimenez B",
+    "Albajes-Eizagirre A",
+    "Lazarov A",
+    "Zhu X"
+   ],
+   "pubdate": "2020 Jul",
+   "source": "Psychol Med",
+   "eloc": "doi: 10.1017/S0033291719001387"
+  },
+  "31794798": {
+   "title": "Childhood trauma, HPA axis activity and antidepressant response in patients with depression.",
+   "authors": [
+    "Nikkheslat N",
+    "McLaughlin AP",
+    "Hastings C",
+    "Zajkowska Z"
+   ],
+   "pubdate": "2020 Jul",
+   "source": "Brain Behav Immun",
+   "eloc": "doi: 10.1016/j.bbi.2019.11.024"
+  },
+  "31801966": {
+   "title": "Neuroplasticity in cognitive and psychological mechanisms of depression: an integrative model.",
+   "authors": [
+    "Price RB",
+    "Duman R"
+   ],
+   "pubdate": "2020 Mar",
+   "source": "Mol Psychiatry",
+   "eloc": "doi: 10.1038/s41380-019-0615-x"
+  },
+  "31900428": {
+   "title": "Neurobiology of BDNF in fear memory, sensitivity to stress, and stress-related disorders.",
+   "authors": [
+    "Notaras M",
+    "van den Buuse M"
+   ],
+   "pubdate": "2020 Oct",
+   "source": "Mol Psychiatry",
+   "eloc": "doi: 10.1038/s41380-019-0639-2"
+  },
+  "31964160": {
+   "title": "Identification of Common Neural Circuit Disruptions in Emotional Processing Across Psychiatric Disorders.",
+   "authors": [
+    "McTeague LM",
+    "Rosenberg BM",
+    "Lopez JW",
+    "Carreon DM"
+   ],
+   "pubdate": "2020 May 1",
+   "source": "Am J Psychiatry",
+   "eloc": "doi: 10.1176/appi.ajp.2019.18111271"
+  },
+  "32085670": {
+   "title": "The Relationships Between Stress, Mental Disorders, and Epigenetic Regulation of BDNF.",
+   "authors": [
+    "Miao Z",
+    "Wang Y",
+    "Sun Z"
+   ],
+   "pubdate": "2020 Feb 18",
+   "source": "Int J Mol Sci",
+   "eloc": "doi: 10.3390/ijms21041375"
+  },
+  "33053385": {
+   "title": "Effects of childhood trauma experience and BDNF Val66Met polymorphism on brain plasticity relate to emotion regulation.",
+   "authors": [
+    "Tian T",
+    "Li J",
+    "Zhang G",
+    "Wang J"
+   ],
+   "pubdate": "2021 Feb 1",
+   "source": "Behav Brain Res",
+   "eloc": "doi: 10.1016/j.bbr.2020.112949"
+  },
+  "34100334": {
+   "title": "Microglia and HPA axis in depression: An overview of participation and relationship.",
+   "authors": [
+    "Cheiran Pereira G",
+    "Piton E",
+    "Moreira Dos Santos B",
+    "Ramanzini LG"
+   ],
+   "pubdate": "2022 Mar",
+   "source": "World J Biol Psychiatry",
+   "eloc": "doi: 10.1080/15622975.2021.1939154"
+  },
+  "34256069": {
+   "title": "Structural brain correlates in major depression, anxiety disorders and post-traumatic stress disorder: A voxel-based morphometry meta-analysis.",
+   "authors": [
+    "Serra-Blasco M",
+    "Radua J",
+    "Soriano-Mas C",
+    "Gómez-Benlloch A"
+   ],
+   "pubdate": "2021 Oct",
+   "source": "Neurosci Biobehav Rev",
+   "eloc": "doi: 10.1016/j.neubiorev.2021.07.002"
+  },
+  "34963057": {
+   "title": "BDNF signaling in context: From synaptic regulation to psychiatric disorders.",
+   "authors": [
+    "Wang CS",
+    "Kavalali ET",
+    "Monteggia LM"
+   ],
+   "pubdate": "2022 Jan 6",
+   "source": "Cell",
+   "eloc": "doi: 10.1016/j.cell.2021.12.003"
+  },
+  "35189164": {
+   "title": "Neurostructural traces of early life adversities: A meta-analysis exploring age- and adversity-specific effects.",
+   "authors": [
+    "Pollok TM",
+    "Kaiser A",
+    "Kraaijenvanger EJ",
+    "Monninger M"
+   ],
+   "pubdate": "2022 Apr",
+   "source": "Neurosci Biobehav Rev",
+   "eloc": "doi: 10.1016/j.neubiorev.2022.104589"
+  },
+  "35354926": {
+   "title": "Dysregulation of adult hippocampal neuroplasticity in major depression: pathogenesis and therapeutic implications.",
+   "authors": [
+    "Tartt AN",
+    "Mariani MB",
+    "Hen R",
+    "Mann JJ"
+   ],
+   "pubdate": "2022 Jun",
+   "source": "Mol Psychiatry",
+   "eloc": "doi: 10.1038/s41380-022-01520-y"
+  },
+  "35599780": {
+   "title": "Childhood Trauma, the HPA Axis and Psychiatric Illnesses: A Targeted Literature Synthesis.",
+   "authors": [
+    "Murphy F",
+    "Nasa A",
+    "Cullinane D",
+    "Raajakesary K"
+   ],
+   "pubdate": "2022",
+   "source": "Front Psychiatry",
+   "eloc": "doi: 10.3389/fpsyt.2022.748372"
+  },
+  "35872219": {
+   "title": "Brain-derived neurotrophic factor expression in serotonergic neurons improves stress resilience and promotes adult hippocampal neurogenesis.",
+   "authors": [
+    "Leschik J",
+    "Gentile A",
+    "Cicek C",
+    "Péron S"
+   ],
+   "pubdate": "2022 Oct",
+   "source": "Prog Neurobiol",
+   "eloc": "doi: 10.1016/j.pneurobio.2022.102333"
+  },
+  "35992016": {
+   "title": "A chicken and egg scenario in psychoneuroimmunology: Bidirectional mechanisms linking cytokines and depression.",
+   "authors": [
+    "Rengasamy M",
+    "Marsland A",
+    "Spada M",
+    "Hsiung K"
+   ],
+   "pubdate": "2021 Dec",
+   "source": "J Affect Disord Rep",
+   "eloc": "pii: 100177. doi: 10.1016/j.jadr.2021.100177"
+  },
+  "36029627": {
+   "title": "Functional and structural brain abnormalities in posttraumatic stress disorder: A multimodal meta-analysis of neuroimaging studies.",
+   "authors": [
+    "Xiao S",
+    "Yang Z",
+    "Su T",
+    "Gong J"
+   ],
+   "pubdate": "2022 Nov",
+   "source": "J Psychiatr Res",
+   "eloc": "doi: 10.1016/j.jpsychires.2022.08.010"
+  },
+  "36151073": {
+   "title": "Pathological fear, anxiety and negative affect exhibit distinct neurostructural signatures: evidence from psychiatric neuroimaging meta-analysis.",
+   "authors": [
+    "Liu X",
+    "Klugah-Brown B",
+    "Zhang R",
+    "Chen H"
+   ],
+   "pubdate": "2022 Sep 23",
+   "source": "Transl Psychiatry",
+   "eloc": "doi: 10.1038/s41398-022-02157-9"
+  },
+  "37741177": {
+   "title": "A systematic review and meta-analysis of resting-state fMRI in anxiety disorders: Need for data sharing to move the field forward.",
+   "authors": [
+    "Zugman A",
+    "Jett L",
+    "Antonacci C",
+    "Winkler AM"
+   ],
+   "pubdate": "2023 Oct",
+   "source": "J Anxiety Disord",
+   "eloc": "doi: 10.1016/j.janxdis.2023.102773"
+  },
+  "37781095": {
+   "title": "Involvement of brain-derived neurotrophic factor signaling in the pathogenesis of stress-related brain diseases.",
+   "authors": [
+    "Numakawa T",
+    "Kajihara R"
+   ],
+   "pubdate": "2023",
+   "source": "Front Mol Neurosci",
+   "eloc": "doi: 10.3389/fnmol.2023.1247422"
+  },
+  "39304648": {
+   "title": "Neural correlates of harm avoidance: a multimodal meta-analysis of brain structural and resting-state functional neuroimaging studies.",
+   "authors": [
+    "Zhong S",
+    "Lin J",
+    "Zhang L",
+    "Wang S"
+   ],
+   "pubdate": "2024 Sep 20",
+   "source": "Transl Psychiatry",
+   "eloc": "doi: 10.1038/s41398-024-03091-8"
+  },
+  "40199321": {
+   "title": "Inflammatory and anti-inflammatory cytokines bidirectionally modulate amygdala circuits regulating anxiety.",
+   "authors": [
+    "Lee B",
+    "Kwon JT",
+    "Jeong Y",
+    "Caris H"
+   ],
+   "pubdate": "2025 Apr 17",
+   "source": "Cell",
+   "eloc": "doi: 10.1016/j.cell.2025.03.005"
+  },
+  "41660208": {
+   "title": "Multilayered regulation of BDNF DNA methylation in PTSD: a review from molecular mechanisms to trans generational inheritance.",
+   "authors": [
+    "Wang L",
+    "Lv B",
+    "Ma Z"
+   ],
+   "pubdate": "2026",
+   "source": "Front Psychiatry",
+   "eloc": "doi: 10.3389/fpsyt.2026.1734160"
+  },
+  "42165096": {
+   "title": "Altered amygdala resting-state functional connectivity in anxiety disorders: a coordinate-based meta-analysis.",
+   "authors": [
+    "Lu L",
+    "Xu H",
+    "Wang R",
+    "Zhang B"
+   ],
+   "pubdate": "2026 May 21",
+   "source": "Psychol Med",
+   "eloc": "doi: 10.1017/S0033291726104310"
+  },
+  "19625997": {
+   "title": "The neurocircuitry of fear, stress, and anxiety disorders.",
+   "authors": [
+    "Shin LM",
+    "Liberzon I"
+   ],
+   "pubdate": "2010 Jan",
+   "source": "Neuropsychopharmacology",
+   "eloc": "doi: 10.1038/npp.2009.83"
+  }
+ }
+}

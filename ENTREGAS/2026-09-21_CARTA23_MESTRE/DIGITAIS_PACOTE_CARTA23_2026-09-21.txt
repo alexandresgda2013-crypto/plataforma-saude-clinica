@@ -1,0 +1,15 @@
+DIGITAIS — PACOTE CARTA 23 AO AUDITOR-MESTRE — 2026-09-21 (RODADA 61)
+
+Documento-mestre B1 — 5.194 bytes (intocado).
+(1) sha256; nome; bytes
+
+9921c58b83e54b9ffb8ddb0209745fd1d00272daa5bd84abe3c8593ca5ccc197  CARTA_23_AO_AUDITOR_MESTRE_2026-09-21.md (8855 b)
+
+Objetos verificados nesta rodada:
+minuta 3 rev.1      : 2ce9698c5a163cc16f766c34197d3887bb4cf0093ad0ed38108c96ecb1e46d00 (21.729 b)
+analise comentador  : e55037196fefe47eb808f10d04ceed25668ee71d5e252e57c57c4592781f1683 (arquivada)
+minuta 1 mestre     : 3b6a15a0b311a7b73f8793e1187a353df92201a11d7746e9082d18c4f6c38595 (na casa desde 15/09 — confere com a digital declarada)
+RESPOSTA_10         : cc40dfa0ed31f08407f96b848283ccdf429e2caa00561a83fd2565d2e74db0e6 (15/09)
+trilha 74           : 15/15 — TRILHA74_script_minuta3_L06_parecer_2026-09-21.py (+json)
+
+Nota de auto-referencia: o sha256 do ZIP deste pacote NAO consta deste arquivo; esta no CHANGELOG 61.

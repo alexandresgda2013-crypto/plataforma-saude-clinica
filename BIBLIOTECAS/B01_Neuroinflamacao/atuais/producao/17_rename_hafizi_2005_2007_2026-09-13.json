@@ -1,0 +1,43 @@
+{
+  "data": "2026-09-13",
+  "condicao": "AUD-038/V-05 causa-raiz — ano no ID extraído do nome do periódico (eutils: 2007, PMID 17639827)",
+  "contexto_L15": "IDs com dado mutável são frágeis; este rename é correção factual pontual, não precedente de política",
+  "ops": [
+    {
+      "arquivo": "Evidencias/Bibliografia/01_pmids.json",
+      "substituicoes": 2,
+      "detalhe": "1ª execução: id_referencia_interna; complemento: campo-lista ids_referencia_interna[0] (lista aninhada — 1º passe só tocava strings de topo)"
+    },
+    {
+      "arquivo": "Evidencias/Vinculos/vinculos_referencia_afirmacao.json",
+      "substituicoes": 1
+    },
+    {
+      "arquivo": "Auditoria_B1/ledger_auditoria_B1.json",
+      "substituicoes": 1
+    },
+    {
+      "arquivo": "B1 NEUROINFLAMAÇÃO V5 CANONICA.md",
+      "substituicoes": 1,
+      "detalhe": "token do APÊNDICE DE CORPUS HAFIZI_2005[MA]→HAFIZI_2007[MA] (só ano; prosa 0 linhas); sha novo 5051080badefa0ae2c73c5571b835f7bfb9a2710cdb56d41999050f3b84940f5"
+    },
+    {
+      "arquivo": "Auditoria_B1/ledger_auditoria_B1.json",
+      "substituicoes": 1,
+      "detalhe": "complemento: citacao_literal-TOKEN do ledger HAFIZI_2005[TAG]→HAFIZI_2007[TAG]"
+    },
+    {
+      "arquivo": "Evidencias/Bibliografia/_manifesto_biblioteca.json",
+      "substituicoes": 1,
+      "detalhe": "sha256_canonica_vigente atualizado p/ 5051080badefa0ae… com entrada datada"
+    },
+    {
+      "arquivo": "Auditoria_B1/ledger_auditoria_B1.json",
+      "substituicoes": 25,
+      "detalhe": "propagação do token nas âncoras do LEDGER que citam a linha-índice do apêndice (AUD_B1_0001–00xx): HAFIZI_2005[MA]→HAFIZI_2007[MA] dentro do trecho_ancora, mantendo literalidade verificada 236/236 contra a canônica"
+    }
+  ],
+  "assert_final": "2026-09-13 nenhuma ocorrência estrutural viva de REF_HAFIZI_2005 (notas históricas excluídas); ocorrências remanescentes são nota_auditoria/nota_reparo datadas que documentam o rename",
+  "fechamento": "2026-09-13: rename completo em TODOS os artefatos vivos — 01_pmids (id + campo-lista), vínculos (VINC_B1_0047), ledger (id + citacao_literal-TOKEN), canônica (token-índice do apêndice) e manifesto (sha). ASSERT: nenhum campo vivo usa REF_HAFIZI_2005; notas históricas datadas preservam o id antigo.",
+  "licao": "2026-09-13: o rename evidenciou o acoplamento frágil F-04/L-03 — âncoras de ledger que citam linha-lote propagam qualquer edição do token a N entradas; confirma a prioridade da decisão arquitetural L-03."
+}

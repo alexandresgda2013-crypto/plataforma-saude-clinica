@@ -1,0 +1,61 @@
+{
+ "acao": "09b_reconciliacao_ledger_arquivo_modulo09",
+ "data": "2026-09-11",
+ "n": 9,
+ "det": [
+  {
+   "id_auditoria": "AUD_B4_0008",
+   "ref": "REF_RUHE_2007",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B4_0011",
+   "ref": "REF_RISCH_2009",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B4_0016",
+   "ref": "REF_CIPRIANI_2018",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B4_0017",
+   "ref": "REF_MELTZERBRODY_2018",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "03_ensaios_clinicos"
+  },
+  {
+   "id_auditoria": "AUD_B4_0044",
+   "ref": "REF_STRAWBRIDGE_2023",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B4_0049",
+   "ref": "REF_WANG_2016",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B4_0078",
+   "ref": "REF_SCHOPMAN_2021",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B4_0097",
+   "ref": "REF_MALETIC_2017",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  },
+  {
+   "id_auditoria": "AUD_B4_0100",
+   "ref": "REF_MIR_2025",
+   "de": "Evidencias/Bibliografia/01_pmids.json",
+   "para": "02_meta_analises"
+  }
+ ]
+}

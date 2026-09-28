@@ -1,0 +1,307 @@
+{
+  "gerado_em": "2026-09-13",
+  "nota": "réplica bilateral da tabela §4 do Auditor-Mestre com o P-8 oficial (itens[].nivel==ERRO)",
+  "linhas": [
+    {
+      "bib": "B01",
+      "vinculos": 274,
+      "erros_por_regra": {},
+      "avisos_por_regra": {
+        "V-06": 18,
+        "V-08": 5,
+        "V-09": 1,
+        "V-10": 1
+      },
+      "tabela_auditor": [
+        273,
+        5
+      ]
+    },
+    {
+      "bib": "B02",
+      "vinculos": 89,
+      "erros_por_regra": {
+        "V-02": 3,
+        "V-04": 126,
+        "V-05": 7,
+        "V-07": 1,
+        "V-09": 1
+      },
+      "avisos_por_regra": {
+        "V-07": 2,
+        "V-08": 1,
+        "V-10": 1,
+        "V-13": 1
+      },
+      "tabela_auditor": [
+        89,
+        3
+      ]
+    },
+    {
+      "bib": "B03",
+      "vinculos": 165,
+      "erros_por_regra": {
+        "V-02": 165,
+        "V-05": 1,
+        "V-07": 1,
+        "V-09": 1
+      },
+      "avisos_por_regra": {
+        "V-07": 2,
+        "V-08": 6,
+        "V-10": 1,
+        "V-13": 1
+      },
+      "tabela_auditor": [
+        165,
+        165
+      ]
+    },
+    {
+      "bib": "B04",
+      "vinculos": 131,
+      "erros_por_regra": {
+        "V-02": 131,
+        "V-07": 1,
+        "V-09": 1
+      },
+      "avisos_por_regra": {
+        "V-07": 2,
+        "V-08": 3,
+        "V-10": 1,
+        "V-13": 1
+      },
+      "tabela_auditor": [
+        131,
+        131
+      ]
+    },
+    {
+      "bib": "B05",
+      "vinculos": 160,
+      "erros_por_regra": {
+        "V-02": 160,
+        "V-09": 1,
+        "V-11": 1,
+        "V-12": 1
+      },
+      "avisos_por_regra": {
+        "V-07": 2,
+        "V-10": 1,
+        "V-13": 1
+      },
+      "tabela_auditor": [
+        160,
+        160
+      ]
+    },
+    {
+      "bib": "B06",
+      "vinculos": 108,
+      "erros_por_regra": {
+        "V-02": 68,
+        "V-09": 1
+      },
+      "avisos_por_regra": {
+        "V-06": 10,
+        "V-07": 2,
+        "V-10": 1,
+        "V-13": 1
+      },
+      "tabela_auditor": [
+        108,
+        68
+      ]
+    },
+    {
+      "bib": "B07",
+      "vinculos": 71,
+      "erros_por_regra": {
+        "V-02": 2,
+        "V-04": 45,
+        "V-05": 1,
+        "V-07": 1,
+        "V-09": 1
+      },
+      "avisos_por_regra": {
+        "V-06": 12,
+        "V-07": 2,
+        "V-08": 13,
+        "V-13": 1
+      },
+      "tabela_auditor": [
+        71,
+        2
+      ]
+    },
+    {
+      "bib": "B08",
+      "vinculos": 83,
+      "erros_por_regra": {
+        "V-04": 62,
+        "V-07": 1,
+        "V-09": 1
+      },
+      "avisos_por_regra": {
+        "V-06": 41,
+        "V-07": 2,
+        "V-08": 8,
+        "V-13": 1
+      },
+      "tabela_auditor": [
+        83,
+        0
+      ]
+    },
+    {
+      "bib": "B09",
+      "vinculos": 111,
+      "erros_por_regra": {
+        "V-02": 35,
+        "V-07": 1,
+        "V-09": 1
+      },
+      "avisos_por_regra": {
+        "V-06": 5,
+        "V-07": 2,
+        "V-10": 1,
+        "V-13": 1
+      },
+      "tabela_auditor": [
+        111,
+        35
+      ]
+    },
+    {
+      "bib": "B10",
+      "vinculos": 137,
+      "erros_por_regra": {
+        "V-02": 39,
+        "V-09": 1
+      },
+      "avisos_por_regra": {
+        "V-06": 5,
+        "V-07": 2,
+        "V-10": 1,
+        "V-13": 1
+      },
+      "tabela_auditor": [
+        137,
+        39
+      ]
+    },
+    {
+      "bib": "B11",
+      "vinculos": 96,
+      "erros_por_regra": {
+        "V-02": 40,
+        "V-05": 1,
+        "V-09": 1
+      },
+      "avisos_por_regra": {
+        "V-06": 3,
+        "V-07": 2,
+        "V-08": 1,
+        "V-13": 1
+      },
+      "tabela_auditor": [
+        96,
+        40
+      ]
+    },
+    {
+      "bib": "B12",
+      "vinculos": 111,
+      "erros_por_regra": {
+        "V-02": 35,
+        "V-05": 1,
+        "V-09": 1
+      },
+      "avisos_por_regra": {
+        "V-06": 5,
+        "V-07": 2,
+        "V-13": 1
+      },
+      "tabela_auditor": [
+        111,
+        35
+      ]
+    },
+    {
+      "bib": "B13",
+      "vinculos": 207,
+      "erros_por_regra": {
+        "V-02": 167,
+        "V-09": 1
+      },
+      "avisos_por_regra": {
+        "V-06": 2,
+        "V-07": 2,
+        "V-08": 2,
+        "V-10": 1,
+        "V-13": 1
+      },
+      "tabela_auditor": [
+        207,
+        167
+      ]
+    },
+    {
+      "bib": "B14",
+      "vinculos": 290,
+      "erros_por_regra": {
+        "V-02": 240,
+        "V-05": 4,
+        "V-09": 1
+      },
+      "avisos_por_regra": {
+        "V-06": 1,
+        "V-07": 2,
+        "V-10": 1,
+        "V-13": 1
+      },
+      "tabela_auditor": [
+        290,
+        240
+      ]
+    },
+    {
+      "bib": "B15",
+      "vinculos": 173,
+      "erros_por_regra": {
+        "V-02": 134,
+        "V-09": 1
+      },
+      "avisos_por_regra": {
+        "V-07": 2,
+        "V-10": 1,
+        "V-13": 1
+      },
+      "tabela_auditor": [
+        173,
+        134
+      ]
+    },
+    {
+      "bib": "B16",
+      "vinculos": 290,
+      "erros_por_regra": {
+        "V-02": 290,
+        "V-09": 1,
+        "V-11": 2
+      },
+      "avisos_por_regra": {
+        "V-07": 3,
+        "V-10": 1,
+        "V-13": 1
+      },
+      "tabela_auditor": [
+        290,
+        290
+      ]
+    }
+  ],
+  "total_vinculos": 2496,
+  "total_V02": 1509
+}

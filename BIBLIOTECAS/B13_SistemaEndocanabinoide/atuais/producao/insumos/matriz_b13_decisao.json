@@ -1,0 +1,30 @@
+{
+ "entra": 40,
+ "baixo": {
+  "Coelho 2022": "BAIXO — iNOS/mPFC, periférico ao ECS-core",
+  "Ferber 2020": "BAIXO — entourage/cannabis (regra 1: camada exógena não alimenta núcleo)",
+  "Gellman 2026": "BAIXO — compostos sintéticos (farmacologia)",
+  "He 2026": "BAIXO — rede HPA×BDNF genérica",
+  "Kasatkina 2021": "BAIXO — neuroproteção/imunomodulação (ponte B1)",
+  "Li 2026": "BAIXO — microglia-astrocyte (B1)",
+  "Lowe 2021": "BAIXO — camada terapêutica",
+  "Lyndon 2025": "BAIXO — PTSD targets (interface+terapêutico)",
+  "Morris 2022": "BAIXO — inflamação/nitro-oxidativo (interface; molecular em B1)",
+  "Peixoto 2026": "BAIXO — resiliência genérica",
+  "Pilatti 2026": "BAIXO — HPA×inflamação terapêutica",
+  "Rao 2026": "BAIXO — sintomas neuropsiquiátricos amplo",
+  "Ren 2020": "BAIXO — agentes terapêuticos",
+  "Rezende 2023": "BAIXO — química básica ECS",
+  "Ricardi 2024": "BAIXO — beta-cariofileno (fitocanabinoide, regra 1)",
+  "Șerban 2025": "BAIXO — revisão genérica human-disease (e é o falso mapeamento de 'Segev 2018', exposto)",
+  "Thippaiah 2021": "BAIXO — misto exo/endógeno, suicídio periférico",
+  "Viveros 2007": "BAIXO — redundância (REF_VIVEROS_2005 já vigente)",
+  "Yarar 2020": "BAIXO — redundância de revisões ECS×MDD"
+ },
+ "exc": {
+  "Cossu 2020 (36284789)": "EXC — falso mapeamento de 'Spohrs 2021': vídeo neurocirúrgico (fístula carótido-cavernosa); exposto",
+  "Liu 2026 (NAO-IDX)": "EXC — revista não indexada",
+  "Saito 2010 (NAO-IDX)": "EXC — SciELO sem match verificável",
+  "Wang 2025 IJNP (NAO-IDX)": "EXC — abstract de congresso"
+ }
+}

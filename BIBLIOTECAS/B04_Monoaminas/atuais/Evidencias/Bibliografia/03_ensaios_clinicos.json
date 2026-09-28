@@ -1,0 +1,44 @@
+[
+ {
+  "pmid_oficial": "30177236",
+  "titulo_artigo": "Brexanolone injection in post-partum depression: two multicentre, double-blind, randomised, placebo-controlled, phase 3 trials.",
+  "autores": [
+   "Meltzer-Brody S",
+   "Colquhoun H",
+   "Riesenberg R",
+   "Epperson CN"
+  ],
+  "revista_ano": "Lancet 2018",
+  "desenho_estudo": "RCT",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MELTZERBRODY_2018"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MELTZERBRODY_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Meltzerbrody",
+   "MELTZERBRODY"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ }
+]

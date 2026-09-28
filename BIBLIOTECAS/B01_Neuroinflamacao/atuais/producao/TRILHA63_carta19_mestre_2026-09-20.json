@@ -1,0 +1,78 @@
+{
+  "trilha": 63,
+  "data": "2026-09-20",
+  "rodada": 46,
+  "titulo": "CARTA 19 ao Auditor-Mestre — pedido da deliberacao do fluxo claim + envio V2.2 oficial e schemas L-05",
+  "camada": "documental (0 ciencia tocada)",
+  "checks": [
+    {
+      "check": "C07 ciencia trio intacto (inicio)",
+      "ok": true,
+      "detalhe": {
+        "V7": "6e2c29797e63",
+        "manifesto": "79d1309a1689",
+        "vinculos": "490675e63122"
+      }
+    },
+    {
+      "check": "C01 V2.2 oficial serie (sha, 52181 b, CRLF 1411)",
+      "ok": true,
+      "detalhe": "sha=df7f7cfdfc01cf77d658885f30dfefe29dcf380229ea56e6b3af02920df22ae1 bytes=52181 crlf=1411"
+    },
+    {
+      "check": "C02 V2.2 entrega == serie (bytes identicos)",
+      "ok": true,
+      "detalhe": "sha_entrega=df7f7cfdfc01cf77d658885f30dfefe29dcf380229ea56e6b3af02920df22ae1"
+    },
+    {
+      "check": "C03 schemas correntes N1 v1.3 / N2 v1.4",
+      "ok": true,
+      "detalhe": "N1=b06660fd985a8186dbe5ed2878f15d3badd2356e11f4d0c9b71e78d2b2e4e7da (9582 b) N2=d96ad15b620fa373d8d95d44159a9f3db31c04cfed051d85c7ab014cb3c65050 (12840 b)"
+    },
+    {
+      "check": "C04 verbatim mestre r45 == 1817615d...",
+      "ok": true,
+      "detalhe": "sha=1817615de2fbc8de529d8ab2339dc58459107595f63c0b2dbc7f33b7c6a8fb66"
+    },
+    {
+      "check": "C05 glob DELIBERACAO na base == 0 ocorrencias (fora trilha 63)",
+      "ok": true,
+      "detalhe": "0 ocorrencias — o pedido de bytes da carta-19 §3 procede"
+    },
+    {
+      "check": "C06 zips de envio re-extraidos: V2.2 sha + schemas 4/4",
+      "ok": true,
+      "detalhe": "zipV22=1444ae441186565ac147fe02f5637c1f75f3147335d1d2252c3ff21e2e01e819 zipSCH=72f8f2e5ea7ec0ad553fa25ee2976da53b0f896a1a6c3e3ed81279d2e58ba235"
+    },
+    {
+      "check": "C08 carta 19: sha exato + 8 marcadores presentes + 0 eco antecipado de aprovacao",
+      "ok": true,
+      "detalhe": "sha=c2f799d621b5b2e768f322471c69ed6925f6614f57270aed5ecd57de2d717a49 bytes=5638 presenca={'sha V2.2 oficial': True, 'sha N1 v1.3': True, 'sha N2 v1.4': True, 'sha zip V2.2': True, 'sha zip schemas': True, 'alvo do pedido (nome do arquivo)': True, 'pedido secundario 309aa65f': True, 'verbatim mestre r45 arquivado': True, 'eco impraticado antecipadamente (nao deve constar)': False}"
+    },
+    {
+      "check": "C09 pacote datado (R-DOWNLOAD-SEMPRE): re-extracao == disco + DIGITAIS consistente",
+      "ok": true,
+      "detalhe": "zip=e2cf2a717ec55d03937368244ea7f4224352f35de46be0a81233ea5dbbe030c8 itens=['CARTA_19_AO_AUDITOR_MESTRE_2026-09-20.md', 'DIGITAIS_2026-09-20.txt']"
+    },
+    {
+      "check": "C10 ciencia trio intacto (fim)",
+      "ok": true,
+      "detalhe": {
+        "V7": "6e2c29797e63",
+        "manifesto": "79d1309a1689",
+        "vinculos": "490675e63122"
+      }
+    }
+  ],
+  "ok": 10,
+  "total": 10,
+  "artefatos": {
+    "carta_serie": "BIBLIOTECAS/_documentos_serie/CARTA19_MESTRE_2026-09-20/CARTA_19_AO_AUDITOR_MESTRE_2026-09-20.md",
+    "carta_sha": "c2f799d621b5b2e768f322471c69ed6925f6614f57270aed5ecd57de2d717a49",
+    "pacote_entrega": "ENTREGAS/2026-09-20_CARTA19_MESTRE",
+    "zip_carta_sha": "e2cf2a717ec55d03937368244ea7f4224352f35de46be0a81233ea5dbbe030c8"
+  },
+  "confissoes": [
+    "C63-1: 1a execucao falhou por desempacotamento de tupla no dicionario CIENCIA (items() devolve (chave,(caminho,sha)); o codigo lia (caminho,sha)) — FileNotFoundError imediato, nenhuma medida fabricada; corrigido e reexecutado. Mesma classe da C62-1."
+  ]
+}

@@ -1,0 +1,571 @@
+{
+ "resolvidos": {
+  "21257974": {
+   "pmid": "21257974",
+   "titulo": "Depression and hypothalamic-pituitary-adrenal activation: a quantitative summary of four decades of research.",
+   "autor1": "Stetler C",
+   "journal": "Psychosomatic medicine",
+   "pubdate": "2011 Feb-Mar",
+   "pubtypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Meta-Analysis"
+   ],
+   "declarado": "Stetler & Miller 2011",
+   "ano": "2011",
+   "rotulo_confere": true,
+   "ja_na_b2": true
+  },
+  "15996533": {
+   "pmid": "15996533",
+   "titulo": "The stress system in the human brain in depression and neurodegeneration.",
+   "autor1": "Swaab DF",
+   "journal": "Ageing research reviews",
+   "pubdate": "2005 May",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "declarado": "Swaab, Bao & Lucassen 2005",
+   "ano": "2005",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "28183380": {
+   "pmid": "28183380",
+   "titulo": "Assessment of the hypothalamic-pituitary-adrenal axis activity: glucocorticoid receptor and mineralocorticoid receptor function in depression with early life stress - a systematic review.",
+   "autor1": "Von Werne Baes C",
+   "journal": "Acta neuropsychiatrica",
+   "pubdate": "2012 Feb",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "declarado": "Baes 2012",
+   "ano": "2012",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "32203965": {
+   "pmid": "32203965",
+   "titulo": "Alterations of the HPA Axis Observed in Patients with Major Depressive Disorder and Their Relation to Early Life Stress: A Systematic Review.",
+   "autor1": "Ceruso A",
+   "journal": "Neuropsychobiology",
+   "pubdate": "2020",
+   "pubtypes": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "declarado": "Ceruso 2020",
+   "ano": "2020",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "23410758": {
+   "pmid": "23410758",
+   "titulo": "Dysregulated diurnal cortisol pattern is associated with glucocorticoid resistance in women with major depressive disorder.",
+   "autor1": "Jarcho MR",
+   "journal": "Biological psychology",
+   "pubdate": "2013 Apr",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "declarado": "Jarcho 2013",
+   "ano": "2013",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "28012291": {
+   "pmid": "28012291",
+   "titulo": "Cortisol stress reactivity across psychiatric disorders: A systematic review and meta-analysis.",
+   "autor1": "Zorn JV",
+   "journal": "Psychoneuroendocrinology",
+   "pubdate": "2017 Mar",
+   "pubtypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "declarado": "Zorn 2017",
+   "ano": "2017",
+   "rotulo_confere": true,
+   "ja_na_b2": true
+  },
+  "27528460": {
+   "pmid": "27528460",
+   "titulo": "HPA axis in major depression: cortisol, clinical symptomatology and genetic variation predict cognition.",
+   "autor1": "Keller J",
+   "journal": "Molecular psychiatry",
+   "pubdate": "2017 Apr",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "declarado": "Keller 2017",
+   "ano": "2017",
+   "rotulo_confere": true,
+   "ja_na_b2": true
+  },
+  "36458076": {
+   "pmid": "36458076",
+   "titulo": "A systematic review and meta-analysis of serum and plasma cortisol levels in depressed patients versus control.",
+   "autor1": "Sahu MK",
+   "journal": "Indian journal of psychiatry",
+   "pubdate": "2022 Sep-Oct",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "declarado": "Sahu 2022",
+   "ano": "2022",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "37581323": {
+   "pmid": "37581323",
+   "titulo": "The HPA Axis as Target for Depression.",
+   "autor1": "Menke A",
+   "journal": "Current neuropharmacology",
+   "pubdate": "2024",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "declarado": "Menke 2024",
+   "ano": "2024",
+   "rotulo_confere": true,
+   "ja_na_b2": true
+  },
+  "38176541": {
+   "pmid": "38176541",
+   "titulo": "Sex differences in cortisol levels in depression: A systematic review and meta-analysis.",
+   "autor1": "Wang R",
+   "journal": "Frontiers in neuroendocrinology",
+   "pubdate": "2024 Jan",
+   "pubtypes": [
+    "Systematic Review",
+    "Meta-Analysis",
+    "Journal Article"
+   ],
+   "declarado": "Wang 2024",
+   "ano": "2024",
+   "rotulo_confere": true,
+   "ja_na_b2": true
+  },
+  "41270487": {
+   "pmid": "41270487",
+   "titulo": "Association of endogenous hormones with major depressive disorder phenotype: A systematic review and meta-analysis of drug-free case and control cross-sectional study.",
+   "autor1": "Machahary N",
+   "journal": "Biochemical and biophysical research communications",
+   "pubdate": "2025 Dec 31",
+   "pubtypes": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+   ],
+   "declarado": "Machahary 2025",
+   "ano": "2025",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "40040865": {
+   "pmid": "40040865",
+   "titulo": "Immune-neuroendocrine crosstalk in mood and psychotic disorders: A meta-analysis and systematic review.",
+   "autor1": "Van Den Noortgate M",
+   "journal": "Brain, behavior, & immunity - health",
+   "pubdate": "2025 Mar",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "declarado": "Van Den Noortgate 2025",
+   "ano": "2025",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "20047716": {
+   "pmid": "20047716",
+   "titulo": "DNA sequence variants of the FKBP5 gene are associated with unipolar depression.",
+   "autor1": "Zobel A",
+   "journal": "The international journal of neuropsychopharmacology",
+   "pubdate": "2010 Jun",
+   "pubtypes": [
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "declarado": "Zobel 2010",
+   "ano": "2010",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "20393453": {
+   "pmid": "20393453",
+   "titulo": "Interaction of FKBP5 with childhood adversity on risk for post-traumatic stress disorder.",
+   "autor1": "Xie P",
+   "journal": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+   "pubdate": "2010 Jul",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "declarado": "Xie 2010",
+   "ano": "2010",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "21865530": {
+   "pmid": "21865530",
+   "titulo": "Interaction of FKBP5 gene variants and adverse life events in predicting depression onset: results from a 10-year prospective community study.",
+   "autor1": "Zimmermann P",
+   "journal": "The American journal of psychiatry",
+   "pubdate": "2011 Oct",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "declarado": "Zimmermann 2011",
+   "ano": "2011",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "29182159": {
+   "pmid": "29182159",
+   "titulo": "Epigenetic Changes of FKBP5 as a Link Connecting Genetic and Environmental Risk Factors with Structural and Functional Brain Changes in Major Depression.",
+   "autor1": "Tozzi L",
+   "journal": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+   "pubdate": "2018 Apr",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "declarado": "Tozzi 2018",
+   "ano": "2018",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "28850857": {
+   "pmid": "28850857",
+   "titulo": "Interaction between early-life stress and FKBP5 gene variants in major depressive disorder and post-traumatic stress disorder: A systematic review and meta-analysis.",
+   "autor1": "Wang Q",
+   "journal": "Journal of affective disorders",
+   "pubdate": "2018 Jan 1",
+   "pubtypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "declarado": "Wang 2018",
+   "ano": "2018",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "41849885": {
+   "pmid": "41849885",
+   "titulo": "FKBP5 splice variant alterations in the human cortex of psychiatric disorders.",
+   "autor1": "Kaul D",
+   "journal": "Journal of psychiatric research",
+   "pubdate": "2026 Jun",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "declarado": "Kaul 2026",
+   "ano": "2026",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "40578604": {
+   "pmid": "40578604",
+   "titulo": "FKBP5 deficiency selectively impairs NMDAR-dependent long-term depression via enhanced calcineurin activity: Implications for stress resilience.",
+   "autor1": "Zhang S",
+   "journal": "Progress in neurobiology",
+   "pubdate": "2025 Aug",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "declarado": "Zhang 2025",
+   "ano": "2025",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "37078436": {
+   "pmid": "37078436",
+   "titulo": "Hypothalamic corticotrophin releasing hormone neurons in stress-induced psychopathology: Revaluation of synaptic contributions.",
+   "autor1": "Stanton LM",
+   "journal": "Journal of neuroendocrinology",
+   "pubdate": "2023 Apr",
+   "pubtypes": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "declarado": "Stanton 2023",
+   "ano": "2023",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "41935803": {
+   "pmid": "41935803",
+   "titulo": "Beyond the HPA axis: Synaptic circuits of PVN(CRH) neurons in stress-related psychiatric disorders.",
+   "autor1": "Zheng J",
+   "journal": "Pharmacological research",
+   "pubdate": "2026 May",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "declarado": "Zheng 2026",
+   "ano": "2026",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "19008333": {
+   "pmid": "19008333",
+   "titulo": "Blockade of the V(1b) receptor reduces ACTH, but not corticosterone secretion induced by stress without affecting basal hypothalamic-pituitary-adrenal axis activity.",
+   "autor1": "Spiga F",
+   "journal": "The Journal of endocrinology",
+   "pubdate": "2009 Mar",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "declarado": "Spiga 2009",
+   "ano": "2009",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "34566653": {
+   "pmid": "34566653",
+   "titulo": "Efficacy of Treatments Targeting Hypothalamic-Pituitary-Adrenal Systems for Major Depressive Disorder: A Meta-Analysis.",
+   "autor1": "Ding Y",
+   "journal": "Frontiers in pharmacology",
+   "pubdate": "2021",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "declarado": "meta HPA-treatments",
+   "ano": "2021",
+   "rotulo_confere": false,
+   "ja_na_b2": false
+  },
+  "26563991": {
+   "pmid": "26563991",
+   "titulo": "Assessment of the cortisol awakening response: Expert consensus guidelines.",
+   "autor1": "Stalder T",
+   "journal": "Psychoneuroendocrinology",
+   "pubdate": "2016 Jan",
+   "pubtypes": [
+    "Journal Article",
+    "Review",
+    "Consensus Statement"
+   ],
+   "declarado": "Stalder 2016",
+   "ano": "2016",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "38308964": {
+   "pmid": "38308964",
+   "titulo": "Associations of diurnal cortisol parameters with cortisol stress reactivity and recovery: A systematic review and meta-analysis.",
+   "autor1": "Wesarg-Menzel C",
+   "journal": "Psychoneuroendocrinology",
+   "pubdate": "2024 May",
+   "pubtypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "declarado": "Wesarg-Menzel 2024",
+   "ano": "2024",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "32276241": {
+   "pmid": "32276241",
+   "titulo": "Association between hair cortisol and diurnal basal cortisol levels: A 30-day validation study.",
+   "autor1": "Sugaya N",
+   "journal": "Psychoneuroendocrinology",
+   "pubdate": "2020 Jun",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Validation Study"
+   ],
+   "declarado": "Sugaya 2020",
+   "ano": "2020",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "42009273": {
+   "pmid": "42009273",
+   "titulo": "Human DNA methylation and the cortisol response to an acute psychological stressor: A systematic review and meta-analysis.",
+   "autor1": "Balfour D",
+   "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+   "pubdate": "2026 Apr 2",
+   "pubtypes": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+   ],
+   "declarado": "Balfour 2026",
+   "ano": "2026",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "41791598": {
+   "pmid": "41791598",
+   "titulo": "Association between antenatal depression and maternal cortisol diurnal rhythm: A meta-analysis.",
+   "autor1": "Zhang T",
+   "journal": "Journal of affective disorders",
+   "pubdate": "2026 Jul 15",
+   "pubtypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+   ],
+   "declarado": "Zhang 2026 antenatal",
+   "ano": "2026",
+   "rotulo_confere": true,
+   "ja_na_b2": true
+  },
+  "41755883": {
+   "pmid": "41755883",
+   "titulo": "Reelin, the HPA Axis, and Chronic Stress: Implications for the Neurobiology of Depression.",
+   "autor1": "Thom SA",
+   "journal": "Chronic stress (Thousand Oaks, Calif.)",
+   "pubdate": "2026 Jan-Dec",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "declarado": "Thom 2026",
+   "ano": "2026",
+   "rotulo_confere": true,
+   "ja_na_b2": true
+  },
+  "36624454": {
+   "pmid": "36624454",
+   "titulo": "CRHR1 antagonist alleviates LPS-induced depression-like behaviour in mice.",
+   "autor1": "Sun J",
+   "journal": "BMC psychiatry",
+   "pubdate": "2023 Jan 9",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "declarado": "Sun 2023",
+   "ano": "2023",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "19545546": {
+   "pmid": "19545546",
+   "titulo": "Modulation of glucocorticoid receptor nuclear translocation in neurons by immunophilins FKBP51 and FKBP52: implications for major depressive disorder.",
+   "autor1": "Tatro ET",
+   "journal": "Brain research",
+   "pubdate": "2009 Aug 25",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "declarado": "Tatro 2009",
+   "ano": "2009",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "34901719": {
+   "pmid": "34901719",
+   "titulo": "The role of the corticotropin-releasing hormone and its receptors in the regulation of stress response.",
+   "autor1": "Sukhareva EV",
+   "journal": "Vavilovskii zhurnal genetiki i selektsii",
+   "pubdate": "2021 Mar",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "declarado": "Sukhareva 2021",
+   "ano": "2021",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "34920399": {
+   "pmid": "34920399",
+   "titulo": "Cortisol and development of depression in adolescence and young adulthood - a systematic review and meta-analysis.",
+   "autor1": "Zajkowska Z",
+   "journal": "Psychoneuroendocrinology",
+   "pubdate": "2022 Feb",
+   "pubtypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+   ],
+   "declarado": "Zajkowska 2021",
+   "ano": "2022",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "31499391": {
+   "pmid": "31499391",
+   "titulo": "Baseline cortisol and the efficacy of antiglucocorticoid treatment in mood disorders: A meta-analysis.",
+   "autor1": "Lombardo G",
+   "journal": "Psychoneuroendocrinology",
+   "pubdate": "2019 Dec",
+   "pubtypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+   ],
+   "declarado": "Lombardo 2019",
+   "ano": "2019",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  },
+  "10.1210/endo.141.11.7767": {
+   "pmid": "11089561",
+   "titulo": "Selective activation of the hypothalamic vasopressinergic system in mice deficient for the corticotropin-releasing hormone receptor 1 is dependent on glucocorticoids.",
+   "autor1": "Müller MB",
+   "journal": "Endocrinology",
+   "pubdate": "2000 Nov",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "declarado": "Müller/Ller 2000 (duplicata)",
+   "ano": "2000",
+   "pmid_resolvido": "11089561",
+   "rotulo_confere": true,
+   "ja_na_b2": false
+  }
+ },
+ "falhas": [],
+ "sem_identificador": [
+  "Menke et al. 2013",
+  "Peng et al. 2018",
+  "Klinger-König 2019",
+  "Kim 2019",
+  "Poidinger 2015",
+  "Ising 2008",
+  "Ising 2019",
+  "Bunea 2017",
+  "Jiang 2025",
+  "Khoury 2019",
+  "Van Bodegom 2017",
+  "Morris 2012",
+  "Schumacher 2019",
+  "Yehuda 2013",
+  "Bale 2000",
+  "Müller 2003",
+  "Refojo 2011",
+  "Gan 2022",
+  "Häusl 2021",
+  "Choi 2021",
+  "Vasyl 2025"
+ ]
+}

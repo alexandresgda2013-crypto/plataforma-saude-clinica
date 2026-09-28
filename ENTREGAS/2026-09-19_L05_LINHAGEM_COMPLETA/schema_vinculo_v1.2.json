@@ -1,0 +1,386 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "L05/schema_vinculo_v1.2.json",
+  "title": "Vínculo Evidência ↔ Afirmação ↔ Entidades — Nível 2",
+  "description": "PROPOSTA v1.2 — nao normativo. v1.2: 'direcao' renomeado para 'direcao_suporte' (nome do Contrato da Cadeia L-05 1.1, encerra D-L05-NOMES-DIRECAO e dispensa 'sentido_relacao' como desambiguador); integridade referencial da ancora_principal declarada como responsabilidade de portao (V-17).",
+  "type": "object",
+  "required": [
+    "id_vinculo",
+    "id_referencia_interna",
+    "trecho_ancora",
+    "status_auditoria",
+    "verification_status",
+    "trilha",
+    "uso",
+    "ancoras",
+    "ancora_principal"
+  ],
+  "properties": {
+    "id_vinculo": {
+      "type": "string",
+      "pattern": "^VINC_[A-Z0-9]+_[0-9]{4}$"
+    },
+    "id_referencia_interna": {
+      "type": "string",
+      "pattern": "^REF_[A-Z0-9_]+[a-z]?$"
+    },
+    "pmid_oficial": {
+      "type": "string"
+    },
+    "claim_id": {
+      "type": "string",
+      "description": "Namespace próprio (B{n}.SM{nn}.{nnn} ou B{n}.MEC.BLOCO{nn}.{nnn}). NÃO validado contra _ids_oficiais."
+    },
+    "trecho_ancora": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Cópia LITERAL da frase sustentada. Resumo é reprova. Ausência é reprova."
+    },
+    "ancoras": {
+      "type": "array",
+      "minItems": 1,
+      "description": "Ancoragem multi-entidade. Uma evidência pode sustentar afirmações sobre entidades de domínios diferentes SEM ser duplicada.",
+      "items": {
+        "type": "object",
+        "required": [
+          "id_oficial",
+          "papel",
+          "direcao_suporte"
+        ],
+        "properties": {
+          "id_oficial": {
+            "type": "string",
+            "description": "DEVE existir em _ids_oficiais.json. ID fora do catálogo invalida o vínculo (P11 nível 2)."
+          },
+          "papel": {
+            "type": "string",
+            "enum": [
+              "sustenta_mecanismo",
+              "sustenta_biomarcador",
+              "sustenta_intervencao",
+              "contextualiza_cenario",
+              "fronteira"
+            ],
+            "description": "R7: declara a RELACAO TEMATICA da evidencia com a entidade — NUNCA o veredito. O veredito mora em trecho_ancora + natureza_relacao + forca_causal + verification_status. Motor e leitor humano sao proibidos de inferir eficacia ou direcao a partir de 'papel' isolado. 'refuta' saiu deste enum e virou direcao:refuta."
+          },
+          "escopo": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Subdivisao interna da entidade. R4: para mecanismo usar BLOCO_XX[/sub] normalizado (o prefixo do mecanismo vai em id_oficial, nunca no escopo). Valor reservado 'APENDICE_CORPUS' para selos de indice. null para entidades sem subdivisao (exame, suplemento, cenario)."
+          },
+          "nota": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "condicao": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Obrigatorio quando direcao_suporte=condicional. Texto curto do limite. Ex: 'resposta restrita ao subgrupo de inflamacao alta; amostra geral negativa' (caso REF_RAISON_2013)."
+          },
+          "direcao_suporte": {
+            "type": "string",
+            "enum": [
+              "sustenta",
+              "refuta",
+              "inconclusivo",
+              "condicional"
+            ],
+            "description": "R7 + D-L05-NOMES-DIRECAO: eixo epistemico, ortogonal ao papel. Nome alinhado ao Contrato da Cadeia L-05 1.1. Autodescritivo, portanto nao colide com o sentido de aresta do grafo (V2 §11) e dispensa renomear o lado da ontologia. 'refuta' preserva achado negativo em eixo proprio. 'condicional' exige o campo condicao."
+          }
+        },
+        "allOf": [
+          {
+            "if": {
+              "properties": {
+                "direcao_suporte": {
+                  "const": "condicional"
+                }
+              },
+              "required": [
+                "direcao_suporte"
+              ]
+            },
+            "then": {
+              "properties": {
+                "condicao": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "required": [
+                "condicao"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "trilha": {
+      "type": "string",
+      "enum": [
+        "clinica",
+        "mecanistica"
+      ],
+      "description": "PENDENTE DE DECISAO (L-05 Decisao 1). Declara qual enum de 'uso' se aplica a este vínculo."
+    },
+    "uso": {
+      "type": "string",
+      "enum": [
+        "clinico",
+        "contexto_mecanistico",
+        "gap_pesquisa",
+        "nucleo_causal",
+        "suporte_correlacional"
+      ],
+      "description": "Enum-união das duas trilhas. Os 3 primeiros são SCHEMA-CLAIM v1.2 (clínica); os 3 últimos, v3.1 (mecanística), com gap_pesquisa comum às duas."
+    },
+    "natureza_relacao": {
+      "type": "string",
+      "enum": [
+        "causal",
+        "contributiva",
+        "associativa",
+        "compensatoria",
+        "marcador",
+        "nao_estabelecida"
+      ]
+    },
+    "forca_causal": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "tier_1_necessidade_e_suficiencia",
+        "tier_2_necessidade_ou_suficiencia",
+        "tier_3_correlacional_mecanistico",
+        "tier_4_descritivo_estrutural",
+        null
+      ]
+    },
+    "forca_biologica_conexao": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "HIGH",
+        "MEDIUM",
+        "LOW",
+        null
+      ],
+      "description": "Obrigatório quando a âncora principal tem escopo BLOCO_07 ou BLOCO_08 — é onde o Bloco H o usa como critério de alto risco."
+    },
+    "grau_maturidade": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "muito_estabelecido",
+        "bem_suportado",
+        "moderadamente_suportado",
+        "emergente",
+        "hipotese_inicial",
+        null
+      ]
+    },
+    "g1_metodo": {
+      "type": "string",
+      "enum": [
+        "eutils_automatico",
+        "crossref_automatico",
+        "excecao_registrada"
+      ]
+    },
+    "g2_elegibilidade": {
+      "type": "string",
+      "enum": [
+        "eligible",
+        "nao_aplicavel",
+        "nao_avaliado",
+        "inelegivel",
+        "redirecionado_clinico"
+      ],
+      "description": "TRANSICAO: 'redirecionado_clinico' permanece valido ate os 20 vinculos ganharem ancora com papel 'fronteira'. Depois disso e' aposentado."
+    },
+    "g2_motivo": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "g3_verificado_por": {
+      "type": "string",
+      "description": "Avaliador que leu abstract/full-text. R3: a checagem de identidade (assinou como ferramenta?) NAO fica aqui — teste por substring produziu falso-positivo demonstrado em avaliador legitimo cuja nota cita a ferramenta-fonte. O schema exige apenas presenca; o portao aplica padrao ANCORADO ao valor inteiro. Nota metodologica vai em g3_nota_metodo."
+    },
+    "g3_notas": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "data_verificacao": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "status_auditoria": {
+      "type": "string",
+      "enum": [
+        "CONFIRMADO",
+        "PARCIALMENTE_CONFIRMADO",
+        "NAO_LOCALIZADO",
+        "CITACAO_INCORRETA",
+        "NAO_SUSTENTA_CLAIM"
+      ]
+    },
+    "status_referencia": {
+      "type": "string",
+      "enum": [
+        "CANDIDATO",
+        "TRIADO",
+        "VALIDADO",
+        "REJEITADO"
+      ]
+    },
+    "verification_status": {
+      "type": "string",
+      "enum": [
+        "verificado",
+        "preclinico",
+        "extrapolado",
+        "emergente",
+        "pendente",
+        "pendente_fulltext"
+      ]
+    },
+    "mecanismo_origem": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "TRANSICAO: espelho da âncora principal. Aposentado só quando o gate validar as duas fontes como idênticas em 100% dos registros."
+    },
+    "secao_origem": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "TRANSICAO: idem mecanismo_origem."
+    },
+    "achado_central_molecular": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "extrapolacao_por_analogia": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "reancorado_em": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "nota_reparo": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ancora_principal": {
+      "type": "string",
+      "description": "R1: id_oficial da entidade em cuja biblioteca a evidencia foi trabalhada. Campo unico por construcao — 'exatamente 1 principal' deixa de ser invariante de contagem (inexprimivel em draft-07) e passa a ser cardinalidade do proprio campo. Marca o CONTEXTO DE CURADORIA; nao implica posse nem precedencia epistemica. O portao so precisa checar integridade referencial: este valor existe entre as ancoras. V-17 (portao, nao schema): (1) campo nao vazio; (2) ancora_principal pertence ao conjunto de ancoras[*].id_oficial; (3) sem id_oficial duplicado dentro de ancoras — uniqueItems nao resolve, porque {mesmo id, outro papel} passaria."
+    },
+    "g3_nota_metodo": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "R3: rito, procedencia do abstract, referencia de ledger. Separado do identificador do avaliador para que o portao possa ancorar o padrao sem apagar informacao legitima."
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "verification_status": {
+            "const": "verificado"
+          }
+        },
+        "required": [
+          "verification_status"
+        ]
+      },
+      "then": {
+        "properties": {
+          "g3_verificado_por": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "g3_verificado_por"
+        ]
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "trilha": {
+            "const": "clinica"
+          }
+        },
+        "required": [
+          "trilha"
+        ]
+      },
+      "then": {
+        "properties": {
+          "uso": {
+            "enum": [
+              "clinico",
+              "contexto_mecanistico",
+              "gap_pesquisa"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "trilha": {
+            "const": "mecanistica"
+          }
+        },
+        "required": [
+          "trilha"
+        ]
+      },
+      "then": {
+        "properties": {
+          "uso": {
+            "enum": [
+              "nucleo_causal",
+              "suporte_correlacional",
+              "gap_pesquisa"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

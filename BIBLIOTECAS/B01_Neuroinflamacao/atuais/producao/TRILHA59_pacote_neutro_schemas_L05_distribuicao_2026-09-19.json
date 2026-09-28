@@ -1,0 +1,35 @@
+{
+  "trilha": 59,
+  "rodada": 42,
+  "data": "2026-09-19",
+  "tema": "pacote neutro de distribuição — schemas L-05 correntes (antiviés)",
+  "checks": [
+    {
+      "id": "c1",
+      "titulo": "cópias byte-verbatim (shas oficiais)",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "3 arquivos conferem com as digitais oficiais do acervo"
+    },
+    {
+      "id": "c2",
+      "titulo": "LEIAME NEUTRO: 0 menções a frentes/pareceres (antiviés)",
+      "medido": [],
+      "esperado": [],
+      "ok": true,
+      "detalhe": "pacote serve a qualquer frente sem contaminar trabalho alheio"
+    },
+    {
+      "id": "c3",
+      "titulo": "zip re-extraído confere byte a byte",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "zip 25015 b"
+    }
+  ],
+  "verdes": 3,
+  "total": 3,
+  "nota": "1ª execução falhou por compreensão de lista torta no check c1 — simplificada (código legível também é régua). Veredito inalterado."
+}

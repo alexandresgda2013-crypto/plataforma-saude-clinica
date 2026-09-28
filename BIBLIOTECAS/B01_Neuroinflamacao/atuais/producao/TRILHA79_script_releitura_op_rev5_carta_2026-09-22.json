@@ -1,0 +1,71 @@
+{
+  "trilha": 79,
+  "rodada": 66,
+  "data": "2026-09-22",
+  "verde": 9,
+  "total": 9,
+  "checks": [
+    {
+      "check": "T1_FRASE_E_DA_CASA",
+      "status": "VERDE",
+      "nota": "a frase \"Aprovo como vigente…\" aparece 0× na rev.5 e 0× na carta do comentador; na réplica da casa ela existe rotulada \"Sugestão de frase\". Autoria: casa. O operador nunca a disse"
+    },
+    {
+      "check": "T2_DESLIZE_LOCALIZADO",
+      "status": "VERDE",
+      "nota": "adenda 2 linhas [6, 64]: \"A sua frase segue a mesma…\" / \"falta só a sua frase de aprovação\" — atribuí ao operador uma frase que a própria casa escreveu. Corrige-se por errata datada (pacote selado não se reescreve)"
+    },
+    {
+      "check": "T3_LIVRO_RAZAO_LIMPO",
+      "status": "VERDE",
+      "nota": "CHANGELOG+decisoes: 0× afirmações de aprovação inexistente []; o estado registrado é \"aguarda/ apta à aprovação\" — nenhum dano contábil, o erro foi de vocativo (atribuição), não de estado"
+    },
+    {
+      "check": "T4_RITO_REV5",
+      "status": "VERDE",
+      "nota": "rev.5 rodapé verbatim: \"Rito: esta minuta segue para réplica da casa e, depois, aprovação do operador.\" — leitura da casa sobre o rito: CORRETA"
+    },
+    {
+      "check": "T5_CARTA_COMENTADOR",
+      "status": "VERDE",
+      "nota": "carta verbatim confere: 4 pontos tratados · ponto 5 \"não é alteração normativa\" · sem reabertura · fluxo …→ réplica da Casa → aprovação do operador. Leitura da casa: CORRETA"
+    },
+    {
+      "check": "T6_NUANCE_NOS_CREDITOS",
+      "status": "VERDE",
+      "nota": "CRÉDITOS §órfãos (parágrafo certo localizado): raiz declarada SÓ p/ \"atribuição\" (minuta 1 §4) · o anti-substituição ficou sem raiz declarada (a raiz é minuta 1 l.79 — trilha 78) · e a frase \"a casa mediu 0× nela\" registra medição da régua velha (verdade só no nível exato L1). Precisão a propor no próximo toque editorial (rev.6), junto do rodapé f8ec8b72"
+    },
+    {
+      "check": "T9_AUTORIA_DOS_4_AJUSTES",
+      "status": "VERDE",
+      "nota": "rev.5 cabeçalho: \"quatro ajustes do operador\" · carta: \"quatro ajustes anunciados pelo Auditor-Mestre\" — os 4 mapeiam 1:1 nos pontos que o comentador confirmou; mas a casa NÃO tem arquivada a mensagem do operador que os listou → DÍVIDA D-4AJUSTES-OPERADOR (registrar a fala dele verbatim ou ele confirma aqui)"
+    },
+    {
+      "check": "T7_63_CONSISTENTE",
+      "status": "VERDE",
+      "nota": "rev.5 §6.3 cita minuta 1 §4 e a citação bate com a linha 97 real (módulo asteriscos) — o conserto da rev.5 está de pé, trilha 78 confirma"
+    },
+    {
+      "check": "T8_HASHES_ESCOPO",
+      "status": "VERDE",
+      "nota": "digitais da carta localizadas {'95c7cb41': 'carta/replica/-', 'c863b8ed': 'carta/replica/rev5', '8a8ff986': 'carta/replica/rev5', 'f8ec8b72': 'carta/replica/rev5'} — as 4 foram respondidas; 95c7cb41/f8ec8b72 ficaram não-reproduzidas na bancada (dívida: comando exato do mestre, já pedida)"
+    }
+  ],
+  "resumo": "TRILHA 79: 9/9 — CONFISSÃO C79-1: frase de aprovação é de autoria da casa (sugestão rotulada na réplica) e a adenda 2 a chamou de \"a sua frase\" (2×) — atribuição errada ao operador, corrigida por errata datada. Re-leitura: rito e carta lidos CORRETAMENTE (trincas verbatim). ACHADO A-79-1: parágrafo dos órfãos nos CRÉDITOS da rev.5 pede precisão no próximo toque editorial: raiz do anti-substituição = minuta 1 l.79 e a frase \"a casa mediu 0× nela\" vale só no nível exato (nova régua). DÍVIDA D-4AJUSTES-OPERADOR: rev.5 atribui os 4 ajustes ao operador — a casa não tem a fala dele verbatim sobre isso. Livro-razão limpo: nenhuma aprovação inexistente registrada. L-06 segue APTA, aguardando a fala real do operador.",
+  "confissoes": [
+    "C79-1"
+  ],
+  "achados": [
+    "A-79-1"
+  ],
+  "dividas": [
+    "D-4AJUSTES-OPERADOR"
+  ],
+  "corpus": {
+    "rev5": "601c1f18d074e6e4488dd8a6ee3364345e51713f7d0277cd1637add838a79608",
+    "carta": "b6c6b08196f27f1b5013882eda2c54263e46f10bd2584454c1df38230625ae5a",
+    "adenda2": "7dcd31b2733ea7b850023968458de4160035a9d89bedc20c54053032a889bee3",
+    "replica": "e80497bc5e5048fac71e4a4334c78b9dd1513e78f246bf62c5be42aec5764983",
+    "m1": "3b6a15a0b311a7b73f8793e1187a353df92201a11d7746e9082d18c4f6c38595"
+  }
+}

@@ -1,0 +1,46 @@
+{
+ "biblioteca": "B16",
+ "rodada": "[AT] 2026-09-09",
+ "tipo": "auditoria_externa_com_fusao_dirigida",
+ "insumos": [
+  "GPM_B16 (298 âncoras; M00–M10)",
+  "RODADA0 (283 identificadores 8d)",
+  "briefing consolidado (14)",
+  "matriz externa 17 seções",
+  "anexo bibliográfico por DOI",
+  "síntese cruzada"
+ ],
+ "placar": {
+  "antes": 288,
+  "depois": 290,
+  "entra": 2,
+  "baixo": 0,
+  "exc_novos": 0,
+  "vigentes_confirmados": 283,
+  "falsos_ids_expostos": 4,
+  "off_scope_oficial": 1,
+  "duplicata_colapsada": 1
+ },
+ "entra": [
+  {
+   "ref": "REF_DOLUDDA_2026",
+   "pmid": "41795427",
+   "papel": "consenso 2026 — revisão-teto [OB]",
+   "g1": "esearch DOI→41795427; esummary; efetch abstract lido"
+  },
+  {
+   "ref": "REF_ZHOU_2025",
+   "pmid": "40681842",
+   "papel": "resiliência pós-parto [ML]",
+   "g1": "esearch DOI→40681842; esummary; efetch abstract lido"
+  }
+ ],
+ "exposicoes": [
+  "fragmentos DOI 20001002/00207454 lidos como PMID",
+  "40727497/39024461 não resolvem (matriz externa)"
+ ],
+ "portoes": "reexecutados pós-fusão (gate, framework, checklist)",
+ "pendencias": [
+  "P-6 Via 2 no fecho 16/16"
+ ]
+}

@@ -1,0 +1,2201 @@
+{
+  "trilha": 53,
+  "rodada": 34,
+  "data": "2026-09-19",
+  "objeto": "Auditoria independente da 2a rodada da IA externa sobre o Motor (E/P/G/C) contra a base vigente",
+  "documentos_base": {
+    "Filosofia": "dedbff6c8f542025a3f0579d58ab84ca17c122f113f2980edcb18153c408408b",
+    "Roteiro": "5e3f916335c4d631c2639e2aaf8efd48c98f6762e263ff301c4dfc9022bd04ac",
+    "Arquitetura_V2.2_vigente": "df7f7cfdfc01cf77d658885f30dfefe29dcf380229ea56e6b3af02920df22ae1",
+    "Parecer_IA_verbatim": "40a58381354ddddb966565ff87f37a63c3e558ca8506819e24babc8a71beb06a"
+  },
+  "cadeia_arquitetura": {
+    "VIGENTE_V2.2": "df7f7cfdfc01cf77d658885f30dfefe29dcf380229ea56e6b3af02920df22ae1",
+    "upload_r24": "5be36836610d26832506b73dac45baa09e7041bc9ce22e6557f2be59b258e06a",
+    "SUPERSEDED_V2.1": "1a50645e260984ab7b78b95abc177bdb171203f55f22990c195e5cefa0a94b60",
+    "SUPERSEDED_V2_15.09": "09692e18a5a65958bde4545ed6ff804c21c5945411159988654c7664c8a4a4e2",
+    "SUPERSEDED_V1": "8f050469632ce3e83426e382075ab4747a59f478daa70f88a2287310541821d7"
+  },
+  "shas_ciencia": {
+    "V7": {
+      "path": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/B1 NEUROINFLAMAÇÃO V7 CANONICA.md",
+      "sha": "6e2c29797e6322f16dcc5248cce552be613dd11f1de957c66aaa913e69225238"
+    },
+    "manifesto": {
+      "path": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Evidencias/Bibliografia/_manifesto_biblioteca.json",
+      "sha": "79d1309a168922d0e8bf43736cd5b21c8b361bdf64e3b200eeeafd43806f3a9c"
+    },
+    "vinculos": {
+      "path": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json",
+      "sha": "490675e63122a24baebd8890f4a7883a07f68916d90562e74adf309133501d1b"
+    }
+  },
+  "vereditos_casa": {
+    "identificacao_da_base_da_IA": "Pre-vigente (linha V2 15.09.26: r24 5be36836… ou V2.1 1a50645e…, indistinguiveis pelas ancorações citadas; NAO e a vigente df7f7cfd). Provas: C-10 impossivel contra H1 V2.2; 0 mencao a origem_conhecimento/prevalencia/Rev; citacao E6 fabricada. Consequencia: itens ancorados fora de §2 mantem-se (sufixo byte-identico); itens de §2/§19/C-2/C-10 exigem re-ancoragem.",
+    "E": {
+      "E1": "CONFIRMADO (vigente); ressalva da IA so valia na base antiga",
+      "E2": "CONFIRMADO c/ ressalva aceita",
+      "E3": "CONFIRMADO",
+      "E4": "CONFIRMADO",
+      "E5": "CONFIRMADO",
+      "E6": "RE-ANCORADO: substancia E na vigente (origem_conhecimento+§19); citacao literal fabricada (0x em todas as versoes)",
+      "E7": "CONFIRMADO",
+      "E8": "CONFIRMADO com precisao: regra vincula 'o sistema'; ao Motor e derivavel",
+      "E9": "CONFIRMADO",
+      "E10": "CONFIRMADO",
+      "E11": "RECLASSIFICACAO da IA validada (DERIVAVEL ao Motor)",
+      "E12": "CONFIRMADO",
+      "E13": "CONFIRMADO (arquitetura); runtime = proposta",
+      "E14": "CONFIRMADO parcial (piso E; proibicao total pendente->G10)",
+      "E15": "AUTOCORRECAO validada (PROPOSTA)",
+      "E16": "CONFIRMADO",
+      "E17": "CONFIRMADO ([?] bem marcado)",
+      "E18": "AUTOCORRECAO validada",
+      "E19": "CONFIRMADO",
+      "E20": "CONFIRMADO"
+    },
+    "P": "Todos confirmados como PROPOSTA DA IA (0 modulos M/T na base; pisos normativos medidos em P3/P4/P5/P7). Nenhum promovido — concordamos.",
+    "G": {
+      "G1": "CONFIRMADO pendente real, sem o agravante de contradicao na vigente",
+      "G2": "CONFIRMADO (nao determinavel nesta base)",
+      "G3": "CONFIRMADO reduzido (residual: classes de ID)",
+      "G4": "CONFIRMADO",
+      "G5": "CONFIRMADO (nao determinavel nesta base; schemas existem no acervo fora dela)",
+      "G6": "CONFIRMADO reduzido (so formato/schema)",
+      "G7": "CONFIRMADO",
+      "G8": "CONFIRMADO (maior lacuna substantiva)",
+      "G9": "CONFIRMADO (pendencia declarada)",
+      "G10": "CONFIRMADO reduzido",
+      "G11": "CONFIRMADO",
+      "G12": "CONFIRMADO nesta base (solucao nao determinavel nela)",
+      "G13": "CONFIRMADO",
+      "G14": "CONFIRMADO (depende de G19; direcao ja registrada em Roteiro §7/rev.38)",
+      "G15": "CONFIRMADO reduzido",
+      "G16": "CONFIRMADO raiz (tensao textual real nas duas direcoes)",
+      "G17": "CONFIRMADO",
+      "G18": "CONFIRMADO",
+      "G19": "CONFIRMADO raiz maxima",
+      "G20": "REFORMULADO: real, mas agregado de C-3/C-4 sob G19 — nao autonomo"
+    },
+    "C": {
+      "C-1": "FALSA CONTRADICAO (reconciliacao interna §6/§8/§9/§15; divida de glossario)",
+      "C-2": "VERDADEIRA na base lida = o ACHADO ja corrigido na vigente; residual de desenhos §21/§30 arbitrado pela prevalencia — NAO irredutivel",
+      "C-3": "VERDADEIRA formal; mitigada na vigente; exige G19",
+      "C-4": "VERDADEIRA formal; exige G19/homologacao (direcao ja registrada)",
+      "C-5": "VERDADEIRA (cobertura); decorre/fecha com G19",
+      "C-6": "VERDADEIRA (taxonomia) -> G18",
+      "C-7": "REBAIXADA: divergencia de representacao com solucao derivavel (constituicao x consumo); divida documental, nao bloqueia contrato",
+      "C-8": "VERDADEIRA de registro (status); correcao menor em um dos dois docs",
+      "C-9": "FALSA CONTRADICAO ('pendente de registro' != 'nao feito')",
+      "C-10": "FALSA contra a vigente (artefato de base)"
+    }
+  },
+  "confissoes_e_erratas_datadas_2026_09_19": [
+    "1a execucao: 69/74; 5 falhos TODOS de regua da casa (nunca fabricar dado; regua corrigida ate verde):",
+    "A-E8: agulha 'causalidade;' capturava a lista de distincao do §7 — trocada pela cadeia de 5 bullets CRLF (==1).",
+    "A-E10: 3 agulhas de §22 tambem existem em §7 (norma NT duplicada como geral — fato medido): esperado corrigido ==1->==2 para essas 3.",
+    "A-E17: '* status de verificacao;' consta em §5.1 e §5.2: esperado ==1->==2 (reforca o duplo inventario N1/N2).",
+    "B-P3: 'log' solto casava 'biologicamente' na Filosofia (2x) — medida com fronteira \\b: 0 ocorrencias da palavra.",
+    "C-PROC: fragmento cruzava CRLF ('de modo que a\\nconsulta...') — trocado por linha unica (==1).",
+    "2a execucao: open() texto aplica universal newlines (\\r\\n->\\n antes do NFC) — cadeia de bullets de A-E8 corrigida \\r\\n->\\n. Camada declarada passa a registrar isso."
+  ],
+  "resultado": {
+    "verdes": 74,
+    "total": 74,
+    "verde_total": true
+  },
+  "checks": [
+    {
+      "id": "0.1",
+      "titulo": "Filosofia verbatim no acervo da casa",
+      "camada": "documental (sha256 bytes)",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/BASE_AUDITORIA_MOTOR_recebida_2026-09-19/FASE 2- 02 FILOSOFIA DO PROJETO.md",
+      "comando": "python3 hashlib.sha256",
+      "medido": "dedbff6c8f542025a3f0579d58ab84ca17c122f113f2980edcb18153c408408b",
+      "esperado": "dedbff6c8f542025a3f0579d58ab84ca17c122f113f2980edcb18153c408408b",
+      "ok": true,
+      "detalhe": "5264 bytes"
+    },
+    {
+      "id": "0.2",
+      "titulo": "Roteiro verbatim no acervo da casa",
+      "camada": "documental (sha256 bytes)",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/BASE_AUDITORIA_MOTOR_recebida_2026-09-19/ROTEIRO DE TRABALHO DA PLATAFORMA.md",
+      "comando": "python3 hashlib.sha256",
+      "medido": "5e3f916335c4d631c2639e2aaf8efd48c98f6762e263ff301c4dfc9022bd04ac",
+      "esperado": "5e3f916335c4d631c2639e2aaf8efd48c98f6762e263ff301c4dfc9022bd04ac",
+      "ok": true,
+      "detalhe": "22447 bytes"
+    },
+    {
+      "id": "0.3",
+      "titulo": "Parecer da IA (2a rodada) verbatim no acervo",
+      "camada": "documental (sha256 bytes)",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/BASE_AUDITORIA_MOTOR_recebida_2026-09-19/IA_EXTERNA_2a_RODADA_auditoria_classificacao_recebido_2026-09-19.md",
+      "comando": "python3 hashlib.sha256",
+      "medido": "40a58381354ddddb966565ff87f37a63c3e558ca8506819e24babc8a71beb06a",
+      "esperado": "40a58381354d… (registro da casa: transcricao da mensagem do operador)",
+      "ok": true,
+      "detalhe": "16964 bytes"
+    },
+    {
+      "id": "0.4",
+      "titulo": "Arquitetura V2.2 VIGENTE intocada",
+      "camada": "documental (sha256 bytes)",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md",
+      "comando": "python3 hashlib.sha256",
+      "medido": "df7f7cfdfc01cf77d658885f30dfefe29dcf380229ea56e6b3af02920df22ae1",
+      "esperado": "df7f7cfdfc01cf77d658885f30dfefe29dcf380229ea56e6b3af02920df22ae1",
+      "ok": true,
+      "detalhe": "cadeia: ponteiro ARQUITETURA_VIGENTE.txt"
+    },
+    {
+      "id": "0.5",
+      "titulo": "0 ciencia tocada (V7 + manifesto + vinculos)",
+      "camada": "documental (sha256 bytes)",
+      "escopo": "{'V7': {'path': '/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/B1 NEUROINFLAMAÇÃO V7 CANONICA.md', 'sha': '6e2c29797e6322f16dcc5248cce552be613dd11f1de957c66aaa913e69225238'}, 'manifesto': {'path': '/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Evidencias/Bibliografia/_manifesto_biblioteca.json', 'sha': '79d1309a168922d0e8bf43736cd5b21c8b361bdf64e3b200eeeafd43806f3a9c'}, 'vinculos': {'path': '/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json', 'sha': '490675e63122a24baebd8890f4a7883a07f68916d90562e74adf309133501d1b'}}",
+      "comando": "sha256 dos 3 artefatos",
+      "medido": {
+        "V7": {
+          "path": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/B1 NEUROINFLAMAÇÃO V7 CANONICA.md",
+          "sha": "6e2c29797e6322f16dcc5248cce552be613dd11f1de957c66aaa913e69225238"
+        },
+        "manifesto": {
+          "path": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Evidencias/Bibliografia/_manifesto_biblioteca.json",
+          "sha": "79d1309a168922d0e8bf43736cd5b21c8b361bdf64e3b200eeeafd43806f3a9c"
+        },
+        "vinculos": {
+          "path": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json",
+          "sha": "490675e63122a24baebd8890f4a7883a07f68916d90562e74adf309133501d1b"
+        }
+      },
+      "esperado": "prefixos 6e2c2979 / 79d1309a / 490675e6",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "0.6",
+      "titulo": "Citacao E6 da IA \"preservando a origem de cada informacao\" NAO existe em NENHUMA versao da arquitetura",
+      "camada": "casefold, substring, arquivo inteiro",
+      "escopo": "VIG/R24/V21/V215/V1 + FIL + ROT",
+      "comando": "python3: t.casefold().count(\"preservando a origem de cada informação\")",
+      "esperado": "preservando a origem de cada informação ==0; preservando a origem de cada informação ==0; preservando a origem de cada informação ==0; preservando a origem de cada informação ==0; preservando a origem de cada informação ==0; preservando a origem de cada informação ==0; preservando a origem de cada informação ==0",
+      "medido": "VIG=0; R24=0; V21=0; V215=0; V1=0; FIL=0; ROT=0",
+      "ok": true,
+      "detalhe": "IA a apresenta com aspas e advérbio 'literalmente' ancorada em '§2, bloco DEFINIÇÃO'"
+    },
+    {
+      "id": "0.7",
+      "titulo": "\"quando pertinente\" (parafrase E6) tambem nao existe na base",
+      "camada": "casefold, substring",
+      "escopo": "todos os 7 arquivos",
+      "comando": "python3: t.casefold().count(\"quando pertinente\")",
+      "esperado": "quando pertinente ==0; quando pertinente ==0; quando pertinente ==0; quando pertinente ==0; quando pertinente ==0; quando pertinente ==0; quando pertinente ==0",
+      "medido": "VIG=0; R24=0; V21=0; V215=0; V1=0; FIL=0; ROT=0",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "quando pertinente",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "R24",
+          "fragmento": "quando pertinente",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "V21",
+          "fragmento": "quando pertinente",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "V215",
+          "fragmento": "quando pertinente",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "V1",
+          "fragmento": "quando pertinente",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "FIL",
+          "fragmento": "quando pertinente",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "quando pertinente",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "0.8",
+      "titulo": "Marcas EXCLUSIVAS da vigente ausentes na linha pre-vigente (IA nao as menciona em lugar nenhum)",
+      "camada": "case-sensitive, substring",
+      "escopo": "VIG x R24/V21",
+      "comando": "python3: t.count(frag)",
+      "esperado": "origem_conhecimento ==3; origem_conhecimento ==0; origem_conhecimento ==0; prosa deste documento prevalece ==1; prosa deste documento prevalece ==0; fora do cânone) ==1; fora do cânone) ==0; **Rev. V2.2 — 2026-09-17** ==1; **Rev. ==0",
+      "medido": "VIG=3; R24=0; V21=0; VIG=1; R24=0; VIG=1; R24=0; VIG=1; R24=0",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "origem_conhecimento",
+          "regra": "==3",
+          "medido": 3,
+          "ok": true
+        },
+        {
+          "doc": "R24",
+          "fragmento": "origem_conhecimento",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "V21",
+          "fragmento": "origem_conhecimento",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "prosa deste documento prevalece",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "R24",
+          "fragmento": "prosa deste documento prevalece",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "fora do cânone)",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "R24",
+          "fragmento": "fora do cânone)",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "**Rev. V2.2 — 2026-09-17**",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "R24",
+          "fragmento": "**Rev.",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "0.9",
+      "titulo": "H1 da vigente rotula 'V2.2' — C-10 da IA e impossivel contra ela",
+      "camada": "case-sensitive, primeira linha",
+      "escopo": "H1 VIG/R24/V21",
+      "comando": "python3: txt.splitlines()[0]",
+      "esperado": "# ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2 ==1; # ARQUITETURA CONSOLIDADA DA PLATAFORMA V2    ==1; # ARQUITETURA CONSOLIDADA DA PLATAFORMA V2    ==1",
+      "medido": "VIG=1; R24=1; V21=1",
+      "ok": true,
+      "detalhe": "R24 e V2.1 tem H1 identico (V2 15.09.26, sem .1/.2); a vigente rotula V2.2 no H1 e no cabecalho Rev"
+    },
+    {
+      "id": "0.10",
+      "titulo": "Fingerprint de secoes: vigente 30 unicas; V2.1 duplica '# 2.'; r24 duplica/desloca '# 21.'",
+      "camada": "regex ^# \\d+\\. (multiline), lista integral",
+      "escopo": "VIG/V21/R24/V215",
+      "comando": "python3: re.findall(r'(?m)^# (\\d+)\\.\\s')",
+      "medido": {
+        "VIG": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "V21": [
+          1,
+          2,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "R24": [
+          1,
+          2,
+          21,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "V215": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      "esperado": "VIG seq 1..30; V21 dup 2; R24 dup 21 deslocada",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "0.11",
+      "titulo": "No 'EVIDÊNCIAS / VÍNCULOS UNIFICADOS': na vigente so resta na NOTA DE REVISAO; em r24/V2.1 existe no mapa §2",
+      "camada": "case-sensitive, substring + contexto de linha",
+      "escopo": "VIG/R24/V21",
+      "comando": "python3: count + linha contendo",
+      "esperado": "EVIDÊNCIAS / VÍNCULOS UNIFICADOS ==1; EVIDÊNCIAS / VÍNCULOS UNIFICADOS >=1",
+      "medido": "VIG=1; R24=1",
+      "ok": true,
+      "detalhe": {
+        "VIG_linha": [
+          "**Rev. V2.2 — 2026-09-17** · Correção arquitetural localizada do §2: nó \"EVIDÊNCIAS / VÍNCULOS UNIFICADOS\" removido — fluxos canônico × atualização segregados até o Motor (achado do Auditor-Mestre, sha 2841bc66…; parecer concorrente do comentador externo) · proveniência no item recuperado (origem_conhecimento = canonico | atualizacao) · base: V2.1 do operador (upload 5be36836…, instalada na rodada 24) · decisão do operador (rodada 26) · 0 ciência alterada"
+        ],
+        "R24_linha": [
+          "│                     EVIDÊNCIAS / VÍNCULOS UNIFICADOS                   │"
+        ]
+      }
+    },
+    {
+      "id": "0.12",
+      "titulo": "Bloco DEFINIÇÃO de §2 e byte-identico na vigente e na linha pre-vigente (ancora E5/E16 da IA ok nas duas)",
+      "camada": "case-sensitive, fatia apos ^DEFINIÇÃO:$ (6 linhas, \\r removido)",
+      "escopo": "VIG/R24/V21/V215",
+      "comando": "python3: fatia 6 linhas apos regex",
+      "medido": {
+        "VIG": "DEFINIÇÃO:\nA anamnese constitui os dados clínicos do caso fornecidos como entrada\npara o Motor Clínico (A Máquina). Ao receber este gatilho, o Motor executa\numa busca ativa e cruza esses dados com o conhecimento científico estruturado\n(Bibliotecas Canônicas, Narrativas, Atualizações e relações mapeadas no\nGrafo/JSONs) para gerar a interpretação contextualizada do caso.",
+        "R24": "DEFINIÇÃO:\nA anamnese constitui os dados clínicos do caso fornecidos como entrada\npara o Motor Clínico (A Máquina). Ao receber este gatilho, o Motor executa\numa busca ativa e cruza esses dados com o conhecimento científico estruturado\n(Bibliotecas Canônicas, Narrativas, Atualizações e relações mapeadas no\nGrafo/JSONs) para gerar a interpretação contextualizada do caso.",
+        "V21": "DEFINIÇÃO:\nA anamnese constitui os dados clínicos do caso fornecidos como entrada\npara o Motor Clínico (A Máquina). Ao receber este gatilho, o Motor executa\numa busca ativa e cruza esses dados com o conhecimento científico estruturado\n(Bibliotecas Canônicas, Narrativas, Atualizações e relações mapeadas no\nGrafo/JSONs) para gerar a interpretação contextualizada do caso.",
+        "V215": null
+      },
+      "esperado": "VIG==R24==V21; V215 sem bloco",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "0.13",
+      "titulo": "Mapa §2 de r24 (base provavel da IA): caixa PASTA de Atualizacao com fluxo a montante (o achado ja corrigido)",
+      "camada": "case-sensitive, linhas com 'PASTA' em r24",
+      "escopo": "R24",
+      "comando": "python3: linhas contendo 'PASTA'",
+      "medido": [
+        "  │  BIBLIOTECAS CANÔNICAS  │               │   PASTA ATUALIZAÇÃO     │",
+        "# 18. PASTA DE ATUALIZAÇÃO",
+        "                  │ PASTA DE        │",
+        "# 19. O MOTOR TAMBÉM DEVERÁ CONSULTAR A PASTA DE ATUALIZAÇÃO"
+      ],
+      "esperado": "evidencia do mapa antigo (no UNIFICADOS) em linhas acima",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "A-E1",
+      "titulo": "E1 §28 texto existe (cadeia + Biblioteca nao e camada final de consumo)",
+      "camada": "case-sensitive, substring",
+      "escopo": "VIG §28",
+      "comando": "python3: sec(28).count(frag)",
+      "esperado": "O Motor não deverá assumir que a Biblioteca C ==1; e utilizar a infraestrutura de Evidências/Vín ==1",
+      "medido": "VIG=1; VIG=1",
+      "ok": true,
+      "detalhe": "ressalva da IA (contradiz §19) so valia no mapa antigo; §2 vigente harmoniza (ver D-C2)"
+    },
+    {
+      "id": "A-E2",
+      "titulo": "E2 §17 cinco operacoes sob 'Conceitualmente' + remessa ao contrato",
+      "camada": "case-sensitive, substring",
+      "escopo": "VIG §17",
+      "comando": "python3: sec(17).count(frag)",
+      "esperado": "Conceitualmente: >=1; seleção >=1; filtragem >=1; combinação >=1; contextualização >=1; rastreabilidade >=1; O contrato deverá especificar: ==1",
+      "medido": "VIG=5; VIG=2; VIG=2; VIG=2; VIG=3; VIG=12; VIG=1",
+      "ok": true,
+      "detalhe": "ressalva da IA aceita pela casa: a lista nao se declara exaustiva; §17 remete ao contrato"
+    },
+    {
+      "id": "A-E3",
+      "titulo": "E3 §17 sete entradas (IDs, contexto, relacoes, condicoes, evidencias, metadados, JSONs)",
+      "camada": "case-sensitive",
+      "escopo": "VIG §17",
+      "comando": "python3: sec(17).count(frag)",
+      "esperado": "├── IDs >=1; ├── contexto >=1; ├── relações >=1; ├── condições >=1; ├── evidências >=1; ├── metadados >=1; └── JSONs >=1",
+      "medido": "VIG=1; VIG=1; VIG=1; VIG=1; VIG=1; VIG=1; VIG=1",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "├── IDs",
+          "regra": ">=1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "├── contexto",
+          "regra": ">=1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "├── relações",
+          "regra": ">=1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "├── condições",
+          "regra": ">=1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "├── evidências",
+          "regra": ">=1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "├── metadados",
+          "regra": ">=1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "└── JSONs",
+          "regra": ">=1",
+          "medido": 1,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "A-E4",
+      "titulo": "E4 sequencia de saidas nos pontos citados (§2/§21/§23)",
+      "camada": "case-sensitive",
+      "escopo": "VIG §2/§21/§23",
+      "comando": "python3: count no doc e em sec(23)",
+      "esperado": "INTERPRETAÇÃO CONTEXTUALIZADA >=2; EXPLICAÇÃO NARRATIVA >=2; MECANÍSTICA >=2; TERAPÊUTICA >=2; contendo os achados, possíveis mecanismos env ==1",
+      "medido": "VIG=2; VIG=2; VIG=2; VIG=2; VIG=1",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "INTERPRETAÇÃO CONTEXTUALIZADA",
+          "regra": ">=2",
+          "medido": 2,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "EXPLICAÇÃO NARRATIVA",
+          "regra": ">=2",
+          "medido": 2,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "MECANÍSTICA",
+          "regra": ">=2",
+          "medido": 2,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "TERAPÊUTICA",
+          "regra": ">=2",
+          "medido": 2,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "contendo os achados, possíveis mecanismos envolvidos, relações relevantes, evidê",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "A-E5",
+      "titulo": "E5 anamnese como entrada (§2 DEFINIÇÃO) + simulados sem eficacia (Roteiro §9)",
+      "camada": "case-sensitive",
+      "escopo": "VIG §2 / ROT §9",
+      "comando": "python3: count(frag)",
+      "esperado": "A anamnese constitui os dados clínicos do cas ==1; Os arquivos de anamnese já existentes poderão ==1; não terão finalidade de estabelecer eficácia  ==1; Sua função será testar o comportamento do sis ==1",
+      "medido": "VIG=1; ROT=1; ROT=1; ROT=1",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "A anamnese constitui os dados clínicos do caso fornecidos como entrada",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "Os arquivos de anamnese já existentes poderão ser utilizados.",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "não terão finalidade de estabelecer eficácia clínica.",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "Sua função será testar o comportamento do sistema.",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "A-E6",
+      "titulo": "E6 consulta ativa a Pasta: EXISTE (§19, todas as versoes); MAS a citacao literal da IA e fabricada (0.6/0.7)",
+      "camada": "case-sensitive + casefold",
+      "escopo": "VIG §19/§2 + IA",
+      "comando": "python3: count(frag)",
+      "esperado": "O Motor deverá possuir capacidade de consulta ==1; origem_conhecimento = canonico | atualizacao >=2; preservando a origem de cada informação >=1",
+      "medido": "VIG=1; VIG=2; IA=2",
+      "ok": true,
+      "detalhe": "substancia E na vigente via origem_conhecimento + §19; na base lida pela IA a regra de preservacao NAO constava"
+    },
+    {
+      "id": "A-E7",
+      "titulo": "E7 §19 literal: Pasta nao equivale ao canonico",
+      "camada": "case-sensitive",
+      "escopo": "VIG §19",
+      "comando": "python3: sec(19).count(frag)",
+      "esperado": "O Motor não deverá automaticamente tratar uma ==1",
+      "medido": "VIG=1",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "O Motor não deverá automaticamente tratar uma informação da Pasta de Atualização",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "A-E8",
+      "titulo": "E8 §11 literal — vincula 'o sistema' (precisao: nao nomeia o Motor)",
+      "camada": "case-sensitive, CRLF-aware",
+      "escopo": "VIG §11",
+      "comando": "python3: count(frag) — fragmentos bullet (§7 repete 'causalidade;' na lista de distincao NT)",
+      "esperado": "o sistema não interpreta automaticamente qual ==1; * indicação;\n* eficácia;\n* causalidade;\n* tra ==1",
+      "medido": "VIG=1; VIG=1",
+      "ok": true,
+      "detalhe": "casa: aplicacao ao Motor e DERIVAVEL (o laudo e saida do sistema); a IA disse 'vincula o Motor explicitamente' — leve estiramento"
+    },
+    {
+      "id": "A-E9",
+      "titulo": "E9 §12 literal: cenario contextualiza, nao causa nem indica",
+      "camada": "case-sensitive",
+      "escopo": "VIG §12",
+      "comando": "python3: sec(12).count(frag)",
+      "esperado": "Isso não significa que o cenário cause o meca ==1; contexto semântico para a interpretação das r ==1",
+      "medido": "VIG=1; VIG=1",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "Isso não significa que o cenário cause o mecanismo ou que determinado suplemento",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "contexto semântico para a interpretação das relações existentes",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "A-E10",
+      "titulo": "E10 §22 seis proibicoes para nenhuma camada posterior",
+      "camada": "case-sensitive, doc inteiro c/ duplicidade §7↔§22 medida",
+      "escopo": "VIG §22 (§7 repete 3 das 6 proibicoes — fato medido)",
+      "comando": "python3: count(frag)",
+      "esperado": "Nenhuma camada posterior poderá: ==1; inventar evidência; ==1; inventar referências; ==2; criar claims científicos sem origem; ==2; aumentar o grau de certeza; ==1; transformar associação em causalidade; ==2; transformar hipótese em fato. ==1",
+      "medido": "VIG=1; VIG=1; VIG=2; VIG=2; VIG=1; VIG=2; VIG=1",
+      "ok": true,
+      "detalhe": "medido 2 nas ocorrencias que §7 duplica (norma NT repetida como norma geral)"
+    },
+    {
+      "id": "A-E11",
+      "titulo": "E11 reclassificacao da IA correta: §7 e norma da NT; ao Motor chega por §22+§25+Roteiro §10 item 9",
+      "camada": "case-sensitive",
+      "escopo": "VIG §7/§22/§25 + ROT §10",
+      "comando": "python3: count(frag)",
+      "esperado": "converter uma relação mecanística em eficácia ==1; # 7. LIMITES DA NT ==1; não ocorre elevação epistemológica; ==1",
+      "medido": "VIG=1; VIG=1; ROT=1",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "converter uma relação mecanística em eficácia clínica sem sustentação.",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "# 7. LIMITES DA NT",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "não ocorre elevação epistemológica;",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "A-E12",
+      "titulo": "E12 §13 + §25 (qualidade narrativa nao aumenta certeza)",
+      "camada": "case-sensitive",
+      "escopo": "VIG §13/§25",
+      "comando": "python3: count(frag)",
+      "esperado": "A qualidade da narrativa nunca poderá aumenta ==1; Nenhuma camada posterior deverá possuir autor ==1",
+      "medido": "VIG=1; VIG=1",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "A qualidade da narrativa nunca poderá aumentar artificialmente a certeza científ",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "Nenhuma camada posterior deverá possuir autoridade para aumentar artificialmente",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "A-E13",
+      "titulo": "E13 §5.5 regra de localizacao do aprofundamento (arquitetura; consequencia runtime = P da IA)",
+      "camada": "case-sensitive",
+      "escopo": "VIG §5.5",
+      "comando": "python3: count(frag)",
+      "esperado": "## 5.5. Regra de localização do aprofundament ==1; objeto científico ao qual o conteúdo se refer ==1",
+      "medido": "VIG=1; VIG=1",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "## 5.5. Regra de localização do aprofundamento científico",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "objeto científico ao qual o conteúdo se refere",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "A-E14",
+      "titulo": "E14 piso estabelecido / proibicao total nao estabelecida (reclassificacao parcial da IA aceita)",
+      "camada": "case-sensitive",
+      "escopo": "VIG §14/§28 + FIL",
+      "comando": "python3: count(frag)",
+      "esperado": "evitar que a IA precise ==1; O Motor poderá selecionar e combinar estrutur ==1; em vez de depender da geração espontânea de e ==1; respostas improvisadas por modelos de linguag ==1; conteúdo especulativo ==1",
+      "medido": "VIG=1; VIG=1; VIG=1; FIL=1; FIL=1",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "evitar que a IA precise",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "O Motor poderá selecionar e combinar estruturas previamente construídas",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "em vez de depender da geração espontânea de explicações científicas a cada caso.",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "FIL",
+          "fragmento": "respostas improvisadas por modelos de linguagem",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "FIL",
+          "fragmento": "conteúdo especulativo",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "A-E15",
+      "titulo": "E15 autocorrecao da IA aceita: §15 nao declara interface de Grafo ('travessia' 0x; 'direção' e campo)",
+      "camada": "casefold + case-sensitive",
+      "escopo": "todos os 3 + VIG §15/§5.2/§11",
+      "comando": "python3: counts",
+      "esperado": "formalização das relações entre as diferentes ==1; direção da relação; ==1; travessia ==0; travessia ==0; travessia ==0",
+      "medido": "VIG=1; VIG=1; FIL=0; ROT=0; VIG=0",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "formalização das relações entre as diferentes entidades",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "direção da relação;",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "FIL",
+          "fragmento": "travessia",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "travessia",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "travessia",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "A-E16",
+      "titulo": "E16 multiplos JSONs por entidade (§16 e §1)",
+      "camada": "case-sensitive",
+      "escopo": "VIG §16/§1",
+      "comando": "python3: count(frag)",
+      "esperado": "Uma entidade poderá gerar múltiplos módulos J ==1; JSON módulo A ==1",
+      "medido": "VIG=1; VIG=1",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "Uma entidade poderá gerar múltiplos módulos JSON quando sua representação funcio",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "JSON módulo A",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "A-E17",
+      "titulo": "E17 inventarios N1 (§5.1) e N2 (§5.2) existem; 'Motor le N1/N2 direto' = [?] correto",
+      "camada": "case-sensitive",
+      "escopo": "VIG §5.1/§5.2",
+      "comando": "python3: count(frag)",
+      "esperado": "* PMID oficial; ==1; * natureza da evidência; ==1; * desenho do estudo; ==1; * trecho-âncora; ==1; * papel da âncora; ==1; * escopo; ==1; * direção da relação; ==1; * força da relação; ==1; * grau de maturidade; ==1; * trilha clínica ou mecanística; ==1; * status de verificação; ==2; * informações de auditoria; ==1; * proveniência. ==1",
+      "medido": "VIG=1; VIG=1; VIG=1; VIG=1; VIG=1; VIG=1; VIG=1; VIG=1; VIG=1; VIG=1; VIG=2; VIG=1; VIG=1",
+      "ok": true,
+      "detalhe": "'status de verificação' consta em §5.1 e §5.2 (medido 2) — reforca o inventario duplo N1/N2"
+    },
+    {
+      "id": "A-E18",
+      "titulo": "E18 autocorrecao aceita: 'fechamento da trilha' nao consta na base",
+      "camada": "casefold, substring",
+      "escopo": "todos os 3",
+      "comando": "python3: t.casefold().count(frag)",
+      "esperado": "fechamento da trilha ==0; fechamento da trilha ==0; fechamento da trilha ==0",
+      "medido": "VIG=0; FIL=0; ROT=0",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "fechamento da trilha",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "FIL",
+          "fragmento": "fechamento da trilha",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "fechamento da trilha",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "A-E19",
+      "titulo": "E19 Filosofia literal: relevancia relativa + descarte + improvaveis",
+      "camada": "case-sensitive",
+      "escopo": "FIL",
+      "comando": "python3: count(frag)",
+      "esperado": "estima sua relevância relativa ==1; descarta mecanismos pouco compatíveis ==1; os mecanismos considerados improváveis ==1",
+      "medido": "FIL=1; FIL=1; FIL=1",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "FIL",
+          "fragmento": "estima sua relevância relativa",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "FIL",
+          "fragmento": "descarta mecanismos pouco compatíveis",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "FIL",
+          "fragmento": "os mecanismos considerados improváveis",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "A-E20",
+      "titulo": "E20 tres trilhas de sugestao (§2 e §21)",
+      "camada": "case-sensitive",
+      "escopo": "VIG §2/§21",
+      "comando": "python3: count(frag)",
+      "esperado": "MECANÍSTICA >=2; CLÍNICA >=2; TERAPÊUTICA >=2",
+      "medido": "VIG=2; VIG=2; VIG=2",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "MECANÍSTICA",
+          "regra": ">=2",
+          "medido": 2,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "CLÍNICA",
+          "regra": ">=2",
+          "medido": 2,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "TERAPÊUTICA",
+          "regra": ">=2",
+          "medido": 2,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "B-P1",
+      "titulo": "P1 modulos M1–M9/T1–T3: 0 ocorrencias na base (integralmente PROPOSTA DA IA — confirmado)",
+      "camada": "regex \\b[MT][1-9]\\b, arquivo inteiro",
+      "escopo": "VIG/FIL/ROT",
+      "comando": "python3: re.findall",
+      "medido": {
+        "VIG": 0,
+        "FIL": 0,
+        "ROT": 0
+      },
+      "esperado": "0 em todos",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "B-P2",
+      "titulo": "P2 colide com taxonomia de 2 trilhas do §5.2 (C-6) — ancoras confirmadas",
+      "camada": "case-sensitive",
+      "escopo": "VIG",
+      "comando": "python3: count(frag)",
+      "esperado": "* trilha clínica ou mecanística; ==1; trilha terapêutica ==0",
+      "medido": "VIG=1; VIG=0",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "* trilha clínica ou mecanística;",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "trilha terapêutica",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "B-P3",
+      "titulo": "P3 metade de saida = E (Filosofia + §23); log interno auditavel ausente da base",
+      "camada": "casefold + case-sensitive",
+      "escopo": "FIL/VIG/todos",
+      "comando": "python3: counts",
+      "esperado": "as razões que sustentam cada hipótese ==1; a fundamentação das sugestões apresentadas ==1; explicações científicas >=1; log de decisão ==0; log de decisão ==0",
+      "medido": "FIL=1; FIL=1; VIG=3; VIG=0; ROT=0",
+      "ok": true,
+      "detalhe": "FIL 'log' como palavra (fronteira \\b): 0 ocorrencias (agulha solta casaria com 'biologicamente')"
+    },
+    {
+      "id": "B-P4",
+      "titulo": "P4 piso estabelecido (Filosofia + §22/§25); calibracao verbal nao consta",
+      "camada": "case-sensitive",
+      "escopo": "FIL/VIG",
+      "comando": "python3: count(frag)",
+      "esperado": "considerando níveis de evidência, qualidade m ==1; calibração ==0; calibração ==0",
+      "medido": "FIL=1; VIG=0; FIL=0",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "FIL",
+          "fragmento": "considerando níveis de evidência, qualidade metodológica, sinergias, interações,",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "calibração",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "FIL",
+          "fragmento": "calibração",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "B-P5",
+      "titulo": "P5 campo trilha existe (§5.2); regra de uso pelo Motor nao consta",
+      "camada": "case-sensitive",
+      "escopo": "VIG",
+      "comando": "python3: count(frag) + contexto 'trilha'",
+      "esperado": "trilha clínica ou mecanística ==1; o Motor deverá usar a trilha ==0",
+      "medido": "VIG=1; VIG=0",
+      "ok": true,
+      "detalhe": "contextos de 'trilha' no doc: []"
+    },
+    {
+      "id": "B-P6",
+      "titulo": "P6 autocorrecao aceita: Roteiro §12 fala de replicacao, nao de determinismo do laudo",
+      "camada": "casefold",
+      "escopo": "ROT §12 / todos",
+      "comando": "python3: counts",
+      "esperado": "possibilidade de reprodução do processo. ==1; determinismo ==0; determinismo ==0; determinismo ==0",
+      "medido": "ROT=1; VIG=0; FIL=0; ROT=0",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "ROT",
+          "fragmento": "possibilidade de reprodução do processo.",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "determinismo",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "FIL",
+          "fragmento": "determinismo",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "determinismo",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "B-P7",
+      "titulo": "P7 sustentacao arquitetonica existe (§5.5/§8/§10); a regra de runtime continua proposta",
+      "camada": "case-sensitive",
+      "escopo": "VIG",
+      "comando": "python3: count(frag)",
+      "esperado": "A integração ocorre por meio das relações. ==1; A NT não deverá reconstruir a Biblioteca. ==1",
+      "medido": "VIG=1; VIG=1",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "A integração ocorre por meio das relações.",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "A NT não deverá reconstruir a Biblioteca.",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "B-P8",
+      "titulo": "P8 ordem de fechamento de lacunas: metodologia da IA, sem ancora normativa — confirmado [P]",
+      "camada": "casefold, substring",
+      "escopo": "todos os 3",
+      "comando": "python3: casefold count",
+      "medido": {
+        "VIG": 0,
+        "FIL": 0,
+        "ROT": 0
+      },
+      "esperado": "0 em todos",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "C-G3red",
+      "titulo": "G3 reduzido: ancoragem exigida pela Filosofia; classes de ID para sintomas/escalas ausentes de §1/§3",
+      "camada": "casefold, substring",
+      "escopo": "FIL + VIG §1/§3",
+      "comando": "python3: counts em sec(1)/sec(3)",
+      "esperado": "integra informações clínicas, sintomas, exame ==1; sintomas ==0; escalas ==0",
+      "medido": "FIL=1; VIG=0; VIG=0",
+      "ok": true,
+      "detalhe": "na arquitetura interia 'sintomas'/'escalas' = 0x — redução e pendência residual da IA CONFIRMADAS"
+    },
+    {
+      "id": "C-G6red",
+      "titulo": "G6 reduzido: conteudo do laudo E (§23 + Filosofia); formato/schema ausente",
+      "camada": "casefold",
+      "escopo": "VIG §23/FIL/todos",
+      "comando": "python3: counts",
+      "esperado": "laudo/relatório técnico de apoio >=1; linguagem clara e didática ==1; schema do laudo ==0; schema do laudo ==0; schema do laudo ==0",
+      "medido": "VIG=1; FIL=1; VIG=0; ROT=0; FIL=0",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "laudo/relatório técnico de apoio",
+          "regra": ">=1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "FIL",
+          "fragmento": "linguagem clara e didática",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "schema do laudo",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "schema do laudo",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "FIL",
+          "fragmento": "schema do laudo",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "C-G10red",
+      "titulo": "G10 reduzido: piso E; fronteira exata ausente",
+      "camada": "casefold",
+      "escopo": "todos os 3",
+      "comando": "python3: counts",
+      "esperado": "geração espontânea ==1; respostas improvisadas ==1; componente generativo ==0; componente generativo ==0; componente generativo ==0",
+      "medido": "VIG=1; FIL=1; VIG=0; FIL=0; ROT=0",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "geração espontânea",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "FIL",
+          "fragmento": "respostas improvisadas",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "componente generativo",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "FIL",
+          "fragmento": "componente generativo",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "componente generativo",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "C-G15red",
+      "titulo": "G15 reduzido: Roteiro §10 tem 15 verificacoes; §12 tem 9 criterios de replicacao",
+      "camada": "regex (?m)^\\d{1,2}\\. e (?m)^\\* dentro das fatias #10/#12",
+      "escopo": "ROT §10/§12",
+      "comando": "python3: len(re.findall)",
+      "medido": {
+        "§10_itens": 15,
+        "§12_bullets": 9
+      },
+      "esperado": "15 / 9",
+      "ok": true,
+      "detalhe": "imprecisao da IA: o 'item 30' esta no checklist §13, nao em §12; o conteudo referido existe"
+    },
+    {
+      "id": "C-PROC",
+      "titulo": "Preservacao de procedencia: RESOLVIDA so na vigente (âncora da IA invalida — ver 0.6)",
+      "camada": "case-sensitive",
+      "escopo": "VIG §2 prosa normativa",
+      "comando": "python3: count(frag)",
+      "esperado": "carrega a proveniência no próprio item ==1; consulta conjunta preserva a rastreabilidade ==1",
+      "medido": "VIG=1; VIG=1",
+      "ok": true,
+      "detalhe": "fragmento anterior cruzava CRLF — corrigido para linha unica"
+    },
+    {
+      "id": "C-TIT",
+      "titulo": "Titularidade do contrato: Roteiro §2 Grupo 1 lista 'contrato do Motor'",
+      "camada": "case-sensitive",
+      "escopo": "ROT §2",
+      "comando": "python3: sec(2).count(frag)",
+      "esperado": "* contrato do Motor; ==1",
+      "medido": "ROT=1",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "ROT",
+          "fragmento": "* contrato do Motor;",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "C-G9",
+      "titulo": "G9 e pendencia DECLARADA pelo proprio §19 (confirmado pela casa)",
+      "camada": "case-sensitive",
+      "escopo": "VIG §19",
+      "comando": "python3: sec(19).count(frag)",
+      "esperado": "A forma como essa informação será utilizada — ==1",
+      "medido": "VIG=1",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "A forma como essa informação será utilizada — por exemplo, alerta, atualização, ",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "D-G1",
+      "titulo": "G1 pendencia REAL: 4 representacoes textuais coexistem na vigente; mitigacao nova = prevalencia da prosa",
+      "camada": "case-sensitive",
+      "escopo": "VIG §2/§5.3/§6/§14/§17/§19/§30",
+      "comando": "python3: counts",
+      "esperado": "(Bibliotecas Canônicas, Narrativas, Atualizaç ==1; 13. fornecer material narrativo reutilizável  ==1; Ela fornecerá unidades semânticas e narrativa ==1; BIBLIOTECA / NT / ==1; a prosa deste documento prevalece sobre os de ==1",
+      "medido": "VIG=1; VIG=1; VIG=1; VIG=1; VIG=1",
+      "ok": true,
+      "detalhe": "na vigente a CONTRADIÇÃO esta resolvida por regra interna; a superficie exata de runtime segue pendente"
+    },
+    {
+      "id": "D-G2",
+      "titulo": "G2 'nao determinavel nesta base': Roteiro so informa que arquivos existem",
+      "camada": "casefold",
+      "escopo": "ROT §9/§13 + todos",
+      "comando": "python3: counts",
+      "esperado": "* contrato de entrada ==0; contrato de entrada ==0; contrato de entrada ==0; Anamnese para teste ==1; ARQUIVOS EXISTENTES ==1",
+      "medido": "ROT=0; VIG=0; FIL=0; ROT=1; ROT=1",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "ROT",
+          "fragmento": "* contrato de entrada",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "contrato de entrada",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "FIL",
+          "fragmento": "contrato de entrada",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "Anamnese para teste",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "ARQUIVOS EXISTENTES",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "D-G4",
+      "titulo": "G4 pendencia real: campo 'condição' existe como nome; sem linguagem formal na base",
+      "camada": "casefold",
+      "escopo": "VIG",
+      "comando": "python3: count(frag)",
+      "esperado": "condição, quando aplicável; ==1; condição: >=2; WHERE ==0; expressão booleana ==0; DSL ==0",
+      "medido": "VIG=1; VIG=2; VIG=0; VIG=0; VIG=0",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "condição, quando aplicável;",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "condição:",
+          "regra": ">=2",
+          "medido": 2,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "WHERE",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "expressão booleana",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "DSL",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "D-G5",
+      "titulo": "G5 'nao determinavel nesta base': valores/enumeracoes fora (schemas L-05); base nao declara dominios",
+      "camada": "casefold",
+      "escopo": "todos os 3",
+      "comando": "python3: casefold counts",
+      "esperado": "schema_vinculo_v1.1.json ==1; schema_referencia_v1.1.json ==1; valores permitidos ==0; valores permitidos ==0; enumeration ==0; enum ==0",
+      "medido": "VIG=1; VIG=1; VIG=0; FIL=0; VIG=0; VIG=0",
+      "ok": true,
+      "detalhe": "nota: no acervo fora desta base existem schemas L-05 N1v1.3/N2v1.4 aprovados (rodada 29) — nao conta para esta auditoria"
+    },
+    {
+      "id": "D-G7",
+      "titulo": "G7 pendencia real: nomes das 3 trilhas E; definicao operacional ausente",
+      "camada": "case-sensitive",
+      "escopo": "VIG/FIL",
+      "comando": "python3: counts",
+      "esperado": "MECANÍSTICA >=2; TERAPÊUTICA >=2; definição operacional ==0; definição operacional ==0",
+      "medido": "VIG=2; VIG=2; VIG=0; FIL=0",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "MECANÍSTICA",
+          "regra": ">=2",
+          "medido": 2,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "TERAPÊUTICA",
+          "regra": ">=2",
+          "medido": 2,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "definição operacional",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "FIL",
+          "fragmento": "definição operacional",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "D-G8",
+      "titulo": "G8 pendencia real: Filosofia exige; nenhum doc define como (maior lacuna substantiva — casa concorda)",
+      "camada": "casefold",
+      "escopo": "todos os 3",
+      "comando": "python3: counts",
+      "esperado": "estima sua relevância relativa ==1; relevância relativa ==0; relevância relativa ==0; critério de descarte ==0; critério de descarte ==0; critério de descarte ==0",
+      "medido": "FIL=1; VIG=0; ROT=0; VIG=0; FIL=0; ROT=0",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "FIL",
+          "fragmento": "estima sua relevância relativa",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "relevância relativa",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "relevância relativa",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "critério de descarte",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "FIL",
+          "fragmento": "critério de descarte",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "critério de descarte",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "D-G11",
+      "titulo": "G11 real: Filosofia exige sinergia/interacao/contraindicacao; Arquitetura nao enumera tipos",
+      "camada": "casefold",
+      "escopo": "FIL/VIG §11/§15",
+      "comando": "python3: counts",
+      "esperado": "sinergias, interações, contraindicações ==1; sinergia ==0; contraindicação ==0; tipo_relacao: >=1; [relação definida pela ontologia] ==1",
+      "medido": "FIL=1; VIG=0; VIG=0; VIG=2; VIG=1",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "FIL",
+          "fragmento": "sinergias, interações, contraindicações",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "sinergia",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "contraindicação",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "tipo_relacao:",
+          "regra": ">=1",
+          "medido": 2,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "[relação definida pela ontologia]",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "D-G12",
+      "titulo": "G12 real nesta base: 'conflito' de relacoes nao tratado em nenhum dos 3",
+      "camada": "casefold",
+      "escopo": "todos os 3",
+      "comando": "python3: casefold counts",
+      "esperado": "conflito ==0; conflito ==0; conflito de direções ==0",
+      "medido": "VIG=0; FIL=0; ROT=0",
+      "ok": true,
+      "detalhe": "ROT §3 tem 'registro das divergências' (processo de claims — outro objeto). Acervo fora da base tem minuta L-06 — nao conta aqui"
+    },
+    {
+      "id": "D-G13",
+      "titulo": "G13 real: reexecucao prevista (checklist 30); versionamento/determinismo do laudo ausente",
+      "camada": "casefold",
+      "escopo": "ROT §13 / todos",
+      "comando": "python3: counts",
+      "esperado": "Reexecução do circuito após correções ==1; versão do laudo ==0; versão do laudo ==0; versão do laudo ==0",
+      "medido": "ROT=1; VIG=0; ROT=0; FIL=0",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "ROT",
+          "fragmento": "Reexecução do circuito após correções",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "versão do laudo",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "versão do laudo",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "FIL",
+          "fragmento": "versão do laudo",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "D-G14",
+      "titulo": "G14 real: §22 coloca Biblioteca na cadeia; Roteiro §7 desvia claims dela",
+      "camada": "case-sensitive",
+      "escopo": "VIG §22 / ROT §7",
+      "comando": "python3: counts + ordem em sec(22)",
+      "esperado": "AFIRMAÇÃO VALIDADA ==1; Eles **não entram na Biblioteca Canônica de m ==1; CLAIM FECHADO >=1",
+      "medido": "VIG=1; ROT=1; ROT=3",
+      "ok": true,
+      "detalhe": "ordem em §22: True"
+    },
+    {
+      "id": "D-G16",
+      "titulo": "G16 pendencia-raiz REAL: Filosofia atribui integracao a anamnese; Arq atribui cruzamento ao Motor",
+      "camada": "case-sensitive",
+      "escopo": "FIL / VIG §2/§23",
+      "comando": "python3: counts",
+      "esperado": "anamnese estruturada e inteligente integra ==1; Ao receber este gatilho, o Motor executa ==1; a anamnese estruturada, juntamente com os dem ==1",
+      "medido": "FIL=1; VIG=1; VIG=1",
+      "ok": true,
+      "detalhe": "tensao textual confirmada nas duas direcoes"
+    },
+    {
+      "id": "D-G17",
+      "titulo": "G17 real: escopo so na Filosofia; regra de fora-de-escopo ausente",
+      "camada": "casefold",
+      "escopo": "todos os 3",
+      "comando": "python3: casefold counts",
+      "esperado": "ansiedade e depressão >=1; ansiedade ==0; ansiedade ==0; fora do escopo ==0; fora do escopo ==0; fora do escopo ==0",
+      "medido": "FIL=1; VIG=0; ROT=0; VIG=0; FIL=0; ROT=0",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "FIL",
+          "fragmento": "ansiedade e depressão",
+          "regra": ">=1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "ansiedade",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "ansiedade",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "fora do escopo",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "FIL",
+          "fragmento": "fora do escopo",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "fora do escopo",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "D-G18",
+      "titulo": "G18 real: 2 valores no vinculo x 3 trilhas na saida; sem mapa",
+      "camada": "casefold",
+      "escopo": "VIG",
+      "comando": "python3: counts",
+      "esperado": "trilha clínica ou mecanística; ==1; trilha terapêutica ==0; mapeamento ==0",
+      "medido": "VIG=1; VIG=0; VIG=0",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "trilha clínica ou mecanística;",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "trilha terapêutica",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "mapeamento",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "D-G19",
+      "titulo": "G19 pendencia-raiz REAL: Roteiro §16 subordina so o Roteiro; Filosofia x Arquitetura sem regra",
+      "camada": "casefold + case-sensitive",
+      "escopo": "ROT §16 + contagens cruzadas",
+      "comando": "python3: counts",
+      "esperado": "Nenhum documento deste roteiro substitui os c ==1; As decisões específicas continuam pertencendo ==1; Arquitetura Consolidada ==0; Filosofia ==0; Filosofia ==0",
+      "medido": "ROT=1; ROT=1; FIL=0; VIG=0; ROT=0",
+      "ok": true,
+      "detalhe": "nenhum dos 3 declara precedencia entre Filosofia e Arquitetura — confirmado"
+    },
+    {
+      "id": "D-G20",
+      "titulo": "G20 real, mas NAO autonomo: agrega C-3/C-4 e depende de G19 (evitar contagem dupla)",
+      "camada": "case-sensitive",
+      "escopo": "FIL / VIG §19 / ROT §7",
+      "comando": "python3: counts",
+      "esperado": "Todo conteúdo apresentado ao usuário deve der ==1; Todo conhecimento científico ingressa obrigat ==1; consultar a Pasta de Atualização >=1; não entram na Biblioteca Canônica de mecanism ==1",
+      "medido": "FIL=1; FIL=1; VIG=1; ROT=1",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "FIL",
+          "fragmento": "Todo conteúdo apresentado ao usuário deve derivar exclusivamente das Bibliotecas",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "FIL",
+          "fragmento": "Todo conhecimento científico ingressa obrigatoriamente pela Biblioteca de Conhec",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "consultar a Pasta de Atualização",
+          "regra": ">=1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "não entram na Biblioteca Canônica de mecanismos",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "E-C1",
+      "titulo": "C-1: textos existem, MAS reconciliacao esta no proprio documento (§8 'integracao por relacoes' + §6 itens) — falsa contradicao",
+      "camada": "case-sensitive",
+      "escopo": "FIL / VIG §6/§8/§9",
+      "comando": "python3: counts",
+      "esperado": "responsável por conectar os diferentes domíni ==1; Cada NT mantém o seu próprio domínio. ==1; A integração ocorre por meio das relações. ==1; A Ontologia/Grafo formaliza essas relações en ==1; 9. estabelecer relações auditáveis com outras ==1",
+      "medido": "FIL=1; VIG=1; VIG=1; VIG=1; VIG=1",
+      "ok": true,
+      "detalhe": "'conectar' (Filosofia, macro) = identificar/estruturar relacoes (§6) formalizadas no Grafo (§9/§15): DERIVAVEL; divida de glossario, nao decisao arquitetural"
+    },
+    {
+      "id": "E-C2",
+      "titulo": "C-2: VERDADEIRA na base lida (no UNIFICADOS/fundia fluxos = o ACHADO do mestre); RESOLVIDA na vigente (§2 novo + prevalencia); residual = desenhos §21/§30",
+      "camada": "case-sensitive",
+      "escopo": "VIG §2/§21/§30 + R24",
+      "comando": "python3: counts",
+      "esperado": "permanecem segregados até o Motor Clínico. ==1; caminho próprio, por consulta ativa, sem ==1; sem se fundir aos vínculos canônicos ==1; EVIDÊNCIAS / VÍNCULOS UNIFICADOS >=1",
+      "medido": "VIG=1; VIG=1; VIG=1; R24=1",
+      "ok": true,
+      "detalhe": {
+        "residual§21": true,
+        "residual§30": true
+      }
+    },
+    {
+      "id": "E-C3",
+      "titulo": "C-3 VERDADEIRA (interdocumental): Filosofia literal x §19; vigente MITIGA (origem no item), nao resolve formalmente",
+      "camada": "case-sensitive",
+      "escopo": "FIL / VIG §19/§2",
+      "comando": "python3: counts",
+      "esperado": "derivar exclusivamente das Bibliotecas de Con ==1; capacidade de consultar a Pasta de Atualizaçã ==1; origem_conhecimento = canonico | atualizacao >=1; fora do cânone) ==1",
+      "medido": "FIL=1; VIG=1; VIG=2; VIG=1",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "FIL",
+          "fragmento": "derivar exclusivamente das Bibliotecas de Conhecimento correspondentes.",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "capacidade de consultar a Pasta de Atualização",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "origem_conhecimento = canonico | atualizacao",
+          "regra": ">=1",
+          "medido": 2,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "fora do cânone)",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "E-C4",
+      "titulo": "C-4 VERDADEIRA (formal): ingresso obrigatorio (Filosofia) x desvio declarado (Roteiro §7)",
+      "camada": "case-sensitive",
+      "escopo": "FIL / ROT §7 / VIG §5",
+      "comando": "python3: counts",
+      "esperado": "Todo conhecimento científico ingressa obrigat ==1; não entram na Biblioteca Canônica de mecanism ==1; não constituem uma segunda Biblioteca Canônic ==1",
+      "medido": "FIL=1; ROT=1; VIG=1",
+      "ok": true,
+      "detalhe": "a direcao ja esta registrada na governanca (rev.38, proposta rodada 31); falta homologacao + regra G19"
+    },
+    {
+      "id": "E-C5",
+      "titulo": "C-5 VERDADEIRA (cobertura): Filosofia omite Evidencias/Vinculos e Ontologia/Grafo",
+      "camada": "casefold",
+      "escopo": "FIL",
+      "comando": "python3: casefold counts",
+      "esperado": "ontologia ==0; grafo ==0; vínculo ==0; evidências/vínculos ==0",
+      "medido": "FIL=0; FIL=0; FIL=0; FIL=0",
+      "ok": true,
+      "detalhe": "Filosofia menciona so a triade Biblioteca/NT/JSON"
+    },
+    {
+      "id": "E-C6",
+      "titulo": "C-6 VERDADEIRA (taxonomia): 2 trilhas no vinculo x 3 na saida",
+      "camada": "casefold",
+      "escopo": "VIG §5.2/§2/§21",
+      "comando": "python3: counts",
+      "esperado": "trilha clínica ou mecanística; ==1; TERAPÊUTICA >=2; trilha terapêutica ==0",
+      "medido": "VIG=1; VIG=2; VIG=0",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "trilha clínica ou mecanística;",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "TERAPÊUTICA",
+          "regra": ">=2",
+          "medido": 2,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "trilha terapêutica",
+          "regra": "==0",
+          "medido": 0,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "E-C7",
+      "titulo": "C-7: divergencia de REPRESENTACAO confirmada (2 sentidos); resolivel por distincao constituição x consumo — rebaixar de contradicao",
+      "camada": "case-sensitive + ordem",
+      "escopo": "VIG §2/§5.3/§20/§22/§21/§30",
+      "comando": "python3: counts + ordem",
+      "esperado": "EVIDÊNCIA BIBLIOGRÁFICA ==1; fonte científica ==1; conhecimento científico >=2",
+      "medido": "VIG=1; VIG=1; VIG=15",
+      "ok": true,
+      "detalhe": {
+        "ordem_5.3_evidencia_antes_biblioteca": true,
+        "ordem_22": true,
+        "ordem_2_biblioteca_antes_evidencias": true,
+        "ordem_30": true,
+        "ordem_21": true,
+        "ordem_20_evidencia_antes": true
+      }
+    },
+    {
+      "id": "E-C8",
+      "titulo": "C-8 divergencia de STATUS real: §26 'passou pela auditoria' x checklist 9 'EM CONSOLIDACAO'/8 'EM VALIDACAO'; mitigacao no proprio §26",
+      "camada": "case-sensitive",
+      "escopo": "VIG §26/§29 + ROT §13",
+      "comando": "python3: counts",
+      "esperado": "A B1 já possui sua Biblioteca Canônica e pass ==1; A validação estrutural e a validação científi ==1; Biblioteca Canônica B1 >=1; EM CONSOLIDAÇÃO >=2; Claims clínicos B1 ==1; EM VALIDAÇÃO ==1; EM TESTE ==2",
+      "medido": "VIG=1; VIG=1; ROT=3; ROT=4; ROT=1; ROT=1; ROT=2",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "A B1 já possui sua Biblioteca Canônica e passou pelo processo de auditoria.",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "A validação estrutural e a validação científica são dimensões distintas.",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "Biblioteca Canônica B1",
+          "regra": ">=1",
+          "medido": 3,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "EM CONSOLIDAÇÃO",
+          "regra": ">=2",
+          "medido": 4,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "Claims clínicos B1",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "EM VALIDAÇÃO",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "EM TESTE",
+          "regra": "==2",
+          "medido": 2,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "E-C9",
+      "titulo": "C-9: textos coexistem, MAS 'PENDENTE DE REGISTRO' != 'nao feito' — falsa contradicao (divergencia de rotulo de controle)",
+      "camada": "case-sensitive",
+      "escopo": "ROT §17/§13/§2",
+      "comando": "python3: counts",
+      "esperado": "* separação conceitual entre os dois grupos; ==1; Definição dos dois grupos de trabalho ==1; PENDENTE DE REGISTRO ==1",
+      "medido": "ROT=1; ROT=1; ROT=1",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "ROT",
+          "fragmento": "* separação conceitual entre os dois grupos;",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "Definição dos dois grupos de trabalho",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "PENDENTE DE REGISTRO",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "E-C10",
+      "titulo": "C-10 FALSA contra a vigente: H1 + Rev + Roteiro ja dizem V2.2 — artefato da base pre-vigente lida pela IA",
+      "camada": "case-sensitive",
+      "escopo": "VIG H1/Rev + ROT",
+      "comando": "python3: counts",
+      "esperado": "# ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2 ==1; **Rev. V2.2 — 2026-09-17** ==1; Arquitetura Consolidada V2.2 ==2",
+      "medido": "VIG=1; VIG=1; ROT=2",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "# ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "**Rev. V2.2 — 2026-09-17**",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "ROT",
+          "fragmento": "Arquitetura Consolidada V2.2",
+          "regra": "==2",
+          "medido": 2,
+          "ok": true
+        }
+      ]
+    },
+    {
+      "id": "E-IA-LIM",
+      "titulo": "Limite assumido da IA: cita schema_vinculo_v1.1.json — existe na vigente (e em toda a linha); 'nao determinavel' bem aplicado pela IA",
+      "camada": "case-sensitive",
+      "escopo": "VIG/IA",
+      "comando": "python3: counts",
+      "esperado": "L05/schema_vinculo_v1.1.json ==1; L05/schema_referencia_v1.1.json ==1; schema_vinculo_v1.1.json >=1",
+      "medido": "VIG=1; VIG=1; IA=1",
+      "ok": true,
+      "detalhe": [
+        {
+          "doc": "VIG",
+          "fragmento": "L05/schema_vinculo_v1.1.json",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "VIG",
+          "fragmento": "L05/schema_referencia_v1.1.json",
+          "regra": "==1",
+          "medido": 1,
+          "ok": true
+        },
+        {
+          "doc": "IA",
+          "fragmento": "schema_vinculo_v1.1.json",
+          "regra": ">=1",
+          "medido": 1,
+          "ok": true
+        }
+      ]
+    }
+  ]
+}

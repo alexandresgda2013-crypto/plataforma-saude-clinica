@@ -1,0 +1,420 @@
+{
+  "trilha": 37,
+  "data": "2026-09-16",
+  "rodada": 21,
+  "objeto": "schemas L-05 v1.2 + análise do comentador — réplica empírica da casa",
+  "etapas": {
+    "A_digitais": {
+      "schema_vinculo_v1.2": "19f4f29a8763aa635a09d16c1bd960af2687da62a5f79700b8dfd57081d73360",
+      "schema_referencia_v1.2": "b8bcea8084fc17a296ef2beebd709bb2c90a7d816918ddfda74a0667e6ec168a",
+      "analise_comentador": "80248f53e9328509ab8173158a4ffe065423b086530639c30ad86f580fdfb5c9",
+      "parse_json": "2/2 válidos",
+      "jsonschema_versao": "4.26.0",
+      "nota_protocolo": "operador mencionou um '.py' do auditor-2 que NÃO chegou nesta mensagem — nomeado, aguardando envio"
+    },
+    "B_incorporacao_verificada": {
+      "p1_papel_sem_refuta": true,
+      "p1_direcao_suporte_4valores_com_refuta": true,
+      "p2_ancora_principal_campo_string": true,
+      "p2_V17_3testes_declarados_portao": true,
+      "p3_guarda_natureza_com_0de66_medido": true,
+      "p4_status_validacao_canonico_com_enum": true,
+      "p4_alias_deprecated_presente": true,
+      "casa_R1_principal_booleano_ausente": true,
+      "casa_R3_padrao_ancorado_em_g3_ambos": false
+    },
+    "C_ponto1_condicao_prova_executavel": {
+      "S1_molde_valido": true,
+      "S2_FURO_sustenta_com_condicao_PASSA": true,
+      "S3_condicional_sem_condicao_reprova": true,
+      "S4_condicional_condicao_vazia_reprova": true,
+      "proposta_casa_bloco": {
+        "if": {
+          "properties": {
+            "direcao_suporte": {
+              "enum": [
+                "sustenta",
+                "refuta",
+                "inconclusivo"
+              ]
+            }
+          },
+          "required": [
+            "direcao_suporte"
+          ]
+        },
+        "then": {
+          "properties": {
+            "condicao": {
+              "type": "null"
+            }
+          }
+        }
+      },
+      "medicao_da_proposta": {
+        "molde_segue_valido": true,
+        "furo_fechado": true,
+        "sustenta_condicao_null_ok": true,
+        "condicional_com_condicao_ok": true,
+        "condicional_sem_condicao_segue_reprovando": true
+      }
+    },
+    "D_ponto2_sentido_relacao": {
+      "ocorrencias_em_registros_de_dados": 0,
+      "arquivos_de_prosa_que_mencionam": 22,
+      "lista": [
+        "BIBLIOTECAS/CHANGELOG_GERAL.md",
+        "BIBLIOTECAS/ROTEIRO_PROJETO.md",
+        "BIBLIOTECAS/_documentos_serie/ADENDO_1_RESPOSTA6_ARQUITETURA_V2_2026-09-15.md",
+        "BIBLIOTECAS/_documentos_serie/ADENDO_1_RESPOSTA8_ORIGEM_SCHEMAS_V11_2026-09-15.md",
+        "BIBLIOTECAS/_documentos_serie/RESPOSTA_10_L06_MINUTA1_E_P8_HARMONIZADO_2026-09-15.md",
+        "BIBLIOTECAS/_documentos_serie/RESPOSTA_3_AUDITOR_ESTRUTURA_L05_V11_ARQUITETURA_V2_2026-09-15.md",
+        "BIBLIOTECAS/_documentos_serie/RESPOSTA_6_ARQUITETURA_CONSOLIDADA_NT_PRE_MOTOR_2026-09-15.md",
+        "BIBLIOTECAS/_documentos_serie/RESPOSTA_7_PARECER_ARQUITETURA_V2_MESTRE_2026-09-15.md",
+        "BIBLIOTECAS/_documentos_serie/RESPOSTA_8_MINUTA_L05_1.1_MESTRE_2026-09-15.md",
+        "BIBLIOTECAS/_documentos_serie/ENVIO_AUDITOR_ESTRUTURA_2026-09-15/00_LEIA-ME_PACOTE.md",
+        "BIBLIOTECAS/_documentos_serie/ENVIO_AUDITOR_ESTRUTURA_2026-09-15/01_CARTA_RESPOSTA_3_AO_AUDITOR_ESTRUTURA.md",
+        "BIBLIOTECAS/_documentos_serie/ENVIO_AUDITOR_ESTRUTURA_2026-09-15/04_TRILHA30_verificacao_contrato_motor_e_P8.json",
+        "BIBLIOTECAS/_documentos_serie/L05_1.1_minuta_mestre_recebida_2026-09-15/L05_1.1_CONTRATO_CADEIA_MOTOR_minuta1_2026-09-15.md",
+        "BIBLIOTECAS/_documentos_serie/L05_1.1_minuta_mestre_recebida_2026-09-15/L05_1.1_CONTRATO_CADEIA_MOTOR_minuta2_2026-09-15.md",
+        "BIBLIOTECAS/_documentos_serie/L06_minuta_mestre_recebida_2026-09-15/L06_RESOLUCAO_CONFLITOS_minuta1_2026-09-15.md",
+        "BIBLIOTECAS/_documentos_serie/L05_v1.2_schemas_recebidos_2026-09-16/schema_vinculo_v1.2_recebido_2026-09-16.json",
+        "BIBLIOTECAS/_documentos_serie/L05_v1.2_schemas_recebidos_2026-09-16/ANALISE_COMENTADOR_SCHEMAS_V12_2026-09-16.md",
+        "BIBLIOTECAS/B01_Neuroinflamacao/atuais/Auditoria_B1/decisoes_B1.md",
+        "BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/29_verificacao_minuta_1.1_mestre_e_comentador_2026-09-15.json",
+        "BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/30_verificacao_minuta2_e_P8_regime_camadas_2026-09-15.json",
+        "BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/31_verificacao_L06_minuta1_e_P8_harmonizado_2026-09-15.json",
+        "BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/TRILHA37_script_schemas_v12_2026-09-16.py"
+      ]
+    },
+    "E_ponto3_redirecionados": {
+      "total": 20,
+      "confere_com_o_texto_do_schema_os_20": true,
+      "dist_ref": {
+        "REF_KOHLER_2017": 4,
+        "REF_OSIMO_2020": 3,
+        "REF_VIRTANEN_2015": 2,
+        "REF_TOBINICK_2009": 1,
+        "REF_WIEDOCHA_2018": 1,
+        "REF_DOWLATI_2010": 1,
+        "REF_HOWREN_2009": 1,
+        "REF_GOLDSMITH_2016": 1,
+        "REF_JARKAS_2024": 1,
+        "REF_COMAI_2022": 1,
+        "REF_SUBLETTE_2011": 1,
+        "REF_ARORA_2019": 1,
+        "REF_GULEN_2016": 1,
+        "REF_BELGE_2020": 1
+      },
+      "dist_status": {
+        "extrapolado|PARCIALMENTE_CONFIRMADO": 1,
+        "verificado|CONFIRMADO": 18,
+        "verificado|PARCIALMENTE_CONFIRMADO": 1
+      },
+      "dist_uso": {
+        "gap_pesquisa": 2,
+        "clinico": 17,
+        "contexto_mecanistico": 1
+      },
+      "lista": [
+        {
+          "id": "VINC_B1_0065",
+          "ref": "REF_TOBINICK_2009",
+          "vs": "extrapolado",
+          "sa": "PARCIALMENTE_CONFIRMADO",
+          "uso": "gap_pesquisa"
+        },
+        {
+          "id": "VINC_B1_0067",
+          "ref": "REF_KOHLER_2017",
+          "vs": "verificado",
+          "sa": "CONFIRMADO",
+          "uso": "clinico"
+        },
+        {
+          "id": "VINC_B1_0069",
+          "ref": "REF_WIEDOCHA_2018",
+          "vs": "verificado",
+          "sa": "CONFIRMADO",
+          "uso": "clinico"
+        },
+        {
+          "id": "VINC_B1_0083",
+          "ref": "REF_KOHLER_2017",
+          "vs": "verificado",
+          "sa": "CONFIRMADO",
+          "uso": "clinico"
+        },
+        {
+          "id": "VINC_B1_0089",
+          "ref": "REF_KOHLER_2017",
+          "vs": "verificado",
+          "sa": "CONFIRMADO",
+          "uso": "contexto_mecanistico"
+        },
+        {
+          "id": "VINC_B1_0109",
+          "ref": "REF_DOWLATI_2010",
+          "vs": "verificado",
+          "sa": "CONFIRMADO",
+          "uso": "clinico"
+        },
+        {
+          "id": "VINC_B1_0110",
+          "ref": "REF_HOWREN_2009",
+          "vs": "verificado",
+          "sa": "CONFIRMADO",
+          "uso": "clinico"
+        },
+        {
+          "id": "VINC_B1_0111",
+          "ref": "REF_GOLDSMITH_2016",
+          "vs": "verificado",
+          "sa": "CONFIRMADO",
+          "uso": "clinico"
+        },
+        {
+          "id": "VINC_B1_0112",
+          "ref": "REF_OSIMO_2020",
+          "vs": "verificado",
+          "sa": "CONFIRMADO",
+          "uso": "clinico"
+        },
+        {
+          "id": "VINC_B1_0113",
+          "ref": "REF_KOHLER_2017",
+          "vs": "verificado",
+          "sa": "CONFIRMADO",
+          "uso": "clinico"
+        },
+        {
+          "id": "VINC_B1_0114",
+          "ref": "REF_JARKAS_2024",
+          "vs": "verificado",
+          "sa": "CONFIRMADO",
+          "uso": "clinico"
+        },
+        {
+          "id": "VINC_B1_0115",
+          "ref": "REF_VIRTANEN_2015",
+          "vs": "verificado",
+          "sa": "CONFIRMADO",
+          "uso": "clinico"
+        },
+        {
+          "id": "VINC_B1_0116",
+          "ref": "REF_COMAI_2022",
+          "vs": "verificado",
+          "sa": "CONFIRMADO",
+          "uso": "clinico"
+        },
+        {
+          "id": "VINC_B1_0117",
+          "ref": "REF_SUBLETTE_2011",
+          "vs": "verificado",
+          "sa": "CONFIRMADO",
+          "uso": "clinico"
+        },
+        {
+          "id": "VINC_B1_0121",
+          "ref": "REF_ARORA_2019",
+          "vs": "verificado",
+          "sa": "PARCIALMENTE_CONFIRMADO",
+          "uso": "clinico"
+        },
+        {
+          "id": "VINC_B1_0122",
+          "ref": "REF_GULEN_2016",
+          "vs": "verificado",
+          "sa": "CONFIRMADO",
+          "uso": "gap_pesquisa"
+        },
+        {
+          "id": "VINC_B1_0125",
+          "ref": "REF_BELGE_2020",
+          "vs": "verificado",
+          "sa": "CONFIRMADO",
+          "uso": "clinico"
+        },
+        {
+          "id": "VINC_B1_0130",
+          "ref": "REF_VIRTANEN_2015",
+          "vs": "verificado",
+          "sa": "CONFIRMADO",
+          "uso": "clinico"
+        },
+        {
+          "id": "VINC_B1_0131",
+          "ref": "REF_OSIMO_2020",
+          "vs": "verificado",
+          "sa": "CONFIRMADO",
+          "uso": "clinico"
+        },
+        {
+          "id": "VINC_B1_0172",
+          "ref": "REF_OSIMO_2020",
+          "vs": "verificado",
+          "sa": "CONFIRMADO",
+          "uso": "clinico"
+        }
+      ],
+      "papel_atual_disponivel": "0/20 têm papel (estrutura ancoras não existe ainda) — a classificação semântica está TODA por fazer; a regra da minuta 1.2 decidirá sem lastro de fluxo"
+    },
+    "F_adicao_casa_A_alias_N1": {
+      "v1_1_alias_tinha_enum": true,
+      "v1_2_required_exige_alias": true,
+      "v1_2_required_exige_canonico": false,
+      "v1_2_alias_tem_enum": false,
+      "fichas_com_valor_composto_hoje": 162,
+      "exemplos": [
+        "REF_CAPURON_2002",
+        "REF_DANTZER_2001",
+        "REF_CAPURON_2002b",
+        "REF_FEKETE_2004",
+        "REF_HAN_2005"
+      ],
+      "consequencia_medida": "na v1.2 como está, o campo LIMPO canônico pode faltar E o valor composto (162/237 hoje) passa no alias livre — o inverso do alvo normativo",
+      "liturgia_espelho_do_proprio_autor": "secao_origem/mecanismo_origem NÃO estão em required no schema_vinculo v1.2 — o alias deveria seguir a mesma regra"
+    },
+    "G_adicao_casa_B_superficie_migracao": {
+      "N2_274": {
+        "ancoras": 0,
+        "ancora_principal": 0,
+        "direcao": 0,
+        "direcao_suporte": 0,
+        "trilha": 0,
+        "condicao": 0
+      },
+      "N2_uso_fora_do_enum": {
+        "B1_v2": 30
+      },
+      "N2_leva_origem_bate_na_descricao": true,
+      "N1_237": {
+        "natureza_evidencia": 0,
+        "desenho_estudo_bruto": 0,
+        "status_validacao": 0
+      },
+      "N1_desenho_valores_distintos": 175,
+      "N1_desenho_fora_do_enum": 237,
+      "N1_desenho_top10": [
+        [
+          "Journal Article; Review",
+          9
+        ],
+        [
+          "Journal Article; Research Support, Non-U.S. Gov't",
+          8
+        ],
+        [
+          "Journal Article",
+          7
+        ],
+        [
+          "Review; Research Support",
+          6
+        ],
+        [
+          "Review",
+          6
+        ],
+        [
+          "Review (humano+animal)",
+          5
+        ],
+        [
+          "Meta-analise (humano)",
+          5
+        ],
+        [
+          "Experimental (camundongo)",
+          4
+        ],
+        [
+          "Journal Article; Research Support, N.I.H., Extramural; Research Support, Non-U.S. Gov't",
+          4
+        ],
+        [
+          "Journal Article; Meta-Analysis; Systematic Review",
+          4
+        ]
+      ],
+      "guarda_regex": {
+        "casa_crossover_e_cross-over_morde": 0,
+        "v1.2_so_crossover_morde": 0,
+        "cross-over_com_hifen_no_acervo": 0,
+        "nota": "impacto hoje = 0; pedido de restituição de 'cross-over' é preventivo p/ B2-B16 (custou só 1 alternativa na trilha 35)"
+      },
+      "forca_biologica": {
+        "campo_0_de_274": 0,
+        "vinculos_com_secao_BLOCO_07_08": 24,
+        "nota": "obrigatoriedade BLOCO_07/08 só na prosa do description — sem if/then nem ponteiro de portão; sugerir simetria com V-17"
+      },
+      "origem_pipeline": {
+        "fora_do_enum": 50,
+        "valores": [
+          [
+            "BUSCA_FERRAMENTA",
+            187
+          ],
+          [
+            "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+            49
+          ],
+          [
+            "AT_AUDITORIA_EXTERNA_2026-09-13 (C3/AUD-051)",
+            1
+          ]
+        ],
+        "nota": "compostos com data/observação grudada — é o que origem_detalhe recebe (descrição bate com o dado)"
+      }
+    },
+    "H_validacao_em_massa": {
+      "N2_274_x_schema_vinculo_v1.2": {
+        "total": 274,
+        "validas_hoje": 0,
+        "required_faltando": {
+          "trilha": 274,
+          "ancoras": 274,
+          "ancora_principal": 274
+        },
+        "enum_violado": {
+          "uso": 30
+        },
+        "outras": {}
+      },
+      "N1_237_x_schema_referencia_v1.2": {
+        "total": 237,
+        "validas_hoje": 0,
+        "required_faltando": {
+          "natureza_evidencia": 237,
+          "desenho_estudo_bruto": 237
+        },
+        "enum_violado": {
+          "desenho_estudo": 237,
+          "origem_pipeline": 50
+        },
+        "outras": {}
+      },
+      "nota": "superfície ESPERADA — schema é PROPOSTA (alvo pós-migração); medida materializa a régua 1.2, não acusa"
+    },
+    "I_observacao_final": {
+      "trilha_description_diz_PENDENTE_DE_DECISAO": true,
+      "allOf_trilha_condiciona_uso_implementado": true,
+      "leitura_da_casa": "implementação comporta; o rótulo deve sair quando a Decisão 1 for registrada na minuta 1.2 — coerência de estado entre minuta, schema e registro (como ele pede)"
+    },
+    "B_correcao_datada_2026-09-16": {
+      "ts": "2026-09-16 06:00:45",
+      "nota": "casa_R3_padrao_ancorado_em_g3_ambos saiu False por CAIXA ALTA: o teste procurava 'ancorado' minúsculo no schema_referencia, que traz 'padrao ANCORADO'. Refeito com a forma exata: os DOIS schemas declaram o padrão ANCORADO no portão. Substância confirmada; defeito era do meu teste.",
+      "casa_R3_padrao_ancorado_em_g3_ambos_REFEITO": true
+    }
+  },
+  "vereditos": {
+    "ponto1_comentador_CONFIRMADO_com_proposta": true,
+    "ponto2_comentador_CONFIRMADO_medido": true,
+    "ponto3_comentador_CONFIRMADO_com_dados": true,
+    "casa_A_paradoxo_alias_CONFIRMADO": true,
+    "obs_final_comentador_CONFIRMADO": true,
+    "incorporacao_v12_9de9_REFEITA": true
+  },
+  "ciencia_tocada": 0
+}

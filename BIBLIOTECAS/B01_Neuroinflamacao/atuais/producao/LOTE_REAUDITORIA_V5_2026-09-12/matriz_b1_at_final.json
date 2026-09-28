@@ -1,0 +1,1297 @@
+{
+ "entrantes": [
+  {
+   "chave": "31427752",
+   "pmid": "31427752",
+   "titulo": "Peripheral cytokine levels and response to antidepressant treatment in depression: a systematic review and meta-analysis.",
+   "journal_full": "Molecular psychiatry",
+   "ano": "2020",
+   "autores": [
+    "Liu JJ",
+    "Wei YB",
+    "Strawbridge R",
+    "Bao Y",
+    "Chang S",
+    "Shi L",
+    "Que J",
+    "Gadad BS"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Predicting antidepressant treatment response has been a clinical challenge for major depressive disorder (MDD). The inflammation hypothesis of depression suggests that cytokines play a key role in the pathophysiology of MDD and alterations in peripheral cytokine levels are associated with antidepressant treatment outcome. Present meta-analysis aimed to examine the association between baseline peripheral cytokine levels and the response to antidepressant treatment and to evaluate whether changes of cytokine levels were associated with the response to antidepressant treatment in patients with MDD. Human-based studies published in any language in peer-reviewed journals were systematically searched from the PubMed, Embase and Web of Science databases, from inception up to October 2018. The search terms included cytokine, depressive disorder and antidepressant and their synonyms. Case-control or case-case studies reporting on levels of IL-1β, IL-2, IL-4, IL-5, IL-6, IL-8, IL-10, IL-12, CRP, TNF-α, IFN-γ, GM-CSF, MIP-1α, and Eotaxin-1 in patients with MDD based on validated depression scales both before and after antidepressant treatment were included. Of 7408 identified records, 44 studies met inclusion. Standardized mean differences in each cytokine were evaluated, and random-effects meta-analyses were performed. MDD patients who responded to antidepressant treatment had lower baseline IL-8 levels than the nonresponders (Hedge's g = -0.28; 95%CI, -0.43 to -0.13; P = 0.0003; FDR =",
+   "doi": "10.1146/annurev-publhealth-031912-114409"
+  },
+  {
+   "chave": "32807846",
+   "pmid": "32807846",
+   "titulo": "The longitudinal associations of inflammatory biomarkers and depression revisited: systematic review, meta-analysis, and meta-regression.",
+   "journal_full": "Molecular psychiatry",
+   "ano": "2021",
+   "autores": [
+    "Mac Giollabhui N",
+    "Ng TH",
+    "Ellman LM",
+    "Alloy LB"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "The innate immune system is dysregulated in depression; however, less is known about the longitudinal associations of depression and inflammatory biomarkers. We investigated the prospective associations of depression and inflammatory biomarkers [interleukin-6 (IL-6), Tumor Necrosis Factor-Alpha (TNF-α), and C-reactive protein (CRP)] in community samples, both unadjusted and adjusted for covariates. The review, registered with PROSPERO, searched for published and unpublished studies via MEDLINE/PsycINFO/PsycARTICLES/EMBASE/Proquest Dissertation. Standardized Fisher transformations of the correlation/beta coefficients, both unadjusted and adjusted for covariates, were extracted from studies examining the prospective associations of depression and inflammatory biomarkers. Systematic review conducted in January, 2019 included 38 studies representing 58,256 participants, with up to 27 studies included in random-effects meta-analysis. Higher CRP/IL-6 were associated with future depressive symptoms, and higher depressive symptoms were associated with higher future CRP/IL-6 in both unadjusted and adjusted analyses - this is the first meta-analysis reporting an adjusted association of IL-6 with future depression. The adjusted prospective associations of depression with CRP/CRP with depression were substantially attenuated and small in magnitude. No significant associations were observed for TNF-α. No conclusive results were observed in studies of clinical depression. Meta-regression i",
+   "doi": ""
+  },
+  {
+   "chave": "41226404",
+   "pmid": "41226404",
+   "titulo": "Altered Cytokine Levels in the First Episode of Major Depression and in Antidepressant-Naïve Patients: A Systematic Review and Meta-Analysis.",
+   "journal_full": "International journal of molecular sciences",
+   "ano": "2025",
+   "autores": [
+    "Gędek A",
+    "Modrzejewski S",
+    "Materna M",
+    "Iwański M",
+    "Wichniak A",
+    "Dominiak M"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Major depressive disorder (MDD) is a severe mental disorder associated with significant functional impairment and decreased quality of life. Growing evidence suggests that immune-inflammatory mechanisms, particularly cytokine dysregulation, take part in its development and course. This systematic review and meta-analysis aimed to evaluate whether cytokine alterations are present in early stages of MDD, specifically in first-episode (FE) and drug-naïve (DN) patients. Following PRISMA guidelines a comprehensive search of PubMed, Scopus, and Web of Science was conducted in March 2025. Studies were eligible if they compared levels of inflammatory cytokines between adult FE or DN MDD patients and healthy controls (HCs). Meta-analyses using random-effects models were performed, including subanalyses depending on the source of the sample and the quality of the studies. In total, 17 eligible studies involving 1371 MDD patients were included. The meta-analysis showed significantly elevated levels of interleukin 6 (IL-6), interleukin 2 (IL-2), and tumor necrosis factor alfa (TNF-α) in FE patients compared to HCs. DN patients' quantitative analysis showed increased levels of IL-6, IL-2, interleukin 4 (IL-4), interleukin 10 (IL-10), TNF-α, and interferon gamma (IFN-γ) compared to healthy individuals. Moreover, in the case of TNF-α, IL-2, interleukin 1 beta (IL-1β), and IL-4, there was a difference in results depending on the sample source (plasma/serum). Cytokine dysregulation is present",
+   "doi": "10.3390/ijms262110362"
+  },
+  {
+   "chave": "41588410",
+   "pmid": "41588410",
+   "titulo": "TNF-α levels in first-episode, drug-naïve patients with major depressive disorder: a case-control study and meta-analysis.",
+   "journal_full": "BMC psychiatry",
+   "ano": "2026",
+   "autores": [
+    "Li C",
+    "Wang Y",
+    "Chen J",
+    "Xiao S",
+    "Lou M",
+    "Ding M",
+    "Xing Y"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Meta-Analysis"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "BACKGROUND: Major Depressive Disorder (MDD) is a common psychiatric condition with a multifactorial etiology that includes inflammatory mechanisms. Tumor Necrosis Factor-α (TNF-α), a pro-inflammatory cytokine, regulates several cellular functions in health and has been associated with reduced neuronal survival and increased inflammation in cortical areas related to reward processing, motivation, and decision-making in MDD. Although TNF-α has been studied in MDD, its precise role remains unclear, highlighting the need for further investigation. We therefore conducted a case-control study and a meta-analysis to better characterize peripheral blood TNF-α levels in first-episode, drug-naïve MDD patients compared with healthy controls. METHODS: In the case-control study, plasma TNF-α levels were measured in first-episode, drug-naïve patients with major depressive disorder (MDD) and healthy controls (HCs) matched on age, and sex, using high-sensitivity enzyme-linked immunosorbent assays (ELISAs). For the meta-analysis, we selected relevant case-control studies from systematic searches of PubMed, Embase, PsycINFO, and Web of Science. A random effects model was used to calculate combined standardized mean differences (SMD) and ratio of means (RoM) for result verification. RESULTS: A total of 63 MDD patients and 63 matched HCs were included in the case-control analysis. Plasma TNF-α levels were significantly higher in MDD patients than in HCs (z = -2.12, p < 0.05). For the meta-analys",
+   "doi": "10.1016/S0140-6736(18)31948-2"
+  },
+  {
+   "chave": "10.1016/j.jad.2024.11.071",
+   "pmid": "39603515",
+   "titulo": "Blood cytokines in major depressive disorder in drug-naïve adolescents: A systematic review and meta-analysis.",
+   "journal_full": "Journal of affective disorders",
+   "ano": "2025",
+   "autores": [
+    "Jadhav KK",
+    "Daouk J",
+    "Kurkinen K",
+    "Kraav SL",
+    "Eriksson P",
+    "Tolmunen T",
+    "Kanninen KM"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Major depressive disorder (MDD) is the most common mental health problem worldwide. Increased levels of inflammation are associated with MDD, though this relationship has been suggested to be bidirectional. The first incidence of a depressive episode usually occurs during adolescence. Hence, examining depressed, drug-naïve adolescents is important to understand the role of inflammation in the pathophysiology of MDD. Cytokines might play a crucial role in inflammation associated with MDD. Therefore, this article aims to investigate the changes in the levels of peripheral blood cytokines in adolescents with MDD. We conducted a systematic review and meta-analysis to assess the changes in peripheral blood cytokines in drug-naïve adolescents (10-18 years) with MDD. A comprehensive search across four databases was performed to identify original research articles. Studies in which the diagnosis of MDD was set by semi-structured interview were included. Of 2291 articles, 12 met the inclusion criteria for the review, with seven suitable for meta-analysis & including up to five studies per cytokine. The meta-analysis revealed significant associations between tumor necrosis factor (TNF)-α (n = 222, Hedge's g = 0.51, p <0.01) and MDD in adolescents compared to healthy individuals. However, other blood cytokines, including interleukin (IL)-1β, IL-4, IL-6, IL-8, and interferon (IFN)-γ, did not significantly correlate with MDD in adolescents. TNF-α was significantly elevated in drug-naïve a",
+   "doi": "10.1016/j.jad.2024.11.071"
+  },
+  {
+   "chave": "10.1111/ejn.15992",
+   "pmid": "37070163",
+   "titulo": "Pro-inflammatory cytokines IL-1α, IL-6 and TNF-α in major depressive disorder: Sex-specific associations with psychological symptoms.",
+   "journal_full": "The European journal of neuroscience",
+   "ano": "2023",
+   "autores": [
+    "Elgellaie A",
+    "Thomas SJ",
+    "Kaelle J",
+    "Bartschi J",
+    "Larkin T"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "The pro-inflammatory cytokines IL-1α, IL-6 and TNF-α are associated with major depressive disorder, psychological distress, cardiovascular health and obesity. However, there is limited research that has examined multiple associations between these variables, particularly among individuals with major depressive disorder who are treatment free, in comparison with a control cohort, and including analyses of sex differences. In this study, data were analysed from 60 individuals with major depressive disorder and 60 controls, including plasma IL-1α, IL-6 and TNF-α, adiposity measures (body mass index, waist circumference), cardiovascular health indices (blood pressure, heart rate) and psychological symptoms (depressive severity, anxiety, hostility, stress). The cytokines were compared by group and sex and correlated with measures of adiposity, cardiovascular health indices and psychological health. Plasma IL-1α and IL-6 were higher in major depressive disorder group versus control, but with a sex interaction for IL-6, with this group difference only among females. TNF-α did not differ between groups. IL-1α and IL-6 correlated with depressive severity, anxiety, hostility and stress, whereas TNF-α correlated only with anxiety and hostility. Psychopathology was associated with IL-1α in males only and with IL-6 and TNF-α in females only. None of the cytokines correlated with body mass index, waist circumference, blood pressure or heart rate. The result of group by sex interaction for ",
+   "doi": "10.1111/ejn.15992"
+  },
+  {
+   "chave": "10.3390/biomedicines12112501",
+   "pmid": "39595067",
+   "titulo": "Predictive Value of Inflammatory Biomarkers in Assessing Major Depression in Adults.",
+   "journal_full": "Biomedicines",
+   "ano": "2024",
+   "autores": [
+    "Gavril R",
+    "Dobrin PR",
+    "Pînzariu AC",
+    "Moscalu M",
+    "Grigore RG",
+    "Iacob VT",
+    "Bejenariu AC",
+    "Popescu ER"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "species": [],
+   "abstract": "Background: There are studies that have investigated the association of pro-inflammatory cytokines with depressive disorders, but they often present certain limitations. In this study, two substantial groups of patients were analyzed: 92 patients with major depressive disorder and 76 without depressive disorders. The strict inclusion and exclusion criteria for the analyzed groups significantly increased the value of the obtained results. The research question of this study was whether levels of inflammation, measured by the inflammatory markers IL-6, IL-1α, and TNF-α, could predict the severity of depressive symptoms. This could provide additional evidence supporting the hypothesis that inflammation plays a notable role in the pathogenesis of depression. The data analysis supports the hypothesis that the biological mechanisms of inflammation contribute to the clinical manifestations of depression. Elevated levels of inflammatory markers, especially interleukins (IL-6, IL-1α) and tumor necrosis factor-alpha (TNF α), have been identified in patients with major depressive disorder compared to the findings in healthy controls. Materials and Methods: Inflammatory markers (IL-6, IL-1α, and TNF-α) were measured in a sample of 92 patients hospitalized at the Socola Institute of Psychiatry in Iasi, Romania, and compared to a control group with no depression or inflammatory conditions (n = 76). Severity of depressive symptoms was assessed using HAM-D scores. Results: The study results ",
+   "doi": "10.3390/biomedicines12112501"
+  },
+  {
+   "chave": "10.1089/cap.2019.0015",
+   "pmid": "30939048",
+   "titulo": "Inflammatory Cytokines in Children and Adolescents with Depressive Disorders: A Systematic Review and Meta-Analysis.",
+   "journal_full": "Journal of child and adolescent psychopharmacology",
+   "ano": "2019",
+   "autores": [
+    "D'Acunto G",
+    "Nageye F",
+    "Zhang J",
+    "Masi G",
+    "Cortese S"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Objective: Meta-analytic evidence shows alterations of peripheral inflammatory cytokines in adults with depressive disorders. By contrast, no evidence synthesis on alterations of peripheral inflammatory cytokines in children/adolescents with depressive disorders is available to date. To fill this gap, we conducted a systematic review and meta-analysis of case-control studies comparing serum cytokine levels in children/adolescents with depressive disorders and healthy controls. Methods: Based on a preregistered protocol (PROSPERO-CRD42018095418), we searched PubMed, Ovid, and Web of Knowledge from inception through July 21, 2018, with no language restrictions, and contacted study authors for unpublished data/information. Random-effects model was used to compute effect size for each cytokine. The Newcastle-Ottawa Scale was used to asses study bias. Results: From a pool of 4231 nonduplicate, potentially relevant references, 8 studies were retained for the qualitative synthesis and 5 for the meta-analysis. TNF-α was higher in participants with depressive disorders versus controls, falling short of statistical significance. Conclusions: Overall, due to the small number of studies, in contrast to the literature in adults, further evidence is needed to confirm possible inflammatory alterations associated with depression in youth.",
+   "doi": "10.1089/cap.2019.0015"
+  },
+  {
+   "chave": "31195092",
+   "pmid": "31195092",
+   "titulo": "Markers of central inflammation in major depressive disorder: A systematic review and meta-analysis of studies examining cerebrospinal fluid, positron emission tomography and post-mortem brain tissue.",
+   "journal_full": "Brain, behavior, and immunity",
+   "ano": "2019",
+   "autores": [
+    "Enache D",
+    "Pariante CM",
+    "Mondelli V"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Increased peripheral inflammation has been consistently reported in patients with major depressive disorder (MDD). However, only few studies have explored markers of central (brain) inflammation in patients with MDD. The aim of this study is to systematically review in vivo and post-mortem markers of central inflammation, including studies examining cerebrospinal fluid (CSF), positron emission tomography, and post-mortem brain tissues in subjects suffering with MDD compared with controls. PubMed and Medline databases were searched up to December 2018. We included studies measuring cerebrospinal fluid (CSF) cytokines and chemokines, positron emission tomography (PET) studies; and post-mortem studies measuring cytokines, chemokines and cell-specific markers of microglia and astrocytes, all in MDD. A meta-analysis was performed only for CSF and PET studies, as studies on post-mortem markers of inflammation had different cell-specific markers and analysed different brain regions. A total of 69 studies met the inclusion criteria. CSF levels of IL-6 and TNF-α were higher in patients with MDD compared with controls (standardised mean difference SMD 0.37, 95%CI: 0.17-0.57 and SMD 0.58, 95%CI 0.26-0.90, respectively). CSF levels of IL-6 were increased in suicide attempters regardless of their psychiatric diagnosis. Translocator protein, a PET marker of central inflammation, was elevated in the anterior cingulate cortex and temporal cortex of patients with MDD compared with controls (S",
+   "doi": "10.1016/j.bbi.2019.06.015"
+  },
+  {
+   "chave": "10.1093/schbul/sbx035",
+   "pmid": "28338954",
+   "titulo": "Meta-analysis of Cerebrospinal Fluid Cytokine and Tryptophan Catabolite Alterations in Psychiatric Patients: Comparisons Between Schizophrenia, Bipolar Disorder, and Depression.",
+   "journal_full": "Schizophrenia bulletin",
+   "ano": "2018",
+   "autores": [
+    "Wang AK",
+    "Miller BJ"
+   ],
+   "pubtypes": [
+    "Comparative Study",
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Schizophrenia, bipolar disorder, and major depressive disorder (MDD) have all been associated with immune system dysfunction, including aberrant cerebrospinal fluid (CSF) levels of cytokines and tryptophan catabolites; however, the pattern of alterations has not been compared across disorders. We performed a meta-analysis of CSF cytokine and tryptophan catabolites in patients with these major psychiatric disorders. Articles were identified by searching Pub Med, PsycInfo, and Web of Science, and the reference lists of these studies. Twenty-eight studies met the inclusion criteria (16 schizophrenia, 4 bipolar disorder, and 9 MDD). CSF levels of IL-1β and kynurenic acid were significantly increased in patients with schizophrenia and bipolar disorder compared to healthy controls (P < .001). CSF levels of IL-6 and IL-8 were significantly increased in patients with schizophrenia and MDD compared to healthy controls (P ≤ .013). There is preliminary evidence for similarities in the pattern of CSF cytokine and tryptophan catabolite alterations across major psychiatric disorders, although findings must be interpreted with caution in light of small numbers of studies/subjects. Many CSF alterations are also concordant with those in the peripheral blood, particularly for schizophrenia. Findings have important implications for our understanding of the pathophysiology and treatment of major psychiatric disorders.",
+   "doi": "10.1093/schbul/sbx035"
+  },
+  {
+   "chave": "32917850",
+   "pmid": "32917850",
+   "titulo": "Single-cell mass cytometry of microglia in major depressive disorder reveals a non-inflammatory phenotype with increased homeostatic marker expression.",
+   "journal_full": "Translational psychiatry",
+   "ano": "2020",
+   "autores": [
+    "Böttcher C",
+    "Fernández-Zapata C",
+    "Snijders GJL",
+    "Schlickeiser S",
+    "Sneeboer MAM",
+    "Kunkel D",
+    "De Witte LD",
+    "Priller J"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Stress-induced disturbances of brain homeostasis and neuroinflammation have been implicated in the pathophysiology of mood disorders. In major depressive disorder (MDD), elevated levels of proinflammatory cytokines and chemokines can be found in peripheral blood, but very little is known about the changes that occur directly in the brain. Microglia are the primary immune effector cells of the central nervous system and exquisitely sensitive to changes in the brain microenvironment. Here, we performed the first single-cell analysis of microglia from four different post-mortem brain regions (frontal lobe, temporal lobe, thalamus, and subventricular zone) of medicated individuals with MDD compared to controls. We found no evidence for the induction of inflammation-associated molecules, such as CD11b, CD45, CCL2, IL-1β, IL-6, TNF, MIP-1β (CCL4), IL-10, and even decreased expression of HLA-DR and CD68 in microglia from MDD cases. In contrast, we detected increased levels of the homeostatic proteins P2Y12 receptor, TMEM119 and CCR5 (CD195) in microglia from all brain regions of individuals with MDD. We also identified enrichment of non-inflammatory CD206hi macrophages in the brains of MDD cases. In sum, our results suggest enhanced homeostatic functions of microglia in MDD.",
+   "doi": ""
+  },
+  {
+   "chave": "32958675",
+   "pmid": "32958675",
+   "titulo": "Convergent molecular, cellular, and cortical neuroimaging signatures of major depressive disorder.",
+   "journal_full": "Proceedings of the National Academy of Sciences of the United States of America",
+   "ano": "2020",
+   "autores": [
+    "Anderson KM",
+    "Collins MA",
+    "Kong R",
+    "Fang K",
+    "Li J",
+    "He T",
+    "Chekroud AM",
+    "Yeo BTT"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Major depressive disorder emerges from the complex interactions of biological systems that span genes and molecules through cells, networks, and behavior. Establishing how neurobiological processes coalesce to contribute to depression requires a multiscale approach, encompassing measures of brain structure and function as well as genetic and cell-specific transcriptional data. Here, we examine anatomical (cortical thickness) and functional (functional variability, global brain connectivity) correlates of depression and negative affect across three population-imaging datasets: UK Biobank, Brain Genomics Superstruct Project, and Enhancing NeuroImaging through Meta Analysis (ENIGMA; combined n ≥ 23,723). Integrative analyses incorporate measures of cortical gene expression, postmortem patient transcriptional data, depression genome-wide association study (GWAS), and single-cell gene transcription. Neuroimaging correlates of depression and negative affect were consistent across three independent datasets. Linking ex vivo gene down-regulation with in vivo neuroimaging, we find that transcriptional correlates of depression imaging phenotypes track gene down-regulation in postmortem cortical samples of patients with depression. Integrated analysis of single-cell and Allen Human Brain Atlas expression data reveal somatostatin interneurons and astrocytes to be consistent cell associates of depression, through both in vivo imaging and ex vivo cortical gene dysregulation. Providing conv",
+   "doi": "10.1073/pnas.2008004117"
+  },
+  {
+   "chave": "10.1038/s41593-020-0621-y",
+   "pmid": "32341540",
+   "titulo": "Single-nucleus transcriptomics of the prefrontal cortex in major depressive disorder implicates oligodendrocyte precursor cells and excitatory neurons.",
+   "journal_full": "Nature neuroscience",
+   "ano": "2020",
+   "autores": [
+    "Nagy C",
+    "Maitra M",
+    "Tanti A",
+    "Suderman M",
+    "Théroux JF",
+    "Davoli MA",
+    "Perlman K",
+    "Yerko V"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Major depressive disorder (MDD) has an enormous impact on global disease burden, affecting millions of people worldwide and ranking as a leading cause of disability for almost three decades. Past molecular studies of MDD employed bulk homogenates of postmortem brain tissue, which obscures gene expression changes within individual cell types. Here we used single-nucleus transcriptomics to examine ~80,000 nuclei from the dorsolateral prefrontal cortex of male individuals with MDD (n = 17) and of healthy controls (n = 17). We identified 26 cellular clusters, and over 60% of these showed differential gene expression between groups. We found that the greatest dysregulation occurred in deep layer excitatory neurons and immature oligodendrocyte precursor cells (OPCs), and these contributed almost half (47%) of all changes in gene expression. These results highlight the importance of dissecting cell-type-specific contributions to the disease and offer opportunities to identify new avenues of research and novel targets for treatment.",
+   "doi": "10.1038/s41588-018-0090-3"
+  },
+  {
+   "chave": "23850810",
+   "pmid": "23850810",
+   "titulo": "The neuroinflammation marker translocator protein is not elevated in individuals with mild-to-moderate depression: a [¹¹C]PBR28 PET study.",
+   "journal_full": "Brain, behavior, and immunity",
+   "ano": "2013",
+   "autores": [
+    "Hannestad J",
+    "DellaGioia N",
+    "Gallezot JD",
+    "Lim K",
+    "Nabulsi N",
+    "Esterlis I",
+    "Pittman B",
+    "Lee JY"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Depression is associated with systemic inflammation. In animals, systemic inflammation can induce neuroinflammation and activation of microglia; however, postmortem studies have not convincingly shown that there is neuroinflammation in depression. The purpose of this study was to use positron emission tomography (PET) with [¹¹C]PBR28, which binds to the neuroinflammation marker translocator protein 18 kDa (TSPO), to compare the level of TSPO between individuals with depression and control subjects. Ten individuals who were in an acute episode of major depression and 10 control subjects matched for TSPO genotype and other characteristics had a PET scan with arterial input function to quantify levels of TSPO in brain regions of interest (ROIs). Total volume of distribution (VT) of [¹¹C]PBR28 was used as a measure of total ligand binding. The primary outcome was the difference in VT between the two groups; this was assessed using a linear mixed model with group as a between-subject factor and region as a within-subject factor. There was no statistically significant difference in [¹¹C]PBR28 binding (VT) between the two groups. In fact, 7 of 10 individuals with depression had lower [¹¹C]PBR28 binding in all ROIs compared to their respective genotype-matched control subjects. Future studies are needed to determine whether individuals with mild-to-moderate depression have lower TSPO levels and to assess whether individuals with severe depression and/or with elevated levels of system",
+   "doi": "10.1016/j.bbi.2013.06.010"
+  },
+  {
+   "chave": "33515765",
+   "pmid": "33515765",
+   "titulo": "A Modest Increase in 11C-PK11195-Positron Emission Tomography TSPO Binding in Depression Is Not Associated With Serum C-Reactive Protein or Body Mass Index.",
+   "journal_full": "Biological psychiatry. Cognitive neuroscience and neuroimaging",
+   "ano": "2021",
+   "autores": [
+    "Schubert JJ",
+    "Veronese M",
+    "Fryer TD",
+    "Manavaki R",
+    "Kitzbichler MG",
+    "Nettis MA",
+    "Mondelli V",
+    "Pariante CM"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Immune mechanisms have been implicated in the pathogenesis of depression. Translocator protein (TSPO)-targeted positron emission tomography (PET) has been used to assess neuroinflammation in major depressive disorder. We aimed to 1) test the hypothesis of significant case-control differences in TSPO binding in the anterior cingulate cortex, prefrontal cortex, and insula regions; and 2) explore the relationship between cerebral TSPO binding and peripheral blood C-reactive protein (CRP) concentration. A total of 51 depressed subjects with Hamilton Depression Rating Scale score >13 (median 17; interquartile range, 16-22) and 25 healthy control subjects underwent dynamic brain 11C-PK11195 PET and peripheral blood immune marker characterization. Depressed subjects were divided into high CRP (>3 mg/L; n = 20) and low CRP (<3 mg/L; n = 31). Across the three regions, TSPO binding was significantly increased in depressed versus control subjects (η2p = .09; F1,71 = 6.97, p = .01), which was not influenced by body mass index. The case-control difference was greatest in the anterior cingulate cortex (d = 0.49; t74 = 2.00, p = .03) and not significant in the prefrontal cortex or insula (d = 0.27 and d = 0.36, respectively). Following CRP stratification, significantly higher TSPO binding was observed in low-CRP depression compared with controls (d = 0.53; t54 = 1.96, p = .03). These effect sizes are comparable to prior major depressive disorder case-control TSPO PET data. No significant co",
+   "doi": "10.1016/j.bpsc.2020.12.017"
+  },
+  {
+   "chave": "36226319",
+   "pmid": "36226319",
+   "titulo": "Meta-analysis of molecular imaging of translocator protein in major depression.",
+   "journal_full": "Frontiers in molecular neuroscience",
+   "ano": "2022",
+   "autores": [
+    "Eggerstorfer B",
+    "Kim JH",
+    "Cumming P",
+    "Lanzenberger R",
+    "Gryglewski G"
+   ],
+   "pubtypes": [
+    "Systematic Review",
+    "Journal Article"
+   ],
+   "species": [],
+   "abstract": "Molecular neuroimaging studies provide mounting evidence that neuroinflammation plays a contributory role in the pathogenesis of major depressive disorder (MDD). This has been the focus of a number of positron emission tomography (PET) studies of the 17-kDa translocator protein (TSPO), which is expressed by microglia and serves as a marker of neuroinflammation. In this meta-analysis, we compiled and analyzed all available molecular imaging studies comparing cerebral TSPO binding in MDD patients with healthy controls. Our systematic literature search yielded eight PET studies encompassing 238 MDD patients and 164 healthy subjects. The meta-analysis revealed relatively increased TSPO binding in several cortical regions (anterior cingulate cortex: Hedges' g = 0.6, 95% CI: 0.36, 0.84; hippocampus: g = 0.54, 95% CI: 0.26, 0.81; insula: g = 0.43, 95% CI: 0.17, 0.69; prefrontal cortex: g = 0.36, 95% CI: 0.14, 0.59; temporal cortex: g = 0.39, 95% CI: -0.04, 0.81). While the high range of effect size in the temporal cortex might reflect group-differences in body mass index (BMI), exploratory analyses failed to reveal any relationship between elevated TSPO availability in the other four brain regions and depression severity, age, BMI, radioligand, or the binding endpoint used, or with treatment status at the time of scanning. Taken together, this meta-analysis indicates a widespread ∼18% increase of TSPO availability in the brain of MDD patients, with effect sizes comparable to those i",
+   "doi": "10.3389/fnmol.2022.981442"
+  },
+  {
+   "chave": "37640701",
+   "pmid": "37640701",
+   "titulo": "Translocator protein is a marker of activated microglia in rodent models but not human neurodegenerative diseases.",
+   "journal_full": "Nature communications",
+   "ano": "2023",
+   "autores": [
+    "Nutma E",
+    "Fancy N",
+    "Weinert M",
+    "Tsartsalis S",
+    "Marzin MC",
+    "Muirhead RCJ",
+    "Falk I",
+    "Breur M"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "species": [
+    "Animals"
+   ],
+   "abstract": "Microglial activation plays central roles in neuroinflammatory and neurodegenerative diseases. Positron emission tomography (PET) targeting 18 kDa Translocator Protein (TSPO) is widely used for localising inflammation in vivo, but its quantitative interpretation remains uncertain. We show that TSPO expression increases in activated microglia in mouse brain disease models but does not change in a non-human primate disease model or in common neurodegenerative and neuroinflammatory human diseases. We describe genetic divergence in the TSPO gene promoter, consistent with the hypothesis that the increase in TSPO expression in activated myeloid cells depends on the transcription factor AP1 and is unique to a subset of rodent species within the Muroidea superfamily. Finally, we identify LCP2 and TFEC as potential markers of microglial activation in humans. These data emphasise that TSPO expression in human myeloid cells is related to different phenomena than in mice, and that TSPO-PET signals in humans reflect the density of inflammatory cells rather than activation state.",
+   "doi": "10.1002/glia.22350"
+  },
+  {
+   "chave": "33433698",
+   "pmid": "33433698",
+   "titulo": "Cellular sources of TSPO expression in healthy and diseased brain.",
+   "journal_full": "European journal of nuclear medicine and molecular imaging",
+   "ano": "2021",
+   "autores": [
+    "Nutma E",
+    "Ceyzériat K",
+    "Amor S",
+    "Tsartsalis S",
+    "Millet P",
+    "Owen DR",
+    "Papadopoulos V",
+    "Tournier BB"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "species": [
+    "Animals",
+    "Humans"
+   ],
+   "abstract": "The 18 kDa translocator protein (TSPO) is a highly conserved protein located in the outer mitochondrial membrane. TSPO binding, as measured with positron emission tomography (PET), is considered an in vivo marker of neuroinflammation. Indeed, TSPO expression is altered in neurodegenerative, neuroinflammatory, and neuropsychiatric diseases. In PET studies, the TSPO signal is often viewed as a marker of microglial cell activity. However, there is little evidence in support of a microglia-specific TSPO expression. This review describes the cellular sources and functions of TSPO in animal models of disease and human studies, in health, and in central nervous system diseases. A discussion of methods of analysis and of quantification of TSPO is also presented. Overall, it appears that the alterations of TSPO binding, their cellular underpinnings, and the functional significance of such alterations depend on many factors, notably the pathology or the animal model under study, the disease stage, and the involved brain regions. Thus, further studies are needed to fully determine how changes in TSPO binding occur at the cellular level with the ultimate goal of revealing potential therapeutic pathways.",
+   "doi": "10.1016/j.pharmthera.2018.09.003"
+  },
+  {
+   "chave": "34848203",
+   "pmid": "34848203",
+   "titulo": "Imaging neuroinflammation with TSPO: A new perspective on the cellular sources and subcellular localization.",
+   "journal_full": "Pharmacology & therapeutics",
+   "ano": "2022",
+   "autores": [
+    "Guilarte TR",
+    "Rodichkin AN",
+    "McGlothan JL",
+    "Acanda De La Rocha AM",
+    "Azzam DJ"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "species": [
+    "Animals",
+    "Humans"
+   ],
+   "abstract": "Translocator Protein 18 kDa (TSPO), previously named Peripheral Benzodiazepine Receptor, is a well-validated and widely used biomarker of neuroinflammation to assess diverse central nervous system (CNS) pathologies in preclinical and clinical studies. Many studies have shown that in animal models of human neurological and neurodegenerative disease and in the human condition, TSPO levels increase in the brain neuropil, and this increase is driven by infiltration of peripheral inflammatory cells and activation of glial cells. Therefore, a clear understanding of the dynamics of the cellular sources of the TSPO response is critically important in the interpretation of Positron Emission Tomography (PET) studies and for understanding the pathophysiology of CNS diseases. Within the normal brain compartment, there are tissues and cells such as the choroid plexus, ependymal cells of the lining of the ventricles, and vascular endothelial cells that also express TSPO at even higher levels than in glial cells. However, there is a paucity of knowledge if these cell types respond and increase TSPO in the diseased brain. These cells do provide a background signal that needs to be accounted for in TSPO-PET imaging studies. More recently, there are reports that TSPO may be expressed in neurons of the adult brain and TSPO expression may be increased by neuronal activity. Therefore, it is essential to study this topic with a great deal of detail, methodological rigor, and rule out alternative i",
+   "doi": "10.1016/j.pharmthera.2021.108048"
+  },
+  {
+   "chave": "40036275",
+   "pmid": "40036275",
+   "titulo": "Post-mortem validation of in vivo TSPO PET as a microglial biomarker.",
+   "journal_full": "Brain : a journal of neurology",
+   "ano": "2025",
+   "autores": [
+    "Wijesinghe SS",
+    "Rowe JB",
+    "Mason HD",
+    "Allinson KSJ",
+    "Thomas R",
+    "Vontobel DS",
+    "Fryer TD",
+    "Hong YT"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Validation Study"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Neuroinflammation is a feature of many neurodegenerative diseases and is quantified in vivo by PET imaging with radioligands for the translocator protein (TSPO, e.g. 11C-PK11195). TSPO radioligand binding correlates with clinical severity and predicts clinical progression. However, the cellular substrate of altered TSPO binding is controversial and requires neuropathological validation. We used progressive supranuclear palsy (PSP) as a demonstrator condition, to test the hypothesis that 11C-PK11195 PET reflects microglial changes. We included people with PSP-Richardson's syndrome who had undergone 11C-PK11195 PET in life (n = 8). In post-mortem brain tissue from the same participants, we characterized cell-type specific TSPO expression and quantified microgliosis in eight cortical and 11 subcortical regions. Double-immunofluorescence labelling for TSPO and cell markers showed TSPO expression in microglia, astrocytes and endothelial cells. Microglial (and not astrocytic) TSPO levels were higher in donors with PSP compared to control subjects (n = 3), and correlated with changes in microglial burden. There was a significant positive correlation between regional 11C-PK11195 binding potential ante-mortem and the burden of post-mortem CD68+ phagocytic microglia, as well as microglial TSPO levels. We conclude that in vivo disease-related changes in 11C-PK11195 binding is largely driven by microglia and can be interpreted as a biomarker of microglia-mediated neuroinflammation in tau",
+   "doi": "10.1093/brain/awaf078"
+  },
+  {
+   "chave": "31683271",
+   "pmid": "31683271",
+   "titulo": "Replicating predictive serum correlates of greater translocator protein distribution volume in brain.",
+   "journal_full": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+   "ano": "2020",
+   "autores": [
+    "Attwells S",
+    "Setiawan E",
+    "Wilson AA",
+    "Rusjan PM",
+    "Miler L",
+    "Xu C",
+    "Hutton C",
+    "Husain MI"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Greater activation of glia, a key component of neuroinflammation, is an important process to target in neuropsychiatric illnesses. However, the magnitude of gliosis varies across cases so low-cost predictors are needed to stratify subjects for clinical trials. Here, several such blood serum measures were assessed in relation to TSPO VT, an index of translocator protein density, measured with positron emission tomography. Blood serum concentration of several products known to be synthesized by activated microglia (and to some extent astroglia) [prostaglandin E2 (PGE2), prostaglandin F2 alpha (PGF2α), and tumor necrosis factor alpha (TNFα)], controlled by an index of peripheral inflammation [C-reactive protein (CRP)] and TSPO VT were measured in 3 cohorts: prefrontal cortex TSPO VT of 20 subjects with major depressive episodes (MDEs) from major depressive disorder (MDD); and 56 subjects with treatment resistant MDEs from MDD; and dorsal caudate TSPO VT of 20 subjects with obsessive-compulsive disorder. Ln(PGE2/CRP) and ln(TNFα/CRP) consistently correlated with TSPO VT (R2 = 0.36 to 0.11, p = 0.0030 to p = 0.0076). Assessment of threshold serum values to predict highly elevated TSPO VT, demonstrated that a positive predictive value (PPV) of 80% was possible while retaining 40% of participant samples and that receiver operating curves (ROC) ranged from 75 to 81%. Post-hoc selection of ln(CRP) was more predictive (R2 = 0.23 to 0.39, p = 0.0058 to p = 0.00013; ROC > 80%). Systemati",
+   "doi": "10.1001/jamapsychiatry.2017.1567"
+  },
+  {
+   "chave": "42034206",
+   "pmid": "42034206",
+   "titulo": "Peripheral inflammation is associated with reduced influx of TSPO PET tracers into the brain: insights from a non-invasive mapping methodology.",
+   "journal_full": "Brain, behavior, and immunity",
+   "ano": "2026",
+   "autores": [
+    "Barzon L",
+    "Maccioni L",
+    "Moretto M",
+    "Giacomel A",
+    "Schubert JJ",
+    "Cousins O",
+    "Rosenzweig I",
+    "Mizuno Y"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Neuroinflammation is a hallmark of various brain disorders, including neuropsychiatric conditions like major depressive disorder and schizophrenia. Increasing evidence suggests that both peripheral and central inflammation play a critical role in central nervous system dysfunction associated with such disorders. There is evidence, particularly in preclinical models, of a mediating role of the blood-brain barrier in the relationship between peripheral and central immunity. However, this relationship is poorly studied in human cohorts and, importantly, little is known about its effect on the quantification of radioligands used to monitor neuroinflammation in vivo. To address this gap, a recently developed non-invasive method for estimating the blood-to-brain influx rate constant (K1) (Maccioni et al., 2024) was applied to TSPO PET imaging, a putative marker of neuroinflammation. In total, 358 dynamic TSPO PET scans from three different radiotracers ([11C]-PK11195, [18F]-DPA714, and [11C]-PBR28) were reanalyzed using data from healthy controls, as well as patients with depression and schizophrenia. The relationship between brain-wide K1 estimates, peripheral inflammatory marker C-reactive protein (CRP), sex, anthropometric measures, and disease states was systematically evaluated. A brain-wide negative correlation between peripheral inflammation and K1 was observed (range: [-0.33, -0.25]). Notably, this association was not influenced by diagnostic labels. Additionally, significa",
+   "doi": "10.1016/j.bbi.2026.106779"
+  },
+  {
+   "chave": "41957656",
+   "pmid": "41957656",
+   "titulo": "Network-based disease fingerprinting with neuroinflammation PET imaging.",
+   "journal_full": "Journal of neuroinflammation",
+   "ano": "2026",
+   "autores": [
+    "Barzon L",
+    "Maccioni L",
+    "Carranza Mellana M",
+    "Schubert JJ",
+    "Brusaferri L",
+    "Cousins O",
+    "Rosenzweig I",
+    "Mizuno Y"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Neuroinflammation is a hallmark of numerous neurodegenerative, psychiatric, and chronic pain disorders and can be assessed in vivo with 18 kDa translocator protein (TSPO) positron emission tomography (PET). However, conventional quantification methods of TSPO PET are limited and often overlook the spatial relationships between regional signals. The application of network-based approaches to TSPO PET imaging may provide a novel framework to capture disease-specific neuroinflammatory patterns. To address this question, here we developed a data-driven, network-based approach to generate individual brain-wide TSPO PET matrices, employing Euclidean distance to quantify inter-regional pharmacokinetics similarity. We applied this approach to a large multicenter dataset of 528 PET scans utilizing three different TSPO tracers ([11C]-PBR28, [18F]-DPA714, [11C]-PK11195), including healthy controls and patients with different diseases such as multiple sclerosis, traumatic brain injury, schizophrenia, depression, and chronic low back pain. Statistical modelling and machine learning classifiers were applied to evaluate the impact of experimental and biological factors on TSPO similarity patterns and to investigate their potential for capturing disease-specific signatures. TSPO similarity patterns demonstrated high biological specificity and reproducibility, with strong test–retest correlations (mean Spearman’s ρ = 0.84). Average precision of disease classification exceeded chance performan",
+   "doi": "10.1111/jnc.13607"
+  },
+  {
+   "chave": "36231075",
+   "pmid": "36231075",
+   "titulo": "The Tryptophan Catabolite or Kynurenine Pathway in a Major Depressive Episode with Melancholia, Psychotic Features and Suicidal Behaviors: A Systematic Review and Meta-Analysis.",
+   "journal_full": "Cells",
+   "ano": "2022",
+   "autores": [
+    "Almulla AF",
+    "Thipakorn Y",
+    "Vasupanrajit A",
+    "Tunvirachaisakul C",
+    "Oxenkrug G",
+    "Al-Hakeim HK",
+    "Maes M"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Major depressive disorder (MDD) and bipolar disorder (BD) with melancholia and psychotic features and suicidal behaviors are accompanied by activated immune-inflammatory and oxidative pathways, which may stimulate indoleamine 2,3-dioxygenase (IDO), the first and rate-limiting enzyme of the tryptophan catabolite (TRYCAT) pathway resulting in increased tryptophan degradation and elevated tryptophan catabolites (TRYCTAs). The purpose of the current study is to systematically review and meta-analyze levels of TRP, its competing amino acids (CAAs) and TRYCATs in patients with severe affective disorders. Methods: PubMed, Google Scholar and SciFinder were searched in the present study and we recruited 35 studies to examine 4647 participants including 2332 unipolar (MDD) and bipolar (BD) depressed patients and 2315 healthy controls. Severe patients showed significant lower (p < 0.0001) TRP (standardized mean difference, SMD = -0.517, 95% confidence interval, CI: -0.735; -0.299) and TRP/CAAs (SMD = -0.617, CI: -0.957; -0.277) levels with moderate effect sizes, while no significant difference in CAAs were found. Kynurenine (KYN) levels were unaltered in severe MDD/BD phenotypes, while the KYN/TRP ratio showed a significant increase only in patients with psychotic features (SMD = 0.224, CI: 0.012; 0.436). Quinolinic acid (QA) was significantly increased (SMD = 0.358, CI: 0.015; 0.701) and kynurenic acid (KA) significantly decreased (SMD = -0.260, CI: -0.487; -0.034) in severe MDD/BD. Pa",
+   "doi": "10.3390/cells11193112"
+  },
+  {
+   "chave": "31940661",
+   "pmid": "31940661",
+   "titulo": "Associations among peripheral and central kynurenine pathway metabolites and inflammation in depression.",
+   "journal_full": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+   "ano": "2020",
+   "autores": [
+    "Haroon E",
+    "Welle JR",
+    "Woolwine BJ",
+    "Goldsmith DR",
+    "Baer W",
+    "Patel T",
+    "Felger JC",
+    "Miller AH"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Kynurenine pathway (KP) metabolites are believed to be a link between inflammation and depression through effects on brain glutamate receptors. However, neither the relationship between plasma and cerebrospinal fluid (CSF) KP metabolites nor their association with inflammatory mediators is well-established in depression. Moreover, the clinical profile associated with combined activation of plasma inflammatory and kynurenine pathways is unknown. Accordingly, plasma and CSF-KP metabolites and inflammatory markers along with depressive symptoms and antidepressant treatment response were measured in 72 unmedicated depressed patients. Following bivariate analyses, component factors representing immune and kynurenine variables in the plasma and CSF were extracted and were used to examine directionality of associations in a path model. In addition, patients were clustered using individual markers that most accounted for the association between plasma immune and KP systems. Path analysis revealed a directional association extending from plasma inflammatory markers to plasma kynurenines, to CSF kynurenines. Among immune markers, plasma tumor necrosis factor (TNF) was robustly associated with plasma kynurenine (KYN) and KYN/tryptophan (TRP), which was in turn significantly associated with CSF KYN, kynurenic acid, and quinolinic acid. Clustering of patients based on plasma TNF and KYN/TRP yielded subgroups of high (N = 17) and low (N = 55) TNF-KYN/TRP groups. High TNF-KYN/TRP subjects e",
+   "doi": ""
+  },
+  {
+   "chave": "27754481",
+   "pmid": "27754481",
+   "titulo": "Neurotoxic kynurenine metabolism is increased in the dorsal hippocampus and drives distinct depressive behaviors during inflammation.",
+   "journal_full": "Translational psychiatry",
+   "ano": "2016",
+   "autores": [
+    "Parrott JM",
+    "Redus L",
+    "Santana-Coelho D",
+    "Morales J",
+    "Gao X",
+    "O'Connor JC"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "species": [
+    "Animals"
+   ],
+   "abstract": "The kynurenine pathway of tryptophan metabolism has an important role in mediating the behavioral effects of inflammation, which has implications in understanding neuropsychiatric comorbidity and for the development of novel therapies. Inhibition of the rate-limiting enzyme, indoleamine 2,3-dioxygenase (IDO), prevents the development of many of these inflammation-induced preclinical behaviors. However, dysregulation in the balance of downstream metabolism, where neuroactive kynurenines are generated, is hypothesized to be a functionally important pathogenic feature of inflammation-induced depression. Here we utilized two novel transgenic mouse strains to directly test the hypothesis that neurotoxic kynurenine metabolism causes depressive-like behavior following peripheral immune activation. Wild-type (WT) or kynurenine 3-monooxygenase (KMO)-deficient (KMO-/-) mice were administered either lipopolysaccharide (LPS, 0.5 mg kg-1) or saline intraperitoneally. Depressive-like behavior was measured across multiple domains 24 h after immune challenge. LPS precipitated a robust depressive-like phenotype, but KMO-/- mice were specifically protected from LPS-induced immobility in the tail suspension test (TST) and reduced spontaneous alternations in the Y-maze. Direct administration of 3-hydroxykynurenine, the metabolic product of KMO, caused a dose-dependent increase in depressive-like behaviors. Mice with targeted deletion of 3-hydroxyanthranilic acid dioxygenase (HAAO), the enzyme th",
+   "doi": "10.1038/tp.2016.200"
+  },
+  {
+   "chave": "10.1007/s12035-018-1096-7",
+   "pmid": "29725904",
+   "titulo": "Chronic Mild Stress Alters Kynurenine Pathways Changing the Glutamate Neurotransmission in Frontal Cortex of Rats.",
+   "journal_full": "Molecular neurobiology",
+   "ano": "2019",
+   "autores": [
+    "Martín-Hernández D",
+    "Tendilla-Beltrán H",
+    "Madrigal JLM",
+    "García-Bueno B",
+    "Leza JC",
+    "Caso JR"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "species": [
+    "Animals"
+   ],
+   "abstract": "Immune stimulation might be involved in the pathophysiology of major depressive disorder (MDD). This stimulation induces indoleamine 2,3-dioxygenase (IDO), an enzyme that reduces the tryptophan bioavailability to synthesize serotonin. IDO products, kynurenine metabolites, exert neurotoxic/neuroprotective actions through glutamate receptors. Thus, we study elements of these pathways linked to kynurenine metabolite activity examining whether antidepressants (ADs) can modulate them. Male Wistar rats were exposed to chronic mild stress (CMS), and some of them were treated with ADs. The expression of elements of the IDO pathway, including kynurenine metabolites, and their possible modulation by ADs was studied in the frontal cortex (FC). CMS increased IDO expression in FC compared to control group, and ADs restored the IDO expression levels to control values. CMS-induced IDO expression led to increased levels of the excitotoxic quinolinic acid (QUINA) compared to control, and ADs prevented the rise in such levels. Neither CMS nor ADs changed significantly the antiexcitotoxic kynurenic acid (KYNA) levels. The QUINA/KYNA ratio, calculated as excitotoxicity risk indicator, increased after CMS and ADs prevented this increase. CMS lowered excitatory amino acid transporter (EAAT)-1 and EAAT-4 expression, and some ADs restored their expression levels. Furthermore, CMS decreased N-methyl-D-aspartate receptor (NMDAR)-2A and 2B protein expression, and ADs mitigated this decrease. Our resear",
+   "doi": ""
+  },
+  {
+   "chave": "10.1186/s12974-026-03717-2",
+   "pmid": "41749295",
+   "titulo": "Kynurenine pathway dysregulation in major depressive disorder: the convergence of excitotoxicity, neuroinflammation, and oxidative stress.",
+   "journal_full": "Journal of neuroinflammation",
+   "ano": "2026",
+   "autores": [
+    "O'Regan G",
+    "Plummer Z",
+    "Christie BR",
+    "Shultz SR",
+    "Allen J"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "species": [
+    "Humans",
+    "Animals"
+   ],
+   "abstract": "Major depressive disorder (MDD) has traditionally been linked to deficient serotonergic neurotransmission, chronic stress, and heightened inflammation. Compelling evidence implicates the kynurenine pathway (KP), activated by inflammatory cytokines and stress-related signals, as a critical mediator connecting these factors. The KP degrades tryptophan, the metabolic precursor of serotonin, into neuroactive metabolites called kynurenines, such as quinolinic acid and kynurenic acid. Patients with MDD exhibit KP dysregulation, often marked by an overproduction of quinolinic acid, an N-Methyl-D-aspartic acid receptor (NMDAR) agonist that drives excitotoxicity, alongside reduced production of kynurenic acid, an NMDAR antagonist that protects from excitotoxicity and has anti-inflammatory effects. This review examines dysregulation of the KP in MDD, emphasizing KP metabolites – particularly quinolinic acid and kynurenic acid – as biomarkers and mediators of excitotoxicity, neuroinflammation, and oxidative stress, and discusses the therapeutic efficacy of antidepressants that modulate this pathway. Understanding KP dysregulation could inform the development of targeted interventions that address the underlying biological drivers of MDD, offering new hope for patients who do not respond to conventional treatments.",
+   "doi": "10.1016/S0140-6736(17)32802-7"
+  },
+  {
+   "chave": "10.1038/s41380-019-0414-4",
+   "pmid": "30980044",
+   "titulo": "The kynurenine pathway: a finger in every pie.",
+   "journal_full": "Molecular psychiatry",
+   "ano": "2020",
+   "autores": [
+    "Savitz J"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "species": [
+    "Animals",
+    "Humans"
+   ],
+   "abstract": "The kynurenine pathway (KP) plays a critical role in generating cellular energy in the form of nicotinamide adenine dinucleotide (NAD+). Because energy requirements are substantially increased during an immune response, the KP is a key regulator of the immune system. Perhaps more importantly in the context of psychiatry, many kynurenines are neuroactive, modulating neuroplasticity and/or exerting neurotoxic effects in part through their effects on NMDA receptor signaling and glutamatergic neurotransmission. As such, it is not surprising that the kynurenines have been implicated in psychiatric illness in the context of inflammation. However, because of their neuromodulatory properties, the kynurenines are not just additional members of a list of inflammatory mediators linked with psychiatric illness, but in preclinical studies have been shown to be necessary components of the behavioral analogs of depression and schizophrenia-like cognitive deficits. Further, as the title suggests, the KP is regulated by, and in turn regulates multiple other physiological systems that are commonly disrupted in psychiatric disorders, including endocrine, metabolic, and hormonal systems. This review provides a broad overview of the mechanistic pathways through which the kynurenines interact with these systems, thus impacting emotion, cognition, pain, metabolic function, and aging, and in so doing potentially increasing the risk of developing psychiatric disorders. Novel therapeutic approaches ta",
+   "doi": ""
+  },
+  {
+   "chave": "10.1111/jnc.16015",
+   "pmid": "38102897",
+   "titulo": "Tryptophan metabolism as a 'reflex' feature of neuroimmune communication: Sensor and effector functions for the indoleamine-2, 3-dioxygenase kynurenine pathway.",
+   "journal_full": "Journal of neurochemistry",
+   "ano": "2024",
+   "autores": [
+    "Stone TW",
+    "Williams RO"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "species": [
+    "Humans",
+    "Animals"
+   ],
+   "abstract": "Although the central nervous system (CNS) and immune system were regarded as independent entities, it is now clear that immune system cells can influence the CNS, and neuroglial activity influences the immune system. Despite the many clinical implications for this 'neuroimmune interface', its detailed operation at the molecular level remains unclear. This narrative review focuses on the metabolism of tryptophan along the kynurenine pathway, since its products have critical actions in both the nervous and immune systems, placing it in a unique position to influence neuroimmune communication. In particular, since the kynurenine pathway is activated by pro-inflammatory mediators, it is proposed that physical and psychological stressors are the stimuli of an organismal protective reflex, with kynurenine metabolites as the effector arm co-ordinating protective neural and immune system responses. After a brief review of the neuroimmune interface, the general perception of tryptophan metabolism along the kynurenine pathway is expanded to emphasize this environmentally driven perspective. The initial enzymes in the kynurenine pathway include indoleamine-2,3-dioxygenase (IDO1), which is induced by tissue damage, inflammatory mediators or microbial products, and tryptophan-2,3-dioxygenase (TDO), which is induced by stress-induced glucocorticoids. In the immune system, kynurenic acid modulates leucocyte differentiation, inflammatory balance and immune tolerance by activating aryl hydroc",
+   "doi": "10.1111/jnc.16015"
+  },
+  {
+   "chave": "10.5498/wjp.v13.i4.141",
+   "pmid": "37123095",
+   "titulo": "Kynurenine pathway of tryptophan metabolism in pathophysiology and therapy of major depressive disorder.",
+   "journal_full": "World journal of psychiatry",
+   "ano": "2023",
+   "autores": [
+    "Badawy AA",
+    "Dawood S",
+    "Bano S"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "species": [],
+   "abstract": "Serotonin deficiency in major depressive disorder (MDD) has formed the basis of antidepressant drug development and was originally attributed to induction of the major tryptophan (Trp)-degrading enzyme, liver Trp 2,3-dioxygenase (TDO), by cortisol, leading to decreased Trp availability to the brain for serotonin synthesis. Subsequently, the serotonin deficiency was proposed to involve induction of the extrahepatic Trp-degrading enzyme indoleamine 2,3-dioxygenase (IDO) by proinflammatory cytokines, with inflammation being the underlying cause. Recent evidence, however, challenges this latter concept, as not all MDD patients are immune-activated and, when present, inflammation is mild and/or transient. A wide range of antidepressant drugs inhibit the activity of liver TDO and bind specifically to the enzyme, but not to IDO. IDO induction is not a major event in MDD, but, when it occurs, its metabolic consequences may be masked and overridden by upregulation of kynurenine monooxygenase (KMO), the gateway to production of modulators of immune and neuronal functions. KMO appears to be activated in MDD by certain proinflammatory cytokines and antidepressants with anti-inflammatory properties may block this activation. We demonstrate the ability of the antidepressant ketamine to dock (bind) to KMO. The pathophysiology of MDD may be underpinned by both the serotonin deficiency and glutamatergic activation mediated respectively by TDO induction and N-methyl-D-aspartate receptor activa",
+   "doi": "10.5498/wjp.v13.i4.141"
+  },
+  {
+   "chave": "10.1515/revneuro-2024-0065",
+   "pmid": "39245854",
+   "titulo": "Neurobiological mechanisms in the kynurenine pathway and major depressive disorder.",
+   "journal_full": "Reviews in the neurosciences",
+   "ano": "2025",
+   "autores": [
+    "Bertollo AG",
+    "Mingoti MED",
+    "Ignácio ZM"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "species": [
+    "Humans",
+    "Animals"
+   ],
+   "abstract": "Major depressive disorder (MDD) is a prevalent psychiatric disorder that has damage to people's quality of life. Tryptophan is the precursor to serotonin, a critical neurotransmitter in mood modulation. In mammals, most free tryptophan is degraded by the kynurenine pathway (KP), resulting in a range of metabolites involved in inflammation, immune response, and neurotransmission. The imbalance between quinolinic acid (QA), a toxic metabolite, and kynurenic acid (KynA), a protective metabolite, is a relevant phenomenon involved in the pathophysiology of MDD. Proinflammatory cytokines increase the activity of the enzyme indoleamine 2,3-dioxygenase (IDO), leading to the degradation of tryptophan in the KP and an increase in the release of QA. IDO activates proinflammatory genes, potentiating neuroinflammation and deregulating other physiological mechanisms related to chronic stress and MDD. This review highlights the physiological mechanisms involved with stress and MDD, which are underlying an imbalance of the KP and discuss potential therapeutic targets.",
+   "doi": "10.1515/revneuro-2024-0065"
+  },
+  {
+   "chave": "10.3390/jpm16020118",
+   "pmid": "41745408",
+   "titulo": "Contextual Regulation of the Kynurenine Pathway and Its Relevance for Personalized Psychiatry.",
+   "journal_full": "Journal of personalized medicine",
+   "ano": "2026",
+   "autores": [
+    "Murata S",
+    "Oxenkrug G",
+    "Halaris A"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "species": [],
+   "abstract": "The kynurenine pathway (KP) is the primary route of tryptophan metabolism and a key interface linking immune activation, metabolic state, and neurochemical signaling. Although KP biomarkers are widely studied in psychiatric disorders, their interpretation remains inconsistent, in part due to biological context and compartmentalization. In this narrative review, we integrate evidence across peripheral and central systems to clarify how age, sex hormones, metabolic health, inflammation, and behavioral factors systematically bias KP flux and shape biomarker readouts. We re-examine the interpretation of the kynurenine/tryptophan ratio in light of differential IDO1 and TDO2 regulation, blood-brain barrier constraints, and cell-specific downstream metabolism that governs neuroprotective and neurotoxic outputs. We further synthesize clinical evidence linking KP alterations to symptom severity, cognitive dysfunction, treatment resistance, and suicidality, highlighting quinolinic acid as a mechanistic node connecting immune activation to glutamatergic dysregulation. Together, this framework reframes the kynurenine pathway not as a static biomarker of disease, but as a context-sensitive metabolic system with direct implications for study design, risk stratification, and personalized approaches in psychiatry.",
+   "doi": "10.3390/jpm16020118"
+  },
+  {
+   "chave": "25603858",
+   "pmid": "25603858",
+   "titulo": "NLRP3 Inflammasome Mediates Chronic Mild Stress-Induced Depression in Mice via Neuroinflammation.",
+   "journal_full": "The international journal of neuropsychopharmacology",
+   "ano": "2015",
+   "autores": [
+    "Zhang Y",
+    "Liu L",
+    "Liu YZ",
+    "Shen XL",
+    "Wu TY",
+    "Zhang T",
+    "Wang W",
+    "Wang YX"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "species": [
+    "Animals"
+   ],
+   "abstract": "Evidence from both clinical and experimental research indicates that the immune-brain interaction plays a pivotal role in the pathophysiology of depression. A multi-protein complex of the innate immune system, the NLRP3 inflammasome regulates cleavage and secretion of proinflammatory cytokine interleukin-1β. The inflammasome detects various pathogen-associated molecule patterns and damage-associated molecule patterns, which then leads to a series of immune-inflammatory reactions. To explore the role of inflammasome activation in the underlying biological mechanisms of depression, we established a mouse model of depression with unpredictable chronic mild stress. Mice subjected to chronic mild stress for 4 weeks had significantly higher serum corticosterone levels, serum interleukin-1β levels, and hippocampal active interleukin-1β protein levels. They also displayed depressive-like symptoms, including decreased sucrose preference and increased immobility time. Moreover, the hippocampi of chronic mild stress-exposed mice had significantly higher activity of caspase-1, which accompanied by higher protein levels of NLRP3 and the apoptotic speck-containing protein with a card. Pretreatment with the NLRP3 inflammasome inhibitor VX-765 decreased serum and hippocampal levels of interleukin-1β protein and significantly moderated the depressive-like behaviors induced by chronic mild stress. These data suggest the NLRP3 inflammasome mediates stress-induced depression via immune activatio",
+   "doi": "10.1093/ijnp/pyv006"
+  },
+  {
+   "chave": "28263786",
+   "pmid": "28263786",
+   "titulo": "NLRP3 inflammasome-driven pathways in depression: Clinical and preclinical findings.",
+   "journal_full": "Brain, behavior, and immunity",
+   "ano": "2017",
+   "autores": [
+    "Kaufmann FN",
+    "Costa AP",
+    "Ghisleni G",
+    "Diaz AP",
+    "Rodrigues ALS",
+    "Peluffo H",
+    "Kaster MP"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "species": [
+    "Animals",
+    "Humans"
+   ],
+   "abstract": "Over the past three decades, an intricate interaction between immune activation, release of pro-inflammatory cytokines and changes in brain circuits related to mood and behavior has been described. Despite extensive efforts, questions regarding when inflammation becomes detrimental or how we can target the immune system to develop new therapeutic strategies for the treatment of psychiatric disorders remain unresolved. In this context, novel aspects of the neuroinflammatory process activated in response to stressful challenges have recently been documented in major depressive disorder (MDD). The Nod-like receptor pyrin containing 3 inflammasome (NLRP3) is an intracellular multiprotein complex responsible for a number of innate immune processes associated with infection, inflammation and autoimmunity. Recent data have demonstrated that NLRP3 activation appears to bridge the gap between immune activation and metabolic danger signals or stress exposure, which are key factors in the pathogenesis of psychiatric disorders. In this review, we discuss both preclinical and clinical evidence that links the assembly of the NLRP3 complex and the subsequent proteolysis and release of the pro-inflammatory cytokines interleukin-1β (IL-1β) and interleukin-18 (IL-18) in chronic stress models and patients with MDD. Importantly, we also focus on the therapeutic potential of targeting the NLRP3 inflammasome complex to improve stress resilience and depressive symptoms.",
+   "doi": "10.1016/j.bbi.2017.03.002"
+  },
+  {
+   "chave": "34978026",
+   "pmid": "34978026",
+   "titulo": "Inhibition of Microglial NLRP3 with MCC950 Attenuates Microglial Morphology and NLRP3/Caspase-1/IL-1β Signaling In Stress-induced Mice.",
+   "journal_full": "Journal of neuroimmune pharmacology : the official journal of the Society on NeuroImmune Pharmacology",
+   "ano": "2022",
+   "autores": [
+    "Liu Q",
+    "Zhang MM",
+    "Guo MX",
+    "Zhang QP",
+    "Li NZ",
+    "Cheng J",
+    "Wang SL",
+    "Xu GH"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "species": [
+    "Animals"
+   ],
+   "abstract": "Major depressive disorder is characterized by the deficiencies of monoamine neurotransmitters, neurotrophic factors and persistent neuroinflammation. Microglial activation has been associated with neuroinflammation-related mental diseases, accompanied by NLR family pyrin domain containing 3 (NLRP3) inflammasome. Here, we investigated the effect of NLRP3 inhibition by its small molecular inhibitor MCC950 on inflammatory activity and depressive-like mice induced by chronic unpredictable mild stress (CUMS), followed by the behavioral tests including sucrose preference test and forced swimming test. NLRP3/caspase-1/IL-1β signaling and microglial morphology in the prefrontal cortex were measured. The results showed that CUMS caused a decrease in sucrose preference and an increase in immobility time, which were reversed by NLRP3 inhibitor MCC950. In addition, NLRP3 inhibition decreased the number of microglia and changed the activated state of microglia to a resting state by morphology 3D reconstruction. Moreover, NLRP3 inhibition inactivated NLRP3/caspase-1/IL-1β signaling in the prefrontal cortex. The results from immunofluorescence demonstrated that NLRP3 and IL-1β expression was decreased in microglia in response to MCC950 treatment. Accordingly, proinflammatory cytokines were also decreased by NLRP3 inhibition. In conclusion, this study demonstrates that microglial NLRP3 inhibition prevents stress-induced neuroinflammation in the prefrontal cortex and suggests that microglial ",
+   "doi": "10.1016/j.psyneuen.2018.08.015"
+  },
+  {
+   "chave": "41712983",
+   "pmid": "41712983",
+   "titulo": "NLRP3 inflammasome priming and activation is involved in depression: A systematic review and meta-analysis.",
+   "journal_full": "Psychiatry research",
+   "ano": "2026",
+   "autores": [
+    "McColgan L",
+    "McNaugher G",
+    "Church M",
+    "Murray EK",
+    "Kelly C",
+    "Coyle S",
+    "McGilligan V"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+   ],
+   "species": [
+    "Animals",
+    "Humans"
+   ],
+   "abstract": "Depression is characterised by a low mood, loss of interest or pleasure, pessimism, impaired concentration, decreased energy, and fatigue. A strong relationship between inflammatory processes and the pathophysiology of depression had been identified. Studies have suggested that the NLRP3 inflammasome is a key contributor to the pathogenesis of depression. This systematic review aimed to synthesise evidence from animal models of depression to evaluate both priming and activation of the inflammasome, with a specific focus on clarifying the role in depressive pathology. PubMed, Scopus, Web of Science, EMBASE and Medline were searched up until November 2024. Studies involving animal models of depression, measuring NLRP3 inflammasome components (NLRP3, ASC, Caspase-1 and IL-1β) were eligible for inclusion. Risk of bias was assessed using SYRCLEs Risk of Bias tool, and random-effects meta-analysis was conducted for each inflammasome component using RevMan. A total of 3345 studies were identified, with 23 accepted after full text screening, and 16 included in the meta-analysis. Across 170 animals (85 depression model, 85 controls), protein and mRNA levels of NLRP3, ASC, Caspase-1, and IL-1β were significantly upregulated in depression models compared to controls. Analysed brain regions included the hippocampus and prefrontal cortex. Moderate heterogeneity was observed between studies (I2 = 0-68 %). This systematic review and meta-analysis demonstrates consistent upregulation of NLRP",
+   "doi": "10.1016/j.psychres.2026.117003"
+  },
+  {
+   "chave": "10.1016/j.phrs.2022.106625",
+   "pmid": "36563870",
+   "titulo": "The NLRP3 inflammasome in depression: Potential mechanisms and therapies.",
+   "journal_full": "Pharmacological research",
+   "ano": "2023",
+   "autores": [
+    "Xia CY",
+    "Guo YX",
+    "Lian WW",
+    "Yan Y",
+    "Ma BZ",
+    "Cheng YC",
+    "Xu JK",
+    "He J"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "species": [
+    "Animals"
+   ],
+   "abstract": "Increasing evidence suggests that the failure of clinical antidepressants may be related with neuroinflammation. The NOD-, LRR- and pyrin domain-containing protein 3 (NLRP3) inflammasome is an intracellular multiprotein complex, and has been considered as a key contributor to the development of neuroinflammation. Inhibition of NLRP3 inflammasome is an effective method for depression treatment. In this review, we summarized current researches highlighting the role of NLRP3 inflammasome in the pathology of depression. Firstly, we discussed NLRP3 inflammasome activation in patients with depression and animal models. Secondly, we outlined the possible mechanisms driving the activation of NLRP3 inflammasome. Thirdly, we discussed the pathogenetic role of NLRP3 inflammasome in depression. Finally, we overviewed the current and potential antidepressants targeting the NLRP3 inflammasome. Overall, the inhibition of NLRP3 inflammasome activation may be a potential therapeutic strategy for inflammation-related depression.",
+   "doi": "10.1016/j.phrs.2022.106625"
+  },
+  {
+   "chave": "10.3390/ijms24010133",
+   "pmid": "36613574",
+   "titulo": "NLRP3 Inflammasome: From Pathophysiology to Therapeutic Target in Major Depressive Disorder.",
+   "journal_full": "International journal of molecular sciences",
+   "ano": "2022",
+   "autores": [
+    "Kouba BR",
+    "Gil-Mohapel J",
+    "S Rodrigues AL"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Major depressive disorder (MDD) is a highly prevalent psychiatric disorder, whose pathophysiology has been linked to the neuroinflammatory process. The increased activity of the Nod-like receptor pyrin containing protein 3 (NLRP3) inflammasome, an intracellular multiprotein complex, is intrinsically implicated in neuroinflammation by promoting the maturation and release of proinflammatory cytokines such as interleukin (IL)-1β and IL-18. Interestingly, individuals suffering from MDD have higher expression of NLRP3 inflammasome components and proinflammatory cytokines when compared to healthy individuals. In part, intense activation of the inflammasome may be related to autophagic impairment. Noteworthy, some conventional antidepressants induce autophagy, resulting in less activation of the NLRP3 inflammasome. In addition, the fast-acting antidepressant ketamine, some bioactive compounds and physical exercise have also been shown to have anti-inflammatory properties via inflammasome inhibition. Therefore, it is suggested that modulation of inflammasome-driven pathways may have an antidepressant effect. Here, we review the role of the NLRP3 inflammasome in the pathogenesis of MDD, highlighting that pathways related to its priming and activation are potential therapeutic targets for the treatment of MDD.",
+   "doi": "10.3390/ijms24010133"
+  },
+  {
+   "chave": "10.1038/s41423-025-01275-w",
+   "pmid": "40075143",
+   "titulo": "NLRP3 inflammasome in neuroinflammation and central nervous system diseases.",
+   "journal_full": "Cellular & molecular immunology",
+   "ano": "2025",
+   "autores": [
+    "Xu W",
+    "Huang Y",
+    "Zhou R"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "species": [
+    "Humans",
+    "Animals"
+   ],
+   "abstract": "Neuroinflammation plays an important role in the pathogenesis of various central nervous system (CNS) diseases. The NLRP3 inflammasome is an important intracellular multiprotein complex composed of the innate immune receptor NLRP3, the adaptor protein ASC, and the protease caspase-1. The activation of the NLRP3 inflammasome can induce pyroptosis and the release of the proinflammatory cytokines IL-1β and IL-18, thus playing a central role in immune and inflammatory responses. Recent studies have revealed that the NLRP3 inflammasome is activated in the brain to induce neuroinflammation, leading to further neuronal damage and functional impairment, and contributes to the pathological process of various neurological diseases, such as multiple sclerosis, Parkinson's disease, Alzheimer's disease, and stroke. In this review, we summarize the important role of the NLRP3 inflammasome in the pathogenesis of neuroinflammation and the pathological course of CNS diseases and discuss potential approaches to target the NLRP3 inflammasome for the treatment of CNS diseases.",
+   "doi": "10.1038/s41582-020-00435-y"
+  },
+  {
+   "chave": "34877938",
+   "pmid": "34877938",
+   "titulo": "NLRP3/caspase-1/GSDMD-mediated pyroptosis exerts a crucial role in astrocyte pathological injury in mouse model of depression.",
+   "journal_full": "JCI insight",
+   "ano": "2021",
+   "autores": [
+    "Li S",
+    "Sun Y",
+    "Song M",
+    "Song Y",
+    "Fang Y",
+    "Zhang Q",
+    "Li X",
+    "Song N"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "species": [
+    "Animals",
+    "Humans"
+   ],
+   "abstract": "Emerging evidence suggests that astrocyte loss is one of the most important pathological features in the hippocampus of patients with major depressive disorder (MDD) and depressive mice. Pyroptosis is a recently discovered form of programmed cell death depending on Caspase-gasdermin D (Casp-GSDMD), which is involved in multiple neuropsychiatric diseases. However, the involvement of pyroptosis in the onset of MDD and glial pathological injury remains obscure. Here, we observed that depressive mice showed astrocytic pyroptosis, which was responsible for astrocyte loss, and selective serotonin reuptake inhibitor (SSRI) treatment could attenuate the pyroptosis induced by the chronic mild stress (CMS) model. Genetic KO of GSDMD, Casp-1, and astrocytic NOD-like receptor protein 3 (NLRP3) inflammasome in mice alleviated depression-like behaviors and inhibited the pyroptosis-associated protein expression. In contrast, overexpression of astrocytic GSDMD-N-terminal domain (GSDMD-N) in the hippocampus could abolish the improvement of behavioral alterations in GSDMD-deficient mice. This work illustrates that targeting the NLRP3/Casp-1/GSDMD-mediated pyroptosis may provide potential therapeutic benefits to stress-related astrocyte loss in the pathogenesis of depression.",
+   "doi": "10.1172/jci.insight.146852"
+  },
+  {
+   "chave": "10.1126/sciimmunol.abj3859",
+   "pmid": "34678046",
+   "titulo": "NLRP3 inflammasome activation triggers gasdermin D-independent inflammation.",
+   "journal_full": "Science immunology",
+   "ano": "2021",
+   "autores": [
+    "Wang C",
+    "Yang T",
+    "Xiao J",
+    "Xu C",
+    "Alippe Y",
+    "Sun K",
+    "Kanneganti TD",
+    "Monahan JB"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "species": [
+    "Animals"
+   ],
+   "abstract": "NOD-like receptor (NLR), family pyrin domain containing 3 (NLRP3) assembles a protein complex known as the NLRP3 inflammasome upon sensing certain pathogen products or sterile danger signals. Gain-of-function mutations such as the D301N substitution in NLRP3, which cause its constitutive activation (NLRP3CA) also results in inflammasome assembly. This inflammasome processes pro–interleukin-1 β (pro–IL-1β) and pro–IL-18 into bioactive IL-1β and IL-18, respectively, and cleaves gasdermin D (GSDMD). GSDMD amino-terminal fragments form plasma membrane pores that facilitate the secretion of IL-1β and IL-18 and lead to the inflammatory cell death pyroptosis. Accordingly, GSDMD inactivation results in negligible spontaneous inflammation in various experimental models such as in Nlrp3CA/+ mice lacking GSDMD (Nlrp3CA/+;Gsdmd−/− mice). Here, we found that Nlrp3CA/+;Gsdmd−/− mice, when challenged with LPS or TNF-α, still secreted IL-1β and IL-18, indicating inflammasome activation independent of GSDMD. Accordingly, Gsdmd−/− macrophages failed to secrete IL-1β and undergo pyroptosis when briefly exposed to NLRP3 inflammasome activators but released these cytokines when persistently activated. Sustained NLRP3 inflammasome induced caspase-8/-3 and GSDME cleavage and IL-1β maturation in vitro in Gsdmd−/− macrophages. Thus, a salvage inflammatory pathway involving caspase-8/-3–GSDME was activated after NLRP3 activation when the canonical NLRP3-GSDMD signaling was blocked. Consistent with gen",
+   "doi": "10.1126/sciimmunol.abj3859"
+  },
+  {
+   "chave": "10.1007/s00011-023-01790-4",
+   "pmid": "37725102",
+   "titulo": "Role of NLRP3 inflammasome-mediated neuronal pyroptosis and neuroinflammation in neurodegenerative diseases.",
+   "journal_full": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+   "ano": "2023",
+   "autores": [
+    "Han YH",
+    "Liu XD",
+    "Jin MH",
+    "Sun HN",
+    "Kwon T"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Neurodegenerative diseases are a common group of neurological disorders characterized by progressive loss of neuronal structure and function leading to cognitive impairment. Recent studies have shown that neuronal pyroptosis mediated by the NLRP3 inflammasome plays a crucial role in the pathogenesis of neurodegenerative diseases. The NLRP3 inflammasome is a multiprotein complex that, when activated within cells, triggers an inflammatory response, ultimately leading to pyroptotic cell death of neurons. Pyroptosis is a typical pro-inflammatory programmed cell death process occurring downstream of NLRP3 inflammasome activation, characterized by the formation of pores on the cell membrane by the GSDMD protein, leading to cell lysis and the release of inflammatory factors. It has been found that NLRP3 inflammasome-mediated neuronal pyroptosis is closely associated with the development of various neurodegenerative diseases, such as Alzheimer's disease, traumatic brain injury, and Parkinson's disease. Therefore, inhibiting NLRP3 inflammasome activation and attenuating neuronal pyroptosis could potentially serve as novel strategies for the treatment of neurodegenerative diseases. The aim of this review is to explore the role of NLRP3 activation-mediated neuronal pyroptosis and neuroinflammation in neurodegenerative diseases. Firstly, we extensively discuss the relationship between NLRP3 inflammasome-mediated neuronal pyroptosis and neuroinflammation in various neurodegenerative disea",
+   "doi": "10.1016/j.cub.2016.02.019"
+  },
+  {
+   "chave": "10.1038/s41401-026-01774-0",
+   "pmid": "41862685",
+   "titulo": "Microglial NLRP3-dependent pyroptosis promotes cognitive dysfunction of diabetic encephalopathy by inhibiting adult hippocampal neurogenesis through the release of IL-1β.",
+   "journal_full": "Acta pharmacologica Sinica",
+   "ano": "2026",
+   "autores": [
+    "Hua MY",
+    "Huang S",
+    "Zhuang ZY",
+    "Han XL",
+    "Liu XJ",
+    "Liang ZH",
+    "Lou NJ",
+    "Zheng FJ"
+   ],
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "species": [
+    "Animals"
+   ],
+   "abstract": "Diabetic encephalopathy (DE) is a prevalent complication of diabetes which can lead to cognitive dysfunction, without effective therapy currently. In diabetic patients, a reduction in adult hippocampal neurogenesis (AHN) is a heightened risk of cognitive impairment, which may be associated with neuroinflammation caused by microglia. In this study, we established a DE mouse model and conducted in vitro cultures of microglial cells and neural stem cells. Our study demonstrated that the high-glucose associated with DE impairs AHN and induces microglial NOD-, LRR-, and pyrin domain-containing protein 3 (NLRP3) dependent pyroptosis. Further investigation showed that upregulation of microglial NLRP3 promotes the activation of Gasdermin D (GSDMD), the key pyroptosis effector, and the cleavage of pro-interleukin-1β (pro-IL-1β) by caspase-1, exacerbated pyroptosis and induced release of IL-1β, which might lead to impaired AHN and subsequent cognitive dysfunction. Conversely, downregulation of microglial NLRP3 inhibited caspase-1 activation and pyroptosis, reduced release of IL-1β, improved AHN, and rescued cognitive deficits in DE mouse model. Such findings suggest that targeting microglial NLRP3 inflammasome-mediated pyroptosis may be an important potential therapeutic target for treating DE.",
+   "doi": "10.1016/j.arr.2024.102450"
+  },
+  {
+   "chave": "10.3389/fpsyt.2023.1242367",
+   "pmid": "38025419",
+   "titulo": "The role of IL-33 in depression: a systematic review and meta-analysis.",
+   "journal_full": "Frontiers in psychiatry",
+   "ano": "2023",
+   "autores": [
+    "Liu R",
+    "Liu L",
+    "Ren S",
+    "Wei C",
+    "Wang Y",
+    "Li D",
+    "Zhang W"
+   ],
+   "pubtypes": [
+    "Systematic Review",
+    "Journal Article"
+   ],
+   "species": [],
+   "abstract": "Depression has long been considered a disease involving immune hyperactivation. The impact of pro-inflammatory cytokines such as TNF-α, IL-1β, IL-6, and IL-8 on depression has been widely studied. However, the effect of IL-33, another pro-inflammatory cytokine, has been less researched. Currently, research on the correlation between IL-33 and depression risk is inconsistent. In response to these divergent results, we conducted a review and meta-analysis aimed at resolving published research on the correlation between IL-33 and depression risk, and understanding the potential role of IL-33 in the development and treatment of depression. After searching different databases, we analyzed 8 studies. Our meta-analysis showed that IL-33 had a positive correlation with reduced risk of depression. The pooled standard mean differences (SMD) = 0.14, 95% confidence interval (CI): 0.05-0.24. Subgroup analysis results showed that IL-33 and ST2 levels in cerebrospinal fluid and serum is positive correlated with reduced risk of major depressive disorder (MDD) and bipolar disorder (BD). According to the characteristics of the included literature, the results mainly focuses on Caucasian. Furthermore, according to the subgroup analysis of depression-related data sources for disease or treatment, the correlation between IL-33 and depression risk is reflected throughout the entire process of depression development and treatment. Therefore, the change of IL-33 level in serum and cerebrospinal flui",
+   "doi": "10.3389/fpsyt.2023.1242367"
+  },
+  {
+   "chave": "10.1016/j.psychres.2021.114317",
+   "pmid": "34864233",
+   "titulo": "Fluoxetine modulates the pro-inflammatory process of IL-6, IL-1β and TNF-α levels in individuals with depression: a systematic review and meta-analysis.",
+   "journal_full": "Psychiatry research",
+   "ano": "2022",
+   "autores": [
+    "García-García ML",
+    "Tovilla-Zárate CA",
+    "Villar-Soto M",
+    "Juárez-Rojop IE",
+    "González-Castro TB",
+    "Genis-Mendoza AD",
+    "Ramos-Méndez MÁ",
+    "López-Nárvaez ML"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Clinical evidence suggests that inflammation is a key factor to understand the causes of depressive symptoms. Fluoxetine is one of the main first-line medications used for depression, and it is hypothesized that it participates in the decrease of pro-inflammatory cytokines. Hence, our aim was to perform a meta-analysis and systematic review to understand the interaction of fluoxetine in the IL-1β, IL-6 and TNF-α inflammatory process. Studies identified in PubMed and Scopus databases were used to perform a meta-analysis via the Comprehensive software. Standardized mean difference (SMD) was used as a summary statistic. The analysis included a total of 292 individuals with major depressive disorder who received fluoxetine for a period longer than 6 weeks; additionally, IL-1β, IL-6 or TNF-α levels were measured at the end of the antidepressant treatment. The findings were significant revealed decreased levels of the cytokines studied. In conclusion, the pooled data suggest that fluoxetine treatment improved depressive symptomatology by the modulation of pro-inflammatory process such as IL-1β, IL-6 or TNF-α.",
+   "doi": "10.1016/j.psychres.2021.114317"
+  },
+  {
+   "chave": "10.1007/s12035-017-0632-1",
+   "pmid": "28612257",
+   "titulo": "Peripheral Alterations in Cytokine and Chemokine Levels After Antidepressant Drug Treatment for Major Depressive Disorder: Systematic Review and Meta-Analysis.",
+   "journal_full": "Molecular neurobiology",
+   "ano": "2018",
+   "autores": [
+    "Köhler CA",
+    "Freitas TH",
+    "Stubbs B",
+    "Maes M",
+    "Solmi M",
+    "Veronese N",
+    "de Andrade NQ",
+    "Morris G"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Mounting evidence suggests that aberrations in immune-inflammatory pathways contribute to the pathophysiology of major depressive disorder (MDD), and individuals with MDD may have elevated levels of predominantly pro-inflammatory cytokines and C-reactive protein. In addition, previous meta-analyses suggest that antidepressant drug treatment may decrease peripheral levels of interleukin-1 beta (IL-1β) and IL-6. Recently, several new studies examining the effect of antidepressants on these cytokines have been published, and so we performed an updated meta-analysis of studies that measured peripheral levels of cytokines and chemokines during antidepressant treatment in patients with MDD. The PubMed/MEDLINE, EMBASE, and PsycInfo databases were searched from inception through March 9, 2017. Forty-five studies met inclusion criteria (N = 1517). Peripheral levels of IL-6, tumor necrosis factor-alpha (TNF-α), IL-1β, IL-10, IL-2, IL-4, interferon-γ, IL-8, the C-C motif ligand 2 chemokine (CCL-2), CCL-3, IL-1 receptor antagonist, IL-13, IL-17, IL-5, IL-7, and the soluble IL-2 receptor were measured in at least three datasets and thus were meta-analyzed. Antidepressant treatment significantly decreased peripheral levels of IL-6 (Hedges g = -0.454, P <0.001), TNF-α (g = -0.202, P = 0.015), IL-10 (g = -0.566, P = 0.012), and CCL-2 (g = -1.502, P = 0.006). These findings indicate that antidepressants decrease several markers of peripheral inflammation. However, this meta-analysis did not p",
+   "doi": ""
+  },
+  {
+   "chave": "10.1016/j.bbi.2019.02.021",
+   "pmid": "30797959",
+   "titulo": "Effects of SSRIs on peripheral inflammatory markers in patients with major depressive disorder: A systematic review and meta-analysis.",
+   "journal_full": "Brain, behavior, and immunity",
+   "ano": "2019",
+   "autores": [
+    "Wang L",
+    "Wang R",
+    "Liu L",
+    "Qiao D",
+    "Baldwin DS",
+    "Hou R"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Peripheral levels of inflammatory markers are elevated in major depressive disorder (MDD). Selective serotonin reuptake inhibitors (SSRIs) affect levels of inflammatory markers in patients with MDD, but studies have reported inconsistent findings. This systematic review and meta-analysis aims to investigate the effects of SSRI treatment on peripheral levels of a range of inflammatory markers in MDD patients. Systematic literature search (Pubmed, Web of Science, Embase, Cochrane) for studies published before November 2018. Studies were included if they used SSRI monotherapy and peripheral levels of interleukin (IL)-1β, IL-2, IL-4, IL-6, IL-10, tumor necrosis factor (TNF)-α, and interferon (IFN)-γ were measured before and after treatment in patients with MDD. Meta-analysis was conducted using Comprehensive Meta-analysis (version 2). Effect sizes were calculated using bias-corrected standardized mean difference (Hedges' g) between pre- and post-treatment. Sub-group analyses, meta-regression and publication bias estimates were undertaken; sensitivity analyses were performed using different estimated pre- and post-treatment correlations and after removing poor quality studies. Twenty two eligible studies including 827 MDD patients were included in the meta-analysis: fifteen studies for IL-6; eleven for TNF-α; eight for IL-10; seven for IL-1β; six for IL-4; five for IL-2; and four for IFN-γ. The pooled effect estimate indicates SSRI treatment decreased levels of pro-inflammatory ma",
+   "doi": "10.1016/j.bbi.2019.02.021"
+  },
+  {
+   "chave": "10.1186/s12991-025-00596-4",
+   "pmid": "41023687",
+   "titulo": "Sertraline and inflammatory markers in major depression: a systematic review and meta-analysis.",
+   "journal_full": "Annals of general psychiatry",
+   "ano": "2025",
+   "autores": [
+    "Xie Z",
+    "Gao Z",
+    "Li X",
+    "Li S",
+    "Tang F",
+    "Zhang C"
+   ],
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "species": [],
+   "abstract": "Increasing evidence suggests a link between major depressive disorder (MDD) and inflammatory pathways. Sertraline, a commonly used selective serotonin reuptake inhibitor (SSRI), may influence inflammatory cytokine levels. This systematic review and meta-analysis aimed to elucidate the association between the antidepressant sertraline and inflammatory processes and to delineate the roles of key cytokines within this context. Electronic searches of the Web of Science, MEDLINE, and Embase databases (from inception to August 8, 2025) yielded 890 unique records. The included studies measured serum concentrations of inflammatory cytokines in patients with major depressive disorder (MDD) before and after sertraline treatment, with subsequent analysis of the effects of sertraline on these biomarkers. Two independent investigators performed the literature screening and data extraction. Pooled effect estimates were calculated using random effects meta-analysis models. Eleven studies (406 participants) were included. The results demonstrated significant increases in both IL-6 levels (SMD = 0.87; 95% CI: 0.16 to 1.58; Z = 2.41; p = 0.02) and TNF-α levels (SMD = 0.76; 95% CI: 0.14 to 1.71; Z = 2.30; p = 0.02) following sertraline treatment. Sertraline significantly modulates IL-6/TNF-α levels, suggesting that this pathway may partly mediate its antidepressant effects.",
+   "doi": "10.1016/S0140-6736(22)02080-3"
+  }
+ ],
+ "rejeitados": [
+  {
+   "chave": "20015486",
+   "motivo": "já presente na B1 vigente (mesmo PMID)"
+  },
+  {
+   "chave": "28122130",
+   "motivo": "já presente na B1 vigente (mesmo PMID)"
+  },
+  {
+   "chave": "32113908",
+   "motivo": "já presente na B1 vigente (mesmo PMID)"
+  },
+  {
+   "chave": "1110775",
+   "motivo": "FALSO POSITIVO — PMID não corresponde ao paper declarado"
+  },
+  {
+   "chave": "28939116",
+   "motivo": "já presente na B1 vigente (mesmo PMID)"
+  },
+  {
+   "chave": "25797247",
+   "motivo": "FALSO POSITIVO — PMID não corresponde ao paper declarado"
+  },
+  {
+   "chave": "30156409",
+   "motivo": "FALSO POSITIVO — PMID não corresponde ao paper declarado"
+  },
+  {
+   "chave": "30563872",
+   "motivo": "FALSO POSITIVO — PMID não corresponde ao paper declarado"
+  },
+  {
+   "chave": "10.1016/j.bbi.2022.10.022",
+   "motivo": "minociclina = intervenção; incremento baixo (P20 cautela)"
+  },
+  {
+   "chave": "10.1515/revneuro-2022-0047",
+   "motivo": "revisão KP redundante (coberta por Savitz 2019/Stone 2023/Bertollo 2025)"
+  },
+  {
+   "chave": "10.1038/s41423-021-00740-6",
+   "motivo": "revisão genérica inflamassoma+morte — corpus já cobre fundamentação"
+  },
+  {
+   "chave": "10.1016/j.tibs.2022.10.002",
+   "motivo": "revisão genérica NLRP3 regulação — corpus já cobre fundamentação"
+  },
+  {
+   "chave": "10.3389/fncel.2022.915969",
+   "motivo": "TCE/TBI — fora de escopo permanente"
+  },
+  {
+   "chave": "10.1073/pnas.1722041115",
+   "motivo": "esclerose múltipla — outra condição"
+  },
+  {
+   "chave": "10.1007/s00401-022-02528-y",
+   "motivo": "Alzheimer — outra condição"
+  },
+  {
+   "chave": "10.1038/s41380-019-0474-5",
+   "motivo": "duplicata bibliográfica de 31427752 (mesmo paper, Liu 2019 Mol Psychiatry)"
+  },
+  {
+   "chave": "10.1136/bmjopen-2018-027925",
+   "pmid": "31326932",
+   "motivo": "resolveu para PMID já presente na B1 vigente"
+  },
+  {
+   "chave": "10.1172/jci.insight.146852",
+   "pmid": "34877938",
+   "motivo": "PMID duplicado dentro da própria leva [AT]"
+  },
+  {
+   "chave": "10.1016/j.pnpbp.2017.04.026",
+   "pmid": "28445690",
+   "motivo": "resolveu para PMID já presente na B1 vigente"
+  }
+ ]
+}

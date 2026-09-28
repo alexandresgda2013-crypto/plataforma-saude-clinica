@@ -1,0 +1,59 @@
+{
+ "data": "2026-09-11",
+ "condicao": "R3 (AUD-036) — 19 PARCIAL sem g3_nota + 30 V2 sem claim_id",
+ "operador": "IA (delegação do usuário)",
+ "acoes": [
+  {
+   "alvo": "R3a",
+   "descricao": "4 PARCIAIS com g3_notas vazio → nota reconstruída do ledger + reavaliacao_g3_pendente=true",
+   "ids": [
+    "VINC_B1V2_0190",
+    "VINC_B1V2_0197",
+    "VINC_B1V2_0198",
+    "VINC_B1V2_0202"
+   ],
+   "observacao": "15 PARCIAIS restantes já possuíam g3_notas com motivo enunciado (verificação item a item registrada nesta trilha); sem alteração"
+  },
+  {
+   "alvo": "R3b",
+   "descricao": "30 VINC_B1V2 sem claim_id: tentativa de herança por co-ocorrência (mesmo parágrafo da V5 com vínculo legado) = 0 elegíveis; Lista Canônica v1.1 não traz campo subseção → mapeamento não decidível sem extrapolação",
+   "resultado": "30/30 → dívida nomeada D-B1-R3-V2CLAIM",
+   "ids": [
+    "VINC_B1V2_0179",
+    "VINC_B1V2_0180",
+    "VINC_B1V2_0181",
+    "VINC_B1V2_0182",
+    "VINC_B1V2_0183",
+    "VINC_B1V2_0184",
+    "VINC_B1V2_0185",
+    "VINC_B1V2_0186",
+    "VINC_B1V2_0187",
+    "VINC_B1V2_0188",
+    "VINC_B1V2_0189",
+    "VINC_B1V2_0190",
+    "VINC_B1V2_0191",
+    "VINC_B1V2_0192",
+    "VINC_B1V2_0193",
+    "VINC_B1V2_0194",
+    "VINC_B1V2_0195",
+    "VINC_B1V2_0196",
+    "VINC_B1V2_0197",
+    "VINC_B1V2_0198",
+    "VINC_B1V2_0199",
+    "VINC_B1V2_0200",
+    "VINC_B1V2_0201",
+    "VINC_B1V2_0202",
+    "VINC_B1V2_0203",
+    "VINC_B1V2_0204",
+    "VINC_B1V2_0205",
+    "VINC_B1V2_0206",
+    "VINC_B1V2_0207",
+    "VINC_B1V2_0208"
+   ]
+  }
+ ],
+ "dividas_nomeadas": [
+  "D-B1-R3-V2CLAIM: 30 vínculos VINC_B1V2_* sem claim_id — sem irmãos legados no mesmo parágrafo (0/30) e Lista v1.1 sem campo subseção; mapeamento exigiria julgamento semântico (fora do pacto). Decidível na revisão cega humana ou quando a Lista Canônica ganhar metadata de subseção.",
+  "D-B1-R3-G3NOTA: 4 PARCIAIS (VINC_B1V2_0190/0197/0198/0202) com motivo contemporâneo perdido; nota reconstruída do ledger; reavaliação G3 humana pendente."
+ ]
+}

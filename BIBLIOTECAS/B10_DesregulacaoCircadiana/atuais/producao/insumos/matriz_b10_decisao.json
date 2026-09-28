@@ -1,0 +1,1787 @@
+{
+ "gerado": "2026-09-09",
+ "biblioteca": "B10",
+ "total_candidatos_avaliados": 209,
+ "itens": [
+  {
+   "ref": "REF_SATO_2006",
+   "pmid": "16474406",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.001)"
+  },
+  {
+   "ref": "REF_KUME_1999",
+   "pmid": "10428031",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.002)"
+  },
+  {
+   "ref": "REF_YE_2011",
+   "pmid": "21613214",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.003)"
+  },
+  {
+   "ref": "REF_YE_2014",
+   "pmid": "25228643",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.004)"
+  },
+  {
+   "ref": "REF_DUONG_2011",
+   "pmid": "21680841",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.005)"
+  },
+  {
+   "ref": "REF_NANGLE_2014",
+   "pmid": "25127877",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.006)"
+  },
+  {
+   "ref": "REF_XU_2015",
+   "pmid": "25961797",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.007)"
+  },
+  {
+   "ref": "REF_MICHAEL_2017",
+   "pmid": "28143926",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.008)"
+  },
+  {
+   "ref": "REF_LANDEDINER_2013",
+   "pmid": "24043798",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.009)"
+  },
+  {
+   "ref": "REF_ABE_2022",
+   "pmid": "35999195",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.010)"
+  },
+  {
+   "ref": "REF_GORIKI_2014",
+   "pmid": "24736997",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.011)"
+  },
+  {
+   "ref": "REF_OTOBE_2026",
+   "pmid": "41108717",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.012)"
+  },
+  {
+   "ref": "REF_SERRANO_2026",
+   "pmid": "42290481",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.013)"
+  },
+  {
+   "ref": "REF_ARYAL_2017",
+   "pmid": "28886335",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.014)"
+  },
+  {
+   "ref": "REF_OISHI_2003",
+   "pmid": "12865428",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.015)"
+  },
+  {
+   "ref": "REF_TAKAHASHI_2015",
+   "pmid": "26332962",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.016)"
+  },
+  {
+   "ref": "REF_MOHAWK_2011",
+   "pmid": "21665298",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.017)"
+  },
+  {
+   "ref": "REF_WELSH_2010",
+   "pmid": "20148688",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.018)"
+  },
+  {
+   "ref": "REF_SHAN_2020",
+   "pmid": "32768389",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.019)"
+  },
+  {
+   "ref": "REF_ONO_2024",
+   "pmid": "38366616",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.020)"
+  },
+  {
+   "ref": "REF_JONES_2018",
+   "pmid": "30082421",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.021)"
+  },
+  {
+   "ref": "REF_HAMNETT_2019",
+   "pmid": "30710088",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.022)"
+  },
+  {
+   "ref": "REF_XU_2021",
+   "pmid": "34416169",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.023)"
+  },
+  {
+   "ref": "REF_VONGALL_1998",
+   "pmid": "9852576",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.024)"
+  },
+  {
+   "ref": "REF_FERNANDEZ_2016",
+   "pmid": "27162356",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.025)"
+  },
+  {
+   "ref": "REF_GOLOMBEK_2010",
+   "pmid": "20664079",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.026)"
+  },
+  {
+   "ref": "REF_RAMKISOENSING_2015",
+   "pmid": "26097465",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.027)"
+  },
+  {
+   "ref": "REF_MCGLASHAN_2018",
+   "pmid": "30555405",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "EC",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.028)"
+  },
+  {
+   "ref": "REF_PETT_2018",
+   "pmid": "30456356",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.029)"
+  },
+  {
+   "ref": "REF_SCHIBLER_2015",
+   "pmid": "26683231",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.030)"
+  },
+  {
+   "ref": "REF_KIESSLING_2014",
+   "pmid": "24658072",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.031)"
+  },
+  {
+   "ref": "REF_ROBERTSONDIXON_2023",
+   "pmid": "37895351",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.032)"
+  },
+  {
+   "ref": "REF_ROBERTSONDIXON_2026",
+   "pmid": "41389872",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO01",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO01.033)"
+  },
+  {
+   "ref": "REF_NICOLAIDES_2014",
+   "pmid": "24890877",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.001)"
+  },
+  {
+   "ref": "REF_NADER_2010",
+   "pmid": "20106676",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.002)"
+  },
+  {
+   "ref": "REF_RUSSELL_2015",
+   "pmid": "25494867",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.003)"
+  },
+  {
+   "ref": "REF_KALSBEEK_2012",
+   "pmid": "21782883",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.004)"
+  },
+  {
+   "ref": "REF_SPIGA_2014",
+   "pmid": "24944037",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.005)"
+  },
+  {
+   "ref": "REF_RAOANDROULAKIS_2019A",
+   "pmid": "30862458",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.006)"
+  },
+  {
+   "ref": "REF_RAOANDROULAKIS_2019B",
+   "pmid": "31371802",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.007)"
+  },
+  {
+   "ref": "REF_RAO_2021",
+   "pmid": "34436424",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.008)"
+  },
+  {
+   "ref": "REF_KINLEIN_2020",
+   "pmid": "31863788",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.009)"
+  },
+  {
+   "ref": "REF_VANDALFSEN_2018",
+   "pmid": "29126903",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.010)"
+  },
+  {
+   "ref": "REF_BUCKLEY_2005",
+   "pmid": "15728214",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.011)"
+  },
+  {
+   "ref": "REF_YAMANAKA_2019",
+   "pmid": "30480877",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "EC",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.012)"
+  },
+  {
+   "ref": "REF_WESARGMENZEL_2024",
+   "pmid": "38308964",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.013)"
+  },
+  {
+   "ref": "REF_LIGHTMAN_2020",
+   "pmid": "32060528",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.014)"
+  },
+  {
+   "ref": "REF_DENBOON_2017",
+   "pmid": "29223280",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.015)"
+  },
+  {
+   "ref": "REF_CHELLAPPA_2020",
+   "pmid": "33122670",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "EC",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.016)"
+  },
+  {
+   "ref": "REF_CHRISTIANSEN_2012",
+   "pmid": "22217141",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.017)"
+  },
+  {
+   "ref": "REF_SORIA_2010",
+   "pmid": "20072116",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO03",
+   "tag": "EC",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO03.001)"
+  },
+  {
+   "ref": "REF_VONSCHANTZ_2021",
+   "pmid": "33641746",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO03",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO03.002)"
+  },
+  {
+   "ref": "REF_LIBERMAN_2018",
+   "pmid": "29614896",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO03",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO03.003)"
+  },
+  {
+   "ref": "REF_MCCARTHY_2011",
+   "pmid": "21781277",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO03",
+   "tag": "EC",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO03.004)"
+  },
+  {
+   "ref": "REF_ROBILLARD_2018",
+   "pmid": "30301878",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "EC",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.018)"
+  },
+  {
+   "ref": "REF_NGUYEN_2019",
+   "pmid": "30878655",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "EC",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.019)"
+  },
+  {
+   "ref": "REF_PILZ_2018",
+   "pmid": "30061722",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "EC",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.020)"
+  },
+  {
+   "ref": "REF_EMENS_2020",
+   "pmid": "32777620",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "EC",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.021)"
+  },
+  {
+   "ref": "REF_MURRAY_2017",
+   "pmid": "28364473",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "EC",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.022)"
+  },
+  {
+   "ref": "REF_LYALL_2018",
+   "pmid": "29776774",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "EC",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.023)"
+  },
+  {
+   "ref": "REF_SONG_2024",
+   "pmid": "38579366",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "EC",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.024)"
+  },
+  {
+   "ref": "REF_COXOLATUNJI_2019",
+   "pmid": "31302521",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "EC",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.025)"
+  },
+  {
+   "ref": "REF_CARPENTER_2025",
+   "pmid": "40662977",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO02",
+   "tag": "EC",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO02.026)"
+  },
+  {
+   "ref": "REF_MELO_2017",
+   "pmid": "27524206",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO11",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO11.001)"
+  },
+  {
+   "ref": "REF_TAKAESU_2018",
+   "pmid": "29869403",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO11",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO11.002)"
+  },
+  {
+   "ref": "REF_ALLOY_2017",
+   "pmid": "28321642",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO11",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO11.003)"
+  },
+  {
+   "ref": "REF_MOON_2016",
+   "pmid": "27543154",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO11",
+   "tag": "EC",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO11.004)"
+  },
+  {
+   "ref": "REF_VIDAFAR_2021",
+   "pmid": "34468894",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO11",
+   "tag": "EC",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO11.005)"
+  },
+  {
+   "ref": "REF_ESAKI_2021",
+   "pmid": "34645802",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO11",
+   "tag": "EC",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO11.006)"
+  },
+  {
+   "ref": "REF_MUKHERJEE_2022",
+   "pmid": "34320487",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO11",
+   "tag": "EC",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO11.007)"
+  },
+  {
+   "ref": "REF_LEI_2024",
+   "pmid": "38800632",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO11",
+   "tag": "EC",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO11.008)"
+  },
+  {
+   "ref": "REF_SCOTT_2022",
+   "pmid": "35182537",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO11",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO11.009)"
+  },
+  {
+   "ref": "REF_PALAGINI_2022",
+   "pmid": "35821870",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO11",
+   "tag": "EC",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO11.010)"
+  },
+  {
+   "ref": "REF_TONON_2024",
+   "pmid": "39210713",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO11",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO11.011)"
+  },
+  {
+   "ref": "REF_GEOFFROY_2025B",
+   "pmid": "40381827",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO11",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO11.012)"
+  },
+  {
+   "ref": "REF_MCCARTHY_2022",
+   "pmid": "34850507",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO11",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO11.013)"
+  },
+  {
+   "ref": "REF_CHAKRABORTY_2026",
+   "pmid": "41913359",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO11",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO11.014)"
+  },
+  {
+   "ref": "REF_DEPRATO_2025",
+   "pmid": "40154089",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO05",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO05.001)"
+  },
+  {
+   "ref": "REF_WESCOTT_2025",
+   "pmid": "39608218",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO06",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO06.001)"
+  },
+  {
+   "ref": "REF_CAMPBELL_2017",
+   "pmid": "31528147",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO06",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO06.002)"
+  },
+  {
+   "ref": "REF_RUSSELL_2021",
+   "pmid": "33509094",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO07",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO07.001)"
+  },
+  {
+   "ref": "REF_ZUO_2024",
+   "pmid": "38241675",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO07",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO07.002)"
+  },
+  {
+   "ref": "REF_TOFANI_2025",
+   "pmid": "39504963",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO07",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO07.003)"
+  },
+  {
+   "ref": "REF_FRANCIS_2023",
+   "pmid": "37441675",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO07",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO07.004)"
+  },
+  {
+   "ref": "REF_KANDALEPAS_2016",
+   "pmid": "27362940",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO07",
+   "tag": "ML",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO07.005)"
+  },
+  {
+   "ref": "REF_BAUTISTA_2025",
+   "pmid": "41244880",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO08",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO08.001)"
+  },
+  {
+   "ref": "REF_HYNDYCH_2025",
+   "pmid": "41662130",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO12",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO12.001)"
+  },
+  {
+   "ref": "REF_ZOU_2022",
+   "pmid": "36033630",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO12",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO12.002)"
+  },
+  {
+   "ref": "REF_MEYER_2024",
+   "pmid": "38394243",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO12",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO12.003)"
+  },
+  {
+   "ref": "REF_WALKER_2020",
+   "pmid": "32066704",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO12",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO12.004)"
+  },
+  {
+   "ref": "REF_DOLLISH_2024",
+   "pmid": "37858331",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO12",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO12.005)"
+  },
+  {
+   "ref": "REF_KIRLIOGLU_2020",
+   "pmid": "32750762",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO12",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO12.006)"
+  },
+  {
+   "ref": "REF_LAMONT_2007",
+   "pmid": "17969870",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO12",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO12.007)"
+  },
+  {
+   "ref": "REF_MCCLUNG_2007",
+   "pmid": "17395264",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO12",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO12.008)"
+  },
+  {
+   "ref": "REF_MCCLUNG_2013",
+   "pmid": "23558300",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO12",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO12.009)"
+  },
+  {
+   "ref": "REF_KETCHESIN_2020",
+   "pmid": "30402924",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO12",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO12.010)"
+  },
+  {
+   "ref": "REF_SMITH_2024",
+   "pmid": "39308240",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO12",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO12.011)"
+  },
+  {
+   "ref": "REF_PANDIPERUMAL_2022",
+   "pmid": "35033557",
+   "decisao": "ENTRA",
+   "bloco": "BLOCO12",
+   "tag": "OB",
+   "motivo": "âncora da fusão [AT] (B10.MEC.BLOCO12.012)"
+  },
+  {
+   "ref": "Sassone-Corsi 2016",
+   "pmid": "28892344",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Molecular Architecture of the Circadian Clock in Mammals."
+  },
+  {
+   "ref": "Burns 2024",
+   "pmid": "39314956",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP HPA/sono já coberto pelas 17 âncoras do bloco 2.4",
+   "titulo": "Sleep inertia drives the association of evening chronotype with psychiatric disorders: epidemiological and genetic evidence."
+  },
+  {
+   "ref": "Abelson 2023",
+   "pmid": "36801587",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP HPA/sono já coberto pelas 17 âncoras do bloco 2.4",
+   "titulo": "Do diurnal salivary cortisol curves carry meaningful information about the regulatory biology of the HPA axis in healthy humans?"
+  },
+  {
+   "ref": "Androulakis 2021",
+   "pmid": "33438348",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP HPA/sono já coberto pelas 17 âncoras do bloco 2.4",
+   "titulo": "Circadian rhythms and the HPA axis: A systems view."
+  },
+  {
+   "ref": "Annayev 2014",
+   "pmid": "24385426",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "modelagem teórica (SUP básico)",
+   "titulo": "Gene model 129 (Gm129) encodes a novel transcriptional repressor that modulates circadian gene expression."
+  },
+  {
+   "ref": "Ashton 2022",
+   "pmid": "35054913",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Photic Entrainment of the Circadian System."
+  },
+  {
+   "ref": "Astiz 2019",
+   "pmid": "40363695",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "fronteira neurodegeneração/envelhecimento",
+   "titulo": "Molecular Links Between Circadian Rhythm Disruption, Melatonin, and Neurodegenerative Diseases: An Updated Review."
+  },
+  {
+   "ref": "Bernard 2007",
+   "pmid": "17432930",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Synchronization-induced rhythmicity of circadian oscillators in the suprachiasmatic nucleus."
+  },
+  {
+   "ref": "Bhake 2019",
+   "pmid": "31355884",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP HPA/sono já coberto pelas 17 âncoras do bloco 2.4",
+   "titulo": "Continuous Free Cortisol Profiles-Circadian Rhythms in Healthy Men."
+  },
+  {
+   "ref": "Boareto 2025",
+   "pmid": "42237005",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "modelagem teórica (SUP básico)",
+   "titulo": "Modelling the effect of V1a receptor antagonism and its potential therapeutic effect in circadian disorders."
+  },
+  {
+   "ref": "Buhr 2019",
+   "pmid": "31607531",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Neuropsin (OPN5) Mediates Local Light-Dependent Induction of Circadian Clock Genes and Circadian Photoentrainment in Exposed Murine Skin."
+  },
+  {
+   "ref": "Buijink 2016",
+   "pmid": "28006027",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "fotoperíodo/sazonalidade básica (SUP)",
+   "titulo": "Evidence for Weakened Intercellular Coupling in the Mammalian Circadian Clock under Long Photoperiod."
+  },
+  {
+   "ref": "Calligaro 2023",
+   "pmid": "37500494",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Ultrastructure of Synaptic Connectivity within Subregions of the Suprachiasmatic Nucleus Revealed by a Genetically Encoded Tag and Serial Blockface Electron Microscopy."
+  },
+  {
+   "ref": "Camici 2026",
+   "pmid": "41568000",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "malha metabólica/oncológica/infecciosa (BAIXO por escopo)",
+   "titulo": "Salivary cortisol in long COVID: a marker of broader stress system and circadian rhythm dysregulation."
+  },
+  {
+   "ref": "Cao 2020",
+   "pmid": "33443219",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Molecular mechanism of the repressive phase of the mammalian circadian clock."
+  },
+  {
+   "ref": "Cao 2023",
+   "pmid": "36682495",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Analysis of mammalian circadian clock protein complexes over a circadian cycle."
+  },
+  {
+   "ref": "Cao 2025",
+   "pmid": "29054877",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Ontogeny of Circadian Rhythms and Synchrony in the Suprachiasmatic Nucleus."
+  },
+  {
+   "ref": "Chen 2009",
+   "pmid": "19917250",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Rhythmic PER abundance defines a critical nodal point for negative feedback within the circadian clock mechanism."
+  },
+  {
+   "ref": "Chiou 2020",
+   "pmid": "33381013",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "A Sextuple Knockout Cell Line System to Study the Differential Roles of CRY, PER, and NR1D in the Transcription-Translation Feedback Loop of the Circadian Clock."
+  },
+  {
+   "ref": "Chiou 2016",
+   "pmid": "27688755",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Mammalian Period represses and de-represses transcription by displacing CLOCK-BMAL1 from promoters in a Cryptochrome-dependent manner."
+  },
+  {
+   "ref": "Chung 2023",
+   "pmid": "38627069",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Bipolar Disorder, Circadian Rhythm and Clock Genes."
+  },
+  {
+   "ref": "Coomans 2015",
+   "pmid": "25451984",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "fotoperíodo/sazonalidade básica (SUP)",
+   "titulo": "The suprachiasmatic nuclei as a seasonal clock."
+  },
+  {
+   "ref": "Cox 2024",
+   "pmid": "39096022",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "fotoperíodo/sazonalidade básica (SUP)",
+   "titulo": "Transcriptomic Plasticity of the Circadian Clock in Response to Photoperiod: A Study in Male Melatonin-Competent Mice."
+  },
+  {
+   "ref": "Crumbley 2011",
+   "pmid": "21479263",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Direct regulation of CLOCK expression by REV-ERB."
+  },
+  {
+   "ref": "Crumbley 2010",
+   "pmid": "20817722",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Characterization of the core mammalian clock component, NPAS2, as a REV-ERBalpha/RORalpha target gene."
+  },
+  {
+   "ref": "Duy 2020",
+   "pmid": "33030409",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Light Has Diverse Spatiotemporal Molecular Changes in the Mouse Suprachiasmatic Nucleus."
+  },
+  {
+   "ref": "Focke 2019",
+   "pmid": "31738971",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP HPA/sono já coberto pelas 17 âncoras do bloco 2.4",
+   "titulo": "Rhythmicity matters: Circadian and ultradian patterns of HPA axis activity."
+  },
+  {
+   "ref": "Fribourgh 2020",
+   "pmid": "32101164",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Dynamics at the serine loop underlie differential affinity of cryptochromes for CLOCK:BMAL1 to control circadian timing."
+  },
+  {
+   "ref": "Gaffey 2016",
+   "pmid": "27377692",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "fronteira neurodegeneração/envelhecimento",
+   "titulo": "Aging and the HPA axis: Stress and resilience in older adults."
+  },
+  {
+   "ref": "Gao 2022",
+   "pmid": "35478603",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "espécie não-mamífera/veterinária",
+   "titulo": "Transcriptional Feedback Loops in the Caprine Circadian Clock System."
+  },
+  {
+   "ref": "Gjerstad 2018",
+   "pmid": "29764284",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP HPA/sono já coberto pelas 17 âncoras do bloco 2.4",
+   "titulo": "Role of glucocorticoid negative feedback in the regulation of HPA axis pulsatility."
+  },
+  {
+   "ref": "Goltsev 2022",
+   "pmid": "35848398",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "modelagem teórica (SUP básico)",
+   "titulo": "Generation and Disruption of Circadian Rhythms in the Suprachiasmatic Nucleus: A Core-Shell Model."
+  },
+  {
+   "ref": "Goncharova 2023",
+   "pmid": "36699023",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "fronteira neurodegeneração/envelhecimento",
+   "titulo": "Age-related and individual features of the HPA axis stress responsiveness under constant light in nonhuman primates."
+  },
+  {
+   "ref": "Goriki 2014",
+   "pmid": "37761843",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Circadian Gene Variants in Diseases."
+  },
+  {
+   "ref": "Gu 2026",
+   "pmid": "41979826",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "The suprachiasmatic nucleus: a central pacemaker for temporal coordination of energy metabolic homeostasis."
+  },
+  {
+   "ref": "Gu 2016",
+   "pmid": "27358024",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "modelagem teórica (SUP básico)",
+   "titulo": "The synchronization of neuronal oscillators determined by the directed network structure of the suprachiasmatic nucleus under different photoperiods."
+  },
+  {
+   "ref": "Gul 2020",
+   "pmid": "33028638",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "The Arg-293 of Cryptochrome1 is responsible for the allosteric regulation of CLOCK-CRY1 binding in circadian rhythm."
+  },
+  {
+   "ref": "Gustafson 2014",
+   "pmid": "25303119",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "modelagem teórica (SUP básico)",
+   "titulo": "Emerging models for the molecular basis of mammalian circadian timing."
+  },
+  {
+   "ref": "Hafner 2012",
+   "pmid": "22423219",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Effect of network architecture on synchronization and entrainment properties of the circadian oscillations in the suprachiasmatic nucleus."
+  },
+  {
+   "ref": "Hastings 2014",
+   "pmid": "24329967",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Circadian pacemaking in cells and circuits of the suprachiasmatic nucleus."
+  },
+  {
+   "ref": "Herzog 2017",
+   "pmid": "28049647",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Regulating the Suprachiasmatic Nucleus (SCN) Circadian Clockwork: Interplay between Cell-Autonomous and Circuit-Level Mechanisms."
+  },
+  {
+   "ref": "James 2023",
+   "pmid": "36950689",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP HPA/sono já coberto pelas 17 âncoras do bloco 2.4",
+   "titulo": "Understanding the relationships between physiological and psychosocial stress, cortisol and cognition."
+  },
+  {
+   "ref": "Jha 2021",
+   "pmid": "33440199",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Distinct feedback actions of behavioural arousal to the master circadian clock in nocturnal and diurnal mammals."
+  },
+  {
+   "ref": "Juliana 2025",
+   "pmid": "41009704",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "método/biossensor (SUP metodológico)",
+   "titulo": "Cortisol Detection Methods and the Hormone's Role in Evaluating Circadian Rhythm Disruption."
+  },
+  {
+   "ref": "Kanter 2024",
+   "pmid": "39569439",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "malha metabólica/oncológica/infecciosa (BAIXO por escopo)",
+   "titulo": "Hypothalamic-Pituitary-Adrenal Axis Dysfunction in People With Cancer: A Systematic Review."
+  },
+  {
+   "ref": "Karan 2021",
+   "pmid": "34399150",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "amostra não-adulta/escopo B12/B14 (BAIXO)",
+   "titulo": "School commute time, chronotype, and altered HPA axis functioning during adolescence."
+  },
+  {
+   "ref": "Karin 2020",
+   "pmid": "32672906",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "modelagem teórica (SUP básico)",
+   "titulo": "A new model for the HPA axis explains dysregulation of stress hormones on the timescale of weeks."
+  },
+  {
+   "ref": "Kim 2021",
+   "pmid": "33510438",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Multiplexed CRISPR-Cas9 system in a single adeno-associated virus to simultaneously knock out redundant clock genes."
+  },
+  {
+   "ref": "Klusmann 2022",
+   "pmid": "35597328",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "amostra não-adulta/escopo B12/B14 (BAIXO)",
+   "titulo": "HPA axis activity across the menstrual cycle - a systematic review and meta-analysis of longitudinal studies."
+  },
+  {
+   "ref": "Knezevic 2023",
+   "pmid": "38067154",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "fronteira neurodegeneração/envelhecimento",
+   "titulo": "The Role of Cortisol in Chronic Stress, Neurodegenerative Diseases, and Psychological Disorders."
+  },
+  {
+   "ref": "Koch 2022",
+   "pmid": "35285799",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Quantification of protein abundance and interaction defines a mechanism for operation of the circadian clock."
+  },
+  {
+   "ref": "Korf 2024",
+   "pmid": "38965880",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "modelagem teórica (SUP básico)",
+   "titulo": "Mouse Models in Circadian Rhythm and Melatonin Research."
+  },
+  {
+   "ref": "Korom 2026",
+   "pmid": "41990568",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "amostra não-adulta/escopo B12/B14 (BAIXO)",
+   "titulo": "Differential stability and covariation of diurnal and stress-reactive HPA axis functions in adolescents with and without maltreatment risk."
+  },
+  {
+   "ref": "Kumar 2024",
+   "pmid": "38964508",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Dynamic endocannabinoid-mediated neuromodulation of retinal circadian circuitry."
+  },
+  {
+   "ref": "Kusov 2023",
+   "pmid": "36903600",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "método/biossensor (SUP metodológico)",
+   "titulo": "Cortisol Monitoring Devices toward Implementation for Clinically Relevant Biosensing In Vivo."
+  },
+  {
+   "ref": "Laothamatas 2023",
+   "pmid": "37708890",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Metabolic and chemical architecture of the mammalian circadian clock."
+  },
+  {
+   "ref": "Leclercq 2020",
+   "pmid": "33326640",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "fotoperíodo/sazonalidade básica (SUP)",
+   "titulo": "Photoperiod integration in C3H rd1 mice."
+  },
+  {
+   "ref": "Lee 2011",
+   "pmid": "21199878",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Stoichiometric relationship among clock proteins determines robustness of circadian rhythms."
+  },
+  {
+   "ref": "Li 2021",
+   "pmid": "34504149",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Light entrainment of the SCN circadian clock and implications for personalized alterations of corticosterone rhythms in shift work and jet lag."
+  },
+  {
+   "ref": "Li 2023",
+   "pmid": "37597751",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "modelagem teórica (SUP básico)",
+   "titulo": "The Physiological and Pharmacological Significance of the Circadian Timing of the HPA Axis: A Mathematical Modeling Approach."
+  },
+  {
+   "ref": "Li 2022",
+   "pmid": "36387856",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP HPA/sono já coberto pelas 17 âncoras do bloco 2.4",
+   "titulo": "Light-induced synchronization of the SCN coupled oscillators and implications for entraining the HPA axis."
+  },
+  {
+   "ref": "Liu 2025",
+   "pmid": "40854106",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Biochemical mechanism of the mammalian circadian clock."
+  },
+  {
+   "ref": "Liyanarachchi 2017",
+   "pmid": "29223281",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP HPA/sono já coberto pelas 17 âncoras do bloco 2.4",
+   "titulo": "Human studies on hypothalamo-pituitary-adrenal (HPA) axis."
+  },
+  {
+   "ref": "Lokshin 2015",
+   "pmid": "25994103",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Selective Distribution of Retinal Input to Mouse SCN Revealed in Analysis of Sagittal Sections."
+  },
+  {
+   "ref": "Lu 2021",
+   "pmid": "34657394",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Mammalian circadian networks mediated by the suprachiasmatic nucleus."
+  },
+  {
+   "ref": "Ludwig 2023",
+   "pmid": "36870963",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "malha metabólica/oncológica/infecciosa (BAIXO por escopo)",
+   "titulo": "Molecular characterization of the circadian clock in paediatric leukaemia patients: a prospective study protocol."
+  },
+  {
+   "ref": "Morimoto 2022",
+   "pmid": "36256675",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Regionality of short and long period oscillators in the suprachiasmatic nucleus and their manner of synchronization."
+  },
+  {
+   "ref": "Moyers 2023",
+   "pmid": "37001634",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP HPA/sono já coberto pelas 17 âncoras do bloco 2.4",
+   "titulo": "Physical activity and cortisol regulation: A meta-analysis."
+  },
+  {
+   "ref": "Na 2012",
+   "pmid": "23133559",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Role of type II protein arginine methyltransferase 5 in the regulation of Circadian Per1 gene."
+  },
+  {
+   "ref": "Naito 2008",
+   "pmid": "18375863",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "fotoperíodo/sazonalidade básica (SUP)",
+   "titulo": "Reorganization of the suprachiasmatic nucleus coding for day length."
+  },
+  {
+   "ref": "Nikhil 2025",
+   "pmid": "41380001",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "The inferred functional connectome underlying circadian synchronization in the mouse suprachiasmatic nucleus."
+  },
+  {
+   "ref": "Postnova 2013",
+   "pmid": "23599244",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "modelagem teórica (SUP básico)",
+   "titulo": "A minimal physiologically based model of the HPA axis under influence of the sleep-wake cycles."
+  },
+  {
+   "ref": "Rosensweig 2018",
+   "pmid": "29556064",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "An evolutionary hotspot defines functional differences between CRYPTOCHROMES."
+  },
+  {
+   "ref": "Schirmer 2023",
+   "pmid": "37389366",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Cry1 expression during postnatal development is critical for the establishment of normal circadian period."
+  },
+  {
+   "ref": "Schrader 2024",
+   "pmid": "39007272",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Circadian disruption, clock genes, and metabolic health."
+  },
+  {
+   "ref": "Shirtcliff 2024",
+   "pmid": "38428723",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "amostra não-adulta/escopo B12/B14 (BAIXO)",
+   "titulo": "Cortisol's diurnal rhythm indexes the neurobiological impact of child adversity in adolescence."
+  },
+  {
+   "ref": "Simons 2017",
+   "pmid": "28027684",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "amostra não-adulta/escopo B12/B14 (BAIXO)",
+   "titulo": "Associations between circadian and stress response cortisol in children."
+  },
+  {
+   "ref": "Smyllie 2025",
+   "pmid": "40247113",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "modelagem teórica (SUP básico)",
+   "titulo": "Quantitative measures of clock protein dynamics in the mouse suprachiasmatic nucleus extends the circadian time-keeping model."
+  },
+  {
+   "ref": "Speer 2019",
+   "pmid": "31236437",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "revisão redundante com âncoras (SUP/CONTEXT)",
+   "titulo": "HPA axis function and diurnal cortisol in post-traumatic stress disorder: A systematic review."
+  },
+  {
+   "ref": "Spencer 2016",
+   "pmid": "27871862",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP HPA/sono já coberto pelas 17 âncoras do bloco 2.4",
+   "titulo": "A users guide to HPA axis research."
+  },
+  {
+   "ref": "Starnes 2023",
+   "pmid": "37106709",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Inputs and Outputs of the Mammalian Circadian Clock."
+  },
+  {
+   "ref": "Starr 2019",
+   "pmid": "30340064",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP HPA/sono já coberto pelas 17 âncoras do bloco 2.4",
+   "titulo": "Chronic stress exposure, diurnal cortisol slope, and implications for mood and fatigue: Moderation by multilocus HPA-Axis genetic variation."
+  },
+  {
+   "ref": "Tamayo 2015",
+   "pmid": "26323038",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Histone monoubiquitination by Clock-Bmal1 complex marks Per1 and Per2 genes for circadian feedback."
+  },
+  {
+   "ref": "Tonon 2024",
+   "pmid": "19305510",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Phase shifting capacity of the circadian pacemaker determined by the SCN neuronal network organization."
+  },
+  {
+   "ref": "Vriend 2015",
+   "pmid": "25369242",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Melatonin feedback on clock genes: a theory involving the proteasome."
+  },
+  {
+   "ref": "Waly 2015",
+   "pmid": "27103927",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Circadian Pattern of Melatonin MT1 and MT2 Receptor Localization in the Rat Suprachiasmatic Nucleus."
+  },
+  {
+   "ref": "Yang 2021",
+   "pmid": "35255992",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "espécie não-mamífera/veterinária",
+   "titulo": "Chronic corticosterone disrupts the circadian rhythm of CRH expression and m(6)A RNA methylation in the chicken hypothalamus."
+  },
+  {
+   "ref": "Yu 2002",
+   "pmid": "11798163",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Interactivating feedback loops within the mammalian clock: BMAL1 is negatively autoregulated and upregulated by CRY1, CRY2, and PER2."
+  },
+  {
+   "ref": "Yuan 2025",
+   "pmid": "41170746",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "revisão redundante com âncoras (SUP/CONTEXT)",
+   "titulo": "Retinal light perception and biological rhythms: The role of light in sleep and mood from an ophthalmic perspective (Review)."
+  },
+  {
+   "ref": "Joseph 2016",
+   "pmid": "27750377",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "malha metabólica/oncológica/infecciosa (BAIXO por escopo)",
+   "titulo": "Cortisol dysregulation: the bidirectional link between stress, depression, and type 2 diabetes mellitus."
+  },
+  {
+   "ref": "Serrano 2026",
+   "pmid": "34640406",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "amostra com transtorno por uso de substância (malha de escopo)",
+   "titulo": "Circadian Characteristics in Patients under Treatment for Substance Use Disorders and Severe Mental Illness (Schizophrenia, Major Depression and Bipolar Disorder)."
+  },
+  {
+   "ref": "Walker 2021",
+   "pmid": "34225967",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Disrupted circadian rhythms and mental health."
+  },
+  {
+   "ref": "Yeom 2024",
+   "pmid": "39757810",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "fronteira neurodegeneração/envelhecimento",
+   "titulo": "Managing Circadian Rhythms: A Key to Enhancing Mental Health in College Students."
+  },
+  {
+   "ref": "Boiko 2022",
+   "pmid": "34988815",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "malha metabólica/oncológica/infecciosa (BAIXO por escopo)",
+   "titulo": "Circadian rhythm disorder and anxiety as mental health complications in post-COVID-19."
+  },
+  {
+   "ref": "Astiz_2019",
+   "pmid": "30650649",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Mechanisms of Communication in the Mammalian Circadian Timing System."
+  },
+  {
+   "ref": "Spiga_2014_a",
+   "pmid": null,
+   "decisao": "EXC",
+   "bloco": null,
+   "tag": null,
+   "motivo": "NAO-IDX confirmado no PubMed (esearch DOI[aid]) → [G1] ou fonte não elegível",
+   "titulo": "10.1002/j.2040-4603.2014.tb00576.x"
+  },
+  {
+   "ref": "Burns_2023_NMH",
+   "pmid": null,
+   "decisao": "EXC",
+   "bloco": null,
+   "tag": null,
+   "motivo": "NAO-IDX confirmado no PubMed (esearch DOI[aid]) → [G1] ou fonte não elegível",
+   "titulo": "10.1038/s44220-023-00135-8"
+  },
+  {
+   "ref": "Mendoza_2024_NMH",
+   "pmid": null,
+   "decisao": "EXC",
+   "bloco": null,
+   "tag": null,
+   "motivo": "NAO-IDX confirmado no PubMed (esearch DOI[aid]) → [G1] ou fonte não elegível",
+   "titulo": "10.1038/s44220-024-00260-y"
+  },
+  {
+   "ref": "Sandate_2020",
+   "pmid": null,
+   "decisao": "EXC",
+   "bloco": null,
+   "tag": null,
+   "motivo": "NAO-IDX confirmado no PubMed (esearch DOI[aid]) → [G1] ou fonte não elegível",
+   "titulo": "10.1107/s0108767320098785"
+  },
+  {
+   "ref": "Palagini_2023_EurPsy",
+   "pmid": null,
+   "decisao": "EXC",
+   "bloco": null,
+   "tag": null,
+   "motivo": "NAO-IDX confirmado no PubMed (esearch DOI[aid]) → [G1] ou fonte não elegível",
+   "titulo": "10.1192/j.eurpsy.2023.830"
+  },
+  {
+   "ref": "Feng_2025",
+   "pmid": null,
+   "decisao": "EXC",
+   "bloco": null,
+   "tag": null,
+   "motivo": "NAO-IDX confirmado no PubMed (esearch DOI[aid]) → [G1] ou fonte não elegível",
+   "titulo": "10.3390/sym17091418"
+  },
+  {
+   "ref": "You_2024",
+   "pmid": null,
+   "decisao": "EXC",
+   "bloco": null,
+   "tag": null,
+   "motivo": "NAO-IDX confirmado no PubMed (esearch DOI[aid]) → [G1] ou fonte não elegível",
+   "titulo": "10.35986/me.2024.22.1.10"
+  },
+  {
+   "ref": "Cao_2025",
+   "pmid": null,
+   "decisao": "EXC",
+   "bloco": null,
+   "tag": null,
+   "motivo": "NAO-IDX confirmado no PubMed (esearch DOI[aid]) → [G1] ou fonte não elegível",
+   "titulo": "10.54254/2753-8818/2025.au22988"
+  },
+  {
+   "ref": "Takahashi_2016_chapter",
+   "pmid": "28892344",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "Molecular Architecture of the Circadian Clock in Mammals."
+  },
+  {
+   "ref": "Aydogan_2025",
+   "pmid": "40480635",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "SUP temático/CONTEXT — nenhum descarte por contrariar tese",
+   "titulo": "M54 selectively stabilizes the circadian clock component of CRY1 and enhances the period o"
+  },
+  {
+   "ref": "Gosztyla_2026",
+   "pmid": null,
+   "decisao": "EXC",
+   "bloco": null,
+   "tag": null,
+   "motivo": "NAO-IDX confirmado no PubMed (esearch DOI[aid]) → [G1] ou fonte não elegível",
+   "titulo": "10.31435/ijitss.2(50).2026.5381"
+  },
+  {
+   "ref": "Noweta_2026",
+   "pmid": null,
+   "decisao": "EXC",
+   "bloco": null,
+   "tag": null,
+   "motivo": "NAO-IDX confirmado no PubMed (esearch DOI[aid]) → [G1] ou fonte não elegível",
+   "titulo": "10.31435/ijitss.2(50).2026.5364"
+  },
+  {
+   "ref": "VanBeurden_2022",
+   "pmid": "36057093",
+   "decisao": "BAIXO",
+   "bloco": null,
+   "tag": null,
+   "motivo": "modelagem teórica (SUP básico)",
+   "titulo": "Single cell model for re-entrainment to a shifted light cycle."
+  },
+  {
+   "ref": "Burns 2024 (medRxiv, 39314956)",
+   "pmid": null,
+   "decisao": "EXC",
+   "bloco": null,
+   "tag": null,
+   "motivo": "preprint medRxiv indexado no PubMed — falso positivo do dossiê (âncora #33); não entra como evidência canônica"
+  },
+  {
+   "ref": "Murray 2016 (registro anexo)",
+   "pmid": null,
+   "decisao": "EXC",
+   "bloco": null,
+   "tag": null,
+   "motivo": "versão anterior não publicada do estudo DSPD; a versão publicada (Murray 2017) entra"
+  },
+  {
+   "ref": "Takahashi 2016 capítulo",
+   "pmid": null,
+   "decisao": "EXC",
+   "bloco": null,
+   "tag": null,
+   "motivo": "duplicata de registro do capítulo Handbook = Sassone-Corsi 2016 (BAIXO por redundância)"
+  }
+ ]
+}

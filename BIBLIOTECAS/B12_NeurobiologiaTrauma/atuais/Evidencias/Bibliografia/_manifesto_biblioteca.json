@@ -1,0 +1,81 @@
+{
+ "artefato_rotulo": "CANONICA v2",
+ "mecanismo_id": "mecanismo_B12_neurobiologia_trauma",
+ "rodada": 4,
+ "data_corte": "2026-09-09",
+ "prompt": "v4.2",
+ "pmids_total": 111,
+ "g1": {
+  "metodo": "eutils_automatico",
+  "resolvidos": 37
+ },
+ "g2": {
+  "eligible": 101,
+  "redirecionado_mecanistico": 10
+ },
+ "g3": {
+  "vinculos_n2": 111
+ },
+ "versao": "2.6",
+ "pipeline_versao_geracao": "2.6",
+ "corte_literatura": "E-utilities/PubMed 2026-09-09 (rodada [AT])",
+ "historico_correcoes": [
+  {
+   "data": "2026-09-06",
+   "campo": "geracao B12",
+   "correcao": "ciência completa das 9 vias; falsos positivos G1 rejeitados; listras entre submódulos",
+   "acao_downstream": "P-6"
+  },
+  {
+   "data": "2026-09-09",
+   "campo": "rodada [AT] GPM B12",
+   "correcao": "Reconciliação de insumo (36 âncoras+146) auditada ref a ref: ENTRA 74 / BAIXO ~55 / EXC malha. 12 chaves divergentes normalizadas com alias; PMIDs inválidos do insumo (Logue) documentados; TBI fora (regra 6); V1->V2; 46 citações re-costuradas; anos=print (Wingenfeld 2015, Janiri 2020, Nikkheslat 2020, Price 2020, Tian 2021, Wang 2022, Chavanne 2021, Fiksdal 2019, Tyagi 2026, Cheiran 2022).",
+   "acao_downstream": "P-6 ampliado p/ levas [AT] B1–B16"
+  }
+ ],
+ "pendencias_fase": [
+  "P-6 (2ª verificação cega, Via 2) pendente — cobre B1–B16 incluindo levas [AT]",
+  "ressalva de fase: citacao_literal de listras legadas — avisos não bloqueantes do framework"
+ ],
+ "fronteiras": {
+  "B2": "HPA/GR/FKBP5",
+  "B3": "BDNF/OTX2",
+  "B4": "LC-NE/5-HTTLPR",
+  "B5": "extinção vmPFC",
+  "B1": "microglia/citocinas",
+  "B10": "REM/extinção/pesadelas",
+  "B16": "neurogênese ver B16"
+ },
+ "alteracoes": [
+  {
+   "data": "2026-09-11",
+   "id": "HARMONIZA-CONTRATO-2026-09-11",
+   "tipo": "harmonizacao_vocabulario_contrato",
+   "o_que": "111 status (D1); 70 verification_status (D6); 3 âncoras AT-05; 1 → fila humana.",
+   "base": "DECISOES_HARMONIZACAO_SCHEMA_2026-09-11.md (D1–D9); trilhas producao/06_harmoniza_* e 07_ancoras_*; backups .bak datados; portões verdes"
+  },
+  {
+   "id": "DISTRIBUICAO-MOD09-MA-EC-2026-09-11",
+   "data": "2026-09-11",
+   "tipo": "metadado/reorganizacao_modulo_09 — CIENCIA NAO TOCADA (0 linhas de canônica)",
+   "lei_aplicada": "PROMPT v4.2 instrução final de geração: [MA]->02_meta_analises.json, [EC]->03_ensaios_clinicos.json; id único global (validar_auditoria.py) — distribuição especificada desde a geração, executada nesta data",
+   "mudancas": {
+    "fichas_removidas_de_01": 36,
+    "fichas_para_02_meta_analises": 36,
+    "fichas_para_03_ensaios_clinicos": 0,
+    "fichas_restantes_em_01": 75
+   },
+   "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+   "campos_de_dado_alterados": "NENHUM (id, pmid, título, achados intactos); somente casa do registro + campos de schema 09.2 (bloco_origem derivado de secao quando ausente, marcado; forca_evidencia_afirmacao replicado ou '' — vazio = dívida nomeada, nunca fabricado) + sinais_classificacao + migrado_em",
+   "dividas_nomeadas": [
+    "forca_evidencia_afirmacao vazio nas migradas sem valor prévio",
+    "conflitos tag×título [REVISAVEL]: 9",
+    "tag [EC] amplo sem sinal RCT — NÃO migrados (09.3 = RCT estrito), ratificação externa: 35"
+   ],
+   "trilha": "atuais/producao/09_distribuicao_MA_EC_B12_2026-09-11.json",
+   "changelog": "BIBLIOTECAS/CHANGELOG_GERAL.md 2026-09-11",
+   "consolidado_motor": "BIBLIOTECAS/MOTOR_CLINICO/ (evidencias_ma_serie.json, evidencias_ec_serie.json)",
+   "backups": "01/02/03*.bak_<AAAAMMDD_HHMMSS> na mesma pasta"
+  }
+ ]
+}

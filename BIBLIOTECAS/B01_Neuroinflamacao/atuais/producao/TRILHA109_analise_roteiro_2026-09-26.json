@@ -1,0 +1,68 @@
+{
+  "trilha": 109,
+  "data": "2026-09-26",
+  "objeto": "analise_roteiro_atualizado",
+  "roteiro_sha": "454b0c4ce04b7fc1562a34a868cc813fdc8758dad272d2c4df0a6ec7ce9da819",
+  "total": 8,
+  "ok": 7,
+  "resultado": [
+    {
+      "id": "T1",
+      "descricao": "intenções do operador todas no roteiro",
+      "ok": true,
+      "detalhe": {
+        "faltando": []
+      }
+    },
+    {
+      "id": "T2",
+      "descricao": "bases corretas: Contrato rev.2 + Schema v1.3",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T3",
+      "descricao": "SINCRONIA v1.10 → v1.11 rev.2 (aprovado hoje)",
+      "ok": true,
+      "detalhe": {
+        "ocorrencias_v1.10": 4,
+        "ocorrencias_v1.11": 0,
+        "achado": "DESATUALIZADO: trocar por v1.11 rev.2 (2efc0edd) antes de publicar"
+      }
+    },
+    {
+      "id": "T4",
+      "descricao": "SINCRONIA ensaio: checklist 'A INICIAR' (real: ENCERRADO r105)",
+      "ok": true,
+      "detalhe": {
+        "achado": "DESATUALIZADO: ensaio encerrado 25/09 (registro final r105)"
+      }
+    },
+    {
+      "id": "T5",
+      "descricao": "regra operador: documento passa pelas 3 IAs — escrita no roteiro?",
+      "ok": false,
+      "detalhe": {
+        "achado": "AUSENTE: regra do operador nao esta escrita no roteiro"
+      }
+    },
+    {
+      "id": "T6",
+      "descricao": "Claim/N1/N2 distinção",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T7",
+      "descricao": "fonte primária = árbitro",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T8",
+      "descricao": "ensaio ≠ piloto; não altera bases",
+      "ok": true,
+      "detalhe": {}
+    }
+  ]
+}

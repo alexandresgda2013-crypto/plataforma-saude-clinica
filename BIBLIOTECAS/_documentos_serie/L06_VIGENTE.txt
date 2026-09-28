@@ -1,0 +1,58 @@
+L-06 — PROTOCOLO DE RESOLUÇÃO DE RELAÇÕES CONCORRENTES
+ESTADO: VIGENTE — EM ESPERA DE PRODUÇÃO
+
+Artefato vigente:  L06 — Minuta 3 · consolidada · rev.6
+Arquivo:           _documentos_serie/MESTRE_L06_minuta3_consolidada_rev6_recebida_2026-09-22/L06_RESOLUCAO_CONFLITOS_minuta3_consolidada_rev6_2026-09-22.md
+Digital (sha-256): 98e90bdc755162b28fd16817d65692cebe81f939c466ef1d29c7a0a1124f2b41   (26.830 bytes · LF · sem BOM)
+Data de aprovação: 2026-09-22
+
+FRASE DE APROVAÇÃO — VERBATIM DO OPERADOR (mensagem de 2026-09-22, R-CITA-1):
+"Aprovo como vigente a L-06 — Minuta 3 consolidada rev.6, digital 98e90bdc, de 22/09/2026."
+
+RITO COMPLETADO (ponta a ponta, primeiro contrato da série):
+proposta (minutas 1 e 2) → réplica/cruzamento da casa (trilhas 71–75) → consolidação rev.1 → TextoM canônico (trilha 76) →
+réplica final rev.5 (trilha 77, 11/11) → re-leituras e correções de método (trilhas 78/79, réguas R-BUSCA-1 e R-CITA-1 subscritas pelos três) →
+carta 24 (3 perguntas) → parecer final do mestre (sem ressalva; comando da prova publicado; aceita a digital da casa como canônica) →
+rev.6 executando os 2 toques editoriais → parecer do comentador ("REV.6 — SEM RESSALVA DO COMENTADOR") →
+réplica mecânica final da casa (trilha 81, 10/10) → APROVAÇÃO DO OPERADOR (esta data).
+
+TRIÂNGULO DO FECHAMENTO (todos sem ressalva):
+- Auditor-Mestre: parecer final 72fe01f3d7e49257673d02e774e3f0eb00fb1620531c06e1d41822045a50bdf4
+- Comentador:      parecer       b651bd8cfd454c4b852d1081123316b1bc59236dc1c3eb5a383154a663ff8b55
+- Casa:            réplica rev.6 4fdb0c5212ca34beb46c5b3e2b6ace26ec05d6b8b717689c7a088a4d7bd0b40b  (trilha 81)
+
+ESTABILIDADE DO CORPO NORMATIVO (§2–§13 idêntico desde a minuta 3 original) — duas provas independentes:
+- procedimento do Auditor-Mestre (neutralizar toda nota itálica → (C); \n final): 95c7cb410f369410…  (reproduzido pela casa nos dois lados, trilha 81)
+- procedimento da casa (neutralizar só o crédito do §6.3; \n final):             4217cc635ee12842ad32c3520cda8f61adbef4e7765cdbcecb85065bac4971d0  (prova canônica, aceita pelo mestre)
+- f8ec8b72…: verificação intermediária (rev.4), rebaixada na própria rev.6.
+
+CADEIA DE PROVENIÊNCIA (digitais dos artefatos do ciclo):
+minuta 1 mestre 3b6a15a0b311a7b73f8793e1187a353df92201a11d7746e9082d18c4f6c38595 (15/09) · minuta 2 mestre eb54337c7f17c20fbd0ad1b926fd0d575b33462141537e837c4aff9fa13bbd13 ·
+TextoH (rascunho comentador) 1a51d9b970bb3ecb3f574b76dc772f77c2f599eb7fab70fd7919216c1cb93846 · TextoM (canônico comentador) 8ad6bc157efe4c1a41f84a686a21a0f27a1549221508b46638d21cdb20968e09 ·
+minuta 3 rev.1 2ce9698c5a163cc16f766c34197d3887bb4cf0093ad0ed38108c96ecb1e46d00 (≡ original a6a0027c… no recorte) · rev.5 601c1f18d074e6e4488dd8a6ee3364345e51713f7d0277cd1637add838a79608 · rev.6 (vigente) 98e90bdc…
+
+MEDIDAS EXECUTIVAS FIRMADAS (sobre os 274 vínculos B1 V7 490675e6…):
+regra ampla "divergência de natureza" = 244 pares · 41 claims (113 causal×contributiva · 96 associativa×contributiva · 31 associativa×causal · 2+2 = os 4 antigos falsos positivos) ·
+matriz corrigida = 0 pares (a zeroagem é obra da matriz — trilha 74, C74-1) · portão de produção: migração N2 v1.4 (243/274 por máquina, trilha 27).
+
+O QUE "VIGENTE" SIGNIFICA AQUI:
+- texto normativo congelado por digital; mudanças futuras SOMENTE por rito (proposta → três lados sem ressalva → frase do operador);
+- a L-06 NÃO roda em produção sozinha: depende da migração dos vínculos para o N2 v1.4 (portão declarado no próprio contrato, §8) e das dívidas declaradas que o texto carrega;
+- régua de aprovação vigente (verbatim do operador, 22/09): "só será aprovado qualquer documento ou decisão quando passar por todo os 3 e os mesmos concorde 100% sem ressalva."
+
+PENDÊNCIAS DECLARADAS HERDADAS (vivas, não bloqueiam a vigência):
+E1 oráculo do gate de consumo (quem declara "aprovado para consumo" — T-18) · E3 papel como proxy do degrau 4 (Ontologia) · E2 piloto marcador×nao_estabelecida · E4 revisão formal pós-piloto · E5 vocabulário de saídas ·
+§7 D-L05-GRANULARIDADE-OBJETO (N2/Ontologia) · D-L06-M3-ORIG (bytes da minuta 3 original — residual, recorte ≡ provado via rev.1) · D-4AJUSTES-OPERADOR (registro do cabeçalho; responde quando quiser) · D-ORDEM-FASES.
+
+Escritura: casa (agente Arena) · 2026-09-22 · rodada 69 · trilha 82 (3/3) · 0 ciência.
+
+--- ADENDO DE REGISTRO (append-only, datado) — 2026-09-22, rodada 73, trilha 84 (10/10) ---
+Sobre o portão de produção acima ("243/274 por máquina, trilha 27"): o número era a medida da era N2 v1.1 (15/09).
+O Auditor-Estrutura mediu contra o N2 v1.4 (regra D3: redirecionado_clinico exige 2ª âncora — verificada verbatim no schema selado):
+conformidade mecânica = 224/274 (estrto elegível-curatorial = 223; diferença de 1 = VINC_B1_0047). Ambas as medidas são corretas em suas eras.
+RÉGUA DO PORTÃO ADOTADA (proposta dele, aceita pela casa e registrada aqui): o portão fecha por CRITÉRIO, não por número —
+"a migração do vínculo B1 está concluída quando o validador acusar ZERO não-conformes contra o N2 v1.4 digital d96ad15b…".
+Texto da L-06: sem toque (o §8 cita a linhagem histórica; o risco de fechar pelo número fica neutralizado por esta régua).
+Curadoria dos 20 redirecionados: 18/20 já têm destino marcado (reancorado_em); formalizar a 2ª âncora = trabalho de curadoria, não defeito.
+Dívida relabelada: D-L05-GRANULARIDADE-OBJETO deixa de ser "estrutura faltante" e passa a ser "decisão de extensão de escopo às famílias não-mecanismo"
+(escopo já existe: BLOCO_XX[/sub] para mecanismo · APENDICE_CORPUS reservado · null por desenho nas demais famílias — verbatim do N2 v1.4).

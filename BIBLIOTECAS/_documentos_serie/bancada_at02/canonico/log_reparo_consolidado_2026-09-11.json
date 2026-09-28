@@ -1,0 +1,170 @@
+{
+ "data": "2026-09-11",
+ "etapas": {
+  "a_canonica_virtanen": {
+   "sha256_antes": "8b9fe0e6d5f89e986e9ac8a581a91c7c399f7359e92e9f7543054437b8182ce5",
+   "sha256_depois": "cd138f01055d49d003f3b630afcfad428528dccda1fff31e9e00145c13a42ca9",
+   "mudanca": "' — IL-6 predictor, 2015)' → '; Virtanen et al., 2015)'",
+   "ocorrencias": 1,
+   "justificativa": "rótulo de estudo (título abreviado) no lugar de citação nominal; fonte: 01_pmids.json REF_VIRTANEN_2015"
+  },
+  "b_at13": [
+   {
+    "id_vinculo": "VINC_B1_0095",
+    "ref": "REF_ZHANG_2024",
+    "antes": "### 4.3 — Sinalização purinérgica P2X7/P2Y12 e estresse microglial (BLOCO04.003) A comunicação micróglia–neurônio por ATP tem mecanismo direto ligado a depressão: a crença padrão era que ATP extracelular → P2X7 → montagem do NLRP3; um achado mais fino mostra que o ATP e o estresse aumentam contatos retículo-mitocôndria (MAMs) na micróglia, e essa plataforma media o comportamento tipo-depressivo (Augmented microglial ER-mitochondria contacts mediate depression-like behavior, 2024)[ML; camundongo].",
+    "depois": "A comunicação micróglia–neurônio por ATP tem mecanismo direto ligado a depressão: a crença padrão era que ATP extracelular → P2X7 → montagem do NLRP3; um achado mais fino mostra que o ATP e o estresse aumentam **contatos retículo-mitocôndria (MAMs)** na micróglia, e essa plataforma media o comportamento tipo-depressivo (Zhang et al., 2024)[ML; camundongo] [PRÉ-CLÍNICO]."
+   },
+   {
+    "id_vinculo": "VINC_B1_0121",
+    "ref": "REF_ARORA_2019",
+    "antes": "S100B sérico: proteína glial (astrócito) usada como marcador de integridade da BHE/dano glial; níveis séricos elevados são relatados em depressão (Serum S100B in depression, 2019)[OB; humano] e propostos como marcador substituto em burnout/depressão (S100B surrogate burnout/depression, 2016)[EC; humano].",
+    "depois": "S100B sérico:** proteína glial (astrócito) usada como marcador de integridade da BHE/dano glial; níveis séricos elevados são relatados em depressão (Arora et al., 2019)[OB; humano] e propostos como marcador substituto em burnout/depressão (Gulen et al., 2016)[EC; humano] [VERIFICADO]."
+   },
+   {
+    "id_vinculo": "VINC_B1_0122",
+    "ref": "REF_GULEN_2016",
+    "antes": "### 5.5 — Biomarcadores secundários: S100B, neopterina, LBP, resolvina D1 (BLOCO05.005) - S100B sérico: proteína glial (astrócito) usada como marcador de integridade da BHE/dano glial; níveis séricos elevados são relatados em depressão (Serum S100B in depression, 2019)[OB; humano] e propostos como marcador substituto em burnout/depressão (S100B surrogate burnout/depression, 2016)[EC; humano].",
+    "depois": "S100B sérico:** proteína glial (astrócito) usada como marcador de integridade da BHE/dano glial; níveis séricos elevados são relatados em depressão (Arora et al., 2019)[OB; humano] e propostos como marcador substituto em burnout/depressão (Gulen et al., 2016)[EC; humano] [VERIFICADO]."
+   }
+  ],
+  "c_vinc0130": {
+   "antes": "### 6.2 — Gradiente de severidade: dose-resposta biológica (BLOCO06.002) Existe relação entre magnitude da ativação inflamatória e intensidade/alcance do sintoma: níveis mais altos de marcadores associam-se a sintomas mais graves e a pior resolução (IL-6 baixa prediz melhor resolução de sintomas em sofrimento psicológico — IL-6 predictor, 2015)[EC; humano][VERIFICADO].",
+   "depois": "Existe relação entre magnitude da ativação inflamatória e intensidade/alcance do sintoma: níveis mais altos de marcadores associam-se a sintomas mais graves e a pior resolução (IL-6 baixa prediz melhor resolução de sintomas em sofrimento psicológico; Virtanen et al., 2015)[EC; humano] [VERIFICADO]."
+  },
+  "d_at02c_trims": [
+   {
+    "id_vinculo": "VINC_B1_0019",
+    "antes": "### 2.2 — Outros inflamassomas no SNC: NLRP1, AIM2, NLRC4 (BLOCO02.002) Os inflamassomas são complexos supramoleculares ",
+    "depois": "Os inflamassomas são complexos supramoleculares citosólicos que respondem a PAMPs/DAMPs e desencadeiam liberação de cito"
+   },
+   {
+    "id_vinculo": "VINC_B1_0034",
+    "antes": "### 2.10 — Via da quinurenina: bifurcação celular e enzimas (BLOCO02.010) O triptofano é desviado da serotonina para a v",
+    "depois": "O triptofano é desviado da serotonina para a via da quinurenina por ação de IDO1 (induzida por citocinas/IFN-γ), IDO2 e "
+   },
+   {
+    "id_vinculo": "VINC_B1_0046",
+    "antes": "### 2.16 — JAK-STAT e interferon: o paradigma causal humano (BLOCO02.016) IFN tipo I (IFN-α/β via IFNAR) e tipo II (IFN-",
+    "depois": "IFN tipo I (IFN-α/β via IFNAR) e tipo II (IFN-γ via IFNGR) sinalizam por JAK1/JAK2/TYK2 → STAT1/STAT2 → genes estimulado"
+   },
+   {
+    "id_vinculo": "VINC_B1_0056",
+    "antes": "### 2.21 — Metilação de IL6/TNF e direção de expressão (BLOCO02.021) Em cérebro humano pós-morte, a regulação da express",
+    "depois": "Em cérebro humano pós-morte, a regulação da expressão de TNF-α envolve chaveamento epigenético complexo: no córtex pré-f"
+   },
+   {
+    "id_vinculo": "VINC_B1_0064",
+    "antes": "### 3.2 — TNF-α e plasticidade sináptica (BLOCO03.002) O TNF tem papel fisiológico na plasticidade hebbiana e homeostáti",
+    "depois": "O TNF tem papel fisiológico na plasticidade hebbiana e homeostática (escala de força sináptica) e patológico quando elev"
+   },
+   {
+    "id_vinculo": "VINC_B1_0068",
+    "antes": "### 3.4 — TGF-β1 como freio glial (BLOCO03.004) TGF-β1 é citocina imunorreguladora; níveis reduzidos são relatados tanto",
+    "depois": "TGF-β1 é citocina imunorreguladora; níveis reduzidos são relatados tanto em Alzheimer quanto em depressão, e a via é pro"
+   },
+   {
+    "id_vinculo": "VINC_B1_0098",
+    "antes": "### 4.5 — Nervo vago como via periferia→SNC (BLOCO04.005) O nervo vago (80% fibras aferentes) detecta metabólitos da mic",
+    "depois": "O nervo vago (80% fibras aferentes) detecta metabólitos da microbiota e sinais inflamatórios periféricos e os conduz ao "
+   },
+   {
+    "id_vinculo": "VINC_B1_0105",
+    "antes": "### 4.8 — Portas de entrada sem BHE: linfa meníngea, plexo coroide, glinfática (BLOCO04.010) O SNC drena pela glinfática",
+    "depois": "O SNC drena pela glinfática e por vasos linfáticos meníngeos, que afetam a resposta microglial e a imunoterapia (Da et a"
+   },
+   {
+    "id_vinculo": "VINC_B1_0106",
+    "antes": "### 4.8 — Portas de entrada sem BHE: linfa meníngea, plexo coroide, glinfática (BLOCO04.010) O SNC drena pela glinfática",
+    "depois": "O SNC drena pela glinfática e por vasos linfáticos meníngeos, que afetam a resposta microglial e a imunoterapia (Da et a"
+   },
+   {
+    "id_vinculo": "VINC_B1_0123",
+    "antes": "### 5.6 — Biomarcadores centrais no líquor e pós-morte (BLOCO05.006) No SNC, o achado mais forte é o ácido quinolínico m",
+    "depois": "No SNC, o achado mais forte é o ácido quinolínico microglial: depressão grave associa-se a QUIN elevado em subregiões do"
+   },
+   {
+    "id_vinculo": "VINC_B1_0125",
+    "antes": "### 5.7 — Neuroimagem complementar: conectividade, MRS (mio-inositol), volume hipocampal (BLOCO05.007) Além do TSPO-PET,",
+    "depois": "Além do TSPO-PET, três camadas de imagem complementam o quadro: conectividade funcional córtico-estriatal e cortico-límb"
+   },
+   {
+    "id_vinculo": "VINC_B1_0143",
+    "antes": "### 8.1 — B1→B2: resistência a glicocorticoides (NF-κB/GR/FKBP5) (BLOCO08.001) O glicocorticoide ativado (GR) reprime po",
+    "depois": "O glicocorticoide ativado (GR) reprime potemente a inflamação de macrófagos; análise genômica mostra que o GR reprime ge"
+   },
+   {
+    "id_vinculo": "VINC_B1_0145",
+    "antes": "### 8.2 — B1→B3: citocinas suprimem BDNF/CREB e complemento faz poda (BLOCO08.002, 003) IL-1β/TNF suprimem BDNF/TrkB/CRE",
+    "depois": "IL-1β/TNF suprimem BDNF/TrkB/CREB (ver BLOCO03.001/002; IL-1β reduz mRNA de BDNF hipocampal, 1993)[ML][PRÉ-CLÍNICO]."
+   },
+   {
+    "id_vinculo": "VINC_B1_0150",
+    "antes": "### 8.4 — B1↔B7: LPS-TLR4 periférico e translocação (BLOCO08.005) Estresse psicológico compromete a barreira intestinal,",
+    "depois": "Estresse psicológico compromete a barreira intestinal, permitindo translocação bacteriana (LPS) que ativa TLR4 periféric"
+   },
+   {
+    "id_vinculo": "VINC_B1_0151",
+    "antes": "### 8.4 — B1↔B7: LPS-TLR4 periférico e translocação (BLOCO08.005) Estresse psicológico compromete a barreira intestinal,",
+    "depois": "Estresse psicológico compromete a barreira intestinal, permitindo translocação bacteriana (LPS) que ativa TLR4 periféric"
+   },
+   {
+    "id_vinculo": "VINC_B1_0154",
+    "antes": "### 8.8 — B1→B10: sono, relógio e NLRP3 (BLOCO08.010) Privação de sono eleva IL-6/TNF/PCR: privação aguda de sono exacer",
+    "depois": "Privação de sono eleva IL-6/TNF/PCR: privação aguda de sono exacerba inflamação sistêmica e distúrbios psiquiátricos (Ya"
+   },
+   {
+    "id_vinculo": "VINC_B1_0155",
+    "antes": "### 8.8 — B1→B10: sono, relógio e NLRP3 (BLOCO08.010) Privação de sono eleva IL-6/TNF/PCR: privação aguda de sono exacer",
+    "depois": "Privação de sono eleva IL-6/TNF/PCR: privação aguda de sono exacerba inflamação sistêmica e distúrbios psiquiátricos (Ya"
+   },
+   {
+    "id_vinculo": "VINC_B1_0156",
+    "antes": "### 8.9 — B1→B11: desiodase tipo 2 (D2) e tireoide (BLOCO08.011) LPS induz a desiodase tipo 2 (D2) em tanicitos do hipot",
+    "depois": "LPS induz a desiodase tipo 2 (D2) em tanicitos do hipotálamo mediobasal — a principal enzima que converte T4 em T3 ativo"
+   },
+   {
+    "id_vinculo": "VINC_B1_0157",
+    "antes": "### 8.9 — B1→B11: desiodase tipo 2 (D2) e tireoide (BLOCO08.011) LPS induz a desiodase tipo 2 (D2) em tanicitos do hipot",
+    "depois": "LPS induz a desiodase tipo 2 (D2) em tanicitos do hipotálamo mediobasal — a principal enzima que converte T4 em T3 ativo"
+   },
+   {
+    "id_vinculo": "VINC_B1_0158",
+    "antes": "### 8.10 — B1→B12: trauma precoce, FKBP5 e priming (BLOCO08.012) Adversidade na infância faz priming microglial e marca ",
+    "depois": "Adversidade na infância faz priming microglial e marca FKBP5: desmetilação alelo-específica dependente de trauma (Klenge"
+   },
+   {
+    "id_vinculo": "VINC_B1_0159",
+    "antes": "### 8.10 — B1→B12: trauma precoce, FKBP5 e priming (BLOCO08.012) Adversidade na infância faz priming microglial e marca ",
+    "depois": "Adversidade na infância faz priming microglial e marca FKBP5: desmetilação alelo-específica dependente de trauma (Klenge"
+   },
+   {
+    "id_vinculo": "VINC_B1_0160",
+    "antes": "### 8.12 — B1→B14: esteroides neuroativos (alopregnanolona, estrogênio) (BLOCO08.014) Alopregnanolona tem efeito anti-in",
+    "depois": "Alopregnanolona tem efeito anti-inflamatório microglial, e estrogênio/17β-estradiol derivado do cérebro (BDE2) modula at"
+   },
+   {
+    "id_vinculo": "VINC_B1_0168",
+    "antes": "### 10.2 — IL-1β e TNF-α suprimindo proliferação/sobrevivência de NSC (BLOCO10.002) IL-1 é regulador central da resposta",
+    "depois": "IL-1 é regulador central da resposta de estresse e da função neural (Goshen et al., 2009)[OB; revisão, humano+animal][VE"
+   },
+   {
+    "id_vinculo": "VINC_B1_0172",
+    "antes": "### 11.1 — Substrato mecanístico do subtipo \"depressão inflamatória\" (BLOCO11.001) Aproximadamente 27% dos pacientes com",
+    "depois": "Aproximadamente 27% dos pacientes com depressão apresentam PCR-us elevada (acima do limiar de inflamação de baixo grau d"
+   }
+  ],
+  "e_tags_pipeline_151": 128
+ },
+ "verificacao_final": {
+  "status": {
+   "LITERAL": 257
+  },
+  "nao_literais": [],
+  "com_cabecalho": [
+   "VINC_B1_0141",
+   "VINC_B1_0142"
+  ]
+ },
+ "erros_guardas": []
+}

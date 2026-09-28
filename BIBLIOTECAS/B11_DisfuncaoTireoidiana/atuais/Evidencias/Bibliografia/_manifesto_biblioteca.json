@@ -1,0 +1,86 @@
+{
+ "artefato_rotulo": "CANONICA v2",
+ "mecanismo_id": "mecanismo_B11_disfuncao_tireoidiana",
+ "rodada": 4,
+ "data_corte": "2026-09-09",
+ "prompt": "v4.2",
+ "pmids_total": 96,
+ "g1": {
+  "metodo": "eutils_automatico",
+  "resolvidos": 30
+ },
+ "g2": {
+  "eligible": 76,
+  "redirecionado_mecanistico": 10
+ },
+ "g3": {
+  "vinculos_n2": 96
+ },
+ "versao": "2.6",
+ "pipeline_versao_geracao": "2.6",
+ "corte_literatura": "E-utilities/PubMed 2026-09-09 (rodada [AT])",
+ "historico_correcoes": [
+  {
+   "data": "2026-09-06",
+   "campo": "geracao B11",
+   "correcao": "listras entre submódulos (padrão B1); 30 refs G1; falsos positivos rejeitados",
+   "acao_downstream": "P-6"
+  },
+  {
+   "data": "2026-09-06",
+   "campo": "GPM completo",
+   "erro_anterior": "GPM truncado (só módulos 00-05)",
+   "correcao": "adicionados módulos 06-10 (relação em U, TRUST negativo, ansiedade inconclusiva, subtipos F1-F8); +10 refs; gate check_gpm_completo criado",
+   "acao_downstream": "P-6"
+  },
+  {
+   "data": "2026-09-09",
+   "campo": "rodada [AT] GPM B11",
+   "correcao": "Reconciliação de insumo externo (RODADA0+GPM+matriz ChatGPT) auditada ref a ref: ENTRA 56 / BAIXO 41 / EXC 11 grupos. Roca 1990 real localizado (era mapeado a Romero-Gómez 2019); correção editorial de Soheili 2023 como metadado; Ao/Eckert/Kirnap fora da malha expostos; Toma 2026 tema corrigido; 'Watanave 2018' mantido [G1]. 27 citações legadas re-costuradas (higiene).",
+   "acao_downstream": "P-6 ampliado p/ cobrir levas [AT] B1–B16"
+  }
+ ],
+ "pendencias_fase": [
+  "P-6 (2ª verificação cega, Via 2) pendente — cobre B1–B16 incluindo todas as levas [AT]",
+  "ressalva de fase: listras legadas com citacao_literal no formato listra — avisos não bloqueantes do framework"
+ ],
+ "fronteiras": {
+  "B4": "5-HT/dopamina",
+  "B3": "BDNF/neurogênese",
+  "B5": "interneurônios GABA",
+  "B2": "T3+glicocorticoide",
+  "B10": "TSH rítmico"
+ },
+ "alteracoes": [
+  {
+   "data": "2026-09-11",
+   "id": "HARMONIZA-CONTRATO-2026-09-11",
+   "tipo": "harmonizacao_vocabulario_contrato",
+   "o_que": "96 status (D1); 56 verification_status campo-trocado→verificado (D6). Residual: ids (D9).",
+   "base": "DECISOES_HARMONIZACAO_SCHEMA_2026-09-11.md (D1–D9); trilhas producao/06_harmoniza_* e 07_ancoras_*; backups .bak datados; portões verdes"
+  },
+  {
+   "id": "DISTRIBUICAO-MOD09-MA-EC-2026-09-11",
+   "data": "2026-09-11",
+   "tipo": "metadado/reorganizacao_modulo_09 — CIENCIA NAO TOCADA (0 linhas de canônica)",
+   "lei_aplicada": "PROMPT v4.2 instrução final de geração: [MA]->02_meta_analises.json, [EC]->03_ensaios_clinicos.json; id único global (validar_auditoria.py) — distribuição especificada desde a geração, executada nesta data",
+   "mudancas": {
+    "fichas_removidas_de_01": 10,
+    "fichas_para_02_meta_analises": 8,
+    "fichas_para_03_ensaios_clinicos": 2,
+    "fichas_restantes_em_01": 86
+   },
+   "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+   "campos_de_dado_alterados": "NENHUM (id, pmid, título, achados intactos); somente casa do registro + campos de schema 09.2 (bloco_origem derivado de secao quando ausente, marcado; forca_evidencia_afirmacao replicado ou '' — vazio = dívida nomeada, nunca fabricado) + sinais_classificacao + migrado_em",
+   "dividas_nomeadas": [
+    "forca_evidencia_afirmacao vazio nas migradas sem valor prévio",
+    "conflitos tag×título [REVISAVEL]: 3",
+    "tag [EC] amplo sem sinal RCT — NÃO migrados (09.3 = RCT estrito), ratificação externa: 60"
+   ],
+   "trilha": "atuais/producao/09_distribuicao_MA_EC_B11_2026-09-11.json",
+   "changelog": "BIBLIOTECAS/CHANGELOG_GERAL.md 2026-09-11",
+   "consolidado_motor": "BIBLIOTECAS/MOTOR_CLINICO/ (evidencias_ma_serie.json, evidencias_ec_serie.json)",
+   "backups": "01/02/03*.bak_<AAAAMMDD_HHMMSS> na mesma pasta"
+  }
+ ]
+}

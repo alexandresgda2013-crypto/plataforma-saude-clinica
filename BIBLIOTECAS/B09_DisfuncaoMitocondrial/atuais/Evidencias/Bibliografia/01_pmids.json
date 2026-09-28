@@ -1,0 +1,4223 @@
+[
+ {
+  "pmid_oficial": "11182537",
+  "titulo_artigo": "Glutathione depletion, lipid peroxidation and mitochondrial dysfunction are induced by chronic stress in rat brain",
+  "autores": [
+   "Madrigal JL",
+   "Olivenza R",
+   "Moro MA",
+   "Lizasoain I",
+   "Lorenzo P",
+   "Rodrigo J"
+  ],
+  "revista_ano": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology (2001)",
+  "desenho_estudo": "[ML] GSH/estresse crônico (Madrigal 2001)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "animal clássico; estresse crônico depleta GSH/peroxida/mitocôndria",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula; tradução humana por analogia [EXT]",
+  "ids_referencia_interna": [
+   "REF_MADRIGAL_2001"
+  ],
+  "id_referencia_interna": "REF_MADRIGAL_2001",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/célula — causalidade forte pré-clínica; humana associativa",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Madrigal",
+   "MADRIGAL"
+  ]
+ },
+ {
+  "pmid_oficial": "14993118",
+  "titulo_artigo": "Molecular evidence for mitochondrial dysfunction in bipolar disorder",
+  "autores": [
+   "Konradi C",
+   "Eaton M",
+   "MacDonald ML",
+   "Walsh J",
+   "Benes FM",
+   "Heckers S"
+  ],
+  "revista_ano": "Archives of general psychiatry (2004)",
+  "desenho_estudo": "[EC] pós-morte bipolar (Konradi 2004)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "post_mortem bipolar; supressão OXPHOS hipocampo; associativo",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_KONRADI_2004"
+  ],
+  "id_referencia_interna": "REF_KONRADI_2004",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano (pós-morte/funcional/revisão); transversal/associativo quando marcador",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "KONRADI",
+   "Konradi"
+  ]
+ },
+ {
+  "pmid_oficial": "18989376",
+  "titulo_artigo": "Neuroanatomical pattern of mitochondrial complex I pathology varies between schizophrenia, bipolar disorder and major depression",
+  "autores": [
+   "Ben-Shachar D",
+   "Karry R"
+  ],
+  "revista_ano": "PloS one (2008)",
+  "desenho_estudo": "[EC] pós-morte complexo I (Ben-Shachar 2008)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "pós-morte; padrão do complexo I varia por doença/região",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BENSHACHAR_2008"
+  ],
+  "id_referencia_interna": "REF_BENSHACHAR_2008",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano (pós-morte/funcional/revisão); transversal/associativo quando marcador",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "BENSHACHAR",
+   "Benshachar"
+  ]
+ },
+ {
+  "pmid_oficial": "20176368",
+  "titulo_artigo": "Impairment of the mitochondrial electron transport chain due to sleep deprivation in mice",
+  "autores": [
+   "Andreazza AC",
+   "Andersen ML",
+   "Alvarenga TA",
+   "de-Oliveira MR",
+   "Armani F",
+   "Ruiz FS"
+  ],
+  "revista_ano": "Journal of psychiatric research (2010)",
+  "desenho_estudo": "[EC] pós-morte ETC (Andreazza 2010)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "pós-morte; dano ETC/oxidativo bipolar (CPrF)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ANDREAZZA_2010"
+  ],
+  "id_referencia_interna": "REF_ANDREAZZA_2010",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano (pós-morte/funcional/revisão); transversal/associativo quando marcador",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "ANDREAZZA",
+   "Andreazza"
+  ]
+ },
+ {
+  "pmid_oficial": "23355257",
+  "titulo_artigo": "Mitochondrial DNA (mtDNA) in brain samples from patients with major psychiatric disorders: gene expression profiles, mtDNA content and presence of the mtDNA common deletion",
+  "autores": [
+   "Torrell H",
+   "Montaña E",
+   "Abasolo N",
+   "Roig B",
+   "Gaviria AM",
+   "Vilella E"
+  ],
+  "revista_ano": "American journal of medical genetics. Part B, Neuropsychiatric genetics : the official publication of the International Society of Psychiatric Genetics (2013)",
+  "desenho_estudo": "[EC] mtDNA cérebro pós-morte (Torrell 2013)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "mtDNA em amostras cerebrais (pós-morte) de deprimidos",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_TORRELL_2013"
+  ],
+  "id_referencia_interna": "REF_TORRELL_2013",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano (pós-morte/funcional/revisão); transversal/associativo quando marcador",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Torrell",
+   "TORRELL"
+  ]
+ },
+ {
+  "pmid_oficial": "24513871",
+  "titulo_artigo": "NLRP3 inflammasome is activated in mononuclear blood cells from patients with major depressive disorder",
+  "autores": [
+   "Alcocer-Gómez E",
+   "de Miguel M",
+   "Casas-Barquero N",
+   "Núñez-Vasco J",
+   "Sánchez-Alcazar JA",
+   "Fernández-Rodríguez A"
+  ],
+  "revista_ano": "Brain, behavior, and immunity (2014)",
+  "desenho_estudo": "[EC] NLRP3 sangue TDM (Alcocer-Gómez 2014)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "NLRP3 ativo em mononucleares de sangue de TDM",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ALCOCERGOMEZ_2014"
+  ],
+  "id_referencia_interna": "REF_ALCOCERGOMEZ_2014",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano (pós-morte/funcional/revisão); transversal/associativo quando marcador",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Alcocergomez",
+   "ALCOCERGOMEZ"
+  ]
+ },
+ {
+  "pmid_oficial": "25206677",
+  "titulo_artigo": "Control mechanisms in mitochondrial oxidative phosphorylation",
+  "autores": [
+   "Hroudová J",
+   "Fišar Z"
+  ],
+  "revista_ano": "Neural regeneration research (2013)",
+  "desenho_estudo": "[EC] respirometria plaqueta (Hroudová 2013)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "plaquetas; respiração/capacidade máximas reduzidas (até remissão parcial)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_HROUDOVA_2013"
+  ],
+  "id_referencia_interna": "REF_HROUDOVA_2013",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano (pós-morte/funcional/revisão); transversal/associativo quando marcador",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "HROUDOVA",
+   "Hroudova"
+  ]
+ },
+ {
+  "pmid_oficial": "26126180",
+  "titulo_artigo": "Mitochondrial respiration in peripheral blood mononuclear cells correlates with depressive subsymptoms and severity of major depression",
+  "autores": [
+   "Karabatsiakis A",
+   "Böck C",
+   "Salinas-Manrique J",
+   "Kolassa S",
+   "Calzia E",
+   "Dietrich DE"
+  ],
+  "revista_ano": "Translational psychiatry (2014)",
+  "desenho_estudo": "[EC] respirometria PBMC (Karabatsiakis 2014)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "PBMC; respiração basal/reserva/turnover ATP reduzidos na TDM",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_KARABATSIAKIS_2014"
+  ],
+  "id_referencia_interna": "REF_KARABATSIAKIS_2014",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano (pós-morte/funcional/revisão); transversal/associativo quando marcador",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "KARABATSIAKIS",
+   "Karabatsiakis"
+  ]
+ },
+ {
+  "pmid_oficial": "26923778",
+  "titulo_artigo": "Mitochondrial Dysfunction in Depression",
+  "autores": [
+   "Bansal Y",
+   "Kuhad A"
+  ],
+  "revista_ano": "Current neuropharmacology (2016)",
+  "desenho_estudo": "[OB] disfunção mitocondrial TDM (Bansal 2016)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "revisão disfunção mitocondrial na depressão (neurobioenergética)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BANSAL_2016"
+  ],
+  "id_referencia_interna": "REF_BANSAL_2016",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano (pós-morte/funcional/revisão); transversal/associativo quando marcador",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Bansal",
+   "BANSAL"
+  ]
+ },
+ {
+  "pmid_oficial": "30191781",
+  "titulo_artigo": "Peroxisome proliferator-activated receptor gamma co-activator-1 alpha in depression and the response to electroconvulsive therapy",
+  "autores": [
+   "Ryan KM",
+   "Patterson I",
+   "McLoughlin DM"
+  ],
+  "revista_ano": "Psychological medicine (2019)",
+  "desenho_estudo": "[EC] PGC-1α/ECT (Ryan 2019)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "PGC-1α sanguíneo associado a sintomas/resposta à ECT",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_RYAN_2019"
+  ],
+  "id_referencia_interna": "REF_RYAN_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano (pós-morte/funcional/revisão); transversal/associativo quando marcador",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "RYAN",
+   "Ryan"
+  ]
+ },
+ {
+  "pmid_oficial": "31072928",
+  "titulo_artigo": "Serotonin regulates mitochondrial biogenesis and function in rodent cortical neurons via the 5-HT(2A) receptor and SIRT1-PGC-1α axis",
+  "autores": [
+   "Fanibunda SE",
+   "Deb S",
+   "Maniyadath B",
+   "Tiwari P",
+   "Ghai U",
+   "Gupta S"
+  ],
+  "revista_ano": "Proceedings of the National Academy of Sciences of the United States of America (2019)",
+  "desenho_estudo": "[ML] 5-HT/biogênese (Fanibunda 2019)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "célula/animal; 5-HT→5-HT2A→SIRT1-PGC1α biogênese",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula; tradução humana por analogia [EXT]",
+  "ids_referencia_interna": [
+   "REF_FANIBUNDA_2019"
+  ],
+  "id_referencia_interna": "REF_FANIBUNDA_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/célula — causalidade forte pré-clínica; humana associativa",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "FANIBUNDA",
+   "Fanibunda"
+  ]
+ },
+ {
+  "pmid_oficial": "31362874",
+  "titulo_artigo": "Anxiety and Brain Mitochondria: A Bidirectional Crosstalk",
+  "autores": [
+   "Filiou MD",
+   "Sandi C"
+  ],
+  "revista_ano": "Trends in neurosciences (2019)",
+  "desenho_estudo": "[OB] ansiedade-mitocôndria (Filiou 2019)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "revisão ansiedade × mitocôndrias cerebrais (crosstalk bidirecional)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_FILIOU_2019"
+  ],
+  "id_referencia_interna": "REF_FILIOU_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano (pós-morte/funcional/revisão); transversal/associativo quando marcador",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "FILIOU",
+   "Filiou"
+  ]
+ },
+ {
+  "pmid_oficial": "32651001",
+  "titulo_artigo": "The social nature of mitochondria: Implications for human health",
+  "autores": [
+   "Picard M",
+   "Sandi C"
+  ],
+  "revista_ano": "Neuroscience and biobehavioral reviews (2021)",
+  "desenho_estudo": "[OB] mitocôndria social (Picard 2021)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "natureza social das mitocôndrias (comportamento/saúde)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_PICARD_2021"
+  ],
+  "id_referencia_interna": "REF_PICARD_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano (pós-morte/funcional/revisão); transversal/associativo quando marcador",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "PICARD",
+   "Picard"
+  ]
+ },
+ {
+  "pmid_oficial": "33583561",
+  "titulo_artigo": "Mitofusin-2 in the Nucleus Accumbens Regulates Anxiety and Depression-like Behaviors Through Mitochondrial and Neuronal Actions",
+  "autores": [
+   "Gebara E",
+   "Zanoletti O",
+   "Ghosal S",
+   "Grosse J",
+   "Schneider BL",
+   "Knott G"
+  ],
+  "revista_ano": "Biological psychiatry (2021)",
+  "desenho_estudo": "[ML] MFN2 NAc ansiedade (Gebara 2020)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "animal; MFN2 no NAc reverte ansiedade/depressão; causal",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula; tradução humana por analogia [EXT]",
+  "ids_referencia_interna": [
+   "REF_GEBARA_2020"
+  ],
+  "id_referencia_interna": "REF_GEBARA_2020",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/célula — causalidade forte pré-clínica; humana associativa",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Gebara",
+   "gebara",
+   "GEBARA"
+  ]
+ },
+ {
+  "pmid_oficial": "34650203",
+  "titulo_artigo": "Dysregulation of mitochondrial dynamics, mitophagy and apoptosis in major depressive disorder: Does inflammation play a role?",
+  "autores": [
+   "Scaini G",
+   "Mason BL",
+   "Diaz AP",
+   "Jha MK",
+   "Soares JC",
+   "Trivedi MH"
+  ],
+  "revista_ano": "Molecular psychiatry (2022)",
+  "desenho_estudo": "[EC] dinâmica/mitofagia sangue (Scaini 2021)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "dinâmica/mitofagia periférica (Mfn2/Fis1/PINK1/parkin) na TDM; CRP",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SCAINI_2021"
+  ],
+  "id_referencia_interna": "REF_SCAINI_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano (pós-morte/funcional/revisão); transversal/associativo quando marcador",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Scaini",
+   "scaini",
+   "SCAINI"
+  ]
+ },
+ {
+  "pmid_oficial": "34789750",
+  "titulo_artigo": "Blood-based mitochondrial respiratory chain function in major depression",
+  "autores": [
+   "Fernström J",
+   "Mellon SH",
+   "McGill MA",
+   "Picard M",
+   "Reus VI",
+   "Hough CM"
+  ],
+  "revista_ano": "Translational psychiatry (2021)",
+  "desenho_estudo": "[EC] cadeia respiratória sangue (Fernström 2021)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "sangue; função da cadeia respiratória reduzida na TDM",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_FERNSTROM_2021"
+  ],
+  "id_referencia_interna": "REF_FERNSTROM_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano (pós-morte/funcional/revisão); transversal/associativo quando marcador",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Fernstrom",
+   "FERNSTROM"
+  ]
+ },
+ {
+  "pmid_oficial": "34790089",
+  "titulo_artigo": "Neuronal Mitochondrial Dysfunction and Bioenergetic Failure in Inflammation-Associated Depression",
+  "autores": [
+   "Casaril AM",
+   "Dantzer R",
+   "Bas-Orth C"
+  ],
+  "revista_ano": "Frontiers in neuroscience (2021)",
+  "desenho_estudo": "[OB] bioenergética/inflamação (Casaril 2021)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "revisão disfunção mitocondrial neuronal/bioenergética na depressão inflamatória",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CASARIL_2021"
+  ],
+  "id_referencia_interna": "REF_CASARIL_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano (pós-morte/funcional/revisão); transversal/associativo quando marcador",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "CASARIL",
+   "Casaril"
+  ]
+ },
+ {
+  "pmid_oficial": "37189442",
+  "titulo_artigo": "Connecting Dots between Mitochondrial Dysfunction and Depression",
+  "autores": [
+   "Khan M",
+   "Baussan Y",
+   "Hebert-Chatelain E"
+  ],
+  "revista_ano": "Biomolecules (2023)",
+  "desenho_estudo": "[OB] revisão mitocôndria-depressão (Khan 2023)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "revisão \"Connecting Dots\" disfunção mitocondrial × depressão",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_KHAN_2023"
+  ],
+  "id_referencia_interna": "REF_KHAN_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano (pós-morte/funcional/revisão); transversal/associativo quando marcador",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Khan",
+   "KHAN"
+  ]
+ },
+ {
+  "pmid_oficial": "37913835",
+  "titulo_artigo": "A mitochondrial nexus in major depressive disorder: Integration with the psycho-immune-neuroendocrine network",
+  "autores": [
+   "Ciubuc-Batcu MT",
+   "Stapelberg NJC",
+   "Headrick JP",
+   "Renshaw GMC"
+  ],
+  "revista_ano": "Biochimica et biophysica acta. Molecular basis of disease (2024)",
+  "desenho_estudo": "[OB] nexus mitocondrial (Ciubuc-Batcu 2024)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "\"nexus mitocondrial\" psicoimunoendócrino na TDM",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CIUBUCBATCU_2024"
+  ],
+  "id_referencia_interna": "REF_CIUBUCBATCU_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano (pós-morte/funcional/revisão); transversal/associativo quando marcador",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "CIUBUCBATCU",
+   "Ciubucbatcu"
+  ]
+ },
+ {
+  "pmid_oficial": "38410811",
+  "titulo_artigo": "Integrating mitoepigenetics into research in mood disorders: a state-of-the-art review",
+  "autores": [
+   "Ceylan D",
+   "Arat-Çelik HE",
+   "Aksahin IC"
+  ],
+  "revista_ano": "Frontiers in physiology (2024)",
+  "desenho_estudo": "[OB] mitoepigenética (Ceylan 2024)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "mitoepigenética em transtornos de humor",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CEYLAN_2024"
+  ],
+  "id_referencia_interna": "REF_CEYLAN_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano (pós-morte/funcional/revisão); transversal/associativo quando marcador",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "CEYLAN",
+   "Ceylan"
+  ]
+ },
+ {
+  "pmid_oficial": "38492883",
+  "titulo_artigo": "PGC-1α in the hippocampus mediates depressive-like and stress-coping behaviours and regulates excitatory synapses in the dentate gyrus in mice",
+  "autores": [
+   "Deng Y",
+   "Liang X",
+   "Li Y",
+   "Jiang L",
+   "Wang J",
+   "Tang J"
+  ],
+  "revista_ano": "Neuropharmacology (2024)",
+  "desenho_estudo": "[ML] PGC-1α hipocampo (Deng 2024)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "animal; PGC-1α hipocampal/giro denteado media depressão/estresse",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula; tradução humana por analogia [EXT]",
+  "ids_referencia_interna": [
+   "REF_DENG_2024"
+  ],
+  "id_referencia_interna": "REF_DENG_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/célula — causalidade forte pré-clínica; humana associativa",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "DENG",
+   "Deng"
+  ]
+ },
+ {
+  "pmid_oficial": "39089419",
+  "titulo_artigo": "Mitochondrial dynamics and psychiatric disorders: The missing link",
+  "autores": [
+   "Papageorgiou MP",
+   "Filiou MD"
+  ],
+  "revista_ano": "Neuroscience and biobehavioral reviews (2024)",
+  "desenho_estudo": "[OB] dinâmica mitocondrial (Papageorgiou 2024)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "revisão dinâmica mitocondrial (OPA1 hub) em transtornos psiquiátricos",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_PAPAGEORGIOU_2024"
+  ],
+  "id_referencia_interna": "REF_PAPAGEORGIOU_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano (pós-morte/funcional/revisão); transversal/associativo quando marcador",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "PAPAGEORGIOU",
+   "Papageorgiou"
+  ]
+ },
+ {
+  "pmid_oficial": "41154587",
+  "titulo_artigo": "Proteomic Signatures of Hippocampal Nonsynaptic and Synaptosome-Enriched Mitochondria in Rats Resilient to Chronic Social Isolation",
+  "autores": [
+   "Filipović D",
+   "Turck CW"
+  ],
+  "revista_ano": "Biomolecules (2025)",
+  "desenho_estudo": "[ML] proteômica hipocampal (Filipović & Turck 2025)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "proteômica hipocampal sináptica/não-sináptica (Filipović & Turck)",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula; tradução humana por analogia [EXT]",
+  "ids_referencia_interna": [
+   "REF_FILIPOVIC_2025"
+  ],
+  "id_referencia_interna": "REF_FILIPOVIC_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/célula — causalidade forte pré-clínica; humana associativa",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Filipovic",
+   "FILIPOVIC"
+  ]
+ },
+ {
+  "pmid_oficial": "41836028",
+  "titulo_artigo": "Current perspectives on circadian regulation of mitochondrial dynamics in mood disorders and perioperative stress",
+  "autores": [
+   "Verbal F",
+   "Rubilar N",
+   "Marileo AM",
+   "Fierro H",
+   "Ramirez-Molina OG",
+   "Pinto-Leon A"
+  ],
+  "revista_ano": "Frontiers in pharmacology (2026)",
+  "desenho_estudo": "[OB] Mito-Mood/ritmo (Verbal 2026)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "framework \"Mito-Mood\"/mitohormese; ritmo × mitocôndria (conceitual)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_VERBAL_2026"
+  ],
+  "id_referencia_interna": "REF_VERBAL_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano (pós-morte/funcional/revisão); transversal/associativo quando marcador",
+  "g3_verificado_por": "IA G3 Rodada 2: esummary confere autor+ano+tema do GPM; abstracts de alto risco lidos; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "VERBAL",
+   "Verbal"
+  ]
+ },
+ {
+  "pmid_oficial": "31797868",
+  "titulo_artigo": "Mitochondrial DNA content and oxidation in bipolar disorder and its role across brain regions",
+  "autores": [
+   "Bodenstein DF",
+   "Kim HK",
+   "Brown NC",
+   "Navaid B",
+   "Young LT",
+   "Andreazza AC"
+  ],
+  "revista_ano": "NPJ schizophrenia (2019)",
+  "desenho_estudo": "[EC] pós-morte; mtDNA cerebral por região no bipolar (Bodenstein ",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "pós-morte; mtDNA cerebral por região no bipolar (Bodenstein 2019)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BODENSTEIN_2019"
+  ],
+  "id_referencia_interna": "REF_BODENSTEIN_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "âncora nova do GPM2 validada por esummary",
+  "g3_verificado_por": "IA G3 (GPM2); abstract/metadado conferido; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "BODENSTEIN",
+   "Bodenstein"
+  ]
+ },
+ {
+  "pmid_oficial": "20833242",
+  "titulo_artigo": "Mitochondrial dysfunction and pathology in bipolar disorder and schizophrenia",
+  "autores": [
+   "Clay HB",
+   "Sillivan S",
+   "Konradi C"
+  ],
+  "revista_ano": "International journal of developmental neuroscience : the official journal of the International Society for Developmental Neuroscience (2011)",
+  "desenho_estudo": "[OB] revisão clássica de disfunção mitocondrial no bipolar/TEP (C",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "revisão clássica de disfunção mitocondrial no bipolar/TEP (Clay, Sillivan & Konradi 2011)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CLAY_2011"
+  ],
+  "id_referencia_interna": "REF_CLAY_2011",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "âncora nova do GPM2 validada por esummary",
+  "g3_verificado_por": "IA G3 (GPM2); abstract/metadado conferido; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Clay",
+   "CLAY"
+  ]
+ },
+ {
+  "pmid_oficial": "38030136",
+  "titulo_artigo": "Reduced mitochondrial respiratory capacity in patients with acute episodes of bipolar disorder: Could bipolar disorder be a state-dependent mitochondrial disease?",
+  "autores": [
+   "Giménez-Palomo A",
+   "Guitart-Mampel M",
+   "Meseguer A",
+   "Borràs R",
+   "García-García FJ",
+   "Tobías E"
+  ],
+  "revista_ano": "Acta psychiatrica Scandinavica (2024)",
+  "desenho_estudo": "[EC] respiração mitocondrial reduzida em fase aguda (Giménez-Palo",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "respiração mitocondrial reduzida em fase aguda (Giménez-Palomo 2024)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GIMENEZPALOMO_2024"
+  ],
+  "id_referencia_interna": "REF_GIMENEZPALOMO_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "âncora nova do GPM2 validada por esummary",
+  "g3_verificado_por": "IA G3 (GPM2); abstract/metadado conferido; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Gimenezpalomo",
+   "GIMENEZPALOMO"
+  ]
+ },
+ {
+  "pmid_oficial": "10893494",
+  "titulo_artigo": "Association of bipolar disorder with the 5178 polymorphism in mitochondrial DNA",
+  "autores": [
+   "Kato T",
+   "Kunugi H",
+   "Nanko S",
+   "Kato N"
+  ],
+  "revista_ano": "American journal of medical genetics (2000)",
+  "desenho_estudo": "[EC] associação polimorfismo 5178 do mtDNA com bipolar (Kato, Kun",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "associação polimorfismo 5178 do mtDNA com bipolar (Kato, Kunugi & Nanko 2000)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_KATO_2000"
+  ],
+  "id_referencia_interna": "REF_KATO_2000",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "âncora nova do GPM2 validada por esummary",
+  "g3_verificado_por": "IA G3 (GPM2); abstract/metadado conferido; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Kato",
+   "KATO"
+  ]
+ },
+ {
+  "pmid_oficial": "31557158",
+  "titulo_artigo": "Multi-omics analysis identifies mitochondrial pathways associated with anxiety-related behavior",
+  "autores": [
+   "Misiewicz Z",
+   "Iurato S",
+   "Kulesskaya N",
+   "Salminen L",
+   "Rodrigues L",
+   "Maccarrone G"
+  ],
+  "revista_ano": "PLoS genetics (2019)",
+  "desenho_estudo": "[ML] multi-ômica vias mitocondriais na ansiedade/pânico (Misiewic",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "multi-ômica vias mitocondriais na ansiedade/pânico (Misiewicz 2019)",
+  "extrapolacao_por_analogia": "SIM — evidência pré-clínica/translacional [EXT]",
+  "ids_referencia_interna": [
+   "REF_MISIEWICZ_2019"
+  ],
+  "id_referencia_interna": "REF_MISIEWICZ_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "âncora nova do GPM2 validada por esummary",
+  "g3_verificado_por": "IA G3 (GPM2); abstract/metadado conferido; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Misiewicz",
+   "MISIEWICZ"
+  ]
+ },
+ {
+  "pmid_oficial": "16095731",
+  "titulo_artigo": "Increased anxiety-like behaviors and mitochondrial dysfunction in mice with targeted mutation of the Bcl-2 gene: further support for the involvement of mitochondrial function in anxiety disorders",
+  "autores": [
+   "Einat H",
+   "Yuan P",
+   "Manji HK"
+  ],
+  "revista_ano": "Behavioural brain research (2005)",
+  "desenho_estudo": "[ML] comportamento tipo-ansioso + disfunção mitocondrial (Einat, ",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "comportamento tipo-ansioso + disfunção mitocondrial (Einat, Yuan & Manji 2005)",
+  "extrapolacao_por_analogia": "SIM — evidência pré-clínica/translacional [EXT]",
+  "ids_referencia_interna": [
+   "REF_EINAT_2005"
+  ],
+  "id_referencia_interna": "REF_EINAT_2005",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "âncora nova do GPM2 validada por esummary",
+  "g3_verificado_por": "IA G3 (GPM2); abstract/metadado conferido; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Einat",
+   "EINAT"
+  ]
+ },
+ {
+  "pmid_oficial": "29928190",
+  "titulo_artigo": "Mitochondria and Mood: Mitochondrial Dysfunction as a Key Player in the Manifestation of Depression.",
+  "autores": [
+   "Allen J",
+   "Romay-Tallon R",
+   "Brymer KJ",
+   "Caruncho HJ",
+   "Kalynchuk LE"
+  ],
+  "revista_ano": "Front Neurosci (2018)",
+  "desenho_estudo": "[OB] revisão integradora (Front Neurosci) · Front Neurosci",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "A disfunção mitocondrial é revisada como peça-chave da manifestação depressiva — enquadramento integrador, não prova causal humana.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_ALLEN_2018"
+  ],
+  "id_referencia_interna": "REF_ALLEN_2018",
+  "doi": "10.3389/fnins.2018.00386",
+  "claim_id_origem": "B9.MEC.BLOCO01.001",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "revisão-âncora \"Mitochondria and Mood\" — master do insumo, não do molde",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; MeSH pendente de indexação (espécie inferida por título/abstract); 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "ALLEN",
+   "Allen"
+  ]
+ },
+ {
+  "pmid_oficial": "35732695",
+  "titulo_artigo": "Induced neural progenitor cells and iPS-neurons from major depressive disorder patients show altered bioenergetics and electrophysiological properties.",
+  "autores": [
+   "Triebelhorn J",
+   "Cardon I",
+   "Kuffner K",
+   "Bader S",
+   "Jahner T",
+   "Meindl K",
+   "Rothhammer-Hampl T",
+   "Riemenschneider MJ",
+   "Drexler K",
+   "Berneburg M",
+   "Nothdurfter C",
+   "Manook A",
+   "Brochhausen C",
+   "Baghai TC",
+   "Hilbert S",
+   "Rupprecht R",
+   "Milenkovic VM",
+   "Wetzel CH"
+  ],
+  "revista_ano": "Mol Psychiatry (2024)",
+  "desenho_estudo": "[EC] células progenitoras neurais induzidas e neurônios iPS de pacientes com TDM · Mol Psychiatry",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "As diferenças bioenergéticas dos fibroblastos de pacientes com TDM persistem parcialmente em iNPC/iPS-neurônios, com alteração funcional neuronal associada.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_TRIEBELHORN_2024"
+  ],
+  "id_referencia_interna": "REF_TRIEBELHORN_2024",
+  "doi": "10.1038/s41380-022-01660-1",
+  "claim_id_origem": "B9.MEC.BLOCO01.002",
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "briefing dizia \"não localizado\" — é 35732695 (Mol Psychiatry; impressão 2024; o GPM o chama \"2021\")",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "TRIEBELHORN",
+   "Triebelhorn"
+  ]
+ },
+ {
+  "pmid_oficial": "32260327",
+  "titulo_artigo": "Major Depressive Disorder is Associated with Impaired Mitochondrial Function in Skin Fibroblasts.",
+  "autores": [
+   "Kuffner K",
+   "Triebelhorn J",
+   "Meindl K",
+   "Benner C",
+   "Manook A",
+   "Sudria-Lopez D",
+   "Siebert R",
+   "Nothdurfter C",
+   "Baghai TC",
+   "Drexler K",
+   "Berneburg M",
+   "Rupprecht R",
+   "Milenkovic VM",
+   "Wetzel CH"
+  ],
+  "revista_ano": "Cells (2020)",
+  "desenho_estudo": "[EC] fibroblastos dérmicos adultos (TDM × controles) — master GPM · Cells",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Fibroblastos de pacientes com TDM exibem função mitocondrial prejudicada (respiração basal/máxima reduzidas, alterações do sistema OXPHOS).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_KUFFNER_2020"
+  ],
+  "id_referencia_interna": "REF_KUFFNER_2020",
+  "doi": "10.3390/cells9040884",
+  "claim_id_origem": "B9.MEC.BLOCO01.003",
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "regra fundadora 5 — compartimento fibroblasto",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "KUFFNER",
+   "Kuffner"
+  ]
+ },
+ {
+  "pmid_oficial": "34066918",
+  "titulo_artigo": "Mitochondrial Alterations in Fibroblasts of Early Stage Bipolar Disorder Patients.",
+  "autores": [
+   "Marques AP",
+   "Resende R",
+   "Silva DF",
+   "Batista M",
+   "Pereira D",
+   "Wildenberg B",
+   "Morais S",
+   "Macedo A",
+   "Pais C",
+   "Melo JB",
+   "Madeira N",
+   "Pereira CF"
+  ],
+  "revista_ano": "Biomedicines (2021)",
+  "desenho_estudo": "[EC] fibroblastos de bipolar em fase inicial — master GPM · Biomedicines",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Em fibroblastos de bipolar em fase inicial: alterações de biogênese/dinâmica e potencial de membrana, depleção de ATP da CTE com estimulação de glicólise — distúrbio como evento precoce (entidade distinta da TDM).",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_MARQUES_2021"
+  ],
+  "id_referencia_interna": "REF_MARQUES_2021",
+  "doi": "10.3390/biomedicines9050522",
+  "claim_id_origem": "B9.MEC.BLOCO01.004",
+  "evid_role": "human_experimental",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "bipolar como fronteira; distúrbio mitocondrial precoce",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; MeSH pendente de indexação (espécie inferida por título/abstract); 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "MARQUES",
+   "Marques"
+  ]
+ },
+ {
+  "pmid_oficial": "41776167",
+  "titulo_artigo": "ATP bioenergetics and fatigue in young adults with and without major depression.",
+  "autores": [
+   "Cullen KR",
+   "Tye SJ",
+   "Klimes-Dougan B",
+   "Wiesner HM",
+   "Varela RB",
+   "Morath B",
+   "Zhang L",
+   "Chen W",
+   "Zhu XH"
+  ],
+  "revista_ano": "Transl Psychiatry (2026)",
+  "desenho_estudo": "[EC] estudo humano (jovens adultos; ATP em cérebro — MRS — e sangue) · Transl Psychiatry",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Em adultos jovens com TDM, a bioenergética de ATP revela assinatura associada à fadiga visível no cérebro e no sangue, com menor capacidade de produção de ATP em PBMC sob desacoplamento — interpretada como mecanismo compensatório em estágio inicial.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CULLEN_2026"
+  ],
+  "id_referencia_interna": "REF_CULLEN_2026",
+  "doi": "10.1038/s41398-026-03904-y",
+  "claim_id_origem": "B9.MEC.BLOCO01.005",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "assinatura bioenergética de ATP da fadiga na TDM inicial",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "CULLEN",
+   "Cullen"
+  ]
+ },
+ {
+  "pmid_oficial": "32488052",
+  "titulo_artigo": "Impaired mitochondrial complex I function as a candidate driver in the biological stress response and a concomitant stress-induced brain metabolic reprogramming in male mice.",
+  "autores": [
+   "Emmerzaal TL",
+   "Preston G",
+   "Geenen B",
+   "Verweij V",
+   "Wiesmann M",
+   "Vasileiou E",
+   "Grüter F",
+   "de Groot C",
+   "Schoorl J",
+   "de Veer R",
+   "Roelofs M",
+   "Arts M",
+   "Hendriksen Y",
+   "Klimars E",
+   "Donti TR",
+   "Graham BH",
+   "Morava E",
+   "Rodenburg RJ",
+   "Kozicz T"
+  ],
+  "revista_ano": "Transl Psychiatry (2020)",
+  "desenho_estudo": "[ML] modelo murino (gene-trap) com função prejudicada do complexo I · Transl Psychiatry",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Camundongos com função prejudicada do complexo I apresentam reatividade ao estresse alterada e reprogramação do metabolismo cerebral/aminoácido — o defeito do complexo I é motor candidato, não mero epifenômeno, em modelo.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_EMMERZAAL_2020"
+  ],
+  "id_referencia_interna": "REF_EMMERZAAL_2020",
+  "doi": "10.1038/s41398-020-0858-y",
+  "claim_id_origem": "B9.MEC.BLOCO01.006",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "motor candidato da reatividade ao estresse — depressão-like (animal)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "EMMERZAAL",
+   "Emmerzaal"
+  ]
+ },
+ {
+  "pmid_oficial": "27412728",
+  "titulo_artigo": "Mitochondrial Oxidative Phosphorylation System (OXPHOS) Deficits in Schizophrenia: Possible Interactions with Cellular Processes.",
+  "autores": [
+   "Bergman O",
+   "Ben-Shachar D"
+  ],
+  "revista_ano": "Can J Psychiatry (2016)",
+  "desenho_estudo": "[OB] revisão (Can J Psychiatry) · Can J Psychiatry",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Os déficits do sistema de fosforilação oxidativa na esquizofrenia revistos como patologia distinta sobre a mesma organela — ilustração de método, não evidência do eixo no humor.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BERGMAN_2016"
+  ],
+  "id_referencia_interna": "REF_BERGMAN_2016",
+  "doi": "10.1177/0706743716648290",
+  "claim_id_origem": "B9.MEC.BLOCO01.007",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "OXPHOS na esquizofrenia — FRONTEIRA ILUSTRATIVA (camada C), sem seta \"esquizofrenia → comprova depressão\"",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "BERGMAN",
+   "Bergman"
+  ]
+ },
+ {
+  "pmid_oficial": "23434681",
+  "titulo_artigo": "New insights into the function and regulation of mitochondrial fission.",
+  "autores": [
+   "Otera H",
+   "Ishihara N",
+   "Mihara K"
+  ],
+  "revista_ano": "Biochim Biophys Acta (2013)",
+  "desenho_estudo": "[OB] revisão (BBA) — master GPM · Biochim Biophys Acta",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Revisão da função e regulação da fissão mitocondrial (recrutamento/assembly de Drp1, modificações pós-traducionais, papel fisiopatológico).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_OTERA_2013"
+  ],
+  "id_referencia_interna": "REF_OTERA_2013",
+  "doi": "10.1016/j.bbamcr.2013.02.002",
+  "claim_id_origem": "B9.MEC.BLOCO01.008",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "mecânica da fissão dependente de DRP1",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "OTERA",
+   "Otera"
+  ]
+ },
+ {
+  "pmid_oficial": "28114303",
+  "titulo_artigo": "MFN1 structures reveal nucleotide-triggered dimerization critical for mitochondrial fusion.",
+  "autores": [
+   "Cao YL",
+   "Meng S",
+   "Chen Y",
+   "Feng JX",
+   "Gu DD",
+   "Yu B",
+   "Li YJ",
+   "Yang JY",
+   "Liao S",
+   "Chan DC",
+   "Gao S"
+  ],
+  "revista_ano": "Nature (2017)",
+  "desenho_estudo": "[OB] estudo estrutural (Nature) — master GPM · Nature",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Estruturas de MFN1 revelam dimerização dependente de nucleotídeo crítica para a fusão mitocondrial — base molecular do mecanismo de tethering.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CAO_2017"
+  ],
+  "id_referencia_interna": "REF_CAO_2017",
+  "doi": "10.1038/nature21077",
+  "claim_id_origem": "B9.MEC.BLOCO01.009",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "âncora estrutural da fusão (MFN1)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "CAO",
+   "Cao"
+  ]
+ },
+ {
+  "pmid_oficial": "29068134",
+  "titulo_artigo": "Structure, function, and regulation of mitofusin-2 in health and disease.",
+  "autores": [
+   "Chandhok G",
+   "Lazarou M",
+   "Neumann B"
+  ],
+  "revista_ano": "Biol Rev Camb Philos Soc (2018)",
+  "desenho_estudo": "[OB] revisão de referência (Biol Rev) — master GPM · Biol Rev Camb Philos Soc",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Consolidação do conhecimento estrutural e funcional de MFN2 e sua regulação, com as consequências da expressão aberrante na doença.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CHANDHOK_2018"
+  ],
+  "id_referencia_interna": "REF_CHANDHOK_2018",
+  "doi": "10.1111/brv.12378",
+  "claim_id_origem": "B9.MEC.BLOCO01.010",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "estrutura/função/regulação de MFN2",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "CHANDHOK",
+   "Chandhok"
+  ]
+ },
+ {
+  "pmid_oficial": "31760107",
+  "titulo_artigo": "Dynamin-related protein 1: A protein critical for mitochondrial fission, mitophagy, and neuronal death in Parkinson's disease.",
+  "autores": [
+   "Feng ST",
+   "Wang ZZ",
+   "Yuan YH",
+   "Wang XL",
+   "Sun HM",
+   "Chen NH",
+   "Zhang Y"
+  ],
+  "revista_ano": "Pharmacol Res (2020)",
+  "desenho_estudo": "[OB] revisão (Pharmacol Res) — master GPM · Pharmacol Res",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "DRP1 revisado como proteína crítica da fissão mitocondrial, com papel na mitofagia e na patobiologia.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_FENG_2020"
+  ],
+  "id_referencia_interna": "REF_FENG_2020",
+  "doi": "10.1016/j.phrs.2019.104553",
+  "claim_id_origem": "B9.MEC.BLOCO01.011",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "DRP1: fissão, mitofagia e patologia",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "FENG",
+   "Feng"
+  ]
+ },
+ {
+  "pmid_oficial": "33742459",
+  "titulo_artigo": "Mitochondrial dynamics in health and disease.",
+  "autores": [
+   "Yapa NMB",
+   "Lisnyak V",
+   "Reljic B",
+   "Ryan MT"
+  ],
+  "revista_ano": "FEBS Lett (2021)",
+  "desenho_estudo": "[OB] revisão (FEBS Lett) — master GPM · FEBS Lett",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "A maquinaria da dinâmica mitocondrial (fissão/fusão/transporte) revista, com o desequilíbrio — não um dos polos — como motor da doença.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_YAPA_2021"
+  ],
+  "id_referencia_interna": "REF_YAPA_2021",
+  "doi": "10.1002/1873-3468.14077",
+  "claim_id_origem": "B9.MEC.BLOCO01.012",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "dinâmica mitocondrial na saúde e na doença",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "YAPA",
+   "Yapa"
+  ]
+ },
+ {
+  "pmid_oficial": "40149969",
+  "titulo_artigo": "The Balance of MFN2 and OPA1 in Mitochondrial Dynamics, Cellular Homeostasis, and Disease.",
+  "autores": [
+   "Zanfardino P",
+   "Amati A",
+   "Perrone M",
+   "Petruzzella V"
+  ],
+  "revista_ano": "Biomolecules (2025)",
+  "desenho_estudo": "[OB] revisão (Biomolecules) — master GPM · Biomolecules",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Revisão do equilíbrio MFN2/OPA1 na dinâmica mitocondrial, homeostase celular e doença — reforça que a doença pode vir dos dois sentidos do equilíbrio.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_ZANFARDINO_2025"
+  ],
+  "id_referencia_interna": "REF_ZANFARDINO_2025",
+  "doi": "10.3390/biom15030433",
+  "claim_id_origem": "B9.MEC.BLOCO01.013",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "equilíbrio MFN2–OPA1; binário \"fissão ruim/fusão boa\" é falso",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "ZANFARDINO",
+   "Zanfardino"
+  ]
+ },
+ {
+  "pmid_oficial": "42248856",
+  "titulo_artigo": "Disease-causing MFN2 mutants impair mitochondrial fission dynamics by distinct DRP1 dysregulation.",
+  "autores": [
+   "Lagos D",
+   "de Santiago PR",
+   "Pérez-Bravo N",
+   "Cartes-Saavedra B",
+   "Vial-Brizzi J",
+   "Troncoso-Chandía D",
+   "Podmanicky O",
+   "Horvath R",
+   "Eisner V"
+  ],
+  "revista_ano": "Cell Death Dis (2026)",
+  "desenho_estudo": "[ML] estudo mecanístico de mutantes de MFN2 (Cell Death Dis; célula) · Cell Death Dis",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Mutantes de MFN2 causadores de doença prejudicam a fissão por mecanismos distintos de desregulação de DRP1 — evidência mecanística de que o defeito não é umidirecional.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_LAGOS_2026"
+  ],
+  "id_referencia_interna": "REF_LAGOS_2026",
+  "doi": "10.1038/s41419-026-08838-3",
+  "claim_id_origem": "B9.MEC.BLOCO01.014",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "doença dos dois lados do equilíbrio fissão×fusão (mecânica; CMT2A = fronteira)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "LAGOS",
+   "Lagos"
+  ]
+ },
+ {
+  "pmid_oficial": "25486875",
+  "titulo_artigo": "Disturbed mitochondrial dynamics and neurodegenerative disorders.",
+  "autores": [
+   "Burté F",
+   "Carelli V",
+   "Chinnery PF",
+   "Yu-Wai-Man P"
+  ],
+  "revista_ano": "Nat Rev Neurol (2015)",
+  "desenho_estudo": "[OB] revisão (Nat Rev Neurol) — master GPM · Nat Rev Neurol",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Revisão clássica da dinâmica mitocondrial perturbada nas doenças neurodegenerativas — mecânica compartilhada da organela, proibida a extrapolação \"Parkinson/Alzheimer → comprova depressão\".",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BURTE_2015"
+  ],
+  "id_referencia_interna": "REF_BURTE_2015",
+  "doi": "10.1038/nrneurol.2014.228",
+  "claim_id_origem": "B9.MEC.BLOCO01.015",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "dinâmica perturbada nas doenças neurodegenerativas — CAMADA C, fronteira ilustrativa",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "BURTÉ",
+   "Burté",
+   "BURTÉ",
+   "Burté",
+   "BURTE",
+   "Burte"
+  ]
+ },
+ {
+  "pmid_oficial": "25820230",
+  "titulo_artigo": "Syndromic parkinsonism and dementia associated with OPA1 missense mutations.",
+  "autores": [
+   "Carelli V",
+   "Musumeci O",
+   "Caporali L",
+   "Zanna C",
+   "La Morgia C",
+   "Del Dotto V",
+   "Porcelli AM",
+   "Rugolo M",
+   "Valentino ML",
+   "Iommarini L",
+   "Maresca A",
+   "Barboni P",
+   "Carbonelli M",
+   "Trombetta C",
+   "Valente EM",
+   "Patergnani S",
+   "Giorgi C",
+   "Pinton P",
+   "Rizzo G",
+   "Tonon C",
+   "Lodi R",
+   "Avoni P",
+   "Liguori R",
+   "Baruzzi A",
+   "Toscano A",
+   "Zeviani M"
+  ],
+  "revista_ano": "Ann Neurol (2015)",
+  "desenho_estudo": "[EC] série clínico-genética humana (Ann Neurol); mutações missense de OPA1 · Ann Neurol",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Mutações missense de OPA1 associam-se a parkinsonismo sindrômico e demência — demonstra a centralidade humana da proteína, sem carregar evidência para o humor.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CARELLI_2015"
+  ],
+  "id_referencia_interna": "REF_CARELLI_2015",
+  "doi": "10.1002/ana.24410",
+  "claim_id_origem": "B9.MEC.BLOCO01.016",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "parkinsonismo/demência sindrômicos — CAMADA C, fronteira ilustrativa de mecânica",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "CARELLI",
+   "Carelli"
+  ]
+ },
+ {
+  "pmid_oficial": "24632637",
+  "titulo_artigo": "Deregulation of mitochondria-shaping proteins Opa-1 and Drp-1 in manganese-induced apoptosis.",
+  "autores": [
+   "Alaimo A",
+   "Gorojod RM",
+   "Beauquis J",
+   "Muñoz MJ",
+   "Saravia F",
+   "Kotler ML"
+  ],
+  "revista_ano": "PLoS One (2014)",
+  "desenho_estudo": "[ML] células astrogliais de rato + modelo (PLoS One); manganês · PLoS One",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Manganês desregula OPA-1/DRP-1 com fissão exacerbada e apoptose; inibir DRP-1 (Mdivi-1/siRNA) protege a rede mitocondrial — mecânica da dinâmica sob insulto.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_ALAIMO_2014"
+  ],
+  "id_referencia_interna": "REF_ALAIMO_2014",
+  "doi": "10.1371/journal.pone.0091848",
+  "claim_id_origem": "B9.MEC.BLOCO01.017",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "toxicologia/Parkinsonismo — CAMADA B mecânica, sem extrapolação ao humor",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "ALAIMO",
+   "Alaimo"
+  ]
+ },
+ {
+  "pmid_oficial": "40668505",
+  "titulo_artigo": "Elevated Acetylation of MFN2 is Accompanied by the Disruption of Mitochondrial Energy Metabolism and Inflammation in a Mouse Model of Depression.",
+  "autores": [
+   "Xie X",
+   "Zhang M",
+   "Xu H",
+   "Wang L",
+   "Sun L",
+   "Zhou J",
+   "Du S",
+   "Li Z",
+   "Anthony DC"
+  ],
+  "revista_ano": "Mol Neurobiol (2025)",
+  "desenho_estudo": "[ML] roedor com síndrome tipo-depressiva (Mol Neurobiol) · Mol Neurobiol",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "A acetilação elevada de MFN2 acompanha a disrupção da produção energética mitocondrial e a inflamação no modelo tipo-depressivo — elo epigenético-mitocondrial.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_XIE_2025"
+  ],
+  "id_referencia_interna": "REF_XIE_2025",
+  "doi": "10.1007/s12035-025-05222-8",
+  "claim_id_origem": "B9.MEC.BLOCO01.018",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "epigenética do eixo: acetilação de MFN2 (sinal emergente, animal)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "XIE",
+   "Xie"
+  ]
+ },
+ {
+  "pmid_oficial": "28463235",
+  "titulo_artigo": "Perturbations in the apoptotic pathway and mitochondrial network dynamics in peripheral blood mononuclear cells from bipolar disorder patients.",
+  "autores": [
+   "Scaini G",
+   "Fries GR",
+   "Valvassori SS",
+   "Zeni CP",
+   "Zunta-Soares G",
+   "Berk M",
+   "Soares JC",
+   "Quevedo J"
+  ],
+  "revista_ano": "Transl Psychiatry (2017)",
+  "desenho_estudo": "[EC] sangue periférico de pacientes com TDM (Transl Psychiatry) · Transl Psychiatry",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Na TDM, a via apoptótica e a dinâmica da rede mitocondrial estão perturbadas em mononucleares de sangue periférico — evidência humana de dinâmica/qualidade alteradas no compartimento periférico.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SCAINI_2017"
+  ],
+  "id_referencia_interna": "REF_SCAINI_2017",
+  "doi": "10.1038/tp.2017.83",
+  "claim_id_origem": "B9.MEC.BLOCO01.019",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "via apoptótica e dinâmica da rede mitocondrial perturbadas (humano; distinto do vigente Scaini 2021)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "SCAINI",
+   "Scaini"
+  ]
+ },
+ {
+  "pmid_oficial": "38081963",
+  "titulo_artigo": "ROS production by mitochondria: function or dysfunction?",
+  "autores": [
+   "Palma FR",
+   "Gantner BN",
+   "Sakiyama MJ",
+   "Kayzuka C",
+   "Shukla S",
+   "Lacchini R",
+   "Cunniff B",
+   "Bonini MG"
+  ],
+  "revista_ano": "Oncogene (2024)",
+  "desenho_estudo": "[OB] revisão (Oncogene) — master GPM · Oncogene",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "A produção de ROS pelas mitocôndrias revisada do ângulo função × disfunção — base da formulação \"desregulação da sinalização redox\", nunca \"ROS ruim\".",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_PALMA_2024"
+  ],
+  "id_referencia_interna": "REF_PALMA_2024",
+  "doi": "10.1038/s41388-023-02907-z",
+  "claim_id_origem": "B9.MEC.BLOCO01.020",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "regra fundadora 1: ROS é sinal fisiológico; \"função ou disfunção?\"",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "PALMA",
+   "Palma"
+  ]
+ },
+ {
+  "pmid_oficial": "34829696",
+  "titulo_artigo": "Mitochondrial Management of Reactive Oxygen Species.",
+  "autores": [
+   "Napolitano G",
+   "Fasciolo G",
+   "Venditti P"
+  ],
+  "revista_ano": "Antioxidants (Basel) (2021)",
+  "desenho_estudo": "[OB] revisão (Antioxidants) — master GPM · Antioxidants (Basel)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Sistematização do manejo mitocondrial dos ROS — fontes, alvos e defesas da organela.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_NAPOLITANO_2021"
+  ],
+  "id_referencia_interna": "REF_NAPOLITANO_2021",
+  "doi": "10.3390/antiox10111824",
+  "claim_id_origem": "B9.MEC.BLOCO01.021",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "manejo mitocondrial das espécies reativas",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; MeSH pendente de indexação (espécie inferida por título/abstract); 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "NAPOLITANO",
+   "Napolitano"
+  ]
+ },
+ {
+  "pmid_oficial": "29292494",
+  "titulo_artigo": "Role of mitochondrial ROS in the brain: from physiology to neurodegeneration.",
+  "autores": [
+   "Angelova PR",
+   "Abramov AY"
+  ],
+  "revista_ano": "FEBS Lett (2018)",
+  "desenho_estudo": "[OB] revisão (FEBS Lett) — master GPM · FEBS Lett",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "O papel do ROS mitocondrial no cérebro revisado do fisiológico ao neurodegenerativo — reforça a leitura de sinal antes de dano.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_ANGELOVA_2018"
+  ],
+  "id_referencia_interna": "REF_ANGELOVA_2018",
+  "doi": "10.1002/1873-3468.12964",
+  "claim_id_origem": "B9.MEC.BLOCO01.022",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "mtROS no cérebro: da fisiologia à neurodegeneração",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "ANGELOVA",
+   "Angelova"
+  ]
+ },
+ {
+  "pmid_oficial": "29106705",
+  "titulo_artigo": "The role of mitochondrial ROS in the aging brain.",
+  "autores": [
+   "Stefanatos R",
+   "Sanz A"
+  ],
+  "revista_ano": "FEBS Lett (2018)",
+  "desenho_estudo": "[OB] revisão (FEBS Lett) — master GPM · FEBS Lett",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "O papel do ROS mitocondrial no envelhecimento cerebral — contexto de dano cumulativo, não leitura do humor.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_STEFANATOS_2018"
+  ],
+  "id_referencia_interna": "REF_STEFANATOS_2018",
+  "doi": "10.1002/1873-3468.12902",
+  "claim_id_origem": "B9.MEC.BLOCO01.023",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "mtROS no cérebro em envelhecimento — CAMADA C contextual",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "STEFANATOS",
+   "Stefanatos"
+  ]
+ },
+ {
+  "pmid_oficial": "34948180",
+  "titulo_artigo": "Mitochondrial Oxidative Stress-A Causative Factor and Therapeutic Target in Many Diseases.",
+  "autores": [
+   "Kowalczyk P",
+   "Sulejczak D",
+   "Kleczkowska P",
+   "Bukowska-Ośko I",
+   "Kucia M",
+   "Popiel M",
+   "Wietrak E",
+   "Kramkowski K",
+   "Wrzosek K",
+   "Kaczyńska K"
+  ],
+  "revista_ano": "Int J Mol Sci (2021)",
+  "desenho_estudo": "[OB] revisão (Int J Mol Sci) — master GPM · Int J Mol Sci",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Revisão do estresse oxidativo mitocondrial como fator causativo e alvo terapêutico em doenças, com foco neuropsiquiátrico.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_KOWALCZYK_2021"
+  ],
+  "id_referencia_interna": "REF_KOWALCZYK_2021",
+  "doi": "10.3390/ijms222413384",
+  "claim_id_origem": "B9.MEC.BLOCO01.024",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "estresse oxidativo mitocondrial como fator causativo/alvo",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "KOWALCZYK",
+   "Kowalczyk"
+  ]
+ },
+ {
+  "pmid_oficial": "32564227",
+  "titulo_artigo": "The interplay between oxidative stress and bioenergetic failure in neuropsychiatric illnesses: can we explain it and can we treat it?",
+  "autores": [
+   "Morris G",
+   "Walder KR",
+   "Berk M",
+   "Marx W",
+   "Walker AJ",
+   "Maes M",
+   "Puri BK"
+  ],
+  "revista_ano": "Mol Biol Rep (2020)",
+  "desenho_estudo": "[OB] revisão (Mol Biol Rep) — extra auditado · Mol Biol Rep",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "A interação entre estresse oxidativo e falha bioenergética revisada nas condições neuropsiquiátricas — loop fonte/vítima da organela.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MORRIS_2020"
+  ],
+  "id_referencia_interna": "REF_MORRIS_2020",
+  "doi": "10.1007/s11033-020-05590-5",
+  "claim_id_origem": "B9.MEC.BLOCO01.025",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "interplay estresse oxidativo × falha bioenergética",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "MORRIS",
+   "Morris"
+  ]
+ },
+ {
+  "pmid_oficial": "30585734",
+  "titulo_artigo": "Mitochondria, Metabolism, and Redox Mechanisms in Psychiatric Disorders.",
+  "autores": [
+   "Kim Y",
+   "Vadodaria KC",
+   "Lenkei Z",
+   "Kato T",
+   "Gage FH",
+   "Marchetto MC",
+   "Santos R"
+  ],
+  "revista_ano": "Antioxid Redox Signal (2019)",
+  "desenho_estudo": "[OB] revisão (Antioxid Redox Signal) — extra auditado · Antioxid Redox Signal",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Revisão do tripé mitocôndria–metabolismo–mecanismos redox nos transtornos psiquiátricos.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_KIM_2019"
+  ],
+  "id_referencia_interna": "REF_KIM_2019",
+  "doi": "10.1089/ars.2018.7606",
+  "claim_id_origem": "B9.MEC.BLOCO01.026",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "mitocôndria, metabolismo e redox em transtornos psiquiátricos",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "KIM",
+   "Kim"
+  ]
+ },
+ {
+  "pmid_oficial": "40427494",
+  "titulo_artigo": "The Ferroptosis-Mitochondrial Axis in Depression: Unraveling the Feedforward Loop of Oxidative Stress, Metabolic Homeostasis Dysregulation, and Neuroinflammation.",
+  "autores": [
+   "Liu X",
+   "Luo Q",
+   "Zhao Y",
+   "Ren P",
+   "Jin Y",
+   "Zhou J"
+  ],
+  "revista_ano": "Antioxidants (Basel) (2025)",
+  "desenho_estudo": "[OB] revisão (Antioxidants) — extra auditado · Antioxidants (Basel)",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "O eixo ferroptose–mitocôndria na depressão: desmontando o loop feedforward entre lipoperoxidação e disfunção da organela — leitura recente, ainda emergente.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_LIU_2025"
+  ],
+  "id_referencia_interna": "REF_LIU_2025",
+  "doi": "10.3390/antiox14050613",
+  "claim_id_origem": "B9.MEC.BLOCO01.027",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "eixo ferroptose–mitocôndria na depressão — loop feedforward (emergente)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; MeSH pendente de indexação (espécie inferida por título/abstract); 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "LIU",
+   "Liu",
+   "LIUX",
+   "Liu X",
+   "LiuX2025"
+  ]
+ },
+ {
+  "pmid_oficial": "18230723",
+  "titulo_artigo": "The PINK1/Parkin pathway regulates mitochondrial morphology.",
+  "autores": [
+   "Poole AC",
+   "Thomas RE",
+   "Andrews LA",
+   "McBride HM",
+   "Whitworth AJ",
+   "Pallanck LJ"
+  ],
+  "revista_ano": "Proc Natl Acad Sci U S A (2008)",
+  "desenho_estudo": "[ML] modelo experimental (PNAS) — master GPM · Proc Natl Acad Sci U S A",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "A via PINK1/Parkin regula a morfologia mitocondrial — âncora clássica do controle de qualidade.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_POOLE_2008"
+  ],
+  "id_referencia_interna": "REF_POOLE_2008",
+  "doi": "10.1073/pnas.0709336105",
+  "claim_id_origem": "B9.MEC.BLOCO01.028",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "âncora clássica PINK1/Parkin × morfologia",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "POOLE",
+   "Poole"
+  ]
+ },
+ {
+  "pmid_oficial": "19546216",
+  "titulo_artigo": "Loss of parkin or PINK1 function increases Drp1-dependent mitochondrial fragmentation.",
+  "autores": [
+   "Lutz AK",
+   "Exner N",
+   "Fett ME",
+   "Schlehe JS",
+   "Kloos K",
+   "Lämmermann K",
+   "Brunner B",
+   "Kurz-Drexler A",
+   "Vogel F",
+   "Reichert AS",
+   "Bouman L",
+   "Vogt-Weisenhorn D",
+   "Wurst W",
+   "Tatzelt J",
+   "Haass C",
+   "Winklhofer KF"
+  ],
+  "revista_ano": "J Biol Chem (2009)",
+  "desenho_estudo": "[ML] modelo experimental (J Biol Chem) — master GPM · J Biol Chem",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "A perda de função de parkin ou PINK1 aumenta a fragmentação mitocondrial dependente de DRP1.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_LUTZ_2009"
+  ],
+  "id_referencia_interna": "REF_LUTZ_2009",
+  "doi": "10.1074/jbc.M109.035774",
+  "claim_id_origem": "B9.MEC.BLOCO01.029",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "perda de parkin/PINK1 → fragmentação DRP1-dependente",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "LUTZ",
+   "Lutz"
+  ]
+ },
+ {
+  "pmid_oficial": "21613270",
+  "titulo_artigo": "The PINK1/Parkin pathway regulates mitochondrial dynamics and function in mammalian hippocampal and dopaminergic neurons.",
+  "autores": [
+   "Yu W",
+   "Sun Y",
+   "Guo S",
+   "Lu B"
+  ],
+  "revista_ano": "Hum Mol Genet (2011)",
+  "desenho_estudo": "[ML] neurônios de mamífero (Hum Mol Genet) — master GPM · Hum Mol Genet",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "A via PINK1/Parkin regula a dinâmica e a função mitocondrial em neurônios de mamífero.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_YU_2011"
+  ],
+  "id_referencia_interna": "REF_YU_2011",
+  "doi": "10.1093/hmg/ddr235",
+  "claim_id_origem": "B9.MEC.BLOCO01.030",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "PINK1/Parkin × dinâmica e função em neurônio",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "YU",
+   "Yu"
+  ]
+ },
+ {
+  "pmid_oficial": "40410878",
+  "titulo_artigo": "Chronic mild stress disrupts mitophagy and mitochondrial status in rat frontal cortex.",
+  "autores": [
+   "Ulecia-Morón C",
+   "Bris ÁG",
+   "MacDowell KS",
+   "Madrigal JLM",
+   "García-Bueno B",
+   "Leza JC",
+   "Caso JR"
+  ],
+  "revista_ano": "J Transl Med (2025)",
+  "desenho_estudo": "[ML] estresse crônico leve em rato (J Transl Med); córtex frontal · J Transl Med",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "O estresse crônico leve disrompe a mitofagia e o status mitocondrial no córtex frontal de rato — elo direto estresse × controle de qualidade.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_ULECIAMORON_2025"
+  ],
+  "id_referencia_interna": "REF_ULECIAMORON_2025",
+  "doi": "10.1186/s12967-025-06604-1",
+  "claim_id_origem": "B9.MEC.BLOCO01.031",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "estresse → disrupção de mitofagia/status mitocondrial (animal)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "ULECIAMORÓN",
+   "UleciaMorón",
+   "ULECIA-MORÓN",
+   "Ulecia-Morón",
+   "ULECIAMORON",
+   "Uleciamoron",
+   "MORÓN",
+   "Morón",
+   "MORON",
+   "Moron"
+  ]
+ },
+ {
+  "pmid_oficial": "38800537",
+  "titulo_artigo": "Cross-species analysis uncovers the mitochondrial stress response in the hippocampus as a shared mechanism in mouse early life stress and human depression.",
+  "autores": [
+   "Hofstra BM",
+   "Hoeksema EE",
+   "Kas MJ",
+   "Verbeek DS"
+  ],
+  "revista_ano": "Neurobiol Stress (2024)",
+  "desenho_estudo": "[ML] cross-espécies: separação materna em camundongo + transcriptoma humano público (Neurobiol Stress) · Neurobiol Stress",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Análise cross-espécies revela assinatura compartilhada de resposta de estresse mitocondrial no hipocampo (OXPHOS e dobramento proteico/UPRmt) entre camundongo com estresse precoce e transcriptoma de pacientes deprimidos — emergente.",
+  "extrapolacao_por_analogia": "parcial — desenho cross-espécies (camundongo ELS + transcriptoma humano público); validação humana direta pendente",
+  "ids_referencia_interna": [
+   "REF_HOFSTRA_2024"
+  ],
+  "id_referencia_interna": "REF_HOFSTRA_2024",
+  "doi": "10.1016/j.ynstr.2024.100643",
+  "claim_id_origem": "B9.MEC.BLOCO01.032",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "âncora UPRmt/ISR cross-espécies — emergente, sem estudo humano dedicado [G1]",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; MeSH pendente de indexação (espécie inferida por título/abstract); 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "HOFSTRA",
+   "Hofstra"
+  ]
+ },
+ {
+  "pmid_oficial": "33672477",
+  "titulo_artigo": "Mitochondrial Oxidative Stress and \"Mito-Inflammation\": Actors in the Diseases.",
+  "autores": [
+   "Patergnani S",
+   "Bouhamida E",
+   "Leo S",
+   "Pinton P",
+   "Rimessi A"
+  ],
+  "revista_ano": "Biomedicines (2021)",
+  "desenho_estudo": "[OB] revisão (Biomedicines) — master GPM · Biomedicines",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Estresse oxidativo mitocondrial e \"mito-inflamação\" revisados como atores na doença — archteipo do acoplamento organela-imunidade.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_PATERGNANI_2021"
+  ],
+  "id_referencia_interna": "REF_PATERGNANI_2021",
+  "doi": "10.3390/biomedicines9020216",
+  "claim_id_origem": "B9.MEC.BLOCO01.033",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "\"mito-inflamação\" como ator da doença",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; MeSH pendente de indexação (espécie inferida por título/abstract); 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "PATERGNANI",
+   "Patergnani"
+  ]
+ },
+ {
+  "pmid_oficial": "32351669",
+  "titulo_artigo": "Targeting Inflammatory-Mitochondrial Response in Major Depression: Current Evidence and Further Challenges.",
+  "autores": [
+   "Visentin APV",
+   "Colombo R",
+   "Scotton E",
+   "Fracasso DS",
+   "da Rosa AR",
+   "Branco CS",
+   "Salvador M"
+  ],
+  "revista_ano": "Oxid Med Cell Longev (2020)",
+  "desenho_estudo": "[OB] revisão (Oxid Med Cell Longev) — master GPM · Oxid Med Cell Longev",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "A resposta inflamatório-mitocondrial como alvo na depressão maior — evidência corrente revista.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_VISENTIN_2020"
+  ],
+  "id_referencia_interna": "REF_VISENTIN_2020",
+  "doi": "10.1155/2020/2972968",
+  "claim_id_origem": "B9.MEC.BLOCO01.034",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "resposta inflamatório-mitocondrial na depressão maior",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "VISENTIN",
+   "Visentin"
+  ]
+ },
+ {
+  "pmid_oficial": "30687139",
+  "titulo_artigo": "Mitochondria, Microglia, and the Immune System-How Are They Linked in Affective Disorders?",
+  "autores": [
+   "Culmsee C",
+   "Michels S",
+   "Scheu S",
+   "Arolt V",
+   "Dannlowski U",
+   "Alferink J"
+  ],
+  "revista_ano": "Front Psychiatry (2018)",
+  "desenho_estudo": "[OB] revisão (Front Psychiatry) — master GPM · Front Psychiatry",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Como mitocôndrias, micróglia e sistema imune se ligam nos transtornos afetivos — revisão do tripé.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_CULMSEE_2018"
+  ],
+  "id_referencia_interna": "REF_CULMSEE_2018",
+  "doi": "10.3389/fpsyt.2018.00739",
+  "claim_id_origem": "B9.MEC.BLOCO01.035",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "mitocôndria–micróglia–imune nos transtornos afetivos",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; MeSH pendente de indexação (espécie inferida por título/abstract); 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "CULMSEE",
+   "Culmsee"
+  ]
+ },
+ {
+  "pmid_oficial": "38857809",
+  "titulo_artigo": "Drp1 and neuroinflammation: Deciphering the interplay between mitochondrial dynamics imbalance and inflammation in neurodegenerative diseases.",
+  "autores": [
+   "Cai P",
+   "Li W",
+   "Xu Y",
+   "Wang H"
+  ],
+  "revista_ano": "Neurobiol Dis (2024)",
+  "desenho_estudo": "[OB] revisão (Neurobiol Dis) — master GPM · Neurobiol Dis",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "A desregulação de DRP1 como nó entre dinâmica mitocondrial e neuroinflamação, revista nas doenças neurológicas com leitura mecanística para os afetivos.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_CAI_2024"
+  ],
+  "id_referencia_interna": "REF_CAI_2024",
+  "doi": "10.1016/j.nbd.2024.106561",
+  "claim_id_origem": "B9.MEC.BLOCO01.036",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "DRP1 × neuroinflamação: a dinâmica alimenta a imunidade",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "CAI",
+   "Cai",
+   "CAIP",
+   "Cai P"
+  ]
+ },
+ {
+  "pmid_oficial": "37985735",
+  "titulo_artigo": "Mitochondrial fission drives neuronal metabolic burden to promote stress susceptibility in male mice.",
+  "autores": [
+   "Dong WT",
+   "Long LH",
+   "Deng Q",
+   "Liu D",
+   "Wang JL",
+   "Wang F",
+   "Chen JG"
+  ],
+  "revista_ano": "Nat Metab (2023)",
+  "desenho_estudo": "[ML] camundongo; estresse crônico (Nat Metab) · Nat Metab",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "O estresse crônico promove fissão mitocondrial no córtex pré-frontal medial via DRP1, impondo ônus metabólico neuronal que aumenta a suscetibilidade ao estresse; a inibição de DRP1 atenua o fenótipo — causalidade em animal, com [EXTRAPOLAÇÃO POR ANALOGIA].",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_DONG_2023"
+  ],
+  "id_referencia_interna": "REF_DONG_2023",
+  "doi": "10.1038/s42255-023-00924-6",
+  "claim_id_origem": "B9.MEC.BLOCO01.037",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "regra fundadora 6: causalidade experimental é âncora (estresse → DRP1 → fissão mPFC → comportamento; inibir DRP1 atenua)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "DONG",
+   "Dong"
+  ]
+ },
+ {
+  "pmid_oficial": "32045672",
+  "titulo_artigo": "Depression-like behaviors are accompanied by disrupted mitochondrial energy metabolism in chronic corticosterone-induced mice.",
+  "autores": [
+   "Xie X",
+   "Shen Q",
+   "Yu C",
+   "Xiao Q",
+   "Zhou J",
+   "Xiong Z",
+   "Li Z",
+   "Fu Z"
+  ],
+  "revista_ano": "J Steroid Biochem Mol Biol (2020)",
+  "desenho_estudo": "[ML] corticosterona crônica em roedor (J Steroid Biochem Mol Biol) · J Steroid Biochem Mol Biol",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "O corticosterona crônico induz comportamento tipo-depressivo acompanhado de disrupção do metabolismo energético mitocondrial em roedor — transdução endócrino-mitocondrial.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_XIE_2020"
+  ],
+  "id_referencia_interna": "REF_XIE_2020",
+  "doi": "10.1016/j.jsbmb.2020.105607",
+  "claim_id_origem": "B9.MEC.BLOCO01.038",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "hormônio de estresse → comportamento tipo-depressivo + metabolismo energético mitocondrial",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "XIE",
+   "Xie",
+   "XIE2020"
+  ]
+ },
+ {
+  "pmid_oficial": "26621716",
+  "titulo_artigo": "Mitochondrial function in the brain links anxiety with social subordination.",
+  "autores": [
+   "Hollis F",
+   "van der Kooij MA",
+   "Zanoletti O",
+   "Lozano L",
+   "Cantó C",
+   "Sandi C"
+  ],
+  "revista_ano": "Proc Natl Acad Sci U S A (2015)",
+  "desenho_estudo": "[ML] ratos; hierarquia social (PNAS) — master GPM · Proc Natl Acad Sci U S A",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "A função mitocondrial no núcleo accumbens liga a ansiedade-traço à subordinação social em ratos — a ansiedade influencia diretamente a hierarquia, com mediação mitocondrial.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_HOLLIS_2015"
+  ],
+  "id_referencia_interna": "REF_HOLLIS_2015",
+  "doi": "10.1073/pnas.1512653112",
+  "claim_id_origem": "B9.MEC.BLOCO01.039",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "regra fundadora 9: modelo de ansiedade social é âncora legítima",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "HOLLIS",
+   "Hollis"
+  ]
+ },
+ {
+  "pmid_oficial": "36252817",
+  "titulo_artigo": "Social isolation induces succinate dehydrogenase dysfunction in anxious mice.",
+  "autores": [
+   "Watanabe S",
+   "Al Omran AJ",
+   "Shao AS",
+   "Zhang Z",
+   "Xue C",
+   "Zhang J",
+   "Watanabe J",
+   "Liang J"
+  ],
+  "revista_ano": "Neurochem Int (2022)",
+  "desenho_estudo": "[ML] isolamento social em camundongo (Neurochem Int) · Neurochem Int",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "O isolamento social induz disfunção da succinato-desidrogenase (SDH) em camundongos ansiosos — elo TCA × comportamento social.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_WATANABE_2022"
+  ],
+  "id_referencia_interna": "REF_WATANABE_2022",
+  "doi": "10.1016/j.neuint.2022.105434",
+  "claim_id_origem": "B9.MEC.BLOCO01.040",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "isolamento social → disfunção de succinato-desidrogenase",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "WATANABE",
+   "Watanabe"
+  ]
+ },
+ {
+  "pmid_oficial": "37563104",
+  "titulo_artigo": "Brain mitochondrial diversity and network organization predict anxiety-like behavior in male mice.",
+  "autores": [
+   "Rosenberg AM",
+   "Saggar M",
+   "Monzel AS",
+   "Devine J",
+   "Rogu P",
+   "Limoges A",
+   "Junker A",
+   "Sandi C",
+   "Mosharov EV",
+   "Dumitriu D",
+   "Anacker C",
+   "Picard M"
+  ],
+  "revista_ano": "Nat Commun (2023)",
+  "desenho_estudo": "[ML] camundongos; escala cerebral ampla (Nat Commun) · Nat Commun",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "A diversidade e a organização de rede das mitocôndrias cerebrais em escala ampla predizem comportamento tipo-ansioso em camundongos.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_ROSENBERG_2023"
+  ],
+  "id_referencia_interna": "REF_ROSENBERG_2023",
+  "doi": "10.1038/s41467-023-39941-0",
+  "claim_id_origem": "B9.MEC.BLOCO01.041",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "diversidade/organização de rede mitocondrial prediz ansiedade-like",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "ROSENBERG",
+   "Rosenberg"
+  ]
+ },
+ {
+  "pmid_oficial": "36841465",
+  "titulo_artigo": "Inhibition of monoamine oxidase-a increases respiration in isolated mouse cortical mitochondria.",
+  "autores": [
+   "Kalimon OJ",
+   "Vekaria HJ",
+   "Gerhardt GA",
+   "Sullivan PG"
+  ],
+  "revista_ano": "Exp Neurol (2023)",
+  "desenho_estudo": "[ML] mitocôndrias isoladas do córtex de camundongo (Exp Neurol) · Exp Neurol",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "A inibição seletiva de MAO-A (não MAO-B) aumenta o consumo de oxigênio acoplado ao complexo I em mitocôndrias isoladas do córtex de camundongo — a enzima monoaminérgica modula a bioenergética local.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_KALIMON_2023"
+  ],
+  "id_referencia_interna": "REF_KALIMON_2023",
+  "doi": "10.1016/j.expneurol.2023.114356",
+  "claim_id_origem": "B9.MEC.BLOCO01.042",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "MAO-A (membrana mitocondrial externa) × bioenergética — ponte B4",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "KALIMON",
+   "Kalimon"
+  ]
+ },
+ {
+  "pmid_oficial": "35065970",
+  "titulo_artigo": "Mitochondrial transplantation improves anxiety- and depression-like behaviors in aged stress-exposed rats.",
+  "autores": [
+   "Javani G",
+   "Babri S",
+   "Farajdokht F",
+   "Ghaffari-Nasab A",
+   "Mohaddes G"
+  ],
+  "revista_ano": "Mech Ageing Dev (2022)",
+  "desenho_estudo": "[ML] transplante ICV de mitocôndrias; rato idoso sob estresse crônico (Mech Ageing Dev) · Mech Ageing Dev",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "O transplante intracerebroventricular de mitocôndrias isoladas de cérebro jovem melhorou comportamentos tipo-depressivos em ratos idosos sob estresse crônico leve — sinal experimental apenas.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_JAVANI_2022"
+  ],
+  "id_referencia_interna": "REF_JAVANI_2022",
+  "doi": "10.1016/j.mad.2022.111632",
+  "claim_id_origem": "B9.MEC.BLOCO01.043",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "regra fundadora 7: terapia só como sinal — transplante mitocondrial (animal)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "JAVANI",
+   "Javani"
+  ]
+ },
+ {
+  "pmid_oficial": "39333279",
+  "titulo_artigo": "Nasal administration of mitochondria relieves depressive- and anxiety-like behaviors in male mice exposed to restraint stress through the suppression ROS/NLRP3/caspase-1/IL-1β signaling pathway.",
+  "autores": [
+   "Mafikandi V",
+   "Seyedaghamiri F",
+   "Hosseinzadeh N",
+   "Shahabi P",
+   "Shafiee-Kandjani AR",
+   "Babaie S",
+   "Maghsoumi-Norouzabad L",
+   "Farajdokht F",
+   "Hosseini L"
+  ],
+  "revista_ano": "Naunyn Schmiedebergs Arch Pharmacol (2025)",
+  "desenho_estudo": "[ML] administração intranasal de mitocôndrias; camundongo (estresse de contenção) · Naunyn Schmiedebergs Arch Pharmacol",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "A administração nasal de mitocôndrias aliviou comportamentos tipo-depressivos/ansiosos e marcadores neuroinflamatório-oxidativos em camundongos sob estresse de contenção — sinal pré-clínico.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_MAFIKANDI_2025"
+  ],
+  "id_referencia_interna": "REF_MAFIKANDI_2025",
+  "doi": "10.1007/s00210-024-03487-9",
+  "claim_id_origem": "B9.MEC.BLOCO01.044",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "regra fundadora 7: via intranasal — sinal experimental apenas",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "MAFIKANDI",
+   "Mafikandi"
+  ]
+ },
+ {
+  "pmid_oficial": "41848740",
+  "titulo_artigo": "Astragaloside IV Confers Prophylactic Efficacy Against Depression Associated with the ROS/Nrf2/Keap1 Axis: Modulation of Oxidative Stress and Energy Homeostasis.",
+  "autores": [
+   "Tian J",
+   "Wang H",
+   "Liu H",
+   "Xu W",
+   "Xiao M",
+   "Qin X",
+   "Liu X"
+  ],
+  "revista_ano": "Antioxid Redox Signal (2026)",
+  "desenho_estudo": "[ML] ratos; astragalosídeo IV; eixo ROS–Nrf2/Keap1 (Antioxid Redox Signal) · Antioxid Redox Signal",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "O astragalosídeo IV conferiu eficácia profilática em modelo de depressão, revertendo a desregulação redox e restaurando indicadores de metabolismo energético via eixo ROS–Nrf2/Keap1 — sinal mecanístico animal, não recomendação.",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor/célula/modelo; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_TIAN_2026"
+  ],
+  "id_referencia_interna": "REF_TIAN_2026",
+  "doi": "10.1177/15230864261428133",
+  "claim_id_origem": "B9.MEC.BLOCO01.045",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "fitoterápico como sinal mecanístico redox/energia — nunca recomendação",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "TIAN",
+   "Tian"
+  ]
+ },
+ {
+  "pmid_oficial": "34295268",
+  "titulo_artigo": "The Role of Mitochondria in Mood Disorders: From Physiology to Pathophysiology and to Treatment.",
+  "autores": [
+   "Giménez-Palomo A",
+   "Dodd S",
+   "Anmella G",
+   "Carvalho AF",
+   "Scaini G",
+   "Quevedo J",
+   "Pacchiarotti I",
+   "Vieta E",
+   "Berk M"
+  ],
+  "revista_ano": "Front Psychiatry (2021)",
+  "desenho_estudo": "[OB] revisão integradora (Front Psychiatry) — extra auditado (≠ vigente 2024 fase maníaca) · Front Psychiatry",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Revisão do papel das mitocôndrias nos transtornos do humor, da fisiologia à patofisiologia e perspectivas terapêuticas.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_GIMENEZPALOMO_2021"
+  ],
+  "id_referencia_interna": "REF_GIMENEZPALOMO_2021",
+  "doi": "10.3389/fpsyt.2021.546801",
+  "claim_id_origem": "B9.MEC.BLOCO01.046",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "o papel das mitocôndrias nos transtornos de humor: fisiologia → patofisiologia",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; MeSH pendente de indexação (espécie inferida por título/abstract); 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "GIMÉNEZPALOMO",
+   "GiménezPalomo",
+   "GIMÉNEZ-PALOMO",
+   "Giménez-Palomo",
+   "PALOMO",
+   "Palomo"
+  ]
+ },
+ {
+  "pmid_oficial": "38334212",
+  "titulo_artigo": "Mitochondria in depression: The dysfunction of mitochondrial energy metabolism and quality control systems.",
+  "autores": [
+   "Jiang M",
+   "Wang L",
+   "Sheng H"
+  ],
+  "revista_ano": "CNS Neurosci Ther (2024)",
+  "desenho_estudo": "[OB] revisão (CNS Neurosci Ther) — extra auditado · CNS Neurosci Ther",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "A disfunção do metabolismo energético mitocondrial na depressão — revisão do campo.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_JIANG_2024"
+  ],
+  "id_referencia_interna": "REF_JIANG_2024",
+  "doi": "10.1111/cns.14576",
+  "claim_id_origem": "B9.MEC.BLOCO01.047",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "disfunção do metabolismo energético mitocondrial na depressão",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "JIANG",
+   "Jiang"
+  ]
+ },
+ {
+  "pmid_oficial": "36686690",
+  "titulo_artigo": "Dysfunctional mitochondrial processes contribute to energy perturbations in the brain and neuropsychiatric symptoms.",
+  "autores": [
+   "Büttiker P",
+   "Weissenberger S",
+   "Esch T",
+   "Anders M",
+   "Raboch J",
+   "Ptacek R",
+   "Kream RM",
+   "Stefano GB"
+  ],
+  "revista_ano": "Front Pharmacol (2022)",
+  "desenho_estudo": "[OB] revisão (Front Pharmacol) — extra auditado · Front Pharmacol",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Os processos mitocondriais disfuncionais como contribuintes das perturbações energéticas no cérebro e dos sintomas neuropsiquiátricos — revisão.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_BUTTIKER_2022"
+  ],
+  "id_referencia_interna": "REF_BUTTIKER_2022",
+  "doi": "10.3389/fphar.2022.1095923",
+  "claim_id_origem": "B9.MEC.BLOCO01.048",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "processos mitocondriais disfuncionais × perturbações energéticas cerebrais",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; MeSH pendente de indexação (espécie inferida por título/abstract); 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "BUTTIKER",
+   "Buttiker",
+   "BÜTTIKER",
+   "Büttiker",
+   "BUTTIKER",
+   "Buttiker"
+  ]
+ },
+ {
+  "pmid_oficial": "34098028",
+  "titulo_artigo": "Mini-review: Brain energy metabolism and its role in animal models of depression, bipolar disorder, schizophrenia and autism.",
+  "autores": [
+   "Kolar D",
+   "Kleteckova L",
+   "Brozka H",
+   "Vales K"
+  ],
+  "revista_ano": "Neurosci Lett (2021)",
+  "desenho_estudo": "[OB] mini-revisão (Neurosci Lett) — extra auditado · Neurosci Lett",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Mini-revisão do metabolismo energético cerebral e seu papel nos modelos animais de depressão — qualificador do que é evidência de modelo.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_KOLAR_2021"
+  ],
+  "id_referencia_interna": "REF_KOLAR_2021",
+  "doi": "10.1016/j.neulet.2021.136003",
+  "claim_id_origem": "B9.MEC.BLOCO01.049",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "metabolismo energético cerebral em MODELOS ANIMAIS de depressão",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "KOLAR",
+   "Kolar",
+   "KOLÁR",
+   "Kolár",
+   "KOLAR",
+   "Kolar"
+  ]
+ },
+ {
+  "pmid_oficial": "31755286",
+  "titulo_artigo": "Important role of mitochondria and the effect of mood stabilizers on mitochondrial function.",
+  "autores": [
+   "Ľupták M",
+   "Hroudová J"
+  ],
+  "revista_ano": "Physiol Res (2019)",
+  "desenho_estudo": "[OB] revisão (Physiol Res) — extra auditado · Physiol Res",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "O papel da mitocôndria e o efeito dos estabilizadores de humor sobre a função mitocondrial — a medicação é confundidora de primeira ordem na leitura dos marcadores.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LUPTAK_2019"
+  ],
+  "id_referencia_interna": "REF_LUPTAK_2019",
+  "doi": "10.33549/physiolres.934324",
+  "claim_id_origem": "B9.MEC.BLOCO01.050",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "âncora do confundedor medicação: estabilizadores de humor têm efeitos mitocondriais próprios",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "LUPTÁK",
+   "Lupták",
+   "ĽUPTÁK",
+   "Ľupták",
+   "LUPTAK",
+   "Luptak"
+  ]
+ },
+ {
+  "pmid_oficial": "32647150",
+  "titulo_artigo": "Depression, mitochondrial bioenergetics, and electroconvulsive therapy: a new approach towards personalized medicine in psychiatric treatment - a short review and current perspective.",
+  "autores": [
+   "Karabatsiakis A",
+   "Schönfeldt-Lecuona C"
+  ],
+  "revista_ano": "Transl Psychiatry (2020)",
+  "desenho_estudo": "[OB] revisão/perspectiva (Transl Psychiatry) — master GPM · Transl Psychiatry",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Depressão, bioenergética mitocondrial e eletroconvulsoterapia: propõe a função mitocondrial como biomarcador candidato de diagnóstico/resposta em TDM e estrutura o conceito \"Mito-Mood\" — hipótese [G1], não fato.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_KARABATSIAKIS_2020"
+  ],
+  "id_referencia_interna": "REF_KARABATSIAKIS_2020",
+  "doi": "10.1038/s41398-020-00901-7",
+  "claim_id_origem": "B9.MEC.BLOCO01.051",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "bioenergética × ECT; origem do conceito \"Mito-Mood\" — hipótese estruturante [G1] (regra 11)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "KARABATSIAKIS",
+   "Karabatsiakis"
+  ]
+ },
+ {
+  "pmid_oficial": "26687620",
+  "titulo_artigo": "Genetic Control over mtDNA and Its Relationship to Major Depressive Disorder.",
+  "autores": [
+   "Cai N",
+   "Li Y",
+   "Chang S",
+   "Liang J",
+   "Lin C",
+   "Zhang X",
+   "Liang L",
+   "Hu J",
+   "Chan W",
+   "Kendler KS",
+   "Malinauskas T",
+   "Huang GJ",
+   "Li Q",
+   "Mott R",
+   "Flint J"
+  ],
+  "revista_ano": "Curr Biol (2015)",
+  "desenho_estudo": "[EC] coorte genética (CONVERGE; 10,4 mil mulheres chinesas) + paradigma murino (Curr Biol) · Curr Biol",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Loci nucleares em TFAM e CDK6 controlam a quantidade de mtDNA; mulheres com TDM têm taxas maiores de heteroplasmia, com paradigma em camundongo indicando o estresse como causa provável.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_CAI_2015"
+  ],
+  "id_referencia_interna": "REF_CAI_2015",
+  "doi": "10.1016/j.cub.2015.10.065",
+  "claim_id_origem": "B9.MEC.BLOCO02.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "controle genético nuclear do mtDNA; heteroplasmia ↑ na TDM por estresse",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "CAI",
+   "Cai",
+   "CAIN",
+   "Cai N"
+  ]
+ },
+ {
+  "pmid_oficial": "29102411",
+  "titulo_artigo": "What Can Mitochondrial DNA Analysis Tell Us About Mood Disorders?",
+  "autores": [
+   "Kasahara T",
+   "Kato T"
+  ],
+  "revista_ano": "Biol Psychiatry (2018)",
+  "desenho_estudo": "[OB] revisão de método (Biol Psychiatry) — extra auditado · Biol Psychiatry",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Revisão do que décadas de análise de mtDNA (e de genes nucleares mitocondriais) ensinam sobre transtornos de humor — com os limites e desafios do método.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_KASAHARA_2018"
+  ],
+  "id_referencia_interna": "REF_KASAHARA_2018",
+  "doi": "10.1016/j.biopsych.2017.09.010",
+  "claim_id_origem": "B9.MEC.BLOCO02.002",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "o que a análise do mtDNA pode dizer sobre os transtornos de humor",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "KASAHARA",
+   "Kasahara"
+  ]
+ },
+ {
+  "pmid_oficial": "29453441",
+  "titulo_artigo": "Circulating cell-free mitochondrial DNA, but not leukocyte mitochondrial DNA copy number, is elevated in major depressive disorder.",
+  "autores": [
+   "Lindqvist D",
+   "Wolkowitz OM",
+   "Picard M",
+   "Ohlsson L",
+   "Bersani FS",
+   "Fernström J",
+   "Westrin Å",
+   "Hough CM",
+   "Lin J",
+   "Reus VI",
+   "Epel ES",
+   "Mellon SH"
+  ],
+  "revista_ano": "Neuropsychopharmacology (2018)",
+  "desenho_estudo": "[EC] estudo humano TDM (Neuropsychopharmacology); duas frações medidas · Neuropsychopharmacology",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Na TDM, o ccf-mtDNA circulante está elevado sem alteração do copy number leucocitário — as duas frações refletem processos celulares distintos; o ccf-mtDNA pode refletir aspectos da fisiopatologia e da resposta a ISRS.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LINDQVIST_2018"
+  ],
+  "id_referencia_interna": "REF_LINDQVIST_2018",
+  "doi": "10.1038/s41386-017-0001-9",
+  "claim_id_origem": "B9.MEC.BLOCO02.003",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "regra fundadora 2: ccf-mtDNA ↑ SEM mudança no CN leucocitário — proibido \"MDD aumenta mtDNA\"",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "LINDQVIST",
+   "Lindqvist"
+  ]
+ },
+ {
+  "pmid_oficial": "31639552",
+  "titulo_artigo": "Investigation of mitochondrial DNA copy number in patients with major depressive disorder.",
+  "autores": [
+   "Chung JK",
+   "Lee SY",
+   "Park M",
+   "Joo EJ",
+   "Kim SA"
+  ],
+  "revista_ano": "Psychiatry Res (2019)",
+  "desenho_estudo": "[EC] 118 TDM × 116 controles; sangue periférico (Psychiatry Res) · Psychiatry Res",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Pacientes com TDM apresentam mtDNA copy number mais alto e menor metilação do promotor de PGC1α; o CN associa-se negativamente a idade, agitação psicomotora e sintomas somáticos.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CHUNG_2019"
+  ],
+  "id_referencia_interna": "REF_CHUNG_2019",
+  "doi": "10.1016/j.psychres.2019.112616",
+  "claim_id_origem": "B9.MEC.BLOCO02.004",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "mtDNA-CN elevado na TDM + hipometilação do promotor de PGC1α",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "CHUNG",
+   "Chung"
+  ]
+ },
+ {
+  "pmid_oficial": "31081430",
+  "titulo_artigo": "Mitochondrial DNA copy number, damage, repair and degradation in depressive disorder.",
+  "autores": [
+   "Czarny P",
+   "Wigner P",
+   "Strycharz J",
+   "Swiderska E",
+   "Synowiec E",
+   "Szatkowska M",
+   "Sliwinska A",
+   "Talarowska M",
+   "Szemraj J",
+   "Su KP",
+   "Maes M",
+   "Sliwinski T",
+   "Galecki P"
+  ],
+  "revista_ano": "World J Biol Psychiatry (2020)",
+  "desenho_estudo": "[EC] PBMC; 25 deprimidos × 60 controles; insulto H2O2 ex vivo (World J Biol Psychiatry) · World J Biol Psychiatry",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "PBMCs de pacientes deprimidos acumulam lesões de mtDNA após estresse oxidativo ex vivo, com reparo e degradação prejudicados — primeira demonstração do defeito de manutenção.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CZARNY_2020"
+  ],
+  "id_referencia_interna": "REF_CZARNY_2020",
+  "doi": "10.1080/15622975.2019.1588993",
+  "claim_id_origem": "B9.MEC.BLOCO02.005",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "reparo e degradação do mtDNA prejudicados na depressão",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "CZARNY",
+   "Czarny"
+  ]
+ },
+ {
+  "pmid_oficial": "37834200",
+  "titulo_artigo": "Single-Nucleotide Polymorphisms in Genes Maintaining the Stability of Mitochondrial DNA Affect the Occurrence, Onset, Severity and Treatment of Major Depressive Disorder.",
+  "autores": [
+   "Czarny P",
+   "Ziółkowska S",
+   "Kołodziej Ł",
+   "Watała C",
+   "Wigner-Jeziorska P",
+   "Bliźniewska-Kowalska K",
+   "Wachowska K",
+   "Gałecka M",
+   "Synowiec E",
+   "Gałecki P",
+   "Bijak M",
+   "Szemraj J",
+   "Śliwiński T"
+  ],
+  "revista_ano": "Int J Mol Sci (2023)",
+  "desenho_estudo": "[EC] associação genética; SNPs de genes de estabilidade do mtDNA (Int J Mol Sci) · Int J Mol Sci",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "SNPs nos genes que mantêm a estabilidade do mtDNA (replicação/reparo/degradação) associam-se à depressão e podem influenciar o início e o desfecho do tratamento.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CZARNY_2023"
+  ],
+  "id_referencia_interna": "REF_CZARNY_2023",
+  "doi": "10.3390/ijms241914752",
+  "claim_id_origem": "B9.MEC.BLOCO02.006",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "variantes dos genes de manutenção do mtDNA × início/desfecho",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "CZARNY",
+   "Czarny"
+  ]
+ },
+ {
+  "pmid_oficial": "36216200",
+  "titulo_artigo": "Whole blood mitochondrial DNA copy number in depression and response to electroconvulsive therapy.",
+  "autores": [
+   "Ryan KM",
+   "Doody E",
+   "McLoughlin DM"
+  ],
+  "revista_ano": "Prog Neuropsychopharmacol Biol Psychiatry (2023)",
+  "desenho_estudo": "[EC] sangue total; 100 pacientes medicados com depressão (Prog Neuropsychopharmacol Biol Psychiatry) · Prog Neuropsychopharmacol Biol Psychiatry",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "O mtDNAcn está elevado no sangue de pacientes com depressão medicados e relaciona-se à resposta ao tratamento — sem tradução garantida para a função mitocondrial.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_RYAN_2023"
+  ],
+  "id_referencia_interna": "REF_RYAN_2023",
+  "doi": "10.1016/j.pnpbp.2022.110656",
+  "claim_id_origem": "B9.MEC.BLOCO02.007",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "mtDNAcn elevado na depressão + relação com resposta à ECT (≠ vigente Ryan 2019)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "RYAN",
+   "Ryan"
+  ]
+ },
+ {
+  "pmid_oficial": "28647451",
+  "titulo_artigo": "Association of mitochondrial DNA in peripheral blood with depression, anxiety and stress- and adjustment disorders in primary health care patients.",
+  "autores": [
+   "Wang X",
+   "Sundquist K",
+   "Rastkhani H",
+   "Palmér K",
+   "Memon AA",
+   "Sundquist J"
+  ],
+  "revista_ano": "Eur Neuropsychopharmacol (2017)",
+  "desenho_estudo": "[EC] 179 pacientes (atenção primária) × 320 controles (Eur Neuropsychopharmacol) · Eur Neuropsychopharmacol",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "O mtDNA copy number está significativamente mais alto em pacientes com depressão, ansiedade e transtornos de estresse/ajustamento, associando-se à gravidade basal e à resposta após 8 semanas de tratamento.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_WANG_2017"
+  ],
+  "id_referencia_interna": "REF_WANG_2017",
+  "doi": "10.1016/j.euroneuro.2017.06.001",
+  "claim_id_origem": "B9.MEC.BLOCO02.008",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "mtDNA-CN maior em depressão/ansiedade/ajustamento; associa-se a gravidade e resposta",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "WANG",
+   "Wang"
+  ]
+ },
+ {
+  "pmid_oficial": "25946463",
+  "titulo_artigo": "Mitochondria DNA change and oxidative damage in clinically stable patients with major depressive disorder.",
+  "autores": [
+   "Chang CC",
+   "Jou SH",
+   "Lin TT",
+   "Lai TJ",
+   "Liu CS"
+  ],
+  "revista_ano": "PLoS One (2015)",
+  "desenho_estudo": "[EC] 40 TDM clinicamente estáveis × 70 controles (PLoS One) · PLoS One",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Em pacientes clinicamente estáveis, o CN leucocitário do mtDNA é significativamente menor e o dano oxidativo significativamente maior do que nos controles — ilustra a heterogeneidade direcional do CN.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CHANG_2015"
+  ],
+  "id_referencia_interna": "REF_CHANG_2015",
+  "doi": "10.1371/journal.pone.0125855",
+  "claim_id_origem": "B9.MEC.BLOCO02.009",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "CN leucocitário MENOR + dano oxidativo do mtDNA MAIOR (direções cruzadas)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "CHANG",
+   "Chang"
+  ]
+ },
+ {
+  "pmid_oficial": "38161720",
+  "titulo_artigo": "Mitochondrial DNA oxidation, methylation, and copy number alterations in major and bipolar depression.",
+  "autores": [
+   "Ceylan D",
+   "Karacicek B",
+   "Tufekci KU",
+   "Aksahin IC",
+   "Senol SH",
+   "Genc S"
+  ],
+  "revista_ano": "Front Psychiatry (2023)",
+  "desenho_estudo": "[EC] TDM × bipolar × controles; remissão 8 semanas (Front Psychiatry) · Front Psychiatry",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "A metilação do D-loop está aumentada na TDM versus bipolar e controles, com mtDNA-cn e oxidação comparáveis; CN relative e metilação caem na remissão — distintas modificações do mtDNA entre condições.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_CEYLAN_2023"
+  ],
+  "id_referencia_interna": "REF_CEYLAN_2023",
+  "doi": "10.3389/fpsyt.2023.1304660",
+  "claim_id_origem": "B9.MEC.BLOCO02.010",
+  "evid_role": "human_clinical",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "metilação do D-loop ↑ na TDM (CN/oxidação comparáveis); CN e metilação caem na remissão (≠ vigente Ceylan 2024)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; MeSH pendente de indexação (espécie inferida por título/abstract); 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "CEYLAN",
+   "Ceylan"
+  ]
+ },
+ {
+  "pmid_oficial": "29500956",
+  "titulo_artigo": "High levels of mitochondrial DNA are associated with adolescent brain structural hypoconnectivity and increased anxiety but not depression.",
+  "autores": [
+   "Tymofiyeva O",
+   "Henje Blom E",
+   "Ho TC",
+   "Connolly CG",
+   "Lindqvist D",
+   "Wolkowitz OM",
+   "Lin J",
+   "LeWinn KZ",
+   "Sacchet MD",
+   "Han LKM",
+   "Yuan JP",
+   "Bhandari SP",
+   "Xu D",
+   "Yang TT"
+  ],
+  "revista_ano": "J Affect Disord (2018)",
+  "desenho_estudo": "[EC] adolescentes; mtDNA-cn + ressonância (J Affect Disord) · J Affect Disord",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Em adolescentes, o mtDNA-cn aumentado associa-se a mais sintomas de ansiedade e a menor conectividade estrutural fronto-ocipital.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_TYMOFIYEVA_2018"
+  ],
+  "id_referencia_interna": "REF_TYMOFIYEVA_2018",
+  "doi": "10.1016/j.jad.2018.02.024",
+  "claim_id_origem": "B9.MEC.BLOCO02.011",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "mtDNA-cn alto × sintomas ansiosos × conectividade fronto-ocipital",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "TYMOFIYEVA",
+   "Tymofiyeva"
+  ]
+ },
+ {
+  "pmid_oficial": "40517524",
+  "titulo_artigo": "Early life stress, psychiatric conditions, and mitochondrial DNA copy number (mtDNAcn) in medically healthy young adults.",
+  "autores": [
+   "Beck QM",
+   "Daniels TE",
+   "Brick LA",
+   "Parade SH",
+   "Hjelm BE",
+   "Ambat B",
+   "Gerke D",
+   "Vawter MP",
+   "Tyrka AR"
+  ],
+  "revista_ano": "Psychoneuroendocrinology (2025)",
+  "desenho_estudo": "[EC] estresse precoce (ELS) com/sem condição psiquiátrica (Psychoneuroendocrinology) · Psychoneuroendocrinology",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "O mtDNAcn está aumentado em indivíduos com estresse precoce E condição psiquiátrica, mas não naqueles com ELS sem psicopatologia — o efeito do estresse aparece apenas com sintomatologia.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BECK_2025"
+  ],
+  "id_referencia_interna": "REF_BECK_2025",
+  "doi": "10.1016/j.psyneuen.2025.107504",
+  "claim_id_origem": "B9.MEC.BLOCO02.012",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "ELS só eleva mtDNAcn quando há sintomatologia psiquiátrica",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "BECK",
+   "Beck"
+  ]
+ },
+ {
+  "pmid_oficial": "37344456",
+  "titulo_artigo": "Mitochondria-wide association study observed significant interactions of mitochondrial respiratory and the inflammatory in the development of anxiety and depression.",
+  "autores": [
+   "Liu L",
+   "Cheng S",
+   "Qi X",
+   "Meng P",
+   "Yang X",
+   "Pan C",
+   "Chen Y",
+   "Zhang H",
+   "Zhang Z",
+   "Zhang J",
+   "Li C",
+   "Wen Y",
+   "Jia Y",
+   "Cheng B",
+   "Zhang F"
+  ],
+  "revista_ano": "Transl Psychiatry (2023)",
+  "desenho_estudo": "[EC] MiWAS no UK Biobank (Transl Psychiatry); N≈72–81 mil por desfecho · Transl Psychiatry",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Estudo de associação mitocondrial-ampla identifica SNPs do mtDNA associados a ansiedade/depressão e interações mtDNA×PCR significativas — documenta o acoplamento mitocôndria–inflamação em escala populacional.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LIU_2023"
+  ],
+  "id_referencia_interna": "REF_LIU_2023",
+  "doi": "10.1038/s41398-023-02518-y",
+  "claim_id_origem": "B9.MEC.BLOCO02.013",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "mtDNA × CRP: interações para ansiedade/depressão — ponte B1",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "LIU",
+   "Liu",
+   "LIUL",
+   "Liu L",
+   "LiuL2023"
+  ]
+ },
+ {
+  "pmid_oficial": "19290059",
+  "titulo_artigo": "Mitochondrial variants in schizophrenia, bipolar disorder, and major depressive disorder.",
+  "autores": [
+   "Rollins B",
+   "Martin MV",
+   "Sequeira PA",
+   "Moon EA",
+   "Morgan LZ",
+   "Watson SJ",
+   "Schatzberg A",
+   "Akil H",
+   "Myers RM",
+   "Jones EG",
+   "Wallace DC",
+   "Bunney WE",
+   "Vawter MP"
+  ],
+  "revista_ano": "PLoS One (2009)",
+  "desenho_estudo": "[EC] tecido cerebral pós-morte (PLoS One) · PLoS One",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Variantes de sequência do mtDNA descritas em cérebro pós-morte através de esquizofrenia, bipolar e TDM, com associação entre pH cerebral e super-haplogrupo — exploração, não marcador fechado.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ROLLINS_2009"
+  ],
+  "id_referencia_interna": "REF_ROLLINS_2009",
+  "doi": "10.1371/journal.pone.0004913",
+  "claim_id_origem": "B9.MEC.BLOCO02.014",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "variantes de mtDNA em esquizofrenia/bipolar/TDM; pH × haplogrupo",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "ROLLINS",
+   "Rollins"
+  ]
+ },
+ {
+  "pmid_oficial": "26011537",
+  "titulo_artigo": "Mitochondrial mutations in subjects with psychiatric disorders.",
+  "autores": [
+   "Sequeira A",
+   "Rollins B",
+   "Magnan C",
+   "van Oven M",
+   "Baldi P",
+   "Myers RM",
+   "Barchas JD",
+   "Schatzberg AF",
+   "Watson SJ",
+   "Akil H",
+   "Bunney WE",
+   "Vawter MP"
+  ],
+  "revista_ano": "PLoS One (2015)",
+  "desenho_estudo": "[EC] tecido cerebral pós-morte; sequenciamento (PLoS One) · PLoS One",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Mutações somáticas de mtDNA em tecido cerebral observadas em maior frequência em casos selecionados de transtornos psiquiátricos — indicadores de instabilidade genômica mitocondrial.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SEQUEIRA_2015"
+  ],
+  "id_referencia_interna": "REF_SEQUEIRA_2015",
+  "doi": "10.1371/journal.pone.0127280",
+  "claim_id_origem": "B9.MEC.BLOCO02.015",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "mutações somáticas de mtDNA mais frequentes em casos selecionados",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "SEQUEIRA",
+   "Sequeira"
+  ]
+ },
+ {
+  "pmid_oficial": "37587338",
+  "titulo_artigo": "Nuclear genetic control of mtDNA copy number and heteroplasmy in humans.",
+  "autores": [
+   "Gupta R",
+   "Kanai M",
+   "Durham TJ",
+   "Tsuo K",
+   "McCoy JG",
+   "Kotrys AV",
+   "Zhou W",
+   "Chinnery PF",
+   "Karczewski KJ",
+   "Calvo SE",
+   "Neale BM",
+   "Mootha VK"
+  ],
+  "revista_ano": "Nature (2023)",
+  "desenho_estudo": "[EC] genética populacional em larga escala (Nature) · Nature",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "A variação comum do genoma nuclear exerce controle genético sobre a abundância de mtDNA e a dinâmica da heteroplasmia na população humana.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GUPTA_2023"
+  ],
+  "id_referencia_interna": "REF_GUPTA_2023",
+  "doi": "10.1038/s41586-023-06426-5",
+  "claim_id_origem": "B9.MEC.BLOCO02.016",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "o genoma nuclear molda CN e dinâmica de heteroplasmia",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "GUPTA",
+   "Gupta"
+  ]
+ },
+ {
+  "pmid_oficial": "34742335",
+  "titulo_artigo": "Characterization of mitochondrial DNA quantity and quality in the human aged and Alzheimer's disease brain.",
+  "autores": [
+   "Klein HU",
+   "Trumpff C",
+   "Yang HS",
+   "Lee AJ",
+   "Picard M",
+   "Bennett DA",
+   "De Jager PL"
+  ],
+  "revista_ano": "Mol Neurodegener (2021)",
+  "desenho_estudo": "[EC] cérebro humano envelhecido; patologias da idade (Mol Neurodegener) · Mol Neurodegener",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "No cérebro envelhecido, o mtDNAcn recalibra-se conforme a carga de patologias etárias; mutações puntiformes/heteroplasmia não se associam à patogênese — contextual, não leitura do humor.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_KLEIN_2021"
+  ],
+  "id_referencia_interna": "REF_KLEIN_2021",
+  "doi": "10.1186/s13024-021-00495-8",
+  "claim_id_origem": "B9.MEC.BLOCO02.017",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "CAMADA C contextual: recalibração do mtDNA por patologia etária; mutações puntiformes SEM papel maior",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "KLEIN",
+   "Klein"
+  ]
+ },
+ {
+  "pmid_oficial": "28153046",
+  "titulo_artigo": "Mitochondrial DNA point mutations and relative copy number in 1363 disease and control human brains.",
+  "autores": [
+   "Wei W",
+   "Keogh MJ",
+   "Wilson I",
+   "Coxhead J",
+   "Ryan S",
+   "Rollinson S",
+   "Griffin H",
+   "Kurzawa-Akanbi M",
+   "Santibanez-Koref M",
+   "Talbot K",
+   "Turner MR",
+   "McKenzie CA",
+   "Troakes C",
+   "Attems J",
+   "Smith C",
+   "Al Sarraj S",
+   "Morris CM",
+   "Ansorge O",
+   "Pickering-Brown S",
+   "Ironside JW",
+   "Chinnery PF"
+  ],
+  "revista_ano": "Acta Neuropathol Commun (2017)",
+  "desenho_estudo": "[EC] 1.363 amostras doença/controle (Acta Neuropathol Commun) · Acta Neuropathol Commun",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Em 1.363 amostras, variantes puntiformes do mtDNA não mostram papel maior na patogênese das doenças neurodegenerativas, enquanto os níveis de mtDNA (reduzidos em DA/CJD) merecem investigação — inventário negativo de fronteira.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_WEI_2017"
+  ],
+  "id_referencia_interna": "REF_WEI_2017",
+  "doi": "10.1186/s40478-016-0404-6",
+  "claim_id_origem": "B9.MEC.BLOCO02.018",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "NEG de fronteira: variantes puntiformes do mtDNA sem papel maior nas neurodegenerações; níveis merecem investigação",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "WEI",
+   "Wei"
+  ]
+ },
+ {
+  "pmid_oficial": "29984425",
+  "titulo_artigo": "Mitochondrial DNA m.13514G>A heteroplasmy is associated with depressive symptoms in the elderly.",
+  "autores": [
+   "Tranah GJ",
+   "Maglione JE",
+   "Yaffe K",
+   "Katzman SM",
+   "Manini TM",
+   "Kritchevsky S",
+   "Newman AB",
+   "Harris TB",
+   "Cummings SR",
+   "Health, Aging and Body Composition Study"
+  ],
+  "revista_ano": "Int J Geriatr Psychiatry (2018)",
+  "desenho_estudo": "[EC] homens idosos; plaqueta (Int J Geriatr Psychiatry) · Int J Geriatr Psychiatry",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "A heteroplasmia do mtDNA no sítio m.13514G>A do complexo I associa-se a sintomas depressivos em homens idosos — fator de risco biológico candidato.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_TRANAH_2018"
+  ],
+  "id_referencia_interna": "REF_TRANAH_2018",
+  "doi": "10.1002/gps.4928",
+  "claim_id_origem": "B9.MEC.BLOCO02.019",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "heteroplasmia m.13514G>A (complexo I) × sintomas depressivos",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "TRANAH",
+   "Tranah"
+  ]
+ },
+ {
+  "pmid_oficial": "40915505",
+  "titulo_artigo": "Complete mitochondrial DNA sequence analysis in patients with major depressive disorder.",
+  "autores": [
+   "Yin X",
+   "Fu Y",
+   "Yu H",
+   "Wang F",
+   "Zhang Q",
+   "Xu Y",
+   "Cao M",
+   "Mei X",
+   "Jing P"
+  ],
+  "revista_ano": "J Affect Disord (2026)",
+  "desenho_estudo": "[EC] sequenciamento completo do mtDNA; TDM (J Affect Disord) · J Affect Disord",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "A análise completa da sequência do mtDNA na TDM aponta que o risco não se resume à carga mutacional — mutações funcionais específicas e um haplótipo protetor candidato (B4) se destacam.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_YIN_2026"
+  ],
+  "id_referencia_interna": "REF_YIN_2026",
+  "doi": "10.1016/j.jad.2025.120206",
+  "claim_id_origem": "B9.MEC.BLOCO02.020",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "carga de mutações + mutações funcionais específicas; haplótipo protetor candidato",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "YIN",
+   "Yin"
+  ]
+ },
+ {
+  "pmid_oficial": "41792945",
+  "titulo_artigo": "Association of Mitochondrial DNA Genetic Variants With Depression and Anxiety in Chinese Patients With Systemic Lupus Erythematosus.",
+  "autores": [
+   "Zong Q",
+   "Li Y",
+   "Wang Y",
+   "Feng Y",
+   "Yu Y",
+   "Zhang M",
+   "Tang Y",
+   "Cui L",
+   "Cai L",
+   "Xu Y",
+   "Sun H",
+   "Gong X",
+   "Liu Y",
+   "Liu S",
+   "Chen Y",
+   "Li W",
+   "Pan H",
+   "Pan F",
+   "Su H",
+   "Zou Y"
+  ],
+  "revista_ano": "Int J Rheum Dis (2026)",
+  "desenho_estudo": "[EC] pacientes chineses com lúpus eritematoso sistêmico; dois estágios (Int J Rheum Dis) · Int J Rheum Dis",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Variantes genéticas do mtDNA associam-se a depressão e ansiedade em pacientes com lúpus, com alterações concordantes de ROS, IL-6 e ATP no grupo variante — comorbidade em doença sistêmica, não TDM primária.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ZONG_2026"
+  ],
+  "id_referencia_interna": "REF_ZONG_2026",
+  "doi": "10.1111/1756-185x.70595",
+  "claim_id_origem": "B9.MEC.BLOCO02.021",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "FRONTEIRA contextual: depressão/ansiedade EM comorbidade de doença sistêmica",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "ZONG",
+   "Zong"
+  ]
+ },
+ {
+  "pmid_oficial": "41634133",
+  "titulo_artigo": "Powering the mind: deciphering the shared genetic architecture between mitochondrial DNA copy number and major psychiatric disorders.",
+  "autores": [
+   "Xue H",
+   "Lei M",
+   "Zhao Q",
+   "Zhang Z",
+   "Sun Z",
+   "Zhang Y",
+   "Zhai Y",
+   "Xu J",
+   "Wang Y",
+   "An Q",
+   "Cai W",
+   "Jia L",
+   "Li S",
+   "Dai XJ",
+   "Liu F"
+  ],
+  "revista_ano": "Mol Psychiatry (2026)",
+  "desenho_estudo": "[EC] maiores GWAS disponíveis; arquitetura compartilhada (Mol Psychiatry) · Mol Psychiatry",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "Mapeamento da arquitetura genética compartilhada entre mtDNA-CN e condições psiquiátricas: sobreposição global, loci compartilhados e vias ubiquitina/desenvolvimento com sub-regulação em regiões cerebrais-chave.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_XUE_2026"
+  ],
+  "id_referencia_interna": "REF_XUE_2026",
+  "doi": "10.1038/s41380-026-03463-0",
+  "claim_id_origem": "B9.MEC.BLOCO02.023",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "arquitetura genética compartilhada mtDNA-CN × transtornos psiquiátricos — ≠ causalidade (regra 3)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "XUE",
+   "Xue"
+  ]
+ },
+ {
+  "pmid_oficial": "39197553",
+  "titulo_artigo": "Association between blood mitochondrial DNA copy number and mental disorders: A bidirectional two-sample mendelian randomization study.",
+  "autores": [
+   "Lu Y",
+   "Han L",
+   "Wang X",
+   "Liu X",
+   "Jia X",
+   "Lan K",
+   "Gao S",
+   "Feng Z",
+   "Yu L",
+   "Yang Q",
+   "Cui N",
+   "Wei YB",
+   "Liu JJ"
+  ],
+  "revista_ano": "J Affect Disord (2024)",
+  "desenho_estudo": "[EC] randomização mendeliana bidirecional de duas amostras (J Affect Disord) · J Affect Disord",
+  "secao_origem": "mecanismo_B9_disfuncao_mitocondrial",
+  "achado_central_molecular": "A MR bidirecional NÃO sustentou associação causal entre mtDNA-CN no sangue e MDD, ansiedade, bipolar, esquizofrenia ou TOC (nem vias reversas); sustentou sinal potencial apenas para TEA — fora do escopo. Qualificador interpretativo, não refutação da disfunção.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LU_2024"
+  ],
+  "id_referencia_interna": "REF_LU_2024",
+  "doi": "10.1016/j.jad.2024.08.162",
+  "claim_id_origem": "B9.MEC.BLOCO02.024",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "regra fundadora 3: MR NULO para mtDNA-CN × MDD/ansiedade/bipolar/esquizofrenia/TOC e reversos; briefing dizia \"não resolvido\" — é 39197553",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B9 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid] + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "LU",
+   "Lu",
+   "LUY",
+   "Lu Y"
+  ]
+ }
+]

@@ -1,0 +1,42 @@
+SCHEMAS L-05 — VERSÕES VIGENTES (correntes) — entrega 2026-09-19 · rodada 37
+================================================================================
+
+RESPOSTA DIRETA: o arquivo "schema_vinculo_v1.1.json" NÃO é o atualizado.
+É o PRIMEIRO elo da cadeia (recebido 2026-09-15), marcado internamente como
+"PROPOSTA v1.1 — não normativo".
+
+CADEIA N2 — Vínculo Evidência↔Afirmação↔Entidades (a versão real vive no $id interno):
+  v1.1 · 2026-09-15 · 10.708 b · sha b0934412b010b7e0801f372ae57769fe0daa42c046e757128788159ec9ff4130  (histórico)
+  v1.2 · 2026-09-16 · 11.122 b · sha 19f4f29a8763aa635a09d16c1bd960af2687da62a5f79700b8dfd57081d73360  (histórico)
+  v1.3 · 2026-09-17 · 12.307 b · sha ec4f0de88fd0d845ad91f1d413132fa7d9a5c38d1f9f2f7abff1d3a27e7bf836  (histórico)
+  v1.4 · 2026-09-18 · 12.840 b · sha d96ad15b620fa373d8d95d44159a9f3db31c04cfed051d85c7ab014cb3c65050  <<< VIGENTE
+CADEIA N1 — Registro de Referência:
+  v1.1 · 2026-09-15 ·  7.796 b · sha 737bcda824b6c355d4f9b34faa3703e5ff94537b65751efbcc9d26b4b93553db  (histórico)
+  v1.2 · 2026-09-16 ·  8.674 b · sha b8bcea8084fc17a296ef2beebd709bb2c90a7d816918ddfda74a0667e6ec168a  (histórico)
+  v1.3 · 2026-09-17 ·  9.582 b · sha b06660fd985a8186dbe5ed2878f15d3badd2356e11f4d0c9b71e78d2b2e4e7da  <<< VIGENTE
+
+CONTEÚDO DESTE PACOTE (cópias byte-verbatim do acervo):
+  1) schema_vinculo_v1.4__N2_VIGENTE.json          sha d96ad15b…  ($id = L05/schema_vinculo_v1.4.json)
+  2) schema_referencia_v1.3__N1_VIGENTE.json       sha b06660fd…  ($id = L05/schema_referencia_v1.3.json)
+  3) L05_SCHEMA_..._v1.4_PROPOSTA__ESPECIFICACAO.md sha 78a0f2afcd2a… (minuta v1.4 que descreve os dois)
+
+CAUSAS DA CONFUSÃO (nomeadas):
+  a) os uploads vieram como "schema_vinculo_v1.json / (1) / (2)" — o número do arquivo é do
+     navegador; a versão real está DENTRO do JSON, no campo $id;
+  b) a Arquitetura V2.2 oficial (df7f7cfd…, aprovada 2026-09-19) ainda cita os nomes v1.1
+     em §5.1/§5.2 → dívida já registrada: D-V22-SCHEMA-NOMES (correção editorial futura);
+  c) os próprios vigentes trazem "PROPOSTA — não normativo" na description interna — rótulo
+     que nunca foi atualizado após o aceite técnico.
+
+STATUS DE GOVERNANÇA (declarado com precisão, sob a regra nova rev.42):
+  · Aceite TÉCNICO do ciclo: N1 v1.3 + N2 v1.4 "estruturalmente aprovados como base de
+    fechamento do L-05" — comentador (ChatGPT) na rodada 29 (2026-09-18), subscrito pela
+    casa após réplica integral (trilha 48: 52/52; 26 casos sintéticos falsificáveis 26/26).
+  · Aprovação FORMAL do operador com sha+data, no padrão da regra nova de versionamento,
+    NÃO consta registrada para estes dois schemas (homologação pendente registrada apenas
+    para o desfecho D4). Sugestão da casa: ato formal simples — "aprovado" do operador e
+    a casa grava sha/data — para selar o conjunto, como foi feito com a V2.2 na rodada 36.
+
+VERIFICAÇÃO (no seu computador):
+  sha256sum schema_vinculo_v1.4__N2_VIGENTE.json   → d96ad15b620fa373d8d95d44159a9f3db31c04cfed051d85c7ab014cb3c65050
+  sha256sum schema_referencia_v1.3__N1_VIGENTE.json → b06660fd985a8186dbe5ed2878f15d3badd2356e11f4d0c9b71e78d2b2e4e7da

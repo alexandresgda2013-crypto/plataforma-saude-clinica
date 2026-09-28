@@ -1,0 +1,56 @@
+{
+  "trilha": 33,
+  "data": "2026-09-15",
+  "tema": "Kit clínica (5 docs) + 2 complementares — arquivo verbatim, digitais, leitura integral e cruzamento PMIDs × acervo B1 V7 (pergunta do operador: 'a B1 já tem os achados?')",
+  "arquivos": {
+    "pasta_arquivo_verbatim": "BIBLIOTECAS/_documentos_serie/KIT_CLINICA_recebido_2026-09-15/",
+    "digitais": {
+      "2º PROTOCOLO DE ESCOPO — B1 (v1.3).md": "8968394171d34fddbb86203a50b42d26ba03f76a09738a0cb0da700082aad5d1",
+      "3º SCHEMA-CLAIM — v1.2.md": "56dc0e94cc2e2983384190706bc00977db38f82d4d2663c1c4eca533683b0e79",
+      "4º COMO EXECUTAR — v1.7.md": "186135166e061c85d7751a9b6a65955b2ccc999f4866e9f9af8cba8975771954",
+      "5º LISTA CANÔNICA — B1  SM-02 V1.3.md": "3252a920c6e972f21804f0488d6fd34df49ea59c6e23c8dd21e3ebf1239a37dd",
+      "6º BLOCO DE ESTADO  v1.6.md": "0a630dba84f2f03d0d0aa727308a9b6eefef15cd7e0be0e7ae080b7f377756ae",
+      "ESTRUTURA MESTRE.md": "f432174ff2ee1dbd6007d67a1d77ed5ada25484e1a1571088f4926cc724922bc",
+      "TEXTO EXPLICATIVO DOS OBJETIVOS (DEIXAR JUNTO DOS DOCUMENTOS.md": "36c7d6ad6dc2dcf7522c7121427da72b21ce0bcbd2bf286799cb102466f677fb"
+    },
+    "verificacao_pos_copia": "sha256sum via DIGITAIS_KIT_2026-09-15.txt dentro da pasta — idênticos aos uploads (byte a byte)"
+  },
+  "o_que_e_o_kit": "kit de produção MANUAL da camada atômica de verdade (claims G1/G2/G3) da origem do projeto (documentos de 2026-08; Bloco aponta continuação de sessões além do cabeçalho). item 1º (_ids_oficiais.json) não veio no envio.",
+  "comandos": [
+    {"id":"K1","cmd":"sha256sum dos 7 arquivos (uploads e cópia verbatim)","resultado":"idênticos byte a byte"},
+    {"id":"K2","cmd":"script producao/script_cruzamento_kitclinica_x_B1V7_2026-09-15.py — claims_aprovados do BLOCO, regex pmid:\\s*\"?(\\d{7,9}), dedup por claim × acervo por campo pmid_oficial (237 fichas, 0 sem pmid)","resultado":{
+      "citacoes_dedup_por_claim": 57, "em_V7": 13, "ausentes": 44,
+      "pmids_unicos": 49, "unicos_em_V7": 10, "unicos_ausentes": 39,
+      "por_claim": {"OK": [".002",".005",".005b",".010"], "PARCIAL": [".001",".001b",".007",".015"], "ZERO": [".001c",".001d",".003",".004",".006",".007b",".008",".009",".011",".012",".012b",".012c",".013",".013b"]}
+    }},
+    {"id":"K3","cmd":"cobertura das filas da LISTA (futura/realocacao/redirecionados) e das fontes_rejeitadas do BLOCO × pmid_oficial","resultado":{
+      "LISTA fontes das entradas": "18 únicos · 6 em V7",
+      "fila_futura (SM-03/13/14)": "5 únicos · 0 em V7",
+      "fila_realocacao": "35 únicos · 3 em V7: 19188531→REF_HOWREN_2009 · 21605657→REF_SUBLETTE_2011 · 39666148→REF_YANG_2024b (as 3 com destino de realocação no kit — coerência de uso a conferir na régua)",
+      "redirecionados (preclínica)": "4 únicos · 0 em V7",
+      "fontes_rejeitadas BLOCO": "92 únicos · 1 presente em V7: 34864233→REF_GARCIAGARCIA_2022 (kit rejeitou p/ SM-02 = existência basal, destino INT_*/SM-14; V7 ficha evid_role=review, claim B1.MEC.BLOCO06.001 — COERENTE apenas se a V7 o usar como intervenção/modulação, não como prova basal; item de conferência, não acusação)"
+    }},
+    {"id":"K4","cmd":"wiring claim×biblioteca: claim_id_origem no acervo × padrão B1.SM02","resultado":"V7 usa namespace B1.MEC.BLOCOxx.nnn (11 distintos); fichas com B1.SM02.*: 0; BLOCO usado_em_biblioteca: 'nao' em 22/22 → 0 claims SM-02 ligados formalmente à biblioteca"},
+    {"id":"K5","cmd":"enums evid_role V7 × evidence_role kit","resultado":"V7: preclinical_mechanistic 133 · human_clinical 66 · review 30 · human_experimental 6 · post_mortem 2 (review = as 30 fichas da Decisão 2, fora do enum do kit SC v1.2 {human_clinical|human_experimental|post_mortem|preclinical_mechanistic}); BLOCO usa só human_clinical (SM-02 trilha humana, coerente com nota_trilha_constante)"},
+    {"id":"K6","cmd":"higiene interna do kit (grep/tabs/chaves)","resultado":{
+      "BLOCO v1.6": "cabeçalho diz 13 aprovados + proximo_alvo .008/.012/.013, mas o CORPO tem 22 entries (incl. .008/.012/.012b/.012c/.013/.013b/.015) → trabalho anexado sem bump de versão; 69 linhas com TAB (o defeito que a própria v1.6 celebra ter removido); chave 'fontes_rejeitadas:' aparece ≥2x como bloco real (log PRISMA redividido); 1x '- Claim_id:' maiúsculo",
+      "LISTA v1.3": "status_geral 'aprovados: 13' com comentário listando 15 ids; entradas .008/.012/.013 marcadas aprovadas enquanto proximo_alvo as lista como alvos; status fora do enum por capitalização: 'Aprovado_com_ressalva' (.012), 'Aprovado' (.013); .013b mal indentado",
+      "COMO EXECUTAR v1.7": "declara desfecho de .017 mudado por texto completo (33515765) — mas .017 não tem entrada no BLOCO (estado não registrado)",
+      "dupla disposição aberta": "20132991 em fontes_rejeitadas (origem .012) E como corroborante de .012c; conflito 33339712/30696814 (rejeitado × realocar a B4) ainda pendente de decisão humana (nota_conflito_pendente)",
+      "arquivos referenciados ausentes do envio": "_ids_oficiais.json (item 1º do kit), CANDIDATOS_IDS_OFICIAIS.yaml (NLR/S100B pendentes), 'Estudos que não foram escolhidos.md' (17+ PMIDs)"
+    }},
+    {"id":"K7","cmd":"sobrenomes de autores dos PMIDs ausentes × canônica V7","resultado":"ausentes como ficha E como nome citado: Brundin/Erhardt/Lindqvist (QUIN .011), Danese (.007b), Haapakoski (.003/.004), Zhang/Vogelzangs (.001/.001b), Mousten (.009), Kuring (.006), Ishii/Kroksmark/Schmidt FM/Heidrich (.012/.013); presentes: Jarkas, Costello, Quagliato, Parsons, Enache, Setiawan, Eggerstorfer"}
+  ],
+  "resposta_operador": {
+    "q1_B1_tem_os_achados": "Parcialmente. Dos 49 PMIDs únicos que sustentam os 22 claims aprovados, 10 (20,4%) existem como ficha na B1 V7; 39 (79,6%) não. Cobertura integral por claim: 4 OK / 4 parciais / 14 zero. Ligação formal claim→biblioteca: 0 (namespaces distintos SM02 manual × MEC pipeline; usado_em_biblioteca 'nao' em todos).",
+    "q2_produzido_separado": "Por design (escrito nos próprios docs): NÃO é produto separado — o kit é a camada de curadoria que ALIMENTA a biblioteca (claim → evidência ancorada → narrativa; SCHEMA-CLAIM usado_em_biblioteca ↔ claim_id_origem no Módulo 09; TEXTO EXPLICATIVO 'bibliotecas alimentarão um motor clínico'). O 'separado' que o operador percebeu é ESTADO, não decisão: hoje coexistem duas linhas de claims sem fio (B1.SM02 manual × B1.MEC pipeline). São separados POR DECISÃO apenas: contratos do Motor (L-05/L-06), NT, PU e a anamnese clínica (camada futura, L-NT)."
+  },
+  "destrava_causa_raiz": {
+    "uso_§9_v1.1": "o kit JÁ carrega uso{clinico|contexto_mecanistico|gap_pesquisa} + evidence_role + comparador por claim — exatamente os campos que faltam ao acervo V7 (natureza_evidencia/trilha = os 2 ERRO do P-8)",
+    "regua_anexos_1.2": "as duas linhas de claims agora medidas (SM02×MEC, 0 wiring) dão o objeto real da régua",
+    "tipagem_risco_D08": "moderadores[].regra_motor já escritos em linguagem de motor no kit (IL-6/sexo, IMC, maus-tratos RR=2.07, genótipo ACMSD, método violento, tempo desde tentativa, <18 anos)",
+    "piloto_L06": "candidatos reais na B1: conflito de disposição 33339712/30696814 (a executar: decisão humana) e contradição C1q Luo 2022 × Yao&Li 2020 documentada na nota_ressalva de .013"
+  },
+  "ciencia_tocada": false,
+  "saida": "GUIA_ENVIO_KIT_CLINICA_AO_MESTRE_2026-09-15.md + resposta ao operador; decisoes rev.20; CHANGELOG 17"
+}

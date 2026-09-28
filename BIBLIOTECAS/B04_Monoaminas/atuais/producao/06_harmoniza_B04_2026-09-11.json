@@ -1,0 +1,824 @@
+{
+ "data": "2026-09-11",
+ "bib": "B04",
+ "arquivo": "/home/user/BIBLIOTECAS/B04_Monoaminas/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json",
+ "backup": "/home/user/BIBLIOTECAS/B04_Monoaminas/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json.bak_20260911_173131",
+ "bloq_pre": 247,
+ "bloq_pos": 131,
+ "residual_schema": 131,
+ "decisoes": "DECISOES_HARMONIZACAO_SCHEMA_2026-09-11.md",
+ "alteracoes": [
+  {
+   "id_vinculo": "VINC_B4_001",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_002",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_003",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_004",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_005",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_006",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_007",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_008",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_009",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_010",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_011",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_012",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_013",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_014",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_015",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_016",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_017",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_018",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_019",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_020",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_021",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_022",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_023",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_024",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_025",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_026",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_027",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_028",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_029",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_030",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_031",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_032",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_033",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_034",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_035",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_036",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_037",
+   "campo": "status_referencia",
+   "de": "CONFIRMADA",
+   "para": "VALIDADO",
+   "regra": "D1"
+  },
+  {
+   "id_vinculo": "VINC_B4_038",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_039",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_040",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_041",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_042",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_043",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_044",
+   "campo": "evid_role",
+   "de": "meta_analise",
+   "para": "human_clinical",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_045",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_046",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_047",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_048",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_049",
+   "campo": "evid_role",
+   "de": "meta_analise",
+   "para": "human_clinical",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_053",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_054",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_055",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_056",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_057",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_058",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_059",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_060",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_061",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_062",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_063",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_064",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_065",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_066",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_067",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_069",
+   "campo": "evid_role",
+   "de": "meta_analise",
+   "para": "human_clinical",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_070",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_071",
+   "campo": "evid_role",
+   "de": "meta_analise",
+   "para": "human_clinical",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_074",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_075",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_078",
+   "campo": "evid_role",
+   "de": "meta_analise",
+   "para": "human_clinical",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_080",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_082",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_083",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_084",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_085",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_086",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_087",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_088",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_089",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_090",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_091",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_095",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_096",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_097",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_098",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_099",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_100",
+   "campo": "evid_role",
+   "de": "meta_analise",
+   "para": "human_clinical",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_101",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_102",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_103",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_104",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_105",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_106",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_107",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_108",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_109",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_110",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_111",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_112",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_113",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_114",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_115",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_116",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_117",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_118",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_119",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_120",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_121",
+   "campo": "evid_role",
+   "de": "preclinico_mecanistico",
+   "para": "preclinical_mechanistic",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_122",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_124",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_125",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_126",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_127",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_128",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_129",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  },
+  {
+   "id_vinculo": "VINC_B4_130",
+   "campo": "evid_role",
+   "de": "revisao_mecanistica",
+   "para": "review",
+   "regra": "D2"
+  }
+ ]
+}

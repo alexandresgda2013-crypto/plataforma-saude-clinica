@@ -1,0 +1,905 @@
+{
+  "meta": {
+    "canonica": "B2 EIXO HPA CORTISOL V2 CANONICA.md",
+    "sha256": "775d3bdebcaeadf9569888b0e2535500bf838ce168536cbe4aaaa1472eb70a03",
+    "refs": 213,
+    "vinculos": 89,
+    "ledger": 213
+  },
+  "itens": [
+    {
+      "nivel": "OK",
+      "regra": "V-00",
+      "objeto": "-",
+      "mensagem": "canônica: B2 EIXO HPA CORTISOL V2 CANONICA.md (9010 palavras)"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-00",
+      "objeto": "-",
+      "mensagem": "Módulo 09: 213 · vínculos: 89 · ledger: 213"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-01",
+      "objeto": "-",
+      "mensagem": "89/89 âncoras literais; 0 com deriva TIPOGRÁFICA; 0 com deriva LEXICAL"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B2_025",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B2_060",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-02",
+      "objeto": "VINC_B2_0089",
+      "mensagem": "âncora aponta para linha-lote/tabela/título, não para frase de prosa — a referência não fica ligada a nenhuma afirmação científica"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_AKIRAV_2013",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_ANTONIJEVIC_2000",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_ANTONIJEVIC_2003",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_BABAEI_2022",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_BAES_2012",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_BAILLY_1984",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_BENEDICT_2009",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_BEN_2026",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_BERENS_2023",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_BERTOLINI_2024",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_BESS_2016",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_BHATT_2021",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_BOERO_2018",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_BOGGERO_2017",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_BORN_1998",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_BOWLES_2022",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_BROWN_1999",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_CARNAZZO_2026",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_CAROL_2016",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_CARROLL_1984",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_CARVALHO_2014",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_CHEN_2025",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_CRIADOMARRERO_2018",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_CRUZ_2023",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_CRUZ_2024",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_DAM_1988",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_DELIGIANNIDIS_2021",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_DEMIRALAY_2010",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_DERIJK_2003",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_DE_2016",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_DU_2023",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_EVANSON_2010",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_FEINGOLD_2000",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_FERNANDEZRODRIGUEZ_2026",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_FLESERIU_2012",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_GALBALLY_2020",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_GANDOMKAR_2026",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_GHOSH_2016",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_GORZALKA_2009",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_GOVER_2024",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_GRAEFF_2007",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_GREEN_1983",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_GUNDUZCINAR_2021",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_HARTMANN_2021",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_HAUCK_2025",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_HENINGER_1988",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_HERMAN_1997",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_HODES_2024",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_HOLLOWAY_2024",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_ISING_2005",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_ISING_2007b",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_JAMIESON_2017",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_JI_2007",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_JURUENA_2020",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_JURUENA_2021",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_KAKIASHVILI_2013",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_KEHNE_2007",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_KEHNE_2010",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_KHANAL_2026",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_KHANTAKOVA_2023",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_KHOURY_2023",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_KLINGERKONIG_2021",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_KOKKINOPOULOU_2021",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_KORTESLUOMA_2022",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_KOTHGASSNER_2021",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_KOUMANTAROU_2020",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_LABAD_2018",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_LABAD_2021",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_LAKSHMI_1991",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_LEE_2025b",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_LICINIO_2004",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_MAHURKARJOSHI_2020",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_MALDONADO_2020",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_MARTINEZ_2016",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_MARTINO_2013",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_MELTZERBRODY_2018",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_MELTZERBRODY_2020",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_MENDONCA_2023",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_MENKE_2024",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_MICHOPOULOS_2013",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_MODELL_1997",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_MODY_2019",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_MOHD_2021",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_MOKHTARI_2013",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_MOLCHAN_1990",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_MOMMERSTEEG_2006",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_MUMTAZ_2018",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_NAYANA_2022",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_NELSON_2012",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_NGUYEN_2017",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_NOTARIANNI_2013",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_NOTHLING_2025",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_OCONNOR_2020",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_OCONNOR_2021",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_PASCOE_2017",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_PAVLOU_2024",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_PERRIN_2019",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_PINNA_2022",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_RAJAN_1996",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_RIEBE_2011",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_RUPPRECHT_1989",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_SCHULE_2009",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_SCHULE_2014",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_SECKL_2024",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_SEDDON_2011",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_SHER_2006",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_SHIRAZI_2015",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_SJORS_2021",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_SMITH_2020",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_SOUSALIMA_2019",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_STARR_2019",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_STAUFENBIEL_2013",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_SZCZEPANKIEWICZ_2014",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_TER_2015",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_THOM_2026",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_UNO_1998",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_VAN_2007",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_VERHAEGHE_2012",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_WHEELAN_2018",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_WOLKOWITZ_1999",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_ZENNARO_2017",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_ZHANG_2022",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_ZHANG_2026",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_ZIMMERMAN_2009",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_ZOBEL_2001",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-04",
+      "objeto": "REF_ZORRILLA_2010",
+      "mensagem": "ficha do Módulo 09 sem nenhum vínculo (órfã)"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-05",
+      "objeto": "-",
+      "mensagem": "citações reconhecidas: 284/0 (100.0% de cobertura sobre universo de 284)"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-05",
+      "objeto": "(Fischer, 2017)",
+      "mensagem": "citação na prosa sem ficha correspondente no Módulo 09"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-05",
+      "objeto": "(Holsboer, 2008)",
+      "mensagem": "citação na prosa sem ficha correspondente no Módulo 09"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-05",
+      "objeto": "(Ising, 2025)",
+      "mensagem": "citação na prosa sem ficha correspondente no Módulo 09"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-05",
+      "objeto": "(Lee, 2018)",
+      "mensagem": "citação na prosa sem ficha correspondente no Módulo 09"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-05",
+      "objeto": "(McEwen, 2001)",
+      "mensagem": "citação na prosa sem ficha correspondente no Módulo 09"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-05",
+      "objeto": "(Pinneau, 2022)",
+      "mensagem": "citação na prosa sem ficha correspondente no Módulo 09"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-05",
+      "objeto": "(Uno, 1994)",
+      "mensagem": "citação na prosa sem ficha correspondente no Módulo 09"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-07",
+      "objeto": "corte_literatura",
+      "mensagem": "campo em texto livre (schema antigo) — só a data foi extraída; padronizar para objeto {valor, tipo} na série"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-07",
+      "objeto": "clinical_domains",
+      "mensagem": "manifesto=[] × canônica=['decisao_terapeutica', 'monitoramento', 'seguranca_clinica', 'triagem_clinica']"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-07",
+      "objeto": "status_canonico",
+      "mensagem": "campo ausente no manifesto"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-08",
+      "objeto": "n=884",
+      "mensagem": "claim quantitativo sem âncora de vínculo na mesma linha: «risco de TEPT (Xie 2010)[EC]; coorte prospectiva de 10 anos (n=884) confirmou…»"
+    },
+    {
+      "nivel": "ERRO",
+      "regra": "V-09",
+      "objeto": "claim_id",
+      "mensagem": "61 de 89 vínculos (68.5%) sem claim_id — malha de rastreabilidade não navegável por claim"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-10",
+      "objeto": "ledger",
+      "mensagem": "211 de 213 (99%) entradas com citacao_literal preenchida por TOKEN e não por citação literal — o detector de deriva ledger×texto está inoperante"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-13",
+      "objeto": "-",
+      "mensagem": "sha256 da canônica: 775d3bdebcaeadf9…"
+    },
+    {
+      "nivel": "AVISO",
+      "regra": "V-13",
+      "objeto": "manifesto",
+      "mensagem": "hash da canônica vigente não registrado no manifesto — edição fora de trilha não seria detectável"
+    },
+    {
+      "nivel": "OK",
+      "regra": "V-14",
+      "objeto": "-",
+      "mensagem": "docstring x implementação coerentes: 14 regras anunciadas, todas executadas"
+    }
+  ]
+}

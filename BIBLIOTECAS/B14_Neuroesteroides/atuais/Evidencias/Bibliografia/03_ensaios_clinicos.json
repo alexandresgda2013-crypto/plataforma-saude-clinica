@@ -1,0 +1,723 @@
+[
+ {
+  "pmid_oficial": "28319848",
+  "titulo_artigo": "Treatment of premenstrual dysphoric disorder with the GABA(A) receptor modulating steroid antagonist Sepranolone (UC1010)-A randomized controlled trial",
+  "autores": [
+   "Bixo M",
+   "Ekberg K",
+   "Poromaa IS",
+   "Hirschberg AL",
+   "Jonasson AF",
+   "Andréen L"
+  ],
+  "revista_ano": "Psychoneuroendocrinology (2017)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Tratamento do TDPM com antagonista esteroide GABA-A sepranolona (UC1011)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BIXO_2017"
+  ],
+  "id_referencia_interna": "REF_BIXO_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "BIXO",
+   "Bixo"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "34597899",
+  "titulo_artigo": "A randomized, double-blind study on efficacy and safety of sepranolone in premenstrual dysphoric disorder",
+  "autores": [
+   "Bäckström T",
+   "Ekberg K",
+   "Hirschberg AL",
+   "Bixo M",
+   "Epperson CN",
+   "Briggs P"
+  ],
+  "revista_ano": "Psychoneuroendocrinology (2021)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "ECR duplo-cego de sepranolona no TDPM",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BACKSTROM_2021"
+  ],
+  "id_referencia_interna": "REF_BACKSTROM_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "BACKSTROM",
+   "Backstrom"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "29322164",
+  "titulo_artigo": "Efficacy of Transdermal Estradiol and Micronized Progesterone in the Prevention of Depressive Symptoms in the Menopause Transition: A Randomized Clinical Trial",
+  "autores": [
+   "Gordon JL",
+   "Rubinow DR",
+   "Eisenlohr-Moul TA",
+   "Xia K",
+   "Schmidt PJ",
+   "Girdler SS"
+  ],
+  "revista_ano": "JAMA psychiatry (2018)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Estudo randomizado: estradiol transdérmico + progesterona micronizada na prevenção de sintomas depressivos na menopausa",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GORDON_2018"
+  ],
+  "id_referencia_interna": "REF_GORDON_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "GORDON",
+   "Gordon"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "26018333",
+  "titulo_artigo": "Effects of Estradiol Withdrawal on Mood in Women With Past Perimenopausal Depression: A Randomized Clinical Trial",
+  "autores": [
+   "Schmidt PJ",
+   "Ben Dor R",
+   "Martinez PE",
+   "Guerrieri GM",
+   "Harsh VL",
+   "Thompson K"
+  ],
+  "revista_ano": "JAMA psychiatry (2015)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Ensaio randomizado da retirada do estradiol sobre o humor (história de depressão perimenopausa)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SCHMIDT_2015"
+  ],
+  "id_referencia_interna": "REF_SCHMIDT_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "SCHMIDT",
+   "Schmidt"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "11386980",
+  "titulo_artigo": "Efficacy of estradiol for the treatment of depressive disorders in perimenopausal women: a double-blind, randomized, placebo-controlled trial",
+  "autores": [
+   "Soares CN",
+   "Almeida OP",
+   "Joffe H",
+   "Cohen LS"
+  ],
+  "revista_ano": "Archives of general psychiatry (2001)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Eficácia do estradiol no tratamento da depressão em mulheres perimenopausa (ECR duplo-cego)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SOARES_2001"
+  ],
+  "id_referencia_interna": "REF_SOARES_2001",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Soares",
+   "SOARES"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "10200751",
+  "titulo_artigo": "Double-blind treatment of major depression with dehydroepiandrosterone",
+  "autores": [
+   "Wolkowitz OM",
+   "Reus VI",
+   "Keebler A",
+   "Nelson N",
+   "Friedland M",
+   "Brizendine L"
+  ],
+  "revista_ano": "The American journal of psychiatry (1999)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Tratamento duplo-cego da depressão maior com DHEA",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_WOLKOWITZ_1999"
+  ],
+  "id_referencia_interna": "REF_WOLKOWITZ_1999",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Wolkowitz",
+   "WOLKOWITZ"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "25620535",
+  "titulo_artigo": "Etifoxine versus alprazolam for the treatment of adjustment disorder with anxiety: a randomized controlled trial",
+  "autores": [
+   "Stein DJ"
+  ],
+  "revista_ano": "Advances in therapy (2015)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Etifoxina vs. alprazolam no transtorno de ajustamento com ansiedade (ECR)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_STEIN_2015"
+  ],
+  "id_referencia_interna": "REF_STEIN_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Stein",
+   "STEIN"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "33009629",
+  "titulo_artigo": "Etifoxine is non-inferior than clonazepam for reduction of anxiety symptoms in the treatment of anxiety disorders: a randomized, double blind, non-inferiority trial",
+  "autores": [
+   "Vicente B",
+   "Saldivia S",
+   "Hormazabal N",
+   "Bustos C",
+   "Rubí P"
+  ],
+  "revista_ano": "Psychopharmacology (2020)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Etifoxina não-inferior ao clonazepam na redução de ansiedade",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_VICENTE_2020"
+  ],
+  "id_referencia_interna": "REF_VICENTE_2020",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Vicente",
+   "VICENTE"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "28619476",
+  "titulo_artigo": "Brexanolone (SAGE-547 injection) in post-partum depression: a randomised controlled trial",
+  "autores": [
+   "Kanes S",
+   "Colquhoun H",
+   "Gunduz-Bruce H",
+   "Raines S",
+   "Arnold R",
+   "Schacterle A"
+  ],
+  "revista_ano": "Lancet (London, England) (2017)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Brexanolone na depressão pós-parto: ECR fase 2",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_KANES_2017"
+  ],
+  "id_referencia_interna": "REF_KANES_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "KANES",
+   "Kanes"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "30177236",
+  "titulo_artigo": "Brexanolone injection in post-partum depression: two multicentre, double-blind, randomised, placebo-controlled, phase 3 trials",
+  "autores": [
+   "Meltzer-Brody S",
+   "Colquhoun H",
+   "Riesenberg R",
+   "Epperson CN",
+   "Deligiannidis KM",
+   "Rubinow DR"
+  ],
+  "revista_ano": "Lancet (London, England) (2018)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Brexanolone IV na DPP: dois ECRs multicêntricos duplo-cegos fase 3",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MELTZERBRODY_2018"
+  ],
+  "id_referencia_interna": "REF_MELTZERBRODY_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Meltzerbrody",
+   "MELTZERBRODY"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "36191643",
+  "titulo_artigo": "Effect of brexanolone on depressive symptoms, anxiety, and insomnia in women with postpartum depression: Pooled analyses from 3 double-blind, randomized, placebo-controlled clinical trials in the HUMMINGBIRD clinical program",
+  "autores": [
+   "Epperson CN",
+   "Rubinow DR",
+   "Meltzer-Brody S",
+   "Deligiannidis KM",
+   "Riesenberg R",
+   "Krystal AD"
+  ],
+  "revista_ano": "Journal of affective disorders (2023)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Brexanolone sobre depressão, ansiedade e insônia na DPP (análise agrupada)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_EPPERSON_2023"
+  ],
+  "id_referencia_interna": "REF_EPPERSON_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "EPPERSON",
+   "Epperson"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "34190962",
+  "titulo_artigo": "Effect of Zuranolone vs Placebo in Postpartum Depression: A Randomized Clinical Trial",
+  "autores": [
+   "Deligiannidis KM",
+   "Meltzer-Brody S",
+   "Gunduz-Bruce H",
+   "Doherty J",
+   "Jonas J",
+   "Li S"
+  ],
+  "revista_ano": "JAMA psychiatry (2021)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Zuranolona vs. placebo na depressão pós-parto: ECR",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_DELIGIANNIDIS_2021"
+  ],
+  "id_referencia_interna": "REF_DELIGIANNIDIS_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Deligiannidis",
+   "DELIGIANNIDIS"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "37132201",
+  "titulo_artigo": "Zuranolone for the Treatment of Adults With Major Depressive Disorder: A Randomized, Placebo-Controlled Phase 3 Trial",
+  "autores": [
+   "Clayton AH",
+   "Lasser R",
+   "Parikh SV",
+   "Iosifescu DV",
+   "Jung J",
+   "Kotecha M"
+  ],
+  "revista_ano": "The American journal of psychiatry (2023)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Zuranolona para adultos com TDM: ECR fase 3 (MOUNTAIN)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CLAYTON_2023"
+  ],
+  "id_referencia_interna": "REF_CLAYTON_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "CLAYTON",
+   "Clayton"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "36811520",
+  "titulo_artigo": "Zuranolone in Major Depressive Disorder: Results From MOUNTAIN-A Phase 3, Multicenter, Double-Blind, Randomized, Placebo-Controlled Trial",
+  "autores": [
+   "Clayton AH",
+   "Lasser R",
+   "Nandy I",
+   "Sankoh AJ",
+   "Jonas J",
+   "Kanes SJ"
+  ],
+  "revista_ano": "The Journal of clinical psychiatry (2023)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Zuranolona na TDM: resultado do MOUNTAIN-A (fase 3)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CLAYTON_2023b"
+  ],
+  "id_referencia_interna": "REF_CLAYTON_2023b",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "CLAYTON",
+   "Clayton"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "24917198",
+  "titulo_artigo": "A randomized, double-blind, placebo-controlled trial of pregnenolone for bipolar depression",
+  "autores": [
+   "Brown ES",
+   "Park J",
+   "Marx CE",
+   "Hynan LS",
+   "Gardner C",
+   "Davila D"
+  ],
+  "revista_ano": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology (2014)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "ECR duplo-cego de pregnenolona na depressão bipolar (N~80, até 500 mg; interação tratamento×tempo; melhora de ansiedade correlata ao aumento de ALLO/pregnanolona; sem consistência em todas as medidas — preliminar, G3)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BROWN_2014"
+  ],
+  "id_referencia_interna": "REF_BROWN_2014",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 esummary; autor+ano+tema conferidos); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "BROWN",
+   "Brown"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "35809362",
+  "titulo_artigo": "Baseline anxiety-sensitivity to estradiol fluctuations predicts anxiety symptom response to transdermal estradiol treatment in perimenopausal women - A randomized clinical trial",
+  "autores": [
+   "Lozza-Fiacco S",
+   "Gordon JL",
+   "Andersen EH",
+   "Kozik RG",
+   "Neely O",
+   "Schiller C",
+   "Munoz M",
+   "Rubinow DR",
+   "Girdler SS"
+  ],
+  "revista_ano": "Psychoneuroendocrinology (2022)",
+  "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Psychoneuroendocrinology",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Na transição menopausal, maior variabilidade do estradiol predisse fenótipos depressivos com ansiedade/anedonia; ensaio experimental mostra sensibilidade individual basal ao estradiol como preditor de resposta sintomática",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_LOZZAFIACCO_2022"
+  ],
+  "id_referencia_interna": "REF_LOZZAFIACCO_2022",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Anhedonia",
+   "Anxiety",
+   "Anxiety Disorders",
+   "Double-Blind Method",
+   "Estradiol",
+   "Female",
+   "Humans",
+   "Hydrocortisone",
+   "Interleukin-6",
+   "Perimenopause"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "g1_resumo": "eutils (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ }
+]

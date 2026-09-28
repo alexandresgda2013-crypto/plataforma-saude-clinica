@@ -1,0 +1,117 @@
+REFERENCIA VIGENTE DA ARQUITETURA CONSOLIDADA DA PLATAFORMA
+
+=====================================================================
+APROVACAO FORMAL — 2026-09-21 (decisao do operador, rodada 53)
+Frase do operador (verbatim): "a oficial agora é a Arquitetura Consolidada
+da Plataforma V2.3 assim como os schemas vínculo 1.4 e referencia 1.3".
+Efeito conjugado (na ordem pedida pela unica pre-condicao levantada pelas
+frentes — item A.6 da verificacao tecnica do mestre, 2026-09-21):
+
+  VERSAO VIGENTE (arquitetura):
+    arquivo: ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.3 - 19.09.26.md
+    sha256:  498e7df9d8abe8be4f3145bb7a9bd34215bc87a4502148e9d203391c9ce6ef73
+    bytes:   52.740 · CRLF · 30 secoes unicas · H1/Rev V2.3
+    ecos tecnicos pre-aprovacao (criterio do operador, 3/3): casa (trilha
+    58: 12/12) · Auditor-Mestre (2 ecos de sha + verificacao tecnica de
+    21/09: nenhum defeito de engenharia · cobertura §5 11/11+15/15 ·
+    draft-07 valido · 0 $ref externos) · Auditor-2 (digital recalculada,
+    sem objecao).
+
+  SELO FORMAL DOS SCHEMAS (pendencia desde a rodada 38 — na mesma frase):
+    N1: L05/schema_referencia_v1.3.json
+        sha256: b06660fd985a8186dbe5ed2878f15d3badd2356e11f4d0c9b71e78d2b2e4e7da · 9.582 b
+    N2: L05/schema_vinculo_v1.4.json
+        sha256: d96ad15b620fa373d8d95d44159a9f3db31c04cfed051d85c7ab014cb3c65050 · 12.840 b
+    validacao pre-selo: ciclo r29 (52/52 audicoes + 26/26 casos sinteticos)
+    · comentador r29 ("estruturalmente aprovados como base de fechamento")
+    · auditor-2 (autor, eco v1.4) · mestre 21/09 (byte-identicos no
+    projeto, draft-07 check_schema).
+    Efeitos: FECHA D-V22-SCHEMA-NOMES (a correcao vivia na V2.3) · o portao
+    L-05 pode referenciar schemas aprovados · os rotulos internos
+    'PROPOSTA — nao normativo' nas descriptions saem no ciclo editorial
+    v1.5 (sem mudar semantica; rito completo de schema, quando o operador
+    mandar).
+
+  REGRA NOVA DE ROTULO (mesmo despacho, verbatim do operador): quando a
+  casa nomear documento, NAO usa mais rotulos de opiniao ('candidata',
+  'proposta') — somente a mudanca de versao; "deixe que o auditor decida
+  sobre o documento". Aplica-se ao que a casa EMITE. O registro interno de
+  governanca (este ponteiro, decisoes, CHANGELOG) continua carregando o
+  estado temporal; nomes de arquivo na serie sao referencias eternas de
+  trilha (17 scripts os citam) e NAO se renomeiam — passado nao se reescreve.
+
+Historico: abaixo, aprovacao V2.2 (2026-09-19, vigorou ate 2026-09-21) >
+nota de suspensao > estados anteriores — preservados integralmente.
+=====================================================================
+
+=====================================================================
+APROVACAO FORMAL — 2026-09-19 (decisao do operador, rodada 36, letra A)
+A candidata V2.2 submetida na rodada 35 (relatorio + diff +42/−18 +
+cadeia de provas) foi APROVADA pelo operador nesta data.
+Cadeia da regra nova cumprida: submissao completa (rodada 35) →
+aprovacao (rodada 36) → sha/data registrados → VERSAO VIGENTE:
+  arquivo: ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md
+  sha256:  df7f7cfdfc01cf77d658885f30dfefe29dcf380229ea56e6b3af02920df22ae1
+  bytes:   52.181 · CRLF · 30 secoes unicas · H1/Rev V2.2
+  aprovado: 2026-09-19 pelo operador (decisao "letra a")
+Consequencias: vigencia RESTABELECIDA · ancora §2 novo valida como norma
+(itens das rodadas 31–34 recuperam forca normativa) · repasse autorizado
+as frentes (mestre primeiro: receber exatamente estes bytes e conferir o
+sha; fecha D-V22-BYTES-PROJETO e a base da auditoria externa da rodada 34).
+Historico: nota de suspensao de 2026-09-19 mantida abaixo (auditoria).
+=====================================================================
+
+[HISTORICO — nota de suspensao vigente entre 2026-09-19 (rodada 35) e a aprovacao acima:]
+
+NOTA DE SUSPENSAO — 2026-09-19 (ordem do operador, rodada 35)
+O status de "V2.2 vigente" do arquivo df7f7cfd… esta SUSPENSO para fins
+de decisao arquitetural. Verificacao da trilha 54 (15/15): o documento
+completo NUNCA foi entregue ao operador para aprovacao (0 copias fora
+desta pasta; nenhum registro de entrega/aprovacao com sha). A aprovacao
+registrada foi de DIRECAO ("opcao A", 17/09, aplicar a correcao do
+achado do mestre), nao do artefato final.
+Ate decisao do operador sobre a submissao formal desta rodada:
+  - df7f7cfd… = CANDIDATA V2.2 PENDENTE DE APROVACAO (nao normativa);
+  - base recebida de referencia = upload do operador r24 5be36836…;
+  - frente do mestre NAO deve trocar de arquivo (orientacao da rodada
+    33 suspensa);
+  - itens de trilhas 31-34 ancorados no sufixo §3→fim valem em todos os
+    elos; itens ancorados no §2 novo valem como "medidos na candidata".
+Regra vigente a partir de hoje (verbatim do operador):
+  PROPOSTA → ALTERACAO DOCUMENTAL → DOCUMENTO COMPLETO ENTREGUE AO
+  OPERADOR → APROVACAO → SHA/DATA → VERSAO VIGENTE.
+Detalhes: RELATORIO_CASA_origem_cadeia_status_V22_2026-09-19.md ·
+trilhas 54 · decisoes rev.42 · CHANGELOG 35.
+=====================================================================
+
+[HISTORICO — abaixo o registro como existia antes da suspensao:]
+
+vigente: ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md
+sha256: df7f7cfdfc01cf77d658885f30dfefe29dcf380229ea56e6b3af02920df22ae1
+instalada: 2026-09-17 pela bancada, por decisao do operador (rodada 26, opcao A):
+  correcao arquitetural LOCALIZADA do §2 por achado do Auditor-Mestre
+  (ACHADO_V21_NO_UNIFICADO_2026-09-17.md, sha 2841bc66…, confirmado 5/5 na trilha 45)
+  com parecer concorrente do comentador externo (sha dfbd9ab7…):
+  - no "EVIDENCIAS / VINCULOS UNIFICADOS" removido do mapa executivo; fluxos
+    canonico x atualizacao SEGREGADOS ate o Motor (alinhado ao §19);
+  - bloco PASTA DE ATUALIZACAO proprio com consulta ativa direta ao Motor;
+  - proveniencia endurecida: origem_conhecimento = canonico | atualizacao
+    (desenho + prosa normativa); regra nova: prosa prevalece sobre desenhos;
+  - H1 corrigido p/ V2.2 · duplicata '# 2.' eliminada (30 secoes numeradas unicas).
+  Escopo cirurgico provado: sufixo §3→fim BYTE-IDENTICO a V2.1 (catalogo 146 IDs,
+  §§5-30, §18/§19/§20 intactos). CRLF preservado. Replica: trilhas 45 e 45b
+  (producao/TRILHA45*), 18/18 + pos-instalacao. 0 ciencia alterada.
+
+SUPERSEDED: SUPERSEDED_ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.1  -  17.09.26.md
+sha256: 1a50645e260984ab7b78b95abc177bdb171203f55f22990c195e5cefa0a94b60
+(motivo: corrigida pela V2.2 em 2026-09-17 por achado do mestre; vigorou na rodada 24-26;
+ origem: upload do operador 5be36836610d26832506b73dac45baa09e7041bc9ce22e6557f2be59b258e06a
+ + 2 correcoes de formato da instalacao — ver registro da rodada 24)
+
+SUPERSEDED: SUPERSEDED_ARQUITETURA CONSOLIDADA DA PLATAFORMA V2  -  15.09.26.md
+sha256: 09692e18a5a65958bde4545ed6ff804c21c5945411159988654c7664c8a4a4e2
+(motivo: atualizada pela V2.1 em 2026-09-17; rodadas 9-24)
+
+SUPERSEDED: SUPERSEDED_ARQUITETURA CONSOLIDADA DA PLATAFORMA V1 - 15.09.26.md
+sha256: 8f050469632ce3e83426e382075ab4747a59f478daa70f88a2287310541821d7
+(motivo: substituida pela V2 em 2026-09-15; rodada 9 — registro historico)

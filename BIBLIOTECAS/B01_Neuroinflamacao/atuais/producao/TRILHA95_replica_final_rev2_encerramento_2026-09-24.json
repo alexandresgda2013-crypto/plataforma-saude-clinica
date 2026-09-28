@@ -1,0 +1,115 @@
+{
+  "trilha": 95,
+  "data": "2026-09-24",
+  "objeto": "replica_final_rev2_encerramento_D1",
+  "digitais": {
+    "mestre_rev2": "c01321ed00236d1957b6638363e4ac7d287df7a1e68b8da01ca1147961cc3aab",
+    "estrutura_rev2": "aa62e9a340b7fb02eab0ab2a3ee5e5fabe7d18c0d905ef70b535df30dbad3535",
+    "minuta_rev2": "841532dad13cd3fea1356c9e23e37067e78876685db52d3c1f2cd8b2a96e535c"
+  },
+  "D1": "ENCERRAVEL",
+  "total": 12,
+  "ok": 12,
+  "resultado": [
+    {
+      "id": "T1",
+      "descricao": "Mestre rev.2 upload ≡ série",
+      "ok": true,
+      "detalhe": {
+        "sha": "c01321ed00236d1957b6638363e4ac7d287df7a1e68b8da01ca1147961cc3aab",
+        "bytes": 5943,
+        "upload_ok": true
+      }
+    },
+    {
+      "id": "T2",
+      "descricao": "Estrutura: subscreve sem ressalva",
+      "ok": true,
+      "detalhe": {
+        "frase": true
+      }
+    },
+    {
+      "id": "T3",
+      "descricao": "Mestre: SUBSCREVO SEM RESSALVA formal com P-K1..P-K6",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T4",
+      "descricao": "rev.2 sha = 841532da… declarada nas subscrições",
+      "ok": true,
+      "detalhe": {
+        "sha": "841532dad13cd3fea1356c9e23e37067e78876685db52d3c1f2cd8b2a96e535c",
+        "esperado": "841532dad13cd3fea1356c9e23e37067e78876685db52d3c1f2cd8b2a96e535c"
+      }
+    },
+    {
+      "id": "T5",
+      "descricao": "rev.2: inverte não materializa + P-K6 + granularidade + sem par ativo",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T6",
+      "descricao": "rev.2: pergunta P-K1..P-K6; P-K4 superada",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T7",
+      "descricao": "N2 allOf (base do que ambos assinaram)",
+      "ok": true,
+      "detalhe": {
+        "condicional_req": true,
+        "null_quando_nao_condicional": true
+      }
+    },
+    {
+      "id": "T8",
+      "descricao": "v3.1 sentido_do_achado OBRIGATÓRIO (citado e confirmado)",
+      "ok": true,
+      "detalhe": {
+        "sha": "f7e664d73e2dad603f7c4316df09286f0da9313a28779d2a67eb5f5fd225624e"
+      }
+    },
+    {
+      "id": "T9",
+      "descricao": "mapeamento R-1 no enum N2",
+      "ok": true,
+      "detalhe": {
+        "enum": [
+          "condicional",
+          "inconclusivo",
+          "refuta",
+          "sustenta"
+        ]
+      }
+    },
+    {
+      "id": "T10",
+      "descricao": "Mestre retrata erro da rev.1 (§1)",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T11",
+      "descricao": "Estrutura registra alcance: vigente = derivação; .001b espera v1.5",
+      "ok": true,
+      "detalhe": {
+        "vigente": true,
+        "001b": true
+      }
+    },
+    {
+      "id": "T12",
+      "descricao": "2× sem ressalva ⇒ D1 pode encerrar (§19)",
+      "ok": true,
+      "detalhe": {
+        "estrutura_sem": true,
+        "mestre_sem": true,
+        "proximo": "encerramento formal + registro na governança"
+      }
+    }
+  ]
+}

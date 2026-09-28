@@ -1,0 +1,703 @@
+[
+ {
+  "pmid_oficial": "42431383",
+  "titulo_artigo": "Neuroimmune lipidome dysregulation in major depressive disorder: A meta-analysis of peripheral endocannabinoid and N-acylethanolamine signaling",
+  "autores": [
+   "Yaseen M",
+   "Chen WJ",
+   "Chang JP",
+   "Liu WC",
+   "Zailani H",
+   "Chang HC"
+  ],
+  "revista_ano": "Brain, behavior, and immunity (2026)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "(Âncora já retida) **Meta 2026: AEA circulante modestamente AUMENTADA na TDM (SMD~0,32; mais em medicados/comórbidos); 2-AG e OEA sem diferença; PEA↑ (SMD~0,35)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_YASEEN_2026"
+  ],
+  "id_referencia_interna": "REF_YASEEN_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "YASEEN",
+   "Yaseen"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "41856154",
+  "titulo_artigo": "The efficacy and safety of cannabinoids for the treatment of mental disorders and substance use disorders: a systematic review and meta-analysis",
+  "autores": [
+   "Wilson J",
+   "Dobson O",
+   "Langcake A",
+   "Mishra P",
+   "Bryant Z",
+   "Leung J"
+  ],
+  "revista_ano": "The lancet. Psychiatry (2026)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "---|---|---|---",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_WILSON_2026"
+  ],
+  "id_referencia_interna": "REF_WILSON_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "WILSON",
+   "Wilson"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "30758486",
+  "titulo_artigo": "Association of Cannabis Use in Adolescence and Risk of Depression, Anxiety, and Suicidality in Young Adulthood: A Systematic Review and Meta-analysis",
+  "autores": [
+   "Gobbi G",
+   "Atkin T",
+   "Zytynski T",
+   "Wang S",
+   "Askari S",
+   "Boruff J"
+  ],
+  "revista_ano": "JAMA psychiatry (2019)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "Cannabis na adolescência e risco de depressão/ansiedade/ideação suicida",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GOBBI_2019"
+  ],
+  "id_referencia_interna": "REF_GOBBI_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "GOBBI",
+   "Gobbi"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "42242480",
+  "titulo_artigo": "The subjective effects of △9-tetrahydrocannabinol: A systematic review and dose-response meta-regression",
+  "autores": [
+   "Goodwin I",
+   "Oliver D",
+   "Chesney E",
+   "Gaillard A",
+   "Wang S",
+   "Koo AW"
+  ],
+  "revista_ano": "Neuroscience and biobehavioral reviews (2026)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "Efeitos subjetivos do Δ9-THC: revisão sistemática/meta (dose)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GOODWIN_2026"
+  ],
+  "id_referencia_interna": "REF_GOODWIN_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "GOODWIN",
+   "Goodwin"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "37094409",
+  "titulo_artigo": "Anxiolytic effects of endocannabinoid enhancing compounds: A systematic review and meta-analysis",
+  "autores": [
+   "Kwee CMB",
+   "Leen NA",
+   "Van der Kamp RC",
+   "Van Lissa CJ",
+   "Cath DC",
+   "Groenink L"
+  ],
+  "revista_ano": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology (2023)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "Efeitos ansiolíticos de compostos que elevam EC (CBD, URB597): meta-análise pré-clínica + clínica (promissor, mais ensaios necessários)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_KWEE_2023"
+  ],
+  "id_referencia_interna": "REF_KWEE_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "KWEE",
+   "Kwee"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "42380607",
+  "titulo_artigo": "Effects of cannabidiol on anxiety- and depressive-like behaviors and cognition: a systematic review and meta-analysis of preclinical studies",
+  "autores": [
+   "Jantsch J",
+   "Wickert F",
+   "Fraga GF",
+   "de Fraga LS",
+   "Durán-Carabali LE",
+   "Guedes RP"
+  ],
+  "revista_ano": "Molecular psychiatry (2026)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "Efeitos do CBD em comportamentos tipo-ansiosos/depressivos e cognição (meta pré-clínica: robusto em modelo; evidência clínica limitada/inconclusiva)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_JANTSCH_2026"
+  ],
+  "id_referencia_interna": "REF_JANTSCH_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "JANTSCH",
+   "Jantsch"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "39118031",
+  "titulo_artigo": "Peripheral endocannabinoids in major depressive disorder and alcohol use disorder: a systematic review",
+  "autores": [
+   "Fuentes JJ",
+   "Mayans J",
+   "Guarro M",
+   "Canosa I",
+   "Mestre-Pintó JI",
+   "Fonseca F"
+  ],
+  "revista_ano": "BMC psychiatry (2024)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "EC periféricos na TDM e no transtorno por uso de álcool (revisão sistemática)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_FUENTES_2024"
+  ],
+  "id_referencia_interna": "REF_FUENTES_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "FUENTES",
+   "Fuentes"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "38683635",
+  "titulo_artigo": "Endocannabinoids and Stress-Related Neurospsychiatric Disorders: A Systematic Review and Meta-Analysis of Basal Concentrations and Response to Acute Psychosocial Stress",
+  "autores": [
+   "Gowatch LC",
+   "Evanski JM",
+   "Ely SL",
+   "Zundel CG",
+   "Bhogal A",
+   "Carpenter C"
+  ],
+  "revista_ano": "Cannabis and cannabinoid research (2024)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "---|---|---|---",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GOWATCH_2024"
+  ],
+  "id_referencia_interna": "REF_GOWATCH_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "GOWATCH",
+   "Gowatch"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "39598172",
+  "titulo_artigo": "The Impact of Cannabidiol Treatment on Anxiety Disorders: A Systematic Review of Randomized Controlled Clinical Trials",
+  "autores": [
+   "Coelho CF",
+   "Vieira RP",
+   "Araújo-Junior OS",
+   "Lopes-Martins PSL",
+   "Dos Santos LG",
+   "Dias LD"
+  ],
+  "revista_ano": "Life (Basel, Switzerland) (2024)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "---|---|---|---",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_COELHO_2024"
+  ],
+  "id_referencia_interna": "REF_COELHO_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "COELHO",
+   "Coelho"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "39936870",
+  "titulo_artigo": "The association between cannabis and depression: an updated Systematic Review and Meta-analysis",
+  "autores": [
+   "Churchill V",
+   "Chubb CS",
+   "Popova L",
+   "Spears CA",
+   "Pigott T"
+  ],
+  "revista_ano": "Psychological medicine (2025)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "---|---|---|---",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CHURCHILL_2025"
+  ],
+  "id_referencia_interna": "REF_CHURCHILL_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "CHURCHILL",
+   "Churchill"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "32909828",
+  "titulo_artigo": "Cannabis Use and Prospective Long-Term Association with Anxiety: A Systematic Review and Meta-Analysis of Longitudinal Studies: Usage du cannabis et association prospective à long terme avec l'anxiété: une revue systématique et une méta-analyse d'études longitudinales",
+  "autores": [
+   "Xue S",
+   "Husain MI",
+   "Zhao H",
+   "Ravindran AV"
+  ],
+  "revista_ano": "Canadian journal of psychiatry. Revue canadienne de psychiatrie (2021)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "Cannabis e ansiedade: meta longitudinal (OR~1,25)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_XUE_2021"
+  ],
+  "id_referencia_interna": "REF_XUE_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "XUE",
+   "Xue"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "39620474",
+  "titulo_artigo": "Associations of cannabis use, tobacco use, and incident anxiety, mood, and psychotic disorders: a systematic review and meta-analysis",
+  "autores": [
+   "Burke C",
+   "Freeman TP",
+   "Sallis H",
+   "Wootton RE",
+   "Burnley A",
+   "Lange J"
+  ],
+  "revista_ano": "Psychological medicine (2024)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "Cannabis/tabaco e transtornos incidentes de ansiedade/humor/psicóticos: SEM associação clara para ansiedade (RR~1,10; só 27% estudos de alta qualidade)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BURKE_2024"
+  ],
+  "id_referencia_interna": "REF_BURKE_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "BURKE",
+   "Burke"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "38285048",
+  "titulo_artigo": "Cannabis use in adolescents and anxiety symptoms and disorders: a systematic review and meta-analysis",
+  "autores": [
+   "Lowe DJE",
+   "Sorkhou M",
+   "George TP"
+  ],
+  "revista_ano": "The American journal of drug and alcohol abuse (2024)",
+  "desenho_estudo": "[OB]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "Cannabis na adolescência e ansiedade posterior: meta longitudinal (OR~2,14; janela desenvolvimental)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LOWE_2024"
+  ],
+  "id_referencia_interna": "REF_LOWE_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "LOWE",
+   "Lowe"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "38655516",
+  "titulo_artigo": "Cannabis use and mood disorders: a systematic review",
+  "autores": [
+   "Sorkhou M",
+   "Dent EL",
+   "George TP"
+  ],
+  "revista_ano": "Frontiers in public health (2024)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "Uso de cannabis e transtornos do humor: revisão sistemática (78 estudos; mais sintomas/risco; controlar quantidade/potência)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SORKHOU_2024"
+  ],
+  "id_referencia_interna": "REF_SORKHOU_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "SORKHOU",
+   "Sorkhou"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "38886733",
+  "titulo_artigo": "Endocannabinoid levels in female-sexed individuals with diagnosed depression: a systematic review.",
+  "autores": [
+   "McWhirter M",
+   "Bugarcic A",
+   "Steel A",
+   "Schloss J"
+  ],
+  "revista_ano": "BMC Womens Health (2024)",
+  "desenho_estudo": "[OB] revisão sistemática · BMC Womens Health",
+  "secao_origem": "mecanismo_B13_mulheres_depressao",
+  "achado_central_molecular": "Níveis de endocanabinoides em indivíduos do sexo feminino com depressão diagnosticada: revisão sistemática — resolve o [G1] 'McWhirter (sexo feminino)'.",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_MCWHIRTER_2024"
+  ],
+  "id_referencia_interna": "REF_MCWHIRTER_2024",
+  "doi": "",
+  "claim_id_origem": "B13.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B13 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "chave insumo 'Mazurka 2024' — autor real McWhirter; a Mazurka real permanece [G1]"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B13_mulheres_depressao",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ }
+]

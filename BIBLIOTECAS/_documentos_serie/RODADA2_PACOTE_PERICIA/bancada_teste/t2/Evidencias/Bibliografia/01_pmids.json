@@ -1,0 +1,20 @@
+[
+ {
+  "id_referencia_interna": "REF_SILVA_2019",
+  "ids_referencia_interna": [
+   "REF_SILVA_2019"
+  ],
+  "pmid_oficial": "12345678",
+  "autores": "Silva A",
+  "ano": 2019
+ },
+ {
+  "id_referencia_interna": "REF_GLICOLATO_2021",
+  "ids_referencia_interna": [
+   "REF_GLICOLATO_2021"
+  ],
+  "pmid_oficial": "87654321",
+  "autores": "Glicolato B",
+  "ano": 2021
+ }
+]

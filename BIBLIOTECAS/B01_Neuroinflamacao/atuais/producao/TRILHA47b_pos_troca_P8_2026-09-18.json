@@ -1,0 +1,18 @@
+{
+ "trilha": "47b", "data": "2026-09-18", "rodada": 28,
+ "objeto": "pós-troca do portão P-8 (reconstrução das regiões do mestre)",
+ "comandos": [
+   "cp -p validar_coerencia_camadas.py -> .bak_2026-09-18",
+   "cp staged be48a5ef -> caminho oficial",
+   "cd atuais && python3 <oficial> . (invocação oficial)"
+ ],
+ "oficial_sha": "be48a5efa1d67f9e7b4ae3a38fdcf562b924cc03fc58e91baa2c63a3c6b33e92",
+ "backup_sha_84fa918d": "84fa918d09899d54995ae41d65b0787a7a52888ba6177ce77583483b1124fe8b",
+ "backup_arquivo": "Ferramentas de geração e auditoria/06_portao_P8_coerencia/scripts/validar_coerencia_camadas.py.bak_2026-09-18",
+ "invocacao_oficial": {"exit": 1, "resumo": "2 ERRO / 299 AVISO (desenho: natureza_evidencia · trilha)", "stdout_em": "/tmp/p8_oficial_pos_troca.txt"},
+ "variante_selada": "v06=mestre·sman=mestre·msg=mestre (todos os textos das 3 regiões, byte a byte)",
+ "diff_vs_84fa918d": "somente: docstring V-06 redação 'G3/revisão humana' · docstring V-08 em 2 linhas · comentário F-C2 6 linhas no V-07 · s_man parênteses externos · 1ª linha da mensagem de erro sem prefixo f — mais NADA",
+ "comportamento": "idêntico à base (2/299/exit 1, V-14 limpa) · F-C2 dispara (3 ERRO no contraexemplo) · base também dispara (paridade)",
+ "estado": "1 sha viva = be48a5ef… nas DUAS casas · critério de troca do mestre cumprido com a correção dele (duas diferenças + variações de bytes)",
+ "ciencia": "0 tocada (V7 6e2c2979… · manifesto 79d1309a… · vínculos 490675e6…)"
+}

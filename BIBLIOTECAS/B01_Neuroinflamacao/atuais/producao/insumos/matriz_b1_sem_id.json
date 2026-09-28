@@ -1,0 +1,82 @@
+{
+ "nao_localizados": [
+  [
+   "periferica",
+   "DOI:? 03946320231198828",
+   "Islam 2023",
+   "identificador ilegivel/nao padrao"
+  ],
+  [
+   "microglia",
+   "10.1186/s12974-026-03614-3",
+   "Nussbaumer 2026",
+   "nao localizado no PubMed"
+  ],
+  [
+   "microglia",
+   "10.1038/s12974-023-02769-y",
+   "Vicente-Rodríguez 2023",
+   "nao localizado no PubMed"
+  ],
+  [
+   "kyn",
+   "10.20944/preprints202201.0134.v1",
+   "Almulla & Maes preprint",
+   "nao localizado no PubMed"
+  ]
+ ],
+ "sem_id": [
+  [
+   "glutamato",
+   "Dantzer & Walker 2014"
+  ],
+  [
+   "glutamato",
+   "Bay-Richter 2014"
+  ],
+  [
+   "glutamato",
+   "Müller & Schwarz 2007"
+  ],
+  [
+   "glutamato",
+   "Wu 2022"
+  ],
+  [
+   "bdnf",
+   "Erdem 2026"
+  ],
+  [
+   "bdnf",
+   "Shen 2025"
+  ],
+  [
+   "bbb",
+   "Liang 2021"
+  ],
+  [
+   "bbb",
+   "Turkheimer 2020"
+  ],
+  [
+   "suicidio",
+   "Bryleva & Brundin 2016"
+  ],
+  [
+   "suicidio",
+   "Herzog 2024"
+  ],
+  [
+   "suicidio",
+   "Behera 2026"
+  ],
+  [
+   "suicidio",
+   "Serafini 2017"
+  ],
+  [
+   "antidepressivo",
+   "? Liu (s41380-019-0474-5) ja listado"
+  ]
+ ]
+}

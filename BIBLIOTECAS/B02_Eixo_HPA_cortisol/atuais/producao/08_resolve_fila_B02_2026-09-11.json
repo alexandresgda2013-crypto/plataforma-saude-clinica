@@ -1,0 +1,433 @@
+{
+ "data": "2026-09-11",
+ "bib": "B02",
+ "backup": "/home/user/BIBLIOTECAS/B02_Eixo_HPA_cortisol/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json.bak_20260911_230717",
+ "regra": "S1–S4 (cabeçalho do script)",
+ "resolvidos": [
+  {
+   "id": "VINC_B2_001",
+   "ref": "REF_HERMAN_2016",
+   "escolhida": "O cortisol ativa **MR e GR** e faz feedback\nnegativo (Herman 2016)[OB]; (McEwen 2007) [revisão clássica não indexada — v",
+   "score": 0.271,
+   "segunda": 0.048,
+   "n_cand": 3,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_002",
+   "ref": "REF_MCEWEN_2007",
+   "escolhida": "O cortisol ativa **MR e GR** e faz feedback\nnegativo (Herman 2016)[OB]; (McEwen 2007) [revisão clássica não indexada — v",
+   "score": 0.24,
+   "segunda": 0.023,
+   "n_cand": 3,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_003",
+   "ref": "REF_HOLSBOER_2000",
+   "escolhida": "- CRH no LCR elevado independente do cortisol periférico (Holsboer 2000) [revisão clássica não indexada — ver P-6]; alop",
+   "score": 0.263,
+   "segunda": 0.26,
+   "n_cand": 3,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_004",
+   "ref": "REF_STETLER_2011",
+   "escolhida": "Predomínio de não-supressão ao DST, CRH elevado no LCR, hipercortisolemia e maior\ndano cognitivo/hipocampal; mifepriston",
+   "score": 0.316,
+   "segunda": 0.223,
+   "n_cand": 5,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_005",
+   "ref": "REF_HEIM_2000",
+   "escolhida": "Trauma precoce reajusta o setpoint via FKBP5/NR3C1; hipocortisolismo TEPT (Klengel 2013)[EC];\n(Heim 2000)[OB].",
+   "score": 0.221,
+   "segunda": 0.205,
+   "n_cand": 7,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_007",
+   "ref": "REF_KLENGEL_2013",
+   "escolhida": "Desmetilação alelo-específica de FKBP5 por trauma (Klengel 2013)[EC]; metilação de\nNR3C1 em díade mãe-filho e estudos tr",
+   "score": 8.01,
+   "segunda": 6.027,
+   "n_cand": 12,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_008",
+   "ref": "REF_ZORN_2017",
+   "escolhida": "Reatividade aumentada em média, porém heterogênea entre diagnósticos (Zorn 2017)[MA];\n(Vreeburg 2010)[EC]; cortisol sali",
+   "score": 2.026,
+   "segunda": 0.211,
+   "n_cand": 6,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_009",
+   "ref": "REF_SPIERLING_2017",
+   "escolhida": "recomendar essa estratégia como estabelecida em humano é incorreto (Spierling\n2017)[OB].",
+   "score": 2.372,
+   "segunda": 2.036,
+   "n_cand": 6,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_010",
+   "ref": "REF_CHOI_2008",
+   "escolhida": "integra ameaça difusa e diferencia excitação/inibição por subnúcleo (Choi 2008)[ML] [PRÉ-CLÍNICO].",
+   "score": 0.315,
+   "segunda": 0.227,
+   "n_cand": 6,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_011",
+   "ref": "REF_BAINS_2015",
+   "escolhida": "A hiperatividade\namigdalar da ansiedade/TEPT liga o eixo por cima do feedback hormonal (Choi 2008)[ML];\n(Bains 2015)[OB]",
+   "score": 0.232,
+   "segunda": 0.011,
+   "n_cand": 3,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_012",
+   "ref": "REF_HILL_2012",
+   "escolhida": "É distinto do feedback genômico lento do GR (Hill 2012)[ML]; (Evanson/Tasker 2010)[ML];\n(Lutz 2015)[OB] [PRÉ-CLÍNICO].",
+   "score": 2.289,
+   "segunda": 2.037,
+   "n_cand": 3,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_013",
+   "ref": "REF_LUTZ_2015",
+   "escolhida": "É distinto do feedback genômico lento do GR (Hill 2012)[ML]; (Evanson/Tasker 2010)[ML];\n(Lutz 2015)[OB] [PRÉ-CLÍNICO].",
+   "score": 0.223,
+   "segunda": 0.171,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_014",
+   "ref": "REF_SAPOLSKY_2000",
+   "escolhida": "Cortisol crônico suprime BDNF/CREB e retrai dendritos hipocampais/CPF (Sapolsky 2000)[OB];\n(Brown 1999)[OB]; (McEwen 200",
+   "score": 0.265,
+   "segunda": 0.263,
+   "n_cand": 9,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_015",
+   "ref": "REF_BELELLI_2005",
+   "escolhida": "O estresse induz esteroidogênese (colesterol→pregnenolona→progesterona→5α-DHP→**alopregnanolona**\nvia 5α-redutase/3α-HSD",
+   "score": 4.04,
+   "segunda": 0.22,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_016",
+   "ref": "REF_BINDER_2009",
+   "escolhida": "**FKBP5 é induzida pelo próprio cortisol** (alça ultra-curta):\nvariantes de risco com trauma mantêm FKBP5 alta, retendo ",
+   "score": 2.281,
+   "segunda": 2.215,
+   "n_cand": 4,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_017",
+   "ref": "REF_RODRIGUEZ_2016",
+   "escolhida": "Resultado: cortisol não encerra CRH nem NF-κB → eixo e inflamação\nsustentados (Perrin 2019)[OB]; (Rodriguez 2016)[OB]; (",
+   "score": 0.223,
+   "segunda": 0.022,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_018",
+   "ref": "REF_GALLEZOT_2019",
+   "escolhida": "HSD1 (cérebro/fígado/adiposo) ativa cortisona→cortisol local; HSD2 inativa (rim/placenta).\nAmplificação local independen",
+   "score": 2.042,
+   "segunda": 0.226,
+   "n_cand": 8,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_019",
+   "ref": "REF_LOGUE_2020",
+   "escolhida": "Desmetilação alelo-específica de FKBP5 por trauma (Klengel 2013)[EC]; metilação de\nNR3C1 em díade mãe-filho e estudos tr",
+   "score": 2.021,
+   "segunda": 0.25,
+   "n_cand": 3,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_020",
+   "ref": "REF_ISING_2007",
+   "escolhida": "Frequentemente normo/hiporreativa; Dex/CRH alterado que normaliza com a remissão\n(Ising 2007) [revisão clássica não inde",
+   "score": 0.225,
+   "segunda": 0.215,
+   "n_cand": 5,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_021",
+   "ref": "REF_WINGENFELD_2019",
+   "escolhida": "depressão (ter Heegde 2015)[OB]; (Wingenfeld 2019)[OB].",
+   "score": 0.261,
+   "segunda": 0.023,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_022",
+   "ref": "REF_MORENA_2016",
+   "escolhida": "- **FAAH/MAGL**: degradação de AEA/2-AG (ponte B13) (Morena 2016)[OB].",
+   "score": 0.195,
+   "segunda": 0.175,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_023",
+   "ref": "REF_CADEGIANI_2016",
+   "escolhida": "- **\"Fadiga adrenal\"** não existe como entidade (Cadegiani 2016)[OB]; o real é regulação hiporreativa.",
+   "score": 2.39,
+   "segunda": 2.354,
+   "n_cand": 8,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_024",
+   "ref": "REF_KELLER_2017",
+   "escolhida": "No **FKBP5**, portadores de alelos que aumentam a\nresponsividade ao cortisol e expostos a abuso na infância desenvolvem\n",
+   "score": 2.013,
+   "segunda": 0.282,
+   "n_cand": 3,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_025",
+   "ref": "REF_LEE_2025",
+   "via": "indice_corpus",
+   "escolhida": "*STEIGER_2002[MA] | ANTONIJEVIC_2003[MA] | BABAEI_2022[ML] | NOTARIANNI_2013[MA] | BORN_1998[MA] | SOUSALIMA_2019[MA] | "
+  },
+  {
+   "id": "VINC_B2_026",
+   "ref": "REF_JOPLING_2023",
+   "escolhida": "(Jopling 2023)[MA].",
+   "score": 0.132,
+   "segunda": 0.132,
+   "n_cand": 3,
+   "empate": true
+  },
+  {
+   "id": "VINC_B2_027",
+   "ref": "REF_STALDER_2017",
+   "escolhida": "Acumula a secreção de semanas (cerca de 1 mês por\ncentímetro), evitando viés de dia único; elevado na depressão/estresse",
+   "score": 2.011,
+   "segunda": 2.003,
+   "n_cand": 3,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_028",
+   "ref": "REF_PSARRAKI_2021",
+   "escolhida": "Acumula a secreção de semanas (cerca de 1 mês por\ncentímetro), evitando viés de dia único; elevado na depressão/estresse",
+   "score": 2.016,
+   "segunda": 2.007,
+   "n_cand": 3,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_029",
+   "ref": "REF_RIBEIRO_1993",
+   "escolhida": "Dexametasona sintética suprime o eixo se o feedback funcionar; a\nnão-supressão é clássica na melancolia, e a **hiper-sup",
+   "score": 2.022,
+   "segunda": 0.218,
+   "n_cand": 3,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_030",
+   "ref": "REF_ISING_2007",
+   "escolhida": "Frequentemente normo/hiporreativa; Dex/CRH alterado que normaliza com a remissão\n(Ising 2007) [revisão clássica não inde",
+   "score": 0.225,
+   "segunda": 0.215,
+   "n_cand": 5,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_031",
+   "ref": "REF_BLASEY_2009",
+   "escolhida": "dexametasona; sinal restrito de resposta a anti-glicocorticoide (mifepristona)\nem estudos, em subgrupo psicótico (Blasey",
+   "score": 0.465,
+   "segunda": 0.401,
+   "n_cand": 6,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_032",
+   "ref": "REF_DEBATTISTA_2006",
+   "escolhida": "Não-supressão DST, agitação, sinal de resposta a anti-glicocorticoide em estudos (DeBattista\n2006)[EC]; (Blasey 2009)[EC",
+   "score": 0.218,
+   "segunda": 0.027,
+   "n_cand": 3,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_033",
+   "ref": "REF_KRUIZINGA_2021",
+   "escolhida": "A **mifepristona (RU-486)** antagoniza o GR; com sinais na depressão psicótica\n(Blasey 2009)[EC]; (DeBattista 2006)[EC],",
+   "score": 0.025,
+   "segunda": 0.018,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_034",
+   "ref": "REF_MEEWISSE_2007",
+   "escolhida": "Cortisol baixo, hiper-supressão, trauma precoce/FKBP5 (Meewisse 2007)[MA]; (Vythilingam 2010)[EC].",
+   "score": 2.314,
+   "segunda": 2.264,
+   "n_cand": 9,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_035",
+   "ref": "REF_VYTHILINGAM_2010",
+   "escolhida": "Cortisol basal baixo, CAR embotado, hiper-supressão ao DST, associação com trauma precoce/FKBP5\n(Heim 2000)[OB]; (Meewis",
+   "score": 2.253,
+   "segunda": 2.227,
+   "n_cand": 3,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_036",
+   "ref": "REF_VREEBURG_2010",
+   "escolhida": "Reatividade aumentada em média, porém heterogênea entre diagnósticos (Zorn 2017)[MA];\n(Vreeburg 2010)[EC]; cortisol sali",
+   "score": 2.006,
+   "segunda": 0.026,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_037",
+   "ref": "REF_DREWS_2019",
+   "escolhida": "Reatividade distinta entre transtornos (Zorn 2017)[MA]; ansiedade com reatividade aumentada mas\nvariável (Vreeburg 2010)",
+   "score": 2.027,
+   "segunda": 0.254,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_038",
+   "ref": "REF_THOMAS_2019",
+   "escolhida": "Reatividade distinta entre transtornos (Zorn 2017)[MA]; ansiedade com reatividade aumentada mas\nvariável (Vreeburg 2010)",
+   "score": 2.02,
+   "segunda": 0.217,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_040",
+   "ref": "REF_KEHNE_2002",
+   "escolhida": "Os antagonistas não peptídicos do receptor CRF1 foram muito promissores em roedores\n(redução de ansiedade/comportamentos",
+   "score": 2.089,
+   "segunda": 0.054,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_042",
+   "ref": "REF_RUSCH_2023",
+   "escolhida": "Microbiota modula a reatividade HPA; probióticos reduzem cortisol (Rusch 2023)[OB]; (Gandomkar\n2026)[MA].",
+   "score": 2.181,
+   "segunda": 2.03,
+   "n_cand": 3,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_043",
+   "ref": "REF_STEIGER_2002",
+   "escolhida": "SCN acopla o ritmo; fragmentação do sono REM ↔ hiperativação noturna do HPA, bidirecional\n(Steiger 2002)[OB]; (Buckley 2",
+   "score": 0.22,
+   "segunda": 0.06,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_044",
+   "ref": "REF_BUCKLEY_2005",
+   "escolhida": "SCN acopla o ritmo; fragmentação do sono REM ↔ hiperativação noturna do HPA, bidirecional\n(Steiger 2002)[OB]; (Buckley 2",
+   "score": 0.198,
+   "segunda": 0.015,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_045",
+   "ref": "REF_PALAGINI_2013",
+   "escolhida": "SCN acopla o ritmo; fragmentação do sono REM ↔ hiperativação noturna do HPA, bidirecional\n(Steiger 2002)[OB]; (Buckley 2",
+   "score": 0.198,
+   "segunda": 0.031,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_047",
+   "ref": "REF_HANTSOO_2023",
+   "escolhida": "Alopregnanolona/DHEA; pós-parto; diferenças sexuais (Schüle 2014)[OB]; (Meltzer-Brody 2018)[EC];\n(Hantsoo 2023)[OB]; (Ho",
+   "score": 0.23,
+   "segunda": 0.023,
+   "n_cand": 3,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_053",
+   "ref": "REF_WANG_2024",
+   "escolhida": "As **diferenças sexuais** no nível e na reatividade do\ncortisol são documentadas em meta-análise, com padrões ligados ao",
+   "score": 6.011,
+   "segunda": 2.041,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_058",
+   "ref": "REF_DZIEDZIC_2024",
+   "escolhida": "A **microbiota** influencia o desenvolvimento e a reatividade do HPA; psicobióticos/probióticos\nmodulam cortisol/CAR em ",
+   "score": 2.043,
+   "segunda": 0.038,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_060",
+   "ref": "REF_HARTMANN_2024",
+   "via": "indice_corpus",
+   "escolhida": "*HARTMANN_2024[MA] | LAKSHMI_1991[ML] | TER_2015[MA] | STETLER_2011[MA] | LUTZ_2015[MA] | EVANSON_2010[MA] | STALDER_201"
+  },
+  {
+   "id": "VINC_B2_061",
+   "ref": "REF_BORTSOV_2013",
+   "escolhida": "No **FKBP5**, portadores de alelos que aumentam a\nresponsividade ao cortisol e expostos a abuso na infância desenvolvem\n",
+   "score": 4.025,
+   "segunda": 2.011,
+   "n_cand": 2,
+   "empate": false
+  },
+  {
+   "id": "VINC_B2_0089",
+   "ref": "REF_MULLER_2000",
+   "via": "indice_corpus",
+   "escolhida": "*STANTON_2023[OB] | ZHENG_2026[OB] | SPIGA_2009[ML] | DING_2021[MA] | STALDER_2016[OB] | WESARGMENZEL_2024[MA] | SUGAYA_"
+  }
+ ],
+ "sem_presenca": [],
+ "residual_contrato": 61
+}

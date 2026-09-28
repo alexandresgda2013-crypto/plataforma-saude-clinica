@@ -1,0 +1,371 @@
+[
+ {
+  "pmid_oficial": "17389902",
+  "titulo_artigo": "Mood is indirectly related to serotonin, norepinephrine and dopamine levels in humans: a meta-analysis of monoamine depletion studies.",
+  "autores": [
+   "Ruhé HG",
+   "Mason NS",
+   "Schene AH"
+  ],
+  "revista_ano": "Mol Psychiatry 2007",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_RUHE_2007"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_RUHE_2007",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Ruhe",
+   "RUHE"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B4_monoaminas",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "19531786",
+  "titulo_artigo": "Interaction between the serotonin transporter gene (5-HTTLPR), stressful life events, and risk of depression: a meta-analysis.",
+  "autores": [
+   "Risch N",
+   "Herrell R",
+   "Lehner T",
+   "Liang KY"
+  ],
+  "revista_ano": "JAMA 2009",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_RISCH_2009"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_RISCH_2009",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "RISCH",
+   "Risch"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B4_monoaminas",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "29477251",
+  "titulo_artigo": "Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder: a systematic review and network meta-analysis.",
+  "autores": [
+   "Cipriani A",
+   "Furukawa TA",
+   "Salanti G",
+   "Chaimani A"
+  ],
+  "revista_ano": "Lancet 2018",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_CIPRIANI_2018"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_CIPRIANI_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "CIPRIANI",
+   "Cipriani"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B4_monoaminas",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "36000248",
+  "titulo_artigo": "The effects of reserpine on depression: A systematic review.",
+  "autores": [
+   "Strawbridge R",
+   "Javed RR",
+   "Cave J",
+   "Jauhar S",
+   "Young AH"
+  ],
+  "revista_ano": "J Psychopharmacol 2023",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_STRAWBRIDGE_2023"
+  ],
+  "evid_role": "meta_analise",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_STRAWBRIDGE_2023",
+  "doi": "10.1177/02698811221115762",
+  "claim_id_origem": "B4.MEC.BLOCO01.007",
+  "_aliases": [
+   "Strawbridge",
+   "STRAWBRIDGE"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B4_monoaminas",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "27623971",
+  "titulo_artigo": "Serotonin-1A receptor alterations in depression: a meta-analysis of molecular imaging studies.",
+  "autores": [
+   "Wang L",
+   "Zhou C",
+   "Zhu D",
+   "Wang X",
+   "Fang L",
+   "Zhong J",
+   "Mao Q",
+   "Sun L",
+   "Gong X",
+   "Xia J",
+   "Lian B",
+   "Xie P"
+  ],
+  "revista_ano": "BMC Psychiatry 2016",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_WANG_2016"
+  ],
+  "evid_role": "meta_analise",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_WANG_2016",
+  "doi": "10.1016/j.biopsych.2009.01.028",
+  "claim_id_origem": "B4.MEC.BLOCO02.012",
+  "_aliases": [
+   "Wang",
+   "WANG"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B4_monoaminas",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "33574223",
+  "titulo_artigo": "Effects of tryptophan depletion on anxiety, a systematic review.",
+  "autores": [
+   "Schopman SME",
+   "Bosman RC",
+   "Muntingh ADT",
+   "van Balkom AJLM",
+   "Batelaan NM"
+  ],
+  "revista_ano": "Transl Psychiatry 2021",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SCHOPMAN_2021"
+  ],
+  "evid_role": "meta_analise",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_SCHOPMAN_2021",
+  "doi": "10.1177/0269881115581093",
+  "claim_id_origem": "B4.MEC.BLOCO02.050",
+  "_aliases": [
+   "Schopman",
+   "SCHOPMAN"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B4_monoaminas",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "28367128",
+  "titulo_artigo": "The Role of Norepinephrine and Its α-Adrenergic Receptors in the Pathophysiology and Treatment of Major Depressive Disorder and Schizophrenia: A Systematic Review.",
+  "autores": [
+   "Maletic V",
+   "Eramo A",
+   "Gwin K",
+   "Offord SJ",
+   "Duffy RA"
+  ],
+  "revista_ano": "Front Psychiatry 2017",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MALETIC_2017"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_MALETIC_2017",
+  "doi": "10.1016/j.brainres.2015.11.021",
+  "claim_id_origem": "B4.MEC.BLOCO04.082",
+  "_aliases": [
+   "Maletic",
+   "MALETIC"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B4_monoaminas",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "41167443",
+  "titulo_artigo": "Noradrenergic dysregulation in the locus coeruleus: Implications for neuropsychiatric disease pathophysiology- A systematic review.",
+  "autores": [
+   "Mir FA",
+   "Jha SK",
+   "Nehs CJ"
+  ],
+  "revista_ano": "Neurosci Biobehav Rev 2025",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B4_monoaminas",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_MIR_2025"
+  ],
+  "evid_role": "meta_analise",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B4 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B4 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)",
+  "id_referencia_interna": "REF_MIR_2025",
+  "doi": "10.1016/j.neubiorev.2025.106442",
+  "claim_id_origem": "B4.MEC.BLOCO04.085",
+  "_aliases": [
+   "Mir",
+   "MIR"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B4_monoaminas",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ }
+]

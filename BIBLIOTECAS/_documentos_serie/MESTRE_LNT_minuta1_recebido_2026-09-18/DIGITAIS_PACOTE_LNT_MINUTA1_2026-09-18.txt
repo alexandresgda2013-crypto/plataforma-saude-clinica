@@ -1,0 +1,27 @@
+DIGITAIS — L-NT CONTRATO DAS UNIDADES NARRATIVAS · MINUTA 1 (Auditor-Mestre) + parecer do comentador
+Recebido do operador em 2026-09-18 · rodada 30 · casa (Arena) arquivou VERBATIM, mediu e registrou.
+
+## Peças
+1) L-NT_CONTRATO_UNIDADES_NARRATIVAS_minuta1_294119b9_2026-09-18.md
+   sha256 = 294119b962bd4deb8c83a5bcccef75fffae9a1ae896e55b5d79929fccf0ca67a
+   bytes  = 11803 · linhas = 174 · origem: uploads/L-NT_CONTRATO_UNIDADES_NARRATIVAS_minuta1_2026-09-18.md
+
+2) COMENTADOR_verbatim_LNT_minuta1_2026-09-18.md
+   sha256 = 3b5bbbc38a003292c9e6cc870324ed586199ec5b8a9229be9c9086ebb01fc20d
+   Registro INTERNO da casa (verbatim digitado pelo operador). Nota crua NUNCA circula;
+   pontos verificados viajam em carta da casa, com crédito.
+
+## Réplica executada (trilha 49 — 49/49 verdes, exit 0)
+script: /home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/TRILHA49_script_LNT_minuta1_comentador_2026-09-18.py
+saida : /home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/TRILHA49_LNT_minuta1_2026-09-18.json
+
+## Fatos-âncora medidos na rodada
+- Dimensionamento do mestre: EXATO sob camadas declaradas (90/81 · 11 blocos · 1/7/30 com-repetição ·
+  244/274 · 80 · 1/2/15 · 628 frases na camada split r"\.\s+" corte ≥60 · 21.503 palavras · aritmética 12–19 mil ✔).
+- DESCOBERTA DA CASA: camada completa = 89 claims (4 cabeçalhos agrupados com abreviação escapam da
+  regex do rodapé). Dos 80 referenciados, 79 existem. Órfão real: BLOCO01.001 (VINC_B1_0001–0006) →
+  dívida candidata D-LNT-CLAIM-LEGADO. NT-02 precisa da camada completa como régua de existência.
+- Âncoras: V2.2 df7f7cfd · P-8 be48a5ef · 2 ERRO vivos nomeiam natureza_evidencia e trilha (Parte 8 ✔).
+
+## Selos de ciência (intocados — início e fim)
+V7 = 6e2c2979… · manifesto = 79d1309a… · vínculos = 490675e6… · V2.2 = df7f7cfd… · P-8 = be48a5ef…

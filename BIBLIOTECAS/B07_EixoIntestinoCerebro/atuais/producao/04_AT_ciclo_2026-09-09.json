@@ -1,0 +1,49 @@
+{
+ "ciclo": "[AT] GPM B7 — Eixo Intestino-Cérebro",
+ "data": "2026-09-09",
+ "artefato": "CANONICA v2 (116 refs; de 85)",
+ "insumos": [
+  "GPM_B7_EixoIntestinoCerebro.md (oficial)",
+  "BRIEFING_B7_EIXO_INTESTINO_CEREBRO_RODADA0.md",
+  "BRIEFING_CONSOLIDADO_B7_v1.md",
+  "Artigos cientificos do mecanismo B7 (anexo 196 DOIs + Carabotti sem DOI)",
+  "Resumo do insumo para B7 Chatgpt.md (34 claims B7.SM02 + 3 regras de ouro)"
+ ],
+ "auditoria": {
+  "anexo_itens": 197,
+  "g1_resolvidos": 192,
+  "nao_indexados": [
+   "Thomas 2021 (bioRxiv)",
+   "Towriss 2026 (preprint)",
+   "Xia 2025",
+   "Zhang 2026"
+  ],
+  "falsos_positivos": 0,
+  "sobreposicao_com_V1": 8,
+  "masters_gpm": {
+   "total": 30,
+   "ja_vigentes": 7,
+   "novas": 23
+  },
+  "fila_decisao": 188,
+  "entra": 31,
+  "baixo": 131,
+  "exc": 26
+ },
+ "regras_fixadas": [
+  "B7-CAUSAL-01",
+  "B7-CAUSAL-02",
+  "B7-CAUSAL-03"
+ ],
+ "artefatos": [
+  "producao/insumos/RELATORIO_AUDITORIA_MATRIZ_B7.md",
+  "producao/insumos/matriz_b7_decisao.json",
+  "producao/insumos/matriz_b7_g1.json",
+  "producao/insumos/b7_fila_real.json",
+  "producao/insumos/b7_at_efetch.json",
+  "producao/insumos/b7_trechos_ancora.json"
+ ],
+ "pendencias": [
+  "P-6 (2ª verificação cega, Via 2) — PENDENTE ao fim da rodada 16/16, cobrindo todas as levas [AT]"
+ ]
+}

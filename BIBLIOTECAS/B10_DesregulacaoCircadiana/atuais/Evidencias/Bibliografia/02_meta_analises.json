@@ -1,0 +1,505 @@
+[
+ {
+  "pmid_oficial": "27345144",
+  "titulo_artigo": "Effects of experimental sleep deprivation on anxiety-like behavior in animal research: Systematic review and meta-analysis",
+  "autores": [
+   "Pires GN",
+   "Bezerra AG",
+   "Tufik S",
+   "Andersen ML"
+  ],
+  "revista_ano": "Neuroscience and biobehavioral reviews (2016)",
+  "desenho_estudo": "[EC] Pires_2016",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Effects of experimental sleep deprivation on anxiety-like behavior in animal research: Systematic review and meta-analysis",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_PIRES_2016"
+  ],
+  "id_referencia_interna": "REF_PIRES_2016",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "PIRES",
+   "Pires"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B10_desregulacao_circadiana",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "29690792",
+  "titulo_artigo": "Physical Activity and Incident Depression: A Meta-Analysis of Prospective Cohort Studies",
+  "autores": [
+   "Schuch FB",
+   "Vancampfort D",
+   "Firth J",
+   "Rosenbaum S",
+   "Ward PB",
+   "Silva ES"
+  ],
+  "revista_ano": "The American journal of psychiatry (2018)",
+  "desenho_estudo": "[EC] Schuch_2018",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Physical Activity and Incident Depression: A Meta-Analysis of Prospective Cohort Studies",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SCHUCH_2018"
+  ],
+  "id_referencia_interna": "REF_SCHUCH_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "SCHUCH",
+   "Schuch"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica",
+   "tag_desenho:[EC]",
+   "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B10_desregulacao_circadiana",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "31244687",
+  "titulo_artigo": "Systematic Review of Sleep Disturbances and Circadian Sleep Desynchronization in Autism Spectrum Disorder: Toward an Integrative Model of a Self-Reinforcing Loop",
+  "autores": [
+   "Carmassi C",
+   "Palagini L",
+   "Caruso D",
+   "Masci I",
+   "Nobili L",
+   "Vita A"
+  ],
+  "revista_ano": "Frontiers in psychiatry (2019)",
+  "desenho_estudo": "[OB] Carmassi_2019",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Systematic Review of Sleep Disturbances and Circadian Sleep Desynchronization in Autism Spectrum Disorder: Toward an Integrative Model of a Self-Reinforcing Loop",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CARMASSI_2019"
+  ],
+  "id_referencia_interna": "REF_CARMASSI_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "CARMASSI",
+   "Carmassi"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B10_desregulacao_circadiana",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "37895351",
+  "titulo_artigo": "The Influence of Light Wavelength on Human HPA Axis Rhythms: A Systematic Review.",
+  "autores": [
+   "Robertson-Dixon I",
+   "Murphy MJ",
+   "Crewther SG",
+   "Riddell N"
+  ],
+  "revista_ano": "Life (Basel) (2023)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Life (Basel)",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Revisão sistemática: o comprimento de onda da luz influencia os ritmos do eixo HPA humano.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_ROBERTSONDIXON_2023"
+  ],
+  "id_referencia_interna": "REF_ROBERTSONDIXON_2023",
+  "doi": "10.1016/j.psyneuen.2014.02.014",
+  "claim_id_origem": "B10.MEC.BLOCO01.032",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "ROBERTSON-DIXON",
+   "Robertson-Dixon"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B10_desregulacao_circadiana",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "41389872",
+  "titulo_artigo": "The influence of light wavelength on HPA axis function in non-human animals: A meta-analysis.",
+  "autores": [
+   "Robertson-Dixon I",
+   "Murphy MJ",
+   "Riddell N"
+  ],
+  "revista_ano": "Comp Biochem Physiol A Mol Integr Physiol (2026)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Comp Biochem Physiol A Mol Integr Physiol",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Meta-análise em animais não humanos: o comprimento de onda da luz influencia a função do eixo HPA.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies",
+  "ids_referencia_interna": [
+   "REF_ROBERTSONDIXON_2026"
+  ],
+  "id_referencia_interna": "REF_ROBERTSONDIXON_2026",
+  "doi": "10.1016/j.cbpa.2025.111961",
+  "claim_id_origem": "B10.MEC.BLOCO01.033",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO01 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "ROBERTSON-DIXON",
+   "Robertson-Dixon"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B10_desregulacao_circadiana",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "29126903",
+  "titulo_artigo": "The influence of sleep on human hypothalamic-pituitary-adrenal (HPA) axis reactivity: A systematic review.",
+  "autores": [
+   "van Dalfsen JH",
+   "Markus CR"
+  ],
+  "revista_ano": "Sleep Med Rev (2018)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Sleep Med Rev",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Revisão sistemática: o sono influencia a reatividade do eixo HPA humano.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_VANDALFSEN_2018"
+  ],
+  "id_referencia_interna": "REF_VANDALFSEN_2018",
+  "doi": "10.1016/j.smrv.2017.10.002",
+  "claim_id_origem": "B10.MEC.BLOCO02.010",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "VAN DALFSEN & MARKUS",
+   "van Dalfsen & Markus",
+   "van Dalfsen",
+   "Markus"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B10_desregulacao_circadiana",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "38308964",
+  "titulo_artigo": "Associations of diurnal cortisol parameters with cortisol stress reactivity and recovery: A systematic review and meta-analysis.",
+  "autores": [
+   "Wesarg-Menzel C",
+   "Marheinecke R",
+   "Staaks J",
+   "Engert V"
+  ],
+  "revista_ano": "Psychoneuroendocrinology (2024)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Psychoneuroendocrinology",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Parâmetros diurnos de cortisol se associam à reatividade e recuperação ao estresse (revisão sistemática/meta-análise).",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_WESARGMENZEL_2024"
+  ],
+  "id_referencia_interna": "REF_WESARGMENZEL_2024",
+  "doi": "10.1016/j.psyneuen.2024.106976",
+  "claim_id_origem": "B10.MEC.BLOCO02.013",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO02 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "WESARG-MENZEL",
+   "Wesarg-Menzel"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B10_desregulacao_circadiana",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "27524206",
+  "titulo_artigo": "Chronotype and circadian rhythm in bipolar disorder: A systematic review.",
+  "autores": [
+   "Melo MCA",
+   "Abreu RLC",
+   "Linhares Neto VB",
+   "de Bruin PFC",
+   "de Bruin VMS"
+  ],
+  "revista_ano": "Sleep Med Rev (2017)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Sleep Med Rev",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Cronotipo e ritmo circadiano no transtorno bipolar (revisão sistemática).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MELO_2017"
+  ],
+  "id_referencia_interna": "REF_MELO_2017",
+  "doi": "10.1016/j.smrv.2016.06.007",
+  "claim_id_origem": "B10.MEC.BLOCO11.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO11 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "MELO",
+   "Melo"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B10_desregulacao_circadiana",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "35182537",
+  "titulo_artigo": "A systematic review and meta-analysis of sleep and circadian rhythms disturbances in individuals at high-risk of developing or with early onset of bipolar disorders.",
+  "autores": [
+   "Scott J",
+   "Etain B",
+   "Miklowitz D",
+   "Crouse JJ",
+   "Carpenter J",
+   "Marwaha S"
+  ],
+  "revista_ano": "Neurosci Biobehav Rev (2022)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Neurosci Biobehav Rev",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Distúrbios de sono e ritmo circadiano em indivíduos de alto risco ou com início precoce de transtorno bipolar (revisão sistemática/meta-análise).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SCOTT_2022"
+  ],
+  "id_referencia_interna": "REF_SCOTT_2022",
+  "doi": "10.1016/j.schres.2015.08.023",
+  "claim_id_origem": "B10.MEC.BLOCO11.009",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO11 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "SCOTT",
+   "Scott"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B10_desregulacao_circadiana",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "40154089",
+  "titulo_artigo": "Associations between light at night and mental health: A systematic review and meta-analysis.",
+  "autores": [
+   "Deprato A",
+   "Haldar P",
+   "Navarro JF",
+   "Harding BN",
+   "Lacy P",
+   "Maidstone R"
+  ],
+  "revista_ano": "Sci Total Environ (2025)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Sci Total Environ",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Luz à noite e saúde mental: associação consistente, com avaliação de exposição em evolução (revisão sistemática/meta-análise).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_DEPRATO_2025"
+  ],
+  "id_referencia_interna": "REF_DEPRATO_2025",
+  "doi": "10.1016/j.scitotenv.2025.179188",
+  "claim_id_origem": "B10.MEC.BLOCO05.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO05 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "DEPRATO",
+   "Deprato"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B10_desregulacao_circadiana",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "39608218",
+  "titulo_artigo": "Circadian realignment and depressed mood: A systematic review.",
+  "autores": [
+   "Wescott DL",
+   "Hasler BP",
+   "Foust JE",
+   "Roecklein KA"
+  ],
+  "revista_ano": "Sleep Med Rev (2025)",
+  "desenho_estudo": "[OB] revisão/síntese narrativa ou sistemática · Sleep Med Rev",
+  "secao_origem": "mecanismo_B10_desregulacao_circadiana",
+  "achado_central_molecular": "Realinhamento circadiano pode melhorar a depressão em subgrupos; a mediação pela fase fisiológica não está demonstrada (revisão sistemática).",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_WESCOTT_2025"
+  ],
+  "id_referencia_interna": "REF_WESCOTT_2025",
+  "doi": "10.1016/j.jad.2015.07.017",
+  "claim_id_origem": "B10.MEC.BLOCO06.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "rodada [AT] GPM B10 BLOCO06 — insumo externo auditado ref a ref (P-7)",
+  "g3_verificado_por": "IA G3 (Rodada [AT] GPM B10 2026-09-09, insumo externo auditado ref a ref; P-7): esearch DOI[aid]/PMID + esummary + efetch; abstract lido; 2a verificação independente (P-6) pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "WESCOTT",
+   "Wescott"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B10_desregulacao_circadiana",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ }
+]

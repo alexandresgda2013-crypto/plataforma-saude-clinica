@@ -1,0 +1,22 @@
+DIGITAIS — BASE_DOCUMENTAL_AUDITORIA_MOTOR — recebida 2026-09-19 (rodada 34)
+Regua: sha256 sobre os bytes exatos, camada documental; medida sem comando gravado nao vale.
+
+dedbff6c8f542025a3f0579d58ab84ca17c122f113f2980edcb18153c408408b  FASE 2- 02 FILOSOFIA DO PROJETO.md
+    5.264 b · 46 linhas · UTF-8 CRLF · recebido do operador 2026-09-19 (uploads/)
+5e3f916335c4d631c2639e2aaf8efd48c98f6762e263ff301c4dfc9022bd04ac  ROTEIRO DE TRABALHO DA PLATAFORMA.md
+    22.447 b · 780 linhas · UTF-8 CRLF · recebido do operador 2026-09-19 (uploads/)
+40a58381354ddddb966565ff87f37a63c3e558ca8506819e24babc8a71beb06a  IA_EXTERNA_2a_RODADA_auditoria_classificacao_recebido_2026-09-19.md
+    16.964 b · 101 linhas · transcricao fiel da mensagem do operador (paste, nao arquivo solto) — registro da casa
+
+VIGENTE DE REFERENCIA (fora desta pasta):
+df7f7cfdfc01cf77d658885f30dfefe29dcf380229ea56e6b3af02920df22ae1  ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md
+    52.181 b · 30 secoes unicas · H1/Rev V2.2 · ponteiro ARQUITETURA_VIGENTE.txt
+
+SAIDA DA CASA:
+984afbc7c956d718aa2c97c84a5fcc6f46777abee8c7635bce97db3d1cd04ea7  RELATORIO_CASA_auditoria_2rodada_IA_externa_Motor_2026-09-19.md
+
+TRILHA (reexecutavel):
+BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/TRILHA53_script_auditoria_2rodada_IA_externa_motor_2026-09-19.py
+BIBLIOTECAS/B01_Neuroinflamacao/atuais/producao/TRILHA53_auditoria_2rodada_IA_externa_motor_2026-09-19.json
+    74/74 checks verdes · confissoes datadas de regua: 6 (da casa)
+CIENCIA INTOCADA: V7 6e2c2979… · manifesto 79d1309a… · vinculos 490675e6… · P-8 be48a5ef…

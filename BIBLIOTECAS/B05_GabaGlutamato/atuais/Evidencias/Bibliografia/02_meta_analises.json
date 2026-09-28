@@ -1,0 +1,344 @@
+[
+ {
+  "pmid_oficial": "27145016",
+  "titulo_artigo": "Brain GABA levels across psychiatric disorders: A systematic literature review and meta-analysis of (1) H-MRS studies.",
+  "autores": [
+   "Schür RR",
+   "Draisma LW",
+   "Wijnen JP",
+   "Boks MP"
+  ],
+  "revista_ano": "Hum Brain Mapp 2016",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B5_gaba_glutamato",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_SCHUR_2016"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_SCHUR_2016",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "SCHUR",
+   "Schur"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B5_gaba_glutamato",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "31698111",
+  "titulo_artigo": "Changes in Dosing and Dose Timing of D-Cycloserine Explain Its Apparent Declining Efficacy for Augmenting Exposure Therapy for Anxiety-related Disorders: An Individual Participant-data Meta-analysis.",
+  "autores": [
+   "Rosenfield D",
+   "Smits JAJ",
+   "Hofmann SG",
+   "Mataix-Cols D"
+  ],
+  "revista_ano": "J Anxiety Disord 2019",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B5_gaba_glutamato",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_ROSENFIELD_2019"
+  ],
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "desenho/espécie classificados",
+  "g3_verificado_por": "",
+  "status_auditoria": "",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_ROSENFIELD_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Rosenfield",
+   "ROSENFIELD"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B5_gaba_glutamato",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "35546951",
+  "titulo_artigo": "The Mechanisms Behind Rapid Antidepressant Effects of Ketamine: A Systematic Review With a Focus on Molecular Neuroplasticity.",
+  "autores": [
+   "Kang MJY"
+  ],
+  "revista_ano": "Front Psychiatry 2022",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B5_gaba_glutamato",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_KANG_2022"
+  ],
+  "evid_role": "meta_analise",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B5 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B5 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_KANG_2022",
+  "doi": "10.3389/fpsyt.2022.860882",
+  "claim_id_origem": "B5.MEC.BLOCO07.012",
+  "_aliases": [
+   "Kang",
+   "KANG"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B5_gaba_glutamato",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "39116687",
+  "titulo_artigo": "Neural correlates of treatment response to ketamine for treatment-resistant depression: A systematic review of MRI-based studies.",
+  "autores": [
+   "Yun JY"
+  ],
+  "revista_ano": "Psychiatry Res 2024",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B5_gaba_glutamato",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_YUN_2024"
+  ],
+  "evid_role": "meta_analise",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B5 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B5 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_YUN_2024",
+  "doi": "10.1016/j.psychres.2024.116092",
+  "claim_id_origem": "B5.MEC.BLOCO07.014",
+  "_aliases": [
+   "Yun",
+   "YUN"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B5_gaba_glutamato",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "41475562",
+  "titulo_artigo": "A systematic review of ketamine and esketamine-induced long-term potentiation and synaptic scaling: Do the molecular and synaptic plasticity effects inform dosing intervals?",
+  "autores": [
+   "Le GH"
+  ],
+  "revista_ano": "J Affect Disord 2026",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B5_gaba_glutamato",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_LE_2026"
+  ],
+  "evid_role": "meta_analise",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B5 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B5 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_LE_2026",
+  "doi": "10.1016/j.jad.2025.121081",
+  "claim_id_origem": "B5.MEC.BLOCO07.017",
+  "_aliases": [
+   "Le",
+   "LE"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B5_gaba_glutamato",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "30144668",
+  "titulo_artigo": "Differences in excitatory and inhibitory neurotransmitter levels between depressed patients and healthy controls: A systematic review and meta-analysis.",
+  "autores": [
+   "Godfrey KEM"
+  ],
+  "revista_ano": "J Psychiatr Res 2018",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B5_gaba_glutamato",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_GODFREY_2018"
+  ],
+  "evid_role": "meta_analise",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B5 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B5 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_GODFREY_2018",
+  "doi": "10.1016/j.jpsychires.2018.08.015",
+  "claim_id_origem": "B5.MEC.BLOCO05.004",
+  "_aliases": [
+   "Godfrey",
+   "GODFREY"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B5_gaba_glutamato",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "37495889",
+  "titulo_artigo": "Brain-wide changes in excitation-inhibition balance of major depressive disorder: a systematic review of topographic patterns of GABA- and glutamatergic alterations.",
+  "autores": [
+   "Hu YT"
+  ],
+  "revista_ano": "Mol Psychiatry 2023",
+  "desenho_estudo": "meta-analise",
+  "secao_origem": "mecanismo_B5_gaba_glutamato",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_HU_2023"
+  ],
+  "evid_role": "meta_analise",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B5 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B5 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_HU_2023",
+  "doi": "10.1038/s41380-023-02193-x",
+  "claim_id_origem": "B5.MEC.BLOCO05.010",
+  "_aliases": [
+   "Hu",
+   "HU"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B5_gaba_glutamato",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ },
+ {
+  "pmid_oficial": "34557569",
+  "titulo_artigo": "Parvalbumin interneuron alterations in stress-related mood disorders: A systematic review.",
+  "autores": [
+   "Perlman G"
+  ],
+  "revista_ano": "Neurobiol Stress 2021",
+  "desenho_estudo": "revisao_narrativa",
+  "secao_origem": "mecanismo_B5_gaba_glutamato",
+  "achado_central_molecular": "",
+  "extrapolacao_por_analogia": "",
+  "ids_referencia_interna": [
+   "REF_PERLMAN_2021"
+  ],
+  "evid_role": "revisao_mecanistica",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "escopo B5 confirmado em auditoria [AT] (título/abstract MeSH; DOI resolvido)",
+  "g3_verificado_por": "IA G3 (geração) — B5 [AT 2026-09-08]; P-6 2a verificacao independente (avaliador cego) PENDENTE",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "ATUALIZACAO_AT_2026-09-08 (insumos externos auditados)",
+  "id_referencia_interna": "REF_PERLMAN_2021",
+  "doi": "10.1016/j.ynstr.2021.100380",
+  "claim_id_origem": "B5.MEC.BLOCO04.003",
+  "_aliases": [
+   "Perlman",
+   "PERLMAN"
+  ],
+  "sinais_classificacao": [
+   "titulo:meta-analise/revisao-sistematica"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2",
+  "bloco_origem": "mecanismo_B5_gaba_glutamato",
+  "bloco_origem_derivado_de_secao": true,
+  "forca_evidencia_afirmacao": ""
+ }
+]

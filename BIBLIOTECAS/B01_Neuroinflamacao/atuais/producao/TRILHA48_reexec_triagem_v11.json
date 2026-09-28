@@ -1,0 +1,1956 @@
+{
+  "arquivo": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json",
+  "sha256_entrada": "490675e63122a24baebd8890f4a7883a07f68916d90562e74adf309133501d1b",
+  "data": "2026-09-18",
+  "total": 274,
+  "automaticos": 231,
+  "fila_humana": 43,
+  "por_regra": {
+    "regra_1_confirmado_sem_sinal": 231,
+    "regra_3_parcialmente_confirmado": 19,
+    "regra_2_confirmado_com_sinal": 16,
+    "regra_4_verificacao_pendente": 8
+  },
+  "teste_aceitacao": {
+    "referencia": "REF_RAISON_2013",
+    "aprovado": true,
+    "vinculos": [
+      {
+        "id_vinculo": "VINC_B1_0128",
+        "id_referencia_interna": "REF_RAISON_2013",
+        "status_auditoria": "CONFIRMADO",
+        "direcao_suporte": "__PENDENTE__",
+        "motivo": "regra_2_confirmado_com_sinal:negativ"
+      },
+      {
+        "id_vinculo": "VINC_B1_0173",
+        "id_referencia_interna": "REF_RAISON_2013",
+        "status_auditoria": "CONFIRMADO",
+        "direcao_suporte": "__PENDENTE__",
+        "motivo": "regra_2_confirmado_com_sinal:so no"
+      }
+    ]
+  },
+  "lista_fila_humana": [
+    {
+      "id_vinculo": "VINC_B1_0010",
+      "id_referencia_interna": "REF_DANTZER_2006",
+      "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_3_parcialmente_confirmado"
+    },
+    {
+      "id_vinculo": "VINC_B1_0021",
+      "id_referencia_interna": "REF_RAJESH_2022",
+      "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_3_parcialmente_confirmado"
+    },
+    {
+      "id_vinculo": "VINC_B1_0027",
+      "id_referencia_interna": "REF_CHIU_2013",
+      "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_3_parcialmente_confirmado"
+    },
+    {
+      "id_vinculo": "VINC_B1_0028",
+      "id_referencia_interna": "REF_TAFT_2021",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_2_confirmado_com_sinal:NEGATIV"
+    },
+    {
+      "id_vinculo": "VINC_B1_0032",
+      "id_referencia_interna": "REF_PICCA_2017",
+      "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_3_parcialmente_confirmado"
+    },
+    {
+      "id_vinculo": "VINC_B1_0040",
+      "id_referencia_interna": "REF_FIORE_2023",
+      "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_3_parcialmente_confirmado"
+    },
+    {
+      "id_vinculo": "VINC_B1_0047",
+      "id_referencia_interna": "REF_HAFIZI_2007",
+      "status_auditoria": "NAO_LOCALIZADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_4_verificacao_pendente:pendente_fulltext"
+    },
+    {
+      "id_vinculo": "VINC_B1_0053",
+      "id_referencia_interna": "REF_SHIRAKAWA_2018",
+      "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_3_parcialmente_confirmado"
+    },
+    {
+      "id_vinculo": "VINC_B1_0065",
+      "id_referencia_interna": "REF_TOBINICK_2009",
+      "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_3_parcialmente_confirmado"
+    },
+    {
+      "id_vinculo": "VINC_B1_0075",
+      "id_referencia_interna": "REF_MARIANI_2022",
+      "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_3_parcialmente_confirmado"
+    },
+    {
+      "id_vinculo": "VINC_B1_0084",
+      "id_referencia_interna": "REF_CHEN_2025",
+      "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_3_parcialmente_confirmado"
+    },
+    {
+      "id_vinculo": "VINC_B1_0089",
+      "id_referencia_interna": "REF_KOHLER_2017",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_2_confirmado_com_sinal:negativ"
+    },
+    {
+      "id_vinculo": "VINC_B1_0108",
+      "id_referencia_interna": "REF_MENARD_2017",
+      "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_3_parcialmente_confirmado"
+    },
+    {
+      "id_vinculo": "VINC_B1_0112",
+      "id_referencia_interna": "REF_OSIMO_2020",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_2_confirmado_com_sinal:subgrupo"
+    },
+    {
+      "id_vinculo": "VINC_B1_0118",
+      "id_referencia_interna": "REF_SOUZA_2017",
+      "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_3_parcialmente_confirmado"
+    },
+    {
+      "id_vinculo": "VINC_B1_0121",
+      "id_referencia_interna": "REF_ARORA_2019",
+      "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_3_parcialmente_confirmado"
+    },
+    {
+      "id_vinculo": "VINC_B1_0127",
+      "id_referencia_interna": "REF_CHUKAEW_2021",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_2_confirmado_com_sinal:subgrupo"
+    },
+    {
+      "id_vinculo": "VINC_B1_0128",
+      "id_referencia_interna": "REF_RAISON_2013",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_2_confirmado_com_sinal:negativ"
+    },
+    {
+      "id_vinculo": "VINC_B1_0131",
+      "id_referencia_interna": "REF_OSIMO_2020",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_2_confirmado_com_sinal:subgrupo"
+    },
+    {
+      "id_vinculo": "VINC_B1_0134",
+      "id_referencia_interna": "REF_FELGER_2016",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_2_confirmado_com_sinal:negativ"
+    },
+    {
+      "id_vinculo": "VINC_B1_0144",
+      "id_referencia_interna": "REF_FELGER_2016",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_2_confirmado_com_sinal:negativ"
+    },
+    {
+      "id_vinculo": "VINC_B1_0150",
+      "id_referencia_interna": "REF_CHO_2024",
+      "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_3_parcialmente_confirmado"
+    },
+    {
+      "id_vinculo": "VINC_B1_0160",
+      "id_referencia_interna": "REF_BRANN_2022",
+      "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_3_parcialmente_confirmado"
+    },
+    {
+      "id_vinculo": "VINC_B1_0168",
+      "id_referencia_interna": "REF_GOSHEN_2009",
+      "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_3_parcialmente_confirmado"
+    },
+    {
+      "id_vinculo": "VINC_B1_0172",
+      "id_referencia_interna": "REF_OSIMO_2020",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_2_confirmado_com_sinal:SUBGRUPO"
+    },
+    {
+      "id_vinculo": "VINC_B1_0173",
+      "id_referencia_interna": "REF_RAISON_2013",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_2_confirmado_com_sinal:so no"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0190",
+      "id_referencia_interna": "REF_LEE_2025",
+      "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_3_parcialmente_confirmado"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0197",
+      "id_referencia_interna": "REF_COSCO_2019",
+      "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_3_parcialmente_confirmado"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0198",
+      "id_referencia_interna": "REF_QUAGLIATO_2018",
+      "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_3_parcialmente_confirmado"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0200",
+      "id_referencia_interna": "REF_BHATT_2020",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_2_confirmado_com_sinal:subgrupo"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0201",
+      "id_referencia_interna": "REF_RUPPRECHT_2022",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_2_confirmado_com_sinal:subgrupo"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0202",
+      "id_referencia_interna": "REF_PARSONS_2021",
+      "status_auditoria": "PARCIALMENTE_CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_3_parcialmente_confirmado"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0207",
+      "id_referencia_interna": "REF_WITTENBERG_2020",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_2_confirmado_com_sinal:restrit"
+    },
+    {
+      "id_vinculo": "VINC_B1_0209",
+      "id_referencia_interna": "REF_HANNESTAD_2013",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_2_confirmado_com_sinal:negativ"
+    },
+    {
+      "id_vinculo": "VINC_B1_0235",
+      "id_referencia_interna": "REF_ALMULLA_2022",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_2_confirmado_com_sinal:apenas no"
+    },
+    {
+      "id_vinculo": "VINC_B1_0258",
+      "id_referencia_interna": "REF_BIANCHI_2007",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_4_verificacao_pendente:pendente"
+    },
+    {
+      "id_vinculo": "VINC_B1_0259",
+      "id_referencia_interna": "REF_BOATO_2011",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_4_verificacao_pendente:pendente"
+    },
+    {
+      "id_vinculo": "VINC_B1_0264",
+      "id_referencia_interna": "REF_LI_2017",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_4_verificacao_pendente:pendente"
+    },
+    {
+      "id_vinculo": "VINC_B1_0268",
+      "id_referencia_interna": "REF_POLETTI_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_4_verificacao_pendente:pendente"
+    },
+    {
+      "id_vinculo": "VINC_B1_0269",
+      "id_referencia_interna": "REF_SUGIMOTO_2022",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_4_verificacao_pendente:pendente"
+    },
+    {
+      "id_vinculo": "VINC_B1_0270",
+      "id_referencia_interna": "REF_ZDILAR_2000",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_4_verificacao_pendente:pendente"
+    },
+    {
+      "id_vinculo": "VINC_B1_0271",
+      "id_referencia_interna": "REF_ZENARO_2017",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_4_verificacao_pendente:pendente"
+    },
+    {
+      "id_vinculo": "VINC_B1_0274",
+      "id_referencia_interna": "REF_OSIMO_2019",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "__PENDENTE__",
+      "motivo": "regra_2_confirmado_com_sinal:SUBGRUPO"
+    }
+  ],
+  "lista_automaticos": [
+    {
+      "id_vinculo": "VINC_B1_0001",
+      "id_referencia_interna": "REF_SWANSON_2019",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0002",
+      "id_referencia_interna": "REF_SERHAN_2014",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0003",
+      "id_referencia_interna": "REF_SERHAN_2018",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0004",
+      "id_referencia_interna": "REF_PERRY_2013",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0005",
+      "id_referencia_interna": "REF_BARRIENTOS_2015",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0006",
+      "id_referencia_interna": "REF_NORDEN_2015",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0007",
+      "id_referencia_interna": "REF_NORDEN_2015",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0008",
+      "id_referencia_interna": "REF_DANTZER_2001",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0009",
+      "id_referencia_interna": "REF_HARDEN_2015",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0011",
+      "id_referencia_interna": "REF_OCONNOR_2009",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0012",
+      "id_referencia_interna": "REF_BARRIENTOS_2015",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0013",
+      "id_referencia_interna": "REF_YANG_2026",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0014",
+      "id_referencia_interna": "REF_QIU_2026",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0015",
+      "id_referencia_interna": "REF_LOPES_2021",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0016",
+      "id_referencia_interna": "REF_SWANSON_2019",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0017",
+      "id_referencia_interna": "REF_BAMBOUSKOVA_2021",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0018",
+      "id_referencia_interna": "REF_MOLINALOPEZ_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0019",
+      "id_referencia_interna": "REF_FU_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0020",
+      "id_referencia_interna": "REF_YAN_2021",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0022",
+      "id_referencia_interna": "REF_WEI_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0023",
+      "id_referencia_interna": "REF_HUANG_2023b",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0024",
+      "id_referencia_interna": "REF_ZHAO_2019",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0025",
+      "id_referencia_interna": "REF_WANG_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0026",
+      "id_referencia_interna": "REF_ZHANG_2023",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0029",
+      "id_referencia_interna": "REF_CHEN_2024b",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0030",
+      "id_referencia_interna": "REF_MALAU_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0031",
+      "id_referencia_interna": "REF_FENG_2017",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0033",
+      "id_referencia_interna": "REF_CHEN_2021",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0034",
+      "id_referencia_interna": "REF_SALMINEN_2022",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0035",
+      "id_referencia_interna": "REF_XU_2021",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0036",
+      "id_referencia_interna": "REF_RAFFAELE_2025",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0037",
+      "id_referencia_interna": "REF_XU_2020",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0038",
+      "id_referencia_interna": "REF_BULL_2009",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0039",
+      "id_referencia_interna": "REF_SERHAN_2014",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0041",
+      "id_referencia_interna": "REF_BANG_2018",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0042",
+      "id_referencia_interna": "REF_WEI_2023",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0043",
+      "id_referencia_interna": "REF_LIU_2022",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0044",
+      "id_referencia_interna": "REF_WANG_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0045",
+      "id_referencia_interna": "REF_CHEN_2024c",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0046",
+      "id_referencia_interna": "REF_ZHENG_2014",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0048",
+      "id_referencia_interna": "REF_BLOMQVIST_2018",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0049",
+      "id_referencia_interna": "REF_YANG_2008",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0050",
+      "id_referencia_interna": "REF_HUANG_2023",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0051",
+      "id_referencia_interna": "REF_YANG_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0052",
+      "id_referencia_interna": "REF_SAXTON_2021",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0054",
+      "id_referencia_interna": "REF_KLENGEL_2013",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0055",
+      "id_referencia_interna": "REF_PARK_2019",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0056",
+      "id_referencia_interna": "REF_WANG_2018",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0057",
+      "id_referencia_interna": "REF_ZHANG_2025b",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0058",
+      "id_referencia_interna": "REF_WEI_2023",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0059",
+      "id_referencia_interna": "REF_BIANCHI_2011",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0060",
+      "id_referencia_interna": "REF_GARCIADOMINGUEZ_2025",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0061",
+      "id_referencia_interna": "REF_DONATO_2013",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0062",
+      "id_referencia_interna": "REF_LAPCHAK_1993",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0063",
+      "id_referencia_interna": "REF_RIZZO_2018",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0064",
+      "id_referencia_interna": "REF_RIZZO_2018",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0066",
+      "id_referencia_interna": "REF_WILLIS_2020",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0067",
+      "id_referencia_interna": "REF_KOHLER_2017",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0068",
+      "id_referencia_interna": "REF_ELENI_2025",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0069",
+      "id_referencia_interna": "REF_WIEDOCHA_2018",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0070",
+      "id_referencia_interna": "REF_HE_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0071",
+      "id_referencia_interna": "REF_HERMAN_2018",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0072",
+      "id_referencia_interna": "REF_LANG_2025",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0073",
+      "id_referencia_interna": "REF_MARIANI_2022",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0074",
+      "id_referencia_interna": "REF_KEENAN_2025",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0076",
+      "id_referencia_interna": "REF_HERMAN_2018",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0077",
+      "id_referencia_interna": "REF_GE_2008",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0078",
+      "id_referencia_interna": "REF_HAN_2005",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0079",
+      "id_referencia_interna": "REF_JANG_2020",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0080",
+      "id_referencia_interna": "REF_ZHU_2023",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0081",
+      "id_referencia_interna": "REF_ZHU_2026",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0082",
+      "id_referencia_interna": "REF_PAOLICELLI_2011",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0083",
+      "id_referencia_interna": "REF_KOHLER_2017",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0085",
+      "id_referencia_interna": "REF_YANG_2020",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0086",
+      "id_referencia_interna": "REF_RUTSCH_2020",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0087",
+      "id_referencia_interna": "REF_YAMANISHI_2023",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0088",
+      "id_referencia_interna": "REF_HUI_2025",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0090",
+      "id_referencia_interna": "REF_KRASEMANN_2017",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0091",
+      "id_referencia_interna": "REF_ZHOU_2020",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0092",
+      "id_referencia_interna": "REF_CAMERON_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0093",
+      "id_referencia_interna": "REF_YUN_2018",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0094",
+      "id_referencia_interna": "REF_SHEN_2025",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0095",
+      "id_referencia_interna": "REF_ZHANG_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0096",
+      "id_referencia_interna": "REF_ARMULIK_2010",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0097",
+      "id_referencia_interna": "REF_MENARD_2017",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0098",
+      "id_referencia_interna": "REF_BONAZ_2018",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0099",
+      "id_referencia_interna": "REF_LIU_2020",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0100",
+      "id_referencia_interna": "REF_LI_2025",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0101",
+      "id_referencia_interna": "REF_WILEY_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0102",
+      "id_referencia_interna": "REF_LIU_2020",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0103",
+      "id_referencia_interna": "REF_PINTOSANCHEZ_2017",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0104",
+      "id_referencia_interna": "REF_ZHANG_2026",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0105",
+      "id_referencia_interna": "REF_DA_2021",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0106",
+      "id_referencia_interna": "REF_KIM_2025",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0107",
+      "id_referencia_interna": "REF_XU_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0109",
+      "id_referencia_interna": "REF_DOWLATI_2010",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0110",
+      "id_referencia_interna": "REF_HOWREN_2009",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0111",
+      "id_referencia_interna": "REF_GOLDSMITH_2016",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0113",
+      "id_referencia_interna": "REF_KOHLER_2017",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0114",
+      "id_referencia_interna": "REF_JARKAS_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0115",
+      "id_referencia_interna": "REF_VIRTANEN_2015",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0116",
+      "id_referencia_interna": "REF_COMAI_2022",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0117",
+      "id_referencia_interna": "REF_SUBLETTE_2011",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0119",
+      "id_referencia_interna": "REF_SETIAWAN_2015",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0120",
+      "id_referencia_interna": "REF_HOLMES_2018",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0122",
+      "id_referencia_interna": "REF_GULEN_2016",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0123",
+      "id_referencia_interna": "REF_STEINER_2011",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0124",
+      "id_referencia_interna": "REF_YANG_2024b",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0125",
+      "id_referencia_interna": "REF_BELGE_2020",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0126",
+      "id_referencia_interna": "REF_MONSALVE_2025",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0129",
+      "id_referencia_interna": "REF_DUMAN_2016",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0130",
+      "id_referencia_interna": "REF_VIRTANEN_2015",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0132",
+      "id_referencia_interna": "REF_CAPURON_2002",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0133",
+      "id_referencia_interna": "REF_CAPURON_2002b",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0135",
+      "id_referencia_interna": "REF_BEKHBAT_2022",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0136",
+      "id_referencia_interna": "REF_MEHTA_2020",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0137",
+      "id_referencia_interna": "REF_WANG_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0138",
+      "id_referencia_interna": "REF_SACTA_2018",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0139",
+      "id_referencia_interna": "REF_MOLINALOPEZ_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0140",
+      "id_referencia_interna": "REF_LANG_2025",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0141",
+      "id_referencia_interna": "REF_SWANSON_2019",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0142",
+      "id_referencia_interna": "REF_YANG_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0143",
+      "id_referencia_interna": "REF_SACTA_2018",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0145",
+      "id_referencia_interna": "REF_LAPCHAK_1993",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0146",
+      "id_referencia_interna": "REF_SCHAFER_2012",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0147",
+      "id_referencia_interna": "REF_HAO_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0148",
+      "id_referencia_interna": "REF_ZHAO_2025",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0149",
+      "id_referencia_interna": "REF_ZHANG_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0151",
+      "id_referencia_interna": "REF_GARATE_2011",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0152",
+      "id_referencia_interna": "REF_BEKHBAT_2022",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0153",
+      "id_referencia_interna": "REF_MENENDEZ_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0154",
+      "id_referencia_interna": "REF_YANG_2023",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0155",
+      "id_referencia_interna": "REF_XU_2026",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0156",
+      "id_referencia_interna": "REF_FEKETE_2004",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0157",
+      "id_referencia_interna": "REF_ZEOLD_2006",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0158",
+      "id_referencia_interna": "REF_KLENGEL_2013",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0159",
+      "id_referencia_interna": "REF_YEHUDA_2016",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0161",
+      "id_referencia_interna": "REF_GOSHEN_2009",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0162",
+      "id_referencia_interna": "REF_ALMEIDA_2020",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0163",
+      "id_referencia_interna": "REF_LAPCHAK_1993",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0164",
+      "id_referencia_interna": "REF_BASILICO_2022",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0165",
+      "id_referencia_interna": "REF_NASH_2019",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0166",
+      "id_referencia_interna": "REF_STELLWAGEN_2006",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0167",
+      "id_referencia_interna": "REF_ZHENG_2014",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0169",
+      "id_referencia_interna": "REF_ZHANG_2025",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0170",
+      "id_referencia_interna": "REF_PENG_2025",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0171",
+      "id_referencia_interna": "REF_CHEN_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0174",
+      "id_referencia_interna": "REF_SETIAWAN_2015",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0175",
+      "id_referencia_interna": "REF_STEINER_2011",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0176",
+      "id_referencia_interna": "REF_BEKHBAT_2022",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0177",
+      "id_referencia_interna": "REF_BULL_2009",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0178",
+      "id_referencia_interna": "REF_WILEY_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0179",
+      "id_referencia_interna": "REF_CHENG_2021",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0180",
+      "id_referencia_interna": "REF_VIZUETE_2022",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0181",
+      "id_referencia_interna": "REF_TANNAHILL_2013",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0182",
+      "id_referencia_interna": "REF_LIU_2023",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0183",
+      "id_referencia_interna": "REF_ENGSKOGVLACHOS_2025",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0184",
+      "id_referencia_interna": "REF_ZEB_2022",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0185",
+      "id_referencia_interna": "REF_ABUDARA_2015",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0186",
+      "id_referencia_interna": "REF_KARPUK_2011",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0187",
+      "id_referencia_interna": "REF_LEI_2023",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0188",
+      "id_referencia_interna": "REF_WEN_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0189",
+      "id_referencia_interna": "REF_LYU_2025",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0191",
+      "id_referencia_interna": "REF_KIM_2017",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0192",
+      "id_referencia_interna": "REF_HUANG_2024b",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0193",
+      "id_referencia_interna": "REF_GAO_2023",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0194",
+      "id_referencia_interna": "REF_KOMLEVA_2021",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0195",
+      "id_referencia_interna": "REF_RENNA_2018",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0196",
+      "id_referencia_interna": "REF_COSTELLO_2019",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0199",
+      "id_referencia_interna": "REF_PASSOS_2015",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0203",
+      "id_referencia_interna": "REF_HOWE_2022",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0204",
+      "id_referencia_interna": "REF_KIM_2018",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0205",
+      "id_referencia_interna": "REF_XIA_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0206",
+      "id_referencia_interna": "REF_BI_2016",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1V2_0208",
+      "id_referencia_interna": "REF_SU_2018",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0210",
+      "id_referencia_interna": "REF_ZHANG_2015",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0211",
+      "id_referencia_interna": "REF_PARROTT_2016",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0212",
+      "id_referencia_interna": "REF_KAUFMANN_2017",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0213",
+      "id_referencia_interna": "REF_WANG_2018b",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0214",
+      "id_referencia_interna": "REF_KOHLER_2018",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0215",
+      "id_referencia_interna": "REF_MARTINHERNANDEZ_2019",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0216",
+      "id_referencia_interna": "REF_WANG_2019",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0217",
+      "id_referencia_interna": "REF_DACUNTO_2019",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0218",
+      "id_referencia_interna": "REF_SAVITZ_2020",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0219",
+      "id_referencia_interna": "REF_ENACHE_2019",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0220",
+      "id_referencia_interna": "REF_LIU_2020b",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0221",
+      "id_referencia_interna": "REF_ATTWELLS_2020",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0222",
+      "id_referencia_interna": "REF_HAROON_2020",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0223",
+      "id_referencia_interna": "REF_NAGY_2020",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0224",
+      "id_referencia_interna": "REF_MACGIOLLABHUI_2021",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0225",
+      "id_referencia_interna": "REF_BOTTCHER_2020",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0226",
+      "id_referencia_interna": "REF_ANDERSON_2020",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0227",
+      "id_referencia_interna": "REF_NUTMA_2021",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0228",
+      "id_referencia_interna": "REF_SCHUBERT_2021",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0229",
+      "id_referencia_interna": "REF_WANG_2021",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0230",
+      "id_referencia_interna": "REF_GUILARTE_2022",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0231",
+      "id_referencia_interna": "REF_GARCIAGARCIA_2022",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0232",
+      "id_referencia_interna": "REF_LI_2021",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0233",
+      "id_referencia_interna": "REF_LIU_2022b",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0234",
+      "id_referencia_interna": "REF_EGGERSTORFER_2022",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0236",
+      "id_referencia_interna": "REF_XIA_2023",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0237",
+      "id_referencia_interna": "REF_KOUBA_2022",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0238",
+      "id_referencia_interna": "REF_ELGELLAIE_2023",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0239",
+      "id_referencia_interna": "REF_BADAWY_2023",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0240",
+      "id_referencia_interna": "REF_NUTMA_2023",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0241",
+      "id_referencia_interna": "REF_HAN_2023b",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0242",
+      "id_referencia_interna": "REF_LIU_2023b",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0243",
+      "id_referencia_interna": "REF_STONE_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0244",
+      "id_referencia_interna": "REF_BERTOLLO_2025",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0245",
+      "id_referencia_interna": "REF_GAVRIL_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0246",
+      "id_referencia_interna": "REF_JADHAV_2025",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0247",
+      "id_referencia_interna": "REF_WIJESINGHE_2025",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0248",
+      "id_referencia_interna": "REF_XU_2025",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0249",
+      "id_referencia_interna": "REF_XIE_2025",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0250",
+      "id_referencia_interna": "REF_GEDEK_2025",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0251",
+      "id_referencia_interna": "REF_LI_2026",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0252",
+      "id_referencia_interna": "REF_MCCOLGAN_2026",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0253",
+      "id_referencia_interna": "REF_MURATA_2026",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0254",
+      "id_referencia_interna": "REF_OREGAN_2026",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0255",
+      "id_referencia_interna": "REF_HUA_2026",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0256",
+      "id_referencia_interna": "REF_BARZON_2026b",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0257",
+      "id_referencia_interna": "REF_BARZON_2026",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0260",
+      "id_referencia_interna": "REF_FRANKLIN_2018",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0261",
+      "id_referencia_interna": "REF_HAN_2023",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0262",
+      "id_referencia_interna": "REF_HUANG_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0263",
+      "id_referencia_interna": "REF_LAWRENCE_2023",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0265",
+      "id_referencia_interna": "REF_LI_2025b",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0266",
+      "id_referencia_interna": "REF_MEHTA_2020b",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0267",
+      "id_referencia_interna": "REF_NOAH_2021",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0272",
+      "id_referencia_interna": "REF_ZHOU_2024",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    },
+    {
+      "id_vinculo": "VINC_B1_0273",
+      "id_referencia_interna": "REF_ZHOU_2025",
+      "status_auditoria": "CONFIRMADO",
+      "direcao_suporte": "sustenta",
+      "motivo": "regra_1_confirmado_sem_sinal"
+    }
+  ]
+}

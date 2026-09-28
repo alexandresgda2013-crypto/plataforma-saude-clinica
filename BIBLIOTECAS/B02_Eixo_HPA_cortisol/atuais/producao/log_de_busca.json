@@ -1,0 +1,260 @@
+{
+ "busca": "B2 HPA - Ato 1 Rodada 2",
+ "data": "2026-09-05",
+ "tool": "PubMed eutils",
+ "resultados": [
+  {
+   "categoria": "fundamentos",
+   "query": "HPA axis stress review neurobiology central",
+   "ids": [
+    "32450993",
+    "38414628",
+    "37985263",
+    "41755883",
+    "32922317",
+    "30021357"
+   ]
+  },
+  {
+   "categoria": "hipercortisolismo",
+   "query": "depression hypercortisolism HPA meta-analysis",
+   "ids": [
+    "23906001",
+    "27657469"
+   ]
+  },
+  {
+   "categoria": "hipocortisolismo",
+   "query": "hypocortisolism PTSD chronic stress meta-analysis",
+   "ids": []
+  },
+  {
+   "categoria": "reatividade_transdiagnostica",
+   "query": "cortisol stress reactivity anxiety depression psychiatric meta-analysis",
+   "ids": [
+    "28863392",
+    "28012291",
+    "41501907"
+   ]
+  },
+  {
+   "categoria": "ansiedade_panico",
+   "query": "cortisol panic disorder generalized anxiety social anxiety",
+   "ids": [
+    "32002927",
+    "34225926",
+    "17546345",
+    "20233897",
+    "2843838",
+    "17481859"
+   ]
+  },
+  {
+   "categoria": "toc",
+   "query": "HPA axis cortisol obsessive compulsive disorder",
+   "ids": [
+    "2694203",
+    "32979695",
+    "29684711",
+    "26508966",
+    "33352399",
+    "24295624"
+   ]
+  },
+  {
+   "categoria": "borderline",
+   "query": "HPA axis cortisol borderline personality disorder meta-analysis",
+   "ids": [
+    "30500331",
+    "30557762"
+   ]
+  },
+  {
+   "categoria": "burnout",
+   "query": "burnout cortisol HPA adrenal fatigue",
+   "ids": [
+    "22753184",
+    "34266613",
+    "30340064",
+    "26684396",
+    "16150550",
+    "41256943"
+   ]
+  },
+  {
+   "categoria": "receptor_MR_GR",
+   "query": "mineralocorticoid glucocorticoid receptor stress depression",
+   "ids": [
+    "32002927",
+    "34077736",
+    "26970338",
+    "25459896",
+    "28093219",
+    "32087522"
+   ]
+  },
+  {
+   "categoria": "fkbp5",
+   "query": "FKBP5 glucocorticoid receptor trauma stress",
+   "ids": [
+    "39705315",
+    "39361217",
+    "40242984",
+    "23707272",
+    "36396784",
+    "38509197"
+   ]
+  },
+  {
+   "categoria": "biomarcador_car",
+   "query": "cortisol awakening response depression meta-analysis",
+   "ids": [
+    "40654374",
+    "28870447",
+    "38176541",
+    "41791598",
+    "35041878",
+    "36462296"
+   ]
+  },
+  {
+   "categoria": "biomarcador_cabelo",
+   "query": "hair cortisol stress depression meta-analysis",
+   "ids": [
+    "28135674",
+    "33310696",
+    "38176541",
+    "36335755",
+    "42477737",
+    "41987765"
+   ]
+  },
+  {
+   "categoria": "dst",
+   "query": "dexamethasone suppression test depression",
+   "ids": [
+    "6342766",
+    "6380223",
+    "3067539",
+    "17086345",
+    "1713799",
+    "6389093"
+   ]
+  },
+  {
+   "categoria": "dst_crh",
+   "query": "dexamethasone CRH test depression",
+   "ids": [
+    "15950349",
+    "37581323",
+    "25905307",
+    "23291044",
+    "19177168",
+    "17086345"
+   ]
+  },
+  {
+   "categoria": "traducao_crf1",
+   "query": "CRF1 antagonist depression anxiety clinical",
+   "ids": [
+    "12769601",
+    "17511614",
+    "20826181",
+    "20206287",
+    "17287823",
+    "17550594"
+   ]
+  },
+  {
+   "categoria": "traducao_antiglucocorticoide",
+   "query": "glucocorticoid receptor antagonist depression mifepristone",
+   "ids": [
+    "18537690",
+    "28708736",
+    "35679911",
+    "22466348",
+    "37070763",
+    "22936518"
+   ]
+  },
+  {
+   "categoria": "neuroesteroides",
+   "query": "allopregnanolone GABA depression postpartum",
+   "ids": [
+    "30552910",
+    "37491938",
+    "34190962",
+    "35558166",
+    "32435663",
+    "30633900"
+   ]
+  },
+  {
+   "categoria": "diferença_sexual",
+   "query": "sex differences HPA cortisol depression stress",
+   "ids": [
+    "38176541",
+    "37108291",
+    "27107208",
+    "34785419",
+    "27388688",
+    "34786441"
+   ]
+  },
+  {
+   "categoria": "microbiota",
+   "query": "gut microbiota HPA axis cortisol probiotic",
+   "ids": [
+    "38613087",
+    "41515133",
+    "28918360",
+    "42330779",
+    "35358641",
+    "41132334"
+   ]
+  },
+  {
+   "categoria": "11bhsd",
+   "query": "11-beta-hydroxysteroid dehydrogenase brain cortisol",
+   "ids": [
+    "33466883",
+    "2004599",
+    "37941106",
+    "9000459",
+    "34651587",
+    "8613810"
+   ]
+  },
+  {
+   "categoria": "sono",
+   "query": "sleep REM cortisol HPA axis nocturnal",
+   "ids": [
+    "9710353",
+    "36408390",
+    "20554120",
+    "12573305",
+    "19038501",
+    "10818263"
+   ]
+  },
+  {
+   "categoria": "endocanabinoide",
+   "query": "endocannabinoid HPA axis stress glucocorticoid feedback",
+   "ids": [
+    "22214537",
+    "29407214",
+    "21663537",
+    "20702575",
+    "21104389",
+    "23954749"
+   ]
+  },
+  {
+   "categoria": "pvn",
+   "query": "paraventricular nucleus GABA glutamate CRH stress amygdala",
+   "ids": [
+    "23856065"
+   ]
+  }
+ ]
+}

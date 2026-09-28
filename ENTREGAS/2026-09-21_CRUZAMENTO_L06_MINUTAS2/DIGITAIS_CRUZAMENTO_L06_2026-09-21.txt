@@ -1,0 +1,16 @@
+DIGITAIS — PACOTE CRUZAMENTO MINUTAS 2 L-06 — 2026-09-21 (RODADA 60)
+
+Documento-mestre B1 — 5.194 bytes (intocado).
+(1) sha256; nome; bytes
+
+560537f64963fde163c4864522480d331e13b10dd1319831cfc995c07c2bb750  CRUZAMENTO_MINUTAS2_L06_2026-09-21.md (15536 b)
+
+Objetos verificados nesta rodada:
+minuta mestre   : eb54337c7f17c20fbd0ad1b926fd0d575b33462141537e837c4aff9fa13bbd13 (12.837 b)
+minuta comentador: verbatim arquivado na serie (sha medido na trilha 73: 1a51d9b9… do arquivo com nota de topo da casa)
+vinculos        : 490675e63122a24baebd8890f4a7883a07f68916d90562e74adf309133501d1b (274)
+schema N2 v1.4  : d96ad15b620fa373d8d95d44159a9f3db31c04cfed051d85c7ab014cb3c65050
+trilha 73       : 15/15 — script TRILHA73_script_cruzamento_minutas2_L06_2026-09-21.py (+json)
+
+Nota de auto-referencia: o sha256 do ZIP deste pacote NAO consta deste arquivo;
+ele e publicado no CHANGELOG 60.

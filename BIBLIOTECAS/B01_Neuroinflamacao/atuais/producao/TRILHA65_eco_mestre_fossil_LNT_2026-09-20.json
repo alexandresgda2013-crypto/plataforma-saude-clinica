@@ -1,0 +1,97 @@
+{
+  "trilha": 65,
+  "data": "2026-09-20",
+  "rodada": 50,
+  "titulo": "Eco do mestre (V2.2 no projeto, D-V22-BYTES-PROJETO fechada pelo lado dele) + fossil cravado + 3 correcoes L-NT verificadas + v1.9 desconhecido",
+  "veredito_da_replica": "ECOS do mestre EXATOS (V2.2/V2.3/spec) · precisao dele (sha individual do md ausente na carta) VERDADEIRA — a casa adota publicar shas individuais nas proximas · FOSSIL = 4o artefato 'V2 15.09.26', 51.235 b, 0/4 clausulas, distinto de todos os elos (confissao da rev.52 FECHADA) · 3 correcoes do L-NT: PROCEDEM na especificacao (uso 2 trilhas tabela §0 + Opcao A · natureza_evidencia 7 valores exatos · direcao_suporte 14x com 3x residuais de changelog) — a casa subscreve entrarem na minuta 2 · comentario do comentador: ponto de METODO correto (status != tecnica — o mestre JA disse 'confere' 2x; formalizavel) e 2 PREMISSAS imprecisas (anexo 'corresponde a V2.2' — falso, 0/4 marcadores · 'ponteiros antigos = antigo' — a V2.2 OFICIAL tambem cita v1.1, D-V22-SCHEMA-NOMES) · Como Executar v1.9: 0 bytes na casa — pedido formal dos bytes (duas frentes citam) · modelo do operador: V2.3 TECNICAMENTE FECHADA (3/3); schemas: falta o eco do mestre sobre os JSONs em transito.",
+  "checks": [
+    {
+      "check": "C01 ciencia trio intacto (inicio)",
+      "ok": true,
+      "detalhe": {
+        "V7": "6e2c29797e63",
+        "manifesto": "79d1309a1689",
+        "vinculos": "490675e63122"
+      }
+    },
+    {
+      "check": "C02 fossil: sha == 309aa65f... declarado pelo mestre · 51.235 b · 1421 linhas CRLF · H1 'V2 15.09.26' · 0/4 clausulas · v1.1 presente, v1.4 ausente",
+      "ok": true,
+      "detalhe": "sha=309aa65fa75de6b93cca24aaa154dbdf984833aff1716f8a26c510108c28b646 bytes=51235 crlf=1421 H1='# ARQUITETURA CONSOLIDADA DA PLATAFORMA V2    15.09.26' marcadores={'origem_conhecimento': 0, 'a prosa prevalece sobre os desenhos': 0, 'fora do cânone': 0, 'O Motor busca ativamente': 0, 'schema_vinculo_v1.1': 1, 'schema_vinculo_v1.4': 0}"
+    },
+    {
+      "check": "C03 fossil NAO e' byte-identico a NENHUM elo conhecido da casa -> 4o artefato 'V2 15.09.26'",
+      "ok": true,
+      "detalhe": "distinto de: serie SUPERSEDED V2-15.09 (46.129 b) · upload r24 (50.964 b) · V2.2 oficial (52.181 b) · = elo NOVO, 51.235 b"
+    },
+    {
+      "check": "C04 fossil arquivado na serie com DIGITAIS (identidade cravada registrada por escrito)",
+      "ok": true,
+      "detalhe": "ARQUITETURA_projeto_mestre_FOSSIL_309aa65f_recebido_2026-09-20"
+    },
+    {
+      "check": "C05 ecos do mestre CONFEREM: V2.2 · V2.3 · especificacao v1.4 == bytes da distribuicao da casa",
+      "ok": true,
+      "detalhe": {
+        "V2.2 oficial": "df7f7cfdfc01",
+        "V2.3 candidata": "498e7df9d8ab",
+        "Especificacao L-05 v1.4": "78a0f2afcd2a"
+      }
+    },
+    {
+      "check": "C06 precisao dele VERDADEIRA: a carta 19 v2 nao publicava a digital individual do md da especificacao",
+      "ok": true,
+      "detalhe": "casa reconhece: shas individuais passam a ir na carta; este esta nesta rodada na resposta ao operador e no STATUS"
+    },
+    {
+      "check": "C07 spec: 'uso' tem DUAS trilhas (tabela secao 0) · Opcao A 'trilha: clinica | mecanistica' escrita literalmente",
+      "ok": true,
+      "detalhe": "tabela_uso=True opcaoA=True · 'trilha' ocorre 19x na spec"
+    },
+    {
+      "check": "C08 natureza_evidencia: enum EXATO de 7 valores na spec (inclui preclinica_in_vivo/in_vitro e 'mista') · e na Minuta 1: N-4 no vocabulario do kit ('preclinical_mechanistic') + 0x 'nucleo_causal' — o achado do mestre PROCEDE",
+      "ok": true,
+      "detalhe": "enum7_extraido=['humana_observacional', 'humana_experimental', 'humana_post_mortem', 'preclinica_in_vivo', 'preclinica_in_vitro', 'mista', 'nao_aplicavel'] · minuta: preclinical_mechanistic=True nucleo_causal=False"
+    },
+    {
+      "check": "C09 direcao_suporte = 14x EXATO na spec · 'direcao' isolada = 3x mas TODAS no changelog interno (mesma anatomia do v1.1 residual da V2.3 — proveniencia historica)",
+      "ok": true,
+      "detalhe": "direcao_suporte=14 · direcao_isolada=3 (R7/rename — registro, nao campo) · N2 v1.4: trilha aparece 10x, direcao_suporte 8x (Opcao A ja materializada no schema)"
+    },
+    {
+      "check": "C10 replica acervo: uso 274 = {178·37·29·30} -> 244/274 (89%) conforme enum v1.2 EXATO · evid_role das 237 refs = {133·66·30·6·2} EXATO (fonte do mapeamento secao 2.2) · natureza_evidencia NAO existe ainda (0/237 refs · 0/274 vinculos — campo novo da v1.4)",
+      "ok": true,
+      "detalhe": "uso={'contexto_mecanistico': 178, 'gap_pesquisa': 29, 'clinico': 37, 'B1_v2': 30} evid_role={'preclinical_mechanistic': 133, 'human_clinical': 66, 'review': 30, 'human_experimental': 6, 'post_mortem': 2}"
+    },
+    {
+      "check": "C11 'Como Executar v1.9' (1cd90b40...): 0 bytes na base da casa (0 por nome · 0 por sha) · acervo so tem v1.7 (18613516...) -> DECLARADO, nao verificado · pedido formal dos bytes (2 frentes citam esse documento: auditor-2 'adendo v1.9' + mestre sha no projeto)",
+      "ok": true,
+      "detalhe": "hits_nome=[] hits_sha=0 v1.7=186135166e06 · master_declarado=1cd90b407fac"
+    },
+    {
+      "check": "C12 verbatins da rodada arquivados com digitais (mestre 539bae64... · comentador fd29402d...)",
+      "ok": true,
+      "detalhe": "mestre=539bae647f2c comentador=fd29402d7db2"
+    },
+    {
+      "check": "C13 status 'todas fecharam' (modelo do operador): V2.3 = 3/3 ecos tecnicos (casa trilha 58/62 · mestre r45+r50 · auditor-2 r43) · schemas N1 v1.3 ('b06660fd') / N2 v1.4 ('d96ad15b') = 3 frentes favoraveis, falta so o eco do mestre sobre os 2 JSONs (a enviar)",
+      "ok": true,
+      "detalhe": "V2.3: TECNICAMENTE FECHADA sob seu criterio · schemas: 1 elo a fechar (mestre recalcula os bytes a caminho)"
+    },
+    {
+      "check": "C14 ciencia trio intacto (fim)",
+      "ok": true,
+      "detalhe": {
+        "V7": "6e2c29797e63",
+        "manifesto": "79d1309a1689",
+        "vinculos": "490675e63122"
+      }
+    }
+  ],
+  "ok": 14,
+  "total": 14,
+  "confissoes": [
+    "A casa publicava digital da especificacao so no zip (sha total), nao do md isolado: valida a observacao do mestre; corrigido a partir desta rodada (shas individuais passam a constar)",
+    "Rodada 44 (rev.51): 'v1.9 nao existe, e discussao' — informacao do operador na epoca; agora 2 frentes citam o artefato com sha -> a casa marcou como DECLARADO-nao-verificado e pede os bytes, sem alegar existencia nem inexistencia"
+  ]
+}

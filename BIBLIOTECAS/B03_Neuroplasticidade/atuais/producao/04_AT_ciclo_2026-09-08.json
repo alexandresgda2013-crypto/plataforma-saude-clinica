@@ -1,0 +1,800 @@
+{
+ "at_ciclo": "2026-09-08",
+ "biblioteca": "B3",
+ "at_status": "INCORPORADO_V2",
+ "insumo": {
+  "arquivo": "uploads/Artigos cientificos do mecanismo B3 Neuroplasticidade.md",
+  "itens": 193,
+  "consolidacao_texto": true
+ },
+ "incorporadas": [
+  {
+   "pmid": "20655508",
+   "id": "REF_NISSEN_2010",
+   "grupo": "K",
+   "tag": "EC"
+  },
+  {
+   "pmid": "29387021",
+   "id": "REF_KISHI_2017",
+   "grupo": "F",
+   "tag": "OB"
+  },
+  {
+   "pmid": "33643008",
+   "id": "REF_AROSIO_2021",
+   "grupo": "I",
+   "tag": "OB"
+  },
+  {
+   "pmid": "34053675",
+   "id": "REF_CASTREN_2021",
+   "grupo": "A",
+   "tag": "OB"
+  },
+  {
+   "pmid": "35810199",
+   "id": "REF_APPELBAUM_2023",
+   "grupo": "K",
+   "tag": "OB"
+  },
+  {
+   "pmid": "35354926",
+   "id": "REF_TARTT_2022",
+   "grupo": "K",
+   "tag": "OB"
+  },
+  {
+   "pmid": "29432620",
+   "id": "REF_YOUSSEF_2018",
+   "grupo": "F",
+   "tag": "EC"
+  },
+  {
+   "pmid": "19153574",
+   "id": "REF_GATT_2009",
+   "grupo": "F",
+   "tag": "EC"
+  },
+  {
+   "pmid": "22442074",
+   "id": "REF_YU_2012",
+   "grupo": "F",
+   "tag": "ML"
+  },
+  {
+   "pmid": "33053385",
+   "id": "REF_TIAN_2021",
+   "grupo": "F",
+   "tag": "EC"
+  },
+  {
+   "pmid": "31900428",
+   "id": "REF_NOTARAS_2020",
+   "grupo": "F",
+   "tag": "OB"
+  },
+  {
+   "pmid": "34298123",
+   "id": "REF_ROBINSON_2021",
+   "grupo": "O",
+   "tag": "ML"
+  },
+  {
+   "pmid": "35995236",
+   "id": "REF_LU_2022",
+   "grupo": "H",
+   "tag": "ML"
+  },
+  {
+   "pmid": "34819637",
+   "id": "REF_YAO_2022",
+   "grupo": "H",
+   "tag": "EC"
+  },
+  {
+   "pmid": "39116252",
+   "id": "REF_CHEN_2024",
+   "grupo": "K",
+   "tag": "ML"
+  },
+  {
+   "pmid": "39558048",
+   "id": "REF_LIAO_2025",
+   "grupo": "O",
+   "tag": "OB"
+  },
+  {
+   "pmid": "41620807",
+   "id": "REF_ODONNELL_2026",
+   "grupo": "O",
+   "tag": "OB"
+  },
+  {
+   "pmid": "35601905",
+   "id": "REF_RYGVOLD_2022",
+   "grupo": "K",
+   "tag": "ML"
+  },
+  {
+   "pmid": "33795646",
+   "id": "REF_HOFLICH_2021",
+   "grupo": "K",
+   "tag": "EC"
+  },
+  {
+   "pmid": "26687096",
+   "id": "REF_KAILAINATHAN_2016",
+   "grupo": "F",
+   "tag": "ML"
+  },
+  {
+   "pmid": "24048383",
+   "id": "REF_ANASTASIA_2013",
+   "grupo": "F",
+   "tag": "ML"
+  },
+  {
+   "pmid": "35722560",
+   "id": "REF_PAGLIUSI_2022",
+   "grupo": "F",
+   "tag": "ML"
+  },
+  {
+   "pmid": "21907221",
+   "id": "REF_DUMAN_2012c",
+   "grupo": "B",
+   "tag": "OB"
+  },
+  {
+   "pmid": "30894661",
+   "id": "REF_DUMAN_2019",
+   "grupo": "B",
+   "tag": "OB"
+  },
+  {
+   "pmid": "35546951",
+   "id": "REF_KANG_2022",
+   "grupo": "B",
+   "tag": "MA"
+  },
+  {
+   "pmid": "37124348",
+   "id": "REF_HE_2023",
+   "grupo": "G",
+   "tag": "OB"
+  },
+  {
+   "pmid": "35074585",
+   "id": "REF_WANG_2022",
+   "grupo": "G",
+   "tag": "OB"
+  },
+  {
+   "pmid": "38278430",
+   "id": "REF_ELMESEINY_2024",
+   "grupo": "D",
+   "tag": "OB"
+  },
+  {
+   "pmid": "34407417",
+   "id": "REF_LIN_2021",
+   "grupo": "B",
+   "tag": "EC"
+  },
+  {
+   "pmid": "34731624",
+   "id": "REF_SUZUKI_2021",
+   "grupo": "B",
+   "tag": "EC"
+  },
+  {
+   "pmid": "33637303",
+   "id": "REF_WU_2021",
+   "grupo": "B",
+   "tag": "EC"
+  },
+  {
+   "pmid": "37358072",
+   "id": "REF_ZAYTSEVA_2023",
+   "grupo": "B",
+   "tag": "ML"
+  },
+  {
+   "pmid": "29532791",
+   "id": "REF_ZANOS_2018",
+   "grupo": "B",
+   "tag": "OB"
+  },
+  {
+   "pmid": "37793581",
+   "id": "REF_BOTTEMANNE_2023",
+   "grupo": "B",
+   "tag": "OB"
+  },
+  {
+   "pmid": "40097740",
+   "id": "REF_BROWN_2025",
+   "grupo": "C",
+   "tag": "ML"
+  },
+  {
+   "pmid": "41633835",
+   "id": "REF_BROWN_2026",
+   "grupo": "C",
+   "tag": "ML"
+  },
+  {
+   "pmid": "39613915",
+   "id": "REF_CALDER_2025",
+   "grupo": "I",
+   "tag": "MA"
+  },
+  {
+   "pmid": "39562042",
+   "id": "REF_STOREY_2025",
+   "grupo": "E",
+   "tag": "ML"
+  },
+  {
+   "pmid": "42066082",
+   "id": "REF_AREFIN_2026",
+   "grupo": "D",
+   "tag": "EC"
+  },
+  {
+   "pmid": "42287566",
+   "id": "REF_PRABAKAR_2026",
+   "grupo": "O",
+   "tag": "EC"
+  },
+  {
+   "pmid": "41526004",
+   "id": "REF_BULEK_2026",
+   "grupo": "O",
+   "tag": "EC"
+  },
+  {
+   "pmid": "17851537",
+   "id": "REF_PITTENGER_2008",
+   "grupo": "O",
+   "tag": "OB"
+  },
+  {
+   "pmid": "26076834",
+   "id": "REF_MCEWEN_2016",
+   "grupo": "O",
+   "tag": "OB"
+  },
+  {
+   "pmid": "21807003",
+   "id": "REF_MCEWEN_2012",
+   "grupo": "O",
+   "tag": "OB"
+  },
+  {
+   "pmid": "29545546",
+   "id": "REF_FORREST_2018",
+   "grupo": "O",
+   "tag": "OB"
+  },
+  {
+   "pmid": "31037646",
+   "id": "REF_TRECCANI_2019",
+   "grupo": "K",
+   "tag": "ML"
+  },
+  {
+   "pmid": "29691465",
+   "id": "REF_PRYAZHNIKOV_2018",
+   "grupo": "K",
+   "tag": "ML"
+  },
+  {
+   "pmid": "39864644",
+   "id": "REF_ALGAIDI_2025",
+   "grupo": "O",
+   "tag": "OB"
+  },
+  {
+   "pmid": "34601342",
+   "id": "REF_PARROTT_2021",
+   "grupo": "H",
+   "tag": "ML"
+  },
+  {
+   "pmid": "40339008",
+   "id": "REF_MA_2025",
+   "grupo": "C",
+   "tag": "ML"
+  },
+  {
+   "pmid": "26786147",
+   "id": "REF_ZHANG_2016",
+   "grupo": "H",
+   "tag": "OB"
+  },
+  {
+   "pmid": "23100425",
+   "id": "REF_SANDERSON_2012",
+   "grupo": "E",
+   "tag": "ML"
+  },
+  {
+   "pmid": "26938443",
+   "id": "REF_SANDERSON_2016",
+   "grupo": "E",
+   "tag": "ML"
+  },
+  {
+   "pmid": "29440558",
+   "id": "REF_SANDERSON_2018",
+   "grupo": "E",
+   "tag": "ML"
+  },
+  {
+   "pmid": "25451194",
+   "id": "REF_DIERING_2014",
+   "grupo": "E",
+   "tag": "ML"
+  },
+  {
+   "pmid": "30359599",
+   "id": "REF_DIERING_2018",
+   "grupo": "E",
+   "tag": "OB"
+  },
+  {
+   "pmid": "22993436",
+   "id": "REF_FERNANDEZMONREAL_2012",
+   "grupo": "E",
+   "tag": "OB"
+  },
+  {
+   "pmid": "19489005",
+   "id": "REF_PENG_2010",
+   "grupo": "E",
+   "tag": "ML"
+  },
+  {
+   "pmid": "32895399",
+   "id": "REF_SUMI_2020",
+   "grupo": "E",
+   "tag": "ML"
+  },
+  {
+   "pmid": "36866246",
+   "id": "REF_SUMI_2023",
+   "grupo": "E",
+   "tag": "ML"
+  },
+  {
+   "pmid": "23946413",
+   "id": "REF_SOARES_2013",
+   "grupo": "E",
+   "tag": "OB"
+  },
+  {
+   "pmid": "32071234",
+   "id": "REF_YONG_2020",
+   "grupo": "E",
+   "tag": "ML"
+  },
+  {
+   "pmid": "21967517",
+   "id": "REF_CHRISTOFFEL_2011",
+   "grupo": "O",
+   "tag": "OB"
+  },
+  {
+   "pmid": "23268191",
+   "id": "REF_MARSDEN_2013",
+   "grupo": "O",
+   "tag": "OB"
+  },
+  {
+   "pmid": "22522470",
+   "id": "REF_LEUNER_2013",
+   "grupo": "O",
+   "tag": "OB"
+  },
+  {
+   "pmid": "26404711",
+   "id": "REF_CHATTARJI_2015",
+   "grupo": "O",
+   "tag": "OB"
+  },
+  {
+   "pmid": "26844236",
+   "id": "REF_WILSON_2015",
+   "grupo": "O",
+   "tag": "OB"
+  },
+  {
+   "pmid": "28246558",
+   "id": "REF_LIU_2017",
+   "grupo": "O",
+   "tag": "OB"
+  },
+  {
+   "pmid": "27240534",
+   "id": "REF_LAU_2017",
+   "grupo": "O",
+   "tag": "ML"
+  },
+  {
+   "pmid": "28926000",
+   "id": "REF_NOTARAS_2017",
+   "grupo": "F",
+   "tag": "ML"
+  },
+  {
+   "pmid": "31801966",
+   "id": "REF_PRICE_2020",
+   "grupo": "O",
+   "tag": "OB"
+  },
+  {
+   "pmid": "32616214",
+   "id": "REF_LUSCHER_2020",
+   "grupo": "G",
+   "tag": "OB"
+  },
+  {
+   "pmid": "34565579",
+   "id": "REF_ALEKSANDROVA_2021",
+   "grupo": "L",
+   "tag": "OB"
+  },
+  {
+   "pmid": "34016377",
+   "id": "REF_WU_2021b",
+   "grupo": "C",
+   "tag": "OB"
+  },
+  {
+   "pmid": "34968492",
+   "id": "REF_HESS_2022",
+   "grupo": "C",
+   "tag": "OB"
+  },
+  {
+   "pmid": "36596696",
+   "id": "REF_ZANOS_2023",
+   "grupo": "C",
+   "tag": "ML"
+  },
+  {
+   "pmid": "33963284",
+   "id": "REF_WEI_2022",
+   "grupo": "C",
+   "tag": "OB"
+  },
+  {
+   "pmid": "35508195",
+   "id": "REF_PAREKH_2022",
+   "grupo": "B",
+   "tag": "OB"
+  },
+  {
+   "pmid": "36907686",
+   "id": "REF_KIM_2023",
+   "grupo": "C",
+   "tag": "OB"
+  },
+  {
+   "pmid": "37435365",
+   "id": "REF_SHA_2023",
+   "grupo": "M",
+   "tag": "OB"
+  },
+  {
+   "pmid": "37488280",
+   "id": "REF_KRYSTAL_2024",
+   "grupo": "B",
+   "tag": "OB"
+  },
+  {
+   "pmid": "39457754",
+   "id": "REF_BENATTI_2024",
+   "grupo": "N",
+   "tag": "OB"
+  },
+  {
+   "pmid": "38177353",
+   "id": "REF_BROWN_2024",
+   "grupo": "D",
+   "tag": "OB"
+  },
+  {
+   "pmid": "39770460",
+   "id": "REF_COMAI_2024",
+   "grupo": "G",
+   "tag": "OB"
+  },
+  {
+   "pmid": "38338875",
+   "id": "REF_NUMAKAWA_2024",
+   "grupo": "A",
+   "tag": "OB"
+  },
+  {
+   "pmid": "38687826",
+   "id": "REF_SHI_2024",
+   "grupo": "B",
+   "tag": "ML"
+  },
+  {
+   "pmid": "41594739",
+   "id": "REF_CARMELLINI_2025",
+   "grupo": "O",
+   "tag": "OB"
+  },
+  {
+   "pmid": "39343821",
+   "id": "REF_KAVALALI_2025",
+   "grupo": "B",
+   "tag": "OB"
+  },
+  {
+   "pmid": "39368530",
+   "id": "REF_LUGENBUHL_2025",
+   "grupo": "O",
+   "tag": "OB"
+  },
+  {
+   "pmid": "40545507",
+   "id": "REF_REN_2025",
+   "grupo": "O",
+   "tag": "OB"
+  },
+  {
+   "pmid": "41659277",
+   "id": "REF_AGUILARVALLES_2026",
+   "grupo": "O",
+   "tag": "ML"
+  },
+  {
+   "pmid": "36050137",
+   "id": "REF_IZUMI_2022",
+   "grupo": "J",
+   "tag": "ML"
+  },
+  {
+   "pmid": "35145379",
+   "id": "REF_LAHAM_2021",
+   "grupo": "O",
+   "tag": "OB"
+  },
+  {
+   "pmid": "20686454",
+   "id": "REF_SCHMIDT_2010",
+   "grupo": "I",
+   "tag": "ML"
+  },
+  {
+   "pmid": "17949819",
+   "id": "REF_KOZISEK_2008",
+   "grupo": "A",
+   "tag": "OB"
+  },
+  {
+   "pmid": "25340958",
+   "id": "REF_MILLER_2014",
+   "grupo": "G",
+   "tag": "ML"
+  },
+  {
+   "pmid": "27066532",
+   "id": "REF_PHOUMTHIPPHAVONG_2016",
+   "grupo": "K",
+   "tag": "ML"
+  },
+  {
+   "pmid": "37038358",
+   "id": "REF_NIKOLACPERKOVIC_2023",
+   "grupo": "I",
+   "tag": "OB"
+  },
+  {
+   "pmid": "36826992",
+   "id": "REF_MOYAALVARADO_2023",
+   "grupo": "A",
+   "tag": "ML"
+  },
+  {
+   "pmid": "37761014",
+   "id": "REF_ALSALLOUM_2023",
+   "grupo": "A",
+   "tag": "ML"
+  },
+  {
+   "pmid": "29158578",
+   "id": "REF_YAO_2018",
+   "grupo": "C",
+   "tag": "ML"
+  },
+  {
+   "pmid": "29158584",
+   "id": "REF_CAVALLERI_2018",
+   "grupo": "K",
+   "tag": "ML"
+  },
+  {
+   "pmid": "29507199",
+   "id": "REF_MARSHALL_2018",
+   "grupo": "A",
+   "tag": "ML"
+  },
+  {
+   "pmid": "32353004",
+   "id": "REF_SHIN_2020",
+   "grupo": "M",
+   "tag": "ML"
+  },
+  {
+   "pmid": "31022420",
+   "id": "REF_PATEL_2019",
+   "grupo": "O",
+   "tag": "OB"
+  },
+  {
+   "pmid": "30737641",
+   "id": "REF_WANG_2019",
+   "grupo": "A",
+   "tag": "OB"
+  },
+  {
+   "pmid": "29353879",
+   "id": "REF_NIKOLOVA_2018",
+   "grupo": "K",
+   "tag": "EC"
+  },
+  {
+   "pmid": "34707481",
+   "id": "REF_RUGGIERO_2021",
+   "grupo": "O",
+   "tag": "OB"
+  },
+  {
+   "pmid": "37047730",
+   "id": "REF_SANTOS_2023",
+   "grupo": "N",
+   "tag": "EC"
+  },
+  {
+   "pmid": "26015580",
+   "id": "REF_MIZUI_2015",
+   "grupo": "F",
+   "tag": "ML"
+  },
+  {
+   "pmid": "27634355",
+   "id": "REF_LIU_2017b",
+   "grupo": "J",
+   "tag": "ML"
+  },
+  {
+   "pmid": "28640258",
+   "id": "REF_SUZUKI_2017",
+   "grupo": "C",
+   "tag": "ML"
+  }
+ ],
+ "rejeitados_registro": {
+  "EXC_escopo": {
+   "39654365": "esclerose múltipla",
+   "39203753": "anorexia nervosa",
+   "42488724": "Alzheimer",
+   "40214430": "dor",
+   "35328770": "neurodegeneração (hipocampo)",
+   "33343326": "Fragile X",
+   "34610314": "beta-amiloide",
+   "33937912": "TBI/TCE",
+   "42136057": "envelhecimento/neurodegeneração",
+   "39061415": "indol-3-carbinol/neuroproteção",
+   "34071978": "Alzheimer",
+   "24334212": "Alzheimer (sangue periférico)",
+   "26715164": "editorial cardiovascular (trombose)",
+   "41596628": "MAPK em neurodegeneração",
+   "18037014": "TEPT-específico",
+   "30457048": "TEPT-específico",
+   "40767105": "TEPT-específico",
+   "31215725": "artigo histórico (baixo incremento)",
+   "34280458": "intervenção baicalina (fitoterápico)",
+   "36694423": "intervenção fitoquímicos",
+   "35337082": "intervenção miméticos dipeptídicos",
+   "36158555": "revisão BDNF genérica SNC",
+   "30873009": "ensaio/opinião (meta-ciência)",
+   "31817968": "topologia de rede genérica",
+   "40430064": "proBDNF/apoptose em contexto neurodegenerativo",
+   "32606374": "modelo Fragile X (Fmr1-KO)",
+   "37781095": "redundância: mesmo grupo; Numakawa 2024 (38338875) cobre BDNF×estresse",
+   "40817330": "acoplamento estrutura-função temporal — sem vínculo depressão/plasticidade",
+   "42376131": "transtorno neurológico funcional (FND)",
+   "36291261": "redundância: revisão NMDAR genérica (Comai 2024/Krystal 2024 cobrem)",
+   "29516301": "redundância com Zanos & Gould 2018 (29532791, já selecionado)",
+   "29736744": "foco eficácia/tolerabilidade clínica — fora do núcleo mecanístico B3",
+   "33981335": "modelo pós-AVE (AVE fora de escopo)"
+  },
+  "BAIXO_incremento": {
+   "18466342": "básico AMPA-trafficking sem vínculo doença",
+   "20017110": "redundância com Kozisek 2008/Castrén 2021",
+   "20186705": "básico maturação sináptica",
+   "34274350": "doenças neurológicas genérico",
+   "33430908": "palmitoilação básica",
+   "33990590": "LTD/STP básico",
+   "32170729": "STEP61 básico",
+   "36070750": "homeostase pré-sináptica básica",
+   "35977502": "trafficking NMDAR básico",
+   "34436728": "AMPAR composição genérico",
+   "37308476": "proteômica AKT/MAPK pré-clínica (baixo incremento)",
+   "37091922": "regras NMDAR por tipo celular (básico)",
+   "40924453": "mGluR espontâneo básico",
+   "41429886": "SNX6 trafficking básico",
+   "39841263": "AMPA/plasticidade genérico",
+   "41549054": "perspectiva geral (baixo incremento específico)",
+   "41915731": "RAB5IF/SUMOilação BDNF básico",
+   "32948689": "GRIP1 básico",
+   "32292336": "CP-AMPAR fosforilação básico",
+   "31978252": "subunidades GluN2 genérico",
+   "30364226": "endocitose AMPAR básico",
+   "29515177": "cortactina endolisossomal básico",
+   "29230056": "caudas C GluA1/A2 básico",
+   "24298164": "GluN2A/2B hipocampal básico",
+   "26085624": "AIDA-1 básico",
+   "33544788": "revisão neuroimagem genérica",
+   "30851296": "redundância reviews cetamina (5-HT/glutamato)",
+   "32754026": "revisão AMPAR bidirecional genérica",
+   "31699965": "redundância (enantiômeros cetamina)",
+   "35872836": "redundância (mecanismos cetamina)",
+   "33096634": "redundância (BDNF revisão geral)",
+   "36819781": "sonda traxoprodil pré-clínica (incremento modesto)",
+   "40005159": "redundância temática (BDNF mediador geral)",
+   "30463271": "ênfase neurogênese (escopo B16 — P16)",
+   "35561083": "neurogênese adulta estrutural (escopo B16 — P16)",
+   "26788077": "redundância (BDNF implicações clínicas; Kozisek/Castrén cobrem)",
+   "40132761": "modelo medo condicionado específico (pré-clínico, incremento modesto)",
+   "28498321": "bioquímica pró-peptídeo (redundância; Mizui 2015 cobre função LTD)",
+   "41450874": "córtex humano saudável sem vínculo doença (incremento baixo)",
+   "32440333": "redundância (reviews cetamina+biomarcadores)",
+   "35088731": "didático para prática de EMT (fora do núcleo mecanístico)",
+   "38989735": "narrativa genérica MDD (baixo incremento)"
+  },
+  "erratas": [
+   "34880451",
+   "35364073"
+  ],
+  "falhas_g1": [
+   "10.1016/s0079-6123(07",
+   "10.33612/diss.1479578477",
+   "10.54254/2753-8818/2024.19967",
+   "10.1101/330688",
+   "10.48550/arxiv.1711.09536",
+   "10.1101/2024.05.01.592099",
+   "10.1192/j.eurpsy.2023.71",
+   "10.1101/2025.07.28.667139"
+  ],
+  "correcoes_autoria": {
+   "19153574": [
+    "Schofield 2009",
+    "Gatt JM 2009"
+   ],
+   "29158584": [
+    "Pich 2018",
+    "Cavalleri L 2018"
+   ],
+   "29158578": [
+    "Zhang 2018",
+    "Yao N 2018"
+   ]
+  },
+  "ja_vigentes": [
+   "20724638",
+   "21677641",
+   "23534055",
+   "27144355",
+   "36194941"
+  ]
+ }
+}

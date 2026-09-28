@@ -1,0 +1,333 @@
+{
+ "acao": "09_distribuicao_MA_EC_MODULO09",
+ "data": "2026-09-11",
+ "biblioteca": "B09_DisfuncaoMitocondrial",
+ "lei": "PROMPT_v4.2 instrução final: [MA]->02, [EC]->03; id único global (validar_auditoria.py)",
+ "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+ "contagens": {
+  "ficam_01": 104,
+  "vao_02_MA": 7,
+  "vao_03_EC": 0,
+  "conflitos": 2,
+  "tag_EC_amplo_nao_migrado": 41
+ },
+ "ids_para_02": [
+  {
+   "id": "REF_PICARD_2018",
+   "pmid": "29389736",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_HOLPER_2019",
+   "pmid": "31320210",
+   "sinais": [
+    "tag_desenho:[MA]"
+   ]
+  },
+  {
+   "id": "REF_TRUMPFF_2021",
+   "pmid": "33839318",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_CALARCO_2024",
+   "pmid": "38118327",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_KUANG_2018",
+   "pmid": "29726068",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_VALIENTEPALLEJA_2022",
+   "pmid": "35085849",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_FERNANDEZPECH_2026",
+   "pmid": "41921723",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  }
+ ],
+ "ids_para_03": [],
+ "conflitos_tag_x_titulo_REVISAVEL": [
+  {
+   "id": "REF_TRUMPFF_2021",
+   "pmid": "33839318",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  },
+  {
+   "id": "REF_KUANG_2018",
+   "pmid": "29726068",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  }
+ ],
+ "REVISAVEL_tag_EC_amplo_sem_sinal_RCT_nao_migrado": [
+  {
+   "id": "REF_KONRADI_2004",
+   "pmid": "14993118",
+   "desenho_estudo": "[EC] pós-morte bipolar (Konradi 2004)",
+   "titulo": "Molecular evidence for mitochondrial dysfunction in bipolar disorder"
+  },
+  {
+   "id": "REF_BENSHACHAR_2008",
+   "pmid": "18989376",
+   "desenho_estudo": "[EC] pós-morte complexo I (Ben-Shachar 2008)",
+   "titulo": "Neuroanatomical pattern of mitochondrial complex I pathology varies between schizophrenia, bipolar disorder and major depression"
+  },
+  {
+   "id": "REF_ANDREAZZA_2010",
+   "pmid": "20176368",
+   "desenho_estudo": "[EC] pós-morte ETC (Andreazza 2010)",
+   "titulo": "Impairment of the mitochondrial electron transport chain due to sleep deprivation in mice"
+  },
+  {
+   "id": "REF_TORRELL_2013",
+   "pmid": "23355257",
+   "desenho_estudo": "[EC] mtDNA cérebro pós-morte (Torrell 2013)",
+   "titulo": "Mitochondrial DNA (mtDNA) in brain samples from patients with major psychiatric disorders: gene expression profiles, mtDNA content and prese"
+  },
+  {
+   "id": "REF_ALCOCERGOMEZ_2014",
+   "pmid": "24513871",
+   "desenho_estudo": "[EC] NLRP3 sangue TDM (Alcocer-Gómez 2014)",
+   "titulo": "NLRP3 inflammasome is activated in mononuclear blood cells from patients with major depressive disorder"
+  },
+  {
+   "id": "REF_HROUDOVA_2013",
+   "pmid": "25206677",
+   "desenho_estudo": "[EC] respirometria plaqueta (Hroudová 2013)",
+   "titulo": "Control mechanisms in mitochondrial oxidative phosphorylation"
+  },
+  {
+   "id": "REF_KARABATSIAKIS_2014",
+   "pmid": "26126180",
+   "desenho_estudo": "[EC] respirometria PBMC (Karabatsiakis 2014)",
+   "titulo": "Mitochondrial respiration in peripheral blood mononuclear cells correlates with depressive subsymptoms and severity of major depression"
+  },
+  {
+   "id": "REF_RYAN_2019",
+   "pmid": "30191781",
+   "desenho_estudo": "[EC] PGC-1α/ECT (Ryan 2019)",
+   "titulo": "Peroxisome proliferator-activated receptor gamma co-activator-1 alpha in depression and the response to electroconvulsive therapy"
+  },
+  {
+   "id": "REF_SCAINI_2021",
+   "pmid": "34650203",
+   "desenho_estudo": "[EC] dinâmica/mitofagia sangue (Scaini 2021)",
+   "titulo": "Dysregulation of mitochondrial dynamics, mitophagy and apoptosis in major depressive disorder: Does inflammation play a role?"
+  },
+  {
+   "id": "REF_FERNSTROM_2021",
+   "pmid": "34789750",
+   "desenho_estudo": "[EC] cadeia respiratória sangue (Fernström 2021)",
+   "titulo": "Blood-based mitochondrial respiratory chain function in major depression"
+  },
+  {
+   "id": "REF_BODENSTEIN_2019",
+   "pmid": "31797868",
+   "desenho_estudo": "[EC] pós-morte; mtDNA cerebral por região no bipolar (Bodenstein ",
+   "titulo": "Mitochondrial DNA content and oxidation in bipolar disorder and its role across brain regions"
+  },
+  {
+   "id": "REF_GIMENEZPALOMO_2024",
+   "pmid": "38030136",
+   "desenho_estudo": "[EC] respiração mitocondrial reduzida em fase aguda (Giménez-Palo",
+   "titulo": "Reduced mitochondrial respiratory capacity in patients with acute episodes of bipolar disorder: Could bipolar disorder be a state-dependent "
+  },
+  {
+   "id": "REF_KATO_2000",
+   "pmid": "10893494",
+   "desenho_estudo": "[EC] associação polimorfismo 5178 do mtDNA com bipolar (Kato, Kun",
+   "titulo": "Association of bipolar disorder with the 5178 polymorphism in mitochondrial DNA"
+  },
+  {
+   "id": "REF_TRIEBELHORN_2024",
+   "pmid": "35732695",
+   "desenho_estudo": "[EC] células progenitoras neurais induzidas e neurônios iPS de pacientes com TDM · Mol Psychiatry",
+   "titulo": "Induced neural progenitor cells and iPS-neurons from major depressive disorder patients show altered bioenergetics and electrophysiological "
+  },
+  {
+   "id": "REF_KUFFNER_2020",
+   "pmid": "32260327",
+   "desenho_estudo": "[EC] fibroblastos dérmicos adultos (TDM × controles) — master GPM · Cells",
+   "titulo": "Major Depressive Disorder is Associated with Impaired Mitochondrial Function in Skin Fibroblasts."
+  },
+  {
+   "id": "REF_MARQUES_2021",
+   "pmid": "34066918",
+   "desenho_estudo": "[EC] fibroblastos de bipolar em fase inicial — master GPM · Biomedicines",
+   "titulo": "Mitochondrial Alterations in Fibroblasts of Early Stage Bipolar Disorder Patients."
+  },
+  {
+   "id": "REF_CULLEN_2026",
+   "pmid": "41776167",
+   "desenho_estudo": "[EC] estudo humano (jovens adultos; ATP em cérebro — MRS — e sangue) · Transl Psychiatry",
+   "titulo": "ATP bioenergetics and fatigue in young adults with and without major depression."
+  },
+  {
+   "id": "REF_CARELLI_2015",
+   "pmid": "25820230",
+   "desenho_estudo": "[EC] série clínico-genética humana (Ann Neurol); mutações missense de OPA1 · Ann Neurol",
+   "titulo": "Syndromic parkinsonism and dementia associated with OPA1 missense mutations."
+  },
+  {
+   "id": "REF_SCAINI_2017",
+   "pmid": "28463235",
+   "desenho_estudo": "[EC] sangue periférico de pacientes com TDM (Transl Psychiatry) · Transl Psychiatry",
+   "titulo": "Perturbations in the apoptotic pathway and mitochondrial network dynamics in peripheral blood mononuclear cells from bipolar disorder patien"
+  },
+  {
+   "id": "REF_CAI_2015",
+   "pmid": "26687620",
+   "desenho_estudo": "[EC] coorte genética (CONVERGE; 10,4 mil mulheres chinesas) + paradigma murino (Curr Biol) · Curr Biol",
+   "titulo": "Genetic Control over mtDNA and Its Relationship to Major Depressive Disorder."
+  },
+  {
+   "id": "REF_LINDQVIST_2018",
+   "pmid": "29453441",
+   "desenho_estudo": "[EC] estudo humano TDM (Neuropsychopharmacology); duas frações medidas · Neuropsychopharmacology",
+   "titulo": "Circulating cell-free mitochondrial DNA, but not leukocyte mitochondrial DNA copy number, is elevated in major depressive disorder."
+  },
+  {
+   "id": "REF_CHUNG_2019",
+   "pmid": "31639552",
+   "desenho_estudo": "[EC] 118 TDM × 116 controles; sangue periférico (Psychiatry Res) · Psychiatry Res",
+   "titulo": "Investigation of mitochondrial DNA copy number in patients with major depressive disorder."
+  },
+  {
+   "id": "REF_CZARNY_2020",
+   "pmid": "31081430",
+   "desenho_estudo": "[EC] PBMC; 25 deprimidos × 60 controles; insulto H2O2 ex vivo (World J Biol Psychiatry) · World J Biol Psychiatry",
+   "titulo": "Mitochondrial DNA copy number, damage, repair and degradation in depressive disorder."
+  },
+  {
+   "id": "REF_CZARNY_2023",
+   "pmid": "37834200",
+   "desenho_estudo": "[EC] associação genética; SNPs de genes de estabilidade do mtDNA (Int J Mol Sci) · Int J Mol Sci",
+   "titulo": "Single-Nucleotide Polymorphisms in Genes Maintaining the Stability of Mitochondrial DNA Affect the Occurrence, Onset, Severity and Treatment"
+  },
+  {
+   "id": "REF_RYAN_2023",
+   "pmid": "36216200",
+   "desenho_estudo": "[EC] sangue total; 100 pacientes medicados com depressão (Prog Neuropsychopharmacol Biol Psychiatry) · Prog Neuropsychop",
+   "titulo": "Whole blood mitochondrial DNA copy number in depression and response to electroconvulsive therapy."
+  },
+  {
+   "id": "REF_WANG_2017",
+   "pmid": "28647451",
+   "desenho_estudo": "[EC] 179 pacientes (atenção primária) × 320 controles (Eur Neuropsychopharmacol) · Eur Neuropsychopharmacol",
+   "titulo": "Association of mitochondrial DNA in peripheral blood with depression, anxiety and stress- and adjustment disorders in primary health care pa"
+  },
+  {
+   "id": "REF_CHANG_2015",
+   "pmid": "25946463",
+   "desenho_estudo": "[EC] 40 TDM clinicamente estáveis × 70 controles (PLoS One) · PLoS One",
+   "titulo": "Mitochondria DNA change and oxidative damage in clinically stable patients with major depressive disorder."
+  },
+  {
+   "id": "REF_CEYLAN_2023",
+   "pmid": "38161720",
+   "desenho_estudo": "[EC] TDM × bipolar × controles; remissão 8 semanas (Front Psychiatry) · Front Psychiatry",
+   "titulo": "Mitochondrial DNA oxidation, methylation, and copy number alterations in major and bipolar depression."
+  },
+  {
+   "id": "REF_TYMOFIYEVA_2018",
+   "pmid": "29500956",
+   "desenho_estudo": "[EC] adolescentes; mtDNA-cn + ressonância (J Affect Disord) · J Affect Disord",
+   "titulo": "High levels of mitochondrial DNA are associated with adolescent brain structural hypoconnectivity and increased anxiety but not depression."
+  },
+  {
+   "id": "REF_BECK_2025",
+   "pmid": "40517524",
+   "desenho_estudo": "[EC] estresse precoce (ELS) com/sem condição psiquiátrica (Psychoneuroendocrinology) · Psychoneuroendocrinology",
+   "titulo": "Early life stress, psychiatric conditions, and mitochondrial DNA copy number (mtDNAcn) in medically healthy young adults."
+  },
+  {
+   "id": "REF_LIU_2023",
+   "pmid": "37344456",
+   "desenho_estudo": "[EC] MiWAS no UK Biobank (Transl Psychiatry); N≈72–81 mil por desfecho · Transl Psychiatry",
+   "titulo": "Mitochondria-wide association study observed significant interactions of mitochondrial respiratory and the inflammatory in the development o"
+  },
+  {
+   "id": "REF_ROLLINS_2009",
+   "pmid": "19290059",
+   "desenho_estudo": "[EC] tecido cerebral pós-morte (PLoS One) · PLoS One",
+   "titulo": "Mitochondrial variants in schizophrenia, bipolar disorder, and major depressive disorder."
+  },
+  {
+   "id": "REF_SEQUEIRA_2015",
+   "pmid": "26011537",
+   "desenho_estudo": "[EC] tecido cerebral pós-morte; sequenciamento (PLoS One) · PLoS One",
+   "titulo": "Mitochondrial mutations in subjects with psychiatric disorders."
+  },
+  {
+   "id": "REF_GUPTA_2023",
+   "pmid": "37587338",
+   "desenho_estudo": "[EC] genética populacional em larga escala (Nature) · Nature",
+   "titulo": "Nuclear genetic control of mtDNA copy number and heteroplasmy in humans."
+  },
+  {
+   "id": "REF_KLEIN_2021",
+   "pmid": "34742335",
+   "desenho_estudo": "[EC] cérebro humano envelhecido; patologias da idade (Mol Neurodegener) · Mol Neurodegener",
+   "titulo": "Characterization of mitochondrial DNA quantity and quality in the human aged and Alzheimer's disease brain."
+  },
+  {
+   "id": "REF_WEI_2017",
+   "pmid": "28153046",
+   "desenho_estudo": "[EC] 1.363 amostras doença/controle (Acta Neuropathol Commun) · Acta Neuropathol Commun",
+   "titulo": "Mitochondrial DNA point mutations and relative copy number in 1363 disease and control human brains."
+  },
+  {
+   "id": "REF_TRANAH_2018",
+   "pmid": "29984425",
+   "desenho_estudo": "[EC] homens idosos; plaqueta (Int J Geriatr Psychiatry) · Int J Geriatr Psychiatry",
+   "titulo": "Mitochondrial DNA m.13514G>A heteroplasmy is associated with depressive symptoms in the elderly."
+  },
+  {
+   "id": "REF_YIN_2026",
+   "pmid": "40915505",
+   "desenho_estudo": "[EC] sequenciamento completo do mtDNA; TDM (J Affect Disord) · J Affect Disord",
+   "titulo": "Complete mitochondrial DNA sequence analysis in patients with major depressive disorder."
+  },
+  {
+   "id": "REF_ZONG_2026",
+   "pmid": "41792945",
+   "desenho_estudo": "[EC] pacientes chineses com lúpus eritematoso sistêmico; dois estágios (Int J Rheum Dis) · Int J Rheum Dis",
+   "titulo": "Association of Mitochondrial DNA Genetic Variants With Depression and Anxiety in Chinese Patients With Systemic Lupus Erythematosus."
+  },
+  {
+   "id": "REF_XUE_2026",
+   "pmid": "41634133",
+   "desenho_estudo": "[EC] maiores GWAS disponíveis; arquitetura compartilhada (Mol Psychiatry) · Mol Psychiatry",
+   "titulo": "Powering the mind: deciphering the shared genetic architecture between mitochondrial DNA copy number and major psychiatric disorders."
+  },
+  {
+   "id": "REF_LU_2024",
+   "pmid": "39197553",
+   "desenho_estudo": "[EC] randomização mendeliana bidirecional de duas amostras (J Affect Disord) · J Affect Disord",
+   "titulo": "Association between blood mitochondrial DNA copy number and mental disorders: A bidirectional two-sample mendelian randomization study."
+  }
+ ],
+ "divida_nomeada": "forca_evidencia_afirmacao vazio quando a ficha não trazia (schema 09.2 exige; preenchimento exige avaliação — não fabricar)"
+}

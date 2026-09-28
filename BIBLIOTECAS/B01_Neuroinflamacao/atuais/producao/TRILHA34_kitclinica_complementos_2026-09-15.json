@@ -1,0 +1,36 @@
+{
+  "trilha": 34,
+  "data": "2026-09-15",
+  "tema": "Recepção e verificação dos 2 arquivos complementares do kit clínica + identificação da referência 'Estudos que não foram escolhidos.md'",
+  "comandos_e_resultados": {
+    "C1_ids_oficiais": {
+      "cmd": "sha256sum + cmp -s: uploads/1º IDS_OFICIAIS.md × Ferramentas de geração e auditoria/01_norteadores/1º IDS_OFICIAIS.md",
+      "resultado": "IDÊNTICOS byte a byte. sha256 = f3a74fbcda9aa0aa4b9e13d42321776c4b68a4928180d7245aa4c008400b0e16. contagem: total_ids_validos 146 · ids_removidos_definitivo 5 (linhas 237/280/282). Pendência do kit (item 1º) FECHADA; operador tinha razão: é o mesmo catalisador das bibliotecas. Nota: o '_ids_oficiais.json' da era-kit é artefato derivado deste catálogo — a dívida D-L05-IDS-JSON (derivador oficial + sha, da casa) fica aberta inalterada e passa a ser também o que serve à frente de produção no formato .json.",
+      "digital_publica_para_o_projeto_novo": "1º IDS_OFICIAIS.md sha256 f3a74fbcda9aa0aa4b9e13d42321776c4b68a4928180d7245aa4c008400b0e16 (146 válidos / 5 removidos)"
+    },
+    "C2_candidatos": {
+      "cmd": "arquivo verbatim (sha 556bb82d4b…) + leitura integral + grep dos 12 nomes contra o catálogo oficial",
+      "resultado": "12 candidatos; 0/12 presentes no catálogo (regra do próprio kit 'checar contra o catálogo real' re-verificada pela bancada). Categoria C4_inflamatorios existe (L114) com 7 itens (L267). NLR e S100B presentes com status em_avaliacao e acao_pendente acionável (Bloco mostra .008/.012 fechados). Nota de nome: filename diz v1.0, conteúdo é v1.1 (campos opcionais trilha_origem/claim_id_origem) — arquivo reconhece as 2 trilhas de validação com exemplos 'B1.SM02.008' × 'B1.MEC.BLOCO03.002' (corrobora a dupla linha medida na trilha 33). Pendência FECHADA (arquivo recebido).",
+      "candidatos": [
+        "exame_s100b(em_avaliacao)",
+        "exame_razao_neutrofilos_linfocitos(em_avaliacao)",
+        "exame_strem2",
+        "exame_gfap",
+        "exame_complemento_c5",
+        "exame_complemento_c3",
+        "exame_complemento_c1q",
+        "exame_complemento_fator_h",
+        "exame_il10",
+        "exame_il1ra",
+        "exame_aisi",
+        "exame_mcp1"
+      ]
+    },
+    "C3_estudos_nao_escolhidos": {
+      "cmd": "grep da referência no BLOCO v1.6 arquivado",
+      "resultado": "Única ocorrência em todo o kit: última linha do 6º BLOCO DE ESTADO v1.6 -> nao_escolhidos_arquivo_externo: 'Estudos que não foram escolhidos.md — 17+ PMIDs catalogados'. Ou seja: o seu próprio Bloco aponta para um catálogo LATERAL externo. Não chegou no upload e o operador não o reconhece. Hipótese: artefato das sessões de 2026-08 abandonado/renomeado (a regra vigente hoje cobre essa classe via fontes_rejeitadas PRISMA + resultados_nao_triados). Ação pedida ao operador: se existir ainda, enviar (arquivo verbatim); se NÃO existir, confirmar — casa fecha o ponteiro como 'ponteiro morto nomeado' (norma: nada morre em silêncio). Não-bloqueante."
+    }
+  },
+  "ciencia_tocada": false,
+  "saida": "pendências do kit atualizadas no guia; decisoes rev.22; CHANGELOG 18-continuação; STATUS 18-continuação"
+}

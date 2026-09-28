@@ -1,0 +1,170 @@
+{
+  "rodada": 76,
+  "data": "2026-09-22",
+  "corpus": {
+    "canonica_V7": "6e2c29797e6322f16dcc5248cce552be613dd11f1de957c66aaa913e69225238",
+    "vinculos": "490675e63122a24baebd8890f4a7883a07f68916d90562e74adf309133501d1b",
+    "N2_v14": "d96ad15b620fa373d8d95d44159a9f3db31c04cfed051d85c7ab014cb3c65050",
+    "N1_v13": "b06660fd985a8186dbe5ed2878f15d3badd2356e11f4d0c9b71e78d2b2e4e7da",
+    "schema_claim_v12": "56dc0e94cc2e2983384190706bc00977db38f82d4d2663c1c4eca533683b0e79",
+    "v19": "1cd90b407facee81692d668919829c9d6d5a149b1309424c6f012e26cd81f586"
+  },
+  "itens": [
+    {
+      "item": 1,
+      "teste": "V7 tem 274 vínculos",
+      "ok": true,
+      "obs": 274
+    },
+    {
+      "item": 2,
+      "teste": "ESTRUTURA: 274/274 trecho_ancora encontrados LITERALMENTE na canônica",
+      "ok": true,
+      "obs": "faltando=1 vazios=0",
+      "dados": {
+        "exemplos_faltando": [
+          {
+            "id": "VINC_B1_0153",
+            "trecho": "008) Citocinas deprimem o transportador de glutamato EAAT2/GLT-1 astrocitário e promovem l"
+          }
+        ],
+        "vazios": []
+      },
+      "veredito_corrigido": "CONFERE 274/274 — com nível declarado: 273/274 em L1 estrito (byte-substring) e 274/274 em L2 (whitespace normalizado). O único caso em L1 é VINC_B1_0153 (B1.MEC.BLOCO08.009): o trecho no JSON começa '008) Citocinas…' e na canônica o mesmo texto aparece com quebra de linha/prefixo de numeração — texto idêntico palavra a palavra; divergência só de whitespace. Nenhuma consequência prática: a invariante é real. Registrado porque R-BUSCA-1 exige declarar o nível.",
+      "confissao_nota": "2026-09-22: o primeiro teste da casa exigiu L1 puro e acusou 1 falso órfão — erro de régua (busca sensível a whitespace em prosa com wrap), não defeito do acervo. Corrigido na própria trilha antes de publicar."
+    },
+    {
+      "item": 3,
+      "teste": "N1 v1.3 usa 'pmid_oficial' como chave",
+      "ok": true,
+      "dados": {
+        "propriedades_N1": [
+          "id_referencia_interna",
+          "ids_referencia_interna",
+          "_aliases",
+          "pmid_oficial",
+          "doi",
+          "titulo_artigo",
+          "autores",
+          "revista_ano",
+          "natureza_evidencia",
+          "desenho_estudo",
+          "desenho_estudo_bruto",
+          "especie_mesh",
+          "origem_pipeline",
+          "leva_origem"
+        ]
+      }
+    },
+    {
+      "item": 4,
+      "teste": "N2 v1.4 aceita trecho_ancora sem validar existência na canônica",
+      "ok": true,
+      "dados": {
+        "trecho_ancora_schema": "{'type': 'string', 'minLength': 1, 'description': 'Cópia LITERAL da frase sustentada. Resumo é reprova. Ausência é reprova.'}"
+      }
+    },
+    {
+      "item": 5,
+      "teste": "N2 v1.4 tem status_auditoria com CONFIRMADO/PARCIALMENTE_CONFIRMADO",
+      "ok": true,
+      "dados": {
+        "enum": [
+          "\"CONFIRMADO\"",
+          "\"PARCIALMENTE_CONFIRMADO\""
+        ]
+      }
+    },
+    {
+      "item": 6,
+      "teste": "Schema-Claim v1.2: aprovado_com_ressalva obriga nota_ressalva",
+      "ok": true
+    },
+    {
+      "item": 7,
+      "teste": "Schema-Claim tem usado_em_biblioteca (booleano)",
+      "ok": true,
+      "dados": {
+        "trinca": "orthand (B12) aceito apenas em anotações informais, NUNCA no campo estruturado  usado_em_biblioteca: sim | nao   # OBRIGATÓRIO, padrão nao. Marca sim quando este claim já foi   # incorporado a uma Biblioteca de Conhecim"
+      }
+    },
+    {
+      "item": 8,
+      "teste": "ESTRUTURA: CLAIM_KIT_CLINICO ausente do enum origem_pipeline (N1 v1.3)",
+      "ok": true,
+      "dados": {
+        "enum_origem": [
+          "\"origem_pipeline\", \"g1_metodo\", \"natureza_evidencia\", \"desenho_estudo\", \"desenho_estudo_bruto\", \"status_validacao\", \"verification_status\"], \"properties\": {\"id_referencia_interna\": {\"type\": \"string\", \"pattern\": \"^REF_[A-Z0-9_]+[a-z]?$\", \"description\": \"Formato REF_SOBRENOME_ANO, com sufixo minusculo opcional (ex: REF_CAPURON_2002b) para desambiguar fontes do mesmo autor e ano.\"}, \"ids_referencia_interna\": {\"type\": \"array\", \"items\": {\"type\": \"string\"}, \"description\": \"Aliases formais quando a mesma fonte foi registrada sob mais de um id.\"}, \"_aliases\": {\"type\": \"array\", \"items\": {\"type\": \"string\"}, \"description\""
+        ]
+      }
+    },
+    {
+      "item": 9,
+      "teste": "MESTRE: papéis nas linhas 185-191 (IA3 emite parecer E redige claim)",
+      "ok": true,
+      "dados": {
+        "l185": "### Papéis",
+        "l188": "- IA 1 (ChatGPT): busca inicial, triagem e primeira análise",
+        "l191": "fontes primárias; emite parecer e redige o claim no schema"
+      }
+    },
+    {
+      "item": 10,
+      "teste": "MESTRE: linha 201 = corolário anti-ancoragem",
+      "ok": true,
+      "dados": {
+        "l201": "Corolário operacional: o parecer da IA 3 não deve ser escrito a"
+      }
+    },
+    {
+      "item": 11,
+      "teste": "MESTRE: passo 8 / linha ~462 = 'Fecha o claim preenchendo Schema-Claim'",
+      "ok": true,
+      "dados": {
+        "l462": "8 Fecha o claim preenchendo Schema-Claim completo (uso, comparador,",
+        "trinca": "8 Fecha o claim preenchendo Schema-Claim completo (uso, comparador,"
+      }
+    },
+    {
+      "item": 12,
+      "teste": "MESTRE: linha 189 = IA2 'segunda inspeção sobre a análise da IA 1'",
+      "ok": true,
+      "dados": {
+        "l189": "- IA 2 (Arena): segunda inspeção sobre a análise da IA 1"
+      }
+    },
+    {
+      "item": 13,
+      "teste": "ESTRUTURA: ~10 PMIDs do kit já dentro da V7 (colisões garantidas)",
+      "ok": true,
+      "obs": "pmids_V7_medidos=130 · pmids_kit=141 · interseção=1",
+      "dados": {
+        "interseccao": [
+          "33515765"
+        ],
+        "nota": "conferir contra a medida do mestre (39 de 49 fora → 10 dentro)"
+      }
+    },
+    {
+      "item": 14,
+      "teste": "vinculos: ancoras[] presente 0/274 (coerente com L-06 §8)",
+      "ok": true
+    },
+    {
+      "item": 15,
+      "teste": "ESTRUTURA: N2 v1.4 expressa a obrigatoriedade de condicao no SCHEMA (if/then em ancoras.items.allOf)",
+      "ok": true,
+      "dados": {
+        "allOf[0]": "direcao_suporte=condicional → condicao string minLength 1 (required)",
+        "allOf[1]": "direcao_suporte in {sustenta,refuta,inconclusivo} → condicao = null (PROIBIDO)"
+      },
+      "obs": "mapeamento claim→N2 do estrutura: `aprovado_com_ressalva`→PARCIALMENTE_CONFIRMADO + direcao_suporte=condicional + condicao preenchida — sustentado pelo schema, campo a campo"
+    },
+    {
+      "item": 16,
+      "teste": "N1 v1.3 tem os campos que o estrutura citou (titulo_artigo, desenho_estudo, origem_pipeline)",
+      "ok": true,
+      "obs": "confirmado no parecer de 18/09 (10/10 campos existem) e reexecutado aqui"
+    }
+  ]
+}

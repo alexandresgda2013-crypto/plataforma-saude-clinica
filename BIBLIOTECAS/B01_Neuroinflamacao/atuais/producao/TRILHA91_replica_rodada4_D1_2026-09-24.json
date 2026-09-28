@@ -1,0 +1,152 @@
+{
+  "trilha": 91,
+  "data": "2026-09-24",
+  "objeto": "replica_pareceres_rodada4_D1",
+  "digitais": {
+    "mestre": "db0ed08c73f82f46240be97916e1fb2fff96c1a88a807c30063c5a8c2e1f8541",
+    "estrutura": "c41717c81dce8eae78cc4a05e19ce0b9afb0da2243cd64fb623a6ab335a10472"
+  },
+  "total": 13,
+  "ok": 13,
+  "resultado": [
+    {
+      "id": "T1",
+      "descricao": "upload ≡ série + digitais",
+      "ok": true,
+      "detalhe": {
+        "mestre_sha": "db0ed08c73f82f46240be97916e1fb2fff96c1a88a807c30063c5a8c2e1f8541",
+        "mestre_bytes": 8267,
+        "estrutura_sha": "c41717c81dce8eae78cc4a05e19ce0b9afb0da2243cd64fb623a6ab335a10472",
+        "estrutura_bytes": 8832
+      }
+    },
+    {
+      "id": "T2",
+      "descricao": "vereditos: E sem ressalva; M modelo sem + fechamento com 2 ressalvas",
+      "ok": true,
+      "detalhe": {
+        "estrutura_sem_ressalva": true,
+        "mestre_modelo_sem": true,
+        "mestre_fechamento_2_ressalvas": true
+      }
+    },
+    {
+      "id": "T3",
+      "descricao": "anti-contaminação declarada (medir, não presumir)",
+      "ok": true,
+      "detalhe": {
+        "mestre_declarou": true,
+        "estrutura_declarou": false
+      }
+    },
+    {
+      "id": "T4",
+      "descricao": "Bloco: direcao 0× e refuta 0×",
+      "ok": true,
+      "detalhe": {
+        "direcao": 0,
+        "refuta": 0
+      }
+    },
+    {
+      "id": "T5",
+      "descricao": "marcadores de divergência = 15 (stem nul; rótulo do Mestre 'nula' = 4× 'nulo')",
+      "ok": true,
+      "detalhe": {
+        "contradit": 2,
+        "diverg": 2,
+        "inconsist": 7,
+        "nul": 4,
+        "total": 15,
+        "nota": "rótulo verbatim dele: nula; medido nulo=4, nula=0; número 15 confere com stem 'nul'",
+        "nivel": "L1 substring case-insensitive"
+      }
+    },
+    {
+      "id": "T6",
+      "descricao": "efeitos de moderadores: atenua 3, amplifica 5, inverte 1",
+      "ok": true,
+      "detalhe": {
+        "atenua": 3,
+        "inverte": 1,
+        "amplifica": 5
+      }
+    },
+    {
+      "id": "T7",
+      "descricao": "inverte no .001b e claim é aprovado_com_ressalva",
+      "ok": true,
+      "detalhe": {
+        "claims_com_inverte": [
+          "B1.SM02.001b"
+        ]
+      }
+    },
+    {
+      "id": "T8",
+      "descricao": "grau_maturidade N2 enum 5 valores; 274/274 preenchidos",
+      "ok": true,
+      "detalhe": {
+        "enum": [
+          "muito_estabelecido",
+          "bem_suportado",
+          "moderadamente_suportado",
+          "emergente",
+          "hipotese_inicial"
+        ],
+        "preenchidos": 274,
+        "total": 274
+      }
+    },
+    {
+      "id": "T9",
+      "descricao": "v1.2 tem moderadores[] (variavel/efeito/regra_motor); 0× sentido_do_achado",
+      "ok": true,
+      "detalhe": {
+        "moderadores": 1,
+        "regra_motor": 1,
+        "sentido_do_achado": 0
+      }
+    },
+    {
+      "id": "T10",
+      "descricao": "v3.1: sentido_do_achado no item de relacoes_causais_declaradas, OBRIGATÓRIO",
+      "ok": true,
+      "detalhe": {
+        "sha_v31": "f7e664d73e2dad603f7c4316df09286f0da9313a28779d2a67eb5f5fd225624e",
+        "sentido": true,
+        "obrigatorio": true,
+        "estilo": "schema comentado (YAML-like); campo documentado nos itens da lista ativa",
+        "mapeamento": "suporta_relacao→sustenta, refuta_relacao→refuta, inconclusivo→inconclusivo"
+      }
+    },
+    {
+      "id": "T11",
+      "descricao": "L-06: disjunção e sustenta × refuta presentes",
+      "ok": true,
+      "detalhe": {
+        "disjun": 4,
+        "sustenta_x_refuta": 3
+      }
+    },
+    {
+      "id": "T12",
+      "descricao": "estado H-3: E=sem ressalva; M=com 2 ressalvas ⇒ D1 ABERTA",
+      "ok": true,
+      "detalhe": {
+        "D1_fechada": false,
+        "regra": "H-3: só fecha com 2× subscrever sem ressalva",
+        "estado": "1 sem (Estrutura) + 1 com 2 ressalvas (Mestre)"
+      }
+    },
+    {
+      "id": "T13",
+      "descricao": "Estrutura confessa autoria da regra abolida",
+      "ok": true,
+      "detalhe": {
+        "frase1": false,
+        "frase2": true
+      }
+    }
+  ]
+}

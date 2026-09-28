@@ -1,0 +1,3397 @@
+[
+ {
+  "pmid_oficial": "2821568",
+  "titulo_artigo": "The effects of thyroid state on beta-adrenergic and serotonergic receptors in rat brain",
+  "autores": [
+   "Mason GA",
+   "Bondy SC",
+   "Nemeroff CB",
+   "Walker CH",
+   "Prange AJ Jr"
+  ],
+  "revista_ano": "Psychoneuroendocrinology (1987)",
+  "desenho_estudo": "[ML] Mason_1987",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "The effects of thyroid state on beta-adrenergic and serotonergic receptors in rat brain",
+  "extrapolacao_por_analogia": "SIM — evidência animal/molecular; tradução humana do mecanismo [EXT]",
+  "ids_referencia_interna": [
+   "REF_MASON_1987"
+  ],
+  "id_referencia_interna": "REF_MASON_1987",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/molecular causal",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "MASON",
+   "Mason"
+  ]
+ },
+ {
+  "pmid_oficial": "6402617",
+  "titulo_artigo": "Thyroid failure and protirelin (thyrotropin-releasing hormone) test abnormalities in depressed outpatients",
+  "autores": [
+   "Sternbach HA",
+   "Gold MS",
+   "Pottash AC",
+   "Extein I"
+  ],
+  "revista_ano": "JAMA (1983)",
+  "desenho_estudo": "[EC] Sternbach_1983",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Thyroid failure and protirelin (thyrotropin-releasing hormone) test abnormalities in depressed outpatients",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_STERNBACH_1983"
+  ],
+  "id_referencia_interna": "REF_STERNBACH_1983",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Sternbach",
+   "STERNBACH"
+  ]
+ },
+ {
+  "pmid_oficial": "9827665",
+  "titulo_artigo": "The thyroid axis and depression",
+  "autores": [
+   "Jackson IM"
+  ],
+  "revista_ano": "Thyroid : official journal of the American Thyroid Association (1998)",
+  "desenho_estudo": "[OB] Joffe_na",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "The thyroid axis and depression",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_JACKSON_1998"
+  ],
+  "id_referencia_interna": "REF_JACKSON_1998",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Jackson",
+   "JACKSON"
+  ]
+ },
+ {
+  "pmid_oficial": "11949735",
+  "titulo_artigo": "T3 blood levels and treatment outcome in depression",
+  "autores": [
+   "Iosifescu DV",
+   "Howarth S",
+   "Alpert JE",
+   "Nierenberg AA",
+   "Worthington JJ",
+   "Fava M"
+  ],
+  "revista_ano": "International journal of psychiatry in medicine (2001)",
+  "desenho_estudo": "[EC] Iosifescu_2001",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "T3 blood levels and treatment outcome in depression",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_IOSIFESCU_2001"
+  ],
+  "id_referencia_interna": "REF_IOSIFESCU_2001",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "IOSIFESCU",
+   "Iosifescu"
+  ]
+ },
+ {
+  "pmid_oficial": "12587187",
+  "titulo_artigo": "Thyroid hormone, neural tissue and mood modulation",
+  "autores": [
+   "Bauer M",
+   "Whybrow PC"
+  ],
+  "revista_ano": "The world journal of biological psychiatry : the official journal of the World Federation of Societies of Biological Psychiatry (2001)",
+  "desenho_estudo": "[OB] Whybrow_2001",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Thyroid hormone, neural tissue and mood modulation",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BAUER_2001"
+  ],
+  "id_referencia_interna": "REF_BAUER_2001",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "BAUER",
+   "Bauer"
+  ]
+ },
+ {
+  "pmid_oficial": "15727804",
+  "titulo_artigo": "Thyroid hormone transporters",
+  "autores": [
+   "Friesema EC",
+   "Jansen J",
+   "Milici C",
+   "Visser TJ"
+  ],
+  "revista_ano": "Vitamins and hormones (2005)",
+  "desenho_estudo": "[OB] Friesema_2005",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Thyroid hormone transporters",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_FRIESEMA_2005"
+  ],
+  "id_referencia_interna": "REF_FRIESEMA_2005",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Friesema",
+   "FRIESEMA"
+  ]
+ },
+ {
+  "pmid_oficial": "19092448",
+  "titulo_artigo": "Simultaneous initiation (coinitiation) of pharmacotherapy with triiodothyronine and a selective serotonin reuptake inhibitor for major depressive disorder: a quantitative synthesis of double-blind studies",
+  "autores": [
+   "Papakostas GI",
+   "Cooper-Kazaz R",
+   "Appelhof BC",
+   "Posternak MA",
+   "Johnson DP",
+   "Klibanski A"
+  ],
+  "revista_ano": "International clinical psychopharmacology (2009)",
+  "desenho_estudo": "[EC] CooperKazaz_2009",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Simultaneous initiation (coinitiation) of pharmacotherapy with triiodothyronine and a selective serotonin reuptake inhibitor for major depressive disorder: a quantitative synthesis of double-blind studies",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_PAPAKOSTAS_2009"
+  ],
+  "id_referencia_interna": "REF_PAPAKOSTAS_2009",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "PAPAKOSTAS",
+   "Papakostas"
+  ]
+ },
+ {
+  "pmid_oficial": "19435829",
+  "titulo_artigo": "Brain glucose metabolism in hypothyroidism: a positron emission tomography study before and after thyroid hormone replacement therapy",
+  "autores": [
+   "Bauer M",
+   "Silverman DH",
+   "Schlagenhauf F",
+   "London ED",
+   "Geist CL",
+   "van Herle K"
+  ],
+  "revista_ano": "The Journal of clinical endocrinology and metabolism (2009)",
+  "desenho_estudo": "[EC] Silverman_2009",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Brain glucose metabolism in hypothyroidism: a positron emission tomography study before and after thyroid hormone replacement therapy",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BAUER_2009"
+  ],
+  "id_referencia_interna": "REF_BAUER_2009",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "BAUER",
+   "Bauer",
+   "SILVERMAN",
+   "Silverman"
+  ]
+ },
+ {
+  "pmid_oficial": "19460960",
+  "titulo_artigo": "Iodine deficiency",
+  "autores": [
+   "Zimmermann MB"
+  ],
+  "revista_ano": "Endocrine reviews (2009)",
+  "desenho_estudo": "[EC] Zimmermann_2009",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Iodine deficiency",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ZIMMERMANN_2009"
+  ],
+  "id_referencia_interna": "REF_ZIMMERMANN_2009",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Zimmermann",
+   "ZIMMERMANN"
+  ]
+ },
+ {
+  "pmid_oficial": "20404728",
+  "titulo_artigo": "Thyroid disease and mental disorders: cause and effect or only comorbidity?",
+  "autores": [
+   "Bunevicius R",
+   "Prange AJ Jr"
+  ],
+  "revista_ano": "Current opinion in psychiatry (2010)",
+  "desenho_estudo": "[OB] Bunevicius_2010",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Thyroid disease and mental disorders: cause and effect or only comorbidity?",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BUNEVICIUS_2010"
+  ],
+  "id_referencia_interna": "REF_BUNEVICIUS_2010",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "BUNEVICIUS",
+   "Bunevicius"
+  ]
+ },
+ {
+  "pmid_oficial": "22945636",
+  "titulo_artigo": "Mechanisms of thyroid hormone action",
+  "autores": [
+   "Brent GA"
+  ],
+  "revista_ano": "The Journal of clinical investigation (2012)",
+  "desenho_estudo": "[OB] Brent_2012",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Mechanisms of thyroid hormone action",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BRENT_2012"
+  ],
+  "id_referencia_interna": "REF_BRENT_2012",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Brent",
+   "BRENT"
+  ]
+ },
+ {
+  "pmid_oficial": "24205791",
+  "titulo_artigo": "Hippocampal volume is decreased in adults with hypothyroidism",
+  "autores": [
+   "Cooke GE",
+   "Mullally S",
+   "Correia N",
+   "O'Mara SM",
+   "Gibney J"
+  ],
+  "revista_ano": "Thyroid : official journal of the American Thyroid Association (2014)",
+  "desenho_estudo": "[EC] Cooke_2014",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Hippocampal volume is decreased in adults with hypothyroidism",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_COOKE_2014"
+  ],
+  "id_referencia_interna": "REF_COOKE_2014",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "COOKE",
+   "Cooke"
+  ]
+ },
+ {
+  "pmid_oficial": "24847450",
+  "titulo_artigo": "Hypothyroidism and depression",
+  "autores": [
+   "Dayan CM",
+   "Panicker V"
+  ],
+  "revista_ano": "European thyroid journal (2013)",
+  "desenho_estudo": "[OB] Dayan_2013",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Hypothyroidism and depression",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_DAYAN_2013"
+  ],
+  "id_referencia_interna": "REF_DAYAN_2013",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Dayan",
+   "DAYAN"
+  ]
+ },
+ {
+  "pmid_oficial": "29185364",
+  "titulo_artigo": "The effect of oxidative stress on the progression of Hashimoto's thyroiditis",
+  "autores": [
+   "Ates I",
+   "Arikan MF",
+   "Altay M",
+   "Yilmaz FM",
+   "Yilmaz N",
+   "Berker D"
+  ],
+  "revista_ano": "Archives of physiology and biochemistry (2018)",
+  "desenho_estudo": "[EC] Ates_2018",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "The effect of oxidative stress on the progression of Hashimoto's thyroiditis",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ATES_2018"
+  ],
+  "id_referencia_interna": "REF_ATES_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Ates",
+   "ATES"
+  ]
+ },
+ {
+  "pmid_oficial": "30063552",
+  "titulo_artigo": "Pathophysiological relevance of deiodinase polymorphism",
+  "autores": [
+   "Bianco AC",
+   "Kim BS"
+  ],
+  "revista_ano": "Current opinion in endocrinology, diabetes, and obesity (2018)",
+  "desenho_estudo": "[OB] Bianco_2018",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Pathophysiological relevance of deiodinase polymorphism",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BIANCO_2018"
+  ],
+  "id_referencia_interna": "REF_BIANCO_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "BIANCO",
+   "Bianco"
+  ]
+ },
+ {
+  "pmid_oficial": "31754699",
+  "titulo_artigo": "Thyroid Hormone Transporters",
+  "autores": [
+   "Groeneweg S",
+   "van Geest FS",
+   "Peeters RP",
+   "Heuer H",
+   "Visser WE"
+  ],
+  "revista_ano": "Endocrine reviews (2020)",
+  "desenho_estudo": "[OB] Groeneweg_2020",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Thyroid Hormone Transporters",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GROENEWEG_2020"
+  ],
+  "id_referencia_interna": "REF_GROENEWEG_2020",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "GROENEWEG",
+   "Groeneweg"
+  ]
+ },
+ {
+  "pmid_oficial": "32144120",
+  "titulo_artigo": "Monocarboxylate Transporters (SLC16): Function, Regulation, and Role in Health and Disease",
+  "autores": [
+   "Felmlee MA",
+   "Jones RS",
+   "Rodriguez-Cruz V",
+   "Follman KE",
+   "Morris ME"
+  ],
+  "revista_ano": "Pharmacological reviews (2020)",
+  "desenho_estudo": "[OB] Felmlee_2020",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Monocarboxylate Transporters (SLC16): Function, Regulation, and Role in Health and Disease",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_FELMLEE_2020"
+  ],
+  "id_referencia_interna": "REF_FELMLEE_2020",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "FELMLEE",
+   "Felmlee"
+  ]
+ },
+ {
+  "pmid_oficial": "33839430",
+  "titulo_artigo": "Thyroid axis activity and dopamine function in depression",
+  "autores": [
+   "Duval F",
+   "Mokrani MC",
+   "Erb A",
+   "Danila V",
+   "Lopera FG",
+   "Foucher JR"
+  ],
+  "revista_ano": "Psychoneuroendocrinology (2021)",
+  "desenho_estudo": "[EC] Duval_2021",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Thyroid axis activity and dopamine function in depression",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_DUVAL_2021"
+  ],
+  "id_referencia_interna": "REF_DUVAL_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Duval",
+   "DUVAL"
+  ]
+ },
+ {
+  "pmid_oficial": "33868182",
+  "titulo_artigo": "Resistance to Thyroid Hormone Beta: A Focused Review",
+  "autores": [
+   "Pappa T",
+   "Refetoff S"
+  ],
+  "revista_ano": "Frontiers in endocrinology (2021)",
+  "desenho_estudo": "[OB] Pappa_2021",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Resistance to Thyroid Hormone Beta: A Focused Review",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_PAPPA_2021"
+  ],
+  "id_referencia_interna": "REF_PAPPA_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Pappa",
+   "PAPPA"
+  ]
+ },
+ {
+  "pmid_oficial": "34339499",
+  "titulo_artigo": "Thyroid Hormone Transporter Deficiency in Mice Impacts Multiple Stages of GABAergic Interneuron Development",
+  "autores": [
+   "Mayerl S",
+   "Chen J",
+   "Salveridou E",
+   "Boelen A",
+   "Darras VM",
+   "Heuer H"
+  ],
+  "revista_ano": "Cerebral cortex (New York, N.Y. : 1991) (2022)",
+  "desenho_estudo": "[ML] Mayerl_2022",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Thyroid Hormone Transporter Deficiency in Mice Impacts Multiple Stages of GABAergic Interneuron Development",
+  "extrapolacao_por_analogia": "SIM — evidência animal/molecular; tradução humana do mecanismo [EXT]",
+  "ids_referencia_interna": [
+   "REF_MAYERL_2022"
+  ],
+  "id_referencia_interna": "REF_MAYERL_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/molecular causal",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "MAYERL",
+   "Mayerl"
+  ]
+ },
+ {
+  "pmid_oficial": "35180933",
+  "titulo_artigo": "Synergistic gene regulation by thyroid hormone and glucocorticoid in the hippocampus",
+  "autores": [
+   "Espina JEC",
+   "Bagamasbad PD"
+  ],
+  "revista_ano": "Vitamins and hormones (2022)",
+  "desenho_estudo": "[ML] Espina_2022",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Synergistic gene regulation by thyroid hormone and glucocorticoid in the hippocampus",
+  "extrapolacao_por_analogia": "SIM — evidência animal/molecular; tradução humana do mecanismo [EXT]",
+  "ids_referencia_interna": [
+   "REF_ESPINA_2022"
+  ],
+  "id_referencia_interna": "REF_ESPINA_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/molecular causal",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "ESPINA",
+   "Espina"
+  ]
+ },
+ {
+  "pmid_oficial": "36563833",
+  "titulo_artigo": "Hyperthyroidism leads learning and memory impairment possibly via GRIN2B expression alterations",
+  "autores": [
+   "Sahin L",
+   "Keloglan Müsüroglu S",
+   "Selin Cevik O",
+   "Cevik K",
+   "Orekici Temel G"
+  ],
+  "revista_ano": "Brain research (2023)",
+  "desenho_estudo": "[ML] Sahin_2023",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Hyperthyroidism leads learning and memory impairment possibly via GRIN2B expression alterations",
+  "extrapolacao_por_analogia": "SIM — evidência animal/molecular; tradução humana do mecanismo [EXT]",
+  "ids_referencia_interna": [
+   "REF_SAHIN_2023"
+  ],
+  "id_referencia_interna": "REF_SAHIN_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/molecular causal",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "SAHIN",
+   "Sahin"
+  ]
+ },
+ {
+  "pmid_oficial": "36811059",
+  "titulo_artigo": "Neuropsychiatric Manifestations of Thyroid Diseases",
+  "autores": [
+   "Lekurwale V",
+   "Acharya S",
+   "Shukla S",
+   "Kumar S"
+  ],
+  "revista_ano": "Cureus (2023)",
+  "desenho_estudo": "[OB] Kumar_2023",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Neuropsychiatric Manifestations of Thyroid Diseases",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LEKURWALE_2023"
+  ],
+  "id_referencia_interna": "REF_LEKURWALE_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "KUMAR",
+   "Kumar",
+   "LEKURWALE",
+   "Lekurwale"
+  ]
+ },
+ {
+  "pmid_oficial": "38149585",
+  "titulo_artigo": "Hypothalamic Thyroid Hormone Receptor α1 Signaling Controls Body Temperature",
+  "autores": [
+   "Sentis SC",
+   "Dore R",
+   "Oelkrug R",
+   "Kolms B",
+   "Iwen KA",
+   "Mittag J"
+  ],
+  "revista_ano": "Thyroid : official journal of the American Thyroid Association (2024)",
+  "desenho_estudo": "[ML] Sentis_2024",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Hypothalamic Thyroid Hormone Receptor α1 Signaling Controls Body Temperature",
+  "extrapolacao_por_analogia": "SIM — evidência animal/molecular; tradução humana do mecanismo [EXT]",
+  "ids_referencia_interna": [
+   "REF_SENTIS_2024"
+  ],
+  "id_referencia_interna": "REF_SENTIS_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/molecular causal",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "SENTIS",
+   "Sentis"
+  ]
+ },
+ {
+  "pmid_oficial": "38901782",
+  "titulo_artigo": "Combined deletion of Mct8 and Dio2 impairs SVZ neurogliogenesis and olfactory function in adult mice",
+  "autores": [
+   "Valcárcel-Hernández V",
+   "Vancamp P",
+   "Butruille L",
+   "Remaud S",
+   "Guadaño-Ferraz A"
+  ],
+  "revista_ano": "Neurobiology of disease (2024)",
+  "desenho_estudo": "[ML] Valcarcel_2024",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Combined deletion of Mct8 and Dio2 impairs SVZ neurogliogenesis and olfactory function in adult mice",
+  "extrapolacao_por_analogia": "SIM — evidência animal/molecular; tradução humana do mecanismo [EXT]",
+  "ids_referencia_interna": [
+   "REF_VALCARCELHERNANDEZ_2024"
+  ],
+  "id_referencia_interna": "REF_VALCARCELHERNANDEZ_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/molecular causal",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Valcarcelhernandez",
+   "VALCARCELHERNANDEZ"
+  ]
+ },
+ {
+  "pmid_oficial": "39039155",
+  "titulo_artigo": "Evidence for thyroid hormone regulation of amygdala-dependent fear-relevant memory and plasticity",
+  "autores": [
+   "Maddox SA",
+   "Ponomareva OY",
+   "Zaleski CE",
+   "Chen MX",
+   "Vella KR",
+   "Hollenberg AN"
+  ],
+  "revista_ano": "Molecular psychiatry (2025)",
+  "desenho_estudo": "[ML] Maddox_2025",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Evidence for thyroid hormone regulation of amygdala-dependent fear-relevant memory and plasticity",
+  "extrapolacao_por_analogia": "SIM — evidência animal/molecular; tradução humana do mecanismo [EXT]",
+  "ids_referencia_interna": [
+   "REF_MADDOX_2025"
+  ],
+  "id_referencia_interna": "REF_MADDOX_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/molecular causal",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Maddox",
+   "MADDOX"
+  ]
+ },
+ {
+  "pmid_oficial": "39097035",
+  "titulo_artigo": "Defective thyroid hormone transport to the brain leads to astroglial alterations",
+  "autores": [
+   "Guillén-Yunta M",
+   "García-Aldea Á",
+   "Valcárcel-Hernández V",
+   "Sanz-Bógalo A",
+   "Muñoz-Moreno E",
+   "Matheus MG"
+  ],
+  "revista_ano": "Neurobiology of disease (2024)",
+  "desenho_estudo": "[ML] GuillenYunta_2024",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Defective thyroid hormone transport to the brain leads to astroglial alterations",
+  "extrapolacao_por_analogia": "SIM — evidência animal/molecular; tradução humana do mecanismo [EXT]",
+  "ids_referencia_interna": [
+   "REF_GUILLENYUNTA_2024"
+  ],
+  "id_referencia_interna": "REF_GUILLENYUNTA_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/molecular causal",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "GUILLENYUNTA",
+   "Guillenyunta"
+  ]
+ },
+ {
+  "pmid_oficial": "39178853",
+  "titulo_artigo": "Thyroid hormone remodels cortex to coordinate body-wide metabolism and exploration",
+  "autores": [
+   "Hochbaum DR",
+   "Hulshof L",
+   "Urke A",
+   "Wang W",
+   "Dubinsky AC",
+   "Farnsworth HC"
+  ],
+  "revista_ano": "Cell (2024)",
+  "desenho_estudo": "[ML] Hochbaum_2024",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Thyroid hormone remodels cortex to coordinate body-wide metabolism and exploration",
+  "extrapolacao_por_analogia": "SIM — evidência animal/molecular; tradução humana do mecanismo [EXT]",
+  "ids_referencia_interna": [
+   "REF_HOCHBAUM_2024"
+  ],
+  "id_referencia_interna": "REF_HOCHBAUM_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/molecular causal",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Hochbaum",
+   "HOCHBAUM"
+  ]
+ },
+ {
+  "pmid_oficial": "39903117",
+  "titulo_artigo": "Variable transduction of thyroid hormone signaling in structures of the mouse brain",
+  "autores": [
+   "Sinkó R",
+   "Salas-Lucia F",
+   "Mohácsik P",
+   "Halmos E",
+   "Wittmann G",
+   "Egri P"
+  ],
+  "revista_ano": "Proceedings of the National Academy of Sciences of the United States of America (2025)",
+  "desenho_estudo": "[EC] Sinko_2025",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Variable transduction of thyroid hormone signaling in structures of the mouse brain",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SINKO_2025"
+  ],
+  "id_referencia_interna": "REF_SINKO_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/revisao",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Sinko",
+   "SINKO"
+  ]
+ },
+ {
+  "pmid_oficial": "40906530",
+  "titulo_artigo": "Thyroid hormone promotes fetal neurogenesis",
+  "autores": [
+   "Salas-Lucia F",
+   "Escamilla S",
+   "Charest A",
+   "Jiang H",
+   "Stout R",
+   "Bianco AC"
+  ],
+  "revista_ano": "JCI insight (2025)",
+  "desenho_estudo": "[ML] SalasLucia_2025",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Thyroid hormone promotes fetal neurogenesis",
+  "extrapolacao_por_analogia": "SIM — evidência animal/molecular; tradução humana do mecanismo [EXT]",
+  "ids_referencia_interna": [
+   "REF_SALASLUCIA_2025"
+  ],
+  "id_referencia_interna": "REF_SALASLUCIA_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/molecular causal",
+  "g3_verificado_por": "IA G3 esummary; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "SALASLUCIA",
+   "Salaslucia"
+  ]
+ },
+ {
+  "pmid_oficial": "34524390",
+  "titulo_artigo": "Association of Hypothyroidism and Clinical Depression: A Systematic Review and Meta-analysis",
+  "autores": [
+   "Bode H",
+   "Ivens B",
+   "Bschor T",
+   "Schwarzer G",
+   "Henssler J",
+   "Baethge C"
+  ],
+  "revista_ano": "JAMA psychiatry (2021)",
+  "desenho_estudo": "[EC] Meta hipotireoidismo × depressão (Bode 2021) — ass",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Meta hipotireoidismo × depressão (Bode 2021) — associação",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BODE_2021"
+  ],
+  "id_referencia_interna": "REF_BODE_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "âncora módulos 06-10 do GPM completo",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Bode",
+   "BODE"
+  ]
+ },
+ {
+  "pmid_oficial": "36064836",
+  "titulo_artigo": "Hyperthyroidism and clinical depression: a systematic review and meta-analysis",
+  "autores": [
+   "Bode H",
+   "Ivens B",
+   "Bschor T",
+   "Schwarzer G",
+   "Henssler J",
+   "Baethge C"
+  ],
+  "revista_ano": "Translational psychiatry (2022)",
+  "desenho_estudo": "[EC] Meta hipertireoidismo × depressão (Bode 2022) — re",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Meta hipertireoidismo × depressão (Bode 2022) — reversível/U",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BODE_2022"
+  ],
+  "id_referencia_interna": "REF_BODE_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "âncora módulos 06-10 do GPM completo",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Bode",
+   "BODE"
+  ]
+ },
+ {
+  "pmid_oficial": "37528949",
+  "titulo_artigo": "Association of Low-Normal Free T4 Levels With Future Major Depression Development",
+  "autores": [
+   "Odawara S",
+   "Shimbo T",
+   "Yamauchi T",
+   "Kobayashi D"
+  ],
+  "revista_ano": "Journal of the Endocrine Society (2023)",
+  "desenho_estudo": "[EC] T4 livre baixo-normal prediz TDM futura (Odawara 2",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "T4 livre baixo-normal prediz TDM futura (Odawara 2023)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ODAWARA_2023"
+  ],
+  "id_referencia_interna": "REF_ODAWARA_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "âncora módulos 06-10 do GPM completo",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Odawara",
+   "ODAWARA"
+  ]
+ },
+ {
+  "pmid_oficial": "12505101",
+  "titulo_artigo": "Depression and anxiety in hyperthyroidism",
+  "autores": [
+   "Demet MM",
+   "Ozmen B",
+   "Deveci A",
+   "Boyvada S",
+   "Adigüzel H",
+   "Aydemir O"
+  ],
+  "revista_ano": "Archives of medical research (2002)",
+  "desenho_estudo": "[EC] Depressão/ansiedade no hipertireoidismo (Demet 200",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Depressão/ansiedade no hipertireoidismo (Demet 2002)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_DEMET_2002"
+  ],
+  "id_referencia_interna": "REF_DEMET_2002",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "âncora módulos 06-10 do GPM completo",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "DEMET",
+   "Demet"
+  ]
+ },
+ {
+  "pmid_oficial": "29800939",
+  "titulo_artigo": "Association of Depression and Anxiety Disorders With Autoimmune Thyroiditis: A Systematic Review and Meta-analysis",
+  "autores": [
+   "Siegmann EM",
+   "Müller HHO",
+   "Luecke C",
+   "Philipsen A",
+   "Kornhuber J",
+   "Grömer TW"
+  ],
+  "revista_ano": "JAMA psychiatry (2018)",
+  "desenho_estudo": "[EC] Depressão/ansiedade × autoimune tireoidiana (Siegm",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Depressão/ansiedade × autoimune tireoidiana (Siegmann 2018) — I² alto",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SIEGMANN_2018"
+  ],
+  "id_referencia_interna": "REF_SIEGMANN_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "âncora módulos 06-10 do GPM completo",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Siegmann",
+   "SIEGMANN"
+  ]
+ },
+ {
+  "pmid_oficial": "19942149",
+  "titulo_artigo": "Lithium and thyroid",
+  "autores": [
+   "Lazarus JH"
+  ],
+  "revista_ano": "Best practice & research. Clinical endocrinology & metabolism (2009)",
+  "desenho_estudo": "[EC] Lítio e tireoide (Lazarus 2009) — iatrogênico",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Lítio e tireoide (Lazarus 2009) — iatrogênico",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LAZARUS_2009"
+  ],
+  "id_referencia_interna": "REF_LAZARUS_2009",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "âncora módulos 06-10 do GPM completo",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "LAZARUS",
+   "Lazarus"
+  ]
+ },
+ {
+  "pmid_oficial": "29869405",
+  "titulo_artigo": "Adjunctive thyroid hormone treatment in rapid cycling bipolar disorder: A double-blind placebo-controlled trial of levothyroxine (L-T(4) ) and triiodothyronine (T(3) )",
+  "autores": [
+   "Walshaw PD",
+   "Gyulai L",
+   "Bauer M",
+   "Bauer MS",
+   "Calimlim B",
+   "Sugar CA"
+  ],
+  "revista_ano": "Bipolar disorders (2018)",
+  "desenho_estudo": "[EC] Hormônio tireoidiano adjuvante na ciclagem rápida ",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Hormônio tireoidiano adjuvante na ciclagem rápida (Walshaw 2018)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_WALSHAW_2018"
+  ],
+  "id_referencia_interna": "REF_WALSHAW_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "âncora módulos 06-10 do GPM completo",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "WALSHAW",
+   "Walshaw"
+  ]
+ },
+ {
+  "pmid_oficial": "11895224",
+  "titulo_artigo": "Postpartum thyroid dysfunction and postpartum depression: are they two linked disorders?",
+  "autores": [
+   "Lucas A",
+   "Pizarro E",
+   "Granada ML",
+   "Salinas I",
+   "Sanmartí A"
+  ],
+  "revista_ano": "Clinical endocrinology (2001)",
+  "desenho_estudo": "[EC] Disfunção tireoidiana pós-parto × depressão (Lucas",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Disfunção tireoidiana pós-parto × depressão (Lucas 2001)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LUCAS_2001"
+  ],
+  "id_referencia_interna": "REF_LUCAS_2001",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "âncora módulos 06-10 do GPM completo",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Lucas",
+   "LUCAS"
+  ]
+ },
+ {
+  "pmid_oficial": "15317653",
+  "titulo_artigo": "The link between thyroid autoimmunity (antithyroid peroxidase autoantibodies) with anxiety and mood disorders in the community: a field of interest for public health in the future",
+  "autores": [
+   "Carta MG",
+   "Loviselli A",
+   "Hardoy MC",
+   "Massa S",
+   "Cadeddu M",
+   "Sardu C"
+  ],
+  "revista_ano": "BMC psychiatry (2004)",
+  "desenho_estudo": "[EC] Autoimune tireoidiana/anti-TPO × ansiedade na comu",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Autoimune tireoidiana/anti-TPO × ansiedade na comunidade (Carta 2004)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CARTA_2004"
+  ],
+  "id_referencia_interna": "REF_CARTA_2004",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "âncora módulos 06-10 do GPM completo",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Carta",
+   "CARTA"
+  ]
+ },
+ {
+  "pmid_oficial": "30352046",
+  "titulo_artigo": "Type 2 deiodinase polymorphism causes ER stress and hypothyroidism in the brain",
+  "autores": [
+   "Jo S",
+   "Fonseca TL",
+   "Bocco BMLC",
+   "Fernandes GW",
+   "McAninch EA",
+   "Bolin AP"
+  ],
+  "revista_ano": "The Journal of clinical investigation (2019)",
+  "desenho_estudo": "[ML] Polimorfismo DIO2 Thr92Ala causa estresse de RE e ",
+  "secao_origem": "mecanismo_B11_disfuncao_tireoidiana",
+  "achado_central_molecular": "Polimorfismo DIO2 Thr92Ala causa estresse de RE e hipotireoidismo cerebral (Jo 2019)",
+  "extrapolacao_por_analogia": "SIM — in vitro/animal [EXT]",
+  "ids_referencia_interna": [
+   "REF_JO_2019"
+  ],
+  "id_referencia_interna": "REF_JO_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "âncora módulos 06-10 do GPM completo",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Jo",
+   "JO"
+  ]
+ },
+ {
+  "pmid_oficial": "29064607",
+  "titulo_artigo": "Hypothalamic-pituitary-thyroid (HPT) axis functioning in anxiety disorders. A systematic review.",
+  "autores": [
+   "Fischer S",
+   "Ehlert U"
+  ],
+  "revista_ano": "Depress Anxiety (2018)",
+  "desenho_estudo": "[OB] revisão sistemática · Depress Anxiety",
+  "secao_origem": "mecanismo_B11_eixo_hpt_ansiedade",
+  "achado_central_molecular": "Revisão sistemática do eixo HPT nos transtornos de ansiedade: alterações modestas e heterogêneas; contraste com a literatura de depressão; ansiedade permanece menos mapeada que depressão.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_FISCHER_2018"
+  ],
+  "id_referencia_interna": "REF_FISCHER_2018",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "29408972",
+  "titulo_artigo": "Subclinical Hypothyroidism and Incident Depression in Young and Middle-Age Adults.",
+  "autores": [
+   "Kim JS",
+   "Zhang Y",
+   "Chang Y",
+   "Ryu S"
+  ],
+  "revista_ano": "J Clin Endocrinol Metab (2018)",
+  "desenho_estudo": "[EC] coorte prospectiva (adultos jovens e de meia-idade) · J Clin Endocrinol Metab",
+  "secao_origem": "mecanismo_B11_sch_incidente_neg",
+  "achado_central_molecular": "SCH não se associou a depressão incidente em adultos jovens/de meia-idade em coorte prospectiva — evidência NEGATIVA canônica.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_KIM_2018"
+  ],
+  "id_referencia_interna": "REF_KIM_2018",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "30375372",
+  "titulo_artigo": "Subclinical hypothyroidism and depression: a meta-analysis.",
+  "autores": [
+   "Zhao T",
+   "Chen BM",
+   "Zhao XM",
+   "Shan ZY"
+  ],
+  "revista_ano": "Transl Psychiatry (2018)",
+  "desenho_estudo": "[OB] meta-análise · Transl Psychiatry",
+  "secao_origem": "mecanismo_B11_sch_meta",
+  "achado_central_molecular": "Meta-análise SCH×depressão: associação fraca/inerentemente inconsistente contra coortes negativas.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_ZHAO_2018"
+  ],
+  "id_referencia_interna": "REF_ZHAO_2018",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "31214119",
+  "titulo_artigo": "Subclinical Hypothyroidism and Depression: A Systematic Review and Meta-Analysis.",
+  "autores": [
+   "Tang R",
+   "Wang J",
+   "Yang L",
+   "Ding X"
+  ],
+  "revista_ano": "Front Endocrinol (Lausanne) (2019)",
+  "desenho_estudo": "[OB] revisão sistemática e meta-análise · Front Endocrinol (Lausanne)",
+  "secao_origem": "mecanismo_B11_sch_meta",
+  "achado_central_molecular": "SR/MA SCH×depressão: sinal de associação em estudos transversais, sem estabelecer causalidade.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_TANG_2019"
+  ],
+  "id_referencia_interna": "REF_TANG_2019",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "33154486",
+  "titulo_artigo": "An individual participant data analysis of prospective cohort studies on the association between subclinical thyroid dysfunction and depressive symptoms.",
+  "autores": [
+   "Wildisen L",
+   "Del Giovane C",
+   "Moutzouri E",
+   "Beglinger S"
+  ],
+  "revista_ano": "Sci Rep (2020)",
+  "desenho_estudo": "[EC] análise individual de dados de participantes (IPD) de coortes prospectivas (~23 mil) · Sci Rep",
+  "secao_origem": "mecanismo_B11_sch_ipd_neg",
+  "achado_central_molecular": "IPD de coortes prospectivas: SCH não se associou a sintomas depressivos de forma robusta — evidência NEGATIVA de maior hierarquia.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_WILDISEN_2020"
+  ],
+  "id_referencia_interna": "REF_WILDISEN_2020",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "34129186",
+  "titulo_artigo": "Role of thyroid hormone therapy in depressive disorders.",
+  "autores": [
+   "Bauer M",
+   "Whybrow PC"
+  ],
+  "revista_ano": "J Endocrinol Invest (2021)",
+  "desenho_estudo": "[OB] revisão terapêutica · J Endocrinol Invest",
+  "secao_origem": "mecanismo_B11_terapia_sinal",
+  "achado_central_molecular": "Revisão do papel dos hormônios tireoidianos como adjuvantes em depressão: sinal terapêutico histórico (T3/T4) que não autoriza tratar toda depressão como tireoidiana (P20, sem doses).",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_BAUER_2021"
+  ],
+  "id_referencia_interna": "REF_BAUER_2021",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "34147730",
+  "titulo_artigo": "Subclinical hypothyroidism and symptoms of depression: Evidence from the National Health and Nutrition Examination Surveys (NHANES).",
+  "autores": [
+   "Airaksinen J",
+   "Komulainen K",
+   "García-Velázquez R",
+   "Määttänen I"
+  ],
+  "revista_ano": "Compr Psychiatry (2021)",
+  "desenho_estudo": "[EC] coorte populacional (NHANES) · Compr Psychiatry",
+  "secao_origem": "mecanismo_B11_sch_nhanes_neg",
+  "achado_central_molecular": "NHANES: SCH sem associação clara a sintomas depressivos no geral; análise sintoma-específica — evidência NEGATIVA canônica.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_AIRAKSINEN_2021"
+  ],
+  "id_referencia_interna": "REF_AIRAKSINEN_2021",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "36463425",
+  "titulo_artigo": "Exploring the Genetic Link Between Thyroid Dysfunction and Common Psychiatric Disorders: A Specific Hormonal or a General Autoimmune Comorbidity.",
+  "autores": [
+   "Soheili-Nezhad S",
+   "Sprooten E",
+   "Tendolkar I",
+   "Medici M"
+  ],
+  "revista_ano": "Thyroid (2023)",
+  "desenho_estudo": "[EC] estudo genético (ligações genéticas/compartilhadas) · Thyroid",
+  "secao_origem": "mecanismo_B11_genetica_compartilhada",
+  "achado_central_molecular": "Variações de hormônio tireoidiano dentro da faixa normal associam-se a risco de transtornos psiquiátricos comuns via ligação genética compartilhada — não estabelece causalidade individual (correção editorial Zhang 2024, PMID 37155921, registrada como metadado).",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_SOHEILI_2023"
+  ],
+  "id_referencia_interna": "REF_SOHEILI_2023",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Zhang 2024 (37155921) = Correction to this article — metadado, não referência"
+  ]
+ },
+ {
+  "pmid_oficial": "37855318",
+  "titulo_artigo": "The Cross-sectional and Longitudinal Association Between Thyroid Function and Depression: A Population-Based Study.",
+  "autores": [
+   "Roa Dueñas OH",
+   "Hofman A",
+   "Luik AI",
+   "Medici M"
+  ],
+  "revista_ano": "J Clin Endocrinol Metab (2024)",
+  "desenho_estudo": "[EC] coorte populacional transversal e longitudinal · J Clin Endocrinol Metab",
+  "secao_origem": "mecanismo_B11_funcao_tireoidiana_depressao",
+  "achado_central_molecular": "Associação transversal e longitudinal entre função tireoidiana e depressão em coorte populacional; causalidade reversa não excluída — regra bidirecional.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_ROADUENAS_2024"
+  ],
+  "id_referencia_interna": "REF_ROADUENAS_2024",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "39280013",
+  "titulo_artigo": "The association between depression and thyroid function.",
+  "autores": [
+   "Ma Y",
+   "Wang M",
+   "Zhang Z"
+  ],
+  "revista_ano": "Front Endocrinol (Lausanne) (2024)",
+  "desenho_estudo": "[EC] estudo observacional (transversal) · Front Endocrinol (Lausanne)",
+  "secao_origem": "mecanismo_B11_depressao_funcao_tireoidiana",
+  "achado_central_molecular": "Associação entre depressão e função tireoidiana em análise transversal; FT3 como marcador associativo — sem FT3 prospectivo [G1].",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_MA_2024"
+  ],
+  "id_referencia_interna": "REF_MA_2024",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "40226662",
+  "titulo_artigo": "The Association between Depression, Anxiety, and Thyroid Disease: A UK Biobank Prospective Cohort Study.",
+  "autores": [
+   "Fan T",
+   "Luo X",
+   "Li X",
+   "Shen Y"
+  ],
+  "revista_ano": "Depress Anxiety (2024)",
+  "desenho_estudo": "[EC] coorte prospectiva UK Biobank · Depress Anxiety",
+  "secao_origem": "mecanismo_B11_bidirecional_ukbiobank",
+  "achado_central_molecular": "UK Biobank prospectivo: depressão e ansiedade associam-se a risco subsequente de doença tireoidiana — direção reversa documentada; bidirecionalidade obrigatória.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_FAN_2024"
+  ],
+  "id_referencia_interna": "REF_FAN_2024",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "25777685",
+  "titulo_artigo": "Diagnosed thyroid disorders are associated with depression and anxiety.",
+  "autores": [
+   "Ittermann T",
+   "Völzke H",
+   "Baumeister SE",
+   "Appel K"
+  ],
+  "revista_ano": "Soc Psychiatry Psychiatr Epidemiol (2015)",
+  "desenho_estudo": "[EC] coorte populacional (SHIP) com diagnósticos por entrevista · Soc Psychiatry Psychiatr Epidemiol",
+  "secao_origem": "mecanismo_B11_diagnosticos_gold",
+  "achado_central_molecular": "Transtornos tireoidianos diagnosticados associaram-se a depressão e ansiedade definidas por entrevista padrão — desfecho por gold-standard, não só escala.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_ITTERMANN_2015"
+  ],
+  "id_referencia_interna": "REF_ITTERMANN_2015",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "25580957",
+  "titulo_artigo": "Subclinical thyroid dysfunction and psychiatric disorders: cross-sectional results from the Brazilian Study of Adult Health (ELSA-Brasil).",
+  "autores": [
+   "Benseñor IM",
+   "Nunes MA",
+   "Sander Diniz MF",
+   "Santos IS"
+  ],
+  "revista_ano": "Clin Endocrinol (Oxf) (2016)",
+  "desenho_estudo": "[EC] coorte transversal populacional (ELSA-Brasil) · Clin Endocrinol (Oxf)",
+  "secao_origem": "mecanismo_B11_elsa_brasil",
+  "achado_central_molecular": "ELSA-Brasil: disfunção tireoidiana subclínica e transtornos psiquiátricos em coorte brasileira de base populacional — sinal associativo latino-americano.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_BENSENOR_2016"
+  ],
+  "id_referencia_interna": "REF_BENSENOR_2016",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "12100345",
+  "titulo_artigo": "An association between depression, anxiety and thyroid function--a clinical fact or an artefact?",
+  "autores": [
+   "Engum A",
+   "Bjøro T",
+   "Mykletun A",
+   "Dahl AA"
+  ],
+  "revista_ano": "Acta Psychiatr Scand (2002)",
+  "desenho_estudo": "[EC] coorte populacional (HUNT) · Acta Psychiatr Scand",
+  "secao_origem": "mecanismo_B11_hunt_funcao",
+  "achado_central_molecular": "HUNT: associação entre depressão/ansiedade e função tireoidiana questionada como possível artefato — contribuição escéptica clássica.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_ENGUM_2002"
+  ],
+  "id_referencia_interna": "REF_ENGUM_2002",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "16253615",
+  "titulo_artigo": "Thyroid autoimmunity, depression and anxiety; are there any connections? An epidemiological study of a large population.",
+  "autores": [
+   "Engum A",
+   "Bjøro T",
+   "Mykletun A",
+   "Dahl AA"
+  ],
+  "revista_ano": "J Psychosom Res (2005)",
+  "desenho_estudo": "[EC] coorte populacional (HUNT) · J Psychosom Res",
+  "secao_origem": "mecanismo_B11_hunt_autoimunidade",
+  "achado_central_molecular": "HUNT: autoimunidade tireoidiana (anti-TPO) e depressão/ansiedade em amostra populacional ampla — associação fraca/ausente na base populacional.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_ENGUM_2005"
+  ],
+  "id_referencia_interna": "REF_ENGUM_2005",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "30106989",
+  "titulo_artigo": "Association between subclinical thyroid dysfunction and depressive symptoms in the Korean adult population: The 2014 Korea National Health and Nutrition Examination Survey.",
+  "autores": [
+   "Hong JW",
+   "Noh JH",
+   "Kim DJ"
+  ],
+  "revista_ano": "PLoS One (2018)",
+  "desenho_estudo": "[EC] inquérito populacional (KNHANES) · PLoS One",
+  "secao_origem": "mecanismo_B11_knanhnes_sch",
+  "achado_central_molecular": "KNHANES: disfunção tireoidiana subclínica e sintomas depressivos em adultos coreanos sem doença tireoidiana franca.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_HONG_2018"
+  ],
+  "id_referencia_interna": "REF_HONG_2018",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "25973566",
+  "titulo_artigo": "Relationship between thyroid-stimulating hormone levels and risk of depression among the general population with normal free T4 levels.",
+  "autores": [
+   "Kim EY",
+   "Kim SH",
+   "Rhee SJ",
+   "Huh I"
+  ],
+  "revista_ano": "Psychoneuroendocrinology (2015)",
+  "desenho_estudo": "[EC] coorte retrospectiva · Psychoneuroendocrinology",
+  "secao_origem": "mecanismo_B11_tsh_faixa_bdi",
+  "achado_central_molecular": "Níveis de TSH dentro da faixa de referência e risco de sintomas depressivos (BDI) — variação intra-faixa sem corte clínico (regra não-linearidade≠faixa ótima).",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_KIM_2015"
+  ],
+  "id_referencia_interna": "REF_KIM_2015",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "30772742",
+  "titulo_artigo": "Sex differences in the association between thyroid-stimulating hormone levels and depressive symptoms among the general population with normal free T4 levels.",
+  "autores": [
+   "Lee S",
+   "Oh SS",
+   "Park EC",
+   "Jang SI"
+  ],
+  "revista_ano": "J Affect Disord (2019)",
+  "desenho_estudo": "[EC] estudo transversal populacional · J Affect Disord",
+  "secao_origem": "mecanismo_B11_tsh_sexo_depressao",
+  "achado_central_molecular": "Diferenças de sexo na associação entre TSH (dentro da faixa) e sintomas depressivos — heterogeneidade por sexo como moderador.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_LEE_2019"
+  ],
+  "id_referencia_interna": "REF_LEE_2019",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "37419569",
+  "titulo_artigo": "The Association Between Thyroid Stimulating Hormone and Depression: A Historical Cohort Study.",
+  "autores": [
+   "Kumar R",
+   "LeMahieu AM",
+   "Stan MN",
+   "Seshadri A"
+  ],
+  "revista_ano": "Mayo Clin Proc (2023)",
+  "desenho_estudo": "[EC] coorte histórica populacional (Mayo) · Mayo Clin Proc",
+  "secao_origem": "mecanismo_B11_mayo_tsh_phq9",
+  "achado_central_molecular": "Coorte histórica Mayo: TSH e depressão clinicamente relevante (PHQ-9) em amostra ampla — sinal populacional contemporâneo.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_KUMAR_2023"
+  ],
+  "id_referencia_interna": "REF_KUMAR_2023",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "40163571",
+  "titulo_artigo": "Association of Thyroid Function With Depression: A Historical Cohort Study.",
+  "autores": [
+   "Liu J",
+   "Delgoffe BE",
+   "Gabor R",
+   "Sharma S"
+  ],
+  "revista_ano": "J Psychiatr Pract (2025)",
+  "desenho_estudo": "[EC] coorte histórica · J Psychiatr Pract",
+  "secao_origem": "mecanismo_B11_coorte_historica_tsh",
+  "achado_central_molecular": "Coorte histórica independente: função tireoidiana e depressão — convergência com sinais de coortes maiores.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_LIU_2025"
+  ],
+  "id_referencia_interna": "REF_LIU_2025",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "41825352",
+  "titulo_artigo": "Thyroid and depression: Insights from a retrospective real world clinical cohort.",
+  "autores": [
+   "Baweja R",
+   "Eisele C",
+   "Breitzig MT",
+   "Free MF"
+  ],
+  "revista_ano": "Psychoneuroendocrinology (2026)",
+  "desenho_estudo": "[EC] coorte clínica retrospectiva real-world · Psychoneuroendocrinology",
+  "secao_origem": "mecanismo_B11_realworld_tireoide_depressao",
+  "achado_central_molecular": "Coorte real-world retrospectiva: tireoide e depressão na prática clínica — sinal de mundo real, suscetível a confusão por indicação.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_BAWEJA_2026"
+  ],
+  "id_referencia_interna": "REF_BAWEJA_2026",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "40133129",
+  "titulo_artigo": "Thyroid-Stimulating Hormone Levels and Depression in Older Adults: Cross-Sectional and Longitudinal Analyses in a Community-Dwelling Population.",
+  "autores": [
+   "Forbes M",
+   "Watson T",
+   "Topliss DJ",
+   "Lotfaliany M"
+  ],
+  "revista_ano": "Am J Geriatr Psychiatry (2026)",
+  "desenho_estudo": "[EC] estudo transversal e longitudinal em idosos · Am J Geriatr Psychiatry",
+  "secao_origem": "mecanismo_B11_idosos_tsh_depressao",
+  "achado_central_molecular": "TSH e depressão em idosos, transversal e longitudinal — complementa a evidência negativa geriátrica.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_FORBES_2026"
+  ],
+  "id_referencia_interna": "REF_FORBES_2026",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "17043339",
+  "titulo_artigo": "Is subclinical thyroid dysfunction in the elderly associated with depression or cognitive dysfunction?",
+  "autores": [
+   "Roberts LM",
+   "Pattison H",
+   "Roalfe A",
+   "Franklyn J"
+  ],
+  "revista_ano": "Ann Intern Med (2006)",
+  "desenho_estudo": "[EC] estudo longitudinal em idosos · Ann Intern Med",
+  "secao_origem": "mecanismo_B11_idosos_disfuncao_leve",
+  "achado_central_molecular": "Disfunção tireoidiana leve em idosos: associações com depressão/cognição NÃO confirmadas — evidência NEGATIVA geriátrica clássica.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_ROBERTS_2006"
+  ],
+  "id_referencia_interna": "REF_ROBERTS_2006",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "21890841",
+  "titulo_artigo": "Investigation of thyroid dysfunction is more likely in patients with high psychological morbidity.",
+  "autores": [
+   "Bould H",
+   "Panicker V",
+   "Kessler D",
+   "Durant C"
+  ],
+  "revista_ano": "Fam Pract (2012)",
+  "desenho_estudo": "[EC] coorte prospectiva (DEPTH) · Fam Pract",
+  "secao_origem": "mecanismo_B11_depth_angustia",
+  "achado_central_molecular": "Investigação de disfunção tireoidiana é mais provável em pacientes com alta morbidade psicológica — sinal de triagem, não de caso.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_BOULD_2012"
+  ],
+  "id_referencia_interna": "REF_BOULD_2012",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "34427900",
+  "titulo_artigo": "Subclinical thyroid dysfunction and major depressive disorder.",
+  "autores": [
+   "Karakatsoulis GN",
+   "Tsapakis EM",
+   "Mitkani C",
+   "Fountoulakis KN"
+  ],
+  "revista_ano": "Hormones (Athens) (2021)",
+  "desenho_estudo": "[OB] revisão · Hormones (Athens)",
+  "secao_origem": "mecanismo_B11_sch_tdm_autoimunidade",
+  "achado_central_molecular": "Revisão SCH×TDM: hipótese de mediação autoimune entre disfunção subclínica e depressão maior — mecanismo candidato, não demonstrado.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_KARAKATSOULIS_2021"
+  ],
+  "id_referencia_interna": "REF_KARAKATSOULIS_2021",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "30621645",
+  "titulo_artigo": "Association between subclinical hypothyroidism and depression: an updated systematic review and meta-analysis.",
+  "autores": [
+   "Loh HH",
+   "Lim LL",
+   "Yee A",
+   "Loh HS"
+  ],
+  "revista_ano": "BMC Psychiatry (2019)",
+  "desenho_estudo": "[OB] revisão sistemática e meta-análise · BMC Psychiatry",
+  "secao_origem": "mecanismo_B11_sch_meta_lt4",
+  "achado_central_molecular": "MA atualizada SCH×depressão incluindo desfecho de melhora sintomática com LT4 — sinal terapêutico populacional fraco e heterogêneo.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_LOH_2019"
+  ],
+  "id_referencia_interna": "REF_LOH_2019",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "35946076",
+  "titulo_artigo": "Subclinical Hypothyroidism and Incident Depression in Adolescents and Young Adults: Results from a Nationwide Representative Prospective Study.",
+  "autores": [
+   "Hirtz R",
+   "Hölling H",
+   "Grasemann C"
+  ],
+  "revista_ano": "Thyroid (2022)",
+  "desenho_estudo": "[EC] coorte prospectiva nacional em adolescentes e adultos jovens · Thyroid",
+  "secao_origem": "mecanismo_B11_sch_incidente_jovens",
+  "achado_central_molecular": "SCH e depressão incidente em adolescentes/adultos jovens (coorte nationwide) — janela etária pouco coberta.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_HIRTZ_2022"
+  ],
+  "id_referencia_interna": "REF_HIRTZ_2022",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "24211158",
+  "titulo_artigo": "The prevalence of depression and anxiety disorders in patients with euthyroid Hashimoto's thyroiditis: a comparative study.",
+  "autores": [
+   "Giynas Ayhan M",
+   "Uguz F",
+   "Askin R",
+   "Gonen MS"
+  ],
+  "revista_ano": "Gen Hosp Psychiatry (2014)",
+  "desenho_estudo": "[EC] estudo caso-controle com entrevista diagnóstica · Gen Hosp Psychiatry",
+  "secao_origem": "mecanismo_B11_hashimoto_eutireoideo",
+  "achado_central_molecular": "Hashimoto eutireoidiano: prevalência aumentada de depressão e ansiedade correntes vs controles — suporte fenomenológico direto do eixo AIT.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_AYHAN_2014"
+  ],
+  "id_referencia_interna": "REF_AYHAN_2014",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "16314199",
+  "titulo_artigo": "Depression, anxiety, health-related quality of life, and disability in patients with overt and subclinical thyroid dysfunction.",
+  "autores": [
+   "Gulseren S",
+   "Gulseren L",
+   "Hekimsoy Z",
+   "Cetinay P"
+  ],
+  "revista_ano": "Arch Med Res (2006)",
+  "desenho_estudo": "[EC] estudo transversal comparativo · Arch Med Res",
+  "secao_origem": "mecanismo_B11_hashimoto_qv",
+  "achado_central_molecular": "Tireoidite de Hashimoto (inclusive eutireoidiana): depressão, ansiedade, qualidade de vida e incapacidade — AIT além do status hormonal.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_GULSEREN_2006"
+  ],
+  "id_referencia_interna": "REF_GULSEREN_2006",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "26655116",
+  "titulo_artigo": "Depressive symptoms, thyroid hormone and autoimmunity in a population-based cohort from Sardinia.",
+  "autores": [
+   "Delitala AP",
+   "Terracciano A",
+   "Fiorillo E",
+   "Orrù V"
+  ],
+  "revista_ano": "J Affect Disord (2016)",
+  "desenho_estudo": "[EC] coorte populacional (SardiNIA) · J Affect Disord",
+  "secao_origem": "mecanismo_B11_sardinia_autoimunidade",
+  "achado_central_molecular": "SardiNIA: sintomas depressivos, hormônio tireoidiano e autoimunidade (anti-TPO) sem medicação — dissociação entre autoimunidade e humor na população.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_DELITALA_2016"
+  ],
+  "id_referencia_interna": "REF_DELITALA_2016",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "39717384",
+  "titulo_artigo": "Association between depression and anxiety disorders with euthyroid Hashimoto's thyroiditis: A systematic review and meta-analysis.",
+  "autores": [
+   "Wang B",
+   "Huang J",
+   "Chen L"
+  ],
+  "revista_ano": "Compr Psychoneuroendocrinol (2024)",
+  "desenho_estudo": "[OB] revisão sistemática e meta-análise · Compr Psychoneuroendocrinol",
+  "secao_origem": "mecanismo_B11_hashimoto_eutireoideo_meta",
+  "achado_central_molecular": "SR/MA: depressão e ansiedade em Hashimoto EUTIREOIDIANO — associação presente sem hipotireoidismo; não resolve se AIT causa ou co-ocorre.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_WANG_2024"
+  ],
+  "id_referencia_interna": "REF_WANG_2024",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "15256776",
+  "titulo_artigo": "Assessment of anxiety in subclinical thyroid disorders.",
+  "autores": [
+   "Sait Gönen M",
+   "Kisakol G",
+   "Savas Cilli A",
+   "Dikbas O"
+  ],
+  "revista_ano": "Endocr J (2004)",
+  "desenho_estudo": "[EC] estudo transversal ambulatorial · Endocr J",
+  "secao_origem": "mecanismo_B11_sch_ansiedade",
+  "achado_central_molecular": "Avaliação de ansiedade em distúrbios tireoidianos subclínicos — sinal ansiedade-específico (vs depressão) em amostra clínica.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_GONEN_2004"
+  ],
+  "id_referencia_interna": "REF_GONEN_2004",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "37706034",
+  "titulo_artigo": "Gender differences in the association between anxiety symptoms and thyroid hormones in young patients with first-episode and drug naïve major depressive disorder.",
+  "autores": [
+   "Zhao Y",
+   "Liu JC",
+   "Yu F",
+   "Yang LY"
+  ],
+  "revista_ano": "Front Psychiatry (2023)",
+  "desenho_estudo": "[EC] estudo transversal em TDM jovem de primeiro episódio · Front Psychiatry",
+  "secao_origem": "mecanismo_B11_genero_ansiedade_tdm",
+  "achado_central_molecular": "Diferenças de gênero na associação entre ansiedade e hormônios tireoidianos em TDM jovem drug-naïve — moderador de gênero, desenho transversal [representante único da família de coortes de primeiro episódio].",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_ZHAO_2023"
+  ],
+  "id_referencia_interna": "REF_ZHAO_2023",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "41966231",
+  "titulo_artigo": "An \"increase-decrease-increase\" pattern: TSH levels and anxiety symptoms in treatment-naïve first-episode patients with major depressive disorder.",
+  "autores": [
+   "Qiu X",
+   "Wen L",
+   "Mao H",
+   "Lang XE"
+  ],
+  "revista_ano": "J Affect Disord (2026)",
+  "desenho_estudo": "[EC] estudo transversal em TDM drug-naïve de primeiro episódio · J Affect Disord",
+  "secao_origem": "mecanismo_B11_padrao_nao_linear_tsh",
+  "achado_central_molecular": "Padrão não-linear ('aumenta-diminui-aumenta') entre TSH e sintomas ansiosos em TDM — reforça não-linearidade; não define faixa ótima.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_QIU_2026"
+  ],
+  "id_referencia_interna": "REF_QIU_2026",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "33210405",
+  "titulo_artigo": "Dysregulated thyroid hormones correlate with anxiety and depression risk in patients with autoimmune disease.",
+  "autores": [
+   "Wu X",
+   "Zhang K",
+   "Xing Y",
+   "Zhou W"
+  ],
+  "revista_ano": "J Clin Lab Anal (2021)",
+  "desenho_estudo": "[EC] estudo caso-controle · J Clin Lab Anal",
+  "secao_origem": "mecanismo_B11_autoimune_hormonios",
+  "achado_central_molecular": "Hormônios tireoidianos desregulados correlacionam-se com risco de ansiedade e depressão em doença autoimune — elo autoimune-humor extraclasse TPO.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_WU_2021"
+  ],
+  "id_referencia_interna": "REF_WU_2021",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "33210626",
+  "titulo_artigo": "Anxiety and Depression among Patients with Thyroid Function Disorders.",
+  "autores": [
+   "Gorkhali B",
+   "Sharma S",
+   "Amatya M",
+   "Acharya D"
+  ],
+  "revista_ano": "J Nepal Health Res Counc (2020)",
+  "desenho_estudo": "[EC] estudo transversal · J Nepal Health Res Counc",
+  "secao_origem": "mecanismo_B11_disturbios_tireoidianos_ansiedade",
+  "achado_central_molecular": "Ansiedade e depressão entre pacientes com distúrbios da função tireoidiana — sinal clínico transcultural (Nepal).",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_GORKHALI_2020"
+  ],
+  "id_referencia_interna": "REF_GORKHALI_2020",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "39833737",
+  "titulo_artigo": "Prevalence and associated factors of anxiety and depression among patients with hypothyroidism in Southern Iran.",
+  "autores": [
+   "Dehesh T",
+   "Mosleh-Shirazi MA",
+   "Dehesh P"
+  ],
+  "revista_ano": "BMC Psychiatry (2025)",
+  "desenho_estudo": "[EC] estudo transversal · BMC Psychiatry",
+  "secao_origem": "mecanismo_B11_hipotireoidismo_ansiedade",
+  "achado_central_molecular": "Prevalência e fatores associados de ansiedade e depressão em hipotireoidismo — população endócrina direta.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_DEHESH_2025"
+  ],
+  "id_referencia_interna": "REF_DEHESH_2025",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "24937789",
+  "titulo_artigo": "Psychiatric symptoms and diagnoses in thyroid disorders: a cross-sectional study.",
+  "autores": [
+   "Aslan S",
+   "Ersoy R",
+   "Kuruoglu AC",
+   "Karakoc A"
+  ],
+  "revista_ano": "Int J Psychiatry Clin Pract (2005)",
+  "desenho_estudo": "[EC] estudo transversal com entrevista · Int J Psychiatry Clin Pract",
+  "secao_origem": "mecanismo_B11_sintomas_psiq_tireoide",
+  "achado_central_molecular": "Sintomas e diagnósticos psiquiátricos em distúrbios tireoidianos (transversal) — fenótipo psiquiátrico da doença tireoidiana franca.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_ASLAN_2005"
+  ],
+  "id_referencia_interna": "REF_ASLAN_2005",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "2129342",
+  "titulo_artigo": "Thyroid hormone elevations during acute psychiatric illness: relationship to severity and distinction from hyperthyroidism.",
+  "autores": [
+   "Roca RP",
+   "Blackman MR",
+   "Ackerley MB",
+   "Harman SM",
+   "Gregerman RI"
+  ],
+  "revista_ano": "Endocr Res (1990)",
+  "desenho_estudo": "[EC] série clínica com medidas seriadas · Endocr Res",
+  "secao_origem": "mecanismo_B11_transitorio_hiperT4",
+  "achado_central_molecular": "Elevações TRANSITÓRIAS de hormônios tireoidianos em doença psiquiátrica aguda — distinção de hipertireoidismo verdadeiro; antiartefato clássico.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_ROCA_1990"
+  ],
+  "id_referencia_interna": "REF_ROCA_1990",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "2336036",
+  "titulo_artigo": "Serum thyrotropin in hospitalized psychiatric patients: evidence for hyperthyrotropinemia as measured by an ultrasensitive thyrotropin assay.",
+  "autores": [
+   "Chopra IJ",
+   "Solomon DH",
+   "Huang TS"
+  ],
+  "revista_ano": "Metabolism (1990)",
+  "desenho_estudo": "[EC] série clínica em internados psiquiátricos · Metabolism",
+  "secao_origem": "mecanismo_B11_transitorio_tsh",
+  "achado_central_molecular": "Hipertireotropinemia transitória em internados psiquiátricos agudos — TSH/T4 elevados iniciais revertem; reforça reavaliação, não rótulo.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_CHOPRA_1990"
+  ],
+  "id_referencia_interna": "REF_CHOPRA_1990",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "22318794",
+  "titulo_artigo": "Abnormal thyroid function tests in psychiatric patients: a red herring?",
+  "autores": [
+   "Dickerman AL",
+   "Barnhill JW"
+  ],
+  "revista_ano": "Am J Psychiatry (2012)",
+  "desenho_estudo": "[OB] revisão clínica · Am J Psychiatry",
+  "secao_origem": "mecanismo_B11_red_herring",
+  "achado_central_molecular": "'Red herring': testes tireoidianos anormais em psiquiátricos frequentemente refletem doença não-tireoidiana/transitoriedade — cautela interpretativa central.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_DICKERMAN_2012"
+  ],
+  "id_referencia_interna": "REF_DICKERMAN_2012",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "2198197",
+  "titulo_artigo": "Review: thyroid function in psychiatric illness.",
+  "autores": [
+   "Hein MD",
+   "Jackson IM"
+  ],
+  "revista_ano": "Gen Hosp Psychiatry (1990)",
+  "desenho_estudo": "[OB] revisão · Gen Hosp Psychiatry",
+  "secao_origem": "mecanismo_B11_revisao_funcao_psiq",
+  "achado_central_molecular": "Revisão clássica da função tireoidiana na doença psiquiátrica — síndrome da doença não-tireoidiana, variabilidade de testes e limites da triagem.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_HEIN_1990"
+  ],
+  "id_referencia_interna": "REF_HEIN_1990",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "16840838",
+  "titulo_artigo": "Low T3 syndrome in psychiatric depression.",
+  "autores": [
+   "Premachandra BN",
+   "Kabir MA",
+   "Williams IK"
+  ],
+  "revista_ano": "J Endocrinol Invest (2006)",
+  "desenho_estudo": "[EC] estudo transversal psiquiátrico · J Endocrinol Invest",
+  "secao_origem": "mecanismo_B11_lowT3_depressao",
+  "achado_central_molecular": "Síndrome do T3 baixo em depressão psiquiátrica — T3 reduzido com TSH/T4 preservados; marcador de gravidade transversal, não FT3 prospectivo [G1].",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_PREMACHANDRA_2006"
+  ],
+  "id_referencia_interna": "REF_PREMACHANDRA_2006",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "16804044",
+  "titulo_artigo": "Psychological well-being correlates with free thyroxine but not free 3,5,3'-triiodothyronine levels in patients on thyroid hormone replacement.",
+  "autores": [
+   "Saravanan P",
+   "Visser TJ",
+   "Dayan CM"
+  ],
+  "revista_ano": "J Clin Endocrinol Metab (2006)",
+  "desenho_estudo": "[EC] estudo transversal em reposição tireoidiana · J Clin Endocrinol Metab",
+  "secao_origem": "mecanismo_B11_bemestar_ft4_nao_ft3",
+  "achado_central_molecular": "Bem-estar psicológico correlaciona-se com FT4, NÃO com FT3, em pacientes sob reposição — achado nulo de FT3 canônico.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_SARAVANAN_2006"
+  ],
+  "id_referencia_interna": "REF_SARAVANAN_2006",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "40489725",
+  "titulo_artigo": "Reverse T3 in patients with hypothyroidism on different thyroid hormone replacement.",
+  "autores": [
+   "Wilson JB",
+   "Hoang TD",
+   "Lee ML",
+   "Epstein M"
+  ],
+  "revista_ano": "PLoS One (2025)",
+  "desenho_estudo": "[EC] estudo transversal · PLoS One",
+  "secao_origem": "mecanismo_B11_rT3_reposicao",
+  "achado_central_molecular": "rT3 (produto de desiodinação periférica D1/D3) em hipotireoidismo sob diferentes esquemas de reposição — âncora periférica de rT3; sinalização CEREBRAL de rT3 permanece [G1].",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_WILSON_2025"
+  ],
+  "id_referencia_interna": "REF_WILSON_2025",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "19751298",
+  "titulo_artigo": "A paradoxical difference in relationship between anxiety, depression and thyroid function in subjects on and not on T4: findings from the HUNT study.",
+  "autores": [
+   "Panicker V",
+   "Evans J",
+   "Bjøro T",
+   "Asvold BO"
+  ],
+  "revista_ano": "Clin Endocrinol (Oxf) (2009)",
+  "desenho_estudo": "[EC] estudo transversal populacional (área de captação) · Clin Endocrinol (Oxf)",
+  "secao_origem": "mecanismo_B11_paradoxo_ansiedade_depressao",
+  "achado_central_molecular": "Diferença paradoxal: relação TSH×ansiedade em direção distinta de TSH×depressão (em usuários de T4 vs população) — não-linearidade documentada.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_PANICKER_2009"
+  ],
+  "id_referencia_interna": "REF_PANICKER_2009",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "8936670",
+  "titulo_artigo": "Thyroid evaluation of hospitalized psychiatric patients: the role of TSH screening for thyroid dysfunction.",
+  "autores": [
+   "Woolf PD",
+   "Nichols D",
+   "Porsteinsson A",
+   "Boulay R"
+  ],
+  "revista_ano": "Thyroid (1996)",
+  "desenho_estudo": "[EC] série prospectiva hospitalar · Thyroid",
+  "secao_origem": "mecanismo_B11_triagem_tsh_hospitalar",
+  "achado_central_molecular": "Triagem com TSH em internados psiquiátricos: rendimento e limites — referência histórica do debate 'triar ou não'.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_WOOLF_1996"
+  ],
+  "id_referencia_interna": "REF_WOOLF_1996",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "42346303",
+  "titulo_artigo": "HPT Axis Dysregulation in Mood and Anxiety Disorders: The Clinical Utility of Routine Hormonal Dosing in Psychiatric In-Patients.",
+  "autores": [
+   "Toma GA",
+   "Coman E",
+   "Vasile AI",
+   "Trifu S"
+  ],
+  "revista_ano": "Diseases (2026)",
+  "desenho_estudo": "[EC] estudo transversal em internados · Diseases",
+  "secao_origem": "mecanismo_B11_triagem_internados",
+  "achado_central_molecular": "Desregulação do eixo HPT em transtornos de humor e ansiedade internados: utilidade clínica da avaliação hormonal rotineira — triagem, não diagnóstico de humor (P20).",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_TOMA_2026"
+  ],
+  "id_referencia_interna": "REF_TOMA_2026",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "31390496",
+  "titulo_artigo": "Thyroid Function Screening in Children and Adolescents With Mood and Anxiety Disorders.",
+  "autores": [
+   "Luft MJ",
+   "Aldrich SL",
+   "Poweleit E",
+   "Prows CA"
+  ],
+  "revista_ano": "J Clin Psychiatry (2019)",
+  "desenho_estudo": "[EC] série clínica pediátrica · J Clin Psychiatry",
+  "secao_origem": "mecanismo_B11_triagem_jovens",
+  "achado_central_molecular": "Triagem da função tireoidiana em crianças/adolescentes com transtornos de humor e ansiedade — rendimento baixo mas não nulo.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_LUFT_2019"
+  ],
+  "id_referencia_interna": "REF_LUFT_2019",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "34856305",
+  "titulo_artigo": "Exploring the potential of thyroid hormones to predict clinical improvements in depressive patients: A machine learning analysis of the real-world based study.",
+  "autores": [
+   "Qiao D",
+   "Liu H",
+   "Zhang X",
+   "Lei L"
+  ],
+  "revista_ano": "J Affect Disord (2022)",
+  "desenho_estudo": "[EC] coorte clínica · J Affect Disord",
+  "secao_origem": "mecanismo_B11_hormonios_predicao_resposta",
+  "achado_central_molecular": "Hormônios tireoidianos como preditores candidatos de melhora clínica em deprimidos tratados — biomarcador de resposta emergente, não validado.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_QIAO_2022"
+  ],
+  "id_referencia_interna": "REF_QIAO_2022",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "31795239",
+  "titulo_artigo": "Mood Disorders in Levothyroxine-Treated Hypothyroid Women.",
+  "autores": [
+   "Romero-Gómez B",
+   "Guerrero-Alonso P",
+   "Carmona-Torres JM",
+   "Notario-Pacheco B"
+  ],
+  "revista_ano": "Int J Environ Res Public Health (2019)",
+  "desenho_estudo": "[EC] estudo transversal comparativo · Int J Environ Res Public Health",
+  "secao_origem": "mecanismo_B11_humor_residual_lt4",
+  "achado_central_molecular": "Mulheres hipotireoideas EM TRATAMENTO com levotiroxina mantêm carga residual de ansiedade/depressão — normalizar TSH não garante eutimia (confusão por indicação).",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_ROMEROGOMEZ_2019"
+  ],
+  "id_referencia_interna": "REF_ROMEROGOMEZ_2019",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "17639255",
+  "titulo_artigo": "Subclinical hypothyroidism: psychiatric disorders and symptoms.",
+  "autores": [
+   "Almeida C",
+   "Brasil MA",
+   "Costa AJ",
+   "Reis FA"
+  ],
+  "revista_ano": "Braz J Psychiatry (2007)",
+  "desenho_estudo": "[EC] estudo transversal com entrevista (SCID) · Braz J Psychiatry",
+  "secao_origem": "mecanismo_B11_sch_prevalencia_brasil",
+  "achado_central_molecular": "SCH: prevalência de transtornos e sintomas psiquiátricos avaliados por SCID — sinal brasileiro com diagnóstico estruturado.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_ALMEIDA_2007"
+  ],
+  "id_referencia_interna": "REF_ALMEIDA_2007",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "21152840",
+  "titulo_artigo": "[Depression and anxiety symptoms in hypothyroid women].",
+  "autores": [
+   "Andrade Junior NE",
+   "Pires ML",
+   "Thuler LC"
+  ],
+  "revista_ano": "Rev Bras Ginecol Obstet (2010)",
+  "desenho_estudo": "[EC] estudo caso-controle · Rev Bras Ginecol Obstet",
+  "secao_origem": "mecanismo_B11_hipotireoidismo_sintomas",
+  "achado_central_molecular": "Sintomas de depressão e ansiedade em mulheres hipotireoideas vs controles — espelho fenomenológico clássico do fenótipo endócrino.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_ANDRADE_2010"
+  ],
+  "id_referencia_interna": "REF_ANDRADE_2010",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "32874682",
+  "titulo_artigo": "TSH and T4 Levels in a Cohort of Depressive Patients.",
+  "autores": [
+   "Costache A",
+   "Riza AL",
+   "Popescu M",
+   "Dinca ME"
+  ],
+  "revista_ano": "Curr Health Sci J (2020)",
+  "desenho_estudo": "[EC] coorte clínica de deprimidos · Curr Health Sci J",
+  "secao_origem": "mecanismo_B11_tsh_t4_deprimidos",
+  "achado_central_molecular": "TSH e T4 em coorte de pacientes depressivos — perfil hormonal na depressão como janela associativa.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_COSTACHE_2020"
+  ],
+  "id_referencia_interna": "REF_COSTACHE_2020",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "23449617",
+  "titulo_artigo": "Thyroid function and mental disorders: an insight into the complex interaction.",
+  "autores": [
+   "Kamble MT",
+   "Nandedkar PD",
+   "Dharme PV",
+   "L LS"
+  ],
+  "revista_ano": "J Clin Diagn Res (2013)",
+  "desenho_estudo": "[EC] estudo caso-controle drug-naïve · J Clin Diagn Res",
+  "secao_origem": "mecanismo_B11_t4_t3_gravidade",
+  "achado_central_molecular": "T4/T3/TSH em deprimidos drug-naïve vs controles, por gravidade (HAM-D) — gradiente dimensional associativo.",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_KAMBLE_2013"
+  ],
+  "id_referencia_interna": "REF_KAMBLE_2013",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "42074695",
+  "titulo_artigo": "Impact of Levothyroxine Treatment for Hypothyroidism on the Risk of Psychiatric Interventions in Children and Adolescents with Anxiety Disorders: A Retrospective Analysis of Data from the TriNetX Platform.",
+  "autores": [
+   "Hilmon M",
+   "Kulińska J",
+   "Krzyżanowski D",
+   "Skórkowska-Telichowska K"
+  ],
+  "revista_ano": "J Clin Med (2026)",
+  "desenho_estudo": "[EC] estudo observacional em jovens · J Clin Med",
+  "secao_origem": "mecanismo_B11_lt4_jovens_intervencoes",
+  "achado_central_molecular": "LT4 em hipotireoidismo (inclusive subclínico) de crianças/adolescentes e risco de intervenções psiquiátricas — terapia-sinal, não conduta (P20).",
+  "extrapolacao_por_analogia": "não — avaliado por título/abstract (MeSH pendente de indexação)",
+  "ids_referencia_interna": [
+   "REF_HILMON_2026"
+  ],
+  "id_referencia_interna": "REF_HILMON_2026",
+  "doi": "",
+  "claim_id_origem": "B11.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico observacional/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B11 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ }
+]

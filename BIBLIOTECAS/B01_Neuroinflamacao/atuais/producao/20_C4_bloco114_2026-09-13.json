@@ -1,0 +1,25 @@
+{
+  "data": "2026-09-13",
+  "trilha": "20",
+  "tema": "C4/AUD-052 — BLOCO_11.4",
+  "ops": [
+    {
+      "onde": "BLOCO_11.4 (ressalva do topo)",
+      "de": "Limiares numéricos e faixas de referência residem exclusivamente na Biblioteca de Biomarcadores/Exames (C-LAB)",
+      "para": "Limiares numéricos e faixas de referência residem exclusivamente na Biblioteca de Biomarcadores/Exames (C-LAB)",
+      "descricao": "declaração explícita de não-validação (sensibilidade/especificidade/VPP/VPN/falso-positivo desconhecidos)"
+    },
+    {
+      "onde": "BLOCO_11.4 (Critério C)",
+      "de": "- **Exposição a interferon/citocina exógena** com sintomas de novo — prova-de-conceito causal humana (BLOCO_06",
+      "para": "- **Exposição a interferon/citocina exógena** com sintomas de novo — prova-de-conceito causal humana (BLOCO_06",
+      "descricao": "nota de circularidade: C prediz A; não confirma; carga classificatória em A e B"
+    },
+    {
+      "onde": "BLOCO_11.4 (tabela, linha alta)",
+      "de": "O quadro é bem explicado por B1; priorizar leitura mecanística inflamatória (sempre integrada aos demais Bx)",
+      "para": "O quadro é **compatível** com leitura mecanística B1 (hipótese não validada — ver ressalva do topo e nota de c",
+      "descricao": "interpretação sem leitura circular"
+    }
+  ]
+}

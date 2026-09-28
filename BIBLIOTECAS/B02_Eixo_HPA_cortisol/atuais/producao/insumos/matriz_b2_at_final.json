@@ -1,0 +1,808 @@
+{
+ "entrantes": {
+  "15996533": {
+   "pmid": "15996533",
+   "titulo": "The stress system in the human brain in depression and neurodegeneration.",
+   "autor1": "Swaab DF",
+   "journal": "Ageing research reviews",
+   "pubdate": "2005 May",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "declarado": "Swaab, Bao & Lucassen 2005",
+   "ano": "2005",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "15996533",
+   "autores": [
+    "Swaab DF",
+    "Bao AM",
+    "Lucassen PJ"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Corticotropin-releasing hormone (CRH) plays a central role in the regulation of the hypothalamic-pituitary-adrenal (HPA)-axis, i.e., the final common pathway in the stress response. The action of CRH on ACTH release is strongly potentiated by vasopressin, that is co-produced in increasing amounts when the hypothalamic paraventricular neurons are chronically activated. Whereas vasopressin stimulates ACTH release in humans, oxytocin inhibits it. ACTH release results in the release of corticosteroids from the adrenal that, subsequently, through mineralocorticoid and glucocorticoid receptors, exert negative feedback on, among other things, the hippocampus, the pituitary and the hypothalamus. The most important glucocorticoid in humans is cortisol, present in higher levels in women than in men. During aging, the activation of the CRH neurons is modest compared to the extra activation observed in Alzheimer's disease (AD) and the even stronger increase in major depression. The HPA-axis is hyperactive in depression, due to genetic factors or due to aversive stimuli that may occur during early development or adult life. At least five interacting hypothalamic peptidergic systems are involved in the symptoms of major depression. Increased production of vasopressin in depression does not only occur in neurons that colocalize CRH, but also in neurons of the supraoptic nucleus (SON), which may lead to increased plasma levels of vasopressin, that have been related to an enhanced suicide ris",
+   "doi": "10.1016/j.arr.2005.03.003"
+  },
+  "28183380": {
+   "pmid": "28183380",
+   "titulo": "Assessment of the hypothalamic-pituitary-adrenal axis activity: glucocorticoid receptor and mineralocorticoid receptor function in depression with early life stress - a systematic review.",
+   "autor1": "Von Werne Baes C",
+   "journal": "Acta neuropsychiatrica",
+   "pubdate": "2012 Feb",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "declarado": "Baes 2012",
+   "ano": "2012",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "28183380",
+   "autores": [
+    "Von Werne Baes C",
+    "de Carvalho Tofoli SM",
+    "Martins CM",
+    "Juruena MF"
+   ],
+   "species": [],
+   "abstract": "The mechanisms involved in the dysregulation of the hypothalamic-pituitary-adrenal (HPA) axis, especially in the functioning of glucocorticoid receptor (GR) and mineralocorticoid receptor (MR) in depressed patients, are not well elucidated. The objective of this study was to conduct a systematic review of articles that assess the HPA axis activity from GR and MR in depressed patients and healthy controls with or without early life stress. We conducted a systematic review of articles in PubMed, SCOPUS and SciELO published between 2000 and 2011, using the following search terms: child abuse, depression, HPA axis, dexamethasone, prednisolone, fludrocortisone and spironolactone. Thirty-four papers were selected for this review. Most studies identified in this review used the dexamethasone/corticotropin-releasing hormone test and dexamethasone suppression test. In these studies, hypercortisolaemia was associated with depression. We identified three studies with the Prednisolone suppression test, only one study with the use of fludrocortisone and one with spironolactone. This review found nine studies that evaluated the HPA axis in individuals with early life stress. The majority of the studies assessed in this review show that early life stress leads to permanent changes in the HPA axis and may lead to development of depression in adults. The most consistent findings in the literature show increased activity of the HPA axis in depression associated with hypercortisolaemia and redu",
+   "doi": "10.1111/j.1601-5215.2011.00610.x"
+  },
+  "32203965": {
+   "pmid": "32203965",
+   "titulo": "Alterations of the HPA Axis Observed in Patients with Major Depressive Disorder and Their Relation to Early Life Stress: A Systematic Review.",
+   "autor1": "Ceruso A",
+   "journal": "Neuropsychobiology",
+   "pubdate": "2020",
+   "pubtypes": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "declarado": "Ceruso 2020",
+   "ano": "2020",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "32203965",
+   "autores": [
+    "Ceruso A",
+    "Martínez-Cengotitabengoa M",
+    "Peters-Corbett A",
+    "Diaz-Gutierrez MJ",
+    "Martínez-Cengotitabengoa M"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Alterations of the hypothalamic-pituitary-adrenal (HPA) axis are common in patients diagnosed with major depressive disorder (MDD). Nevertheless, these alterations are not found in every patient. There is evidence to indicate a possible mediating role of early life stress (ELS) in the relation between dysfunction of the HPA axis and MDD. We conducted a systematic review to understand if the alterations of the HPA axis commonly found in patients with MDD are due to early life stress or are caused by the disorder itself. The review was conducted by following the PRISMA guidelines. Original articles were found in PubMed and via a manual search. Only studies whose design allowed comparison of the HPA functioning in the 4 groups no-MDD/no-ELS, MDD/no-ELS, no-MDD/ELS, and MDD/ELS were included. Hyperactivity or hypoactivity of the HPA axis was found in 8 articles. A greater number of abnormalities and a higher rate of posttraumatic stress disorder comorbidity were found in the MDD/ELS group. Dysfunction of the HPA axis was also found in the no-MDD/ELS groups. HPA dysfunction found in MDD seems to be more related to the presence of ELS rather than to the MDD itself. Future studies are needed to clarify the exact mechanisms involved.",
+   "doi": "10.1159/000506484"
+  },
+  "23410758": {
+   "pmid": "23410758",
+   "titulo": "Dysregulated diurnal cortisol pattern is associated with glucocorticoid resistance in women with major depressive disorder.",
+   "autor1": "Jarcho MR",
+   "journal": "Biological psychology",
+   "pubdate": "2013 Apr",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "declarado": "Jarcho 2013",
+   "ano": "2013",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "23410758",
+   "autores": [
+    "Jarcho MR",
+    "Slavich GM",
+    "Tylova-Stein H",
+    "Wolkowitz OM",
+    "Burke HM"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Dysfunction of the hypothalamic-pituitary-adrenal (HPA) axis is believed to play a role in the pathophysiology of depression. To investigate mechanisms that may underlie this effect, we examined several indices of HPA axis function - specifically, diurnal cortisol slope, cortisol awakening response, and suppression of cortisol release following dexamethasone administration - in 26 pre-menopausal depressed women and 23 never depressed women who were matched for age and body mass index. Salivary cortisol samples were collected at waking, 30 min after waking, and at bedtime over three consecutive days. On the third day, immediately after the bedtime sample, participants ingested a 0.5mg dexamethasone tablet; they then collected cortisol samples at waking and 30 min after waking the following morning. As predicted, depressed women exhibited flatter diurnal cortisol rhythms and more impaired suppression of cortisol following dexamethasone administration than non-depressed women over the three sampling days. In addition, flatter diurnal cortisol slopes were associated with reduced cortisol response to dexamethasone treatment, both for all women and for depressed women when considered separately. Finally, greater self-reported depression severity was associated with flatter diurnal cortisol slopes and with less dexamethasone-related cortisol suppression for depressed women. Depression in women thus appears to be characterized by altered HPA axis functioning, as indexed by flatter di",
+   "doi": "10.1016/j.biopsycho.2013.01.018"
+  },
+  "36458076": {
+   "pmid": "36458076",
+   "titulo": "A systematic review and meta-analysis of serum and plasma cortisol levels in depressed patients versus control.",
+   "autor1": "Sahu MK",
+   "journal": "Indian journal of psychiatry",
+   "pubdate": "2022 Sep-Oct",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "declarado": "Sahu 2022",
+   "ano": "2022",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "36458076",
+   "autores": [
+    "Sahu MK",
+    "Dubey RK",
+    "Chandrakar A",
+    "Kumar M",
+    "Kumar M"
+   ],
+   "species": [],
+   "abstract": "Depression is associated with hyperactivity of the hypothalamo pituitary adrenal axis. Cortisol is a steroid hormone, released from the adrenal gland and is considered to be a biological marker of stress and anxiety. Serum or plasma cortisol levels have been previously studied in depressive patients but reported contradictory results. The present meta analysis aims to assess the serum or plasma concentration of cortisol in depressive patients compared with controls. We have conducted a systematic review with sequential meta analysis according to the Preferred Reporting Items for Systematic Reviews and Meta Analyses (PRISMA) guidelines. Web of Science, PubMed, Scopus, and PsycINFO databases, and published reference lists were searched up to January 2021. We have conducted a systematic review on PubMed for the following search (MeSH) terms (\"Hydrocortisone\"[Mesh]) AND \"Depressive Disorder\"[Mesh]). The RevMan 5.3 and Open Meta Analyst software was used with the standard mean difference (SMD) and 95% confidence intervals (CIs). The Jamovi and Open Meta Analyst Software were used to evaluate the publication bias, sensitivity analysis, and meta regression as possible sources of heterogeneity. Seventeen studies having a combined population (n) of 1400 (743 depressive patients and 657 controls) had satisfied the inclusion criteria for serum or plasma cortisol. The pooled SMD of the serum or plasma cortisol levels in depressive patients compared with controls was 1.18, (95% CI: 0.84, ",
+   "doi": "10.4103/indianjpsychiatry.indianjpsychiatry_561_21"
+  },
+  "41270487": {
+   "pmid": "41270487",
+   "titulo": "Association of endogenous hormones with major depressive disorder phenotype: A systematic review and meta-analysis of drug-free case and control cross-sectional study.",
+   "autor1": "Machahary N",
+   "journal": "Biochemical and biophysical research communications",
+   "pubdate": "2025 Dec 31",
+   "pubtypes": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+   ],
+   "declarado": "Machahary 2025",
+   "ano": "2025",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "41270487",
+   "autores": [
+    "Machahary N",
+    "Thakran S",
+    "Thampi G",
+    "Gangte N",
+    "Sood M",
+    "Kaushik M",
+    "Kukreti R"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Major Depressive Disorder (MDD) represents a major global health issue with complex and partially characterised biological foundations. In addition to the recognised hypothalamic-pituitary-adrenal (HPA) axis in stress response, there exists evidence for hypothalamic-pituitary-thyroid/gonadal (HPT/G) axis dysregulation in MDD. Addressing the prior research inconsistencies, this meta-analysis provides quantitative syntheses of evidence regarding endocrine changes in MDD. Cross-sectional studies of endogenous levels in drug-free MDD and healthy controls were included. Standardised difference in means (Hedge's g) using a random-effects model was computed. Heterogeneity (Q-statistic, I2 index), publication bias (Egger's test, funnel plots), and robustness (sensitivity) were examined. Clinical and demographic factors were assessed in subgroup analyses. MDD patients exhibited significantly elevated cortisol levels across all measured time points (Hedges' g = 0.41 to 0.75, all p < 0.01). ACTH, β-endorphin, and norepinephrine levels were also significantly elevated, indicating HPA axis hyperactivity. Conversely, HPT axis hormones like FT3, T3, and TSH were reduced (Hedges' g = -0.32 to -0.59, all p < 0.05). HPG axis changes included decreased LH in women (Hedges' g = -0.43, p = 0.02) and elevated estradiol in men (Hedges' g = 1.51, p = 0.02). Subgroup analyses showed a diurnal cortisol rise correlating with depression severity. DHEA-S reduction was more pronounced in males. Melancholi",
+   "doi": "10.1016/j.bbrc.2025.153007"
+  },
+  "40040865": {
+   "pmid": "40040865",
+   "titulo": "Immune-neuroendocrine crosstalk in mood and psychotic disorders: A meta-analysis and systematic review.",
+   "autor1": "Van Den Noortgate M",
+   "journal": "Brain, behavior, & immunity - health",
+   "pubdate": "2025 Mar",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "declarado": "Van Den Noortgate 2025",
+   "ano": "2025",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "40040865",
+   "autores": [
+    "Van Den Noortgate M",
+    "Van Den Eede F",
+    "Coppens V",
+    "Giltay EJ",
+    "De Picker L",
+    "Morrens M"
+   ],
+   "species": [],
+   "abstract": "Bidirectional interactions between immune and neuroendocrine mechanisms are involved in mood and psychotic disorders, although individual studies report inconsistent and even contradictory findings on the nature of this crosstalk. Our objective was to perform an up to date systematic review and meta-analysis of the association between hypothalamic-pituitary-adrenal (HPA) axis and immune system functioning in mood and psychotic disorders. We searched the Pubmed, Web of Science and Embase databases for studies reporting correlations between one or more HPA- and immune markers (IM) in patients with mood or psychotic disorders. We analyzed unchallenged correlations as well as challenge studies investigating the HPA-immune interaction through dexamethasone (DEX) and/or CRH suppression, HPA-mediated challenge of immune cell proliferation, immune challenges, or psychological stressors. Finally, genetic studies focusing on HPA x immune interrelation were evaluated. For meta-analyzable data, three primary outcome measures were defined for immune functioning, namely the pro-inflammatory index (PII) and anti-inflammatory index (AII) for the molecular IM and a composite cellular immune marker score (CCIM) for the cellular IM. Secondary analyses were performed for the individual molecular and cellular IM. Heterogeneity was evaluated with the I2 statistic. Meta-regression analyses were performed to evaluate the impact of potential covariates (publication year, gender, age, symptom severity",
+   "doi": "10.1016/j.bbih.2025.100965"
+  },
+  "20047716": {
+   "pmid": "20047716",
+   "titulo": "DNA sequence variants of the FKBP5 gene are associated with unipolar depression.",
+   "autor1": "Zobel A",
+   "journal": "The international journal of neuropsychopharmacology",
+   "pubdate": "2010 Jun",
+   "pubtypes": [
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "declarado": "Zobel 2010",
+   "ano": "2010",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "20047716",
+   "autores": [
+    "Zobel A",
+    "Schuhmacher A",
+    "Jessen F",
+    "Höfels S",
+    "von Widdern O",
+    "Metten M",
+    "Pfeiffer U",
+    "Hanses C"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "FKBP5 is a glucocorticoid receptor-regulating co-chaperone of hsp-90 and, therefore, is suggested to play a role in the regulation of the hypothalamic-pituitary-adrenocortical system and the pathophysiology of depression. Previously, three studies identified single nucleotide polymorphisms (SNPs) in the FKBP5 gene associated with response to antidepressants, and one study found an association with diagnosis of depression. We selected five markers from the region of interest. A case-control sample comprising 268 German in-patients with recurrent unipolar depression, and 284 German controls recruited from the general population were available. Association of the selected FKBP5 sequence variants with clinical depression were analysed. In addition, we explored association with treatment response by (a) the Hamilton Depression Rating Scale and (b) the dexamethasone/corticotrophin-releasing hormone (Dex/CRH) test, as well as association with hippocampal volumes in a subpopulation of 110 patients. For three of the five investigated SNPs we were able to show association with the diagnosis of depression. In the subpopulation of 110 patients, diagnosis-related alleles were also associated with the reduction of cortisol secretion in the Dex/CRH test during a 4-wk treatment period, while psychopathological changes were not associated. Furthermore, diagnosis-related alleles were associated with reduction of the hippocampal volume. This study extends the replicated association of a promote",
+   "doi": "10.1017/S1461145709991155"
+  },
+  "20393453": {
+   "pmid": "20393453",
+   "titulo": "Interaction of FKBP5 with childhood adversity on risk for post-traumatic stress disorder.",
+   "autor1": "Xie P",
+   "journal": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+   "pubdate": "2010 Jul",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "declarado": "Xie 2010",
+   "ano": "2010",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "20393453",
+   "autores": [
+    "Xie P",
+    "Kranzler HR",
+    "Poling J",
+    "Stein MB",
+    "Anton RF",
+    "Farrer LA",
+    "Gelernter J"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "FKBP5 regulates the cortisol-binding affinity and nuclear translocation of the glucocorticoid receptor. Polymorphisms at the FKBP5 locus have been associated with increased recurrence risk of depressive episodes and rapid response to antidepressant treatment. A recent study showed that FKBP5 genotypes moderated the risk of post-traumatic stress disorder (PTSD) symptoms associated with childhood maltreatment. One thousand one hundred forty-three European Americans (EAs) and 1284 African Americans (AAs) recruited for studies of the genetics of substance dependence were also screened for lifetime PTSD. Four single-nucleotide polymorphisms (SNPs) in FKBP5, rs3800373, rs9296158, rs1360780, and rs9470080, were genotyped on the complete sample. Logistic regression analyses were performed to explore the interactive effect of FKBP5 polymorphisms and childhood adversity on the risk for PTSD. After correction for multiple testing, childhood adversity significantly increased the risk for PTSD. FKBP5 genotypes were not associated with the development of the disorder. In AAs, one of the SNPs, rs9470080, moderated the risk of PTSD that was associated with childhood abuse. Without childhood adverse experiences, participants with the TT genotype of this SNP had the lowest risk for PTSD, whereas they had the highest risk for PTSD after childhood adversity exposure. In addition, in EAs, alcohol dependence was observed to interact with childhood adverse experiences, and also FKBP5 polymorphisms,",
+   "doi": "10.1038/npp.2010.37"
+  },
+  "21865530": {
+   "pmid": "21865530",
+   "titulo": "Interaction of FKBP5 gene variants and adverse life events in predicting depression onset: results from a 10-year prospective community study.",
+   "autor1": "Zimmermann P",
+   "journal": "The American journal of psychiatry",
+   "pubdate": "2011 Oct",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "declarado": "Zimmermann 2011",
+   "ano": "2011",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "21865530",
+   "autores": [
+    "Zimmermann P",
+    "Brückl T",
+    "Nocon A",
+    "Pfister H",
+    "Binder EB",
+    "Uhr M",
+    "Lieb R",
+    "Moffitt TE"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "The binding protein FKBP5 is an important modulator of the function of the glucocorticoid receptor, the main receptor of the stress hormone system. This turns the FKBP5 gene into a key candidate for gene-environment interactions, which are considered critical for pathogenesis of stress-related disorders. The authors explored gene-environment interactions between FKBP5 gene variants and adverse life events in predicting the first occurrence of a major depressive episode. The analyses were based on 884 Caucasians in a 10-year prospective community study. At baseline, they were 14-24 years old and did not fulfill criteria for a major depressive episode. The DSM-IV-based Munich Composite International Diagnostic Interview was used to assess adverse life events preceding baseline and major depressive episodes during follow-up. On the basis of previous findings, five single-nucleotide polymorphisms (SNPs) within the FKBP5 gene were selected for genotyping. While the authors did not observe genetic main effects, they found interactions between the five SNPs and traumatic (but not separation) events, with the strongest effect for severe trauma. The effect of trauma on incident major depressive episodes was evident among subjects homozygous for the minor alleles but not subjects with other genotypes. The findings were replicated in the U.K. Environmental Risk Longitudinal Twin Study. These hypothesis-driven results suggest that an interaction between FKBP5 genotype and trauma is invol",
+   "doi": "10.1176/appi.ajp.2011.10111577"
+  },
+  "29182159": {
+   "pmid": "29182159",
+   "titulo": "Epigenetic Changes of FKBP5 as a Link Connecting Genetic and Environmental Risk Factors with Structural and Functional Brain Changes in Major Depression.",
+   "autor1": "Tozzi L",
+   "journal": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+   "pubdate": "2018 Apr",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "declarado": "Tozzi 2018",
+   "ano": "2018",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "29182159",
+   "autores": [
+    "Tozzi L",
+    "Farrell C",
+    "Booij L",
+    "Doolin K",
+    "Nemoda Z",
+    "Szyf M",
+    "Pomares FB",
+    "Chiarella J"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "The gene for the glucocorticoid receptor regulator FK506 binding protein 5 (FKBP5) plays a role for risk, response to treatment, and changes in brain areas in major depressive disorder (MDD). Chronic stress is associated with lower methylation of FKBP5. Our aim was to investigate whether methylation of FKBP5 reflected exposure to childhood adversity in MDD and controls and whether it was associated with structure and function of emotional processing regions. FKBP5 intron 7 GR response element region methylation and rs1360780 allelic status were assessed from whole blood in 56 MDD adults and 50 controls. Using magnetic resonance imaging, we assessed gray matter concentration of selected areas and their function during valence recognition of emotional images. Childhood adversity was investigated using the Childhood Trauma Questionnaire. In MDD patients carrying the high-risk T allele of rs1360780, lower methylation of FKBP5 was predicted by childhood adversity (F=4.95, p=0.04). In all participants, lower FKBP5 intron methylation levels were associated with reduced gray matter concentration in the inferior frontal orbital gyrus bilaterally (Wald chi-square=11.93, pFDR<0.01) and, in MDD, with its bilaterally higher activation during valence recognition (Wald chi-square=5.58, p=0.02). Activation of this region, regardless of side, was found to be lower in MDD compared to controls (Wald chi-square=3.88, p=0.049) and to be inversely correlated with depression severity (Wald chi-squa",
+   "doi": "10.1038/npp.2017.290"
+  },
+  "28850857": {
+   "pmid": "28850857",
+   "titulo": "Interaction between early-life stress and FKBP5 gene variants in major depressive disorder and post-traumatic stress disorder: A systematic review and meta-analysis.",
+   "autor1": "Wang Q",
+   "journal": "Journal of affective disorders",
+   "pubdate": "2018 Jan 1",
+   "pubtypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "declarado": "Wang 2018",
+   "ano": "2018",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "28850857",
+   "autores": [
+    "Wang Q",
+    "Shelton RC",
+    "Dwivedi Y"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Gene-environment interaction contributes to the risks of psychiatric disorders. Interactions between FKBP5 gene variants and early-life stress may enhance the risk not only for mood disorder, but also for a number of other behavioral phenotypes. The aim of the present study was to review and conduct a meta-analysis on the results from published studies examining interaction between FKBP5 gene variants and early-life stress and their associations with stress-related disorders such as major depression and PTSD. A literature search was conducted using PsychINFO and PubMed databases until May 2017. A total of 14 studies with a pooled total of 15109 participants met the inclusion criteria, the results of which were combined and a meta-analysis was performed using the differences in correlations as the effect measure. Based on literature, rs1360780, rs3800373, and rs9470080 SNPs were selected within the FKBP5 gene and systematic review was conducted. Based on the Comprehensive Meta-Analysis software, no publication bias was detected. Sensitivity analysis and credibility of meta-analysis results also indicated that the analyses were stable. The meta-analysis showed that individuals who carry T allele of rs1360780, C-allele of rs3800373 or T-allele of rs9470080 exposed to early-life trauma had higher risks for depression or PTSD. The effects of ethnicity, age, sex, and different stress measures were not examined due to limited sample size. These results provide strong evidence of int",
+   "doi": "10.1016/j.jad.2017.08.066"
+  },
+  "41849885": {
+   "pmid": "41849885",
+   "titulo": "FKBP5 splice variant alterations in the human cortex of psychiatric disorders.",
+   "autor1": "Kaul D",
+   "journal": "Journal of psychiatric research",
+   "pubdate": "2026 Jun",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "declarado": "Kaul 2026",
+   "ano": "2026",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "41849885",
+   "autores": [
+    "Kaul D",
+    "Edmond KZ",
+    "Czamara D",
+    "Martinelli S",
+    "Ködel M",
+    "Gassen NC",
+    "Tao R",
+    "Kleinman JE"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Exposure to high levels of adversity, such as maltreatment or geopolitical conflict, is a robust risk factor for severe psychiatric illness and is often associated with reduced treatment efficacy. The glucocorticoid receptor co-chaperone FK506 Binding Protein 51 (FKBP51), encoded by FKBP5 (chromosome 6p21.31), is a key regulator of the cortisol-induced stress response and a potential therapeutic target for stress-related psychiatric disorders. FKBP5 induction is moderated by a complex interplay of clinically relevant features including age and genotype, however, little is known about the role of mRNA splicing and the resulting protein isoforms in the human brain. Here, we characterise the expression profiles of three minor FKBP5 transcript variants (variants 2-4) in a large cohort of postmortem human brain samples from the dorsolateral prefrontal cortex of individuals who lived with a major psychiatric disorder (schizophrenia/major depressive disorder/bipolar disorder; n = 329) and controls (n = 231). Overall, expression of variant 3 (encoding full-length FKBP51) and variant 4 (encoding truncated FKBP51) showed the same neurotypical ageing trajectory as variant 1, while the lowly expressed variant 2 (encoding full-length FKBP51) showed no association with ageing past adolescence. In individuals with schizophrenia and major depressive disorder, we found increased expression of the same variants which may be partly moderated by genotype, given rs1360780 risk allele carriers had",
+   "doi": "10.1016/j.jpsychires.2026.03.016"
+  },
+  "40578604": {
+   "pmid": "40578604",
+   "titulo": "FKBP5 deficiency selectively impairs NMDAR-dependent long-term depression via enhanced calcineurin activity: Implications for stress resilience.",
+   "autor1": "Zhang S",
+   "journal": "Progress in neurobiology",
+   "pubdate": "2025 Aug",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "declarado": "Zhang 2025",
+   "ano": "2025",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "40578604",
+   "autores": [
+    "Zhang S",
+    "Jeon YJ",
+    "Han JS",
+    "Park H",
+    "Chung C"
+   ],
+   "species": [
+    "Animals"
+   ],
+   "abstract": "The co-chaperone FK506 binding protein 51 (FKBP5) is known to negatively regulate glucocorticoid receptors (GRs), and its genetic polymorphisms have been implicated in stress resilience in clinical studies. FKBP5-deficient animals are known to exhibit stress resilience, but minimal alterations in synaptic transmission were observed in the hippocampus. Given the crucial role of the hippocampus in GR regulation, we investigated the function of FKBP5 in the bidirectional synaptic plasticity in the hippocampus of male mice and found intact long-term potentiation (LTP) induction even in the absence of FKBP5. Furthermore, GR activation by corticosterone incubation blocked the LTP induction in controls but not in FKBP5 knockout (KO) mice. Interestingly, low-frequency stimulation (LFS) -induced long-term depression (LTD) was selectively impaired in male KO mice. Importantly, impaired LTD in KO mice was mediated by increased calcineurin expression, highlighting the importance of FKBP5 in regulating synaptic plasticity through its interaction with GR and calcineurin. Further research on the FKBP5-related signaling pathways may provide insights into the molecular mechanisms underlying stress resilience and potential therapeutic targets for psychiatric disorders associated with stress dysregulation.",
+   "doi": "10.1016/j.pneurobio.2025.102801"
+  },
+  "37078436": {
+   "pmid": "37078436",
+   "titulo": "Hypothalamic corticotrophin releasing hormone neurons in stress-induced psychopathology: Revaluation of synaptic contributions.",
+   "autor1": "Stanton LM",
+   "journal": "Journal of neuroendocrinology",
+   "pubdate": "2023 Apr",
+   "pubtypes": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "declarado": "Stanton 2023",
+   "ano": "2023",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "37078436",
+   "autores": [
+    "Stanton LM",
+    "Price AJ",
+    "Manning EE"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Stress has a strong influence on mental health around the world. Decades of research has sought to identify mechanisms through which stress contributes to psychiatric disorders such as depression, to potentially guide the development of therapeutics targeting stress systems. The hypothalamic pituitary adrenal (HPA) axis is the key endocrine system that is responsible for coordinating body-wide changes that are necessary for survival under stress, and much of the research aimed at understanding the mechanisms by which stress contributes to depression has focussed on HPA axis dysfunction. Corticotrophin releasing hormone (CRH) neurons in the paraventricular nucleus of the hypothalamus (PVN) sit at the apex of the HPA axis, integrating signals relevant to stress and external threats, to ensure HPA axis activity is appropriate for the given context. In addition to this, emerging research has demonstrated that neural activity in PVNCRH neurons regulates stress related behaviours via modulation of downstream synaptic targets. This review will summarize convergent evidence from preclinical studies on chronic stress and clinical research in mood disorders demonstrating changes in PVNCRH neural function, consider how this may influence synaptic targets of PVNCRH neurons, and discuss the potential role of these PVNCRH synaptic pathways in the development of maladaptive behaviours following chronic stress that are relevant to depression. We will also highlight important questions for fu",
+   "doi": "10.1111/jne.13268"
+  },
+  "41935803": {
+   "pmid": "41935803",
+   "titulo": "Beyond the HPA axis: Synaptic circuits of PVN(CRH) neurons in stress-related psychiatric disorders.",
+   "autor1": "Zheng J",
+   "journal": "Pharmacological research",
+   "pubdate": "2026 May",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "declarado": "Zheng 2026",
+   "ano": "2026",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "41935803",
+   "autores": [
+    "Zheng J",
+    "Yue N",
+    "Tian Z",
+    "Yu J",
+    "Li B"
+   ],
+   "species": [
+    "Animals",
+    "Humans"
+   ],
+   "abstract": "Chronic psychosocial stress is a major risk factor for anxiety, depression and related disorders, yet a hypothalamic-pituitary-adrenal (HPA) axis centric framework alone is insufficient to explain stress-induced vulnerability and phenotypic heterogeneity. Paraventricular nucleus corticotropin-releasing hormone (PVNCRH) neurons are classically regarded as the neuroendocrine entry point for driving glucocorticoid secretion. However, accumulating evidence indicates that, beyond this endocrine role, they also use fast transmitters and CRH co-transmission to form functional projections to diverse brain regions and pre-sympathetic circuits, thereby regulating stress dimensions that extend beyond HPA axis output, including defensive behaviors, reward and motivation, arousal-sleep regulation, autonomic output and glucose homeostasis. In this review, we integrate anatomical, electrophysiological, and behavioral evidence across representative PVNCRH pathways, compare their stress-related functional specialization and shared mechanisms across synaptic and endocrine timescales, and discuss translational implications for circuit-informed pharmacological and neuromodulatory strategies in stress-related psychiatric disorders.",
+   "doi": "10.1016/j.phrs.2026.108179"
+  },
+  "19008333": {
+   "pmid": "19008333",
+   "titulo": "Blockade of the V(1b) receptor reduces ACTH, but not corticosterone secretion induced by stress without affecting basal hypothalamic-pituitary-adrenal axis activity.",
+   "autor1": "Spiga F",
+   "journal": "The Journal of endocrinology",
+   "pubdate": "2009 Mar",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "declarado": "Spiga 2009",
+   "ano": "2009",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "19008333",
+   "autores": [
+    "Spiga F",
+    "Harrison LR",
+    "Wood S",
+    "Knight DM",
+    "MacSweeney CP",
+    "Thomson F",
+    "Craighead M",
+    "Lightman SL"
+   ],
+   "species": [
+    "Animals"
+   ],
+   "abstract": "Vasopressin (AVP), produced in parvocellular neurons of the hypothalamic paraventricular nucleus, regulates, together with CRH, pituitary ACTH secretion. The pituitary actions of AVP are mediated through the G protein receptor V(1b) (V(1b)|R). In man, hyperactivity of the hypothalamic-pituitary-adrenal axis has been associated with depression and other stress-related conditions. There are also clinical data suggesting a role for AVP in the dysfunctional HPA axis described in some depressed patients. In this study, we have investigated the effect of a recently synthesised selective antagonist of the V(1b)R both on exogenous AVP-induced ACTH and corticosterone secretion, and on basal and stress-induced pituitary-adrenal activity. Adult male Sprague-Dawley rats treated with the V(1b)R antagonist (Org, 30 mg/kg, s.c.) or vehicle (5% mulgofen in 0.9% saline, 2 ml/kg, s.c.). We found that blockade of the V(1b)R reduced the increase in both ACTH and corticosterone secretion induced by AVP (100 ng, i.v.). The same treatment had no effect either on basal ACTH and corticosterone levels or on the ultradian or diurnal rhythms of corticosterone secretion. Acute administration of the V(1b)R antagonist reduced ACTH secretion following both restraint and lipopolysaccharide, but did not antagonise the ACTH response to noise. The same treatment did not reduce corticosterone secretion in response to any of the three stressors used in this study. Our results confirm that this compound is an anta",
+   "doi": "10.1677/JOE-08-0421"
+  },
+  "34566653": {
+   "pmid": "34566653",
+   "titulo": "Efficacy of Treatments Targeting Hypothalamic-Pituitary-Adrenal Systems for Major Depressive Disorder: A Meta-Analysis.",
+   "autor1": "Ding Y",
+   "journal": "Frontiers in pharmacology",
+   "pubdate": "2021",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "declarado": "meta HPA-treatments",
+   "ano": "2021",
+   "rotulo_confere": false,
+   "ja_na_b2": false,
+   "pmid_final": "34566653",
+   "autores": [
+    "Ding Y",
+    "Wei Z",
+    "Yan H",
+    "Guo W"
+   ],
+   "species": [],
+   "abstract": "Abnormal hypothalamic-pituitary-adrenal (HPA) axis has been implicated in major depressive disorder (MDD). A number of studies have attempted to use HPA-modulating medications to treat depression. However, their results are inconsistent. The efficacy of these drugs for MDD remains uncertain. The aims of this meta-analysis were to determine the effect and safety profile of HPA-targeting medications for MDD. World of Science and PubMed databases were comprehensively searched up to March 2021. All randomized controlled trials (RCTs) and open-label trials exploring antiglucocorticoid and related medications in patients with depression were included. Standardized mean differences (SMDs) and risk ratios (RRs) with 95% confidence intervals (CIs) were calculated for continuous or dichotomous outcomes, respectively. In the meta-analysis, we identified 16 RCTs and seven open-label studies that included 2972 subjects. Pooling the change data that assessed the efficacy across all included HPA-targeting medications for depression showed a significant difference between interventions and controls with very small heterogeneity after influence analysis (SMD = 0.138, 95%CI = 0.052, 0.224, p = 0.002; I2 = 20.7%, p = 0.212). No obvious publication bias was observed (p = 0.127). Effectiveness remained significant in patients with MDD (SMD = 0.136, 95%CI = 0.049, 0.223, p = 0.002). Subgroup analysis showed a significant difference favoring mifepristone and vasopressin 1B (V1B) receptor antagonist",
+   "doi": "10.3389/fphar.2021.732157"
+  },
+  "26563991": {
+   "pmid": "26563991",
+   "titulo": "Assessment of the cortisol awakening response: Expert consensus guidelines.",
+   "autor1": "Stalder T",
+   "journal": "Psychoneuroendocrinology",
+   "pubdate": "2016 Jan",
+   "pubtypes": [
+    "Journal Article",
+    "Review",
+    "Consensus Statement"
+   ],
+   "declarado": "Stalder 2016",
+   "ano": "2016",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "26563991",
+   "autores": [
+    "Stalder T",
+    "Kirschbaum C",
+    "Kudielka BM",
+    "Adam EK",
+    "Pruessner JC",
+    "Wüst S",
+    "Dockray S",
+    "Smyth N"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "The cortisol awakening response (CAR), the marked increase in cortisol secretion over the first 30-45 min after morning awakening, has been related to a wide range of psychosocial, physical and mental health parameters, making it a key variable for psychoneuroendocrinological research. The CAR is typically assessed from self-collection of saliva samples within the domestic setting. While this confers ecological validity, it lacks direct researcher oversight which can be problematic as the validity of CAR measurement critically relies on participants closely following a timed sampling schedule, beginning with the moment of awakening. Researchers assessing the CAR thus need to take important steps to maximize and monitor saliva sampling accuracy as well as consider a range of other relevant methodological factors. To promote best practice of future research in this field, the International Society of Psychoneuroendocrinology initiated an expert panel charged with (i) summarizing relevant evidence and collective experience on methodological factors affecting CAR assessment and (ii) formulating clear consensus guidelines for future research. The present report summarizes the results of this undertaking. Consensus guidelines are presented on central aspects of CAR assessment, including objective control of sampling accuracy/adherence, participant instructions, covariate accounting, sampling protocols, quantification strategies as well as reporting and interpreting of CAR data. Mee",
+   "doi": "10.1016/j.psyneuen.2015.10.010"
+  },
+  "38308964": {
+   "pmid": "38308964",
+   "titulo": "Associations of diurnal cortisol parameters with cortisol stress reactivity and recovery: A systematic review and meta-analysis.",
+   "autor1": "Wesarg-Menzel C",
+   "journal": "Psychoneuroendocrinology",
+   "pubdate": "2024 May",
+   "pubtypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "declarado": "Wesarg-Menzel 2024",
+   "ano": "2024",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "38308964",
+   "autores": [
+    "Wesarg-Menzel C",
+    "Marheinecke R",
+    "Staaks J",
+    "Engert V"
+   ],
+   "species": [],
+   "abstract": "Researchers commonly assess the functioning of the hypothalamic-pituitary-adrenal (HPA) axis by measuring natural fluctuations of its end product cortisol throughout the day or in response to a standardized stressor. Although it is conceivable that an individual releasing relatively more cortisol when confronted with a laboratory stressor does the same in everyday life, inconsistencies remain in the literature regarding associations between diurnal cortisol parameters and cortisol stress responses. Hence, the current meta-analysis aggregated findings of 12 studies to examine overall associations of diurnal cortisol parameters (including total output, diurnal slope, and cortisol awakening response [CAR]) with cortisol stress reactivity and recovery in the Trier Social Stress Test (TSST). There were no significant overall associations of total output, slope, or CAR with stress reactivity. Lower total diurnal cortisol output was significantly related to better stress recovery, whereas diurnal slope and CAR were unrelated to stress recovery. Moderation analyses revealed that associations between diurnal cortisol and cortisol stress responses were dependent on the computation method of cortisol parameters, questioning the convergence and validity of commonly employed measures of stress reactivity and recovery. Overall, it seems that we cannot predict characteristics of the diurnal cortisol rhythm from a one-time measure of stress reactivity in a standardized psychosocial laborator",
+   "doi": "10.1016/j.psyneuen.2024.106976"
+  },
+  "32276241": {
+   "pmid": "32276241",
+   "titulo": "Association between hair cortisol and diurnal basal cortisol levels: A 30-day validation study.",
+   "autor1": "Sugaya N",
+   "journal": "Psychoneuroendocrinology",
+   "pubdate": "2020 Jun",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Validation Study"
+   ],
+   "declarado": "Sugaya 2020",
+   "ano": "2020",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "32276241",
+   "autores": [
+    "Sugaya N",
+    "Izawa S",
+    "Ogawa N",
+    "Shirotsuki K",
+    "Nomura S"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "This study aimed to validate the association between hair cortisol and 30-day integrated salivary cortisol levels. Additionally, the intra-individual stability of the hair cortisol and the association between hair cortisol and salivary cortisol in several time domains were systematically explored. Twenty-four adults (15 men and 9 women, mean age: 22.7 ± 2.8 years) were asked to collect three saliva samples per day for 30 days, immediately after awakening (time 1), 30 min after awakening (time 2), and at bedtime (time 3). The hair sample was taken from the posterior vertex as close as possible to the scalp at the end of the 30-day study period. The area under the curve based on times 1 and 3 showed that cortisol levels in the 1 cm hair segment closest to the scalp were moderately correlated with the 30-day salivary cortisol levels (r = 0.41, p = 0.047). However, this correlation was not observed for the cortisol awakening response, diurnal slope, or other metrics in different time domains. The mean salivary cortisol at time 3 was significantly correlated with hair cortisol (r = 0.42, p = 0.041). Intra-individual stability of the hair cortisol was maintained for at least 4 months. Hair cortisol may reflect basal cortisol levels more substantially over longer periods (longer than 1 month and for at least 4 month), thus reflecting longitudinal cortisol production, rather than the day-to-day temporal cortisol response. Salivary cortisol is an ideal metric for short-term or day-to-",
+   "doi": "10.1016/j.psyneuen.2020.104650"
+  },
+  "42009273": {
+   "pmid": "42009273",
+   "titulo": "Human DNA methylation and the cortisol response to an acute psychological stressor: A systematic review and meta-analysis.",
+   "autor1": "Balfour D",
+   "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+   "pubdate": "2026 Apr 2",
+   "pubtypes": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+   ],
+   "declarado": "Balfour 2026",
+   "ano": "2026",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "42009273",
+   "autores": [
+    "Balfour D",
+    "Kleinig Z",
+    "Mittinty M",
+    "Cohen-Woods S"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "The hypothalamic-pituitary-adrenal axis (HPA axis) is an important part of the stress response. The HPA axis may adapt to the environment in part through epigenetics, including DNA methylation. This pre-registered (OSF), PRISMA-compliant systematic review and meta-analysis aimed to evaluate the level of evidence for an association between DNA methylation and the cortisol response to an acute psychological stressor, a key marker of HPA axis function, in humans. PsycINFO, MEDLINE, Scopus, and Web of Science were searched on the 1st of September 2025 and risk of bias was evaluated using an original rubric. Thirty-nine studies were included, with mixed results. Meta-analyses revealed support for an association between NR3C1 methylation and a stronger cortisol response in infants (r = 0.26, p = .01), but not other age groups (r = -0.01, p = . 85). There was some tentative evidence for an association between SLC6A4 methylation and a weaker cortisol response (r = -0.15, p = .056), but the effect was not significant. There was preliminary (non-meta-analytic) support for LEP, NR3C2, OXTR, and SKA2. The evidence to date must be considered low certainty, due to a combination of small sample sizes, incomplete reporting, substantial methodological and conceptual heterogeneity, a high likelihood of residual confounding, and a reliance on outdated and unreliable candidate gene methods. Given the low certainty of the evidence, it is not yet possible to draw any strong conclusions. Directions",
+   "doi": "10.1016/j.pnpbp.2026.111708"
+  },
+  "36624454": {
+   "pmid": "36624454",
+   "titulo": "CRHR1 antagonist alleviates LPS-induced depression-like behaviour in mice.",
+   "autor1": "Sun J",
+   "journal": "BMC psychiatry",
+   "pubdate": "2023 Jan 9",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "declarado": "Sun 2023",
+   "ano": "2023",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "36624454",
+   "autores": [
+    "Sun J",
+    "Qiu L",
+    "Zhang H",
+    "Zhou Z",
+    "Ju L",
+    "Yang J"
+   ],
+   "species": [
+    "Animals"
+   ],
+   "abstract": "Maladaptation of the HPA (hypothalamic-pituitary-adrenal) axis plays an important role in depression-like behaviour, but the specific molecular mechanisms are unknown. Here, we determined the roles of CRHR1 (corticotrophin releasing hormone receptor 1) and nectin3 in LPS (lipopolysaccharide)-induced depression-like behaviour in mice. C57BL/6 male mice were intraperitoneally injected with LPS (0.83 g/kg), and the open field, novelty-suppressed feeding, forced swimming, and tail suspension tests were performed after intraperitoneal injections of saline or antalarmin (20 mg/kg). The hippocampal mRNA levels of CRHR1 and nectin3 were determined by quantitative reverse transcription-PCR. The hippocampal protein levels of CRHR1, nectin3, and calbindin were measured by western blotting. The CORT (corticosterone) levels in the blood were measured by ELISA kits. Antalarmin alleviated LPS-induced depression-like behaviour in male mice. Furthermore, antalarmin significantly inhibited changes in CRHR1, nectin3 and calbindin levels in the hippocampus and reduced the increase in CORT levels in LPS-treated mice. CRHR1antagonist showed antidepressant effects in LPS-induced depressive mice, and CRHR1/nectin3 signalling may play a crucial role in this process.",
+   "doi": "10.1111/j.1749-6632.2009.04983.x"
+  },
+  "19545546": {
+   "pmid": "19545546",
+   "titulo": "Modulation of glucocorticoid receptor nuclear translocation in neurons by immunophilins FKBP51 and FKBP52: implications for major depressive disorder.",
+   "autor1": "Tatro ET",
+   "journal": "Brain research",
+   "pubdate": "2009 Aug 25",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "declarado": "Tatro 2009",
+   "ano": "2009",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "19545546",
+   "autores": [
+    "Tatro ET",
+    "Everall IP",
+    "Kaul M",
+    "Achim CL"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Mood disorders associated with dysfunction of the hypothalamic-pituitary-adrenal (HPA) axis are common psychiatric conditions. The glucocorticoid receptor (GR) is a steroid-activated nuclear receptor that, upon binding to cortisol, translocates to the nucleus where it targets genes related to neuronal metabolism and plasticity. In patients suffering from major depressive disorder (MDD), hypercortisolemia is a common finding. In the current study we investigated the molecular events associated with the FK506 binding proteins (FKBP) -52 and -51 response to cortisol exposure in neuronal cell cultures and their effect on GR translocation. We noted that FK506 altered nuclear localization of the GR and inhibited expression of GR-responsive genes. Furthermore, siRNA knockdown of FKBP4 gene, coding for the immunophilin FKBP52, inhibited cortisol-activated GR nuclear translocation, while knockdown of FKBP5, coding for immunophilin FKBP51, was associated with increased baseline GR nuclear localization. We propose that immunophilins are modulators of the cortisol-HPA axis response to stress and related chronic brain disorders.",
+   "doi": "10.1016/j.brainres.2009.06.036"
+  },
+  "34901719": {
+   "pmid": "34901719",
+   "titulo": "The role of the corticotropin-releasing hormone and its receptors in the regulation of stress response.",
+   "autor1": "Sukhareva EV",
+   "journal": "Vavilovskii zhurnal genetiki i selektsii",
+   "pubdate": "2021 Mar",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "declarado": "Sukhareva 2021",
+   "ano": "2021",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "34901719",
+   "autores": [
+    "Sukhareva EV"
+   ],
+   "species": [],
+   "abstract": "Stress is an essential part of everyday life. The neuropeptide corticotropin-releasing hormone (CRH, also called CRF and corticoliberin) plays a key role in the integration of neuroendocrine, autonomic and behavioral responses to stress. The activation of the hypothalamic-pituitary-adrenal axis (HPA axis) by neurons of the paraventricular hypothalamic nucleus (PVN), the primary site of synthesis CRH, triggers stress reactions. In addition to the hypothalamus, CRH is widespread in extrahypothalamic brain structures, where it functions as a neuromodulator for coordination and interaction between the humoral and behavioral aspects of a stress response. The axons of neurons expressing CRH are directed to various structures of the brain, where the neuropeptide interacts with specific receptors (CRHR1, CRHR2) and can affect various mediator systems that work together to transmit signals to different brain regions to cause many reactions to stress. Moreover, the effect of stress on brain functions varies from behavioral adaptation to increased survival and increased risk of developing mental disorders. Disturbances of the CRH system regulation are directly related to such disorders: mental pathologies (depression, anxiety, addictions), deviations of neuroendocrinological functions, inflammation, as well as the onset and development of neurodegenerative diseases such as Alzheimer's disease. In addition, the role of CRH as a regulator of the neurons structure in the areas of the devel",
+   "doi": "10.18699/VJ21.025"
+  },
+  "34920399": {
+   "pmid": "34920399",
+   "titulo": "Cortisol and development of depression in adolescence and young adulthood - a systematic review and meta-analysis.",
+   "autor1": "Zajkowska Z",
+   "journal": "Psychoneuroendocrinology",
+   "pubdate": "2022 Feb",
+   "pubtypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+   ],
+   "declarado": "Zajkowska 2021",
+   "ano": "2022",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "34920399",
+   "autores": [
+    "Zajkowska Z",
+    "Gullett N",
+    "Walsh A",
+    "Zonca V",
+    "Pedersen GA",
+    "Souza L",
+    "Kieling C",
+    "Fisher HL"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Dysregulation of the hypothalamic-pituitary-adrenal (HPA) axis has been implicated in the development of major depressive disorder (MDD) in adulthood. Less work has focused on the role of the HPA axis in depression in adolescence and young adulthood globally. The aim of this study was to conduct a systematic review and meta-analysis of worldwide research investigating the relationship between cortisol, a measure of HPA axis activity, and MDD in adolescence and young adulthood. We searched MEDLINE, PsycINFO, Cochrane Database of Systematic Reviews, Web of Science, Lilacs, African Journals Online, and Global Health for studies which examined the relationship between cortisol and MDD in global youth (10-24 years old). Twenty-six studies were included in the systematic review and 14 were eligible for the meta-analysis, but only one study included young adults in their sample. Results from the meta-analysis demonstrated that elevated morning, but not evening, cortisol levels was prospectively associated with later MDD development in adolescence and young adulthood. However, morning cortisol levels did not significantly differ between healthy controls and individuals with MDD in cross-sectional studies. Afternoon cortisol and cortisol stress response also did not differ between adolescents with MDD and healthy controls. Qualitative synthesis of the three studies examining nocturnal cortisol showed higher nocturnal cortisol was both longitudinally and cross-sectionally associated wi",
+   "doi": "10.1016/j.psyneuen.2021.105625"
+  },
+  "31499391": {
+   "pmid": "31499391",
+   "titulo": "Baseline cortisol and the efficacy of antiglucocorticoid treatment in mood disorders: A meta-analysis.",
+   "autor1": "Lombardo G",
+   "journal": "Psychoneuroendocrinology",
+   "pubdate": "2019 Dec",
+   "pubtypes": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+   ],
+   "declarado": "Lombardo 2019",
+   "ano": "2019",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "31499391",
+   "autores": [
+    "Lombardo G",
+    "Enache D",
+    "Gianotti L",
+    "Schatzberg AF",
+    "Young AH",
+    "Pariante CM",
+    "Mondelli V"
+   ],
+   "species": [
+    "Humans"
+   ],
+   "abstract": "Hyperactivity of the Hypothalamic-Pituitary-Adrenal (HPA) axis and high cortisol levels have been widely reported in patients with mood disorders but previous clinical trials investigating the efficacy of antiglucocorticoid treatment in this population have reported inconsistent findings. The inconsistencies among these studies may be because not all patients with mood disorders have increased HPA axis activity and therefore might not benefit from antiglucocorticoid treatment. The aim of this meta-analysis was to investigate whether baseline cortisol levels influence the efficacy of antiglucocorticoid drugs in patients with mood disorders. PubMed and Scopus databases were searched systematically up to October 2018. We included studies using metyrapone, ketoconazole or mifepristone in patients with major depressive disorder, bipolar disorder and major depressive disorder with psychotic symptoms. We tested for a difference in cortisol levels between responders (a reduction equal to or greater than 30% on depression scales following antiglucocorticoid treatment) and non-responders (a reduction of less than 30% on depression scales). We performed a meta-analysis to look specifically at differences in cortisol levels in the sample of patients treated with cortisol synthesis inhibitors (metyrapone and ketoconazole) and in those treated with glucocorticoid receptor (GR) antagonist (mifepristone). We were able to retrieve data from 11 of the 16 selected studies and to include 9 studi",
+   "doi": "10.1016/j.psyneuen.2019.104420"
+  },
+  "10.1210/endo.141.11.7767": {
+   "pmid": "11089561",
+   "titulo": "Selective activation of the hypothalamic vasopressinergic system in mice deficient for the corticotropin-releasing hormone receptor 1 is dependent on glucocorticoids.",
+   "autor1": "Müller MB",
+   "journal": "Endocrinology",
+   "pubdate": "2000 Nov",
+   "pubtypes": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "declarado": "Müller/Ller 2000 (duplicata)",
+   "ano": "2000",
+   "pmid_resolvido": "11089561",
+   "rotulo_confere": true,
+   "ja_na_b2": false,
+   "pmid_final": "11089561",
+   "autores": [
+    "Müller MB",
+    "Landgraf R",
+    "Preil J",
+    "Sillaber I",
+    "Kresse AE",
+    "Keck ME",
+    "Zimmermann S",
+    "Holsboer F"
+   ],
+   "species": [
+    "Animals"
+   ],
+   "abstract": "Deficiency of CRH receptor 1 (CRHR1) severely impairs the stress response of the hypothalamic-pituitary-adrenocortical (HPA) system and reduces anxiety-related behavior in mice. Intriguingly, in mice deficient for the CRHR1 (Crhr1-/-), basal plasma levels of ACTH are normal, suggesting the presence of compensatory mechanisms for pituitary ACTH secretion. We therefore studied the impact of the hypothalamic neuropeptides arginine vasopressin (AVP) and oxytocin (OXT) on HPA system regulation in homozygous and heterozygous Crhr1 mutants under basal and different stress conditions. Basal plasma AVP concentrations were significantly elevated in Crhr1-/- mice. AVP messenger RNA expression was increased in the paraventricular nucleus of Crhr1-/- mutants together with a marked increase in AVP-like immunoreactivity in the median eminence. Administration of an AVP V1-receptor antagonist significantly decreased basal plasma ACTH levels in mutant mice. After continuous treatment with corticosterone, plasma AVP levels in homozygous Crhr1-/- mice were indistinguishable from those in wild-type littermates, thus providing evidence that glucocorticoid deficiency is the major driving force behind compensatory activation of the vasopressinergic system in Crhr1-/- mice. Neither plasma OXT levels under several different conditions nor OXT messenger RNA expression in the paraventricular nucleus were different between the genotypes. Taken together, our data reveal a selective compensatory activation",
+   "doi": "10.1210/endo.141.11.7767"
+  }
+ }
+}

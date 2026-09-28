@@ -1,0 +1,106 @@
+{
+ "artefato_rotulo": "CANONICA v2",
+ "mecanismo_id": "mecanismo_B9_disfuncao_mitocondrial",
+ "rodada": 4,
+ "data_corte": "2026-09-09",
+ "prompt": "v4.2",
+ "pmids_total": 111,
+ "g1": {
+  "metodo": "eutils_automatico",
+  "resolvidos": 111,
+  "nao_resolvidos": 0,
+  "descartados_auditoria": [
+   "rodada [AT] GPM 2026-09-09: anexo real 165 itens (o briefing dizia 152); 161 resolvidos por DOI/eutils nesta rodada; 4 NÃO-INDEXADOS confirmados fora (Heyat 2024; Nunes 2025; Niu 2024 preprint medRxiv; Giménez-Palomo 2023); 6 EXC por malha de escopo (Khaliulin — autismo; Tomas — fadiga crônica; Rovira — diabetes; Aytaç — metanfetamina; Tian Q e Park — demência/Alzheimer); 69 BAIXO (camada B/C redundante); 7 fragilidades do briefing externo revertidas (ver decisoes_B9.md)"
+  ]
+ },
+ "g2": {
+  "eligible": 86,
+  "redirecionado_mecanistico": 25,
+  "evid_role": {
+   "review": 41,
+   "human_clinical": 42,
+   "human_experimental": 3,
+   "preclinical_mechanistic": 25
+  }
+ },
+ "g3": {
+  "vinculos_n2": 111,
+  "CONFIRMADO": 111,
+  "PARCIALMENTE_CONFIRMADO": 0,
+  "achado": "defeito mitocondrial (reserva/dinâmica/DAMP/mtDNA sob quatro lentes) bem estabelecido; causalidade forte animal [ML]; MR nulo × arquitetura compartilhada; terapia humana emergente/sinal"
+ },
+ "versao": "2.6",
+ "pipeline_versao_geracao": "2.6",
+ "corte_literatura": "busca ativa E-utilities/PubMed; corte 2026-09-09 (rodada [AT] GPM, P-7)",
+ "historico_correcoes": [
+  {
+   "data": "2026-09",
+   "campo": "geracao",
+   "erro_anterior": "—",
+   "correcao": "B9 gerada no padrão completo (Módulo 09 oficial + ledger + Contrato + exames por ID)",
+   "acao_downstream": "nenhuma"
+  },
+  {
+   "data": "2026-09-06",
+   "campo": "GPM2",
+   "erro_anterior": "GPM inicial com 28 âncoras",
+   "correcao": "adicionadas 7 novas refs validadas do GPM2 (Bodenstein/Clay-Sillivan/Giménez-Palomo/Kuang-Jeong/Kato-Kunugi/Misiewicz/Einat-Yuan); McManus e Wang rejeitados por falso-positivo",
+   "acao_downstream": "apêndice/ledger/vínculos regenerados"
+  },
+  {
+   "data": "2026-09-09",
+   "campo": "rodada_AT_GPM_B9",
+   "erro_anterior": "V1 (35 refs) sem a leva auditada do insumo externo GPM B9 (anexo 165 entradas reais — o briefing dizia 152; 47 âncoras GPM)",
+   "correcao": "auditoria ref a ref (G1 eutils 161/161; 0 falso positivo; 4 não-indexados confirmados — Heyat, Nunes, Niu preprint, Giménez-Palomo 2023; sobreposição com a V1 = 10); matriz de decisão 76 ENTRA/69 BAIXO/6 EXC; 7 fragilidades do briefing revertidas (\"Lu 2024 MR não resolvido\" — resolvido [Lu 2024: MR bidirecional NULO para mtDNA-CN × TDM/ansiedade/bipolar/esquizofrenia/TOC e reversos; sinal potencial apenas para TEA, fora do escopo]; \"Triebelhorn 2024 não localizado\" — mesmo registro, impressão 2024; \"Mańczak 2010\" — Reddy 2011 real; \"Li 2018\" — Wang 2018 real; Scaini vigente impressão 2022 — ID mantido; anos de impressão corrigidos; 10 itens do anexo fora do §3∪§6 cobertos pela auditoria); fusão V2 com 111 refs; 12 regras fundadoras B9 + inventário negativo ×10 fixados em CONTROVÉRSIAS; mtDNA lido sob quatro lentes (CN/dano/mutações/ccf-mtDNA); tríade sincronizada (pmids 111, vínculos 111, ledger 111)",
+   "acao_downstream": "portões oficiais revalidados (gate P-5, framework auditoria, checklist); P-4 adendo V2; P-6 mantido pendente"
+  }
+ ],
+ "pendencias_fase": [
+  "P-6: 2a verificação independente (avaliador cego) — AMPLIADA na rodada [AT] 2026-09-09: incluir as levas [AT] de TODAS as bibliotecas B1–B16 ao fim da rodada (16/16)"
+ ],
+ "fronteiras_editoriais": {
+  "B1": "DAMP/NLRP3",
+  "B2": "GRa/COX",
+  "B3": "ATP/PGC-1a/plasticidade",
+  "B4": "MAO/5-HT2A",
+  "B5": "NMDA/Ca2+/MAM",
+  "B6": "fonte/alvo redox",
+  "B8": "cofatores CoQ/Mg/B-vit",
+  "B15": "mitofagia/autofagia",
+  "B16": "neurogênese (ver B16)"
+ },
+ "vinculos_n2": 111,
+ "palavras_canonica": 11176,
+ "alteracoes": [
+  {
+   "data": "2026-09-11",
+   "id": "HARMONIZA-CONTRATO-2026-09-11",
+   "tipo": "harmonizacao_vocabulario_contrato",
+   "o_que": "111 status (D1); 76 assinaturas G3 (D8). Residual: ids (D9).",
+   "base": "DECISOES_HARMONIZACAO_SCHEMA_2026-09-11.md (D1–D9); trilhas producao/06_harmoniza_* e 07_ancoras_*; backups .bak datados; portões verdes"
+  },
+  {
+   "id": "DISTRIBUICAO-MOD09-MA-EC-2026-09-11",
+   "data": "2026-09-11",
+   "tipo": "metadado/reorganizacao_modulo_09 — CIENCIA NAO TOCADA (0 linhas de canônica)",
+   "lei_aplicada": "PROMPT v4.2 instrução final de geração: [MA]->02_meta_analises.json, [EC]->03_ensaios_clinicos.json; id único global (validar_auditoria.py) — distribuição especificada desde a geração, executada nesta data",
+   "mudancas": {
+    "fichas_removidas_de_01": 7,
+    "fichas_para_02_meta_analises": 7,
+    "fichas_para_03_ensaios_clinicos": 0,
+    "fichas_restantes_em_01": 104
+   },
+   "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+   "campos_de_dado_alterados": "NENHUM (id, pmid, título, achados intactos); somente casa do registro + campos de schema 09.2 (bloco_origem derivado de secao quando ausente, marcado; forca_evidencia_afirmacao replicado ou '' — vazio = dívida nomeada, nunca fabricado) + sinais_classificacao + migrado_em",
+   "dividas_nomeadas": [
+    "forca_evidencia_afirmacao vazio nas migradas sem valor prévio",
+    "conflitos tag×título [REVISAVEL]: 2",
+    "tag [EC] amplo sem sinal RCT — NÃO migrados (09.3 = RCT estrito), ratificação externa: 41"
+   ],
+   "trilha": "atuais/producao/09_distribuicao_MA_EC_B09_2026-09-11.json",
+   "changelog": "BIBLIOTECAS/CHANGELOG_GERAL.md 2026-09-11",
+   "consolidado_motor": "BIBLIOTECAS/MOTOR_CLINICO/ (evidencias_ma_serie.json, evidencias_ec_serie.json)",
+   "backups": "01/02/03*.bak_<AAAAMMDD_HHMMSS> na mesma pasta"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+  "trilha": 101,
+  "data": "2026-09-25",
+  "objeto": "minuta_como_executar_v110",
+  "minuta_sha": "4951434417f24a329d41fc31f0ec13a5d6da5e1191edde1e72e6cbe2fee4038e",
+  "total": 12,
+  "ok": 12,
+  "resultado": [
+    {
+      "id": "T1",
+      "descricao": "minuta existe; não vigente",
+      "ok": true,
+      "detalhe": {
+        "bytes": 33265
+      }
+    },
+    {
+      "id": "T2",
+      "descricao": "C-1 fechamento conjunto; frase v1.9 morta",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T3",
+      "descricao": "C-2 análises independentes; frase v1.9 morta",
+      "ok": true,
+      "detalhe": {
+        "indep": 4
+      }
+    },
+    {
+      "id": "T4",
+      "descricao": "C-3 retorno + confirmo/altero/mantenho",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T5",
+      "descricao": "C-4 factual à fonte primária",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T6",
+      "descricao": "C-5 ressalvas preservadas",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T7",
+      "descricao": "4 decisões do Contrato de Saída no fechamento",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T8",
+      "descricao": "refs: Schema-Claim v1.3 + contrato 841532da",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T9",
+      "descricao": "materialização separada + portões §8",
+      "ok": true,
+      "detalhe": {}
+    },
+    {
+      "id": "T10",
+      "descricao": "3 bases vigentes com digitais conferidas",
+      "ok": true,
+      "detalhe": {
+        "contrato": "841532da",
+        "schema": "28cbc9c7",
+        "bloco": "7db41d40",
+        "lista": "20efa89f"
+      }
+    },
+    {
+      "id": "T11",
+      "descricao": "v1.9 recebida intacta",
+      "ok": true,
+      "detalhe": {
+        "sha": "1cd90b407facee81692d668919829c9d6d5a149b1309424c6f012e26cd81f586"
+      }
+    },
+    {
+      "id": "T12",
+      "descricao": "X-1 divergência cega = funcionamento correto",
+      "ok": true,
+      "detalhe": {}
+    }
+  ]
+}

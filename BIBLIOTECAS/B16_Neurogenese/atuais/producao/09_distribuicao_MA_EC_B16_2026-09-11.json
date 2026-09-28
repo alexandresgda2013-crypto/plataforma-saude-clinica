@@ -1,0 +1,298 @@
+{
+ "acao": "09_distribuicao_MA_EC_MODULO09",
+ "data": "2026-09-11",
+ "biblioteca": "B16_Neurogenese",
+ "lei": "PROMPT_v4.2 instrução final: [MA]->02, [EC]->03; id único global (validar_auditoria.py)",
+ "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+ "contagens": {
+  "ficam_01": 289,
+  "vao_02_MA": 1,
+  "vao_03_EC": 0,
+  "conflitos": 0,
+  "tag_EC_amplo_nao_migrado": 45
+ },
+ "ids_para_02": [
+  {
+   "id": "REF_ELLIOTT_2025",
+   "pmid": "39558003",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  }
+ ],
+ "ids_para_03": [],
+ "conflitos_tag_x_titulo_REVISAVEL": [],
+ "REVISAVEL_tag_EC_amplo_sem_sinal_RCT_nao_migrado": [
+  {
+   "id": "REF_ANACKER_2011",
+   "pmid": "21483429",
+   "desenho_estudo": "[EC]",
+   "titulo": "Antidepressants increase human hippocampal neurogenesis by activating the glucocorticoid receptor"
+  },
+  {
+   "id": "REF_ANACKER_2013",
+   "pmid": "23650397",
+   "desenho_estudo": "[EC]",
+   "titulo": "Role for the kinase SGK1 in stress, depression, and glucocorticoid effects on hippocampal neurogenesis"
+  },
+  {
+   "id": "REF_BOLDRINI_2009",
+   "pmid": "19606083",
+   "desenho_estudo": "[EC]",
+   "titulo": "Antidepressants increase neural progenitor cells in the human hippocampus"
+  },
+  {
+   "id": "REF_BOLDRINI_2012",
+   "pmid": "22652019",
+   "desenho_estudo": "[EC]",
+   "titulo": "Hippocampal angiogenesis and progenitor cell proliferation are increased with antidepressant use in major depression"
+  },
+  {
+   "id": "REF_BOLDRINI_2018",
+   "pmid": "29625071",
+   "desenho_estudo": "[EC]",
+   "titulo": "Human Hippocampal Neurogenesis Persists throughout Aging"
+  },
+  {
+   "id": "REF_BORSINI_2017",
+   "pmid": "28529072",
+   "desenho_estudo": "[EC]",
+   "titulo": "Rescue of IL-1β-induced reduction of human neurogenesis by omega-3 fatty acids and antidepressants"
+  },
+  {
+   "id": "REF_BORSINI_2020",
+   "pmid": "32726406",
+   "desenho_estudo": "[EC]",
+   "titulo": "Pro- and anti-inflammatory properties of interleukin (IL6) in vitro: relevance for major depression and for human hippocampal neurogenesis"
+  },
+  {
+   "id": "REF_CHETTY_2014",
+   "pmid": "24514565",
+   "desenho_estudo": "[EC]",
+   "titulo": "Stress and glucocorticoids promote oligodendrogenesis in the adult hippocampus"
+  },
+  {
+   "id": "REF_CIPRIANI_2018",
+   "pmid": "29722804",
+   "desenho_estudo": "[EC]",
+   "titulo": "Hippocampal Radial Glial Subtypes and Their Neurogenic Potential in Human Fetuses and Healthy and Alzheimer's Disease Adults"
+  },
+  {
+   "id": "REF_DERY_2013",
+   "pmid": "23641193",
+   "desenho_estudo": "[EC]",
+   "titulo": "Adult hippocampal neurogenesis reduces memory interference in humans: opposing effects of aerobic exercise and depression"
+  },
+  {
+   "id": "REF_DISOUKY_2026",
+   "pmid": "41741649",
+   "desenho_estudo": "[EC]",
+   "titulo": "Human hippocampal neurogenesis in adulthood, ageing and Alzheimer's disease"
+  },
+  {
+   "id": "REF_DUMITRU_2025",
+   "pmid": "40608919",
+   "desenho_estudo": "[EC]",
+   "titulo": "Identification of proliferating neural progenitors in the adult human hippocampus"
+  },
+  {
+   "id": "REF_ERIKSSON_1998",
+   "pmid": "9809557",
+   "desenho_estudo": "[EC]",
+   "titulo": "Neurogenesis in the adult human hippocampus"
+  },
+  {
+   "id": "REF_FLORGARCIA_2020",
+   "pmid": "31915385",
+   "desenho_estudo": "[EC]",
+   "titulo": "Unraveling human adult hippocampal neurogenesis"
+  },
+  {
+   "id": "REF_GBYL_2021",
+   "pmid": "32730916",
+   "desenho_estudo": "[EC]",
+   "titulo": "Volume of hippocampal subregions and clinical improvement following electroconvulsive therapy in patients with depression"
+  },
+  {
+   "id": "REF_GRUPE_2022",
+   "pmid": "35859546",
+   "desenho_estudo": "[EC]",
+   "titulo": "Perceived stress associations with hippocampal-dependent behavior and hippocampal subfield volume"
+  },
+  {
+   "id": "REF_JORGENSEN_2016",
+   "pmid": "26138003",
+   "desenho_estudo": "[EC]",
+   "titulo": "Regional brain volumes, diffusivity, and metabolite changes after electroconvulsive therapy for severe depression"
+  },
+  {
+   "id": "REF_KNOTH_2010",
+   "pmid": "20126454",
+   "desenho_estudo": "[EC]",
+   "titulo": "Murine features of neurogenesis in the human hippocampus across the lifespan from 0 to 100 years"
+  },
+  {
+   "id": "REF_KOCH_2021",
+   "pmid": "33479507",
+   "desenho_estudo": "[EC]",
+   "titulo": "Larger dentate gyrus volume as predisposing resilience factor for the development of trauma-related symptoms"
+  },
+  {
+   "id": "REF_LE_2025",
+   "pmid": "40199994",
+   "desenho_estudo": "[EC]",
+   "titulo": "Hippocampal microstructural changes following electroconvulsive therapy in severe depression"
+  },
+  {
+   "id": "REF_LUPINSKY_2025",
+   "pmid": "39984680",
+   "desenho_estudo": "[EC]",
+   "titulo": "Resting-state fMRI reveals altered functional connectivity associated with resilience and susceptibility to chronic social defeat stress in "
+  },
+  {
+   "id": "REF_MAHAR_2017",
+   "pmid": "28675388",
+   "desenho_estudo": "[EC]",
+   "titulo": "Disrupted hippocampal neuregulin-1/ErbB3 signaling and dentate gyrus granule cell alterations in suicide"
+  },
+  {
+   "id": "REF_MANDAL_2024",
+   "pmid": "39297528",
+   "desenho_estudo": "[EC]",
+   "titulo": "Ketamine Prevents Inflammation-Induced Reduction of Human Hippocampal Neurogenesis via Inhibiting the Production of Neurotoxic Metabolites o"
+  },
+  {
+   "id": "REF_MARQUEZVALADEZ_2025",
+   "pmid": "40957417",
+   "desenho_estudo": "[EC]",
+   "titulo": "Human adult hippocampal neurogenesis is shaped by neuropsychiatric disorders, demographics, and lifestyle-related factors"
+  },
+  {
+   "id": "REF_MIKOLAS_2019",
+   "pmid": "30986730",
+   "desenho_estudo": "[EC]",
+   "titulo": "Effects of early life adversity and FKBP5 genotype on hippocampal subfields volume in major depression"
+  },
+  {
+   "id": "REF_MORENOJIMENEZ_2019",
+   "pmid": "30911133",
+   "desenho_estudo": "[EC]",
+   "titulo": "Adult hippocampal neurogenesis is abundant in neurologically healthy subjects and drops sharply in patients with Alzheimer's disease"
+  },
+  {
+   "id": "REF_MORENOJIMENEZ_2021",
+   "pmid": "33762406",
+   "desenho_estudo": "[EC]",
+   "titulo": "Evidences for Adult Hippocampal Neurogenesis in Humans"
+  },
+  {
+   "id": "REF_NUNINGA_2020",
+   "pmid": "32360430",
+   "desenho_estudo": "[EC]",
+   "titulo": "Vasogenic edema versus neuroplasticity as neural correlates of hippocampal volume increase following electroconvulsive therapy"
+  },
+  {
+   "id": "REF_NUNINGA_2020b",
+   "pmid": "30867562",
+   "desenho_estudo": "[EC]",
+   "titulo": "Volume increase in the dentate gyrus after electroconvulsive therapy in depressed patients as measured with 7T"
+  },
+  {
+   "id": "REF_PENG_2026",
+   "pmid": "42629468",
+   "desenho_estudo": "[EC]",
+   "titulo": "Dysregulated adult hippocampal neurogenesis in major depressive disorder"
+  },
+  {
+   "id": "REF_REIF_2006",
+   "pmid": "16415915",
+   "desenho_estudo": "[EC]",
+   "titulo": "Neural stem cell proliferation is decreased in schizophrenia, but not in depression"
+  },
+  {
+   "id": "REF_SCHOENFELD_2017",
+   "pmid": "28629541",
+   "desenho_estudo": "[EC]",
+   "titulo": "Stress and Loss of Adult Neurogenesis Differentially Reduce Hippocampal Volume"
+  },
+  {
+   "id": "REF_SIMARD_2024",
+   "pmid": "39414359",
+   "desenho_estudo": "[EC]",
+   "titulo": "Spatial transcriptomic analysis of adult hippocampal neurogenesis in the human brain"
+  },
+  {
+   "id": "REF_SMEETH_2021",
+   "pmid": "31930958",
+   "desenho_estudo": "[EC]",
+   "titulo": "Prolactin, Estradiol and Testosterone Differentially Impact Human Hippocampal Neurogenesis in an In Vitro Model"
+  },
+  {
+   "id": "REF_SORRELLS_2018",
+   "pmid": "29513649",
+   "desenho_estudo": "[EC]",
+   "titulo": "Human hippocampal neurogenesis drops sharply in children to undetectable levels in adults"
+  },
+  {
+   "id": "REF_SORRELLS_2021",
+   "pmid": "33762407",
+   "desenho_estudo": "[EC]",
+   "titulo": "Positive Controls in Adults and Children Support That Very Few, If Any, New Neurons Are Born in the Adult Human Hippocampus"
+  },
+  {
+   "id": "REF_SPALDING_2013",
+   "pmid": "23746839",
+   "desenho_estudo": "[EC]",
+   "titulo": "Dynamics of hippocampal neurogenesis in adult humans"
+  },
+  {
+   "id": "REF_TAKAMIYA_2019",
+   "pmid": "30622299",
+   "desenho_estudo": "[EC]",
+   "titulo": "Acute and long-term effects of electroconvulsive therapy on human dentate gyrus"
+  },
+  {
+   "id": "REF_TERREROSRONCAL_2021",
+   "pmid": "34672693",
+   "desenho_estudo": "[EC]",
+   "titulo": "Impact of neurodegenerative diseases on human adult hippocampal neurogenesis"
+  },
+  {
+   "id": "REF_THOMAS_2007",
+   "pmid": "17360895",
+   "desenho_estudo": "[EC]",
+   "titulo": "Acute psychosocial stress reduces cell survival in adult hippocampal neurogenesis without altering proliferation"
+  },
+  {
+   "id": "REF_TOBIN_2019",
+   "pmid": "31130513",
+   "desenho_estudo": "[EC]",
+   "titulo": "Human Hippocampal Neurogenesis Persists in Aged Adults and Alzheimer's Disease Patients"
+  },
+  {
+   "id": "REF_TOSONI_2023",
+   "pmid": "37015226",
+   "desenho_estudo": "[EC]",
+   "titulo": "Mapping human adult hippocampal neurogenesis with single-cell transcriptomics: Reconciling controversy or fueling the debate?"
+  },
+  {
+   "id": "REF_TRAVIS_2015",
+   "pmid": "25451411",
+   "desenho_estudo": "[EC]",
+   "titulo": "Dentate gyrus volume and memory performance in major depressive disorder"
+  },
+  {
+   "id": "REF_VAN_2024",
+   "pmid": "37393047",
+   "desenho_estudo": "[EC]",
+   "titulo": "Dentate Gyrus Microstructure Is Associated With Resilience After Exposure to Maternal Stress Across Two Human Cohorts"
+  },
+  {
+   "id": "REF_ZUNSZAIN_2012",
+   "pmid": "22071871",
+   "desenho_estudo": "[EC]",
+   "titulo": "Interleukin-1β: a new regulator of the kynurenine pathway affecting human hippocampal neurogenesis"
+  }
+ ],
+ "divida_nomeada": "forca_evidencia_afirmacao vazio quando a ficha não trazia (schema 09.2 exige; preenchimento exige avaliação — não fabricar)"
+}

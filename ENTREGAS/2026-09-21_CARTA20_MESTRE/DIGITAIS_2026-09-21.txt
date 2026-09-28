@@ -1,0 +1,14 @@
+DIGITAIS — CARTA 20 AO AUDITOR-MESTRE · 2026-09-21 (rodada 54)
+
+1) CARTA_20_AO_AUDITOR_MESTRE_2026-09-21.md
+   sha256: 1de3e72d903b27b38715dffa036546efd226744d056191deb0d596749c80a392 · 6217 b
+
+2) CARTA_20_AO_AUDITOR_MESTRE_2026-09-21.zip
+   A digital do zip NAO vai aqui dentro (o zip contem este arquivo — auto-referencia).
+   A casa publica o sha do zip na nota de entrega da rodada e o receptor confere
+   com: sha256sum CARTA_20_AO_AUDITOR_MESTRE_2026-09-21.zip
+   sha de referencia (medido pela casa no ato): ver CHANGELOG RESULTADO 54.
+
+Conteudo da carta: nota de vigencia pos-aprovacao (V2.3 oficial + schemas N1 v1.3 / N2 v1.4
+selados em 2026-09-21) + acuse da verificacao tecnica do mestre (replicada 13/13 pela casa).
+Entrega: via operador (a casa nao envia nada direto a nenhuma frente).

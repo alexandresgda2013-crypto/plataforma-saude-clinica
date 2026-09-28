@@ -1,0 +1,307 @@
+{
+ "acao": "09_distribuicao_MA_EC_MODULO09",
+ "data": "2026-09-11",
+ "biblioteca": "B10_DesregulacaoCircadiana",
+ "lei": "PROMPT_v4.2 instrução final: [MA]->02, [EC]->03; id único global (validar_auditoria.py)",
+ "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+ "contagens": {
+  "ficam_01": 126,
+  "vao_02_MA": 11,
+  "vao_03_EC": 0,
+  "conflitos": 2,
+  "tag_EC_amplo_nao_migrado": 32
+ },
+ "ids_para_02": [
+  {
+   "id": "REF_PIRES_2016",
+   "pmid": "27345144",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_SCHUCH_2018",
+   "pmid": "29690792",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica",
+    "tag_desenho:[EC]",
+    "conflito:MA escolhida (prioridade); sinal EC presente [tag='EC']"
+   ]
+  },
+  {
+   "id": "REF_CARMASSI_2019",
+   "pmid": "31244687",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ROBERTSONDIXON_2023",
+   "pmid": "37895351",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_ROBERTSONDIXON_2026",
+   "pmid": "41389872",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_VANDALFSEN_2018",
+   "pmid": "29126903",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_WESARGMENZEL_2024",
+   "pmid": "38308964",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_MELO_2017",
+   "pmid": "27524206",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_SCOTT_2022",
+   "pmid": "35182537",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_DEPRATO_2025",
+   "pmid": "40154089",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  },
+  {
+   "id": "REF_WESCOTT_2025",
+   "pmid": "39608218",
+   "sinais": [
+    "titulo:meta-analise/revisao-sistematica"
+   ]
+  }
+ ],
+ "ids_para_03": [],
+ "conflitos_tag_x_titulo_REVISAVEL": [
+  {
+   "id": "REF_PIRES_2016",
+   "pmid": "27345144",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  },
+  {
+   "id": "REF_SCHUCH_2018",
+   "pmid": "29690792",
+   "conflito": "MA escolhida (prioridade); sinal EC presente [tag='EC']",
+   "classe_dada": "MA"
+  }
+ ],
+ "REVISAVEL_tag_EC_amplo_sem_sinal_RCT_nao_migrado": [
+  {
+   "id": "REF_SOUETRE_1989",
+   "pmid": "2762432",
+   "desenho_estudo": "[EC] Souetre_1989",
+   "titulo": "Circadian rhythms in depression and recovery: evidence for blunted amplitude as the main chronobiological abnormality"
+  },
+  {
+   "id": "REF_EHLERS_1988",
+   "pmid": "3048226",
+   "desenho_estudo": "[EC] Ehlers_na",
+   "titulo": "Social zeitgebers and biological rhythms. A unified approach to understanding the etiology of depression"
+  },
+  {
+   "id": "REF_HUDSON_1988",
+   "pmid": "3341881",
+   "desenho_estudo": "[EC] Wu_na",
+   "titulo": "Electroencephalographic sleep in mania"
+  },
+  {
+   "id": "REF_ROSENTHAL_1984",
+   "pmid": "6581756",
+   "desenho_estudo": "[EC] Rosenwasser_na",
+   "titulo": "Seasonal affective disorder. A description of the syndrome and preliminary findings with light therapy"
+  },
+  {
+   "id": "REF_KHALSA_2003",
+   "pmid": "12717008",
+   "desenho_estudo": "[EC] Khalsa_2003",
+   "titulo": "A phase response curve to single bright light pulses in human subjects"
+  },
+  {
+   "id": "REF_WIRZJUSTICE_2005",
+   "pmid": "16045060",
+   "desenho_estudo": "[EC] Belgium_na",
+   "titulo": "Chronotherapeutics (light and wake therapy) in affective disorders"
+  },
+  {
+   "id": "REF_BENEDETTI_2007",
+   "pmid": "17689120",
+   "desenho_estudo": "[EC] Benedetti_2007",
+   "titulo": "Chronotherapeutics in a psychiatric ward"
+  },
+  {
+   "id": "REF_BUCKLEY_2010",
+   "pmid": "20004915",
+   "desenho_estudo": "[EC] Buckley_2010",
+   "titulo": "A pilot study of the phase angle between cortisol and melatonin in major depression - a potential biomarker?"
+  },
+  {
+   "id": "REF_HASLER_2010",
+   "pmid": "20471106",
+   "desenho_estudo": "[EC] Hasler_2010",
+   "titulo": "Phase relationships between core body temperature, melatonin, and sleep are associated with depression severity: further evidence for circad"
+  },
+  {
+   "id": "REF_HASLER_2010b",
+   "pmid": "20975857",
+   "desenho_estudo": "[EC] Cain_na",
+   "titulo": "Pathophysiology of depression: do we have any solid evidence of interest to clinicians?"
+  },
+  {
+   "id": "REF_FERNANDEZ_2018",
+   "pmid": "30173913",
+   "desenho_estudo": "[EC] Fernandez_2018",
+   "titulo": "Light Affects Mood and Learning through Distinct Retina-Brain Pathways"
+  },
+  {
+   "id": "REF_COLEMAN_2019",
+   "pmid": "31368377",
+   "desenho_estudo": "[EC] Coleman_2019",
+   "titulo": "Advanced melatonin onset relative to sleep in women with unmedicated major depressive disorder"
+  },
+  {
+   "id": "REF_MCGLASHAN_2018",
+   "pmid": "30555405",
+   "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Front Neurol",
+   "titulo": "Imaging Individual Differences in the Response of the Human Suprachiasmatic Area to Light."
+  },
+  {
+   "id": "REF_YAMANAKA_2019",
+   "pmid": "30480877",
+   "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Neuropsychopharmacol Rep",
+   "titulo": "Hypothalamic-pituitary-adrenal axis differentially responses to morning and evening psychological stress in healthy subjects."
+  },
+  {
+   "id": "REF_CHELLAPPA_2020",
+   "pmid": "33122670",
+   "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Sci Rep",
+   "titulo": "Circadian misalignment increases mood vulnerability in simulated shift work."
+  },
+  {
+   "id": "REF_SORIA_2010",
+   "pmid": "20072116",
+   "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Neuropsychopharmacology",
+   "titulo": "Differential association of circadian genes with mood disorders: CRY1 and NPAS2 are associated with unipolar major depression and CLOCK and "
+  },
+  {
+   "id": "REF_MCCARTHY_2011",
+   "pmid": "21781277",
+   "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Genes Brain Behav",
+   "titulo": "Functional genetic variation in the Rev-Erbα pathway and lithium response in the treatment of bipolar disorder."
+  },
+  {
+   "id": "REF_ROBILLARD_2018",
+   "pmid": "30301878",
+   "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Transl Psychiatry",
+   "titulo": "Circadian rhythms and psychiatric profiles in young adults with unipolar depressive disorders."
+  },
+  {
+   "id": "REF_NGUYEN_2019",
+   "pmid": "30878655",
+   "desenho_estudo": "[EC] estudo humano (observacional/experimental) · J Affect Disord",
+   "titulo": "In vivo molecular chronotyping, circadian misalignment, and high rates of depression in young adults."
+  },
+  {
+   "id": "REF_PILZ_2018",
+   "pmid": "30061722",
+   "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Sci Rep",
+   "titulo": "Rhythmicity of Mood Symptoms in Individuals at Risk for Psychiatric Disorders."
+  },
+  {
+   "id": "REF_EMENS_2020",
+   "pmid": "32777620",
+   "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Psychiatry Res",
+   "titulo": "Circadian rhythm in negative affect: Implications for mood disorders."
+  },
+  {
+   "id": "REF_MURRAY_2017",
+   "pmid": "28364473",
+   "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Sleep",
+   "titulo": "Prevalence of Circadian Misalignment and Its Association With Depressive Symptoms in Delayed Sleep Phase Disorder."
+  },
+  {
+   "id": "REF_LYALL_2018",
+   "pmid": "29776774",
+   "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Lancet Psychiatry",
+   "titulo": "Association of disrupted circadian rhythmicity with mood disorders, subjective wellbeing, and cognitive function: a cross-sectional study of"
+  },
+  {
+   "id": "REF_SONG_2024",
+   "pmid": "38579366",
+   "desenho_estudo": "[EC] estudo humano (observacional/experimental) · EBioMedicine",
+   "titulo": "Causal dynamics of sleep, circadian rhythm, and mood symptoms in patients with major depression and bipolar disorder: insights from longitud"
+  },
+  {
+   "id": "REF_COXOLATUNJI_2019",
+   "pmid": "31302521",
+   "desenho_estudo": "[EC] estudo humano (observacional/experimental) · J Affect Disord",
+   "titulo": "Differential associations between chronotype, anxiety, and negative affect: A structural equation modeling approach."
+  },
+  {
+   "id": "REF_CARPENTER_2025",
+   "pmid": "40662977",
+   "desenho_estudo": "[EC] estudo humano (observacional/experimental) · J Biol Rhythms",
+   "titulo": "Evidence for Internal Misalignment of Circadian Rhythms in Youth With Emerging Mood Disorders."
+  },
+  {
+   "id": "REF_MOON_2016",
+   "pmid": "27543154",
+   "desenho_estudo": "[EC] estudo humano (observacional/experimental) · EBioMedicine",
+   "titulo": "Advanced Circadian Phase in Mania and Delayed Circadian Phase in Mixed Mania and Depression Returned to Normal after Treatment of Bipolar Di"
+  },
+  {
+   "id": "REF_VIDAFAR_2021",
+   "pmid": "34468894",
+   "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Int J Bipolar Disord",
+   "titulo": "Late chronotype predicts more depressive symptoms in bipolar disorder over a 5 year follow-up period."
+  },
+  {
+   "id": "REF_ESAKI_2021",
+   "pmid": "34645802",
+   "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Transl Psychiatry",
+   "titulo": "Association between circadian activity rhythms and mood episode relapse in bipolar disorder: a 12-month prospective cohort study."
+  },
+  {
+   "id": "REF_MUKHERJEE_2022",
+   "pmid": "34320487",
+   "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Neuropsychobiology",
+   "titulo": "Dysregulated Diurnal Cortisol Pattern and Heightened Night-Time Cortisol in Individuals with Bipolar Disorder."
+  },
+  {
+   "id": "REF_LEI_2024",
+   "pmid": "38800632",
+   "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Gen Psychiatr",
+   "titulo": "Circadian rhythm dysfunction and psychopathology in the offspring of parents with bipolar disorder: a high-risk study in the Chinese populat"
+  },
+  {
+   "id": "REF_PALAGINI_2022",
+   "pmid": "35821870",
+   "desenho_estudo": "[EC] estudo humano (observacional/experimental) · Clin Neuropsychiatry",
+   "titulo": "Circadian Rhythm Alterations May be Related to Impaired Resilience, Emotional Dysregulation and to the Severity of Mood Features in Bipolar "
+  }
+ ],
+ "divida_nomeada": "forca_evidencia_afirmacao vazio quando a ficha não trazia (schema 09.2 exige; preenchimento exige avaliação — não fabricar)"
+}

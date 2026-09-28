@@ -1,0 +1,41 @@
+{
+ "mecanismo": "mecanismo_B8_deficiencias_micronutrientes",
+ "data": "2026-09-06",
+ "rodada": "Rodada 2 (corpus/pré-cânonica) → Rodada 3 (canônica)",
+ "g1": {
+  "metodo": "eutils esummary em lote",
+  "resolvidos": 96,
+  "nao_resolvidos": 0
+ },
+ "g2": {
+  "redirecionado_mecanistico": "Sartori 2012, Kemp 2024 (roedor) + Kim 2014 (revisão com mecanismo animal) = 3",
+  "redirecionado_clinico": "deOliveira vitamina C (RCT pequeno, periódico de menor impacto) = 1"
+ },
+ "g3": {
+  "abstracts_lidos_alto_risco": [
+   "35816192",
+   "33809274",
+   "35058530",
+   "32749491",
+   "34932079",
+   "28241991",
+   "39519523",
+   "28654669",
+   "39552387",
+   "30646157",
+   "28137247"
+  ],
+  "achados_nao_obvios": [
+   "VITAL-DEP: D3 NULO (HR 0,97) e ômega-3 NULO/não-benéfico (HR 1,13; eventos numericamente maiores) em ~18 mil/5,3 anos",
+   "B12 em não-deficientes NULA (16 RCTs/6.276) — âncora limitadora",
+   "Selênio sérico SEM diferença (I²=98%) — sinal só pós-parto por ingestão",
+   "Tarleton Mg 28654669 é RCT ABERTO (sem cegueira/placebo) — GAD-7 secundário",
+   "Rajizadeh Mg positivo SÓ em hipomagnesêmicos (n=60)",
+   "MR Carnegie: MR tradicional NULO; ferro/cobre/25OHD sugestivos na recorrente; selênio/Mg em excesso possivelmente adversos",
+   "vitamina D: g=−0,32 I²=88% GRADE muito baixa; ansiedade SEM efeito; efeito some no longo prazo"
+  ]
+ },
+ "pendencias": [
+  "P-6: 2a verificacao independente (avaliador cego) dos claims de alto risco"
+ ]
+}

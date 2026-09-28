@@ -1,0 +1,56 @@
+{
+  "trilha": 66,
+  "data": "2026-09-20",
+  "rodada": 51,
+  "titulo": "COMO EXECUTAR v1.9 (eco bilateral fechado) + pacote schemas remontado para envio",
+  "checks": [
+    {
+      "check": "C01 ciencia trio intacto (inicio)",
+      "ok": true,
+      "detalhe": {
+        "V7": "6e2c29797e63",
+        "manifesto": "79d1309a1689",
+        "vinculos": "490675e63122"
+      }
+    },
+    {
+      "check": "C02 v1.9: sha == 1cd90b40... (ECO BILATERAL c/ o mestre — 'declarado' vira VERIFICADO) · 29.423 b · 535 linhas · H1 'COMO EXECUTAR — v1.9' · serie == upload",
+      "ok": true,
+      "detalhe": "sha=1cd90b407facee81692d668919829c9d6d5a149b1309424c6f012e26cd81f586 bytes=29423"
+    },
+    {
+      "check": "C03 arquivado c/ status registrado por escrito: EM ATUALIZAÇÃO (não normativo) · frente própria (claims) · referência, não alçada da casa · dívida de linhagem v1.8 nomeada · regra: nova versão flui à casa com sha",
+      "ok": true,
+      "detalhe": "COMO_EXECUTAR_v1.9_recebido_2026-09-20"
+    },
+    {
+      "check": "C04 glob: v1.8 = 0 arquivos na base (dívida registrada) · v1.9 = exatamente o par upload+serie",
+      "ok": true,
+      "detalhe": "v1.8=[] · v1.9=['BIBLIOTECAS/_documentos_serie/COMO_EXECUTAR_v1.9_recebido_2026-09-20/4º_COMO_EXECUTAR___v1_9.md', 'uploads/4º_COMO_EXECUTAR___v1_9.md']"
+    },
+    {
+      "check": "C05 convergência registrada: v1.9 diz 'claims de SM-xx são CLÍNICOS e alimentam a pasta evidencias/bibliografia, não a biblioteca canônica mecanística' (coerente c/ bifurcação (i) e c/ a pergunta 'de onde a NT tira o conhecimento clínico')",
+      "ok": true,
+      "detalhe": "substring verificada no documento (nota de interface; 0 auditoria de conteúdo — outra alçada)"
+    },
+    {
+      "check": "C06 pacote ENTREGAS/2026-09-20_ENVIO_MESTRE_SCHEMAS: 5/5 itens byte-idênticos à distribuição · zip 72f8f2e5... · DIGITAIS com shas INDIVIDUAIS (correção r50)",
+      "ok": true,
+      "detalhe": "zip=72f8f2e5ea7ec0ad553fa25ee2976da53b0f896a1a6c3e3ed81279d2e58ba235 · itens=['SCHEMAS_L05_CORRENTES_2026-09-19.zip', 'schema_referencia_v1.3__N1_CORRENTE.json', 'schema_vinculo_v1.4__N2_CORRENTE.json', 'L05_SCHEMA_EVIDENCIA_E_VINCULO_v1.4__ESPECIFICACAO.md', 'LEIAME.txt']"
+    },
+    {
+      "check": "C07 ciencia trio intacto (fim)",
+      "ok": true,
+      "detalhe": {
+        "V7": "6e2c29797e63",
+        "manifesto": "79d1309a1689",
+        "vinculos": "490675e63122"
+      }
+    }
+  ],
+  "ok": 7,
+  "total": 7,
+  "confissoes": [
+    "v1.9 contém menções a 'v1.8' no texto (changelog); o glob da régua C04 mede NOMES de arquivo, escopo declarado — lição C56-2"
+  ]
+}

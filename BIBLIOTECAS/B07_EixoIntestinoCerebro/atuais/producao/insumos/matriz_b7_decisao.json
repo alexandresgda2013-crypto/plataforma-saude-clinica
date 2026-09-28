@@ -1,0 +1,3224 @@
+{
+ "meta": {
+  "total_fila": 188,
+  "entra": 31,
+  "exc": 26,
+  "baixo": 131,
+  "gerado": "2026-09-09",
+  "criterio": "regras de ouro GPM B7 (B7-CAUSAL-01/02/03) + malha de escopo da série"
+ },
+ "itens": [
+  {
+   "n": 1,
+   "pmid": "19235836",
+   "autor": "Li Q",
+   "ano": "2009",
+   "fonte": "J Pathol",
+   "titulo": "Disruption of tight junctions during polymicrobial sepsis in vivo.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — modelo de sepse; barreira/translocação já coberta (masters + Tulkens humano); fora do miolo psiquiátrico",
+   "doi": "10.1002/path.2525",
+   "decl_autor": "Li",
+   "decl_ano": "2009"
+  },
+  {
+   "n": 2,
+   "pmid": "22023490",
+   "autor": "Assimakopoulos SF",
+   "ano": "2012",
+   "fonte": "Eur J Clin Invest",
+   "titulo": "Altered intestinal tight junctions' expression in patients with liver cirrhosis: a pathogenetic mechanism of intestinal hyperpermeability.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — doença-órgão não psiquiátrica (fígado/rim/coração/vaso); translocação intestinal coberta; tangencial ao miolo",
+   "doi": "10.1111/j.1365-2362.2011.02609.x",
+   "decl_autor": "Assimakopoulos",
+   "decl_ano": "2012"
+  },
+  {
+   "n": 3,
+   "pmid": "22506074",
+   "autor": "Lin HV",
+   "ano": "2012",
+   "fonte": "PLoS One",
+   "titulo": "Butyrate and propionate protect against diet-induced obesity and regulate gut hormones via free fatty acid receptor 3-independent mechanisms.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — primário AGCC periférico/imune/metabólico; sem ponte ao SNC além das masters",
+   "doi": "10.1371/journal.pone.0035240",
+   "decl_autor": "Lin",
+   "decl_ano": "2012"
+  },
+  {
+   "n": 4,
+   "pmid": "23201091",
+   "autor": "Guo S",
+   "ano": "2013",
+   "fonte": "Am J Pathol",
+   "titulo": "Lipopolysaccharide causes an increase in intestinal tight junction permeability in vitro and in vivo by inducing enterocyte membrane expression and localization of TLR-4 and CD14.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Guo 2013, LPS→TLR4/CD14→permeabilidade de TJ intestinal",
+   "doi": "10.1016/j.ajpath.2012.10.014",
+   "decl_autor": "Guo",
+   "decl_ano": "2013"
+  },
+  {
+   "n": 5,
+   "pmid": "23885020",
+   "autor": "Nøhr MK",
+   "ano": "2013",
+   "fonte": "Endocrinology",
+   "titulo": "GPR41/FFAR3 and GPR43/FFAR2 as cosensors for short-chain fatty acids in enteroendocrine cells vs FFAR3 in enteric neurons and FFAR2 in enteric leukocytes.",
+   "pubtype": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — mapa FFAR3/FFAR2 em células EEC (GLP-1/PYY/CCK/GIP/secretina) e neurônios entéricos (sensor intestinal de AGCC; elo metabólito→receptor→via neural)",
+   "doi": "10.1210/en.2013-1142",
+   "decl_autor": "Nøhr",
+   "decl_ano": "2013"
+  },
+  {
+   "n": 6,
+   "pmid": "24756641",
+   "autor": "De Palma G",
+   "ano": "2014",
+   "fonte": "J Physiol",
+   "titulo": "The microbiota-gut-brain axis in gastrointestinal disorders: stressed bugs, stressed brain or both?",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão 'stressed bugs, stressed brain' (2014); programação HPA/IBS já coberta por Sudo (vigente) e Bonaz (vigente)",
+   "doi": "10.1113/jphysiol.2014.273995",
+   "decl_autor": "Palma",
+   "decl_ano": "2014"
+  },
+  {
+   "n": 7,
+   "pmid": "25019507",
+   "autor": "Joly Condette C",
+   "ano": "2014",
+   "fonte": "PLoS One",
+   "titulo": "Increased gut permeability and bacterial translocation after chronic chlorpyrifos exposure in rats.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — barreira intestinal com agente/intervenção isolada; seta LPS→TJ coberta pelas masters; sem ponte causal ao SNC",
+   "doi": "10.1371/journal.pone.0102217",
+   "decl_autor": "Condette",
+   "decl_ano": "2014"
+  },
+  {
+   "n": 8,
+   "pmid": "25830558",
+   "autor": "Carabotti M",
+   "ano": "2015",
+   "fonte": "Ann Gastroenterol",
+   "titulo": "The gut-brain axis: interactions between enteric microbiota, central and enteric nervous systems.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Carabotti 2015, eixo intestino-cérebro (SNC/SNE)",
+   "doi": null,
+   "decl_autor": null,
+   "decl_ano": null
+  },
+  {
+   "n": 9,
+   "pmid": "26466961",
+   "autor": "Guo S",
+   "ano": "2015",
+   "fonte": "J Immunol",
+   "titulo": "Lipopolysaccharide Regulation of Intestinal Tight Junction Permeability Is Mediated by TLR4 Signal Transduction Pathway Activation of FAK and MyD88.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Guo 2015, LPS→TLR4→FAK/MyD88→TJ",
+   "doi": "10.4049/jimmunol.1402598",
+   "decl_autor": "Guo",
+   "decl_ano": "2015"
+  },
+  {
+   "n": 10,
+   "pmid": "25078296",
+   "autor": "O'Mahony SM",
+   "ano": "2015",
+   "fonte": "Behav Brain Res",
+   "titulo": "Serotonin, tryptophan metabolism and the brain-gut-microbiome axis.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão 5-HT/Trp no eixo; serotonina entérica já ancorada por Yano 2015 (vigente) e masters Agus/Bosi; sem seta causal nova",
+   "doi": "10.1016/j.bbr.2014.07.027",
+   "decl_autor": "O'Mahony",
+   "decl_ano": "2015"
+  },
+  {
+   "n": 11,
+   "pmid": "26290681",
+   "autor": "Qin LH",
+   "ano": "2015",
+   "fonte": "Oxid Med Cell Longev",
+   "titulo": "LPS Induces Occludin Dysregulation in Cerebral Microvascular Endothelial Cells via MAPK Signaling and Augmenting MMP-2 Levels.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — doença-órgão não psiquiátrica (fígado/rim/coração/vaso); translocação intestinal coberta; tangencial ao miolo",
+   "doi": "10.1155/2015/120641",
+   "decl_autor": "Qin",
+   "decl_ano": "2015"
+  },
+  {
+   "n": 12,
+   "pmid": "25970544",
+   "autor": "Wang Z",
+   "ano": "2015",
+   "fonte": "Inflamm Bowel Dis",
+   "titulo": "Syndecan-1 Acts in Synergy with Tight Junction Through Stat3 Signaling to Maintain Intestinal Mucosal Barrier and Prevent Bacterial Translocation.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — barreira intestinal com agente/intervenção isolada; seta LPS→TJ coberta pelas masters; sem ponte causal ao SNC",
+   "doi": "10.1097/mib.0000000000000421",
+   "decl_autor": "Wang",
+   "decl_ano": "2015"
+  },
+  {
+   "n": 13,
+   "pmid": "25888437",
+   "autor": "Yang F",
+   "ano": "2015",
+   "fonte": "BMC Microbiol",
+   "titulo": "Lactobacillus reuteri I5007 modulates tight junction protein expression in IPEC-J2 cells with LPS stimulation and in newborn piglets under normal conditions.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC — pecuária (IPEC-J2/porcos neonatos)",
+   "doi": "10.1186/s12866-015-0372-1",
+   "decl_autor": "Yang",
+   "decl_ano": "2015"
+  },
+  {
+   "n": 14,
+   "pmid": "27195116",
+   "autor": "Corrêa-Oliveira R",
+   "ano": "2016",
+   "fonte": "Clin Transl Immunology",
+   "titulo": "Regulation of immune cell function by short-chain fatty acids.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral AGCC (imunidade/metabolismo/doenças); núcleo AGCC→cérebro coberto por masters Erny 2021/Spichak 2021/Caetano-Silva 2023/Barki 2022/Cheng 2024",
+   "doi": "10.1038/cti.2016.17",
+   "decl_autor": "Corrêa-Oliveira",
+   "decl_ano": "2016"
+  },
+  {
+   "n": 15,
+   "pmid": "27551722",
+   "autor": "Ling X",
+   "ano": "2016",
+   "fonte": "PLoS One",
+   "titulo": "Protective Effects of Bifidobacterium on Intestinal Barrier Function in LPS-Induced Enterocyte Barrier Injury of Caco-2 Monolayers and in a Rat NEC Model.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — barreira intestinal in vitro com intervenção única; mecanismo LPS→TJ já coberto pelas masters Guo 2013/2015 + Nighot 2017/2019; sem ponte ao SNC (B7-CAUSAL-01)",
+   "doi": "10.1371/journal.pone.0161635",
+   "decl_autor": "Ling",
+   "decl_ano": "2016"
+  },
+  {
+   "n": 16,
+   "pmid": "27647198",
+   "autor": "Wang HX",
+   "ano": "2016",
+   "fonte": "Chin Med J (Engl)",
+   "titulo": "Gut Microbiota-brain Axis.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão narrativa genérica do eixo intestino-cérebro; arquitetura coberta por V1 vigente (Cryan 2019/Bonaz 2018/Margolis 2021) e masters 2024–2025; sem seta causal nova",
+   "doi": "10.4103/0366-6999.190667",
+   "decl_autor": "Wang",
+   "decl_ano": "2016"
+  },
+  {
+   "n": 17,
+   "pmid": "27299587",
+   "autor": "Yoseph BP",
+   "ano": "2016",
+   "fonte": "Shock",
+   "titulo": "Mechanisms of Intestinal Barrier Dysfunction in Sepsis.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — modelo de sepse; barreira/translocação já coberta (masters + Tulkens humano); fora do miolo psiquiátrico",
+   "doi": "10.1097/shk.0000000000000565",
+   "decl_autor": "Yoseph",
+   "decl_ano": "2016"
+  },
+  {
+   "n": 18,
+   "pmid": "27191060",
+   "autor": "Bein A",
+   "ano": "2017",
+   "fonte": "J Cell Physiol",
+   "titulo": "LPS Induces Hyper-Permeability of Intestinal Epithelial Cells.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — LPS→hiperpermeabilidade de células epiteliais in vitro (Bein 2017); seta LPS→TJ coberta pelas masters Guo/Nighot; sem ponte ao SNC",
+   "doi": "10.1002/jcp.25435",
+   "decl_autor": "Bein",
+   "decl_ano": "2017"
+  },
+  {
+   "n": 19,
+   "pmid": "28935573",
+   "autor": "Chen WY",
+   "ano": "2017",
+   "fonte": "Am J Pathol",
+   "titulo": "Acrolein Disrupts Tight Junction Proteins and Causes Endoplasmic Reticulum Stress-Mediated Epithelial Cell Death Leading to Intestinal Barrier Dysfunction and Permeability.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — barreira intestinal com agente/intervenção isolada; seta LPS→TJ coberta pelas masters; sem ponte causal ao SNC",
+   "doi": "10.1016/j.ajpath.2017.08.015",
+   "decl_autor": "Chen",
+   "decl_ano": "2017"
+  },
+  {
+   "n": 20,
+   "pmid": "29157665",
+   "autor": "Nighot M",
+   "ano": "2017",
+   "fonte": "Am J Pathol",
+   "titulo": "Lipopolysaccharide-Induced Increase in Intestinal Epithelial Tight Permeability Is Mediated by Toll-Like Receptor 4/Myeloid Differentiation Primary Response 88 (MyD88) Activation of Myosin Light Chain Kinase Expression.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Nighot 2017, LPS→TLR4/MyD88→MLCK→TJ",
+   "doi": "10.1016/j.ajpath.2017.08.005",
+   "decl_autor": "Nighot",
+   "decl_ano": "2017"
+  },
+  {
+   "n": 21,
+   "pmid": "27957611",
+   "autor": "Reinhold AK",
+   "ano": "2017",
+   "fonte": "Pflugers Arch",
+   "titulo": "Barrier function in the peripheral and central nervous system-a review.",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão/primário de biologia de tight junctions; arquitetura de barreiras coberta pelas masters (Guo×2/Nighot×2/Kurita/Aburto) + Kuo/Barki novas",
+   "doi": "10.1007/s00424-016-1920-8",
+   "decl_autor": "Reinhold",
+   "decl_ano": "2016"
+  },
+  {
+   "n": 22,
+   "pmid": "27448578",
+   "autor": "Sun M",
+   "ano": "2017",
+   "fonte": "J Gastroenterol",
+   "titulo": "Microbiota metabolite short chain fatty acids, GPCR, and inflammatory bowel diseases.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral AGCC (imunidade/metabolismo/doenças); núcleo AGCC→cérebro coberto por masters Erny 2021/Spichak 2021/Caetano-Silva 2023/Barki 2022/Cheng 2024",
+   "doi": "10.1007/s00535-016-1242-9",
+   "decl_autor": "Sun",
+   "decl_ano": "2016"
+  },
+  {
+   "n": 23,
+   "pmid": "28654658",
+   "autor": "Yan H",
+   "ano": "2017",
+   "fonte": "PLoS One",
+   "titulo": "Butyrate modifies intestinal barrier function in IPEC-J2 cells through a selective upregulation of tight junction proteins and activation of the Akt signaling pathway.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — barreira intestinal in vitro com intervenção única; mecanismo LPS→TJ já coberto pelas masters Guo 2013/2015 + Nighot 2017/2019; sem ponte ao SNC (B7-CAUSAL-01)",
+   "doi": "10.1371/journal.pone.0179586",
+   "decl_autor": "Yan",
+   "decl_ano": "2017"
+  },
+  {
+   "n": 24,
+   "pmid": "29902437",
+   "autor": "Agus A",
+   "ano": "2018",
+   "fonte": "Cell Host Microbe",
+   "titulo": "Gut Microbiota Regulation of Tryptophan Metabolism in Health and Disease.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Agus 2018, microbiota regula metabolismo do triptofano",
+   "doi": "10.1016/j.chom.2018.05.003",
+   "decl_autor": "Agus",
+   "decl_ano": "2018"
+  },
+  {
+   "n": 25,
+   "pmid": "30115904",
+   "autor": "Chelakkot C",
+   "ano": "2018",
+   "fonte": "Exp Mol Med",
+   "titulo": "Mechanisms regulating intestinal barrier integrity and its pathological implications.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão/primário de biologia de tight junctions; arquitetura de barreiras coberta pelas masters (Guo×2/Nighot×2/Kurita/Aburto) + Kuo/Barki novas",
+   "doi": "10.1038/s12276-018-0126-x",
+   "decl_autor": "Chelakkot",
+   "decl_ano": "2018"
+  },
+  {
+   "n": 26,
+   "pmid": "30227623",
+   "autor": "Feng S",
+   "ano": "2018",
+   "fonte": "Molecules",
+   "titulo": "RhoA/ROCK-2 Pathway Inhibition and Tight Junction Protein Upregulation by Catalpol Suppresses Lipopolysaccaride-Induced Disruption of Blood-Brain Barrier Permeability.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — barreira intestinal com agente/intervenção isolada; seta LPS→TJ coberta pelas masters; sem ponte causal ao SNC",
+   "doi": "10.3390/molecules23092371",
+   "decl_autor": "Feng",
+   "decl_ano": "2018"
+  },
+  {
+   "n": 27,
+   "pmid": "29468141",
+   "autor": "Gao J",
+   "ano": "2018",
+   "fonte": "Front Cell Infect Microbiol",
+   "titulo": "Impact of the Gut Microbiota on Intestinal Immunity Mediated by Tryptophan Metabolism.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral triptofano/quinurenina; arquitetura coberta pelas masters Agus 2018/Bosi 2020/Schwarcz 2024/Sathyasaikumar 2024 e seção 2.5 da V1",
+   "doi": "10.3389/fcimb.2018.00013",
+   "decl_autor": "Gao",
+   "decl_ano": "2018"
+  },
+  {
+   "n": 28,
+   "pmid": "28925886",
+   "autor": "Kim YK",
+   "ano": "2018",
+   "fonte": "Curr Neuropharmacol",
+   "titulo": "The Microbiota-Gut-Brain Axis in Neuropsychiatric Disorders: Pathophysiological Mechanisms and Novel Treatments.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão narrativa genérica do eixo intestino-cérebro; arquitetura coberta por V1 vigente (Cryan 2019/Bonaz 2018/Margolis 2021) e masters 2024–2025; sem seta causal nova",
+   "doi": "10.2174/1570159x15666170915141036",
+   "decl_autor": "Kim",
+   "decl_ano": "2018"
+  },
+  {
+   "n": 29,
+   "pmid": "29875665",
+   "autor": "Li M",
+   "ano": "2018",
+   "fonte": "Front Pharmacol",
+   "titulo": "The Anti-inflammatory Effects of Short Chain Fatty Acids on Lipopolysaccharide- or Tumor Necrosis Factor α-Stimulated Endothelial Cells via Activation of GPR41/43 and Inhibition of HDACs.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — doença-órgão não psiquiátrica (fígado/rim/coração/vaso); translocação intestinal coberta; tangencial ao miolo",
+   "doi": "10.3389/fphar.2018.00533",
+   "decl_autor": "Li",
+   "decl_ano": "2018"
+  },
+  {
+   "n": 30,
+   "pmid": "29750914",
+   "autor": "Li M",
+   "ano": "2018",
+   "fonte": "Eur J Pharmacol",
+   "titulo": "Pro- and anti-inflammatory effects of short chain fatty acids on immune and endothelial cells.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — doença-órgão não psiquiátrica (fígado/rim/coração/vaso); translocação intestinal coberta; tangencial ao miolo",
+   "doi": "10.1016/j.ejphar.2018.05.003",
+   "decl_autor": "Li",
+   "decl_ano": "2018"
+  },
+  {
+   "n": 31,
+   "pmid": "30023410",
+   "autor": "Martin CR",
+   "ano": "2018",
+   "fonte": "Cell Mol Gastroenterol Hepatol",
+   "titulo": "The Brain-Gut-Microbiome Axis.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão narrativa genérica do eixo intestino-cérebro; arquitetura coberta por V1 vigente (Cryan 2019/Bonaz 2018/Margolis 2021) e masters 2024–2025; sem seta causal nova",
+   "doi": "10.1016/j.jcmgh.2018.04.003",
+   "decl_autor": "Martin",
+   "decl_ano": "2018"
+  },
+  {
+   "n": 32,
+   "pmid": "29977455",
+   "autor": "Ramos-Chávez LA",
+   "ano": "2018",
+   "fonte": "Oxid Med Cell Longev",
+   "titulo": "Relevance of Alternative Routes of Kynurenic Acid Production in the Brain.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão de rotas alternativas de produção cerebral de KYNA (Ramos-Chávez 2018); produção cerebral de KYNA ≠ microbiota→cérebro (B7-CAUSAL-02); coberta por Schwarcz 2024",
+   "doi": "10.1155/2018/5272741",
+   "decl_autor": "Ramos-Chávez",
+   "decl_ano": "2018"
+  },
+  {
+   "n": 33,
+   "pmid": "29705796",
+   "autor": "Xiao Z",
+   "ano": "2018",
+   "fonte": "Cell Physiol Biochem",
+   "titulo": "Clostridium Tyrobutyricum Protect Intestinal Barrier Function from LPS-Induced Apoptosis via P38/JNK Signaling Pathway in IPEC-J2 Cells.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC — pecuária (IPEC-J2)",
+   "doi": "10.1159/000489364",
+   "decl_autor": "Xiao",
+   "decl_ano": "2018"
+  },
+  {
+   "n": 34,
+   "pmid": "30934533",
+   "autor": "Baj A",
+   "ano": "2019",
+   "fonte": "Int J Mol Sci",
+   "titulo": "Glutamatergic Signaling Along The Microbiota-Gut-Brain Axis.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — única revisão dedicada ao glutamato no eixo intestino-cérebro (elo B5/GABA-glutamato)",
+   "doi": "10.3390/ijms20061482",
+   "decl_autor": "Baj",
+   "decl_ano": "2019"
+  },
+  {
+   "n": 35,
+   "pmid": "30977499",
+   "autor": "Chen M ",
+   "ano": "2019",
+   "fonte": "Food Funct",
+   "titulo": "Dietary l-tryptophan alleviated LPS-induced intestinal barrier injury by regulating tight junctions in a Caco-2 cell monolayer model.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — barreira intestinal in vitro com intervenção única; mecanismo LPS→TJ já coberto pelas masters Guo 2013/2015 + Nighot 2017/2019; sem ponte ao SNC (B7-CAUSAL-01)",
+   "doi": "10.1039/c9fo00123a",
+   "decl_autor": "Chen",
+   "decl_ano": "2019"
+  },
+  {
+   "n": 36,
+   "pmid": "31258331",
+   "autor": "Dehhaghi M",
+   "ano": "2019",
+   "fonte": "Int J Tryptophan Res",
+   "titulo": "Microorganisms, Tryptophan Metabolism, and Kynurenine Pathway: A Complex Interconnected Loop Influencing Human Health Status.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão loop microrganismos-Trp-KYN saúde (Dehhaghi 2019); genérica, coberta",
+   "doi": "10.1177/1178646919852996",
+   "decl_autor": "Dehhaghi",
+   "decl_ano": "2019"
+  },
+  {
+   "n": 37,
+   "pmid": "31211803",
+   "autor": "Feng Y",
+   "ano": "2019",
+   "fonte": "PLoS One",
+   "titulo": "Antibiotics induced intestinal tight junction barrier dysfunction is associated with microbiota dysbiosis, activated NLRP3 inflammasome and autophagy.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — barreira intestinal com agente/intervenção isolada; seta LPS→TJ coberta pelas masters; sem ponte causal ao SNC",
+   "doi": "10.1371/journal.pone.0218384",
+   "decl_autor": "Feng",
+   "decl_ano": "2019"
+  },
+  {
+   "n": 38,
+   "pmid": "31610413",
+   "autor": "Gheorghe CE",
+   "ano": "2019",
+   "fonte": "Curr Opin Pharmacol",
+   "titulo": "Focus on the essentials: tryptophan metabolism and the microbiome-gut-brain axis.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão Curr Opin Pharmacol 'essentials' Trp-microbiome-gut-brain (Gheorghe 2019); redundante com masters",
+   "doi": "10.1016/j.coph.2019.08.004",
+   "decl_autor": "Gheorghe",
+   "decl_ano": "2019"
+  },
+  {
+   "n": 39,
+   "pmid": "30747184",
+   "autor": "He C ",
+   "ano": "2019",
+   "fonte": "Food Funct",
+   "titulo": "Vitamin A inhibits the action of LPS on the intestinal epithelial barrier function and tight junction proteins.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — barreira intestinal com agente/intervenção isolada; seta LPS→TJ coberta pelas masters; sem ponte causal ao SNC",
+   "doi": "10.1039/c8fo01123k",
+   "decl_autor": "He",
+   "decl_ano": "2019"
+  },
+  {
+   "n": 40,
+   "pmid": "31024440",
+   "autor": "Höglund E",
+   "ano": "2019",
+   "fonte": "Front Endocrinol (Lausanne)",
+   "titulo": "Tryptophan Metabolic Pathways and Brain Serotonergic Activity: A Comparative Review.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral triptofano/quinurenina; arquitetura coberta pelas masters Agus 2018/Bosi 2020/Schwarcz 2024/Sathyasaikumar 2024 e seção 2.5 da V1",
+   "doi": "10.3389/fendo.2019.00158",
+   "decl_autor": "Höglund",
+   "decl_ano": "2019"
+  },
+  {
+   "n": 41,
+   "pmid": "30823925",
+   "autor": "Ma Q",
+   "ano": "2019",
+   "fonte": "J Neuroinflammation",
+   "titulo": "Impact of microbiota on central nervous system and neurological diseases: the gut-brain axis.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão microbiota→SNC (Ma 2019); genérica, mira doenças neurológicas; coberta",
+   "doi": "10.1186/s12974-019-1434-3",
+   "decl_autor": "Q.",
+   "decl_ano": "2019"
+  },
+  {
+   "n": 42,
+   "pmid": "30711488",
+   "autor": "Nighot M",
+   "ano": "2019",
+   "fonte": "Am J Pathol",
+   "titulo": "Lipopolysaccharide-Induced Increase in Intestinal Permeability Is Mediated by TAK-1 Activation of IKK and MLCK/MYLK Gene.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Nighot 2019, LPS→TAK-1→IKK→MLCK/MYLK→TJ",
+   "doi": "10.1016/j.ajpath.2018.12.016",
+   "decl_autor": "Nighot",
+   "decl_ano": "2019"
+  },
+  {
+   "n": 43,
+   "pmid": "30292888",
+   "autor": "Osadchiy V",
+   "ano": "2019",
+   "fonte": "Clin Gastroenterol Hepatol",
+   "titulo": "The Gut-Brain Axis and the Microbiome: Mechanisms and Clinical Implications.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão clínica geral do eixo (Osadchiy 2019); mesma arquitetura das vigentes",
+   "doi": "10.1016/j.cgh.2018.10.002",
+   "decl_autor": "Osadchiy",
+   "decl_ano": "2018"
+  },
+  {
+   "n": 44,
+   "pmid": "30915065",
+   "autor": "Parada Venegas D",
+   "ano": "2019",
+   "fonte": "Front Immunol",
+   "titulo": "Short Chain Fatty Acids (SCFAs)-Mediated Gut Epithelial and Immune Regulation and Its Relevance for Inflammatory Bowel Diseases.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral AGCC (imunidade/metabolismo/doenças); núcleo AGCC→cérebro coberto por masters Erny 2021/Spichak 2021/Caetano-Silva 2023/Barki 2022/Cheng 2024",
+   "doi": "10.3389/fimmu.2019.00277",
+   "decl_autor": "Parada Venegas",
+   "decl_ano": "2019"
+  },
+  {
+   "n": 45,
+   "pmid": "31222050",
+   "autor": "Park J",
+   "ano": "2019",
+   "fonte": "Sci Rep",
+   "titulo": "Bidirectional regulatory potentials of short-chain fatty acids and their G-protein-coupled receptors in autoimmune neuroinflammation.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC malha — neuroinflamação autoimune/EAE (SCFA×GPCR)",
+   "doi": "10.1038/s41598-019-45311-y",
+   "decl_autor": "Park",
+   "decl_ano": "2019"
+  },
+  {
+   "n": 46,
+   "pmid": "31024456",
+   "autor": "Tunisi L",
+   "ano": "2019",
+   "fonte": "Front Endocrinol (Lausanne)",
+   "titulo": "Orexin-A Prevents Lipopolysaccharide-Induced Neuroinflammation at the Level of the Intestinal Barrier.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — barreira intestinal com agente/intervenção isolada; seta LPS→TJ coberta pelas masters; sem ponte causal ao SNC",
+   "doi": "10.3389/fendo.2019.00219",
+   "decl_autor": "Tunisi",
+   "decl_ano": "2019"
+  },
+  {
+   "n": 47,
+   "pmid": "32577079",
+   "autor": "Bosi A",
+   "ano": "2020",
+   "fonte": "Int J Tryptophan Res",
+   "titulo": "Tryptophan Metabolites Along the Microbiota-Gut-Brain Axis: An Interkingdom Communication System Influencing the Gut in Health and Disease.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Bosi 2020, metabólitos do triptofano no eixo (comunicação inter-reinos)",
+   "doi": "10.1177/1178646920928984",
+   "decl_autor": "Bosi",
+   "decl_ano": "2020"
+  },
+  {
+   "n": 48,
+   "pmid": "32600371",
+   "autor": "Erikson K",
+   "ano": "2020",
+   "fonte": "Crit Care",
+   "titulo": "Brain tight junction protein expression in sepsis in an autopsy series.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — modelo de sepse; barreira/translocação já coberta (masters + Tulkens humano); fora do miolo psiquiátrico",
+   "doi": "10.1186/s13054-020-03101-3",
+   "decl_autor": "Erikson",
+   "decl_ano": "2020"
+  },
+  {
+   "n": 49,
+   "pmid": "31825083",
+   "autor": "Gao K",
+   "ano": "2020",
+   "fonte": "Adv Nutr",
+   "titulo": "Tryptophan Metabolism: A Link Between the Gut Microbiota and Brain.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão Adv Nutr Trp ligando microbiota-cérebro (Gao K 2020); redundante com masters",
+   "doi": "10.1093/advances/nmz127",
+   "decl_autor": "Gao",
+   "decl_ano": "2019"
+  },
+  {
+   "n": 50,
+   "pmid": "32099951",
+   "autor": "Ghosh SS",
+   "ano": "2020",
+   "fonte": "J Endocr Soc",
+   "titulo": "Intestinal Barrier Dysfunction, LPS Translocation, and Disease Development.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão/primário de biologia de tight junctions; arquitetura de barreiras coberta pelas masters (Guo×2/Nighot×2/Kurita/Aburto) + Kuo/Barki novas",
+   "doi": "10.1210/jendso/bvz039",
+   "decl_autor": "Ghosh",
+   "decl_ano": "2020"
+  },
+  {
+   "n": 51,
+   "pmid": "32887215",
+   "autor": "He J",
+   "ano": "2020",
+   "fonte": "Int J Mol Sci",
+   "titulo": "Short-Chain Fatty Acids and Their Association with Signalling Pathways in Inflammation, Glucose and Lipid Metabolism.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral AGCC (imunidade/metabolismo/doenças); núcleo AGCC→cérebro coberto por masters Erny 2021/Spichak 2021/Caetano-Silva 2023/Barki 2022/Cheng 2024",
+   "doi": "10.3390/ijms21176356",
+   "decl_autor": "He",
+   "decl_ano": "2020"
+  },
+  {
+   "n": 52,
+   "pmid": "31910709",
+   "autor": "Kurita N",
+   "ano": "2020",
+   "fonte": "J Cereb Blood Flow Metab",
+   "titulo": "Metabolic endotoxemia promotes neuroinflammation after focal cerebral ischemia.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Kurita 2020, endotoxemia metabólica→neuroinflamação (contexto isquemia experimental)",
+   "doi": "10.1177/0271678x19899577",
+   "decl_autor": "Kurita",
+   "decl_ano": "2020"
+  },
+  {
+   "n": 53,
+   "pmid": "32583667",
+   "autor": "Liu J",
+   "ano": "2020",
+   "fonte": "J Agric Food Chem",
+   "titulo": "Anti-neuroinflammatory Effect of Short-Chain Fatty Acid Acetate against Alzheimer's Disease via Upregulating GPR41 and Inhibiting ERK/JNK/NF-κB.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC malha — Alzheimer (acetato GPR41)",
+   "doi": "10.1021/acs.jafc.0c02807",
+   "decl_autor": "Liu",
+   "decl_ano": "2020"
+  },
+  {
+   "n": 54,
+   "pmid": "32829453",
+   "autor": "Liu S",
+   "ano": "2020",
+   "fonte": "Mol Neurobiol",
+   "titulo": "Gut Microbiota and Dysbiosis in Alzheimer's Disease: Implications for Pathogenesis and Treatment.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC malha — Alzheimer (revisão disbiose)",
+   "doi": "10.1007/s12035-020-02073-3",
+   "decl_autor": "Liu",
+   "decl_ano": "2020"
+  },
+  {
+   "n": 55,
+   "pmid": "32082260",
+   "autor": "Silva YP",
+   "ano": "2020",
+   "fonte": "Front Endocrinol (Lausanne)",
+   "titulo": "The Role of Short-Chain Fatty Acids From Gut Microbiota in Gut-Brain Communication.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral AGCC (imunidade/metabolismo/doenças); núcleo AGCC→cérebro coberto por masters Erny 2021/Spichak 2021/Caetano-Silva 2023/Barki 2022/Cheng 2024",
+   "doi": "10.3389/fendo.2020.00025",
+   "decl_autor": "Silva",
+   "decl_ano": "2020"
+  },
+  {
+   "n": 56,
+   "pmid": "33066156",
+   "autor": "Suganya K",
+   "ano": "2020",
+   "fonte": "Int J Mol Sci",
+   "titulo": "Gut-Brain Axis: Role of Gut Microbiota on Neurological Disorders and How Probiotics/Prebiotics Beneficially Modulate Microbial and Immune Pathways to Improve Brain Functions.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — imunologia geral do eixo/metabólitos; núcleo coberto por masters de via imune (B7-CAUSAL-01)",
+   "doi": "10.3390/ijms21207551",
+   "decl_autor": "Suganya",
+   "decl_ano": "2020"
+  },
+  {
+   "n": 57,
+   "pmid": "30518529",
+   "autor": "Tulkens J",
+   "ano": "2020",
+   "fonte": "Gut",
+   "titulo": "Increased levels of systemic LPS-positive bacterial extracellular vesicles in patients with intestinal barrier dysfunction.",
+   "pubtype": [
+    "Letter",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — humano: vesículas extracelulares bacterianas LPS+ sistêmicas aumentadas em disfunção de barreira (janela humana de translocação; SEM ABSTRACT no PubMed → validação G3 título/Gut/autor; claim ASSOCIATIVO)",
+   "doi": "10.1136/gutjnl-2018-317726",
+   "decl_autor": "Tulkens",
+   "decl_ano": "2018"
+  },
+  {
+   "n": 58,
+   "pmid": "32333962",
+   "autor": "Wenzel TJ",
+   "ano": "2020",
+   "fonte": "Mol Cell Neurosci",
+   "titulo": "Short-chain fatty acids (SCFAs) alone or in combination regulate select immune functions of microglia-like cells.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — primário AGCC periférico/imune/metabólico; sem ponte ao SNC além das masters",
+   "doi": "10.1016/j.mcn.2020.103493",
+   "decl_autor": "Wenzel",
+   "decl_ano": "2020"
+  },
+  {
+   "n": 59,
+   "pmid": "32131830",
+   "autor": "Wu J",
+   "ano": "2020",
+   "fonte": "BMC Vet Res",
+   "titulo": "Betaine attenuates LPS-induced downregulation of Occludin and Claudin-1 and restores intestinal barrier function.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC — veterinária (BMC Vet Res, betaina)",
+   "doi": "10.1186/s12917-020-02298-3",
+   "decl_autor": "Wu",
+   "decl_ano": "2019"
+  },
+  {
+   "n": 60,
+   "pmid": "31784978",
+   "autor": "Yang LL",
+   "ano": "2020",
+   "fonte": "J Neurochem",
+   "titulo": "Enteric short-chain fatty acids promote proliferation of human neural progenitor cells.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — primário AGCC periférico/imune/metabólico; sem ponte ao SNC além das masters",
+   "doi": "10.1111/jnc.14928",
+   "decl_autor": "Yang",
+   "decl_ano": "2019"
+  },
+  {
+   "n": 61,
+   "pmid": "33403482",
+   "autor": "Akiba Y",
+   "ano": "2021",
+   "fonte": "Dig Dis Sci",
+   "titulo": "Which Comes First: Increased Intestinal Paracellular Permeability or Subepithelial Inflammation?",
+   "pubtype": [
+    "Editorial",
+    "Comment"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — editorial (Akiba 2021) sem abstract no PubMed; pergunta 'galinha-ovo' permeabilidade×inflamação já registrada na V1",
+   "doi": "10.1007/s10620-020-06724-2",
+   "decl_autor": "Akiba",
+   "decl_ano": "2021"
+  },
+  {
+   "n": 62,
+   "pmid": "34127024",
+   "autor": "Chen LM",
+   "ano": "2021",
+   "fonte": "J Neuroinflammation",
+   "titulo": "Tryptophan-kynurenine metabolism: a link between the gut and brain for depression in inflammatory bowel disease.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Chen LM 2021, Trp-KYN intestino-cérebro na depressão/DII",
+   "doi": "10.1186/s12974-021-02175-2",
+   "decl_autor": "Chen",
+   "decl_ano": "2021"
+  },
+  {
+   "n": 63,
+   "pmid": "33535879",
+   "autor": "Deng Y",
+   "ano": "2021",
+   "fonte": "Gut Microbes",
+   "titulo": "Involvement of the microbiota-gut-brain axis in chronic restraint stress: disturbances of the kynurenine metabolic pathway in both the gut and brain.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — primário Trp/KYN sem ponte microbiota→SNC fechada (B7-CAUSAL-01/02)",
+   "doi": "10.1080/19490976.2020.1869501",
+   "decl_autor": "Deng",
+   "decl_ano": "2021"
+  },
+  {
+   "n": 64,
+   "pmid": "34707612",
+   "autor": "Ding M",
+   "ano": "2021",
+   "fonte": "Front Immunol",
+   "titulo": "Microbiota-Gut-Brain Axis and Epilepsy: A Review on Mechanisms and Potential Therapeutics.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC malha — epilepsia",
+   "doi": "10.3389/fimmu.2021.742449",
+   "decl_autor": "Ding",
+   "decl_ano": "2021"
+  },
+  {
+   "n": 65,
+   "pmid": "34731656",
+   "autor": "Erny D",
+   "ano": "2021",
+   "fonte": "Cell Metab",
+   "titulo": "Microbiota-derived acetate enables the metabolic fitness of the brain innate immune system during health and disease.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Erny 2021, acetato→aptidão metabólica microglial (formulação específica)",
+   "doi": "10.1016/j.cmet.2021.10.010",
+   "decl_autor": "Erny",
+   "decl_ano": "2021"
+  },
+  {
+   "n": 66,
+   "pmid": "34149693",
+   "autor": "Grifka-Walk HM",
+   "ano": "2021",
+   "fonte": "Front Immunol",
+   "titulo": "Amino Acid Trp: The Far Out Impacts of Host and Commensal Tryptophan Metabolism.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão Trp hospedeiro/comensal (Grifka-Walk 2021); redundante com master Agus 2018",
+   "doi": "10.3389/fimmu.2021.653208",
+   "decl_autor": "Grifka-Walk",
+   "decl_ano": "2021"
+  },
+  {
+   "n": 67,
+   "pmid": "34473368",
+   "autor": "Haq S",
+   "ano": "2021",
+   "fonte": "FASEB J",
+   "titulo": "Tryptophan-derived serotonin-kynurenine balance in immune activation and intestinal inflammation.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — balanço 5-HT↔KYN na imunidade intestinal (Haq 2021); partição Trp já coberta por masters Agus/Bosi e V1 2.5/2.7",
+   "doi": "10.1096/fj.202100702r",
+   "decl_autor": "Haq",
+   "decl_ano": "2021"
+  },
+  {
+   "n": 68,
+   "pmid": "33905875",
+   "autor": "Hou Y",
+   "ano": "2021",
+   "fonte": "Exp Gerontol",
+   "titulo": "Neuroprotective effects of short-chain fatty acids in MPTP induced mice model of Parkinson's disease.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC malha — Parkinson (MPTP, AGCC)",
+   "doi": "10.1016/j.exger.2021.111376",
+   "decl_autor": "Hou",
+   "decl_ano": "2021"
+  },
+  {
+   "n": 69,
+   "pmid": "34365090",
+   "autor": "Kibbie JJ",
+   "ano": "2021",
+   "fonte": "Immunobiology",
+   "titulo": "Butyrate directly decreases human gut lamina propria CD4 T cell function through histone deacetylase (HDAC) inhibition and GPR43 signaling.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — primário AGCC periférico/imune/metabólico; sem ponte ao SNC além das masters",
+   "doi": "10.1016/j.imbio.2021.152126",
+   "decl_autor": "Kibbie",
+   "decl_ano": "2021"
+  },
+  {
+   "n": 70,
+   "pmid": "34478742",
+   "autor": "Kuo WT",
+   "ano": "2021",
+   "fonte": "Gastroenterology",
+   "titulo": "The Tight Junction Protein ZO-1 Is Dispensable for Barrier Function but Critical for Effective Mucosal Repair.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — ZO-1 dispensável para função de barreira mas crítico para reparo mucoso (Gastroenterology; afia o ceticismo da V1 sobre ZO-1 como marcador)",
+   "doi": "10.1053/j.gastro.2021.08.047",
+   "decl_autor": "Kuo",
+   "decl_ano": "2021"
+  },
+  {
+   "n": 71,
+   "pmid": "34599147",
+   "autor": "Leclercq S",
+   "ano": "2021",
+   "fonte": "Transl Psychiatry",
+   "titulo": "Alterations of kynurenine pathway in alcohol use disorder and abstinence: a link with gut microbiota, peripheral inflammation and psychological symptoms.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — humano em transtorno por uso de álcool (KYN/inflamação); tangencial ao miolo ansiedade/depressão; V1 já marca alcoolismo como fronteira ilustrativa (12.x)",
+   "doi": "10.1038/s41398-021-01610-5",
+   "decl_autor": "Leclercq",
+   "decl_ano": "2021"
+  },
+  {
+   "n": 72,
+   "pmid": "33434620",
+   "autor": "Liu P",
+   "ano": "2021",
+   "fonte": "Pharmacol Res",
+   "titulo": "The role of short-chain fatty acids in intestinal barrier function, inflammation, oxidative stress, and colonic carcinogenesis.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão/primário de biologia de tight junctions; arquitetura de barreiras coberta pelas masters (Guo×2/Nighot×2/Kurita/Aburto) + Kuo/Barki novas",
+   "doi": "10.1016/j.phrs.2021.105420",
+   "decl_autor": "Liu",
+   "decl_ano": "2021"
+  },
+  {
+   "n": 73,
+   "pmid": "33893636",
+   "autor": "Mazarati A",
+   "ano": "2021",
+   "fonte": "Epilepsia",
+   "titulo": "Disruption of intestinal barrier and endotoxemia after traumatic brain injury: Implications for post-traumatic epilepsy.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC malha — TCE + epilepsia pós-traumática",
+   "doi": "10.1111/epi.16909",
+   "decl_autor": "Mazarati",
+   "decl_ano": "2021"
+  },
+  {
+   "n": 74,
+   "pmid": "33093662",
+   "autor": "Morais LH",
+   "ano": "2021",
+   "fonte": "Nat Rev Microbiol",
+   "titulo": "The gut microbiota-brain axis in behaviour and brain disorders.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão Nat Rev Microbiol (Morais 2021) comportamento/doenças; arquitetura já coberta por Cryan 2019 (vigente)",
+   "doi": "10.1038/s41579-020-00460-0",
+   "decl_autor": "Morais",
+   "decl_ano": "2020"
+  },
+  {
+   "n": 75,
+   "pmid": "33801524",
+   "autor": "Paradis T",
+   "ano": "2021",
+   "fonte": "Int J Mol Sci",
+   "titulo": "Tight Junctions as a Key for Pathogens Invasion in Intestinal Epithelial Cells.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — barreira intestinal com agente/intervenção isolada; seta LPS→TJ coberta pelas masters; sem ponte causal ao SNC",
+   "doi": "10.3390/ijms22052506",
+   "decl_autor": "Paradis",
+   "decl_ano": "2021"
+  },
+  {
+   "n": 76,
+   "pmid": "33804088",
+   "autor": "Roth W",
+   "ano": "2021",
+   "fonte": "Int J Mol Sci",
+   "titulo": "Tryptophan Metabolism and Gut-Brain Homeostasis.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão Trp e homeostase gut-brain (Roth 2021); redundante",
+   "doi": "10.3390/ijms22062973",
+   "decl_autor": "Roth",
+   "decl_ano": "2021"
+  },
+  {
+   "n": 77,
+   "pmid": "34152937",
+   "autor": "Scalise AA",
+   "ano": "2021",
+   "fonte": "Tissue Barriers",
+   "titulo": "The blood-brain and gut-vascular barriers: from the perspective of claudins.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão/primário de biologia de tight junctions; arquitetura de barreiras coberta pelas masters (Guo×2/Nighot×2/Kurita/Aburto) + Kuo/Barki novas",
+   "doi": "10.1080/21688370.2021.1926190",
+   "decl_autor": "Scalise",
+   "decl_ano": "2021"
+  },
+  {
+   "n": 78,
+   "pmid": "34335190",
+   "autor": "Schächtle MA",
+   "ano": "2021",
+   "fonte": "Front Cell Neurosci",
+   "titulo": "The Microbiota-Gut-Brain Axis in Health and Disease and Its Implications for Translational Research.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão translacional genérica (Schächtle 2021); arquitetura coberta",
+   "doi": "10.3389/fncel.2021.698172",
+   "decl_autor": "Schächtle",
+   "decl_ano": "2021"
+  },
+  {
+   "n": 79,
+   "pmid": "34589808",
+   "autor": "Spichak S",
+   "ano": "2021",
+   "fonte": "Brain Behav Immun Health",
+   "titulo": "Microbially-derived short-chain fatty acids impact astrocyte gene expression in a sex-specific manner.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Spichak 2021, AGCC microbianos→expressão gênica astrocitária sexo-específica",
+   "doi": "10.1016/j.bbih.2021.100318",
+   "decl_autor": "Spichak",
+   "decl_ano": "2021"
+  },
+  {
+   "n": 80,
+   "pmid": "35903003",
+   "autor": "Ahmed H",
+   "ano": "2022",
+   "fonte": "Gut Microbes",
+   "titulo": "Microbiota-derived metabolites as drivers of gut-brain communication.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão narrativa genérica do eixo intestino-cérebro; arquitetura coberta por V1 vigente (Cryan 2019/Bonaz 2018/Margolis 2021) e masters 2024–2025; sem seta causal nova",
+   "doi": "10.1080/19490976.2022.2102878",
+   "decl_autor": "Ahmed",
+   "decl_ano": "2022"
+  },
+  {
+   "n": 81,
+   "pmid": "34289794",
+   "autor": "Ala M",
+   "ano": "2022",
+   "fonte": "Int Rev Immunol",
+   "titulo": "Tryptophan metabolites modulate inflammatory bowel disease and colorectal cancer by affecting immune system.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral triptofano/quinurenina; arquitetura coberta pelas masters Agus 2018/Bosi 2020/Schwarcz 2024/Sathyasaikumar 2024 e seção 2.5 da V1",
+   "doi": "10.1080/08830185.2021.1954638",
+   "decl_autor": "Ala",
+   "decl_ano": "2021"
+  },
+  {
+   "n": 82,
+   "pmid": "35229717",
+   "autor": "Barki N",
+   "ano": "2022",
+   "fonte": "Elife",
+   "titulo": "Chemogenetics defines a short-chain fatty acid receptor gut-brain axis.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Barki 2022, quimiogenética define eixo receptor-AGCC intestino-cérebro",
+   "doi": "10.7554/elife.73777",
+   "decl_autor": "Barki",
+   "decl_ano": "2022"
+  },
+  {
+   "n": 83,
+   "pmid": "35596843",
+   "autor": "Dong Y",
+   "ano": "2022",
+   "fonte": "Mol Cell Biochem",
+   "titulo": "The role of short-chain fatty acids in central nervous system diseases.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral AGCC (imunidade/metabolismo/doenças); núcleo AGCC→cérebro coberto por masters Erny 2021/Spichak 2021/Caetano-Silva 2023/Barki 2022/Cheng 2024",
+   "doi": "10.1007/s11010-022-04471-8",
+   "decl_autor": "Dong",
+   "decl_ano": "2022"
+  },
+  {
+   "n": 84,
+   "pmid": "35883554",
+   "autor": "Hestad K",
+   "ano": "2022",
+   "fonte": "Biomolecules",
+   "titulo": "The Role of Tryptophan Dysmetabolism and Quinolinic Acid in Depressive and Neurodegenerative Diseases.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão Trp/QUIN em depressão E neurodegeneração (Hestad 2022); mira mista, foco B4/B1+neurodegenerativo",
+   "doi": "10.3390/biom12070998",
+   "decl_autor": "Hestad",
+   "decl_ano": "2022"
+  },
+  {
+   "n": 85,
+   "pmid": "35420913",
+   "autor": "Honarpisheh P",
+   "ano": "2022",
+   "fonte": "Circ Res",
+   "titulo": "Aging Microbiota-Gut-Brain Axis in Stroke Risk and Outcome.",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC malha — AVC (envelhecimento, risco/desfecho)",
+   "doi": "10.1161/circresaha.122.319983",
+   "decl_autor": "Honarpisheh",
+   "decl_ano": "2022"
+  },
+  {
+   "n": 86,
+   "pmid": "35038025",
+   "autor": "Hyland NP",
+   "ano": "2022",
+   "fonte": "Amino Acids",
+   "titulo": "Emerging effects of tryptophan pathway metabolites and intestinal microbiota on metabolism and intestinal function.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral triptofano/quinurenina; arquitetura coberta pelas masters Agus 2018/Bosi 2020/Schwarcz 2024/Sathyasaikumar 2024 e seção 2.5 da V1",
+   "doi": "10.1007/s00726-022-03123-x",
+   "decl_autor": "Hyland",
+   "decl_ano": "2022"
+  },
+  {
+   "n": 87,
+   "pmid": "36057320",
+   "autor": "Ikeda T",
+   "ano": "2022",
+   "fonte": "Pharmacol Ther",
+   "titulo": "Short-chain fatty acid receptors and gut microbiota as therapeutic targets in metabolic, immune, and neurological diseases.",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral AGCC (imunidade/metabolismo/doenças); núcleo AGCC→cérebro coberto por masters Erny 2021/Spichak 2021/Caetano-Silva 2023/Barki 2022/Cheng 2024",
+   "doi": "10.1016/j.pharmthera.2022.108273",
+   "decl_autor": "Ikeda",
+   "decl_ano": "2022"
+  },
+  {
+   "n": 88,
+   "pmid": "36552802",
+   "autor": "Kalyan M",
+   "ano": "2022",
+   "fonte": "Cells",
+   "titulo": "Role of Endogenous Lipopolysaccharides in Neurological Disorders.",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão mira doenças neurológicas/neurodegenerativas em geral; fora do miolo (malha: neurodegeneração não é escopo B7)",
+   "doi": "10.3390/cells11244038",
+   "decl_autor": "Kalyan",
+   "decl_ano": "2022"
+  },
+  {
+   "n": 89,
+   "pmid": "36355147",
+   "autor": "Kandpal M",
+   "ano": "2022",
+   "fonte": "Metabolites",
+   "titulo": "Dysbiosis of Gut Microbiota from the Perspective of the Gut-Brain Axis: Role in the Provocation of Neurological Disorders.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão narrativa genérica do eixo intestino-cérebro; arquitetura coberta por V1 vigente (Cryan 2019/Bonaz 2018/Margolis 2021) e masters 2024–2025; sem seta causal nova",
+   "doi": "10.3390/metabo12111064",
+   "decl_autor": "Kandpal",
+   "decl_ano": "2022"
+  },
+  {
+   "n": 90,
+   "pmid": "35736894",
+   "autor": "Kang J",
+   "ano": "2022",
+   "fonte": "Toxics",
+   "titulo": "Ginsenoside Rg1 Mitigates Porcine Intestinal Tight Junction Disruptions Induced by LPS through the p38 MAPK/NLRP3 Inflammasome Pathway.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC — pecuária (porcino) + fitoterápico (ginsenosídeo)",
+   "doi": "10.3390/toxics10060285",
+   "decl_autor": "Kang",
+   "decl_ano": "2022"
+  },
+  {
+   "n": 91,
+   "pmid": "36014776",
+   "autor": "Liaqat H",
+   "ano": "2022",
+   "fonte": "Nutrients",
+   "titulo": "Neuroprotective Natural Products' Regulatory Effects on Depression via Gut-Brain Axis Targeting Tryptophan.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — produtos naturais×depressão via eixo (Liaqat 2022); fronteira P20 (fitoterápicos), sem primário de mecanismo",
+   "doi": "10.3390/nu14163270",
+   "decl_autor": "Liaqat",
+   "decl_ano": "2022"
+  },
+  {
+   "n": 92,
+   "pmid": "36172468",
+   "autor": "Lukić I",
+   "ano": "2022",
+   "fonte": "Front Behav Neurosci",
+   "titulo": "Tryptophan metabolites in depression: Modulation by gut microbiota.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão Trp×depressão×microbiota (Lukić 2022); coberta pelas masters Chen 2021/Cheng 2024/Zhou 2023/Lin 2023",
+   "doi": "10.3389/fnbeh.2022.987697",
+   "decl_autor": "Lukic",
+   "decl_ano": "2022"
+  },
+  {
+   "n": 93,
+   "pmid": "35688319",
+   "autor": "Luo P",
+   "ano": "2022",
+   "fonte": "Transl Res",
+   "titulo": "Central and peripheral regulations mediated by short-chain fatty acids on energy homeostasis.",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral AGCC (imunidade/metabolismo/doenças); núcleo AGCC→cérebro coberto por masters Erny 2021/Spichak 2021/Caetano-Silva 2023/Barki 2022/Cheng 2024",
+   "doi": "10.1016/j.trsl.2022.06.003",
+   "decl_autor": "Luo",
+   "decl_ano": "2022"
+  },
+  {
+   "n": 94,
+   "pmid": "35066114",
+   "autor": "O'Riordan KJ",
+   "ano": "2022",
+   "fonte": "Mol Cell Endocrinol",
+   "titulo": "Short chain fatty acids: Microbial metabolites for gut-brain axis signalling.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão sinalização AGCC no eixo (O'Riordan 2022); redundante com Silva 2020 e masters de AGCC",
+   "doi": "10.1016/j.mce.2022.111572",
+   "decl_autor": "O'Riordan",
+   "decl_ano": "2022"
+  },
+  {
+   "n": 95,
+   "pmid": "35855330",
+   "autor": "Qian XH",
+   "ano": "2022",
+   "fonte": "Aging Dis",
+   "titulo": "Mechanisms of Short-Chain Fatty Acids Derived from Gut Microbiota in Alzheimer's Disease.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC malha — Alzheimer (AGCC)",
+   "doi": "10.14336/ad.2021.1215",
+   "decl_autor": "Qian",
+   "decl_ano": "2022"
+  },
+  {
+   "n": 96,
+   "pmid": "35706008",
+   "autor": "Sittipo P",
+   "ano": "2022",
+   "fonte": "J Neuroinflammation",
+   "titulo": "The function of gut microbiota in immune-related neurological disorders: a review.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — imunologia geral do eixo/metabólitos; núcleo coberto por masters de via imune (B7-CAUSAL-01)",
+   "doi": "10.1186/s12974-022-02510-1",
+   "decl_autor": "Sittipo",
+   "decl_ano": "2022"
+  },
+  {
+   "n": 97,
+   "pmid": "35819092",
+   "autor": "Song L",
+   "ano": "2022",
+   "fonte": "Mol Nutr Food Res",
+   "titulo": "Roseburia hominis Alleviates Neuroinflammation via Short-Chain Fatty Acids through Histone Deacetylase Inhibition.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — primário Roseburia→AGCC→HDAC×neuroinflamação (Song 2022); mesma seta das masters Erny/Caetano-Silva; sem ponte comportamental",
+   "doi": "10.1002/mnfr.202200164",
+   "decl_autor": "Song",
+   "decl_ano": "2022"
+  },
+  {
+   "n": 98,
+   "pmid": "35892593",
+   "autor": "Su X",
+   "ano": "2022",
+   "fonte": "Cells",
+   "titulo": "Gut Microbiota-Derived Tryptophan Metabolites Maintain Gut and Systemic Homeostasis.",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral triptofano/quinurenina; arquitetura coberta pelas masters Agus 2018/Bosi 2020/Schwarcz 2024/Sathyasaikumar 2024 e seção 2.5 da V1",
+   "doi": "10.3390/cells11152296",
+   "decl_autor": "Su",
+   "decl_ano": "2022"
+  },
+  {
+   "n": 99,
+   "pmid": "36558058",
+   "autor": "Zhang B",
+   "ano": "2022",
+   "fonte": "Molecules",
+   "titulo": "Daidzein Protects Caco-2 Cells against Lipopolysaccharide-Induced Intestinal Epithelial Barrier Injury by Suppressing PI3K/AKT and P38 Pathways.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — barreira intestinal in vitro com intervenção única; mecanismo LPS→TJ já coberto pelas masters Guo 2013/2015 + Nighot 2017/2019; sem ponte ao SNC (B7-CAUSAL-01)",
+   "doi": "10.3390/molecules27248928",
+   "decl_autor": "Zhang",
+   "decl_ano": "2022"
+  },
+  {
+   "n": 100,
+   "pmid": "36776388",
+   "autor": "Zhao LP",
+   "ano": "2022",
+   "fonte": "Front Immunol",
+   "titulo": "DSS-induced colitis activates the kynurenine pathway in serum and brain by affecting IDO-1 and gut microbiota.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Zhao 2022, colite DSS→IDO-1→KYN soro+cérebro via microbiota",
+   "doi": "10.3389/fimmu.2022.1089200",
+   "decl_autor": "Zhao",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 101,
+   "pmid": "36232464",
+   "autor": "Zheng J",
+   "ano": "2022",
+   "fonte": "Int J Mol Sci",
+   "titulo": "Lactobacillus rhamnosus CY12 Enhances Intestinal Barrier Function by Regulating Tight Junction Protein Expression, Oxidative Stress, and Inflammation Response in Lipopolysaccharide-Induced Caco-2 Cells.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — Caco-2 LPS + L. rhamnosus (Zheng J 2022); família in vitro barreira",
+   "doi": "10.3390/ijms231911162",
+   "decl_autor": "Zheng",
+   "decl_ano": "2022"
+  },
+  {
+   "n": 102,
+   "pmid": "36199030",
+   "autor": "Zou P",
+   "ano": "2022",
+   "fonte": "BMC Infect Dis",
+   "titulo": "Lipopolysaccharide downregulates the expression of ZO-1 protein through the Akt pathway.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — LPS↓ZO-1 via Akt em modelo infeccioso (Zou 2022); biologia de TJ coberta pelas masters + Kuo 2021",
+   "doi": "10.1186/s12879-022-07752-1",
+   "decl_autor": "Zou",
+   "decl_ano": "2022"
+  },
+  {
+   "n": 103,
+   "pmid": "35367310",
+   "autor": "von Buchholz JS",
+   "ano": "2022",
+   "fonte": "Microb Pathog",
+   "titulo": "Paracellular intestinal permeability of chickens induced by DON and/or C. jejuni is associated with alterations in tight junction mRNA expression.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC — pecuária (galinhas DON/C. jejuni)",
+   "doi": "10.1016/j.micpath.2022.105509",
+   "decl_autor": "Von Buchholz",
+   "decl_ano": "2022"
+  },
+  {
+   "n": 104,
+   "pmid": "36797287",
+   "autor": "Caetano-Silva ME",
+   "ano": "2023",
+   "fonte": "Sci Rep",
+   "titulo": "Inhibition of inflammatory microglia by dietary fiber and short-chain fatty acids.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Caetano-Silva 2023, fibra/AGCC inibem microglia inflamatória",
+   "doi": "10.1038/s41598-022-27086-x",
+   "decl_autor": "Caetano-Silva",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 105,
+   "pmid": "36831324",
+   "autor": "Fock E",
+   "ano": "2023",
+   "fonte": "Cells",
+   "titulo": "Mechanisms of Blood-Brain Barrier Protection by Microbiota-Derived Short-Chain Fatty Acids.",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral AGCC (imunidade/metabolismo/doenças); núcleo AGCC→cérebro coberto por masters Erny 2021/Spichak 2021/Caetano-Silva 2023/Barki 2022/Cheng 2024",
+   "doi": "10.3390/cells12040657",
+   "decl_autor": "Fock",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 106,
+   "pmid": "37898179",
+   "autor": "Gupta SK",
+   "ano": "2023",
+   "fonte": "Exp Gerontol",
+   "titulo": "Microbiota-derived tryptophan metabolism: Impacts on health, aging, and disease.",
+   "pubtype": [
+    "Review",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral triptofano/quinurenina; arquitetura coberta pelas masters Agus 2018/Bosi 2020/Schwarcz 2024/Sathyasaikumar 2024 e seção 2.5 da V1",
+   "doi": "10.1016/j.exger.2023.112319",
+   "decl_autor": "Gupta",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 107,
+   "pmid": "37186118",
+   "autor": "Horowitz A",
+   "ano": "2023",
+   "fonte": "Nat Rev Gastroenterol Hepatol",
+   "titulo": "Paracellular permeability and tight junction regulation in gut health and disease.",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão/primário de biologia de tight junctions; arquitetura de barreiras coberta pelas masters (Guo×2/Nighot×2/Kurita/Aburto) + Kuo/Barki novas",
+   "doi": "10.1038/s41575-023-00766-3",
+   "decl_autor": "Horowitz",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 108,
+   "pmid": "37999261",
+   "autor": "Hou Y",
+   "ano": "2023",
+   "fonte": "Metabolites",
+   "titulo": "Tryptophan Metabolism and Gut Microbiota: A Novel Regulatory Axis Integrating the Microbiome, Immunity, and Cancer.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral triptofano/quinurenina; arquitetura coberta pelas masters Agus 2018/Bosi 2020/Schwarcz 2024/Sathyasaikumar 2024 e seção 2.5 da V1",
+   "doi": "10.3390/metabo13111166",
+   "decl_autor": "Hou",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 109,
+   "pmid": "37191427",
+   "autor": "Huang Y",
+   "ano": "2023",
+   "fonte": "Aging Dis",
+   "titulo": "Tryptophan Metabolism in Central Nervous System Diseases: Pathophysiology and Potential Therapeutic Strategies.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral triptofano/quinurenina; arquitetura coberta pelas masters Agus 2018/Bosi 2020/Schwarcz 2024/Sathyasaikumar 2024 e seção 2.5 da V1",
+   "doi": "10.14336/ad.2022.0916",
+   "decl_autor": "Huang",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 110,
+   "pmid": "36746244",
+   "autor": "Li CC",
+   "ano": "2023",
+   "fonte": "J Affect Disord",
+   "titulo": "Tryptophan-kynurenine metabolic characterization in the gut and brain of depressive-like rats induced by chronic restraint stress.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Li CC 2023, Trp-KYN intestino+cérebro em ratos com fenótipo depressivo (CRS)",
+   "doi": "10.1016/j.jad.2023.02.008",
+   "decl_autor": "Li",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 111,
+   "pmid": "37521424",
+   "autor": "Li S",
+   "ano": "2023",
+   "fonte": "Front Nutr",
+   "titulo": "Modulation of immunity by tryptophan microbial metabolites.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral triptofano/quinurenina; arquitetura coberta pelas masters Agus 2018/Bosi 2020/Schwarcz 2024/Sathyasaikumar 2024 e seção 2.5 da V1",
+   "doi": "10.3389/fnut.2023.1209613",
+   "decl_autor": "Li",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 112,
+   "pmid": "37009158",
+   "autor": "Li Z",
+   "ano": "2023",
+   "fonte": "PeerJ",
+   "titulo": "The modulatory effects of gut microbes and metabolites on blood-brain barrier integrity and brain function in sepsis-associated encephalopathy.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — modelo de sepse; barreira/translocação já coberta (masters + Tulkens humano); fora do miolo psiquiátrico",
+   "doi": "10.7717/peerj.15122",
+   "decl_autor": "Li",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 113,
+   "pmid": "37049591",
+   "autor": "Lin P",
+   "ano": "2023",
+   "fonte": "Nutrients",
+   "titulo": "Dysbiosis of the Gut Microbiota and Kynurenine (Kyn) Pathway Activity as Potential Biomarkers in Patients with Major Depressive Disorder.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Lin 2023, disbiose+via KYN como biomarcadores na TDM (ASSOCIATIVE)",
+   "doi": "10.3390/nu15071752",
+   "decl_autor": "Lin",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 114,
+   "pmid": "36868874",
+   "autor": "Majumdar A",
+   "ano": "2023",
+   "fonte": "ACS Chem Neurosci",
+   "titulo": "Short-Chain Fatty Acids in the Microbiota-Gut-Brain Axis: Role in Neurodegenerative Disorders and Viral Infections.",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral AGCC (imunidade/metabolismo/doenças); núcleo AGCC→cérebro coberto por masters Erny 2021/Spichak 2021/Caetano-Silva 2023/Barki 2022/Cheng 2024",
+   "doi": "10.1021/acschemneuro.2c00803",
+   "decl_autor": "Majumdar",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 115,
+   "pmid": "38661366",
+   "autor": "Porbahaie M",
+   "ano": "2023",
+   "fonte": "Benef Microbes",
+   "titulo": "Short-chain fatty acids inhibit the activation of T lymphocytes and myeloid cells and induce innate immune tolerance.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — primário AGCC periférico/imune/metabólico; sem ponte ao SNC além das masters",
+   "doi": "10.1163/18762891-20220113",
+   "decl_autor": "Porbahaie",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 116,
+   "pmid": "37264394",
+   "autor": "Prado C",
+   "ano": "2023",
+   "fonte": "J Neuroinflammation",
+   "titulo": "GPR43 stimulation on TCRαβ(+) intraepithelial colonic lymphocytes inhibits the recruitment of encephalitogenic T-cells into the central nervous system and attenuates the development of autoimmunity.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC malha — autoimunidade/EAE (GPR43 linfócitos T)",
+   "doi": "10.1186/s12974-023-02815-9",
+   "decl_autor": "Prado",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 117,
+   "pmid": "37070532",
+   "autor": "Saikachain N",
+   "ano": "2023",
+   "fonte": "J Neurochem",
+   "titulo": "Neuroprotective effect of short-chain fatty acids against oxidative stress-induced SH-SY5Y injury via GPR43-dependent pathway.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Saikachain 2023, AGCC neuroprotetor via GPR43 (SH-SY5Y, in vitro)",
+   "doi": "10.1111/jnc.15827",
+   "decl_autor": "Saikachain",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 118,
+   "pmid": "36757399",
+   "autor": "Salminen A",
+   "ano": "2023",
+   "fonte": "J Mol Med (Berl)",
+   "titulo": "Activation of aryl hydrocarbon receptor (AhR) in Alzheimer's disease: role of tryptophan metabolites generated by gut host-microbiota.",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC malha — Alzheimer (AhR)",
+   "doi": "10.1007/s00109-023-02289-5",
+   "decl_autor": "Salminen",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 119,
+   "pmid": "37156006",
+   "autor": "Sasso JM",
+   "ano": "2023",
+   "fonte": "ACS Chem Neurosci",
+   "titulo": "Gut Microbiome-Brain Alliance: A Landscape View into Mental and Gastrointestinal Health and Disorders.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão-panorama saúde mental×GI (Sasso 2023); genérica, sem seta causal nova",
+   "doi": "10.1021/acschemneuro.3c00127",
+   "decl_autor": "Sasso",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 120,
+   "pmid": "37512997",
+   "autor": "Shaw C",
+   "ano": "2023",
+   "fonte": "Microorganisms",
+   "titulo": "Microbial-Derived Tryptophan Metabolites and Their Role in Neurological Disease: Anthranilic Acid and Anthranilic Acid Derivatives.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral triptofano/quinurenina; arquitetura coberta pelas masters Agus 2018/Bosi 2020/Schwarcz 2024/Sathyasaikumar 2024 e seção 2.5 da V1",
+   "doi": "10.3390/microorganisms11071825",
+   "decl_autor": "Shaw",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 121,
+   "pmid": "37274298",
+   "autor": "Shu LZ",
+   "ano": "2023",
+   "fonte": "Ther Adv Gastroenterol",
+   "titulo": "Direct and indirect effects of pathogenic bacteria on the integrity of intestinal barrier.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — barreira intestinal com agente/intervenção isolada; seta LPS→TJ coberta pelas masters; sem ponte causal ao SNC",
+   "doi": "10.1177/17562848231176427",
+   "decl_autor": "Shu",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 122,
+   "pmid": "37596634",
+   "autor": "Zhang D",
+   "ano": "2023",
+   "fonte": "Cell Commun Signal",
+   "titulo": "Short-chain fatty acids in diseases.",
+   "pubtype": [
+    "Video-Audio Media",
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral AGCC (imunidade/metabolismo/doenças); núcleo AGCC→cérebro coberto por masters Erny 2021/Spichak 2021/Caetano-Silva 2023/Barki 2022/Cheng 2024",
+   "doi": "10.1186/s12964-023-01219-9",
+   "decl_autor": "Zhang",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 123,
+   "pmid": "36758839",
+   "autor": "Zhao LP",
+   "ano": "2023",
+   "fonte": "J Nutr Biochem",
+   "titulo": "DSS-induced acute colitis causes dysregulated tryptophan metabolism in brain: an involvement of gut microbiota.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — mesmo grupo/pergunta da master Zhao 2022 (36776388: DSS→KYN soro+cérebro via microbiota); redundância de desenho",
+   "doi": "10.1016/j.jnutbio.2023.109282",
+   "decl_autor": "Zhao",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 124,
+   "pmid": "37960284",
+   "autor": "Zheng Y",
+   "ano": "2023",
+   "fonte": "Nutrients",
+   "titulo": "Understanding the Gut-Brain Axis and Its Therapeutic Implications for Neurodegenerative Disorders.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC malha — neurodegenerativos (revisão eixo gut-brain)",
+   "doi": "10.3390/nu15214631",
+   "decl_autor": "Zheng",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 125,
+   "pmid": "37386523",
+   "autor": "Zhou M",
+   "ano": "2023",
+   "fonte": "Microbiome",
+   "titulo": "Microbiome and tryptophan metabolomics analysis in adolescent depression: roles of the gut microbiota in the regulation of tryptophan-derived neurotransmitters and behaviors in human and mice.",
+   "pubtype": [
+    "Video-Audio Media",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Zhou 2023, depressão adolescente humano+camundongo: microbiota regula neurotransmissores derivados de Trp",
+   "doi": "10.1186/s40168-023-01589-9",
+   "decl_autor": "Zhou",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 126,
+   "pmid": "38355758",
+   "autor": "Aburto MR",
+   "ano": "2024",
+   "fonte": "Nat Rev Gastroenterol Hepatol",
+   "titulo": "Gastrointestinal and brain barriers: unlocking gates of communication across the microbiota-gut-brain axis.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Aburto & Cryan 2024, barreiras GI↔cérebro (arquitetura)",
+   "doi": "10.1038/s41575-023-00890-0",
+   "decl_autor": "Aburto",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 127,
+   "pmid": "38542172",
+   "autor": "Barcutean L",
+   "ano": "2024",
+   "fonte": "Int J Mol Sci",
+   "titulo": "The Immunomodulatory Potential of Short-Chain Fatty Acids in Multiple Sclerosis.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC malha — esclerose múltipla (SCFA imunomodulação)",
+   "doi": "10.3390/ijms25063198",
+   "decl_autor": "Bărcuțean",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 128,
+   "pmid": "38939042",
+   "autor": "Chen N",
+   "ano": "2024",
+   "fonte": "Research (Wash D C)",
+   "titulo": "Brain Short-Chain Fatty Acids Induce ACSS2 to Ameliorate Depressive-Like Behavior via PPARγ-TPH2 Axis.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Chen N 2024, AGCC cerebral→ACSS2→PPARγ→TPH2 (guarda: sem cadeia clínica completa)",
+   "doi": "10.34133/research.0400",
+   "decl_autor": "Chen",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 129,
+   "pmid": "39408347",
+   "autor": "Chen X",
+   "ano": "2024",
+   "fonte": "Nutrients",
+   "titulo": "Tryptophan Metabolism Disorder-Triggered Diseases, Mechanisms, and Therapeutic Strategies: A Scientometric Review.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão cienciométrica de desordens do Trp; sem conteúdo mecanístico primário; briefing já a listava como não citada",
+   "doi": "10.3390/nu16193380",
+   "decl_autor": "Chen",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 130,
+   "pmid": "38390241",
+   "autor": "Cheng J",
+   "ano": "2024",
+   "fonte": "Gen Psychiatr",
+   "titulo": "Gut microbiota-derived short-chain fatty acids and depression: deep insight into biological mechanisms and potential applications.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Cheng 2024, AGCC derivados de microbiota e depressão",
+   "doi": "10.1136/gpsych-2023-101374",
+   "decl_autor": "Cheng",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 131,
+   "pmid": "38812976",
+   "autor": "Costa CFFA",
+   "ano": "2024",
+   "fonte": "Front Neurosci",
+   "titulo": "Importance of good hosting: reviewing the bi-directionality of the microbiome-gut-brain-axis.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão narrativa genérica do eixo intestino-cérebro; arquitetura coberta por V1 vigente (Cryan 2019/Bonaz 2018/Margolis 2021) e masters 2024–2025; sem seta causal nova",
+   "doi": "10.3389/fnins.2024.1386866",
+   "decl_autor": "Costa",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 132,
+   "pmid": "38336171",
+   "autor": "Dong TS",
+   "ano": "2024",
+   "fonte": "Cell Mol Gastroenterol Hepatol",
+   "titulo": "Advances in Brain-Gut-Microbiome Interactions: A Comprehensive Update on Signaling Mechanisms, Disorders, and Therapeutic Implications.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão narrativa genérica do eixo intestino-cérebro; arquitetura coberta por V1 vigente (Cryan 2019/Bonaz 2018/Margolis 2021) e masters 2024–2025; sem seta causal nova",
+   "doi": "10.1016/j.jcmgh.2024.01.024",
+   "decl_autor": "Dong",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 133,
+   "pmid": "39000498",
+   "autor": "Du Y",
+   "ano": "2024",
+   "fonte": "Int J Mol Sci",
+   "titulo": "The Role of Short Chain Fatty Acids in Inflammation and Body Health.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral AGCC (imunidade/metabolismo/doenças); núcleo AGCC→cérebro coberto por masters Erny 2021/Spichak 2021/Caetano-Silva 2023/Barki 2022/Cheng 2024",
+   "doi": "10.3390/ijms25137379",
+   "decl_autor": "Du",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 134,
+   "pmid": "38397970",
+   "autor": "Georgopoulou GA",
+   "ano": "2024",
+   "fonte": "Biomedicines",
+   "titulo": "Altered Expression of Intestinal Tight Junctions in Patients with Chronic Kidney Disease: A Pathogenetic Mechanism of Intestinal Hyperpermeability.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — doença-órgão não psiquiátrica (fígado/rim/coração/vaso); translocação intestinal coberta; tangencial ao miolo",
+   "doi": "10.3390/biomedicines12020368",
+   "decl_autor": "Georgopoulou",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 135,
+   "pmid": "39284033",
+   "autor": "Hays KE",
+   "ano": "2024",
+   "fonte": "Gut Microbes",
+   "titulo": "The interplay between gut microbiota, short-chain fatty acids, and implications for host health and disease.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral AGCC (imunidade/metabolismo/doenças); núcleo AGCC→cérebro coberto por masters Erny 2021/Spichak 2021/Caetano-Silva 2023/Barki 2022/Cheng 2024",
+   "doi": "10.1080/19490976.2024.2393270",
+   "decl_autor": "Hays",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 136,
+   "pmid": "38377788",
+   "autor": "Kalyanaraman B",
+   "ano": "2024",
+   "fonte": "Redox Biol",
+   "titulo": "Gut microbiome, short-chain fatty acids, alpha-synuclein, neuroinflammation, and ROS/RNS: Relevance to Parkinson's disease and therapeutic implications.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC malha — Parkinson (α-sinucleína/SCFA)",
+   "doi": "10.1016/j.redox.2024.103092",
+   "decl_autor": "Kalyanaraman",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 137,
+   "pmid": "38255265",
+   "autor": "Koufou EE",
+   "ano": "2024",
+   "fonte": "Biomedicines",
+   "titulo": "Altered Expression of Intestinal Tight Junction Proteins in Heart Failure Patients with Reduced or Preserved Ejection Fraction: A Pathogenetic Mechanism of Intestinal Hyperpermeability.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — doença-órgão não psiquiátrica (fígado/rim/coração/vaso); translocação intestinal coberta; tangencial ao miolo",
+   "doi": "10.3390/biomedicines12010160",
+   "decl_autor": "Koufou",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 138,
+   "pmid": "38360862",
+   "autor": "Loh JS",
+   "ano": "2024",
+   "fonte": "Signal Transduct Target Ther",
+   "titulo": "Microbiota-gut-brain axis and its therapeutic applications in neurodegenerative diseases.",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC malha — neurodegenerativos (Loh 2024)",
+   "doi": "10.1038/s41392-024-01743-1",
+   "decl_autor": "Loh",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 139,
+   "pmid": "38565643",
+   "autor": "Mann ER",
+   "ano": "2024",
+   "fonte": "Nat Rev Immunol",
+   "titulo": "Short-chain fatty acids: linking diet, the microbiome and immunity.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral AGCC (imunidade/metabolismo/doenças); núcleo AGCC→cérebro coberto por masters Erny 2021/Spichak 2021/Caetano-Silva 2023/Barki 2022/Cheng 2024",
+   "doi": "10.1038/s41577-024-01014-8",
+   "decl_autor": "Mann",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 140,
+   "pmid": "39459534",
+   "autor": "Nakhal MM",
+   "ano": "2024",
+   "fonte": "Life (Basel)",
+   "titulo": "The Microbiota-Gut-Brain Axis and Neurological Disorders: A Comprehensive Review.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão narrativa genérica do eixo intestino-cérebro; arquitetura coberta por V1 vigente (Cryan 2019/Bonaz 2018/Margolis 2021) e masters 2024–2025; sem seta causal nova",
+   "doi": "10.3390/life14101234",
+   "decl_autor": "Nakhal",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 141,
+   "pmid": "38911967",
+   "autor": "Sathyasaikumar KV",
+   "ano": "2024",
+   "fonte": "Int J Tryptophan Res",
+   "titulo": "The Tryptophan Metabolite Indole-3-Propionic Acid Raises Kynurenic Acid Levels in the Rat Brain In Vivo.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Sathyasaikumar 2024, IPrA→↑KYNA no cérebro (guarda B7-CAUSAL-02)",
+   "doi": "10.1177/11786469241262876",
+   "decl_autor": "Sathyasaikumar",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 142,
+   "pmid": "38612489",
+   "autor": "Schwarcz R",
+   "ano": "2024",
+   "fonte": "Int J Mol Sci",
+   "titulo": "The Probiotic Lactobacillus reuteri Preferentially Synthesizes Kynurenic Acid from Kynurenine.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "MASTER GPM — Schwarcz 2024, L. reuteri sintetiza KYNA de KYN (in vitro)",
+   "doi": "10.3390/ijms25073679",
+   "decl_autor": "Schwarcz",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 143,
+   "pmid": "38824840",
+   "autor": "Shekarabi A",
+   "ano": "2024",
+   "fonte": "Curr Opin Microbiol",
+   "titulo": "Host-microbe interactions: communication in the microbiota-gut-brain axis.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão narrativa genérica do eixo intestino-cérebro; arquitetura coberta por V1 vigente (Cryan 2019/Bonaz 2018/Margolis 2021) e masters 2024–2025; sem seta causal nova",
+   "doi": "10.1016/j.mib.2024.102494",
+   "decl_autor": "Shekarabi",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 144,
+   "pmid": "38776563",
+   "autor": "Singh J",
+   "ano": "2024",
+   "fonte": "Asian J Psychiatr",
+   "titulo": "Microbiota-brain axis: Exploring the role of gut microbiota in psychiatric disorders - A comprehensive review.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão microbiota em transtornos psiquiátricos (Singh 2024); genérica; coberta por Góralczyk 2022 (vigente)",
+   "doi": "10.1016/j.ajp.2024.104068",
+   "decl_autor": "Singh",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 145,
+   "pmid": "38102897",
+   "autor": "Stone TW",
+   "ano": "2024",
+   "fonte": "J Neurochem",
+   "titulo": "Tryptophan metabolism as a 'reflex' feature of neuroimmune communication: Sensor and effector functions for the indoleamine-2, 3-dioxygenase kynurenine pathway.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — ensaio conceitual IDO/quinurenina 'reflexo' neuroimune (Stone); sem foco em microbiota→cérebro",
+   "doi": "10.1111/jnc.16015",
+   "decl_autor": "Stone",
+   "decl_ano": "2023"
+  },
+  {
+   "n": 146,
+   "pmid": "38855764",
+   "autor": "Wang Y",
+   "ano": "2024",
+   "fonte": "Front Microbiol",
+   "titulo": "Protective effect of zinc gluconate on intestinal mucosal barrier injury in antibiotics and LPS-induced mice.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — barreira intestinal com agente/intervenção isolada; seta LPS→TJ coberta pelas masters; sem ponte causal ao SNC",
+   "doi": "10.3389/fmicb.2024.1407091",
+   "decl_autor": "Wang",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 147,
+   "pmid": "39036341",
+   "autor": "You M",
+   "ano": "2024",
+   "fonte": "MedComm (2020)",
+   "titulo": "The gut microbiota-brain axis in neurological disorders.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão narrativa genérica do eixo intestino-cérebro; arquitetura coberta por V1 vigente (Cryan 2019/Bonaz 2018/Margolis 2021) e masters 2024–2025; sem seta causal nova",
+   "doi": "10.1002/mco2.656",
+   "decl_autor": "You",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 148,
+   "pmid": "39182226",
+   "autor": "Zhuang M",
+   "ano": "2024",
+   "fonte": "Gut Microbes",
+   "titulo": "Microbiota-gut-brain axis: interplay between microbiota, barrier function and lymphatic system.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão/primário de biologia de tight junctions; arquitetura de barreiras coberta pelas masters (Guo×2/Nighot×2/Kurita/Aburto) + Kuo/Barki novas",
+   "doi": "10.1080/19490976.2024.2387800",
+   "decl_autor": "Zhuang",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 149,
+   "pmid": "41318968",
+   "autor": "Al-Obaidi MMJ",
+   "ano": "2025",
+   "fonte": "Eur J Neurosci",
+   "titulo": "Tight Junction Proteins and Bacterial Pathogens Impacting the Brain.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — barreira intestinal com agente/intervenção isolada; seta LPS→TJ coberta pelas masters; sem ponte causal ao SNC",
+   "doi": "10.1111/ejn.70340",
+   "decl_autor": "Al-Obaidi",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 150,
+   "pmid": "39321109",
+   "autor": "Arumugam P",
+   "ano": "2025",
+   "fonte": "Inflamm Bowel Dis",
+   "titulo": "Intestinal Epithelial Tight Junction Barrier Regulation by Novel Pathways.",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão/primário de biologia de tight junctions; arquitetura de barreiras coberta pelas masters (Guo×2/Nighot×2/Kurita/Aburto) + Kuo/Barki novas",
+   "doi": "10.1093/ibd/izae232",
+   "decl_autor": "Arumugam",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 151,
+   "pmid": "40673654",
+   "autor": "Batagianni M",
+   "ano": "2025",
+   "fonte": "World J Biol Psychiatry",
+   "titulo": "Assessing the relationship of gut microbiota with neurological, psychiatric, and neurodegenerative disorders: a narrative review.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão mira doenças neurológicas/neurodegenerativas em geral; fora do miolo (malha: neurodegeneração não é escopo B7)",
+   "doi": "10.1080/15622975.2025.2530750",
+   "decl_autor": "Batagianni",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 152,
+   "pmid": "39245854",
+   "autor": "Bertollo AG",
+   "ano": "2025",
+   "fonte": "Rev Neurosci",
+   "titulo": "Neurobiological mechanisms in the kynurenine pathway and major depressive disorder.",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral triptofano/quinurenina; arquitetura coberta pelas masters Agus 2018/Bosi 2020/Schwarcz 2024/Sathyasaikumar 2024 e seção 2.5 da V1",
+   "doi": "10.1515/revneuro-2024-0065",
+   "decl_autor": "Bertollo",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 153,
+   "pmid": "41155363",
+   "autor": "Caballero-Villarraso J",
+   "ano": "2025",
+   "fonte": "Int J Mol Sci",
+   "titulo": "Molecular Mechanisms of the Microbiota-Gut-Brain Axis in the Onset and Progression of Stroke.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC malha — AVC (mecanismos microbiota-gut-brain)",
+   "doi": "10.3390/ijms262010071",
+   "decl_autor": "Caballero-Villarraso",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 154,
+   "pmid": "40400035",
+   "autor": "Cao Q",
+   "ano": "2025",
+   "fonte": "J Neuroinflammation",
+   "titulo": "Elucidating the specific mechanisms of the gut-brain axis: the short-chain fatty acids-microglia pathway.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral AGCC (imunidade/metabolismo/doenças); núcleo AGCC→cérebro coberto por masters Erny 2021/Spichak 2021/Caetano-Silva 2023/Barki 2022/Cheng 2024",
+   "doi": "10.1186/s12974-025-03454-y",
+   "decl_autor": "Cao",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 155,
+   "pmid": "40952592",
+   "autor": "Chen C",
+   "ano": "2025",
+   "fonte": "Mol Biomed",
+   "titulo": "Microbiota-gut-brain axis in neurodegenerative diseases: molecular mechanisms and therapeutic targets.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão narrativa genérica do eixo intestino-cérebro; arquitetura coberta por V1 vigente (Cryan 2019/Bonaz 2018/Margolis 2021) e masters 2024–2025; sem seta causal nova",
+   "doi": "10.1186/s43556-025-00307-1",
+   "decl_autor": "Chen",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 156,
+   "pmid": "39998158",
+   "autor": "Chenghan M",
+   "ano": "2025",
+   "fonte": "Ann N Y Acad Sci",
+   "titulo": "Short-chain fatty acids mediate gut microbiota-brain communication and protect the blood-brain barrier integrity.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — antibióticos orais perturbam BBB e AGCC restauram integridade, em macaco rhesus e camundongo (janela translacional BBB×AGCC; [APENAS PRÉ-CLÍNICO])",
+   "doi": "10.1111/nyas.15299",
+   "decl_autor": "Mei",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 157,
+   "pmid": "39870727",
+   "autor": "Doenyas C",
+   "ano": "2025",
+   "fonte": "Sci Rep",
+   "titulo": "Gut-brain axis and neuropsychiatric health: recent advances.",
+   "pubtype": [
+    "Editorial"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão narrativa genérica do eixo intestino-cérebro; arquitetura coberta por V1 vigente (Cryan 2019/Bonaz 2018/Margolis 2021) e masters 2024–2025; sem seta causal nova",
+   "doi": "10.1038/s41598-025-86858-3",
+   "decl_autor": "Doenyas",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 158,
+   "pmid": "40801563",
+   "autor": "Facchin S",
+   "ano": "2025",
+   "fonte": "Cells",
+   "titulo": "Rethinking Short-Chain Fatty Acids: A Closer Look at Propionate in Inflammation, Metabolism, and Mucosal Homeostasis.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral AGCC (imunidade/metabolismo/doenças); núcleo AGCC→cérebro coberto por masters Erny 2021/Spichak 2021/Caetano-Silva 2023/Barki 2022/Cheng 2024",
+   "doi": "10.3390/cells14151130",
+   "decl_autor": "Facchin",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 159,
+   "pmid": "40723792",
+   "autor": "Guo H",
+   "ano": "2025",
+   "fonte": "Biomolecules",
+   "titulo": "A Comprehensive Review of the Role of the Microbiota-Gut-Brain Axis via Neuroinflammation: Advances and Therapeutic Implications for Ischemic Stroke.",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC malha — AVC isquêmico (neuroinflamação)",
+   "doi": "10.3390/biom15070920",
+   "decl_autor": "Guo",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 160,
+   "pmid": "40765836",
+   "autor": "Miao H",
+   "ano": "2025",
+   "fonte": "Int J Biol Sci",
+   "titulo": "Tryptophan metabolism as a target in gut microbiota, ageing and kidney disease.",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — doença-órgão não psiquiátrica (fígado/rim/coração/vaso); translocação intestinal coberta; tangencial ao miolo",
+   "doi": "10.7150/ijbs.115359",
+   "decl_autor": "Miao",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 161,
+   "pmid": "40054458",
+   "autor": "O'Riordan KJ",
+   "ano": "2025",
+   "fonte": "Cell Rep Med",
+   "titulo": "The gut microbiota-immune-brain axis: Therapeutic implications.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão terapêutica eixo imune-cérebro (O'Riordan 2025); genérica; arquitetura imune coberta",
+   "doi": "10.1016/j.xcrm.2025.101982",
+   "decl_autor": "O'Riordan",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 162,
+   "pmid": "39743581",
+   "autor": "Ohara TE",
+   "ano": "2025",
+   "fonte": "Nat Rev Microbiol",
+   "titulo": "Microbiota-neuroepithelial signalling across the gut-brain axis.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — Nat Rev Microbiol 2025: sinalização neuroepitelial no eixo (janela ausente na V1: neuropods/EEC)",
+   "doi": "10.1038/s41579-024-01136-9",
+   "decl_autor": "Ohara",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 163,
+   "pmid": "40662222",
+   "autor": "Ortiz-Samur NS",
+   "ano": "2025",
+   "fonte": "J Neurochem",
+   "titulo": "Exploring the Role of Microglial Cells in the Gut-Brain Axis Communication: A Systematic Review.",
+   "pubtype": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão sistemática de microglia no eixo; coberta pelas masters primárias Erny/Spichak/Caetano-Silva e revisão Cheng",
+   "doi": "10.1111/jnc.70154",
+   "decl_autor": "Ortiz-Samur",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 164,
+   "pmid": "40942152",
+   "autor": "Owe-Larsson M",
+   "ano": "2025",
+   "fonte": "Molecules",
+   "titulo": "Microbiota-Derived Tryptophan Metabolite Indole-3-Propionic Acid-Emerging Role in Neuroprotection.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral triptofano/quinurenina; arquitetura coberta pelas masters Agus 2018/Bosi 2020/Schwarcz 2024/Sathyasaikumar 2024 e seção 2.5 da V1",
+   "doi": "10.3390/molecules30173628",
+   "decl_autor": "Owe-Larsson",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 165,
+   "pmid": "40804450",
+   "autor": "Park JC",
+   "ano": "2025",
+   "fonte": "Cell Mol Immunol",
+   "titulo": "Beyond the gut: decoding the gut-immune-brain axis in health and disease.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — imunologia geral do eixo/metabólitos; núcleo coberto por masters de via imune (B7-CAUSAL-01)",
+   "doi": "10.1038/s41423-025-01333-3",
+   "decl_autor": "Park",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 166,
+   "pmid": "41010510",
+   "autor": "Petropoulos A",
+   "ano": "2025",
+   "fonte": "Nutrients",
+   "titulo": "Microbiota Gut-Brain Axis and Autism Spectrum Disorder: Mechanisms and Therapeutic Perspectives.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC malha — autismo",
+   "doi": "10.3390/nu17182984",
+   "decl_autor": "Petropoulos",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 167,
+   "pmid": "39904963",
+   "autor": "Qu Y",
+   "ano": "2025",
+   "fonte": "Mol Neurobiol",
+   "titulo": "Short-Chain Fatty Acid Aggregates Alpha-Synuclein Accumulation and Neuroinflammation via GPR43-NLRP3 Signaling Pathway in a Model Parkinson's Disease.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC malha — Parkinson (GPR43-NLRP3)",
+   "doi": "10.1007/s12035-025-04726-7",
+   "decl_autor": "Qu",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 168,
+   "pmid": "40728958",
+   "autor": "Savulescu-Fiedler I",
+   "ano": "2025",
+   "fonte": "Curr Issues Mol Biol",
+   "titulo": "Rewiring the Brain Through the Gut: Insights into Microbiota-Nervous System Interactions.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão narrativa 're rewiring' microbiota-sistema nervoso (Savulescu-Fiedler 2025); genérica; arquitetura coberta",
+   "doi": "10.3390/cimb47070489",
+   "decl_autor": "Savulescu-Fiedler",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 169,
+   "pmid": "41465592",
+   "autor": "Stanimirov B",
+   "ano": "2025",
+   "fonte": "Int J Mol Sci",
+   "titulo": "Gut-Brain Axis and Bile Acid Signaling: Linking Microbial Metabolism to Brain Function and Metabolic Regulation.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — única revisão dedicada sais biliares↔eixo gut-brain (FXR/TGR5); ancora mecanisticamente a seção 2.6",
+   "doi": "10.3390/ijms262412167",
+   "decl_autor": "Stanimirov",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 170,
+   "pmid": "40868271",
+   "autor": "Tanaka M",
+   "ano": "2025",
+   "fonte": "Biomedicines",
+   "titulo": "From Microbial Switches to Metabolic Sensors: Rewiring the Gut-Brain Kynurenine Circuit.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral triptofano/quinurenina; arquitetura coberta pelas masters Agus 2018/Bosi 2020/Schwarcz 2024/Sathyasaikumar 2024 e seção 2.5 da V1",
+   "doi": "10.3390/biomedicines13082020",
+   "decl_autor": "Tanaka",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 171,
+   "pmid": "39875781",
+   "autor": "Tiwari S",
+   "ano": "2025",
+   "fonte": "Mol Neurobiol",
+   "titulo": "Role of Probiotics in Depression: Connecting Dots of Gut-Brain-Axis Through Hypothalamic-Pituitary Adrenal Axis and Tryptophan/Kynurenic Pathway involving Indoleamine-2,3-dioxygenase.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão probióticos×depressão (Tiwari 2025); bloco de intervenção da V1 já ancorado em metas vigentes (Moshfeghinia/Cohen Kadosh) — P20",
+   "doi": "10.1007/s12035-025-04708-9",
+   "decl_autor": "Tiwari",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 172,
+   "pmid": "40137174",
+   "autor": "Wang Y",
+   "ano": "2025",
+   "fonte": "Metabolites",
+   "titulo": "Diverse Physiological Roles of Kynurenine Pathway Metabolites: Updated Implications for Health and Disease.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral triptofano/quinurenina; arquitetura coberta pelas masters Agus 2018/Bosi 2020/Schwarcz 2024/Sathyasaikumar 2024 e seção 2.5 da V1",
+   "doi": "10.3390/metabo15030210",
+   "decl_autor": "Wang",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 173,
+   "pmid": "39833898",
+   "autor": "Wang Z",
+   "ano": "2025",
+   "fonte": "Microbiome",
+   "titulo": "Akkermansia muciniphila and its metabolite propionic acid maintains neuronal mitochondrial division and autophagy homeostasis during Alzheimer's disease pathologic process via GPR41 and GPR43.",
+   "pubtype": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC malha — Alzheimer (Akkermansia GPR41/43)",
+   "doi": "10.1186/s40168-024-02001-w",
+   "decl_autor": "Wang",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 174,
+   "pmid": "40584038",
+   "autor": "Xu J",
+   "ano": "2025",
+   "fonte": "Front Microbiol",
+   "titulo": "The microbiota-gut-brain axis and central nervous system diseases: from mechanisms of pathogenesis to therapeutic strategies.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — barreira intestinal com agente/intervenção isolada; seta LPS→TJ coberta pelas masters; sem ponte causal ao SNC",
+   "doi": "10.3389/fmicb.2025.1583562",
+   "decl_autor": "Xu",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 175,
+   "pmid": "40072112",
+   "autor": "Xu M",
+   "ano": "2025",
+   "fonte": "Cells",
+   "titulo": "Tryptophan and Its Metabolite Serotonin Impact Metabolic and Mental Disorders via the Brain-Gut-Microbiome Axis: A Focus on Sex Differences.",
+   "pubtype": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral triptofano/quinurenina; arquitetura coberta pelas masters Agus 2018/Bosi 2020/Schwarcz 2024/Sathyasaikumar 2024 e seção 2.5 da V1",
+   "doi": "10.3390/cells14050384",
+   "decl_autor": "Xu",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 176,
+   "pmid": "41104042",
+   "autor": "Yassin LK",
+   "ano": "2025",
+   "fonte": "Front Aging Neurosci",
+   "titulo": "The microbiota-gut-brain axis in mental and neurodegenerative disorders: opportunities for prevention and intervention.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão narrativa genérica do eixo intestino-cérebro; arquitetura coberta por V1 vigente (Cryan 2019/Bonaz 2018/Margolis 2021) e masters 2024–2025; sem seta causal nova",
+   "doi": "10.3389/fnagi.2025.1667448",
+   "decl_autor": "Yassin",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 177,
+   "pmid": "39637366",
+   "autor": "Yumoto T",
+   "ano": "2025",
+   "fonte": "Shock",
+   "titulo": "INTESTINAL EPITHELIAL-SPECIFIC OCCLUDIN DELETION WORSENS GUT PERMEABILITY AND SURVIVAL FOLLOWING SEPSIS.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — modelo de sepse; barreira/translocação já coberta (masters + Tulkens humano); fora do miolo psiquiátrico",
+   "doi": "10.1097/shk.0000000000002531",
+   "decl_autor": "Yumoto",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 178,
+   "pmid": "40937571",
+   "autor": "Zhang H",
+   "ano": "2025",
+   "fonte": "Int J Mol Med",
+   "titulo": "Role of the gut-brain axis in neurological diseases: Molecular connections and therapeutic implications (Review).",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — barreira intestinal com agente/intervenção isolada; seta LPS→TJ coberta pelas masters; sem ponte causal ao SNC",
+   "doi": "10.3892/ijmm.2025.5633",
+   "decl_autor": "Zhang",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 179,
+   "pmid": "39716675",
+   "autor": "Zhang Q",
+   "ano": "2025",
+   "fonte": "J Affect Disord",
+   "titulo": "Multiomics analysis reveals aberrant tryptophan-kynurenine metabolism and immunity linked gut microbiota with cognitive impairment in major depressive disorder.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "ENTRA",
+   "motivo": "ENTRA — humano TDM (N=86×120): multiômica microbiota+KYN+inflamação×cognição (claim ASSOCIATIVO por B7-CAUSAL-03)",
+   "doi": "10.1016/j.jad.2024.12.070",
+   "decl_autor": "Zhang",
+   "decl_ano": "2024"
+  },
+  {
+   "n": 180,
+   "pmid": "41683329",
+   "autor": "Holeček M",
+   "ano": "2026",
+   "fonte": "Nutrients",
+   "titulo": "Serotonin, Kynurenine, and Indole Pathways of Tryptophan Metabolism in Humans in Health and Disease.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral triptofano/quinurenina; arquitetura coberta pelas masters Agus 2018/Bosi 2020/Schwarcz 2024/Sathyasaikumar 2024 e seção 2.5 da V1",
+   "doi": "10.3390/nu18030507",
+   "decl_autor": "Holeček",
+   "decl_ano": "2026"
+  },
+  {
+   "n": 181,
+   "pmid": "42305614",
+   "autor": "Jiang C",
+   "ano": "2026",
+   "fonte": "iScience",
+   "titulo": "Unraveling the gut microbiota-brain axis: Mechanisms, pathophysiology, and therapeutic opportunities.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão narrativa genérica do eixo intestino-cérebro; arquitetura coberta por V1 vigente (Cryan 2019/Bonaz 2018/Margolis 2021) e masters 2024–2025; sem seta causal nova",
+   "doi": "10.1016/j.isci.2026.116224",
+   "decl_autor": "Jiang",
+   "decl_ano": "2026"
+  },
+  {
+   "n": 182,
+   "pmid": "40903950",
+   "autor": "Liu Y",
+   "ano": "2026",
+   "fonte": "Neural Regen Res",
+   "titulo": "Bidirectional communication between the gut microbiota and the central nervous system.",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão bidirecional microbiota↔SNC (Liu Y 2026, Neural Regen Res); genérica; arquitetura coberta",
+   "doi": "10.4103/nrr.nrr-d-25-00434",
+   "decl_autor": "Liu",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 183,
+   "pmid": "41630697",
+   "autor": "Olasunkanmi OI",
+   "ano": "2026",
+   "fonte": "Chin Med J (Engl)",
+   "titulo": "Gut-brain axis in health and brain disease.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão narrativa genérica do eixo intestino-cérebro; arquitetura coberta por V1 vigente (Cryan 2019/Bonaz 2018/Margolis 2021) e masters 2024–2025; sem seta causal nova",
+   "doi": "10.1097/cm9.0000000000003920",
+   "decl_autor": "Olasunkanmi",
+   "decl_ano": "2026"
+  },
+  {
+   "n": 184,
+   "pmid": "41971333",
+   "autor": "Shen H",
+   "ano": "2026",
+   "fonte": "Front Microbiol",
+   "titulo": "Brain-gut-microbiota axis: a review on the bidirectional regulatory mechanisms between gut microbiota and brain and their disease interactions.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão narrativa genérica do eixo intestino-cérebro; arquitetura coberta por V1 vigente (Cryan 2019/Bonaz 2018/Margolis 2021) e masters 2024–2025; sem seta causal nova",
+   "doi": "10.3389/fmicb.2026.1768891",
+   "decl_autor": "Shen",
+   "decl_ano": "2026"
+  },
+  {
+   "n": 185,
+   "pmid": "41201037",
+   "autor": "Wang J",
+   "ano": "2026",
+   "fonte": "Int J Mol Med",
+   "titulo": "Microbial short chain fatty acids: Effective histone deacetylase inhibitors in immune regulation (Review).",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral AGCC (imunidade/metabolismo/doenças); núcleo AGCC→cérebro coberto por masters Erny 2021/Spichak 2021/Caetano-Silva 2023/Barki 2022/Cheng 2024",
+   "doi": "10.3892/ijmm.2025.5687",
+   "decl_autor": "Wang",
+   "decl_ano": "2025"
+  },
+  {
+   "n": 186,
+   "pmid": "42245509",
+   "autor": "Wang Z",
+   "ano": "2026",
+   "fonte": "Front Microbiol",
+   "titulo": "The microbiota-tryptophan-brain axis in neurodegenerative diseases: pathogenic mechanisms, disease-specific roles, and translational therapeutics.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC malha — neurodegenerativos (eixo microbiota-Trp-cérebro)",
+   "doi": "10.3389/fmicb.2026.1820111",
+   "decl_autor": "Wang",
+   "decl_ano": "2026"
+  },
+  {
+   "n": 187,
+   "pmid": "41798063",
+   "autor": "Xu X",
+   "ano": "2026",
+   "fonte": "Curr Res Microb Sci",
+   "titulo": "Microbial SCFAs as epigenetic mediators: fine-tuning the gut-brain axis in neurodegenerative disorders.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "EXC",
+   "motivo": "EXC malha — neurodegenerativos (AGCC epigenéticos)",
+   "doi": "10.1016/j.crmicr.2026.100574",
+   "decl_autor": "Xu",
+   "decl_ano": "2026"
+  },
+  {
+   "n": 188,
+   "pmid": "41814325",
+   "autor": "Zhang J",
+   "ano": "2026",
+   "fonte": "J Neuroinflammation",
+   "titulo": "Molecular mechanisms and therapeutic potential of tryptophan metabolism in gut-brain signaling transduction: a narrative review.",
+   "pubtype": [
+    "Journal Article",
+    "Review"
+   ],
+   "decisao": "BAIXO",
+   "motivo": "BAIXO — revisão geral triptofano/quinurenina; arquitetura coberta pelas masters Agus 2018/Bosi 2020/Schwarcz 2024/Sathyasaikumar 2024 e seção 2.5 da V1",
+   "doi": "10.1186/s12974-026-03763-w",
+   "decl_autor": "Zhang",
+   "decl_ano": "2026"
+  }
+ ]
+}

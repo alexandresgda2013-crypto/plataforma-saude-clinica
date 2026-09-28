@@ -1,0 +1,76 @@
+{
+  "data": "2026-09-13",
+  "trilha": 22,
+  "edicoes": [
+    {
+      "id": "E1-H1",
+      "ocorrencias": 1
+    },
+    {
+      "id": "E2-rotulo-abre",
+      "ocorrencias": 1
+    },
+    {
+      "id": "E2-rotulo-fecha",
+      "ocorrencias": 1
+    },
+    {
+      "id": "E3-cabecalho-59108",
+      "ocorrencias": 1
+    },
+    {
+      "id": "E4a-criterioC",
+      "ocorrencias": 1
+    },
+    {
+      "id": "E4b-circularidade",
+      "ocorrencias": 1
+    },
+    {
+      "id": "E4c-tabela",
+      "ocorrencias": 1
+    },
+    {
+      "id": "E5-perfil121",
+      "ocorrencias": 1
+    },
+    {
+      "id": "E6-perfil123",
+      "ocorrencias": 1
+    },
+    {
+      "id": "E7-perfil124",
+      "ocorrencias": 1
+    },
+    {
+      "id": "E8-L717",
+      "ocorrencias": 1
+    },
+    {
+      "id": "E9-apendice-tokens",
+      "ocorrencias": 1
+    },
+    {
+      "id": "E10-apendice-duplicata",
+      "ocorrencias": 1
+    }
+  ],
+  "contadores": {
+    "mover_ficha": {
+      "02": [
+        34,
+        33
+      ],
+      "01": [
+        200,
+        201
+      ]
+    },
+    "ledger_propagados": 50,
+    "vinculos_tocados": 1
+  },
+  "backup_v6": "antigos/historico/v6_canonica_final_sha_e11dbd95_2026-09-13.md",
+  "sha256_v7": "6e2c29797e6322f16dcc5248cce552be613dd11f1de957c66aaa913e69225238",
+  "canonica_v7": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/B1 NEUROINFLAMAÇÃO V7 CANONICA.md",
+  "rev.1": "2026-09-13 (mesmo dia): CHECKLIST/framework derrubou 'PMID/DOI no texto corrido' no REGISTRO item 11 — forma corrigida (PubMed 31951051; DOI identificado por periódico; identificadores completos nesta trilha). sha V7 passa a ser 6e2c29797e6322f16dcc5248cce552be613dd11f1de957c66aaa913e69225238"
+}

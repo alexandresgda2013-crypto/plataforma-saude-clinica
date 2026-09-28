@@ -1,0 +1,224 @@
+{
+  "trilha": 57,
+  "rodada": 40,
+  "data": "2026-09-19",
+  "tema": "emenda editorial 01 da V2.2 (CANDIDATA) — ponteiros §5.1/§5.2 corrigidos; regra nova: aguarda aprovação",
+  "sha_candidata": "3cbc131d687610d9587dc0eb11b29b099067127b4b69754604266fa79e98567d",
+  "bytes_candidata": 52476,
+  "total": 11,
+  "verdes": 11,
+  "checks": [
+    {
+      "id": "B1",
+      "titulo": "baseline oficial intacta",
+      "camada": "bytes",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md",
+      "comando": "sha256sum",
+      "medido": [
+        "df7f7cfdfc01cf77d658885f30dfefe29dcf380229ea56e6b3af02920df22ae1",
+        52181
+      ],
+      "esperado": [
+        "df7f7cfdfc01cf77d658885f30dfefe29dcf380229ea56e6b3af02920df22ae1",
+        52181
+      ],
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "B2",
+      "titulo": "escopo: exatas 2 ocorrências 'v1.1', ambas ponteiros",
+      "camada": "documental{NFC,CS}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md",
+      "comando": "linhas com 'v1.1'",
+      "medido": [
+        [
+          269,
+          "`L05/schema_referencia_v1.1.json`"
+        ],
+        [
+          306,
+          "`L05/schema_vinculo_v1.1.json`"
+        ]
+      ],
+      "esperado": [
+        [
+          269,
+          "`L05/schema_referencia_v1.1.json`"
+        ],
+        [
+          306,
+          "`L05/schema_vinculo_v1.1.json`"
+        ]
+      ],
+      "ok": true,
+      "detalhe": "0 outras menções a v1.1 no documento — escopo cirúrgico confirmado"
+    },
+    {
+      "id": "C1",
+      "titulo": "construção: CRLF preservado · 0 LF solto",
+      "camada": "bytes",
+      "escopo": "candidata em memória",
+      "comando": "count \\r\\n e \\n solto",
+      "medido": [
+        1411,
+        0
+      ],
+      "esperado": [
+        1411,
+        0
+      ],
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "C2",
+      "titulo": "pós: ponteiro §5.1=v1.3 · §5.2=v1.4 · 'v1.1' SÓ na cláusula Rev (registro da correção)",
+      "camada": "documental{NFC,CS}",
+      "escopo": "candidata",
+      "comando": "por linha: 269/306/r4",
+      "medido": {
+        "l269": [
+          true,
+          true
+        ],
+        "l306": [
+          true,
+          true
+        ],
+        "linhas_com_v1.1": [
+          4
+        ]
+      },
+      "esperado": {
+        "l269": [
+          true,
+          true
+        ],
+        "l306": [
+          true,
+          true
+        ],
+        "linhas_com_v1.1": [
+          4
+        ]
+      },
+      "ok": true,
+      "detalhe": "CONFISSÃO C57-1 (régua corrigida): a cláusula da emenda cita os 4 nomes (2 antigos+2 novos) — contagem global ingênua deu 2/2/2; régua por linha prova: ponteiros corrigidos, 'v1.1' restante = só o registro histórico na Rev"
+    },
+    {
+      "id": "C3",
+      "titulo": "diff: exatas 3 linhas substituídas (269·306·Rev), 0 inserções/0 remoções",
+      "camada": "documental{NFC}",
+      "escopo": "base×candidata",
+      "comando": "difflib.unified_diff",
+      "medido": {
+        "linhas_total": [
+          1412,
+          1412
+        ],
+        "menos": 3,
+        "mais": 3
+      },
+      "esperado": {
+        "linhas_total": [
+          1412,
+          1412
+        ],
+        "menos": 3,
+        "mais": 3
+      },
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "C4",
+      "titulo": "30 seções '# N.' únicas preservadas · H1 preservado",
+      "camada": "documental{NFC}",
+      "escopo": "candidata",
+      "comando": "regex ^# \\d+\\.",
+      "medido": [
+        30,
+        30,
+        true
+      ],
+      "esperado": [
+        30,
+        30,
+        true
+      ],
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "C5",
+      "titulo": "somente as linhas 269/306/Rev mudaram (índices)",
+      "camada": "documental{NFC}",
+      "escopo": "base×candidata",
+      "comando": "zip linhas",
+      "medido": [
+        4,
+        269,
+        306
+      ],
+      "esperado": [
+        4,
+        269,
+        306
+      ],
+      "ok": true,
+      "detalhe": "linha 4 = linha Rev (índice 4 no feno CRLF)"
+    },
+    {
+      "id": "C6",
+      "titulo": "sufixo §3→fim: idêntico exceto o bloco §5 alterado",
+      "camada": "documental{NFC}",
+      "escopo": "candidata",
+      "comando": "comparar sufixo removendo §5.1/§5.2 alteradas",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "âncoras §§3–30 intactas — citações existentes (auditoria r34 etc.) não quebram (as 2 linhas são conteúdo-no-lugar, mesma estrutura)"
+    },
+    {
+      "id": "G1",
+      "titulo": "CANDIDATA gravada (nome marca CANDIDATA) · ponteiro NÃO movido",
+      "camada": "bytes",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/CANDIDATA_ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2 - 17.09.26 (EMENDA EDITORIAL 01 - 2026-09-19).md",
+      "comando": "sha256sum; ponteiro intacto",
+      "medido": [
+        true,
+        true
+      ],
+      "esperado": [
+        true,
+        true
+      ],
+      "ok": true,
+      "detalhe": "sha candidata=3cbc131d687610d9587dc0eb11b29b099067127b4b69754604266fa79e98567d · 52476 b · vigente continua df7f7cfd até aprovação"
+    },
+    {
+      "id": "G2",
+      "titulo": "pacote ENTREGAS + zip re-extraído confere",
+      "camada": "bytes",
+      "escopo": "/home/user/ENTREGAS/2026-09-19_EMENDA_V22_E01_CANDIDATA/EMENDA_V22_E01_CANDIDATA_2026-09-19.zip",
+      "comando": "unzip→sha",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "zip 13147 b"
+    },
+    {
+      "id": "CI0",
+      "titulo": "0 ciência intacta",
+      "camada": "bytes",
+      "escopo": "acervo B1",
+      "comando": "sha início==fim",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": ""
+    }
+  ],
+  "veredito_casa": "CANDIDATA construída e medida: 3 linhas substituídas, 0 normativo alterado, CRLF/estrutura intactos. Vigente permanece df7f7cfd até aprovação do operador. Nome de rótulo (mesma identidade V2.2 + cláusula de emenda na Rev) = sugestão da casa no estilo do próprio documento; operador pode pedir outro rótulo (ex.: V2.3) sem custo — reemendo."
+}

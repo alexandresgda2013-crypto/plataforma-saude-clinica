@@ -1,0 +1,2732 @@
+[
+ {
+  "pmid_oficial": "10557352",
+  "titulo_artigo": "Selective serotonin reuptake inhibitors directly alter activity of neurosteroidogenic enzymes",
+  "autores": [
+   "Griffin LD",
+   "Mellon SH"
+  ],
+  "revista_ano": "Proc Natl Acad Sci U S A (1999)",
+  "desenho_estudo": "[ML] estudo pré-clínico (animal/in vitro) · Proc Natl Acad Sci U S A",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "ISRS alteram diretamente a atividade de enzimas neuroesteroidogênicas e elevam a síntese de alopregnanolona por mecanismo dissociado da recaptação de serotonina",
+  "extrapolacao_por_analogia": "SIM — evidência em modelo animal/in vitro; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_GRIFFIN_1999"
+  ],
+  "id_referencia_interna": "REF_GRIFFIN_1999",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "3-Hydroxysteroid Dehydrogenases",
+   "3-alpha-Hydroxysteroid Dehydrogenase (B-Specific)",
+   "Amino Acid Sequence",
+   "Animals",
+   "Base Sequence",
+   "Brain",
+   "COS Cells",
+   "Cholestenone 5 alpha-Reductase",
+   "DNA, Complementary",
+   "Fluoxetine",
+   "Humans",
+   "Molecular Sequence Data"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "modelo animal/in vitro — sinal mecanístico, não prova humana",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Griffin",
+   "Mellon",
+   "fluoxetina",
+   "SSRI"
+  ],
+  "_nat": "nao_estabelecida",
+  "_mat": "emergente",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_mecanistico_extrapolado",
+  "_forca": "media(preclinico)",
+  "_uso": "nucleo_causal",
+  "_tag": "ML",
+  "_ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, U.S. Gov't, P.H.S."
+  ]
+ },
+ {
+  "pmid_oficial": "11720889",
+  "titulo_artigo": "Neurosteroid metabolism in the human brain",
+  "autores": [
+   "Stoffel-Wagner B"
+  ],
+  "revista_ano": "Eur J Endocrinol (2001)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Eur J Endocrinol",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Revisão do metabolismo de neuroesteroides no cérebro humano: enzimas esteroidogênicas presentes no SNC, localização regional e efeitos putativos",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_STOFFELWAGNER_2001"
+  ],
+  "id_referencia_interna": "REF_STOFFELWAGNER_2001",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "17-Hydroxysteroid Dehydrogenases",
+   "3-Hydroxysteroid Dehydrogenases",
+   "3-Oxo-5-alpha-Steroid 4-Dehydrogenase",
+   "3-alpha-Hydroxysteroid Dehydrogenase (B-Specific)",
+   "Aromatase",
+   "Brain",
+   "Cholesterol Side-Chain Cleavage Enzyme",
+   "Humans",
+   "Steroids"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Stoffel-Wagner",
+   "Stoffel-Wagner 2001"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article",
+   "Review"
+  ]
+ },
+ {
+  "pmid_oficial": "14993041",
+  "titulo_artigo": "Neurosteroid biosynthesis in the human brain and its clinical implications",
+  "autores": [
+   "Stoffel-Wagner B"
+  ],
+  "revista_ano": "Ann N Y Acad Sci (2003)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Ann N Y Acad Sci",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Biossíntese de neuroesteroides no cérebro humano (P450scc, aromatase, 5α-redutase, 3α-HSD) e suas implicações clínicas",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_STOFFELWAGNER_2003"
+  ],
+  "id_referencia_interna": "REF_STOFFELWAGNER_2003",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "3-Oxo-5-alpha-Steroid 4-Dehydrogenase",
+   "3-alpha-Hydroxysteroid Dehydrogenase (B-Specific)",
+   "Animals",
+   "Brain",
+   "Humans",
+   "Mental Disorders",
+   "Nervous System Diseases",
+   "Receptors, GABA-A",
+   "Steroids"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Stefaniak 2023 (rótulo do insumo — autor real Stoffel-Wagner, print 2003)",
+   "Stoffel-Wagner 2003"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article",
+   "Review"
+  ]
+ },
+ {
+  "pmid_oficial": "18003893",
+  "titulo_artigo": "Down-regulation of neurosteroid biosynthesis in corticolimbic circuits mediates social isolation-induced behavior in mice",
+  "autores": [
+   "Agís-Balboa RC",
+   "Pinna G",
+   "Pibiri F",
+   "Kadriu B",
+   "Costa E",
+   "Guidotti A"
+  ],
+  "revista_ano": "Proc Natl Acad Sci U S A (2007)",
+  "desenho_estudo": "[ML] estudo pré-clínico (animal/in vitro) · Proc Natl Acad Sci U S A",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Isolamento social prolongado em camundongos reduz a biossíntese de alopregnanolona (5α-redutase tipo I) em circuitos corticolímbicos, paralelamente a alterações comportamentais",
+  "extrapolacao_por_analogia": "SIM — evidência em modelo animal/in vitro; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_AGISBALBOA_2007"
+  ],
+  "id_referencia_interna": "REF_AGISBALBOA_2007",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "3-Oxo-5-alpha-Steroid 4-Dehydrogenase",
+   "3-alpha-Hydroxysteroid Dehydrogenase (B-Specific)",
+   "Animals",
+   "Behavior, Animal",
+   "Brain",
+   "Down-Regulation",
+   "In Situ Hybridization",
+   "Male",
+   "Mice",
+   "Neurons",
+   "Polymerase Chain Reaction",
+   "RNA, Messenger"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "modelo animal/in vitro — sinal mecanístico, não prova humana",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Agís-Balboa 2007",
+   "Agis-Balboa"
+  ],
+  "_nat": "nao_estabelecida",
+  "_mat": "emergente",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_mecanistico_extrapolado",
+  "_forca": "media(preclinico)",
+  "_uso": "nucleo_causal",
+  "_tag": "ML",
+  "_ptypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ]
+ },
+ {
+  "pmid_oficial": "23348009",
+  "titulo_artigo": "Allopregnanolone elevations following pregnenolone administration are associated with enhanced activation of emotion regulation neurocircuits",
+  "autores": [
+   "Sripada RK",
+   "Marx CE",
+   "King AP",
+   "Rampton JC",
+   "Ho SS",
+   "Liberzon I"
+  ],
+  "revista_ano": "Biol Psychiatry (2013)",
+  "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Biol Psychiatry",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Administração de pregnenolona em humanos eleva a alopregnanolona e associa-se a redução da atividade da amígdala e da ínsula e a maior conectividade de regulação emocional (ensaio mecanístico com neuroimagem)",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_SRIPADA_2013"
+  ],
+  "id_referencia_interna": "REF_SRIPADA_2013",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Administration, Oral",
+   "Adolescent",
+   "Adult",
+   "Attention",
+   "Brain",
+   "Brain Mapping",
+   "Case-Control Studies",
+   "Emotions",
+   "Humans",
+   "Image Processing, Computer-Assisted",
+   "Magnetic Resonance Imaging",
+   "Male"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Sripada 2013b / pregnenolona",
+   "Sripada"
+  ],
+  "_nat": "associativa",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "alta(humano)",
+  "_uso": "suporte",
+  "_tag": "EC",
+  "_ptypes": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, U.S. Gov't, Non-P.H.S."
+  ]
+ },
+ {
+  "pmid_oficial": "24302681",
+  "titulo_artigo": "The neurosteroids allopregnanolone and dehydroepiandrosterone modulate resting-state amygdala connectivity",
+  "autores": [
+   "Sripada RK",
+   "Welsh RC",
+   "Marx CE",
+   "Liberzon I"
+  ],
+  "revista_ano": "Hum Brain Mapp (2014)",
+  "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Hum Brain Mapp",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Em humanos, alopregnanolona e DHEA séricos modulam a conectividade funcional de repouso da amígdala — níveis maiores associados a menor acoplamento amígdala–hipocampo (padrão compatível com regulação afetiva)",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_SRIPADA_2014"
+  ],
+  "id_referencia_interna": "REF_SRIPADA_2014",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Adolescent",
+   "Adult",
+   "Amygdala",
+   "Case-Control Studies",
+   "Dehydroepiandrosterone",
+   "Double-Blind Method",
+   "Functional Laterality",
+   "Humans",
+   "Image Processing, Computer-Assisted",
+   "Magnetic Resonance Imaging",
+   "Male",
+   "Movement"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Sripada 2013a / ALLO-DHEA",
+   "Sripada"
+  ],
+  "_nat": "associativa",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "alta(humano)",
+  "_uso": "suporte",
+  "_tag": "EC",
+  "_ptypes": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, U.S. Gov't, Non-P.H.S."
+  ]
+ },
+ {
+  "pmid_oficial": "24402140",
+  "titulo_artigo": "The role of ovarian hormone-derived neurosteroids on the regulation of GABAA receptors in affective disorders",
+  "autores": [
+   "MacKenzie G",
+   "Maguire J"
+  ],
+  "revista_ano": "Psychopharmacology (Berl) (2014)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Psychopharmacology (Berl)",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Neuroesteroides derivados de hormônios ovarianos regulam os receptores GABA-A (plasticidade de subunidades) e a vulnerabilidade afetiva no período reprodutivo",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_MACKENZIE_2014"
+  ],
+  "id_referencia_interna": "REF_MACKENZIE_2014",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Estrous Cycle",
+   "Female",
+   "Gonadal Steroid Hormones",
+   "Humans",
+   "Mood Disorders",
+   "Neurotransmitter Agents",
+   "Ovary",
+   "Postpartum Period",
+   "Pregnancy",
+   "Puberty",
+   "Receptors, GABA-A"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "MacKenzie & Maguire 2014",
+   "MacKenzie",
+   "Maguire"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ]
+ },
+ {
+  "pmid_oficial": "24781515",
+  "titulo_artigo": "5α-reductase type I expression is downregulated in the prefrontal cortex/Brodmann's area 9 (BA9) of depressed patients",
+  "autores": [
+   "Agis-Balboa RC",
+   "Guidotti A",
+   "Pinna G"
+  ],
+  "revista_ano": "Psychopharmacology (Berl) (2014)",
+  "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Psychopharmacology (Berl)",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Córtex pré-frontal (área de Brodmann 9) post-mortem de pacientes com depressão maior apresenta expressão reduzida de 5α-redutase tipo I — substrato molecular da deficiência de alopregnanolona",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_AGISBALBOA_2014"
+  ],
+  "id_referencia_interna": "REF_AGISBALBOA_2014",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "3-Oxo-5-alpha-Steroid 4-Dehydrogenase",
+   "Adult",
+   "Major Depressive Disorder",
+   "Down-Regulation",
+   "Female",
+   "Humans",
+   "Male",
+   "Middle Aged",
+   "Pilot Projects",
+   "Prefrontal Cortex",
+   "Pregnanolone",
+   "Pyramidal Cells"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Agís-Balboa 2014",
+   "Agis-Balboa",
+   "5α-redutase PFC"
+  ],
+  "_nat": "associativa",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "alta(humano)",
+  "_uso": "suporte",
+  "_tag": "EC",
+  "_ptypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ]
+ },
+ {
+  "pmid_oficial": "25436563",
+  "titulo_artigo": "Neurosteroids and GABAergic signaling in health and disease",
+  "autores": [
+   "MacKenzie G",
+   "Maguire J"
+  ],
+  "revista_ano": "Biomol Concepts (2013)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Biomol Concepts",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Revisão integrativa de neuroesteroides e sinalização GABAérgica em saúde e doença: síntese local, flutuações fisiológicas e resposta ao estresse",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_MACKENZIE_2013"
+  ],
+  "id_referencia_interna": "REF_MACKENZIE_2013",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Disease",
+   "Health",
+   "Humans",
+   "Neurotransmitter Agents",
+   "Receptors, GABA-A",
+   "Signal Transduction",
+   "gamma-Aminobutyric Acid"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Luscher 2023 (rótulo do insumo §3 — real: MacKenzie & Maguire 2013; Luscher 2023 = REF_LUSCHER_2023 já vigente)",
+   "MacKenzie & Maguire 2013"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Review"
+  ]
+ },
+ {
+  "pmid_oficial": "27306650",
+  "titulo_artigo": "Oestrogens and Progestagens: Synthesis and Action in the Brain",
+  "autores": [
+   "Rossetti MF",
+   "Cambiasso MJ",
+   "Holschbach MA",
+   "Cabrera R"
+  ],
+  "revista_ano": "J Neuroendocrinol (2016)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · J Neuroendocrinol",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Estrógenos e progestágenos sintetizados de novo no tecido neural: enzimas, distribuição e funções (proteção hipocampal e cognição)",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_ROSSETTI_2016"
+  ],
+  "id_referencia_interna": "REF_ROSSETTI_2016",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Animals",
+   "Brain",
+   "Estrogens",
+   "Humans",
+   "Neuroprotective Agents",
+   "Progestins",
+   "Receptors, Neurotransmitter"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Rossetti",
+   "Rossetti 2016"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article",
+   "Review"
+  ]
+ },
+ {
+  "pmid_oficial": "28825678",
+  "titulo_artigo": "Effects of Refined Xiaoyaosan on Depressive-Like Behaviors in Rats with Chronic Unpredictable Mild Stress through Neurosteroids, Their Synthesis and Metabolic Enzymes",
+  "autores": [
+   "Guo X",
+   "Qiu W",
+   "Liu Y",
+   "Zhang Y",
+   "Zhao H",
+   "Chen J"
+  ],
+  "revista_ano": "Molecules (2017)",
+  "desenho_estudo": "[ML] estudo pré-clínico (animal/in vitro) · Molecules",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Em ratos submetidos a estresse crônico imprevisível, a fórmula fitoterápica Xiaoyaosan reverteu comportamento tipo-depressivo normalizando neuroesteroides e a expressão de mRNAs das enzimas de síntese/metabolismo (valor: eixo neuroesteroide; não a fórmula)",
+  "extrapolacao_por_analogia": "SIM — evidência em modelo animal/in vitro; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_GUO_2017"
+  ],
+  "id_referencia_interna": "REF_GUO_2017",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Amygdala",
+   "Animals",
+   "Antidepressive Agents",
+   "Behavior, Animal",
+   "Biomarkers",
+   "Body Weight",
+   "Brain",
+   "Depression",
+   "Disease Models, Animal",
+   "Drugs, Chinese Herbal",
+   "Energy Metabolism",
+   "Gene Expression"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "modelo animal/in vitro — sinal mecanístico, não prova humana",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Guo 2017",
+   "Xiaoyaosan"
+  ],
+  "_nat": "nao_estabelecida",
+  "_mat": "emergente",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_mecanistico_extrapolado",
+  "_forca": "media(preclinico)",
+  "_uso": "nucleo_causal",
+  "_tag": "ML",
+  "_ptypes": [
+   "Journal Article"
+  ]
+ },
+ {
+  "pmid_oficial": "29199875",
+  "titulo_artigo": "Using positron emission tomography to investigate hormone-mediated neurochemical changes across the female lifespan: implications for depression",
+  "autores": [
+   "Zsido RG",
+   "Villringer A",
+   "Sacher J"
+  ],
+  "revista_ano": "Int Rev Psychiatry (2017)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Int Rev Psychiatry",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Revisão: transições hormonais (ciclo, gestação→pós-parto, perimenopausa) como janelas de vulnerabilidade e contribuição da tomografia por emissão de pósitrons para mapear alterações neuroquímicas associadas",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_ZSIDO_2017"
+  ],
+  "id_referencia_interna": "REF_ZSIDO_2017",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Brain",
+   "Depression",
+   "Estrogens",
+   "Humans",
+   "Neurochemistry",
+   "Perimenopause",
+   "Positron-Emission Tomography",
+   "Postpartum Period",
+   "Progesterone",
+   "Sex Factors"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Zsido",
+   "Zsido 2017",
+   "PET hormônios"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article",
+   "Review"
+  ]
+ },
+ {
+  "pmid_oficial": "30321584",
+  "titulo_artigo": "17β-Hydroxysteroid dehydrogenases and neurosteroid metabolism in the central nervous system",
+  "autores": [
+   "He XY",
+   "Dobkin C",
+   "Yang SY"
+  ],
+  "revista_ano": "Mol Cell Endocrinol (2019)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Mol Cell Endocrinol",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "17β-hidroxisteroides desidrogenases como etapas enzimáticas indispensáveis da neuroesteroidogênese no sistema nervoso central",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_HE_2019"
+  ],
+  "id_referencia_interna": "REF_HE_2019",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "17-Hydroxysteroid Dehydrogenases",
+   "Animals",
+   "Central Nervous System",
+   "Homeostasis",
+   "Humans",
+   "Mutation, Missense",
+   "Neurosteroids"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "He 2019",
+   "17β-HSD"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Review"
+  ]
+ },
+ {
+  "pmid_oficial": "31709278",
+  "titulo_artigo": "Allopregnanolone-based treatments for postpartum depression: Why/how do they work?",
+  "autores": [
+   "Walton N",
+   "Maguire J"
+  ],
+  "revista_ano": "Neurobiol Stress (2019)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Neurobiol Stress",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Perspectiva: a aprovação regulatória de tratamento à base de alopregnanolona (brexanolona) na depressão pós-parto como validação mecanística do eixo alopregnanolona–GABA-A — por que/como funciona",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_WALTON_2019"
+  ],
+  "id_referencia_interna": "REF_WALTON_2019",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Walton & Maguire 2019",
+   "Walton",
+   "Maguire",
+   "brexanolona"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article"
+  ]
+ },
+ {
+  "pmid_oficial": "32435663",
+  "titulo_artigo": "Allopregnanolone in postpartum depression: Role in pathophysiology and treatment",
+  "autores": [
+   "Meltzer-Brody S",
+   "Kanes SJ"
+  ],
+  "revista_ano": "Neurobiol Stress (2020)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Neurobiol Stress",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Revisão: papel da alopregnanolona na fisiopatologia e no tratamento da depressão pós-parto",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_MELTZERBRODY_2020"
+  ],
+  "id_referencia_interna": "REF_MELTZERBRODY_2020",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Matthew 2013 (rótulo do insumo — real: Meltzer-Brody & Kanes 2020, item §4 que constava 'não localizada')",
+   "Meltzer-Brody",
+   "Kanes"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article",
+   "Review"
+  ]
+ },
+ {
+  "pmid_oficial": "32435665",
+  "titulo_artigo": "Allopregnanolone: From molecular pathophysiology to therapeutics. A historical perspective",
+  "autores": [
+   "Paul SM",
+   "Pinna G",
+   "Guidotti A"
+  ],
+  "revista_ano": "Neurobiol Stress (2020)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Neurobiol Stress",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Alopregnanolona: da fisiopatologia molecular (ações não-genômicas rápidas via GABA-A) à terapêutica — perspectiva histórica de três décadas",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_PAUL_2020"
+  ],
+  "id_referencia_interna": "REF_PAUL_2020",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Paul",
+   "Pinna",
+   "Guidotti",
+   "Paul 2020"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article"
+  ]
+ },
+ {
+  "pmid_oficial": "33404887",
+  "titulo_artigo": "The Impact of the Menstrual Cycle and Underlying Hormones in Anxiety and PTSD: What Do We Know and Where Do We Go From Here?",
+  "autores": [
+   "Nillni YI",
+   "Rasmusson AM",
+   "Paul EL",
+   "Pineles SL"
+  ],
+  "revista_ano": "Curr Psychiatry Rep (2021)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Curr Psychiatry Rep",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Revisão: efeitos da fase do ciclo menstrual e de seus hormônios em desfechos de ansiedade e TEPT, mecanismos neurobiológicos propostos e limitações metodológicas",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_NILLNI_2021"
+  ],
+  "id_referencia_interna": "REF_NILLNI_2021",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Anxiety",
+   "Fear",
+   "Female",
+   "Humans",
+   "Menstrual Cycle",
+   "Retrospective Studies",
+   "Stress Disorders, Post-Traumatic"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Nillni",
+   "Nillni 2021",
+   "ciclo menstrual"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article",
+   "Review"
+  ]
+ },
+ {
+  "pmid_oficial": "33585496",
+  "titulo_artigo": "Steroid Hormone Sensitivity in Reproductive Mood Disorders: On the Role of the GABA(A) Receptor Complex and Stress During Hormonal Transitions",
+  "autores": [
+   "Schweizer-Schubert S",
+   "Gordon JL",
+   "Eisenlohr-Moul TA",
+   "Meltzer-Brody S",
+   "Schmalenberger KM",
+   "Slopien R",
+   "Zietlow AL",
+   "Ehlert U",
+   "Ditzen B"
+  ],
+  "revista_ano": "Front Med (Lausanne) (2020)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Front Med (Lausanne)",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Sensibilidade a hormônios esteroides (não os níveis absolutos) como base dos transtornos de humor reprodutivos — papel da sensibilidade do receptor GABA-A e do estresse",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_SCHWEIZERSCHUBERT_2021"
+  ],
+  "id_referencia_interna": "REF_SCHWEIZERSCHUBERT_2021",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Schiller 2016 (rótulo do insumo — real: Schweizer-Schubert et al.; era [G1] da Via 7)",
+   "Schweizer-Schubert"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article",
+   "Review"
+  ]
+ },
+ {
+  "pmid_oficial": "35716803",
+  "titulo_artigo": "Sex hormone fluctuation and increased female risk for depression and anxiety disorders: From clinical evidence to molecular mechanisms",
+  "autores": [
+   "Kundakovic M",
+   "Rocks D"
+  ],
+  "revista_ano": "Front Neuroendocrinol (2022)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Front Neuroendocrinol",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Flutuação de hormônios sexuais e risco feminino elevado de depressão e ansiedade: do nível etiológico ao mecanístico — revisão",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_KUNDAKOVIC_2022"
+  ],
+  "id_referencia_interna": "REF_KUNDAKOVIC_2022",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Anxiety Disorders",
+   "Brain",
+   "Depression",
+   "Estrogens",
+   "Female",
+   "Gonadal Steroid Hormones",
+   "Humans",
+   "Male"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Kundakovic & Rocks 2022",
+   "Kundakovic",
+   "Rocks"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article",
+   "Review",
+   "Research Support, N.I.H., Extramural"
+  ]
+ },
+ {
+  "pmid_oficial": "35809362",
+  "titulo_artigo": "Baseline anxiety-sensitivity to estradiol fluctuations predicts anxiety symptom response to transdermal estradiol treatment in perimenopausal women - A randomized clinical trial",
+  "autores": [
+   "Lozza-Fiacco S",
+   "Gordon JL",
+   "Andersen EH",
+   "Kozik RG",
+   "Neely O",
+   "Schiller C",
+   "Munoz M",
+   "Rubinow DR",
+   "Girdler SS"
+  ],
+  "revista_ano": "Psychoneuroendocrinology (2022)",
+  "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Psychoneuroendocrinology",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Na transição menopausal, maior variabilidade do estradiol predisse fenótipos depressivos com ansiedade/anedonia; ensaio experimental mostra sensibilidade individual basal ao estradiol como preditor de resposta sintomática",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_LOZZAFIACCO_2022"
+  ],
+  "id_referencia_interna": "REF_LOZZAFIACCO_2022",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Anhedonia",
+   "Anxiety",
+   "Anxiety Disorders",
+   "Double-Blind Method",
+   "Estradiol",
+   "Female",
+   "Humans",
+   "Hydrocortisone",
+   "Interleukin-6",
+   "Perimenopause"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Locci & Pinna 2017 (rótulo do insumo — real: Lozza-Fiacco 2022; Locci & Pinna 2017 = REF_LOCCI_2017 já vigente)",
+   "Lozza-Fiacco"
+  ],
+  "_nat": "associativa",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "alta(humano)",
+  "_uso": "suporte",
+  "_tag": "EC",
+  "_ptypes": [
+   "Journal Article",
+   "Randomized Controlled Trial",
+   "Research Support, N.I.H., Extramural",
+   "Research Support, Non-U.S. Gov't"
+  ]
+ },
+ {
+  "pmid_oficial": "35908135",
+  "titulo_artigo": "Hormonal Agents for the Treatment of Depression Associated with the Menopause",
+  "autores": [
+   "Herson M",
+   "Kulkarni J"
+  ],
+  "revista_ano": "Drugs Aging (2022)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Drugs Aging",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Revisão: agentes hormonais no tratamento da depressão associada à menopausa — camada intervenção-sinal, distinta do eixo endógeno",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_HERSON_2022"
+  ],
+  "id_referencia_interna": "REF_HERSON_2022",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Antidepressive Agents",
+   "Depression",
+   "Estrogens",
+   "Female",
+   "Humans",
+   "Menopause",
+   "Perimenopause"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Herson & Kulkarni 2022",
+   "Herson",
+   "Kulkarni"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article",
+   "Review"
+  ]
+ },
+ {
+  "pmid_oficial": "36725341",
+  "titulo_artigo": "Allopregnanolone Effects on Inhibition in Hippocampal Parvalbumin Interneurons",
+  "autores": [
+   "Lu X",
+   "Lambert P",
+   "Benz A",
+   "Zorumski CF",
+   "Mennerick SJ"
+  ],
+  "revista_ano": "eNeuro (2023)",
+  "desenho_estudo": "[ML] estudo pré-clínico (animal/in vitro) · eNeuro",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Alopregnanolona potencia a inibição GABAérgica em interneurônios parvalbumina do hipocampo — braço celular do efeito neuroesteroide",
+  "extrapolacao_por_analogia": "SIM — evidência em modelo animal/in vitro; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_LU_2023"
+  ],
+  "id_referencia_interna": "REF_LU_2023",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Mice",
+   "Male",
+   "Female",
+   "Animals",
+   "Pregnanolone",
+   "Parvalbumins",
+   "Interneurons",
+   "Receptors, GABA-A",
+   "Hippocampus",
+   "gamma-Aminobutyric Acid"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "modelo animal/in vitro — sinal mecanístico, não prova humana",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Lu 2023",
+   "interneurônios PV"
+  ],
+  "_nat": "nao_estabelecida",
+  "_mat": "emergente",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_mecanistico_extrapolado",
+  "_forca": "media(preclinico)",
+  "_uso": "nucleo_causal",
+  "_tag": "ML",
+  "_ptypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ]
+ },
+ {
+  "pmid_oficial": "36937732",
+  "titulo_artigo": "Role of allopregnanolone-mediated γ-aminobutyric acid A receptor sensitivity in the pathogenesis of premenstrual dysphoric disorder: Toward precise targets for translational medicine and drug development",
+  "autores": [
+   "Gao Q",
+   "Sun W",
+   "Wang YR",
+   "Li ZF",
+   "Zhao F",
+   "Geng XW",
+   "Xu KY",
+   "Chen D",
+   "Liu K",
+   "Xing Y",
+   "Liu W",
+   "Wei S"
+  ],
+  "revista_ano": "Front Psychiatry (2023)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Front Psychiatry",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "TPM/PMDD conceituada como transtorno de sensibilidade subótima a neuroesteroides: mediação por sensibilidade do receptor GABA-A à alopregnanolona",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_GAO_2023"
+  ],
+  "id_referencia_interna": "REF_GAO_2023",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Gao 2023",
+   "PMDD"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article",
+   "Review"
+  ]
+ },
+ {
+  "pmid_oficial": "37068417",
+  "titulo_artigo": "The effect of exogenous estrogen on depressive mood in women: A systematic review and meta-analysis of randomized controlled trials",
+  "autores": [
+   "Zhang J",
+   "Yin J",
+   "Song X",
+   "Lai S",
+   "Zhong S",
+   "Jia Y"
+  ],
+  "revista_ano": "J Psychiatr Res (2023)",
+  "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · J Psychiatr Res",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Revisão sistemática com meta-análise de ensaios randomizados: estrogênio exógeno associado a melhora do humor depressivo em mulheres — evidência de intervenção (sinal), distinta do eixo endógeno",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_ZHANG_2023"
+  ],
+  "id_referencia_interna": "REF_ZHANG_2023",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Male",
+   "Female",
+   "Humans",
+   "Depression",
+   "Randomized Controlled Trials as Topic",
+   "Estrogens",
+   "Affect",
+   "Depressive Disorder"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Zhang 2023",
+   "estrogênio exógeno",
+   "HRT sinal"
+  ],
+  "_nat": "associativa",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "alta(humano)",
+  "_uso": "suporte",
+  "_tag": "EC",
+  "_ptypes": [
+   "Meta-Analysis",
+   "Systematic Review",
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ]
+ },
+ {
+  "pmid_oficial": "38899227",
+  "titulo_artigo": "Differential effects of allopregnanolone and diazepam on social behavior through modulation of neural oscillation dynamics in basolateral amygdala and medial prefrontal cortex",
+  "autores": [
+   "Yawata Y",
+   "Tashima R",
+   "Aritomi H",
+   "Shimada S",
+   "Onodera T",
+   "Taishi T",
+   "Takasu K",
+   "Ogawa K"
+  ],
+  "revista_ano": "Front Cell Neurosci (2024)",
+  "desenho_estudo": "[ML] estudo pré-clínico (animal/in vitro) · Front Cell Neurosci",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Alopregnanolona e diazepamapresentam efeitos diferenciais sobre comportamento social por modulação distinta de oscilações (modelo murino) — farmacologia comparada pré-clínica",
+  "extrapolacao_por_analogia": "SIM — evidência em modelo animal/in vitro; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_YAWATA_2024"
+  ],
+  "id_referencia_interna": "REF_YAWATA_2024",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "modelo animal/in vitro — sinal mecanístico, não prova humana",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Yawata 2024",
+   "ALLO vs diazepam"
+  ],
+  "_nat": "nao_estabelecida",
+  "_mat": "emergente",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_mecanistico_extrapolado",
+  "_forca": "media(preclinico)",
+  "_uso": "nucleo_causal",
+  "_tag": "ML",
+  "_ptypes": [
+   "Journal Article"
+  ]
+ },
+ {
+  "pmid_oficial": "40261706",
+  "titulo_artigo": "Single cell resolution of neurosteroidogenesis in the murine brain: intermediary biosynthesis",
+  "autores": [
+   "Koganti PP",
+   "Selvaraj V"
+  ],
+  "revista_ano": "J Endocrinol (2025)",
+  "desenho_estudo": "[ML] estudo pré-clínico (animal/in vitro) · J Endocrinol",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Mapa em resolução de célula única da neuroesteroidogênese no cérebro murino: etapas intermediárias de biossíntese distribuídas por populações celulares",
+  "extrapolacao_por_analogia": "SIM — evidência em modelo animal/in vitro; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_KOGANTI_2025"
+  ],
+  "id_referencia_interna": "REF_KOGANTI_2025",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals",
+   "Neurosteroids",
+   "Brain",
+   "Mice",
+   "Male",
+   "Female",
+   "Pregnenolone",
+   "Mice, Inbred C57BL",
+   "Single-Cell Analysis",
+   "Transcriptome"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "modelo animal/in vitro — sinal mecanístico, não prova humana",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Koganti & Selvaraj 2025",
+   "Koganti",
+   "single-cell"
+  ],
+  "_nat": "nao_estabelecida",
+  "_mat": "emergente",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_mecanistico_extrapolado",
+  "_forca": "media(preclinico)",
+  "_uso": "nucleo_causal",
+  "_tag": "ML",
+  "_ptypes": [
+   "Journal Article"
+  ]
+ },
+ {
+  "pmid_oficial": "36961547",
+  "titulo_artigo": "Does menopause elevate the risk for developing depression and anxiety? Results from a systematic review",
+  "autores": [
+   "Alblooshi S",
+   "Taylor M",
+   "Gill N"
+  ],
+  "revista_ano": "Australas Psychiatry (2023)",
+  "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Australas Psychiatry",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Revisão sistemática: a menopausa eleva o risco de desenvolver depressão e ansiedade diagnosticadas",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_ALBLOOSHI_2023"
+  ],
+  "id_referencia_interna": "REF_ALBLOOSHI_2023",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Female",
+   "Humans",
+   "Depression",
+   "Prospective Studies",
+   "Retrospective Studies",
+   "Cross-Sectional Studies",
+   "Menopause",
+   "Anxiety"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Alblooshi 2023",
+   "menopausa risco"
+  ],
+  "_nat": "associativa",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "alta(humano)",
+  "_uso": "suporte",
+  "_tag": "EC",
+  "_ptypes": [
+   "Systematic Review",
+   "Journal Article"
+  ]
+ },
+ {
+  "pmid_oficial": "36433781",
+  "titulo_artigo": "Mood disorders and hormonal status across women's life: a narrative review",
+  "autores": [
+   "Antonelli A",
+   "Giannini A",
+   "Chedraui P",
+   "Monteleone P",
+   "Caretto M",
+   "Genazzani AD",
+   "Mannella P",
+   "Simoncini T",
+   "Genazzani AR"
+  ],
+  "revista_ano": "Gynecol Endocrinol (2022)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Gynecol Endocrinol",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Revisão narrativa: transtornos de humor e estados de ansiedade em relação ao status hormonal ao longo da vida da mulher, da puberdade à menopausa",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_ANTONELLI_2022"
+  ],
+  "id_referencia_interna": "REF_ANTONELLI_2022",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Female",
+   "Humans",
+   "Mood Disorders",
+   "Quality of Life",
+   "Menopause",
+   "Estrogens",
+   "Gonadal Steroid Hormones"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Antonelli 2022",
+   "Antonelli"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Review",
+   "Journal Article"
+  ]
+ },
+ {
+  "pmid_oficial": "24044974",
+  "titulo_artigo": "Multifunctional aspects of allopregnanolone in stress and related disorders",
+  "autores": [
+   "Bali A",
+   "Jaggi AS"
+  ],
+  "revista_ano": "Prog Neuropsychopharmacol Biol Psychiatry (2014)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Prog Neuropsychopharmacol Biol Psychiatry",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Aspectos multifuncionais da alopregnanolona no estresse e em transtornos relacionados: síntese por 5α-redutase/3α-HSD e interação com o eixo do estresse",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_BALI_2014"
+  ],
+  "id_referencia_interna": "REF_BALI_2014",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Anxiety",
+   "Brain-Derived Neurotrophic Factor",
+   "Calcium Channels",
+   "Depression",
+   "Dopamine",
+   "Glutamic Acid",
+   "Humans",
+   "Oxytocin",
+   "Pregnanolone",
+   "Receptors, GABA-A",
+   "Stress, Psychological"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Bali & Jaggi 2014",
+   "Bali",
+   "Jaggi"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article",
+   "Review"
+  ]
+ },
+ {
+  "pmid_oficial": "34644812",
+  "titulo_artigo": "Relating neurosteroid modulation of inhibitory neurotransmission to behaviour",
+  "autores": [
+   "Belelli D",
+   "Phillips GD",
+   "Atack JR",
+   "Lambert JJ"
+  ],
+  "revista_ano": "J Neuroendocrinol (2022)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · J Neuroendocrinol",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Relacionar a modulação neuroesteroide da neurotransmissão inibitória ao comportamento: síntese mecanística dos PAMs endógenos do GABA-A (resolve [G1] 'Belelli 2021/2022' do GPM M00)",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_BELELLI_2022"
+  ],
+  "id_referencia_interna": "REF_BELELLI_2022",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Central Nervous System",
+   "Female",
+   "Humans",
+   "Neurosteroids",
+   "Receptors, GABA-A",
+   "Synaptic Transmission",
+   "gamma-Aminobutyric Acid"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Belelli 2021 (rótulo do insumo — print 2022)",
+   "Belelli"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article",
+   "Review"
+  ]
+ },
+ {
+  "pmid_oficial": "31879693",
+  "titulo_artigo": "Pleiotropic actions of allopregnanolone underlie therapeutic benefits in stress-related disease",
+  "autores": [
+   "Boero G",
+   "Porcu P",
+   "Morrow AL"
+  ],
+  "revista_ano": "Neurobiol Stress (2020)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Neurobiol Stress",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Ações pleiotrópicas da alopregnanolona subjacentes a benefícios terapêuticos em doenças relacionadas ao estresse, incluindo TEPT e depressão (perspectiva mecanística)",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_BOERO_2020"
+  ],
+  "id_referencia_interna": "REF_BOERO_2020",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Boero 2020",
+   "Boero"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article"
+  ]
+ },
+ {
+  "pmid_oficial": "39444825",
+  "titulo_artigo": "Estradiol and progesterone from pregnancy to postpartum: a longitudinal latent class analysis",
+  "autores": [
+   "Dukic J",
+   "Johann A",
+   "Henninger M",
+   "Ehlert U"
+  ],
+  "revista_ano": "Front Glob Womens Health (2024)",
+  "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Front Glob Womens Health",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Gestação→pós-parto: trajetórias longitudinais (classes latentes) de estradiol e progesterona associam-se diferencialmente a desfechos afetivos — heterogeneidade individual como achado central",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_DUKIC_2024"
+  ],
+  "id_referencia_interna": "REF_DUKIC_2024",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Dukic 2024",
+   "Dukic"
+  ],
+  "_nat": "associativa",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "alta(humano)",
+  "_uso": "suporte",
+  "_tag": "EC",
+  "_ptypes": [
+   "Journal Article"
+  ]
+ },
+ {
+  "pmid_oficial": "37423029",
+  "titulo_artigo": "Metabolites of progesterone in pregnancy: Associations with perinatal anxiety",
+  "autores": [
+   "Etyemez S",
+   "Miller KN",
+   "Voegtline KM",
+   "Özdemir İ",
+   "Standeven LR",
+   "Santovito LS",
+   "Pinna G",
+   "Payne JL",
+   "Osborne LM"
+  ],
+  "revista_ano": "Psychoneuroendocrinology (2023)",
+  "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Psychoneuroendocrinology",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Metabólitos da progesterona durante a gestação associam-se a ansiedade perinatal — coorte prospectiva",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_ETYEMEZ_2023"
+  ],
+  "id_referencia_interna": "REF_ETYEMEZ_2023",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Pregnancy",
+   "Humans",
+   "Female",
+   "Progesterone",
+   "5-alpha-Dihydroprogesterone",
+   "Pregnanolone",
+   "Cross-Sectional Studies",
+   "Anxiety Disorders",
+   "Neurosteroids"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Etyemez 2023",
+   "Etyemez",
+   "ansiedade perinatal"
+  ],
+  "_nat": "associativa",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "alta(humano)",
+  "_uso": "suporte",
+  "_tag": "EC",
+  "_ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't",
+   "Research Support, N.I.H., Extramural"
+  ]
+ },
+ {
+  "pmid_oficial": "40538358",
+  "titulo_artigo": "Biomarkers of reproductive psychiatric disorders",
+  "autores": [
+   "Etyemez S",
+   "Mehta K",
+   "Iyer S",
+   "Özdemir İ",
+   "Osborne LM"
+  ],
+  "revista_ano": "Br J Psychiatry (2025)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Br J Psychiatry",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Revisão: biomarcadores em transtornos psiquiátricos reprodutivos — transições hormonais (ciclo, gestação, puerpério, menopausa) como janelas translacionais; sem ferramenta diagnóstica pronta",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_ETYEMEZ_2025"
+  ],
+  "id_referencia_interna": "REF_ETYEMEZ_2025",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Biomarkers",
+   "Female",
+   "Pregnancy",
+   "Mental Disorders"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Etyemez 2025",
+   "biomarcadores reprodutivos"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article",
+   "Review"
+  ]
+ },
+ {
+  "pmid_oficial": "16373246",
+  "titulo_artigo": "3alpha-reduced neuroactive steroids and their precursors during pregnancy and the postpartum period",
+  "autores": [
+   "Gilbert Evans SE",
+   "Ross LE",
+   "Sellers EM",
+   "Purdy RH",
+   "Romach MK"
+  ],
+  "revista_ano": "Gynecol Endocrinol (2005)",
+  "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Gynecol Endocrinol",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Neuroesteroides 3α-reduzidos (alopregnanolona, pregnanolona) e precursores durante a gestação e o pós-parto: flutuações fisiológicas e relação com o humor",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_EVANS_2005"
+  ],
+  "id_referencia_interna": "REF_EVANS_2005",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "5-alpha-Dihydroprogesterone",
+   "Adult",
+   "Delivery, Obstetric",
+   "Depression, Postpartum",
+   "Female",
+   "Gas Chromatography-Mass Spectrometry",
+   "Gestational Age",
+   "Humans",
+   "Labor Onset",
+   "Parity",
+   "Postpartum Period",
+   "Pregnancy"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Evans 2005 (duplicata interna do insumo colapsada §4)",
+   "Gilbert Evans"
+  ],
+  "_nat": "associativa",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "alta(humano)",
+  "_uso": "suporte",
+  "_tag": "EC",
+  "_ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ]
+ },
+ {
+  "pmid_oficial": "39640510",
+  "titulo_artigo": "Allopregnanolone and mood in the peripartum: a longitudinal assessment in healthy women",
+  "autores": [
+   "Grötsch MK",
+   "Ehlert U"
+  ],
+  "revista_ano": "Front Behav Neurosci (2024)",
+  "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Front Behav Neurosci",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Avaliação longitudinal em mulheres saudáveis: alopregnanolona e humor ao longo do periparto — relação sugerida em forma de U, com sensibilidade individual",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_GROTSCH_2024b"
+  ],
+  "id_referencia_interna": "REF_GROTSCH_2024b",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Grötsch 2024 (longitudinal — distinto do REF_GROTSCH_2024 vigente, revisão sistemática)",
+   "Grötsch"
+  ],
+  "_nat": "associativa",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "alta(humano)",
+  "_uso": "suporte",
+  "_tag": "EC",
+  "_ptypes": [
+   "Journal Article"
+  ]
+ },
+ {
+  "pmid_oficial": "42292154",
+  "titulo_artigo": "GABA(A) Receptor Modulators as Emerging Therapeutic Agents for Depressive Disorders",
+  "autores": [
+   "Guan BY",
+   "Li Y"
+  ],
+  "revista_ano": "Drug Des Devel Ther (2026)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Drug Des Devel Ther",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Revisão: moduladores do receptor GABA-A como agentes terapêuticos emergentes nos transtornos depressivos — camada terapêutica-sinal",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_GUAN_2026"
+  ],
+  "id_referencia_interna": "REF_GUAN_2026",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Receptors, GABA-A",
+   "Antidepressive Agents",
+   "Animals",
+   "Depressive Disorder",
+   "Neurosteroids",
+   "Benzodiazepines"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Guan & Li 2026",
+   "Guan"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article",
+   "Review"
+  ]
+ },
+ {
+  "pmid_oficial": "24776841",
+  "titulo_artigo": "Low serum allopregnanolone is associated with symptoms of depression in late pregnancy",
+  "autores": [
+   "Hellgren C",
+   "Åkerud H",
+   "Skalkidou A",
+   "Bäckström T",
+   "Sundström-Poromaa I"
+  ],
+  "revista_ano": "Neuropsychobiology (2014)",
+  "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Neuropsychobiology",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Alopregnanolona sérica baixa no final da gestação associa-se a sintomas depressivos (resolve [G1] 'Hellgren' do GPM/Via 6)",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_HELLGREN_2014"
+  ],
+  "id_referencia_interna": "REF_HELLGREN_2014",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Adult",
+   "Anxiety",
+   "Depression",
+   "Depression, Postpartum",
+   "Female",
+   "Humans",
+   "Pregnancy",
+   "Pregnancy Complications",
+   "Pregnancy Trimester, Third",
+   "Pregnanolone",
+   "Self Report",
+   "Young Adult"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Hellgren 2014",
+   "Hellgren"
+  ],
+  "_nat": "associativa",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "alta(humano)",
+  "_uso": "suporte",
+  "_tag": "EC",
+  "_ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ]
+ },
+ {
+  "pmid_oficial": "31031589",
+  "titulo_artigo": "Sex and Estrous Cycle Effects on Anxiety- and Depression-Related Phenotypes in a Two-Hit Developmental Stress Model",
+  "autores": [
+   "Jaric I",
+   "Rocks D",
+   "Cham H",
+   "Herchek A",
+   "Kundakovic M"
+  ],
+  "revista_ano": "Front Mol Neurosci (2019)",
+  "desenho_estudo": "[ML] estudo pré-clínico (animal/in vitro) · Front Mol Neurosci",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Modelo de desenvolvimento em dois insultos (roedor): efeitos de sexo e de ciclo estral sobre fenótipos de ansiedade e depressão — interação desenvolvimento × hormônio",
+  "extrapolacao_por_analogia": "SIM — evidência em modelo animal/in vitro; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_JARIC_2019"
+  ],
+  "id_referencia_interna": "REF_JARIC_2019",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "modelo animal/in vitro — sinal mecanístico, não prova humana",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Jain 2005 (rótulo do insumo §6 — real: Jarić et al. 2019, item §4 que constava 'não resolvida')",
+   "Jarić 2019",
+   "Jaric"
+  ],
+  "_nat": "nao_estabelecida",
+  "_mat": "emergente",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_mecanistico_extrapolado",
+  "_forca": "media(preclinico)",
+  "_uso": "nucleo_causal",
+  "_tag": "ML",
+  "_ptypes": [
+   "Journal Article"
+  ]
+ },
+ {
+  "pmid_oficial": "27856395",
+  "titulo_artigo": "Why are women so vulnerable to anxiety, trauma-related and stress-related disorders? The potential role of sex hormones",
+  "autores": [
+   "Li SH",
+   "Graham BM"
+  ],
+  "revista_ano": "Lancet Psychiatry (2017)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Lancet Psychiatry",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Revisão integrativa: vulnerabilidade aumentada das mulheres a transtornos de ansiedade, trauma e estresse — papel potencial dos hormônios sexuais (estradiol/progesterona)",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_LI_2017"
+  ],
+  "id_referencia_interna": "REF_LI_2017",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Anxiety Disorders",
+   "Female",
+   "Gonadal Steroid Hormones",
+   "Humans",
+   "Psychophysiologic Disorders",
+   "Sex Characteristics",
+   "Stress Disorders, Post-Traumatic"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Li & Graham 2017",
+   "Li 2016",
+   "Graham"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article",
+   "Review"
+  ]
+ },
+ {
+  "pmid_oficial": "41598293",
+  "titulo_artigo": "Neuroinflammation and the Female Brain: Sex-Specific Mechanisms Underlying Mood Disorders and Stress Vulnerability",
+  "autores": [
+   "Marano G",
+   "d'Abate C",
+   "Traversi G",
+   "Mazza O",
+   "Gaetani E",
+   "Esposito R",
+   "Pavese F",
+   "Paris I",
+   "Mazza M"
+  ],
+  "revista_ano": "Life (Basel) (2026)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Life (Basel)",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Neuroinflamação no cérebro feminino: mecanismos sexo-específicos em transtornos de humor e de estresse — interface com o eixo neuroesteroide (ponte B1↔B14)",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_MARANO_2026"
+  ],
+  "id_referencia_interna": "REF_MARANO_2026",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Marano 2026",
+   "Marano"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article",
+   "Review"
+  ]
+ },
+ {
+  "pmid_oficial": "29290217",
+  "titulo_artigo": "Variation in symptoms of depression and anxiety in midlife women by menopausal status",
+  "autores": [
+   "Mulhall S",
+   "Andel R",
+   "Anstey KJ"
+  ],
+  "revista_ano": "Maturitas (2018)",
+  "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Maturitas",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Amostra comunitária de mulheres de meia-idade: sintomas de depressão e ansiedade variam significativamente conforme o status menopausal",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_MULHALL_2018"
+  ],
+  "id_referencia_interna": "REF_MULHALL_2018",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Adult",
+   "Anxiety",
+   "Australia",
+   "Depression",
+   "Female",
+   "Humans",
+   "Longitudinal Studies",
+   "Menopause",
+   "Middle Aged",
+   "Psychiatric Status Rating Scales",
+   "Risk"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Mulhall 2018",
+   "Mulhall"
+  ],
+  "_nat": "associativa",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "alta(humano)",
+  "_uso": "suporte",
+  "_tag": "EC",
+  "_ptypes": [
+   "Journal Article"
+  ]
+ },
+ {
+  "pmid_oficial": "38029039",
+  "titulo_artigo": "A Cross-sectional Assessment of Depression, Anxiety, and Cognition in Perimenopausal and Menopausal Women",
+  "autores": [
+   "Nagda AL",
+   "Datar MC",
+   "Naphade NM",
+   "Shetty JV"
+  ],
+  "revista_ano": "J Midlife Health (2023)",
+  "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · J Midlife Health",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Avaliação transversal: depressão, ansiedade e cognição em mulheres na transição peri/pós-menopausa",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_NAGDA_2023"
+  ],
+  "id_referencia_interna": "REF_NAGDA_2023",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Nagda 2023",
+   "Nagda"
+  ],
+  "_nat": "associativa",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "alta(humano)",
+  "_uso": "suporte",
+  "_tag": "EC",
+  "_ptypes": [
+   "Journal Article"
+  ]
+ },
+ {
+  "pmid_oficial": "26018188",
+  "titulo_artigo": "Estrogen, Stress, and Depression: A Neurocognitive Model",
+  "autores": [
+   "Newhouse P",
+   "Albert K"
+  ],
+  "revista_ano": "JAMA Psychiatry (2015)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · JAMA Psychiatry",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Comentário: modelo neurocognitivo integrando estrógeno, estresse e depressão",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_NEWHOUSE_2015"
+  ],
+  "id_referencia_interna": "REF_NEWHOUSE_2015",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Depression",
+   "Depressive Disorder",
+   "Estradiol",
+   "Estrogens",
+   "Female",
+   "Humans",
+   "Perimenopause"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Newhouse & Albert 2015",
+   "Newhouse"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural",
+   "Comment"
+  ]
+ },
+ {
+  "pmid_oficial": "41390123",
+  "titulo_artigo": "Molecular Mechanisms of Menstrual Cycle-Related Suicide Risk: A Selective Review of Promising Candidate Systems",
+  "autores": [
+   "Ross A",
+   "Patterson AM",
+   "Eisenlohr-Moul TA"
+  ],
+  "revista_ano": "Biol Psychiatry (2026)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Biol Psychiatry",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Revisão seletiva: mecanismos moleculares candidatos do risco de suicídio relacionado ao ciclo menstrual — flutuação ovariana cíclica como janela de vulnerabilidade",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_ROSS_2026"
+  ],
+  "id_referencia_interna": "REF_ROSS_2026",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Female",
+   "Menstrual Cycle",
+   "Suicide",
+   "Brain",
+   "Progesterone"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Ross 2025 (rótulo do insumo — print 2026)",
+   "Ross"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article",
+   "Review"
+  ]
+ },
+ {
+  "pmid_oficial": "34330326",
+  "titulo_artigo": "Testosterone and depressive symptoms during the late menopause transition",
+  "autores": [
+   "Sander B",
+   "Muftah A",
+   "Sykes Tottenham L",
+   "Grummisch JA",
+   "Gordon JL"
+  ],
+  "revista_ano": "Biol Sex Differ (2021)",
+  "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Biol Sex Differ",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Coorte na transição menopausal tardia: examina a relação entre testosterona e sintomas depressivos",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_SANDER_2021"
+  ],
+  "id_referencia_interna": "REF_SANDER_2021",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Depression",
+   "Estradiol",
+   "Female",
+   "Humans",
+   "Menopause",
+   "Middle Aged",
+   "Sleep Quality",
+   "Testosterone"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Sander 2021",
+   "Sander",
+   "testosterona"
+  ],
+  "_nat": "associativa",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "alta(humano)",
+  "_uso": "suporte",
+  "_tag": "EC",
+  "_ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ]
+ },
+ {
+  "pmid_oficial": "34714413",
+  "titulo_artigo": "Allopregnanolone and depression and anxiety symptoms across the peripartum: an exploratory study",
+  "autores": [
+   "Standeven LR",
+   "Osborne LM",
+   "Betz JF",
+   "Yenokyan G",
+   "Voegtline K",
+   "Hantsoo L",
+   "Payne JL"
+  ],
+  "revista_ano": "Arch Womens Ment Health (2022)",
+  "desenho_estudo": "[EC] evidência humana (clínico/coorte/ensaio/meta-análise) · Arch Womens Ment Health",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Estudo exploratório longitudinal: alopregnanolona e sintomas de depressão/ansiedade em múltiplos tempos ao longo do periparto",
+  "extrapolacao_por_analogia": "não — evidência humana",
+  "ids_referencia_interna": [
+   "REF_STANDEVEN_2022"
+  ],
+  "id_referencia_interna": "REF_STANDEVEN_2022",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Anxiety",
+   "Depression",
+   "Depression, Postpartum",
+   "Female",
+   "Humans",
+   "Peripartum Period",
+   "Pregnancy",
+   "Pregnanolone",
+   "Psychiatric Status Rating Scales"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Standeven 2021",
+   "Standeven"
+  ],
+  "_nat": "associativa",
+  "_mat": "bem_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "alta(humano)",
+  "_uso": "suporte",
+  "_tag": "EC",
+  "_ptypes": [
+   "Journal Article",
+   "Research Support, N.I.H., Extramural"
+  ]
+ },
+ {
+  "pmid_oficial": "16938407",
+  "titulo_artigo": "Neurosteroid modulation of allopregnanolone and GABA effect on the GABA-A receptor",
+  "autores": [
+   "Strömberg J",
+   "Haage D",
+   "Taube M",
+   "Bäckström T",
+   "Lundgren P"
+  ],
+  "revista_ano": "Neuroscience (2006)",
+  "desenho_estudo": "[ML] estudo pré-clínico (animal/in vitro) · Neuroscience",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Modulação neurosteroide experimental da ação da alopregnanolona e do GABA sobre o receptor GABA-A",
+  "extrapolacao_por_analogia": "SIM — evidência em modelo animal/in vitro; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_STROMBERG_2006"
+  ],
+  "id_referencia_interna": "REF_STROMBERG_2006",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Analysis of Variance",
+   "Animals",
+   "Brain",
+   "Cells, Cultured",
+   "Chloride Channels",
+   "Chlorides",
+   "Dose-Response Relationship, Drug",
+   "Drug Interactions",
+   "Male",
+   "Membrane Potentials",
+   "Neurons",
+   "Patch-Clamp Techniques"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "modelo animal/in vitro — sinal mecanístico, não prova humana",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Strömberg 2006",
+   "Strömberg"
+  ],
+  "_nat": "nao_estabelecida",
+  "_mat": "emergente",
+  "_acao": "ADICIONAR_SINALIZADOR",
+  "_tier": "tier_3_mecanistico_extrapolado",
+  "_forca": "media(preclinico)",
+  "_uso": "nucleo_causal",
+  "_tag": "ML",
+  "_ptypes": [
+   "Journal Article",
+   "Research Support, Non-U.S. Gov't"
+  ]
+ },
+ {
+  "pmid_oficial": "32730861",
+  "titulo_artigo": "Progesterone - Friend or foe?",
+  "autores": [
+   "Sundström-Poromaa I",
+   "Comasco E",
+   "Sumner R",
+   "Luders E"
+  ],
+  "revista_ano": "Front Neuroendocrinol (2020)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Front Neuroendocrinol",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Revisão abrangente da progesterona e de seu metabólito alopregnanolona: propriedades biológicas, metabolismo e efeitos sobre humor e saúde mental feminina — 'progesterona, amiga ou adversa?'",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_SUNDSTROMPOROMAA_2020"
+  ],
+  "id_referencia_interna": "REF_SUNDSTROMPOROMAA_2020",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Emotions",
+   "Female",
+   "Humans",
+   "Pregnanolone",
+   "Premenstrual Dysphoric Disorder",
+   "Progesterone"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Stumper 2026 (rótulo do insumo — real: Sundström-Poromaa 2020, item §4 'não resolvida')",
+   "Sundström-Poromaa"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article",
+   "Review"
+  ]
+ },
+ {
+  "pmid_oficial": "40211702",
+  "titulo_artigo": "Perimenopausal depression: Targeting inflammation and oxidative stress (Review)",
+  "autores": [
+   "Yu Y",
+   "Yu T",
+   "Liu K",
+   "Li Y",
+   "Luan Y",
+   "Yang T",
+   "Li W",
+   "Cong H",
+   "Wu X"
+  ],
+  "revista_ano": "Mol Med Rep (2025)",
+  "desenho_estudo": "[OB] revisão/perspectiva (observacional) · Mol Med Rep",
+  "secao_origem": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+  "achado_central_molecular": "Revisão: depressão perimenopausal sob a ótica de inflamação e estresse oxidativo — alvos e interface B1/B9",
+  "extrapolacao_por_analogia": "parcial — revisão mistura achados humanos e pré-clínicos",
+  "ids_referencia_interna": [
+   "REF_YU_2025"
+  ],
+  "id_referencia_interna": "REF_YU_2025",
+  "doi": "",
+  "claim_id_origem": "B14.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans",
+   "Oxidative Stress",
+   "Perimenopause",
+   "Female",
+   "Depression",
+   "Inflammation",
+   "Animals"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico (esummary+efetch; autor/ano/tema conferidos; abstract lido)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B14 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Yu 2025",
+   "Yu"
+  ],
+  "_nat": "contributiva",
+  "_mat": "moderadamente_suportado",
+  "_acao": "MANTER",
+  "_tier": "tier_4_descritivo_estrutural",
+  "_forca": "media-alta(revisao)",
+  "_uso": "suporte",
+  "_tag": "OB",
+  "_ptypes": [
+   "Journal Article",
+   "Review"
+  ]
+ }
+]

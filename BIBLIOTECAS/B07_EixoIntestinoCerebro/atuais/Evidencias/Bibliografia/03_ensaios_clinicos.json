@@ -1,0 +1,136 @@
+[
+ {
+  "pmid_oficial": "36841506",
+  "titulo_artigo": "Prebiotic Consumption Alters Microbiota but Not Biological Markers of Stress and Inflammation or Mental Health Symptoms in Healthy Adults: A Randomized, Controlled, Crossover Trial",
+  "autores": [
+   "Mysonhimer AR",
+   "Cannavale CN",
+   "Bailey MA",
+   "Khan NA",
+   "Holscher HD"
+  ],
+  "revista_ano": "The Journal of nutrition (2023)",
+  "desenho_estudo": "[EC] RCT J Nutr — prebiótico, EFEITO NULO em estresse",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "Prebiótico altera a microbiota, mas NÃO marcadores biológicos de estresse/inflamação nem saúde mental em adultos estressados.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MYSONHIMER_2023"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT humano; resultado negativo (contra-ponto importante)",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_MYSONHIMER_2023",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Mysonhimer",
+   "MYSONHIMER"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "39617896",
+  "titulo_artigo": "Effect of fecal microbiota transplantation on patients with sporadic amyotrophic lateral sclerosis: a randomized, double-blind, placebo-controlled trial",
+  "autores": [
+   "Feng R",
+   "Zhu Q",
+   "Wang A",
+   "Wang H",
+   "Wang J",
+   "Chen P"
+  ],
+  "revista_ano": "BMC medicine (2024)",
+  "desenho_estudo": "[ML/EC emergente] FMT em ELA — BMC Med",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "FMT em esclerose lateral amiotrófica esporádica: segurança e sinais preliminares.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_FENG_2024"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_clinico",
+  "g2_motivo": "ensaio clínico pequeno em ELA; fora do miolo",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_FENG_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "Feng",
+   "FENG"
+  ],
+  "sinais_classificacao": [
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "42309058",
+  "titulo_artigo": "Adjunctive fecal microbiota transplantation for major depressive disorder: A randomized, double-blind, placebo-controlled trial",
+  "autores": [
+   "Li J",
+   "Wang Y",
+   "Li R",
+   "Huang H",
+   "Zhu X",
+   "Li X"
+  ],
+  "revista_ano": "Cell host & microbe (2026)",
+  "desenho_estudo": "[EC/EMERGENTE] RCT duplo-cego placebo 2026 Cell Host Microbe — TDM",
+  "secao_origem": "mecanismo_B7_eixo_intestino_cerebro_microbiota",
+  "achado_central_molecular": "FMT adjuvante à escitalopram na TDM: remissão não difere, mas redução de HAMD-17 maior; engraftment duradouro, bile ácidos e mediação inflamatória.",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LIJ_2026"
+  ],
+  "evid_role": "human_experimental",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "RCT; endpoint primário (remissão semana 8) NULO; escore HARD maior; ÚNICO, aguarda replicação",
+  "g3_verificado_por": "IA G3 (Rodada 2): esummary + abstract efetch para âncoras de alto risco; 2a verificação independente (P-6) pendente do avaliador cego",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "id_referencia_interna": "REF_LIJ_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "_aliases": [
+   "LIJ",
+   "Lij",
+   "LiJ"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC/EMERGENTE]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ }
+]

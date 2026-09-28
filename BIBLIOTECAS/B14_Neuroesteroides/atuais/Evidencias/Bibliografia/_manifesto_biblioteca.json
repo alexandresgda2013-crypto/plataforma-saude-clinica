@@ -1,0 +1,134 @@
+{
+ "artefato_rotulo": "CANONICA v2",
+ "mecanismo_id": "mecanismo_B14_neuroesteroides_hormonios_neuroativos",
+ "rodada": 4,
+ "data_corte": "2026-09-07",
+ "prompt": "v4.2",
+ "pmids_total": 290,
+ "pmids_briefing_validados": 255,
+ "pmids_ruido_excluido_blocoN": 15,
+ "g1": {
+  "metodo": "eutils_automatico (esearch+esummary)",
+  "resolvidos": 255,
+  "resolvidos_mecanismo": 240
+ },
+ "g2": {
+  "eligible": 248,
+  "redirecionado": 42
+ },
+ "g3": {
+  "vinculos_n2": 290
+ },
+ "versao": "2.5",
+ "pipeline_versao_geracao": "2.6",
+ "corte_literatura": "E-utilities/PubMed 2026-09-07 (rodada 0) + rodada [AT] 2026-09-09/10 (insumo externo GPM B14 auditado ref a ref)",
+ "historico_correcoes": [
+  {
+   "data": "2026-09-07",
+   "campo": "rotulo de referencia",
+   "correcao": "24756763 = Crowley & Girdler 2014 (briefing rotulava Schule); PMID inalterado/on-topic",
+   "acao_downstream": "alias SCHULE preservado"
+  },
+  {
+   "data": "2026-09-07",
+   "campo": "ano oficial de publicacao",
+   "correcao": "Eser 2006 (nao 2007); Reddy 2022; Belelli 2020; Patterson 2024 (ano de impressao, nao epub)",
+   "acao_downstream": "id REF usa ano oficial"
+  },
+  {
+   "data": "2026-09-07",
+   "campo": "geracao B14",
+   "correcao": "255/255 PMIDs; 240 ancoras mecanisticas; 15 ruido bloco N excluido; bifasicidade; PMDD=sensibilidade; perimenopausa=variabilidade; periferico!=central; TSPO-PET!=sintese; farmaco=sinal",
+   "acao_downstream": "P-6"
+  },
+  {
+   "data": "2026-09-09",
+   "campo": "rodada [AT] GPM B14 — reconciliacao de insumo externo (P-7)",
+   "correcao": "102 itens novos triados ref a ref: 50 ENTRA (26 das 57 ancoras do GPM + 24 da secao 6) · 44 BAIXO (34 HPA-genericos/B2, 7 conduta menopausal/THR-guidelines, 3 redundancia/GABA-B5/substancia-interf.) · 7 EXC (etanol x2, tiques, anestesia, Alzheimer-depressao, esquizofrenia, bibliometria) · 1 ja vigente (van Broekhoven 2003)",
+   "acao_downstream": "V2 com BLOCO_14/15; triade 290/290/290; decisoes em producao/insumos/matriz_b14_decisao.json"
+  },
+  {
+   "data": "2026-09-09",
+   "campo": "identidade de referencias rotuladas pelo insumo",
+   "correcao": "10 exposicoes: 'Stefaniak 2023'=Stoffel-Wagner 2003 · 'Luscher 2023'=MacKenzie & Maguire 2013 · 'Matthew 2013'=Meltzer-Brody & Kanes 2020 · 'Schiller 2016'=Schweizer-Schubert 2021 · 'Locci & Pinna 2017'=Lozza-Fiacco 2022 · 'Stumper 2026'=Sundstrom-Poromaa 2020 · 'Jain 2005'=Jaric 2019 · 'Franco 2016'=Gadek-Michalska 2013 · 'Vaudry 2022'=Von Werne Baes 2012 · 'Riebel 2024'=Rodriguez-Cerdeira 2026 (ja vigente; Riebel real=REF_RIEBEL_2025)",
+   "acao_downstream": "aliases documentados; [G1] honestos mantidos (Stefaniak/Schiller/Stumper/Jain/Matthew-Samba reais, DHEA-homens, estrogenioxAD, contracepcao, Parikh NAO-IDX)"
+  }
+ ],
+ "pendencias_fase": [
+  "P-6 avaliador cego (Fase 3 Fidelidade Canonica A/B/C/E) — AMPLIADA a toda a leva [AT] B14 2026-09-09 (50 refs novas; fecho na rodada 16/16)"
+ ],
+ "historico_rodadas": [
+  {
+   "data": "2026-09-07",
+   "campo": "rotulo de referencia",
+   "correcao": "24756763 = Crowley & Girdler 2014 (briefing rotulava Schule); PMID inalterado/on-topic",
+   "acao_downstream": "alias SCHULE preservado"
+  },
+  {
+   "data": "2026-09-07",
+   "campo": "ano oficial de publicacao",
+   "correcao": "Eser 2006 (nao 2007); Reddy 2022; Belelli 2020; Patterson 2024 (ano de impressao, nao epub)",
+   "acao_downstream": "id REF usa ano oficial"
+  },
+  {
+   "data": "2026-09-07",
+   "campo": "geracao B14",
+   "correcao": "255/255 PMIDs; 240 ancoras mecanisticas; 15 ruido bloco N excluido; bifasicidade; PMDD=sensibilidade; perimenopausa=variabilidade; periferico!=central; TSPO-PET!=sintese; farmaco=sinal",
+   "acao_downstream": "P-6"
+  },
+  {
+   "data": "2026-09-09",
+   "campo": "rodada [AT] GPM B14 — reconciliacao de insumo externo (P-7)",
+   "correcao": "102 itens novos triados ref a ref: 50 ENTRA (26 das 57 ancoras do GPM + 24 da secao 6) · 44 BAIXO (34 HPA-genericos/B2, 7 conduta menopausal/THR-guidelines, 3 redundancia/GABA-B5/substancia-interf.) · 7 EXC (etanol x2, tiques, anestesia, Alzheimer-depressao, esquizofrenia, bibliometria) · 1 ja vigente (van Broekhoven 2003)",
+   "acao_downstream": "V2 com BLOCO_14/15; triade 290/290/290; decisoes em producao/insumos/matriz_b14_decisao.json"
+  },
+  {
+   "data": "2026-09-09",
+   "campo": "identidade de referencias rotuladas pelo insumo",
+   "correcao": "10 exposicoes: 'Stefaniak 2023'=Stoffel-Wagner 2003 · 'Luscher 2023'=MacKenzie & Maguire 2013 · 'Matthew 2013'=Meltzer-Brody & Kanes 2020 · 'Schiller 2016'=Schweizer-Schubert 2021 · 'Locci & Pinna 2017'=Lozza-Fiacco 2022 · 'Stumper 2026'=Sundstrom-Poromaa 2020 · 'Jain 2005'=Jaric 2019 · 'Franco 2016'=Gadek-Michalska 2013 · 'Vaudry 2022'=Von Werne Baes 2012 · 'Riebel 2024'=Rodriguez-Cerdeira 2026 (ja vigente; Riebel real=REF_RIEBEL_2025)",
+   "acao_downstream": "aliases documentados; [G1] honestos mantidos (Stefaniak/Schiller/Stumper/Jain/Matthew-Samba reais, DHEA-homens, estrogenioxAD, contracepcao, Parikh NAO-IDX)"
+  }
+ ],
+ "alteracoes": [
+  {
+   "data": "2026-09-10",
+   "tipo": "reparo_vocabulario",
+   "id": "IMPL-AT-00",
+   "descricao": "50 vínculos status APROVADO→CONFIRMADO (enum de vínculos) + 50 refs g1_metodo→'eutils_automatico' exato (detalhe preservado em g1_resumo). Causa: B14_json_apply copiou vocabulário de ledger para vínculos. Detectado na re-varredura pós-perícia externa. Portões re-verdes (41/41). Sem alteração de conteúdo científico.",
+   "arquivos": [
+    "Evidencias/Vinculos/vinculos_referencia_afirmacao.json",
+    "Evidencias/Bibliografia/01_pmids.json"
+   ]
+  },
+  {
+   "data": "2026-09-11",
+   "id": "F1-GERACAO-NOVA-SCHEMA-2026-09-11",
+   "tipo": "decisao_schema_sem_escrita",
+   "o_que": "NENHUM dado alterado nesta biblioteca. Lacuna de arquitetura (geração nova não carrega verification_status/g3_verificado_por/status_referencia/g2_elegibilidade em 290 registros) documentada como decisão F1 de DECISOES_HARMONIZACAO_SCHEMA_2026-09-11.md: preencher seria inventar dado de verificação — vai ao SCHEMA v2/perícia (recomendação: reprocessamento assistido de metadados de verificação).",
+   "rev": "rev.1 (2026-09-11): substitui a entrada HARMONIZA-CONTRATO-2026-09-11 gravada aqui por engano de escopo do laço automatizado — nesta biblioteca não houve reparo de dado nenhum; o engano foi detectado na conferência imediata e corrigido no mesmo ato."
+  },
+  {
+   "id": "DISTRIBUICAO-MOD09-MA-EC-2026-09-11",
+   "data": "2026-09-11",
+   "tipo": "metadado/reorganizacao_modulo_09 — CIENCIA NAO TOCADA (0 linhas de canônica)",
+   "lei_aplicada": "PROMPT v4.2 instrução final de geração: [MA]->02_meta_analises.json, [EC]->03_ensaios_clinicos.json; id único global (validar_auditoria.py) — distribuição especificada desde a geração, executada nesta data",
+   "mudancas": {
+    "fichas_removidas_de_01": 36,
+    "fichas_para_02_meta_analises": 20,
+    "fichas_para_03_ensaios_clinicos": 16,
+    "fichas_restantes_em_01": 254
+   },
+   "regra_classificacao": "MA: tag [MA] ou título meta-anal*/systematic review; EC: título/desenho randomized|double-blind|placebo-controlled|crossover|duplo-cego; prioridade MA>EC",
+   "campos_de_dado_alterados": "NENHUM (id, pmid, título, achados intactos); somente casa do registro + campos de schema 09.2 (bloco_origem derivado de secao quando ausente, marcado; forca_evidencia_afirmacao replicado ou '' — vazio = dívida nomeada, nunca fabricado) + sinais_classificacao + migrado_em",
+   "dividas_nomeadas": [
+    "forca_evidencia_afirmacao vazio nas migradas sem valor prévio",
+    "conflitos tag×título [REVISAVEL]: 3",
+    "tag [EC] amplo sem sinal RCT — NÃO migrados (09.3 = RCT estrito), ratificação externa: 65"
+   ],
+   "trilha": "atuais/producao/09_distribuicao_MA_EC_B14_2026-09-11.json",
+   "changelog": "BIBLIOTECAS/CHANGELOG_GERAL.md 2026-09-11",
+   "consolidado_motor": "BIBLIOTECAS/MOTOR_CLINICO/ (evidencias_ma_serie.json, evidencias_ec_serie.json)",
+   "backups": "01/02/03*.bak_<AAAAMMDD_HHMMSS> na mesma pasta"
+  }
+ ]
+}

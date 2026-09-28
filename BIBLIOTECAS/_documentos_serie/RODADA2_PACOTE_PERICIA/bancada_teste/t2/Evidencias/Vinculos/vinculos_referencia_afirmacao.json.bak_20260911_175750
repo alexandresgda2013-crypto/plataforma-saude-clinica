@@ -1,0 +1,24 @@
+[
+ {
+  "id_vinculo": "VINC_B1V2_0001",
+  "id_referencia_interna": "REF_SILVA_2019",
+  "claim_id": "",
+  "mecanismo_origem": "mecanismo_B1_neuroinflamacao",
+  "secao_origem": "mecanismo_B1_neuroinflamacao/BLOCO01",
+  "trecho_ancora": "A micróglia ativada libera IL-1β e TNF-α (Silva et al., 2019)[OB].",
+  "natureza_relacao": "contributiva",
+  "grau_maturidade": "bem_suportado",
+  "forca_causal": "tier_3_correlacional_mecanistico",
+  "evid_role": "human_clinical",
+  "status_auditoria": "CONFIRMADO",
+  "status_referencia": "TRIADO",
+  "verification_status": "verificado",
+  "g3_verificado_por": "IA G3 (teste)",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "",
+  "g1_metodo": "eutils_automatico",
+  "data_verificacao": "2026-09-04",
+  "g3_notas": "",
+  "pmid_oficial": "12345678"
+ }
+]

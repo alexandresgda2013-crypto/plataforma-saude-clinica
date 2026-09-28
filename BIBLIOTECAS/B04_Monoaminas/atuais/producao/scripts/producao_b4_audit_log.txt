@@ -1,0 +1,82 @@
+esearch 25
+esearch 50
+esearch 75
+esearch 100
+esearch 125
+esearch 150
+esearch 175
+resolvidos: 153 falhas: 19
+cravar: Vetulani & Sulser 1975 Nature -> 170534
+cravar: Heninger 1996 modulatory -> 8852528
+cravar: Charney 1998 (anexo s/DOI) -> 9818625
+cravar: Hirschfeld 2000 (anexo s/DOI) -> 10775017
+cravar: Leonard 2000 (anexo s/DOI) -> 10775019
+cravar: Kayabaşı 2021 (anexo s/DOI) -> None
+
+== RESUMO ==
+anexo resolvidos: 154 | já na B4: 4
+rótulo divergente: 28
+  [DIF] doi=10.1016/j.brainres.2015.11.021 decl=Bangasser(2015) real=Bangasser DA(2016) :: Sex differences in the locus coeruleus-norepinephrine system
+  [DIF] doi=10.1016/j.bbi.2024.12.026 decl=Bekhbat(2024) real=Bekhbat M(2025) :: Sustained effects of repeated levodopa (L-DOPA) administrati
+  [DIF] doi=10.1016/j.euroneuro.2017.11.005 decl=Boekhoudt(2017) real=Boekhoudt L(2018) :: Enhancing excitability of dopamine neurons promotes motivati
+  [DIF] doi=10.1111/pcn.12604 decl=Boku(2017) real=Boku S(2018) :: Neural basis of major depressive disorder: Beyond monoamine 
+  [DIF] doi=10.1111/jnc.15151 decl=Consoli(2020) real=Consoli DC(2021) :: Ascorbate deficiency decreases dopamine release in gulo(-/-)
+  [DIF] doi=10.1136/jnnp-2022-330790 decl=Costello(2022) real=Costello H(2023) :: Longitudinal decline in striatal dopamine transporter bindin
+  [DIF] doi=10.3389/fncel.2021.804592 decl=Deo(2022) real=Deo N(2021) :: Serotonin Receptor and Transporter Endocytosis Is an Importa
+  [DIF] doi=10.1007/s12035-015-9152-z decl=Fakhoury(2015) real=Fakhoury M(2016) :: Revisiting the Serotonin Hypothesis: Implications for Major 
+  [DIF] doi=10.1111/jnc.12459 decl=Fan(2013) real=Fan Y(2014) :: Corticosterone administration up-regulated expression of nor
+  [DIF] doi=10.1038/npp.2016.143 decl=Felger(2016) real=Felger JC(2017) :: Inflammation Effects on Motivation and Motor Activity: Role 
+  [DIF] doi=10.1007/s00213-013-3389-x decl=Garcia-Garcia(2013) real=Garcia-Garcia AL(2014) :: 5-HT(1A) [corrected] receptors in mood and anxiety: recent i
+  [DIF] doi=10.1523/jneurosci.1092-19.2019 decl=Giustino(2019) real=Giustino TF(2020) :: Locus Coeruleus Norepinephrine Drives Stress-Induced Increas
+  [DIF] doi=10.1111/ejn.15392 decl=Hersey(2021) real=Hersey M(2022) :: Integrating the monoamine and cytokine hypotheses of depress
+  [DIF] doi=10.1093/ijnp/pyad069 decl=Kurban(2023) real=Kurban N(2024) :: Chronic Stress-Induced Elevation of Melanin-Concentrating Ho
+  [DIF] doi=10.1002/da.20642 decl=Martinez(2010) real=Goddard AW(2010) :: Current perspectives of the roles of the central norepinephr
+  [DIF] doi=10.1007/s12035-015-9330-z decl=Matheus(2015) real=Matheus FC(2016) :: Temporal Dissociation of Striatum and Prefrontal Cortex Unco
+  [DIF] doi=10.1038/s41598-023-29175-x decl=Meng(2018) real=Meng Q(2023) :: Inhibition of norepinephrine signaling during a sensitive pe
+  [DIF] doi=10.1038/s41380-022-01661-0 decl=Moncrieff(2022) real=Moncrieff J(2023) :: The serotonin theory of depression: a systematic umbrella re
+  [DIF] doi=10.1016/j.biopsych.2005.06.016 decl=Ogden(2006) real=Parsey RV(2006) :: Altered serotonin 1A binding in major depression: a [carbony
+  [DIF] doi=10.3389/fnbeh.2023.1282242 decl=Pastis(2024) real=Pastis I(2023) :: Exploring the role of inflammation in major depressive disor
+  [DIF] doi=10.1007/s10571-021-01064-9 decl=Pourhamzeh(2021) real=Pourhamzeh M(2022) :: The Roles of Serotonin in Neuropsychiatric Disorders.
+  [DIF] doi=10.1007/7854_2015_383 decl=Salamone(2015) real=Salamone JD(2016) :: Mesolimbic Dopamine and the Regulation of Motivated Behavior
+  [DIF] doi=10.1016/j.bioorg.2022.106254 decl=Singh(2022) real=Singh D(2023) :: Development and challenges in the discovery of 5-HT(1A) and 
+  [DIF] doi=10.1177/02698811221115762 decl=Strawbridge(2022) real=Strawbridge R(2023) :: The effects of reserpine on depression: A systematic review.
+  [DIF] doi=10.1016/j.biopsych.2021.11.023 decl=Suárez‐Pereira(2021) real=Suárez-Pereira I(2022) :: The Role of the Locus Coeruleus in Pain and Associated Stres
+  [DIF] doi=10.1038/s41386-021-01011-8 decl=Tillage(2020) real=Tillage RP(2021) :: Co-released norepinephrine and galanin act on different time
+  [DIF] doi=10.1007/s00406-022-01414-8 decl=Weinert(2022) real=Weinert T(2023) :: No effects of acute tryptophan depletion on anxiety or mood 
+  [DIF] doi=10.1002/advs.202303503 decl=Zhang(2023) real=Zhang Q(2024) :: Locus Coeruleus-Dorsolateral Septum Projections Modulate Dep
+falhas: 19
+  [FALHA] 10.26685/urncst.215 :: Alawie, H., Hu, J., & McLeod, A. (2021). What are the R :: DOI não resolveu no PubMed
+  [FALHA] 10.1016/s0006-3223(01 :: Berman, R., Sanacora, G., Anand, A., Roach, L. M., Fasu :: DOI não resolveu no PubMed
+  [FALHA] 10.1016/s0165-0173(03 :: Berridge, C., & Waterhouse, B. (2003). The locus coerul :: DOI não resolveu no PubMed
+  [FALHA] 10.1016/b978-0-12-813333-0.00007-x :: Cosci, F., & Chouinard, G. (2019). The Monoamine Hypoth :: DOI não resolveu no PubMed
+  [FALHA] 10.1096/fasebj.2022.36.s1.r4465 :: Fassler, A., Rens, D., Shah, R., Chojnacki, K., & Rens, :: DOI não resolveu no PubMed
+  [FALHA] 10.1016/s0924-9338(15 :: Hasler, G., Homan, P., Neumeister, A., Nugent, A., Char :: DOI não resolveu no PubMed
+  [FALHA] 10.1101/2023.01.12.523778 :: Isingrini, E., Guinaudie, C., Perret, L., Guma, E., Gor :: DOI não resolveu no PubMed
+  [FALHA] 10.1016/0006-3223(88 :: Kahn, R., Praag, H., Wetzler, S., Asnis, G., & Barr, G. :: DOI não resolveu no PubMed
+  [FALHA] 10.5772/intechopen.96525 :: Kovalzon, V. (2021). Serotonin, Sleep and Depression: A :: DOI não resolveu no PubMed
+  [FALHA] 10.1117/12.2668997 :: Li, J. (2023). Role of 5-HT receptors and transporters  :: DOI não resolveu no PubMed
+  [FALHA] 10.1101/2023.03.18.23287402 :: Liu, C., Li, K., Zhang, Y., Zheng, X., Fu, M., Sinderma :: DOI não resolveu no PubMed
+  [FALHA] 10.1192/s0007125000291733 :: Meltzer, H. (1989). Serotonergic Dysfunction in Depress :: DOI não resolveu no PubMed
+  [FALHA] 10.1016/s0893-133x(00 :: Moore, P., Moore, P., Landolt, H., Seifritz, E., Seifri :: DOI não resolveu no PubMed
+  [FALHA] 10.5772/37593 :: Nakamura, S. (2012). Antidepressants and Morphological  :: DOI não resolveu no PubMed
+  [FALHA] 10.64719/pb.4167 :: Neumeister, A. (2025). Tryptophan depletion, serotonin, :: DOI não resolveu no PubMed
+  [FALHA] 10.1016/b978-0-444-64125-0.00038-4 :: O'Leary, O., Codagnone, M., & Cryan, J. (2020). Revisit :: DOI não resolveu no PubMed
+  [FALHA] 10.1093/clinchem/40.2.288 :: Owens, M., & Nemeroff, C. (1994). Role of serotonin in  :: DOI não resolveu no PubMed
+  [FALHA] 10.1016/0006-3223(95 :: Salomon, R., Miller, H., Krystal, J., Heninger, G., & C :: DOI não resolveu no PubMed
+  [FALHA] 10.1016/0022-3956(75 :: Takahashi, S., Kondo, H., & Kato, N. (1975). Effect of  :: DOI não resolveu no PubMed
+matriz não existentes: []
+matriz extras (fora do anexo):
+  [EXTRA] 11922881 Berman 2002 -> Berman RM 2002 
+  [EXTRA] 11063917 Moore 2000 -> Moore P 2000 
+  [EXTRA] 12431859 Booij 2002 -> Booij L 2002 
+  [EXTRA] 15131521 Neumeister 2003 -> Neumeister A 2003 
+  [EXTRA] 4863731 Schildkraut 1967 -> Schildkraut JJ 1967 
+  [EXTRA] 4169954 Coppen 1967 -> Coppen A 1967 | vigente
+  [EXTRA] 12869766 Caspi 2003 -> Caspi A 2003 | vigente
+  [EXTRA] 19531786 Risch 2009 -> Risch N 2009 | vigente
+  [EXTRA] 17389902 Ruhé 2007 -> Ruhé HG 2007 | vigente
+  [EXTRA] 17088501 Meyer 2006 -> Meyer JH 2006 | vigente
+  [EXTRA] 20603146 Treadway & Zald 2011 -> Treadway MT 2011 
+  [EXTRA] 25860609 Yano 2015 -> Yano JM 2015 | vigente
+  [EXTRA] 8929413 Lesch 1996 -> Lesch KP 1996 | vigente
+  [EXTRA] 37322065 Jauhar 2023 -> Jauhar S 2023 | vigente

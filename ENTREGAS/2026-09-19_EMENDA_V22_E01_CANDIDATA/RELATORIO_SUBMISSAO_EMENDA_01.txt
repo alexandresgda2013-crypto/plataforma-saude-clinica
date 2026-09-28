@@ -1,0 +1,29 @@
+SUBMISSÃO FORMAL — EMENDA EDITORIAL 01 da Arquitetura V2.2 (CANDIDATA) · rodada 40 · 2026-09-19
+================================================================================================
+REGRA NOVA: PROPOSTA → ALTERAÇÃO DOCUMENTAL → DOCUMENTO COMPLETO ENTREGUE → APROVAÇÃO → SHA/DATA → VIGENTE.
+Estado: CANDIDATA entregue. NADA instalado. A versão vigente continua V2.2 `df7f7cfd…` até seu "aprovado".
+
+1. O QUE MUDA (escopo fechado, 0 conteúdo normativo):
+   §5.1 linha 269: `L05/schema_referencia_v1.1.json` → `L05/schema_referencia_v1.3.json`
+   §5.2 linha 306: `L05/schema_vinculo_v1.1.json`   → `L05/schema_vinculo_v1.4.json`
+   Linha Rev (4):   acrescenta cláusula — "· **Emenda editorial 01 — 2026-09-19**: …(registro desta correção)…"
+   Diff medido: 3 linhas substituídas · 0 inseridas · 0 removidas · CRLF 1411/1411 preservado · 30 seções únicas intactas.
+   Motivo: dívida D-V22-SCHEMA-NOMES (fonte da sua busca impossível; redescoberta convergente pelo auditor-2 na r39).
+
+2. DIGITAIS:
+   BASE (oficial vigente):    df7f7cfdfc01cf77d658885f30dfefe29dcf380229ea56e6b3af02920df22ae1  (52.181 b)
+   CANDIDATA emendada:        3cbc131d687610d9587dc0eb11b29b099067127b4b69754604266fa79e98567d  (52476 b)
+   Verificação: sha256sum <arquivo> deve dar a digital acima. Renomear NÃO muda a digital (medido, trilha 56).
+
+3. PROVENIÊNCIA (tudo medido na trilha 57, 12/12):
+   schemas citados existem e são os correntes validados: referencia v1.3 `b06660fd…` · vinculo v1.4 `d96ad15b…`
+   (aceite técnico do ciclo r29; sua APROVAÇÃO FORMAL dos dois ainda pendente — ver item 4).
+   Nome da emenda adotado segue o ESTILO do próprio documento (linha Rev acumula cláusulas; H1/identidade V2.2
+   preservados — a distinção entre elos fica na linha Rev + digital, como já ocorreu em V2.1→V2.2).
+
+4. SUA DECISÃO (uma linha sela TUDO que está pendente):
+   "APROVADO: emenda editorial 01 da V2.2 E os schemas N1 v1.3 / N2 v1.4"
+   → a bancada grava: sha/data da emenda (vigência), sha/data dos dois schemas (selo da rodada 38), ponteiro
+   atualizado com histórico preservado, e o repasse ao mestre/auditor-2/IA externa com o pacote (você conduz).
+   Alternativas: "aprovado só a emenda" · "aprovado só os schemas" · "devolver para ajuste: X".
+================================================================================================

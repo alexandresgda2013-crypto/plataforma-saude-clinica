@@ -1,0 +1,261 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "L05/schema_referencia_v1.1.json",
+  "title": "Registro de Referência — Nível 1 (Módulo 09)",
+  "description": "PROPOSTA v1.1 — nao normativo. Um registro por referencia auditada. Separa natureza da evidencia (o que foi estudado) de desenho do estudo (como). v1.1 incorpora R3, R5 e R6.",
+  "type": "object",
+  "required": [
+    "id_referencia_interna",
+    "pmid_oficial",
+    "titulo_artigo",
+    "origem_pipeline",
+    "g1_metodo",
+    "natureza_evidencia",
+    "desenho_estudo",
+    "desenho_estudo_bruto",
+    "status_auditoria",
+    "verification_status"
+  ],
+  "properties": {
+    "id_referencia_interna": {
+      "type": "string",
+      "pattern": "^REF_[A-Z0-9_]+[a-z]?$",
+      "description": "Formato REF_SOBRENOME_ANO, com sufixo minusculo opcional (ex: REF_CAPURON_2002b) para desambiguar fontes do mesmo autor e ano."
+    },
+    "ids_referencia_interna": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Aliases formais quando a mesma fonte foi registrada sob mais de um id."
+    },
+    "_aliases": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Formas de citação encontradas no corpo do texto."
+    },
+    "pmid_oficial": {
+      "type": "string",
+      "pattern": "^[0-9]{0,8}$",
+      "description": "Vazio permitido apenas para natureza_evidencia = nao_aplicavel (manual/consenso)."
+    },
+    "doi": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "titulo_artigo": {
+      "type": "string",
+      "minLength": 1
+    },
+    "autores": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "revista_ano": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "natureza_evidencia": {
+      "type": "string",
+      "enum": [
+        "humana_observacional",
+        "humana_experimental",
+        "humana_post_mortem",
+        "preclinica_in_vivo",
+        "preclinica_in_vitro",
+        "mista",
+        "nao_aplicavel"
+      ],
+      "description": "Eixo QUEM/O QUE foi estudado. Nunca recebe valor de desenho (ex: 'review'). R5: para sinteses, natureza refere-se ao MATERIAL REVISTO, nao ao formato — meta-analise de modelos animais e' preclinica_in_vivo + meta_analise; meta-analise de coortes humanas e' humana_observacional + meta_analise."
+    },
+    "desenho_estudo": {
+      "type": "string",
+      "enum": [
+        "meta_analise",
+        "revisao_sistematica",
+        "revisao_narrativa",
+        "ensaio_randomizado",
+        "ensaio_nao_randomizado",
+        "coorte_prospectiva",
+        "coorte_retrospectiva",
+        "caso_controle",
+        "transversal",
+        "serie_de_casos",
+        "experimento_animal",
+        "experimento_in_vitro",
+        "estudo_post_mortem",
+        "manual_ou_consenso",
+        "outro"
+      ],
+      "description": "Eixo COMO foi estudado. Valor 'outro' exige desenho_estudo_bruto legível."
+    },
+    "desenho_estudo_bruto": {
+      "type": "string",
+      "description": "String original do PubMed/fonte. NUNCA descartada — é a prova do que foi lido."
+    },
+    "especie_mesh": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Termos MeSH de espécie, como retornados pela ferramenta."
+    },
+    "origem_pipeline": {
+      "type": "string",
+      "enum": [
+        "BUSCA_FERRAMENTA",
+        "GPM_BRIEFING",
+        "INSUMO_EXTERNO_AUDITADO",
+        "REANCORAGEM",
+        "AUDITORIA_EXTERNA"
+      ],
+      "description": "Categoria pura. Data e observacao NAO entram aqui — vao em origem_detalhe. Corrige valor composto encontrado no acervo (ex: 'ATUALIZACAO_AT_2026-09-08 (insumo externo auditado)')."
+    },
+    "leva_origem": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Procedência de produção (ex: B1_v2). Campo criado para receber o que hoje ocupa indevidamente o campo 'uso' do vínculo."
+    },
+    "g1_metodo": {
+      "type": "string",
+      "enum": [
+        "eutils_automatico",
+        "crossref_automatico",
+        "excecao_registrada"
+      ],
+      "description": "G1 prova EXISTÊNCIA e é sempre ferramenta. Nunca 'modelo', nunca 'memoria'. Regra E1."
+    },
+    "g3_verificado_por": {
+      "type": "string",
+      "description": "Avaliador que leu abstract/full-text. R3: checagem de identidade fica no portao com padrao ANCORADO, nao aqui — substring mordeu avaliador legitimo. Nota metodologica vai em g3_nota_metodo."
+    },
+    "status_auditoria": {
+      "type": "string",
+      "enum": [
+        "",
+        "VALIDADO_G3_IA",
+        "VALIDADO_G3_AVALIADOR",
+        "NAO_VALIDADO",
+        "REJEITADO"
+      ],
+      "description": "D5 — TRES ESCOPOS declarados: (1) FICHA/Nivel 1 = este enum, valor legado VALIDADO_G3_IA; (2) VINCULO/Nivel 2 = CONFIRMADO|PARCIALMENTE_CONFIRMADO|NAO_LOCALIZADO|CITACAO_INCORRETA|NAO_SUSTENTA_CLAIM; (3) LEDGER = enum proprio (contrato.py L62), quase disjunto do de vinculo. Renomear hoje quebra 3+ scripts e 16 bibliotecas: divida nomeada D-L05-CAMPO-DUPLO para o proximo major, com espelho."
+    },
+    "verification_status": {
+      "type": "string",
+      "enum": [
+        "verificado",
+        "preclinico",
+        "extrapolado",
+        "emergente",
+        "pendente",
+        "pendente_fulltext"
+      ]
+    },
+    "claim_id_origem": {
+      "type": "string"
+    },
+    "achado_central_molecular": {
+      "type": "string"
+    },
+    "extrapolacao_por_analogia": {
+      "type": "string"
+    },
+    "forca_evidencia_afirmacao": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "",
+        "alto",
+        "medio",
+        "baixo",
+        null
+      ],
+      "description": "Terminologia de mecanismo. Vazio permitido (nao avaliado). NUNCA 'grade': A|B|C|D neste contexto."
+    },
+    "citacao_confirmada": {
+      "type": [
+        "boolean",
+        "null"
+      ],
+      "deprecated": true,
+      "description": "R6/D4 — RESOLVIDO: e' DEFAULT DE GERACAO (PROMPT v4.2 L1290/L1313), nao atestado de verificacao. Nao ha origem oculta a auditar. DEPRECATED: mantido no schema (proibido remover campo sem norma), banido como via de portao desde gate rev.A2, sem carga verificacional."
+    },
+    "origem_detalhe": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Data, lote e observacao livre da procedencia. Recebe o texto que hoje esta grudado em origem_pipeline."
+    },
+    "status_auditoria_nota": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ressalva do status (ex: 'revisao de pares pendente', 'resgate Rodada 4'). Recebe o texto que hoje esta grudado em status_auditoria."
+    },
+    "g3_nota_metodo": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "R3: rito e procedencia do abstract, separados do identificador do avaliador."
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "verification_status": {
+            "const": "verificado"
+          }
+        },
+        "required": [
+          "verification_status"
+        ]
+      },
+      "then": {
+        "properties": {
+          "g3_verificado_por": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "g3_verificado_por"
+        ]
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "natureza_evidencia": {
+            "const": "nao_aplicavel"
+          }
+        },
+        "required": [
+          "natureza_evidencia"
+        ]
+      },
+      "then": {
+        "properties": {
+          "desenho_estudo": {
+            "const": "manual_ou_consenso"
+          }
+        }
+      }
+    }
+  ]
+}

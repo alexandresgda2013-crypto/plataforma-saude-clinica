@@ -1,0 +1,80 @@
+{
+  "trilha": 70,
+  "data": "2026-09-21",
+  "rodada": 56,
+  "escopo": "fossil 309aa65f cravado no projeto do auditor-2 (mesma digital do fossil do mestre) + DECISOES_ARQUITETURAIS recebido (P18 fecha a fonte da NT; D-DECIS-ARQ-BYTES fechada)",
+  "notas": {
+    "replica_fossil_6x6": "titulo V2 15.09.26 l.1 · V2.2 corpo l.45 · §5.1 l.276 · v1.1 l.280/317 · §26 l.1228 · contraste 09692e18 §26 l.1158",
+    "json_decisoes": "interno possui virgulas traseiras — extracao por regex/casamento de chaves, 21 decisoes P*",
+    "anacronismo": "cabecalho diz 14/06/2022; conteudo cita B16/GPM (set/2026) — rotulo tipografico registrado"
+  },
+  "checks": [
+    {
+      "check": "C01 ciencia trio intacto (inicio)",
+      "ok": true,
+      "detalhe": "['6e2c29797e63', '79d1309a1689', '490675e63122']"
+    },
+    {
+      "check": "C02 DECISOES medido+arquivado: sha 1830ff99... · 148.454 b · 2.781 CRLF · serie == upload",
+      "ok": true,
+      "detalhe": "1830ff9939d8"
+    },
+    {
+      "check": "C03 P18 [DEFINIDO]: exclusividade da Biblioteca para NT/JSON/Motor + 'nunca o inverso' + precedencia automatica + 'proibido' — 4 clausulas literais",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C04 P11 [DEFINIDO]: hierarquia de fontes — 'prevalece a fonte de maior precedência' + 'decisões explícitas prevalecem sobre tudo'",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C05 coerencia interdocumental: 'segunda fonte' 0x · P18 veda nova pesquisa nos derivados ⇒ SEM tensao Filosofia x V2.3 x DECISOES → D-DECIS-ARQ-BYTES FECHADA (a camada 4 do checklist do comentador reforça, nao conflita)",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C06 enumeração: 21 decisoes P1..P21 no documento (regex; JSON interno nao-estrito — virgulas traseiras registradas)",
+      "ok": true,
+      "detalhe": "nP=21"
+    },
+    {
+      "check": "C07 fossil cravado: digital do auditor-2 == arquivado da casa (309aa65f — MESMO fantasma nos 2 projetos) + replica interna 6/6 (titulo 15/09 · V2.2 na linha 45 · §5.1 @276 · v1.1 @280/317 · §26 @1228)",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C08 contraste com a V2 real de 15/09 (09692e18 · 46.129 b · 1.351 linhas): §26 na linha 1.158 — como ele mediu",
+      "ok": true,
+      "detalhe": "s26=1158"
+    },
+    {
+      "check": "C09 eco dos 5 itens do pacote 21/09: os 5 prefixos constam no verbatim dele (5/5)",
+      "ok": true,
+      "detalhe": "['498e7df9', 'b06660fd', 'd96ad15b', '78a0f2af', '3b332426']"
+    },
+    {
+      "check": "C10 proveniencia do DECISOES registrada: cabecalho 'v2_5 · AUDITADO POR ARENA E CHATGPT 14/06/2022' — data anacronica (conteudo cita B16/GPM/P17, materia de set/2026): rotulo interno, bytes preservados",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C11 nota de régua: no projeto dele a especificacao aparece como '..._v1_4_PROPOSTA__ESPECIFICACAO.md'; o arquivo distribuído e' L05_SCHEMA_EVIDENCIA_E_VINCULO_v1.4__ESPECIFICACAO.md (sem 'PROPOSTA') — ornamento de plataforma/transcricao; bytes sao 78a0f2af...",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C12 remocoes endossadas: fossil JA registrado na casa desde 20/09 (DIGITAIS da pasta) → remocao liberada · manifesto 19/09 substituido pelo 21/09 · renome CANDIDATA_ endossado (base de projeto != serie de trilha)",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "check": "C13 ciencia trio intacto (fim)",
+      "ok": true,
+      "detalhe": "['6e2c29797e63', '79d1309a1689', '490675e63122']"
+    }
+  ],
+  "verdes": 13,
+  "total": 13
+}

@@ -1,0 +1,417 @@
+{
+  "trilha": 56,
+  "rodada": 39,
+  "data": "2026-09-19",
+  "tema": "réplica do parecer do auditor-2 sobre schema_vinculo_v1.1 — nunca existiu como upload; vigente v1.4; 3 precisões",
+  "total": 26,
+  "verdes": 26,
+  "checks": [
+    {
+      "id": "A1",
+      "titulo": "parecer arquivado verbatim (sha do arquivo)",
+      "camada": "bytes",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/AUDITOR2_resposta_schema_v11_2026-09-19/PARECER_AUDITOR2_schema_v11_2026-09-19.md",
+      "comando": "sha256sum",
+      "medido": "82a8b5b4519522df87b6a26034bb2a49b7de5a2f08767397ba7dc5dbdab03e68",
+      "esperado": "82a8b5b4519522df87b6a26034bb2a49b7de5a2f08767397ba7dc5dbdab03e68",
+      "ok": true,
+      "detalhe": "colado pelo operador neste chat"
+    },
+    {
+      "id": "B1",
+      "titulo": "nenhum upload com 'v1.1' no nome",
+      "camada": "documental{CS}",
+      "escopo": "uploads/",
+      "comando": "[n for n in ls if 'v1.1' in n]",
+      "medido": [],
+      "esperado": [],
+      "ok": true,
+      "detalhe": "nome v1.1 NUNCA foi nome de upload — VERDADE p/ artefatos recebidos"
+    },
+    {
+      "id": "B2",
+      "titulo": "carta 3 prova o nome real do recebido",
+      "camada": "documental{NFC,CS}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/RESPOSTA_3_AUDITOR_ESTRUTURA_L05_V11_ARQUITETURA_V2_2026-09-15.md",
+      "comando": "grep '`schema_vinculo_v1.json` (**v1.1**'",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "a casa registrou nome≠conteúdo na carta 3 — DE FATO (mas sem nomeá-lo defeito)"
+    },
+    {
+      "id": "B3",
+      "titulo": "precisão da citação dele: 'conteúdo **v1.1**' pertence ao objeto referência",
+      "camada": "documental{NFC,CS}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/RESPOSTA_3_AUDITOR_ESTRUTURA_L05_V11_ARQUITETURA_V2_2026-09-15.md",
+      "comando": "grep 'schema_referencia_v1.json` (conteúdo **v1.1**'",
+      "medido": [
+        true,
+        false
+      ],
+      "esperado": [
+        true,
+        false
+      ],
+      "ok": true,
+      "detalhe": "citação dele desloca a palavra 'conteúdo' para o 2º objeto: sentido exato, forma não literal"
+    },
+    {
+      "id": "B4",
+      "titulo": "nuance: o nome v1.1 EXISTE no acervo verbatim da casa (marca de arquivamento)",
+      "camada": "bytes",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/L05_v1.1_recebido_2026-09-15/schema_vinculo_v1.1.json",
+      "comando": "os.path.exists ∧ ≡ upload",
+      "medido": [
+        true,
+        true
+      ],
+      "esperado": [
+        true,
+        true
+      ],
+      "ok": true,
+      "detalhe": "a casa renomeia ao arquivar; DIGITAIS da pasta registram a origem — 'nunca existiu' vale p/ artefato circulante, não p/ o arquivamento"
+    },
+    {
+      "id": "B5",
+      "titulo": "0 diretórios 'L05' no workspace",
+      "camada": "bytes",
+      "escopo": "/home/user",
+      "comando": "find -type d -name L05",
+      "medido": [],
+      "esperado": [],
+      "ok": true,
+      "detalhe": "`L05/` = caminho declarado no $id, não diretório — VERDADE"
+    },
+    {
+      "id": "B6",
+      "titulo": "carta 3 contém a nota L05/ literal",
+      "camada": "documental{NFC,CS}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/RESPOSTA_3_AUDITOR_ESTRUTURA_L05_V11_ARQUITETURA_V2_2026-09-15.md",
+      "comando": "grep '`L05/` vira diretório canônico quando o 1.2 normatizar'",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "'1.2' = pacote L-05 1.2 (normatização), NÃO o schema v1.2 — precisão de leitura"
+    },
+    {
+      "id": "C-v1.1",
+      "titulo": "tabela dele: v1.1 sha exato",
+      "camada": "bytes",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/L05_v1.1_recebido_2026-09-15/schema_vinculo_v1.1.json",
+      "comando": "sha256sum (v1.1, recebido 15/09)",
+      "medido": "b0934412b010b7e0801f372ae57769fe0daa42c046e757128788159ec9ff4130",
+      "esperado": "b0934412b010b7e0801f372ae57769fe0daa42c046e757128788159ec9ff4130",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "C-v1.2",
+      "titulo": "tabela dele: v1.2 sha exato",
+      "camada": "bytes",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/L05_v1.2_schemas_recebidos_2026-09-16/schema_vinculo_v1.2_recebido_2026-09-16.json",
+      "comando": "sha256sum (v1.2, recebido 16/09)",
+      "medido": "19f4f29a8763aa635a09d16c1bd960af2687da62a5f79700b8dfd57081d73360",
+      "esperado": "19f4f29a8763aa635a09d16c1bd960af2687da62a5f79700b8dfd57081d73360",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "C-v1.3",
+      "titulo": "tabela dele: v1.3 sha exato",
+      "camada": "bytes",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/AUDITOR2_triagem_L05v13_recebido_2026-09-17/schema_vinculo_v1.3_recebido_2026-09-17.json",
+      "comando": "sha256sum (v1.3, recebido 17/09)",
+      "medido": "ec4f0de88fd0d845ad91f1d413132fa7d9a5c38d1f9f2f7abff1d3a27e7bf836",
+      "esperado": "ec4f0de88fd0d845ad91f1d413132fa7d9a5c38d1f9f2f7abff1d3a27e7bf836",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "C-v1.4",
+      "titulo": "tabela dele: v1.4 sha exato",
+      "camada": "bytes",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/AUDITOR2_L05_N1v13_N2v14_COMENTADOR_recebido_2026-09-18/schema_vinculo_v1.4_N2_d96ad15b.json",
+      "comando": "sha256sum (v1.4, recebido 18/09)",
+      "medido": "d96ad15b620fa373d8d95d44159a9f3db31c04cfed051d85c7ab014cb3c65050",
+      "esperado": "d96ad15b620fa373d8d95d44159a9f3db31c04cfed051d85c7ab014cb3c65050",
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "C-par",
+      "titulo": "prefixos que ele citou batem com os oficiais",
+      "camada": "bytes",
+      "escopo": "N1+N2",
+      "comando": "sha[:16] == 'd96ad15b620fa373' ∧ shaN1[:16]=='b06660fd985a8186'",
+      "medido": [
+        "d96ad15b620fa373",
+        "b06660fd985a8186"
+      ],
+      "esperado": [
+        "d96ad15b620fa373",
+        "b06660fd985a8186"
+      ],
+      "ok": true,
+      "detalhe": "eco da cópia de trabalho DELE: verificável só nos prefixos citados — batem"
+    },
+    {
+      "id": "C-c8",
+      "titulo": "carta 8 da casa publica as duas digitais",
+      "camada": "documental{NFC,CS}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/RESPOSTA_8_AUDITOR_ESTRUTURA_L05_N1V13_N2V14_VERIFICADOS_2026-09-18.md",
+      "comando": "grep b06660fd ∧ d96ad15b",
+      "medido": [
+        true,
+        true
+      ],
+      "esperado": [
+        true,
+        true
+      ],
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "D1",
+      "titulo": "V2.2 oficial §5.1 cita v1.1 (1×) · §5.2 cita v1.1 (1×) · 0× v1.3/v1.4",
+      "camada": "documental{NFC,CS}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md",
+      "comando": "count()",
+      "medido": [
+        1,
+        1,
+        0
+      ],
+      "esperado": [
+        1,
+        1,
+        0
+      ],
+      "ok": true,
+      "detalhe": "ponteiro defasado CONFERE — e é a dívida D-V22-SCHEMA-NOMES, nomeada pela casa na rodada 36 (redescoberta convergente dele)"
+    },
+    {
+      "id": "D2",
+      "titulo": "§5.2 lista 'direção da relação' e 'condição, quando aplicável'",
+      "camada": "documental{NFC,CS}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.2  -  17.09.26.md",
+      "comando": "grep §5.2",
+      "medido": [
+        true,
+        true
+      ],
+      "esperado": [
+        true,
+        true
+      ],
+      "ok": true,
+      "detalhe": ""
+    },
+    {
+      "id": "D3",
+      "titulo": "§5.2 é byte-idêntico entre a V2 (15/09) e a V2.2 oficial",
+      "camada": "documental{NFC,unicode-newlines}",
+      "escopo": "V2 × V2.2",
+      "comando": "extrair §5.2 de cada e comparar",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "a prosa foi escrita em 15/09 — CONTEMPORÂNEA DA v1.1, não 'à frente' dela"
+    },
+    {
+      "id": "D4",
+      "titulo": "GENEALOGIA dos campos citados por ele (o ponto que derruba a tese '3 versões à frente')",
+      "camada": "documental{NFC,json}",
+      "escopo": "4 versões",
+      "comando": "walk(properties) por versão",
+      "medido": {
+        "v1.1": {
+          "condicao": true,
+          "direcao": true,
+          "direcao_suporte": false
+        },
+        "v1.2": {
+          "condicao": true,
+          "direcao": false,
+          "direcao_suporte": true
+        },
+        "v1.3": {
+          "condicao": true,
+          "direcao": false,
+          "direcao_suporte": true
+        },
+        "v1.4": {
+          "condicao": true,
+          "direcao": false,
+          "direcao_suporte": true
+        }
+      },
+      "esperado": {
+        "v1.1": {
+          "condicao": true,
+          "direcao": true,
+          "direcao_suporte": false
+        },
+        "v1.2": {
+          "condicao": true,
+          "direcao": false,
+          "direcao_suporte": true
+        },
+        "v1.3": {
+          "condicao": true,
+          "direcao": false,
+          "direcao_suporte": true
+        },
+        "v1.4": {
+          "condicao": true,
+          "direcao": false,
+          "direcao_suporte": true
+        }
+      },
+      "ok": true,
+      "detalhe": "FALSO que 'direção e condição nasceram na v1.4': condicao+direcao existem desde a v1.1 (rename p/ direcao_suporte na v1.2). A prosa §5.2 é compatível com a PRÓPRIA v1.1 — o defeito real é só o NOME do ponteiro"
+    },
+    {
+      "id": "D5",
+      "titulo": "dívida do ponteiro já estava nomeada pela casa (não é achado novo)",
+      "camada": "documental{NFC,CS}",
+      "escopo": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Auditoria_B1/decisoes_B1.md",
+      "comando": "grep D-V22-SCHEMA-NOMES",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "registrada na rodada 36; confirmada no oficial na trilha 55 — convergência independente do auditor-2 = bom sinal"
+    },
+    {
+      "id": "E1",
+      "titulo": "autoria do 'aprovado como base de fechamento': frase é do COMENTADOR, casa subscreve",
+      "camada": "documental{NFC,casefold}",
+      "escopo": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Auditoria_B1/decisoes_B1.md",
+      "comando": "grep 'o aceite do comentador'",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "precisão de autoria: não foi 'a casa aprovou' — foi o comentador; a casa subscreveu após réplica (com ressalvas NÃO-estruturais nomeadas: D2 · adoção formal · homologação D4)"
+    },
+    {
+      "id": "E2",
+      "titulo": "catálogo candidato: sha + pendência de adoção + N2 exige validação",
+      "camada": "bytes + documental",
+      "escopo": "_ids_oficiais.json × N2 v1.4 × log",
+      "comando": "sha256sum; txt(N2).count('id_oficial','catálogo'); grep log 'adoção formal'",
+      "medido": [
+        "d0ff264735dc62565c9c102dcb3bd36d4a9960fcf536b636a64494d33d9c532c",
+        true,
+        true
+      ],
+      "esperado": [
+        "d0ff264735dc62565c9c102dcb3bd36d4a9960fcf536b636a64494d33d9c532c",
+        true,
+        true
+      ],
+      "ok": true,
+      "detalhe": "CONFERE: regra existe no schema; fonte não declarada/adotada — dependência crítica real"
+    },
+    {
+      "id": "E3",
+      "titulo": "'20 vínculos redirecionados não-conformes' — EXATO",
+      "camada": "json{unicode}",
+      "escopo": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Evidencias/Vinculos/vinculos_referencia_afirmacao.json",
+      "comando": "sum(g2_elegibilidade=='redirecionado_clinico'); sum('ancoras' in x)",
+      "medido": {
+        "total": 274,
+        "redirecionado_clinico": 20,
+        "com_ancoras": 0
+      },
+      "esperado": {
+        "total": 274,
+        "redirecionado_clinico": 20,
+        "com_ancoras": 0
+      },
+      "ok": true,
+      "detalhe": "efeito intencional do D3 — confere com rev.36"
+    },
+    {
+      "id": "E4",
+      "titulo": "portão L-05 'ainda não nasceu' + regras fora do schema",
+      "camada": "documental{NFC,CS}",
+      "escopo": "/home/user/BIBLIOTECAS/B01_Neuroinflamacao/atuais/Auditoria_B1/decisoes_B1.md",
+      "comando": "grep 'portão L-05 a nascer' · '486 campos de avaliador'",
+      "medido": [
+        true,
+        true
+      ],
+      "esperado": [
+        true,
+        true
+      ],
+      "ok": true,
+      "detalhe": "V-17 (âncora principal) · condicao×BLOCO_07/08 · identidade do avaliador = padrão E2 (rev.A3-E2 da casa, a caminho do mestre) — os 3 mapeiam em dívidas existentes"
+    },
+    {
+      "id": "E5",
+      "titulo": "enum origem_pipeline do N1 v1.3: 5 valores, CLAIM_KIT_CLINICO ausente",
+      "camada": "documental{NFC,json}",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/AUDITOR2_triagem_L05v13_recebido_2026-09-17/schema_referencia_recebido_2026-09-17.json",
+      "comando": "json.load → enum",
+      "medido": [
+        "AUDITORIA_EXTERNA",
+        "BUSCA_FERRAMENTA",
+        "GPM_BRIEFING",
+        "INSUMO_EXTERNO_AUDITADO",
+        "REANCORAGEM"
+      ],
+      "esperado": [
+        "AUDITORIA_EXTERNA",
+        "BUSCA_FERRAMENTA",
+        "GPM_BRIEFING",
+        "INSUMO_EXTERNO_AUDITADO",
+        "REANCORAGEM"
+      ],
+      "ok": true,
+      "detalhe": "fato: não consta no schema vigente"
+    },
+    {
+      "id": "E6",
+      "titulo": "'consta no meu parecer de ontem' (CLAIM_KIT_CLINICO) — verificável na base arquivada?",
+      "camada": "bytes{agulha ASCII} + documental{NFC}",
+      "escopo": "/home/user/BIBLIOTECAS",
+      "comando": "scan bytes CLAIM_KIT_CLINICO (excl. parecer de hoje) · count na minuta v1.4",
+      "medido": {
+        "arquivos": 0,
+        "na_minuta_v1.4": 0
+      },
+      "esperado": {
+        "arquivos": 0,
+        "na_minuta_v1.4": 0
+      },
+      "ok": true,
+      "detalhe": "régua: escopo exclui parecer de hoje E artefatos da própria trilha (self-match confessado). NÃO VERIFICÁVEL na base da casa: o 'parecer de ontem' dele não circulou até aqui → pedir os bytes ao operador. O PEDIDO em si é coerente com o fluxo de claims (subordinado à homologação B + regra nova)"
+    },
+    {
+      "id": "F1",
+      "titulo": "'renomear não muda o sha' — verdade, medido",
+      "camada": "bytes",
+      "escopo": "/home/user/BIBLIOTECAS/_documentos_serie/AUDITOR2_L05_N1v13_N2v14_COMENTADOR_recebido_2026-09-18/schema_vinculo_v1.4_N2_d96ad15b.json",
+      "comando": "cp com outro nome → sha igual",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": "tecnicamente exato; MAS: renomear o artefato oficial de entrega = ato registrável do operador/casa; corrigir §5 da V2.2 = emenda ao OFICIAL → regra nova completa (proposta→documento→aprovação→sha/data)"
+    },
+    {
+      "id": "CI0",
+      "titulo": "0 ciência: V7/manifesto/vínculos intactos",
+      "camada": "bytes",
+      "escopo": "acervo B1",
+      "comando": "sha início==fim",
+      "medido": true,
+      "esperado": true,
+      "ok": true,
+      "detalhe": ""
+    }
+  ],
+  "veredito_casa": "Parecer SUBSTANCIALMENTE correto e convergente (tabela de shas exata · ponteiro defasado real · 20 redirecionados exato · catálogo não adotado real · enum sem CLAIM_KIT_CLINICO real · 'não normativo' = posição da casa r38). 3 CORREÇÕES DE PRECISÃO: P1 autoria ('a casa aprovou' → foi o comentador; casa subscreveu c/ ressalvas nomeadas) · P2 GENEALOGIA FALSA: 'direção e condição nasceram na v1.4' — medido: condicao+direcao existem desde a v1.1; a prosa do §5.2 é de 15/09 (contemporânea da v1.1) e compatível com ela; o defeito real é só o NOME do ponteiro (D-V22-SCHEMA-NOMES, que a casa JÁ nomeou na r36 — redescoberta convergente) · P3 'consta no meu parecer de ontem' (CLAIM_KIT_CLINICO) NÃO verificável na base arquivada (0 arquivos/0× na minuta) → pedir os bytes. NUANCE da casa: o nome v1.1 existe no ACERVO verbatim como marca de arquivamento desde 15/09 (carta 3 prova o recebido='schema_vinculo_v1.json'); a casa confessa: registrou a assimetria sem nomeá-la defeito — agora nomeada D-L05-NOME-X-ID. Sugestão dele (renomear+corrigir ponteiros): tecnicamente sha-invariante (medido), mas exige a regra nova para tocar a V2.2 oficial."
+}

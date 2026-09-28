@@ -1,0 +1,405 @@
+[
+ {
+  "pmid_oficial": "35896533",
+  "titulo_artigo": "Enhancing exposure therapy for posttraumatic stress disorder (PTSD): a randomized clinical trial of virtual reality and imaginal exposure with a cognitive enhancer",
+  "autores": [
+   "Difede J",
+   "Rothbaum BO",
+   "Rizzo AA",
+   "Wyka K",
+   "Spielman L",
+   "Reist C"
+  ],
+  "revista_ano": "Translational psychiatry (2022)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "Potencializar terapia de exposição no TEPT (RCT; canabinoide)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_DIFEDE_2022"
+  ],
+  "id_referencia_interna": "REF_DIFEDE_2022",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "DIFEDE",
+   "Difede"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "40382500",
+  "titulo_artigo": "The efficacy of elevating anandamide via inhibition of fatty acid amide hydrolase (FAAH) combined with internet-delivered cognitive behavioral therapy in the treatment of post-traumatic stress disorder: a randomized, placebo-controlled clinical trial",
+  "autores": [
+   "Mayo LM",
+   "Gauffin E",
+   "Petrie GN",
+   "Tansey R",
+   "Mazurka R",
+   "Haggarty CJ"
+  ],
+  "revista_ano": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology (2025)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "Eficácia de elevar anandamida via inibição de FAAH (ansiedade; clínico)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MAYO_2025"
+  ],
+  "id_referencia_interna": "REF_MAYO_2025",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "MAYO",
+   "Mayo"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "41616640",
+  "titulo_artigo": "Efficacy and safety of adjunctive treatment with the fatty acid amide hydrolase inhibitor JNJ-42165279 in participants with major depressive disorder with anxious distress: A double-blind, placebo-controlled, randomised study",
+  "autores": [
+   "Schmidt ME",
+   "Gargano C",
+   "Zhou X",
+   "Palmer JA",
+   "Saad ZS",
+   "Vieta E"
+  ],
+  "revista_ano": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology (2026)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "Eficácia/segurança de inibidor de FAAH como adjunto (ensaio)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SCHMIDT_2026"
+  ],
+  "id_referencia_interna": "REF_SCHMIDT_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "SCHMIDT",
+   "Schmidt"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "41651806",
+  "titulo_artigo": "Functional neuroimaging of fatty acid amide hydrolase inhibition in posttraumatic stress disorder: a randomized clinical trial",
+  "autores": [
+   "Tansey R",
+   "Perini I",
+   "Petrie GN",
+   "Haggarty CJ",
+   "Mazurka R",
+   "Yngve A"
+  ],
+  "revista_ano": "Translational psychiatry (2026)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "Neuroimagem da inibição de FAAH no TEPT",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_TANSEY_2026"
+  ],
+  "id_referencia_interna": "REF_TANSEY_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "TANSEY",
+   "Tansey"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "41270825",
+  "titulo_artigo": "Randomized trial of delta-9-tetrahydrocannabinol (THC) versus placebo to augment the effects of prolonged exposure therapy on fear extinction learning in post-traumatic stress disorder: Study rationale and protocol",
+  "autores": [
+   "Rabinak CA",
+   "Kilgore PE",
+   "Lumley MA",
+   "Rauch SAM"
+  ],
+  "revista_ano": "Contemporary clinical trials (2026)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "THC adjuvante vs. placebo (ensaio randomizado)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_RABINAK_2026"
+  ],
+  "id_referencia_interna": "REF_RABINAK_2026",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "RABINAK",
+   "Rabinak"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "38797087",
+  "titulo_artigo": "Evaluation of the efficacy, safety, and pharmacokinetics of nanodispersible cannabidiol oral solution (150 mg/mL) versus placebo in mild to moderate anxiety subjects: A double blind multicenter randomized clinical trial",
+  "autores": [
+   "Gundugurti PR",
+   "Banda N",
+   "Yadlapalli SSR",
+   "Narala A",
+   "Thatikonda R",
+   "Kocherlakota C"
+  ],
+  "revista_ano": "Asian journal of psychiatry (2024)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "CBD nanodispersível — ECR de fase III positivo em ansiedade leve-moderada",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GUNDUGURTI_2024"
+  ],
+  "id_referencia_interna": "REF_GUNDUGURTI_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "GUNDUGURTI",
+   "Gundugurti"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "39680411",
+  "titulo_artigo": "Cannabidiol for Scan-Related Anxiety in Women With Advanced Breast Cancer: A Randomized Clinical Trial",
+  "autores": [
+   "Nayak MM",
+   "Chai P",
+   "Catalano PJ",
+   "Pirl WF",
+   "Tulsky JA",
+   "Tung SC"
+  ],
+  "revista_ano": "JAMA network open (2024)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "CBD para ansiedade de exame em câncer de mama — desfecho primário NEGATIVO (Nayak)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_NAYAK_2024"
+  ],
+  "id_referencia_interna": "REF_NAYAK_2024",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "NAYAK",
+   "Nayak"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "29486338",
+  "titulo_artigo": "Palmitoylethanolamide as adjunctive therapy in major depressive disorder: A double-blind, randomized and placebo-controlled trial",
+  "autores": [
+   "Ghazizadeh-Hashemi M",
+   "Ghajar A",
+   "Shalbafan MR",
+   "Ghazizadeh-Hashemi F",
+   "Afarideh M",
+   "Malekpour F"
+  ],
+  "revista_ano": "Journal of affective disorders (2018)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "PEA como adjuvante no TDM (ECR; resposta 100% vs 74% — pequeno, único)",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GHAZIZADEHHASHEMI_2018"
+  ],
+  "id_referencia_interna": "REF_GHAZIZADEHHASHEMI_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "GHAZIZADEHHASHEMI",
+   "Ghazizadehhashemi"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ },
+ {
+  "pmid_oficial": "33070154",
+  "titulo_artigo": "The effects of inhibition of fatty acid amide hydrolase (FAAH) by JNJ-42165279 in social anxiety disorder: a double-blind, randomized, placebo-controlled proof-of-concept study",
+  "autores": [
+   "Schmidt ME",
+   "Liebowitz MR",
+   "Stein MB",
+   "Grunfeld J",
+   "Van Hove I",
+   "Simmons WK"
+  ],
+  "revista_ano": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology (2021)",
+  "desenho_estudo": "[EC]",
+  "secao_origem": "mecanismo_B13_sistema_endocanabinoide",
+  "achado_central_molecular": "---|---|---|---",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SCHMIDT_2021"
+  ],
+  "id_referencia_interna": "REF_SCHMIDT_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "verificado",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/revisao",
+  "g3_verificado_por": "IA G3 (G1 validado); P-6 avaliador cego pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "SCHMIDT",
+   "Schmidt"
+  ],
+  "sinais_classificacao": [
+   "tag_desenho:[EC]",
+   "desenho_rct:titulo"
+  ],
+  "migrado_em": "2026-09-11",
+  "migracao_ref": "09_distribuicao_MA_EC_2026-09-11_INSTRUCAO_FINAL_GERACAO_PROMPT_v4.2"
+ }
+]

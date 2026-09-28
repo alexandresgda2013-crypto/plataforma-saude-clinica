@@ -1,0 +1,66 @@
+{
+ "acao": "10_execucao_R1R2_R11_reancoragem_e_anotacoes_2026-09-11",
+ "reparos": [
+  {
+   "ref": "REF_ALMULLA_2022",
+   "vinculo": "VINC_B1_0235",
+   "status": "REANCORADO",
+   "ancora_anterior_chars": 101,
+   "ancora_nova_chars": 623
+  },
+  {
+   "ref": "REF_COMAI_2022",
+   "vinculo": "VINC_B1_0116",
+   "status": "REANCORADO",
+   "ancora_anterior_chars": 180,
+   "ancora_nova_chars": 189
+  },
+  {
+   "ref": "REF_GAVRIL_2024",
+   "vinculo": "VINC_B1_0245",
+   "status": "REANCORADO",
+   "ancora_anterior_chars": 34,
+   "ancora_nova_chars": 205
+  },
+  {
+   "ref": "REF_WIJESINGHE_2025",
+   "vinculo": "VINC_B1_0247",
+   "status": "REANCORADO",
+   "ancora_anterior_chars": 84,
+   "ancora_nova_chars": 341
+  },
+  {
+   "ref": "REF_ENACHE_2019",
+   "vinculo": "VINC_B1_0219",
+   "status": "REANCORADO",
+   "ancora_anterior_chars": 168,
+   "ancora_nova_chars": 298
+  },
+  {
+   "ref": "REF_HAFIZI_2005",
+   "vinculo": "VINC_B1_0047",
+   "status": "REANCORADO",
+   "ancora_anterior_chars": 195,
+   "ancora_nova_chars": 217
+  },
+  {
+   "ref": "REF_LANG_2025",
+   "vinculo": "VINC_B1_0072",
+   "status": "REANCORADO",
+   "ancora_anterior_chars": 196,
+   "ancora_nova_chars": 89
+  },
+  {
+   "ref": "REF_LANG_2025",
+   "vinculo": "VINC_B1_0140",
+   "status": "REANCORADO",
+   "ancora_anterior_chars": 197,
+   "ancora_nova_chars": 89
+  },
+  {
+   "ref": "REF_COMAI_2022",
+   "vinculo": "VINC_B1_0116",
+   "status": "ANOTADO_G3_R2"
+  }
+ ]
+}

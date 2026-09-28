@@ -1,0 +1,29 @@
+# COLE NO AUDITOR-MESTRE (janela dele) — REV.3
+
+```text
+# CICLO DO KIT — SUBSCRIÇÃO DA MINUTA SCHEMA-CLAIM v1.3 rev.3
+
+Data: 2026-09-25
+Origem: operador
+
+Ciclo da ressalva do Estrutura completo:
+- sua subscrição da rev.2: sem ressalva (preservada);
+- ressalva V-K6 (precedência na materialização) medida (TRILHA99 9/9);
+- Arena aplicou V-K6/V-K7 na rev.3;
+- Comentador ACEITOU a rev.3 para prosseguimento
+  (arquivo COMENTADOR_ACEITA_REV3_VK6_2026-09-25.md).
+
+Anexos:
+- 3º SCHEMA-CLAIM — v1.3 (MINUTA rev.3).md
+- COMENTADOR_ACEITA_REV3_VK6_2026-09-25.md
+- as duas subscrições da rev.2 + RESPOSTA_CASA
+- TRILHA99
+
+Pergunta única (rev.3):
+
+“Subscrevem, sem ressalva, a minuta Schema-Claim v1.3 rev.3
+(V-K1..V-K7, com V-K6/V-K7 resolvendo a ressalva do Estrutura)?”
+
+Responda: subscrevo sem ressalva · subscrevo com ressalva(s) · não subscrevo.
+Sua subscrição da rev.2 não substitui esta — o documento mudou.
+```

@@ -1,0 +1,2653 @@
+[
+ {
+  "pmid_oficial": "2348190",
+  "titulo_artigo": "Low urinary cortisol excretion in patients with posttraumatic stress disorder",
+  "autores": [
+   "Yehuda R",
+   "Southwick SM",
+   "Nussbaum G",
+   "Wahby V",
+   "Giller EL Jr",
+   "Mason JW"
+  ],
+  "revista_ano": "The Journal of nervous and mental disease (1990)",
+  "desenho_estudo": "[EC] Yehuda_1990",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Low urinary cortisol excretion in patients with posttraumatic stress disorder",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_YEHUDA_1990"
+  ],
+  "id_referencia_interna": "REF_YEHUDA_1990",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Yehuda",
+   "YEHUDA"
+  ]
+ },
+ {
+  "pmid_oficial": "10918705",
+  "titulo_artigo": "Pituitary-adrenal and autonomic responses to stress in women after sexual and physical abuse in childhood",
+  "autores": [
+   "Heim C"
+  ],
+  "revista_ano": "JAMA (2000)",
+  "desenho_estudo": "[EC] Heim_2000",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Pituitary-adrenal and autonomic responses to stress in women after sexual and physical abuse in childhood",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_HEIM_2000"
+  ],
+  "id_referencia_interna": "REF_HEIM_2000",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Heim",
+   "HEIM"
+  ]
+ },
+ {
+  "pmid_oficial": "11282691",
+  "titulo_artigo": "Altered pituitary-adrenal axis responses to provocative challenge tests in adult survivors of childhood abuse",
+  "autores": [
+   "Heim C",
+   "Newport DJ",
+   "Bonsall R",
+   "Miller AH",
+   "Nemeroff CB"
+  ],
+  "revista_ano": "The American journal of psychiatry (2001)",
+  "desenho_estudo": "[EC] Heim_2001",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Altered pituitary-adrenal axis responses to provocative challenge tests in adult survivors of childhood abuse",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_HEIM_2001"
+  ],
+  "id_referencia_interna": "REF_HEIM_2001",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Heim",
+   "HEIM"
+  ]
+ },
+ {
+  "pmid_oficial": "12161658",
+  "titulo_artigo": "Role of genotype in the cycle of violence in maltreated children",
+  "autores": [
+   "Caspi A",
+   "McClay J",
+   "Moffitt TE",
+   "Mill J",
+   "Martin J",
+   "Craig IW"
+  ],
+  "revista_ano": "Science (New York, N.Y.) (2002)",
+  "desenho_estudo": "[ML] Caspi_2002",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Role of genotype in the cycle of violence in maltreated children",
+  "extrapolacao_por_analogia": "SIM — animal/célula [EXT]",
+  "ids_referencia_interna": [
+   "REF_CASPI_2002"
+  ],
+  "id_referencia_interna": "REF_CASPI_2002",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal causal",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "CASPI",
+   "Caspi"
+  ]
+ },
+ {
+  "pmid_oficial": "12379862",
+  "titulo_artigo": "Smaller hippocampal volume predicts pathologic vulnerability to psychological trauma",
+  "autores": [
+   "Gilbertson MW",
+   "Shenton ME",
+   "Ciszewski A",
+   "Kasai K",
+   "Lasko NB",
+   "Orr SP"
+  ],
+  "revista_ano": "Nature neuroscience (2002)",
+  "desenho_estudo": "[EC] Gilbertson_2002",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Smaller hippocampal volume predicts pathologic vulnerability to psychological trauma",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GILBERTSON_2002"
+  ],
+  "id_referencia_interna": "REF_GILBERTSON_2002",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Gilbertson",
+   "GILBERTSON"
+  ]
+ },
+ {
+  "pmid_oficial": "12422216",
+  "titulo_artigo": "Neurons in medial prefrontal cortex signal memory for fear extinction",
+  "autores": [
+   "Milad MR",
+   "Quirk GJ"
+  ],
+  "revista_ano": "Nature (2002)",
+  "desenho_estudo": "[ML] Milad_2002",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Neurons in medial prefrontal cortex signal memory for fear extinction",
+  "extrapolacao_por_analogia": "SIM — animal/célula [EXT]",
+  "ids_referencia_interna": [
+   "REF_MILAD_2002"
+  ],
+  "id_referencia_interna": "REF_MILAD_2002",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal causal",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Milad",
+   "MILAD"
+  ]
+ },
+ {
+  "pmid_oficial": "12869766",
+  "titulo_artigo": "Influence of life stress on depression: moderation by a polymorphism in the 5-HTT gene",
+  "autores": [
+   "Caspi A",
+   "Sugden K",
+   "Moffitt TE",
+   "Taylor A",
+   "Craig IW",
+   "Harrington H"
+  ],
+  "revista_ano": "Science (New York, N.Y.) (2003)",
+  "desenho_estudo": "[EC] Caspi_2003",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Influence of life stress on depression: moderation by a polymorphism in the 5-HTT gene",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_CASPI_2003"
+  ],
+  "id_referencia_interna": "REF_CASPI_2003",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "CASPI",
+   "Caspi"
+  ]
+ },
+ {
+  "pmid_oficial": "15220929",
+  "titulo_artigo": "Epigenetic programming by maternal behavior",
+  "autores": [
+   "Weaver IC",
+   "Cervoni N",
+   "Champagne FA",
+   "D'Alessio AC",
+   "Sharma S",
+   "Seckl JR"
+  ],
+  "revista_ano": "Nature neuroscience (2004)",
+  "desenho_estudo": "[ML] Weaver_2004",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Epigenetic programming by maternal behavior",
+  "extrapolacao_por_analogia": "SIM — animal/célula [EXT]",
+  "ids_referencia_interna": [
+   "REF_WEAVER_2004"
+  ],
+  "id_referencia_interna": "REF_WEAVER_2004",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal causal",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Weaver",
+   "WEAVER"
+  ]
+ },
+ {
+  "pmid_oficial": "16469931",
+  "titulo_artigo": "Essential role of BDNF in the mesolimbic dopamine pathway in social defeat stress",
+  "autores": [
+   "Berton O",
+   "McClung CA",
+   "Dileone RJ",
+   "Krishnan V",
+   "Renthal W",
+   "Russo SJ"
+  ],
+  "revista_ano": "Science (New York, N.Y.) (2006)",
+  "desenho_estudo": "[ML] Berton_2006",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Essential role of BDNF in the mesolimbic dopamine pathway in social defeat stress",
+  "extrapolacao_por_analogia": "SIM — animal/célula [EXT]",
+  "ids_referencia_interna": [
+   "REF_BERTON_2006"
+  ],
+  "id_referencia_interna": "REF_BERTON_2006",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal causal",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "BERTON",
+   "Berton"
+  ]
+ },
+ {
+  "pmid_oficial": "16891563",
+  "titulo_artigo": "Amygdala, medial prefrontal cortex, and hippocampal function in PTSD",
+  "autores": [
+   "Shin LM",
+   "Rauch SL",
+   "Pitman RK"
+  ],
+  "revista_ano": "Annals of the New York Academy of Sciences (2006)",
+  "desenho_estudo": "[EC] Shin_2006",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Amygdala, medial prefrontal cortex, and hippocampal function in PTSD",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SHIN_2006"
+  ],
+  "id_referencia_interna": "REF_SHIN_2006",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Shin",
+   "SHIN"
+  ]
+ },
+ {
+  "pmid_oficial": "16903808",
+  "titulo_artigo": "The neurobiology of stress and development",
+  "autores": [
+   "Gunnar M",
+   "Quevedo K"
+  ],
+  "revista_ano": "Annual review of psychology (2007)",
+  "desenho_estudo": "[OB] Gunnar_2007",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "The neurobiology of stress and development",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GUNNAR_2007"
+  ],
+  "id_referencia_interna": "REF_GUNNAR_2007",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Gunnar",
+   "GUNNAR"
+  ]
+ },
+ {
+  "pmid_oficial": "16919525",
+  "titulo_artigo": "Neurocircuitry models of posttraumatic stress disorder and extinction: human neuroimaging research--past, present, and future",
+  "autores": [
+   "Rauch SL",
+   "Shin LM",
+   "Phelps EA"
+  ],
+  "revista_ano": "Biological psychiatry (2006)",
+  "desenho_estudo": "[EC] Rauch_2006",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Neurocircuitry models of posttraumatic stress disorder and extinction: human neuroimaging research--past, present, and future",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_RAUCH_2006"
+  ],
+  "id_referencia_interna": "REF_RAUCH_2006",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Rauch",
+   "RAUCH"
+  ]
+ },
+ {
+  "pmid_oficial": "17615391",
+  "titulo_artigo": "Physiology and neurobiology of stress and adaptation: central role of the brain",
+  "autores": [
+   "McEwen BS"
+  ],
+  "revista_ano": "Physiological reviews (2007)",
+  "desenho_estudo": "[OB] McEwen_2007",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Physiology and neurobiology of stress and adaptation: central role of the brain",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MCEWEN_2007"
+  ],
+  "id_referencia_interna": "REF_MCEWEN_2007",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "MCEWEN",
+   "Mcewen"
+  ]
+ },
+ {
+  "pmid_oficial": "17956738",
+  "titulo_artigo": "Molecular adaptations underlying susceptibility and resistance to social defeat in brain reward regions",
+  "autores": [
+   "Krishnan V",
+   "Han MH",
+   "Graham DL",
+   "Berton O",
+   "Renthal W",
+   "Russo SJ"
+  ],
+  "revista_ano": "Cell (2007)",
+  "desenho_estudo": "[ML] Krishnan_2007",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Molecular adaptations underlying susceptibility and resistance to social defeat in brain reward regions",
+  "extrapolacao_por_analogia": "SIM — animal/célula [EXT]",
+  "ids_referencia_interna": [
+   "REF_KRISHNAN_2007"
+  ],
+  "id_referencia_interna": "REF_KRISHNAN_2007",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal causal",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Krishnan",
+   "KRISHNAN"
+  ]
+ },
+ {
+  "pmid_oficial": "18349090",
+  "titulo_artigo": "Association of FKBP5 polymorphisms and childhood abuse with risk of posttraumatic stress disorder symptoms in adults",
+  "autores": [
+   "Binder EB",
+   "Bradley RG",
+   "Liu W",
+   "Epstein MP",
+   "Deveau TC",
+   "Mercer KB"
+  ],
+  "revista_ano": "JAMA (2008)",
+  "desenho_estudo": "[EC] Binder_2008",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Association of FKBP5 polymorphisms and childhood abuse with risk of posttraumatic stress disorder symptoms in adults",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BINDER_2008"
+  ],
+  "id_referencia_interna": "REF_BINDER_2008",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Binder",
+   "BINDER"
+  ]
+ },
+ {
+  "pmid_oficial": "19139412",
+  "titulo_artigo": "Psychosocial stress reversibly disrupts prefrontal processing and attentional control",
+  "autores": [
+   "Liston C",
+   "McEwen BS",
+   "Casey BJ"
+  ],
+  "revista_ano": "Proceedings of the National Academy of Sciences of the United States of America (2009)",
+  "desenho_estudo": "[EC] Liston_2009",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Psychosocial stress reversibly disrupts prefrontal processing and attentional control",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LISTON_2009"
+  ],
+  "id_referencia_interna": "REF_LISTON_2009",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "LISTON",
+   "Liston"
+  ]
+ },
+ {
+  "pmid_oficial": "19234457",
+  "titulo_artigo": "Epigenetic regulation of the glucocorticoid receptor in human brain associates with childhood abuse",
+  "autores": [
+   "McGowan PO",
+   "Sasaki A",
+   "D'Alessio AC",
+   "Dymov S",
+   "Labonté B",
+   "Szyf M"
+  ],
+  "revista_ano": "Nature neuroscience (2009)",
+  "desenho_estudo": "[EC] McGowan_2009",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Epigenetic regulation of the glucocorticoid receptor in human brain associates with childhood abuse",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MCGOWAN_2009"
+  ],
+  "id_referencia_interna": "REF_MCGOWAN_2009",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Mcgowan",
+   "MCGOWAN"
+  ]
+ },
+ {
+  "pmid_oficial": "19625997",
+  "titulo_artigo": "The neurocircuitry of fear, stress, and anxiety disorders",
+  "autores": [
+   "Shin LM",
+   "Liberzon I"
+  ],
+  "revista_ano": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology (2010)",
+  "desenho_estudo": "[OB] Liberzon_2010",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "The neurocircuitry of fear, stress, and anxiety disorders",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_SHIN_2010"
+  ],
+  "id_referencia_interna": "REF_SHIN_2010",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "LIBERZON",
+   "Liberzon",
+   "SHIN",
+   "Shin"
+  ]
+ },
+ {
+  "pmid_oficial": "19736354",
+  "titulo_artigo": "Protective effect of CRHR1 gene variants on the development of adult depression following childhood maltreatment: replication and extension",
+  "autores": [
+   "Polanczyk G",
+   "Caspi A",
+   "Williams B",
+   "Price TS",
+   "Danese A",
+   "Sugden K"
+  ],
+  "revista_ano": "Archives of general psychiatry (2009)",
+  "desenho_estudo": "[EC] Polanczyk_2009",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Protective effect of CRHR1 gene variants on the development of adult depression following childhood maltreatment: replication and extension",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_POLANCZYK_2009"
+  ],
+  "id_referencia_interna": "REF_POLANCZYK_2009",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Polanczyk",
+   "POLANCZYK"
+  ]
+ },
+ {
+  "pmid_oficial": "21350482",
+  "titulo_artigo": "Post-traumatic stress disorder is associated with PACAP and the PAC1 receptor",
+  "autores": [
+   "Ressler KJ",
+   "Mercer KB",
+   "Bradley B",
+   "Jovanovic T",
+   "Mahan A",
+   "Kerley K"
+  ],
+  "revista_ano": "Nature (2011)",
+  "desenho_estudo": "[EC] Ressler_2011",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Post-traumatic stress disorder is associated with PACAP and the PAC1 receptor",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_RESSLER_2011"
+  ],
+  "id_referencia_interna": "REF_RESSLER_2011",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Ressler",
+   "RESSLER"
+  ]
+ },
+ {
+  "pmid_oficial": "23201972",
+  "titulo_artigo": "Allele-specific FKBP5 DNA demethylation mediates gene-childhood trauma interactions",
+  "autores": [
+   "Klengel T",
+   "Mehta D",
+   "Anacker C",
+   "Rex-Haffner M",
+   "Pruessner JC",
+   "Pariante CM"
+  ],
+  "revista_ano": "Nature neuroscience (2013)",
+  "desenho_estudo": "[EC] Klengel_2013",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Allele-specific FKBP5 DNA demethylation mediates gene-childhood trauma interactions",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_KLENGEL_2013"
+  ],
+  "id_referencia_interna": "REF_KLENGEL_2013",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Klengel",
+   "KLENGEL"
+  ]
+ },
+ {
+  "pmid_oficial": "24001473",
+  "titulo_artigo": "Generalized anxiety disorder is associated with overgeneralization of learned fear",
+  "autores": [
+   "Lissek S"
+  ],
+  "revista_ano": "Biol Psychiatry (2014)",
+  "desenho_estudo": "[EC] Lissek_2014",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Generalized anxiety disorder is associated with overgeneralization of learned fear",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LISSEK_2014"
+  ],
+  "id_referencia_interna": "REF_LISSEK_2014",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "LISSEK",
+   "Lissek"
+  ]
+ },
+ {
+  "pmid_oficial": "25454359",
+  "titulo_artigo": "Childhood adversity and neural development: deprivation and threat as distinct dimensions of early experience",
+  "autores": [
+   "McLaughlin KA",
+   "Sheridan MA",
+   "Lambert HK"
+  ],
+  "revista_ano": "Neuroscience and biobehavioral reviews (2014)",
+  "desenho_estudo": "[OB] Sheridan_2014",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Childhood adversity and neural development: deprivation and threat as distinct dimensions of early experience",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MCLAUGHLIN_2014"
+  ],
+  "id_referencia_interna": "REF_MCLAUGHLIN_2014",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "MCLAUGHLIN",
+   "McLaughlin",
+   "Mclaughlin",
+   "SHERIDAN",
+   "Sheridan"
+  ]
+ },
+ {
+  "pmid_oficial": "26212712",
+  "titulo_artigo": "CRH engagement of the locus coeruleus noradrenergic system mediates stress-induced anxiety",
+  "autores": [
+   "McCall JG"
+  ],
+  "revista_ano": "Neuron (2015)",
+  "desenho_estudo": "[EC] McCall_2015",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "CRH engagement of the locus coeruleus noradrenergic system mediates stress-induced anxiety",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_MCCALL_2015"
+  ],
+  "id_referencia_interna": "REF_MCCALL_2015",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "MCCALL",
+   "Mccall"
+  ]
+ },
+ {
+  "pmid_oficial": "26410355",
+  "titulo_artigo": "Holocaust Exposure Induced Intergenerational Effects on FKBP5 Methylation",
+  "autores": [
+   "Yehuda R",
+   "Daskalakis NP",
+   "Bierer LM",
+   "Bader HN",
+   "Klengel T",
+   "Holsboer F"
+  ],
+  "revista_ano": "Biological psychiatry (2016)",
+  "desenho_estudo": "[EC] Yehuda_2016",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Holocaust Exposure Induced Intergenerational Effects on FKBP5 Methylation",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_YEHUDA_2016"
+  ],
+  "id_referencia_interna": "REF_YEHUDA_2016",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Yehuda",
+   "YEHUDA"
+  ]
+ },
+ {
+  "pmid_oficial": "28619944",
+  "titulo_artigo": "Early life stress confers lifelong stress susceptibility in mice via ventral tegmental area OTX2",
+  "autores": [
+   "Peña CJ",
+   "Kronman HG",
+   "Walker DM",
+   "Cates HM",
+   "Bagot RC",
+   "Purushothaman I"
+  ],
+  "revista_ano": "Science (New York, N.Y.) (2017)",
+  "desenho_estudo": "[ML] Pena_2017",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Early life stress confers lifelong stress susceptibility in mice via ventral tegmental area OTX2",
+  "extrapolacao_por_analogia": "SIM — animal/célula [EXT]",
+  "ids_referencia_interna": [
+   "REF_PENA_2017"
+  ],
+  "id_referencia_interna": "REF_PENA_2017",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal causal",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Pena",
+   "PENA"
+  ]
+ },
+ {
+  "pmid_oficial": "29217296",
+  "titulo_artigo": "Smaller Hippocampal Volume in Posttraumatic Stress Disorder: A Multisite ENIGMA-PGC Study: Subcortical Volumetry Results From Posttraumatic Stress Disorder Consortia",
+  "autores": [
+   "Logue MW",
+   "van Rooij SJH",
+   "Dennis EL",
+   "Davis SL",
+   "Hayes JP",
+   "Stevens JS"
+  ],
+  "revista_ano": "Biological psychiatry (2018)",
+  "desenho_estudo": "[EC] Logue_2018",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Smaller Hippocampal Volume in Posttraumatic Stress Disorder: A Multisite ENIGMA-PGC Study: Subcortical Volumetry Results From Posttraumatic Stress Disorder Consortia",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_LOGUE_2018"
+  ],
+  "id_referencia_interna": "REF_LOGUE_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "LOGUE",
+   "Logue"
+  ]
+ },
+ {
+  "pmid_oficial": "29902711",
+  "titulo_artigo": "Trajectories of resilience and dysfunction following potential trauma: A review and statistical evaluation",
+  "autores": [
+   "Galatzer-Levy IR",
+   "Huang SH",
+   "Bonanno GA"
+  ],
+  "revista_ano": "Clinical psychology review (2018)",
+  "desenho_estudo": "[OB] GalatzerLevy_2018",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Trajectories of resilience and dysfunction following potential trauma: A review and statistical evaluation",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_GALATZERLEVY_2018"
+  ],
+  "id_referencia_interna": "REF_GALATZERLEVY_2018",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Galatzerlevy",
+   "GALATZERLEVY"
+  ]
+ },
+ {
+  "pmid_oficial": "30229711",
+  "titulo_artigo": "Trauma-associated anterior cingulate connectivity during reward learning predicts affective and anxiety states in young adults",
+  "autores": [
+   "Eckstrand KL",
+   "Hanford LC",
+   "Bertocci MA",
+   "Chase HW",
+   "Greenberg T",
+   "Lockovich J"
+  ],
+  "revista_ano": "Psychological medicine (2019)",
+  "desenho_estudo": "[EC] Eckstrand_2019",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Trauma-associated anterior cingulate connectivity during reward learning predicts affective and anxiety states in young adults",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_ECKSTRAND_2019"
+  ],
+  "id_referencia_interna": "REF_ECKSTRAND_2019",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "Eckstrand",
+   "ECKSTRAND"
+  ]
+ },
+ {
+  "pmid_oficial": "30739477",
+  "titulo_artigo": "Ghosts from the past? The association between childhood interpersonal trauma, attachment and anxiety and depression in late life",
+  "autores": [
+   "Van Assche L",
+   "Van de Ven L",
+   "Vandenbulcke M",
+   "Luyten P"
+  ],
+  "revista_ano": "Aging & mental health (2020)",
+  "desenho_estudo": "[EC] VanAssche_2020",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Ghosts from the past? The association between childhood interpersonal trauma, attachment and anxiety and depression in late life",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_VAN_2020"
+  ],
+  "id_referencia_interna": "REF_VAN_2020",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "VAN",
+   "Van"
+  ]
+ },
+ {
+  "pmid_oficial": "34545241",
+  "titulo_artigo": "Sex differences in anxiety and depression: circuits and mechanisms",
+  "autores": [
+   "Bangasser DA",
+   "Cuarenta A"
+  ],
+  "revista_ano": "Nature reviews. Neuroscience (2021)",
+  "desenho_estudo": "[OB] Bangasser_2021",
+  "secao_origem": "mecanismo_B12_neurobiologia_trauma",
+  "achado_central_molecular": "Sex differences in anxiety and depression: circuits and mechanisms",
+  "extrapolacao_por_analogia": "não",
+  "ids_referencia_interna": [
+   "REF_BANGASSER_2021",
+   "REF_Bangasser2021_sexo"
+  ],
+  "id_referencia_interna": "REF_BANGASSER_2021",
+  "doi": "",
+  "claim_id_origem": "",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "emergente",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano/meta/imagem",
+  "g3_verificado_por": "IA G3; P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "BUSCA_FERRAMENTA",
+  "_aliases": [
+   "BANGASSER",
+   "Bangasser"
+  ]
+ },
+ {
+  "pmid_oficial": "11430844",
+  "titulo_artigo": "The role of childhood trauma in the neurobiology of mood and anxiety disorders: preclinical and clinical studies.",
+  "autores": [
+   "Heim C",
+   "Nemeroff CB"
+  ],
+  "revista_ano": "Biol Psychiatry (2001)",
+  "desenho_estudo": "[OB] revisão fundacional · Biol Psychiatry",
+  "secao_origem": "mecanismo_B12_trauma_programador",
+  "achado_central_molecular": "Revisão fundacional: adversidade infantil na neurobiologia dos transtornos de humor e ansiedade — modelo de programação/sensibilização, pré-clínico e clínico.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_HEIM_2001a"
+  ],
+  "id_referencia_interna": "REF_HEIM_2001a",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Heim & Nemeroff 2001 (ânora insumo) — coexiste com REF_HEIM_2001 da V1 (artigo distinto)"
+  ]
+ },
+ {
+  "pmid_oficial": "22442074",
+  "titulo_artigo": "Variant brain-derived neurotrophic factor Val66Met polymorphism alters vulnerability to stress and response to antidepressants.",
+  "autores": [
+   "Yu H",
+   "Wang DD",
+   "Wang Y",
+   "Liu T"
+  ],
+  "revista_ano": "J Neurosci (2012)",
+  "desenho_estudo": "[EC] estudo translacional (polimorfismo humano + modelo) · J Neurosci",
+  "secao_origem": "mecanismo_B12_bdnf_val66met",
+  "achado_central_molecular": "Polimorfismo Val66Met do BDNF altera vulnerabilidade ao estresse — interação gene×ambiente, não determinismo (regra 1).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_YU_2012"
+  ],
+  "id_referencia_interna": "REF_YU_2012",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "23468190",
+  "titulo_artigo": "Cytokine targets in the brain: impact on neurotransmitters and neurocircuits.",
+  "autores": [
+   "Miller AH",
+   "Haroon E",
+   "Raison CL",
+   "Felger JC"
+  ],
+  "revista_ano": "Depress Anxiety (2013)",
+  "desenho_estudo": "[OB] revisão · Depress Anxiety",
+  "secao_origem": "mecanismo_B12_citocinas_cerebro",
+  "achado_central_molecular": "Citocinas como alvos centrais: impacto sobre neurotransmissores e neurocircuitos — ponte B1 (imunidade↔circuitos).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_MILLER_2013"
+  ],
+  "id_referencia_interna": "REF_MILLER_2013",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "25462901",
+  "titulo_artigo": "Effects of cortisol on cognition in major depressive disorder, posttraumatic stress disorder and borderline personality disorder - 2014 Curt Richter Award Winner.",
+  "autores": [
+   "Wingenfeld K",
+   "Wolf OT"
+  ],
+  "revista_ano": "Psychoneuroendocrinology (2015)",
+  "desenho_estudo": "[OB] revisão sistemática · Psychoneuroendocrinology",
+  "secao_origem": "mecanismo_B12_cortisol_cognicao",
+  "achado_central_molecular": "Efeitos do cortisol sobre cognição em TDM, TEPT e borderline — cortisol como modulador cognitivo transdiagnóstico.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_WINGENFELD_2015"
+  ],
+  "id_referencia_interna": "REF_WINGENFELD_2015",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Wingenfeld 2014 (chave insumo) → print 2015"
+  ]
+ },
+ {
+  "pmid_oficial": "27049575",
+  "titulo_artigo": "In search of the HPA axis activity in unipolar depression patients with childhood trauma: Combined cortisol awakening response and dexamethasone suppression test.",
+  "autores": [
+   "Lu S",
+   "Gao W",
+   "Huang M",
+   "Li L"
+  ],
+  "revista_ano": "J Psychiatr Res (2016)",
+  "desenho_estudo": "[EC] estudo clínico com provocação (DST/combinada) · J Psychiatr Res",
+  "secao_origem": "mecanismo_B12_hpa_trauma_heterogeneidade",
+  "achado_central_molecular": "Atividade do HPA em depressão unipolar com trauma infantil: resposta combinada — heterogeneidade, não hiperatividade universal (NEG #3).",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_LU_2016"
+  ],
+  "id_referencia_interna": "REF_LU_2016",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "30086534",
+  "titulo_artigo": "Childhood trauma dependent anxious depression sensitizes HPA axis function.",
+  "autores": [
+   "Menke A",
+   "Lehrieder D",
+   "Fietz J",
+   "Leistner C"
+  ],
+  "revista_ano": "Psychoneuroendocrinology (2018)",
+  "desenho_estudo": "[EC] estudo clínico com DST e genotipagem FKBP5 · Psychoneuroendocrinology",
+  "secao_origem": "mecanismo_B12_trauma_sensibiliza_hpa",
+  "achado_central_molecular": "Depressão ansiosa dependente de trauma infantil SENSIBILIZA a função do HPA — trauma como modulador, não causa única (144 pacientes).",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_MENKE_2018"
+  ],
+  "id_referencia_interna": "REF_MENKE_2018",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "31794798",
+  "titulo_artigo": "Childhood trauma, HPA axis activity and antidepressant response in patients with depression.",
+  "autores": [
+   "Nikkheslat N",
+   "McLaughlin AP",
+   "Hastings C",
+   "Zajkowska Z"
+  ],
+  "revista_ano": "Brain Behav Immun (2020)",
+  "desenho_estudo": "[EC] estudo clínico prospectivo · Brain Behav Immun",
+  "secao_origem": "mecanismo_B12_trauma_hpa_resposta_antidepressiva",
+  "achado_central_molecular": "Trauma infantil, atividade do HPA e resposta antidepressiva na depressão — trauma modula trajetória terapêutica (sinal, P20).",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_NIKKHESLAT_2020"
+  ],
+  "id_referencia_interna": "REF_NIKKHESLAT_2020",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "31801966",
+  "titulo_artigo": "Neuroplasticity in cognitive and psychological mechanisms of depression: an integrative model.",
+  "autores": [
+   "Price RB",
+   "Duman R"
+  ],
+  "revista_ano": "Mol Psychiatry (2020)",
+  "desenho_estudo": "[OB] revisão integrativa · Mol Psychiatry",
+  "secao_origem": "mecanismo_B12_neuroplasticidade_depressao",
+  "achado_central_molecular": "Neuroplasticidade nos mecanismos cognitivos e psicológicos da depressão: modelo integrativo — ponte B3 (não invasão).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_PRICE_2020"
+  ],
+  "id_referencia_interna": "REF_PRICE_2020",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "31900428",
+  "titulo_artigo": "Neurobiology of BDNF in fear memory, sensitivity to stress, and stress-related disorders.",
+  "autores": [
+   "Notaras M",
+   "van den Buuse M"
+  ],
+  "revista_ano": "Mol Psychiatry (2020)",
+  "desenho_estudo": "[ML] revisão pré-clínica · Mol Psychiatry",
+  "secao_origem": "mecanismo_B12_bdnf_medo",
+  "achado_central_molecular": "Neurobiologia do BDNF na memória de medo, sensibilidade ao estresse e transtornos relacionados — primariamente evidência animal.",
+  "extrapolacao_por_analogia": "SIM — revisão de evidência pré-clínica; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_NOTARAS_2020"
+  ],
+  "id_referencia_interna": "REF_NOTARAS_2020",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/modelo causal — redirecionado",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "31964160",
+  "titulo_artigo": "Identification of Common Neural Circuit Disruptions in Emotional Processing Across Psychiatric Disorders.",
+  "autores": [
+   "McTeague LM",
+   "Rosenberg BM",
+   "Lopez JW",
+   "Carreon DM"
+  ],
+  "revista_ano": "Am J Psychiatry (2020)",
+  "desenho_estudo": "[OB] meta-análise transdiagnóstica fMRI · Am J Psychiatry",
+  "secao_origem": "mecanismo_B12_circuitos_emocionais_comuns",
+  "achado_central_molecular": "Disrupções comuns de circuitos emocionais entre transtornos psiquiátricos — transdiagnóstico obrigatório (regra 7).",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_MCTEAGUE_2020"
+  ],
+  "id_referencia_interna": "REF_MCTEAGUE_2020",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "chave 'Mayer 2020' renomeada — 1º autor real McTeague"
+  ]
+ },
+ {
+  "pmid_oficial": "32085670",
+  "titulo_artigo": "The Relationships Between Stress, Mental Disorders, and Epigenetic Regulation of BDNF.",
+  "autores": [
+   "Miao Z",
+   "Wang Y",
+   "Sun Z"
+  ],
+  "revista_ano": "Int J Mol Sci (2020)",
+  "desenho_estudo": "[OB] revisão · Int J Mol Sci",
+  "secao_origem": "mecanismo_B12_epigenetica_bdnf",
+  "achado_central_molecular": "Estresse, transtornos mentais e regulação epigenética do BDNF — fronteira promissora, barra causal alta (regra 8).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_MIAO_2020"
+  ],
+  "id_referencia_interna": "REF_MIAO_2020",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "33053385",
+  "titulo_artigo": "Effects of childhood trauma experience and BDNF Val66Met polymorphism on brain plasticity relate to emotion regulation.",
+  "autores": [
+   "Tian T",
+   "Li J",
+   "Zhang G",
+   "Wang J"
+  ],
+  "revista_ano": "Behav Brain Res (2021)",
+  "desenho_estudo": "[EC] estudo experimental humano · Behav Brain Res",
+  "secao_origem": "mecanismo_B12_trauma_val66met_plasticidade",
+  "achado_central_molecular": "Trauma infantil × polimorfismo Val66Met sobre plasticidade cerebral — interação exposição×vulnerabilidade (não determinismo).",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_TIAN_2021"
+  ],
+  "id_referencia_interna": "REF_TIAN_2021",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "34100334",
+  "titulo_artigo": "Microglia and HPA axis in depression: An overview of participation and relationship.",
+  "autores": [
+   "Cheiran Pereira G",
+   "Piton E",
+   "Moreira Dos Santos B",
+   "Ramanzini LG"
+  ],
+  "revista_ano": "World J Biol Psychiatry (2022)",
+  "desenho_estudo": "[OB] revisão · World J Biol Psychiatry",
+  "secao_origem": "mecanismo_B12_microglia_hpa",
+  "achado_central_molecular": "Microglia e eixo HPA na depressão: participação e relação — ponte B1 (neuroimunidade).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_CHEIRAN_2022"
+  ],
+  "id_referencia_interna": "REF_CHEIRAN_2022",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "Pereira 2021 (chave insumo; Cheiran Pereira G = 1º autor; print 2022)"
+  ]
+ },
+ {
+  "pmid_oficial": "34963057",
+  "titulo_artigo": "BDNF signaling in context: From synaptic regulation to psychiatric disorders.",
+  "autores": [
+   "Wang CS",
+   "Kavalali ET",
+   "Monteggia LM"
+  ],
+  "revista_ano": "Cell (2022)",
+  "desenho_estudo": "[OB] revisão · Cell",
+  "secao_origem": "mecanismo_B12_sinalizacao_bdnf",
+  "achado_central_molecular": "Sinalização do BDNF em contexto: da regulação sináptica aos transtornos psiquiátricos — mecanismo como moldura.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_WANG_2022"
+  ],
+  "id_referencia_interna": "REF_WANG_2022",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "35354926",
+  "titulo_artigo": "Dysregulation of adult hippocampal neuroplasticity in major depression: pathogenesis and therapeutic implications.",
+  "autores": [
+   "Tartt AN",
+   "Mariani MB",
+   "Hen R",
+   "Mann JJ"
+  ],
+  "revista_ano": "Mol Psychiatry (2022)",
+  "desenho_estudo": "[OB] revisão · Mol Psychiatry",
+  "secao_origem": "mecanismo_B12_neuroplasticidade_hipocampal_tdm",
+  "achado_central_molecular": "Desregulação da neuroplasticidade hipocampal adulta na depressão maior: patogênese e potencial terapêutico — ponte B3/B16.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_TARTT_2022"
+  ],
+  "id_referencia_interna": "REF_TARTT_2022",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "35599780",
+  "titulo_artigo": "Childhood Trauma, the HPA Axis and Psychiatric Illnesses: A Targeted Literature Synthesis.",
+  "autores": [
+   "Murphy F",
+   "Nasa A",
+   "Cullinane D",
+   "Raajakesary K"
+  ],
+  "revista_ano": "Front Psychiatry (2022)",
+  "desenho_estudo": "[OB] síntese dirigida de literatura · Front Psychiatry",
+  "secao_origem": "mecanismo_B12_trauma_hpa_sintese",
+  "achado_central_molecular": "Síntese dirigida: trauma infantil, HPA e doença psiquiátrica — confirma associação com heterogeneidade.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_MURPHY_2022"
+  ],
+  "id_referencia_interna": "REF_MURPHY_2022",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "35872219",
+  "titulo_artigo": "Brain-derived neurotrophic factor expression in serotonergic neurons improves stress resilience and promotes adult hippocampal neurogenesis.",
+  "autores": [
+   "Leschik J",
+   "Gentile A",
+   "Cicek C",
+   "Péron S"
+  ],
+  "revista_ano": "Prog Neurobiol (2022)",
+  "desenho_estudo": "[ML] estudo pré-clínico (roedor) · Prog Neurobiol",
+  "secao_origem": "mecanismo_B12_bdnf_serotonina_resiliencia",
+  "achado_central_molecular": "Expressão de BDNF em neurônios serotoninérgicos melhora resiliência ao estresse — mecanismo animal (via 8).",
+  "extrapolacao_por_analogia": "SIM — evidência em roedor; tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_LESCHIK_2022"
+  ],
+  "id_referencia_interna": "REF_LESCHIK_2022",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/modelo causal — redirecionado",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "35992016",
+  "titulo_artigo": "A chicken and egg scenario in psychoneuroimmunology: Bidirectional mechanisms linking cytokines and depression.",
+  "autores": [
+   "Rengasamy M",
+   "Marsland A",
+   "Spada M",
+   "Hsiung K"
+  ],
+  "revista_ano": "J Affect Disord Rep (2021)",
+  "desenho_estudo": "[OB] revisão · J Affect Disord Rep",
+  "secao_origem": "mecanismo_B12_bidirecionalidade_imune",
+  "achado_central_molecular": "Cenário 'ovo e galinha' em psiconeuroimunologia: mecanismos bidirecionais citocinas↔cérebro (regra bidirecional).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_RENGASAMY_2021"
+  ],
+  "id_referencia_interna": "REF_RENGASAMY_2021",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "37781095",
+  "titulo_artigo": "Involvement of brain-derived neurotrophic factor signaling in the pathogenesis of stress-related brain diseases.",
+  "autores": [
+   "Numakawa T",
+   "Kajihara R"
+  ],
+  "revista_ano": "Front Mol Neurosci (2023)",
+  "desenho_estudo": "[OB] revisão · Front Mol Neurosci",
+  "secao_origem": "mecanismo_B12_bdnf_estresse",
+  "achado_central_molecular": "Papel da sinalização BDNF na patogênese de transtornos por estresse — síntese mecanística (ponte B3).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_NUMAKAWA_2023"
+  ],
+  "id_referencia_interna": "REF_NUMAKAWA_2023",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "40199321",
+  "titulo_artigo": "Inflammatory and anti-inflammatory cytokines bidirectionally modulate amygdala circuits regulating anxiety.",
+  "autores": [
+   "Lee B",
+   "Kwon JT",
+   "Jeong Y",
+   "Caris H"
+  ],
+  "revista_ano": "Cell (2025)",
+  "desenho_estudo": "[ML] estudo pré-clínico com registro de circuito · Cell",
+  "secao_origem": "mecanismo_B12_citocinas_neuromoduladores",
+  "achado_central_molecular": "Citocinas pró e anti-inflamatórias modulam bidirecionalmente circuitos amigdalaros da ansiedade — formulação específica (NEG #7), evidência experimental.",
+  "extrapolacao_por_analogia": "SIM — evidência em modelo animal (Cell); tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_LEE_2025"
+  ],
+  "id_referencia_interna": "REF_LEE_2025",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/modelo causal — redirecionado",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "41660208",
+  "titulo_artigo": "Multilayered regulation of BDNF DNA methylation in PTSD: a review from molecular mechanisms to trans generational inheritance.",
+  "autores": [
+   "Wang L",
+   "Lv B",
+   "Ma Z"
+  ],
+  "revista_ano": "Front Psychiatry (2026)",
+  "desenho_estudo": "[OB] revisão · Front Psychiatry",
+  "secao_origem": "mecanismo_B12_metilacao_bdnf_ptsd",
+  "achado_central_molecular": "Regulação multicamada da metilação do DNA do BDNF no TEPT: do mecanismo molecular à tradução — fronteira (regra 8).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_WANG_2026"
+  ],
+  "id_referencia_interna": "REF_WANG_2026",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "41922983",
+  "titulo_artigo": "Resting-State Functional Connectivity of the Amygdala and Hippocampus in PTSD: Results From the PGC-ENIGMA PTSD Working Group.",
+  "autores": [
+   "Hinojosa CA",
+   "Sun D",
+   "Russell C",
+   "Baird CL"
+  ],
+  "revista_ano": "Am J Psychiatry (2026)",
+  "desenho_estudo": "[EC] estudo de consórcio (ENIGMA-PGC) · Am J Psychiatry",
+  "secao_origem": "mecanismo_B12_repouso_ptsd_consortio",
+  "achado_central_molecular": "Conectividade de repouso amígdala–hipocampo no TEPT: resultados do maior consórcio (ENIGMA-PGC) — escala multi-sítio.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_HINOJOSA_2026"
+  ],
+  "id_referencia_interna": "REF_HINOJOSA_2026",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "38298789",
+  "titulo_artigo": "Structural Neuroimaging of Hippocampus and Amygdala Subregions in Posttraumatic Stress Disorder: A Scoping Review.",
+  "autores": [
+   "Ben-Zion Z",
+   "Korem N",
+   "Fine NB",
+   "Katz S"
+  ],
+  "revista_ano": "Biol Psychiatry Glob Open Sci (2024)",
+  "desenho_estudo": "[OB] revisão de escopo · Biol Psychiatry Glob Open Sci",
+  "secao_origem": "mecanismo_B12_subregioes_amigdala_hipocampo_ptsd",
+  "achado_central_molecular": "Neuroimagem estrutural de SUB-REGIÕES de hipocampo e amígdala no TEPT: revisão de escopo — especificidade subcampo.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_BENZION_2024"
+  ],
+  "id_referencia_interna": "REF_BENZION_2024",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "chave insumo 'Begni 2016' = Ben-Zion 2024 real; Begni real (BDNF genérico) fica BAIXO"
+  ]
+ },
+ {
+  "pmid_oficial": "36030316",
+  "titulo_artigo": "Sex-related differences in violence exposure, neural reactivity to threat, and mental health.",
+  "autores": [
+   "Dark HE",
+   "Harnett NG",
+   "Hurst DR",
+   "Wheelock MD"
+  ],
+  "revista_ano": "Neuropsychopharmacology (2022)",
+  "desenho_estudo": "[EC] estudo fMRI · Neuropsychopharmacology",
+  "secao_origem": "mecanismo_B12_sexo_violencia_reatividade",
+  "achado_central_molecular": "Diferenças de sexo na exposição à violência, reatividade neural à ameaça e saúde mental — sexo como modulador (lacuna §8.3).",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_DARK_2022"
+  ],
+  "id_referencia_interna": "REF_DARK_2022",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "33344725",
+  "titulo_artigo": "Increased methylation of NR3C1 and SLC6A4 is associated with blunted cortisol reactivity to stress in major depression.",
+  "autores": [
+   "Bakusic J",
+   "Vrieze E",
+   "Ghosh M",
+   "Bekaert B"
+  ],
+  "revista_ano": "Neurobiol Stress (2020)",
+  "desenho_estudo": "[EC] estudo clínico com metilação · Neurobiol Stress",
+  "secao_origem": "mecanismo_B12_metilacao_nr3c1_cortisol",
+  "achado_central_molecular": "Metilação aumentada de NR3C1 e SLC6A4 associa-se a reatividade de cortisol EMBOTADA na depressão — epigenética×HPA.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_BAKUSIC_2020"
+  ],
+  "id_referencia_interna": "REF_BAKUSIC_2020",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "29793048",
+  "titulo_artigo": "DNA methylation differences at the glucocorticoid receptor gene in depression are related to functional alterations in hypothalamic-pituitary-adrenal axis activity and to early life emotional abuse.",
+  "autores": [
+   "Farrell C",
+   "Doolin K",
+   "O' Leary N",
+   "Jairaj C"
+  ],
+  "revista_ano": "Psychiatry Res (2018)",
+  "desenho_estudo": "[EC] estudo clínico com metilação · Psychiatry Res",
+  "secao_origem": "mecanismo_B12_dnarn3c1_depressao_trauma",
+  "achado_central_molecular": "Diferenças de metilação no gene do receptor glicocorticoide na depressão relacionadas a trauma infantil — via 10.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_FARRELL_2018"
+  ],
+  "id_referencia_interna": "REF_FARRELL_2018",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "28680507",
+  "titulo_artigo": "BNDF methylation in mothers and newborns is associated with maternal exposure to war trauma.",
+  "autores": [
+   "Kertes DA",
+   "Bhatt SS",
+   "Kamin HS",
+   "Hughes DA"
+  ],
+  "revista_ano": "Clin Epigenetics (2017)",
+  "desenho_estudo": "[EC] estudo mãe-bebê (metilação) · Clin Epigenetics",
+  "secao_origem": "mecanismo_B12_intergeracional_guerra",
+  "achado_central_molecular": "Metilação do BDNF em mães e recém-nascidos associada à exposição materna a guerra — transmissão intergeracional (via 1.8).",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_KERTES_2017"
+  ],
+  "id_referencia_interna": "REF_KERTES_2017",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "18702710",
+  "titulo_artigo": "Polymorphisms in the FKBP5 gene region modulate recovery from psychosocial stress in healthy controls.",
+  "autores": [
+   "Ising M",
+   "Depping AM",
+   "Siebertz A",
+   "Lucae S"
+  ],
+  "revista_ano": "Eur J Neurosci (2008)",
+  "desenho_estudo": "[EC] estudo experimental humano (TSST) · Eur J Neurosci",
+  "secao_origem": "mecanismo_B12_fkbp5_recuperacao",
+  "achado_central_molecular": "Polimorfismos de FKBP5 modulam a RECUPERAÇÃO do estresse psicossocial agudo em saudáveis — interface (regra 4), não causa.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_ISING_2008"
+  ],
+  "id_referencia_interna": "REF_ISING_2008",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "38199409",
+  "titulo_artigo": "Blood mRNA expression levels of glucocorticoid receptors and FKBP5 are associated with depressive disorder and altered HPA axis.",
+  "autores": [
+   "Hori H",
+   "Yoshida F",
+   "Ishida I",
+   "Matsuo J"
+  ],
+  "revista_ano": "J Affect Disord (2024)",
+  "desenho_estudo": "[EC] estudo clínico · J Affect Disord",
+  "secao_origem": "mecanismo_B12_mrna_gr_fkbp5",
+  "achado_central_molecular": "Expressão periférica de mRNA de receptores glicocorticoides e FKBP5 associada a depressão/ansiedade — marcador periférico.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_HORI_2024"
+  ],
+  "id_referencia_interna": "REF_HORI_2024",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "28589964",
+  "titulo_artigo": "HPA Axis Genes, and Their Interaction with Childhood Maltreatment, are Related to Cortisol Levels and Stress-Related Phenotypes.",
+  "autores": [
+   "Gerritsen L",
+   "Milaneschi Y",
+   "Vinkers CH",
+   "van Hemert AM"
+  ],
+  "revista_ano": "Neuropsychopharmacology (2017)",
+  "desenho_estudo": "[EC] estudo clínico G×E · Neuropsychopharmacology",
+  "secao_origem": "mecanismo_B12_hpa_genes_maus_tratos",
+  "achado_central_molecular": "Genes do eixo HPA e sua interação com maus-tratos infantis relacionam-se ao cortisol — G×E no eixo (via 3).",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_GERRITSEN_2017"
+  ],
+  "id_referencia_interna": "REF_GERRITSEN_2017",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "30472466",
+  "titulo_artigo": "Long-term glucocorticoid levels measured in hair in patients with depressive and anxiety disorders.",
+  "autores": [
+   "Gerritsen L",
+   "Staufenbiel SM",
+   "Penninx BWJH",
+   "van Hemert AM"
+  ],
+  "revista_ano": "Psychoneuroendocrinology (2019)",
+  "desenho_estudo": "[EC] estudo clínico longitudinal · Psychoneuroendocrinology",
+  "secao_origem": "mecanismo_B12_cortisol_cabelo",
+  "achado_central_molecular": "Níveis glicocorticoides de longo prazo medidos em cabelo em depressão/ansiedade — marcador crônico, não diagnóstico.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_GERRITSEN_2019"
+  ],
+  "id_referencia_interna": "REF_GERRITSEN_2019",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "36697477",
+  "titulo_artigo": "Cumulative trauma predicts hair cortisol concentrations and symptoms of depression and anxiety in pregnant women-an investigation of community samples from Greece, Spain and Perú.",
+  "autores": [
+   "Dobernecker J",
+   "Spyridou A",
+   "Elbert T",
+   "Schauer M"
+  ],
+  "revista_ano": "Sci Rep (2023)",
+  "desenho_estudo": "[EC] estudo clínico · Sci Rep",
+  "secao_origem": "mecanismo_B12_trauma_cumulativo_cabelo",
+  "achado_central_molecular": "Trauma CUMULATIVO prediz cortisol em cabelo e sintomas depressivos/ansiosos — dose de exposição como dado.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_DOBERNECKER_2023"
+  ],
+  "id_referencia_interna": "REF_DOBERNECKER_2023",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "30513499",
+  "titulo_artigo": "Associations between symptoms of depression and anxiety and cortisol responses to and recovery from acute stress.",
+  "autores": [
+   "Fiksdal A",
+   "Hanlin L",
+   "Kuras Y",
+   "Gianferante D"
+  ],
+  "revista_ano": "Psychoneuroendocrinology (2019)",
+  "desenho_estudo": "[OB] revisão sistemática · Psychoneuroendocrinology",
+  "secao_origem": "mecanismo_B12_sintomas_cortisol_resposta",
+  "achado_central_molecular": "Sintomas de depressão e ansiedade × respostas de cortisol e recuperação ao estresse agudo — revisão sistemática.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_FIKSDAL_2019"
+  ],
+  "id_referencia_interna": "REF_FIKSDAL_2019",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "30585227",
+  "titulo_artigo": "Hsp90 Heterocomplexes Regulate Steroid Hormone Receptors: From Stress Response to Psychiatric Disease.",
+  "autores": [
+   "Baker JD",
+   "Ozsan I",
+   "Rodriguez Ospina S",
+   "Gulick D"
+  ],
+  "revista_ano": "Int J Mol Sci (2018)",
+  "desenho_estudo": "[OB] revisão molecular · Int J Mol Sci",
+  "secao_origem": "mecanismo_B12_hsp90_gr",
+  "achado_central_molecular": "Heterocomplexos Hsp90 regulam receptores de hormônios esteroides: da resposta ao estresse à doença psiquiátrica — maquinaria da via 3.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_BAKER_2018"
+  ],
+  "id_referencia_interna": "REF_BAKER_2018",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "22836869",
+  "titulo_artigo": "Role of mineralocorticoid receptors on the hypothalamus-pituitary-adrenal axis in humans.",
+  "autores": [
+   "Berardelli R",
+   "Karamouzis I",
+   "D'Angelo V",
+   "Zichi C"
+  ],
+  "revista_ano": "Endocrine (2013)",
+  "desenho_estudo": "[OB] revisão · Endocrine",
+  "secao_origem": "mecanismo_B12_mr_hpa_humanos",
+  "achado_central_molecular": "Papel dos receptores MINERALOCORTICOIDES no eixo HPA em humanos — braço MR da interface GR/MR.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_BERARDELLI_2013"
+  ],
+  "id_referencia_interna": "REF_BERARDELLI_2013",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "26970338",
+  "titulo_artigo": "Stress and Depression: a Crucial Role of the Mineralocorticoid Receptor.",
+  "autores": [
+   "de Kloet ER",
+   "Otte C",
+   "Kumsta R",
+   "Kok L"
+  ],
+  "revista_ano": "J Neuroendocrinol (2016)",
+  "desenho_estudo": "[OB] revisão · J Neuroendocrinol",
+  "secao_origem": "mecanismo_B12_mr_estresse_depressao",
+  "achado_central_molecular": "Estresse e depressão: papel crucial do receptor mineralocorticoide — revisão conceitual (de Kloet).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_DEKLOET_2016"
+  ],
+  "id_referencia_interna": "REF_DEKLOET_2016",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "25459896",
+  "titulo_artigo": "The brain mineralocorticoid receptor and stress resilience.",
+  "autores": [
+   "ter Heegde F",
+   "De Rijk RH",
+   "Vinkers CH"
+  ],
+  "revista_ano": "Psychoneuroendocrinology (2015)",
+  "desenho_estudo": "[OB] revisão · Psychoneuroendocrinology",
+  "secao_origem": "mecanismo_B12_mr_resiliencia",
+  "achado_central_molecular": "O receptor mineralocorticoide cerebral e a RESILIÊNCIA ao estresse — MR como nó de resiliência (BLOCO 2.5).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_TERHEEGDE_2015"
+  ],
+  "id_referencia_interna": "REF_TERHEEGDE_2015",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": [
+   "chave insumo 'Teo 2023' = ter Heegde 2015 real"
+  ]
+ },
+ {
+  "pmid_oficial": "25564387",
+  "titulo_artigo": "Early life stress in depressive patients: role of glucocorticoid and mineralocorticoid receptors and of hypothalamic-pituitary-adrenal axis activity.",
+  "autores": [
+   "Juruena MF",
+   "Werne Baes CV",
+   "Menezes IC",
+   "Graeff FG"
+  ],
+  "revista_ano": "Curr Pharm Des (2015)",
+  "desenho_estudo": "[OB] revisão · Curr Pharm Des",
+  "secao_origem": "mecanismo_B12_els_gr_mr_depressao",
+  "achado_central_molecular": "Estresse precoce em pacientes depressivos: papel de receptores glicocorticoides e mineralocorticoides — GR/MR×ELS.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_JURUENA_2015"
+  ],
+  "id_referencia_interna": "REF_JURUENA_2015",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "37077711",
+  "titulo_artigo": "Targeting the Arginine Vasopressin V(1b) Receptor System and Stress Response in Depression and Other Neuropsychiatric Disorders.",
+  "autores": [
+   "Kanes SJ",
+   "Dennie L",
+   "Perera P"
+  ],
+  "revista_ano": "Neuropsychiatr Dis Treat (2023)",
+  "desenho_estudo": "[OB] revisão · Neuropsychiatr Dis Treat",
+  "secao_origem": "mecanismo_B12_avp_v1b",
+  "achado_central_molecular": "Sistema do receptor V1b da arginina-vasopressina e resposta ao estresse na depressão — neuropeptídeo da via 1.5.",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_KANES_2023"
+  ],
+  "id_referencia_interna": "REF_KANES_2023",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "31327473",
+  "titulo_artigo": "Role of Mesolimbic Brain-Derived Neurotrophic Factor in Depression.",
+  "autores": [
+   "Koo JW",
+   "Chaudhury D",
+   "Han MH",
+   "Nestler EJ"
+  ],
+  "revista_ano": "Biol Psychiatry (2019)",
+  "desenho_estudo": "[ML] revisão pré-clínica · Biol Psychiatry",
+  "secao_origem": "mecanismo_B12_bdnf_mesolimbico",
+  "achado_central_molecular": "BDNF mesolímbico (VTA–NAcc) na depressão — braço recompensa/anedonia em modelo animal.",
+  "extrapolacao_por_analogia": "SIM — revisão de evidência pré-clínica (roedor); tradução humana por analogia",
+  "ids_referencia_interna": [
+   "REF_KOO_2019"
+  ],
+  "id_referencia_interna": "REF_KOO_2019",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "preclinical_mechanistic",
+  "especie_mesh": [
+   "Animals"
+  ],
+  "verification_status": "preclinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "redirecionado_mecanistico",
+  "g2_motivo": "animal/modelo causal — redirecionado",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "34205191",
+  "titulo_artigo": "Is PTSD-Phenotype Associated with HPA-Axis Sensitivity? Feedback Inhibition and Other Modulating Factors of Glucocorticoid Signaling Dynamics.",
+  "autores": [
+   "Danan D",
+   "Todder D",
+   "Zohar J",
+   "Cohen H"
+  ],
+  "revista_ano": "Int J Mol Sci (2021)",
+  "desenho_estudo": "[OB] revisão crítica · Int J Mol Sci",
+  "secao_origem": "mecanismo_B12_ptsd_hpa_feedback",
+  "achado_central_molecular": "O fenótipo TEPT associa-se a SENSIBILIDADE do HPA? Feedback e outros modelos — posição cética canônica (NEG #3).",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_DANAN_2021"
+  ],
+  "id_referencia_interna": "REF_DANAN_2021",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "30342071",
+  "titulo_artigo": "The hypothalamic-pituitary-adrenal axis in PTSD: Pathophysiology and treatment interventions.",
+  "autores": [
+   "Dunlop BW",
+   "Wong A"
+  ],
+  "revista_ano": "Prog Neuropsychopharmacol Biol Psychiatry (2019)",
+  "desenho_estudo": "[OB] revisão · Prog Neuropsychopharmacol Biol Psychiatry",
+  "secao_origem": "mecanismo_B12_hpa_ptsd_fisiopatologia",
+  "achado_central_molecular": "O eixo HPA no TEPT: fisiopatologia (recorte mecanístico; a parte de intervenção NÃO é usada nesta biblioteca, P20).",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_DUNLOP_2019"
+  ],
+  "id_referencia_interna": "REF_DUNLOP_2019",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "34071053",
+  "titulo_artigo": "The Role of HPA Axis and Allopregnanolone on the Neurobiology of Major Depressive Disorders and PTSD.",
+  "autores": [
+   "Almeida FB",
+   "Pinna G",
+   "Barros HMT"
+  ],
+  "revista_ano": "Int J Mol Sci (2021)",
+  "desenho_estudo": "[OB] revisão · Int J Mol Sci",
+  "secao_origem": "mecanismo_B12_hpa_alopregnanolona",
+  "achado_central_molecular": "Eixo HPA e ALOPREGNANOLONA na neurobiologia da depressão maior e do TEPT — ponte canônica B14 (neuroesteroides).",
+  "extrapolacao_por_analogia": "parcial — revisão mistura espécies/evidência translacional",
+  "ids_referencia_interna": [
+   "REF_ALMEIDA_2021"
+  ],
+  "id_referencia_interna": "REF_ALMEIDA_2021",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "review",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ },
+ {
+  "pmid_oficial": "36115855",
+  "titulo_artigo": "Evaluation of brain structure and metabolism in currently depressed adults with a history of childhood trauma.",
+  "autores": [
+   "Jones JS",
+   "Goldstein SJ",
+   "Wang J",
+   "Gardus J"
+  ],
+  "revista_ano": "Transl Psychiatry (2022)",
+  "desenho_estudo": "[EC] estudo MRI+PET · Transl Psychiatry",
+  "secao_origem": "mecanismo_B12_metabolismo_trauma_depressao",
+  "achado_central_molecular": "Estrutura e METABOLISMO cerebral em deprimidos com história de trauma infantil — janela metabólica do fenótipo.",
+  "extrapolacao_por_analogia": "não — evidência humana clínica/observacional",
+  "ids_referencia_interna": [
+   "REF_JONES_2022"
+  ],
+  "id_referencia_interna": "REF_JONES_2022",
+  "doi": "",
+  "claim_id_origem": "B12.MEC.BLOCO14.001",
+  "evid_role": "human_clinical",
+  "especie_mesh": [
+   "Humans"
+  ],
+  "verification_status": "humano_clinico",
+  "citacao_confirmada": true,
+  "g1_metodo": "eutils_automatico",
+  "g2_elegibilidade": "eligible",
+  "g2_motivo": "humano clínico/síntese — elegível",
+  "g3_verificado_por": "IA G3 Rodada [AT] GPM B12 2026-09-09 (insumo externo auditado ref a ref; P-7) — P-6 pendente",
+  "status_auditoria": "CONFIRMADO",
+  "origem_pipeline": "GPM_RODADA_AT",
+  "_aliases": []
+ }
+]

@@ -1,0 +1,37 @@
+{
+  "data": "2026-09-13",
+  "condicao": "família-Hafizi AUD-038/V-05 — ano do ID vindo do NOME NLM do periódico (Rev. bras. psiquiatr. (Sao Paulo, Brazil : 1999)); publicação real 2010",
+  "verificacao_eutils": "2026-09-13 esummary PMID 20512266: pubdate '2010 May', sem epubdate; citação padrão PubMed = 2010",
+  "convencao": "ano do ID = pubdate NLM (ano de publicação), nunca o ano do nome do periódico",
+  "ops": [
+    {
+      "arquivo": "Evidencias/Bibliografia/01_pmids.json",
+      "substituicoes": 2,
+      "detalhe": "id_referencia_interna + campo-lista ids_referencia_interna[0] + nota datada"
+    },
+    {
+      "arquivo": "Evidencias/Vinculos/vinculos_referencia_afirmacao.json",
+      "substituicoes": 43,
+      "detalhe": "id do vínculo + 42 âncoras da listra-índice + nota datada no vínculo"
+    },
+    {
+      "arquivo": "Auditoria_B13/ledger_auditoria_B13.json",
+      "substituicoes": 43,
+      "detalhe": "id no ledger + 42 âncoras/tokens + nota datada"
+    },
+    {
+      "arquivo": "B13 SISTEMA ENDOCANABINOIDE V2 CANONICA.md",
+      "substituicoes": 1,
+      "detalhe": "token SAITO_1999[OB]→SAITO_2010[OB] na listra-índice §932; 0 linhas de prosa",
+      "sha_novo": "f01c9795f1a3799f75101fd9080c881a02978cde3f719ea209a33183266f5176"
+    },
+    {
+      "arquivo": "Evidencias/Bibliografia/_manifesto_biblioteca.json",
+      "substituicoes": 0,
+      "detalhe": "entrada datada em alteracoes"
+    }
+  ],
+  "backups": "*.bak_saito_2026-09-13 (5 arquivos)",
+  "assert_final": "nenhuma ocorrência estrutural viva de SAITO_1999 (notas datadas documentam o rename); âncoras não-literais: 0",
+  "escopo": "caso NOMINAL único da varredura B1–B16 (2.689 fichas); divergências epub×print (B09×2, B14×1) viram dívida de convenção nomeada — ver decisoes/CHANGELOG"
+}

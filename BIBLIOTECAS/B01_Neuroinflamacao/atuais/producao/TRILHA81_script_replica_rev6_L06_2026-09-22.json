@@ -1,0 +1,71 @@
+{
+  "trilha": 81,
+  "rodada": 68,
+  "data": "2026-09-22",
+  "verde": 10,
+  "total": 10,
+  "checks": [
+    {
+      "check": "T1_IDENTIDADE_REV6",
+      "status": "VERDE",
+      "nota": "rev.6 = 98e90bdc… · 26.830 b esperados, 26830 medidos · LF, sem BOM, termina com \\n · série ≡ uploads (arquivada no ato com DIGITAIS)"
+    },
+    {
+      "check": "T2_DIFF_CONFINADO",
+      "status": "VERDE",
+      "nota": "diff rev.5×rev.6: 7 linhas tocadas (todas nas 4 zonas editoriais: subtítulo · nota rev.6 · nota rev.4 estendida · parágrafo dos órfãos); fora delas: NENHUMA — preservação normativa de ponta a ponta (§0 e §1 inclusos)"
+    },
+    {
+      "check": "T3_RECORTE_5_6_IGUAL",
+      "status": "VERDE",
+      "nota": "recorte \"## 2. A ESCADA\"→\"## CRÉDITOS\" idêntico (185 linhas) — logo rev.6-com-nota ≡ rev.5-com-nota (`c863b8ed…` herdado, trilha 77)"
+    },
+    {
+      "check": "T4_COMANDO_MESTRE_EXATO",
+      "status": "VERDE",
+      "nota": "neutralizar TODA nota itálica + \\n final (serialização resolvida) → rev.6 e rev.1(≡original no recorte): 95c7cb410f369410661b51a7a8652520f49e0cf970267b8da3be75288b37fa74 · prefixo 95c7cb41… CONFERE byte a byte — teste 1 do comentador fecha EXATO; bateria de variantes (12): só com \\n final (CRLF/NFD/sem-CRÉDITOS-excl não dão)"
+    },
+    {
+      "check": "T5_PROCEDIMENTO_CASA_DE_PE",
+      "status": "VERDE",
+      "nota": "neutralizar só o crédito do §6.3 + \\n final → ambos os lados 4217cc635ee12842ad32c3520cda8f61adbef4e7765cdbcecb85065bac4971d0 — digital canônica da casa reconfirmada na rev.6; dois procedimentos, uma propriedade"
+    },
+    {
+      "check": "T6_AJUSTE_I_RODAPE",
+      "status": "VERDE",
+      "nota": "nota rev.4 estendida verbatim: \"…o hash `f8ec8b72…`… é uma **verificação intermediária** (rev.4, recorte ainda não ancorado por linha), substituída pela verificação corrigida; a réplica mecânica da casa registrou a digital de igualdade `4217cc63…`… e o Mestre confirmou `95c7cb41…`… — três procedimentos, uma mesma propriedade\" — pedido do comentador atendido"
+    },
+    {
+      "check": "T7_AJUSTE_II_RAIZ_ORFAO",
+      "status": "VERDE",
+      "nota": "parágrafo dos órfãos agora declara a raiz do anti-substituição (minuta 1, linha 79) e recontextualiza a medida antiga. Trecho final: …'de dado vira afirmação de coexistência\"*). Registro de método (R-BUSCA-1): a medição anterior \"0× na minuta 1\" era verdadeira apenas no nível da **forma exata** (a frase-regra encorpada não está lá); no nível do **conceito**, as duas ideias estão na minuta 1, como a casa confirmou na adenda 2 depois que a busca por \"atribui\" falhou no acento de \"atribuídos\".'"
+    },
+    {
+      "check": "T8_63_INTACTO",
+      "status": "VERDE",
+      "nota": "linha §6.3 (regra + crédito Conceito: minuta 1 §4 · Redação: Comentador) byte-idêntica — o toque foi NA VIZINHANÇA (créditos/rodapé), não na norma"
+    },
+    {
+      "check": "T9_ANCORAS_244_MATRIZ",
+      "status": "VERDE",
+      "nota": "âncoras duras idênticas em rev.5 e rev.6 (244/41 · T-23 · proibição de claim_id-proxy)  — os números executivos seguem onde estavam"
+    },
+    {
+      "check": "T10_TRIANGULO",
+      "status": "VERDE",
+      "nota": "comentador: \"REV.6 — SEM RESSALVA DO COMENTADOR\" · mestre: P1 sem ressalva + comando P2 publicado + rev.6 emitida agora · casa: esta trilha. Aprovação final = fala do operador (rito de 22/09)"
+    }
+  ],
+  "resumo": "TRILHA 81: 10/10 — RÉPLICA rev.6: identidade ok · diff confinado às 3 zonas editoriais declaradas (inclui §0/§1 intactos) · recorte §2–§13 invariante · comando do mestre REPRODUZIDO (95c7cb41…) e procedimento da casa de pé (4217cc63…) · 2 ajustes presentes verbatim · §6.3 intacto · 244/41/T-23 ÂNCORAS iguais · triângulo sem ressalva nos 3 lados. Verdito da casa: SEM RESSALVA — L-06 (rev.6, 98e90bdc…) apta à frase de aprovação do operador.",
+  "digitais": {
+    "rev6": "98e90bdc755162b28fd16817d65692cebe81f939c466ef1d29c7a0a1124f2b41",
+    "parecer_mestre": "72fe01f3d7e49257673d02e774e3f0eb00fb1620531c06e1d41822045a50bdf4",
+    "parecer_comentador": "b651bd8cfd454c4b852d1081123316b1bc59236dc1c3eb5a383154a663ff8b55",
+    "neutralizado_mestre_rev6": "95c7cb410f369410661b51a7a8652520f49e0cf970267b8da3be75288b37fa74",
+    "neutralizado_casa_rev6": "4217cc635ee12842ad32c3520cda8f61adbef4e7765cdbcecb85065bac4971d0"
+  },
+  "corpus": {
+    "rev5_serie": "601c1f18d074e6e4488dd8a6ee3364345e51713f7d0277cd1637add838a79608",
+    "rev1_serie": "2ce9698c5a163cc16f766c34197d3887bb4cf0093ad0ed38108c96ecb1e46d00"
+  }
+}

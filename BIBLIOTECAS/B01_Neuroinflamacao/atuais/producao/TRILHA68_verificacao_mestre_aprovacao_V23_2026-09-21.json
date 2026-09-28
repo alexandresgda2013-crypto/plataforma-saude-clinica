@@ -1,0 +1,85 @@
+{
+  "trilha": 68,
+  "data": "2026-09-21",
+  "rodada": 53,
+  "titulo": "Replica da verificacao tecnica do mestre (A.1-A.6, O-1..O-3) · APROVACAO V2.3+schemas gravada · pacote-espelho refeito sob regra de rotulos",
+  "veredito": "TUDO do mestre CONFERE nas replicas duras (shas/bytes · draft-07 · $id==ponteiros · 0 $ref · uso required x fora do §5.2 · direcao_suporte so em ancoras[] · origem_conhecimento 0 nos 4 artefatos · descriptions pre-selo). A.6 RESOLVIDA pelo operador na mesma frase (selo junto). O-2 e O-1 registradas para proxima revisao; O-3 vira divida nomeada D-JSONM-ORIGEM-CONHECIMENTO. Vigencia V2.3 gravada no ponteiro (historico intacto). Pacote limpo (regra nova de rotulos).",
+  "checks": [
+    {
+      "check": "C01 ciencia trio intacto (inicio)",
+      "ok": true,
+      "detalhe": {
+        "V7": "6e2c29797e63",
+        "manifesto": "79d1309a1689",
+        "vinculos": "490675e63122"
+      }
+    },
+    {
+      "check": "C02 verbatim do mestre arquivado: sha 42ddd558... · serie == upload · DIGITAIS da pasta",
+      "ok": true,
+      "detalhe": "sha=42ddd558b79621c3ae3f9194c1836521604060b583bd863e05f0d36daf2e69ba bytes=8733"
+    },
+    {
+      "check": "C03 replica A.1: shas+bytes exatos (b06660fd 9.582 · d96ad15b 12.840) · Draft7Validator.check_schema OK nos 2 (mesma biblioteca dele)",
+      "ok": true,
+      "detalhe": "d07=True"
+    },
+    {
+      "check": "C04 replica A.2: $id N1/N2 == ponteiros ativos §5.1/§5.2 da V2.3 (caractere a caractere)",
+      "ok": true,
+      "detalhe": "$ids={N1:L05/schema_referencia_v1.3.json, N2:L05/schema_vinculo_v1.4.json}"
+    },
+    {
+      "check": "C05 replica A.4: 0 '$ref' nos dois schemas -> 0 referencias externas (sem acoplamento de versao)",
+      "ok": true,
+      "detalhe": "nenhum '$ref' em N1+N2"
+    },
+    {
+      "check": "C06 replica O-2: 'uso' consta em required do N2 e NAO consta no §5.2 da V2.3 (observacao verdadeira; vai p/ proxima revisao)",
+      "ok": true,
+      "detalhe": "required_N2=['id_vinculo', 'id_referencia_interna', 'trecho_ancora', 'status_auditoria', 'verification_status', 'trilha', 'uso', 'ancoras', 'ancora_principal']"
+    },
+    {
+      "check": "C07 replica precisao NOVA: direcao_suporte existe APENAS sob ancoras[] (raiz do vinculo nao tem) — degrau 5 da L-06 deve ler ancoras[].direcao_suporte",
+      "ok": true,
+      "detalhe": "ancoras.keys=['condicao', 'direcao_suporte', 'escopo', 'id_oficial', 'nota', 'papel']"
+    },
+    {
+      "check": "C08 replica O-3: origem_conhecimento = 0x nos 4 artefatos (2 schemas + spec + LEIAME) e 3x na V2.3 -> dependencia futura registrada (D-JSONM-ORIGEM-CONHECIMENTO: schema dos JSONs Modulares tera de carregar o campo)",
+      "ok": true,
+      "detalhe": "nos4=[0, 0, 0, 0] naV23=3"
+    },
+    {
+      "check": "C09 replica A.6: descriptions dos JSONs dizem 'PROPOSTA ... nao normativo' (pre-selo confirmado nos bytes) -> selo do operador cobre a ordem; rotulos internos saem no ciclo editorial v1.5 (registrado no DIGITAIS do pacote)",
+      "ok": true,
+      "detalhe": "residuo declarado por escrito no pacote"
+    },
+    {
+      "check": "C10 APROVACAO gravada no ponteiro: cabeca contem sha da V2.3 + 2 shas de schemas + frase verbatim do operador · V2.3 promovida na serie raiz == 498e7df9... · historico V2.2 preservado (regua: nomes da serie nao se renomeiam — 17 scripts os citam)",
+      "ok": true,
+      "detalhe": "D-V22-SCHEMA-NOMES fechada com a vigencia da V2.3 · ponteiro = fonte de verdade do estado temporal"
+    },
+    {
+      "check": "C11 manifesto 2026-09-21 (espelho pos-selo): 12 digitais x 12 arquivos conferem (7 schemas via LIN + 5 md; a spec v1.4 medida no nome limpo da distribuicao)",
+      "ok": true,
+      "detalhe": "declarados=12 falhos=[] manifesto_sha=3b3324268360"
+    },
+    {
+      "check": "C12 pacote refeito sob a regra nova de rotulos: nomes limpos (0 CANDIDATA/PROPOSTA/CORRENTE) · conteudo ≡ fontes oficiais · zip re-extraido ≡ · pasta de 20/09 marcada SUPERSEDED",
+      "ok": true,
+      "detalhe": "zip=948dbb35ed635a0236a593d91061c805384963fbaaa611fdd83a565087f4487d nomes=['ARQUITETURA CONSOLIDADA DA PLATAFORMA V2.3 - 19.09.26.md', 'DIGITAIS_2026-09-21.txt', 'L05_SCHEMA_EVIDENCIA_E_VINCULO_v1.4__ESPECIFICACAO.md', 'MANIFESTO_LINHAGEM_2026-09-21.txt', 'schema_referencia_v1.3.json', 'schema_vinculo_v1.4.json']"
+    },
+    {
+      "check": "C13 ciencia trio intacto (fim)",
+      "ok": true,
+      "detalhe": {
+        "V7": "6e2c29797e63",
+        "manifesto": "79d1309a1689",
+        "vinculos": "490675e63122"
+      }
+    }
+  ],
+  "ok": 13,
+  "total": 13,
+  "confissoes": []
+}
