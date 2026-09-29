@@ -1,18 +1,4 @@
-# COMO EXECUTAR — v1.11 rev.2 — VIGENTE
-# ---------------------------------------------------------------------------
-# ERRATA DE ETIQUETA — 2026-09-29 (decisão do operador · registrada via Arena)
-# A linha de título dizia "(MINUTA rev.2 — não vigente)": ficou da época em que
-# o documento ainda era minuta. A vigência do v1.11 rev.2 foi declarada em ato
-# próprio de 25/09/2026 (bilhete COMO_EXECUTAR_V111_VIGENTE.txt, com a frase do
-# operador) — o que não havia sido trocada era a etiqueta.
-# Esta correção é de ETIQUETA e PROCEDÊNCIA: 0 (zero) mudança de conteúdo —
-# nenhuma regra, critério, portão, parada ou vocabulário foi tocado.
-# Texto aprovado em 25/09 = digital 2efc0edd, preservado byte a byte em
-#   "COMO_EXECUTAR_v1.11rev2_ASSINADA_2efc0edd_2026-09-29.bak"
-#   (nome sem acentos, só para exibir corretamente nas telas do projeto).
-# As referências a v1.10 no corpo são marcas de ORIGEM das regras (histórico)
-# e estão corretas — preservadas de propósito.
-# ---------------------------------------------------------------------------
+# COMO EXECUTAR — v1.11 (MINUTA rev.2 — não vigente)
 # Correção vs. v1.10 (E-04 do ensaio pré-piloto .014 — 25/09)
 # consolidada pelo Comentador (25/09):
 #   - DUAS paradas operacionais: após LISTA G2 (fim da Rodada 1)
