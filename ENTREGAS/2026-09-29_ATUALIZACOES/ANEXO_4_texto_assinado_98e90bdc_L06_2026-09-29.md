@@ -1,7 +1,5 @@
 # L-06 — PROTOCOLO DE RESOLUÇÃO DE RELAÇÕES CONCORRENTES
-## Minuta 3 · consolidada · rev.6 — **VIGENTE (em espera de produção)**
-
-**Status (nota de etiqueta — 2026-09-29, decisão do operador):** documento **VIGENTE** desde 22/09/2026, por aprovação verbatim do operador (frase registrada no bilhete `L06_VIGENTE.txt`); "em espera de produção" porque a L-06 não roda sozinha — depende da migração dos vínculos ao N2 v1.4 e das dívidas declaradas que o próprio texto carrega. Esta linha é **acréscimo de etiqueta**: 0 (zero) mudança no texto normativo (§2–§13 intactos). A versão aprovada em 22/09 (digital `98e90bdc`) está preservada byte a byte em `L06_RESOLUCAO_CONFLITOS_minuta3_consolidada_rev6_ASSINADO_98e90bdc_2026-09-29.bak`, ao lado deste arquivo.
+## Minuta 3 · consolidada · rev.6
 
 *rev.1 (2026-09-21): ajuste de proveniência após o operador confirmar o texto enviado à Arena.*
 *rev.2 (2026-09-21): três emendas de crédito da ATA_PROVENIENCIA.*

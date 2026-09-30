@@ -1,25 +1,8 @@
-# CONTRATO DE SAÍDA DO CLAIM KIT
-# ---------------------------------------------------------------------------
-# ERRATA DE ETIQUETA — 2026-09-29 (decisão do operador · registrada via Arena)
-# O título dizia "MINUTA FINAL" e o campo Status dizia "não vigente até dupla
-# subscrição sem ressalva": era o estado na data da redação (24/09), antes das
-# subscrições dos dois territoriais. A vigência foi declarada em ato próprio de
-# 24/09/2026 (bilhete CONTRATO_SAIDA_CLAIMKIT_VIGENTE.txt, com a frase do
-# operador) — o que não havia sido trocado era o título e o status.
-# Correção de ETIQUETA e PROCEDÊNCIA: 0 (zero) mudança de conteúdo — nenhum
-# eixo, campo, trava ou regra foi tocado. O parágrafo original de status foi
-# preservado e marcado como "(na redação)". As passagens do corpo que falam em
-# "esta minuta" pertencem ao relato do rito de subscrição (histórico) e foram
-# preservadas de propósito.
-# Texto aprovado em 24/09 = digital 841532da, preservado byte a byte em
-#   "CONTRATO_SAIDA_CLAIMKIT_rev2_ASSINADO_841532da_2026-09-29.bak".
-# ---------------------------------------------------------------------------
+# MINUTA FINAL — CONTRATO DE SAÍDA DO CLAIM KIT
 ## Claim Clínico Aprovado → materialização N1/N2 (D1 + R-1 + R-2 integrados)
 
 **Data:** 2026-09-24 · **Origem:** Arena Casa (redação da Rota A do Comentador)  
-**Status (atualizado em 2026-09-29):** **VIGENTE — rev.2** · aprovado pelo operador em 24/09/2026 (frase de vigência no bilhete `CONTRATO_SAIDA_CLAIMKIT_VIGENTE.txt`) · digital do texto aprovado: `841532da…` (preservado byte a byte; ver nota de errata no topo).  
-*Nota histórica — o parágrafo abaixo descreve o estado na data da redação (24/09/2026), antes das subscrições, e foi preservado sem alteração:*  
-**Status (na redação):** MINUTA **rev.2** (2026-09-24) — §4.3 convertido em P-K6 após medição do Estrutura (TRILHA93) · **P-K6 ratificado pelo Comentador** (mesmo dia) com precisão de granularidade por claim (§6 da resposta); sem novo ajuste conceitual. Rascunho final **antes** da circularização aos auditores (rev.2 nunca havia saído às janelas). Para **última subscrição** dos dois territoriais — **não vigente** até dupla subscrição sem ressalva. A rev.1 perde vigência de candidatura; documento mudou ⇒ 2× novo.  
+**Status:** MINUTA **rev.2** (2026-09-24) — §4.3 convertido em P-K6 após medição do Estrutura (TRILHA93) · **P-K6 ratificado pelo Comentador** (mesmo dia) com precisão de granularidade por claim (§6 da resposta); sem novo ajuste conceitual. Rascunho final **antes** da circularização aos auditores (rev.2 nunca havia saído às janelas). Para **última subscrição** dos dois territoriais — **não vigente** até dupla subscrição sem ressalva. A rev.1 perde vigência de candidatura; documento mudou ⇒ 2× novo.  
 **Base:** Solução D1 (r79) · Pareceres R4 (r80) · Condução Rota A (§18)  
 **Não altera:** N1 v1.3, N2 v1.4, Bibliografia, nem o Schema-Claim v1.2 **no texto** — as extensões de campo do kit são listadas como **pendências do ciclo do Claim Kit** (§7), com trava de materialização.
 
@@ -229,4 +212,4 @@ Resposta esperada: **subscrevo sem ressalva** · **subscrevo com ressalva(s): li
 
 ---
 
-*Contrato da casa **rev.2** · Rodada 82 · 2026-09-24 · **VIGENTE** desde 24/09/2026 (dupla subscrição limpa cumprida — ver bilhete `CONTRATO_SAIDA_CLAIMKIT_VIGENTE.txt`) · texto aprovado = digital `841532da`, preservado byte a byte em `CONTRATO_SAIDA_CLAIMKIT_rev2_ASSINADO_841532da_2026-09-29.bak`.*
+*Minuta da casa **rev.2** · Rodada 82 · 2026-09-24 · não vigente até dupla subscrição limpa sobre a rev.2.*
