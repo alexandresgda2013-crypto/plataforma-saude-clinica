@@ -46,3 +46,8 @@ Atualizado em: **29/09/2026** (fim do dia)
 3. **Publique:** prateleira `arena/…` → depois `main` pelo caminho normal (PR → merge). Nunca force.
 4. **Entregue ao operador:** **link da pasta do dia no GitHub + caminho de download** (é obrigatório a cada publicação — regra do operador).
 5. **Combinações do operador:** linguagem simples e analógica · não decidir conflito sozinho (indicar o conflito) · **não rodar os scripts** · não varrer o repositório inteiro · se o GitHub não responder, avisar — não tentar contornar.
+
+## 6) Pós-30/09 — lote vindo de outra sessão (colado pelo operador)
+- A rodada final de 29/09 está publicada (`main`, PR nº 2).
+- **Lote novo:** `ENTREGAS/2026-09-30_PACOTES_CHAT_NOVOS/` (pacotes revisados p/ chats novos do piloto, com fluxograma) — recebido do operador em 30/09, colado da sessão anterior (que perdeu o GitHub após o merge do PR nº 2). Digital do documento: `204e244b…` (conferir após recriar; se não bater, parar e avisar — não ajustar).
+- Publicar: nivelar a prateleira com o `main` (merge, sem force) → commit → PR → `main` → entregar link da pasta + download.
