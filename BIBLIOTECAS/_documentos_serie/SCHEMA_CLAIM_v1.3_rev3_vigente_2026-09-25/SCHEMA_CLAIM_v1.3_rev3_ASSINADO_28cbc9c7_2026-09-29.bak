@@ -1,20 +1,7 @@
 ---
 ---
 
-# SCHEMA-CLAIM — v1.3 (rev.3 — VIGENTE)
-# ---------------------------------------------------------------------------
-# ERRATA DE ETIQUETA — 2026-09-29 (decisão do operador · registrada via Arena)
-# O título dizia "(MINUTA rev.3 do ciclo do kit — não vigente)", e o comentário
-# do bloco de schema repetia "(MINUTA rev.3 — não vigente)": ficaram da época
-# em que o documento ainda era minuta. A vigência do v1.3 rev.3 foi declarada
-# em ato próprio de 25/09/2026 (bilhete SCHEMA_CLAIM_V1_3_VIGENTE.txt, com a
-# frase do operador) — o que não havia sido trocada era a etiqueta.
-# Correção de ETIQUETA e PROCEDÊNCIA: 0 (zero) mudança de conteúdo — as
-# alterações são apenas em linhas de comentário (#); nenhum campo, enum,
-# obrigatoriedade ou regra foi tocado.
-# Texto aprovado em 25/09 = digital 28cbc9c7, preservado byte a byte em
-#   "SCHEMA_CLAIM_v1.3_rev3_ASSINADO_28cbc9c7_2026-09-29.bak".
-# ---------------------------------------------------------------------------
+# SCHEMA-CLAIM — v1.3 (MINUTA rev.3 do ciclo do kit — não vigente)
 
 rev.2 (2026-09-25): V-K3 alinhado à opção preferida do Comentador
   (exploratórias só exigem sentido_do_achado se materializarem)
@@ -23,7 +10,7 @@ rev.3 (2026-09-25): V-K6 adicionado (ressalva do Estrutura) + linha de
 
 yaml
 # ============================================
-# SCHEMA_CLAIM — v1.3 (rev.3 — VIGENTE · ver nota de errata no topo)
+# SCHEMA_CLAIM — v1.3 (MINUTA rev.3 — não vigente)
 # Ciclo do kit · 2026-09-25 · Arena Casa
 # Mudança vs. v1.2 (somente isto; mais nada):
 #   - P-K1: sentido_do_achado POR FONTE (vocabulário importado da
