@@ -47,12 +47,12 @@ flowchart LR
 
 ## 4️⃣ Os 3 agentes Arena
 
-Cada um abre o repositório e lê os arquivos pelos **caminhos do §2 do livreto**. Cole **antes** do Prompt A do livreto (ele vale como está):
+Cada um recebe **os arquivos do pacote enxuto indicado no livreto, carregados no chat pelo operador** (sem acesso ao repositório). Cole **antes** do Prompt A do livreto (ele vale como está):
 
 ```text
-ABERTURA PARA AGENTE ARENA — você está num clone do repositório. Leia SÓ os arquivos
-citados no livreto (caminhos do §2 e anexos do Prompt A). NÃO altere, crie, mova nem apague
-arquivo; NÃO faça commit, push nem PR; NÃO rode scripts de produção. Responda só em texto.
+ABERTURA PARA AGENTE ARENA — você recebeu apenas os arquivos carregados nesta conversa. Leia SÓ eles;
+não procure nem busque outros arquivos. NÃO altere, crie, mova nem apague arquivo; NÃO faça
+commit, push nem PR; NÃO rode scripts de produção. Responda só em texto.
 FORMATO DO PARECER (máx. 12 linhas + tabela de pontos):
 1) Veredito em uma linha: de acordo · com ressalva(s) · em desacordo (motivo).
 2) Pontos, um por linha: nº · onde (seção/linha) · o fato medido · gravidade
@@ -101,4 +101,4 @@ não aprovável (por quê). Sua recomendação é opinião: a aprovação é fra
 - **O documento sob crivo não muda antes do veredito.** Se mudar, muda a digital e a rodada recomeça.
 - **Zelo proporcional:** ferramentas que serão aposentadas seguem o nível leve; nada de refinamento além do necessário.
 - **Dependência:** o Livreto 1 segue sob crivo; se o veredito alterar o catálogo de IDs, refazer a conferência de IDs dos Livretos 2, 3 e 4.
-- **Pré-requisito para abrir os 3 agentes:** o repositório deve conter a pasta `ENTREGAS/2026-09-30_CRIVO_LIVRETOS/` (PR nº 4 integrado).
+- **Pré-requisito para abrir os 3 agentes:** o operador carrega, no chat de cada agente, os arquivos do pacote enxuto indicado no livreto (sem acesso ao repositório).
