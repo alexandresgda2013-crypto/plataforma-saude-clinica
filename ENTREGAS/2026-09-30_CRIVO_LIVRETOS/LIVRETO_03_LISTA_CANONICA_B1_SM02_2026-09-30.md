@@ -22,7 +22,7 @@
 
 ```mermaid
 flowchart LR
-    subgraph IAS["🔵 CRIVO E FECHAMENTO — as 3 IAs (documento por documento)"]
+    subgraph IAS["🔵 PARECERES — as 3 IAs (documento por documento)"]
         direction TB
         I1["IA1 · janela própria"]
         I2["IA2 · janela própria"]
@@ -41,8 +41,8 @@ flowchart LR
     style V fill:#d9f2d9,stroke:#2e9e44
 ```
 
-- As **3 IAs** fazem o crivo e o fechamento. Os **2 auditores** não as substituem.
-- As **5 janelas são independentes**: ninguém vê o parecer do outro (**0 ciência**).
+- As **3 IAs** fazem os **pareceres individuais**; a **Casa** reúne, confronta e conduz o fechamento. Os **auditores** não substituem os pareceres.
+- As **3 janelas das IAs são independentes**: ninguém vê o parecer do outro (**0 ciência**).
 - **Pacote enxuto:** base comum indispensável + **só o adicional** necessário a cada um.
 
 ---
@@ -199,10 +199,10 @@ Anamnese · bibliotecas de conteúdo · ciência clínica · Bloco de Estado **i
 ```text
 CRIVO DOCUMENTAL — LIVRETO 3 de 4 — SESSÃO NOVA
 
-Você é uma das três IAs (IA1, IA2, IA3) que fazem o crivo e o fechamento, documento
+Você é uma das três IAs (IA1, IA2, IA3) que dão o parecer individual, documento
 por documento, antes de cada documento ser considerado vigente. Você trabalha em janela
 própria, SEM ver o parecer das outras. Divergência se resolve lendo o documento, nunca
-por votação. Crivo DOCUMENTAL: 0 ciência (não julgue queries, PMIDs nem achados).
+por votação; o confronto e o fechamento são da Casa. Crivo DOCUMENTAL: 0 ciência (não julgue queries, PMIDs nem achados).
 
 OBJETO: 5º LISTA CANÔNICA — B1 / SM-02 (v1.5) (digital 20efa89f…).
 RÉGUA: Roteiro §6.1 — EXISTENTE ≠ VALIDADO ≠ VIGENTE ≠ AUTORIZADO PARA USO.
@@ -285,7 +285,7 @@ Não corrija o documento. Não invente peça que não recebeu — peça-a.
 
 ## 📌 Depois dos vereditos
 
-1. A casa **confronta** as 5 respostas, **lendo o documento** (nunca por votação) e registra o resultado.
+1. A Casa **confronta** os pareceres recebidos, **lendo o documento** (nunca por votação) e registra o resultado.
 2. **Vigência só por ordem do operador.** Este pacote **não declara nada vigente**.
 3. Segue o **Livreto 4** (`6º Bloco de Estado v1.8`) — o último da série.
 
