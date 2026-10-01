@@ -1997,3 +1997,8 @@ Carta “SOLUÇÃO DO COMENTADOR — D1” (2026-09-24): separar estado de valid
 - **Quem audita:** IDs → Estrutura · Protocolo → Mestre · Lista → Estrutura · Bloco → Estrutura (+ Mestre se a folha tocar P1, P2 ou P4).
 - **Efeito nos arquivos:** `FLUXO_CRIVO_DOCUMENTAL_2026-09-30.md` (novo) e aviso no topo dos Livretos 2, 3 e 4 (novas digitais no `DIGITAIS.txt`). Livreto 1 e os documentos sob crivo **não** foram alterados.
 - **0 ciência.** Nenhum conteúdo científico foi analisado, produzido ou alterado.
+
+## 2026-09-30 (noite) — REGRA DE PUBLICAÇÃO OFICIALIZADA (decisão do operador · registrado via Arena · sem rodada de casa)
+- **Decisão:** a prateleira (branch `arena/…`) é só rampa até o `main`: o que sobe para ela é publicado e mergeado no mesmo ato; nada fica parado na branch. Motivo: rastreabilidade (se um agente parar, nada se perde). Detalhes em `ONDE_PARAMOS.md` §9.
+- **Não é vigência:** estar no `main` não torna nada vigente (Roteiro §6.1).
+- **0 ciência.** Nenhum conteúdo científico foi analisado, produzido ou alterado.

@@ -93,3 +93,12 @@ Atualizado em: **30/09/2026** (fim do dia)
 - **Substitui** o que o §1, o §7 e o CHANGELOG de 30/09 dizem sobre «3 IAs + 2 auditores em 5 janelas independentes». Motivo: nos documentos não havia produto das 3 IAs para os auditores inspecionarem; agora há a folha. Também poupa créditos.
 - **Quem audita:** IDs → Estrutura · Protocolo → Mestre · Lista → Estrutura · Bloco → Estrutura (+ Mestre se a folha tocar P1, P2 ou P4).
 - **Publicação:** as alterações desta rodada entram no PR nº 4; merge e push só por ordem expressa do operador. Os 3 agentes Arena leem os arquivos pelo repositório (sem transporte).
+
+## 9) REGRA DE PUBLICAÇÃO (oficializada pelo operador em 30/09/2026, noite) — vale até ele revogar
+- **A prateleira é só rampa.** A branch `arena/…` não guarda documento: tudo o que sobe para ela **segue para o `main` no mesmo ato** (publicar + mergear). Nada fica parado na branch.
+- **Motivo: rastreabilidade.** Se um agente parar, o que está no `main` não se perde, e qualquer agente retoma pelo `ONDE_PARAMOS.md` e pelo `CHANGELOG`. Não é questão de vigência: `EXISTENTE ≠ VALIDADO ≠ VIGENTE ≠ AUTORIZADO PARA USO` (Roteiro §6.1).
+- **Como:** ao fim de cada bloco, o agente que envia (1) atualiza o `ONDE_PARAMOS.md`, (2) faz o push sem force, (3) abre ou atualiza o PR e o **mergeia** no `main`, (4) entrega o link da pasta do dia e o caminho de download. Conflito: parar e indicar, sem decidir sozinho.
+- **Consequência conhecida:** o merge encerra a sessão que o fez. Por isso a sessão que mantém o diálogo deixa o `ONDE_PARAMOS.md` em dia **antes** de cada envio, e a sessão seguinte começa pelo `main`. Conferências e links devem ser colhidos **antes** do merge.
+- **Fim do transporte manual:** base64, conferidores e pastas temporárias deixam de ser necessários.
+- **Ressalva:** estar no `main` não declara nada vigente; a vigência segue só por frase do operador (R-CITA-1).
+- **Origem (palavras do operador):** «a prateleira é só uma rampa até o main, não pode servir de depósito de documento, nela não para nada, só passa» · «vamos oficializar a questão de a hora de enviar para a prateleira já publicar» · «pode fazer que eu já envio junto com o último código para o agente publicar e mergear (junção)».
