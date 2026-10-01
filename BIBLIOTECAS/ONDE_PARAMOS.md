@@ -91,7 +91,7 @@ Atualizado em: **30/09/2026** (fim do dia)
 - **Registro:** a partir da mensagem do operador: «O comentador é muito bom para crítica e aprovação, confirmou o fluxo, concordo com o 2 também». É decisão de rito; **não** aprova documento algum.
 - **Vale** `ENTREGAS/2026-09-30_CRIVO_LIVRETOS/FLUXO_CRIVO_DOCUMENTAL_2026-09-30.md`: 3 agentes Arena → folha da casa → Comentador (lê só a folha) → auditor do território (Mestre e/ou Estrutura) → fechamento da casa → aprovação por frase do operador.
 - **Substitui** o que o §1, o §7 e o CHANGELOG de 30/09 dizem sobre «3 IAs + 2 auditores em 5 janelas independentes». Motivo: nos documentos não havia produto das 3 IAs para os auditores inspecionarem; agora há a folha. Também poupa créditos.
-- **Quem audita:** IDs → Estrutura · Protocolo → Mestre · Lista → Estrutura · Bloco → Estrutura (+ Mestre se a folha tocar P1, P2 ou P4).
+- **Quem audita (atualizado em 01/10/2026):** cada ponto de verificação vai ao auditor do território do ponto, não do nome do documento (Estrutura: formato, schema, coerência; Mestre: vigência, rito, decisões do operador; todo documento tem ao menos um ponto do Mestre). Tabela no FLUXO §3. Substitui a atribuição por documento de 30/09.
 - **Publicação:** as alterações desta rodada entram no PR nº 4; merge e push só por ordem expressa do operador. Os 3 agentes Arena recebem os arquivos do pacote enxuto carregados no chat pelo operador (sem acesso ao repositório).
 
 ## 9) REGRA DE PUBLICAÇÃO (oficializada pelo operador em 30/09/2026, noite) — vale até ele revogar

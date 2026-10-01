@@ -2002,3 +2002,9 @@ Carta “SOLUÇÃO DO COMENTADOR — D1” (2026-09-24): separar estado de valid
 - **Decisão:** a prateleira (branch `arena/…`) é só rampa até o `main`: o que sobe para ela é publicado e mergeado no mesmo ato; nada fica parado na branch. Motivo: rastreabilidade (se um agente parar, nada se perde). Detalhes em `ONDE_PARAMOS.md` §9.
 - **Não é vigência:** estar no `main` não torna nada vigente (Roteiro §6.1).
 - **0 ciência.** Nenhum conteúdo científico foi analisado, produzido ou alterado.
+
+## 2026-10-01 — AUDITORES: ATRIBUIÇÃO POR PONTO + TEXTO DOS LIVRETOS 2–4 (Arena · sem rodada de casa)
+- **Mudança:** a atribuição de auditor passa a ser **por ponto de verificação** (território do ponto), não pelo nome do documento. Tabela no `FLUXO_CRIVO_DOCUMENTAL_2026-09-30.md` §3. Substitui a tabela por documento do registro de 30/09 (noite), que permanece acima, intacto.
+- **Motivo (medido nos livretos):** o Protocolo tem 4 de 5 pontos de schema (V1, V2, V4, V5) e o Bloco tem o P4 como schema (P1, P2 e B6 são governança). A atribuição estática por ponto também elimina a dependência de a folha apontar um gatilho: todo documento tem ao menos um ponto do Mestre.
+- **Texto dos Livretos 2, 3 e 4:** 5 trechos antigos («as 3 IAs fazem o crivo e o fechamento», «5 janelas», «5 respostas») alinhados ao FLUXO: as 3 IAs dão pareceres individuais; a Casa confronta e conduz o fechamento. Livreto 1 e os documentos sob crivo **não** foram alterados.
+- **0 ciência.** Nenhum conteúdo científico foi analisado, produzido ou alterado.

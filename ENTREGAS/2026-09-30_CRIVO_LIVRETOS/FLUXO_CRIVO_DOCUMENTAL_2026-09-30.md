@@ -34,16 +34,19 @@ flowchart LR
 | 5 | Arena-Casa | fecha; ressalva abre nova rodada **só dos pontos** | tudo acima |
 | 6 | Operador | aprova, ou não | o fechamento |
 
-## 3️⃣ Quem audita qual documento (nível leve)
+## 3️⃣ Quem audita o quê (cada ponto vai para um só auditor)
 
-| Livreto | Documento | Auditor | Segundo auditor só se… |
+**Regra:** o ponto de verificação vai para o auditor do **território do ponto**, não do nome do documento. A atribuição é fixa (não depende de a folha "acusar" um gatilho) e todo documento tem pelo menos um ponto de governança.
+
+| Livreto | Documento | Estrutura audita | Mestre audita |
 |---|---|---|---|
-| 1 | 1º IDS_OFICIAIS | Estrutura | a folha apontar ponto de governança |
-| 2 | Protocolo de Escopo B1 v1.3 | Mestre | a folha apontar ponto de estrutura/schema |
-| 3 | Lista Canônica B1/SM-02 v1.5 | Estrutura | a folha apontar ponto de governança |
-| 4 | Bloco de Estado v1.8 | Estrutura | a folha tocar P1, P2 ou P4 (governança) → entra o Mestre |
+| 1 | 1º IDS_OFICIAIS | contagem (146 + 5), duplicatas, formato, derivado JSON, contradição com Contrato · Schema · COMO EXECUTAR | a pergunta do rito: vigência, aprovação pelo rito, não substituído (§5, perguntas 3 a 5) |
+| 2 | Protocolo de Escopo B1 v1.3 | V1 · V2 · V4 · V5 | V3 |
+| 3 | Lista Canônica B1/SM-02 v1.5 | L1 · L2 · L3 · L5 · L6 | L4 · L7 |
+| 4 | Bloco de Estado v1.8 | B1 · B2 (inclui P4) · B3 · B5 · B7 · B8 | B4 (P1 e P2) · B6 |
 
-**Nível completo** (os dois auditores sempre) só se o operador pedir.
+- Ponto novo que a folha revelar: vai ao auditor do território do ponto; se tocar os dois, vão os dois.
+- **Nível completo** (os dois auditores sobre o documento inteiro) só se o operador pedir.
 
 ## 4️⃣ Os 3 agentes Arena
 
@@ -75,6 +78,7 @@ Acima da tabela, 3 linhas: **resultado dos 3** (de acordo / com ressalva / em de
 AUDITOR-[MESTRE | ESTRUTURA] — CRIVO DOCUMENTAL, [LIVRETO n de 4] — SESSÃO NOVA
 Você recebe: o documento, a FOLHA dos 3 agentes e o que o seu território exige.
 A folha é MAPA, não veredito: não se ancore nela.
+SEUS PONTOS neste livreto (FLUXO §3): [listar os pontos do seu território]
 1) Verifique, no documento, cada ponto da folha que caia no SEU território.
 2) Rode a SUA lista própria.
    MESTRE: governança · contratos · rito · processo · aderência normativa.
