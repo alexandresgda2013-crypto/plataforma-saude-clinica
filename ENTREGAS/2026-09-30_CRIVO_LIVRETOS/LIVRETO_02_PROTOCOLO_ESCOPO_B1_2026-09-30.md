@@ -17,6 +17,8 @@
 
 ## 🗺️ Quem faz o quê (orientação do Comentador, repassada pelo operador)
 
+> **Mantido só para memória.** O desenho de 5 janelas e os Prompts B e C abaixo foram substituídos; **valem os prompts do `FLUXO_CRIVO_DOCUMENTAL_2026-09-30.md` (§6 e §7)**.
+
 ```mermaid
 flowchart LR
     subgraph IAS["🔵 CRIVO E FECHAMENTO — as 3 IAs (documento por documento)"]
@@ -136,6 +138,8 @@ Resposta: **sim** · **sim, com ressalva(s)** (listar) · **não** (motivo).
 
 ## 7️⃣ 📎 O que cada um recebe (pacote enxuto)
 
+> **Sobre a coluna Caminho:** o caminho só **identifica** qual é o arquivo; o conteúdo chega **carregado no chat pelo operador**. Não procure outros arquivos.
+
 ### 🟦 BASE COMUM — os 5 (nesta ordem)
 
 | # | Arquivo | 📍 Caminho | 🔢 Digital |
@@ -198,6 +202,8 @@ Não execute os scripts de produção. Não invente documento que não recebeu �
 
 ## ✉️ PROMPT B — 🟠 AUDITOR-MESTRE
 
+> **Mantido só para memória.** Vale o prompt do `FLUXO_CRIVO_DOCUMENTAL_2026-09-30.md` (§6).
+
 ```text
 AUDITOR-MESTRE — SESSÃO NOVA — CRIVO DOCUMENTAL, LIVRETO 2 de 4
 
@@ -221,6 +227,8 @@ Não corrija o documento. Não invente peça que não recebeu — peça-a.
 ```
 
 ## ✉️ PROMPT C — 🟠 AUDITOR-ESTRUTURA
+
+> **Mantido só para memória.** Vale o prompt do `FLUXO_CRIVO_DOCUMENTAL_2026-09-30.md` (§6).
 
 ```text
 AUDITOR-ESTRUTURA — SESSÃO NOVA — CRIVO DOCUMENTAL, LIVRETO 2 de 4

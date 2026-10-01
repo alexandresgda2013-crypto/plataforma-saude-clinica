@@ -18,6 +18,8 @@
 
 ## 🗺️ Quem faz o quê (orientação do Comentador, repassada pelo operador)
 
+> **Mantido só para memória.** O desenho de 5 janelas e os Prompts B e C abaixo foram substituídos; **valem os prompts do `FLUXO_CRIVO_DOCUMENTAL_2026-09-30.md` (§6 e §7)**.
+
 ```mermaid
 flowchart LR
     subgraph IAS["🔵 CRIVO E FECHAMENTO — as 3 IAs (documento por documento)"]
@@ -87,7 +89,7 @@ flowchart LR
 | Conferência | Resultado |
 |---|---|
 | Forma do arquivo | 673 linhas · LF · **0 TAB** · **0 CR** · termina com quebra de linha |
-| Chaves de 1º nível | **13 · nenhuma repetida** (o histórico da v1.3 registra que chaves repetidas já foram um defeito) |
+| Chaves de 1º nível | **14 · nenhuma repetida** (o histórico da v1.3 registra que chaves repetidas já foram um defeito) |
 | Chaves repetidas dentro de uma entrada | **0** |
 | Entradas `- id:` | **43 = 35 claims** (`.001`…`.035`, **nenhum faltando**) **+ 8 subclaims** · **0 IDs duplicados** |
 | Status das 43 entradas | 15 `aprovado_com_ressalva` · 8 `aprovado` · 4 `em_busca` · 16 `pendente` |
@@ -162,6 +164,8 @@ Resposta: **sim** · **sim, com ressalva(s)** (listar) · **não** (motivo).
 
 ## 7️⃣ 📎 O que cada um recebe (pacote enxuto)
 
+> **Sobre a coluna Caminho:** o caminho só **identifica** qual é o arquivo; o conteúdo chega **carregado no chat pelo operador**. Não procure outros arquivos.
+
 ### 🟦 BASE COMUM — os 5 (nesta ordem)
 
 | # | Arquivo | 📍 Caminho | 🔢 Digital |
@@ -224,6 +228,8 @@ Não execute os scripts de produção. Não invente documento que não recebeu �
 
 ## ✉️ PROMPT B — 🟠 AUDITOR-MESTRE
 
+> **Mantido só para memória.** Vale o prompt do `FLUXO_CRIVO_DOCUMENTAL_2026-09-30.md` (§6).
+
 ```text
 AUDITOR-MESTRE — SESSÃO NOVA — CRIVO DOCUMENTAL, LIVRETO 3 de 4
 
@@ -249,6 +255,8 @@ Não corrija o documento. Não invente peça que não recebeu — peça-a.
 ```
 
 ## ✉️ PROMPT C — 🟠 AUDITOR-ESTRUTURA
+
+> **Mantido só para memória.** Vale o prompt do `FLUXO_CRIVO_DOCUMENTAL_2026-09-30.md` (§6).
 
 ```text
 AUDITOR-ESTRUTURA — SESSÃO NOVA — CRIVO DOCUMENTAL, LIVRETO 3 de 4

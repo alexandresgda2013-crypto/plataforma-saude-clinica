@@ -18,6 +18,8 @@
 
 ## 🗺️ Quem faz o quê (orientação do Comentador, repassada pelo operador)
 
+> **Mantido só para memória.** O desenho de 5 janelas e os Prompts B e C abaixo foram substituídos; **valem os prompts do `FLUXO_CRIVO_DOCUMENTAL_2026-09-30.md` (§6 e §7)**.
+
 ```mermaid
 flowchart LR
     subgraph IAS["🔵 CRIVO E FECHAMENTO — as 3 IAs (documento por documento)"]
@@ -118,7 +120,7 @@ flowchart LR
 - *(As entradas seguem o formato declarado v1.2, conforme B1.)*
 
 ### 🔎 B4 — pendências que cabem ao operador: P1, P2, P4 abertas
-- **Fato:** o cabeçalho diz "**P3 resolvida por uso; P1 e P2 seguem abertas**"; **P4** (campo `forca_evidencia_afirmacao`) também consta aberta. **P1:** o PMID `20132991` consta como fonte de `.012c` **e** em `fontes_rejeitadas` — é o **único** PMID nas duas listas (o cabeçalho v1.7 registra: *"entrada do log escopada ao claim .012; reuso em .012c é permitido"*). **P2** é a mesma `nota_conflito_pendente` do ponto L4 do Livreto 3.
+- **Fato:** o cabeçalho diz "**P3 resolvida por uso; P1 e P2 seguem abertas**"; **P4** (campo `forca_evidencia_afirmacao`) também consta aberta. **P1:** o PMID `20132991` consta como fonte de `.012c` **e** em `fontes_rejeitadas` — é o **único** PMID com **entrada de fonte** nas duas listas (o cabeçalho v1.7 registra: *"entrada do log escopada ao claim .012; reuso em .012c é permitido"*). **P2** é a mesma `nota_conflito_pendente` do ponto L4 do Livreto 3.
 
 ### 🔎 B5 — referências a versões e a arquivos que mudaram de nome
 - **Fato:** o Bloco cita "Como Executar v1.7" (linhas 100, 1048) e "v1.8" (linha 7) — o COMO EXECUTAR **vigente** é **v1.11 rev.2** (`1ea6d354…`). Cita `CANDIDATOS_IDS_OFICIAIS.yaml` (linha 95) — no kit o arquivo é `CANDIDATOS_IDS_OFICIAIS — v1.0.md`. *(Mesmo tipo de achado do ponto V2 do Livreto 2.)*
@@ -161,6 +163,8 @@ Resposta: **sim** · **sim, com ressalva(s)** (listar) · **não** (motivo).
 ---
 
 ## 7️⃣ 📎 O que cada um recebe (pacote enxuto)
+
+> **Sobre a coluna Caminho:** o caminho só **identifica** qual é o arquivo; o conteúdo chega **carregado no chat pelo operador**. Não procure outros arquivos.
 
 ### 🟦 BASE COMUM — os 5 (nesta ordem)
 
@@ -225,6 +229,8 @@ Não execute os scripts de produção. Não invente documento que não recebeu �
 
 ## ✉️ PROMPT B — 🟠 AUDITOR-MESTRE
 
+> **Mantido só para memória.** Vale o prompt do `FLUXO_CRIVO_DOCUMENTAL_2026-09-30.md` (§6).
+
 ```text
 AUDITOR-MESTRE — SESSÃO NOVA — CRIVO DOCUMENTAL, LIVRETO 4 de 4
 
@@ -251,6 +257,8 @@ Não corrija o documento. Não invente peça que não recebeu — peça-a.
 ```
 
 ## ✉️ PROMPT C — 🟠 AUDITOR-ESTRUTURA
+
+> **Mantido só para memória.** Vale o prompt do `FLUXO_CRIVO_DOCUMENTAL_2026-09-30.md` (§6).
 
 ```text
 AUDITOR-ESTRUTURA — SESSÃO NOVA — CRIVO DOCUMENTAL, LIVRETO 4 de 4
