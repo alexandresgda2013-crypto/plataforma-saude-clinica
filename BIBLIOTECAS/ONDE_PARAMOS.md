@@ -86,3 +86,10 @@ Atualizado em: **30/09/2026** (fim do dia)
   conferir o `sha256` contra o `DIGITAIS.txt` (se não bater, parar e avisar) — **um arquivo por vez**.
 - **Regras que continuam valendo:** publicar só por ordem expressa do operador · nivelar com o `main` por merge, sem force ·
   entregar link da pasta + caminho de download.
+
+## 8) Decisão do operador — fluxo do crivo documental (30/09/2026, noite)
+- **Registro:** a partir da mensagem do operador: «O comentador é muito bom para crítica e aprovação, confirmou o fluxo, concordo com o 2 também». É decisão de rito; **não** aprova documento algum.
+- **Vale** `ENTREGAS/2026-09-30_CRIVO_LIVRETOS/FLUXO_CRIVO_DOCUMENTAL_2026-09-30.md`: 3 agentes Arena → folha da casa → Comentador (lê só a folha) → auditor do território (Mestre e/ou Estrutura) → fechamento da casa → aprovação por frase do operador.
+- **Substitui** o que o §1, o §7 e o CHANGELOG de 30/09 dizem sobre «3 IAs + 2 auditores em 5 janelas independentes». Motivo: nos documentos não havia produto das 3 IAs para os auditores inspecionarem; agora há a folha. Também poupa créditos.
+- **Quem audita:** IDs → Estrutura · Protocolo → Mestre · Lista → Estrutura · Bloco → Estrutura (+ Mestre se a folha tocar P1, P2 ou P4).
+- **Publicação:** as alterações desta rodada entram no PR nº 4; merge e push só por ordem expressa do operador. Os 3 agentes Arena leem os arquivos pelo repositório (sem transporte).

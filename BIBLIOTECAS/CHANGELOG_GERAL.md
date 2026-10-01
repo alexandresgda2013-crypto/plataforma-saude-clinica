@@ -1990,3 +1990,10 @@ Carta “SOLUÇÃO DO COMENTADOR — D1” (2026-09-24): separar estado de valid
 - **9. Sessão do Arena encerrada.** O PR nº 3 foi integrado e o GitHub deixou de aceitar envios desta sessão. Os Livretos 2–4 ficam na pasta do dia, **não publicados** (`ONDE_PARAMOS.md` §7). Commits locais **não** sobrevivem entre turnos nesta bancada (o `.git` é recriado; um commit feito no meio da sessão sumiu) — **os arquivos ficam, o registro do git não**. O operador informou que **não consegue baixar o zip** pelo Arena. Publicação: sessão nova, **só por ordem expressa do operador**, com link da pasta + caminho de download.
 - **Aguardando (24 h):** créditos dos Auditores Mestre e Estrutura e de uma das IAs do Grupo 2; o crivo dos livretos abre depois.
 - **0 ciência.** Nenhum conteúdo científico foi analisado, produzido ou alterado.
+
+## 2026-09-30 (noite) — FLUXO DO CRIVO DOCUMENTAL (decisão do operador · registrado via Arena · sem rodada de casa)
+- **Decisão:** 3 agentes Arena (pareceres curtos, 0 ciência entre si) → folha da casa → Comentador (lê só a folha) → auditor do território → fechamento da casa → aprovação por frase do operador. Substitui o desenho «3 IAs + 2 auditores em 5 janelas independentes».
+- **Motivo:** nos documentos não havia produto das 3 IAs para os auditores inspecionarem (nos claims há); a folha cria essa entrada. Poupa créditos dos auditores e o plano gratuito do Comentador.
+- **Quem audita:** IDs → Estrutura · Protocolo → Mestre · Lista → Estrutura · Bloco → Estrutura (+ Mestre se a folha tocar P1, P2 ou P4).
+- **Efeito nos arquivos:** `FLUXO_CRIVO_DOCUMENTAL_2026-09-30.md` (novo) e aviso no topo dos Livretos 2, 3 e 4 (novas digitais no `DIGITAIS.txt`). Livreto 1 e os documentos sob crivo **não** foram alterados.
+- **0 ciência.** Nenhum conteúdo científico foi analisado, produzido ou alterado.

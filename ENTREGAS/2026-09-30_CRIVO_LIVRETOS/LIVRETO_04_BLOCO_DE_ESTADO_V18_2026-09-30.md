@@ -1,5 +1,7 @@
 # 📙 CRIVO DOCUMENTAL — LIVRETO 4 de 4
 
+> 🔄 **ATUALIZAÇÃO de 30/09/2026 (noite) — quem faz o quê mudou.** Vale o [`FLUXO_CRIVO_DOCUMENTAL_2026-09-30.md`](FLUXO_CRIVO_DOCUMENTAL_2026-09-30.md) (mesma pasta): 3 agentes Arena → folha da casa → Comentador → auditor do território. Neste livreto **valem** as seções de conteúdo (objeto, medições, pontos de verificação) e o **Prompt A** (com a abertura do fluxo, §4). **Não valem** o desenho de 5 janelas nem os Prompts B e C: use os prompts do fluxo (§6 e §7).
+
 ### `6º BLOCO DE ESTADO (v1.8).md` · pacote enxuto · cada um em chat novo
 
 📅 **30/09/2026** · ✏️ Arena (casa) · 🔗 mesmo molde dos Livretos 2 e 3 · 🎨 padrão visual de `2026-09-30_PACOTES_CHAT_NOVOS` · 🏁 **último livreto da série**
