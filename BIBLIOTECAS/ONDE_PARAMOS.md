@@ -9,6 +9,7 @@ Atualizado em: **02/10/2026** (fim do dia)
 > lendo este arquivo** — não é preciso adivinhar nada.
 
 ## 1) Último acontecimento — 01/10/2026 (publicado em 02/10/2026)
+- **Passagem de bastão (02/10/2026):** `ENTREGAS/2026-10-02_PASSAGEM/` traz a carta para o próximo agente do chat (`CARTA_DE_PASSAGEM_2026-10-02.md`), a nota de estado e mapa (§1 a §14) e o programa de teste da correção do Roteiro. **Quem chega, leia a carta primeiro.** Em conflito entre a nota e o `main`, vale o `main`.
 - **Ato do operador (01/10/2026) publicado:** 4 ratificações das erratas de etiqueta de 29/09 (COMO v1.11 rev.2 `1ea6d354`;
   Schema-Claim v1.3 rev.3 `e9f9e5d8`; Contrato de Saída rev.2 `03cdd19a`; L-06 rev.6 `acd76b24`) e decisão do L-NT, opção (i).
   Registro: `ENTREGAS/2026-10-01_ROTEIRO_E_ATO/ATO_OPERADOR_2026-10-01.md` (`16700dc0…`). **O Roteiro não está nesse Ato.**
