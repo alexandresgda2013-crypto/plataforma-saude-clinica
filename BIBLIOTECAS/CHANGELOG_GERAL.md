@@ -2009,7 +2009,8 @@ Carta “SOLUÇÃO DO COMENTADOR — D1” (2026-09-24): separar estado de valid
 - **Texto dos Livretos 2, 3 e 4:** 5 trechos antigos («as 3 IAs fazem o crivo e o fechamento», «5 janelas», «5 respostas») alinhados ao FLUXO: as 3 IAs dão pareceres individuais; a Casa confronta e conduz o fechamento. Livreto 1 e os documentos sob crivo **não** foram alterados.
 - **0 ciência.** Nenhum conteúdo científico foi analisado, produzido ou alterado.
 
-## 2026-10-01 — ERRATA DO ROTEIRO E ATO DO OPERADOR (Arena · sem rodada de casa)
+## 2026-10-01 (noite) — ERRATA DO ROTEIRO E ATO DO OPERADOR (Arena · sem rodada de casa)
+Fatos de 01/10/2026; registrado na publicação de 02/10/2026 (PR nº 7, merge 71ab6c3).
 
 Errata de 01/10/2026 do Roteiro e Ato do operador de 01/10/2026.
 - **1. Ato do operador (01/10/2026):** 4 ratificações das erratas de etiqueta de 29/09 (COMO v1.11 rev.2 1ea6d354; Schema-Claim v1.3 rev.3 e9f9e5d8; Contrato de Saída rev.2 03cdd19a; L-06 rev.6 acd76b24) e decisão do L-NT, opção (i). Registro: ENTREGAS/2026-10-01_ROTEIRO_E_ATO/ATO_OPERADOR_2026-10-01.md. O Roteiro não está nesse Ato.
