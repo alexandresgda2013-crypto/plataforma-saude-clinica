@@ -1,14 +1,31 @@
 # ONDE PARAMOS
 O PRIMEIRO ARQUIVO A LER — por qualquer agente, auditor ou pessoa que chegue depois.
 
-Atualizado em: **30/09/2026** (fim do dia)
+Atualizado em: **01/10/2026** (fim do dia)
 
 > Como este cartão funciona: ele é atualizado **todo dia** — o último acontecimento entra sempre **com data**.
 > Quem publica no GitHub, publica este cartão junto. O histórico completo e antigo fica em
 > `BIBLIOTECAS/CHANGELOG_GERAL.md`. Se a sessão do Arena parar de funcionar, **outro agente retoma o trabalho
 > lendo este arquivo** — não é preciso adivinhar nada.
 
-## 1) Último acontecimento — 30/09/2026
+## 1) Último acontecimento — 01/10/2026
+- **Ato do operador (01/10/2026) publicado:** 4 ratificações das erratas de etiqueta de 29/09 (COMO v1.11 rev.2 `1ea6d354`;
+  Schema-Claim v1.3 rev.3 `e9f9e5d8`; Contrato de Saída rev.2 `03cdd19a`; L-06 rev.6 `acd76b24`) e decisão do L-NT, opção (i).
+  Registro: `ENTREGAS/2026-10-01_ROTEIRO_E_ATO/ATO_OPERADOR_2026-10-01.md` (`16700dc0…`). **O Roteiro não está nesse Ato.**
+- **Roteiro publicado:** `aa01bfe8…` (38.971 B), a pedido do operador — substitui o `507eaefa…` (37.919 B), preservado byte a
+  byte em `ROTEIRO_PLATAFORMA_ANTERIOR_507eaefa_2026-10-01.bak`. Mudou o campo Atualização (01-10-2026), a nota (4) (descrição
+  medida por documento), a nota (5) (sem "aprovado em 26/09") e foi acrescentada a nota (6). Corpo a partir de "Objetivo:" idêntico.
+- **Bilhete do Roteiro atualizado:** `cadfef35…` (4.566 B), nos dois lugares (`BIBLIOTECAS/_documentos_serie/` e a pasta do dia).
+  Cadeia: `2c286ca1` (concordado 2x em 26/09) -> `5f8b89dc` -> `507eaefa` -> `aa01bfe8`; as erratas não têm concordância própria.
+- **Auditor-Mestre (01/10):** errata **não substantiva**, medida sobre a redação curta `a0efc7d0…` (38.372 B) — a redação final
+  `aa01bfe8…` **ainda não foi medida por ele**. AUD-007 (moderado): falta a frase do operador aprovando o Roteiro.
+  AUD-008 e AUD-001 (menores): bilhete corrigido.
+- **Em aberto:** a frase do operador para o Roteiro, depois de gravado e medido · o Mestre medir `aa01bfe8…` · crivo documental do
+  Livreto 1 · minuta 2 do L-NT · fila de regularização. **0 ciência.**
+- **Próximo:** o operador abre os 3 agentes do crivo do Livreto 1; o Mestre deve ainda Livretos 1 a 4, a minuta 2 do L-NT e
+  medir `aa01bfe8…`; o operador deve a frase do Roteiro. **Emenda 2 continua adiada.**
+
+### Acontecimento anterior — 30/09/2026
 - **Publicado (PR nº 3, `main` em `1b4e971`):** `ENTREGAS/2026-09-30_PACOTES_CHAT_NOVOS/` — documento de 181 linhas,
   digital `204e244b…`, conferida de novo no `main` depois do merge.
 - **Próximo trabalho do Roteiro (§19):** a ordem é validação dos documentos → vigência → pacotes finais → piloto oficial

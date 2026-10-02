@@ -3,18 +3,15 @@
 **Documento operacional de acompanhamento do desenvolvimento da plataforma**
 
 **Status:** documento de trabalho
-**Atualização:** 01-10-2026
+**Atualização:** 27-09-2026
 **Errata 26-09-2026 (pedido do operador):**
 **(1)** Checklist item 1 e §19: "Arquitetura Consolidada V2.2" → **V2.3** (vigente desde 19/09 — `ARQUITETURA_VIGENTE.txt`).
 **(2)** Nota de sequência no Checklist: o quadro é **inventário de status**, não ordem de execução — ordem operacional = §19.
 **(3)** Sha original concordado pelos auditores: `2c286ca1…` — esta revisão é errata factual/editorial; estrutura inalterada.
 
 **Errata 29-09-2026 (pedido do operador):**
-**(4)** §18: cada uma das três bases passa a registrar **duas digitais** — a do **texto assinado** (preservado byte a byte em `.bak`) e a do **arquivo vigente** (após as erratas de etiqueta e procedência de 29/09, sem mudança de conteúdo normativo). Em cada documento, a errata trocou o título e acrescentou, no topo, um bloco de comentário de errata: no COMO, o título e um bloco de 14 linhas; no Schema-Claim, o título, uma linha de comentário interna do bloco de schema e um bloco de 13 linhas; no Contrato, o título (que perdeu "MINUTA FINAL"), o campo Status reorganizado (o parágrafo original foi preservado como "Status (na redação)"), o rodapé e um bloco de 15 linhas. Nenhuma regra, marco, sequência ou seção foi alterada.
-**(5)** O **texto da errata de 26/09** permanece preservado na série `ROTEIRO_plataforma_vigente_2026-09-27/`, com digital `5f8b89dc…`; a digital deste arquivo consta do bilhete `ROTEIRO_PLATAFORMA_VIGENTE.txt`.
-
-**Errata 01-10-2026 (a pedido do operador):**
-**(6)** Corrigidos: o campo **Atualização** (27-09 → 01-10); a nota (4), que dizia que as erratas de 29/09 "trocaram apenas a palavra", quando também acrescentaram bloco de comentário e, no Contrato, reorganizaram Status e rodapé; e a nota (5), que chamava de "aprovado em 26/09" o texto da errata de 26/09, sem aprovação própria registrada (a concordância dos auditores foi sobre `2c286ca1…`). O texto anterior (`507eaefa…`) fica preservado em `ROTEIRO_PLATAFORMA_ANTERIOR_507eaefa_2026-10-01.bak`, na série `ROTEIRO_plataforma_vigente_2026-09-27/`. Nenhuma regra, marco, sequência ou seção foi alterada.
+**(4)** §18: cada uma das três bases passa a registrar **duas digitais** — a do **texto assinado** (preservado byte a byte em `.bak`) e a do **arquivo vigente** (após as erratas de etiqueta de 29/09, que trocaram apenas a palavra "minuta/não vigente" no interior dos documentos). Nenhuma regra, marco, sequência ou seção foi alterada.
+**(5)** O **texto aprovado em 26/09** (errata) permanece preservado na série `ROTEIRO_plataforma_vigente_2026-09-27/`, com digital `5f8b89dc…`; a digital deste arquivo após a presente errata consta do bilhete `ROTEIRO_PLATAFORMA_VIGENTE.txt`.
 
 **Objetivo:** organizar a sequência de desenvolvimento, validação, integração e teste da plataforma antes da replicação para os demais IDs oficiais.
 
