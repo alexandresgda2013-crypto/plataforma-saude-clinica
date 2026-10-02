@@ -1,14 +1,14 @@
 # ONDE PARAMOS
 O PRIMEIRO ARQUIVO A LER — por qualquer agente, auditor ou pessoa que chegue depois.
 
-Atualizado em: **01/10/2026** (fim do dia)
+Atualizado em: **02/10/2026** (fim do dia)
 
 > Como este cartão funciona: ele é atualizado **todo dia** — o último acontecimento entra sempre **com data**.
 > Quem publica no GitHub, publica este cartão junto. O histórico completo e antigo fica em
 > `BIBLIOTECAS/CHANGELOG_GERAL.md`. Se a sessão do Arena parar de funcionar, **outro agente retoma o trabalho
 > lendo este arquivo** — não é preciso adivinhar nada.
 
-## 1) Último acontecimento — 01/10/2026
+## 1) Último acontecimento — 01/10/2026 (publicado em 02/10/2026)
 - **Ato do operador (01/10/2026) publicado:** 4 ratificações das erratas de etiqueta de 29/09 (COMO v1.11 rev.2 `1ea6d354`;
   Schema-Claim v1.3 rev.3 `e9f9e5d8`; Contrato de Saída rev.2 `03cdd19a`; L-06 rev.6 `acd76b24`) e decisão do L-NT, opção (i).
   Registro: `ENTREGAS/2026-10-01_ROTEIRO_E_ATO/ATO_OPERADOR_2026-10-01.md` (`16700dc0…`). **O Roteiro não está nesse Ato.**
