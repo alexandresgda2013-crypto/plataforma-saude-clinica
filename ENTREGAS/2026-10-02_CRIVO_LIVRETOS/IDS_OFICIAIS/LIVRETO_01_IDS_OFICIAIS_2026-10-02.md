@@ -1,4 +1,0 @@
-# IDS_OFICIAIS — Documento 2
-
-Placeholder criado em 2026-10-02 para validação da estrutura de ENTREGAS/2026-10-02_CRIVO_LIVRETOS.
-Substituir pelo conteúdo real deste documento.
