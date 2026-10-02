@@ -2008,3 +2008,12 @@ Carta “SOLUÇÃO DO COMENTADOR — D1” (2026-09-24): separar estado de valid
 - **Motivo (medido nos livretos):** o Protocolo tem 4 de 5 pontos de schema (V1, V2, V4, V5) e o Bloco tem o P4 como schema (P1, P2 e B6 são governança). A atribuição estática por ponto também elimina a dependência de a folha apontar um gatilho: todo documento tem ao menos um ponto do Mestre.
 - **Texto dos Livretos 2, 3 e 4:** 5 trechos antigos («as 3 IAs fazem o crivo e o fechamento», «5 janelas», «5 respostas») alinhados ao FLUXO: as 3 IAs dão pareceres individuais; a Casa confronta e conduz o fechamento. Livreto 1 e os documentos sob crivo **não** foram alterados.
 - **0 ciência.** Nenhum conteúdo científico foi analisado, produzido ou alterado.
+
+## 2026-10-01 — ERRATA DO ROTEIRO E ATO DO OPERADOR (Arena · sem rodada de casa)
+
+Errata de 01/10/2026 do Roteiro e Ato do operador de 01/10/2026.
+- **1. Ato do operador (01/10/2026):** 4 ratificações das erratas de etiqueta de 29/09 (COMO v1.11 rev.2 1ea6d354; Schema-Claim v1.3 rev.3 e9f9e5d8; Contrato de Saída rev.2 03cdd19a; L-06 rev.6 acd76b24) e decisão do L-NT, opção (i). Registro: ENTREGAS/2026-10-01_ROTEIRO_E_ATO/ATO_OPERADOR_2026-10-01.md. O Roteiro não está nesse Ato.
+- **2. Roteiro:** 507eaefa (37.919 B) -> aa01bfe8 (38.971 B), a pedido do operador. Mudou o campo Atualização (01-10-2026), a nota (4) (descrição medida por documento), a nota (5) (sem 'aprovado em 26/09') e foi acrescentada a nota (6). Corpo a partir de 'Objetivo:' idêntico. Texto anterior preservado em ROTEIRO_PLATAFORMA_ANTERIOR_507eaefa_2026-10-01.bak.
+- **3. Auditor-Mestre (01/10):** errata não substantiva, medida sobre a redação curta a0efc7d0 (38.372 B); a redação final aa01bfe8 AINDA NÃO foi medida por ele. AUD-007 (moderado): não há frase do operador aprovando o Roteiro. AUD-008 e AUD-001 (menores): bilhete corrigido.
+- **4. Bilhete do Roteiro atualizado (cadfef35...).** Cadeia: 2c286ca1 (concordado 2x em 26/09) -> 5f8b89dc -> 507eaefa -> aa01bfe8; as erratas não têm concordância própria registrada.
+- **5. Pendente:** frase do operador para o Roteiro, depois de gravado e medido; Mestre medir aa01bfe8; crivo documental do Livreto 1; minuta 2 do L-NT; fila de regularização. 0 ciência.
