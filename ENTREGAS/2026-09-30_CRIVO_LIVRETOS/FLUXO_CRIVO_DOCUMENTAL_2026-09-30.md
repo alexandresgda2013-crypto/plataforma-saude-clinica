@@ -15,12 +15,12 @@
 
 # 1️⃣ Finalidade do rito
 
-O documento sob crivo já existe. O objetivo é verificar se ele está documentalmente apto a seguir para uso operacional, preservando funções distintas.
+O documento sob crivo já existe. O objetivo é verificar sua consistência documental, estrutural e de governança para uso operacional.
 
-### Funções
+As funções são separadas:
 
 **3 IAs Arena**
-→ produzem pareceres independentes sobre o documento.
+→ produzem pareceres independentes.
 
 **Arena-Casa**
 → recebe os três pareceres, monta a Folha, confronta divergências lendo o documento e conduz o fechamento.
@@ -29,14 +29,14 @@ O documento sob crivo já existe. O objetivo é verificar se ele está documenta
 → recebe somente a Folha e produz crítica/recomendação.
 
 **Auditor territorial**
-→ faz auditoria própria, no seu território, antes de receber a Folha; depois confronta sua análise com ela.
+→ faz auditoria própria dentro do seu território, antes de receber a Folha; depois confronta sua análise com ela.
 
 **Operador**
 → única autoridade para aprovar e declarar vigência.
 
 ---
 
-# 2️⃣ Fluxo operacional completo
+# 2️⃣ Fluxo operacional
 
 ```mermaid
 flowchart LR
@@ -60,7 +60,7 @@ flowchart LR
     K -->|"ressalva"| L["🔄 Nova rodada<br/>somente dos pontos afetados"]
     L --> M["Agente(s) que precisam revisar"]
 
-    K -->|"documento inalterado"| N["✅ Sugestão da Casa"]
+    K -->|"documento inalterado<br/>fechamento concluído"| N["✅ Sugestão da Casa"]
     N --> O["⚖️ Frase do operador"]
     O --> P["VIGÊNCIA"]
 ```
@@ -89,12 +89,12 @@ Para a decisão:
 
 | Agente                   | Faz                                                                                               | Não faz                                       |
 | ------------------------ | ------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| 🔵 **IA1 · IA2 · IA3**   | parecer independente do documento                                                                 | não veem as outras, não votam, não corrigem   |
-| 📋 **Arena-Casa**        | junta pareceres, monta Folha, lê documento em divergências e conduz fechamento                    | não decide por maioria                        |
-| 💬 **Comentador**        | crítica e recomendação usando somente a Folha                                                     | não recebe nem solicita documentos            |
-| 🟠 **Auditor-Mestre**    | governança, contratos, rito, processo, aderência normativa e pontos de seu território             | não substitui as 3 IAs e não declara vigência |
-| 🟠 **Auditor-Estrutura** | estrutura, schemas, compatibilidade, materialização, coerência técnica e pontos de seu território | não substitui as 3 IAs e não declara vigência |
-| ⚖️ **Operador**          | aprova ou não aprova e declara vigência por frase                                                 | não delega a declaração de vigência           |
+| 🔵 **IA1 · IA2 · IA3**   | Parecer independente do documento                                                                 | Não veem as outras, não votam, não corrigem   |
+| 📋 **Arena-Casa**        | Junta pareceres, monta Folha, lê o documento em divergências e conduz fechamento                  | Não decide por maioria                        |
+| 💬 **Comentador**        | Crítica e recomendação usando somente a Folha                                                     | Não recebe nem solicita documentos            |
+| 🟠 **Auditor-Mestre**    | Governança, contratos, rito, processo, aderência normativa e pontos de seu território             | Não substitui as 3 IAs e não declara vigência |
+| 🟠 **Auditor-Estrutura** | Estrutura, schemas, compatibilidade, materialização, coerência técnica e pontos de seu território | Não substitui as 3 IAs e não declara vigência |
+| ⚖️ **Operador**          | Aprova ou não aprova e declara vigência por frase                                                 | Não delega a declaração de vigência           |
 
 ---
 
@@ -123,17 +123,15 @@ A matriz é **fixa para os Livretos 1–4**.
 
 ### Ponto novo
 
-Se um ponto novo surgir durante o crivo, ele não fica sem atribuição.
+Se os 3 agentes, o Comentador, a Casa ou um auditor revelarem um **ponto de verificação novo**:
 
-A Casa:
-
-1. registra o fato;
-2. identifica onde está no documento;
+1. a Casa registra o fato;
+2. identifica onde ele está no documento;
 3. atribui o ponto ao território correspondente;
-4. se tocar ambos, aciona ambos;
-5. coloca o ponto somente na rodada necessária.
+4. se tocar GOVERNANÇA e ESTRUTURA, os dois auditores verificam;
+5. o ponto entra somente na rodada necessária.
 
-O ponto novo não altera retroativamente a atribuição dos pontos já definidos.
+O ponto novo não altera retroativamente a atribuição dos pontos já existentes.
 
 ### Nível completo
 
@@ -147,26 +145,57 @@ Para documentos novos e documentos da fila de regularização:
 
 > **O auditor só entra quando houver uso real demonstrável no território dele.**
 
-Esse uso deve ser demonstrado por:
+O uso deve ser demonstrado por:
 
 * fato concreto do documento; ou
 * dependência concreta do documento.
 
 A confirmação ocorre **antes da auditoria e sem usar a Folha como detector do uso**.
 
-Para documentos novos, a Casa pode registrar uma **ficha curta de uso**, que pode ser contestada pelo auditor.
+Para documentos novos, a Casa pode registrar uma **ficha curta de uso**, contestável pelo auditor.
 
 ### Livretos 1–4
 
-Nos Livretos 1–4, a matriz do §4 já estabelece os pontos que pertencem a cada território. Portanto, os dois auditores entram nos pontos que lhes foram atribuídos.
+Nos Livretos 1–4, permanece a matriz do §4.
 
 ---
 
-# 6️⃣ Pacote das 3 IAs
+# 6️⃣ Documentos de prompt — separados do Fluxo e dos Livretos
+
+Os prompts executáveis **não fazem parte deste documento nem dos Livretos**.
+
+São arquivos separados.
+
+### Prompts das 3 IAs
+
+| Arquivo                          | Uso             |
+| -------------------------------- | --------------- |
+| `PROMPT_IA_CRIVO_LIVRETO_01.txt` | IA do Livreto 1 |
+| `PROMPT_IA_CRIVO_LIVRETO_02.txt` | IA do Livreto 2 |
+| `PROMPT_IA_CRIVO_LIVRETO_03.txt` | IA do Livreto 3 |
+| `PROMPT_IA_CRIVO_LIVRETO_04.txt` | IA do Livreto 4 |
+
+As três IAs usam o mesmo prompt correspondente ao Livreto, cada uma em sua própria janela.
+
+### Prompts por território
+
+| Arquivo                        | Uso               |
+| ------------------------------ | ----------------- |
+| `PROMPT_AUDITOR_MESTRE.txt`    | Auditor-Mestre    |
+| `PROMPT_AUDITOR_ESTRUTURA.txt` | Auditor-Estrutura |
+| `PROMPT_COMENTADOR.txt`        | Comentador        |
+
+O conteúdo desses arquivos não é reproduzido neste Fluxo.
+
+**Nenhum agente recebe o prompt destinado a outro papel.**
+
+---
+
+# 7️⃣ Pacote das 3 IAs
 
 Cada Livreto possui um **pacote fechado e enumerado**.
 
-O pacote de cada Livreto deve identificar, arquivo por arquivo:
+O respectivo Livreto deve identificar, arquivo por arquivo:
 
 * nome exato;
 * papel do arquivo;
@@ -177,7 +206,7 @@ O pacote de cada Livreto deve identificar, arquivo por arquivo:
 
 As três IAs recebem **exatamente o mesmo pacote daquele Livreto**.
 
-O pacote é carregado pelo operador em cada uma das três janelas.
+Os arquivos são carregados pelo operador nas três janelas.
 
 Nenhum agente pode:
 
@@ -187,53 +216,26 @@ Nenhum agente pode:
 * alterar arquivos;
 * executar produção.
 
-### Pré-requisito
+### Conferência
 
-Antes de iniciar o crivo:
+Antes do início:
 
-1. o operador carrega todos os arquivos previstos;
+1. operador carrega o pacote;
 2. confere as digitais;
 3. confirma que o pacote está completo;
-4. somente então abre as três janelas.
+4. envia o prompt externo correspondente ao Livreto.
 
 ### Digital divergente
 
 Se qualquer digital não bater:
 
-> **parar e avisar.**
+> **PARAR E AVISAR.**
 
 Não ajustar por tentativa.
 
 ### Regra dos modelos
 
-As três IAs devem usar **modelos diferentes, quando a plataforma permitir**, mantendo janelas próprias e 0 ciência entre si.
-
----
-
-# 7️⃣ Abertura das 3 IAs
-
-Antes do Prompt A específico de cada Livreto, usar:
-
-```text
-ABERTURA PARA AGENTE ARENA — você recebeu apenas os arquivos carregados nesta conversa.
-Leia somente eles; não procure nem busque outros arquivos.
-
-NÃO altere, crie, mova nem apague arquivo.
-NÃO faça commit, push nem PR.
-NÃO rode scripts de produção.
-Responda somente em texto.
-
-Trabalhe sozinho: você não verá o parecer de nenhum outro agente.
-
-O crivo é DOCUMENTAL, com 0 ciência.
-Não analise conteúdo científico.
-Os pontos do livreto são fatos a verificar, NÃO correções prévias.
-
-Confirme primeiro que os arquivos recebidos correspondem ao pacote indicado no Livreto.
-Se faltar arquivo ou alguma digital não bater, pare e informe qual peça divergiu.
-```
-
-Depois da abertura, o operador cola o **Prompt A específico do respectivo Livreto**.
+As três IAs devem usar **modelos diferentes, quando a plataforma permitir**, mantendo janelas próprias e 0 ciência.
 
 ---
 
@@ -241,9 +243,9 @@ Depois da abertura, o operador cola o **Prompt A específico do respectivo Livre
 
 Cada IA trabalha sozinha.
 
-### Formato
+Formato máximo:
 
-Máximo de **12 linhas + tabela de pontos**.
+**12 linhas + tabela de pontos**
 
 O parecer contém:
 
@@ -257,7 +259,7 @@ O parecer contém:
 * **RESSALVA**
 * **OBSERVAÇÃO**
 
-Os pontos previstos no Livreto são **pontos a verificar**, não correções prévias.
+Os pontos indicados nos Livretos são **fatos a verificar**, não correções prévias.
 
 ---
 
@@ -269,21 +271,22 @@ Depois de receber os três pareceres, a Casa monta uma única Folha.
 | ----- | -------- | -------- | -------- | ----------------- | ------------------------- |
 | 1     | sim/não  | sim/não  | sim/não  | GOV · EST · AMBOS | BLOQUEIA · RESSALVA · OBS |
 
-Acima da tabela, a Casa registra:
+Acima da tabela, registrar:
 
 * resultado do Agente 1;
 * resultado do Agente 2;
 * resultado do Agente 3;
-* pontos encontrados por apenas um agente;
-* divergências entre agentes.
+* pontos encontrados somente por um agente;
+* divergências entre agentes;
+* eventual ponto novo.
 
-**A Casa não decide por maioria.**
+**A Casa não vota.**
 
 Onde houver divergência:
 
 > **a Casa lê o documento.**
 
-Se surgir ponto novo, aplica-se o §4.
+A Folha é registro de confronto; não é veredito.
 
 ---
 
@@ -293,15 +296,19 @@ O Comentador recebe **somente a Folha**.
 
 Não recebe o documento.
 
-Não pede o documento.
+Não solicita o documento.
 
-### Verifica
+Usa o arquivo:
 
-* lacunas que os três agentes não cobriram;
+`PROMPT_COMENTADOR.txt`
+
+Verifica:
+
+* lacunas não cobertas pelos três agentes;
 * contradições entre pontos;
 * o que falta para o fechamento.
 
-### Recomendação
+Pode recomendar:
 
 `aprovável` · `aprovável com ressalvas` · `não aprovável`
 
@@ -309,223 +316,107 @@ A recomendação é **opinião técnica**.
 
 O Comentador não declara vigência.
 
-### Prompt
-
-```text
-COMENTADOR — CRIVO DOCUMENTAL
-
-Você recebeu SOMENTE a FOLHA do crivo.
-Não peça o documento.
-
-Critique:
-(a) lacunas que os 3 agentes não cobriram;
-(b) contradições entre pontos;
-(c) o que falta para o fechamento.
-
-Recomende:
-aprovável · aprovável com ressalvas · não aprovável.
-
-Sua recomendação NÃO declara vigência.
-A vigência depende exclusivamente da frase do operador.
-
-0 ciência.
-Resposta curta, até 15 linhas.
-```
-
 ---
 
 # 1️⃣1️⃣ Pacote inicial do auditor
 
 O pacote do auditor é **diferente do pacote das 3 IAs**.
 
-Cada Livreto deve enumerar o que o Mestre e o Estrutura recebem, por território.
-
-### Regra
+Cada Livreto deve enumerar o pacote de cada território.
 
 Na **FASE 1**, o auditor recebe:
 
 * o documento sob crivo;
-* o próprio Livreto, quando necessário para os pontos atribuídos;
-* os documentos e trechos necessários ao seu território;
-* o que for estritamente necessário para verificar os pontos atribuídos.
+* o respectivo Livreto, quando necessário;
+* os materiais estritamente necessários ao seu território;
+* os pontos atribuídos ao seu território.
 
 **A Folha não entra na FASE 1.**
 
-A lista exata do pacote deve constar do respectivo Livreto.
+O prompt do auditor é enviado separadamente.
 
 ---
 
-# 1️⃣2️⃣ Auditoria territorial — ordem obrigatória
+# 1️⃣2️⃣ Auditoria territorial — duas fases
 
 ## FASE 1 — análise independente
 
-O auditor lê primeiro o documento e faz sua própria análise.
+O auditor recebe primeiro:
+
+**documento + pacote territorial + prompt do próprio território.**
+
+Não recebe a Folha.
+
+Faz sua própria análise.
 
 Não conhece os pareceres das 3 IAs.
 
-Verifica sua lista própria e seus pontos.
-
-### Depois
-
-Somente após terminar a análise independente, recebe a Folha.
-
 ## FASE 2 — confronto
+
+Depois de concluir sua análise independente, recebe a Folha.
+
+Então:
+
+* verifica os pontos da Folha que pertencem ao seu território;
+* compara a Folha com sua análise própria;
+* verifica eventuais pontos novos;
+* fora do território, lê somente o necessário.
+
+A Folha é **material de confronto, não veredito**.
+
+---
+
+# 1️⃣3️⃣ Auditor-Mestre
+
+Função:
+
+**governança · contratos · rito · processo · aderência normativa · vigência, quando aplicável**
+
+Usa o arquivo:
+
+`PROMPT_AUDITOR_MESTRE.txt`
+
+A matriz do respectivo Livreto define seus pontos.
 
 O auditor:
 
-* compara a Folha com sua análise própria;
-* verifica os pontos da Folha que pertencem ao seu território;
-* verifica eventuais pontos novos de seu território;
-* mantém sua independência;
-* fora do território, lê somente o necessário.
+* analisa primeiro o documento;
+* depois recebe a Folha;
+* confronta;
+* emite parecer.
 
-A Folha é **material de confronto**, não veredito.
+Resposta:
 
----
+`de acordo` · `de acordo com ressalva` · `em desacordo`
 
-# 1️⃣3️⃣ Prompt do Auditor-Mestre
-
-```text
-AUDITOR-MESTRE — CRIVO DOCUMENTAL — SESSÃO NOVA
-
-Você é o Auditor-Mestre.
-
-SEU TERRITÓRIO:
-governança · contratos · rito · processo · aderência normativa · vigência, quando aplicável.
-
-========================
-FASE 1 — ANÁLISE INDEPENDENTE
-========================
-
-Você recebe primeiro:
-1) o documento sob crivo;
-2) os materiais necessários ao seu território;
-3) os pontos atribuídos ao Mestre no FLUXO e no respectivo Livreto.
-
-A FOLHA das 3 IAs ainda NÃO foi entregue.
-
-Faça sua própria análise, sem conhecer os pareceres das 3 IAs.
-
-Verifique:
-- os pontos atribuídos ao seu território;
-- papel e identidade documental;
-- versão e cadeia documental;
-- rito e aprovação aplicáveis;
-- governança e aderência normativa;
-- vigência e substituição quando fizerem parte do ponto;
-- dependências necessárias para concluir seu território.
-
-Os pontos do Livreto são fatos a verificar, NÃO correções prévias.
-
-Não corrija o documento.
-Não altere arquivos.
-Não invente peças.
-Não execute scripts de produção.
-Não analise conteúdo científico.
-
-Registre os achados de forma curta:
-nº · onde · fato constatado · gravidade · ponto afetado.
-
-========================
-FASE 2 — CONFRONTO
-========================
-
-Depois de concluir sua análise independente, você receberá a FOLHA das 3 IAs.
-
-Confronte os achados da Folha com sua análise própria.
-
-Verifique:
-- os pontos da Folha que pertencem ao seu território;
-- eventuais pontos novos atribuídos à GOVERNANÇA.
-
-A Folha é material de confronto, NÃO é veredito
-e NÃO substitui sua análise independente.
-
-PARECER FINAL:
-de acordo · de acordo com ressalva · em desacordo.
-
-PERGUNTA ÚNICA:
-"No seu território, concorda que o documento pode seguir ao fechamento do crivo
-para decisão do operador?"
-
-Você emite PARECER.
-Você NÃO declara vigência.
-
-0 ciência.
-```
+O parecer não declara vigência.
 
 ---
 
-# 1️⃣4️⃣ Prompt do Auditor-Estrutura
+# 1️⃣4️⃣ Auditor-Estrutura
 
-```text
-AUDITOR-ESTRUTURA — CRIVO DOCUMENTAL — SESSÃO NOVA
+Função:
 
-Você é o Auditor-Estrutura.
+**estrutura · schemas · compatibilidade · materialização · coerência técnica**
 
-SEU TERRITÓRIO:
-estrutura · schemas · compatibilidade · materialização · coerência técnica.
+Usa o arquivo:
 
-========================
-FASE 1 — ANÁLISE INDEPENDENTE
-========================
+`PROMPT_AUDITOR_ESTRUTURA.txt`
 
-Você recebe primeiro:
-1) o documento sob crivo;
-2) os materiais necessários ao seu território;
-3) os pontos atribuídos ao Estrutura no FLUXO e no respectivo Livreto.
+A matriz do respectivo Livreto define seus pontos.
 
-A FOLHA das 3 IAs ainda NÃO foi entregue.
+O auditor:
 
-Faça sua própria análise, sem conhecer os pareceres das 3 IAs.
+* analisa primeiro o documento;
+* depois recebe a Folha;
+* confronta;
+* emite parecer.
 
-Verifique:
-- os pontos atribuídos ao seu território;
-- estrutura e forma do documento;
-- compatibilidade com schemas e documentos de referência;
-- materialização;
-- chaves, contadores e IDs quando aplicável;
-- coerência técnica;
-- dependências necessárias para concluir seu território.
+Resposta:
 
-Os pontos do Livreto são fatos a verificar, NÃO correções prévias.
+`de acordo` · `de acordo com ressalva` · `em desacordo`
 
-Não corrija o documento.
-Não altere arquivos.
-Não invente peças.
-Não execute scripts de produção.
-Não analise conteúdo científico.
-
-Registre os achados de forma curta:
-nº · onde · fato constatado · gravidade · ponto afetado.
-
-========================
-FASE 2 — CONFRONTO
-========================
-
-Depois de concluir sua análise independente, você receberá a FOLHA das 3 IAs.
-
-Confronte os achados da Folha com sua análise própria.
-
-Verifique:
-- os pontos da Folha que pertencem ao seu território;
-- eventuais pontos novos atribuídos à ESTRUTURA.
-
-A Folha é material de confronto, NÃO é veredito
-e NÃO substitui sua análise independente.
-
-PARECER FINAL:
-de acordo · de acordo com ressalva · em desacordo.
-
-PERGUNTA ÚNICA:
-"No seu território, concorda que o documento pode seguir ao fechamento do crivo
-para decisão do operador?"
-
-Você emite PARECER.
-Você NÃO declara vigência.
-
-0 ciência.
-```
+O parecer não declara vigência.
 
 ---
 
@@ -536,25 +427,23 @@ A Casa recebe:
 * os três pareceres;
 * a Folha;
 * a recomendação do Comentador;
-* os pareceres dos auditores territoriais aplicáveis.
+* os pareceres territoriais aplicáveis.
 
 A Casa conduz o **fechamento operacional**.
 
-### Regra de fechamento
+### Regra
 
 A Casa:
 
-* lê o documento sempre que houver divergência relevante;
+* lê o documento quando houver divergência relevante;
 * verifica contradições entre pareceres;
 * registra pontos resolvidos;
-* registra pontos que permanecem como ressalva;
+* registra ressalvas remanescentes;
 * não vota.
 
-**Quantidade de pareceres favoráveis não produz aprovação automática.**
+Quantidade de pareceres favoráveis **não produz aprovação automática**.
 
-O resultado do fechamento é um estado do processo.
-
-Ele **não declara vigência**.
+O fechamento não declara vigência.
 
 ---
 
@@ -572,11 +461,11 @@ Não se refaz o crivo inteiro sem necessidade.
 
 ### Ponto novo
 
-Ponto novo segue a atribuição territorial do §4 e entra somente na rodada necessária.
+Ponto novo segue o território definido no §4 e entra somente na rodada necessária.
 
 ### Documento inalterado
 
-Enquanto o crivo estiver aberto, o documento sob crivo permanece intacto.
+Durante o crivo, o documento permanece intacto.
 
 ### Documento alterado
 
@@ -584,7 +473,7 @@ Se o documento for alterado:
 
 > **nova digital → novo objeto → novo crivo.**
 
-Uma ressalva não autoriza a Casa, auditor ou agente a alterar o documento.
+Uma ressalva não autoriza alteração silenciosa.
 
 ---
 
@@ -606,15 +495,15 @@ Se o Livreto 1 alterar o catálogo:
 
 Isso significa:
 
-**1 sessão do Mestre:** Livreto 2 → Livreto 3 → Livreto 4
-**1 sessão do Estrutura:** Livreto 2 → Livreto 3 → Livreto 4
+**Mestre:** Livreto 2 → Livreto 3 → Livreto 4
+**Estrutura:** Livreto 2 → Livreto 3 → Livreto 4
 
-A sessão compartilhada é somente uma economia operacional.
+A sessão compartilhada reduz custo, mas não funde os crivos.
 
-Cada Livreto continua tendo:
+Cada Livreto mantém:
 
 * seu próprio documento;
-* seu próprio conjunto de pontos;
+* seus próprios pontos;
 * seu próprio parecer;
 * seu próprio confronto;
 * seu próprio fechamento.
@@ -627,21 +516,23 @@ Se a sessão ficar pesada, pode ser dividida.
 
 O Livreto 1 vem primeiro.
 
-Quando um documento depender de outro ainda sem veredito, a Casa registra a dependência.
+Se o seu resultado alterar o catálogo:
 
-Quando dois documentos se citarem mutuamente, a dependência deve ser preservada no fechamento.
+> repetir as conferências de IDs dos Livretos 2, 3 e 4.
 
-Nenhuma aprovação é inventada para satisfazer uma dependência.
+Quando dois documentos se citarem mutuamente, a dependência deve ser preservada.
+
+Nenhuma aprovação é inventada para satisfazer dependência.
 
 ---
 
 # 1️⃣9️⃣ Documentos antigos
 
-Documentos históricos ou aposentados não entram no pacote apenas para confirmar que foram substituídos.
+Documentos históricos ou aposentados não entram apenas para confirmar substituição.
 
-Eles somente entram quando houver **necessidade concreta para a auditoria**.
+Entram somente quando houver **necessidade concreta para a auditoria**.
 
-Quando a questão for exclusivamente “o que mudou?”, pode ser usada a diferença textual necessária, sem carregar o documento inteiro, conforme decisão aplicável.
+Se a pergunta for exclusivamente “o que mudou?”, pode-se usar a diferença textual necessária, sem carregar o documento inteiro.
 
 ---
 
@@ -649,11 +540,9 @@ Quando a questão for exclusivamente “o que mudou?”, pode ser usada a difere
 
 O crivo deve ser proporcional à função e ao destino do documento.
 
-Não criar verificações adicionais apenas por perfeccionismo documental.
+Não criar verificações adicionais por perfeccionismo.
 
-Não refinar um documento além do necessário para a decisão que está sendo tomada.
-
-A economia de créditos não autoriza retirar uma verificação necessária.
+A economia de créditos não autoriza retirar verificação necessária.
 
 ---
 
@@ -663,28 +552,28 @@ Nenhum destes fatos declara vigência:
 
 * estar no `main`;
 * existir;
-* ter digital;
+* possuir digital;
 * ter sido medido;
 * receber parecer favorável;
 * receber recomendação favorável;
 * receber fechamento favorável.
 
-A sequência correta é:
+A sequência é:
 
 **pareceres → Folha → Comentador → auditoria territorial → fechamento da Casa → frase do operador.**
 
-A Casa pode redigir uma:
+A Casa pode produzir:
 
 > **SUGESTÃO DA CASA**
 
-A sugestão deve identificar:
+com:
 
-* documento;
+* nome do documento;
 * papel;
 * digital completa;
 * data.
 
-O ato somente existe quando o operador registra a frase correspondente.
+O ato somente existe quando o operador registra a frase.
 
 A **data da frase é a data em que o operador a registra**.
 
@@ -694,15 +583,16 @@ A **data da frase é a data em que o operador a registra**.
 
 Antes de qualquer abertura:
 
-1. identificar o Livreto correto;
-2. identificar o documento correto;
+1. identificar o Livreto;
+2. identificar o documento sob crivo;
 3. separar o pacote fechado das 3 IAs;
-4. separar os pacotes territoriais dos auditores;
+4. separar os pacotes territoriais;
 5. conferir as digitais;
-6. carregar os arquivos nas janelas;
-7. somente então iniciar o crivo.
+6. carregar os arquivos;
+7. enviar somente o prompt externo correspondente;
+8. iniciar o crivo.
 
-Se faltar arquivo, houver dúvida de identidade ou a digital não bater:
+Falta de arquivo ou digital divergente:
 
 > **parar e avisar.**
 
@@ -711,52 +601,54 @@ Se faltar arquivo, houver dúvida de identidade ou a digital não bater:
 # 2️⃣3️⃣ Regras permanentes
 
 1. **0 ciência:** o crivo documental não analisa ciência clínica.
-2. **3 IAs independentes:** janelas próprias e sem ciência entre si.
-3. **Modelos diferentes:** quando a plataforma permitir.
-4. **Pacote fechado:** as três IAs recebem exatamente o mesmo pacote do Livreto.
-5. **Digital divergente:** parar e avisar.
-6. **Sem acesso ao repositório** para os 3 agentes do crivo.
-7. **Sem alteração de documento durante o crivo.**
-8. **Casa não vota.**
-9. **Divergência:** resolve-se lendo o documento.
-10. **Comentador:** somente a Folha.
-11. **Auditor:** documento primeiro; Folha depois.
-12. **Folha:** instrumento de confronto, não veredito.
-13. **Auditor:** emite parecer; não declara vigência.
-14. **Ponto novo:** atribuir ao território; se tocar ambos, ambos verificam.
-15. **Ressalva:** nova rodada somente dos pontos afetados.
-16. **Documento alterado:** nova digital e novo crivo.
-17. **Nível completo:** somente por ordem do operador.
-18. **Documentos antigos:** somente quando houver necessidade concreta.
-19. **Zelo proporcional:** não criar trabalho desnecessário.
-20. **Livreto 1:** primeiro e isolado.
-21. **Livretos 2–4:** podem compartilhar uma sessão por auditor, mas mantêm crivos independentes.
-22. **Operador:** única autoridade para aprovação e vigência.
-23. **Sem força:** conflito ou impossibilidade deve ser indicado, não contornado.
+2. As 3 IAs trabalham em janelas próprias e sem ciência entre si.
+3. Modelos diferentes, quando a plataforma permitir.
+4. As 3 IAs recebem exatamente o mesmo pacote do respectivo Livreto.
+5. Os prompts são documentos separados do Fluxo e dos Livretos.
+6. Um agente não recebe o prompt destinado a outro papel.
+7. Digital divergente → parar e avisar.
+8. Agentes do crivo não acessam o repositório.
+9. Pontos são fatos a verificar, não correções prévias.
+10. Divergência é resolvida lendo o documento, nunca por votação.
+11. Comentador recebe somente a Folha.
+12. Auditor recebe primeiro documento + pacote territorial; a Folha chega depois.
+13. Auditor emite parecer; não declara vigência.
+14. Ponto novo recebe território correspondente; se tocar ambos, ambos verificam.
+15. Ressalva → nova rodada somente dos pontos afetados.
+16. Documento alterado → nova digital e novo crivo.
+17. Nível completo → somente por ordem do operador.
+18. Documentos antigos → somente quando houver necessidade concreta.
+19. Zelo proporcional.
+20. Livreto 1 → primeiro e isolado.
+21. Livretos 2–4 podem compartilhar uma sessão por auditor, mas mantêm crivos independentes.
+22. A Casa não vota.
+23. O operador é a única autoridade para aprovação e vigência.
 
 ---
 
 # 2️⃣4️⃣ Fórmula final do rito
 
-### Crivo
+### 3 IAs
 
-**PACOTE FECHADO**
-→ **3 IAs independentes**
-→ **3 pareceres**
+**Pacote fechado do Livreto**
+→ **Prompt externo específico do Livreto**
+→ **3 pareceres independentes**
 → **Folha da Casa**
 
 ### Comentador
 
 **Folha**
+→ **Prompt externo do Comentador**
 → **crítica/recomendação**
 
 ### Auditor
 
 **Documento + pacote territorial**
+→ **Prompt externo do próprio território**
 → **análise independente**
 → **Folha**
 → **confronto**
-→ **parecer territorial**
+→ **parecer**
 
 ### Fechamento
 
