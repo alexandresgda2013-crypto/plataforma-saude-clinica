@@ -2018,3 +2018,11 @@ Errata de 01/10/2026 do Roteiro e Ato do operador de 01/10/2026.
 - **3. Auditor-Mestre (01/10):** errata não substantiva, medida sobre a redação curta a0efc7d0 (38.372 B); a redação final aa01bfe8 AINDA NÃO foi medida por ele. AUD-007 (moderado): não há frase do operador aprovando o Roteiro. AUD-008 e AUD-001 (menores): bilhete corrigido.
 - **4. Bilhete do Roteiro atualizado (cadfef35...).** Cadeia: 2c286ca1 (concordado 2x em 26/09) -> 5f8b89dc -> 507eaefa -> aa01bfe8; as erratas não têm concordância própria registrada.
 - **5. Pendente:** frase do operador para o Roteiro, depois de gravado e medido; Mestre medir aa01bfe8; crivo documental do Livreto 1; minuta 2 do L-NT; fila de regularização. 0 ciência.
+
+## 2026-10-02 — CARTA DE PASSAGEM E NOTA DE ESTADO (Arena · sem rodada de casa)
+Fatos de 02/10/2026.
+- **1. Carta de passagem** para o próximo agente do chat: `ENTREGAS/2026-10-02_PASSAGEM/CARTA_DE_PASSAGEM_2026-10-02.md` (`a80b5d6e…`, 14.241 B).
+- **2. Nota de estado e mapa** (§1 a §14): `ENTREGAS/2026-10-02_PASSAGEM/NOTA_DE_ESTADO_E_MAPA_2026-10-01.md` (`624c9582…`, 27.915 B). Escrita em 01/10 e atualizada com o parecer do Auditor-Mestre, a correção do Roteiro e (§14) esta publicação.
+- **3. Programa de teste da correção do Roteiro** (variantes A `a0efc7d0…` e B `aa01bfe8…`): `ENTREGAS/2026-10-02_PASSAGEM/ROTEIRO_CORRECAO_PROPOSTA_2026-10-01.py` (`cdbd0e91…`, 3.896 B). A variante B é a publicada em 01/10 (PR nº 7).
+- **4. Decisão do operador (02/10):** não mandar ao Auditor-Mestre pedido separado de medição de `aa01bfe8…`. O bilhete do Roteiro já declara que o Mestre mediu só `a0efc7d0…`.
+- **5. 0 ciência.** Nenhum conteúdo científico foi analisado, produzido ou alterado.
