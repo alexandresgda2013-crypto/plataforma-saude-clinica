@@ -55,7 +55,7 @@ O documento define, para o mecanismo **B1 (neuroinflamação)**:
 
 # 3️⃣ Identidade, cópias e digitais
 
-Medições registradas em 2026-09-30:
+Medições registradas em 2026-09-30 · re-conferidas em 03/10/2026:
 
 | Peça                          | Caminho                                                                      | Digital (sha256, início) | Observação                        |
 | ----------------------------- | ---------------------------------------------------------------------------- | ------------------------ | --------------------------------- |
@@ -275,9 +275,9 @@ O operador carrega os arquivos e confere as digitais antes do início.
 
 | # | Arquivo                                        | Papel                             | Digital (início) |
 | - | ---------------------------------------------- | --------------------------------- | ---------------- |
-| 1 | `LIVRETO_02_PROTOCOLO_ESCOPO_B1_2026-09-30.md` | instrução do crivo                | `36ed0fa5…`      |
+| 1 | `1 CRIVO DOCUMENTAL — LIVRETO 2 de 4 — 2º PROTOCOLO DE ESCOPO — B1 (v1.3).md` | instrução do crivo                | manifesto externo      |
 | 2 | `2º PROTOCOLO DE ESCOPO — B1 (v1.3).md`        | **objeto sob crivo**              | `943425cd…`      |
-| 3 | `ROTEIRO DE TRABALHO DA PLATAFORMA.md`         | régua e rito                      | `507eaefa…`      |
+| 3 | `ROTEIRO DE TRABALHO DA PLATAFORMA.md`         | régua e rito                      | `aa01bfe8…`      |
 | 4 | `4º COMO EXECUTAR — v1.11 rev.2.md`            | documento normativo de referência | `1ea6d354…`      |
 | 5 | `3º SCHEMA-CLAIM — v1.3.md`                    | schema vigente                    | `e9f9e5d8…`      |
 | 6 | `1º IDS_OFICIAIS.md`                           | catálogo de IDs                   | `3c0eccac…`      |
@@ -323,7 +323,7 @@ Na FASE 1, recebe somente o necessário ao seu território:
 
 | # | Arquivo                                 | Papel                 | Digital     |
 | - | --------------------------------------- | --------------------- | ----------- |
-| 1 | Livreto 2                               | pontos V1, V2, V4, V5 | `36ed0fa5…` |
+| 1 | Livreto 2                               | pontos V1, V2, V4, V5 | manifesto externo |
 | 2 | `2º PROTOCOLO DE ESCOPO — B1 (v1.3).md` | objeto                | `943425cd…` |
 | 3 | `3º SCHEMA-CLAIM — v1.3.md`             | schema                | `e9f9e5d8…` |
 | 4 | `1º IDS_OFICIAIS.md`                    | catálogo              | `3c0eccac…` |
@@ -345,9 +345,9 @@ Na FASE 1, recebe somente o necessário ao seu território:
 
 | # | Arquivo                                 | Papel                          | Digital     |
 | - | --------------------------------------- | ------------------------------ | ----------- |
-| 1 | Livreto 2                               | ponto V3 e contexto documental | `36ed0fa5…` |
+| 1 | Livreto 2                               | ponto V3 e contexto documental | manifesto externo |
 | 2 | `2º PROTOCOLO DE ESCOPO — B1 (v1.3).md` | objeto                         | `943425cd…` |
-| 3 | `ROTEIRO DE TRABALHO DA PLATAFORMA.md`  | régua/rito                     | `507eaefa…` |
+| 3 | `ROTEIRO DE TRABALHO DA PLATAFORMA.md`  | régua/rito                     | `aa01bfe8…` |
 | 4 | `4º COMO EXECUTAR — v1.11 rev.2.md`     | rito aplicável                 | `1ea6d354…` |
 | 5 | `3º SCHEMA-CLAIM — v1.3.md`             | V1 e referência normativa      | `e9f9e5d8…` |
 | 6 | `CANDIDATOS_IDS_OFICIAIS — v1.0.md`     | V2                             | `a069de5f…` |

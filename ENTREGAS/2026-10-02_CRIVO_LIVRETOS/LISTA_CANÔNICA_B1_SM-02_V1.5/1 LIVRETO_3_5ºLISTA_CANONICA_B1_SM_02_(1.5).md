@@ -85,7 +85,7 @@ O crivo é **documental**.
 
 # 4️⃣ Identidade, cópias e versões
 
-Medições registradas em 2026-09-30:
+Medições registradas em 2026-09-30 · re-conferidas em 03/10/2026:
 
 | Peça                   | Caminho                                                                                                          | Digital (sha256, início) | Observação                                    |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------ | --------------------------------------------- |
@@ -368,9 +368,9 @@ As três IAs recebem **exatamente o mesmo pacote**.
 
 | # | Arquivo                                                                  | Papel                           | Digital (início) |
 | - | ------------------------------------------------------------------------ | ------------------------------- | ---------------- |
-| 1 | `LIVRETO_03_LISTA_CANONICA_B1_SM02_2026-09-30.md`                        | instrução do crivo              | `15001205…`      |
+| 1 | `1 LIVRETO_3_5ºLISTA_CANONICA_B1_SM_02_(1.5).md`                        | instrução do crivo              | manifesto externo      |
 | 2 | `5º_LISTA_CANÔNICA___B1__SM-02_V1_5.md`                                  | **objeto sob crivo**            | `20efa89f…`      |
-| 3 | `ROTEIRO DE TRABALHO DA PLATAFORMA.md`                                   | régua e rito                    | `507eaefa…`      |
+| 3 | `ROTEIRO DE TRABALHO DA PLATAFORMA.md`                                   | régua e rito                    | `aa01bfe8…`      |
 | 4 | `4º COMO EXECUTAR — v1.11 rev.2.md`                                      | referência normativa            | `1ea6d354…`      |
 | 5 | `3º SCHEMA-CLAIM — v1.3.md`                                              | schema vigente                  | `e9f9e5d8…`      |
 | 6 | `1º IDS_OFICIAIS.md`                                                     | catálogo de IDs                 | `3c0eccac…`      |
@@ -416,7 +416,7 @@ Na FASE 1, sem a Folha:
 
 | # | Arquivo                                                                  | Função                |
 | - | ------------------------------------------------------------------------ | --------------------- |
-| 1 | `LIVRETO_03_LISTA_CANONICA_B1_SM02_2026-09-30.md`                        | pontos L1/L2/L3/L5/L6 |
+| 1 | `1 LIVRETO_3_5ºLISTA_CANONICA_B1_SM_02_(1.5).md`                        | pontos L1/L2/L3/L5/L6 |
 | 2 | `5º_LISTA_CANÔNICA___B1__SM-02_V1_5.md`                                  | objeto                |
 | 3 | `3º SCHEMA-CLAIM — v1.3.md`                                              | L1/L2/L3              |
 | 4 | `1º IDS_OFICIAIS.md`                                                     | IDs                   |
@@ -439,7 +439,7 @@ Na FASE 1, sem a Folha:
 
 | # | Arquivo                                                   | Função                                    |
 | - | --------------------------------------------------------- | ----------------------------------------- |
-| 1 | `LIVRETO_03_LISTA_CANONICA_B1_SM02_2026-09-30.md`         | pontos L4/L7                              |
+| 1 | `1 LIVRETO_3_5ºLISTA_CANONICA_B1_SM_02_(1.5).md`         | pontos L4/L7                              |
 | 2 | `5º_LISTA_CANÔNICA___B1__SM-02_V1_5.md`                   | objeto                                    |
 | 3 | `ROTEIRO DE TRABALHO DA PLATAFORMA.md`                    | régua e rito                              |
 | 4 | `4º COMO EXECUTAR — v1.11 rev.2.md`                       | rito aplicável                            |
