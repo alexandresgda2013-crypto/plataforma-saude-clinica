@@ -1,3 +1,12 @@
+> ⚠️ **ARQUIVO HISTÓRICO — NÃO USAR NO NOVO CRIVO.**
+> Cópia datada de 30/09/2026; o nome do arquivo não corresponde mais ao conteúdo,
+> que passou a declarar "versão final — 02/10/2026".
+> O Fluxo aplicável ao ciclo atual é:
+> `ENTREGAS/2026-10-02_CRIVO_LIVRETOS/IDS_OFICIAIS/1 FLUXO_CRIVO_DOCUMENTAL_2026-10-02.md`
+> — **FLUXO DO CRIVO DOCUMENTAL — versão final — 02/10/2026** (inalterado por esta correção).
+
+---
+
 # 🧭 FLUXO DO CRIVO DOCUMENTAL — versão final — 02/10/2026
 
 **Aplica-se aos:** Livretos 1, 2, 3 e 4 — documentos sob crivo para o piloto oficial `B1.SM02.014`.

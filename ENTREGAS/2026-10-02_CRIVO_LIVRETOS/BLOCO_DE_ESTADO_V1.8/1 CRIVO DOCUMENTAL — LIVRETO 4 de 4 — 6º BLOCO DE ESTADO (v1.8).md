@@ -4,6 +4,7 @@
 **Objeto:** `6º BLOCO_DE_ESTADO__v1_8.md`
 **Aplicação:** crivo documental para o piloto oficial `B1.SM02.014`
 **Natureza:** **0 ciência** — não se analisa conteúdo científico.
+**Situação do Livreto 4:** **fechamento formal do documento concluído em 03/10/2026**, mediante autorização da Casa/operador — aguarda conferência da Casa/operador. Este fechamento encerra **o documento do Livreto 4**; **não** declara o objeto vigente, **não** executa o crivo, **não** autoriza alteração do objeto e **não** substitui a frase do operador.
 
 O rito geral é definido pelo:
 
@@ -43,6 +44,10 @@ Por isso:
 
 Uma nova versão do Bloco de Estado, com outra digital, será outro objeto documental e deverá ter seu próprio crivo.
 
+**Este Livreto não autoriza alteração do objeto.**
+
+O Livreto instrui o crivo; não edita, não corrige e não substitui o `6º BLOCO_DE_ESTADO__v1_8.md`, que permanece intacto durante todo o rito.
+
 ---
 
 # 2️⃣ Régua do crivo
@@ -80,7 +85,7 @@ O `COMO EXECUTAR v1.11 rev.2` descreve o Bloco como o documento que deve ser uti
 
 # 4️⃣ Identidade, cópias e versões
 
-Medições registradas em 2026-09-30:
+Medições registradas em 2026-09-30 · re-conferidas em 03/10/2026:
 
 | Peça                        | Caminho                                                                                                | Digital (sha256, início) | Observação                                      |
 | --------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------ | ----------------------------------------------- |
@@ -133,7 +138,7 @@ Se o resultado do Livreto 3 alterar fato utilizado pelo Bloco:
 
 # 6️⃣ O que a Casa já mediu
 
-Estas são conferências mecânicas registradas antes do crivo.
+Estas medições são **conferência mecânica — não é o crivo**. Foram registradas antes do crivo e não o substituem.
 
 | Conferência              | Resultado                                                                                              |
 | ------------------------ | ------------------------------------------------------------------------------------------------------ |
@@ -315,7 +320,7 @@ Este arquivo é modelo de estrutura; não é o Bloco de Estado v1.8.
 
 # 8️⃣ Verificações das 3 IAs
 
-As três IAs devem verificar:
+As três IAs devem verificar. Os itens 1–5 são **as 5 perguntas do §6.1 do Roteiro** aplicadas ao objeto; os itens seguintes são conferências específicas deste crivo:
 
 1. documento correto;
 2. versão correta;
@@ -386,9 +391,9 @@ As três IAs recebem **exatamente o mesmo pacote**.
 
 | # | Arquivo                                        | Papel                 | Digital (início) |
 | - | ---------------------------------------------- | --------------------- | ---------------- |
-| 1 | `LIVRETO_04_BLOCO_DE_ESTADO_V18_2026-09-30.md` | instrução do crivo    | `d5a7a083…`      |
+| 1 | `1 CRIVO DOCUMENTAL — LIVRETO 4 de 4 — 6º BLOCO DE ESTADO (v1.8).md` | instrução do crivo    | manifesto externo      |
 | 2 | `6º BLOCO_DE_ESTADO__v1_8.md`                  | **objeto sob crivo**  | `7db41d40…`      |
-| 3 | `ROTEIRO DE TRABALHO DA PLATAFORMA.md`         | régua e rito          | `507eaefa…`      |
+| 3 | `ROTEIRO DE TRABALHO DA PLATAFORMA.md`         | régua e rito          | `aa01bfe8…`      |
 | 4 | `4º COMO EXECUTAR — v1.11 rev.2.md`            | referência normativa  | `1ea6d354…`      |
 | 5 | `3º SCHEMA-CLAIM — v1.3.md`                    | schema vigente        | `e9f9e5d8…`      |
 | 6 | `5º_LISTA_CANÔNICA___B1__SM-02_V1_5.md`        | dependência principal | `20efa89f…`      |
@@ -430,7 +435,7 @@ Na FASE 1, sem a Folha:
 
 | # | Arquivo                                                                                 | Função                    |
 | - | --------------------------------------------------------------------------------------- | ------------------------- |
-| 1 | `LIVRETO_04_BLOCO_DE_ESTADO_V18_2026-09-30.md`                                          | pontos B1/B2/B3/B5/B7/B8  |
+| 1 | `1 CRIVO DOCUMENTAL — LIVRETO 4 de 4 — 6º BLOCO DE ESTADO (v1.8).md`                                          | pontos B1/B2/B3/B5/B7/B8  |
 | 2 | `6º BLOCO_DE_ESTADO__v1_8.md`                                                           | objeto                    |
 | 3 | `3º SCHEMA-CLAIM — v1.3.md`                                                             | B1/B2/B3                  |
 | 4 | `5º_LISTA_CANÔNICA___B1__SM-02_V1_5.md`                                                 | correspondência do estado |
@@ -452,7 +457,7 @@ Na FASE 1, sem a Folha:
 
 | # | Arquivo                                           | Função                                                   |
 | - | ------------------------------------------------- | -------------------------------------------------------- |
-| 1 | `LIVRETO_04_BLOCO_DE_ESTADO_V18_2026-09-30.md`    | pontos B4/B6                                             |
+| 1 | `1 CRIVO DOCUMENTAL — LIVRETO 4 de 4 — 6º BLOCO DE ESTADO (v1.8).md`    | pontos B4/B6                                             |
 | 2 | `6º BLOCO_DE_ESTADO__v1_8.md`                     | objeto                                                   |
 | 3 | `ROTEIRO DE TRABALHO DA PLATAFORMA.md`            | régua e rito                                             |
 | 4 | `4º COMO EXECUTAR — v1.11 rev.2.md`               | rito aplicável                                           |

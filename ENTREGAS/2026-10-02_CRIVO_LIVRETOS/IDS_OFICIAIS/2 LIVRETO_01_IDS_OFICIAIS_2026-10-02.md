@@ -55,7 +55,7 @@ O crivo deste Livreto é **documental**.
 
 # 3️⃣ Cópias, digitais e derivados
 
-Medições registradas em 2026-09-29:
+Medições registradas em 2026-09-29 · re-conferidas em 03/10/2026:
 
 | Peça                   | Caminho                                                                           | Digital (sha256, início) | Observação                            |
 | ---------------------- | --------------------------------------------------------------------------------- | ------------------------ | ------------------------------------- |
@@ -205,7 +205,7 @@ O operador carrega os arquivos nas três janelas.
 
 | # | Arquivo                                      | Papel                    | Digital (início) |
 | - | -------------------------------------------- | ------------------------ | ---------------- |
-| 1 | `LIVRETO_01_IDS_OFICIAIS_2026-09-29.md`      | instrução deste crivo    | `5cfdee31…`      |
+| 1 | `2 LIVRETO_01_IDS_OFICIAIS_2026-10-02.md`      | instrução deste crivo    | manifesto externo      |
 | 2 | `1º IDS_OFICIAIS.md`                         | **objeto sob crivo**     | `3c0eccac…`      |
 | 3 | `_ids_oficiais.json`                         | derivado estrutural      | `d0ff2647…`      |
 | 4 | `_ids_oficiais.PROVENIENCIA.json`            | proveniência do derivado | `573b7edb…`      |
@@ -214,7 +214,7 @@ O operador carrega os arquivos nas três janelas.
 | 7 | `3º SCHEMA-CLAIM — v1.3.md`                  | schema vigente           | `e9f9e5d8…`      |
 | 8 | `CONTRATO_SAIDA_CLAIMKIT_rev2_2026-09-24.md` | contrato vigente         | `03cdd19a…`      |
 
-**As 8 digitais acima foram medidas e conferidas em 01/10/2026.**
+**As 7 digitais externas acima foram medidas em 01/10/2026 e re-conferidas em 03/10/2026. A digital do próprio Livreto não é registrada neste documento: ela consta do manifesto externo `DIGITAIS_CRIVO_LIVRETOS.txt`, a produzir após o fechamento do conjunto.**
 
 ### Regra
 
@@ -267,7 +267,7 @@ O Auditor-Estrutura recebe, na FASE 1, somente o material necessário ao seu ter
 
 | # | Arquivo                                      | Papel                            | Digital (início) |
 | - | -------------------------------------------- | -------------------------------- | ---------------- |
-| 1 | `LIVRETO_01_IDS_OFICIAIS_2026-09-29.md`      | pontos e objeto do crivo         | `5cfdee31…`      |
+| 1 | `2 LIVRETO_01_IDS_OFICIAIS_2026-10-02.md`      | pontos e objeto do crivo         | manifesto externo      |
 | 2 | `1º IDS_OFICIAIS.md`                         | objeto sob auditoria             | `3c0eccac…`      |
 | 3 | `_ids_oficiais.json`                         | derivado estrutural              | `d0ff2647…`      |
 | 4 | `_ids_oficiais.PROVENIENCIA.json`            | proveniência do derivado         | `573b7edb…`      |
@@ -291,7 +291,7 @@ O Auditor-Mestre recebe, na FASE 1:
 
 | # | Arquivo                                 | Papel                       | Digital (início)               |
 | - | --------------------------------------- | --------------------------- | ------------------------------ |
-| 1 | `LIVRETO_01_IDS_OFICIAIS_2026-09-29.md` | pontos e objeto do crivo    | `5cfdee31…`                    |
+| 1 | `2 LIVRETO_01_IDS_OFICIAIS_2026-10-02.md` | pontos e objeto do crivo    | manifesto externo                    |
 | 2 | `1º IDS_OFICIAIS.md`                    | objeto sob auditoria        | `3c0eccac…`                    |
 | 3 | `CANDIDATOS_IDS_OFICIAIS — v1.0.md`     | verificação de substituição | `a069de5f…`                    |
 | 4 | `ROTEIRO DE TRABALHO DA PLATAFORMA.md`  | régua/rito                  | digital vigente correspondente |

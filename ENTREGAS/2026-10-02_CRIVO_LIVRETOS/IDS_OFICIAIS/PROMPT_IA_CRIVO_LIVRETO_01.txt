@@ -21,7 +21,7 @@ Digital esperada: `3c0eccac…`
 
 PACOTE FECHADO:
 
-1. `LIVRETO_01_IDS_OFICIAIS_2026-09-29.md`
+1. `2 LIVRETO_01_IDS_OFICIAIS_2026-10-02.md`
 2. `1º IDS_OFICIAIS.md`
 3. `_ids_oficiais.json`
 4. `_ids_oficiais.PROVENIENCIA.json`
@@ -31,7 +31,8 @@ PACOTE FECHADO:
 8. `CONTRATO_SAIDA_CLAIMKIT_rev2_2026-09-24.md`
 
 Primeiro confira se os 8 arquivos foram recebidos.
-Confira as digitais contra as registradas no Livreto 1.
+Confira as digitais externas contra as registradas no Livreto 1.
+A digital do próprio Livreto consta do manifesto externo `DIGITAIS_CRIVO_LIVRETOS.txt`.
 Se faltar arquivo ou alguma digital não bater:
 PARE E INFORME A PEÇA DIVERGENTE.
 Não corrija nem substitua nada.
